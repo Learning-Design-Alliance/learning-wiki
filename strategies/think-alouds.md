@@ -12,7 +12,7 @@ generated:
 # Think-Alouds
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q2`–`q4` · 6 of 7 report an effect size
 
 ## Description
 A think-aloud makes expert thinking visible: the teacher reads a text (or works a problem) aloud, pausing to ask questions, comment on comprehension, monitor confusion, and connect ideas to prior knowledge. Learners then rehearse the same verbalization process with a partner and in small groups of three or four, gradually internalizing the strategies they observed.

@@ -12,7 +12,7 @@ generated:
 # Previewing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Previewing prepares learners for upcoming tasks or materials by giving them a brief, structured advance look — a summary of main points, key vocabulary, the task's purpose, or what success will require. It is one of the simplest and most flexible strategies: the instructor or system tells learners what is coming, why it matters, and what to attend to, before the task begins. Previews can be tailored to individual needs (anxiety, attention, organization) and must be followed through — the lesson should match what was promised.

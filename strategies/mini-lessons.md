@@ -12,7 +12,7 @@ generated:
 # Mini Lessons
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 7 studies, `q3`–`q4` · 6 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 against) · 7 studies, `q2`–`q4` · 5 of 7 report an effect size
 
 ## Description
 A mini lesson is a deliberately brief, tightly focused teaching segment that introduces exactly one concept, strategy, or skill. It typically follows a predictable arc — connect to prior learning, briefly teach or model the target, then hand off to learner activity — and is bounded in time so that the majority of a session is spent with learners working, not listening.

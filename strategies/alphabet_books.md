@@ -12,7 +12,7 @@ generated:
 # Alphabet Books
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 11 studies, `q2`–`q4` · 7 of 11 report an effect size
+> **Evidence** · 4 claims (3 for, 1 against) · 11 studies, `q2`–`q4` · 6 of 11 report an effect size
 
 ## Description
 Alphabet books involve students creating entries for each letter of the alphabet related to a specific topic, such as mathematics vocabulary. Each entry pairs a term with a student-authored definition, a graphic or symbolic representation, and a sentence or real-world connection. The format introduces students to a genre while requiring them to search, select, explain, and represent domain vocabulary — converting a reference exercise into generative learning.

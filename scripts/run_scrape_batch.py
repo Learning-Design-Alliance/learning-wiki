@@ -394,6 +394,16 @@ def run(args) -> None:
                           SCRAPE_CONSOLE_LOG_PATH)
         _run_chained_step([sys.executable, "-u", "scripts/build_indexes.py"], SCRAPE_CONSOLE_LOG_PATH)
 
+        # The judge the batch no longer gates on is spent here, on the claims the
+        # most design pages cite (eval/load-bearing/README.md). Only entries that
+        # changed or newly entered the top 200 are judged, so this costs cents. It
+        # writes to no page and cannot fail the batch: its failures are for a person.
+        print(f"\n=== judging the most-cited claims' evidence ===", flush=True)
+        _run_chained_step([sys.executable, "-u", "scripts/check_load_bearing.py",
+                           "--top", "200", "--budget", "0.25"], SCRAPE_CONSOLE_LOG_PATH)
+        _run_chained_step([sys.executable, "-u", "scripts/check_load_bearing.py", "--report"],
+                          SCRAPE_CONSOLE_LOG_PATH)
+
         print(f"\n=== lint ===", flush=True)
         lint_rc = _run_chained_step([sys.executable, "-u", "scripts/lint.py"],
                                      SCRAPE_CONSOLE_LOG_PATH)

@@ -12,7 +12,7 @@ generated:
 # Word Maps
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q4` · 5 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q4` · 4 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 A word map is a visual organizer that promotes vocabulary development. Most word map templates engage students in developing a definition, synonyms, antonyms, and a picture for a given vocabulary word or concept. The canonical form is the Frayer model, which asks four questions of a word: What is it? What is it like? What are some examples? What are some non-examples? Word maps can be used effectively with classroom read-alouds and word walls.

@@ -12,7 +12,7 @@ generated:
 # Sushi Monster App
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 unmarked) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 unmarked) · 7 studies, `q2`–`q4` · 6 of 7 report an effect size
 
 ## Description
 Sushi Monster is a free mathematics app (Scholastic) in which learners build addition and multiplication combinations to feed a hungry sushi monster. Plates of sushi bearing numbers are placed on a counter; the player selects the correct combination of plates to reach a target number, and correct combinations are "gobbled up" by the monster. Each round contains 14 target numbers, and the app offers 12 levels — 7 for addition and 5 for multiplication — providing structured [practice](../elements/practice.md) with immediate feedback.

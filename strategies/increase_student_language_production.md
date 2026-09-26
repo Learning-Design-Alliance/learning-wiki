@@ -12,7 +12,7 @@ generated:
 # Increase Student Language Production
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 This strategy increases the amount and quality of academic language learners actually produce — in speech and writing — rather than merely receive. Students translate symbols into words, use posted sentence frames, discuss and compare problem-solving strategies with peers, write in journals or on entrance/exit tickets, author their own problems for exchange, and learn to read, interpret, and summarize data. The instructor models expected writing and can use AI tools to rewrite problems at varied language levels.

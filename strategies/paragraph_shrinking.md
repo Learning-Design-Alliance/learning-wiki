@@ -12,7 +12,7 @@ generated:
 # Paragraph Shrinking
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 mixed) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
+> **Evidence** · 1 claim (1 mixed) · 3 studies, `q2`–`q4` · 2 of 3 report an effect size
 
 ## Description
 Paragraph Shrinking is a core activity of [Peer-Assisted Learning Strategies](https://kc.vanderbilt.edu/pals/) (PALS), in which paired students alternate roles as "Reader" and "Coach." The Reader reads a paragraph aloud, then "shrinks" it by stating the main idea — who or what the paragraph is about, the most important thing about that who or what, and the main idea in ten words or fewer. The Coach monitors, prompts re-reading when the summary misses the point, and awards points for accurate, concise summaries before roles switch.

@@ -12,7 +12,7 @@ generated:
 # Music & Dance
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q4` · 3 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 Music & Dance embeds content into song, rhythm, and choreographed movement so that learners encounter material through coordinated auditory, visual, and motor channels. Typical forms include mnemonic songs (e.g., alphabet or grammar songs), learner-composed instrumentals, and dances that physically enact concepts. The strategy works by pairing verbal content with melody and gesture, giving memory multiple retrieval routes and grounding abstract content in bodily experience.

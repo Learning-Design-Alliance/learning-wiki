@@ -1,7 +1,7 @@
 ---
 type: claim
-title: In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need beyond what surveys would have produced
-description: In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need beyond what surveys would have produced
+title: In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need that the authors say simple surveys may not have produced
+description: In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need that the authors say simple surveys may not have produced
 id: lvn-generator-feedback-loop-case
 status: draft
 generated:
@@ -12,24 +12,24 @@ sources:
   - id: lvn-case
     title: lvn-case
     q: 1
-    i: 1
+    i: "?"
 ---
 
-# In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need beyond what surveys would have produced
+# In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need that the authors say simple surveys may not have produced
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case · `i1` small
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
-`q1 i?` Engaging in feedback loops within a generator structure created synergistic effects that produced organically generated outputs supporting the LVP team's goals, which the authors argue simple survey responses would not have achieved. [→ lvn-case](#lvn-case)
+`q1 i?` Engaging in feedback loops within a generator structure created synergistic effects that produced organically generated outputs supporting the LVP team's goals, and the authors suggest the outputs may have been significantly different had the team relied on simple survey responses. [→ lvn-case](#lvn-case)
 
 ## Evidence
 
 ### lvn-case
 
-Baker, A., Weisgrau, J., & Bristal Philyaw, K. (2022, May). Feedback loops: Mapping transformative interactions in education innovation. Digital Promise. https://doi.org/10.51388/20.500.12265/155
+Baker, A., Weisgrau, J., & Brister Philyaw, K. (2022, May). Feedback loops: Mapping transformative interactions in education innovation. Digital Promise. https://doi.org/10.51388/20.500.12265/155
 
-`q1 · i1`
+`q1 · case study` · `i? · no effect size`
 
 Case study analysis of the Learner Variability Navigator learner model refresh, mapped as a generator structure with the LVP team as central facilitator/designer in feedback loops with an advisor, educator consultants, and a practitioner advisory board. The authors' counterfactual interpretation, not a measured comparison.
 

@@ -12,7 +12,7 @@ generated:
 # Syllable Division Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 7 studies, `q1`–`q4` · 6 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 against) · 7 studies, `q1`–`q4` · 5 of 7 report an effect size
 
 ## Description
 Syllable division instruction teaches learners a set of rules and strategies for breaking multisyllabic words into pronounceable units (e.g., VC/CV as in *rab|bit*, V/CV as in *o|pen*, C+le as in *ta|ble*). It is typically carried out through explicit modeling of the division process on example words, guided practice with word lists and connected text, and gradual transfer to independent decoding and spelling.

@@ -14,7 +14,7 @@ sources:
     title: "Nam, S., Kim, J., & Sparks, S. (2018). An Overview of Review Studies on Effectiveness of Major AAC Systems for Individuals with Developmental Disabilities Including Autism. The Journal of Special Education Apprenticeship, 7(2). https://eric.ed.gov/?q=An+Overview+of+Review+Studies+on+Effectiveness+of+Major+AAC+Systems"
     author: "Nam, S., Kim, J., & Sparks, S."
     q: 2
-    i: 2
+    i: "?"
   - id: nam-2018-2
     resource: "https://eric.ed.gov/?q=An+Overview+of+Review+Studies+on+Effectiveness+of+Major+AAC+Systems"
     title: "Nam, S., Kim, J., & Sparks, S. (2018). An Overview of Review Studies on Effectiveness of Major AAC Systems for Individuals with Developmental Disabilities Including Autism. The Journal of Special Education Apprenticeship, 7(2). https://eric.ed.gov/?q=An+Overview+of+Review+Studies+on+Effectiveness+of+Major+AAC+Systems"
@@ -26,7 +26,7 @@ sources:
 # Individuals with developmental disabilities tend to prefer speech-generating devices over picture exchange and manual signs, with substantial individual differences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 2 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i2` In the studies comparing SGD vs. PE, 50% of participants showed high preference for SGD versus 30% for PE; across three options, 67% preferred SGDs. [→ Nam 2018](#nam-2018)
@@ -38,9 +38,9 @@ sources:
 
 Nam, S., Kim, J., & Sparks, S. (2018). An Overview of Review Studies on Effectiveness of Major AAC Systems for Individuals with Developmental Disabilities Including Autism. The Journal of Special Education Apprenticeship, 7(2). https://eric.ed.gov/?q=An+Overview+of+Review+Studies+on+Effectiveness+of+Major+AAC+Systems
 
-`q2 · i2`
+`q2 · overview of a systematic review` · `i? · percentages of participants, no effect size`
 
-Overview of the van der Meer et al. (2011) review of 7 studies with 12 individuals with developmental disabilities assessing AAC preference; the printed percentages are for the SGD-vs-PE comparisons, and the review modestly concluded individuals often show preferences for different AAC options.
+Overview of the van der Meer et al. (2011) review of 7 studies with 12 individuals with developmental disabilities assessing AAC preference; the 50% and 30% figures are for studies comparing SGDs with PE, and the 67% and 33% figures for comparisons of all three options (SGD, PE and manual signs); and the review modestly concluded individuals often show preferences for different AAC options.
 
 > "For the studies that compared preference for SGD vs. PE, 50% of the participants demonstrated a high preference for the SGD over PE whi le 30% of the participants demonstrated a high preference for PE."
 

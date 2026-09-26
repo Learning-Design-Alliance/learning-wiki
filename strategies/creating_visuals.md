@@ -12,7 +12,7 @@ generated:
 # Creating Visuals
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 8 studies, `q3`–`q4` · 7 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 unmarked) · 8 studies, `q2`–`q4` · 6 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Creating Visuals asks learners to generate their own visual representations — diagrams, sketches, concept maps, infographics, storyboards — of the content they are studying, rather than only viewing instructor-provided graphics. The act of constructing a visual forces learners to select, organize, and integrate information, making it a generative learning activity rather than a passive one.

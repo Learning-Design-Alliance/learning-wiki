@@ -12,7 +12,7 @@ generated:
 # Enhanced Acoustics and Noise Control
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q4` · 2 of 3 report an effect size
 
 ## Description
 Enhanced acoustics and noise control is a physical-environment strategy that reduces the noise reaching learners — from traffic, aircraft, HVAC systems, adjacent classrooms, and the playground — and limits reverberation within the room. It is carried out through building siting and insulation, acoustic ceiling tiles and wall panels, carpeting, door and window seals, and operational rules (quiet zones, scheduling noisy activities away from instruction). The goal is a signal-to-noise ratio that keeps teacher speech clearly intelligible above background sound.

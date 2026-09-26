@@ -12,7 +12,7 @@ generated:
 # Mental Models
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 17 studies, `q2`–`q4` · 10 of 17 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 17 studies, `q2`–`q4` · 9 of 17 report an effect size · 1 claim rests on one study
 
 ## Description
 A mental model is a learner's internal representation of how a system, process, or domain works — a runnable structure they can use to explain phenomena, predict outcomes, and simulate "what happens if…" scenarios. Instruction that targets mental models aims to build, refine, or repair these representations rather than only transmitting facts or procedures.

@@ -12,7 +12,7 @@ generated:
 # Peer Tutoring With Structured Materials
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q4` · 2 of 3 report an effect size
 
 ## Description
 Peer tutoring with structured materials pairs learners so that one acts as tutor and the other as tutee, with both supported by externally provided structure — prompt cards, question scripts, worked examples, checklists, or sequenced exercise sets — that specifies the tutoring moves. The structure substitutes for the pedagogical expertise the tutor lacks, converting an unguided "help your partner" arrangement into a repeatable instructional routine. Roles typically alternate so every learner experiences both teaching and being taught.

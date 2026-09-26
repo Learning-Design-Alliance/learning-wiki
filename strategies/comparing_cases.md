@@ -12,7 +12,7 @@ generated:
 # Comparing Cases
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 9 studies, `q3`–`q4` · 8 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 9 studies, `q2`–`q4` · 7 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Comparing cases asks learners to examine two or more worked instances — problems, examples, or scenarios — side by side and identify what varies and what stays constant. The comparison itself, not any single case, is the instructional event: alignment of the cases makes the underlying relational structure visible, supporting abstraction of general principles.

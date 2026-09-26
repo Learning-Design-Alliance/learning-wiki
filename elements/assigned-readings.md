@@ -12,7 +12,7 @@ generated:
 # Assigned Readings
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Assigned readings place curated texts — textbook chapters, articles, cases, or primary sources — in learners' hands so they build conceptual foundations at their own pace. The element shifts first exposure to content outside of group time, freeing synchronous sessions for application, discussion, and clarification.

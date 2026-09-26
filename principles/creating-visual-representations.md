@@ -25,7 +25,7 @@ sources:
 # Creating Visual Representations
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Creating visual representations is the instructional principle of having learners organize, explain, or generate knowledge in visual form, such as diagrams, sketches, concept maps, timelines, models, graphs, or annotated layouts. Externalizing thinking visually can reduce the burden of holding complex relations entirely in working memory while also making structure, comparison, and gaps in understanding easier to inspect. It is especially useful when the learning goal involves systems, patterns, relationships, sequences, or multi-step reasoning.

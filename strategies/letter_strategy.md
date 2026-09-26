@@ -12,7 +12,7 @@ generated:
 # Letter Strategy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies, `q2`–`q4` · 7 of 8 report an effect size
 
 ## Description
 The letter strategy is a mnemonic technique that uses acronyms and acrostics to aid memory. Acronyms are words whose individual letters represent elements in a list (e.g., HOMES for the Great Lakes); acrostics are sentences whose first letters cue the to-be-remembered items (e.g., "My Very Educated Mother Just Served Us Nine Pizzas" for the planets). Both work by imposing a familiar, meaningful structure on arbitrary material, reducing the burden of rote rehearsal [Mnemonic devices reduce working memory load by chunking to-be-remembered items into a single retrievable unit.](../claims/chunking-reduces-working-memory-load.md) [+M].

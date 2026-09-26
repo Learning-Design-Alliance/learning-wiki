@@ -12,7 +12,7 @@ generated:
 # Connecting Background Knowledge To Content
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 7 studies, `q2`–`q4` · 6 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy deliberately links new content to what learners already know — their prior academic learning, everyday experiences, and cultural practices. It is carried out by surfacing relevant knowledge before or during instruction (through discussion, questioning, or advance organizers), then explicitly bridging that knowledge to the new material with analogies, examples drawn from learners' lives, and comparisons. The goal is to give new content a familiar "hook" so it is comprehensible and meaningful rather than arbitrary.

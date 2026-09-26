@@ -54,7 +54,7 @@ Cohen, M., & Riel, M. (1989). The effect of distant audiences on students' writi
 
 `q3 · peer-reviewed within-subjects experiment, counterbalanced order` · `i? · no effect size reported in the abstract` · `n=44 students`
 
-Two seventh-grade classes in Jerusalem (22 students each) each wrote two compositions on the same topic: one addressed to peers in other countries via a computer network, to share ideas, and one to their teacher for their semester grade, with the order counterbalanced. In both order conditions, papers written to communicate with peers were rated significantly higher than those written for the grade. The authors read this as evidence that a functional writing context, rather than slow social-cognitive development, explains children's weak audience awareness. The sample is small and uses intact classes in one school setting.
+Two seventh-grade classes in Jerusalem (22 students each) each wrote two compositions on the same topic: one addressed to peers in other countries via a computer network, to share ideas, and one to their teacher for their semester grade, with the order counterbalanced. In both order conditions, papers written to communicate with peers were rated significantly higher than those written for the grade. The authors frame two possible explanations for children's weak audience awareness, slow social-cognitive development or the decontextualised way writing is taught, and conclude that functional writing environments can improve the quality of classroom writing; the study does not rule the first explanation out. The sample is small and uses intact classes in one school setting.
 
 ### Block & Strachan 2019
 

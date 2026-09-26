@@ -12,7 +12,7 @@ generated:
 # Create a Word Wall for Emotions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies, `q3`–`q4` · 4 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies, `q2`–`q4` · 3 of 6 report an effect size
 
 ## Description
 A word wall for emotions is a persistent classroom display of feelings words — typically organized by intensity, valence, or category — that students can consult to identify and label what they are experiencing. When a student is visibly upset or excited, the teacher directs them to the wall to select words that describe their state, then connects the label to a coping strategy or next step. The wall converts fleeting internal states into nameable, discussable content.

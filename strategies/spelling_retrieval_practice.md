@@ -12,7 +12,7 @@ generated:
 # Spelling Retrieval Practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Spelling retrieval practice asks learners to produce a word's spelling from memory — via dictated spelling tests, spaced quizzes, or write-from-prompt activities — instead of passively studying word lists or copying words. Each retrieval attempt strengthens the orthographic memory trace and provides feedback about which spellings have and have not been mastered. It is the application of [retrieval practice](../elements/practice.md) to the orthographic domain.

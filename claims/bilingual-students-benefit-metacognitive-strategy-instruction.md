@@ -41,5 +41,5 @@ Interview-form study of 136 sixth-grade Latino students in three Chicago public 
 
 
 ## Related Claims
-- [STRP-trained teachers were observed providing metacognitive tools before, during, and after lessons](strp-teachers-metacognitive-tools-before-during-after.md) — related
+- [The authors conclude that the Strategic Teaching and Reading Project gives teachers metacognitive tools for before, during and after lessons](strp-teachers-metacognitive-tools-before-during-after.md) — related
 - [The authors report that an area of positive change in their study was students' use of self-generated questions](self-generated-questions-positive-change-metacognitive-training.md) — related

@@ -12,7 +12,7 @@ generated:
 # Educational Infographics
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 7 studies, `q2`–`q4` · 6 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Educational infographics are visual aids that simplify complex information into easily digestible formats using a combination of charts, icons, and text. They summarize topics, visualize statistics, explain processes, and present timelines in a single coherent artifact. Effective infographics use color and layout strategically — not decoratively — to highlight relationships and patterns within the data.

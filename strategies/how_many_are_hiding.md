@@ -12,7 +12,7 @@ generated:
 # How Many Are Hiding?
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 "How Many Are Hiding?" is a small-group number-composition activity for early childhood mathematics. A known total of counters or cubes (e.g., 7) is established, some are hidden under a cup, and the visible remainder (e.g., 3) is shown; children must infer the hidden quantity (4) by reasoning about the part–whole relationship. The activity is typically played in pairs or small groups, with children taking turns hiding and guessing, and explaining how they knew.

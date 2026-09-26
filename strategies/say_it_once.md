@@ -12,7 +12,7 @@ generated:
 # Say it Once
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q3`–`q4` · 4 of 5 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q2`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Say it Once is a classroom management and listening strategy in which the instructor states directions, task parameters, or key information exactly once — clearly and completely — and does not repeat them on request. Learners who missed or forgot the instruction first consult peers ("ask three, then ask me") before approaching the instructor. The goal is to make listening consequential: when repetition is guaranteed, learners can safely divide attention; when it is not, they must attend the first time.

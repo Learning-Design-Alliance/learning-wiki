@@ -12,7 +12,7 @@ generated:
 # Math Centers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size
+> **Evidence** · 4 claims (3 for, 1 unmarked) · 10 studies, `q2`–`q4` · 9 of 10 report an effect size
 
 ## Description
 Math centers are multiple simultaneous activity stations — games, manipulatives, digital tools, collaborative problem sets, or teacher-led small groups — among which learners rotate on a schedule. Each station targets a specific skill or concept, allowing the teacher to run [guided practice](../elements/practice.md) with a small group at one station while others work independently or collaboratively. Centers combine hands-on [application](../elements/application.md) with peer interaction and are a common vehicle for differentiation in K–8 mathematics.

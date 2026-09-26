@@ -12,7 +12,7 @@ generated:
 # Daily Math Facts Practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Daily Math Facts Practice embeds a brief (typically 5–10 minute) routine at the start of each mathematics lesson in which learners rehearse arithmetic facts — addition, subtraction, multiplication, division — through flashcards, dry erase boards, timed probes, songs, or digital drills. The goal is automaticity: retrieving facts from memory without conscious calculation, which frees working memory for higher-order reasoning. Sessions may be individual, small-group, or whole-class, and are most effective when they use [retrieval](../elements/practice.md) rather than re-exposure and when items are sequenced so that recently learned facts recur over time.

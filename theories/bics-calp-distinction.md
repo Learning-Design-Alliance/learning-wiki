@@ -16,7 +16,7 @@ sources:
 # BICS/CALP distinction: conversational and academic language proficiency as conceptually distinct dimensions with different developmental patterns
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q1` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The BICS/CALP distinction separates basic interpersonal communicative skills (conversational language) from cognitive academic language proficiency. Cummins originally proposed it in 1979 as a qualification to Oller's single-factor global language proficiency claim, and this paper clarifies that the two dimensions "follow different developmental patterns": phonology and basic fluency plateau early, while CALP continues developing throughout schooling. It is a specific conceptual distinction with policy and practice implications, not an overall theory of language.

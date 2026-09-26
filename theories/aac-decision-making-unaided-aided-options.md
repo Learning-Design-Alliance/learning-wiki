@@ -16,7 +16,7 @@ sources:
 # AAC decision-making framework organized around unaided versus aided system options
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study, `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article organizes AAC selection as a decision process across decision points, grounded in the taxonomy that "AAC systems can be divided into two broad categories, unaided and aided." Unaided AAC involves symbols such as manual signs and gestures requiring no external equipment; aided AAC includes PE and SGD aids relying on material external to the body. The framework weighs environmental demands, individual abilities, symbols, and system features, and considers speech, non-symbolic methods, and text as further options.

@@ -12,7 +12,7 @@ generated:
 # Mnemonics
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q4` · 3 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 Mnemonics are memory strategies that restructure arbitrary or hard-to-organize material into forms that are easier to encode and retrieve: acronyms (HOMES for the Great Lakes), acrostics ("Every Good Boy Does Fine"), keyword images linking a foreign word to a familiar one, the method of loci, rhymes, and peg-word systems. The learner either uses a supplied mnemonic or generates one, then practices retrieving the target content through the mnemonic cue.

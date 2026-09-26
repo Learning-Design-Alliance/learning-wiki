@@ -12,7 +12,7 @@ generated:
 # Modeling Skills and Interaction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 11 studies, `q3`–`q4` · 10 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 11 studies, `q2`–`q4` · 9 of 11 report an effect size · 2 claims rest on one study
 
 ## Description
 Modeling means the instructor (or a peer, or a recorded expert) performs the target skill — an analysis, a discussion move, a problem-solving procedure, an academic interaction — while learners observe. Effective modeling goes beyond showing correct output: the modeler narrates decisions, monitors their own understanding, and revises course, making expert reasoning visible rather than leaving learners to infer it from finished products. Modeling applies both to *cognitive* skills (how to analyze a text, evaluate a claim) and to *interactional* skills (how to disagree productively, question a peer, build on others' ideas).

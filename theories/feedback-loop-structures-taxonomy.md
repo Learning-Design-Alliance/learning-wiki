@@ -15,7 +15,7 @@ sources:
 # Five structural forms for systems of feedback loops: generator, amplifier, activator, aggregator, catalyzer
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies, `q1` · 3 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies, `q1` · 1 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The report proposes a taxonomy of structures, described as the overarching forms that systems of multiple feedback loops take toward a larger goal. In a generator, one party sits at the center of multiple concurrent feedback loops coordinating outputs; amplifiers elevate one community's knowledge to a broader field with loops on only one side; aggregators bridge a small set of parties and a larger set with loops on both sides; activators have no central party and no single agreed output; catalyzers similarly lack a central party but aim to influence the field at large.
@@ -36,7 +36,7 @@ The report proposes a taxonomy of structures, described as the overarching forms
 
 ### Claims
 
-- [In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need beyond what surveys would have produced](../claims/lvn-generator-feedback-loop-case.md) [+W]
+- [In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need that the authors say simple surveys may not have produced](../claims/lvn-generator-feedback-loop-case.md) [+W]
 - [In the Maker Learning @ Home cohort, feedback loops with cohort members redefined the initiative's outputs and goals](../claims/maker-cohort-amplifier-case.md) [+W]
 - [Some initiatives fit no single generalized structure: the OER for Racial Justice project required a novel generator-plus-catalyzer combination](../claims/oer-racial-justice-novel-structure.md) [+W]
 

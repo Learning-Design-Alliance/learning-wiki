@@ -12,7 +12,7 @@ generated:
 # Keyboarding Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 6 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 5 of 7 report an effect size
 
 ## Description
 Keyboarding instruction teaches learners to type by touch — keys mapped to fingers, eyes on the screen or copy rather than the keyboard — through explicit finger-position teaching, structured drill, and timed practice with accuracy and speed feedback. The goal is automaticity: transcription that runs without conscious attention, freeing working memory for the real task of composing text.

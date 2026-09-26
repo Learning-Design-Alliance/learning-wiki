@@ -29,7 +29,7 @@ sources:
 # Explicit Instruction: Computer Basics
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies, `q3`–`q4` · 11 of 11 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies, `q2`–`q4` · 10 of 11 report an effect size
 
 ## Description
 In an increasingly digital world, adults who struggle with using technology can benefit from direct instruction for an array of digital tools. This type of instruction, which supports Digital Literacy, includes understanding the basic functions of computer hardware (trackpads, monitors, and USB components) and navigating basic digital functions (setting up email accounts, using search engines, starting files). Adults who are explicitly taught how to use digital technology often show improvements in Composition skills and Disciplinary Literacy, specifically when using technology for health purposes. One-on-one direct instruction tailored to the learner is most effective.

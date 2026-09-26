@@ -13,13 +13,13 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 | Distinct studies | 860 |
 | Claims resting on one study | 1,969 (91%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 439 of 860 (51%) |
+| Studies reporting an effect size | 435 of 860 (51%) |
 
 **Studies by quality tier** (where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 135 (16%) | 383 (45%) | 249 (29%) | 93 (11%) |
+| 136 (16%) | 383 (45%) | 249 (29%) | 92 (11%) |
 
 **Studies per claim:** 0: 0, 1: 1,969, 2: 143, 3: 50, 4 or more: 2.
 
@@ -58,7 +58,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 
 | Claim | Cited from | Studies | q | Effect size reported |
 |---|---|---|---|---|
-| [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 643 pages | 3 | q3–q4 | 3 of 3 |
+| [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 643 pages | 3 | q2–q4 | 2 of 3 |
 | [Self-explanation improves conceptual understanding and problem-solving performance.](claims/self-explanation-improves-conceptual-understanding.md) | 510 pages | 2 | q3–q4 | 2 of 2 |
 | [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 429 pages | 2 | q4 | 2 of 2 |
 | [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 413 pages | 3 | q1–q4 | 2 of 3 |

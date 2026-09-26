@@ -12,7 +12,7 @@ generated:
 # Skimming
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q4` · 3 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 Skimming is a pre-reading strategy in which learners rapidly survey a text — headings, subheadings, captions, figures, bolded terms, and summaries — to build a preliminary map of its structure and key points before reading it thoroughly. For younger students this often takes the form of a "picture walk" through illustrated pages. The goal is not comprehension of detail but activation of relevant knowledge and formation of expectations that subsequent reading can confirm or revise.

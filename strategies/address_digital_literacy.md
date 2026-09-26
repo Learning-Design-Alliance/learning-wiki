@@ -12,7 +12,7 @@ generated:
 # Address Digital Literacy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q2`–`q4` · 5 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Addressing digital literacy means deliberately teaching the digital skills, vocabulary, and tool conventions a course or program depends on, instead of assuming learners arrive with them. It includes diagnosing actual skill levels, providing direct instruction and practice in the required tools and concepts, and making support available as tasks increase in complexity. The strategy treats digital competence as learnable content, not a prerequisite.

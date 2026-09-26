@@ -12,7 +12,7 @@ generated:
 # Classroom Routines
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 12 studies, `q1`–`q4` · 10 of 12 report an effect size
+> **Evidence** · 5 claims (4 for, 1 mixed) · 12 studies, `q1`–`q4` · 9 of 12 report an effect size
 
 ## Description
 Classroom routines are consistent, rehearsed sequences for recurring activities — entering class, transitioning between tasks, distributing materials, starting work, seeking help, closing and reflecting. By making the *how* of classroom life automatic, routines reduce the procedural decisions that otherwise consume working memory and instructional time, and they establish the predictable structure within which [Practice](../elements/practice.md) and [Class Discussion](../elements/class-discussion.md) can run efficiently.

@@ -12,7 +12,7 @@ generated:
 # Line Awareness Activities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies, `q3`–`q4` · 4 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies, `q2`–`q4` · 3 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Line awareness activities develop the visual–motor skill of placing letters correctly on writing lines — sitting letters on the baseline, respecting the top line for tall letters, and using the "dotted middle" line for lowercase letters. Activities include tracking lines with a finger or pointer, copying letters onto highlighted or bolded lines, writing within graph-paper boxes, and using color-coded visual cues (e.g., "grass, sky, ground" paper) to anchor letter placement.

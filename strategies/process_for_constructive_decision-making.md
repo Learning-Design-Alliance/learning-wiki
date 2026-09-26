@@ -12,7 +12,7 @@ generated:
 # Process for Constructive Decision-Making
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 9 studies, `q1`–`q4` · 6 of 9 report an effect size
+> **Evidence** · 3 claims (2 for, 1 against) · 9 studies, `q1`–`q4` · 5 of 9 report an effect size
 
 ## Description
 The teacher facilitates a brainstorm in which students articulate a shared process for making constructive decisions — typically steps such as staying calm, observing and identifying the problem, stopping to think, capturing thoughts while weighing choices and consequences, making a choice, and evaluating and reflecting on the outcome. The agreed process is displayed prominently in the classroom and referenced whenever real decisions arise, converting an abstract social-emotional skill into a visible, reusable procedure.

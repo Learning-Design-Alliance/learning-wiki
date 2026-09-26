@@ -12,7 +12,7 @@ generated:
 # Word Family Charts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 4 of 5 report an effect size
 
 ## Description
 A word family chart displays collections of words that share a common letter pattern — typically a rime such as *-ight* (light, night, sight, might) or *-ake* (make, take, cake, snake) — organized so the shared pattern is visually salient. Learners read, sort, and generate words within the family, using the known anchor word to decode and spell new words by analogy. Charts are typically co-constructed with learners and posted for ongoing reference.

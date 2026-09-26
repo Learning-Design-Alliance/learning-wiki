@@ -12,7 +12,7 @@ generated:
 # Address Literacy Demands
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies, `q1`–`q4` · 8 of 10 report an effect size
+> **Evidence** · 4 claims (4 for) · 10 studies, `q1`–`q4` · 7 of 10 report an effect size
 
 ## Description
 Addressing literacy demands means auditing the reading, writing, and disciplinary-text requirements of a learning task and providing supports so that text complexity does not become an invisible barrier to content learning. Educators routinely underestimate how much harder discipline-specific texts (dense syntax, technical vocabulary, unfamiliar text structures) are for novices than for experts; this strategy makes those demands explicit and scaffolds them rather than assuming fluent, automatic comprehension.

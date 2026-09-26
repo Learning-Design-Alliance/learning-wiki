@@ -12,7 +12,7 @@ generated:
 # Connecting ELLs' Background Knowledge to Content
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies, `q3`–`q4` · 4 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies, `q2`–`q4` · 3 of 6 report an effect size
 
 ## Description
 This strategy makes instruction more culturally relevant by deliberately connecting new content to English language learners' (ELLs') existing experiences, cultural knowledge, and funds of knowledge. Teachers first find out what background knowledge students hold on a topic, then look for points of contact between the content and what is familiar — students' home countries, educational systems, artistic and musical traditions, geography, or local ecology. Students are positioned as contributors, sharing their own cultural expertise with the class, which both anchors their comprehension and broadens the whole class's cultural understanding.

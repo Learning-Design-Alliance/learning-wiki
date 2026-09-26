@@ -12,7 +12,7 @@ generated:
 # Mnemonic Devices
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies, `q2`–`q4` · 5 of 6 report an effect size
 
 ## Description
 Mnemonic devices are memory aids that encode hard-to-remember material into more memorable forms — acronyms, acrostics, rhymes, keyword imagery, method-of-loci routes, or peg systems. They work by imposing organization and meaningful association on arbitrary content, converting it into cues that are easier to retrieve. Mnemonics serve as retrieval triggers, not as vehicles for teaching new content: learners must understand the material before a mnemonic can support its recall.

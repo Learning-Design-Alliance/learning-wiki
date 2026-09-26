@@ -12,7 +12,7 @@ generated:
 # Push for Deeper Analysis
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies, `q3`–`q4` · 8 of 9 report an effect size
+> **Evidence** · 4 claims (4 for) · 9 studies, `q2`–`q4` · 7 of 9 report an effect size
 
 ## Description
 Push for Deeper Analysis is a discussion-and-reflection strategy in which the teacher presses students past first-pass comprehension toward explaining *how* a text works: how sentence structure, diction, imagery, and organization produce tone, emphasis, and meaning. Students reread closely, generate and test interpretations, and articulate the relationship between textual evidence and inference. The teacher's role is to sustain questioning at the analytical level rather than accepting plot summary or "right answer" responses.

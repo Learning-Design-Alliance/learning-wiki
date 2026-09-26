@@ -12,7 +12,7 @@ generated:
 # Worked Examples Types
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 9 studies, `q2`–`q4` · 8 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 Worked example types form a guidance continuum rather than a single technique. At the maximum-support end sit **fully worked examples** — a complete solution presented step by step, often with expert reasoning narrated. **Completion problems** (also called faded or fadeout examples) present a fully solved model followed by a partially solved problem the learner must finish. **Erroneous examples** present a flawed solution for learners to diagnose and correct, and **case-based examples** embed the worked solution in a rich, situated scenario. Selecting among these types is a decision about how much structure to provide at a given point in skill acquisition.

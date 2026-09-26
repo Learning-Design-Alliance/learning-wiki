@@ -12,7 +12,7 @@ generated:
 # Fry Word Lists
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 5 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 4 of 7 report an effect size
 
 ## Description
 The Fry word list contains 1,000 high-frequency words divided into ten levels, further split into groups of twenty-five words based on frequency and difficulty. These "instant words" aim to build reading fluency: students are encouraged to recognize the words by sight, practice them in context through phrase and sentence reading, and write short sentences containing Fry words. The list, developed by Edward Fry, is based on frequency analysis of materials commonly encountered in grades 3–9, and covers a large share of all running text — the first 100 words alone account for roughly half of most written English.

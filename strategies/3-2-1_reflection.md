@@ -12,7 +12,7 @@ generated:
 # 3 2 1_Reflection
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 11 studies, `q2`–`q4` · 8 of 11 report an effect size
+> **Evidence** · 4 claims (4 for) · 11 studies, `q2`–`q4` · 7 of 11 report an effect size
 
 ## Description
 The 3-2-1 reflection is a quick, structured metacognitive routine typically used at the end of a lesson or learning activity. Learners write three things they learned, two things they found interesting or want to explore further, and one question they still have. The fixed numeric structure constrains the response so it can be completed in a few minutes while still prompting summarization, evaluation, and self-questioning.

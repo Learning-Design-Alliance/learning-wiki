@@ -12,7 +12,7 @@ generated:
 # Visualizations and Mind Maps
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 13 studies, `q2`–`q4` · 9 of 13 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 13 studies, `q2`–`q4` · 8 of 13 report an effect size · 1 claim rests on one study
 
 ## Description
 Visualizations and mind maps present information graphically — as concept maps, diagrams, timelines, flowcharts, or infographics — so that relationships among ideas are visible rather than buried in prose. A mind map radiates from a central concept with branching associations; concept maps and diagrams additionally label the *type* of relationship between nodes. The strategy can be enacted by providing learners a ready-made graphic or by having learners construct one themselves.

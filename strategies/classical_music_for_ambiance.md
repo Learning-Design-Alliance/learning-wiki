@@ -12,7 +12,7 @@ generated:
 # Classical Music for Ambiance
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q4` · 2 of 3 report an effect size
 
 ## Description
 Playing calm classical music (e.g., Bach, Baroque lento movements) at low volume as students enter the room or during independent work sets a professional, calming tone. The strategy works primarily through arousal and mood regulation rather than direct instruction: moderate, pleasant ambient sound can lower agitation and signal a shift into work mode. It is a climate-management strategy, not a learning-content strategy — the music itself teaches nothing, but it can change the conditions under which learning happens.

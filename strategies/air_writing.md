@@ -12,7 +12,7 @@ generated:
 # Air Writing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q4` · 3 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 Air writing involves writing letters or words in the air with large arm movements while simultaneously visualizing the letter's shape and saying its name or sound aloud. This multisensory technique couples a motor trace with visual imagery and auditory labeling, creating redundant memory cues during encoding. It is used to practice letter formation, spelling words, and other short written content, typically in early literacy instruction.

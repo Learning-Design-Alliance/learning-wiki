@@ -17,7 +17,7 @@ sources:
 # Counting Circles
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies, `q2`–`q4` · 7 of 8 report an effect size
 
 ## Description
 Counting circles is a short (roughly 10-minute), low-floor routine in which students sit or stand in a circle and take turns counting aloud by a fixed increment — fractions, decimals, negative numbers, or multi-digit values — starting from a non-obvious number chosen by the teacher (e.g., count by 3.7 starting at 12.4). The teacher tracks the count on a visible number line or chart, and after the count the class discusses patterns, strategies, and errors. The routine was popularized for middle school by Estrella (2013) and is widely used as a warm-up in elementary through secondary classrooms.

@@ -21,7 +21,7 @@ sources:
 # Audiobooks
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 11 studies, `q3`–`q4` · 11 of 11 report an effect size
+> **Evidence** · 4 claims (2 for, 2 mixed) · 11 studies, `q2`–`q4` · 10 of 11 report an effect size
 
 ## Description
 Audiobooks provide spoken access to written texts, allowing learners to listen to fluent reading while focusing attention on meaning rather than decoding every word independently. They are especially useful when the goal is comprehension, vocabulary exposure, access to complex content, or sustained engagement with texts that would otherwise be inaccessible or exhausting in print alone.

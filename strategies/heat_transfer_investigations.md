@@ -25,7 +25,7 @@ sources:
 # Heat Transfer Investigations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies, `q3`–`q4` · 7 of 9 report an effect size
+> **Evidence** · 4 claims (4 for) · 9 studies, `q2`–`q4` · 6 of 9 report an effect size
 
 ## Description
 Heat transfer investigations are structured hands-on experiments in which learners compare how different materials, colors, or environments conduct, insulate, or radiate heat — for example, testing which cup keeps water warmest or which surface melts ice fastest. Learners generate predictions, collect temperature data, and reconcile results with their initial conceptions of conduction, convection, and insulation. The strategy pairs conceptual learning about thermal energy with authentic practice in scientific investigation: controlling variables, measuring, and reasoning from evidence.

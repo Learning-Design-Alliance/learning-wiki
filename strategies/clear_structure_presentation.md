@@ -12,7 +12,7 @@ generated:
 # Clear Structure Presentation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 6 studies, `q2`–`q4` · 5 of 6 report an effect size · 3 claims rest on one study
 
 ## Description
 Clear structure presentation organizes content into an explicit, visible hierarchy before and during instruction: outlines, section headings, advance organizers, signposting language, and typographic signaling cues. The learner is never left to infer how ideas relate; the organization is made perceptible so that working memory is spent on comprehension rather than on reconstructing the author's logic.

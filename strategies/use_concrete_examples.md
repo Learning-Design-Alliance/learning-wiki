@@ -12,7 +12,7 @@ generated:
 # Use Concrete Examples
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 13 studies, `q2`–`q4` · 8 of 13 report an effect size
+> **Evidence** · 6 claims (6 for) · 13 studies, `q2`–`q4` · 7 of 13 report an effect size
 
 ## Description
 Concrete examples anchor abstract ideas — principles, formulas, categories, procedures — in specific instances a learner can directly inspect. The strategy is carried out by pairing every abstraction with one or more worked instances, then explicitly mapping features of the example back onto the abstract structure so learners extract the general rule rather than memorizing the surface story.

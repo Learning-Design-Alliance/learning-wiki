@@ -43,6 +43,6 @@ In the pilot's descriptive analysis (n=15), four respondents reported preparatio
 ## Related Claims
 - [Reported videoconferencing adoption rose significantly after practitioners returned to the workplace (p<0.005), with mean level increasing from 2.00 to 4.53](loa-videoconferencing-significant-post-posttest-increase.md) — related
 - [Learning management system adoption rose from mostly non-use/orientation to routine-through-integration levels by December](loa-lms-adoption-growth.md) — related
-- [Self-reported levels of adoption increased for all 20 surveyed educational technologies across three administrations of the LoA survey](loa-pilot-self-reported-increase-all-20-technologies.md) — a broader claim this one bears on
+- [Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology](loa-pilot-self-reported-increase-all-20-technologies.md) — a broader claim this one bears on
 - [Presentation software adoption rose even though it was modeled by instructors rather than directly taught](loa-presentation-software-modeled-not-taught-gain.md) — related
 - [Interactive whiteboard results showed shifts between orientation/preparation after returning to schools, raising questions about perceived versus actual use](loa-whiteboard-perceived-versus-actual-use.md) — related

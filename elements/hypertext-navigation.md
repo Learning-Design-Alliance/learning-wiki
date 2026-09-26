@@ -12,7 +12,7 @@ generated:
 # Hypertext Navigation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 7 studies, `q3`–`q4` · 5 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 7 studies, `q2`–`q4` · 4 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Hypertext navigation presents content as a network of linked nodes — pages, sections, or media objects — that learners traverse in an order they choose, rather than as a fixed linear sequence. The learner controls both the path and the pace, constructing their own route through the material.

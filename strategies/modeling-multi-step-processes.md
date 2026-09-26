@@ -12,7 +12,7 @@ generated:
 # Modeling Multi Step Processes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies, `q2`–`q4` · 7 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Modeling multi step processes is a strategy in which the instructor or system performs a complex procedure in full view of learners, executing and naming each step in order while articulating the reasoning and decision points between steps. It differs from a single-skill [Demonstration](../elements/demonstration.md) in that the target is a *sequence* — learners must acquire not only each step but the order, transitions, and conditional decisions that connect them. Effective models make the procedure's structure visible (e.g., a step list or flowchart alongside the performance) and are typically followed by guided [Practice](../elements/practice.md) with [Fading](../elements/fading.md).

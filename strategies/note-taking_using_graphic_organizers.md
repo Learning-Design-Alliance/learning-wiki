@@ -12,7 +12,7 @@ generated:
 # Note-Taking Using Graphic Organizers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 12 studies, `q2`–`q4` · 7 of 12 report an effect size
+> **Evidence** · 4 claims (4 for) · 12 studies, `q2`–`q4` · 6 of 12 report an effect size
 
 ## Description
 Learners use graphic organizers — matrices, concept maps, flowcharts, hierarchical outlines, Venn diagrams — as the format for taking notes on source material such as readings, lectures, films, or podcasts. Rather than transcribing linear text, learners map information into a visual structure that makes relationships (hierarchy, sequence, comparison, cause-effect) explicit. The organizer can be instructor-provided as a scaffold or constructed by the learner as a generative task.

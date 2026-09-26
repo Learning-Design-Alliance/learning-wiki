@@ -12,7 +12,7 @@ generated:
 # Choral Reading
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies, `q1`–`q4` · 9 of 9 report an effect size
+> **Evidence** · 4 claims (4 for) · 9 studies, `q1`–`q4` · 8 of 9 report an effect size
 
 ## Description
 Choral reading is a fluency strategy in which a group of learners reads a text aloud in unison, typically after or alongside a fluent model (teacher or audio). Variants include echo reading (model reads a line, group repeats), antiphonal reading (groups alternate sections), and cloze choral reading (the leader drops out at intervals and learners fill in words). The group setting provides repeated oral exposure to text while distributing performance risk across the ensemble.

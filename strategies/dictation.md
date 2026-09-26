@@ -12,7 +12,7 @@ generated:
 # Dictation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies, `q1`–`q4` · 10 of 11 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies, `q1`–`q4` · 9 of 11 report an effect size
 
 ## Description
 Dictation asks learners to write down text spoken aloud by an instructor or audio system, moving from single words to sentences to connected passages. Because learners must segment speech into phonemes and map each onto a grapheme or spelling pattern, dictation forces active retrieval of orthographic knowledge rather than passive copying. It is typically followed by immediate comparison against the correct text and targeted correction.

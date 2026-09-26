@@ -12,7 +12,7 @@ generated:
 # Sensory Breaks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies, `q1`–`q4` · 7 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies, `q1`–`q4` · 6 of 8 report an effect size
 
 ## Description
 Sensory breaks are brief, planned interruptions to academic work (typically 2–10 minutes) that involve physical movement, proprioceptive or vestibular input (stretching, walking, heavy work), or calming activities (breathing, quiet focus). They are carried out at scheduled intervals or when learners show signs of attentional fatigue, and are often offered as a choice from a menu of options.

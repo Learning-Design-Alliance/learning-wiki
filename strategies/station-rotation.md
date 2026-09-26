@@ -12,7 +12,7 @@ generated:
 # Station Rotation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies, `q2`–`q4` · 9 of 10 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies, `q2`–`q4` · 8 of 10 report an effect size
 
 ## Description
 Station rotation divides a class into small groups that cycle through a fixed sequence of learning stations on a predictable schedule. Typically at least one station is teacher-led small-group instruction, one is collaborative or hands-on work, and one is independent or digital practice. Unlike [Flipped Classroom](../patterns/flipped-classroom.md) or lab rotation models, learners stay in one room and the *stations* are fixed while the students move.

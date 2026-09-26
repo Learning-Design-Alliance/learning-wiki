@@ -16,7 +16,7 @@ sources:
 # Learning theories frame interdisciplinary discovery in the studio
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article grounds its interdisciplinary course schedule in multiple learning theories that focus on exploratory learning environments. It cites Dewey's learning by doing, Piaget's Learning Cycle exploration phase, Bruner's discovery teaching, Rogers' Freedom to Learn resource provision, constructivist learning (Piaget, Ausubel, Wittrock), and Gagné's three-step discovery-based model. The article states: "theories that focus on providing an exploratory learning environment point to interdisciplinary learning models." Each theory supports diversifying discovery-based tools through interdisciplinary relationships.
@@ -38,7 +38,7 @@ The article grounds its interdisciplinary course schedule in multiple learning t
 
 ### Claims
 
-- [BRT-guided schedule raised revised course learning outcome degrees for six program learning outcomes](../claims/brt-schedule-raised-plo-degrees.md) [+W]
+- [A course schedule guided by Bloom's Revised Taxonomy is proposed to raise the planned contribution ratings of six program learning outcomes](../claims/brt-schedule-raised-plo-degrees.md) [+W]
 - [Students exemplified discovered clues when explaining their designs orally](../claims/students-exemplified-clues-orally.md) [+W]
 
 ## Related Theories

@@ -21,7 +21,7 @@ sources:
 # Explicit Instruction: Online Reading Strategies
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 12 studies, `q3`–`q4` · 12 of 12 report an effect size
+> **Evidence** · 4 claims (4 for) · 12 studies, `q2`–`q4` · 11 of 12 report an effect size
 
 ## Description
 Research shows that, along with traditional reading comprehension strategies, learners use unique strategies to read the non-linear, hyperlinked structure of online texts. When reading online, learners must infer which hyperlink may be relevant to read, make connections within and between linked texts, and interpret multimedia. Defining a goal and questions prior to reading, creating a map of information when reading, and limiting the number of links to explore are strategies to help learners navigate reading on the Internet. This can also help to reduce the strain on Working Memory while reading online and minimize distractions when using hyperlinks.

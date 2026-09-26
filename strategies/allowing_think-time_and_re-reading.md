@@ -12,7 +12,7 @@ generated:
 # Allowing Think-Time and Re-Reading
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Allowing think-time and re-reading means deliberately extending the interval between posing a question (or presenting material) and expecting a response, and permitting learners to revisit text multiple times before responding. This supports deeper comprehension and reduces frustration, particularly for learners who process language or information more slowly.

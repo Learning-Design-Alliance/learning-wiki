@@ -12,7 +12,7 @@ generated:
 # Graphic Organizers as Text Illustrations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 against) · 12 studies, `q2`–`q4` · 6 of 12 report an effect size
+> **Evidence** · 4 claims (2 for, 2 against) · 12 studies, `q2`–`q4` · 5 of 12 report an effect size
 
 ## Description
 Students add a graphic organizer — a diagram such as a flowchart, cycle diagram, comparison matrix, or concept map — to a finished expository or argumentative writing piece to illustrate a key concept or process. The organizer functions as a reader-facing illustration: it externalizes the text's structure or causal chain so readers can process the content through both verbal and visual channels. Unlike an [Advance Organizer](../elements/advance-organizers.md), which precedes a text, this organizer accompanies or follows completed writing.

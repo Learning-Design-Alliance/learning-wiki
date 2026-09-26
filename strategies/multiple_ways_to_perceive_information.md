@@ -12,7 +12,7 @@ generated:
 # Multiple Ways to Perceive Information
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q4` · 3 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy presents the same core content through more than one sensory channel or representational format — e.g., narration paired with graphics, text alongside diagrams, tactile models, or manipulable simulations. It is grounded in [Dual Coding Theory](../theories/dual-coding-theory.md): verbal and visual codes are processed in partly separate channels, and information encoded in both is better remembered than information encoded in one [media-combinations-affect-recall-and-retention](../claims/media-combinations-affect-recall-and-retention.md) [+M]. Critically, the benefit comes from *complementary* representations of the same content, not from merely adding more media.

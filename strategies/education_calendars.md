@@ -12,7 +12,7 @@ generated:
 # Education Calendars
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q4` · 3 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 Education calendars are visual aids designed to keep students, parents, and teachers informed about important dates, events, and activities. They function as advance organizers for the temporal structure of a course or program: by displaying what is coming and when, they reduce uncertainty about expectations and support planning by all stakeholders. Effective calendars pair clear information design (chunking, color-coding, imagery) with regular distribution and updating.

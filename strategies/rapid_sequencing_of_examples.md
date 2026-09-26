@@ -12,7 +12,7 @@ generated:
 # Rapid Sequencing of Examples
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 6 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q4` · 5 of 7 report an effect size
 
 ## Description
 Rapid sequencing of examples presents multiple instances of a concept in quick succession, or displays them simultaneously, so that learners can compare them while all are active in working memory. The temporal or spatial contiguity makes shared structural features salient and supports abstraction of the defining features of the concept. If examples are separated by long gaps or intervening content, learners tend to encode each instance in isolation and fail to generalize.

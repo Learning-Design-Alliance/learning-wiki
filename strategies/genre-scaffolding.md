@@ -12,7 +12,7 @@ generated:
 # Genre Scaffolding
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies, `q3`–`q4` · 6 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies, `q2`–`q4` · 5 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Genre scaffolding teaches learners the socially recognized forms of writing — recounts, arguments, lab reports, narratives — by making their stages, structural moves, and characteristic language explicit. Learners analyze mentor texts, co-construct a piece with the instructor, then write independently as support is progressively withdrawn. The approach treats text structure as learnable knowledge rather than something acquired only through wide reading.

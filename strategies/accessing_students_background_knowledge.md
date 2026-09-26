@@ -12,7 +12,7 @@ generated:
 # Accessing Students’ Background Knowledge
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (2 for, 5 mixed) · 11 studies, `q3`–`q4` · 11 of 11 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (2 for, 5 mixed) · 11 studies, `q2`–`q4` · 10 of 11 report an effect size · 3 claims rest on one study
 
 ## Description
 This strategy involves intentionally eliciting and building on learners' existing knowledge, experiences, and cultural resources before and during instruction. Teachers research students' backgrounds, invite students to connect content to their lives (e.g., discussing a topic with peers in their home language, interviewing family members, sharing traditions), and use structured tools such as [Advance Organizers](../elements/advance-organizers.md) or [Analogies](../elements/analogies.md) to bridge the familiar and the new. The goal is to ensure that new material lands on prepared cognitive ground rather than being encoded in isolation.

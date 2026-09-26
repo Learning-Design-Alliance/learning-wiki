@@ -12,7 +12,7 @@ generated:
 # Progressive Disclosure
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q2`–`q4` · 5 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Progressive disclosure structures content so that learners see a simplified or partial view first, with additional layers of detail, options, or complexity revealed only after the foundational material is mastered. It functions as a sequencing element: the design decision is not *what* to teach but *when* each piece becomes visible, keeping the learner's working-memory load matched to their current competence.

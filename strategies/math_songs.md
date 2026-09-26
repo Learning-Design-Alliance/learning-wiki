@@ -12,7 +12,7 @@ generated:
 # Math Songs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q2`–`q4` · 6 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Math songs are musical compositions designed to teach and reinforce math concepts and skills. They exploit rhyme, rhythm, and melody to make mathematical content more engaging and memorable, and can introduce new concepts, reinforce fluency with facts, or anchor daily classroom routines. They function as a mnemonic supplement — not a replacement — for conceptual instruction and [practice](../elements/practice.md).

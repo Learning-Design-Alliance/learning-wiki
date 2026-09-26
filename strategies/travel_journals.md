@@ -12,7 +12,7 @@ generated:
 # Travel Journals
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 13 studies, `q2`–`q4` · 9 of 13 report an effect size
+> **Evidence** · 5 claims (5 for) · 13 studies, `q2`–`q4` · 8 of 13 report an effect size
 
 ## Description
 A travel journal is a longitudinal documentation strategy in which students record their "journey" through a unit or course — capturing what they did, what they noticed, questions that arose, and how their understanding changed. Entries mix modes: prose reflection, sketches, diagrams, pasted artifacts, and graphic organizers. The journal functions simultaneously as a learning tool (processing experience during the unit) and an assessment artifact (evidence of growth over time).

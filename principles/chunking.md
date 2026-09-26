@@ -25,7 +25,7 @@ sources:
 # Chunking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q4` · 2 of 3 report an effect size
 
 ## Description
 Chunking is the instructional design strategy of breaking complex information or tasks into smaller, more manageable units (chunks) to align with the limited capacity of human working memory. By organizing discrete items into familiar, meaningful groups, chunking reduces intrinsic cognitive load and enhances learning retention.

@@ -12,7 +12,7 @@ generated:
 # Timed Fact Fluency Drills
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Timed fact fluency drills are brief, frequent practice sessions in which learners retrieve basic facts — arithmetic combinations, letter–sound correspondences, sight words — under mild time pressure, with immediate feedback and progress monitoring. The goal is *automaticity*: recall that is fast, accurate, and effort-free, so working memory is freed for higher-order tasks. Drills typically use short sets (a handful of new facts mixed with mastered ones), repeated across days until a fluency criterion (e.g., 30–40 correct per minute) is met.

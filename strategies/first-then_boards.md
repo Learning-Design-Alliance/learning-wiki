@@ -12,7 +12,7 @@ generated:
 # First Then Boards
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies, `q1`–`q4` · 6 of 8 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies, `q1`–`q4` · 5 of 8 report an effect size
 
 ## Description
 A First Then board is a two-part visual display (pictures, icons, or written words) that shows the learner what must happen first (typically a non-preferred or required task) and what happens next (typically a preferred activity or reinforcer). It is carried out by presenting the board before the task begins, verbally referencing it ("first worksheet, then blocks"), and delivering the "then" activity immediately upon completion. It is a foundational visual support in special education and applied behavior analysis, functioning as a miniature [visual schedule](visual-schedules.md) for a single transition.

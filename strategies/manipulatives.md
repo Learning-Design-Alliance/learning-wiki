@@ -12,7 +12,7 @@ generated:
 # Manipulatives
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q2`–`q4` · 6 of 7 report an effect size
 
 ## Description
 Manipulatives are physical or tangible objects — blocks, counters, maps, models — that learners handle to make abstract concepts concrete. The strategy works by grounding symbolic or verbal content in perceptual, motor experience, giving learners something manipulable to reason with before or alongside formal notation. It is carried out by selecting objects that map transparently onto the target concept, structuring guided interaction with them, and explicitly connecting the objects to the abstract representation they stand for.

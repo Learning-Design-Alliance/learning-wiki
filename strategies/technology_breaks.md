@@ -12,7 +12,7 @@ generated:
 # Technology Breaks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Technology breaks are short, scheduled intervals during which learners may freely use devices and social media, bracketed by longer device-free study periods. Rather than demanding total abstinence — which learners often fail to sustain — the strategy channels the urge to check devices into predictable windows, protecting the focused study blocks in between. It is typically paired with removing devices from the study space and self-monitoring of off-task behavior.

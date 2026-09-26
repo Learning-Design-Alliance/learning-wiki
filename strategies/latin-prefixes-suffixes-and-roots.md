@@ -12,7 +12,7 @@ generated:
 # Latin Prefixes, Suffixes, and Roots
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies, `q3`–`q4` · 7 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies, `q2`–`q4` · 6 of 8 report an effect size
 
 ## Description
 Direct teaching about the meaningful parts of words begins with the most common inflections, but then extends to prefixes, suffixes, and roots of Latin origin. Because an estimated 60% of English academic vocabulary derives from Latin, teaching a small set of high-frequency morphemes (e.g., *port*, *spect*, *dict*, *trans-*, *-tion*, *-able*) gives learners a generative system for decoding, spelling, and inferring the meaning of thousands of unfamiliar words. Instruction is explicit and systematic: the teacher names the morpheme, gives its meaning, models analysis of words containing it, and arranges practice in assembling and disassembling words.

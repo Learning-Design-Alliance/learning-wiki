@@ -21,7 +21,7 @@ sources:
 # Mnemonic Device
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q4` · 2 of 3 report an effect size
 
 ## Description
 Mnemonic devices are deliberate memory supports such as acronyms, imagery, rhyme, chunking, loci, or categorization systems that help learners encode and retrieve information more efficiently. They are especially useful when the learning goal involves remembering ordered steps, terminology, classifications, or paired associations. Their main limitation is that recall support is not the same as conceptual understanding: mnemonics can strengthen memory for information while still leaving underlying reasoning thin if used in isolation.

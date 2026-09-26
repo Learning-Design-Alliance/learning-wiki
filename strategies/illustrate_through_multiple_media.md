@@ -12,7 +12,7 @@ generated:
 # Illustrate Through Multiple Media
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 5 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 6 studies, `q2`–`q4` · 4 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Illustrating through multiple media means presenting the same core content through complementary channels — diagrams and animations alongside narration or text, simulations alongside static graphics, video alongside worked demonstrations. The strategy is grounded in dual coding: combining verbal and visual representations gives learners two coordinated memory codes rather than one [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M]. It is not about adding more media, but about selecting media whose affordances match the content — animation for dynamic processes, static diagrams for structure, simulation for manipulation.
