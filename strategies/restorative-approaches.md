@@ -67,7 +67,7 @@ Restorative approaches treat classroom climate as a precondition for learning: s
 - **Classroom circles** — a weekly 20-minute circle in which students respond to a prompt (e.g., "one thing you need from this community this week"), building the relational fabric that makes responsive conferences work.
 
 ## Key Sources
-- Augustine, C. H., Engberg, J., Grimm, G. E., Lee, E., Wang, E. L., Christianson, K., & Joseph, A. A. (2018). *Can restorative practices improve school climate and curb suspensions? An evaluation of the use of restorative practices in 34 Pittsburgh middle schools.* RAND Corporation. [doi:10.7249/RR2840](https://doi.org/10.7249/RR2840)
+- Augustine, C. H., Engberg, J., Grimm, G. E., Lee, E., Wang, E. L., Christianson, K., & Joseph, A. A. (2018). *Can restorative practices improve school climate and curb suspensions? An evaluation of the impact of restorative practices in a mid-sized urban school district.* RAND Corporation. [doi:10.7249/RR2840](https://doi.org/10.7249/RR2840)
 - Fronius, T., Darling-Hammond, S., Persson, H., Guckenburg, S., Hurley, N., & Petrosino, A. (2019). *Restorative justice in U.S. schools: An updated research review.* WestEd.
 - Sherman, L. W., & Strang, H. (2007). *Restorative justice: The evidence.* The Smith Institute.
 - Okonofua, J. A., Walton, G. M., & Eberhardt, J. L. (2016). A vicious cycle: A social–psychological account of extreme racial disparities in school discipline. *Perspectives on Psychological Science, 11*(3), 381–398.

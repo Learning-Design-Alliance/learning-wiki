@@ -67,6 +67,6 @@ Cross-linguistic transfer is a well-documented resource for second-language lear
 
 ## Key Sources
 - Cummins, J. (1979). Linguistic interdependence and the educational development of bilingual children. *Review of Educational Research, 49*(2), 222–251. [doi:10.3102/00346543049002222](https://doi.org/10.3102/00346543049002222)
-- August, D., & Shanahan, T. (Eds.). (2006). *Developing literacy in second-language learners: Report of the National Literacy Panel on Language-Minority Children and Youth.* Lawrence Erlbaum Associates. [doi:10.1080/10862960903340165](https://doi.org/10.1080/10862960903340165)
+- August, D., & Shanahan, T. (Eds.). (2006). *Developing literacy in second-language learners: Report of the National Literacy Panel on Language-Minority Children and Youth.* Lawrence Erlbaum Associates. [doi:10.4324/9781315094922](https://doi.org/10.4324/9781315094922)
 - Koda, K. (2008). Impacts of prior literacy experience on second language learning to read. In K. Koda & A. M. Zehler (Eds.), *Learning to read across languages* (pp. 68–96). Routledge.
 - Genesee, F., Lindholm-Leary, K., Saunders, W., & Christian, D. (2006). *Educating English language learners: A synthesis of research evidence.* Cambridge University Press. [doi:10.1017/CBO9780511499913](https://doi.org/10.1017/CBO9780511499913)

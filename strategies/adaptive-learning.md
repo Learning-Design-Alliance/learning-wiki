@@ -70,5 +70,5 @@ Adaptive systems work by keeping each learner operating at the edge of their cur
 ## Key Sources
 - Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. *Review of Educational Research, 60*(2), 265–299. [doi:10.3102/00346543060002265](https://doi.org/10.3102/00346543060002265)
 - VanLehn, K. (2011). The relative effectiveness of human tutoring, intelligent tutoring systems, and other tutoring systems. *Educational Psychologist, 46*(4), 197–221. [doi:10.1080/00461520.2011.611369](https://doi.org/10.1080/00461520.2011.611369)
-- Pane, J. F., Steiner, E. D., Baird, M. D., Hamilton, L. S., & Pane, J. D. (2017). Informing progress: Insights on personalized learning and adaptive educational technology. *RAND Corporation.* [doi:10.7249/RR2042](https://doi.org/10.7249/RR2042)
+- Pane, J. F., Steiner, E. D., Baird, M. D., Hamilton, L. S., & Pane, J. D. (2017). Informing Progress: Insights on Personalized Learning Implementation and Effects. *RAND Corporation.* [doi:10.7249/RR2042](https://doi.org/10.7249/RR2042)
 - Corbett, A. T., & Anderson, J. R. (1994). Knowledge tracing: Modeling the acquisition of procedural knowledge. *User Modeling and User-Adapted Interaction, 4*(4), 253–278. [doi:10.1007/BF01099821](https://doi.org/10.1007/BF01099821)

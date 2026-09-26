@@ -71,6 +71,6 @@ VR's core pedagogical value is safe, repeatable practice of procedural and spati
 
 ## Key Sources
 - Kyaw, B. M., Saxena, N., Posadzki, P., Vseteckova, J., Nikolaou, C. K., George, P. P., Divakar, U., Masiello, I., Kononowicz, A. A., Zary, N., & Tudor Car, L. (2019). Virtual reality for health professions education: Systematic review and meta-analysis. *Journal of Medical Internet Research, 21*(1), e12959. [doi:10.2196/12959](https://doi.org/10.2196/12959)
-- Makransky, G., & Mayer, R. E. (2022). Benefits and costs of immersive virtual reality learning environments: A learning sciences perspective. *Nature Reviews Psychology, 1*, 691–707. [doi:10.4324/9781003386131-13](https://doi.org/10.4324/9781003386131-13)
+- Makransky, G., & Mayer, R. E. (2022). Benefits and costs of immersive virtual reality learning environments: A learning sciences perspective. *Nature Reviews Psychology, 1*, 691–707.
 - Makransky, G., & Petersen, G. B. (2021). The Cognitive Affective Model of Immersive Learning (CAMIL): A theoretical research-based model of learning in immersive virtual reality. *Educational Research Review, 34*, 100417. [doi:10.1007/s10648-020-09586-2](https://doi.org/10.1007/s10648-020-09586-2)
 - Mayer, R. E. (2021). *Multimedia Learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)

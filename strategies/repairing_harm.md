@@ -74,7 +74,7 @@ Repairing harm converts a disciplinary incident into a learning event: the stude
 - **[Oakland Unified School District](https://www.ousd.org)** — implemented restorative justice including harm-repair conferences; associated with substantial reductions in suspensions in evaluated cohorts.
 
 ## Key Sources
-- Karp, D. R., Breslin, B., & Beaudry, M. A. (2001). Restorative justice in school communities. *Youth & Society, 33*(2), 249–272.
+- Karp, D. R., Breslin, B., & Beaudry, M. A. (2001). Restorative justice in school communities. *Youth & Society, 33*(2), 249–272. [doi:10.1177/0044118x01033002006](https://doi.org/10.1177/0044118x01033002006)
 - Sherman, L. W., & Strang, H. (2007). *Restorative justice: The evidence*. The Smith Institute.
 - Augustine, C. H., Engberg, J., Grimm, G. E., Lee, E., Wang, E. L., Christianson, K., & Joseph, A. A. (2018). *Can restorative practices improve school climate and curb suspensions?* RAND Corporation. [doi:10.7249/rr2840](https://doi.org/10.7249/rr2840)
 - Fronius, T., Darling-Hammond, S., Persson, H., Guckenburg, S., Hurley, N., & Petrosino, A. (2019). *Restorative justice in U.S. schools: An updated research review*. WestEd.

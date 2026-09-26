@@ -72,6 +72,6 @@ Think-alouds work because they externalize expert strategy use at the moment it 
 - Coiro, J., & Dobler, E. (2007). Exploring the online reading comprehension strategies used by sixth-grade skilled readers to search for and locate information on the Internet. *Reading Research Quarterly, 42*(2), 214–257. [doi:10.1598/rrq.42.2.2](https://doi.org/10.1598/rrq.42.2.2)
 - Afflerbach, P., Pearson, P. D., & Paris, S. G. (2008). Clarifying differences between reading skills and reading strategies. *The Reading Teacher, 61*(5), 364–373. [doi:10.1598/RT.61.5.1](https://doi.org/10.1598/RT.61.5.1)
 - Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 1*(2), 117–175. [doi:10.1207/s1532690xci0102_1](https://doi.org/10.1207/s1532690xci0102_1)
-- Ericsson, K. A., & Simon, H. A. (1993). *Protocol analysis: Verbal reports as data* (Rev. ed.). MIT Press. [doi:10.2307/2070501](https://doi.org/10.2307/2070501)
+- Ericsson, K. A., & Simon, H. A. (1993). *Protocol analysis: Verbal reports as data* (Rev. ed.). MIT Press. [doi:10.7551/mitpress/5657.001.0001](https://doi.org/10.7551/mitpress/5657.001.0001)
 - Leu, D. J., Forzani, E., Rhoads, C., Maykel, C., Kennedy, C., & Timbrell, N. (2014). The new literacies of online research and comprehension: Rethinking the reading achievement gap. *Reading Research Quarterly, 50*(1), 37–59. [doi:10.1002/rrq.85](https://doi.org/10.1002/rrq.85)
 

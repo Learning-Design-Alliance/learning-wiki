@@ -68,7 +68,7 @@ RP improves climate and can reduce exclusionary discipline, but effects on acade
 - **Classroom circles in EL instruction** — EL Education schools use crew circles as a daily proactive structure, integrating RP with academic discussion norms ([eleducation.org](https://eleducation.org)).
 
 ## Key Sources
-- Augustine, C. H., Engberg, J., Grimm, G. E., Lee, E., Wang, E. L., Christianson, K., & Joseph, A. A. (2018). *Can restorative practices improve school climate and curb suspensions? An evaluation of the use of restorative practices in 35 Pittsburgh public schools.* RAND Corporation. [doi:10.7249/RR2840](https://doi.org/10.7249/RR2840)
+- Augustine, C. H., Engberg, J., Grimm, G. E., Lee, E., Wang, E. L., Christianson, K., & Joseph, A. A. (2018). *Can restorative practices improve school climate and curb suspensions? An evaluation of the impact of restorative practices in a mid-sized urban school district.* RAND Corporation. [doi:10.7249/RR2840](https://doi.org/10.7249/RR2840)
 - Okonofua, J. A., Paunesku, D., & Walton, G. M. (2016). Brief intervention to encourage empathic discipline cuts suspension rates in half among adolescents. *Proceedings of the National Academy of Sciences, 113*(19), 5221–5226. [doi:10.1073/pnas.1523698113](https://doi.org/10.1073/pnas.1523698113)
 - Sherman, L. W., & Strang, H. (2007). *Restorative justice: The evidence.* The Smith Institute.
 - Fronius, T., Darling-Hammond, S., Persson, H., Guckenburg, S., Hurley, N., & Petrosino, A. (2019). *Restorative justice in U.S. schools: An updated research review.* WestEd.

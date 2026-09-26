@@ -70,6 +70,6 @@ Comprehension improves when verbal information is supported by nonverbal represe
 ## Key Sources
 - Cummins, J. (1979). Linguistic interdependence and the educational development of bilingual children. *Review of Educational Research, 49*(2), 222–251. [doi:10.3102/00346543049002222](https://doi.org/10.3102/00346543049002222)
 - Gay, G. (2018). *Culturally Responsive Teaching: Theory, Research, and Practice* (3rd ed.). Teachers College Press.
-- August, D., & Shanahan, T. (Eds.). (2006). *Developing Literacy in Second-Language Learners: Report of the National Literacy Panel on Language-Minority Children and Youth*. Lawrence Erlbaum Associates. [doi:10.1080/10862960903340165](https://doi.org/10.1080/10862960903340165)
+- August, D., & Shanahan, T. (Eds.). (2006). *Developing Literacy in Second-Language Learners: Report of the National Literacy Panel on Language-Minority Children and Youth*. Lawrence Erlbaum Associates. [doi:10.4324/9781315094922](https://doi.org/10.4324/9781315094922)
 - García, O., & Wei, L. (2014). *Translanguaging: Language, Bilingualism and Education*. Palgrave Macmillan.
 - Mayer, R. E. (2021). *Multimedia Learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)

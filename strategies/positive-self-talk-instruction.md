@@ -70,7 +70,7 @@ Self-talk works as a form of metacognitive and self-regulatory scaffolding: verb
 - **Second-chance math programs** — coping self-talk ("mistakes mean I'm learning") combined with strategy cues is a standard component of growth-mindset and mathematics-anxiety interventions.
 
 ## Key Sources
-- Meichenbaum, D. (1977). *Cognitive-behavior modification: An integrative approach*. Plenum Press. [doi:10.1007/978-1-4757-9739-8_10](https://doi.org/10.1007/978-1-4757-9739-8_10)
+- Meichenbaum, D. (1977). *Cognitive-behavior modification: An integrative approach*. Plenum Press. [doi:10.1007/978-1-4757-9739-8](https://doi.org/10.1007/978-1-4757-9739-8)
 - Hatzigeorgiadis, A., Zourbanos, N., Galanis, E., & Theodorakis, Y. (2011). Self-talk and sports performance: A meta-analysis. *Perspectives on Psychological Science, 6*(4), 348–356. [doi:10.1177/1745691611413136](https://doi.org/10.1177/1745691611413136)
 - Kross, E., Bruehlman-Senecal, E., Park, J., et al. (2014). Self-talk as a regulatory mechanism: How you do it matters. *Journal of Personality and Social Psychology, 106*(2), 304–324. [doi:10.1037/a0035173](https://doi.org/10.1037/a0035173)
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.

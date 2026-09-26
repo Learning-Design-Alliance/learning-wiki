@@ -10,8 +10,7 @@ generated:
 evidence_strength: moderate
 sources:
   - id: son-2022
-    resource: "https://doi.org/10.5278/ojs.jpblhe.v10i1.6821"
-    title: "Son, E. H., & Penry, T. (2022). Variations in Project-Based Course Design. Journal of Problem Based Learning in Higher Education, Vol. 10, No. 1. https://doi.org/10.5278/ojs.jpblhe.v10i1.6821"
+    title: "Son, E. H., & Penry, T. (2022). Variations in Project-Based Course Design. Journal of Problem Based Learning in Higher Education, Vol. 10, No. 1."
     author: "Son, E. H., & Penry, T."
     q: 2
     i: "?"
@@ -29,7 +28,7 @@ sources:
 
 ### Son 2022
 
-Son, E. H., & Penry, T. (2022). Variations in Project-Based Course Design. Journal of Problem Based Learning in Higher Education, Vol. 10, No. 1. https://doi.org/10.5278/ojs.jpblhe.v10i1.6821
+Son, E. H., & Penry, T. (2022). Variations in Project-Based Course Design. Journal of Problem Based Learning in Higher Education, Vol. 10, No. 1.
 
 `q2 · i?`
 

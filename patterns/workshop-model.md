@@ -115,5 +115,5 @@ Lesson (the daily arc) and unit (a cycle of mini-lessons building toward a publi
 - Atwell, N. (1998). *In the middle: New understandings about writing, reading, and learning* (2nd ed.). Boynton/Cook.
 - Calkins, L. M. (1994). *The art of teaching writing* (New ed.). Heinemann.
 - Pearson, P. D., & Gallagher, M. C. (1983). The instruction of reading comprehension. *Contemporary Educational Psychology, 8*(3), 317–344. [doi:10.1016/0361-476X(83)90019-X](https://doi.org/10.1016/0361-476X(83)90019-X)
-- Fisher, D., & Frey, N. (2013). Better learning through structured teaching: A framework for the gradual release of responsibility (2nd ed.). ASCD. [doi:10.1108/s2048-045820190000010006](https://doi.org/10.1108/s2048-045820190000010006)
+- Fisher, D., & Frey, N. (2013). Better learning through structured teaching: A framework for the gradual release of responsibility (2nd ed.). ASCD.
 - Freeman, S., et al. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)

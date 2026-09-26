@@ -69,7 +69,7 @@ Reasoning-focused instruction treats student explanations as the primary site of
 - Presenting a worked example with an error on the board and having students find the mistake; asking students to explain their thought process before revealing the answer.
 
 ## Key Sources
-- Boaler, J. (1998). Open and closed mathematics: Student approaches and understandings. *British Educational Research Journal, 24*(1), 41–62. [doi:10.5951/jresematheduc.29.1.0041](https://doi.org/10.5951/jresematheduc.29.1.0041)
+- Boaler, J. (1998). Open and closed mathematics: Student experiences and understandings. *Journal for Research in Mathematics Education, 29*(1), 41–62. [doi:10.5951/jresematheduc.29.1.0041](https://doi.org/10.5951/jresematheduc.29.1.0041)
 - Stein, M. K., Engle, R. A., Smith, M. S., & Hughes, E. K. (2008). Orchestrating productive mathematical discussions: Five practices for helping teachers move beyond show and tell. *Mathematical Thinking and Learning, 10*(4), 313–340. [doi:10.1080/10986060802229675](https://doi.org/10.1080/10986060802229675)
 - Hiebert, J., & Grouws, D. A. (2007). The effects of classroom mathematics teaching on students' learning. In F. K. Lester (Ed.), *Second Handbook of Research on Mathematics Teaching and Learning* (pp. 371–404). Information Age Publishing.
 - Swan, M. (2006). *Collaborative learning in mathematics: A challenge to our beliefs and practices*. NIACE / National Centre for Excellence in the Teaching of Mathematics.

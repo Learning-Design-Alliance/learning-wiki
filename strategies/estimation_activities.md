@@ -70,7 +70,7 @@ Estimation forces learners to activate prior knowledge and reason about magnitud
 - **Measurement prediction in science labs** — students record predicted mass, volume, or temperature before measuring, then reconcile prediction and observation in their lab notebooks.
 
 ## Key Sources
-- Siegler, R. S., & Booth, J. L. (2005). Development of numerical estimation: A review. In J. I. D. Campbell (Ed.), *Handbook of mathematical cognition* (pp. 197–212). Psychology Press. [doi:10.1111/j.1467-8624.2004.00684.x](https://doi.org/10.1111/j.1467-8624.2004.00684.x)
+- Siegler, R. S., & Booth, J. L. (2005). Development of numerical estimation: A review. In J. I. D. Campbell (Ed.), *Handbook of mathematical cognition* (pp. 197–212). Psychology Press. [doi:10.4324/9780203998045-20](https://doi.org/10.4324/9780203998045-20)
 - Booth, J. L., & Siegler, R. S. (2006). Developmental and individual differences in pure numerical estimation. *Developmental Psychology, 42*(1), 189–201. [doi:10.1037/0012-1649.41.6.189](https://doi.org/10.1037/0012-1649.41.6.189)
 - Dowker, A. (1997). Young children's addition estimates. *Mathematical Cognition, 3*(1), 59–82.
 - Ramani, G. B., & Siegler, R. S. (2008). Promoting broad and stable improvements in low-income children's numerical knowledge through playing number board games. *Child Development, 79*(2), 375–394. [doi:10.1111/j.1467-8624.2007.01131.x](https://doi.org/10.1111/j.1467-8624.2007.01131.x)

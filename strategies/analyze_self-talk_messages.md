@@ -68,7 +68,7 @@ Analyzing self-talk is a self-monitoring intervention: making private speech an 
 
 ## Key Sources
 - Hatzigeorgiadis, A., Zourbanos, N., Galanis, E., & Theodorakis, Y. (2011). Self-talk and sports performance: A meta-analysis. *Perspectives on Psychological Science, 6*(4), 348–356. [doi:10.1177/1745691611413136](https://doi.org/10.1177/1745691611413136)
-- Meichenbaum, D. (1977). *Cognitive-behavior modification: An integrative approach.* Plenum Press. [doi:10.1007/978-1-4757-9739-8_10](https://doi.org/10.1007/978-1-4757-9739-8_10)
+- Meichenbaum, D. (1977). *Cognitive-behavior modification: An integrative approach.* Plenum Press. [doi:10.1007/978-1-4757-9739-8](https://doi.org/10.1007/978-1-4757-9739-8)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
 - Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry. *American Psychologist, 34*(10), 906–911. [doi:10.1037/0003-066X.34.10.906](https://doi.org/10.1037/0003-066X.34.10.906)
 

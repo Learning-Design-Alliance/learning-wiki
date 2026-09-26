@@ -68,7 +68,7 @@ The strategy operationalizes cognitive-behavioral principles for young learners:
 
 ## Key Sources
 - Hatzigeorgiadis, A., Zourbanos, N., Galanis, E., & Theodorakis, Y. (2011). Self-talk and sports performance: A meta-analysis. *Perspectives on Psychological Science, 6*(4), 348–356. [doi:10.1177/1745691611413136](https://doi.org/10.1080/1750984X.2011.574786)
-- Meichenbaum, D. (1977). *Cognitive-Behavior Modification: An Integrative Approach*. Plenum Press. [doi:10.1007/978-1-4757-9739-8_10](https://doi.org/10.1007/978-1-4757-9739-8_10)
+- Meichenbaum, D. (1977). *Cognitive-Behavior Modification: An Integrative Approach*. Plenum Press. [doi:10.1007/978-1-4757-9739-8](https://doi.org/10.1007/978-1-4757-9739-8)
 - Beck, A. T. (1979). *Cognitive Therapy of Depression*. Guilford Press.
 - Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can undermine children's motivation and performance. *Journal of Personality and Social Psychology, 75*(1), 33–52. [doi:10.1037/0022-3514.75.1.33](https://doi.org/10.1037/0022-3514.75.1.33)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

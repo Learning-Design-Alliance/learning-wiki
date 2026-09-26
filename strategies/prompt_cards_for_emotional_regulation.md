@@ -67,7 +67,7 @@ Emotional arousal consumes working-memory resources needed for self-control, so 
 
 ## Key Sources
 - Gross, J. J. (1998). The emerging field of emotion regulation: An integrative review. *Review of General Psychology, 2*(3), 271–299. [doi:10.1037/1089-2680.2.3.271](https://doi.org/10.1037/1089-2680.2.3.271)
-- Meichenbaum, D. (1977). *Cognitive-Behavior Modification: An Integrative Approach*. Plenum Press. [doi:10.1007/978-1-4757-9739-8_10](https://doi.org/10.1007/978-1-4757-9739-8_10)
+- Meichenbaum, D. (1977). *Cognitive-Behavior Modification: An Integrative Approach*. Plenum Press. [doi:10.1007/978-1-4757-9739-8](https://doi.org/10.1007/978-1-4757-9739-8)
 - Kuypers, L. M. (2011). *The Zones of Regulation: A Curriculum Designed to Foster Self-Regulation and Emotional Control*. Think Social Publishing.
 - Webster-Stratton, C., & Reid, M. J. (2004). Strengthening social and emotional competence in young children—The foundation for early school readiness and success: Incredible Years classroom social skills and problem-solving curriculum. *Infants & Young Children, 17*(2), 96–113. [doi:10.1097/00001163-200404000-00002](https://doi.org/10.1097/00001163-200404000-00002)
 

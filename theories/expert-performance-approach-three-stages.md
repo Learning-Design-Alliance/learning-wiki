@@ -44,4 +44,4 @@ The expert performance approach, first presented by Ericsson and Smith in 1991, 
 -
 
 ## Key Sources
-- Williams, A. M., Fawver, B., & Hodges, N. J. (2017). Using the 'Expert Performance Approach' as a Framework for Improving Understanding of Expert Learning. Frontline Learning Research. https://doi.org/10.14786/flr.v5i3.267
+- Williams, A. M., Fawver, B., & Hodges, N. J. (2017). Using the 'expert performance approach' as a framework for examining and enhancing skill learning: Improving understanding of how experts learn. *Frontline Learning Research, 5*(3), 139–154. https://doi.org/10.14786/flr.v5i3.267
