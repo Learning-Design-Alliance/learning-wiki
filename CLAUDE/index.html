@@ -634,6 +634,17 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#2026-09-26-a-crossref-404-now-asks-datacite-before-a-doi-is-stripped" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-26 — a Crossref 404 now asks DataCite before a DOI is stripped
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-09-25-night-the-gap-queue-is-empty-every-claim-page-carries-evidence" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1296,6 +1307,17 @@
   
     <nav class="md-nav" aria-label="Working alongside other sessions — read this before starting">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2026-09-26-a-crossref-404-now-asks-datacite-before-a-doi-is-stripped" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-26 — a Crossref 404 now asks DataCite before a DOI is stripped
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#2026-09-25-night-the-gap-queue-is-empty-every-claim-page-carries-evidence" class="md-nav__link">
@@ -1970,7 +1992,8 @@ branch.</p>
 work is done, not that the check is broken.</p>
 <p><strong>Things that are settled — do not re-litigate or revert:</strong></p>
 <ul>
-<li><strong>Never assert a DOI that has not been resolved against Crossref.</strong> A DOI that resolves
+<li><strong>Never assert a DOI that has not been resolved against Crossref</strong>, or, after a Crossref
+  404, against DataCite, with the same title check (added 2026-09-26). A DOI that resolves
   to the <em>wrong</em> paper is worse than none, because it reads as verified. <code>10.1007/978-1-4684-7562-3_3</code>
   ("Model of Causality in Social Learning Theory") was auto-applied to 69 pages as Bandura
   (1977); it took a manual audit to catch. <code>cc.titles_align()</code> guards the containment case
@@ -2045,6 +2068,15 @@ work is done, not that the check is broken.</p>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
+<h3 id="2026-09-26-a-crossref-404-now-asks-datacite-before-a-doi-is-stripped">2026-09-26 — a Crossref 404 now asks DataCite before a DOI is stripped<a class="headerlink" href="#2026-09-26-a-crossref-404-now-asks-datacite-before-a-doi-is-stripped" title="Permanent link">&para;</a></h3>
+<p>Batch 5's ingest gate stripped <code>10.26077/936a-72f7</code> from eight pages as <code>not_found</code>. DataCite
+registers it to exactly the cited article (Shvidko 2020, Utah State's digitalcommons); Crossref
+simply does not index DataCite. <code>doi_resolver.resolve_doi()</code> now falls back to
+<code>resolve_datacite()</code> on a Crossref 404, so <code>classify_doi</code> title-checks a DataCite DOI like any
+other, and a wrong DataCite DOI is still <code>wrong_paper</code>. <strong>DataCite supplies the title only</strong>:
+journal, volume, issue and pages stay <code>None</code>, so repository-supplied metadata never rewrites a
+page's coordinates. A cached unresolved entry without a <code>registry</code> key predates the fallback
+and is re-resolved.</p>
 <h3 id="2026-09-25-night-the-gap-queue-is-empty-every-claim-page-carries-evidence">2026-09-25 (night) — the gap queue is empty: every claim page carries evidence<a class="headerlink" href="#2026-09-25-night-the-gap-queue-is-empty-every-claim-page-carries-evidence" title="Permanent link">&para;</a></h3>
 <p>The gap queue (<code>priority_worklist.py --queue gap</code>) went from 304 to 0 across #105–#108. Each
 claim was filled by one agent working from <code>scripts/eval/gapfill/TASK.md</code>, or, for a
