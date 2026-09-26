@@ -40,7 +40,15 @@ A mastery criterion is a single criterion — such as a specified number of corr
 - [Grading By Contract Fricke](../patterns/grading-by-contract-fricke.md)
 
 ## Examples
--
+
+- [Negotiate learning contracts at the start of term and allow test retakes until mastery](../strategies/negotiate-contracts-allow-retakes.md)
+- [Mastery Based Retesting](../strategies/mastery-based-retesting.md)
+- [Use Mastery Learning](../strategies/use_mastery_learning.md)
+- [Mastery Reassessment](../strategies/mastery-reassessment.md)
+- [Competency Based Progression](../strategies/competency-based-progression.md)
+- [Grade Students Based on Demonstrated Learning](../strategies/grade_students_based_on_demonstrated_learning.md)
+- [Mastery Based Progression](../strategies/mastery-based-progression.md)
+- [Standards-Based Grading](../strategies/standards-based_grading.md)
 
 ## Key Sources
 - Fricke, B. G. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854

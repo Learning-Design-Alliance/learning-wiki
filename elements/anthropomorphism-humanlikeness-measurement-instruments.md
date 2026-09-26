@@ -41,7 +41,8 @@ The article curates existing measurement instruments (Table 2) organized by what
 - 
 
 ## Examples
--
+
+- [Treat humanlikeness as a tunable design parameter and anthropomorphism as an evaluation metric](../strategies/humanlikeness-tunable-parameter-anthropomorphism-metric.md)
 
 ## Key Sources
 - Phillips, E. K., & de Visser, E. J. (2026). Humanlikeness as design, anthropomorphism as inference: a conceptual framework for human–robot interaction. Frontiers in Cognition. https://doi.org/10.3389/fcogn.2026.1786256

@@ -59,9 +59,11 @@ Presenting concepts through multiple representations and inviting learners to co
 6. Close with [Articulation](../elements/articulation.md) — learners name what their own perspective contributed and what they learned from others'.
 
 ## Related Strategies
+
 - [Culturally Responsive Teaching](culturally-responsive-teaching.md) — the pedagogical framework this strategy most directly enacts
 - [Universal Design for Learning](../principles/universal-design-for-learning.md) — multiple means of representation and expression as accessibility infrastructure
 - [Case-Based Learning](case-based-learning.md) — using varied cases as multiple entry points into a concept
+- [Indigenous–non-Indigenous academic collaboration grounded in trust, collegiality and un-learning of Western epistemic authority](indigenous-non-indigenous-collaborative-pedagogy.md)
 
 ## Related Elements
 - [Choice Boards](../elements/choice-boards.md) — operationalizes multiple demonstration formats

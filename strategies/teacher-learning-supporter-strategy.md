@@ -38,7 +38,10 @@ During multimedia production, the teacher provides good examples of products and
 - self-directed learning
 
 ## Related Strategies
-- 
+
+- [Cultivate Multiple Ways of Knowing and Making Meaning](cultivate_multiple_ways_of_knowing_and_making_meaning.md)
+- [Respect Diverse Talents and Ways of Learning](respect_diverse_talents_and_ways_of_learning.md)
+- [Providing Multiple Means of Representation](providing_multiple_means_of_representation.md)
 
 ## Examples
 -

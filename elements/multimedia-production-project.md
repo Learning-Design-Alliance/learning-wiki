@@ -42,7 +42,8 @@ A learning activity in which pupils design and produce a multimedia product, suc
 - 
 
 ## Examples
--
+
+- [Act as a learning supporter during multimedia production](../strategies/teacher-learning-supporter-strategy.md)
 
 ## Key Sources
 - Tanaka. (1997). Multimedia learning and cross-curricular learning. https://eric.ed.gov/?id=EJ545678

@@ -60,9 +60,11 @@ Jigsaw converts passive content coverage into active peer teaching, with each le
 5. **Synthesize and assess:** the group or individual integrates all segments (timeline, concept map, solution to a problem requiring all pieces), followed by individual accountability such as a quiz covering every segment.
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a lighter-weight peer-interaction structure; jigsaw adds interdependence and expert specialization
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — similarly rotates an expert role among group members, applied to comprehension strategies
 - [Peer Instruction](peer-instruction.md) — peer explanation with different accountability mechanics (individual vote → convince neighbor → revote)
+- [Use jigsaw-style sharing so every student is responsible for all the material](jigsaw-sharing-inquiry-posters.md)
 
 ## Examples
 - **The Jigsaw Classroom** (Aronson's original program, [jigsaw.org](https://www.jigsaw.org)) — 5th-grade history in Austin, TX: each student in a group of six owned one segment of a biography; the structure sharply reduced prejudice and absenteeism in the original studies.

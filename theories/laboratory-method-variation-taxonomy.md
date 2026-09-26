@@ -39,7 +39,10 @@ The paper classifies laboratory instruction along three adjective groups, produc
 - 
 
 ## Related Theories
-- 
+
+- [Four basic determinants of spatial adequacy in educational specifications](four-determinants-spatial-adequacy.md)
+- [A procedural goals-methods-facilities model for planning science facilities](goals-methods-facilities-planning-model.md)
+- [Seven goals for secondary science education with spatial consequences](seven-science-education-goals-taxonomy.md)
 
 ## Examples
 -

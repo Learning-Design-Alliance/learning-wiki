@@ -17,7 +17,7 @@ sources:
 # Use tablets and smartphones in science education to expand approaches that motivate understanding of physical phenomena
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article opens with the design rationale that consumer mobile devices can serve as scientific measurement instruments in teaching. It states that "The use of tablets and smartphone in science education expands possibilities for approaches that motivate students to understand better several physical phenomena", and notes tablets were shown as good tools to measure magnetostatic responses. The demonstration set realizes this principle by turning an iPad's magnetometer into a quantitative field probe.
@@ -37,14 +37,18 @@ The article opens with the design rationale that consumer mobile devices can ser
 - conceptual understanding of magnetic phenomena through hands-on measurement
 
 ### Claims
+
 - [Tablet Magnetometer Linear B Current Coil](../claims/tablet-magnetometer-linear-b-current-coil.md) [+M]
 - [Tablet Demo Set Estimates Air Permeability](../claims/tablet-demo-set-estimates-air-permeability.md) [+M]
+- [The magnet data cannot determine air permeability; only the magnet's dipole moment can be estimated](../claims/magnet-case-cannot-determine-air-permeability.md) [+W]
+- [Magnetic field falls off as the inverse cube of axial distance for both a coil and a magnet](../claims/magnetic-field-inverse-cube-axial-distance-coil-magnet.md) [+W]
 
 ## Related Principles
 - 
 
 ## Examples
--
+
+- [Tablet-based magnetic-field demonstration set (coil circuit, ruler, book, MagnetMeter app)](../elements/tablet-magnetometer-demonstration-set.md)
 
 ## Key Sources
 - V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira. (2014). Demonstrations of magnetic phenomena: Measuring the air permeablity using tablets. https://arxiv.org/abs/1405.6581

@@ -64,10 +64,12 @@ Cooperative learning is among the most consistently supported instructional appr
 - [Belonging interventions improve outcomes, particularly for marginalized students.](../claims/belonging-interventions-improve-outcomes.md) [+M] — cooperative structures can support belonging
 
 ## Related Principles
+
 - [Collaborative Learning](collaborative-learning.md) — the broader category; cooperative learning is its most structured, accountability-driven form
 - [Active Learning](active-learning.md) — cooperative structures are one of the most effective vehicles for active learning at scale
 - [Assessment for Learning](assessment-for-learning.md) — individual accountability depends on frequent, low-stakes checks of each member's learning
 - [Building Empathy](building-empathy.md) — structured interdependence across diverse groups improves intergroup attitudes as well as achievement
+- [Design laboratories to satisfy all five cooperative-learning conditions](laboratories-satisfying-cooperative-learning-conditions.md)
 
 ## Examples
 

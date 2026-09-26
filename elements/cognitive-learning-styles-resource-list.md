@@ -39,7 +39,8 @@ The article's appendices compile suggested materials for ELT instructors: course
 - Instructor knowledge of cognitive learning styles
 
 ## Related Elements
-- 
+
+- [Index of instructional video styles (Table 2): a sampled classification of existing formats](instructional-video-style-index-table2.md)
 
 ## Examples
 -

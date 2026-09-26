@@ -37,7 +37,8 @@ The brief's second guideline states that, given the gap between adolescents' emo
 - Emotion regulation, including managing distress and strong negative emotions and fostering empathy and compassion for self and others
 
 ## Related Strategies
-- 
+
+- [Provide self-regulation interventions at varying levels and intensity matched to youth context and needs](tiered-self-regulation-intervention-support.md)
 
 ## Examples
 -

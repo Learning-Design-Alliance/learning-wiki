@@ -59,9 +59,11 @@ CI treats unequal participation as a status problem to be engineered away, not a
 6. Debrief with reporter roles sharing group reasoning, then connect multiple solution paths to the target concept ([Class Discussion](../elements/class-discussion.md))
 
 ## Related Strategies
+
 - [Cooperative Learning](../patterns/cooperative-learning.md) — CI is a status-conscious refinement of cooperative learning; the group-rewards/accountability claim underpins both
 - [Collaborative Learning](../patterns/collaborative-learning.md) — the broader family CI belongs to
 - [Discussion-Based Learning](../patterns/discussion-based-learning.md) — whole-class debriefs extend group reasoning
+- [Assign adult learners to heterogeneous cooperative learning groups mixing ability, ethnicity, gender, perspective, and language](heterogeneous-grouping-adult-cooperative-learning.md)
 
 ## Related Elements
 - [Assigned Positions](../elements/assigned-positions.md) — the role structure that creates interdependence

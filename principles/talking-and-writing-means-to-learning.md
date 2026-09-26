@@ -47,7 +47,8 @@ The article presents the Bullock Report's basic tenet, adopted by Cummins for mi
 - 
 
 ## Examples
--
+
+- [Use process writing techniques in natural language settings to develop the push to communicate and facilitate acquisition](../strategies/process-writing-natural-settings-facilitate-acquisition.md)
 
 ## Key Sources
 - Diaz, Diana M. (1988). First Language/Second Language: Acquisition, Writing, and Cognitive Development. https://eric.ed.gov/?id=ED294203

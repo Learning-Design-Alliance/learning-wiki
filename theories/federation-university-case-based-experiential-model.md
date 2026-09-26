@@ -16,7 +16,7 @@ sources:
 # Federation University model: a program-level case-based experiential learning framework linking thinking, doing and acting
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Federation University model is a program-level teaching framework for community and human services education that integrates Kolb's four-stage experiential cycle with case-based teaching. It was developed in three phases the authors call conceptualisation, principles, and blended/online implementation, aiming to link "epistemology, ontology and praxis together into a consistent overarching teaching philosophy". The model rests on a social constructivist epistemology in which learners create "unique cognitive structures" situated in broader social context, and it structures all core and elective subjects in the Bachelor program rather than individual units.
@@ -38,11 +38,15 @@ The Federation University model is a program-level teaching framework for commun
 - critical reflection and decision-making for complex practice situations
 
 ### Claims
-- 
+
+- [An internal program review found absence of a consistent pedagogical framework and need for active case-based materials](../claims/program-review-five-design-findings.md) [+W]
 
 ## Related Theories
+
 - [Kolb Four Stage Experiential Cycle Integration](kolb-four-stage-experiential-cycle-integration.md)
 - [Active Learning Framework Three Components](../patterns/active-learning-framework-three-components.md)
+- [Experiential Learning Theory](experiential-learning-theory.md)
+- [Kolb's four-stage experiential learning model and its four learning style categories](kolb-four-stage-experiential-learning-model.md)
 
 ## Examples
 -

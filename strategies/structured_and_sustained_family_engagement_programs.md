@@ -60,9 +60,11 @@ Engagement that is *structured* (planned, role-assigned, scheduled) and *sustain
 6. [Assess performance](../elements/assess-performance.md) annually: participation by subgroup, completion of learning activities, student outcome trends; [provide feedback](../elements/provide-feedback.md) to families and staff and revise the plan.
 
 ## Related Strategies
+
 - Family literacy and home-learning programs — the learning-linked activity type with the strongest achievement evidence
 - Community-school partnerships — extend engagement to wraparound services
 - Student-led conferences — shift engagement from parent-recipient to student-led partnership
+- [Offering Multiple Options for Family Engagement](offering_multiple_options_for_family_engagement.md)
 
 ## Examples
 - **[National Network of Partnership Schools](https://nnps.jhucsos.com)** (Johns Hopkins University) — Epstein's framework in practice; member schools form action teams, write annual partnership plans, and evaluate six types of involvement.

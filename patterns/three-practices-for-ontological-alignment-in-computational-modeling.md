@@ -71,7 +71,9 @@ Unit (a 6-day computational modeling unit in the source study)
 - The specific labeled theories, code examples, and external evidence source are tied to the diffusion topic in the source study; the reusable structure is the three-step sequence (elevate, test links, introduce resonant evidence), applicable to other computational-modeling topics with an analogous representational mismatch.
 
 ## Related Patterns
+
 - (none yet linked)
+- [Three pedagogical design considerations for physics simulations: consistent world view, multiple representations, and game for concept testing](three-pedagogical-simulation-design-considerations.md)
 
 ## Examples
 - A teacher asked a student to explain how he'd "take an ink particle and split it apart" in code, surfacing that his conceptual model ("infect") did not straightforwardly translate into the tool's agent-based primitives.

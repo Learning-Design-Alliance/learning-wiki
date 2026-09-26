@@ -38,9 +38,11 @@ Like Realism, Pragmatism requires empirical observation of the real world; unlik
 - [Essentialism and Perennialism (Educational Philosophy)](essentialism-and-perennialism-educational-philosophy.md) — the traditional, teacher-centered, fact-based curricula Progressivism explicitly positions itself against
 
 ## Related Theories
+
 - [Idealism (Educational Philosophy)](idealism-educational-philosophy.md)
 - [Realism (Educational Philosophy)](realism-educational-philosophy.md) — Pragmatism shares Realism's commitment to empirical observation, but rejects its assumption of a fixed, unchanging reality
 - [Critical Pedagogy](critical-pedagogy.md) — a later tradition that, like Progressivism, de-centers the teacher, but adds an explicitly political and emancipatory aim that Progressivism itself does not
+- [Integrated Learning (IL): a philosophy linking subject contents to real-world issues to promote civic competence transversally](integrated-learning-civic-competence.md)
 
 ## Examples
 - [Project-Based Learning](../strategies/project-based_learning.md)

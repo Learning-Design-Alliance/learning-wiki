@@ -60,9 +60,11 @@ Valuing reasoning over answers converts errors from endpoints into learning oppo
 6. Align assessment: use rubrics and formative assessment that score reasoning explicitly [Assessment for Learning](../principles/assessment-for-learning.md).
 
 ## Related Strategies
+
 - **Error Analysis with Erroneous Examples** — a specific enactment: diagnosing wrong answers builds conceptual knowledge more than studying correct ones alone
 - **Productive Failure** — structured struggle before instruction, leveraging the same principle that reasoning attempts have value independent of answers
 - **Self-Explanation Prompts** — the individual, written counterpart to whole-class reasoning discourse
+- [Question students about why a correct answer was chosen, rather than why an error was made](question-correct-answers-not-errors.md)
 
 ## Examples
 - A teacher puts a worked algebra problem with a sign error on the board and asks, "Find where the reasoning went wrong" — students must articulate the error, not just supply the right answer.

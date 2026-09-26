@@ -41,7 +41,8 @@ A draft calculus-based textbook by Prof. Timothy McKay used as the core of the r
 - 
 
 ## Examples
--
+
+- [Iterative improvements and interdisciplinary integration for the next course iteration](../strategies/next-iteration-improvements-life-science-physics.md)
 
 ## Key Sources
 - O'Shea, B., Terry, L., & Benenson, W. (2013). From F=ma to Flying Squirrels: Curricular Change in an Introductory Physics Course. CBE-Life Science Education (accepted). https://www.lifescied.org

@@ -55,9 +55,11 @@ An "I" statement (or "I-message") frames a concern around the speaker's own obse
 5. Model the same structure when mediating student-to-student conflict, e.g., during a [Check-In](../elements/check-in.md) circle.
 
 ## Related Strategies
+
 - [Active Listening](../strategies/active-listening.md) — the receptive counterpart; "I" statements open the conversation, active listening sustains it
 - [Action-Oriented Feedback](../strategies/action-oriented-feedback.md) — pairs non-blaming framing with concrete next steps
 - [Check-Ins](../principles/check-ins.md) — a routine context where low-stakes "I" statement modeling becomes habitual
+- [Use indirect correction and self-correction to avoid face-threatening error treatment](indirect-error-correction-self-correction.md)
 
 ## Examples
 - Instead of "You distracted other students in class today," try "I felt that other students were distracted by your behavior today."

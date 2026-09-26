@@ -38,7 +38,8 @@ Using a template from the CCTI project, NVCC and partner high schools developed 
 - reduced time to postsecondary credential
 
 ## Related Strategies
-- 
+
+- [Begin career-awareness outreach in middle school to build the pipeline for high-demand fields](middle-school-career-awareness-outreach.md)
 
 ## Examples
 -

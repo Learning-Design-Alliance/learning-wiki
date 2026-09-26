@@ -17,7 +17,7 @@ sources:
 # Strongly consider aided AAC systems over manual signs, particularly for children with fine motor limitations
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article advises that "Practitioners might want to strongly consider aided systems over manual signs, particularly for children with fine motor limitations." Aided systems such as PE and SGDs enable children to acquire target skills quicker and are generally preferred over manual signing, and they do not require learning a new motor response form for each new word. Children with intellectual disabilities can benefit from an aided graphic symbol that functions as a prompt or reminder.
@@ -37,10 +37,13 @@ The article advises that "Practitioners might want to strongly consider aided sy
 - Acquisition of mands and functional communication
 
 ### Claims
+
 - [Aided Systems Advantage Over Manual Signs](../claims/aided-systems-advantage-over-manual-signs.md) [+M]
+- [Individuals with developmental disabilities tend to prefer speech-generating devices over picture exchange and manual signs, with substantial individual differences](../claims/sgd-preference-over-pe-and-manual-signs.md) [+M]
 
 ## Related Principles
-- 
+
+- [Assess children's AAC system preferences as part of the AAC decision-making process](assess-child-preference-in-aac-decision-making.md)
 
 ## Examples
 -

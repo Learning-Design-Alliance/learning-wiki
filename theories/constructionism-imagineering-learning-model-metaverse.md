@@ -41,7 +41,8 @@ The article develops a learning model that integrates imagineering learning with
 - [Cilm Metaverse Expert Assessment Highest](../claims/cilm-metaverse-expert-assessment-highest.md) [+M]
 
 ## Related Theories
-- 
+
+- [OSP's two pedagogical approaches: guided inquiry and constructionism](osp-guided-inquiry-and-constructionism.md)
 
 ## Examples
 -

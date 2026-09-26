@@ -37,10 +37,14 @@ Open Source Physics (OSP) focuses on the design of computer models, such as Easy
 - investigating and understanding abstract physics concepts such as kinematics through modeling and video analysis
 
 ## Related Elements
-- 
+
+- [Easy Java Simulation one-dimensional collision carts virtual laboratory model](ejs-1d-collision-carts-simulation.md)
+- [Tracker: free video analysis and modeling tool built on the Open Source Physics Java framework](tracker-video-analysis-modeling-tool.md)
 
 ## Examples
--
+
+- [Differentiate by guiding higher-ability students to build models that validate their analysis, and support self-directed and collaborative learning goals](../strategies/osp-differentiation-and-sdl-goals.md)
+- [Teach the five steps of scientific investigation through personally motivating video analysis and modeling projects](../strategies/video-analysis-modeling-sport-science-strategy.md)
 
 ## Key Sources
 - Wee Loo Kang. (2013). Open Source Physics. i in Practice 1(1), 58-63. http://ictconnection.opal.moe.edu.sg/cos/o.x?ptid=711&c=/ictconnection/ictlib&func=view&rid=82

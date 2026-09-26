@@ -42,7 +42,8 @@ The report presents a co-regulation framework (Exhibit I.3, modeled on the SARHM
 - [Co Regulation Supports Climate And Youth Emotion Regulation](../claims/co-regulation-supports-climate-and-youth-emotion-regulation.md) [+M]
 
 ## Related Theories
-- 
+
+- [Co-regulation: supportive adult-youth processes that enable self-regulation development](co-regulation-framework-adolescents.md)
 
 ## Examples
 -

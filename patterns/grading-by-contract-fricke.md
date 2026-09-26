@@ -17,7 +17,7 @@ sources:
 # Grading by contract: students propose specific work and criteria within teacher-presented options
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Contract grading is a course-level arrangement in which the teacher presents a number of options (such as a specified number of correct responses or quality of performance), and within these limits each student may then propose a specific set of work at the beginning of the term. The work is completed when the agreed criteria are met, and the plan can incorporate mastery-learning features allowing students to repeat a given test. The memo reports that about one-third of Michigan graduate TAs used some variation of a contract plan.
@@ -37,13 +37,18 @@ Contract grading is a course-level arrangement in which the teacher presents a n
 - meeting explicit, individually negotiated performance criteria
 
 ### Claims
+
 - Mastery Criterion Beats Fixed Trials [+M]
+- [Transcript grades are a blurred currency of performance information, partly due to grade inflation driven by student pressure](../claims/transcript-grades-blurred-currency.md) [+W]
 
 ## Related Patterns
 - 
 
 ## Examples
--
+
+- [Learning Contracts](../elements/learning-contracts.md)
+- [Learning Contracts](../strategies/learning_contracts.md)
+- [Negotiate learning contracts at the start of term and allow test retakes until mastery](../strategies/negotiate-contracts-allow-retakes.md)
 
 ## Key Sources
 - Fricke, B. G. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854

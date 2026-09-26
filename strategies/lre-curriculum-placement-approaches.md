@@ -38,7 +38,8 @@ The digest describes three approaches to including LRE in the curriculum (Naylor
 - Citizenship knowledge, skills, and attitudes
 
 ## Related Strategies
-- 
+
+- [Use systematic staff development to build teacher capacity for LRE](systematic-staff-development-for-lre.md)
 
 ## Examples
 -

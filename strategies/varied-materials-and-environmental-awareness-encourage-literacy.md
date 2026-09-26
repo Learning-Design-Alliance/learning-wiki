@@ -41,7 +41,14 @@ The article recommends that parents and teachers support cognition and literacy 
 - [Lowenfeld Art Stages Parallel Piaget Stages](../theories/lowenfeld-art-stages-parallel-piaget-stages.md)
 
 ## Related Strategies
-- 
+
+- [Teacher practices of behavior analysis, encouraging independent decisions, and providing easy-to-use EF materials](teacher-practices-behavior-analysis-independent-decisions-materials.md)
+- [Literacy Rich Environment](literacy-rich-environment.md)
+- [Family Literacy Nights](family-literacy-nights.md)
+- [Home-Based Literacy Support](home-based_literacy_support.md)
+- [Parental Modeling of Reading](parental_modeling_of_reading.md)
+- [Family Literacy Engagement](family-literacy-engagement.md)
+- [Offering Multiple Options for Family Engagement](offering_multiple_options_for_family_engagement.md)
 
 ## Examples
 -

@@ -38,10 +38,12 @@ The article is a guide that provides, in one integrated document, a listing and 
 - Global awareness
 
 ## Related Elements
-- 
+
+- [Culture universals as conceptual tools for studying cultures](culture-universals-conceptual-tools.md)
 
 ## Examples
--
+
+- [Use experiential intercultural training methods such as simulations, role-playing and critical incidents to encounter perceptual and value differences](../strategies/experiential-intercultural-training-methods.md)
 
 ## Key Sources
 - Berman, Sarah, Martha Campbell, and Kathy Lentz. (1980). Annotated Bibliography of Materials for Developing Cultural Understanding and Global Awareness in the Elementary School. Arizona State University. https://eric.ed.gov/?id=ED199130

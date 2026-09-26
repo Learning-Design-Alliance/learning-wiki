@@ -37,7 +37,9 @@ The digest recommends that when obstacles arise from the environment in which ch
 - creating conditions that facilitate implementation of educational technology innovations
 
 ## Related Strategies
-- 
+
+- [Diagnose resistance causes, then modify innovation attributes or their perceptions, using Rogers's influential attributes](diagnose-resistance-then-modify-innovation-attributes.md)
+- [Reach out to other disciplines, particularly Human Performance Technology and Human Resource Development, as involvement with educational change grows](reach-out-to-hpt-hrd-knowledge-bases.md)
 
 ## Examples
 -

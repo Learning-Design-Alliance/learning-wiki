@@ -40,7 +40,8 @@ The booklet defines and details the study carrel as a behaviour-support fixture:
 - 
 
 ## Examples
--
+
+- [Specify acoustic, durable finishes and mandatory carpeting in quiet and severe-disorder spaces](../strategies/acoustic-finishes-and-mandatory-carpeting-specification.md)
 
 ## Key Sources
 - Special Education Facilities for Emotionally Disturbed Children. (1968). Ontario Department of Education. https://eric.ed.gov/?id=ED085907

@@ -41,6 +41,8 @@ Authors' interpretation in the discussion, not a tested result: they state the i
 
 
 ## Related Claims
+
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — a broader claim this one bears on
 - [Research-verified active-engagement pedagogy yields significant content gains (g ≈ 0.38–0.42) but essentially zero gains on the LCTSR (g = 0.06) without explicit reasoning instruction](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) — related
 - [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md) — related
+- [MPEX profiles were similar across both years, indicating the pedagogy and class structure remained consistent when technology was added](mpex-consistent-pedagogy-across-tech-years.md)

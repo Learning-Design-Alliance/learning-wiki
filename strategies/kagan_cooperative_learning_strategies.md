@@ -57,9 +57,11 @@ Kagan structures operationalize [Active Learning](../principles/active-learning.
 5. Debrief briefly on both content and collaboration quality ([Whole-class sharing](../elements/class-discussion.md) or Gallery Walk synthesis).
 
 ## Related Strategies
+
 - Think-Pair-Share — the minimal two-person analogue of Round Robin; a good entry point before full team structures
 - Jigsaw — a complementary structure where each member owns unique content, creating strong positive interdependence
 - Numbered Heads Together — adds random-reporter accountability to team consensus
+- [Use named cooperative learning structures adapted to adult classrooms, including Student Team Learning, Think-Pair-Share, Jigsaw, Teaming Together, and Group Investigation](cooperative-structures-for-adult-classrooms.md)
 
 ## Examples
 - **Kagan Publishing & Professional Development** (https://www.kaganonline.com) — the source catalog of structures with training materials.

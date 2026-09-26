@@ -60,9 +60,11 @@ The strategy works because committing to a decision before instruction creates t
 6. Optionally, have learners [Act It Out](../elements/act-it-out.md) their resolutions and debrief what changed when the scenario became interactive.
 
 ## Related Strategies
+
 - Structured case discussion — the same case material without the forced decision prompt; WWYD adds commitment before analysis
 - Role-play — enactment variant of the same perspective-taking goal
 - Jigsaw discussion — alternative structure for ensuring all perspectives are voiced
+- [Use experiential intercultural training methods such as simulations, role-playing and critical incidents to encounter perceptual and value differences](experiential-intercultural-training-methods.md)
 
 ## Examples
 - **Harvard Business School case method** (https://www.hbs.edu/mba/academic-experience/Pages/the-hbs-case-method.aspx) — cold-called students must take a protagonist's position and defend a decision before the class dissects alternatives; the WWYD prompt is the entry move of each session.

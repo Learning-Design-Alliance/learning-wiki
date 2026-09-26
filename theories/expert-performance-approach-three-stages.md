@@ -39,10 +39,14 @@ The expert performance approach, first presented by Ericsson and Smith in 1991, 
 - 
 
 ## Related Theories
-- 
+
+- [Expert-performance framework: reproducible superior performance on representative tasks as the object of explanation](expert-performance-framework.md)
+- [Five-stage developmental theory of pedagogical expertise: novice, advanced beginner, competent, proficient, expert](berliner-five-stage-teacher-expertise-theory.md)
+- [Deliberate practice framework](deliberate-practice-framework-ericsson-pool.md)
 
 ## Examples
--
+
+- [Film-based simulation paradigm for training and testing anticipation and decision making](../elements/film-based-anticipation-simulation-paradigm.md)
 
 ## Key Sources
 - Williams, A. M., Fawver, B., & Hodges, N. J. (2017). Using the 'expert performance approach' as a framework for examining and enhancing skill learning: Improving understanding of how experts learn. *Frontline Learning Research, 5*(3), 139–154. https://doi.org/10.14786/flr.v5i3.267

@@ -41,4 +41,5 @@ The article cites the author's own prior study (Imiere, 2017) for this finding; 
 
 
 ## Related Claims
--
+
+- [The review reports reciprocal teaching of reading, an approach exemplifying cognitive apprenticeship, was remarkably effective in raising reading comprehension scores, especially for poor readers](reciprocal-teaching-raises-reading-comprehension-poor-readers.md)

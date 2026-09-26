@@ -37,10 +37,13 @@ Within a research-practice partnership with a professional development organizat
 - developing pedagogical judgment through video-based debrief conversation
 
 ## Related Elements
-- 
+
+- [Video-Based Reflection](video-based-reflection.md)
 
 ## Examples
--
+
+- [Video-Based Feedback Cycle for Teacher Teams](../strategies/video-based-feedback-cycle-for-teacher-teams.md)
+- [Reflection with Others](../strategies/reflection_with_others.md)
 
 ## Key Sources
 - Ehrenfeld, N., McGugan, K. S., Marshall, S. A., & Garner, B. (2020). Reconciling local contexts and external conceptual resources in mathematics teachers' collaborative sensemaking. In Mathematics Education Across Cultures: Proceedings of the 42nd Meeting of the North American Chapter of PME-NA.

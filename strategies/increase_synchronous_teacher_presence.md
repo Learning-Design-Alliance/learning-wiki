@@ -60,8 +60,10 @@ Teacher presence is one of three legs of the [Community of Inquiry](../principle
 5. Close with a live [Coaching](../elements/coaching.md) moment or Q&A that addresses the session's sticking points, and post a brief follow-up message referencing learner contributions to extend presence beyond the live hour.
 
 ## Related Strategies
+
 - Establish instructor presence in asynchronous channels (announcements, video feedback) so synchronous presence lands on an existing relationship
 - Pair synchronous sessions with structured pre-work so live time is spent interacting, not transmitting
+- [Invite students to co-facilitate tasks by typing content into the shared whiteboard or chat](student-co-facilitation-via-shared-chat-typing.md)
 
 ## Examples
 - **Zoom-based seminar courses** — instructor opens camera-on, runs a two-minute check-in, alternates mini-lectures with breakout discussions, and closes by naming student contributions.

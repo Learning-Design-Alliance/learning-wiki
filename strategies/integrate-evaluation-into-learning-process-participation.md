@@ -39,7 +39,8 @@ The paper recommends resolving Constructivist evaluation problems through instru
 - participation in evaluation
 
 ## Related Strategies
-- 
+
+- [Implement Measures for Student Self-Knowledge](implement_measures_for_student_self-knowledge.md)
 
 ## Examples
 -

@@ -56,10 +56,12 @@ Music and movement are not decorative add-ons; their benefit comes from well-est
 5. Optionally, have learners compose their own songs or choreography, which forces them to analyze the content's structure to map it onto rhythm and movement
 
 ## Related Strategies
+
 - [Dual coding](../theories/dual-coding-theory.md) — music and dance are a multi-channel instantiation of combining verbal and nonverbal codes
 - [Chunking](../principles/chunking.md) — melody and meter impose temporal chunks on sequential content, reducing memory load [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 - [Acting-role-play](acting-role-play.md) — the movement component without the musical component
 - [Mnemonics](mnemonics.md) — songs are among the most durable mnemonic forms
+- [Conclude with a choreography-and-analysis final project in place of a final exam](choreography-analysis-final-project-culminating.md)
 
 ## Examples
 - Elementary alphabet and phonics songs (e.g., [Jolly Phonics](https://www.jollylearning.co.uk)), where each letter-sound has an associated action — melody plus gesture supporting phonemic encoding

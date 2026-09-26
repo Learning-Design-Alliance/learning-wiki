@@ -58,9 +58,11 @@ Retakes shift the function of assessment from sorting to learning: they treat a 
 5. Record the grade per the announced policy and track improvement across attempts as evidence of learning, not just compliance.
 
 ## Related Strategies
+
 - **Mastery grading / standards-based grading** — the grading system that makes retakes coherent, since grades report standards met rather than points accumulated
 - **Test corrections** — a lighter-weight variant where students earn partial credit by analyzing and correcting errors
 - **Spaced retrieval practice** — reassessment scheduling can double as distributed review
+- [Negotiate learning contracts at the start of term and allow test retakes until mastery](negotiate-contracts-allow-retakes.md)
 
 ## Examples
 - **Competency-based courses** (e.g., Western Governors University) require students to reassess on any competency not yet demonstrated at standard; the recorded result is mastery, not attempt count.

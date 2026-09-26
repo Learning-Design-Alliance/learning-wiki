@@ -60,9 +60,12 @@ Both tools reduce extraneous load during lecture by shifting the burden of selec
 6. End with a synthesis step — students summarize the completed organizer in their own words or use it to answer an application question ([Elaborative Interrogation](elaborative-interrogation.md)).
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — an advance organizer works best when connected to what students already know
 - [Chunking](../principles/chunking.md) — organizers chunk content into a navigable visual structure
 - [Direct Instruction](direct-instruction.md) — guided notes are a natural companion to teacher-led presentation
+- [Use interdependence chains in which students link interdependent jobs and explain why each job needs the others](interdependence-chains-activity.md)
+- [Teacher-provided graphic map as review](teacher-provided-advance-graphic-map.md)
 
 ## Examples
 - A U.S. history course provides a blank cause–effect chain before a lecture on the Great Depression; students fill in causes during the lecture and use the completed chain to structure an essay.

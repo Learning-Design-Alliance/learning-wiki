@@ -16,7 +16,7 @@ sources:
 # Mead's three phases of the act: emotional, aesthetic, and intellectual
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 In the reconstructed lectures Mead distinguishes three phases in the development of the act. In the emotional phase there is not yet perception of objects; the article reports Mead's view that "emotion is the beginning of the object", since the emotional response holds one to the object. In the aesthetic phase attention turns to the object as a sensuous whole, and in the intellectual phase analysis constructs "an object for activity". Each phase is preparatory for the next: the aesthetic object organizes perception before reflection takes place. The article also reports that the phases can be read as three possible ways of resolving a conflict of action, so a reflective solution is a possibility but not a necessity.
@@ -36,10 +36,13 @@ In the reconstructed lectures Mead distinguishes three phases in the development
 - understanding the development of reflective thought from emotional and aesthetic experience
 
 ### Claims
-- 
+
+- [In Mead's lectures, meanings grow out of social intercourse and the child constructs meanings only in social process](../claims/meanings-grow-out-of-social-intercourse.md) [+W]
+- [Mead holds that social interaction precedes and produces reflective self-consciousness](../claims/social-interaction-precedes-self-consciousness.md) [+W]
 
 ## Related Theories
-- 
+
+- [Mead's theory of the social origin of reflective consciousness](mead-social-origin-of-reflective-consciousness.md)
 
 ## Examples
 -

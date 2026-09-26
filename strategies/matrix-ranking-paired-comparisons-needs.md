@@ -38,7 +38,8 @@ To select the first tentative problem area for a staff development plan, the wor
 - identify and prioritize educational problem areas for staff development planning
 
 ## Related Strategies
-- 
+
+- [Screen candidate educational improvement activities with eight pre-determined feasibility questions](eight-question-activity-feasibility-screening.md)
 
 ## Examples
 -

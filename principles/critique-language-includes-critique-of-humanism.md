@@ -42,10 +42,15 @@ The article argues that an ecologically concerned CCP "must not only localize th
 - 
 
 ## Related Principles
-- 
+
+- [Figure environmental justice and social justice as co-constitutive projects toward ecological justice](entangle-environmental-and-social-justice.md)
+- [Render planetary ecological crisis concrete, embodied, proximal, and implicative for students](render-ecological-crisis-concrete-embodied-proximal.md)
+- [Expand critical communication pedagogy's sphere of concern to include more-than-human existents because anthropocentrism and speciesism maintain social hierarchy](expand-ccp-sphere-of-concern-to-more-than-human.md)
+- [Cultivate ecologically just speculative futurity as requisite to political praxis](ecologically-just-speculative-futurity-for-praxis.md)
 
 ## Examples
--
+
+- [Task students with proposing a neologism and a golden spike placement to expose the rhetoricity of historicizing the Anthropocene](../strategies/golden-spike-neologism-assignment.md)
 
 ## Key Sources
 - Rife, T. S. (2025). Critical Communication Pedagogy at the End of the World. Journal of Communication Pedagogy. https://doi.org/10.31446/JCP.2025.1.07

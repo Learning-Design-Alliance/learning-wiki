@@ -40,7 +40,9 @@ The guide's recommended scope and sequence specifies content emphasis and instru
 - 
 
 ## Related Patterns
-- 
+
+- [Industrial arts pyramid program across operational levels](industrial-arts-pyramid-program-levels.md)
+- [Level-differentiated emphases: awareness, exploration, specialization](level-differentiated-awareness-exploration-specialization.md)
 
 ## Examples
 -

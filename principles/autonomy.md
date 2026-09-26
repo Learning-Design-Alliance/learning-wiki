@@ -68,6 +68,8 @@ Autonomy is one of three basic psychological needs in [Self-Determination Theory
 
 ## Examples
 
+- [Give learners control over how learning is measured via assessment choices and science-fair-type projects](../strategies/learner-controlled-assessment-science-fair-projects.md)
+
 ### Illustrative
 
 **[Choice Boards](../elements/choice-boards.md)** — A grid of task options (e.g., demonstrate understanding via podcast, diagram, or essay) that lets learners select how to show mastery while all options target the same objective. Effective when options are genuinely equivalent in rigor and aligned to the same [learning objective](../elements/objective.md).

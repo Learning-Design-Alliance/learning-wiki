@@ -17,7 +17,7 @@ sources:
 # Plan instruction around SEP-dictated expected learnings (aprendizajes esperados), which the reform makes the backbone of all teaching activity and the performance indicators supporting competencies
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 against) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Under the RES, planning must center on the aprendizajes esperados dictated by the SEP for each subject; the article states that "los aprendizajes esperados son la columna vertebral de la planeación dado que son los indicadores de desempeño que sustentan a las competencias". Teachers may decide strategies and resources — the how and with what — but the expected learnings anchor every in-class and out-of-class teaching-learning activity. The reform pursues interdisciplinary project work and competency development through this planning structure.
@@ -38,7 +38,9 @@ Under the RES, planning must center on the aprendizajes esperados dictated by th
 - competency development through interdisciplinary project work
 
 ### Claims
-- 
+
+- [The SEP Ciencias II work guide packs many expected learnings into few class hours (e.g., 5 learnings in 6 hours for Block 1 and 8 in 5 hours for Block 2), which teachers find hard to cover](../claims/ciencias-ii-guide-overloaded-sequences.md) [-W]
+- [SEP national monitoring reports indicate insufficient teacher training for the reform: 35% of surveyed teachers requested training in planning and design of didactic activities, and about 30% of directors rated induction-workshop information as poorly adequate or inadequate](../claims/reform-teacher-training-insufficient.md) [-W]
 
 ## Related Principles
 - 

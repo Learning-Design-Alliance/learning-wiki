@@ -41,7 +41,9 @@ A demonstration in which liquid fuel is ignited in two metal dishes of drastical
 - mass-to-energy conversion
 
 ## Related Strategies
-- 
+
+- [Adapt the paper-based stellar populations inquiry to large Astronomy 101 classes and test learning with and without the inquiry](adapt-stellar-inquiry-to-large-lecture-classes.md)
+- [Keep an extra unassigned spectrum (a red giant) in reserve to challenge students who finish early or reach an incorrect answer](eleventh-star-reserve-spectrum.md)
 
 ## Examples
 -

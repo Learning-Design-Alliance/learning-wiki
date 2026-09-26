@@ -60,8 +60,10 @@ Activation works because meaningful learning is associative: new information is 
 6. Close the loop by revisiting initial responses after instruction so learners see how their understanding changed.
 
 ## Related Strategies
+
 - [Activate Background Knowledge](activate_background_knowledge.md) — closely related routine emphasizing learner background and experience
 - [Accessing Students' Background Knowledge](accessing_students_background_knowledge.md) — asset-based variant focused on cultural and lived experience
+- [Group Pupils During Science Experiments and Demonstrations](grouping-for-science-experiments-and-demonstrations.md)
 
 ## Examples
 - **Anticipation guides in science class**: students agree/disagree with statements like "heavier objects fall faster" before a unit on gravity; the teacher revisits the guide after instruction to confront misconceptions.

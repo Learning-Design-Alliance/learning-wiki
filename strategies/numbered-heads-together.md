@@ -57,9 +57,12 @@ NHT combines the benefits of peer discussion with individual accountability — 
 4. Give brief whole-class feedback, then pose the next question ([Check-In](../elements/check-in.md) on team accuracy between rounds).
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a lighter-weight discussion structure without team accountability
 - [Jigsaw](jigsaw.md) — interdependence through divided expertise rather than shared answers
 - [Random Calling / Cold Calling](cold-calling.md) — the accountability mechanism NHT embeds in a supportive team context
+- [Use named cooperative learning structures adapted to adult classrooms, including Student Team Learning, Think-Pair-Share, Jigsaw, Teaming Together, and Group Investigation](cooperative-structures-for-adult-classrooms.md)
+- [Use jigsaw-style sharing so every student is responsible for all the material](jigsaw-sharing-inquiry-posters.md)
 
 ## Examples
 - **Kagan Publishing & Professional Development** ([kaganonline.com](https://www.kaganonline.com)) — the source of the structure and training materials; NHT is one of the core Kagan structures taught in cooperative learning workshops.

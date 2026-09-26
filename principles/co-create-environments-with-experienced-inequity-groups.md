@@ -40,10 +40,16 @@ Among its guiding assumptions, the brief states that "Environments are more cond
 - 
 
 ## Related Principles
-- 
+
+- [Presume the rightful presence and inherent value of disenfranchised students, families, and communities from the start](presume-rightful-presence-and-inherent-value.md)
 
 ## Examples
--
+
+- [Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices](../patterns/shared-power-co-creation-of-educational-systems.md)
+- [Rightful Presence Implementation Guide (swiftschools.org)](../elements/rightful-presence-implementation-guide.md)
+- [Make the Invisible Visible (Power Dynamics)](../methods/make-the-invisible-visible-power-dynamics.md)
+- [Focusing Projects on Issues of Justice](../strategies/focusing_projects_on_issues_of_justice.md)
+- [Building a Trusting Community](../strategies/building_a_trusting_community.md)
 
 ## Key Sources
 - SWIFT Education Center. (2025, May). Rightful presence in education systems. https://swiftschools.org

@@ -40,7 +40,10 @@ The digest enumerates the supporting generalizations for Merrill's remaining pha
 - 
 
 ## Related Patterns
-- 
+
+- [Merrill's First Principles (Demonstration)](merrills-first-principles-demonstration.md)
+- [Merrill's First Principles](merrills-first-principles.md)
+- [Merrill's First Principles of Instruction](merrills-first-principles-of-instruction.md)
 
 ## Examples
 -

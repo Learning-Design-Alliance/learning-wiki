@@ -46,7 +46,8 @@ The curriculum is organized as five sequential units of roughly two to six hours
 - 
 
 ## Examples
--
+
+- [Field Trips](../strategies/field_trips.md)
 
 ## Key Sources
 - Reilly, K., Wooster, B., Andrews, E., Bourdeau, V., Conley, R., & Thompson, M. (2008). Holding onto the GREEN Zone Leader Guide: A Youth Program for the Study and Stewardship of Community Riparian Areas. Bureau of Land Management. https://www.blm.gov/education

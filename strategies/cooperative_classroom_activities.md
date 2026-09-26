@@ -58,10 +58,12 @@ Cooperative activities outperform purely competitive or individualistic structur
 5. Close with [group processing](../elements/group-processing.md): a brief structured reflection on what the team did well and what to change next time.
 
 ## Related Strategies
+
 - [Jigsaw classroom](jigsaw-classroom.md) — the canonical task-interdependence design
 - [Think-pair-share](../patterns/think-pair-share.md) — minimal cooperative structure for everyday discussion
 - [Peer tutoring](peer-tutoring.md) — cooperative asymmetry that benefits both partners
 - [Group roles](../elements/group-roles.md) — role assignment as a participation-equalizing mechanism
+- [Use named cooperative learning structures adapted to adult classrooms, including Student Team Learning, Think-Pair-Share, Jigsaw, Teaming Together, and Group Investigation](cooperative-structures-for-adult-classrooms.md)
 
 ## Examples
 - **[Jigsaw classroom](jigsaw-classroom.md)** — Aronson's original desegregation design: students become "experts" on one segment of material in expert groups, then teach it to their home teams.

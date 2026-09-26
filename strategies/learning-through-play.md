@@ -59,11 +59,13 @@ Play leverages intrinsic motivation and active engagement, which support attenti
 5. Debrief: make the learning explicit after play, connecting the experience to the target concept ([Reflection](../elements/reflection.md)).
 
 ## Related Strategies
+
 - [Guided Play](../strategies/guided-play.md) — the scaffolded midpoint of the play continuum with the strongest evidence base
 - [Game-Based Learning](../principles/game-based-learning.md) — rule-bound play with explicit goals and feedback
 - [Role Play](../strategies/acting-role-play.md) — play applied to social, historical, and interpersonal content
 - [Inquiry-Based Learning](../strategies/inquiry-based-learning.md) — shares the exploration-first structure but is typically less playful in tone
 - [Simulation](../elements/simulation.md) — structured play applied to authentic professional scenarios
+- [Use direct-experience formats — simulation games, extracurricular activities, action learning, peer teaching — to pursue relational-domain objectives](experiential-formats-relational-objectives.md)
 
 ## Examples
 - **Tools of the Mind** (https://toolsofthemind.org) — a pre-K/kindergarten curriculum built on Vygotskian play, using mature dramatic play to develop self-regulation.

@@ -64,9 +64,11 @@ Relationship skills are teachable: meta-analytic evidence shows that sequenced, 
 8. **Protect the reputation.** Ensure groupmates experience the learner's contributions positively; structure early successes so the intervention does not become a public marker of deficit.
 
 ## Related Strategies
+
 - [Active Listening](active_listening.md) — the receptive half of relationship skills; teaching it explicitly supports the identification-and-support cycle
 - [Building Empathy](../principles/building-empathy.md) — perspective-taking underlies conflict resolution and repair
 - [Check-Ins](../principles/check-ins.md) — a low-cost routine for surfacing relational states that observation alone misses
+- [Implement cooperative learning with extended training, direct social-skills teaching, and small initial groups](staff-development-for-cooperative-learning.md)
 
 ## Examples
 - **Responsive Classroom** (https://www.responsiveclassroom.org) — uses daily morning meetings and structured partner activities as the universal Tier 1 context in which teachers observe and coach relationship skills.

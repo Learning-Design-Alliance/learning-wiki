@@ -43,7 +43,8 @@ The article's process "begins with statement by the instructor of a problem or g
 - [Idea Classification Generated New Ideas](../claims/idea-classification-generated-new-ideas.md) [+M]
 
 ## Related Patterns
-- 
+
+- [Six-step engineering design process as the teaching and learning sequence](engineering-design-six-step-ict-sequence.md)
 
 ## Examples
 -

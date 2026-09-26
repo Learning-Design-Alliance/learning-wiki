@@ -40,7 +40,8 @@ The article models fault diagnosis as two phases: partitioning components into a
 - [Computer Aiding Positive Transfer Unaided Fault Diagnosis](../claims/computer-aiding-positive-transfer-unaided-fault-diagnosis.md) [+M]
 
 ## Related Theories
-- 
+
+- [Rule-based model of fault diagnosis as selection among ordered rules-of-thumb](rule-based-heuristic-model-fault-diagnosis.md)
 
 ## Examples
 -

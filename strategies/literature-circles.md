@@ -63,9 +63,11 @@ Literature circles combine [Collaborative Learning](../principles/collaborative-
 6. Close with student-chosen projects that demonstrate understanding (maps, timelines, poems, performances), followed by individual reflection on what the book and the discussion taught them
 
 ## Related Strategies
+
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — shares the small-group, student-led discussion structure but targets specific comprehension strategies with fixed roles
 - [Jigsaw](jigsaw.md) — an alternative cooperative structure with interdependent expertise roles rather than shared text discussion
 - [Socratic Seminar](socratic-seminar.md) — whole-class, teacher-facilitated discussion; a common next step once literature circle discussion skills mature
+- [Implement student-led weekly discussion groups in which rotating leaders choose topics, facilitate discussion, and post summaries, unmediated by teaching staff](student-led-rotating-discussion-leader-groups.md)
 
 ## Examples
 - A sixth-grade teacher offers six novel choices; students pick a book, a discussion theme, and a final project — producing maps, acrostic poems, and timelines tied to their texts

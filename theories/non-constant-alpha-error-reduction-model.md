@@ -39,7 +39,8 @@ In Section VI the article generalizes the γ-process as a special case of the α
 - [Gamma Process Positive Gain Pretest Correlation](../claims/gamma-process-positive-gain-pretest-correlation.md) [+M]
 
 ## Related Theories
-- 
+
+- [Two-level measurement-based dynamic model of learning with α, β, and γ transition processes](two-level-dynamic-learning-model-bao.md)
 
 ## Examples
 -

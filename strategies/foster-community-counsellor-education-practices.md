@@ -40,7 +40,10 @@ The Community component holds that developing counsellor skills within a support
 - integration of the social activist role into professional identity
 
 ## Related Strategies
-- 
+
+- [Learning Communities](learning-communities.md)
+- [Common Ground Group Assignments](common_ground_group_assignments.md)
+- [Peer Coaching](peer_coaching.md)
 
 ## Examples
 -

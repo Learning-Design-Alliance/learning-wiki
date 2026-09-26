@@ -57,8 +57,12 @@ Community involvement works primarily through motivation and belonging rather th
 5. Debrief and showcase: have learners present outcomes back to the community, closing the loop between contribution and audience.
 
 ## Related Strategies
+
 - Community-based project designs — the curricular form of this strategy, where the community is the subject and audience of the work
 - Family partnership programs — the home-side complement to classroom involvement
+- [Connect learners with external collaborators](connect-external-collaborators.md)
+- [Advance community-based lifelong learning through mentoring relationships connecting local expertise with desired learners](mentoring-for-community-lifelong-learning.md)
+- [Engage youth as partners in stewardship rather than as subjects to be taught](youth-as-stewardship-partners.md)
 
 ## Examples
 - **[Edmodo](https://www.edmodo.com) / Google Classroom guardian summaries** — moderated online communities connecting families to ongoing class activity rather than one-off events.

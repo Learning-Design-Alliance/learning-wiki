@@ -56,7 +56,10 @@ Merrill's First Principles is the short-form canonical target for task-centered 
 - [Reflection](../elements/reflection.md)
 
 ## Related Patterns
+
 - [Merrill's First Principles of Instruction](merrills-first-principles-of-instruction.md)
+- [Demonstration, application, and integration corollaries of Merrill's framework](merrill-demonstration-application-integration-corollaries.md)
+- [Problem-centered instruction with task-level engagement and problem progression](problem-centered-task-level-progression-pattern.md)
 
 ## Key Sources
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)

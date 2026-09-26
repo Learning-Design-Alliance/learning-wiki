@@ -60,9 +60,11 @@ Equity audits shift the analytic frame from remediating learners to remediating 
 6. Implement revisions, then re-audit the following term against the same disaggregated metrics to verify the gap narrowed.
 
 ## Related Strategies
+
 - [Universal Design for Learning](../principles/universal-design-for-learning.md) — the proactive design stance audits verify; audits catch what UDL planning misses in practice
 - [Culturally Responsive Teaching](culturally-responsive-teaching.md) — the pedagogical orientation that supplies the revision criteria an audit applies
 - [Data-Driven Instruction](data-driven-instruction.md) — shares the disaggregated-data method but focuses on equity gaps rather than aggregate mastery
+- [Disaggregate participation data intersectionally by race and gender to surface disparities hidden in aggregate analyses](strategies-disaggregate-participation-data-intersectionally.md)
 
 ## Examples
 - **California community colleges' equity work** — colleges disaggregate course success rates by ethnicity and gender and require equity plans; gateway-course redesign informed by these audits has narrowed pass-rate gaps (see https://www.cccco.edu).

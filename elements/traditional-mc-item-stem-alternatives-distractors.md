@@ -37,10 +37,13 @@ The article defines the traditional multiple-choice test item as consisting 'of 
 - assessing students' learning efficiently over large numbers of students and many disciplines
 
 ## Related Elements
-- 
+
+- [Enhanced multiple-choice (EMC) questions with up to ten answers, graded correctness, and partial credit](enhanced-mc-partial-credit-questions.md)
+- [Selected-Response Assessment Items](selected-response-assessment-items.md)
 
 ## Examples
--
+
+- [Multiple-Choice Quizzing with Plausible Alternatives and Feedback](../strategies/multiple-choice-quizzing-with-plausible-alternatives-and-feedback.md)
 
 ## Key Sources
 - Burnstein, R. A. and Lederman, L. M. (2007). Wireless Keypads −− A New Classroom Technology Using Enhanced Multiple-Choice Questions. Physics Education. https://iopscience.iop.org/journal/0031-9120

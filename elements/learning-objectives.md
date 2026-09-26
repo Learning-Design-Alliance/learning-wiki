@@ -51,10 +51,12 @@ Well-specified objectives improve learning primarily by orienting learners' atte
 - [Scaffolding](../principles/scaffolding.md) — objectives define the trajectory along which support is faded, making the endpoint explicit
 
 ## Related Elements
+
 - [Assessment](assessment.md) — objectives are only meaningful if assessment actually measures them
 - [Advance Organizers](advance-organizers.md) — the mechanism by which objectives are presented to learners before instruction
 - [Check-In](check-in.md) — mid-lesson checkpoints that reference objectives to reorient attention
 - [Rubrics](rubrics.md) — the operational translation of objectives into gradable criteria
+- [Competency statement format: behavior, conditions, and minimal performance level](competency-statement-three-element-format.md)
 
 ## Patterns That Use This Element
 - [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "inform learners of objectives" is Event 2

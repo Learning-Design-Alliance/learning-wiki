@@ -71,6 +71,7 @@ Experimentation supports learning by making learners active generators and teste
 **[WISE (Web-Based Inquiry Science Environment)](https://wise.berkeley.edu)** — Scaffolds the full inquiry cycle — prediction, data collection, reflection — with embedded notes and stepwise guidance.
 
 **[BSCS 5E instructional model](https://bscs.org/bscs-5e-instructional-model)** — Published curriculum framework sequencing engagement, exploration, explanation, elaboration, and evaluation; the exploration phase is structured experimentation.
+- [Use simulation as a non-threatening alternative to direct experimentation when testing office reorganizations](../strategies/simulation-as-non-threatening-experimentation-alternative.md)
 
 ## Key Sources
 - Klahr, D., & Dunbar, K. (1988). Dual space search during scientific reasoning. *Cognitive Science, 12*(1), 1–48. [doi:10.1207/s15516709cog1201_1](https://doi.org/10.1207/s15516709cog1201_1)

@@ -43,7 +43,9 @@ The digest's central recommendation is that practitioners "must strive to guide 
 - 
 
 ## Examples
--
+
+- [Diagnose resistance causes, then modify innovation attributes or their perceptions, using Rogers's influential attributes](../strategies/diagnose-resistance-then-modify-innovation-attributes.md)
+- [Address environmental deficiencies using Ely's Conditions for Change, such as leadership commitment and professional development](../strategies/ely-conditions-for-change-address-environment.md)
 
 ## Key Sources
 - Ellsworth, James B. (2000). A Survey of Educational Change Models. ERIC Digest. https://eric.ed.gov/?id=ED444597

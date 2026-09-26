@@ -42,7 +42,9 @@ The brief characterizes rightful presence by "a fundamental shift in power" in w
 - 
 
 ## Examples
--
+
+- [Make the Invisible Visible (Power Dynamics)](../methods/make-the-invisible-visible-power-dynamics.md)
+- [Racial Equity in PBL - Listen to the Voices of Students](../strategies/racial_equity_in_pbl_-_listen_to_the_voices_of_students.md)
 
 ## Key Sources
 - SWIFT Education Center. (2025, May). Rightful presence in education systems. https://swiftschools.org

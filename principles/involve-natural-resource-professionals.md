@@ -44,7 +44,8 @@ Because community-based environmental study depends on local information and tec
 - 
 
 ## Examples
--
+
+- [Five-unit arc building classroom skills toward a community field trip and public sharing](../patterns/five-unit-field-trip-arc-riparian.md)
 
 ## Key Sources
 - Reilly, K., Wooster, B., Andrews, E., Bourdeau, V., Conley, R., & Thompson, M. (2008). Holding onto the GREEN Zone Leader Guide: A Youth Program for the Study and Stewardship of Community Riparian Areas. Bureau of Land Management. https://www.blm.gov/education

@@ -40,7 +40,8 @@ If Labov's monitor model better represents the facts than Krashen's, the article
 - [Monitoring Improves Learnable Rule Accuracy](../claims/monitoring-improves-learnable-rule-accuracy.md) [+M]
 
 ## Related Principles
-- 
+
+- [Teach language as living and developing, not as a set of dogmatic precepts](teach-language-as-living-and-developing.md)
 
 ## Examples
 -

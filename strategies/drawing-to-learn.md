@@ -58,8 +58,10 @@ Drawing is a generative learning activity: it requires learners to select key in
 5. Revisit the drawing later (e.g., as a retrieval prompt) to leverage its value for retention.
 
 ## Related Strategies
+
 - [Concept Mapping](../elements/concept-mapping.md) — a constrained, node-and-link form of drawing to learn suited to relational knowledge
 - [Self-Explanation](../elements/self-explanation.md) — the verbal companion that converts a drawing into reasoning
+- [Use interdependence chains in which students link interdependent jobs and explain why each job needs the others](interdependence-chains-activity.md)
 
 ## Examples
 - **Science notebooks (elementary)** — Students draw and annotate observations of plant growth or simple circuits before writing conclusions; Ainsworth, Prain, and Tytler (2011) argue drawing should be a core science practice alongside observation and experiment.

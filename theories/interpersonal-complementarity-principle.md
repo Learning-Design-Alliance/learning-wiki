@@ -43,7 +43,8 @@ The article organizes its hypotheses around the complementarity principle from t
 - 
 
 ## Examples
--
+
+- [Therapist Complementarity Index (CI) derived from a weighted 4x4 Interaction Matrix](../elements/therapist-complementarity-index-interaction-matrix.md)
 
 ## Key Sources
 - Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646

@@ -59,9 +59,11 @@ Learning journals work because writing forces elaboration and externalization: t
 5. **Close the loop.** Ask learners to revisit earlier entries periodically and write about how their thinking changed — this re-retrieval strengthens retention [Revisiting and reprocessing earlier material improves long-term retention.](../claims/distributed-practice-improves-retention.md) [+S].
 
 ## Related Strategies
+
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — a synchronous complement that turns journal entries into individual dialogue
 - [Exit Tickets](exit-tickets.md) — a single-session, lower-commitment variant of the same reflection mechanism
 - [Portfolio Assessment](portfolio-assessment.md) — journals curated and assessed as evidence of growth over time
+- [Use Flexible Discussion Groups for Science Content Analysis](flexible-discussion-groups-in-science.md)
 
 ## Examples
 - **Clinical/nursing education**: reflective practice journals are standard in nursing and medical placement programs, typically structured by Gibbs' (1988) reflective cycle, with preceptor responses each week.

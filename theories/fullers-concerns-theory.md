@@ -43,8 +43,10 @@ Shulman (1992) identifies four types of knowledge important to this progression:
 - Progression from self- and task-focused concerns toward sustained, high-commitment concern for student impact
 
 ## Related Theories
+
 - [Ellsworth's Framework of Educational Change](ellsworth-framework-of-educational-change.md) — its Concerns-Based Adoption Model tracks the concerns of people adopting a change
 - [Educational Psychology as Both Art and Science](../principles/educational-psychology-as-art-and-science.md) — the practical/theoretical/empirical knowledge split Shulman describes is one way of cashing out the art-science relationship for teacher preparation specifically
+- [Fuller Teacher Concerns Theory: three developmental stages of teacher concerns](fuller-teacher-concerns-theory-three-stages.md)
 
 ## Examples
 - A mentoring program that expects a first-year teacher's questions to center on classroom control and time management rather than individual student growth, and treats that as developmentally normal rather than a deficiency

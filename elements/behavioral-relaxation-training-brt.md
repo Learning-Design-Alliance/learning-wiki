@@ -37,7 +37,8 @@ Behavioral Relaxation Training (BRT; Poppen, 1998) is a behavioral intervention 
 - managing anxiety symptoms through relaxation skills
 
 ## Related Elements
-- 
+
+- [Abbreviated Acceptability Rating Profile (AARP)](aarp-acceptability-rating-profile.md)
 
 ## Examples
 -

@@ -60,9 +60,11 @@ Interdisciplinary activities build integrated knowledge structures and support t
 6. Conclude with an artifact or argument that requires the integrated perspective, followed by [Assessment](../elements/assessment.md) against integration-specific criteria.
 
 ## Related Strategies
+
 - [Case-Based Learning](../patterns/case-based-learning.md) — authentic cases are a natural vehicle for interdisciplinary problems
 - [Project-Based Learning](project-based-learning.md) — extended projects frequently require multi-disciplinary work
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the prerequisite step for connecting new material across disciplines
+- [Use discipline-specific clues as design problems to foster analyze and evaluate steps](discipline-clues-as-design-problems.md)
 
 ## Examples
 - **News Analysis** — Using a news clip about a local store closing, learners determine an ideal new location, applying economics, geography, and mathematics.

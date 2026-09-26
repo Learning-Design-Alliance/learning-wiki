@@ -59,9 +59,11 @@ Belonging is a measurable lever on achievement: brief interventions that normali
 6. Debrief both the product and the process: what common ground helped, what conflicts arose, how the group resolved them
 
 ## Related Strategies
+
 - **Jigsaw Method** — common ground emerges from structural interdependence rather than pre-existing similarity
 - **Belonging Interventions** — the social-psychological complement: brief activities that reframe belonging uncertainty
 - **Interest-Based Project Design** — extends common ground from group formation to task selection
+- [Foster community in counsellor education through student organizations, common space, collegial feedback, and rewards for mutual support](foster-community-counsellor-education-practices.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — the lightweight opening move that surfaces shared experience

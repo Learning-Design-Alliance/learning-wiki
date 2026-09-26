@@ -48,13 +48,20 @@ Its concluding argument is systemic. A single innovation foreign to the rest of 
 - [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](../claims/isolated-innovations-are-rejected-by-the-system-they-enter.md) [+W]
 
 ## Related Theories
+
 - [Fuller's Concerns Theory of Teacher Development](fullers-concerns-theory.md) — also describes concerns that shift in a predictable way over time, as the Concerns-Based Adoption Model does for adopters of a change
 - [Cultural-Historical Activity Theory](cultural-historical-activity-theory.md) — another way of seeing an innovation as entering a whole system of people, tools and rules
+- [Concerns-Based Adoption Model: change is a process with diagnosable dimensions](cbam-change-process-diagnostic-dimensions.md)
+- [Ellsworth's framework organizes educational change models around agent, innovation, adopter, process, environment, and resistance](ellsworth-educational-change-model-framework.md)
 
 ## Examples
+
 - [Stakeholder Mapping](../methods/stakeholder-mapping.md) — a concrete way to look inside the system at its stakeholders, as Reigeluth and Garfinkle ask
 - [Theory of Change](../methods/theory-of-change.md) — makes explicit the chain from an innovation to the change it is meant to produce
 - [Continuous Improvement of Learning Materials](../processes/continuous-improvement-of-learning-materials.md) — what follows once a design is adopted
+- [Guide change efforts with systemic understanding, focusing interventions on one framework component at a time as needed](../principles/systemic-understanding-guides-change-efforts.md)
+- [Diagnose resistance causes, then modify innovation attributes or their perceptions, using Rogers's influential attributes](../strategies/diagnose-resistance-then-modify-innovation-attributes.md)
+- [Address environmental deficiencies using Ely's Conditions for Change, such as leadership commitment and professional development](../strategies/ely-conditions-for-change-address-environment.md)
 
 ## Key Sources
 - Ellsworth, J. B. (2018). A survey of educational change models. In *Foundations of Learning and Instructional Design Technology* (1st ed., pp. 339–345). EdTech Books. https://edtechbooks.org/lidtfoundations/survey_of_educational_change_models (Originally published 2000 as ERIC Digest ED444597)

@@ -59,9 +59,11 @@ Help seeking depends on learners first accurately judging their own comprehensio
 6. **Follow up.** After help is received, require learners to re-attempt independently so the help transfers into performance.
 
 ## Related Strategies
+
 - [Reciprocal Peer Tutoring](reciprocal-peer-tutoring.md) — structures help exchange as mutual, reducing the social cost of asking
 - [Hint Design](hint-design.md) — the graduated-hint architecture that makes system-mediated help instrumental
 - [Metacognitive Prompting](metacognitive-prompting.md) — builds the monitoring that triggers help seeking in the first place
+- [Use predicted hint-taking likelihood and hint effects to adaptively decide whether to withhold or provide hints](adaptive-hint-withholding-from-hint-prediction.md)
 
 ## Examples
 - **Intelligent tutoring systems** (e.g., Carnegie Learning's MATHia, ASSISTments) implement on-demand hint sequences; research on the [Geometry Tutor](https://doi.org/10.3102/00346543076002273) showed that hint quality and learner persistence in using them, not mere availability, determine learning gains.

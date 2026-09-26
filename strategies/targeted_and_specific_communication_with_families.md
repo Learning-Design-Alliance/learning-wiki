@@ -61,9 +61,11 @@ Family engagement research consistently shows that *specific* invitations — na
 7. Periodically review participation data and family feedback to refine targeting.
 
 ## Related Strategies
+
 - Positive phone calls and personalized progress messages — the most common classroom-level instantiation of this strategy
 - Home visit programs — relationship-first variant for hard-to-reach families
 - Two-way translated messaging platforms — the technology-mediated variant
+- [Remove practical barriers to family participation through flexible scheduling, translation, childcare, and material supports](remove-barriers-family-participation.md)
 
 ## Examples
 - **TalkingPoints** (https://talkingpts.org) — two-way translated text messaging between teachers and families, used widely in US districts with multilingual populations.

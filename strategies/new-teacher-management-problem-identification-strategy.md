@@ -38,7 +38,9 @@ The brief recommends a diagnostic routine for new teachers before implementing a
 - Classroom management and discipline implementation
 
 ## Related Strategies
-- 
+
+- [Reflection with Others](reflection_with_others.md)
+- [Reflection on Lessons](reflection_on_lessons.md)
 
 ## Examples
 -

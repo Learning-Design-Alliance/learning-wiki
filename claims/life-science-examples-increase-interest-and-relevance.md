@@ -41,5 +41,7 @@ Post-semester interviews conducted by a co-author with no course association; in
 
 
 ## Related Claims
+
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Student dissatisfaction with the draft textbook stemmed from lack of practice problems and confusing explanations, not from its life science focus](textbook-dissatisfaction-practice-problems-not-focus.md) — related
+- [Under the life-science curriculum, MPEX attitudes showed no meaningful change in five of six clusters, avoiding the reality-link decline seen in previous semesters, while the effort cluster declined significantly](mpex-attitudes-stable-reality-link.md)

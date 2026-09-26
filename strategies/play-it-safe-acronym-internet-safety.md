@@ -36,7 +36,8 @@ PLAY IT SAFE is a nine-letter acronym, adapted from Cerebra.org, that packages c
 - Internet safety knowledge and safe online behavior
 
 ## Related Strategies
-- 
+
+- [Use visual supports, role playing, and social narratives to teach internet safety to adolescents with ASD](visual-supports-role-play-social-narratives-internet-safety.md)
 
 ## Examples
 -

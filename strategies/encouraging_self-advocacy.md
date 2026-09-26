@@ -58,9 +58,11 @@ Self advocacy instruction works because it converts help-seeking from an admissi
 5. **Practice authentically and debrief.** Learners make a real request (to a teacher, employer, or platform), then reflect on what worked and what to adjust next time.
 
 ## Related Strategies
+
 - [Teaching Self-Monitoring](../strategies/self-monitoring.md) — the metacognitive precursor: learners must track their own performance before they can articulate needs
 - [Goal Setting with Learners](../elements/goal-setting.md) — advocacy is most concrete when anchored to a learner-set goal
 - [Gradual Release of Responsibility](../strategies/gradual-release-of-responsibility.md) — structures the handoff of support decisions from adult to learner
+- [Teacher practices of behavior analysis, encouraging independent decisions, and providing easy-to-use EF materials](teacher-practices-behavior-analysis-independent-decisions-materials.md)
 
 ## Examples
 - **The Self-Advocacy Strategy** (Van Reusen, Bos, Schumaker, & Deshler, University of Kansas) — a scripted mnemonic-based program in which students with disabilities learn to lead their own IEP meetings; widely replicated in special education research.

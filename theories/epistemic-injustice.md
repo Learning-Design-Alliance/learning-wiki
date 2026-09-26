@@ -37,10 +37,12 @@ Epistemic injustice (Fricker, 2007) names two specific ways people can be wronge
 - [Agentic engagement with lively data supports epistemically just crisis sensemaking](../claims/lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking.md) [+W]
 
 ## Related Theories
+
 - [Onto-Epistemic Heterogeneity](onto-epistemic-heterogeneity.md) — both treat marginalized learners' lived experience as a constitutive epistemic resource rather than supplementary; onto-epistemic heterogeneity focuses on disciplinary learning generally, while epistemic injustice specifically names the credibility and interpretive-resource harms that occur when that experience is dismissed
 - [Funds of Knowledge](funds-of-knowledge.md) — shares the commitment to treating household/community knowledge as a legitimate resource, though funds of knowledge is more operational (specific elicitable practices) while epistemic injustice names the harm of not doing so
 - [Cultural-Historical Activity Theory](cultural-historical-activity-theory.md) — both attend to whose knowledge counts and how institutional or dominant framings can narrow or suppress other participants' meaning-making
 - [Womanist Restorying](womanist-restorying.md) — both reframe a marginalized group's own account of their experience as a legitimate resource rather than something to be corrected by a dominant narrative; restorying additionally offers a concrete narrative-reconstruction method
+- [Foucauldian power/knowledge and episteme framework for situating Indigenous knowledges within Western universities](foucauldian-episteme-indigenous-knowledges-framework.md)
 
 ## Examples
 - [Agentic Data-Engagement Positions](../elements/agentic-data-engagement-positions.md) — operationalizes epistemic-justice-oriented design by scaffolding learners into active knowledge-producing roles with data, rather than positioning them as passive recipients of official data

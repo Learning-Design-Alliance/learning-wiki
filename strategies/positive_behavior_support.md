@@ -60,10 +60,12 @@ PBS treats behavior as a learned, communicative act shaped by its environment, a
 6. Monitor implementation fidelity and outcome data (referrals, attendance, climate surveys) at least quarterly and adjust.
 
 ## Related Strategies
+
 - [Classroom Management](classroom-management.md) — the classroom-level enactment of PBS principles
 - [Check-In/Check-Out](check-in-check-out.md) — the most widely used Tier 2 PBS support
 - [Restorative Practices](restorative-practices.md) — an alternative/complementary response to harm that replaces exclusionary discipline
 - [Social-Emotional Learning](../patterns/social-emotional-learning.md) — teaches the underlying skills PBS expects students to display
+- [Implement clear, consistently enforced rules and routines, including a uniform schoolwide discipline plan](posted-observable-rules-and-consistent-discipline-implementation.md)
 
 ## Examples
 - **[PBIS](https://www.pbis.org)** — the OSEP-funded national technical assistance center; provides the standard Tier 1–3 implementation guides used in over 25,000 U.S. schools.

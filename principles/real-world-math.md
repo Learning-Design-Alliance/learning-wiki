@@ -70,10 +70,12 @@ Real-world math improves engagement and transfer when the mathematical structure
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — learners understand applied math more deeply when they justify why a model or method fits the real situation
 
 ## Related Principles
+
 - [Explicit Instruction: Math Strategies](explicit-instruction-math-strategies.md) — real-world tasks still benefit from direct teaching of methods and representations.
 - [Creating Visual Representations](creating-visual-representations.md) — diagrams, tables, and models help learners connect context to mathematical structure.
 - [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — relevance grows when math supports meaningful tasks and decisions.
 - [Problem-based Learning](problem-based-learning.md) — real-world math often works through applied, open-ended problems.
+- [Involve students in real-world problem solving to deepen engagement, retention, and understanding](real-world-problem-solving-maker-context.md)
 
 ## Examples
 - **Budget comparison task**: Learners compare phone plans, wages, or household expenses using proportional reasoning and estimation.

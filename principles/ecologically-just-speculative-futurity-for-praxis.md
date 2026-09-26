@@ -42,10 +42,16 @@ To counter apocalypticism that emerges when we fail to imagine life beyond oppre
 - 
 
 ## Related Principles
-- 
+
+- [Figure environmental justice and social justice as co-constitutive projects toward ecological justice](entangle-environmental-and-social-justice.md)
+- [Expand critical communication pedagogy's sphere of concern to include more-than-human existents because anthropocentrism and speciesism maintain social hierarchy](expand-ccp-sphere-of-concern-to-more-than-human.md)
+- [Render planetary ecological crisis concrete, embodied, proximal, and implicative for students](render-ecological-crisis-concrete-embodied-proximal.md)
+- [Critique of language in CCP must include critique of humanism and humanist historicization](critique-language-includes-critique-of-humanism.md)
 
 ## Examples
--
+
+- [Assign speculative theory-fiction writing to build students' capacity for ecologically just futurity](../strategies/speculative-theory-fiction-assignment.md)
+- [Task students with proposing a neologism and a golden spike placement to expose the rhetoricity of historicizing the Anthropocene](../strategies/golden-spike-neologism-assignment.md)
 
 ## Key Sources
 - Rife, T. S. (2025). Critical Communication Pedagogy at the End of the World. Journal of Communication Pedagogy. https://doi.org/10.31446/JCP.2025.1.07

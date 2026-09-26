@@ -35,8 +35,11 @@ In educational settings, Existentialists focus on giving students personal choic
 - Authentic self-direction and self-actualization, achieved through personal choice and confrontation with differing views rather than through externally imposed standards
 
 ## Related Theories
+
 - [Idealism (Educational Philosophy)](idealism-educational-philosophy.md) — one of the dualist traditions Existentialism explicitly positions itself against
 - [Realism (Educational Philosophy)](realism-educational-philosophy.md) — the other dualist tradition Existentialism rejects
+- [Taxonomy of four general philosophies organized by the three basic philosophical questions](general-philosophies-taxonomy-apps.md)
+- [Traditional versus modern philosophies distinguished by who determines ends and means](traditional-modern-philosophies-ends-means.md)
 
 ## Examples
 - A classroom structure that lets students choose their own topics, evaluation criteria, or project direction as a matter of principle, not just as a motivational device

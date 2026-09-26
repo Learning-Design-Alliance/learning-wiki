@@ -63,8 +63,10 @@ ARCS is explicitly integrative: Keller built it by synthesizing constructs from 
 - [First Principles of Instruction](first-principles-of-instruction.md) — both are practitioner-facing syntheses that integrate multiple underlying theories into a compact, actionable design framework; Merrill explicitly treated motivation as an *outcome* of effective instruction rather than a separate design target, a direct point of contrast with ARCS's treatment of motivation as its own diagnosable, designable condition
 
 ## Examples
+
 - A Motivational Animated Pedagogical Agent (MAPA) embedded in a physics simulation, delivering audio messages designed specifically around ARCS's Relevance and Confidence tactics, which produced a measurable increase in students' self-efficacy (van der Meij, van der Meij, & Harmsen, 2015)
 - A Virtual Tutee System where students teach a virtual character what they've read, applying Confidence- and Relevance-building tactics through the "learning by teaching" effect
+- [General principles for selecting learning activities](../principles/learning-activity-selection-principles.md)
 
 ## Key Sources
 - Keller, J. M. (1987). Development and use of the ARCS model of instructional design. *Journal of Instructional Development, 10*(3), 2–10. [doi:10.1007/bf02905780](https://doi.org/10.1007/bf02905780)

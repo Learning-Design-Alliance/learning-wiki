@@ -38,7 +38,8 @@ The digest states that LRE effectiveness depends on teacher knowledge and skill 
 - Skill in selecting and adapting LRE content and methods
 
 ## Related Strategies
-- 
+
+- [Place LRE in the curriculum through special events, separate units or courses, or infusion](lre-curriculum-placement-approaches.md)
 
 ## Examples
 -

@@ -58,9 +58,12 @@ Family literacy events work best when they model concrete practices caregivers c
 5. Schedule follow-up nights or check-ins to reinforce routines; treat the first night as the start of a sequence, not a standalone event.
 
 ## Related Strategies
+
 - [Take-Home Book Bags](take-home-book-bags.md) — the most common extension mechanism; the night trains the routine the bags sustain
 - [Parent Workshops](parent-workshops.md) — adult-only variant; less effective alone than paired joint-activity formats
 - [Dialogic Reading](../elements/dialogic-reading.md) — the single most evidence-supported technique to model at such events
+- [Provide parent read-at-home plans and home reading strategies for struggling readers](parent-read-at-home-plans.md)
+- [Encourage cognition and literacy by providing varied reading, writing, and drawing materials and building environmental awareness](varied-materials-and-environmental-awareness-encourage-literacy.md)
 
 ## Examples
 - **Raising a Reader (https://www.raisingareader.org)** — national program combining family engagement events with rotating book-bag cycles; family nights train caregivers on shared-reading techniques before bags go home.

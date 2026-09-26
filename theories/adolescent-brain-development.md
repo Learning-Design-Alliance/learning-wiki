@@ -43,6 +43,8 @@ Executive functions — impulse control, cognitive flexibility, working memory, 
 
 ## Examples
 
+- [Target emotion regulation skills in middle and high school youth to close the gap between emotional and cognitive control systems](../strategies/target-emotion-regulation-skills-adolescents.md)
+
 ## Key Sources
 - Steinberg, L. (2008). A social neuroscience perspective on adolescent risk-taking. *Developmental Review, 28*, 78-106.
 - Steinberg, L. (2013). *Adolescence* (10th ed.). McGraw-Hill.

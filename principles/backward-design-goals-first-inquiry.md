@@ -43,10 +43,13 @@ The article recommends designing inquiry activities by specifying goals first an
 - 
 
 ## Related Principles
-- 
+
+- [Make students' problem-solving and metacognition explicit during inquiry introductions to improve performance and retention](metacognition-prompts-in-inquiry-introduction.md)
 
 ## Examples
--
+
+- [Stellar Populations inquiry activity in which students construct their own Hertzsprung-Russell diagram from stellar images and spectra](../elements/stellar-populations-inquiry-activity.md)
+- [Use a burning-fuel analogy thinking tool to bridge data trends to stellar lifetimes and mass-to-energy conversion](../strategies/burning-fuel-thinking-tool-stellar-lifetimes.md)
 
 ## Key Sources
 - Rafelski, M., Foley, M., Graves, G. J., Kretke, K. A., Mills, E., Nassir, M., & Patel, S. (2010). Teaching Astronomy with an Inquiry Activity on Stellar Populations. ASP Conference Series. https://arxiv.org/abs/1009.5404

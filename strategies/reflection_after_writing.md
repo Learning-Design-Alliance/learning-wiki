@@ -60,9 +60,11 @@ Reflection after writing is a form of self-assessment that develops the monitori
 6. Require each student to extract one concrete strategy commitment to apply on the next assignment, and open the next cycle by revisiting it.
 
 ## Related Strategies
+
 - [Revision](../elements/revision.md) — reflection identifies which revision strategies to try next
 - [Portfolio Assessment](portfolio-assessment.md) — portfolios aggregate reflections over time, making growth visible
 - [Writing Conferences](writing-conferences.md) — the reflection memo supplies the conference agenda
+- [Use a Letter to the Reviewer reflective memo submitted with each draft](letter-to-the-reviewer-memo.md)
 
 ## Examples
 - **Process portfolios in secondary English** — students attach a one-paragraph reflection to each draft in a working portfolio, then write a cover letter at term's end synthesizing what they learned about their own writing process.

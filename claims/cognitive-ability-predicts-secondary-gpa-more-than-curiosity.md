@@ -41,7 +41,9 @@ Bivariate correlations with self-reported, degree-corrected secondary GPA (N = 4
 
 
 ## Related Claims
+
 - [Cognitive ability and curiosity are positively correlated in young adults](cognitive-ability-curiosity-positive-correlation.md) — related
 - [Neither cognitive ability, curiosity, nor epistemic behavior significantly predicts tertiary academic performance in the heterogeneous sample](no-significant-predictors-tertiary-gpa.md) — related
 - [Epistemic behavior does not mediate the relation of cognitive ability or curiosity with academic performance](epistemic-behavior-fails-to-mediate-academic-performance.md) — related
 - [Epistemic behavior relates to curiosity but not to cognitive ability](epistemic-behavior-relates-curiosity-not-cognitive-ability.md) — related
+- [Exploratory: leisure epistemic behavior mediates the relation of cognitive ability with tertiary academic performance, with a very small effect](leisure-epistemic-behavior-exploratory-mediation-tertiary.md)

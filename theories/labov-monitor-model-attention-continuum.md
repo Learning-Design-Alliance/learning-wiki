@@ -40,7 +40,8 @@ Labov's model, developed from observed variation in first language speech, treat
 - [Monitoring Variable Not All Or Nothing](../claims/monitoring-variable-not-all-or-nothing.md) [+M]
 
 ## Related Theories
-- 
+
+- [Krashen's Monitor Model: acquisition versus learning as separate internal rule systems](krashen-monitor-model-acquisition-learning.md)
 
 ## Examples
 -

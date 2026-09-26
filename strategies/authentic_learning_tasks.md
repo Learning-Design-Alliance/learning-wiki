@@ -60,8 +60,10 @@ Authentic tasks support transfer because knowledge encoded in the context of use
 6. Debrief to help learners abstract general principles from the situated experience, so transfer is not confined to the original context [~M].
 
 ## Related Strategies
+
 - [Case-Based Learning](case-based-learning.md) — a compressed authentic task built around a documented real situation
 - [Productive Failure](productive-failure.md) — an authentic problem can serve as the initial exploration before instruction
+- [Teach the five steps of scientific investigation through personally motivating video analysis and modeling projects](video-analysis-modeling-sport-science-strategy.md)
 
 ## Patterns That Use This Strategy
 - [Anchored Instruction](../patterns/anchored-instruction.md) — realistic narrative scenarios anchor problem solving

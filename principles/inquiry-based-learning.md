@@ -68,10 +68,12 @@ Inquiry-based learning is powerful when learners investigate genuine questions a
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M] — novices often need more structure than open inquiry advocates sometimes assume because unguided search can waste effort
 
 ## Related Principles
+
 - [Problem-Based Learning](problem-based-learning.md) — inquiry and problem-based designs overlap when questions are organized around authentic problems.
 - [Evaluating Sources](evaluating-sources.md) — inquiry requires judging the quality and relevance of evidence.
 - [Explaining Their Thinking](explaining-their-thinking.md) — inquiry culminates in explanation, justification, and revision.
 - [Guided Practice](guided-practice.md) — inquiry often works better when investigative moves are practiced with support before becoming independent.
+- [Design inquiry activities around student ownership and authenticity to real science and engineering practices](inquiry-ownership-and-authenticity.md)
 
 ## Examples
 - **Source-based investigation**: Learners pursue a question using multiple texts, data, or cases and justify their conclusion.

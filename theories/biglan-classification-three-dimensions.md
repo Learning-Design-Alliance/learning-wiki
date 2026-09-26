@@ -16,7 +16,7 @@ sources:
 # Biglan classification of academic disciplines as a framework for analyzing disciplinary variation in faculty work
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The Biglan classification characterizes academic disciplines along three dimensions: pure/applied (degree of concern with application of disciplinary knowledge), hard/soft (degree of paradigm consensus), and life/nonlife (whether the discipline concerns living organisms). This study is the first to use it as a conceptual framework for publicly engaged scholarship, assigning each faculty member's department a Biglan code and extending the classification to 40 departments that postdate Biglan's 1973 scheme. The article notes disciplines have evolved since 1973 and interdisciplinary scholarship poses a challenge to the classification.
@@ -36,16 +36,19 @@ The Biglan classification characterizes academic disciplines along three dimensi
 - understanding and documenting publicly engaged scholarship across faculty roles in research, teaching, service, and commercialized activities
 
 ### Claims
+
 - [Biglan Dimensions Vary Overall Engaged Scholarship](../claims/biglan-dimensions-vary-overall-engaged-scholarship.md) [+M]
 - [Biglan Main Types Engaged Scholarship](../claims/biglan-main-types-engaged-scholarship.md) [+M]
 - [Biglan Intensity Activity Varies](../claims/biglan-intensity-activity-varies.md) [+M]
 - [Biglan Degree Engagement Varies](../claims/biglan-degree-engagement-varies.md) [+M]
+- [Subtypes of publicly engaged scholarship vary by Biglan dimension, with applied faculty reporting five subtypes more often and soft faculty reporting two](../claims/biglan-subtypes-engaged-scholarship.md) [+M]
 
 ## Related Theories
 - [Biglan Four Dimension Department Classification](biglan-four-dimension-department-classification.md)
 
 ## Examples
--
+
+- [Replace one-size-fits-all engagement policies with discipline-specific RPT policies, professional development, and institutional support](../principles/discipline-specific-engaged-scholarship-policies.md)
 
 ## Key Sources
 - Doberneck, D. M., & Schweitzer, J. H. (2017). Disciplinary Variations in Publicly Engaged Scholarship: An Analysis Using the Biglan Classification of Academic Disciplines. Journal of Higher Education Outreach and Engagement, 21(1). https://portal.issn.org/resource/ISSN/1534-6104

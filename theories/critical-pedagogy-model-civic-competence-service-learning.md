@@ -42,7 +42,9 @@ A pedagogical model representing the relationship between community-based learni
 - [Syllabus Service Content Connection Strongest Pedagogical Relationship](../claims/syllabus-service-content-connection-strongest-pedagogical-relationship.md) [+M]
 
 ## Related Theories
-- 
+
+- [Competing conceptual models of service-learning: Butin's four perspectives and Mitchell's traditional/critical distinction](butin-mitchell-models-of-service-learning.md)
+- [Citizenship competence comprises three interrelated components: civic knowledge, civic skills, and civic dispositions or virtues](citizenship-competence-three-components.md)
 
 ## Examples
 -

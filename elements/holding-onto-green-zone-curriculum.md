@@ -40,10 +40,13 @@ A riparian education curriculum for learners in grades 5-8 or youth group member
 - environmental stewardship of local watersheds
 
 ## Related Elements
-- 
+
+- [Zone Notebooks: learner journals for processing, assessment, and sharing](zone-notebooks-journals.md)
 
 ## Examples
--
+
+- [Assess youth learning through journals, observation, discussion, and applied reflection products](../strategies/journal-observation-assessment-reflection.md)
+- [Engage youth as partners in stewardship rather than as subjects to be taught](../strategies/youth-as-stewardship-partners.md)
 
 ## Key Sources
 - Reilly, K., Wooster, B., Andrews, E., Bourdeau, V., Conley, R., & Thompson, M. (2008). Holding onto the GREEN Zone Leader Guide: A Youth Program for the Study and Stewardship of Community Riparian Areas. Bureau of Land Management. https://www.blm.gov/education

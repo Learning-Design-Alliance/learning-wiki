@@ -41,7 +41,9 @@ Spectral BKT is a reconceptualization of Bayesian Knowledge Tracing as a first-o
 - [Spectral Bkt Beats Standard Bkt Accuracy Kdd2010](../claims/spectral-bkt-beats-standard-bkt-accuracy-kdd2010.md) [+M]
 
 ## Related Theories
-- 
+
+- [Bayesian Knowledge Tracing: a two-state Hidden Markov Model inferring skill mastery from response histories](bkt-two-state-hmm-student-model.md)
+- [Two hypotheses for the meaning of Spectral BKT's intermediate states: a stages-of-mastery account and a mastery-by-metacognition interaction account](spectral-bkt-intermediate-state-hypotheses.md)
 
 ## Examples
 -

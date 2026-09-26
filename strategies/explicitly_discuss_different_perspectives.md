@@ -58,9 +58,11 @@ Structured perspective-taking discussion supports conceptual growth because lear
 6. Close with synthesis: learners articulate what the disagreement reveals about underlying assumptions and where they now stand ([Articulation](../elements/articulation.md)).
 
 ## Related Strategies
+
 - [Case-based discussion](../patterns/case-based-learning.md) — cases are a natural vehicle for embedding multiple stakeholder perspectives in one artifact
 - [Debate](../patterns/debate.md) — a formalized version of perspective discussion with assigned positions and evidence rules
 - [Discussion-based learning](../patterns/discussion-based-learning.md) — the broader pattern this strategy instantiates with a multiperspectival focus
+- [Facilitate cognitive disequilibrium about ethnocentric views](facilitate-cognitive-disequilibrium.md)
 
 ## Examples
 - **Facing History and Ourselves** (https://www.facinghistory.org) — published curriculum in which students analyze primary sources from multiple stakeholder positions on historical events, followed by structured discussion and reflection.

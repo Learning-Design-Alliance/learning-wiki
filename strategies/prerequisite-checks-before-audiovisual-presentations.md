@@ -37,7 +37,9 @@ Before using videotapes or other audiovisual aids in science, the teacher should
 - Comprehension of audiovisual science presentations
 
 ## Related Strategies
-- 
+
+- [Activating Prior Knowledge](activating-prior-knowledge.md)
+- [Audio + Structured Activity](audio-structured-activity.md)
 
 ## Examples
 -

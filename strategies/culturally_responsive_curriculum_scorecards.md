@@ -58,8 +58,10 @@ Scorecards operationalize culturally responsive pedagogy by making its criteria 
 5. Revise the curriculum, re-score, and repeat on a regular cycle so the scorecard functions as formative feedback for continuous improvement.
 
 ## Related Strategies
+
 - Curriculum audit and adoption review — scorecards supply the evaluation criteria that adoption committees otherwise apply informally
 - Co-design of curriculum with community partners — the same participatory stance that produces the scorecard produces the revisions
+- [Adapt DL2F to local context by aligning with the national curriculum, using authentic local materials, multilingual approaches, and pragmatic low-bandwidth technology integration](dl2f-philippine-contextual-adaptation-strategy.md)
 
 ## Examples
 - **[NYU Metro Center Culturally Responsive-Sustaining Education Scorecards](https://www.nyusteinhardt.edu/metrocenter/crehub/)** — classroom-, school-, and district-level scorecards aligned to New York State's CR-SE framework, used by districts nationally for curriculum and policy evaluation.

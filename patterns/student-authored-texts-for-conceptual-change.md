@@ -46,7 +46,8 @@ A literacy-instruction pattern in which students research a concept in voluntary
 - 
 
 ## Examples
--
+
+- [Use Student-Written Texts in Literacy Instruction](../strategies/use-student-written-texts-in-literacy-instruction.md)
 
 ## Key Sources
 - Student-written texts as supplementary reading material in EFL literacy instruction. (2005). https://eric.ed.gov

@@ -59,8 +59,10 @@ Giving learners authentic decision rights increases ownership and intrinsic moti
 5. **Close the loop repeatedly.** At each unit boundary, revisit what worked, using [Assessment for Learning](../principles/assessment-for-learning.md) data alongside student reflection.
 
 ## Related Strategies
+
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — the within-lesson counterpart: students choose how to pursue goals the curriculum sets
 - [Activating Prior Knowledge](activating_prior_knowledge.md) — voice mechanisms double as tools for surfacing what students already know and want to know
+- [Engage youth as partners in stewardship rather than as subjects to be taught](youth-as-stewardship-partners.md)
 
 ## Examples
 - **Students as Partners (International)** — a global movement documented by Cook-Sather and colleagues in which undergraduates co-design courses and curriculum with faculty; many institutions (e.g., McMaster's Student Partners Program) run formal partnership programs.

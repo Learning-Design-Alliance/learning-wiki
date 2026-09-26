@@ -16,7 +16,7 @@ sources:
 # Least restrictive environment defined by two components: proximity to the regular educational environment and opportunity to interact with non-handicapped children
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The report defines the LRE concept from P.L. 94-142 and its regulations as having two central components. It states that "the dual com- ponents central to the concept of "least restrictive environment" are (1) the proximity of an educational program to the regular educational environment; and (2) the degree of opportunity for handicapped children to interact with non-handicapped children." This framework underlies all the state and local policies the report analyzes, and it grounds the report's argument that placement decisions must weigh both physical setting and social contact.
@@ -36,13 +36,19 @@ The report defines the LRE concept from P.L. 94-142 and its regulations as havin
 - Access to academic, non-academic, and extracurricular services in conjunction with non-handicapped children
 
 ### Claims
-- 
+
+- [Colorado's financial incentives for community alternatives and an interagency agreement were followed by a decline in residential institutional placements](../claims/colorado-deinstitutionalization-incentives-declined-placements.md) [+W]
+- [Tacoma's progressive inclusion program pervaded district operations and limited out-of-district placements to two over twenty years](../claims/progressive-inclusion-limited-out-of-district-placements.md) [+W]
 
 ## Related Theories
-- 
+
+- [State education agency LRE policies cluster around three goals: influencing out-of-district placement, controlling institutional programs, and deinstitutionalization](sea-lre-policy-three-goals-taxonomy.md)
 
 ## Examples
--
+
+- [Least Restrictive Environment](../principles/least-restrictive-environment.md)
+- [Successful districts pursue LRE through four coordinated courses of action: explicit policy decisions, new less restrictive alternatives, improved placement decisions, and attitude change](../patterns/lea-four-course-lre-strategy.md)
+- [Reverse integration: bring non-handicapped children into handicapped children's classrooms to build acceptance for LRE placement](../strategies/reverse-integration-attitude-strategy.md)
 
 ## Key Sources
 - Farrow, Frank, and Cheryl Rogers. (1983). Policies Which Address Out-of-District Placements and Assure Education in the Least Restrictive Environment. A Report of the Handicapped Public Policy Analysis Project, Volume 3. https://eric.ed.gov/?id=ED245469

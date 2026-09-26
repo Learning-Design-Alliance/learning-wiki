@@ -55,9 +55,12 @@ Modeling works through observational learning and identification: children imita
 4. Connect new reading to what the child already knows and enjoys, activating their interests ([Activation](../elements/activation.md)).
 
 ## Related Strategies
+
 - Shared book reading — the interactive complement; modeling supplies the example, shared reading supplies the guided participation
 - Family literacy programs — structure and materials that make sustained modeling feasible for busy families
 - Independent silent reading — the school-side parallel where teachers model reading behavior
+- [Provide parent read-at-home plans and home reading strategies for struggling readers](parent-read-at-home-plans.md)
+- [Encourage cognition and literacy by providing varied reading, writing, and drawing materials and building environmental awareness](varied-materials-and-environmental-awareness-encourage-literacy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — parental reading is a naturalistic, long-duration demonstration of the target behavior

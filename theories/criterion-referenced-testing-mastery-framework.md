@@ -39,7 +39,8 @@ The article presents criterion-referenced testing as an approach to reading eval
 - [Criterion Referenced Tests Measure Mastery Not Relative Standing](../claims/criterion-referenced-tests-measure-mastery-not-relative-standing.md) [+M]
 
 ## Related Theories
-- 
+
+- [Criterion-referenced testing: tests deliberately constructed so scores tell what behaviors individuals can demonstrate](criterion-referenced-testing-definition.md)
 
 ## Examples
 -

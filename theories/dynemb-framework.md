@@ -43,7 +43,8 @@ DynEmb is a knowledge tracing framework with two independently trained component
 - 
 
 ## Examples
--
+
+- [Skill tag integration scheme: concatenating matrix-factorization question embeddings with one-hot skill tag embeddings, with l1-regularized tag-based initialization](../elements/dynemb-skill-tag-concatenation-integration.md)
 
 ## Key Sources
 - Liangbei Xu and Mark A. Davenport. (2020). Dynamic Knowledge Embedding and Tracing. Proceedings of The 13th International Conference on Educational Data Mining (EDM 2020). https://educationaldatamining.org

@@ -42,7 +42,8 @@ VoiceThread is a web-based multimedia tool used in this study to deliver three c
 - 
 
 ## Examples
--
+
+- [Asynchronous Voice](../strategies/asynchronous_voice.md)
 
 ## Key Sources
 - Lepore, C. E. (2014). Influencing Students' Pronunciation and Willingness to Communicate through Interpersonal Audio Discussions. Dimension 2014. http://www.voicethread.com

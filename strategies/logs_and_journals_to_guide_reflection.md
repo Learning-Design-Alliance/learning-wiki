@@ -60,8 +60,10 @@ Journaling supports learning primarily when it is *guided* — prompts that dire
 6. Respond with feedback focused on the quality of reflection, not the correctness of opinions ([Assessment](../elements/assessment.md))
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — rereading early entries reactivates the prior-knowledge state students started from, making change visible
 - [Action Research](action-research.md) — journals serve as the data record for teachers studying their own practice
+- [Use structured power-analysis journaling at the start and end of field placements to build critical consciousness](field-placement-power-analysis-journaling.md)
 
 ## Examples
 - **Dialogue journals in elementary science** — students record predictions and observations during investigations, then reread at unit's end to compare initial predictions with outcomes, revising their ideas in writing.

@@ -59,8 +59,10 @@ Relevance works primarily through task value: when learners perceive that conten
 6. Debrief the relevance explicitly — help students articulate how the skills transfer beyond the classroom, since relevance perceived by the teacher does not automatically become relevance perceived by the student [~W].
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — relevance works by connecting new content to what learners already know and care about
 - [Authentic Learning](../principles/authentic-audiences-purposes.md) — the structural form of relevance: real tasks, audiences, and consequences
+- [Form Interest Groups and Strengths-Based Groups in Science](interest-based-grouping-in-science.md)
 
 ## Examples
 - **[Anchored Instruction (Jasper Woodbury Project)](https://peabody.vanderbilt.edu/research/legacy_projects.php)** — Vanderbilt's Jasper Adventure series anchors mathematics problem solving in extended video narratives, giving abstract math a compelling story context.

@@ -42,7 +42,8 @@ The article adopts Martin and Reigeluth's (1999) framework dividing the affectiv
 - 
 
 ## Examples
--
+
+- [Do not simply reuse cognitive and psychomotor sequencing principles when sequencing affective learning](../principles/affective-sequencing-requires-own-principles.md)
 
 ## Key Sources
 - Wu, Yann-Shya. (2000). Guidelines for Instructional Sequencing in Emotional Literacy Learning Using PATHS Curriculum as an Example. https://eric.ed.gov/?id=ED455810

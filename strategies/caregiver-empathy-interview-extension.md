@@ -37,7 +37,9 @@ Step 2.1 of the exercise invites teachers to "take the opportunity to also inter
 - Understanding students' computing experiences from the home and family perspective
 
 ## Related Strategies
-- 
+
+- [Conduct empathy interviews as story-based conversations in comfortable, student-chosen settings](empathy-interview-conduct-practices.md)
+- [Close the empathy exercise by reflecting on surprises, systemic oppression, and short- and long-term design goals](empathy-exercise-reflection-and-forward-planning.md)
 
 ## Examples
 -

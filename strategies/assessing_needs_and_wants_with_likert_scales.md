@@ -59,9 +59,11 @@ Likert scales convert subjective learner states into comparable data, making the
 6. Re-administer a parallel form at closure and have learners compare confidence ratings with actual performance to build calibration.
 
 ## Related Strategies
+
 - Entry and exit tickets — the performance-based complement to self-report scales
 - Interest surveys and learner inventories — the "wants" side in more open-ended form
 - Confidence ratings before answer submission — item-level rather than unit-level calibration
+- [Use percentage-consensus opinionnaires to locate shared values before redesign](percentage-consensus-opinionnaires.md)
 
 ## Examples
 - **Pre-unit needs check in a science class:** "I can explain the difference between weather and climate" (1–5), used to decide whether to open with the review lesson or skip it.

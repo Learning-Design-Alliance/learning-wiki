@@ -40,7 +40,8 @@ The authors propose that Knowledge's Type A behaviors be viewed as a vector of u
 - [Application Synthesis Link Stronger Than Analysis Synthesis](../claims/application-synthesis-link-stronger-than-analysis-synthesis.md) [+M]
 
 ## Related Theories
-- 
+
+- [Taxonomy of Educational Objectives: Relational Domain](relational-domain-taxonomy-brandhorst.md)
 
 ## Examples
 -

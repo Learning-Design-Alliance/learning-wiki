@@ -61,8 +61,10 @@ Free play supports holistic development — physical, social, cognitive, and cre
 6. Use observations to guide resource selection and to inform families and assessment.
 
 ## Related Strategies
+
 - [Guided play](../strategies/play-based-learning.md) — an intermediate point on the child-led/adult-led continuum where adults embed learning goals in play
 - [Learning through play centers](../strategies/learning-centers.md) — structured provision of play zones with different material affordances
+- [Resist policies that reduce time for social pretend play in preschool and primary grades](resist-policies-reducing-social-pretend-play-time.md)
 
 ## Examples
 - **Anji Play (China)** — a published approach in which children engage in extended outdoor self-directed play with large, open materials (ladders, barrels, planks) while teachers observe and document; teachers later discuss play stories with children ([https://www.anjiplay.com](https://www.anjiplay.com))

@@ -58,6 +58,9 @@ Spearman correlation analysis of continuous factors in the survey. Training dura
 
 
 ## Related Claims
+
 - [Perceived AAC benefit score is positively correlated with the seven-item AAC implementation experience score](perceived-benefit-correlates-with-aac-experience.md) — related
 - [Parental awareness of alternative AAC systems is limited, and only about one-third agree AAC systems are suitable for all children](limited-parental-awareness-of-alternative-aac-systems.md) — related
 - [Parents of children with autism using AAC commonly report perceived benefits, most frequently increased communication opportunities](parents-report-high-perceived-aac-benefits-nablus.md) — related
+- [Barriers to integrating AAC into daily routines and accessing AAC programs are frequently reported despite high perceived benefits](aac-access-and-integration-barriers-frequent.md)
+- [No significant correlations were found between MDC speech articulation disorders and paternal separation time, family moves, rank, father's age, child's familial placement, or military occupation](mdc-articulation-null-correlates-paternal-factors.md)

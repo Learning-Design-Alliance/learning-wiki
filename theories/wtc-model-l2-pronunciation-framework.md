@@ -42,7 +42,8 @@ The article uses the WTC model (MacIntyre et al., 1998) as its organizing framew
 - 
 
 ## Examples
--
+
+- [VoiceThread interpersonal audio discussion activities for L2 pronunciation practice](../elements/voicethread-interpersonal-audio-discussions.md)
 
 ## Key Sources
 - Lepore, C. E. (2014). Influencing Students' Pronunciation and Willingness to Communicate through Interpersonal Audio Discussions. Dimension 2014. http://www.voicethread.com

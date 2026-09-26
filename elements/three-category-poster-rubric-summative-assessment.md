@@ -39,7 +39,8 @@ A rubric used to score individual poster presentations as a summative assessment
 - communication skills
 
 ## Related Elements
-- 
+
+- [Performance-Based Assessment](performance-based-assessment.md)
 
 ## Examples
 -

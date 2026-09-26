@@ -39,7 +39,8 @@ The TPI procedure includes three follow-up instruments developed "in the form of
 - showing student achievements and learning
 
 ## Related Elements
-- 
+
+- [TPI conceptual map with associated resources, published online for navigation](tpi-conceptual-map-artifact.md)
 
 ## Examples
 -

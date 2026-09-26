@@ -59,10 +59,12 @@ CBQ converts a routine quiz into a metacognitive monitoring exercise: the confid
 6. Repeat across sessions and show learners their calibration trend over time.
 
 ## Related Strategies
+
 - [Retrieval Practice](retrieval-practice.md) — CBQ is a metacognitive layer on top of quizzing; the retrieval itself is what builds memory
 - [Self-Assessment](../elements/self-assessment.md) — confidence ratings are a micro-form of self-assessment done at item level
 - [Error Analysis](../principles/error-analysis.md) — confident errors surfaced by CBQ are the highest-value material for error analysis
 - [Spaced Repetition](../elements/spaced-repetition.md) — calibration data can drive scheduling of what to review
+- [Analyze the types of errors students make on assessment items, not just correct/incorrect scores](error-type-analysis-informs-teaching.md)
 
 ## Examples
 - **Confidence-Based Marking in UK medical exams** — Gardner-Medford and Sparrow's confidence-weighted scoring scheme, used in medical school assessments to reward well-calibrated knowledge and discourage guessing.

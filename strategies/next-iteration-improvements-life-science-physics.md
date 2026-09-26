@@ -39,7 +39,9 @@ The authors' forward-looking recommendations for improving the reformed course: 
 - extended project work connecting disciplines
 
 ## Related Strategies
-- 
+
+- [Develop bridging techniques linking cognitive strategies to content knowledge areas](bridging-cognitive-strategies-to-content-knowledge.md)
+- [Extend the curriculum with student-built interferometer projects and a Bayesian parameter-estimation unit](future-extensions-interferometer-and-bayesian-unit.md)
 
 ## Examples
 -

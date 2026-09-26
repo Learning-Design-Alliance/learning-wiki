@@ -40,7 +40,8 @@ The guide's central design recommendation is that the three components of Contro
 - [Boston Controlled Choice Most Students Get First Or Second Choice](../claims/boston-controlled-choice-most-students-get-first-or-second-choice.md) [+M]
 
 ## Related Principles
-- 
+
+- [Design large, contiguous, heterogeneous attendance zones with equivalent programs and limited transport time](large-heterogeneous-attendance-zones.md)
 
 ## Examples
 -

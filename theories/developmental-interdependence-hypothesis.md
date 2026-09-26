@@ -42,7 +42,8 @@ The developmental interdependence hypothesis is the paper's central explanatory 
 - [Mother Tongue Preservation Predicts L2 Achievement](../claims/mother-tongue-preservation-predicts-l2-achievement.md) [+M]
 
 ## Related Theories
-- 
+
+- [Krashen's five hypotheses of second language acquisition as principles for bilingual program design](krashen-five-hypotheses-l2-acquisition.md)
 
 ## Examples
 -

@@ -97,8 +97,10 @@ The pattern is useful when learners need to reason through messy situations rath
 - Teams can take different roles or analyze different facets of the same anchor.
 
 ## Related Patterns
+
 - [Problem-Based Learning (PBL)](problem-based-learning-pbl.md)
 - [Goal-Based Scenarios (GBS)](goal-based-scenarios-gbs.md)
+- [Learning by Producing (multimedia production as learning)](learning-by-producing-pattern.md)
 
 ## Examples
 - Jasper-style video math problems that embed quantitative reasoning in a narrative.

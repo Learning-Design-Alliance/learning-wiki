@@ -40,10 +40,12 @@ A tired and hungry student will find it difficult to focus on learning — physi
 ## Claims
 
 ## Related Theories
+
 - [Self-Determination Theory](self-determination-theory.md) — SDT's autonomy, competence, and relatedness needs partially echo Maslow's esteem, self-actualization, and love/belonging tiers, but SDT treats its three needs as co-equal and simultaneously active rather than hierarchically ordered
 - [Self-Efficacy Theory](self-efficacy-theory.md) — task-specific capability belief maps loosely onto the confidence component of Maslow's esteem tier, but is narrower and more directly testable
 - [Expectancy-Value Theory](expectancy-value-theory.md) — a contrasting motivational paradigm (expectancy × value predicting engagement) rather than a need-satisfaction account
 - [Behaviorism](behaviorism.md) – the chapter this page draws on explicitly contrasts Maslow's holistic, needs-based view of the learner against reductionist stimulus-response accounts of motivation
+- [Level of occupational aspiration (LOA) as a special instance of level-of-aspiration theory with expression levels and goal periods](loa-expression-levels-and-goal-periods-framework.md)
 
 ## Examples
 <!-- Candidate future claim page: Tay & Diener (2011) — needs are cross-culturally universal but not hierarchically ordered, tagged [~S]. -->

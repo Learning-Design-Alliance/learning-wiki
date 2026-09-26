@@ -37,7 +37,15 @@ The article recommends offering learners multiple assessment choices — multipl
 - Accurate measurement of learner knowledge and skills; development of self-directed learning
 
 ## Related Strategies
-- 
+
+- [Varying Levels of Choice in Assessments](varying_levels_of_choice_in_assessments.md)
+- [Multimodal Assignments](multimodal_assignments.md)
+- [Choice Boards](choice_boards.md)
+- [Project Options and Self-Grading](project_options_and_self-grading.md)
+- [Respect Diverse Talents and Ways of Learning](respect_diverse_talents_and_ways_of_learning.md)
+- [Rethinking Accountability](rethinking_accountability.md)
+- [Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time](student-owned-portfolios-maker-assessment.md)
+- [Use a three-stage model to help learners identify and apply their learning-style characteristics](three-stage-learning-style-awareness-model.md)
 
 ## Examples
 -

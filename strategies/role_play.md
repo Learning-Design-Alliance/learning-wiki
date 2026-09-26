@@ -61,10 +61,12 @@ Role play is a form of [Active Learning](../principles/active-learning.md) that 
 5. **Re-run or transfer.** Repeat with role rotation or a variation of the scenario, then connect to real-world application ([Practice](../elements/practice.md)).
 
 ## Related Strategies
+
 - [Acting-Role-Play](acting-role-play.md) — the theatrical variant, emphasizing performance and characterization over professional skill rehearsal
 - [Case-Based Learning](../patterns/case-based-learning.md) — role play can enact a case; the case supplies the scenario and the role play supplies the interaction
 - [Debate](../patterns/debate.md) — a formalized role play with adversarial positions and explicit argument rules ([Argumentation](../elements/argumentation.md))
 - [Experiential Learning Cycle](../patterns/experiential-learning-cycle.md) — role play maps onto the cycle's "experience" phase; the debrief is the reflective phase
+- [Use experiential intercultural training methods such as simulations, role-playing and critical incidents to encounter perceptual and value differences](experiential-intercultural-training-methods.md)
 
 ## Related Elements
 - [Act It Out](../elements/act-it-out.md) — the enactment element at the core of role play

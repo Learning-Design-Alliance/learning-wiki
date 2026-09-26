@@ -62,9 +62,11 @@ Debate is a high-intensity form of [Active Learning](../principles/active-learni
 6. Follow with individual synthesis writing to consolidate ([Articulation](../elements/articulation.md))
 
 ## Related Strategies
+
 - [Structured Academic Controversy](structured_academic_controversy.md) — the cooperative-learning variant that switches sides and synthesizes
 - [Role-Play](acting-role-play.md) — adjacent strategy; debate is role-play with an adversarial evidence structure
 - [Socratic Seminar](socratic-seminar.md) — dialogue-based alternative that probes rather than opposes
+- [Refuse debate with pseudoscience until the challenge is met, using the challenge's existence as the argument](refuse-debate-until-challenge-met.md)
 
 ## Examples
 - **Structured academic controversy in environmental science**: teams debate a land-use proposal, switch sides mid-activity, then jointly write a recommendation — the standard Johnson & Johnson classroom format

@@ -42,7 +42,10 @@ The guide presents a Local Curriculum Development Model (Figure 1) with four coo
 - 
 
 ## Examples
--
+
+- [Industrial arts pyramid program across operational levels](../patterns/industrial-arts-pyramid-program-levels.md)
+- [Level-differentiated emphases: awareness, exploration, specialization](../patterns/level-differentiated-awareness-exploration-specialization.md)
+- [Recommended scope and sequence with per-cluster course time allocations](../patterns/recommended-scope-sequence-time-allocations.md)
 
 ## Key Sources
 - The Iowa Guide for Curriculum Improvement in Industrial Arts, K-12. A Study of Industrial Technology. (1975). Iowa State Dept. of Public Instruction. https://eric.ed.gov/?id=ED113517

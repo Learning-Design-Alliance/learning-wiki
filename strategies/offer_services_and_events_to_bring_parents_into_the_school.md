@@ -59,8 +59,10 @@ Parent involvement research shows that families participate more when schools ac
 6. **Follow up and iterate.** Collect attendance and feedback after every event; adjust topics and formats, and personally invite non-attending families to the next one.
 
 ## Related Strategies
+
 - Home visits and positive phone calls home — complementary outreach that builds the individual relationships events can only start at scale
 - Community-based learning — extends the school-as-hub model outward into reciprocal community partnerships
+- [Offering Multiple Options for Family Engagement](offering_multiple_options_for_family_engagement.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — low-stakes relational routines that turn attendance into community

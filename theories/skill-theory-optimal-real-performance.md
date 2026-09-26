@@ -39,7 +39,10 @@ Fischer and Knight present skill theory as a tool for analyzing children's devel
 - 
 
 ## Related Theories
-- 
+
+- [Reflective Judgment Framework: a three-level developmental model of reasoning about ill-defined problems](reflective-judgment-framework-three-levels.md)
+- [Stages of Cognitive Development](stages-of-cognitive-development.md)
+- [Play and Cognitive Development](play-and-cognitive-development.md)
 
 ## Examples
 -

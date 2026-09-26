@@ -41,10 +41,13 @@ KP-Lab technology provided a basic platform, the Knowledge Practices Environment
 - [Trialogical Learning Framework](../theories/trialogical-learning-framework.md)
 
 ## Related Elements
-- 
+
+- [Cloud technology as information source and activity tool in the learning model](cloud-technology-information-source-and-tool.md)
+- [KP-Lab toolset supporting four types of mediation, including the Visual Model Editor and analytic mirroring tools](kp-lab-mediation-tools.md)
 
 ## Examples
--
+
+- [Pedagogical scenarios that organise learning around knowledge creation with shared objects](../strategies/trialogical-pedagogical-scenarios.md)
 
 ## Key Sources
 - Reynolds, S., & Camilleri, A. F. (2010). KP-LAB: Breaking New Ground on How to Create Knowledge Through Learning. EDEN 2010 Conference, Valencia.

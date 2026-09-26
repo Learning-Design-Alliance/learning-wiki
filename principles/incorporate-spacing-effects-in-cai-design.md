@@ -44,7 +44,8 @@ The dissertation recommends that educational software developers build spacing e
 - 
 
 ## Examples
--
+
+- [CAI-Structured: a computer assisted instruction program designed with spaced practice and spaced review](../elements/cai-structured-program.md)
 
 ## Key Sources
 - Caple, Carlous. (1996). The Effects of Spaced Practice and Spaced Review on Recall and Retention Using Computer Assisted Instruction. Doctoral Dissertation, North Carolina State University. https://eric.ed.gov/?id=ED427772

@@ -43,10 +43,12 @@ The article's laboratory design integrates three strands in one experiment: an a
 - 
 
 ## Related Patterns
-- 
+
+- [Combining visual demonstrations, guided inquiry, computational-model manipulation, and group discussion to teach cutting-edge science concepts](demo-inquiry-model-discussion-sequence.md)
 
 ## Examples
--
+
+- [Extend the curriculum with student-built interferometer projects and a Bayesian parameter-estimation unit](../strategies/future-extensions-interferometer-and-bayesian-unit.md)
 
 ## Key Sources
 - Daniel J. D'Orazio, Mark Pearson, Justin T. Schultz, Daniel Sidor, Michael Best, Kenneth Goodfellow, Robert E. Scholten, and James D. White. (2010). Measuring the speed of light using beating longitudinal modes in an open-cavity HeNe laser. https://arxiv.org/abs/1006.5462

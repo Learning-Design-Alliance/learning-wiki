@@ -61,10 +61,12 @@ Portfolio creation functions as sustained self-assessment: students must evaluat
 7. **Assess.** Evaluate the portfolio against the shared rubric, weighting reflection quality and evidence of growth ([Assess Performance](../elements/assess-performance.md)).
 
 ## Related Strategies
+
 - Learning Journals — a lighter-weight, text-only variant focused on ongoing reflection rather than artifact curation
 - Self-Assessment — the core skill practice embedded in portfolio selection and reflection
 - Student-Led Conferences — a common use of portfolios as the evidence base for student-presented meetings with families
 - Goal Setting — portfolios make goal progress concrete and reviewable
+- [Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time](student-owned-portfolios-maker-assessment.md)
 
 ## Related Elements
 - [Assessment](../elements/assessment.md) — portfolios function as both process and product assessment

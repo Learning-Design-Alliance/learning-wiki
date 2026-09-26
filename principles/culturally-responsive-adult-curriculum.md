@@ -43,7 +43,8 @@ The article recommends that adult education curriculum be flexible and reflect t
 - [Sharing Experiences Modifies Attitudes](../claims/sharing-experiences-modifies-attitudes.md) [+W]
 
 ## Related Principles
-- 
+
+- [Adopt humanistic and radical approaches so adult learners develop as individuals and can question social injustice](humanistic-radical-adult-education.md)
 
 ## Examples
 -

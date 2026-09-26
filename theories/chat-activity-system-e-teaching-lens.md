@@ -40,10 +40,16 @@ The article applies Engeström's CHAT, in which the activity system is "object-o
 - [Tool Change Most Disruption Online Teaching](../claims/tool-change-most-disruption-online-teaching.md) [+M]
 
 ## Related Theories
-- 
+
+- [Activity theory: a mediated activity system framework for analyzing cognition in context](activity-theory-mediated-activity-system.md)
+- [Cultural-historical activity theory (CHAT) as a framework for analyzing community service-learning](chat-framework-for-community-service-learning.md)
+- [Activity theory frames human activity as a system of six interacting elements (subject, object, tools, community, rules, division of labor)](chat-six-element-activity-framework.md)
 
 ## Examples
--
+
+- [Make collaboration paramount in pedagogy because humanity is intrinsically collective](../principles/collaboration-paramount-pedagogy-collectivity.md)
+- [Support e-teachers' transition with professional development focused on reflecting on online-versus-F2F differences and the potential of the tools](../strategies/pd-reflection-online-versus-f2f-differences.md)
+- [Interpret CHAT study results by starting with simple start-to-finish change analysis, then working through relationships among activity elements](../strategies/chat-interpretation-simple-to-whole-activity.md)
 
 ## Key Sources
 - Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl

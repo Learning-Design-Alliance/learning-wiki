@@ -59,9 +59,11 @@ Self explanation forces the learner to actively integrate new information with p
 5. Fade the prompts as expertise develops, shifting toward learner-initiated explanation ([Fading](../elements/fading.md)).
 
 ## Related Strategies
+
 - [Worked Examples](../strategies/use_worked_examples.md) — the most common carrier; step-by-step self explanation prompts turn passive example study into active processing
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — instructor version of the same move; models the explaining learners are later prompted to do
 - [Elaborative Interrogation](../strategies/elaborative-interrogation.md) — the "why is this true?" variant applied to factual text rather than procedures
+- [Use elaborative interrogation (answering why a fact is true) as a low-resource strategy for science content that conflicts with student misconceptions](elaborative-interrogation-minimal-resource-adjunct.md)
 
 ## Examples
 - **Chi et al.'s classic paradigm** — Studying physics worked examples with each step annotated, prompted "What is this line telling you? Explain why it was done."

@@ -40,7 +40,8 @@ The article frames early decoding as drawing on executive function, defined as "
 - [Embedded Cognitive Flexibility No Overall Advantage Winter Kindergarten](../claims/embedded-cognitive-flexibility-no-overall-advantage-winter-kindergarten.md) [~M]
 
 ## Related Theories
-- 
+
+- [Five-dimension framework of preschool executive function with three core components advancing ages 3 to 5](preschool-ef-five-dimension-framework.md)
 
 ## Examples
 -

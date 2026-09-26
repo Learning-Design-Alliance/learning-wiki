@@ -59,8 +59,10 @@ Inferring word meaning from context engages learners in generative processing, w
 6. Recycle the words in later lessons at increasing intervals [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
 
 ## Related Strategies
+
 - **Teaching word-learning strategies** — context inference is one of several independent strategies learners should command
 - **Extensive reading** — the primary natural engine for repeated contextual encounters after instruction
+- [Teach vocabulary by varying contexts rather than repeating words within the same context](vary-contexts-for-vocabulary-teaching.md)
 
 ## Examples
 - **Opening conversation routine:** each class begins with a 5–10 minute discussion on a topic engineered to elicit the previous week's target vocabulary, converting receptive knowledge into productive use.

@@ -61,7 +61,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 643 pages | 3 | q3–q4 | 3 of 3 |
 | [Self-explanation improves conceptual understanding and problem-solving performance.](claims/self-explanation-improves-conceptual-understanding.md) | 510 pages | 2 | q3–q4 | 2 of 2 |
 | [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 429 pages | 2 | q4 | 2 of 2 |
-| [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 412 pages | 3 | q3–q4 | 3 of 3 |
+| [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 413 pages | 3 | q3–q4 | 3 of 3 |
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 364 pages | 2 | q3–q4 | 1 of 2 |
 | [Self-monitoring improves self-regulation and supports better learning decisions.](claims/self-monitoring-improves-self-regulation.md) | 346 pages | 2 | q3 | 2 of 2 |
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 335 pages | 2 | q4 | 2 of 2 |
@@ -70,7 +70,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Assessment for learning improves achievement](claims/assessment-for-learning-improves-achievement.md) | 227 pages | 3 | q2–q3 | 2 of 3 |
 | [Contingent scaffolding improves learning more than fixed or absent support.](claims/contingent-scaffolding-improves-learning.md) | 205 pages | 5 | q3–q4 | 5 of 5 |
 | [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 196 pages | 2 | q1–q2 | 2 of 2 |
-| [Fading support promotes the transfer of responsibility from instructor to learner.](claims/fading-support-promotes-transfer-of-responsibility.md) | 183 pages | 2 | q3 | 2 of 2 |
+| [Fading support promotes the transfer of responsibility from instructor to learner.](claims/fading-support-promotes-transfer-of-responsibility.md) | 184 pages | 2 | q3 | 2 of 2 |
 | [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 178 pages | 1 | q3 | 1 of 1 |
 | [Activation Improves Learning](claims/activation-improves-learning.md) | 166 pages | 3 | q3 | 1 of 3 |
 | [Multiple Contrasting Cases Support Abstraction](claims/multiple-contrasting-cases-support-abstraction.md) | 159 pages | 2 | q3–q4 | 1 of 2 |
@@ -90,17 +90,17 @@ Of the 38 claims cited from 50 or more pages, **8 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-43 claims are cited both ways.
+52 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 134 | 83 | 146 | 2 |
-| [Decorative Illustrations Do Not Improve Learning](claims/decorative-illustrations-do-not-improve-learning.md) | 19 | 8 | 45 | 3 |
-| [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 345 | 44 | 22 | 3 |
+| [Decorative Illustrations Do Not Improve Learning](claims/decorative-illustrations-do-not-improve-learning.md) | 20 | 8 | 45 | 3 |
+| [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 346 | 44 | 22 | 3 |
 | [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 552 | 67 | 19 | 3 |
 | [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 2 | 161 | 11 | 1 |
+| [Minimal guidance is less effective for novices than explicit instruction](claims/minimal-guidance-less-effective-for-novices.md) | 1 | 2 | 10 | 3 |
 | [Coherence Principle Irrelevant Material Hurts Learning](claims/coherence-principle-irrelevant-material-hurts-learning.md) | 19 | 4 | 9 | 3 |
-| [Minimal guidance is less effective for novices than explicit instruction](claims/minimal-guidance-less-effective-for-novices.md) | 1 | 2 | 9 | 3 |
 | [Pairing worked examples with practice or fading supports transfer better than examples …](claims/worked-examples-with-practice-improve-transfer.md) | 46 | 1 | 9 | 2 |
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 289 | 22 | 8 | 2 |
 | [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md) | 59 | 11 | 7 | 1 |
@@ -121,13 +121,13 @@ Each page that cites claims carries its own profile under its title. Summarised 
 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
-| [principles](principles/index.md) | 422 | 275 | 3 | 0 |
+| [principles](principles/index.md) | 422 | 323 | 2 | 0 |
 | [elements](elements/index.md) | 569 | 171 | 5 | 0 |
-| [patterns](patterns/index.md) | 238 | 119 | 1 | 0 |
+| [patterns](patterns/index.md) | 238 | 163 | 1 | 0 |
 | [strategies](strategies/index.md) | 2,908 | 2,319 | 6 | 0 |
 | [processes](processes/index.md) | 12 | 11 | 6 | 0 |
 | [methods](methods/index.md) | 17 | 11 | 3 | 0 |
-| [theories](theories/index.md) | 600 | 269 | 1 | 0 |
+| [theories](theories/index.md) | 600 | 466 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 8.5 | 0 |
 
 ## Toward pooled estimates

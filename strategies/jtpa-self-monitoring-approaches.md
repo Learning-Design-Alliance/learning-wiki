@@ -37,7 +37,8 @@ The guide presents three models districts may adapt: an administrative approach 
 - Organizing and conducting a local compliance review
 
 ## Related Strategies
-- 
+
+- [Nine-step self-monitoring review process for local job-training program compliance](jtpa-nine-step-self-monitoring-process.md)
 
 ## Examples
 -

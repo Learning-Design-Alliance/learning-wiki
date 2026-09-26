@@ -39,7 +39,9 @@ Chapter III presents two inter-related types of general goals for the entire K-1
 - 
 
 ## Related Theories
-- 
+
+- [Career cluster concept for organizing industrial arts study](career-cluster-concept-industrial-arts.md)
+- [Industrial technology as the content base for industrial arts](industrial-technology-content-base-industrial-arts.md)
 
 ## Examples
 -

@@ -71,6 +71,8 @@ Retrieval is one of the most robust findings in learning science: testing as a l
 **Retrieval warm-ups ("brain dumps")** — Opening a class with 2–3 minutes of free recall of the previous session's content, then comparing notes; a low-cost classroom routine with strong evidence support.
 
 **[Khan Academy](https://www.khanacademy.org)** — Mastery-practice exercises interleave retrieval questions across topics, requiring learners to recall which method applies, not just execute it.
+- [Increase the use of feedback and correctives through mastery learning procedures](../strategies/formative-tests-with-corrective-feedback.md)
+- [Retrieval Practice With Graphic Organizers](../strategies/retrieval_practice_with_graphic_organizers.md)
 
 ## Key Sources
 - Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)

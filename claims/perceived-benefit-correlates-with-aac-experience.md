@@ -41,6 +41,8 @@ Exploratory Spearman correlation analysis (valid n = 70) in the cross-sectional 
 
 
 ## Related Claims
+
 - [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md) — related
 - [Parental awareness of alternative AAC systems is limited, and only about one-third agree AAC systems are suitable for all children](limited-parental-awareness-of-alternative-aac-systems.md) — related
 - [Parents of children with autism using AAC commonly report perceived benefits, most frequently increased communication opportunities](parents-report-high-perceived-aac-benefits-nablus.md) — related
+- [Barriers to integrating AAC into daily routines and accessing AAC programs are frequently reported despite high perceived benefits](aac-access-and-integration-barriers-frequent.md)

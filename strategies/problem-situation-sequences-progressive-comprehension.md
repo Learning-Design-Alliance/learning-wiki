@@ -40,7 +40,10 @@ The authors propose identifying a sequence of situations-problems whose resoluti
 - [Onto Semiotic Approach Framework](../theories/onto-semiotic-approach-framework.md)
 
 ## Related Strategies
-- 
+
+- [Anchored Instruction](anchored-instruction.md)
+- [Real World Math Applications](real-world_math_applications.md)
+- [Real World_Math_Connections](real-world_math_connections.md)
 
 ## Examples
 -

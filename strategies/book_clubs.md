@@ -61,9 +61,11 @@ Book clubs work because they combine social negotiation of meaning with learner 
 6. Close each cycle with a synthesis product — a written response, book talk, or cross-group share — so individual learning is visible ([Assessment](../elements/assessment.md)).
 
 ## Related Strategies
+
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a more scripted, strategy-focused variant of small-group text discussion
 - [Jigsaw](jigsaw.md) — an alternative cooperative structure when each member reads a different text segment
 - [Socratic Seminar](socratic-seminar.md) — whole-class, teacher-facilitated discussion; a useful contrast or follow-on to club autonomy
+- [Implement student-led weekly discussion groups in which rotating leaders choose topics, facilitate discussion, and post summaries, unmediated by teaching staff](student-led-rotating-discussion-leader-groups.md)
 
 ## Examples
 - **Literature circles (Daniels, 2002)** — the widely adopted role-based format used across K–12 classrooms; see overview at [Harvey Daniels' work](https://www.heinemann.com/authors/424).

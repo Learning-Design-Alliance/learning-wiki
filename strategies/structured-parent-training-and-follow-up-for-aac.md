@@ -39,7 +39,8 @@ The article recommends that AAC implementation extend beyond introducing the com
 - Parental confidence and consistent AAC use in daily routines
 
 ## Related Strategies
-- 
+
+- [Parent-teacher collaboration on independent self-care tasks and patience training to promote EF](parent-teacher-collaboration-independent-tasks-patience.md)
 
 ## Examples
 -

@@ -40,7 +40,9 @@ A vocabulary activity, adapted from Haley (2010), in which each student is assig
 - [Cognitive Learning Theory Active Constructive](../theories/cognitive-learning-theory-active-constructive.md)
 
 ## Related Strategies
-- 
+
+- [Picture Word Inductive Model](picture-word-inductive-model.md)
+- [Word Maps](word_maps.md)
 
 ## Examples
 -

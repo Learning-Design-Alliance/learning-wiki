@@ -48,7 +48,8 @@ The TIP model is "a psychological perception model rather than a design-performa
 - 
 
 ## Examples
--
+
+- [Use audience-perception associations to set design priorities for digital lacquer-painting experiences, pending evaluation with real interfaces](../strategies/audience-informed-design-priorities-digital-heritage.md)
 
 ## Key Sources
 - Liu Yuanyuan. (2026). Audience attitudes and aesthetic perception of digitally empowered contemporary lacquer painting: a survey-based technology-imagery-perception model. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1866076

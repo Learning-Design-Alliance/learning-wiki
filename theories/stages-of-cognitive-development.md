@@ -63,6 +63,7 @@ Critics working in the 1960s–70s argued Piaget likely **underestimated** child
 ## Claims
 
 ## Related Theories
+
 - [Constructivism](constructivism.md) — Piaget's work is the direct historical foundation constructivist theories build on: children actively construct rather than passively receive knowledge
 - [Constructionism](constructionism.md) — Papert's extension of Piagetian constructivism, adding the requirement that learning takes the form of building a public, shareable artifact
 - [Sociocultural Theory](sociocultural-theory.md) — stands in explicit contrast: Piaget holds that developmental stages are biologically determined and precede learning, while Vygotsky held that learning (mediated by social interaction) drives development
@@ -70,9 +71,18 @@ Critics working in the 1960s–70s argued Piaget likely **underestimated** child
 - [Piaget's Theory of Moral Development](piaget-moral-development.md) — Piaget's account of moral reasoning applies the same cognitive-maturation logic (here, to how children treat rules) as the broader stage theory
 - [Play and Cognitive Development](play-and-cognitive-development.md) — Piaget's types of play track the cognitive-stage sequence described here
 - [Adolescent Brain Development](adolescent-brain-development.md) — the formal-operational capacity for abstract reasoning does not by itself guarantee consistent application under the emotional/social pressures adolescents face
+- [Co-constructionism requires an active individual, an active environment, and culture](co-constructionism-active-individual-environment-culture.md)
+- [Piaget's account of ludic symbolism: make-believe play as symbolic assimilation bridging concrete experience and abstract thought](ludic-symbolism-make-believe-play.md)
+- [Piaget's genetic epistemology studies how the human mind moves from less sufficient to higher knowledge](piaget-genetic-epistemology-constructivist-knowing.md)
+- [Piaget's taxonomy of play: practice games, symbolic games, and games with rules](piaget-three-categories-of-play.md)
+- [Fischer and Knight's skill theory of cognitive development in real children](skill-theory-optimal-real-performance.md)
+- [Trial constructivism as the root of constructivism (Piaget's personal constructivism)](trial-constructivism-root-of-constructivism.md)
+- [Lowenfeld and Brittain's stages of art development parallel Piaget's stages of cognitive development](lowenfeld-art-stages-parallel-piaget-stages.md)
 
 ## Examples
+
 - [Chart-Based Retrieval and Spaced Practice](../strategies/chart-based_retrieval_and_spaced_practice.md) — uses a chart to outline Piaget's stage theory in an AP Psychology class
+- [Sequence concrete, observation-based content first and gradually increase hypothetical and theoretical content as reasoning develops](../strategies/concrete-first-topic-sequence-for-reasoning-development.md)
 
 ## Key Sources
 - Piaget, J. (1926). *The language and thought of the child*.

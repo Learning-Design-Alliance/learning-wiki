@@ -17,7 +17,7 @@ sources:
 # Prioritize reciprocal bidirectional knowledge exchange so both parties from different cultural backgrounds contribute and learn equally in international courses
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 For equitable international education, institutions should ensure that partners from different cultural backgrounds contribute and learn equally, extending bidirectional exchange to the institutional level. In the course, the Philippine colleague shaped the content focus while Dutch colleagues contributed CEL/CBL experience. As the article reports, "The incorporation of a COIL component en - abled students from the Netherlands and the Philippines to jointly learn from each other's unique perspectives on global planetary health challenges."
@@ -37,13 +37,17 @@ For equitable international education, institutions should ensure that partners 
 - intercultural collaboration and locally tailored solutions to global planetary health challenges
 
 ### Claims
-- 
+
+- [Developing and delivering an integrated CBL/CEL/COIL planetary health course yielded three key lessons on flexibility, structural reform, and equitable partnerships](../claims/planetary-health-course-three-key-lessons.md) [+W]
 
 ## Related Principles
-- 
+
+- [Developing Your Cultural Awareness](developing-your-cultural-awareness.md)
 
 ## Examples
--
+
+- [Combining challenge-based learning, community-engaged learning, COIL, and cross-university collaboration in one course design](../patterns/cbl-cel-coil-cuc-integrated-course-pattern.md)
+- [Cultural Exchange Kits](../strategies/cultural_exchange_kits.md)
 
 ## Key Sources
 - Addison, J., Mangnus, E., Cunanan, D. J., Downward, G. S., de Jong, L., van de Kamp, J., Llamas, C. A., Guinto, R. R., & Browne, J. L. (2025). Advancing Societally Engaged and International Planetary Health Education: Innovations, Lessons, and Recommendations for Educators. Journal of Higher Education Outreach and Engagement, 29(2). https://openjournals.uga.edu/jheoe

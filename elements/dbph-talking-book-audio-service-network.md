@@ -40,7 +40,9 @@ A national free reading service for blind and physically handicapped readers, au
 - 
 
 ## Examples
--
+
+- [Rich Library Audio & Braille](../strategies/rich-library-audio-braille.md)
+- [Purchase standardized compatible subassemblies in large quantities to cut equipment repair cost and time](../strategies/standardized-compatible-subassemblies-repair-reduction.md)
 
 ## Key Sources
 - Innovative Systems Research, Inc. (1975). A Planning Study for the Conversion of Recorded Books and Magazines from Rigid Discs to Cassettes and Flexible Discs. Final Report. https://eric.ed.gov/?id=ED107292

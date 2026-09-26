@@ -73,3 +73,7 @@ Incidental word learning from context is real but low-yield per exposure: meta-a
 1. **Select or level the text.** Choose passages where target words are surrounded by informative context and overall coverage is at least 95% known words; adjust difficulty with leveled text sources (see Examples).
 2. **Prepare the reader.** Briefly activate relevant background knowledge and preview 2–5 high-utility words so the context encounter is an *elaboration* rather than a first exposure ([Activation](../principles/activation.md); [Advance Organizers](../elements/advance-organizers.md)).
 3. **Model contextual inference.** Demonstrate forming a tentative meaning from context clues, checking it against the rest of the sentence,
+
+## Related Strategies
+
+- [Teach vocabulary by varying contexts rather than repeating words within the same context](vary-contexts-for-vocabulary-teaching.md)

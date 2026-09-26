@@ -40,7 +40,8 @@ The article uses real enrollment data for a United States university from 1971 t
 - 
 
 ## Examples
--
+
+- [Apply three membership-based principles to translate fuzzy forecast outputs into numeric values](../strategies/three-principles-interpret-fuzzy-output-numbers.md)
 
 ## Key Sources
 - Song, Qiang; Chissom, Brad S. (1991). Forecasting Enrollments with Fuzzy Time Series. https://eric.ed.gov/?id=ED340733

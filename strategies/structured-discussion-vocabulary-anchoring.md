@@ -41,7 +41,11 @@ A third-generation vocabulary strategy in which, after the teacher gives a word'
 - [Experience With Languaging Activities](../patterns/experience-with-languaging-activities.md)
 
 ## Related Strategies
-- 
+
+- [Dynamically Introduce Academic Vocabulary](dynamically_introduce_academic_vocabulary.md)
+- [Association](association.md)
+- [Keyword Strategy](keyword_strategy.md)
+- [Pictionary (Pre-Reading)](pictionary-pre-reading.md)
 
 ## Examples
 -

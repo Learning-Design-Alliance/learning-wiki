@@ -60,10 +60,12 @@ Retrieval of relevant prior knowledge at the start of instruction improves compr
 5. Proceed into new content while continuing to make explicit links back to the activated knowledge.
 
 ## Related Strategies
+
 - [Retrieval Practice](retrieval-practice.md) — activation is a retrieval event; spaced retrieval of prior units doubles as review
 - [Pretesting](pretesting.md) — asking questions about not-yet-learned material, a related "forward" activation that primes attention
 - [Misconception Repair](misconception-repair.md) — the necessary follow-through when activation surfaces errors
 - [Spaced Practice](../principles/spaced-practice.md) — activation prompts at lesson openings can implement spacing of earlier content
+- [Verify Prerequisite Knowledge Before Audiovisual Presentations](prerequisite-checks-before-audiovisual-presentations.md)
 
 ## Examples
 - **[KWL charts](https://www.readingrockets.org/strategies/kwl)** — a widely used reading-comprehension routine in which students list what they Know and Want to learn before reading, then return to record what they Learned.

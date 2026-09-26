@@ -41,7 +41,8 @@ The editors maintain that students should see course content within a nexus of j
 - [Montclair Judgment Centered Critical Thinking](../theories/montclair-judgment-centered-critical-thinking.md) [+S]
 
 ## Related Principles
-- 
+
+- [Help students understand disciplines as modes of inquiry rather than static bodies of information](disciplines-as-modes-of-inquiry.md)
 
 ## Examples
 -

@@ -58,9 +58,11 @@ Shared writing makes the composition process visible and distributed: students o
 5. Read the finished text together, then transfer responsibility: students write their own related piece independently.
 
 ## Related Strategies
+
 - [Interactive Writing](interactive-writing.md) — a variant in which students share the pen for known text features
 - [Modeled Writing](modeled-writing.md) — the teacher-only precursor; shared writing adds student contributions
 - [Process Writing](process-writing.md) — the broader drafting-and-revising cycle this strategy supports
+- [Position children as primary knowers by having them dictate texts for a real purpose to a teacher acting as scribe](children-as-primary-knowers-dictation-co-construction.md)
 
 ## Examples
 - A third-grade teacher used shared writing to review a geometry unit: students generated a word bank of shape attributes, composed sentences describing 3-D solids, and revised them for precise vocabulary (e.g., replacing "pointy" with "vertex").

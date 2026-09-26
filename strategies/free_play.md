@@ -58,9 +58,11 @@ Free play builds agency and intrinsic motivation by giving learners control over
 5. Consolidate afterward: use [Peer Discussion](../elements/peer-discussion.md) or [Individual Reflection](../elements/individual-reflection.md) to help children narrate and consolidate what they did and learned, connecting play to [Application](../elements/application.md) of ideas in new contexts.
 
 ## Related Strategies
+
 - [Guided Play](guided-play.md) — the intermediate point on the child-direction continuum, where adults design the play context toward curricular goals
 - [Learning Through Play](learning-through-play.md) — the broader family of play-based pedagogies
 - [Cooperative Learning](cooperative-learning.md) — structures the social interaction that free play develops informally
+- [Resist policies that reduce time for social pretend play in preschool and primary grades](resist-policies-reducing-social-pretend-play-time.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — free play provides repeated, self-initiated practice of emerging skills in varied contexts

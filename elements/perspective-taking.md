@@ -68,10 +68,12 @@ Perspective-taking deepens learning when learners must actively construct the ot
 - Structured Academic Controversy (Johnson & Johnson) — learners argue one side, switch sides, then seek consensus; the canonical perspective-taking pattern
 
 ## Examples
+
 - **Structured Academic Controversy** — Johnson & Johnson's format: pairs research and present one position, reverse perspectives, then drop roles and build consensus; widely used in cooperative learning curricula
 - **[Facing History & Ourselves](https://www.facinghistory.org)** — history curriculum built on adopting the viewpoints of historical actors and victims to teach ethical reasoning
 - **Mock trials and moot courts** in law education — students argue assigned sides, requiring full reconstruction of opposing legal reasoning
 - **[iCivics](https://www.icivics.org)** — "Argument Wars" and related games cast students as advocates for positions they must argue from the inside
+- [Use a seven-perspective reflective heuristic (locus, process, politics, metaphor, history, existence, systems) to respond to professional conflict](../strategies/seven-perspective-conflict-heuristics-wpa.md)
 
 ## Key Sources
 - Galinsky, A. D., & Moskowitz, G. B. (2000). Perspective-taking: Decreasing stereotype expression, stereotype accessibility, and in-group favoritism. *Journal of Personality and Social Psychology, 78*(4), 708–723. [doi:10.1037/0022-3514.78.4.708](https://doi.org/10.1037/0022-3514.78.4.708)

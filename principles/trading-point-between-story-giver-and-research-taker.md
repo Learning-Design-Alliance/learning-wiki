@@ -17,7 +17,7 @@ sources:
 # Establish a viable trading point between life story giver and research taker through active collaboration
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article argues that listening to people and capturing their voices is not sufficient; a far more active collaboration is required. The key to a viable trading point is the differential structural location of the research taker: the academic has the time and resources to collaborate with teachers in developing genealogies of context, offering back goods in the trade. In such conditions collaboration between differentially located parties may at last begin.
@@ -37,10 +37,14 @@ The article argues that listening to people and capturing their voices is not su
 - collaborative understanding of teachers' lives and the contexts of schooling
 
 ### Claims
+
 - Hierarchy Of Credibility Privileges Top Accounts [+M]
+- [Narrative and storying genres in educational inquiry risk disempowering the very people they claim to empower](../claims/narrative-genres-may-disempower-while-claiming-empowerment.md) [+W]
+- [Storying is socially and politically non-neutral: it privileges some storylines and silences others](../claims/storying-privileges-some-storylines-silences-others.md) [+W]
 
 ## Related Principles
-- 
+
+- [Involve students in the revision process as a collaborative endeavor rather than a giver-receiver relationship](involve-students-in-revision-process.md)
 
 ## Examples
 -

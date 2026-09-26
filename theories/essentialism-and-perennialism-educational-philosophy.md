@@ -35,9 +35,11 @@ generated:
 - Perennialism: reasoned, analytical engagement with timeless ideas, verified through discussion and reasoning rather than testing alone
 
 ## Related Theories
+
 - [Realism (Educational Philosophy)](realism-educational-philosophy.md) — the ontology Essentialism tends to subscribe to
 - [Idealism (Educational Philosophy)](idealism-educational-philosophy.md) — Perennialism's use of Socratic dialogue and a canon of "universal truths" echoes Idealism's own commitments
 - [Pragmatism and Progressivism (Educational Philosophy)](pragmatism-and-progressivism-educational-philosophy.md) — explicitly contrasts with both Essentialism and Perennialism on curriculum structure, teacher role, and assessment
+- [Taxonomy of educational philosophies: Perennialism, Essentialism, Pragmatism, Reconstructionism, and Existentialism](educational-philosophies-taxonomy-wiles-bondi.md)
 
 ## Examples
 - A standardized, testing-heavy curriculum built around a fixed set of core subjects (Essentialism)

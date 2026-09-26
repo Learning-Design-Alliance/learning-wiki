@@ -37,7 +37,8 @@ When a change effort encounters resistance, the digest recommends using Zaltman 
 - overcoming stakeholder resistance to educational innovations
 
 ## Related Strategies
-- 
+
+- [Address environmental deficiencies using Ely's Conditions for Change, such as leadership commitment and professional development](ely-conditions-for-change-address-environment.md)
 
 ## Examples
 -

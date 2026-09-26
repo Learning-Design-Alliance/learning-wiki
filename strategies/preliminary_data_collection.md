@@ -59,9 +59,11 @@ Data-informed problem framing improves the fit between interventions and local c
 6. Summarize findings into a problem statement and revise research questions ([Summarization and Synthesis](../elements/summarization-and-synthesis.md))
 
 ## Related Strategies
+
 - [Action Research](action-research.md) — preliminary data collection is the diagnosing phase of an action-research cycle
 - [Data-Driven Dialogue](data-driven-dialogue.md) — the structured sense-making protocol that converts collected data into shared interpretations
 - [Equity Audits](equity-audits.md) — a systematic application focused on disaggregated inequity data
+- [Conduct a needs assessment combining baseline district data and projective opinion data before designing a middle school](needs-assessment-baseline-and-projective-data.md)
 
 ## Examples
 - A school team reviewing achievement and behavioral data disaggregated by race, then conducting walkthroughs and student focus groups to understand school culture before redesigning discipline practices — surfacing how specific policies reinforced disproportionality.

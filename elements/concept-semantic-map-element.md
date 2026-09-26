@@ -40,10 +40,20 @@ A graphic organizer in which concepts are represented as nodes and their relatio
 - [Semantic Network Theory](../theories/semantic-network-theory.md)
 
 ## Related Elements
+
 - [Semantic Mapping Principle](../principles/semantic-mapping-principle.md)
+- [Concept Mapping](concept-mapping.md)
+- [Concept Map](concept-map.md)
 
 ## Examples
--
+
+- [Student-generated mapping exercise](../strategies/student-generated-mapping-strategy.md)
+- [Teacher-provided graphic map as review](../strategies/teacher-provided-advance-graphic-map.md)
+- [Graphic Organizers for Assessment](../strategies/graphic_organizers_for_assessment.md)
+- [Visualizations and Mind Maps](../strategies/visualizations_and_mind_maps.md)
+- [Lecture Support with Graphic Organizers](../strategies/lecture_support_with_graphic_organizers.md)
+- [Graphic Organizers as Thinking Tools](../strategies/graphic_organizers_as_thinking_tools.md)
+- [Unit Planning with Graphic Organizers](../strategies/unit_planning_with_graphic_organizers.md)
 
 ## Key Sources
 - Jonassen, D. H. (1984). Semantic relationships and structural knowledge acquisition in introductory psychology. https://eric.ed.gov/?id=ED258538

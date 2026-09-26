@@ -84,10 +84,12 @@ Connecting instruction to learners’ cultural and life experiences improves lea
 - [Embodied dance improvisation supports physics engagement and sense-making](../claims/embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) [+W] — validating learners' trained movement vocabularies as legitimate scientific expression extends cultural-connection to embodied, not just verbal or artifact-based, resources
 
 ## Related Principles
+
 - [Building Empathy](building-empathy.md) — cultural connection often depends on taking learners' lived realities seriously.
 - [Developing Your Cultural Awareness](developing-your-cultural-awareness.md) — instructors need awareness of their own assumptions to make meaningful connections well.
 - [Strengths-Based Approach](strengths-based-approach.md) — this principle treats learner background as an asset rather than a deficit.
 - [Instructor Accessibility](instructor-accessibility.md) — accessible relationships help learners contribute their own contexts to the work.
+- [Personalizing physics by making each student the object of study bridges science and everyday reality](personalization-making-student-the-object-bridges-science-and-reality.md)
 
 ## Examples
 - **Community-based examples**: Mathematics, literacy, or policy tasks use scenarios drawn from learners' work, neighborhood, or civic contexts.

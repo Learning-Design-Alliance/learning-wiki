@@ -59,10 +59,12 @@ Testing is not merely measurement: retrieval itself is a powerful learning event
 6. Pair with [Spaced Practice](../principles/spaced-practice.md) and [Feedback](../elements/feedback.md); use results to adjust instruction ([Assessment for Learning](../principles/assessment-for-learning.md)).
 
 ## Related Strategies
+
 - [Spaced Practice](../principles/spaced-practice.md) — distributing quizzes over time multiplies the retention benefit
 - [Feedback](../elements/feedback.md) — the corrective half of the quizzing cycle; testing without feedback can entrench errors
 - [Formative Assessment](formative-assessment.md) — the broader practice of using assessment evidence to adapt teaching
 - [Mastery Learning](mastery-learning.md) — low stakes quizzes can serve as the mastery checkpoints
+- [Increase the use of feedback and correctives through mastery learning procedures](formative-tests-with-corrective-feedback.md)
 
 ## Examples
 - **[Retrieval Practice](https://www.retrievalpractice.org)** (Agarwal & Bain) — classroom guides and research summaries for implementing low stakes quizzing across grade levels.

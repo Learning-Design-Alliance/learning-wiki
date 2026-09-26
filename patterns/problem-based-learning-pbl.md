@@ -103,12 +103,14 @@ The pattern is strongest when the problem is authentic enough to matter and the 
 - Products can vary, including presentations, proposals, designs, or cases.
 
 ## Related Patterns
+
 - [Anchored Instruction](anchored-instruction.md)
 - [Case-Based Learning (Harvard Method)](case-based-learning-harvard-method.md)
 - [Interdisciplinary Societal Dilemma Units](interdisciplinary-societal-dilemma-units.md) — a variant specific to civic/societal dilemmas spanning named disciplines
 - [Organization Simulation for Interdisciplinary Learning](organization-simulation-for-interdisciplinary-learning.md) — adds a competitive external evaluator and organizational role structure to the authentic-problem, facilitated-inquiry core
 - [Interdisciplinary Course-Based Research Experience](interdisciplinary-course-based-research-experience.md) — organizes inquiry around a recurring shared object rather than a single driving problem
 - [Bioart Boundary-Crossing Making](bioart-boundary-crossing-making.md) — organizes inquiry around progressive institutional access and material engagement
+- [Learning by Producing (multimedia production as learning)](learning-by-producing-pattern.md)
 
 ## Examples
 - Medical learners diagnosing and responding to a patient scenario.

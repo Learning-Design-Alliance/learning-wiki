@@ -17,7 +17,7 @@ sources:
 # Design large, contiguous, heterogeneous attendance zones with equivalent programs and limited transport time
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The guide specifies zone design rules: "Zones should be large enough to encompass heterogeneous population groups but small enough to limit student transportation time toand from school within the zone to not more than thirty, thirty-five, or forty minutes." Zones should aggregate contiguous neighborhoods of different population groups to avoid the appearance of gerrymandering, encompass equivalent educational programs, and reflect districtwide racial composition, with a minority critical mass of at least one-fifth.
@@ -37,10 +37,13 @@ The guide specifies zone design rules: "Zones should be large enough to encompas
 - proportional access to all schools and programs
 
 ### Claims
-- 
+
+- [Neighborhood-based desegregation plans are short-term and eventually defeated by shifting residential patterns](../claims/neighborhood-based-desegregation-plans-short-term.md) [-W]
 
 ## Related Principles
-- 
+
+- [Use choice data as a referendum to identify and improve least-chosen schools rather than magnetizing only the best](improve-least-chosen-schools-via-choice-data.md)
+- [Implement desegregation, choice, and school improvement simultaneously rather than incrementally](simultaneous-desegregation-choice-improvement.md)
 
 ## Examples
 -

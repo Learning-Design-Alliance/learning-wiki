@@ -16,7 +16,7 @@ sources:
 # Colearn: a multi-task memory-augmented deep learning model jointly predicting knowledge state and hint-taking
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Colearn extends the DKVMN memory-augmented knowledge tracing model by encoding each interaction as a tuple (qt, rt, ht) of question, response, and hint usage, and by adding hint-taking prediction as an auxiliary task sharing network weights. The input encoding uses a vector of length 2|Q|+1 whose "last dimension of the vector is a binary value indicating whether a hint is taken". The loss is a weighted sum of cross-entropy losses for the two tasks with equal weights, and the network weights except the final output layer are shared between tasks.
@@ -37,14 +37,18 @@ Colearn extends the DKVMN memory-augmented knowledge tracing model by encoding e
 - Predicting likelihood of taking a hint
 
 ### Claims
+
 - [Memory Augmented Model Improves Hint Prediction](../claims/memory-augmented-model-improves-hint-prediction.md) [+M]
 - [Auxiliary Hint Task Improves Knowledge Tracing](../claims/auxiliary-hint-task-improves-knowledge-tracing.md) [+M]
+- [Jointly modeling hint-taking with knowledge tracing adds a small consistent improvement to hint-taking prediction](../claims/joint-modeling-improves-hint-prediction-small-margin.md) [+W]
 
 ## Related Theories
-- 
+
+- [Deep Learning Knowledge Tracing Models](deep-learning-knowledge-tracing-models.md)
 
 ## Examples
--
+
+- [Use predicted hint-taking likelihood and hint effects to adaptively decide whether to withhold or provide hints](../strategies/adaptive-hint-withholding-from-hint-prediction.md)
 
 ## Key Sources
 - Ritwick Chaudhry, Harvineet Singh, Pradeep Dogga, and Shiv Kumar Saini. (2017). Modeling Hint-Taking Behavior and Knowledge State of Students with Multi-Task Learning. Proceedings of the 11th International Conference on Educational Data Mining. https://educationaldatamining.org/

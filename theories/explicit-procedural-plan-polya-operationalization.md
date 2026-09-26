@@ -42,7 +42,8 @@ The article describes textbook problem-solving plans derived from Polya's four p
 - 
 
 ## Examples
--
+
+- [Math Story Chart: a four-step word-problem organizer (Tell-Show-Solve-Answer and Look Back)](../elements/math-story-chart-four-step.md)
 
 ## Key Sources
 - Zambo, Ron; Hess, Robert. (1994). The Gender Differential Effects of a Procedural Plan for Solving Mathematical Word Problems. ERIC. https://eric.ed.gov/?id=ED375005

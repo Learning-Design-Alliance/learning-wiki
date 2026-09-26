@@ -41,7 +41,14 @@ Under the CMP, planners gather two types of data before redesign: baseline data 
 - [Wiles Bondi Curriculum Management Plan](../theories/wiles-bondi-curriculum-management-plan.md)
 
 ## Related Strategies
-- 
+
+- [Map the curriculum by grading periods to eliminate gaps and redundancy and enable interdisciplinary planning](curriculum-mapping-by-grading-periods.md)
+- [Use percentage-consensus opinionnaires to locate shared values before redesign](percentage-consensus-opinionnaires.md)
+- [Preliminary Data Collection](preliminary_data_collection.md)
+- [Using Empathy Interviews for Family Engagement](using_empathy_interviews_for_family_engagement.md)
+- [Student Shadowing (For Educator Insights)](student-shadowing-for-educator-insights.md)
+- [Home Visits](home-visits.md)
+- [Student Shadowing (Qualitative Data Collection)](student-shadowing-qualitative-data-collection.md)
 
 ## Examples
 -

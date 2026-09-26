@@ -37,7 +37,12 @@ The paper recommends mentoring as a major component for effective community-base
 - personal, professional, and intellectual growth through guided one-to-one learning
 
 ## Related Strategies
-- 
+
+- [Provide institutional support to enable relationship-building in critical service-learning](institutional-support-for-critical-service-learning-relationships.md)
+- [Match teacher education, mentoring, and evaluation to developmental stage: routines and scripts for novices, analytical mentors from the competent and proficient, and stage-appropriate evaluation](stage-matched-teacher-education-policy.md)
+- [Community Involvement](community_involvement.md)
+- [Check In/Check Out](check-incheck-out.md)
+- [Investigate technology's role in community-based lifelong learning delivery as a research priority](technology-in-community-based-lifelong-learning-research.md)
 
 ## Examples
 -

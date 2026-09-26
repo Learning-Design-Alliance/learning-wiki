@@ -58,10 +58,12 @@ Graphic organizers improve learning primarily by revealing structure — the hie
 5. Fade support over time: move from provided organizers to skeletal frames to fully learner-generated maps as expertise develops.
 
 ## Related Strategies
+
 - [Advance Organizers](../elements/advance-organizers.md) — the provided, pre-instructional variant of this strategy
 - [Annotating](../principles/annotating.md) — a complementary text-marking strategy; organizers restructure, annotation highlights
 - [Chunking](../principles/chunking.md) — organizers work partly by grouping related information into visible units
 - [Case Studies](../elements/case-studies.md) — organizers can scaffold case analysis by structuring what to extract
+- [Student-generated mapping exercise](student-generated-mapping-strategy.md)
 
 ## Examples
 - **Inspiration / Kidspiration (https://www.inspiration.com)** — widely used K–12 concept-mapping software; students build diagrams that convert to outlines, linking visual and linear forms.

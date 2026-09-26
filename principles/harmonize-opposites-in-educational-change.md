@@ -43,7 +43,8 @@ Applying Newton's third law as a metaphor, the essay argues every educational ch
 - [Mixed Homogeneous Heterogeneous Grouping](../claims/mixed-homogeneous-heterogeneous-grouping.md) [+W]
 
 ## Related Principles
-- 
+
+- [Adopted instructional materials should reflect learning principles, pupil maturity, major cultures, varied teaching methods, and individual differences](materials-reflect-principles-of-learning.md)
 
 ## Examples
 -

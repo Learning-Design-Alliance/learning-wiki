@@ -47,7 +47,10 @@ A two-day, paper-based inquiry for advanced high-school to senior college studen
 - 
 
 ## Examples
--
+
+- [Use a burning-fuel analogy thinking tool to bridge data trends to stellar lifetimes and mass-to-energy conversion](../strategies/burning-fuel-thinking-tool-stellar-lifetimes.md)
+- [Keep an extra unassigned spectrum (a red giant) in reserve to challenge students who finish early or reach an incorrect answer](../strategies/eleventh-star-reserve-spectrum.md)
+- [Use carefully chosen starter images to elicit student questions that are investigable with the given materials](../strategies/starter-images-elicit-investigable-questions.md)
 
 ## Key Sources
 - Rafelski, M., Foley, M., Graves, G. J., Kretke, K. A., Mills, E., Nassir, M., & Patel, S. (2010). Teaching Astronomy with an Inquiry Activity on Stellar Populations. ASP Conference Series. https://arxiv.org/abs/1009.5404

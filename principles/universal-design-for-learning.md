@@ -85,6 +85,8 @@ UDL shifts the design question from "how do we fix this learner?" to "how do we 
 
 ## Examples
 
+- [Offering Multiple Options for Family Engagement](../strategies/offering_multiple_options_for_family_engagement.md)
+
 ### Illustrative
 
 **[Choice Boards](../elements/choice-boards.md)** — A grid of equivalent tasks through which learners demonstrate the same objective (e.g., write, record, or diagram an explanation). A well-designed board enforces equal rigor across options and requires all learners to hit the same success criteria.

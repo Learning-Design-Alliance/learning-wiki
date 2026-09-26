@@ -79,11 +79,14 @@ Flexible grouping is most useful when learner need changes across tasks and over
 - [Communities of Practice](communities-of-practice.md) — repeated regrouping can broaden participation and expertise sharing across the class
 
 ## Examples
+
 <!-- Links to elements or patterns that apply this principle -->
 - [Small Group Instruction](../strategies/small_group_instruction.md) — targeted support groups formed around a current need
 - Heterogeneous groups for discussion and homogeneous temporary groups for a short focused mini-lesson
 - Regrouping by interest, strategy use, error pattern, or project role rather than by fixed ability labels
 - Rotating roles can keep group membership fluid while making contribution expectations explicit
+- [Use Heterogeneous Groups for Projects and Homogeneous Groups for Skill Achievement](../strategies/heterogeneous-grouping-for-science-projects.md)
+- [Form Interest Groups and Strengths-Based Groups in Science](../strategies/interest-based-grouping-in-science.md)
 
 ## Key Sources
 - Burris, C. C., Heubert, J. P., & Levin, H. M. (2006). Accelerating mathematics achievement using heterogeneous grouping. *American Educational Research Journal, 43*(1), 137-154. [doi:10.3102/00028312043001105](https://doi.org/10.3102/00028312043001105)

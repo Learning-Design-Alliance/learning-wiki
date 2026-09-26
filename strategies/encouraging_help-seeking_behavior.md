@@ -61,9 +61,11 @@ Help-seeking is a core component of [Self-Regulated Learning](../theories/self-r
 6. **Monitor and follow up.** Track who is *not* asking; proactively invite quiet or struggling students via [Coaching](../elements/coaching.md) conversations.
 
 ## Related Strategies
+
 - Formative feedback routines — feedback is a form of delivered help; its tone determines whether students seek more
 - Peer tutoring structures — institutionalize help-seeking between students
 - Mastery-oriented grading — removes the performance cost of admitting confusion
+- [Use predicted hint-taking likelihood and hint effects to adaptively decide whether to withhold or provide hints](adaptive-hint-withholding-from-hint-prediction.md)
 
 ## Examples
 - **Carnegie Learning's MATHia (Cognitive Tutor)** — implements an on-demand hint system with sequenced hints and a Help-Seeking tutor that coaches students on *when and how* to request help, based on Aleven and Koedinger's research (https://www.carnegielearning.com).

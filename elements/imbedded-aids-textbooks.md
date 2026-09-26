@@ -40,10 +40,14 @@ A proposed major modification summarized as "to put a teacher in every textbook 
 - [Languaging In Content Areas Thesis](../theories/languaging-in-content-areas-thesis.md)
 
 ## Related Elements
-- 
+
+- [In-process comprehension checks embedded within the text](in-process-comprehension-checks.md)
+- [Vocabulary assistance embedded directly in the text](vocabulary-assistance-in-text.md)
+- [Precis summary notes placed alongside the basic text](precis-summary-notes.md)
 
 ## Examples
--
+
+- [Embed units of assistance and enrichment into the fabric of textual material so they are unobtrusive yet available for reader use](../strategies/embedded-aids-to-readers.md)
 
 ## Key Sources
 - Manzo, Anthony V.; Sherk, John K., Jr. (1977). Reading and "Languaging in the Content Areas" A Third Generational Approach. https://eric.ed.gov/?id=ED136190

@@ -44,7 +44,8 @@ The article presents person-centered counseling and psychotherapy as the framewo
 - Rogers Book Converted Patterson Client Centered [+M]
 
 ## Related Theories
-- 
+
+- [Person-Centered Psychology](person-centered-psychology.md)
 
 ## Examples
 -

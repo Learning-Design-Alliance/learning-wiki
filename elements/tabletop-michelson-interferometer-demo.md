@@ -40,7 +40,9 @@ A tabletop Michelson interferometer used as a demonstration supplementing a modi
 - 
 
 ## Examples
--
+
+- [Extend the curriculum with student-built interferometer projects and a Bayesian parameter-estimation unit](../strategies/future-extensions-interferometer-and-bayesian-unit.md)
+- [Use freely available gravitational-wave education tools and resources, including Black Hole Hunter and Einstein's Messengers](../strategies/grav-wave-education-tools-for-educators.md)
 
 ## Key Sources
 - Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720

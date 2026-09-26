@@ -17,7 +17,7 @@ sources:
 # OSP guided inquiry lesson pattern: pairs investigate with what-if scenarios, peer instruction, and class presentation
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 In the OSP how-to pattern, students typically work in pairs to investigate a physical phenomenon using the technology. They come up with their own 'what-if' scenarios and simulate them to discover and better understand the physics behind it. Peer instruction is another way students make sense of the data, and students may present their analysis and defend their interpretation before the entire class, supporting an inquiry nature that lets students work and think like scientists.
@@ -37,13 +37,16 @@ In the OSP how-to pattern, students typically work in pairs to investigate a phy
 - investigating physical phenomena, generating and testing what-if scenarios, defending interpretations of findings
 
 ### Claims
-- 
+
+- [The OSP approach helps users overcome barriers in creating, using and scaling up meaningful ICT use in education](../claims/osp-overcomes-ict-barriers.md) [+W]
 
 ## Related Patterns
 - 
 
 ## Examples
--
+
+- [Inquiry-Based Exploration](../elements/inquiry-based-exploration.md)
+- [Guided Inquiry](../strategies/guided_inquiry.md)
 
 ## Key Sources
 - Wee Loo Kang. (2013). Open Source Physics. i in Practice 1(1), 58-63. http://ictconnection.opal.moe.edu.sg/cos/o.x?ptid=711&c=/ictconnection/ictlib&func=view&rid=82

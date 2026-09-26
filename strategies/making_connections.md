@@ -60,8 +60,10 @@ Connection-making works because new information is encoded more durably and retr
 6. Revisit and refine connections as understanding deepens, replacing idiosyncratic links with disciplinary ones
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the prerequisite step; connections can only be made to knowledge that is accessible
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — the principled form of text-to-text connection, mapping structure from a familiar to an unfamiliar domain
+- [Directly teach students when, why, and how to elaborate on new information](directly-teach-elaborative-processing-strategies.md)
 
 ## Examples
 - **Reciprocal Teaching (Palincsar & Brown)** — small-group reading routine in which students take turns questioning, summarizing, clarifying, and predicting, with explicit "connect this to…" prompts during discussion

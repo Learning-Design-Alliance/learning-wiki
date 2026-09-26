@@ -73,9 +73,11 @@ Portfolio development converts assessment artifacts into objects of metacognitiv
 - Portfolio development has been shown to increase student engagement, promote self-reflection, and provide a more holistic assessment of learning than traditional methods. Digital portfolios can enhance student creativity and digital literacy skills.
 
 ## Related Strategies
+
 - [Learning Journals](learning-journals.md) — the same reflective cycle applied to process notes rather than work samples
 - [Exhibition of Learning](exhibition-of-learning.md) — a public culmination that gives portfolios an authentic audience
 - [Student-Led Conferences](student-led-conferences.md) — a structure in which learners use their portfolios to lead evaluation conversations with families
+- [Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time](student-owned-portfolios-maker-assessment.md)
 
 ## Related Elements
 - [Articulation](../elements/articulation.md) — the written or spoken rationale that turns selection into learning

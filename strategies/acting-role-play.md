@@ -63,10 +63,12 @@ Role play is a form of [Active Learning](../principles/active-learning.md) groun
 6. Optionally repeat with role reversal or a modified scenario to test transfer
 
 ## Related Strategies
+
 - [Act It Out](act_it_out.md) — the dramatization variant for younger learners and narrative texts
 - [Case-Based Learning](case-based-learning.md) — role play often enacts a case, adding embodied perspective to case analysis
 - [Debate](debate.md) — a structured perspective-taking format with argumentative rather than dramatic roles
 - [Simulation](../elements/simulation.md) — the broader family of experiential enactment strategies
+- [Use experiential intercultural training methods such as simulations, role-playing and critical incidents to encounter perceptual and value differences](experiential-intercultural-training-methods.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — modeling a skilled enactment before learners attempt their own

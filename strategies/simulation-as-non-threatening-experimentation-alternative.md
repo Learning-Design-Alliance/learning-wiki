@@ -41,7 +41,8 @@ The report recommends that a manager facing congestion or budget pressure run th
 - [Descriptive Simulation Modeling Framework Es Office](../theories/descriptive-simulation-modeling-framework-es-office.md)
 
 ## Related Strategies
-- 
+
+- [Match the input-parameter estimation method (managerial estimates vs. time study) to the accuracy the simulation purpose requires](match-input-estimation-method-to-required-accuracy.md)
 
 ## Examples
 -

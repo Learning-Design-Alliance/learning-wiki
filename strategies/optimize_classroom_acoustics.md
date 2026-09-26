@@ -59,8 +59,10 @@ Speech is the primary instructional medium, and degraded acoustics impose a cont
 5. Schedule noise-sensitive activities (read-alouds, assessments, listening tasks) away from predictable noise sources and high-traffic times.
 
 ## Related Strategies
+
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the broader behavioral and environmental approach to noise in learning spaces
 - [Chunking](../principles/chunking.md) — acoustic optimization protects the same working-memory capacity that chunking conserves
+- [Specify acoustic, durable finishes and mandatory carpeting in quiet and severe-disorder spaces](acoustic-finishes-and-mandatory-carpeting-specification.md)
 
 ## Examples
 - **ANSI S12.60 classroom acoustics standard (USA)** — specifies maximum background noise (35 dBA) and reverberation times for core learning spaces; used as the benchmark for school construction and retrofit. ([https://www.ansi.org](https://www.ansi.org))

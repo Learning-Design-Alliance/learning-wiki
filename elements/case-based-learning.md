@@ -51,11 +51,13 @@ Case-based learning improves exam performance and supports transfer by forcing l
 - [Cognitive Flexibility](../principles/cognitive-flexibility.md) — multiple cases illustrating the same concept from different angles prepare learners to apply it flexibly across varied situations
 
 ## Related Elements
+
 - [Case Study](case-study.md) — the written artifact that carries the scenario; case quality determines analysis quality
 - [Problem-Based Learning](problem-based-learning.md) — a closely related pattern in which the case is an open problem driving self-directed inquiry rather than guided analysis
 - [Decision-Making](decision-making.md) — the core cognitive activity cases elicit; cases give it authentic stakes
 - [Class Discussion](class-discussion.md) — the typical vehicle for comparing analyses and surfacing alternative interpretations
 - [Anchored Instruction](anchored-instruction.md) — a related approach in which instruction is anchored to a rich problem context
+- [Structured problem cases built on Kim et al.'s four conceptual elements (content, structure, attributes, process)](kim-et-al-case-conceptual-elements.md)
 
 ## Patterns That Use This Element
 - [Case-Based Learning](../patterns/case-based-learning.md) — the full instructional sequence built around case analysis and debrief

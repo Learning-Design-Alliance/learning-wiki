@@ -46,9 +46,15 @@ Vygotsky treated pretend play as central to development in its own right: it let
 ## Claims
 
 ## Related Theories
+
 - [Stages of Cognitive Development](stages-of-cognitive-development.md) — Piaget's play types map onto the broader stage sequence (e.g., symbolic play emerging alongside preoperational thought)
 - [Sociocultural Theory](sociocultural-theory.md) — Vygotsky's account of pretend play as operating within the Zone of Proximal Development is a direct extension of his broader theory
 - [Self-Determination Theory](self-determination-theory.md) — play is prototypically autonomous, self-chosen activity
+- [Imagination as a neglected cognitive tool essential to Constructivist instruction (Egan)](imagination-cognitive-tool-constructivist-instruction.md)
+- [Piaget's account of ludic symbolism: make-believe play as symbolic assimilation bridging concrete experience and abstract thought](ludic-symbolism-make-believe-play.md)
+- [Piaget's taxonomy of play: practice games, symbolic games, and games with rules](piaget-three-categories-of-play.md)
+- [Real world versus pretend world activities as two distinct ZPD contexts](real-versus-pretend-world-zpd-distinction.md)
+- [Fischer and Knight's skill theory of cognitive development in real children](skill-theory-optimal-real-performance.md)
 
 ## Examples
 

@@ -59,9 +59,11 @@ Discussion alone risks producing awareness without agency; follow-up activities 
 6. Connect the experience back to course content through [Application](../elements/application.md) tasks or [Case Studies](../elements/case-studies.md)
 
 ## Related Strategies
+
 - [Action Planning](action_planning.md) — structures the follow-up into feasible steps
 - [Action Research](action-research.md) — extends follow-up into sustained inquiry-and-action cycles
 - [Active Listening](active-listening.md) — the discussion skill that surfaces the issues follow-up addresses
+- [Use equity-oriented extracurricular clubs as spaces for sustained peer dialogue on urgent civic issues](gsa-dialogue-space-civic-issues-strategy.md)
 
 ## Related Elements
 - [Application](../elements/application.md) — follow-up actions are application of discussed content to authentic contexts

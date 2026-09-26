@@ -37,7 +37,9 @@ The author offers a set of simple questioning perspectives as starting points fo
 - Reframing and taking action on workplace conflict instead of expressing it somatically
 
 ## Related Strategies
-- 
+
+- [Exploit marginalized difference through mimetic and disruptive readings (Irigaray's mime, Bell's philosophical clitoris) rather than expressing conflict as illness](exploit-marginalized-difference-against-somatic-response.md)
+- [Calm and Honest Reflection](calm_and_honest_reflection.md)
 
 ## Examples
 -

@@ -37,7 +37,8 @@ The article points educators to a set of existing tools for teaching gravitation
 - gravitational-wave physics, detector technology, and data analysis
 
 ## Related Strategies
-- 
+
+- [Extend the curriculum with student-built interferometer projects and a Bayesian parameter-estimation unit](future-extensions-interferometer-and-bayesian-unit.md)
 
 ## Examples
 -

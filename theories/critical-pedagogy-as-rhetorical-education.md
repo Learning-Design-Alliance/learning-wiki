@@ -40,10 +40,16 @@ The paper interprets Henry Giroux's critical pedagogy as explicitly rhetorical e
 - 
 
 ## Related Theories
-- 
+
+- [Critical pedagogy as an emancipatory framework contrasting with Freire's banking model of education](critical-pedagogy-emancipatory-framework.md)
 
 ## Examples
--
+
+- [The basic course should teach canonicity — how communities standardize and enforce discourse — rather than the canon itself](../principles/teach-canonicity-not-canon.md)
+- [The basic course should teach civic responsibility through the classroom as a microcosm of community, rather than individual communication proficiency](../principles/teach-civic-responsibility-not-proficiency.md)
+- [The basic course should use popular culture, not speech making, as the text through which students discern a community's rhetorical rules](../principles/teach-popular-culture-not-speech-making.md)
+- [The basic course should teach students to make strategic rhetorical choices rather than use a fixed set of rhetorical tools](../principles/teach-rhetorical-choices-not-tools.md)
+- [The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric](../principles/teach-rhetorics-not-rhetoric.md)
 
 ## Key Sources
 - Cyphert, Dale. (1996). Taking the Helm in Critical Pedagogy: The Basic Speech Curriculum as an Operationalization of the Paradigm. https://eric.ed.gov/?id=ED403616

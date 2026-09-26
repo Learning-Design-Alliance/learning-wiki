@@ -37,7 +37,13 @@ Step 3 directs teachers to observe their own classroom and interactions during C
 - Identifying inclusive-design opportunities from classroom participation patterns and nonverbal cues
 
 ## Related Strategies
-- 
+
+- [Student Shadowing (For Educator Insights)](student-shadowing-for-educator-insights.md)
+- [Student Shadowing](student_shadowing.md)
+- [Analysis of Classroom Dynamics Through Shadowing](analysis_of_classroom_dynamics_through_shadowing.md)
+- [Actively Listen To What Students Say](actively_listen_to_what_students_say.md)
+- [Listen to the Voices of Students](listen_to_the_voices_of_students.md)
+- [Close the empathy exercise by reflecting on surprises, systemic oppression, and short- and long-term design goals](empathy-exercise-reflection-and-forward-planning.md)
 
 ## Examples
 -

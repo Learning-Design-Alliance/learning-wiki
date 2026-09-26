@@ -46,10 +46,12 @@ The handbook sets out five basic elements, attributed to cooperative learning re
 - [Group Membership Alone Does Not Produce Cooperation](../claims/group-membership-alone-does-not-produce-cooperation.md) [+M]
 
 ## Related Theories
-- 
+
+- [Five basic elements make cooperative learning work: positive interdependence, face-to-face interaction, individual accountability, interpersonal and small group skills, and group processing](five-basic-elements-of-cooperative-learning.md)
 
 ## Examples
--
+
+- [Use named cooperative learning structures adapted to adult classrooms, including Student Team Learning, Think-Pair-Share, Jigsaw, Teaming Together, and Group Investigation](../strategies/cooperative-structures-for-adult-classrooms.md)
 
 ## Key Sources
 - You Can Be in a Group and Still Not Cooperate: Collaborative Approaches and Cooperative Learning Activities for Adult Learners. (1993). Parma City School District. https://eric.ed.gov/?id=ED361492

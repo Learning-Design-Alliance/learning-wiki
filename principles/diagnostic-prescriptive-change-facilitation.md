@@ -41,7 +41,8 @@ The article argues change facilitators should constantly assess where users are 
 - [Follow Up Contact Strongest Adoption Success Factor](../claims/follow-up-contact-strongest-adoption-success-factor.md) [+M]
 
 ## Related Principles
-- 
+
+- [Match the form and content of staff development interventions to clients' assessed Stages of Concern](match-interventions-to-stages-of-concern.md)
 
 ## Examples
 -

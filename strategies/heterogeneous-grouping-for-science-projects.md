@@ -37,7 +37,10 @@ The digest advises teachers to use homogeneous groups to help pupils achieve on 
 - Science skill achievement and respect among pupils regardless of ability
 
 ## Related Strategies
-- 
+
+- [Use Flexible Discussion Groups for Science Content Analysis](flexible-discussion-groups-in-science.md)
+- [Group Pupils During Science Experiments and Demonstrations](grouping-for-science-experiments-and-demonstrations.md)
+- [Standard-Based Regrouping](standard-based_regrouping.md)
 
 ## Examples
 -

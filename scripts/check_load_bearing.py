@@ -185,6 +185,22 @@ def cached_article(block: str, articles: list):
     return None
 
 
+_EN = {"the", "of", "and", "to", "in", "that", "is", "for", "with", "was", "were", "on", "are", "this"}
+_OTHER = {"el", "la", "de", "que", "los", "las", "del", "en", "una", "por", "para", "con", "se", "da",
+          "do", "das", "dos", "um", "uma", "der", "die", "und", "le", "les", "des", "et"}
+
+
+def abstract_usable(text: str) -> bool:
+    """False for an abstract in another language than English. OpenAlex attaches a
+    citing thesis's Spanish abstract to some classics (Wood, Bruner & Ross 1976;
+    Deci 1971; Alfieri et al. 2011, found 2026-09-27) under the right DOI and title;
+    judged against it, every entry reads as not the study."""
+    words = _WORD.findall(text.split("ABSTRACT:", 1)[-1].lower())[:300]
+    en = sum(w in _EN for w in words)
+    other = sum(w in _OTHER for w in words)
+    return en >= other
+
+
 def openalex_abstract(doi: str):
     """(title, year, abstract) from OpenAlex, cached as eval/corpus/cache/doi-*.txt.
     None when the lookup fails or the record has no abstract; a failure is not cached."""
@@ -192,7 +208,7 @@ def openalex_abstract(doi: str):
     path = CACHE / f"doi-{safe}.txt"
     if path.exists():
         text = path.read_text(encoding="utf-8")
-        return text or None
+        return text if text and abstract_usable(text) else None
     import urllib.parse
     import urllib.request
     q = urllib.parse.urlencode({"select": "title,publication_year,abstract_inverted_index,authorships",
@@ -214,7 +230,7 @@ def openalex_abstract(doi: str):
             if abstract else "")
     CACHE.mkdir(parents=True, exist_ok=True)
     path.write_text(text, encoding="utf-8")
-    return text or None
+    return text if text and abstract_usable(text) else None
 
 
 def digest(*parts: str) -> str:
@@ -281,7 +297,12 @@ def main() -> None:
               f"{dict(c)}; basis {dict(b)}\n")
         for r in sorted(latest.values(), key=lambda r: (-r["designs"], r["claim"])):
             if r["verdict"] in ("fail", "not-this-study"):
-                print(f"{r['verdict'].upper()}  claims/{r['claim']}.md#{r['entry']}  "
+                label = r["verdict"].upper()
+                if r["verdict"] == "not-this-study" and r["basis"] == "abstract":
+                    # The DOI and OpenAlex's title agreed, or the lookup would not have
+                    # returned it; a mismatch is then the registry's abstract field.
+                    label = "ABSTRACT-IS-ANOTHER-WORK (check the OpenAlex record, not the page)"
+                print(f"{label}  claims/{r['claim']}.md#{r['entry']}  "
                       f"({r['designs']} pages cite it; {r['basis']}: {r['source']})")
                 for i in r["issues"]:
                     print(f"      - {i}")

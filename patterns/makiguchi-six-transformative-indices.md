@@ -48,7 +48,8 @@ Makiguchi delineates six transformative indices whereby the results of value-cre
 - 
 
 ## Examples
--
+
+- [Advance value-creating-modeled curriculum projects in Africana communities to foster ubuntu, happiness, and contributive lifestyles](../strategies/value-creating-curriculum-africana-youth.md)
 
 ## Key Sources
 - Stewart Williams, J. E. (2020). Daisaku Ikeda's Philosophy of Value-Creating Global Citizenship Education and Africana Humanism: Africa as the Continent of the 21st Century. Journal of Interdisciplinary Studies in Education, 9(SI). https://ojed.org/jise

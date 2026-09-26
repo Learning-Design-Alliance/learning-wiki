@@ -44,7 +44,9 @@ The article advances a paradigm shift in how transition-support therapies are va
 - 
 
 ## Examples
--
+
+- [Admission structured as a rite of passage combining rituals and constructivist therapy](../patterns/admission-as-rite-of-passage-pattern.md)
+- [Conduct admissions as a gradual therapeutic process examining needs, forming relationships, involving supports, and celebrating arrival](../strategies/gradual-therapeutic-admission-strategy.md)
 
 ## Key Sources
 - Williams, Paul A. (1995). Developing a Model to Ease Youths' Transitions into Residential Treatment: Integrating Constructivist Therapies and Youth Care Work into a Contextually Relevant Rite of Passage. Nova Southeastern University. https://eric.ed.gov/?id=ED398498

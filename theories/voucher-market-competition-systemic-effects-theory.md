@@ -16,7 +16,7 @@ sources:
 # Market-competition theory of voucher systemic effects, modified by financial hold-harmless design
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article describes the theory behind voucher programs: parental choice should improve student learning both for users and for students remaining in traditional public schools, because losing students and their revenue gives public schools an incentive to improve to retain or attract students. It then argues that the DC program's hold-harmless design severs the financial mechanism: "The theoretical benefit of school choice policies on public schools comes directly from the increased financial incentive that potentially losing enrollment funds provides." The article also lists non-financial channels (political embarrassment, anticipated future revenue loss, rising per-pupil resources, staff demoralization, peer-effect loss) whose direction is theoretically unclear.
@@ -38,10 +38,16 @@ The article describes the theory behind voucher programs: parental choice should
 - opportunities to attend racially integrated schools
 
 ### Claims
+
 - [Dc Voucher Competition No Public School Effect Year One](../claims/dc-voucher-competition-no-public-school-effect-year-one.md) [+M]
+- [85.1% of DC public school students attend schools at least 91% non-White, versus 42.8% of voucher private school students](../claims/dc-public-students-in-highly-minority-schools.md) [+W]
+- [The authors infer the DC voucher program is likely reducing racial segregation in schooling, since 94% of voucher users are African American](../claims/dc-voucher-program-likely-reducing-segregation.md) [+W]
+- [Voucher-participating private schools in DC have racial compositions closer to the surrounding metro area than public schools](../claims/dc-voucher-schools-closer-to-metro-racial-mix.md) [+W]
+- [Far fewer voucher-participating private schools than DC public schools are racially homogeneous (90% or 95%+ one race)](../claims/dc-voucher-schools-less-racially-homogeneous.md) [+W]
 
 ## Related Theories
-- 
+
+- [Metro-resemblance and homogeneity-threshold approaches to measuring school racial integration](metro-resemblance-integration-measurement-approach.md)
 
 ## Examples
 -

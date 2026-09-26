@@ -39,7 +39,8 @@ The review constructs three distinct activity systems from the 32 studies: syste
 - [Plc Mathematics Three Objects Repertoire Most Common](../claims/plc-mathematics-three-objects-repertoire-most-common.md) [+M]
 
 ## Related Theories
-- 
+
+- [Cultural-historical Activity Theory and activity-system analysis as a lens for examining PLC in mathematics](chat-activity-system-lens-plc-mathematics.md)
 
 ## Examples
 -

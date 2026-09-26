@@ -66,12 +66,14 @@ Information processing models are often criticized as overly linear and serial, 
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]
 
 ## Related Theories
+
 - [Cognitive Load Theory](cognitive-load-theory.md) — CLT sharpens the working-memory constraint central to information-processing approaches
 - [Self-Regulated Learning](self-regulated-learning.md) — regulation depends partly on how learners manage attention, memory, and strategy use during processing
 - [Executive Function Development](executive-function-development.md) — the self-regulatory processes that control attention and working-memory use as they develop across childhood and adolescence
 - [Metacognition](metacognition.md) — knowledge about and regulation of one's own thinking, including the strategy deficiencies that shape how children use (or fail to use) memory strategies
 - [Dual Coding Theory](dual-coding-theory.md) — Paivio's hypothesis that combined visual and verbal encoding improves retention is a specific application of information-processing encoding mechanisms
 - [Stages of Cognitive Development](stages-of-cognitive-development.md) — Piaget's schema/assimilation/accommodation mechanism is a developmental precursor to the schema and encoding concepts used here
+- [Cognitive Load Theory: working-memory limits, human cognitive architecture, and three load types](clt-three-load-types-framework.md)
 
 ## Examples
 - [Chunking](../principles/chunking.md)

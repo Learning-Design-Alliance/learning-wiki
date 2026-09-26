@@ -37,7 +37,8 @@ The guide recommends a sequenced procedure for districts reviewing their own JTP
 - Conducting a program compliance self-review and reporting findings to the state office
 
 ## Related Strategies
-- 
+
+- [Three adaptable self-monitoring approaches: administrative, peer observation, and eclectic](jtpa-self-monitoring-approaches.md)
 
 ## Examples
 -

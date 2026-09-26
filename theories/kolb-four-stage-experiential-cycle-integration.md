@@ -40,10 +40,13 @@ The article adopts Kolb's four-stage cycle as the organizing structure of its pr
 - 
 
 ## Related Theories
+
 - [Federation University Case Based Experiential Model](federation-university-case-based-experiential-model.md)
+- [Kolb's experiential learning cycle as the pedagogical basis for an engineering learning module](kolb-elt-cycle-engineering-module-basis.md)
 
 ## Examples
--
+
+- [Implement experiential learning as a program-level teaching philosophy rather than as isolated activities](../principles/experiential-learning-as-program-philosophy.md)
 
 ## Key Sources
 - Patil, T., Hunt, M., Cooper, K., & Townsend, R. (2020). Developing a case-based experiential learning model at a program level in a regional university: Reflections on the developmental process. Australian Journal of Adult Learning, 60(2). https://eric.ed.gov/?id=EJ1267932

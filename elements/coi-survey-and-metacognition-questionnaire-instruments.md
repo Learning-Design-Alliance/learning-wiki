@@ -40,7 +40,8 @@ The study used two validated survey instruments: the 34-item CoI Survey (Arbaugh
 - [Coi Framework Three Presences Metacognition Lens](../theories/coi-framework-three-presences-metacognition-lens.md)
 
 ## Related Elements
-- 
+
+- [34-item Community of Inquiry Survey instrument](coi-survey-34-item-instrument.md)
 
 ## Examples
 -

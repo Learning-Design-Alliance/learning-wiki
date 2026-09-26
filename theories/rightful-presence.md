@@ -37,11 +37,17 @@ Rightful presence (Calabrese Barton & Tan) describes legitimate membership in a 
 - [Identity-centered making supports simultaneous STEM engagement and identity affirmation for queer youth](../claims/identity-centered-making-supports-stem-engagement-and-identity-affirmation.md) [+M]
 
 ## Related Theories
+
 - [Self-Determination Theory](self-determination-theory.md) — rightful presence's emphasis on authored, non-conditional belonging overlaps with self-determination theory's relatedness and autonomy conditions
 - [Person-Centered Psychology](person-centered-psychology.md) — both frameworks hold that unconditional acceptance (not acceptance contingent on conforming) is what allows genuine engagement and vulnerability
+- [Inclusion versus rightful presence: a four-dimension contrast (rights, time, burden, culture)](inclusion-versus-rightful-presence-contrast.md)
+- [Rightful presence in education systems: a framework for building equity and justice at the systems level](rightful-presence-in-education-systems.md)
 
 ## Examples
+
 - [Identity-Centered E-Textile Making](../patterns/identity-centered-e-textile-making.md) — a maker pattern designed around rightful presence for queer youth
+- [Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices](../patterns/shared-power-co-creation-of-educational-systems.md)
+- [Presume the rightful presence and inherent value of disenfranchised students, families, and communities from the start](../principles/presume-rightful-presence-and-inherent-value.md)
 
 ## Key Sources
 - Tofel-Grehl, C., Hawkman, A. M., Feldon, D. F., Suárez, M. I., MacDonald, B. M., & Searle, K. (2024). "I can be the weird STEM kid who is also gay": Queer rightful presence in STEM making. *Journal of the Learning Sciences, 33*(4-5), 799-842. [https://doi.org/10.1080/10508406.2024.2409101](https://doi.org/10.1080/10508406.2024.2409101)

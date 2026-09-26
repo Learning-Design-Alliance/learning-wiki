@@ -42,7 +42,8 @@ Each GSA manual directs the teacher to code a videotaped lesson on a Coding Form
 - 
 
 ## Examples
--
+
+- [Implement GSA through a lead-teacher who runs introductory and regular inservice workshops with scheduled taping](../strategies/gsa-lead-teacher-workshop-implementation.md)
 
 ## Key Sources
 - Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview. (1970). Office of Education (DHEW). https://eric.ed.gov/?id=ED069340

@@ -41,7 +41,8 @@ The report identifies eight opportunities which the ACE sector should explore fu
 - broader VET program participation
 
 ## Related Strategies
-- 
+
+- [Ten shared goals at the ACE-VET interface where closer cooperation would have mutual benefit](ten-ace-vet-interface-goals.md)
 
 ## Examples
 -

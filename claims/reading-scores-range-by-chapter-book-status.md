@@ -41,4 +41,6 @@ Descriptive reading scores from the classroom teacher's informal assessment devi
 
 
 ## Related Claims
+
 - [Concrete-operational/schematic-stage students were reading chapter books while preoperational/preschematic students were not or were nonreaders](cognitive-art-stage-alignment-predicts-chapter-book-reading.md) — related
+- [For 10 of 15 first-graders, literacy development was determined by cognitive development, with artistic responses paralleling the classification](literacy-development-parallels-cognitive-stage-in-first-graders.md)

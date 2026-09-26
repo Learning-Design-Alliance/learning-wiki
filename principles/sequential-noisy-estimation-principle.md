@@ -43,7 +43,9 @@ The article supports using the Robbins-Monro procedure in settings where a param
 - 
 
 ## Examples
--
+
+- [Select iteration coefficients according to the proved convergence condition when implementing stochastic approximation](../strategies/coefficient-selection-strategy.md)
+- [Iteration-coefficient sequences as the controllable design element of stochastic approximation](../elements/iteration-coefficient-sequence.md)
 
 ## Key Sources
 - Wolff, Hans. (1970). On Stochastic Approximation. https://eric.ed.gov/?id=ED051258

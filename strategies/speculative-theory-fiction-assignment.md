@@ -38,7 +38,8 @@ This performative writing assignment tasks students with composing speculative t
 - reflexive political judgment about future-making
 
 ## Related Strategies
-- 
+
+- [Creative Writing](creative_writing.md)
 
 ## Examples
 -

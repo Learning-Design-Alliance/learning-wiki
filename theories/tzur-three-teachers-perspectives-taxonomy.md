@@ -39,7 +39,8 @@ The article adopts Tzur et al.'s (2001) characterization of teachers' practice a
 - [Sdmns Relate To Traditional And Perception Based Perspectives](../claims/sdmns-relate-to-traditional-and-perception-based-perspectives.md) [+M]
 
 ## Related Theories
-- 
+
+- [Socio-didactic-mathematical norms (SDMNs) as metadiscursive rules in pre-service teacher discourse](socio-didactic-mathematical-norms-construct.md)
 
 ## Examples
 -

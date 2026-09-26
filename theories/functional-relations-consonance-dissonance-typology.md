@@ -39,7 +39,8 @@ The paper translates Festinger's system of cognitive relations into functional t
 - 
 
 ## Related Theories
-- 
+
+- [The schema-of-the-moment: cognition as a transient functional organization of simultaneously active neuronal elements](schema-of-the-moment.md)
 
 ## Examples
 -

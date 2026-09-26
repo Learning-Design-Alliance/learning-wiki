@@ -40,7 +40,9 @@ Because all materials are printed on paper, the authors propose scaling the inqu
 - long-term retention
 
 ## Related Strategies
-- 
+
+- [Use a burning-fuel analogy thinking tool to bridge data trends to stellar lifetimes and mass-to-energy conversion](burning-fuel-thinking-tool-stellar-lifetimes.md)
+- [Keep an extra unassigned spectrum (a red giant) in reserve to challenge students who finish early or reach an incorrect answer](eleventh-star-reserve-spectrum.md)
 
 ## Examples
 -

@@ -40,7 +40,8 @@ The framework's learning-experiences interdependency example holds that preparat
 - 
 
 ## Related Principles
-- 
+
+- [Apply the same educator standards across evaluation, recruitment and hiring, and preparation program selection](consistent-standards-across-evaluation-recruitment-preparation.md)
 
 ## Examples
 -

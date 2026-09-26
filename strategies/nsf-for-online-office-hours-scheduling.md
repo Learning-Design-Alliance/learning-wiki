@@ -37,7 +37,8 @@ An implementable queue-management recipe derived from the simulation findings: i
 - Fair access to instructor help and reduced queue inequity
 
 ## Related Strategies
-- 
+
+- [Make queue waiting time productive by offering LLM-based help tools such as CodeHelp to waiting students](llm-tools-for-productive-queue-waiting.md)
 
 ## Examples
 -

@@ -39,10 +39,13 @@ The article draws on Kieran Egan's (1997) model of developmental understanding, 
 - 
 
 ## Related Theories
-- 
+
+- [Imagination as a neglected cognitive tool essential to Constructivist instruction (Egan)](imagination-cognitive-tool-constructivist-instruction.md)
 
 ## Examples
--
+
+- [Workshop arc: oral conversation, then imagistic, then somatic, ending in ritual performance](../patterns/chormmunity-workshop-arc-pattern.md)
+- [Intentionally activate symbols so they assist transformative learning](../strategies/intentionally-activate-symbols-for-learning.md)
 
 ## Key Sources
 - Loper, Paul. (2000). Chormmunity: Co-Creating Embodied Community. ERIC Document ED443009. https://eric.ed.gov/?id=ED443009

@@ -40,7 +40,9 @@ An implementable teaching recipe drawn from the documented classroom practice: f
 - cooperative learning
 
 ## Related Strategies
-- 
+
+- [Learning Clubs](learning_clubs.md)
+- [Inquiry-Based Writing](inquiry-based_writing.md)
 
 ## Examples
 -

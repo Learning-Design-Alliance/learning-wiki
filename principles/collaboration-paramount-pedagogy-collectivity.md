@@ -45,7 +45,9 @@ The article argues that because learning and freedom are socially mediated, coll
 - 
 
 ## Examples
--
+
+- [Workshop arc: oral conversation, then imagistic, then somatic, ending in ritual performance](../patterns/chormmunity-workshop-arc-pattern.md)
+- [Co-Creating Classroom Norms](../strategies/co-creating_classroom_norms.md)
 
 ## Key Sources
 - Loper, Paul. (2000). Chormmunity: Co-Creating Embodied Community. ERIC Document ED443009. https://eric.ed.gov/?id=ED443009

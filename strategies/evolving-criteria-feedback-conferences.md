@@ -37,7 +37,10 @@ For courses where students pursue individual creative projects that cannot have 
 - creative products or novel solutions to problems
 
 ## Related Strategies
-- 
+
+- [Establishing Clear Expectations](establishing-clear-expectations.md)
+- [Negotiated Grades](negotiated_grades.md)
+- [Learning Contracts](learning_contracts.md)
 
 ## Examples
 -

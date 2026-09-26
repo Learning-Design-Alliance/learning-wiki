@@ -61,9 +61,19 @@ Family engagement functions like a motivational and access problem: participatio
 6. Track participation by option and by family subgroup, and adjust the portfolio annually — retire low-uptake options and expand those reaching previously unreached families.
 
 ## Related Strategies
+
 - Home Visits — an intensive, relationship-first engagement option within the portfolio
 - Family Workshops on Learning at Home — equips family members with concrete guidance for supporting children's learning
 - Community Partnerships for Family Leadership — extends engagement into civic capacity-building
+- [Assume Support](assume_support.md)
+- [Parental Involvement in Physical Activity](parental_involvement_in_physical_activity.md)
+- [Structured and Sustained Family Engagement Programs](structured_and_sustained_family_engagement_programs.md)
+- [Remove practical barriers to family participation through flexible scheduling, translation, childcare, and material supports](remove-barriers-family-participation.md)
+- [Offer Services and Events to Bring Parents into the School](offer_services_and_events_to_bring_parents_into_the_school.md)
+- [Zoom Family Hours](zoom_family_hours.md)
+- [Family Engagement Supporting Children With Disabilities](family_engagement-supporting_children_with_disabilities.md)
+- [Open Communication and Trust](open_communication_and_trust.md)
+- [Encourage cognition and literacy by providing varied reading, writing, and drawing materials and building environmental awareness](varied-materials-and-environmental-awareness-encourage-literacy.md)
 
 ## Examples
 - **Epstein's Six Types of Involvement framework (Johns Hopkins NNPS, [National Network of Partnership Schools](https://nnps.jhucsos.com))** — organizes engagement into parenting, communicating, volunteering, learning at home, decision-making, and collaborating with the community; schools use it to build a written partnership plan with multiple option types.

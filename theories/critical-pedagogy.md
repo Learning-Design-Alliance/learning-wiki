@@ -37,10 +37,14 @@ Critical pedagogy de-centers the traditional teacher-centered classroom. Curricu
 - Critical consciousness — the capacity to analyze and act on social, environmental, or economic injustice — rather than neutral mastery of disciplinary content alone
 
 ## Related Theories
+
 - [Pragmatism and Progressivism (Educational Philosophy)](pragmatism-and-progressivism-educational-philosophy.md) — critical pedagogy shares Progressivism's de-centering of the teacher, but adds an explicit political and emancipatory aim that Progressivism itself does not require
+- [Social justice impact spectrum for OEP: transformative, ameliorative, neutral or negative](oep-social-justice-impact-spectrum.md)
 
 ## Examples
+
 - A unit built around a current social-justice issue, where students research the issue, discuss competing perspectives, and plan a collective response
+- [Equity Unbound: an open connected course explicitly designed with social justice principles](../elements/equity-unbound-open-connected-course.md)
 
 ## Key Sources
 - Ganly, S. (2007). *Educational philosophies in the classroom: The categories of various teaching philosophies*. Retrieved from https://archive.is/20130628165859/www.associatedcontent.com/article/352631/educational_philosophies_in_the_classroom_pg2.html

@@ -39,7 +39,8 @@ The Theoretical Domains Framework (TDF) is "an integrative framework that draws 
 - [Family Muac Uptake Barriers](../claims/family-muac-uptake-barriers.md) [+M]
 
 ## Related Theories
-- 
+
+- [Pathway to Planetary Health (PPH) framework](pathway-to-planetary-health-framework.md)
 
 ## Examples
 -

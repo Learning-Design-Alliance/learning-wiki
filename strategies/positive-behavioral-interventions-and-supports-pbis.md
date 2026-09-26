@@ -59,9 +59,12 @@ PBIS applies behavioral learning principles at the systems level: expectations a
 6. Escalate support through tiers: [Coaching](../elements/coaching.md) and check-in/check-out for at-risk students, function-based individual plans for intensive need
 
 ## Related Strategies
+
 - [Restorative Practices](../strategies/restorative-practices.md) — complementary alternative to exclusionary discipline within Tier 2/3
 - [Social-Emotional Learning](../patterns/social-emotional-learning.md) — teaches the underlying skills PBIS expectations presuppose
 - [Classroom Rules and Routines](../strategies/classroom-rules-and-routines.md) — the classroom-level expression of Tier 1 expectations
+- [Implement clear, consistently enforced rules and routines, including a uniform schoolwide discipline plan](posted-observable-rules-and-consistent-discipline-implementation.md)
+- [Sustained, needs-based PBIS professional development with in-classroom coaching to build teacher capacity](sustained-pbis-professional-development-coaching.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — Tier 2 support structure and staff implementation coaching

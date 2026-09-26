@@ -37,10 +37,12 @@ InkSurvey is free web-based software used to collect real-time, open-format stud
 - real-time formative assessment and curiosity-driven question generation
 
 ## Related Elements
-- 
+
+- [InkSurvey with pen-enabled mobile devices for anonymous real-time electronic brainstorming](inksurvey-pen-enabled-brainstorming.md)
 
 ## Examples
--
+
+- [Solicit open-format curiosity questions after interactive simulations and use responses as a springboard for instruction](../strategies/open-format-simulation-questions-springboard.md)
 
 ## Key Sources
 - F.V. Kowalski and S.E. Kowalski. (2013). Enhancing Curiosity Using Interactive Simulations Combined with Real-Time Formative Assessment Facilitated by Open-Format Questions on Tablet Computers. https://arxiv.org/abs/1308.1110

@@ -40,7 +40,8 @@ The article's preferred formulation is a cognitive response account in which acc
 - [Unintelligible Beats No Message Control](../claims/unintelligible-beats-no-message-control.md) [+M]
 
 ## Related Theories
-- 
+
+- [Greenwald's cognitive response account: rehearsal of the recipient's own cognitive responses explains persisting persuasion effects](cognitive-response-account-of-persuasion.md)
 
 ## Examples
 -

@@ -41,7 +41,8 @@ The deliberate practice framework, drawn from Ericsson and Pool, holds that expe
 - [Deliberate Practice Increases Student Satisfaction](../claims/deliberate-practice-increases-student-satisfaction.md) [+M]
 
 ## Related Theories
-- 
+
+- [The expert performance approach as a three-stage framework for studying expertise](expert-performance-approach-three-stages.md)
 
 ## Examples
 -

@@ -59,8 +59,10 @@ Pre-assessment of learner needs functions as a form of [Activation](../principle
 6. Re-administer a short version mid-unit as a [Check-In](../elements/check-in.md) to verify the adjustment worked.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the assessment identifies what prior knowledge exists to activate
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the same principle applied in reverse: feedback must lead to a visible change
+- [Use percentage-consensus opinionnaires to locate shared values before redesign](percentage-consensus-opinionnaires.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the formal element this strategy applies to pre-instructional, non-graded data

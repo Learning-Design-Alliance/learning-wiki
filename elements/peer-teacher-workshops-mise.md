@@ -43,7 +43,8 @@ Peer Teacher Workshops were week-long, module-based professional development ses
 - 
 
 ## Examples
--
+
+- [Redesign workshop structure, content, timing, and location in response to non-participant barriers](../strategies/redesign-pd-to-lower-participation-barriers.md)
 
 ## Key Sources
 - Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404

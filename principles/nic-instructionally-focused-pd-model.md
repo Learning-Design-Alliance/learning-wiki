@@ -45,7 +45,8 @@ The report recommends that administrators, instructional leaders, and teachers d
 - 
 
 ## Examples
--
+
+- [BMTN network resources: shared deep-engagement definitions and rubrics, a curated task library, and the Change Idea Summary Book](../elements/bmtn-shared-rubrics-task-library-resources.md)
 
 ## Key Sources
 - Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z. (2021). The Better Math Teaching Network: Lessons Learned From a 5-Year Instructionally Focused NIC. American Institutes for Research & WestEd. https://www.bettermathteachingnetwork.org/

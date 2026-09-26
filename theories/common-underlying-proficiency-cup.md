@@ -39,7 +39,8 @@ The common underlying proficiency (CUP) is Cummins's construct for the interdepe
 - [L1 L2 Calp Interdependence No Adverse Consequences](../claims/l1-l2-calp-interdependence-no-adverse-consequences.md) [+M]
 
 ## Related Theories
-- 
+
+- [Cummins's BICS/CALP distinction: language proficiency divides into basic interpersonal communicative skills and cognitive/academic language proficiency](cummins-bics-calp-distinction.md)
 
 ## Examples
 -

@@ -78,9 +78,11 @@ Family engagement functions as an out-of-school support system that amplifies in
 5. **Fade school direction over time.** As families build confidence, shift from school-led scripting to family-led support, consistent with [Fading Support Promotes Transfer of Responsibility](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — families are the primary source of students' prior knowledge; engagement surfaces it
 - [Community-Based Learning](../principles/community-based-learning.md) — extends the partnership beyond the family to community organizations
 - [Check-ins](../elements/check-in.md) — the routine mechanism for sustaining two-way communication
+- [Provide parent read-at-home plans and home reading strategies for struggling readers](parent-read-at-home-plans.md)
 
 ## Examples
 - **[Parent Teacher Home Visits](https://www.ptplus.org)** — National program in which educators visit families at home to build relational trust before academic partnership; associated with improved attendance and behavior in district evaluations.

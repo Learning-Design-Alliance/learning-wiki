@@ -44,7 +44,8 @@ The Day2Day Environment dataset is a dense longitudinal, multimodal dataset coll
 - 
 
 ## Examples
--
+
+- [Use dense repeated-measurement datasets to estimate baseline brain-measure variability before interpreting intervention-related plasticity](../strategies/baseline-variability-estimation-for-plasticity-studies.md)
 
 ## Key Sources
 - Falkenstein Kim, Pauley Claire, Kühn Simone. (2026). Investigating effects of day-to-day variations in environmental exposure on the human brain: study protocol for the Day2Day Environment project. BMC Neuroscience. https://doi.org/10.1186/s12868-026-01052-z

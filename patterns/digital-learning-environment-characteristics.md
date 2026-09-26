@@ -17,7 +17,7 @@ sources:
 # Digital learning environments characterized by problem- and project-centered, student-centered, collaborative, communicative, customized, productive and lifelong learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The report enumerates the characteristics learning takes on once digital content is integrated into curriculum: problem and project centered, student-centered, collaborative, communicative, customized, productive, and lifelong at anytime from anywhere. It states that "the learning process becomes" these things when digital content is integrated, with teachers acting as facilitators within a learning team that includes students, parents, peers and outside experts. The pattern describes how a school-level learning environment is reorganized around these characteristics.
@@ -37,10 +37,14 @@ The report enumerates the characteristics learning takes on once digital content
 - inquiry, collaboration, communication, self-directed learning, and content production
 
 ### Claims
-- 
+
+- [A one-to-one wireless laptop initiative in Hiawassee, Georgia was accompanied by improved test scores, a 24 percent rise in adult education enrollment and a 71 percent rise in G.E.D. completions](../claims/hiawassee-laptop-outcomes.md) [+W]
+- [Teachers who used the Kit & Kaboodle science curriculum daily saw a larger test-score gain than teachers who used it sporadically](../claims/kit-kaboodle-daily-use-gains.md) [+W]
+- [West Virginia's ten-year basic technology skills program was associated with an 11 percent gain in standardized test scores and a rise in state achievement ranking](../claims/west-virginia-basic-tech-gains.md) [+W]
 
 ## Related Patterns
-- 
+
+- [Dynamic characteristics of digital content: randomly accessed, authentic, multi-level, interactive, manipulatable, instantaneous and creative](digital-content-dynamic-characteristics.md)
 
 ## Examples
 -

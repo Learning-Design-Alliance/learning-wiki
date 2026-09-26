@@ -37,7 +37,10 @@ This strategy operationalizes EQUIP data for equity analysis: record low-inferen
 - equitable participation in whole-class discussion
 
 ## Related Strategies
-- 
+
+- [Empowering Teachers with EQUIP](empowering_teachers_with_equip.md)
+- [Equitable Classroom Observations](equitable_classroom_observations.md)
+- [Equity Audits](equity-audits.md)
 
 ## Examples
 -

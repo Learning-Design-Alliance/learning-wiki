@@ -38,7 +38,8 @@ The common-facilities section gives implementable material specifications, treat
 - an acoustic and visual environment that supports teaching and behaviour control
 
 ## Related Strategies
-- 
+
+- [Optimize Classroom Acoustics](optimize_classroom_acoustics.md)
 
 ## Examples
 -

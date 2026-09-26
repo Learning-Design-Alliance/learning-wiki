@@ -61,8 +61,10 @@ The conference converts feedback from a one-way written transmission into a dial
 6. **Follow up.** Check the agreed revision action in the next draft; track score movement between drafts as evidence of impact ([Assessment](../elements/assessment.md)).
 
 ## Related Strategies
+
 - [Writing Process Portfolios](../strategies/writing-process-portfolios.md) — conferences gain traction when students are revising across drafts rather than submitting one-off papers
 - [Rubric Co-Construction](../strategies/rubric-co-construction.md) — students who helped build the criteria self-assess more accurately in the conference
+- [Use a Letter to the Reviewer reflective memo submitted with each draft](letter-to-the-reviewer-memo.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the conference is a micro-instance of the coaching cycle: observe, diagnose, act

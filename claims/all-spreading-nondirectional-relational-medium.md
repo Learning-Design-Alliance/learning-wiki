@@ -41,5 +41,7 @@ Theoretical proposal in the section on post-functional mental relations, illustr
 
 
 ## Related Claims
+
 - [Cognition is a transient phenomenon created by the functioning of distributed components of the nervous system](cognition-transient-distributed-functioning.md) — related
 - [Returning to direct somatic experience can re-vision thinking and change perception (attributed to Reason)](somatic-return-revisions-thinking.md) — related
+- [Comprehension and recognition need not draw on permanent mental representations: recognition occurs via shared functional elements across schema-of-the-moments](recognition-without-permanent-representations.md)

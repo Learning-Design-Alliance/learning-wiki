@@ -57,9 +57,11 @@ Graphic organizers exploit the visual channel to convey relational information t
 5. Have learners use the organizer for retrieval practice — reconstructing it from memory — rather than only as a reference display.
 
 ## Related Strategies
+
 - [Advance Organizers](../elements/advance-organizers.md) — the before-instruction use of an organizer to scaffold incoming information
 - [Concept Mapping](../elements/concept-mapping.md) — learner-generated node-and-link construction, the most demanding organizer variant
 - [Chunking](../principles/chunking.md) — organizers group information into meaningful units, enacting chunking visually
+- [Teacher-provided graphic map as review](teacher-provided-advance-graphic-map.md)
 
 ## Examples
 - **[Concept Attainment](../patterns/concept-attainment.md)** — organizers such as T-charts of examples and non-examples support hypothesis testing about category membership.

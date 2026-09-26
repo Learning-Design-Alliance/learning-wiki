@@ -59,8 +59,10 @@ Writing a problem requires the learner to invert the solution process — to rea
 5. Authors revise based on solver feedback, then the class discusses what made problems clear or confusing — [Peer Discussion](../elements/peer-discussion.md)
 
 ## Related Strategies
+
 - Problem-solving with worked examples — solving and creating are complementary; creation works best after example study
 - Peer review and critique — the exchange-and-revise cycle is a form of structured peer assessment
+- [Require authors to solve their own created levels before publishing, as a quality filter and a learning act in itself.](author-must-solve-own-level.md)
 
 ## Related Elements
 - [Application](../elements/application.md) — authoring is an application task requiring transfer of operations to novel contexts

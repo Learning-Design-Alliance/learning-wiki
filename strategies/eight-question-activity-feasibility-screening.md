@@ -39,7 +39,8 @@ After identifying educational activities that could foster the behaviors named i
 - screen and organize educational improvement activities
 
 ## Related Strategies
-- 
+
+- [Prioritize felt needs using matrix ranking or paired comparisons before verification](matrix-ranking-paired-comparisons-needs.md)
 
 ## Examples
 -

@@ -41,4 +41,6 @@ The review's critique, drawing on Han et al. (2022), states that "What represent
 
 
 ## Related Claims
+
 - [Effective learning environments depend on the interaction of four overlapping frames rather than their compartmentalization](four-learning-environment-frames-interact.md) — related
+- [Language subsystems may show supportive, competitive, or precursor relationships depending on available cognitive resources](subsystems-show-supportive-competitive-precursor-relationships.md)

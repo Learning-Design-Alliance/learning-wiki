@@ -100,9 +100,11 @@ Lesson to unit — a single cooperative activity can run 15–40 minutes; longer
 **High-achieving students:** Assign the role of questioner rather than answer-giver; explaining through questioning produces deeper elaboration than simply supplying solutions.
 
 ## Related Patterns
+
 - [Collaborative Learning](collaborative-learning.md) — the broader category; cooperative learning is its most structured and best-evidenced form
 - [Discussion-Based Learning](discussion-based-learning.md) — shares the mechanism of peer explanation, but at whole-class scale without built-in individual accountability
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — complementary: peer coaching within cooperative teams can enact the coaching and articulation phases
+- [Jigsaw structures (within-team and expert jigsaw) create positively interdependent teams with individually accountable members](jigsaw-structures-adult-learners.md)
 
 ## Examples
 

@@ -41,7 +41,8 @@ One-on-one writing conferences, whose purpose is to transmit feedback and discus
 - [Involve Students In Revision Process](../principles/involve-students-in-revision-process.md)
 
 ## Related Strategies
-- 
+
+- [Use a Letter to the Reviewer reflective memo submitted with each draft](letter-to-the-reviewer-memo.md)
 
 ## Examples
 -

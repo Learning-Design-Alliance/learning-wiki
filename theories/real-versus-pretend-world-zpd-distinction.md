@@ -16,7 +16,7 @@ sources:
 # Real world versus pretend world activities as two distinct ZPD contexts
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The paper's central organising distinction is between two activity types dominating children's learning. Real world activities "are those in which a child maintains her day to day living, such as dressing, solving an arithmetic problem or making a pancake", while "Pretend world activities, on the other hand, are primarily directed towards understanding the dynamics of and mastering the real world activities". The two differ in partners (more competent individuals versus equally competent peers or none) and in motivation (child and adult jointly versus the child alone). In pretend play the representations the child does not yet understand are produced by the child herself, so pretend play constitutes a ZPD regardless of the presence of others — an extension of the concept.
@@ -36,10 +36,16 @@ The paper's central organising distinction is between two activity types dominat
 - mastering real world activities through play; working through affective problems with social phenomena
 
 ### Claims
-- 
+
+- [In pretend play the child behaves beyond her average age and daily behaviour](../claims/pretend-play-child-head-taller.md) [+W]
+- [Children, unlike animals, can imitate actions beyond their independent capabilities and profit from instruction](../claims/children-imitate-beyond-independent-capability.md) [+W]
+- [Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies](../claims/static-assessment-misses-emerging-functions.md) [+W]
 
 ## Related Theories
-- 
+
+- [Zone of Proximal Development: the gap between independent and assisted problem solving](zpd-gap-independent-versus-assisted-problem-solving.md)
+- [Sociocultural Theory](sociocultural-theory.md)
+- [Play and Cognitive Development](play-and-cognitive-development.md)
 
 ## Examples
 -

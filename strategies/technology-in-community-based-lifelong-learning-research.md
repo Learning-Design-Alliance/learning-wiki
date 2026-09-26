@@ -38,7 +38,10 @@ The paper identifies the use of technology as a major focus for advancing commun
 - effective learning through diverse technologies
 
 ## Related Strategies
-- 
+
+- [Advance community-based lifelong learning through mentoring relationships connecting local expertise with desired learners](mentoring-for-community-lifelong-learning.md)
+- [CEO Forum recommendations: prepare and certify teachers for technology integration across pre-service, licensure, and in-service career stages](ceoforum-teacher-tech-integration-recommendations.md)
+- [Use audience-perception associations to set design priorities for digital lacquer-painting experiences, pending evaluation with real interfaces](audience-informed-design-priorities-digital-heritage.md)
 
 ## Examples
 -

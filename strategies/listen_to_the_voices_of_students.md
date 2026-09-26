@@ -58,9 +58,12 @@ Elevating student voice builds on self-determination research: experiences of au
 5. Close the loop by reflecting with students on how their input shaped the class, making agency visible
 
 ## Related Strategies
+
 - [Actively Listen to What Students Say](../strategies/actively_listen_to_what_students_say.md) — the receptive skill that makes voice-giving genuine rather than performative
 - [Action Planning](../strategies/action_planning.md) — converts student input into concrete, student-owned next steps
 - [Activating Background Knowledge](../strategies/activating_background_knowledge.md) — student stories are a primary vehicle for surfacing prior knowledge and identity
+- [Observe the classroom for dissonance between what students say and what teachers see](classroom-observation-dissonance-inclusive-design.md)
+- [Build student ownership through student-led conferences, town halls, and college and career readiness activities](student-ownership-practices-middle-school.md)
 
 ## Examples
 - **Youth participatory action research** (e.g., the [Public Science Project](https://www.publicscienceproject.org) at CUNY Graduate Center) — students design and conduct research on problems in their own communities and present findings to authentic audiences.

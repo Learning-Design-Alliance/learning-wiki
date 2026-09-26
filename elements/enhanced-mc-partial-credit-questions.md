@@ -38,10 +38,13 @@ EMC questions are the article's proposed modification of the traditional multipl
 - formative and summative assessment of student learning
 
 ## Related Elements
-- 
+
+- [Traditional multiple-choice test item structure: stem, alternatives, and plausible distractors](traditional-mc-item-stem-alternatives-distractors.md)
+- [ConcepTest](conceptest.md)
 
 ## Examples
--
+
+- [Grade keypad answers so every answer earns points, encouraging students to record their best choice](../strategies/nonzero-credit-keypad-grading-encourages-answering.md)
 
 ## Key Sources
 - Burnstein, R. A. and Lederman, L. M. (2007). Wireless Keypads −− A New Classroom Technology Using Enhanced Multiple-Choice Questions. Physics Education. https://iopscience.iop.org/journal/0031-9120

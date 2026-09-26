@@ -37,7 +37,8 @@ The article lays out a structured exercise teachers complete before designing an
 - Understanding students' computing experiences and needs to inform inclusive lesson and curriculum design
 
 ## Related Strategies
-- 
+
+- [Conduct empathy interviews as story-based conversations in comfortable, student-chosen settings](empathy-interview-conduct-practices.md)
 
 ## Examples
 -

@@ -37,7 +37,9 @@ The adaptive training component treats content sequencing as a sequential decisi
 - Durable oral proficiency gains through appropriately challenged, individualized practice sequencing
 
 ## Related Strategies
-- 
+
+- [Scaffolded Difficulty Progression](scaffolded-difficulty-progression.md)
+- [Scaffolded Questioning](scaffolded-questioning.md)
 
 ## Examples
 -

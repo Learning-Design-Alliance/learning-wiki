@@ -37,7 +37,9 @@ The evaluation corpus comprises four large-scale real-world sequential datasets:
 - predicting correctness of future exercise responses from interaction history
 
 ## Related Elements
-- 
+
+- [KDD Cup 2010 Bridge to Algebra dataset and the hmmsclbl fitting tool](kdd-cup-2010-bridge-to-algebra-dataset.md)
+- [EduData and EduKTM Open-Source Knowledge Tracing Libraries](edudata-and-eduktm-libraries.md)
 
 ## Examples
 -

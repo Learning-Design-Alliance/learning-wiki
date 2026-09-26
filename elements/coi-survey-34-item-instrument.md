@@ -37,7 +37,8 @@ A validated 34-item survey instrument developed to assess the three CoI presence
 - assessment of teaching, social, and cognitive presence perceptions
 
 ## Related Elements
-- 
+
+- [CoI Survey and metacognition questionnaire instruments for measuring presences and metacognition](coi-survey-and-metacognition-questionnaire-instruments.md)
 
 ## Examples
 -

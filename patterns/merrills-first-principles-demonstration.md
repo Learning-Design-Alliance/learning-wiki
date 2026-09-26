@@ -74,7 +74,9 @@ This page captures the demonstration-focused slice of Merrill's First Principles
 - [Scaffolding and Fading](../principles/scaffolding-and-fading.md)
 
 ## Related Patterns
+
 - [Merrill's First Principles of Instruction](merrills-first-principles-of-instruction.md)
+- [Demonstration, application, and integration corollaries of Merrill's framework](merrill-demonstration-application-integration-corollaries.md)
 
 ## Examples
 - An instructor models a complete solution path before learners solve a similar problem with support.

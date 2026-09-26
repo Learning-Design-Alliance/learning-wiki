@@ -37,7 +37,11 @@ Discussion groups, homogeneous or heterogeneous, help pupils analyze content, qu
 - Content analysis, questioning, and production of science artifacts
 
 ## Related Strategies
-- 
+
+- [Use Heterogeneous Groups for Projects and Homogeneous Groups for Skill Achievement](heterogeneous-grouping-for-science-projects.md)
+- [Form Interest Groups and Strengths-Based Groups in Science](interest-based-grouping-in-science.md)
+- [Group Pupils During Science Experiments and Demonstrations](grouping-for-science-experiments-and-demonstrations.md)
+- [Learning Journals](learning-journals.md)
 
 ## Examples
 -

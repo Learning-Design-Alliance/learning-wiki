@@ -57,9 +57,11 @@ Relational trust between teachers, students, and families is a strong correlate 
 5. When concerns arise, contact families early and frame the conversation as a shared problem-solving effort, then follow through on agreed actions.
 
 ## Related Strategies
+
 - [Check-Ins](../principles/check-ins.md) — the student-facing counterpart; structured brief conversations that operationalize trust day to day
 - [Building Empathy](../principles/building-empathy.md) — the teacher disposition that makes communication feel genuine rather than procedural
 - [Community of Inquiry](../principles/community-of-inquiry.md) — extends trust into the social presence needed for productive online and classroom discourse
+- [Offering Multiple Options for Family Engagement](offering_multiple_options_for_family_engagement.md)
 
 ## Examples
 - **Positive texting campaigns** — In randomized studies, teachers sending brief individualized texts to families about student progress improved homework completion and engagement (Kraft & Dougherty, 2013).

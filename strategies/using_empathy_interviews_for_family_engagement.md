@@ -65,9 +65,13 @@ Empathy interviews work because they position families as experts on their own e
 7. **Close the loop.** Report back to participants and the community on what was heard and what will change; repeat interviews to check whether changes landed.
 
 ## Related Strategies
+
 - [Active Listening](../strategies/active-listening.md) — the core interviewer skill; without it, interviews degrade into scripted surveys
 - [Home Visits](../strategies/home-visits.md) — a longer-form relational engagement practice that often incorporates empathy interviewing
 - [Community-Based Learning](../principles/community-based-learning.md) — shares the stance that learning happens in and with the community, not about it
+- [Conduct empathy interviews as story-based conversations in comfortable, student-chosen settings](empathy-interview-conduct-practices.md)
+- [Have students interview study-abroad returnees to learn about living abroad first hand](guest-speaker-interviews-returnees.md)
+- [Conduct a needs assessment combining baseline district data and projective opinion data before designing a middle school](needs-assessment-baseline-and-projective-data.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — the opening move that establishes psychological safety

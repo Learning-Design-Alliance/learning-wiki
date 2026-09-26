@@ -60,9 +60,11 @@ Learning contracts operationalize learner autonomy, and autonomy is a reliable l
 6. Evaluate: learner self-assesses against the agreed evidence first; instructor evaluates and provides [assessment](../elements/assessment.md) feedback, closing the loop for the next contract cycle.
 
 ## Related Strategies
+
 - [Independent Study](../elements/independent-study.md) — the most common context in which full learning contracts are used
 - [Goal-Setting](../elements/goal-setting.md) — the core skill contracts require and simultaneously develop
 - [Self-Assessment](../elements/self-assessment.md) — the evaluation mechanism that makes contracts formative rather than purely contractual
+- [Establish evaluative criteria as a creative project evolves through student-faculty feedback conferences](evolving-criteria-feedback-conferences.md)
 
 ## Examples
 - **Knowles' andragogical practice** — Knowles used contracts as the organizing structure for graduate courses in adult education at Boston University and the Fielding Institute; students negotiated individualized objectives within a shared course competency framework (Knowles, 1986).

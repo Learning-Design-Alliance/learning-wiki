@@ -58,9 +58,12 @@ Family involvement improves developmental and educational outcomes for children 
 5. Maintain two-way communication ([Check-In](../elements/check-in.md) routines, shared data) and adjust strategies based on family report, fading direct support as the family gains confidence — the same logic as [Scaffolding](../principles/scaffolding.md) applied to adults.
 
 ## Related Strategies
+
 - Home–school communication systems — the routine information flow that makes coordinated reinforcement possible
 - Parent-implemented naturalistic intervention — the most heavily researched variant, in which caregivers deliver the teaching itself
 - Collaborative IEP planning — the decision-making structure that determines whether goals are worth practicing at home
+- [Offering Multiple Options for Family Engagement](offering_multiple_options_for_family_engagement.md)
+- [Parent-teacher collaboration on independent self-care tasks and patience training to promote EF](parent-teacher-collaboration-independent-tasks-patience.md)
 
 ## Examples
 - **[Project ImPACT](http://www.project-impact.org)** — a parent-mediated intervention for young children with autism; caregivers are coached to embed naturalistic teaching strategies (imitation, language expansion, play routines) into daily life, with strong randomized-trial support.

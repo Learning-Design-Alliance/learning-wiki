@@ -63,8 +63,12 @@ Equity of access is a precondition for the benefits of any instructional design:
 6. Monitor participation data by subgroup and iterate: completion, engagement, and feedback disaggregated by background reveal exclusion that design reviews miss.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — cultural background is prior knowledge; surfacing it validates learners' identities and connects new content to what they already know
 - [Accessible Syntax](accessible_syntax.md) — reduces language barriers that disproportionately affect multilingual learners
+- [Design OEP for accessibility and marginalized participation rather than open for all](design-oep-for-those-farthest-from-justice.md)
+- [Support digital inclusion through onboarding processes, device lending and technical support when deploying digital learning programmes with older adults](digital-inclusion-onboarding-device-lending.md)
+- [Adapt DL2F to local context by aligning with the national curriculum, using authentic local materials, multilingual approaches, and pragmatic low-bandwidth technology integration](dl2f-philippine-contextual-adaptation-strategy.md)
 
 ## Examples
 - **Kolibri (Learning Equality)** — an offline-first platform designed for low-connectivity schools and refugee education settings; content syncs without continuous internet (https://learningequality.org/kolibri/)

@@ -39,7 +39,8 @@ Because graduate TAs lead over 90% of CLASP DL sections, the program runs a sign
 - Understanding models in science
 
 ## Related Strategies
-- 
+
+- [Make teaching assistant tutorial training more explicit: provide checkpoint learning outcomes and suggested checkpoint questions](explicit-ta-tutorial-training-checkpoint-outcomes.md)
 
 ## Examples
 -

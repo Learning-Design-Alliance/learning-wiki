@@ -64,8 +64,10 @@ Role play is a form of situated, active practice: it requires learners to *perfo
 7. Connect the debrief to transfer: ask learners where in their real work this pattern will appear
 
 ## Related Strategies
+
 - [Acting-Role-Play](acting-role-play.md) — the theatrical variant, using performance techniques to deepen embodiment of a role
 - [Case-Based Learning](case-based-learningcase-based-learning.md) — the discussion-based cousin: analyzing a scenario rather than enacting it
+- [Use experiential intercultural training methods such as simulations, role-playing and critical incidents to encounter perceptual and value differences](experiential-intercultural-training-methods.md)
 
 ## Examples
 - **Corporate customer-service training** — agents rehearse handling an angry customer while a peer plays the customer from a brief; the debrief names specific de-escalation moves observed

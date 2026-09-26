@@ -37,7 +37,9 @@ The lesson exemplar has teachers introduce the pedagogy of video analysis and mo
 - conducting a scientific investigation, video analysis and modeling, scientific reporting and peer evaluation
 
 ## Related Strategies
-- 
+
+- [Differentiate by guiding higher-ability students to build models that validate their analysis, and support self-directed and collaborative learning goals](osp-differentiation-and-sdl-goals.md)
+- [Authentic Learning Tasks](authentic_learning_tasks.md)
 
 ## Examples
 -

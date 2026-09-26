@@ -60,9 +60,11 @@ VR's core pedagogical value is safe, repeatable practice of procedural and spati
 5. Follow with transfer tasks in a different format (real equipment, written cases) to check that learning did not stay trapped in the virtual context [~M].
 
 ## Related Strategies
+
 - [Simulation-based practice with manikins](simulation-based-practice.md) — the physical-equipment analogue; VR often substitutes for or precedes it
 - [Case-based discussion](case-based-discussion.md) — the debrief structure from case methods transfers directly to post-scenario reflection
 - [Video-based modeling](video-based-modeling.md) — a lower-cost observational alternative when manipulation is not required
+- [Use direct-experience formats — simulation games, extracurricular activities, action learning, peer teaching — to pursue relational-domain objectives](experiential-formats-relational-objectives.md)
 
 ## Examples
 - **Osso VR** (https://ossovr.com) — surgical rehearsal platform; randomized studies showed orthopedic trainees using it outperformed conventionally trained peers on assessed procedure performance [+M]

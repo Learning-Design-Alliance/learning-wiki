@@ -44,7 +44,8 @@ The report argues that the traditional pattern of one-shot workshops, without fo
 - 
 
 ## Examples
--
+
+- [CEO Forum recommendations: prepare and certify teachers for technology integration across pre-service, licensure, and in-service career stages](../strategies/ceoforum-teacher-tech-integration-recommendations.md)
 
 ## Key Sources
 - CEO Forum on Education and Technology. (1999). School Technology and Readiness Report. Professional Development: A Link to Better Learning. The CEO Forum on Education and Technology, Year Two. https://eric.ed.gov/?id=ED428747

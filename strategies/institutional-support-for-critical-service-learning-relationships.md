@@ -42,7 +42,9 @@ The article recommends that nurturing critical interpersonal relationships requi
 - [Critical Service Learning Three Component Model](../theories/critical-service-learning-three-component-model.md)
 
 ## Related Strategies
-- 
+
+- [Methodological orientations and strategies for professors to promote integrated learning of civic competence](il-methodological-orientations-strategies.md)
+- [Advance community-based lifelong learning through mentoring relationships connecting local expertise with desired learners](mentoring-for-community-lifelong-learning.md)
 
 ## Examples
 -

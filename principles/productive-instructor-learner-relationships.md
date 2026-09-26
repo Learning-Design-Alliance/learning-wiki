@@ -42,7 +42,8 @@ The article argues that relationship-building is among the most important buildi
 - 
 
 ## Related Principles
-- 
+
+- [Adopt humanistic and radical approaches so adult learners develop as individuals and can question social injustice](humanistic-radical-adult-education.md)
 
 ## Examples
 -

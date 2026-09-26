@@ -42,7 +42,8 @@ The review presents Witkin's dichotomous cognitive-style concepts, derived from 
 - 
 
 ## Examples
--
+
+- [Use field-dependence-independence assessment to screen personnel in map-dependent institutions](../strategies/fdi-assessment-screening-map-dependent-institutions.md)
 
 ## Key Sources
 - Tamaoka, Katsuo. (1985). Historical Development of Learning Style Inventories from Dichotomous Cognitive Concepts of Field Dependence and Field Independence to Multi-Dimensional Assessment. https://eric.ed.gov/?id=ED339729

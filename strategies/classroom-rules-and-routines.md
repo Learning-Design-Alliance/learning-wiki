@@ -58,10 +58,12 @@ Routines function as procedural scaffolds for behavior: once automated, they red
 6. Review and revise rules periodically with students, connecting them to shared purposes.
 
 ## Related Strategies
+
 - [Direct Instruction](../patterns/direct-instruction.md) — the teaching pattern routines are typically established within
 - [Behaviorism](../theories/behaviorism.md) — the theoretical basis for reinforcement-based routine establishment
 - [Self-Determination Theory](../theories/self-determination-theory.md) — the counterweight: rules must be balanced against autonomy and relatedness needs
 - [Clear Structure](../principles/clear-structure.md) — routines are the behavioral expression of structural clarity
+- [Implement clear, consistently enforced rules and routines, including a uniform schoolwide discipline plan](posted-observable-rules-and-consistent-discipline-implementation.md)
 
 ## Examples
 - **Responsive Classroom** (https://www.responsiveclassroom.org) — teacher-created structures such as Interactive Modeling and Morning Meeting for teaching routines and norms in elementary settings.

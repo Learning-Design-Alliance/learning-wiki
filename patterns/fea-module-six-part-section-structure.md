@@ -39,10 +39,14 @@ Each section of the FEA-based learning module followed a fixed internal structur
 - 
 
 ## Related Patterns
-- 
+
+- [Six-step engineering design process as the teaching and learning sequence](engineering-design-six-step-ict-sequence.md)
+- [Weekly dance-first-then-physics cycle with dual experimental and experiential records](dance-first-physics-weekly-cycle-dual-record.md)
 
 ## Examples
--
+
+- [Predictability: Environment & Structure](../strategies/predictability-environment-structure.md)
+- [ANSYS Workbench commercial FEA software as a learning aid for heat transfer concepts](../elements/ansys-workbench-heat-transfer-learning-aid.md)
 
 ## Key Sources
 - Widiastuti, I. & Budiyanto, C. W. (2018). Applying an Experiential Learning Cycle with the Aid of Finite Element Analysis in Engineering Education. Journal of Turkish Science Education.

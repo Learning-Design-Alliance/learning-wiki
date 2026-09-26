@@ -58,8 +58,10 @@ Pre-reading vocabulary games work because they combine retrieval of word meaning
 5. Close with a quick review of all words before transitioning to the text ([Practice](../elements/practice.md) follows during and after reading)
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the broader family this game belongs to; Pictionary is a game-based instance
 - [Vocabulary Pre-Teaching](../strategies/vocabulary_pre-teaching.md) — the direct-instruction alternative; combining explicit definitions with the game covers both form and meaning
+- [Structured discussions that anchor new vocabulary in students' personal experience](structured-discussion-vocabulary-anchoring.md)
 
 ## Related Elements
 - [Activation](../elements/activation.md) — the guessing and debrief steps surface prior knowledge before reading

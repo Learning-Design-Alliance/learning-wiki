@@ -60,9 +60,11 @@ Shared writing is a form of collaborative modeling: the teacher makes expert com
 6. **Release responsibility.** Move to guided or independent writing on a similar task, fading the shared support [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M]
 
 ## Related Strategies
+
 - [Modeled Writing](modeled-writing.md) — teacher composes alone; the more teacher-controlled end of the gradual release
 - [Interactive Writing](interactive-writing.md) — students share the pen; the more student-controlled variant
 - [Guided Writing](guided-writing.md) — the small-group follow-on where students apply shared-writing moves with coaching
+- [Position children as primary knowers by having them dictate texts for a real purpose to a teacher acting as scribe](children-as-primary-knowers-dictation-co-construction.md)
 
 ## Examples
 - A third-grade teacher used shared writing to consolidate a geometry unit: students generated a word bank of 3-D shape attributes, composed sentences describing the shapes, and revised them publicly for precision and word choice.

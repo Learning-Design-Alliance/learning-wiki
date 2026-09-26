@@ -60,8 +60,10 @@ Audio alone is a transient, single-channel medium; without structure, listeners 
 5. Provide feedback or a follow-up check ([Assessment](../elements/assessment.md)) so learners can verify their comprehension of the audio content
 
 ## Related Strategies
+
 - [Podcast-based learning](podcast-based-learning.md) — audio-first course designs where structured activities supplement episodic content
 - [Flipped classroom](flipped-classroom.md) — audio can substitute for video as the pre-class exposure medium when bandwidth is limited
+- [Verify Prerequisite Knowledge Before Audiovisual Presentations](prerequisite-checks-before-audiovisual-presentations.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the structured activity most commonly paired with audio; converts listening into retrieval and application

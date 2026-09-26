@@ -101,8 +101,11 @@ Its practical strength is that it balances authenticity with structured support.
 - Integration can take many forms, including teaching others, reflection, or workplace application.
 
 ## Related Patterns
+
 - [Four-Component Instructional Design](4cid-four-component-instructional-design.md)
 - [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)
+- [Demonstration, application, and integration corollaries of Merrill's framework](merrill-demonstration-application-integration-corollaries.md)
+- [Problem-centered instruction with task-level engagement and problem progression](problem-centered-task-level-progression-pattern.md)
 
 ## Examples
 - Clinical training where learners analyze a case, study demonstrations, practice decisions, and reflect on use in real settings.

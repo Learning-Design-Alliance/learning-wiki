@@ -39,10 +39,13 @@ Tracker is a "free video analysis and modeling tool built on the Open Source Phy
 - understanding of gravitational acceleration and air resistance
 
 ## Related Elements
-- 
+
+- [Easy Java Simulation one-dimensional collision carts virtual laboratory model](ejs-1d-collision-carts-simulation.md)
+- [Open Source Physics toolkit: Easy Java Simulations and Tracker for creating and customising free physics computer models](osp-ejs-tracker-toolkit.md)
 
 ## Examples
--
+
+- [Teacher-led workshops and freely downloadable materials to scale video analysis and modeling practice](../strategies/teacher-led-workshop-scaling-video-modeling.md)
 
 ## Key Sources
 - Wee, L. K., & Lee, T. L. (2011). Video Analysis and Modeling Tool for Physics Education. Paper presented at the 4th Redesigning Pedagogy International Conference, Singapore. http://weelookang.blogspot.com/2011/05/video-analysis-and-modeling-tool-for.html

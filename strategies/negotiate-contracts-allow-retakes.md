@@ -37,8 +37,13 @@ This strategy combines the memo's two implementable moves: at the beginning of t
 - meeting explicitly negotiated performance criteria
 
 ## Related Strategies
+
 - [Grading By Contract Fricke](../patterns/grading-by-contract-fricke.md)
 - [Mastery Criterion Remediation](../elements/mastery-criterion-remediation.md)
+- [Contract Grading](contract_grading.md)
+- [Mastery Based Retesting](mastery-based-retesting.md)
+- [Require Retakes](require_retakes.md)
+- [Retakes And Revisions](retakes-and-revisions.md)
 
 ## Examples
 -

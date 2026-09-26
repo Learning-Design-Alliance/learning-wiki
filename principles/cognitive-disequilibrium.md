@@ -66,6 +66,8 @@ Cognitive disequilibrium is most useful when learners hold a stable but inaccura
 
 ## Examples
 
+- [Facilitate cognitive disequilibrium about ethnocentric views](../strategies/facilitate-cognitive-disequilibrium.md)
+
 ### Illustrative
 
 **[Discrepant Events](../elements/discrepant-events.md)** — A demonstration produces a result opposite to what learners predicted, forcing them to reconcile expectation and evidence.

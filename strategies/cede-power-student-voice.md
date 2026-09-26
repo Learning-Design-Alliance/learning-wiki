@@ -58,8 +58,10 @@ Autonomy is a core psychological need, and instructional environments that suppo
 5. Gradually expand the scope of ceded decisions as students demonstrate readiness, mirroring [Fading](../elements/fading.md) of other supports.
 
 ## Related Strategies
+
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — a structured classroom routine that operationalizes ceded power in daily learning
 - [Action Planning](action_planning.md) — students set and manage their own goals, a concrete transfer of authority
+- [Build student ownership through student-led conferences, town halls, and college and career readiness activities](student-ownership-practices-middle-school.md)
 
 ## Examples
 - **Expeditionary Learning (EL Education)** — crew structures and student-led conferences in which students present and defend their own progress to families ([https://eleducation.org](https://eleducation.org))

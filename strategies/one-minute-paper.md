@@ -58,9 +58,11 @@ The OMP operationalizes [Assessment for Learning](../principles/assessment-for-l
 6. Periodically tell the class how their feedback changed the plan, to sustain participation.
 
 ## Related Strategies
+
 - [Muddiest Point](muddiest_point.md) — the single-question variant, focused purely on confusion
 - [3-2-1 Reflection](3-2-1_reflection.md) — a structured variant adding "things I want to know more about"
 - [Exit Ticket](exit_ticket.md) — the broader family of end-of-session written checks
+- [Use reflection assignments to check adult learners' understanding and participation change](reflection-assignments-adult-understanding.md)
 
 ## Examples
 - Originally described by Charles Schwartz at UC Berkeley for large physics lectures; responses were read before each next meeting and common questions answered at the start of class.

@@ -41,7 +41,10 @@ The paper reviews two framings of CSL's conceptual diversity. Butin presents fou
 - 
 
 ## Related Theories
-- 
+
+- [Mitchell's critical service-learning framework: redistribution of power, social change, and authentic relationships](mitchell-csl-three-component-framework.md)
+- [Critical service-learning model with three components: social change orientation, power redistribution, and authentic relationships](critical-service-learning-three-component-model.md)
+- [Critical Pedagogy Model of Civic Competence through Service-Learning](critical-pedagogy-model-civic-competence-service-learning.md)
 
 ## Examples
 -

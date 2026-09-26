@@ -44,7 +44,8 @@ The paper recommends that all programs have at least two themes: a primary theme
 - 
 
 ## Examples
--
+
+- [Use isomorphic framing to draw parallels between the empowerment model and the program's primary therapeutic theme](../strategies/isomorphic-framing-empowerment-model.md)
 
 ## Key Sources
 - Hyde-Hills, I. (1998). It Is Better To Learn To Fish: Empowerment in Adventure Education. https://eric.ed.gov/?id=ED424058

@@ -42,7 +42,8 @@ The article describes a lesson pattern used with an upper-intermediate reading p
 - 
 
 ## Related Patterns
-- 
+
+- [Before-during-after metacognitive behavior checklist for reading lessons](before-during-after-metacognitive-behavior-checklist.md)
 
 ## Examples
 -

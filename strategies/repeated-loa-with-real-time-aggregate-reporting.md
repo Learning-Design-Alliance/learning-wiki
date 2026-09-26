@@ -41,7 +41,8 @@ The article recommends that a professional community access the LoA on an ongoin
 - [Loa Survey Instrument Cbam Adaptation](../theories/loa-survey-instrument-cbam-adaptation.md)
 
 ## Related Strategies
-- 
+
+- [Sustain a faculty community of practice for creative problem-solving pedagogy](monthly-faculty-meetings-creative-pedagogy-development.md)
 
 ## Examples
 -

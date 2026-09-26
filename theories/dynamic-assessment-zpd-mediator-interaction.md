@@ -16,7 +16,7 @@ sources:
 # Dynamic assessment and the zone of proximal development as a framework for mediator-learner interaction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The forum presents Poehner's (2014) account of dynamic assessment (DA) within Vygotsky's sociocultural theory. DA aims to bridge the zone of proximal development, "the gap between what learners can achieve through mediation and what they can achieve independently." The mediator-learner dialectic presupposes joint engagement, and mediator involvement should push the student toward self-regulation while maintaining "a delicate balance of explicitness and scaffolding in the interaction."
@@ -36,10 +36,15 @@ The forum presents Poehner's (2014) account of dynamic assessment (DA) within Vy
 - second language development through mediated interaction
 
 ### Claims
-- 
+
+- [Teacher repetition and translation as unplanned scaffolding can hinder rather than facilitate learning](../claims/repetition-translation-scaffolding-hinders-learning.md) [~W]
 
 ## Related Theories
-- 
+
+- [Dialogic teaching as distinct from ordinary classroom conversation](dialogic-teaching-versus-conversation.md)
+- [Zone of Proximal Development: the gap between independent and assisted problem solving](zpd-gap-independent-versus-assisted-problem-solving.md)
+- [Sociocultural Theory](sociocultural-theory.md)
+- [Feuerstein's mediated learning: human mediation as prerequisite for direct learning](feuerstein-mediated-learning-prerequisite.md)
 
 ## Examples
 -

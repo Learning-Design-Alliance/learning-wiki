@@ -43,7 +43,8 @@ The article recommends selecting clues from different disciplines each week and 
 - [Brt Clue Variable Paradigm Shift](../theories/brt-clue-variable-paradigm-shift.md)
 
 ## Related Strategies
-- 
+
+- [Interdisciplinary Activities](interdisciplinary_activities.md)
 
 ## Examples
 -

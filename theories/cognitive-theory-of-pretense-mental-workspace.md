@@ -16,7 +16,7 @@ sources:
 # Cognitive theory of pretense: a separate mental workspace in the brain explains pretense
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study, `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The review describes a recently proposed "cognitive theory of pretense" (Nichols & Stich, 2000) which posits a "separate mental workspace" within the human brain to explain the phenomenon of pretense. The article presents it as emphasizing the importance of the play/cognition relationship for humans and pointing toward neuroscience collaboration in future research. The article notes it engages emotion, cognition, language, and sensorimotor actions, possibly promoting dense synaptic connections.
@@ -37,7 +37,11 @@ The review describes a recently proposed "cognitive theory of pretense" (Nichols
 - cognitive development
 
 ### Claims
-- 
+
+- [Pretend play and divergent problem solving show a reciprocal relationship, with cooperative play broadly and thematic play specifically influential](../claims/pretend-play-divergent-problem-solving-reciprocal.md) [+M]
+- [High-quality pretend play is an important facilitator of perspective taking and later abstract thought](../claims/pretend-play-facilitates-perspective-taking-abstract-thought.md) [+M]
+- [Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall](../claims/pretend-play-enactment-narrative-recall-short-term.md) [+M]
+- [Title I preschool classrooms showed no typical increase in social pretense and verbal interaction over time, most evident in lowest-SES classrooms](../claims/title-i-preschools-no-increase-social-pretense.md) [+W]
 
 ## Related Theories
 - 

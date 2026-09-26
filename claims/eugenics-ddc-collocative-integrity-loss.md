@@ -41,4 +41,5 @@ The paper cites the author's prior ontogenic case study (Tennis, 2012) of a sing
 
 
 ## Related Claims
--
+
+- [Boydens and van Hooland's three-strata model of change recommends matching database update rhythm to layered timescales](three-strata-database-change-model.md)

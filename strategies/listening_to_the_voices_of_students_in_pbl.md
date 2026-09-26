@@ -59,10 +59,12 @@ Student voice works as a motivational lever: autonomy and perceived ownership su
 5. Close with [Articulation](../elements/articulation.md) — students present their process and story to an authentic audience, then reflect on how their voice shaped the work.
 
 ## Related Strategies
+
 - [Active Learning](../principles/active-learning.md) — voice opportunities are a form of active participation that improves exam performance [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S]
 - [Building Empathy](../principles/building-empathy.md) — sharing personal stories builds the empathic climate that makes voice safe
 - [Community of Inquiry](../principles/community-of-inquiry.md) — voice sustains the social presence needed for inquiry communities
 - [Collaborative Learning](../principles/collaborative-learning.md) — voice practices operate within and depend on collaborative structures
+- [Build student ownership through student-led conferences, town halls, and college and career readiness activities](student-ownership-practices-middle-school.md)
 
 ## Examples
 - **Expeditionary Learning (EL Education)** — crew structures and student-led conferences institutionalize student voice in project design and exhibition ([https://eleducation.org](https://eleducation.org)).

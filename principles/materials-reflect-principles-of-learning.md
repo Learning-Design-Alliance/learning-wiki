@@ -40,10 +40,14 @@ The framework's philosophy section sets criteria for what adopted courses and ma
 - 
 
 ## Related Principles
-- 
+
+- [Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale](harmonize-opposites-in-educational-change.md)
 
 ## Examples
--
+
+- [Culturally Responsive Curriculum Scorecards](../strategies/culturally_responsive_curriculum_scorecards.md)
+- [Using a Culturally Responsive Curriculum Scorecard](../strategies/using_a_culturally_responsive_curriculum_scorecard.md)
+- [Use studies of human experience across world societies with an interdisciplinary focus through grade eight](../strategies/interdisciplinary-human-experience-studies-strategy.md)
 
 ## Key Sources
 - Social Sciences Education Framework for California Public Schools, Kindergarten and Grades One through Twelve. (1975). California State Department of Education. https://eric.ed.gov/?id=ED120079

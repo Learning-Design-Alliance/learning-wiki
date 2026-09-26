@@ -39,7 +39,8 @@ The article recommends a four-part strategy for secondary vocational schools: ra
 - student well-being supporting academic development
 
 ## Related Strategies
-- 
+
+- [Strengthen school-based mental health services, special educators and early-detection awareness programmes for depression and learning disorders](strengthen-school-mental-health-and-educator-services.md)
 
 ## Examples
 -

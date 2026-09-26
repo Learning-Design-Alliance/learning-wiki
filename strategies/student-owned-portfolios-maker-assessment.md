@@ -37,7 +37,13 @@ The paper recommends portfolio development as a way to accomplish a process-over
 - Documenting thinking, giving context to products, and evidencing growth as a maker over time
 
 ## Related Strategies
-- 
+
+- [Portfolio Development](portfolio_development.md)
+- [Student Portfolio Creation](student_portfolio_creation.md)
+- [Portfolio Assessment](portfolio-assessment.md)
+- [Portfolios](portfolios.md)
+- [Give learners control over how learning is measured via assessment choices and science-fair-type projects](learner-controlled-assessment-science-fair-projects.md)
+- [Use a three-part process-understanding-product rubric for formative and summative maker assessment](three-part-rubric-maker-assessment.md)
 
 ## Examples
 -

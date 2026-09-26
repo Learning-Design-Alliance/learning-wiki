@@ -58,9 +58,11 @@ Shadowing works as a form of formative diagnosis: it converts tacit impressions 
 5. **Re-shadow to check change.** Repeat the observation after the adjustment is implemented, closing the formative loop.
 
 ## Related Strategies
+
 - **Instructional rounds** — a networked, school-level version of the same observational discipline
 - **Peer observation** — teacher-to-teacher shadowing focused on technique rather than student experience
 - **Student voice / participatory action research** — students themselves collect and present classroom-experience data
+- [Observe the classroom for dissonance between what students say and what teachers see](classroom-observation-dissonance-inclusive-design.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the debrief structure that turns shadowing data into instructional change

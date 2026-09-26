@@ -45,7 +45,8 @@ The article shows a teacher uploading slides to the Collaborate whiteboard rathe
 - 
 
 ## Examples
--
+
+- [Invite students to co-facilitate tasks by typing content into the shared whiteboard or chat](../strategies/student-co-facilitation-via-shared-chat-typing.md)
 
 ## Key Sources
 - Qi, G. Y., & Wang, Y. (2022). Challenges and responses: A Complex Dynamic Systems approach to exploring language teacher agency in a blended classroom. The JALT CALL Journal, 18(1). https://doi.org/10.29140/jaltcall.v18n1.569

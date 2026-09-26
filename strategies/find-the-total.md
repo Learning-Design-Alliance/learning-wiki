@@ -58,8 +58,10 @@ The strategy exploits the concreteness of dot arrangements to offload counting o
 5. Compare two strategies side by side so learners evaluate when each is useful.
 
 ## Related Strategies
+
 - [Number Talks](../strategies/number-talks.md) — the parent routine; Find the Total is a number-talk task type for early addition
 - [Quick Look Cards](../strategies/quick-look-cards.md) — same flash-and-subitize structure focused on quantity recognition rather than combining
+- [Encourage children to model and discuss multiple solution strategies for number problems instead of hunting for clue words](multiple-strategies-modeling-problems.md)
 
 ## Examples
 - **Number Talks (Parrish, 2010)** — the classroom routine this activity instantiates; dot-card and ten-frame "quick looks" are standard opening tasks in K–1 number talks ([Math Solutions](https://mathsolutions.com/classroom-tools/number-talks/)).

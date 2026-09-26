@@ -17,7 +17,7 @@ sources:
 # Six-step engineering design process as the teaching and learning sequence
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The model's teaching and learning process follows the engineering design process with six steps: "problem identification, related information search, solution design, planning and development, testing evaluation, and design improvement and presentation". Each step integrates technology to support learning activities: learners brainstorm solutions, collect supporting information, design methods, develop sub-process prototypes, test performance under actual conditions and improve defective solutions, and demonstrate with appropriate technology.
@@ -37,10 +37,14 @@ The model's teaching and learning process follows the engineering design process
 - technological process skills and ICT skill development
 
 ### Claims
-- 
+
+- [Eleven experts rated the tentative STEM-ICT instructional model as appropriate at a high level](../claims/stem-ict-model-expert-evaluation-high.md) [+W]
+- [Five professionals approved the model as appropriate at a high level](../claims/stem-ict-model-professional-approval-high.md) [+W]
 
 ## Related Patterns
-- 
+
+- [Six-part section structure for FEA-based experiential learning modules](fea-module-six-part-section-structure.md)
+- [Six-step classroom C/I process: ideas, questions, positive comments, negative comments, metric, new ideas — cycled to refine the solution](six-step-ci-classroom-process.md)
 
 ## Examples
 -

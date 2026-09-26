@@ -37,7 +37,11 @@ Across items and tasks, the guide urges that children be encouraged to model pro
 - Developing concepts of addition and subtraction from environmental situations and symbolizing problem statements
 
 ## Related Strategies
-- 
+
+- [Analyze the types of errors students make on assessment items, not just correct/incorrect scores](error-type-analysis-informs-teaching.md)
+- [Cognitively Guided Instruction](cognitively-guided-instruction.md)
+- [Counting All](counting-all.md)
+- [Find the Total](find-the-total.md)
 
 ## Examples
 -

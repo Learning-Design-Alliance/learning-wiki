@@ -38,7 +38,8 @@ Based on 26 years of service data showing rising registrations for affective dis
 - Life skills for coping with day-to-day stress
 
 ## Related Strategies
-- 
+
+- [Strengthen vocational mental health education through literacy, ecosystem, teacher development, and crisis networks](four-pillar-vocational-mental-health-education-strategy.md)
 
 ## Examples
 -

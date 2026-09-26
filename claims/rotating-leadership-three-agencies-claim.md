@@ -42,8 +42,10 @@ Theoretical argument in the paper's theoretical-foundations section. The author 
 
 
 ## Related Claims
+
 - [Educator activity style should match the group's leadership capacity: low activity style with well-developed leadership, high activity style without it](educator-style-matches-leadership-capacity.md) — related
 - [Group growth in leadership positively influences additional group growth](leadership-growth-drives-additional-group-growth.md) — related
 - [Organizational climate can influence people's behavior and may be linked to teaching practices (attributed to Milem)](organizational-climate-influences-teaching-behavior.md) — related
 - [Relational-domain conceptualization and evaluation objectives suit traditional testing, while leadership, followership and role-exchange objectives require new non-traditional evaluation formats](relational-measurement-format-implications.md) — related
 - [Relational-domain programs are argued to be workable only under highly individualized instruction matched to learners' concrete-abstract developmental stage](individualized-instruction-relational-domain.md) — related
+- [The relational taxonomy is argued to support values and moral education because fostering ego strength addresses the gap between moral reasoning and moral behavior](relational-taxonomy-supports-moral-education.md)

@@ -43,7 +43,10 @@ Chormmunity is a group pedagogy in which participants co-create a movement text 
 - 
 
 ## Examples
--
+
+- [Workshop arc: oral conversation, then imagistic, then somatic, ending in ritual performance](../patterns/chormmunity-workshop-arc-pattern.md)
+- [Make collaboration paramount in pedagogy because humanity is intrinsically collective](../principles/collaboration-paramount-pedagogy-collectivity.md)
+- [Intentionally activate symbols so they assist transformative learning](../strategies/intentionally-activate-symbols-for-learning.md)
 
 ## Key Sources
 - Loper, Paul. (2000). Chormmunity: Co-Creating Embodied Community. ERIC Document ED443009. https://eric.ed.gov/?id=ED443009

@@ -40,7 +40,11 @@ In the redesigned unit, discussion groups of about 10 students met weekly; each 
 - [Engagement Framework Five Dimensions](../theories/engagement-framework-five-dimensions.md)
 
 ## Related Strategies
-- 
+
+- [Reciprocal Teaching](reciprocal_teaching.md)
+- [Literature Circles](literature-circles.md)
+- [Book Clubs](book_clubs.md)
+- [Empowering Students as Leaders](empowering_students_as_leaders.md)
 
 ## Examples
 -

@@ -43,7 +43,8 @@ In the procedure analyzed by the article, the iteration coefficients are the des
 - 
 
 ## Examples
--
+
+- [Select iteration coefficients according to the proved convergence condition when implementing stochastic approximation](../strategies/coefficient-selection-strategy.md)
 
 ## Key Sources
 - Wolff, Hans. (1970). On Stochastic Approximation. https://eric.ed.gov/?id=ED051258

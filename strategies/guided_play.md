@@ -60,9 +60,11 @@ Guided play exploits intrinsic motivation and active exploration while ensuring 
 5. Fade involvement as the child sustains the target concepts independently, stepping back to preserve agency.
 
 ## Related Strategies
+
 - [Direct Instruction](direct-instruction.md) — the contrast case; more efficient for explicit procedural outcomes but at cost to engagement and generalization in early learners
 - [Anchored Instruction](anchored-instruction.md) — shares the design of a rich context around a target problem, but with adult- rather than child-led activity
 - [Case-Based Learning](case-based-learning.md) — a later-development analogue of learning embedded in meaningful, motivating contexts
+- [Use mathematical language during play interactions and everyday routines to move children from behavioral to representational understanding](math-language-in-play-to-representational-understanding.md)
 
 ## Examples
 - **Block play for geometry:** an adult builds alongside children, commenting on shapes, symmetry, and stability ("Your tower needs a wider base — why do you think it wobbles?"), promoting spatial language and reasoning [Spatial skills improve through block building.](../claims/spatial-skills-improve-through-block-building.md) [+M]

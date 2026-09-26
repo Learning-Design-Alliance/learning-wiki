@@ -41,7 +41,10 @@ Drawing on Siegel's (1996) Rationality Redeemed?, the paper presents a broad not
 - 
 
 ## Related Theories
-- 
+
+- [Siegel's reasons conception: critical thinking as being appropriately moved by reasons](siegel-reasons-conception-critical-thinking.md)
+- [Habermas's communicative theory and Kantian limited objectivity as grounding for objective standards in Constructivism](habermas-kantian-limited-objectivity-constructivism.md)
+- [The univocal language of inquiry: the language of reasons across disciplines](language-of-inquiry-as-language-of-reasons.md)
 
 ## Examples
 -

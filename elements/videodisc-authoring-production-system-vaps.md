@@ -37,7 +37,8 @@ VAPS denotes the hardware and software configurations needed to author and produ
 - Production of interactive videodisc training materials for Army training programs
 
 ## Related Elements
-- 
+
+- [Intelligent videodisc training delivery system (VTDS)](intelligent-videodisc-training-delivery-system.md)
 
 ## Examples
 -

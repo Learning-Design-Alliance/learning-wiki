@@ -45,10 +45,12 @@ The toolkit's retention principle holds that students unable to demonstrate suff
 - [Retention Threat Raises Grade 3 Performance](../claims/retention-threat-raises-grade-3-performance.md) [+M]
 
 ## Related Principles
-- 
+
+- [Support teachers with ongoing job-embedded science-of-reading training through school-based literacy coaches](literacy-coaches-job-embedded-support.md)
 
 ## Examples
--
+
+- [Run summer reading camps with the attributes of high-gain summer learning programs](../strategies/summer-reading-camps-design-attributes.md)
 
 ## Key Sources
 - Comprehensive Early Literacy Policy: Fundamental Principles. (2024). ExcelinEd Policy Toolkit. https://www.excelined.org

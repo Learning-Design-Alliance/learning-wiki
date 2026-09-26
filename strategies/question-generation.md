@@ -57,9 +57,11 @@ Generating questions is a form of generative processing: learners must select co
 5. Gradually fade the stems as learners internalize the question types ([Fading](../elements/fading.md)).
 
 ## Related Strategies
+
 - Reciprocal Teaching — pairs question generation with summarizing, clarifying, and predicting in a role-exchange format
 - Self-Explanation — a sibling generative activity; explaining aloud produces similar elaborative processing but does not train the questioning skill itself
 - Retrieval Practice — learner-generated questions can serve as self-made retrieval cues for later practice
+- [Directly teach students when, why, and how to elaborate on new information](directly-teach-elaborative-processing-strategies.md)
 
 ## Examples
 - **Reciprocal Teaching (Palincsar & Brown)** — small reading groups rotate a "questioner" role; students generate questions about a passage before discussing it, with teacher coaching on question quality.

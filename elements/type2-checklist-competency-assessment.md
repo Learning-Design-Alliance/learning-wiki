@@ -37,7 +37,8 @@ The Type 2 instrument is a checklist-format assessment going beyond multiple cho
 - The first-grade critical objectives, including symbolizing problem statements, addition/subtraction strategies, and estimation
 
 ## Related Elements
-- 
+
+- [Type 1 model competency test: a largely traditional paper-and-pencil assessment with scoring guide and teacher notes](type1-traditional-competency-test.md)
 
 ## Examples
 -

@@ -41,7 +41,9 @@ The article defines dialectical thinking as "a way of thinking characterized by 
 - 
 
 ## Related Theories
-- 
+
+- [Dialectical thinking and its support in preschool education (DTS scale)](dialectical-thinking-support-preschool.md)
+- [The 'Languaging in the Content Areas' (LICA) thesis as a formulating theory of post-elementary reading](languaging-in-content-areas-lica-thesis.md)
 
 ## Examples
 -

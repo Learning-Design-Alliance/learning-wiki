@@ -40,7 +40,9 @@ Communities-of-Practice theory (Lave & Wenger) holds that learning is a collecti
 - [Honours Community Closedness Hinders Knowledge Growth](../claims/honours-community-closedness-hinders-knowledge-growth.md) [~M]
 
 ## Related Theories
-- 
+
+- [Community of practice with Wenger's five membership trajectories](community-of-practice-membership-trajectories.md)
+- [Situated cognition: context, authenticity, and activity as key dimensions](situated-cognition-context-authenticity-activity.md)
 
 ## Examples
 -

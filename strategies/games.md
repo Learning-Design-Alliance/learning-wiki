@@ -61,9 +61,12 @@ Games are powerful because they embed [Practice](../elements/practice.md) and [A
 5. Award recognition (points, badges, certificates) tied to demonstrated learning behaviors, and follow with on-the-job [Application](../elements/application.md) assignments.
 
 ## Related Strategies
+
 - [Simulation-based training](simulation-based-training.md) — the non-competitive sibling: same experiential loop without scoring
 - [Role-play](acting-role-play.md) — interpersonal variant where learners inhabit workplace roles directly
 - [Case-based learning](case-based-learning.md) — analytic alternative when live decision-making is impractical
+- [Use experiential intercultural training methods such as simulations, role-playing and critical incidents to encounter perceptual and value differences](experiential-intercultural-training-methods.md)
+- [Add a game mode with input fields and customized feedback to a physics simulation for concept testing](simulation-game-mode-concept-testing-feedback.md)
 
 ## Examples
 - **[Duolingo](https://www.duolingo.com)** — gamified language learning using streaks, points, and levels to sustain daily practice.

@@ -43,7 +43,12 @@ The article frames feedback on student writing as more than an instructional or 
 - 
 
 ## Examples
--
+
+- [Avoid appropriating student writing; distinguish appropriation from helpful intervention](../principles/avoid-appropriating-student-writing.md)
+- [Involve students in the revision process as a collaborative endeavor rather than a giver-receiver relationship](../principles/involve-students-in-revision-process.md)
+- [Minimize student frustration by making feedback clear, legible, focused, and transparent](../principles/minimize-student-frustration-in-feedback.md)
+- [Provide positive comments alongside constructive criticism when responding to student writing](../principles/provide-positive-comments-on-student-writing.md)
+- [Respond to student writing as an interested reader rather than only as an evaluator](../principles/respond-as-a-reader.md)
 
 ## Key Sources
 - Shvidko, Elena. (2020). Taking into Account Interpersonal Aspects of Teacher Feedback: Principles of Responding to Student Writing. Journal on Empowering Teaching Excellence, Vol. 4, Iss. 2, Article 7. https://doi.org/10.26077/936a-72f7

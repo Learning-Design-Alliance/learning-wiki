@@ -47,9 +47,11 @@ Farmer and West (2016) identify open badges as solving two persistent credential
 - [Immediate Feedback](immediate-feedback.md)
 
 ## Examples
+
 - Purdue's Passport system — lets faculty create and issue their own badges (e.g., for intercultural learning courses, educational technology courses)
 - Teacher Learning Journeys (Penn State, NASA, and NSTA partnership) — 63 professional-development activities offered as badges and stamps, letting teachers self-regulate their own PD pathway
 - The MOUSE Squad program — badges recognizing technology skills developed by disadvantaged students in after-school settings, used as evidence on college applications
+- [Use digital badges to recognize skills, supplement report cards, and manage equipment training access in maker education](../strategies/digital-badges-maker-education-recognition.md)
 
 ## Key Sources
 - Farmer, T., & West, R. E. (2016). Opportunities and challenges with digital open badges. *Educational Technology, 56*(5), 45–48. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/opportunities_and_challenges_with_digital_open_badges](https://edtechbooks.org/lidtfoundations/opportunities_and_challenges_with_digital_open_badges)

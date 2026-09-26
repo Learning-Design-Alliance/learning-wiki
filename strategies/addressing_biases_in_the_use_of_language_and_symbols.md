@@ -59,9 +59,11 @@ Environmental and linguistic cues shape who feels they belong, and belonging in 
 6. Re-audit periodically and gather learner feedback on whether materials feel inclusive.
 
 ## Related Strategies
+
 - [Accessible Syntax](accessible_syntax.md) — inclusive language work overlaps with plain-language revision; both reduce unnecessary barriers to comprehension
 - [Activating Prior Knowledge](activating_prior_knowledge.md) — culturally varied examples only activate prior knowledge if learners can actually see themselves in them
 - [Building Empathy](../principles/building-empathy.md) — auditing materials for bias is itself an empathy-building exercise for designers and learners
+- [Intentionally activate symbols so they assist transformative learning](intentionally-activate-symbols-for-learning.md)
 
 ## Examples
 - **Physics problem-set revision** — Replacing a problem set in which all "engineers" and "scientists" were male and all "assistants" female with varied role–identity pairings; studies of classroom cues show such representation affects women's engagement in STEM settings [~S].

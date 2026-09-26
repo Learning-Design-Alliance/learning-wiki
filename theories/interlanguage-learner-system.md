@@ -39,10 +39,12 @@ Interlanguage, a term Selinker (1972) adopted from "interlingual", names the sec
 - 
 
 ## Related Theories
-- 
+
+- [Contrastive analysis hypothesis: first-language interference as the principal barrier to second language acquisition](contrastive-analysis-hypothesis-lado.md)
 
 ## Examples
--
+
+- [Address Mother Tongue Interference](../strategies/address_mother_tongue_interference.md)
 
 ## Key Sources
 - XIE Fang, JIANG Xue-mei. (2007). Error analysis and the EFL classroom teaching. US-China Education Review. https://scholar.google.com/scholar?q=Error+analysis+and+the+EFL+classroom+teaching

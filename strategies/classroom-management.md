@@ -58,9 +58,11 @@ The strongest finding in the management literature is that prevention outperform
 5. Use brief [Accommodations](../elements/accommodations.md) and environmental adjustments (seating, acoustics, movement breaks) rather than escalating consequences when behavior signals unmet needs.
 
 ## Related Strategies
+
 - [Active Listening](active-listening.md) — the relational skill underlying de-escalation and trust
 - [Clear Structure](../principles/clear-structure.md) — well-structured lessons prevent most disruption before it starts
 - [Check-In](../elements/check-in.md) — routine relationship maintenance that surfaces problems early
+- [Implement clear, consistently enforced rules and routines, including a uniform schoolwide discipline plan](posted-observable-rules-and-consistent-discipline-implementation.md)
 
 ## Examples
 - **Positive Behavioral Interventions and Supports (PBIS)** ([https://www.pbis.org](https://www.pbis.org)) — school-wide framework teaching expectations explicitly and tiering support; associated with reductions in office discipline referrals [+M]

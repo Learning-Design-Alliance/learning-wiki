@@ -39,7 +39,8 @@ The article proposes that congruence and incongruence of communication must be a
 - [Congruence Varies With Situation Importance And Relationship](../claims/congruence-varies-with-situation-importance-and-relationship.md) [+M]
 
 ## Related Theories
-- 
+
+- [Taxonomy of Educational Objectives: Relational Domain](relational-domain-taxonomy-brandhorst.md)
 
 ## Examples
 -

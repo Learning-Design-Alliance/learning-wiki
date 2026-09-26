@@ -60,8 +60,10 @@ Choice supports autonomy, which is a core driver of intrinsic motivation [Autono
 6. Teacher grades independently, then reconciles discrepancies through [feedback](../elements/provide-feedback.md) or a brief conference; treat large gaps as teaching moments about evaluative judgment.
 
 ## Related Strategies
+
 - Academic Choice (planning, working, reflecting) — shares the autonomy-plus-reflection structure; this strategy applies it to summative projects
 - [Rubrics and criteria charts](../elements/assess-performance.md) — the assessment infrastructure this strategy depends on
+- [Give learners control over how learning is measured via assessment choices and science-fair-type projects](learner-controlled-assessment-science-fair-projects.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — self-grading is a form of performance assessment turned inward

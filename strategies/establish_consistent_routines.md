@@ -61,10 +61,13 @@ Routines convert recurring procedural decisions into automatic behaviors, freein
 5. Maintain consistency for several weeks before introducing variations; fade prompts as the routine becomes automatic, shifting responsibility to learners [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - Establish Clear Behavioral Expectations — routines operationalize expectations into rehearsed behaviors
 - Use Attention Signals — a routinized component of instruction delivery
 - Scaffold Independent Work — routines provide the stable structure within which scaffolding fades
 - [Classroom Space and Procedural Design](../principles/classroom-space-and-procedural-design.md) — the broader principle distinguishing procedures (which routines implement) from rules
+- [Implement clear, consistently enforced rules and routines, including a uniform schoolwide discipline plan](posted-observable-rules-and-consistent-discipline-implementation.md)
+
 ## Related Elements
 - <!-- TODO -->
 ## Tools

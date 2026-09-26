@@ -43,7 +43,8 @@ The report describes Mead's 1942 analysis of the teacher's role, in which she ob
 - 
 
 ## Examples
--
+
+- [Zoom Family Hours](../strategies/zoom_family_hours.md)
 
 ## Key Sources
 - Monroe, Suzanne S. (1992). Margaret Mead: Anthropological Perspective on Educational Change. ERIC Document ED 356 168. https://eric.ed.gov/?id=ED356168

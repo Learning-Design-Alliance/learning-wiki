@@ -44,7 +44,8 @@ The article presents Mitchell's (2008) critical service-learning model as a demo
 - [Csl Co Established Projects Secure Partner Buy In](../claims/csl-co-established-projects-secure-partner-buy-in.md) [+M]
 
 ## Related Theories
-- 
+
+- [Competing conceptual models of service-learning: Butin's four perspectives and Mitchell's traditional/critical distinction](butin-mitchell-models-of-service-learning.md)
 
 ## Examples
 -

@@ -60,9 +60,11 @@ Clear expectations reduce uncertainty and off-task behavior, freeing working mem
 7. Revisit and revise norms periodically, especially after transitions or when the group composition changes.
 
 ## Related Strategies
+
 - [Check-in](../elements/check-in.md) — routine openings that operationalize expectations about presence and community
 - [Attention](../elements/attention.md) — signals and routines for managing focus depend on pre-established norms
 - [Accommodations](../elements/accommodations.md) — expectations must be set with flexibility for documented learner needs
+- [Implement clear, consistently enforced rules and routines, including a uniform schoolwide discipline plan](posted-observable-rules-and-consistent-discipline-implementation.md)
 
 ## Examples
 - **Responsive Classroom (Center for Responsive Schools)** — K–8 program in which teachers and students co-create classroom rules during the first weeks, then practice routines ("Interactive Modeling"); see [responsivereads.com](https://www.responsivereads.com) / [centerforresponsiveschools.org](https://www.centerforresponsiveschools.org).

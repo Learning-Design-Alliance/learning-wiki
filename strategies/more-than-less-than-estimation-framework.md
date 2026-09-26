@@ -37,7 +37,12 @@ For the estimation objective, the guide recommends that children practice judgin
 - Estimating the value of a collection of coins and other quantities
 
 ## Related Strategies
-- 
+
+- [Numbers To 100](numbers_to_100.md)
+- [Counting Collections](counting-collections.md)
+- [Dot Card Flash](dot_card_flash.md)
+- [Which One Doesn’t Belong?](which_one_doesnt_belong.md)
+- [Multiple Representations: Number Line](multiple_representations-number_line.md)
 
 ## Examples
 -

@@ -45,7 +45,8 @@ The article adopts Miranda Fricker's account of epistemic injustice, which focus
 - 
 
 ## Examples
--
+
+- [Data activism through intentional participation, student-centric learning analytics, and storytelling](../strategies/data-activism-participation-storytelling.md)
 
 ## Key Sources
 - Haarman, Susan. (2021). The Data Should Not Speak for Itself: Epistemic Injustice and Data as Rhetoric. Philosophical Studies in Education 52. https://www.ovpes.org/

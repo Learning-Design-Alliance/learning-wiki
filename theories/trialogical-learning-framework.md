@@ -42,10 +42,16 @@ The Trialogical Approach holds that learning occurs not only through monological
 - 
 
 ## Related Theories
+
 - [Knowledge Creation Metaphor Of Learning](knowledge-creation-metaphor-of-learning.md)
+- [Cultural-Historical Activity Theory](cultural-historical-activity-theory.md)
 
 ## Examples
--
+
+- [Knowledge Practices Environment (KPE): a platform for object-centred collaborative knowledge creation](../elements/knowledge-practices-environment-kpe.md)
+- [KP-Lab toolset supporting four types of mediation, including the Visual Model Editor and analytic mirroring tools](../elements/kp-lab-mediation-tools.md)
+- [Design learning for knowledge creation by delegating responsibility for developing shared, re-usable knowledge objects to learners](../principles/delegate-knowledge-creation-responsibility-to-learners.md)
+- [Pedagogical scenarios that organise learning around knowledge creation with shared objects](../strategies/trialogical-pedagogical-scenarios.md)
 
 ## Key Sources
 - Reynolds, S., & Camilleri, A. F. (2010). KP-LAB: Breaking New Ground on How to Create Knowledge Through Learning. EDEN 2010 Conference, Valencia.

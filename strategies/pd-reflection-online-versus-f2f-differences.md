@@ -39,7 +39,8 @@ Based on their findings, the authors recommend that e-teachers need opportunitie
 - supporting learner-centered approaches with online tools
 
 ## Related Strategies
-- 
+
+- [Develop ICAP-based activity prompts, revise templates, and provide professional development for online course designers](icap-prompts-template-professional-development.md)
 
 ## Examples
 -

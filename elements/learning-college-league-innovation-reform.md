@@ -37,10 +37,12 @@ The article describes the League for Innovation in the Community College's effor
 - Improved student learning, performance and success through learner partnership and responsibility
 
 ## Related Elements
-- 
+
+- [H-B Woodlawn Secondary School as an existing learning-centered learning environment](hb-woodlawn-student-control-school-example.md)
 
 ## Examples
--
+
+- [Give learners control over how learning is measured via assessment choices and science-fair-type projects](../strategies/learner-controlled-assessment-science-fair-projects.md)
 
 ## Key Sources
 - Jim Reynolds. (2006). Learning-Centered Learning: A Mindset Shift for Educators. Inquiry, Volume 11, Number 1, Spring 2006, 55-64. http://www.vccaedu.org/inquiry/inquiry-spring2006/i-11-reynolds.html

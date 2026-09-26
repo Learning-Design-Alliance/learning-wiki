@@ -63,11 +63,13 @@ Stated objectives improve learning primarily by directing attention and supporti
 - [Understanding by Design](../processes/understanding-by-design.md) — UbD's Stage One prioritization is a structured way to decide which goals warrant the cognitive approach's enduring understandings versus more specific, behaviourally-stated objectives
 
 ## Related Elements
+
 - [Learning Outcomes](learning-outcomes.md) — the formal, curriculum-level statements from which episode-level objectives are drawn
 - [Goal Setting](goal-setting.md) — the learner-side counterpart; stated objectives can be internalized or co-constructed as personal goals
 - [Scaffolding](scaffolding.md) — objectives define what the scaffolding is scaffolding toward and inform fading decisions
 - [Advance Organizers](advance-organizers.md) — a broader framing device that objectives often serve as a component of
 - [Assess Performance](assess-performance.md) — objectives only function when assessment is visibly aligned to them
+- [Competency statement format: behavior, conditions, and minimal performance level](competency-statement-three-element-format.md)
 
 ## Patterns That Use This Element
 - [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "inform learners of objectives," the second event, immediately after gaining attention

@@ -16,7 +16,7 @@ sources:
 # A three-mode model of preservice teachers' probabilistic reasoning: mathematical, subjective, and outcome-oriented
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The study models PSMTs' probabilistic reasoning in a unified schema with three categories: mathematically oriented thinkers relying on theoretical probability, subjectively oriented thinkers using personal information and contingencies, and outcome-oriented thinkers focused on the favourable outcome itself. The article states that 'PSMTs’ probabilistic reasoning was classified into mathematical (M), subjective (S), and outcome-oriented (O)', responding to calls for a unified framework that models several probability conceptions in one schema rather than a normative hierarchy.
@@ -37,7 +37,12 @@ The study models PSMTs' probabilistic reasoning in a unified schema with three c
 - probability conceptions
 
 ### Claims
-- 
+
+- [Attributing outcomes to Allah's will among some PSMTs functioned as probabilistic reasoning, not mere personalist belief](../claims/allahs-will-as-probabilistic-reasoning.md) [+W]
+- [Mathematically oriented PSMTs exhibit equiprobability and insensitivity-to-prior-probability biases](../claims/m-thinkers-equiprobability-insensitivity-biases.md) [+W]
+- [A bias-free experimental-probability subcategory (o**) emerged only in the die-rolling task](../claims/o-star-star-law-of-large-numbers.md) [+W]
+- [Outcome-oriented PSMTs conflate causality with conditionality and predict single-trial outcomes](../claims/outcome-oriented-causal-conception.md) [+W]
+- [Subjectively oriented reasoning emerged in the giving-birth context but disappeared in the die-rolling task](../claims/subjective-reasoning-context-dependent.md) [+W]
 
 ## Related Theories
 - 

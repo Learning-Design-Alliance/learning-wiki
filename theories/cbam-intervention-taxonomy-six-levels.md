@@ -39,7 +39,8 @@ The Intervention Taxonomy classifies the actions that influence use of an innova
 - 
 
 ## Related Theories
-- 
+
+- [Stages of Concern About the Innovation: a seven-stage developmental taxonomy of individuals' concerns](stages-of-concern-seven-stage-taxonomy.md)
 
 ## Examples
 -

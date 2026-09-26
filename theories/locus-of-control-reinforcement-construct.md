@@ -41,7 +41,10 @@ The article organizes its predictions around Rotter's (1966) "control of reinfor
 - [Experimeter Ie Status Null Conditioning](../claims/experimeter-ie-status-null-conditioning.md) [~M]
 
 ## Related Theories
-- 
+
+- [Interpersonal styles equated with generalized expectancies in social learning theory](interpersonal-styles-as-generalized-expectancies.md)
+- [Social learning theory expectancy framework (generalized and specific expectancies)](social-learning-expectancy-framework.md)
+- [Weiner's dimensional organization of attributions: locus of control, stability, and later controllability](weiner-attribution-dimensions-locus-stability-control.md)
 
 ## Examples
 -

@@ -49,10 +49,12 @@ Well-formed objectives improve alignment between instruction and assessment, whi
 - [Constructive Alignment](../patterns/constructive-alignment.md) — objectives are the first vertex of the alignment triangle connecting outcomes, activities, and assessment
 
 ## Related Elements
+
 - [Assessment](assessment.md) — objectives are only meaningful if assessment actually measures them
 - [Advance Organizers](advance-organizers.md) — objectives often serve as the organizer at the start of a lesson
 - [Practice](practice.md) — practice tasks must be selected to serve stated objectives, not convenience
 - [Check-In](check-in.md) — mid-lesson checks verify progress toward the objective
+- [Competency statement format: behavior, conditions, and minimal performance level](competency-statement-three-element-format.md)
 
 ## Patterns That Use This Element
 - [Constructive Alignment](../patterns/constructive-alignment.md) — objectives are the anchor from which activities and assessment are derived

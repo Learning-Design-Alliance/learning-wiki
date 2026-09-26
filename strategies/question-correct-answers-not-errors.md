@@ -41,7 +41,12 @@ In self-instructional kit work, the teacher asks "Why did you choose c for numbe
 - [Experience With Languaging Activities](../patterns/experience-with-languaging-activities.md)
 
 ## Related Strategies
-- 
+
+- [Behavioral Feedback for Correct and Incorrect Responses](behavioral-feedback-for-responses.md)
+- [Emphasize Reasoning over Answers](emphasize_reasoning_over_answers.md)
+- [Questioning Techniques to Address Errors](questioning_techniques_to_address_errors.md)
+- [Emphasis on Reasoning over Answers](emphasis_on_reasoning_over_answers.md)
+- [Focus on the Question They Answered Correctly](focus_on_the_question_they_answered_correctly.md)
 
 ## Examples
 -

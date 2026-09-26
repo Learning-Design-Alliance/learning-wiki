@@ -64,9 +64,11 @@ Self-advocacy is a component of self-determination, and interventions that build
 6. Transfer responsibility: fade teacher prompting and move students toward leading their own conferences and accommodation conversations.
 
 ## Related Strategies
+
 - [Achievable Micro-Goals](../strategies/achievable_micro-goals.md) — small wins build the self-efficacy that makes advocacy feel worthwhile
 - [Active Listening](../strategies/active_listening.md) — the teacher-side skill that makes student advocacy productive
 - [Activities for Student Self-Reflection](../strategies/activities_for_student_self-reflection.md) — the self-knowledge foundation on which advocacy rests
+- [Teacher practices of behavior analysis, encouraging independent decisions, and providing easy-to-use EF materials](teacher-practices-behavior-analysis-independent-decisions-materials.md)
 
 ## Related Elements
 - [Articulation](../elements/articulation.md) — students must put their needs into words; articulation is the core performance

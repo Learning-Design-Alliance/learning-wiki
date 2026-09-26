@@ -40,10 +40,12 @@ The LoU Chart (Figure 2) displays operational definitions of the eight Levels of
 - [Levels Of Use Innovation Eight Level Framework](../theories/levels-of-use-innovation-eight-level-framework.md)
 
 ## Related Elements
-- 
+
+- [The Levels of Use Interview: a 20-minute focused branching interview assigning a LoU level to any individual](lou-focused-branching-interview.md)
 
 ## Examples
--
+
+- [Use LoU data to monitor implementation, plan staff development, select research samples, and evaluate programs](../strategies/use-lou-data-for-change-monitoring-and-staff-development.md)
 
 ## Key Sources
 - Loucks, Susan F. (1977). Levels of Use of the Innovation: The Conceptualization and Measurement of a Variable Useful for Assessing Innovation Implementation by Individuals. https://eric.ed.gov/?id=ED137947

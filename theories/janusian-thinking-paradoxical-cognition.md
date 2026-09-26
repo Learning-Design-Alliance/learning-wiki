@@ -39,10 +39,12 @@ Drawing on Rothenburg (1979), the chapter defines Janusian thinking as the simul
 - 
 
 ## Related Theories
-- 
+
+- [The Janusian process: actively conceiving multiple opposites simultaneously as a mechanism of creativity](janusian-process-creative-thinking.md)
 
 ## Examples
--
+
+- [Implement simultaneously opposite strategies when institutions face decline: external entrepreneurship paired with internal stability](../strategies/simultaneously-opposite-strategies-for-decline.md)
 
 ## Key Sources
 - Cameron, Kim. (1984). The Paradox in Institutional Renewal. https://eric.ed.gov/?id=ED257351

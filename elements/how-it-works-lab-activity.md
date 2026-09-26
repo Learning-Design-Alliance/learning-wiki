@@ -39,7 +39,8 @@ A recurring laboratory activity type is planned in every lab edition: "it was al
 - measurement and error evaluation
 
 ## Related Elements
-- 
+
+- [Pigelleto's Summer School of Physics: a full-immersion orientation program for high-school students](pigelleto-summer-school-physics.md)
 
 ## Examples
 -

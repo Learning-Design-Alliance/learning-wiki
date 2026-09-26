@@ -58,9 +58,11 @@ Concept mapping works because it requires learners to actively construct relatio
 5. Provide feedback on relationship accuracy and have learners revise; revisit the map after subsequent instruction ([Practice](../elements/practice.md), [Provide Feedback](../elements/provide-feedback.md)).
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — mapping a familiar domain before instruction surfaces existing structure to build on
 - [Annotating](../principles/annotating.md) — a lighter-weight generative activity serving similar elaborative goals
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — cross-domain links in a map are analogical connections made explicit
+- [Student-generated mapping exercise](student-generated-mapping-strategy.md)
 
 ## Examples
 - **IHMC CmapTools** (https://cmap.ihmc.us) — free software developed by Novak's group at the Institute for Human and Machine Cognition; supports collaborative map building and proposition-level linking.

@@ -40,7 +40,9 @@ Vygotsky's approach treats higher mental processes as functions of mediated acti
 - [Ie Sessions Moderate Decline In Language Marks Not Math](../claims/ie-sessions-moderate-decline-in-language-marks-not-math.md) [~M]
 
 ## Related Theories
-- 
+
+- [Feuerstein's mediated learning: human mediation as prerequisite for direct learning](feuerstein-mediated-learning-prerequisite.md)
+- [Distributed cognition: cognition as a function of a system of people and tools](distributed-cognition-system-unit-of-analysis.md)
 
 ## Examples
 -

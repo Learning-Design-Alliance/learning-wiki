@@ -43,7 +43,8 @@ The article's reconstruction of Kohlberg's moral education specifies four integr
 - [Dewey Moral Deliberation Dramatic Rehearsal](../theories/dewey-moral-deliberation-dramatic-rehearsal.md)
 
 ## Related Strategies
-- 
+
+- [SEL Discussions on Ethical Dilemmas](sel_discussions_on_ethical_dilemmas.md)
 
 ## Examples
 -

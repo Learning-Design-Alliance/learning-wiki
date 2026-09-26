@@ -43,7 +43,8 @@ The article proposes that elaborative interrogation benefits learning only when 
 - 
 
 ## Examples
--
+
+- [Improve elaborative interrogation answer quality through practice training with example answers and feedback](../strategies/practice-training-and-feedback-for-elaborative-interrogation-answers.md)
 
 ## Key Sources
 - Clinton, V., Alibali, M. W., & Nathan, M. J. (2016). Learning About Posterior Probability: Do Diagrams and Elaborative Interrogation Help? The Journal of Experimental Education, 84(3), 579-599. https://doi.org/10.1080/00220973.2015.1048847

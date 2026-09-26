@@ -45,7 +45,10 @@ Integrated learning units for multimedia production should follow a sequence: ap
 - 
 
 ## Examples
--
+
+- [Multimedia production project](../elements/multimedia-production-project.md)
+- [Learning by Producing (multimedia production as learning)](../patterns/learning-by-producing-pattern.md)
+- [Assign diverse production roles in multimedia teams](../strategies/role-assignment-production-teams.md)
 
 ## Key Sources
 - Tanaka. (1997). Multimedia learning and cross-curricular learning. https://eric.ed.gov/?id=EJ545678

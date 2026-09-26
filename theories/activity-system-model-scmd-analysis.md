@@ -39,10 +39,13 @@ The study applies Engeström's (1987) activity system model, which situates Vygo
 - [Ecology Of Activity Systems Scmd](../claims/ecology-of-activity-systems-scmd.md) [+M]
 
 ## Related Theories
-- 
+
+- [Activity theory: a mediated activity system framework for analyzing cognition in context](activity-theory-mediated-activity-system.md)
+- [Activity theory frames human activity as a system of six interacting elements (subject, object, tools, community, rules, division of labor)](chat-six-element-activity-framework.md)
 
 ## Examples
--
+
+- [Future SCMD research should move from surface units and isolated elements to the deep structure of the whole activity system](../strategies/scmd-research-deep-structure-whole-system.md)
 
 ## Key Sources
 - Park, Y. (2015). Understanding Synchronous Computer-Mediated Classroom Discussion through Cultural-Historical Activity Theory. The Turkish Online Journal of Educational Technology, 14(2). https://www.tojet.net/

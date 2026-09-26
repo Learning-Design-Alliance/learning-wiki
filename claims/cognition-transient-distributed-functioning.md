@@ -41,5 +41,7 @@ Theoretical argument in the paper's introductory section, citing neuroscientific
 
 
 ## Related Claims
+
 - [The nervous system is hypothesized to include an all-spreading nondirectional relational medium alongside directional connections](all-spreading-nondirectional-relational-medium.md) — related
 - [Early training produces neural and physiological adaptations that can be misattributed to innate talent](early-training-adaptations-misread-as-talent.md) — related
+- [Comprehension and recognition need not draw on permanent mental representations: recognition occurs via shared functional elements across schema-of-the-moments](recognition-without-permanent-representations.md)

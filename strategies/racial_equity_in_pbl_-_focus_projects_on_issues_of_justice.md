@@ -60,8 +60,10 @@ Anchoring projects in justice issues raises the authenticity and personal stakes
 6. **Act and reflect.** Deliver the work to an authentic audience, then debrief both the academic learning and the emotional experience of confronting injustice.
 
 ## Related Strategies
+
 - Community-embedded and service-oriented project designs — share the commitment to consequential work beyond the classroom
 - Culturally responsive teaching approaches — provide the pedagogical stance this strategy operationalizes within PBL
+- [Engage youth as partners in stewardship rather than as subjects to be taught](youth-as-stewardship-partners.md)
 
 ## Examples
 - **Science/math:** Students analyze air-quality or lead-pipe data from their own zip code, then present remediation demands to the city council — a structure used in community science curricula such as those from the [Public Science Project](https://www.publicscienceproject.org) (participatory action research in New York schools).

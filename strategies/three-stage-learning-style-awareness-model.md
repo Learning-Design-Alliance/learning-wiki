@@ -37,7 +37,8 @@ The article describes a three-stage developmental model (Reynolds & Werner, 2003
 - Developing more effective, personalized learning strategies based on self-knowledge of learning preferences
 
 ## Related Strategies
-- 
+
+- [Give learners control over how learning is measured via assessment choices and science-fair-type projects](learner-controlled-assessment-science-fair-projects.md)
 
 ## Examples
 -

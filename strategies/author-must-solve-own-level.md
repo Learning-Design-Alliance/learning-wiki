@@ -38,7 +38,9 @@ In BOTS, a created level is not shared until its author demonstrates a working s
 - quality control of peer-facing content
 
 ## Related Strategies
-- 
+
+- [Student-Generated Problems](student-generated_problems.md)
+- [Word Problem Creation](word_problem_creation.md)
 
 ## Examples
 -

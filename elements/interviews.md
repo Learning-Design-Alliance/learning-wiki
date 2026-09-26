@@ -62,10 +62,12 @@ Interviews make learning situated and purposeful: learners must activate prior k
 - [Community-Based Learning](../principles/community-based-learning.md) — interviews as the primary interface between learners and community partners
 
 ## Examples
+
 - **Oral history projects (e.g., StoryCorps, https://storycorps.org)** — students interview family or community members using StoryCorps' question guides, producing archived first-person accounts; widely used in K-12 history and ELA curricula
 - **Qualitative research methods courses** — learners design interview protocols, pilot them on peers, and code transcripts; the peer pilot interview is a standard rehearsal structure
 - **User research in design education** — students conduct contextual interviews with users before prototyping, making the interview the front end of a design cycle
 - **News literacy units** — students interview local sources and triangulate claims against documents, learning both interviewing craft and source evaluation
+- [Have students interview study-abroad returnees to learn about living abroad first hand](../strategies/guest-speaker-interviews-returnees.md)
 
 ## Key Sources
 - Herrington, J., & Oliver, R. (2000). An instructional design framework for authentic learning environments. *Educational Technology Research and Development, 48*(3), 23–48. [doi:10.1007/BF02319856](https://doi.org/10.1007/BF02319856)

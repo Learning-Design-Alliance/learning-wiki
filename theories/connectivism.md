@@ -57,14 +57,18 @@ Connectivism also draws on network science: nodes compete for connections, well-
 ## Claims
 
 ## Related Theories
+
 - [Behaviorism](behaviorism.md) – predates networked learning; treats learning as entirely internal to the individual
 - [Cognitivism](cognitivism.md) – also treats learning as an internal information-processing activity, which connectivism explicitly rejects as insufficient
 - [Constructivism](constructivism.md) – shares connectivism's interest in learner-directed, socially situated learning, but still assumes knowledge is constructed inside the individual mind
 - [Situated Learning](situated-learning.md) ~ both emphasize that knowledge exists in a context beyond the individual, though situated learning centers embodied practice rather than digital networks
+- [Semantic network theory of learning](semantic-network-theory.md)
 
 ## Examples
+
 - Massive Open Online Courses (MOOCs) as an implementation of network-based, distributed learning
 - Personal learning networks built through social media, RSS, and professional communities
+- [Implement connectivism in K-12 classrooms by never providing information students can access themselves](../strategies/never-provide-information-students-can-access.md)
 
 ## Key Sources
 - Siemens, G. (2004). Connectivism: A learning theory for the digital age. Retrieved from http://www.elearnspace.org/Articles/connectivism.htm

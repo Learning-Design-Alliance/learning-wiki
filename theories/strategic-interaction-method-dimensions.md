@@ -39,10 +39,12 @@ The Strategic-Interaction (S-I) Method, designed by Robert J. DiPietro, is a ped
 - 
 
 ## Related Theories
-- 
+
+- [Canale and Swain's integrative framework of communicative competence: grammatical, sociolinguistic, and discourse components](canale-swain-communicative-competence-framework.md)
 
 ## Examples
--
+
+- [Open-ended scenario: collaboratively planned, acted-out, and debriefed role play for language learners](../patterns/open-ended-scenario-three-phase-structure.md)
 
 ## Key Sources
 - Calderon, Margarita; And Others. (1982). Methods and Techniques for Communicative Competence in Bilingual Education, Packet II. Language Proficiency Acquisition, Assessment, and Communicative Behavior, Series B. Student Edition. Bilingual Education Teacher Training Packets. https://eric.ed.gov/?id=ED226607

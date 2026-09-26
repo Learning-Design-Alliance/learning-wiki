@@ -43,7 +43,10 @@ The course uses two measurement tools: digital video cameras, from which positio
 - 
 
 ## Examples
--
+
+- [Measure and Graph Data](../strategies/measure_and_graph_data.md)
+- [Conclude with a choreography-and-analysis final project in place of a final exam](../strategies/choreography-analysis-final-project-culminating.md)
+- [Teach video analysis by hand, in real time, without automation layers for non-science majors](../strategies/hand-frame-by-frame-analysis-real-time-non-majors.md)
 
 ## Key Sources
 - Richard P. Barber, Jr., David J. Popalisky, Rose Hacking and Kristina Chiapella. (2006). Newton's 2nd Law and the Physics of Dance. https://scholar.google.com

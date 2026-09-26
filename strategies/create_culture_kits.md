@@ -59,9 +59,11 @@ Culture kits work by activating students' funds of knowledge and positioning the
 6. **Reflect and connect.** Students write about one thing they learned about a peer and one thing the exercise revealed about their own identity; revisit kits when relevant content arises.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — culture kits are an identity-centered variant that makes students' prior knowledge a classroom resource
 - [Check-ins](../principles/check-ins.md) — lower-stakes community rituals that can precede or follow kit sharing
 - [Community-based Learning](../principles/community-based-learning.md) — extends the same asset-framing beyond the classroom to neighborhoods and families
+- [Use structured e-mail exchanges with target-language peers to build cross-cultural interest and motivation](email-exchanges-target-language-peers.md)
 
 ## Examples
 - **Rookie Teacher of the Year practice (Bank Street College teacher education)** — pre-service teachers build culture kits as a first assignment to experience being "the other" and to practice asset-based framing before their own classrooms.

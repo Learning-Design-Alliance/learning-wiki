@@ -37,7 +37,8 @@ NVCC's CCTI health science project reaches students before high school because, 
 - awareness of medical careers and the possibilities opened by postsecondary education
 
 ## Related Strategies
-- 
+
+- [Use dual enrollment and a shared pathway template so students complete prerequisites while still in high school](dual-enrollment-pathway-template.md)
 
 ## Examples
 -

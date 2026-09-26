@@ -59,9 +59,11 @@ Mentoring works because it combines [Coaching](../elements/coaching.md) with sus
 6. Monitor relationship quality; rematch or close out relationships that are not working rather than letting them lapse.
 
 ## Related Strategies
+
 - [Coaching](../elements/coaching.md) — the instructional core of mentoring; mentoring adds relationship and duration
 - [Check-Ins](../elements/check-in.md) — the recurring structure that keeps support contingent on current needs
 - [Communities of Practice](../principles/communities-of-practice.md) — mentoring as the dyadic entry point into a broader professional community
+- [Match teacher education, mentoring, and evaluation to developmental stage: routines and scripts for novices, analytical mentors from the competent and proficient, and stage-appropriate evaluation](stage-matched-teacher-education-policy.md)
 
 ## Examples
 - **[Big Brothers Big Sisters of America](https://www.bbbs.org)** — the most-studied youth mentoring program; its randomized evaluations shaped the "evidence-based practices" now standard in program design (training, monitoring, minimum 12-month commitment).

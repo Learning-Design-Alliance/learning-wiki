@@ -60,9 +60,11 @@ PBIS treats behavior as a learnable skill set rather than a character trait, app
 7. Review implementation fidelity (e.g., using the TFI — Tiered Fidelity Inventory) twice yearly and adjust.
 
 ## Related Strategies
+
 - [Check-In/Check-Out](check-incheck-out.md) — the most common Tier 2 support within PBIS
 - [Restorative Practices](restorative-practices.md) — a complementary approach to discipline that replaces exclusionary consequences
 - [Social-Emotional Learning](../patterns/social-emotional-learning.md) — teaches the underlying self-regulation skills PBIS expectations presuppose
+- [Implement clear, consistently enforced rules and routines, including a uniform schoolwide discipline plan](posted-observable-rules-and-consistent-discipline-implementation.md)
 
 ## Examples
 - **[Center on PBIS](https://www.pbis.org)** — the national technical assistance center providing implementation guides, fidelity measures (TFI, SAS), and state implementation networks across the U.S.

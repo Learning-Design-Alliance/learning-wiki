@@ -39,7 +39,10 @@ Besides the ten spectra given to students, facilitators hold back an eleventh sp
 - testing hypotheses against new data
 
 ## Related Strategies
-- 
+
+- [Use a burning-fuel analogy thinking tool to bridge data trends to stellar lifetimes and mass-to-energy conversion](burning-fuel-thinking-tool-stellar-lifetimes.md)
+- [Adapt the paper-based stellar populations inquiry to large Astronomy 101 classes and test learning with and without the inquiry](adapt-stellar-inquiry-to-large-lecture-classes.md)
+- [Behavioral Feedback for Correct and Incorrect Responses](behavioral-feedback-for-responses.md)
 
 ## Examples
 -

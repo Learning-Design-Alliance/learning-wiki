@@ -58,9 +58,12 @@ Shadowing is a form of immersive, first-person inquiry that surfaces the gap bet
 5. Convert findings into one or two concrete design changes — e.g., reducing transition dead time, adding [Active Learning](../principles/active-learning.md) segments — and schedule a follow-up shadow to check for change.
 
 ## Related Strategies
+
 - [Learning Walks](learning-walks.md) — broader, lesson-level observation across many classrooms; shadowing complements it with the single-learner lens
 - [Empathy Interviews](../principles/empathy-interviews.md) — the verbal counterpart; shadowing shows what happens, interviews explain why
 - [Action Research](action-research.md) — shadowing can serve as the data-collection phase of a practitioner inquiry cycle
+- [Observe the classroom for dissonance between what students say and what teachers see](classroom-observation-dissonance-inclusive-design.md)
+- [Conduct a needs assessment combining baseline district data and projective opinion data before designing a middle school](needs-assessment-baseline-and-projective-data.md)
 
 ## Examples
 - **[Shadow a Student Challenge](https://shadowastudent.org)** (School Retool / IDEO) — a national campaign in which school leaders shadow a student for a day and share redesign commitments; the canonical large-scale implementation.

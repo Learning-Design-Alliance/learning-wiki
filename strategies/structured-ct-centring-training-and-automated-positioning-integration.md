@@ -39,7 +39,8 @@ The article recommends structured training programmes and broader adoption of au
 - Accurate patient centring technique, including cardiac CT isocentre alignment
 
 ## Related Strategies
-- 
+
+- [Simulation Based Medical Training](simulation-based-medical-training.md)
 
 ## Examples
 -

@@ -40,7 +40,8 @@ The article synthesizes Sealey's (2014) framework characterizing students' under
 - 
 
 ## Examples
--
+
+- [Use sequences of problem-situations to progressively contextualize and develop mathematical comprehension of calculus concepts](../strategies/problem-situation-sequences-progressive-comprehension.md)
 
 ## Key Sources
 - Burgos, M., Bueno, S., Godino, J.D., & Pérez, O. (2021). Onto-semiotic complexity of the Definite Integral. Implications for teaching and learning Calculus. REDIMAT – Journal of Research in Mathematics Education, 10(1), 4-40. https://doi.org/10.17583/redimat.2021.6778

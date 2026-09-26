@@ -59,9 +59,11 @@ The central design problem is that the count sequence to 100 far exceeds what yo
 7. **Fade supports.** Move from full material support to partial (pictures of bundles) to symbolic-only as children demonstrate fluency [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
 
 ## Related Strategies
+
 - Counting collections routines — the object-counting counterpart that grounds grouping concepts
 - Number talks — oral decomposition discourse that extends this work to mental computation
 - Skip-counting introduction — the natural successor once tens-structure is secure
+- [Teach estimation of coin values and quantities using a 'more than'/'less than' framework rather than counting and rounding](more-than-less-than-estimation-framework.md)
 
 ## Examples
 - **Counting Collections (Teresa Lindblom / Cognitively Guided Instruction classrooms)** — children count jars of 60–120 objects, record how they grouped them, and share strategies; see [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)

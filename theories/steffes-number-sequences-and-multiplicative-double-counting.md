@@ -44,7 +44,9 @@ This reversibility at the ENS stage is the conceptual prerequisite for **multipl
 - [Spontaneous break-apart-make-ten strategy use is associated with stronger multiplicative double-counting reasoning](../claims/spontaneous-additive-strategy-relates-to-multiplicative-reasoning.md) [+M]
 
 ## Related Theories
+
 - (none yet linked)
+- [The number sequence hierarchy (INS, TNS, aTNS, ENS, GNS) defined by units coordination and splitting](cl-number-sequence-hierarchy-defined-by-units-coordination-and-splitting-models-students-algebraic-reasoning.md)
 
 ## Examples
 - A child solving 8+7 by counting-on ("8; 9-10-11...15") is inferred to be at the Initial Number Sequence — reasoning on units of one.

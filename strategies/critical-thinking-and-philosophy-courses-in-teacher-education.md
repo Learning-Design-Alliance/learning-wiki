@@ -37,7 +37,8 @@ Based on the finding that critical thinking dispositions associate with contempo
 - developing critical thinking dispositions and adopting contemporary educational philosophies
 
 ## Related Strategies
-- 
+
+- [Use Pippi Longstocking experientially in pre-service teacher education to practice educational philosophies.](pippi-longstocking-experiential-teacher-education.md)
 
 ## Examples
 -

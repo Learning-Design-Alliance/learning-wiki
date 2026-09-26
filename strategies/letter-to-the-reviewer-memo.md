@@ -41,7 +41,10 @@ A Letter to the Reviewer is a short reflective note or memo submitted with each 
 - [Involve Students In Revision Process](../principles/involve-students-in-revision-process.md)
 
 ## Related Strategies
-- 
+
+- [Hold one-on-one writing conferences to negotiate feedback and revision](one-on-one-writing-conferences.md)
+- [Reflection After Writing](reflection_after_writing.md)
+- [5-Minute Writing Conferences](5-minute_writing_conferences.md)
 
 ## Examples
 -

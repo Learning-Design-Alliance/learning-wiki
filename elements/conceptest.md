@@ -51,9 +51,11 @@ ConcepTests convert lecture time into [active learning](../principles/active-lea
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — restricting each question to one concept keeps the discussion focused on a single schema rather than a multi-step problem that overloads working memory
 
 ## Related Elements
+
 - [Class Discussion](class-discussion.md) — the peer discussion phase is a tightly structured, whole-class-simultaneous variant
 - [Assessment](assessment.md) — ConcepTests function as ungraded formative assessment embedded in instruction
 - [Activation](activation.md) — the initial vote activates prior conceptions, including misconceptions, before instruction addresses them
+- [Enhanced multiple-choice (EMC) questions with up to ten answers, graded correctness, and partial credit](enhanced-mc-partial-credit-questions.md)
 
 ## Patterns That Use This Element
 - [Peer Instruction](../patterns/peer-instruction.md) — the defining pattern: vote → discuss → revote → explain

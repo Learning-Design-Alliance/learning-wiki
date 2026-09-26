@@ -74,7 +74,9 @@ Across a multi-week unit, sequence sessions from single-concept exploration (gra
 - For learners without a dance background, substitute a more general embodied-movement vocabulary (gesture, everyday physical action) for dance technique, and lengthen the warm-up phase to build a shared movement repertoire before content-linked improvisation begins.
 
 ## Related Patterns
+
 - (none yet linked)
+- [Weekly dance-first-then-physics cycle with dual experimental and experiential records](dance-first-physics-weekly-cycle-dual-record.md)
 
 ## Examples
 - An 8-week after-school program for 15 high-school girls from two community dance centers, covering gravity, Newton's laws, and atomic bonding, culminating in a final public performance.

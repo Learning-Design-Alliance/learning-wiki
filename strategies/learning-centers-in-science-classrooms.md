@@ -37,7 +37,8 @@ The digest recommends setting up learning centers in the classroom with more tas
 - Self-directed engagement with science tasks
 
 ## Related Strategies
-- 
+
+- [Form Interest Groups and Strengths-Based Groups in Science](interest-based-grouping-in-science.md)
 
 ## Examples
 -

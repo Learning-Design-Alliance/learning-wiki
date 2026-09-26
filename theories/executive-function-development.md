@@ -38,9 +38,11 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 ## Claims
 
 ## Related Theories
+
 - [Information Processing Theory](information-processing-theory.md) — executive function is the control system that coordinates attention and working memory within the broader information-processing model
 - [Adolescent Brain Development](adolescent-brain-development.md) — the prefrontal cortex maturation underlying executive function is the same maturational process described there
 - [Sociocultural Theory](sociocultural-theory.md) — scaffolding's measurable effect on executive function development is a direct, testable instance of Vygotsky's broader claim about guided interaction
+- [Five-dimension framework of preschool executive function with three core components advancing ages 3 to 5](preschool-ef-five-dimension-framework.md)
 
 ## Examples
 

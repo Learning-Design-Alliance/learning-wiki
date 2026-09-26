@@ -60,8 +60,10 @@ PBS reframes behavior management from reactive discipline to instructional desig
 6. For persistent cases, conduct a functional behavior assessment and build an individualized plan that teaches a replacement behavior serving the same function.
 
 ## Related Strategies
+
 - Classroom management strategies generally — PBS is the preventive, instructional end of that continuum
 - Social-emotional learning curricula — complementary explicit teaching of self-regulation skills
+- [Implement clear, consistently enforced rules and routines, including a uniform schoolwide discipline plan](posted-observable-rules-and-consistent-discipline-implementation.md)
 
 ## Examples
 - **SWPBIS** (https://www.pbis.org) — the U.S. OSEP-funded national implementation framework; thousands of schools report reduced office discipline referrals under faithful Tier 1 implementation [~S]

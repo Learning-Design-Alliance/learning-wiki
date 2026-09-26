@@ -67,6 +67,8 @@ Digital learning matters when technology changes what learners can access, rehea
 
 ## Examples
 
+- [PeerWise online tool for student-authored multiple-choice question repositories](../elements/peerwise-online-mcq-authoring-tool.md)
+
 ### Illustrative
 
 **[Flipped Learning](../patterns/flipped-learning.md)** — Learners access short digital explanations before class, then use live time for practice, discussion, and feedback. The gain comes from redesigning class time, not just posting videos.

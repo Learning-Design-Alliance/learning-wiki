@@ -75,11 +75,13 @@ Debate improves learning when it requires learners to justify positions with evi
 - [Evaluating Sources](evaluating-sources.md) — evidence quality matters as much as speaking performance
 
 ## Examples
+
 <!-- Links to elements or patterns that apply this principle -->
 - [Debate Format](../patterns/debate-format.md) — formalized opening, rebuttal, and closing sequence
 - [Debate for the Opposite Team](../strategies/debate_for_the_opposite_team.md) — learners argue against their initial position to deepen perspective-taking
 - Policy, ethics, clinical decision, and civic issues often work better than purely factual prompts
 - Structured prep sheets for claim, evidence, counterclaim, and rebuttal help novices participate more equitably
+- [Debate as a laboratory for argumentation theory, contingent on keeping debate practices accountable to argumentation principles](../patterns/debate-laboratory-for-argumentation.md)
 
 ## Key Sources
 - Kennedy, R. (2007). In-class debates: Fertile ground for active learning and the cultivation of critical thinking and oral communication skills. *International Journal of Teaching and Learning in Higher Education, 19*(2).

@@ -83,16 +83,23 @@ As Morshead (1965) pointed out on publication of the affective-domain handbook, 
 ## Claims
 
 ## Related Theories
+
 - [Stages of Cognitive Development](stages-of-cognitive-development.md) — Bloom's cognitive domain describes levels of instructional objective, distinct from Piaget's account of the learner's underlying developmental stage
 - [Sociocultural Theory](sociocultural-theory.md) — Bloom's taxonomy helps a teacher target the zone of proximal development by pinpointing which cognitive level a student needs support at; the scaffolding logic of building lower-level skills toward higher-level ones has been explicitly connected to Vygotskian scaffolding (Keene, Colvin, & Sissons, 2010)
 - [Information Processing Theory](information-processing-theory.md) — both concern stages of increasing cognitive complexity, though IP theory models internal processing stages while Bloom's Taxonomy classifies external objectives
 - [Metacognition](metacognition.md) — the revised taxonomy's Metacognitive knowledge dimension names this directly as a fourth type of knowledge alongside factual, conceptual, and procedural
 - [Mastery Learning](../patterns/mastery-learning.md) — mastery learning's step-by-step progression is often organized around Bloom's cognitive hierarchy
+- [Bloom's Taxonomy as a six-level scheme for classifying the cognitive level of multiple-choice questions](blooms-taxonomy-classifies-mc-question-cognitive-level.md)
+- [Taxonomy of Educational Objectives: Relational Domain](relational-domain-taxonomy-brandhorst.md)
+- [BRT clue variable paradigm shift: clues become the learning field itself](brt-clue-variable-paradigm-shift.md)
+- [ICAP-Bloom adapted coding scheme for cognitive engagement in online discussion posts](icap-bloom-coding-scheme-discussion-posts.md)
 
 ## Examples
+
 - [Five "E" Model](../patterns/five-e-model.md) — a constructivist lesson pattern often used alongside Bloom's taxonomy to target progressively higher cognitive levels across a lesson's stages
 - [Develop Observable Criteria](../strategies/develop_observable_criteria.md) — a strategy for writing measurable objectives using this taxonomy alongside Webb's Depth of Knowledge and Marzano's Dimensions of Learning
 - [Problem-based Learning](../principles/problem-based-learning.md) — Tomei's (2010) sequencing critique connects PBL's applied-before-abstract approach to a challenge against the taxonomy's strict hierarchy assumption
+- [TSMTDF: form for determining objective-oriented taxonomy, strategy, and method-techniques with scoring rubric](../elements/tsmtdf-determination-form.md)
 
 ## Key Sources
 - Bloom, B. S. (Ed.), Engelhart, M. D., Furst, E. J., Hill, W. H., & Krathwohl, D. R. (1956). *Taxonomy of educational objectives, Handbook I: The cognitive domain*. David McKay Co.

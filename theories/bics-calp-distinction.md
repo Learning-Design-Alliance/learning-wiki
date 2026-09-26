@@ -41,7 +41,8 @@ The BICS/CALP distinction separates basic interpersonal communicative skills (co
 - [Calp Can Precede Bics In Certain Situations](../claims/calp-can-precede-bics-in-certain-situations.md) [+M]
 
 ## Related Theories
-- 
+
+- [Cummins's BICS/CALP distinction: language proficiency divides into basic interpersonal communicative skills and cognitive/academic language proficiency](cummins-bics-calp-distinction.md)
 
 ## Examples
 -

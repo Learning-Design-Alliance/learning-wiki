@@ -42,7 +42,8 @@ To sustain engagement after initial exploration, the article recommends designin
 - [Implicit Scaffolding Framework](../theories/implicit-scaffolding-framework.md)
 
 ## Related Strategies
-- 
+
+- [Learning Games](learning-games.md)
 
 ## Examples
 -

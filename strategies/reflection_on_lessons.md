@@ -59,9 +59,11 @@ Reflection functions as self-regulated professional learning: teachers who monit
 5. **Periodically review** accumulated reflections across a unit or term to identify recurring patterns, and revise the underlying plan rather than patching individual lessons.
 
 ## Related Strategies
+
 - [Action Research](action-research.md) — formalizes lesson reflection into systematic inquiry cycles over a term
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — a low-time-cost reflection format adaptable to post-lesson notes
 - [Activities for Student Self-Reflection](activities_for_student_self-reflection.md) — the student-facing counterpart; pairing teacher and student reflection gives both sides of the instructional exchange
+- [New teachers should diagnose problem areas with reflection, mentoring, self-assessment, observation of experts, and video review](new-teacher-management-problem-identification-strategy.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — instructional coaching externalizes and challenges reflection, guarding against biased self-assessment

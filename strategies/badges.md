@@ -61,9 +61,11 @@ Badges operate as extrinsic motivators, and their effect on learning depends alm
 6. Decide on display policy: private progress tracking, learner-curated portfolios, or class-visible boards; prefer learner choice over imposed competition.
 
 ## Related Strategies
+
 - [Gamification](gamification.md) — badges are one of the most common gamification elements; the same motivation caveats apply
 - [Micro-credentials](micro-credentials.md) — badges at institutional scale with external recognition
 - [Leaderboards](leaderboards.md) — a competitive display mechanism often paired with badges, with stronger demotivation risks
+- [Use digital badges to recognize skills, supplement report cards, and manage equipment training access in maker education](digital-badges-maker-education-recognition.md)
 
 ## Related Elements
 - [Assessment](../elements/assessment.md) — badge criteria must be grounded in real assessment of the work

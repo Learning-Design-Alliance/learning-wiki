@@ -17,7 +17,7 @@ sources:
 # Provide young readers with syntactically appropriate peer-authored texts rather than basal readers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review argues that texts accounting for readers' cognitive and linguistic experiences, and texts written by peers, are more accessible to young readers than basal readers. Ekwall and Shanker note that "second graders, for instance, more easily read peer-written texts than those written by adults who use comparable words and sentence lengths", because adults' sophisticated sentence style hinders syntactically optimal composition for children. The review concludes it is important for teachers to provide peer-authored, syntactically appropriate material.
@@ -40,13 +40,16 @@ The review argues that texts accounting for readers' cognitive and linguistic ex
 - reading comprehension
 
 ### Claims
+
 - Text Accessibility Drives Context Clue Compensation [+M]
+- [Young developing readers rely more heavily on semantic and syntactic information for word-level analysis than adult readers, per Schwantes' study](../claims/young-readers-rely-on-semantic-syntactic-context-for-word-analysis.md) [+W]
 
 ## Related Principles
 - 
 
 ## Examples
--
+
+- [Student-Authored Texts for Conceptual Change](../patterns/student-authored-texts-for-conceptual-change.md)
 
 ## Key Sources
 - Fenton, Rebecca. (1998). Semantics and Syntax: Context Clues in Reading for Young Children. https://eric.ed.gov/?id=ED424564

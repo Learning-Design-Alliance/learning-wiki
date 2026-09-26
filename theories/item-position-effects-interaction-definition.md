@@ -16,7 +16,7 @@ sources:
 # Item position effects as an interaction between item location and test-taker performance
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Item position effects (IP effects) are defined as "the interaction between the position of a test item in a test booklet and the performance a test taker displays on the same item" (Qian, 2014, as cited). Under this account, item parameters such as difficulty or discrimination can vary according to an item's position in the booklet; classically, items near the end may be easier owing to practice or learning effects or harder owing to fatigue effects. Because IP effects are not the same for every test-taker, ignoring them may limit fair comparison and bias ability parameter estimates, threatening the validity of test score interpretations.
@@ -36,13 +36,16 @@ Item position effects (IP effects) are defined as "the interaction between the p
 - Valid and invariant measurement of achievement across test forms
 
 ### Claims
-- 
+
+- [Items flagged as DIF were generally positioned at considerably different places between booklets, suggesting position-related DIF](../claims/dif-items-differently-positioned-across-booklets.md) [+W]
+- [An item positioned later in one booklet was found more difficult by that booklet's test takers, attributed to fatigue effect](../claims/later-position-item-more-difficult-fatigue-effect.md) [+W]
 
 ## Related Theories
 - 
 
 ## Examples
--
+
+- [Position the same items in similar locations across different test booklets to avoid position-related DIF](../principles/similar-item-positions-across-booklets.md)
 
 ## Key Sources
 - Soysal, S., & Yilmaz Kogar, E. (2021). An Investigation of Item Position Effects by Means of IRT-Based Differential Item Functioning Methods. International Journal of Assessment Tools in Education, 8(2), 239-256. https://doi.org/10.21449/ijate.779963

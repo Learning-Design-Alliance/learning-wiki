@@ -59,9 +59,11 @@ Formative evaluation is among the highest-yield interventions in education; revi
 6. Periodically transfer the evaluative role to learners through [Self-Assessment](../elements/self-assessment.md) against exemplars.
 
 ## Related Strategies
+
 - [Action-Oriented Feedback](action-oriented_feedback.md) — the delivery mechanism that makes formative evidence actionable
 - [3-2-1 Reflection](3-2-1_reflection.md) — a lightweight elicitation routine for surfacing understanding and confusion
 - [Check-Ins](../principles/check-ins.md) — the ongoing relational practice that keeps the feedback channel open
+- [Use open-ended reflection questions as self-assessment in place of end-of-unit tests](open-ended-reflection-maker-self-assessment.md)
 
 ## Examples
 - **Dylan Wiliam's "minute paper" routine** — end each class with one question on what was learned and one on what remains unclear; open the next class by addressing the patterns.

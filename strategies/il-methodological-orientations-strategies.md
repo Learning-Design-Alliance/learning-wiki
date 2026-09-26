@@ -38,7 +38,9 @@ The article offers ten methodological orientations and twelve methodological str
 - transferability of theoretical content to real-world situations
 
 ## Related Strategies
-- 
+
+- [Recommendations for university leaders, professors, staff, and students to foster civic learning across the three levels](civic-learning-recommendations-university-stakeholders.md)
+- [Provide institutional support to enable relationship-building in critical service-learning](institutional-support-for-critical-service-learning-relationships.md)
 
 ## Examples
 -

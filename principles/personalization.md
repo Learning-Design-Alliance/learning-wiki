@@ -72,6 +72,8 @@ Personalization works primarily by keeping instruction within each learner's zon
 
 ## Examples
 
+- [Teachers should act as interfaces between textbooks and learners, adapting strategies to individual learner variables](../strategies/teachers-interface-textbooks-learners-adapt-strategies.md)
+
 ### Validated
 - [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M] — Walkington (2013) personalized algebra word problems to individual learners' out-of-school interests (sports, music, gaming) and found improved performance relative to standard contexts, with the largest gains for struggling learners.
 

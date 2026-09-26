@@ -40,7 +40,8 @@ The review presents the Johnsons' account of what distinguishes cooperative lear
 - [Cooperative Learning Achievement Synthesis Slavin](../claims/cooperative-learning-achievement-synthesis-slavin.md) [+M]
 
 ## Related Theories
-- 
+
+- [Five basic elements make cooperative learning work: positive interdependence, face-to-face interaction, individual accountability, interpersonal and small group skills, and group processing](five-basic-elements-of-cooperative-learning.md)
 
 ## Examples
 -

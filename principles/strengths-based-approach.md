@@ -83,10 +83,12 @@ A strengths-based approach improves learning when instructors make existing capa
 - [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — learners' strengths are easier to see when work resembles meaningful practice.
 
 ## Examples
+
 - **Strengths conference**: Instructor and learner identify effective strategies, prior experiences, and useful supports before setting goals.
 - **Role-based collaboration**: Teams distribute responsibilities based on emerging strengths while still rotating opportunities to grow.
 - **Asset-based feedback**: Instructor names what the learner already does well and connects it to the next improvement target.
 - **Experience-informed task entry**: Learners can begin with examples from work, family, language, or community knowledge.
+- [Choose fading starting points by identifying a response already in the child's repertoire](../strategies/repertoire-response-as-fading-starting-point.md)
 
 ## Key Sources
 - Garwood, J. D., & Ampuja, A. A. (2019). Inclusion of students with learning, emotional, and behavioral disabilities through strength-based approaches. *Intervention in School and Clinic, 55*(1), 46-51. [https://doi.org/10.1177/1053451218767918](https://doi.org/10.1177/1053451218767918)

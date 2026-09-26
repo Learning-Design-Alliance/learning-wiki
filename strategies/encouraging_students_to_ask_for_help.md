@@ -62,9 +62,11 @@ Help-seeking is a core self-regulatory behavior: students who seek help adaptive
 6. **Reinforce and assess.** Notice and name good help-seeking; track whether requests become more specific over time.
 
 ## Related Strategies
+
 - [Formative Assessment](../patterns/formative-assessment.md) — creates the low-stakes moments in which asking for help carries no grade cost
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — its coaching phase is where instrumental help-seeking responses live
 - Growth mindset framing — reframing difficulty as normal underpins the normative message (plain text; no page yet)
+- [Use predicted hint-taking likelihood and hint effects to adaptively decide whether to withhold or provide hints](adaptive-hint-withholding-from-hint-prediction.md)
 
 ## Examples
 - **Khan Academy (https://www.khanacademy.org)** — hint sequences in exercises are deliberately ordered from general to specific, an attempt to keep help instrumental; research on such systems shows learners often under-use or abuse hints, motivating explicit help-seeking training.

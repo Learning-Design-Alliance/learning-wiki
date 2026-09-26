@@ -39,7 +39,8 @@ Because starter pictures elicit many questions that do not match the content goa
 - selecting relevant data from too much data
 
 ## Related Strategies
-- 
+
+- [Use carefully chosen starter images to elicit student questions that are investigable with the given materials](starter-images-elicit-investigable-questions.md)
 
 ## Examples
 -

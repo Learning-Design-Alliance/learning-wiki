@@ -58,9 +58,14 @@ Retrieval practice is one of the most robustly supported learning strategies, pr
 4. **Repeat.** Reuse the cycle on subsequent days; compare organizers across cycles to show growth.
 
 ## Related Strategies
+
 - Brain Dump — the pure retrieval phase without the organizational step; this strategy extends it
 - Concept Mapping — the organizer step alone, typically done with materials open rather than from memory
 - Two-Things-Then-Three — a related recall-then-extend routine
+- [Graphic Organizers for Retrieval Practice](graphic_organizers_for_retrieval_practice.md)
+- [Brain Dumps](brain_dumps.md)
+- [Retrieval Practice Activities](retrieval-practice-activities.md)
+- [Graphic Organizers for Note-Taking](graphic_organizers_for_note-taking.md)
 
 ## Examples
 - **Science class (middle school):** after a unit on photosynthesis, students brain-dump everything they recall, arrange it into a flowchart linking sunlight, water, CO₂, glucose, and oxygen, then verify against their textbook and add missed inputs/outputs.

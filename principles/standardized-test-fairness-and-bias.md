@@ -50,7 +50,9 @@ Whether standardized tests are biased against particular social class, racial, o
 - [Intelligence Testing: Uses and Limits](intelligence-testing-uses-and-limits.md) — a parallel treatment of cultural bias specifically in cognitive-ability/IQ testing
 
 ## Examples
+
 - [Addressing Stereotype Threat](../strategies/addressing_stereotype_threat.md) — classroom strategies responding directly to the stereotype-threat mechanism described here
+- [Commission independent government investigations of whether high-impact tests predict what they are supposed to](../strategies/independent-investigation-of-test-validity.md)
 
 ## Key Sources
 - Popham, W. J. (2004). *America's "failing" schools: How parents and teachers can cope with No Child Left Behind*. RoutledgeFalmer.

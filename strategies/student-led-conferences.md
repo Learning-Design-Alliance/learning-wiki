@@ -61,9 +61,11 @@ SLCs operationalize [Assessment for Learning](../principles/assessment-for-learn
 7. **Follow up.** Goals from the conference feed into subsequent [goal-setting](../elements/goal-setting.md) cycles so the conference is a checkpoint, not a terminus.
 
 ## Related Strategies
+
 - [Portfolio Assessment](../strategies/portfolio-assessment.md) — the curricular backbone; SLCs are the culminating event of a portfolio cycle
 - [Goal-Setting Conferences](../strategies/goal-setting_conferences.md) — the goal-setting component SLCs formalize
 - [Self-Assessment](../elements/self-assessment.md) — the evaluative skill SLCs depend on and develop
+- [Build student ownership through student-led conferences, town halls, and college and career readiness activities](student-ownership-practices-middle-school.md)
 
 ## Examples
 - **EL Education (Expeditionary Learning) network schools** — passage presentations and student-led family conferences are a signature practice, with students defending portfolios before panels ([eleducation.org](https://eleducation.org))

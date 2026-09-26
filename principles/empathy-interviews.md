@@ -71,10 +71,13 @@ These are indirect anchors: empathy interviews rely on explanation, authentic co
 - [Debriefing](debriefing.md) — post-interview reflection helps convert what was heard into changed instructional choices.
 
 ## Examples
+
 - **Beginning-of-course learner interviews**: Short structured conversations about goals, barriers, prior experience, and support needs.
 - **Design interviews before program revision**: Staff interview learners about friction points before changing curriculum or services.
 - **Mentoring check-in interviews**: A mentor periodically revisits learner priorities, constraints, and sense of progress.
 - **Affinity-informed listening rounds**: Learners choose whether to share in individual, paired, or small-group interview formats.
+- [Extend empathy interviews to students' caregivers for an additional perspective](../strategies/caregiver-empathy-interview-extension.md)
+- [Conduct empathy interviews as story-based conversations in comfortable, student-chosen settings](../strategies/empathy-interview-conduct-practices.md)
 
 ## Key Sources
 - Anaissie, T., Cary, V., Clifford, D., Malarkey, T., & Wise, S. (2020). *Liberatory design: Your toolkit to design for equity, version 1.0*.

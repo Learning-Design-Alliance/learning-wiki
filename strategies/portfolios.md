@@ -58,9 +58,11 @@ Portfolios shift assessment authority toward learners, requiring them to evaluat
 5. Close with a synthesis reflection and, where possible, a presentation to an authentic audience [Authentic audiences improve student work.](../claims/authentic-audiences-improve-student-work.md) [+M].
 
 ## Related Strategies
+
 - [Rubric-Based Self-Assessment](rubric-based_self-assessment.md) — supplies the criteria that make portfolio selection and reflection evaluative rather than descriptive
 - [Learning Journals](learning_journals.md) — the reflective engine that generates portfolio commentary over time
 - [Exhibition of Learning](exhibition_of_learning.md) — a culminating authentic audience for the finished portfolio
+- [Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time](student-owned-portfolios-maker-assessment.md)
 
 ## Examples
 - **New Tech Network schools** — students defend digital portfolios of project work before panels of teachers and community members at graduation (https://newtechnetwork.org).

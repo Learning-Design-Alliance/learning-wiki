@@ -40,7 +40,8 @@ A questionnaire 'adapted from the validated questionnaire from Morais and Ogden 
 - 
 
 ## Examples
--
+
+- [Adapt global citizenship scale items to the local context and validate component models separately with PLS-SEM](../strategies/adapt-global-citizenship-items-local-context-pls-sem.md)
 
 ## Key Sources
 - Nguyen, M. T. (2021). Validating a Scale for Measuring Students' Perspectives toward Global Citizenship: A Case at a Private University in Vietnam. Education Quarterly Reviews, 4(3), 575-587. https://doi.org/10.31014/aior.1993.04.03.362

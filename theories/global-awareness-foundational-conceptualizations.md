@@ -16,7 +16,7 @@ sources:
 # Two foundational conceptualizations of global awareness: earth as one interdependent system and humankind as one family
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The Project is built on two foundational conceptualizations that define what global awareness means at the K-8 level. The first is "An increasing awareness of the earth as a single system with interrelated physical and biological subsystems of which humankind is an interdependent part." The second is awareness of all humankind as one family with the same basic needs, where varieties of human culture are differences of response to these common needs rather than basic differences in human beings. The bibliography invites educators to share materials supporting these two ideas.
@@ -37,10 +37,14 @@ The Project is built on two foundational conceptualizations that define what glo
 - Understanding of common human needs across cultures
 
 ### Claims
-- 
+
+- [Modernist discourses have produced contradictory environmental effects, raising awareness of problems while helping cultivate stories that construe the earth as an object of instrumental value](../claims/modernist-discourses-contradictory-environmental-effects.md) [~W]
+- [Deconstructing the modern metaphors of nature cultivated by modern science and industrialism is a first step toward reconstructing relationships with the earth](../claims/deconstructing-modern-nature-metaphors-first-step.md) [+W]
 
 ## Related Theories
-- 
+
+- [Hanvey's attainable global perspective: four components of global awareness](hanvey-attainable-global-perspective.md)
+- [Hanvey's five-dimension framework for an attainable global perspective](hanvey-five-dimensions-global-perspective.md)
 
 ## Examples
 -

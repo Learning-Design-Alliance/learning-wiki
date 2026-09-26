@@ -38,7 +38,9 @@ The trial supported digital inclusion "through supporting onboarding processes a
 - sustained engagement with digital health education
 
 ## Related Strategies
-- 
+
+- [Consider Socio-Cultural Factors](consider_socio-cultural_factors.md)
+- [Digital Literacy Instruction](digital_literacy_instruction.md)
 
 ## Examples
 -

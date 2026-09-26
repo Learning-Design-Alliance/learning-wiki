@@ -59,9 +59,13 @@ The strongest evidence favors programs that go beyond supplying books or asking 
 5. Fade adult scaffolding as the child's accuracy and fluency grow, shifting from shared to independent reading ([Fading](../elements/fading.md)).
 
 ## Related Strategies
+
 - [Dialogic reading](https://www.readingrockets.org/topics/early-literacy/articles/dialogic-reading) — the best-evidenced parent interaction technique for shared reading
 - [Repeated reading](repeated-reading.md) — fluency-building routine easily adapted to the home
 - [Family engagement in homework](family-engagement-in-homework.md) — broader family involvement in academic routines
+- [Provide parent read-at-home plans and home reading strategies for struggling readers](parent-read-at-home-plans.md)
+- [Parent-teacher collaboration on independent self-care tasks and patience training to promote EF](parent-teacher-collaboration-independent-tasks-patience.md)
+- [Encourage cognition and literacy by providing varied reading, writing, and drawing materials and building environmental awareness](varied-materials-and-environmental-awareness-encourage-literacy.md)
 
 ## Examples
 - **Dialogic reading interventions** (Whitehurst et al., 1988) — parents of preschoolers trained in interactive questioning produced significant gains in expressive language compared with controls.

@@ -47,7 +47,9 @@ Video-based reflection is the element in which learners or practitioners review 
 - [Video-Based Feedback Cycle for Teacher Teams](../strategies/video-based-feedback-cycle-for-teacher-teams.md) — a specific collaborative protocol built around this element for teacher PD
 
 ## Related Elements
+
 - (none yet linked)
+- [Video-based lesson-debrief cycles with teacher teams in schools](video-based-lesson-debrief-cycles-teams.md)
 
 ## Examples
 - Four kindergarten/first-grade children reviewed video of their own shape-magnet play and surfaced both mathematical reasoning and social/affective meaning in what they had done, without researcher-imposed categories.

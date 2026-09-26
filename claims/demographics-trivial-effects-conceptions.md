@@ -41,8 +41,10 @@ MANCOVAs with ANCOVA follow-ups on 304 prospective teachers testing gender, year
 
 
 ## Related Claims
+
 - [Consonance and dissonance patterns form four components, including a dominant pattern linking valuing constructivist teaching/assessment for learning with dissonance](four-patterns-consonance-dissonance-pca.md) — related
 - [Prospective teachers value constructivist teaching/learning and assessment for learning more than they practise, and practise traditional teaching and performance orientation more than they value](prospective-teachers-value-constructivist-more-than-practised.md) — related
 - [Most prospective teachers see constructivist conceptions as highly valuable but not very applicable, and traditional conceptions as not valuable but highly applicable](constructivist-valued-but-not-applicable-person-level.md) — related
 - [A minority of prospective teachers show consonance, believing each conception dimension is both valuable and applicable](consonance-both-valuable-and-applicable-minority.md) — related
 - [Attitudes, gender, and age predict counselors' rape myth acceptance in both label conditions](attitudes-demographics-predict-counselor-rape-myth-acceptance.md) — related
+- [Demographic and psychiatric-history variables are largely unrelated to treatment acceptability, with counseling history the exception](demographics-unrelated-to-acceptability-ratings.md)

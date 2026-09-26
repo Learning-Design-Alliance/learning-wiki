@@ -43,7 +43,8 @@ The article introduces "a novel way of using machine-learning models to generate
 - 
 
 ## Examples
--
+
+- [Initialize BKT parameters from simulated student data when no human data is available](../strategies/initialize-bkt-parameters-from-simulated-data.md)
 
 ## Key Sources
 - Qiao Zhang and Christopher MacLellan “Going Online: A simulated student approach for evaluating knowledge tracing in the context of mastery learning”. 2021. In: Proceedings of The 14th International Conference on Educational Data Mining (EDM21). International Educational Data Mining Society, 331-337. https://educationaldatamining.org/edm2021/

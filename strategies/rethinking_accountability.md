@@ -59,9 +59,11 @@ Fair assessment requires that grades reflect achievement of learning goals rathe
 6. Preserve at least one clearly held standard per course so accountability retains meaning; communicate the reasoning behind both the flexibility and the standard.
 
 ## Related Strategies
+
 - **Grading for Equity** — a systematic framework (Feldman, 2019) operationalizing many of these practices: minimum grading, revision opportunities, and separating behavior from achievement
 - **Standards-Based Grading** — grades report proficiency on explicit goals, making revision-based accountability coherent
 - **Trauma-Informed Teaching** — supplies the relational foundation (predictability, choice, connection) that rethought accountability depends on
+- [Give learners control over how learning is measured via assessment choices and science-fair-type projects](learner-controlled-assessment-science-fair-projects.md)
 
 ## Related Elements
 - [Assessment](../elements/assessment.md) — the structure being rethought; alternative formats live here

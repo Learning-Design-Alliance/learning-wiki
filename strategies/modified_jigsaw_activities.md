@@ -60,9 +60,11 @@ Jigsaw enforces positive interdependence — each member holds information the o
 6. Assess individually over *all* subtopics and debrief on both content and collaboration quality ([Check-In](../elements/check-in.md) or exit ticket).
 
 ## Related Strategies
+
 - [Peer Tutoring](peer-tutoring.md) — the modified jigsaw embeds tutoring pairs within the cooperative structure
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a lighter-weight interdependence structure for shorter activities
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — role-specialization within groups, applied to comprehension strategies
+- [Use jigsaw-style sharing so every student is responsible for all the material](jigsaw-sharing-inquiry-posters.md)
 
 ## Related Elements
 - [Peer Teaching](../elements/peer-teaching.md) — the core mechanism: explaining to others consolidates the explainer's understanding

@@ -17,7 +17,7 @@ sources:
 # Design assessment tools to measure model components, integrate, be authorable, auto-score, and deploy on the Internet
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report states its tool design strategy directly: "Our strategy is to design assessment tools that (a) measure one or more components of the CRESST model of learning, (b) are stand-alone or integrate with other tools, (c) have authoring capability, (d) employ automated scoring and reporting, and (e) are Internet-deployable in both Windows and Macintosh environments." Each of the eight proposed tools is evaluated against these requirements.
@@ -37,13 +37,15 @@ The report states its tool design strategy directly: "Our strategy is to design 
 - automated assessment of cognitive learning outcomes
 
 ### Claims
-- 
+
+- [CRESST assessment tools show feasibility in evaluation data, but reliability and validity information is limited](../claims/cresst-tools-feasible-limited-validity.md) [+W]
 
 ## Related Principles
 - 
 
 ## Examples
--
+
+- [Integrated simulation performance assessment design characteristics](../patterns/integrated-simulation-assessment-design-characteristics.md)
 
 ## Key Sources
 - Chung, G. K. W. K., Herl, H. E., Klein, D. C. D., O'Neil, H. F., Jr., & Schacter, J. (1997). Estimate of the Potential Costs and Effectiveness of Scaling Up CRESST Assessment Software. https://eric.ed.gov/?id=ED418102

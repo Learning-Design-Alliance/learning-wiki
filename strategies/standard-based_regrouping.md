@@ -59,9 +59,11 @@ Standard-based regrouping operationalizes [Assessment for Learning](../principle
 6. **Apply** — return learners to mixed groups for [application](../elements/application.md) tasks that integrate the standard with others
 
 ## Related Strategies
+
 - [Mastery Learning](mastery-learning.md) — standard-based regrouping is the grouping mechanism through which mastery pacing is managed across a cohort
 - [Differentiated Instruction](differentiated-instruction.md) — regrouping is one structural form of differentiation by readiness
 - [Formative Assessment Cycles](formative-assessment-cycles.md) — supplies the mastery data on which regrouping depends
+- [Use Heterogeneous Groups for Projects and Homogeneous Groups for Skill Achievement](heterogeneous-grouping-for-science-projects.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the diagnostic engine of the strategy

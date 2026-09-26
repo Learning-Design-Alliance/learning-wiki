@@ -40,7 +40,10 @@ EQUIP is a classroom observation tool that counts relatively low-inference indic
 - 
 
 ## Examples
--
+
+- [Disaggregate participation data intersectionally by race and gender to surface disparities hidden in aggregate analyses](../strategies/strategies-disaggregate-participation-data-intersectionally.md)
+- [Equitable Classroom Observations](../strategies/equitable_classroom_observations.md)
+- [Empowering Teachers with EQUIP](../strategies/empowering_teachers_with_equip.md)
 
 ## Key Sources
 - Shah, N., Reinholz, D., Guzman, L. M., Bradfield, A., Beaudine, W., & Low, J. (2016). EQUIP: Equity Quantified in Participation. Proceedings of PME-NA 38. https://www.pmena.org

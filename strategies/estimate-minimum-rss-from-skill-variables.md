@@ -42,7 +42,8 @@ The paper's proposed approach: rather than finding the parameter values that pro
 - predicting minimum RSS for skill-level model training
 
 ## Related Strategies
-- 
+
+- [Match the input-parameter estimation method (managerial estimates vs. time study) to the accuracy the simulation purpose requires](match-input-estimation-method-to-required-accuracy.md)
 
 ## Examples
 -

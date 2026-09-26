@@ -37,7 +37,11 @@ The guidelines direct teachers to plan learning activities by analyzing children
 - Executive function skills including flexibility, adaptability, and independent thinking
 
 ## Related Strategies
-- 
+
+- [Parent-teacher collaboration on independent self-care tasks and patience training to promote EF](parent-teacher-collaboration-independent-tasks-patience.md)
+- [Encourage cognition and literacy by providing varied reading, writing, and drawing materials and building environmental awareness](varied-materials-and-environmental-awareness-encourage-literacy.md)
+- [Encourage Student Self-Advocacy](encourage_student_self-advocacy.md)
+- [Encouraging Self Advocacy](encouraging_self-advocacy.md)
 
 ## Examples
 -

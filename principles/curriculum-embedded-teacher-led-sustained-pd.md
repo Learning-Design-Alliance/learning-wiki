@@ -17,7 +17,7 @@ sources:
 # Design professional development around curriculum-embedded, teacher-led, sustained learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 MISE's core guiding principles for professional development remained constant across a decade of adaptation. Professional development should be "Linked to specific curriculum units and focused on the content teachers must teach," based on a clear vision of good practice, immediately useful in classrooms, respectful of teachers and grounded in a coherent theory of adult learning, intensive yet extended over time with on-site support, led by accomplished teachers modeling good practice, easily accessible, and sustainable over time by local districts. The article notes these principles are consistent with the prevailing consensus on effective professional development and that MISE's use of district priorities, rather than individual teacher choice, aimed to build shared vision and communities of practice.
@@ -39,13 +39,18 @@ MISE's core guiding principles for professional development remained constant ac
 - Deepened science content knowledge
 
 ### Claims
+
 - High Hours Professional Development Linked Reform Practice [+M]
+- [Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven](../claims/leader-teacher-diffusion-uneven.md) [+M]
+- [Non-participation in intensive professional development reflected enjoyment, preparation, and conceptions of professional development, not experience or science background](../claims/nonparticipant-barriers-professional-development.md) [+W]
 
 ## Related Principles
 - 
 
 ## Examples
--
+
+- [Peer Teacher Workshops (PTWs)](../elements/peer-teacher-workshops-mise.md)
+- [Redesign workshop structure, content, timing, and location in response to non-participant barriers](../strategies/redesign-pd-to-lower-participation-barriers.md)
 
 ## Key Sources
 - Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404

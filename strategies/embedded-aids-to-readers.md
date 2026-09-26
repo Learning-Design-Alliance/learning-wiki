@@ -40,7 +40,8 @@ Imbedded Aids are units of assistance and enrichment — line numbering locators
 - [Languaging In Content Areas Lica Thesis](../theories/languaging-in-content-areas-lica-thesis.md)
 
 ## Related Strategies
-- 
+
+- [Specific Technique Identification](specific_technique_identification.md)
 
 ## Examples
 -

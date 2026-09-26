@@ -37,7 +37,9 @@ Elaborative interrogation asks learners to answer aloud the question "Why is tha
 - acquisition and retention of science facts inconsistent with existing misconceptions
 
 ## Related Strategies
-- 
+
+- [Elaborative Interrogation](elaborative-interrogation.md)
+- [Self Explanation Prompts](self-explanation-prompts.md)
 
 ## Examples
 -

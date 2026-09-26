@@ -59,10 +59,12 @@ Well-designed hints keep learners in productive struggle rather than either flou
 6. Fade hint availability as learners gain competence, consistent with the [expertise-reversal effect](../theories/expertise-reversal-effect.md).
 
 ## Related Strategies
+
 - [Scaffolding](../strategies/scaffolding.md) — hints are the fine-grained, in-task form of scaffolding
 - [Fading](../elements/fading.md) — hint ladders should fade as competence grows
 - [Worked examples](../strategies/use_worked_examples.md) — the top rung of a hint ladder is often a worked example
 - [Retrieval practice](../strategies/retrieval_practice.md) — hints must be delayed long enough for retrieval to be attempted
+- [Use predicted hint-taking likelihood and hint effects to adaptively decide whether to withhold or provide hints](adaptive-hint-withholding-from-hint-prediction.md)
 
 ## Examples
 - **[ASSISTments](https://www.assistments.org)** — online math homework system with structured hint ladders; research using its logged hint data showed that bottom-out hint usage predicts lower learning gains [+M]

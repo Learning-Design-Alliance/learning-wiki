@@ -37,7 +37,13 @@ Interest groups can work well in science teaching 'if learners perceive value in
 - Engagement in collaborative science activities and a challenging science curriculum
 
 ## Related Strategies
-- 
+
+- [Use Flexible Discussion Groups for Science Content Analysis](flexible-discussion-groups-in-science.md)
+- [Group Pupils During Science Experiments and Demonstrations](grouping-for-science-experiments-and-demonstrations.md)
+- [Creating a Strengths-Based Culture](creating_a_strengths-based_culture.md)
+- [Strengths-Based Teaching](strengths-based_teaching.md)
+- [Make Learning Relevant](make_learning_relevant.md)
+- [Set Up Learning Centers with More Tasks Than Any One Pupil Can Complete](learning-centers-in-science-classrooms.md)
 
 ## Examples
 -

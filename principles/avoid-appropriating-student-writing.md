@@ -41,10 +41,16 @@ Teachers may inadvertently take over a student's voice and creativity by imposin
 - 
 
 ## Related Principles
-- 
+
+- [Involve students in the revision process as a collaborative endeavor rather than a giver-receiver relationship](involve-students-in-revision-process.md)
+- [Minimize student frustration by making feedback clear, legible, focused, and transparent](minimize-student-frustration-in-feedback.md)
+- [Provide positive comments alongside constructive criticism when responding to student writing](provide-positive-comments-on-student-writing.md)
+- [Respond to student writing as an interested reader rather than only as an evaluator](respond-as-a-reader.md)
 
 ## Examples
--
+
+- [Use a Letter to the Reviewer reflective memo submitted with each draft](../strategies/letter-to-the-reviewer-memo.md)
+- [Hold one-on-one writing conferences to negotiate feedback and revision](../strategies/one-on-one-writing-conferences.md)
 
 ## Key Sources
 - Shvidko, Elena. (2020). Taking into Account Interpersonal Aspects of Teacher Feedback: Principles of Responding to Student Writing. Journal on Empowering Teaching Excellence, Vol. 4, Iss. 2, Article 7. https://doi.org/10.26077/936a-72f7

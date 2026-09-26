@@ -40,7 +40,8 @@ This strategy from the brief's implementation guidelines tailors support intensi
 - [Co Regulation Framework Adolescents](../theories/co-regulation-framework-adolescents.md)
 
 ## Related Strategies
-- 
+
+- [Target emotion regulation skills in middle and high school youth to close the gap between emotional and cognitive control systems](target-emotion-regulation-skills-adolescents.md)
 
 ## Examples
 -

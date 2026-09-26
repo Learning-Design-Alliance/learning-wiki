@@ -51,11 +51,13 @@ Synthesis tasks push learners beyond comprehension toward higher-order organizat
 - [Collaborative Learning](../principles/collaborative-learning.md) — when synthesis is distributed across group members holding different information, integration requires genuine interdependence
 
 ## Related Elements
+
 - [Expert Groups](expert-groups.md) — each group becomes a source of partial expertise that must be integrated
 - [Research](research.md) — supplies the multiple sources that synthesis operates on
 - [Concept Mapping](concept-mapping.md) — a concrete artifact format that externalizes the integrative structure
 - [Argumentation](argumentation.md) — the discourse form synthesis products often take
 - [Case Studies](case-studies.md) — contrasting cases provide the raw material for abstraction
+- [Collective Concept Mapping](collective-concept-mapping.md)
 
 ## Patterns That Use This Element
 - [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — the integration phase where group findings are merged into shared conclusions

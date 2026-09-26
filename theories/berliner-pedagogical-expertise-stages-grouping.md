@@ -39,10 +39,12 @@ The article applies Berliner's (1988) proposed model of pedagogical expertise de
 - [Expertise Levels No Difference Teaching Indicators](../claims/expertise-levels-no-difference-teaching-indicators.md) [~M]
 
 ## Related Theories
-- 
+
+- [Five-stage developmental theory of pedagogical expertise: novice, advanced beginner, competent, proficient, expert](berliner-five-stage-teacher-expertise-theory.md)
 
 ## Examples
--
+
+- [Use finer-grained behavioral indicators such as transition rate, pacing, momentum, and accountability to study teaching expertise](../strategies/subtle-behavioral-indicators-for-expertise-research.md)
 
 ## Key Sources
 - van der Mars, H., Vogler, E. W., Darst, P. W., & Cusimano, B. (1991). Novice and Expert Physical Education Teachers: They May Think and Decide Differently...But Do They Behave Differently? https://eric.ed.gov/?id=ED336354

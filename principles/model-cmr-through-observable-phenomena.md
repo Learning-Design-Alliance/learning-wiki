@@ -43,7 +43,8 @@ The article recommends that instructors center class time on explaining how and 
 - 
 
 ## Examples
--
+
+- [Incorporate assessment questions that elicit causal mechanistic reasoning through phenomena, scaffolded but not over-probed](../strategies/align-assessments-with-cmr-phenomena.md)
 
 ## Key Sources
 - Scharlott, L. J.; Rippey, D. W.; Rosa, V.; Becker, N. M. (2024). Progression toward Causal Mechanistic Reasoning through Phenomenon-Based Learning in Introductory Chemistry. Journal of Chemical Education. https://doi.org/10.1021/acs.jchemed.3c00517

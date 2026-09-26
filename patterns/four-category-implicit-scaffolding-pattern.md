@@ -17,7 +17,7 @@ sources:
 # Four-category design pattern for implicit scaffolding in simulations
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article organizes implicit scaffolding strategies into four categories that work together: scaffolding the general concept (scope, sequence, interactivity), scaffolding students' framing of sim use (opening screen, initial interaction), scaffolding to enable sense making (representations, feedback, layout, range of interactions, illuminating cases), and scaffolding for continued engagement (puzzles and challenges). The authors state: "We divide our description of implicit scaffolding strategies into four categories: Scaffolding 1) the general concept, 2) students’ framing of sim use, 3) to enable sense making, and 4) for continued engagement." Together these enable agency while affording and constraining productive actions.
@@ -39,10 +39,14 @@ The article organizes implicit scaffolding strategies into four categories that 
 - continued engagement
 
 ### Claims
-- 
+
+- [Authors report that flexibility in sim access supports student agency while students tend to explore in a productive sequence](../claims/flexibility-supports-agency-productive-sequence.md) [+W]
+- [A student began interacting with the sim within 10 seconds and verbalized sense-making without explicit guidance](../claims/implicit-scaffolding-supports-immediate-exploration.md) [+W]
+- [A student used slider extremes to make qualitative comparisons of skater mass effects](../claims/slider-extremes-support-qualitative-comparisons.md) [+W]
 
 ## Related Patterns
-- 
+
+- [Three pedagogical design considerations for physics simulations: consistent world view, multiple representations, and game for concept testing](three-pedagogical-simulation-design-considerations.md)
 
 ## Examples
 -

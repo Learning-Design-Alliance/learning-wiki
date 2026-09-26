@@ -41,7 +41,11 @@ The CMP's projective surveys use a Likert-scale percentage consensus approach to
 - [Wiles Bondi Curriculum Management Plan](../theories/wiles-bondi-curriculum-management-plan.md)
 
 ## Related Strategies
-- 
+
+- [Map the curriculum by grading periods to eliminate gaps and redundancy and enable interdisciplinary planning](curriculum-mapping-by-grading-periods.md)
+- [Conduct a needs assessment combining baseline district data and projective opinion data before designing a middle school](needs-assessment-baseline-and-projective-data.md)
+- [Assessing Needs and Wants with Likert Scales](assessing_needs_and_wants_with_likert_scales.md)
+- [Needs and Wants Assessment with Likert Scales](needs_and_wants_assessment_with_likert_scales.md)
 
 ## Examples
 -

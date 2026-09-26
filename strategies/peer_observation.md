@@ -61,9 +61,11 @@ Peer observation works because observation of others' performance builds the obs
 5. Rotate roles so each participant both gives and receives observation over time
 
 ## Related Strategies
+
 - [Action-oriented feedback](action-oriented-feedback.md) — the debrief conversation should deliver feedback oriented to a next action, not a verdict
 - Coaching — peer observation supplies the observational evidence that makes coaching cycles concrete
 - Teaching portfolios — observation notes and reflections become portfolio evidence of developmental growth
+- [Peer review of cooperative learning sessions: instructors observe a colleague's session and complete a peer review form](peer-review-of-cooperative-learning-sessions.md)
 
 ## Examples
 - **UK PSF-aligned peer observation schemes** — Most UK universities run reciprocal peer observation of teaching as part of Fellowship of the Higher Education Academy pathways; Gosling's models (evaluative, developmental, collaborative) are widely used to frame these schemes.

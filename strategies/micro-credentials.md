@@ -59,8 +59,10 @@ Micro credentials operationalize [Competency-Based Assessment](../principles/com
 6. Design stacking pathways so multiple credentials compose toward a larger qualification
 
 ## Related Strategies
+
 - Mastery-based progression — micro credentials share the "demonstrate before advancing" logic at a finer grain
 - Portfolio assessment — portfolios frequently serve as the evidence base for a credential
+- [Use digital badges to recognize skills, supplement report cards, and manage equipment training access in maker education](digital-badges-maker-education-recognition.md)
 
 ## Examples
 - **[IBM SkillsBuild](https://skillsbuild.org)** and **IBM Digital Badges** — industry-recognized badges for technical skills, each tied to an assessment with published criteria

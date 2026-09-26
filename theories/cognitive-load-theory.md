@@ -77,6 +77,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Self-Regulated Learning](self-regulated-learning.md) — SRL requires learners to monitor and regulate their own processing; CLT explains why novices often cannot self-regulate effectively — metacognitive monitoring itself consumes working memory
 - [Dual Coding Theory](dual-coding-theory.md) — Paivio's dual coding theory (separate verbal and visual channels) is a compatible model; multimedia learning theory (Mayer) applies both CLT and dual coding to instructional media design
 - [Constructivism](constructivism.md) — tension point: constructivist approaches favor active discovery, which can impose high extraneous load; CLT favors explicit instruction for novices, but converges with constructivism for more expert learners (see expertise reversal)
+- [Cognitive Load Theory: working-memory limits, human cognitive architecture, and three load types](clt-three-load-types-framework.md)
 
 ## Examples
 
@@ -87,6 +88,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 **[Use Worked Examples](../strategies/use_worked_examples.md)** — concrete application of CLT's worked example effect; the study-then-solve cycle is a direct implementation of the example-problem sequence shown to reduce load and improve transfer.
 
 **[User-Centered Design for Learning](../principles/user-centered-design-for-learning.md)** — applies CLT's extraneous-load concept to interface design: confusing navigation and inconsistent terminology impose extraneous load exactly as an unnecessarily split-attention diagram does.
+- [Manage the three load types: reduce extraneous load, optimize intrinsic load, and increase germane load](../principles/reduce-extraneous-optimize-intrinsic-increase-germane.md)
 
 ## Key Sources
 - Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285. [doi:10.1207/s15516709cog1202_4](https://doi.org/10.1207/s15516709cog1202_4)

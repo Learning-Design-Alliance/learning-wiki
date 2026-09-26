@@ -39,7 +39,8 @@ The article presents critical pedagogy, developed from Freire, Gramsci, Apple, G
 - [Phd Holders Most Aware Of Critical Pedagogy](../claims/phd-holders-most-aware-of-critical-pedagogy.md) [+M]
 
 ## Related Theories
-- 
+
+- [Giroux's critical pedagogy is a program of rhetorical education in which pedagogy is a form of cultural production](critical-pedagogy-as-rhetorical-education.md)
 
 ## Examples
 -

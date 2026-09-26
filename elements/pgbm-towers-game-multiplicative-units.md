@@ -44,7 +44,8 @@ PGBM is a paired game in which a Sender asks a Bringer to build and bring back s
 - 
 
 ## Examples
--
+
+- [Orient students' reflection onto their own tracking methods to foster monitoring of goal-directed counting](../strategies/orient-reflection-to-students-own-tracking-methods.md)
 
 ## Key Sources
 - Risley, R., Hodkowski, N. M., & Tzur, R. (2016). Devin's construction of a multiplicative double counting scheme: Dual anticipation of start and stop. Proceedings of the 38th annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education. https://www.pmena.org/proceedings/

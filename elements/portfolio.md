@@ -67,6 +67,7 @@ Portfolios support learning primarily by requiring learners to review, evaluate,
 **[National Board Certification](https://www.nbpts.org)** — Professional teaching certification built substantially on portfolio evidence: videoed instruction, student work samples, and written reflective commentary scored against published standards.
 
 **[Seesaw](https://web.seesaw.me)** — K–12 digital portfolio app where students upload work and record audio/video reflections; teachers and families comment, creating an ongoing feedback loop.
+- [Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time](../strategies/student-owned-portfolios-maker-assessment.md)
 
 ## Key Sources
 - Paulson, F. L., Paulson, P. R., & Meyer, C. A. (1991). What makes a portfolio a portfolio? *Educational Leadership, 48*(5), 60–63.

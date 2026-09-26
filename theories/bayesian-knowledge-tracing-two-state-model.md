@@ -42,8 +42,12 @@ The survey describes Bayesian Knowledge Tracing (BKT), introduced by Corbett and
 - [Individualized Bkt Reduces Questions Needed For Mastery](../claims/individualized-bkt-reduces-questions-needed-for-mastery.md) [+W]
 
 ## Related Theories
+
 - [Knowledge Tracing Model Taxonomy](knowledge-tracing-model-taxonomy.md)
 - Mastery Learning
+- [Bayesian Knowledge Tracing: a four-parameter student-learning model in two forms (HMM and Knowledge Tracing Algorithm)](bkt-four-parameter-two-form-model.md)
+- [Bayesian Knowledge Tracing: a two-state Hidden Markov Model inferring skill mastery from response histories](bkt-two-state-hmm-student-model.md)
+- [Two hypotheses for the meaning of Spectral BKT's intermediate states: a stages-of-mastery account and a mastery-by-metacognition interaction account](spectral-bkt-intermediate-state-hypotheses.md)
 
 ## Examples
 -

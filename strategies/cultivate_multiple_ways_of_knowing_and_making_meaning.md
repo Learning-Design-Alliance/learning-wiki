@@ -61,9 +61,11 @@ Multiple representations strengthen learning by giving learners redundant, compl
 6. Assess against the goal, not the format; provide [Accommodations](../elements/accommodations.md) so expression options remain genuinely accessible
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — connects new content to the diverse knowledge learners already hold
 - [Acting-Role-Play](../strategies/acting-role-play.md) — an embodied, non-written way of knowing and expressing understanding
 - [Building Empathy](../principles/building-empathy.md) — a core outcome of engaging multiple cultural perspectives
+- [Act as a learning supporter during multimedia production](teacher-learning-supporter-strategy.md)
 
 ## Examples
 - **[CAST UDL Guidelines](https://udlguidelines.cast.org)** — the multiple-means-of-representation / -action-and-expression framework operationalizes this strategy systemwide.

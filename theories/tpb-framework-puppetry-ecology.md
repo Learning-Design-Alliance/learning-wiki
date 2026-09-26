@@ -40,10 +40,12 @@ The article uses Ajzen's theory of planned behaviour as its theoretical framewor
 - [Puppetry Improves Applied Conceptual Understanding Ecology](../claims/puppetry-improves-applied-conceptual-understanding-ecology.md) [+M]
 
 ## Related Theories
-- 
+
+- [Inquiry-first teaching: plan the instructional route from learners' existing concepts and attitudes](inquiry-first-starting-point-theory.md)
 
 ## Examples
--
+
+- [Puppetry-facilitated ecology lessons within a STE(A)M curriculum](../patterns/puppetry-steam-ecology-lesson-design.md)
 
 ## Key Sources
 - Okwara, V. U. (2024). The impact of puppetry as a teaching tool on Grade 9 learners' applied conceptual understanding of ecological concepts: A STE(A)M context. Educational Research: Theory and Practice, 35(4), 158-174. https://orcid.org/0000-0002-0876-9020

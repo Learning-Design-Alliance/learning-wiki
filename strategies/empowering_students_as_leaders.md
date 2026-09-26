@@ -61,9 +61,11 @@ The strategy works through two mechanisms documented in the cooperative learning
 6. **Monitor and debrief.** Circulate, redirect misuse of influence privately, and end sessions with a short group debrief on how well each role functioned.
 
 ## Related Strategies
+
 - [Cooperative Learning](../patterns/cooperative-learning.md) — the group-structure pattern this strategy operates within; role assignment is one of its five key elements
 - [Peer Tutoring](peer-tutoring.md) — a more academically focused variant of structured peer support
 - [Classroom Community Building](classroom-community-building.md) — leadership roles are one lever for building belonging and shared norms
+- [Implement student-led weekly discussion groups in which rotating leaders choose topics, facilitate discussion, and post summaries, unmediated by teaching staff](student-led-rotating-discussion-leader-groups.md)
 
 ## Examples
 - **Cooperative learning role cards** (Johnson & Johnson tradition): teams in a science class assign Facilitator, Recorder, Timekeeper, and Checker roles that rotate weekly; teachers report reduced off-task behavior among previously disruptive students given the Facilitator role.

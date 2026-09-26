@@ -40,7 +40,9 @@ The guide differentiates the function of industrial arts by school level: elemen
 - 
 
 ## Related Patterns
-- 
+
+- [Industrial arts pyramid program across operational levels](industrial-arts-pyramid-program-levels.md)
+- [Recommended scope and sequence with per-cluster course time allocations](recommended-scope-sequence-time-allocations.md)
 
 ## Examples
 -

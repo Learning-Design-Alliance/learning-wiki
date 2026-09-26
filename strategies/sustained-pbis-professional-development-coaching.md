@@ -37,7 +37,10 @@ The article describes a one-year professional development model in which eight s
 - Implementing PBIS with fidelity: functional behavioral assessment, behavior intervention planning, data-based decision making, and positive classroom environment skills
 
 ## Related Strategies
-- 
+
+- [Design professional development that is intensive, on-site, peer-based, responsive, and grounded in teachers' real classroom experiences](tefa-pd-design-strategy.md)
+- [Positive Behavior Interventions And Supports](positive-behavior-interventions-and-supports.md)
+- [Positive Behavioral Interventions and Supports (PBIS)](positive-behavioral-interventions-and-supports-pbis.md)
 
 ## Examples
 -

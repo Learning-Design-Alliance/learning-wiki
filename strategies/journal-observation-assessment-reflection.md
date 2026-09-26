@@ -38,7 +38,8 @@ The guide recommends multiple formative assessment and reflection channels rathe
 - communicating results to authentic audiences
 
 ## Related Strategies
-- 
+
+- [Use open-ended reflection questions as self-assessment in place of end-of-unit tests](open-ended-reflection-maker-self-assessment.md)
 
 ## Examples
 -

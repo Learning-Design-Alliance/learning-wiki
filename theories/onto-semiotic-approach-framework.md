@@ -16,7 +16,7 @@ sources:
 # Onto-Semiotic Approach (OSA) framework for analyzing mathematical knowledge and instruction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The OSA addresses epistemological, ontological and semiotic-cognitive problems in mathematics teaching by proposing a system of theoretical notions and methodological tools. It treats problem-solving activity as central to knowledge construction, typologizes mathematical objects by their roles in practice, and models knowledge via the semiotic function. As the article states, "a mathematical object is any material or immaterial entity that intervenes in mathematical practices, by supporting and regulating its realization." Onto-semiotic configurations can be epistemic (institutional) or cognitive (personal).
@@ -36,13 +36,17 @@ The OSA addresses epistemological, ontological and semiotic-cognitive problems i
 - understanding the definite integral concept
 
 ### Claims
-- 
+
+- [Students can apply procedural knowledge to solve integration problems but show limited understanding of basic integration concepts](../claims/procedural-strong-conceptual-limited-integral.md) [+W]
+- [Onto-semiotic analysis of Starbird's intuitive integral presentation identifies five epistemic configurations of practices, objects and processes](../claims/starbird-intuitive-integral-five-configurations.md) [+W]
+- [Understanding Stewart's formal definition of the definite integral demands mobilizing a system of prior knowledge across a network of semiotic functions](../claims/stewart-definition-prior-knowledge-demands.md) [+W]
 
 ## Related Theories
 - 
 
 ## Examples
--
+
+- [Use sequences of problem-situations to progressively contextualize and develop mathematical comprehension of calculus concepts](../strategies/problem-situation-sequences-progressive-comprehension.md)
 
 ## Key Sources
 - Burgos, M., Bueno, S., Godino, J.D., & Pérez, O. (2021). Onto-semiotic complexity of the Definite Integral. Implications for teaching and learning Calculus. REDIMAT – Journal of Research in Mathematics Education, 10(1), 4-40. https://doi.org/10.17583/redimat.2021.6778

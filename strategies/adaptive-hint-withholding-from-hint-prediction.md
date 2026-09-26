@@ -41,7 +41,11 @@ The article proposes that a learning environment use a hint-taking prediction mo
 - [Colearn Multi Task Hint Knowledge Model](../theories/colearn-multi-task-hint-knowledge-model.md)
 
 ## Related Strategies
-- 
+
+- [Hint Design](hint-design.md)
+- [Help Seeking](help-seeking.md)
+- [Encouraging Students to Ask for Help](encouraging_students_to_ask_for_help.md)
+- [Encouraging Help-Seeking Behavior](encouraging_help-seeking_behavior.md)
 
 ## Examples
 -

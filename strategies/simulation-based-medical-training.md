@@ -61,9 +61,11 @@ Simulation works because it allows deliberate practice with immediate feedback �
 6. Integrate into the broader curriculum with clinical follow-up so simulated learning connects to real practice ([Situated Learning](../theories/situated-learning.md)).
 
 ## Related Strategies
+
 - [Case-Based Learning](../patterns/case-based-learning.md) — simulation scenarios are often built from clinical cases; the case supplies the decision structure the simulation enacts
 - [Deliberate Practice](../principles/deliberate-practice.md) — the mastery-standard, feedback-driven repetition model that underpins simulation curricula
 - [Role Play](role-play.md) — the low-technology ancestor for communication and team skills training
+- [Deliver structured CT centring training and integrate automated positioning technology with retained professional expertise](structured-ct-centring-training-and-automated-positioning-integration.md)
 
 ## Examples
 - **[Center for Medical Simulation, Harvard](https://harvardmedsim.org)** — pioneer of the "debriefing with good judgment" method now widely adopted in simulation faculties.

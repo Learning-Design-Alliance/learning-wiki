@@ -59,9 +59,11 @@ RTI replaces a wait-to-fail referral model with proactive, data-based prevention
 6. **Review fidelity and data as a team.** Check that interventions were delivered as designed before concluding a student is a non-responder.
 
 ## Related Strategies
+
 - [Universal Design for Learning](../principles/universal-design-for-learning.md) — complements RTI by making Tier 1 instruction accessible to the widest range of learners, reducing false referrals
 - [Formative Assessment](formative-assessment.md) — the classroom-level counterpart; RTI's progress monitoring is formative assessment institutionalized across tiers
 - [Differentiated Instruction](differentiated-instruction.md) — Tier 2 grouping is one structured form of differentiation
+- [Deploy prevention and intervention supports for underachieving gifted students](gifted-underachievement-interventions.md)
 
 ## Examples
 - **Early reading RTI in Minnesota and Ohio statewide initiatives** — universal DIBELS screening three times per year, with Tier 2 small-group phonics intervention and weekly oral-reading-fluency monitoring; both states documented reduced special education identification rates in participating districts.
