@@ -56,7 +56,9 @@ CITATION_KEY_RE = re.compile(r"^[-*]?\s*([A-Z][A-Za-z'’-]+),.*?\((\d{4}[a-z]?)
 # several others all had a real, resolvable DOI reported as "not_found"
 # only because the truncated fragment sent to Crossref wasn't a real DOI
 # at all — the wiki content was fine, this regex was the actual bug).
-DOI_RE = re.compile(r"10\.\d{4,9}/(?:\([^\s()]*\)|[^\s()\]])+")
+# Balanced (...) and [...] are part of a DOI: the SICI form carries both, as in
+# 10.1662/0002-7685(2007)69[561:OOB]2.0.CO;2, which used to be read as far as "OOB".
+DOI_RE = re.compile(r"10\.\d{4,9}/(?:\([^\s()]*\)|\[[^\s\[\]]*\]|[^\s()\[\]])+")
 
 # Same first-author-surname + year is not enough to call two citations "the
 # same paper" — e.g. Ericsson, Krampe & Tesch-Romer (1993) vs. Ericsson &

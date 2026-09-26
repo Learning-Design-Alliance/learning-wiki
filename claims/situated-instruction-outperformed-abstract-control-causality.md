@@ -33,7 +33,7 @@ Emmanuel Imiere. (2019). An Application of Cognitive Apprenticeship to Philosoph
 
 `q2 · i?`
 
-Narrative review of Hendricks (2001), an experimental study on causality in which the control group received abstract lecture instruction and the treatment group followed the Brown, Collins and Duguid situated model with modeling, coaching, scaffolding, and reflection. No effect size is printed.
+A review the author describes as a systematic review of secondary qualitative data; it reports Hendricks (2001) second-hand, an experimental study on causality in which the control group received abstract lecture instruction and the treatment group followed the Brown, Collins and Duguid situated model with modeling, coaching, scaffolding, and reflection. No effect size is printed.
 
 > "The results demonstrated that students in the treatment group outperformed the control group on a posttest administered at the end of the instruction."
 

@@ -8,8 +8,15 @@ cross-page citation disagreement (check_citations.py), DOIs that don't
 actually resolve or resolve to the wrong paper (doi_resolver.py — cached,
 so cheap to re-run), same-slug duplicates across type folders — both the
 deterministic self-referential-stub pattern and the remainder needing real
-judgment (find_cross_folder_duplicates.py), and the size of the
-still-unenriched stub/TODO backlog per type.
+judgment (find_cross_folder_duplicates.py), the size of the
+still-unenriched stub/TODO backlog per type (with the TODO pages named), and
+health_evidence.py's evidence and link section: load-bearing claims by what the
+judge has on them, single-study evidence, impact codes with nothing printed
+behind them, unmarked claim citations, and pages nothing links to.
+
+The report to read is this one. Run it before any wiki-wide pass (CLAUDE.md),
+after a batch (run_scrape_batch.py does), and whenever you want the state of the
+wiki; every number it prints names the script that lists or fixes it.
 
 Meant to run two ways:
   1. Automatically after every scrape/enrich batch (run_scrape_batch.py
@@ -73,7 +80,8 @@ def count_incomplete_pages() -> dict:
         if not folder.exists():
             continue
         draft = todo = incomplete = total = 0
-        for path in folder.glob("*.md"):
+        todo_pages = []
+        for path in sorted(folder.glob("*.md")):
             if path.stem == "index":
                 continue
             total += 1
@@ -82,6 +90,8 @@ def count_incomplete_pages() -> dict:
             has_todo = "<!-- TODO -->" in text
             draft += is_draft
             todo += has_todo
+            if has_todo:
+                todo_pages.append(f"{page_type}/{path.name}")
             # The union, per type. draft and todo overlap heavily — every one
             # of the 311 claim pages carrying a TODO is also status: draft —
             # so draft + todo double-counts. Consumers clamped that sum with
@@ -91,7 +101,7 @@ def count_incomplete_pages() -> dict:
             # approximate downstream.
             incomplete += (is_draft or has_todo)
         counts[page_type] = {"total": total, "draft": draft, "todo": todo,
-                             "incomplete": incomplete}
+                             "incomplete": incomplete, "todo_pages": todo_pages}
     return counts
 
 
@@ -168,6 +178,12 @@ def run(skip_doi: bool = False) -> dict:
     needs_judgment = {slug: folders for slug, folders in collisions.items() if slug not in self_referential}
     incomplete = count_incomplete_pages()
 
+    # Where the wiki's weight rests on something unchecked: load-bearing claims,
+    # single-study evidence, impact codes with nothing printed behind them, the
+    # link graph. Offline and model-free, like everything else in this pass.
+    import health_evidence
+    evidence = health_evidence.run()
+
     doi_issues = []
     if not skip_doi:
         import doi_resolver
@@ -188,7 +204,9 @@ def run(skip_doi: bool = False) -> dict:
         "cross_folder_self_referential": len(self_referential),
         "cross_folder_needs_judgment": len(needs_judgment),
         "incomplete_pages": incomplete,
+        "evidence": {k: v for k, v in evidence.items() if k != "_detail"},
         "_detail": {
+            "evidence": evidence,
             "lint": lint_results,
             "citation_conflicts": citation_conflicts,
             "doi_collisions": doi_collisions,
@@ -240,10 +258,19 @@ def format_report(result: dict) -> str:
         f"{result['cross_folder_needs_judgment']} need judgment — run "
         f"`find_near_duplicates.py --cross-folder`)",
         "",
-        "## Incomplete pages by type",
     ]
+    if result["_detail"].get("evidence"):
+        import health_evidence
+        lines += [health_evidence.format_section(result["_detail"]["evidence"]), ""]
+    lines.append("## Incomplete pages by type")
     for page_type, c in result["incomplete_pages"].items():
         lines.append(f"- {page_type}: {c['total']} total, {c['draft']} draft, {c['todo']} with unfilled TODOs")
+    todo_pages = [pg for c in result["incomplete_pages"].values() for pg in c.get("todo_pages", [])]
+    if todo_pages:
+        lines.append(f"\n### Pages with an unfilled `<!-- TODO -->` ({len(todo_pages)})")
+        lines += [f"- {pg}" for pg in todo_pages[:30]]
+        if len(todo_pages) > 30:
+            lines.append(f"- ... and {len(todo_pages) - 30} more")
 
     for name, issues in result["_detail"]["lint"].items():
         if not issues:
@@ -279,6 +306,8 @@ def format_report(result: dict) -> str:
 def append_history(result: dict) -> None:
     HISTORY_PATH.parent.mkdir(parents=True, exist_ok=True)
     summary = {k: v for k, v in result.items() if k != "_detail"}
+    summary["incomplete_pages"] = {t: {k: v for k, v in c.items() if k != "todo_pages"}
+                                   for t, c in summary.get("incomplete_pages", {}).items()}
     with open(HISTORY_PATH, "a", encoding="utf-8") as f:
         f.write(json.dumps(summary) + "\n")
 

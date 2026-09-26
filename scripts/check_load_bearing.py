@@ -208,11 +208,18 @@ def abstract_usable(text: str) -> bool:
     return en >= other
 
 
+def _abstract_path(doi: str) -> Path:
+    return CACHE / f"doi-{re.sub(r'[^A-Za-z0-9._-]', '_', doi.lower())}.txt"
+
+
+def _abstract_cached(doi: str) -> bool:
+    return _abstract_path(doi).exists()
+
+
 def openalex_abstract(doi: str):
     """(title, year, abstract) from OpenAlex, cached as eval/corpus/cache/doi-*.txt.
     None when the lookup fails or the record has no abstract; a failure is not cached."""
-    safe = re.sub(r"[^A-Za-z0-9._-]", "_", doi.lower())
-    path = CACHE / f"doi-{safe}.txt"
+    path = _abstract_path(doi)
     if path.exists():
         text = path.read_text(encoding="utf-8")
         return text if text and abstract_usable(text) else None
@@ -315,9 +322,10 @@ def dismiss(target: str, because: str, reason: str, by: str, pages: dict) -> str
     return f"dismissed claims/{claim}.md#{anchor} as {because}"
 
 
-def entry_jobs(rows: list, pages: dict) -> tuple:
-    """[(row, anchor, title, block, subs, source, basis, text, digest)] for every
-    evidence entry with a text to judge it against, and a count of those without."""
+def entry_jobs(rows: list, pages: dict, offline: bool = False) -> tuple:
+    """[(row, anchor, title, block, subs, source, basis, text, digest, page_digest)] for
+    every evidence entry with a text to judge it against, and a count of those without.
+    `offline` reads only abstracts already cached, and counts the rest as "not fetched"."""
     jobs, skipped = [], collections.Counter()
     for r in rows:
         title, entries = units(pages[r["claim"]])
@@ -327,6 +335,10 @@ def entry_jobs(rows: list, pages: dict) -> tuple:
                 source, text, basis = hit[0], hit[1], "full text"
             else:
                 m = DOI_RE.search(block)
+                if m and offline and not _abstract_cached(m.group(0).rstrip(".,;")):
+                    skipped["not fetched"] += 1
+                    skipped.setdefault("_unfetched", []).append((r["claim"], anchor))
+                    continue
                 text = openalex_abstract(m.group(0).rstrip(".,;")) if m else None
                 if not text:
                     skipped["no DOI" if not m else "no abstract"] += 1
@@ -431,7 +443,7 @@ def main() -> None:
     if settled:
         print(f"{settled} entr{'y' if settled == 1 else 'ies'} skipped: already reviewed at this text")
     print(f"{len(rows)} claims; {len(jobs)} evidence entries to judge, {reused} already judged; "
-          f"not checkable: {dict(skipped) or 0}", flush=True)
+          f"not checkable: {({k: v for k, v in skipped.items() if not k.startswith('_')}) or 0}", flush=True)
 
     args.out.parent.mkdir(parents=True, exist_ok=True)
     spent, counts = 0.0, collections.Counter()

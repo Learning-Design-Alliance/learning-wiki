@@ -8,6 +8,9 @@ the procedure for running that check and acting on what it finds.
 `scripts/check_load_bearing.py` does the work. It never edits a page. Deciding what a finding
 means, and fixing it, is the part below that a person or a session does by hand.
 
+The state of the check across the wiki (how many load-bearing claims are checked, unverifiable,
+not checkable or never judged) is in the general health report, `python3 scripts/wiki_health_check.py`.
+
 ## When to run it
 
 - **After every batch.** `run_scrape_batch.py` runs it (top 200 claims, $0.25 cap) once the new
