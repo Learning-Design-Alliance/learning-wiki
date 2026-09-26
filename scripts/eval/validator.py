@@ -124,6 +124,15 @@ def _check_study_record(report, sr, contributions) -> None:
         report.issues.append(Issue(-1, "study_record", "warning", "study_record", str(issue)))
 
 
+# A printed standardised effect size with its value: what a non-zero impact code must
+# name. Deliberately narrower than health_evidence.STAT_RE, which also accepts test
+# statistics and percentages; those do not license an i1-i3 (prompt v134).
+EFFECT_SIZE_RE = re.compile(
+    r"(?:\b(?:d|g|r|ρ|β|OR|SMD|ES)\s*[=≈]\s*[-−]?\s*\d*\.?\d)|(?:[dḡ]̄?\s*=\s*[-−]?\d*\.?\d)|"
+    r"(?:η\s*[²2p]?\s*[=≈]\s*\.?\d)|(?:eta[- ]squared[^.]{0,15}\d)|(?:odds ratio[^.]{0,15}\d)|"
+    r"(?:(?:Cohen'?s d|Hedges'?\s*g|effect[- ]size)[^.]{0,25}?[-−]?\d*\.\d)", re.I)
+
+
 def _impact_ok(value) -> bool:
     """An impact code is 0-3, or None when the article prints no effect size.
 
@@ -391,6 +400,12 @@ def _validate_claim(c: _Checker, contrib: dict, known_slugs: set) -> None:
             c.check("impact" in ev and _impact_ok(ev["impact"]),
                     f"evidence[{j}].impact",
                     "impact must be an integer 0-3, or null when the article prints no effect size.")
+            if ev.get("impact") in (1, 2, 3):
+                named = f"{ev.get('description') or ''} {ev.get('source_quote') or ''}"
+                c.check(bool(EFFECT_SIZE_RE.search(named)), f"evidence[{j}].impact",
+                        f"impact is {ev['impact']} but neither the description nor the quote names a printed "
+                        "effect size with its value (e.g. \"d = 0.52\", \"r = .34\"). Quote the one the article "
+                        "prints for this finding, or set impact (and the subclaims' i) to null.")
             c.check(isinstance(ev.get("description"), str) and len(ev["description"]) >= 40,
                     f"evidence[{j}].description", "description should be a substantive 2-4 sentence summary.",
                     severity="warning")
