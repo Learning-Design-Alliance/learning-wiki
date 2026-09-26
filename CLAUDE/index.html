@@ -661,6 +661,17 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#2026-09-27-evening-the-load-bearing-check-has-a-runbook-and-runs-in-every-batch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-27 (evening) — the load-bearing check has a runbook and runs in every batch
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-09-27-later-every-kind-is-linked-the-judge-is-spent-where-the-wiki-leans" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1411,6 +1422,17 @@
   
     <nav class="md-nav" aria-label="Working alongside other sessions — read this before starting">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2026-09-27-evening-the-load-bearing-check-has-a-runbook-and-runs-in-every-batch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-27 (evening) — the load-bearing check has a runbook and runs in every batch
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#2026-09-27-later-every-kind-is-linked-the-judge-is-spent-where-the-wiki-leans" class="md-nav__link">
@@ -2249,6 +2271,28 @@ work is done, not that the check is broken.</p>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
+<h3 id="2026-09-27-evening-the-load-bearing-check-has-a-runbook-and-runs-in-every-batch">2026-09-27 (evening) — the load-bearing check has a runbook and runs in every batch<a class="headerlink" href="#2026-09-27-evening-the-load-bearing-check-has-a-runbook-and-runs-in-every-batch" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong><code>eval/load-bearing/README.md</code> is the procedure</strong>: when to run <code>check_load_bearing.py</code>, how to
+  read each verdict, the judge's known errors, how to fix an entry and what regenerates after, and
+  how to dismiss. <strong>Read it before acting on a failure.</strong> <code>run_scrape_batch.py</code> runs the check
+  (top 200, $0.25 cap) after linking, so a batch reports on the claims it made load-bearing; only
+  changed or newly ranked entries are judged, so a routine run costs cents.</li>
+<li><strong>Every open failure is settled: 0 open.</strong> Across both runs, 30 entries failed or named another
+  work; 25 were real and are corrected, 2 were judge errors and 3 were wrong OpenAlex abstracts.
+  <strong><code>--dismiss</code> records a checked failure</strong> in <code>eval/load-bearing/reviewed.ndjson</code> (committed),
+  tied to the entry's text, so any later edit re-opens it. <code>--claims &lt;slug&gt;</code> re-judges a fixed page.</li>
+<li><strong>Five batch-claim titles overstated their source and were corrected in text only; the slugs
+  are unchanged</strong>, so every link and design reference still resolves: the LoA "all 20
+  technologies", the LVN and STRP cases, the C/I-cycle classes and the BRT course-schedule
+  proposal. One <code>link_claims.py</code> link joined that proposal to Behavioral Relaxation Training on the
+  acronym "BRT" alone and was removed. Acronym collisions are a known risk of BM25 candidates.</li>
+<li><strong>An open problem, found by this check and not fixed: 250 evidence entries code <code>i1</code>–<code>i3</code> with
+  no statistic anywhere in the entry</strong>, and 621 carry a bare <code>q2 · i1</code> codes line. Most come from
+  batches. The extraction prompt contradicts itself: v133 says <code>null</code> when no effect size is
+  printed, and its code table two sections later still reads "0 = negligible/unclear/null/marginal".
+  Recoding needs each source read, not a regex, and the prompt fix needs a benchmark run.</li>
+</ul>
 <h3 id="2026-09-27-later-every-kind-is-linked-the-judge-is-spent-where-the-wiki-leans">2026-09-27 (later) — every kind is linked; the judge is spent where the wiki leans<a class="headerlink" href="#2026-09-27-later-every-kind-is-linked-the-judge-is-spent-where-the-wiki-leans" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong><code>scripts/link_pages.py</code></strong> does for theories, principles, patterns, elements and strategies what
