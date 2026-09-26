@@ -374,6 +374,16 @@ def run(args) -> None:
                   f"lines (exit {verify_rc}) ===", flush=True)
             return
 
+        # After verify, deliberately: these are Related Claims links, not citation edits,
+        # and verify_citation_edits.py is right to refuse them. Without this step every
+        # batch's claims land as orphans (1,226 of 2,248 claim pages had no link in or
+        # out on 2026-09-26). "same" pairs are proposed only; merge_claims.py merges.
+        print(f"\n=== linking this batch's new claims to existing ones ===", flush=True)
+        _run_chained_step([sys.executable, "-u", "scripts/link_claims.py", "--new", "--apply",
+                           "--out", f"eval/runs/claim-links/{args.label}.ndjson"],
+                          SCRAPE_CONSOLE_LOG_PATH)
+        _run_chained_step([sys.executable, "-u", "scripts/build_indexes.py"], SCRAPE_CONSOLE_LOG_PATH)
+
         print(f"\n=== lint ===", flush=True)
         lint_rc = _run_chained_step([sys.executable, "-u", "scripts/lint.py"],
                                      SCRAPE_CONSOLE_LOG_PATH)

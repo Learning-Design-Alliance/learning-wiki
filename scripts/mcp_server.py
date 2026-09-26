@@ -148,6 +148,46 @@ def _tokens(s: str) -> list[str]:
     return re.findall(r"[a-z0-9]+", s.lower())
 
 
+def _search_indexed(wiki: Wiki, query: str, terms: list, phrase: str, kind, limit: int):
+    """The same search through search_index.py's FTS5 index, which answers in
+    milliseconds at any wiki size where the scan below reads every page. Returns
+    None when the index cannot be used (no sqlite FTS5, or a checkout the index
+    cannot be written into), and the scan answers instead."""
+    try:
+        if str(Path(__file__).parent) not in sys.path:
+            sys.path.insert(0, str(Path(__file__).parent))
+        import search_index
+        db = search_index.ensure(wiki.root)
+        folder = wiki.folder_of.get(kind) if kind else None
+        rows = search_index.query(db, query, folder=folder, limit=limit * 4, mode="AND")
+        total = db.execute("select count(*) from pages where pages match ?" + (" and folder = ?" if folder else ""),
+                           [search_index.match_expr(query, mode="AND")] + ([folder] if folder else [])).fetchone()[0]
+    except Exception:
+        return None
+    scored = []
+    for pid_path, folder_name, slug, title, desc, status, score in rows:
+        k = wiki.kind_of.get(folder_name)
+        pid = f"{k}/{slug}"
+        if pid not in wiki.pages:
+            continue
+        fields = set()
+        for name, text in (("title", title), ("id", slug.replace("-", " ")), ("description", desc)):
+            if any(re.search(rf"\b{re.escape(t)}", text.lower()) for t in terms):
+                fields.add(name)
+        score += 10 if phrase in " ".join(_tokens(title)) else 0
+        if status == "draft":
+            score *= 0.8
+        scored.append((score, pid, sorted(fields or {"body"})))
+    scored.sort(key=lambda x: (-x[0], x[1]))
+    results = []
+    for score, pid, fields in scored[:limit]:
+        p = wiki.pages[pid]
+        results.append({"id": pid, "title": p.get("title") or p["id"], "url": wiki.url(pid),
+                        "kind": p["type"], "status": p.get("status"),
+                        "description": p.get("description") or "", "matched": fields})
+    return {"query": query, "total_matches": total, "results": results, "engine": "fts5"}
+
+
 def tool_search(wiki: Wiki, query: str, kind: str | None = None, limit: int = 10) -> dict:
     """Keyword search, scored title > id > description > body. Deliberately
     simple and explainable: every hit says which fields matched, so an agent
@@ -161,6 +201,9 @@ def tool_search(wiki: Wiki, query: str, kind: str | None = None, limit: int = 10
     if not terms:
         raise ToolError("query has no searchable words")
     phrase = " ".join(terms)
+    indexed = _search_indexed(wiki, query, terms, phrase, kind, limit)
+    if indexed is not None:
+        return indexed
     scored = []
     for pid, p in wiki.pages.items():
         if kind and p["type"] != kind:

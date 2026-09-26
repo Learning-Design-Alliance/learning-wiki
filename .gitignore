@@ -29,3 +29,6 @@ eval/health/
 /cross-folder-report*.md
 /health-*.md
 /spot-check-report*.md
+
+# search_index.py: a rebuildable full-text index of the wiki (see its docstring)
+.cache/
