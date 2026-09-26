@@ -2099,16 +2099,31 @@ removed 67 DOIs of other works, rewrote about 290 invented or shortened titles, 
 33 → 22 and invented-title DOIs 109 → 31. What it could not settle (reprint and edition DOIs,
 partial titles with no coordinates) was reported, not written.</p>
 <ul>
-<li><strong>Do not run <code>resolve_doi_conflicts.py --apply</code>.</strong> Its Crossref-search fallback proposed the
-  Springer chapter <code>10.1007/978-1-4684-7562-3_3</code> for Bandura (1977) on ~70 pages again.</li>
-<li><strong>The ingest gate cannot strip a bare-URL DOI.</strong> <code>verify_page_citations</code> removes only the
-  <code>[doi:X](https://doi.org/X)</code> and <code>[https://doi.org/X](...)</code> forms, so batch 5's manifest records
-  removals of <code>…mjcsloa.3239521.0026.203</code> and <code>10.26077/936a-72f7</code> that never happened. The first
-  was wrong (the Harkins article is <code>…0026.202</code>, now fixed); the second was right all along.</li>
-<li><strong>A DOI can be right while the record type is wrong for the citation</strong>: PsycEXTRA conference
-  records and journal reviews of a book carry exactly the cited title. Check the type.</li>
-<li><strong>Prose DOI links are unchecked by every tool.</strong> <code>10.1056/NEJMoa054115</code> (no handle anywhere) sat in
-  two prose links for Pronovost (2006).</li>
+<li><strong>Who and when are now checked, in code.</strong> <code>citation_identity.identity_mismatch(key, record)</code>
+  compares the citation's author-year key with the registry's first author, year and record type,
+  and <code>classify_doi(..., key=)</code> applies it, so the ingest gate, <code>standardize_citations.py</code> and
+  <code>resolve_citation_metadata.py</code> all refuse a DOI of another work however well its title matches:
+  a 2008 paper for Pronovost (2006), Bloch's review of <em>Situated learning</em> for the book, a PsycEXTRA
+  dataset record for the journal article. Author order wrong on the right paper (Dweck 1998 for
+  Mueller &amp; Dweck 1998) passes, because the year agrees. On the corpus it rejected 2 of 9,560
+  citations the pass judged correct, both PsycEXTRA records. <code>coauthor_mismatch</code> is report-only: it
+  blocks a title rewrite and a fill, never removes a DOI, since most of its hits were right DOIs
+  with invented co-authors.</li>
+<li><strong>A fill needs more than a plausible title.</strong> <code>standardize_citations.fill_refusal</code> requires a
+  close title, agreeing co-authors, and no multi-author citation matched to a one-author record;
+  the loose test had re-added Mayer's single-author chapter to three Mayer &amp; Fiorella citations.</li>
+<li><strong><code>resolve_doi_conflicts.py --apply</code> refuses to run</strong> without <code>--allow-cluster-rewrite</code>, and its
+  Crossref search fallback is off without <code>--allow-search</code>. Even with search off it rewrites whole
+  author-year clusters without checking each page's own citation.</li>
+<li><strong>The ingest gate edits only the citation line it checked</strong>, strips bare-URL DOIs
+  (<code>https://doi.org/X</code>, <code>doi:X</code>) as well as linked ones, removes that entry's frontmatter
+  <code>resource:</code> mirror, and reports prose DOI links it cannot vouch for (unregistered, or just
+  removed from the citation) without editing them. It used to replace the link form anywhere on
+  the page and could not touch a bare URL, which is why batch 5's manifest records two removals
+  that never happened (Harkins et al. 2021's wrong <code>…0026.203</code>, since corrected to <code>…0026.202</code>; and
+  Shvidko 2020's <code>10.26077/936a-72f7</code>, which was right).</li>
+<li><strong><code>run_scrape_batch.py</code> runs <code>resolve_citation_metadata.py --apply --titles</code></strong>, so a title
+  corroborated by journal, volume and first page (and by the authors) is corrected in the batch.</li>
 </ul>
 <h3 id="2026-09-26-a-crossref-404-now-asks-datacite-before-a-doi-is-stripped">2026-09-26 — a Crossref 404 now asks DataCite before a DOI is stripped<a class="headerlink" href="#2026-09-26-a-crossref-404-now-asks-datacite-before-a-doi-is-stripped" title="Permanent link">&para;</a></h3>
 <p>Batch 5's ingest gate stripped <code>10.26077/936a-72f7</code> from eight pages as <code>not_found</code>. DataCite
