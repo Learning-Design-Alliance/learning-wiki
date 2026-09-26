@@ -256,6 +256,13 @@ def run(args) -> None:
                    "--models", args.model, "--run-id", args.label,
                    "--manifest", args.out, "--max-tokens", "24000",
                    "--judges", "--concurrency", str(args.concurrency),
+                   # Quotes and citations are checked inside the correction loop, so a
+                   # paraphrased quote is fixed from the article (the retry is shown the
+                   # closest passage) rather than dropped at ingest, and a DOI of another
+                   # work is caught before anything is written. The judge gate gives an
+                   # extraction the GPT judge fails one revision, and ingest skips it if
+                   # that does not fix it. Measured on the benchmark 2026-09-26.
+                   "--require-source-quotes", "--ground-truth", "--judge-gate", "gpt",
                    "--max-correction-attempts", str(args.max_correction_attempts)]
         if not args.resume:
             gen_cmd.append("--overwrite")

@@ -110,7 +110,7 @@ _load_secrets_env()
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from scripts.eval import (fetch_article, openrouter_client, validator, judge, failure_analysis, html_report,
                           executive_summary, cost_projection, history, prompts, optimizer, model_catalog,
-                          auto_optimize_report, index_report, consistency, home_report)
+                          auto_optimize_report, index_report, consistency, home_report, source_citation)
 from scripts.eval.jsonutil import extract_json, JSONExtractionError
 
 RUN_CONFIG_PATH = WIKI_ROOT / "deploy" / "run-config.env"
@@ -176,11 +176,94 @@ def result_path(run_dir: Path, model: str, article_id: str) -> Path:
     return run_dir / safe_model_dirname(model) / f"{article_id}.json"
 
 
+MAX_RUNAWAY_RESAMPLES = 2
+
+
+def _judge_gate(record, entry, parsed, gate, model, system_prompt, original_user_prompt, article_text,
+                existing_slugs, api_key, max_tokens, gpt_judge_model, gemini_judge_model,
+                ground_truth, require_source_quotes):
+    """The validator checks form: quotes verbatim, citations resolving, fields
+    present. It cannot see an extraction that reports a non-significant result
+    as "no benefit", reads an ANOVA's df as the sample size, or words a
+    correlation as a cause. On the 2026-09-26 benchmark the GPT judge found
+    exactly those on extractions the validator passed 10/10, while the Gemini
+    judge gave all ten 5/5.
+
+    So a validated extraction the gate judge fails gets ONE revision, told the
+    judge's issues and asked to fix only what the article supports. The
+    revision is kept only if it still passes validation and the judge no longer
+    fails it; otherwise the first version stands, with its fail verdict, and
+    ingest_extractions skips it (the article stays eligible for a later batch).
+    Returns the judge result for the version kept; record["judge_gate"] says
+    what happened."""
+    first = run_judges(article_text, parsed, [gate], gpt_judge_model, api_key=api_key,
+                       gemini_judge_model=gemini_judge_model).get(gate) or {}
+    gate_rec = {"judge": gate, "first_verdict": first.get("verdict"), "first_score": first.get("average_score"),
+                "revised": False}
+    record["judge_gate"] = gate_rec
+    final = first
+    if first.get("verdict") == "fail" and first.get("issues"):
+        prompt = (original_user_prompt + "\n\n---\n\n"
+                  + prompts.build_judge_revision_prompt(record["raw_text"], first["issues"]))
+        try:
+            gen = openrouter_client.generate(model, system_prompt, prompt, api_key, max_tokens=max_tokens,
+                                              disable_reasoning=model_catalog.needs_reasoning_disabled(model),
+                                              reasoning_effort=model_catalog.reasoning_effort_for(model))
+            revised = extract_json(gen.raw_text)
+        except (openrouter_client.GenerationError, JSONExtractionError) as e:
+            gate_rec["revision_error"] = str(e)[:300]
+            revised = None
+        if isinstance(revised, dict):
+            inc = revised.get("inclusion")
+            if not (isinstance(inc, dict) and inc.get("verdict") == "reject"):
+                source_citation.repair(revised, entry)
+                report = validator.validate_output(revised, existing_slugs, ground_truth_enabled=ground_truth,
+                                                    require_source_quotes=require_source_quotes,
+                                                    article_text=article_text)
+                gate_rec["revision_validated"] = report.passed
+                if report.passed:
+                    second = run_judges(article_text, revised, [gate], gpt_judge_model, api_key=api_key,
+                                        gemini_judge_model=gemini_judge_model).get(gate) or {}
+                    gate_rec["revision_verdict"] = second.get("verdict")
+                    gate_rec["revision_score"] = second.get("average_score")
+                    if second.get("verdict") in ("pass", "partial") or (
+                            (second.get("average_score") or 0) > (first.get("average_score") or 0)
+                            and second.get("verdict") != "fail"):
+                        record["raw_text"], record["parsed"] = gen.raw_text, revised
+                        record["validation"].update({"passed": True, "error_count": report.error_count,
+                                                     "warning_count": report.warning_count,
+                                                     "issues": [asdict(i) for i in report.issues]})
+                        gate_rec["revised"] = True
+                        final = second
+            g = record["generation"]
+            g["cost_usd"] = round((g.get("cost_usd") or 0) + (gen.cost_usd or 0), 6)
+            g["completion_tokens"] = (g.get("completion_tokens") or 0) + gen.completion_tokens
+    gate_rec["judge_cost_usd"] = round((first.get("cost_usd") or 0)
+                                       + ((second.get("cost_usd") or 0) if "second" in locals() else 0), 5)
+    gate_rec["final_verdict"] = final.get("verdict")
+    gate_rec["final_score"] = final.get("average_score")
+    return final
+
+
+def _is_runaway(gen, max_tokens: int) -> bool:
+    """Truncated at the token cap AND unparseable. A long reply that still
+    parses is kept: the validator, not this, decides whether it is complete."""
+    truncated = gen.finish_reason == "length" or (gen.completion_tokens or 0) >= 0.98 * max_tokens
+    if not truncated:
+        return False
+    try:
+        extract_json(gen.raw_text)
+        return False
+    except JSONExtractionError:
+        return True
+
+
 def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
             judges: list, gpt_judge_model: str, max_tokens: int, refresh_cache: bool = False,
             prompt_version: str = None, max_correction_attempts: int = 0, ground_truth: bool = False,
             require_source_quotes: bool = False, consistency_samples: int = 1,
-            subclaim_judging: bool = False, gemini_judge_model: str = "google/gemini-3.7-flash") -> dict:
+            subclaim_judging: bool = False, gemini_judge_model: str = "google/gemini-3.7-flash",
+            judge_gate: str = None) -> dict:
     """max_correction_attempts=0 (default) is exactly the original single-shot
     behavior — this matters for benchmark integrity: the whole point of
     `run`/`optimize`/`auto-optimize` is measuring how a model does on its
@@ -219,16 +302,28 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
     total_completion_tokens = 0
 
     for attempt in range(max_correction_attempts + 1):
-        try:
-            gen = openrouter_client.generate(model, system_prompt, current_prompt, api_key, max_tokens=max_tokens,
-                                              disable_reasoning=model_catalog.needs_reasoning_disabled(model),
-                                              reasoning_effort=model_catalog.reasoning_effort_for(model))
-        except openrouter_client.GenerationError as e:
-            record["generation"] = {"error": str(e)}
-            return record
-
-        total_cost += gen.cost_usd or 0
-        total_completion_tokens += gen.completion_tokens
+        # A reply that ran into max_tokens is a runaway, not an answer: every one of
+        # GLM's 12 unparseable outputs before 2026-09-26 stopped exactly at the cap,
+        # mid-reasoning. The same prompt sampled again almost always finishes, so a
+        # truncated, unparseable reply is resampled (at most twice per attempt)
+        # before anything is validated. A resample is not a correction attempt: the
+        # model is shown nothing new, and `initial_passed` still means first answer.
+        for sample in range(MAX_RUNAWAY_RESAMPLES + 1):
+            try:
+                gen = openrouter_client.generate(model, system_prompt, current_prompt, api_key, max_tokens=max_tokens,
+                                                  disable_reasoning=model_catalog.needs_reasoning_disabled(model),
+                                                  reasoning_effort=model_catalog.reasoning_effort_for(model))
+            except openrouter_client.GenerationError as e:
+                record["generation"] = {"error": str(e)}
+                return record
+            total_cost += gen.cost_usd or 0
+            total_completion_tokens += gen.completion_tokens
+            if not _is_runaway(gen, max_tokens):
+                break
+            record["runaway_resamples"] = record.get("runaway_resamples", 0) + 1
+            if sample < MAX_RUNAWAY_RESAMPLES:
+                print(f"  [runaway] {model} / {entry['id']}: output hit max_tokens with no JSON "
+                      f"({gen.completion_tokens} tokens, provider {gen.provider}); resampling", flush=True)
         record["generated_at"] = datetime.now(timezone.utc).isoformat()
         record["generation"] = {
             "prompt_tokens": gen.prompt_tokens,
@@ -238,6 +333,7 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
             "cost_source": gen.cost_source,
             "generation_id": gen.generation_id,
             "provider": gen.provider,
+            "finish_reason": gen.finish_reason,
         }
         record["raw_text"] = gen.raw_text
 
@@ -248,6 +344,12 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
             record["parse_error"] = None
         except JSONExtractionError as e:
             record["parse_error"] = str(e)
+
+        # The source's own citation gets the catalogue URL it was fetched from
+        # when it carries no link (source_citation.py): the model cannot know a
+        # link the article does not print, and asking it for one asks it to invent.
+        if parsed:
+            record["citation_repairs"] = source_citation.repair(parsed, entry)
 
         # A rejection is a judgment about the source, so it is accepted only from the
         # first attempt, which is the only one asked to read the article. On a correction
@@ -308,10 +410,20 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
         current_prompt = (original_user_prompt + "\n\n---\n\n"
                           + prompts.build_correction_prompt(gen.raw_text, record["validation"]["issues"]))
 
+    gate_result = None
+    if parsed and judge_gate and (record.get("validation") or {}).get("passed"):
+        gate_result = _judge_gate(record, entry, parsed, judge_gate, model, system_prompt, original_user_prompt,
+                                  article_text, existing_slugs, api_key, max_tokens, gpt_judge_model,
+                                  gemini_judge_model, ground_truth, require_source_quotes)
+        parsed = record["parsed"]
+
     if parsed:
         try:
-            record["judges"] = run_judges(article_text, parsed, judges, gpt_judge_model,
+            others = [j for j in judges if not (gate_result and j == judge_gate)]
+            record["judges"] = run_judges(article_text, parsed, others, gpt_judge_model,
                                            api_key=api_key, gemini_judge_model=gemini_judge_model)
+            if gate_result:
+                record["judges"][judge_gate] = gate_result
         except Exception as e:
             record["judges"] = {"error": f"judging crashed: {type(e).__name__}: {e}"}
 
@@ -375,6 +487,11 @@ def _run_one_judge(name: str, article_text: str, extraction_text: str, gpt_judge
     if name == "opus":
         return judge.judge_with_claude(article_text, extraction_text)
     if name == "gpt":
+        # Without an OpenAI key the same judge runs through OpenRouter on the
+        # generation key, so the harness never needs a second credential for it.
+        if not os.environ.get("OPENAI_API_KEY") and api_key:
+            slug = gpt_judge_model if "/" in gpt_judge_model else f"openai/{gpt_judge_model}"
+            return judge.judge_via_openrouter(article_text, extraction_text, api_key, slug)
         return judge.judge_with_openai(article_text, extraction_text, model=gpt_judge_model)
     if name == "gemini":
         return judge.judge_with_gemini(article_text, extraction_text, api_key, model=gemini_judge_model)
@@ -423,7 +540,7 @@ def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: 
               max_correction_attempts: int = 0, retry_errors_only: bool = False,
               ground_truth: bool = False, require_source_quotes: bool = False,
               consistency_samples: int = 1, subclaim_judging: bool = False,
-              gemini_judge_model: str = "google/gemini-3.7-flash") -> Path:
+              gemini_judge_model: str = "google/gemini-3.7-flash", judge_gate: str = None) -> Path:
     """The actual (model x article) loop, shared by `run`, `optimize`, and
     `auto-optimize` — the latter two call this directly (not through
     argparse) to run each candidate prompt against the same articles as the
@@ -527,7 +644,7 @@ def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: 
                               max_correction_attempts=max_correction_attempts, ground_truth=ground_truth,
                               require_source_quotes=require_source_quotes,
                               consistency_samples=consistency_samples, subclaim_judging=subclaim_judging,
-                              gemini_judge_model=gemini_judge_model)
+                              gemini_judge_model=gemini_judge_model, judge_gate=judge_gate)
         except fetch_article.FetchError as e:
             with print_lock:
                 state["done"] += 1
@@ -638,7 +755,8 @@ def cmd_run(args: argparse.Namespace) -> None:
                   max_correction_attempts=args.max_correction_attempts,
                   retry_errors_only=args.retry_errors_only, ground_truth=args.ground_truth,
                   require_source_quotes=args.require_source_quotes,
-                  consistency_samples=args.consistency_samples, subclaim_judging=args.subclaim_judging)
+                  consistency_samples=args.consistency_samples, subclaim_judging=args.subclaim_judging,
+                  judge_gate=args.judge_gate)
     finally:
         sys.stdout, sys.stderr = orig_stdout, orig_stderr
         console_log_file.close()
@@ -1985,6 +2103,11 @@ def main() -> None:
                              "this measures FIRST-attempt quality, so opt in explicitly rather than "
                              "changing the default). Each record keeps both `initial_passed` (first "
                              "attempt) and the final post-correction `validation.passed`.")
+    p_run.add_argument("--judge-gate", default=None, choices=["gpt", "gemini", "opus"],
+                       help="After validation passes, run this judge; on a 'fail' verdict give the model one "
+                            "revision round with the judge's issues and keep it only if it validates and the "
+                            "judge no longer fails it. ingest_extractions skips a record the gate still fails. "
+                            "Recorded under record['judge_gate'].")
     p_run.add_argument("--ground-truth", action="store_true",
                         help="Live-verify each citation's DOI (Crossref) or arXiv id (arXiv API) instead of "
                              "only checking it LOOKS like a real citation (see scripts/eval/ground_truth.py) "

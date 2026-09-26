@@ -94,15 +94,15 @@
       "topic_hint": "self-controlled feedback"
     },
     {
-      "id": "pmc-5932263",
+      "id": "pmc-11473304",
       "source": "pubmed",
-      "pmcid": "PMC5932263",
-      "title": "Self-Regulated Learning of Important Information under Sequential and Simultaneous Encoding Conditions",
-      "authors": "et al.",
-      "year": 2018,
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5932263",
-      "fetch_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC5932263/unicode",
-      "topic_hint": "self-regulated learning / encoding"
+      "pmcid": "PMC11473304",
+      "title": "Toward self-regulated learning: effects of different types of data-driven feedback on pupils' mathematics word problem-solving performance",
+      "authors": "Huang, J., Cai, Y., Lv, Z., Huang, Y., Zheng, X. L.",
+      "year": 2024,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11473304",
+      "fetch_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11473304.1.json",
+      "topic_hint": "self-regulated learning / feedback"
     }
   ]
 }

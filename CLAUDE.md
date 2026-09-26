@@ -110,6 +110,36 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-26 (evening) — the extractor benchmark is 10/10, and a judge now gates the batch
+
+GLM on v133 through the full new chain (`bench-gate`): **10/10 pass validation, 10/10 pass the GPT
+judge**; strict audit: 7/7 DOIs right paper (author and year included), 68/68 quotes verbatim, 192/192
+decimal statistics present in the article (one, 76.71, printed "76 .71" by the PDF). About $0.008 per
+article with the judge. What changed, and why:
+
+- **`pmc-5932263` left the benchmark**: PMC no longer marks it open access, so it could never pass.
+  Replaced by `pmc-11473304` (Huang et al. 2024). Do not scrape the HTML page to get it back.
+- **The source's own citation gets its link from the pipeline** (`scripts/eval/source_citation.py`):
+  a citation naming the article with no link gets the catalogue URL it was fetched from, and a bare
+  homepage standing in for one (GLM wrote `https://www.aera.net`) is replaced. Validator demands for a
+  "DOI/URL" on reports with none were 23 of v133's 25 citation errors, and each retry asked for an
+  invented DOI.
+- **A failed quote's retry is shown the closest article passage** (`ground_truth.nearest_passage`), or
+  told none resembles it.
+- **A reply that hits max_tokens and does not parse is resampled**, up to twice. All 12 of GLM's
+  unusable outputs to date stopped exactly at the cap; one recurred in this benchmark and the
+  resample recovered it. `generation.finish_reason` and `runaway_resamples` are recorded.
+- **The Gemini judge scored every extraction 5/5 and is not a signal.** The GPT judge, now routed
+  through OpenRouter when no OpenAI key is set, found real misstatements the validator cannot see:
+  non-significance reported as "no effect", an ANOVA's df read as n, correlations worded as causes.
+- **`--judge-gate gpt`**: a validated extraction the judge fails gets one revision with the judge's
+  issues, kept only if it re-validates and the judge no longer fails it. 3 of 10 failed; all 3 were
+  fixed. Ingest skips a record the gate still fails, as `judge-failed` (a failed run: the article
+  stays eligible).
+- **`run_scrape_batch.py` now runs generation with `--require-source-quotes --ground-truth
+  --judge-gate gpt`.** Before, quotes were checked only at ingest, where a bad one could only be
+  dropped (80 entries in batch 2); now the retry fixes it from the article.
+
 ### 2026-09-26 (later) — a citation pass checked against author and year
 
 Every DOI-bearing citation was compared with its full Crossref record, **first author and year

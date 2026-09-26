@@ -178,3 +178,33 @@ Produce a CORRECTED, COMPLETE JSON object fixing every issue listed above. Keep 
 from your previous output unchanged unless it is directly implicated in one of the issues — do not \
 regenerate content that already passed validation. Follow the exact same output contract as before \
 (the same JSON schema, same field names).{citation_note} Output ONLY the corrected JSON object, nothing else."""
+
+
+def build_judge_revision_prompt(previous_raw_output: str, issues: list, max_chars: int = 30_000) -> str:
+    """eval_harness._judge_gate's one revision round: an independent judge read
+    the article and the extraction and failed it. Unlike a validator issue, a
+    judge issue can be wrong, so the model is told to fix only what the article
+    supports and to leave the rest; the revision is re-validated and re-judged
+    before it replaces anything."""
+    issue_lines = "\n".join(f"- {i}" for i in issues if isinstance(i, str)) or "(none listed)"
+    prev = previous_raw_output.strip()
+    note = ""
+    if len(prev) > max_chars:
+        prev, note = prev[:max_chars], "\n\n[TRUNCATED — shown output continues past this point.]"
+    return f"""The article is above; everything below is about your previous answer to it.
+
+An independent reviewer compared your JSON with the article and judged that it misstates the \
+article. Their points:
+
+{issue_lines}
+
+## Your previous output
+{prev}{note}
+
+Check each point against the article. Where the article supports it, fix the wording: report a \
+non-significant result as "no significant difference", not as "no effect" or as equivalence, unless \
+the article ran an equivalence test; describe correlational or within-group results without causal \
+or between-group language; take sample sizes from the reported n, never from degrees of freedom. \
+Where the article contradicts the reviewer, leave that part unchanged. Do not add new claims. Every \
+source_quote must stay copied verbatim from the article. Output ONLY the corrected, complete JSON \
+object, with the same schema."""

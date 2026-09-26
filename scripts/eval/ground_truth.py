@@ -248,3 +248,33 @@ def quote_is_grounded(quote, article_text: str, min_words: int = 4, shingle_size
         return False
     matched = sum(1 for s in shingles if s in article_words_only)
     return (matched / len(shingles)) >= shingle_threshold
+
+
+_SENTENCE_END = re.compile(r"(?<=[.!?])\s+(?=[A-Z0-9(\"'])")
+
+
+def nearest_passage(quote, article_text: str, max_chars: int = 320) -> "str | None":
+    """The article sentence (or pair of sentences) sharing the most words with
+    `quote`, for a correction retry to copy from. A retry told only "this
+    quote is not in the article" paraphrases again; one shown the passage it
+    was paraphrasing can paste it. None when nothing shares half of the
+    quote's content words, so an invented quote is not handed a plausible substitute."""
+    if not isinstance(quote, str) or not isinstance(article_text, str):
+        return None
+    stop = {"the", "a", "an", "of", "and", "or", "in", "on", "for", "to", "with", "by", "at", "from", "as",
+            "is", "are", "was", "were", "be", "been", "that", "this", "these", "those", "it", "its", "their",
+            "than", "which", "who", "not", "no", "but", "also", "both", "students", "participants", "study"}
+    want = set(_WORD_RE.findall(quote.lower())) - stop
+    if len(want) < 4:
+        return None
+    sentences = [x.strip() for x in _SENTENCE_END.split(re.sub(r"\s+", " ", article_text)) if x.strip()]
+    best, best_score = None, 0.0
+    for i in range(len(sentences)):
+        for span in (sentences[i], " ".join(sentences[i:i + 2])):
+            got = set(_WORD_RE.findall(span.lower()))
+            score = len(want & got) / len(want)
+            if score > best_score + 1e-9 or (abs(score - best_score) < 1e-9 and best and len(span) < len(best)):
+                best, best_score = span, score
+    if best is None or best_score < 0.5:
+        return None
+    return best if len(best) <= max_chars else best[:max_chars].rsplit(" ", 1)[0] + " …"
