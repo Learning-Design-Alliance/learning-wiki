@@ -110,6 +110,34 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-26 (late night) — the batch runs without a gating judge; what merging and scale will need
+
+**The unattended batch no longer gates on a judge.** On batch 7 GLM cost $0.0027 an article and the
+GPT judge $0.0047 more, which a full ERIC run (170,647 peer-reviewed full-text records) cannot carry.
+`run_scrape_batch.py` now passes `--judge-sample 0.05`: a hash-chosen 5% is judged as a spot check
+(`record["judge_sample"]`), never read at ingest. `--judge-gate gpt` still exists for a run that can
+afford it. The cost is known: GPT failed 9 of 71 validated extractions (13%) for misstatements the
+validator cannot see. **No cheap judge replaces it** (71 extractions, GPT with the catalogue-URL note
+as reference): GLM 5.3 Flash, Gemma 4 31B and DeepSeek V4 Flash passed nearly everything and caught 0
+of 9; gpt-oss-120b caught 3 of 9 with 5 false alarms; GPT shown only the quoted passages caught 6 of
+9 with 9 false alarms and saved a third. A regex for null-as-no-effect wording flagged 4 passes and 0
+fails. Qwen 3.7 Flash is excluded by the account's zero-data-retention setting.
+
+**Merging, measured.** A replay of batch 7's 313 new claims against the 1,934 before it (TF-IDF top 5,
+GLM classifying, $0.011): 2 same proposition, 19 a specific instance of a general claim, 3
+contradicting one, 126 related, 163 new. Retrieval is the weak part (median top similarity 0.07–0.08),
+so these are floors. Separately, **27% of content pages (1,934) have no link in or out**, 1,226 of them
+claims, mostly from batches: extraction writes claims nothing cites. Title near-duplicates at cosine ≥
+0.6: 128 claims.
+
+**Scale, measured.** 7.5 pages per source, ~7 KB each; `claims/index.md` is already 654 KB (~160k
+tokens, too large for an agent to read), `wiki-index.json` ~520 B and `reverse-index.json` ~340 B per
+page, and the MCP server loads both and scans linearly. At ERIC's peer-reviewed size without merging
+(~1.3M pages) the flat indexes pass GitHub's 100 MB file limit and the docs site passes Pages' 1 GB.
+Search itself scales: SQLite FTS5 over title and body answered in 0.9 ms at 7,024 pages and 14.7 ms
+at 140,480 (a 20× synthetic copy, 687 MB), so agents can navigate by search at full size once the
+server uses an index rather than a scan.
+
 ### 2026-09-26 (night) — the evidence layer: per-page profiles and `evidence.md`
 
 Every page that cites claims (principles, elements, patterns, strategies, processes, methods,

@@ -259,10 +259,13 @@ def run(args) -> None:
                    # Quotes and citations are checked inside the correction loop, so a
                    # paraphrased quote is fixed from the article (the retry is shown the
                    # closest passage) rather than dropped at ingest, and a DOI of another
-                   # work is caught before anything is written. The judge gate gives an
-                   # extraction the GPT judge fails one revision, and ingest skips it if
-                   # that does not fix it. Measured on the benchmark 2026-09-26.
-                   "--require-source-quotes", "--ground-truth", "--judge-gate", "gpt",
+                   # work is caught before anything is written. The GPT judge does not
+                   # gate: it cost 1.7x the extraction on batch 7 ($0.0047 vs $0.0027 an
+                   # article), which a full ERIC run cannot carry. It spot-checks a 5%
+                   # sample instead, and --judge-gate gpt restores gating for a run that
+                   # can afford it.
+                   "--require-source-quotes", "--ground-truth",
+                   "--judge-sample", "0.05", "--judge-sample-with", "gpt",
                    "--max-correction-attempts", str(args.max_correction_attempts)]
         if not args.resume:
             gen_cmd.append("--overwrite")
