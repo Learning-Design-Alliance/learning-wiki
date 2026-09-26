@@ -133,6 +133,36 @@ EFFECT_SIZE_RE = re.compile(
     r"(?:(?:Cohen'?s d|Hedges'?\s*g|effect[- ]size)[^.]{0,25}?[-−]?\d*\.\d)", re.I)
 
 
+_ES_VALUE = re.compile(
+    r"(?:(?P<k1>(?<![A-Za-z])(?:d|g|r|β)|ḡ|d̄|η\s*[²2p]{0,2}|ηp²)\s*[=≈]\s*(?P<v1>[-−]?\s*\d*\.?\d+))", re.I)
+
+
+def expected_impact(text: str):
+    """(bin, statistic) for the first effect size a text prints, by the prompt's own
+    bins (v135): d/g on d, r and a standardised β on r, η² on η². A β above 1 cannot be
+    standardised and returns bin None with the reason, since it is not an effect size.
+    None when the text names nothing this can bin."""
+    m = _ES_VALUE.search(text or "")
+    if not m:
+        return None
+    kind, raw = m.group("k1").lower(), m.group("v1").replace("−", "-").replace(" ", "")
+    try:
+        v = abs(float(raw))
+    except ValueError:
+        return None
+    if kind in ("d", "g", "ḡ", "d̄"):
+        b = 3 if v >= 0.8 else 2 if v >= 0.4 else 1 if v >= 0.2 else 0
+    elif kind in ("r", "β"):
+        if v > 1:
+            return (None, m.group(0))
+        b = 3 if v >= 0.37 else 2 if v >= 0.20 else 1 if v >= 0.10 else 0
+    else:
+        if v >= 1:
+            return None
+        b = 3 if v >= 0.14 else 2 if v >= 0.04 else 1 if v >= 0.01 else 0
+    return (b, m.group(0))
+
+
 def _impact_ok(value) -> bool:
     """An impact code is 0-3, or None when the article prints no effect size.
 
@@ -402,10 +432,21 @@ def _validate_claim(c: _Checker, contrib: dict, known_slugs: set) -> None:
                     "impact must be an integer 0-3, or null when the article prints no effect size.")
             if ev.get("impact") in (1, 2, 3):
                 named = f"{ev.get('description') or ''} {ev.get('source_quote') or ''}"
-                c.check(bool(EFFECT_SIZE_RE.search(named)), f"evidence[{j}].impact",
-                        f"impact is {ev['impact']} but neither the description nor the quote names a printed "
-                        "effect size with its value (e.g. \"d = 0.52\", \"r = .34\"). Quote the one the article "
-                        "prints for this finding, or set impact (and the subclaims' i) to null.")
+                if c.check(bool(EFFECT_SIZE_RE.search(named)), f"evidence[{j}].impact",
+                           f"impact is {ev['impact']} but neither the description nor the quote names a printed "
+                           "effect size with its value (e.g. \"d = 0.52\", \"r = .34\"). Quote the one the article "
+                           "prints for this finding, or set impact (and the subclaims' i) to null."):
+                    # The statistic is in the text, so its bin can be computed rather than trusted.
+                    exp = expected_impact(ev.get("description") or "") or expected_impact(ev.get("source_quote") or "")
+                    if exp and exp[0] is None:
+                        c.error(f"evidence[{j}].impact",
+                                f"{exp[1]} cannot be a standardised coefficient (its size is above 1), so it is not "
+                                "an effect size: set impact (and the subclaims' i) to null unless the article prints "
+                                "a standardised one for this finding.")
+                    elif exp and exp[0] != ev["impact"]:
+                        c.error(f"evidence[{j}].impact",
+                                f"the description prints {exp[1]}, which is i={exp[0]} by the code table, but impact "
+                                f"is {ev['impact']}: set impact and the subclaims' i to {exp[0]}.")
             c.check(isinstance(ev.get("description"), str) and len(ev["description"]) >= 40,
                     f"evidence[{j}].description", "description should be a substantive 2-4 sentence summary.",
                     severity="warning")
