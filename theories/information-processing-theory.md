@@ -100,7 +100,7 @@ Gain students' attention; ask students to recall prior relevant learning; point 
 - Alloway, T. P., Bibile, V., & Lau, G. (2013). Computerized working memory training: Can it lead to gains in cognitive skills in students? *Computers in Human Behavior, 29*(3), 632-638.
 - Nelson, K., & Fivush, R. (2004). The emergence of autobiographical memory: A social cultural developmental theory. *Psychological Review, 111*(2), 486-511.
 - Miller, P. H. (2011). *Theories of developmental psychology* (5th ed.). Worth Publishers.
-- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press.
+- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 - O'Malley, M., Chamot, A. U., Stewer-Manzanares, G., Russo, R. P., & Kupper, L. (1985). Learning strategy applications with students of English as a second language. *TESOL Quarterly, 19*, 557-584.
 - Zhou, M., & Brown, D. (Eds.). (2015). Information processing theory. In *Educational learning theories* (2nd ed.). GALILEO Open Learning Materials.
 - Arduini-Van Hoose, N. (2020). Information processing theories. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

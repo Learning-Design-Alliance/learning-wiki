@@ -68,7 +68,7 @@ Citation chaining shifts information seeking from keyword luck to structured inq
 - **Connected Papers (https://www.connectedpapers.com)** — visualizes a seed paper's citation graph as a similarity map, making backward and forward chains explorable in one interface; used in research-methods courses to teach network thinking.
 
 ## Key Sources
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40. [doi:10.1177/016146811912101102](https://doi.org/10.1177/016146811912101102)
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record: The Voice of Scholarship in Education, 121*(11), 1–40. [doi:10.1177/016146811912101102](https://doi.org/10.1177/016146811912101102)
 - Meola, M. (2004). Chucking the checklist: A contextual approach to teaching undergraduates Web-site evaluation. *portal: Libraries and the Academy, 4*(3), 331–344. [doi:10.1353/pla.2004.0055](https://doi.org/10.1353/pla.2004.0055)
 - Caulfield, M. (2017). *Web literacy for student fact-checkers... and other people who care about facts*. Pressbooks. https://webliteracy.pressbooks.com
 - Booth, A., Sutton, A., & Papaioannou, D. (2016). *Systematic approaches to a successful literature review* (2nd ed.). Sage.

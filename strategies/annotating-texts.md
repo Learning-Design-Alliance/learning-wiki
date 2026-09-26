@@ -71,7 +71,7 @@ Annotation works because it forces selection and organization of ideas rather th
 
 ## Key Sources
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
-- Ponce, H. R., Mayer, R. E., & Méndez, E. E. (2020). Effects of learner-generated highlighting and instructor-provided highlighting on learning from text: A meta-analysis. *Educational Psychology Review, 32*(3), 789–824. [doi:10.1007/s10648-021-09654-1](https://doi.org/10.1007/s10648-021-09654-1)
+- Ponce, H. R., Mayer, R. E., & Méndez, E. E. (2020). Effects of learner-generated highlighting and instructor-provided highlighting on learning from text: A meta-analysis. *Educational Psychology Review, 34*(2), 989–1024. [doi:10.1007/s10648-021-09654-1](https://doi.org/10.1007/s10648-021-09654-1)
 - Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243. [doi:10.1080/00461520.2014.965823](https://doi.org/10.1080/00461520.2014.965823)
 - Pressley, M., & Afflerbach, P. (1995). *Verbal protocols of reading: The nature of constructively responsive reading.* Lawrence Erlbaum Associates.
 

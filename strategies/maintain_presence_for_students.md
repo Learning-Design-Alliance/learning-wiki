@@ -75,5 +75,5 @@ Availability only supports learning when students perceive it as genuine and pre
 ## Key Sources
 - Cornelius-White, J. (2007). Learner-centered teacher-student relationships are effective: A meta-analysis. *Review of Educational Research, 77*(1), 113–143. [doi:10.3102/003465430298563](https://doi.org/10.3102/003465430298563)
 - Roorda, D. L., Koomen, H. M. Y., Spilt, J. L., & Oort, F. J. (2011). The influence of affective teacher-student relationships on students' school engagement and achievement: A meta-analytic approach. *Review of Educational Research, 81*(4), 493–529. [doi:10.3102/0034654311421793](https://doi.org/10.3102/0034654311421793)
-- Hattie, J. (2009). *Visible learning: A synthesis of over 800 meta-analyses relating to achievement.* Routledge.
+- Hattie, J. (2009). *Visible learning: A synthesis of over 800 meta-analyses relating to achievement.* Routledge. [doi:10.4324/9780203887332](https://doi.org/10.4324/9780203887332)
 - Pianta, R. C. (1999). *Enhancing relationships between children and teachers.* American Psychological Association. [doi:10.1037/10314-000](https://doi.org/10.1037/10314-000)
