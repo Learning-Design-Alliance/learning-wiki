@@ -16,7 +16,7 @@ sources:
 # Piaget's model of a conceptual scaffolding of objects, space, time, and causality frames the construction of experiential reality
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 In Piaget's Construction of Reality in the Child, von Glasersfeld finds a model of how learners build a coherent experiential reality: "he presented a model of how a basic scaffoldingthe conceptual structure of objects, space, time, and causalitycan be built up." This scaffolding serves as the framework within which experiential reality is constructed, and the construction is not free but constrained by the concepts that constitute it. The book notes this overlaps with George Kelly's personal construct psychology.

@@ -14,13 +14,13 @@ sources:
     title: "Winer, L. R., Vázquez-Abad, J. A., & Tessmer, M. (1994). Enriching the Layers of Necessity Model. Paper presented at the Annual Meeting of AERA. https://eric.ed.gov/?id=ED371037"
     author: "Winer, L. R., Vázquez-Abad, J. A., & Tessmer, M."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Only a small number of model designers follow all steps all of the time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Only a few respondents reported always performing all 11 activities; the majority conform to the principle behind the Layers of Necessity model. [→ Winer 1994](#winer-1994)
@@ -31,7 +31,7 @@ sources:
 
 Winer, L. R., Vázquez-Abad, J. A., & Tessmer, M. (1994). Enriching the Layers of Necessity Model. Paper presented at the Annual Meeting of AERA. https://eric.ed.gov/?id=ED371037
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 In the Montreal survey, three respondents reported always performing all 11 activities and four reported always doing all except follow-up evaluation; "The majority, however, conform to the principle behind the Layers of Necessity model."
 

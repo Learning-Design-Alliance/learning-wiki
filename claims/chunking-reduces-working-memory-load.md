@@ -18,14 +18,14 @@ sources:
     title: "Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences, 24*(1), 87–114. [https://doi.org/10.1017/S0140525X01003922](https://doi.org/10.1017/S0140525X01003922)"
     author: Cowan, N.
     q: 4
-    i: 3
+    i: "?"
     n: N/A
   - id: thalmann-et-al-2019
     resource: "https://doi.org/10.1037/xlm0000578"
     title: "Thalmann, M., Souza, A. S., & Oberauer, K. (2019). How does chunking help working memory? *Journal of Experimental Psychology: Learning, Memory, and Cognition, 45*(1), 37–55. [https://doi.org/10.1037/xlm0000578](https://doi.org/10.1037/xlm0000578)"
     author: "Thalmann, M., Souza, A. S., & Oberauer, K."
     q: 3
-    i: 2
+    i: "?"
     n: unspecified
 id: chunking-reduces-working-memory-load
 evidence_strength: strong
@@ -34,14 +34,14 @@ evidence_strength: strong
 # Chunking reduces working memory load by grouping information into fewer, more meaningful units.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2`–`q4` · `i2`–`i3`
+> **Evidence** · 3 studies · `q2`–`q4`
 
 By organizing discrete elements into larger, familiar patterns (chunks), learners can effectively bypass the limited capacity of short-term memory, allowing for more complex processing.
 
 ## Subclaims
 `q2 i?` Recoding input into larger chunks lets people stretch the limit on how much information they can hold in immediate memory, a limit Miller found clustering around seven items while withholding judgment on what the recurring seven means. [→ Miller 1956](#miller-1956)
-`q4 i3` More recent estimates put the limit closer to three to five chunks for novel material, tightening rather than overturning Miller's estimate. [→ Cowan 2001](#cowan-2001)
-`q3 i2` Chunking reduces the number of units to be maintained, freeing up cognitive resources for higher-order tasks. [→ Thalmann et al. 2019](#thalmann-et-al-2019)
+`q4 i?` More recent estimates put the limit closer to three to five chunks for novel material, tightening rather than overturning Miller's estimate. [→ Cowan 2001](#cowan-2001)
+`q3 i?` Chunking reduces the number of units to be maintained, freeing up cognitive resources for higher-order tasks. [→ Thalmann et al. 2019](#thalmann-et-al-2019)
 
 ## Evidence
 
@@ -59,7 +59,7 @@ Miller reviews experiments on the limits of absolute judgment and of immediate m
 
 Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences, 24*(1), 87–114. [https://doi.org/10.1017/S0140525X01003922](https://doi.org/10.1017/S0140525X01003922)
 
-`q4 · peer-reviewed theoretical review with target-article commentary` · `i3 · large impact` · `n=N/A`
+`q4 · peer-reviewed theoretical review with target-article commentary` · `i? · the abstract prints no effect size; the full text may` · `n=N/A`
 
 A systematic reconsideration of Miller's estimate, arguing that once rehearsal and long-term-memory support are controlled for, the pure capacity limit for novel material is closer to four chunks than seven. The practical consequence for instructional design is that the usable working-memory budget is smaller than Miller's figure suggests, making chunking more important rather than less.
 
@@ -67,7 +67,7 @@ A systematic reconsideration of Miller's estimate, arguing that once rehearsal a
 
 Thalmann, M., Souza, A. S., & Oberauer, K. (2019). How does chunking help working memory? *Journal of Experimental Psychology: Learning, Memory, and Cognition, 45*(1), 37–55. [https://doi.org/10.1037/xlm0000578](https://doi.org/10.1037/xlm0000578)
 
-`q3 · peer-reviewed experiment` · `i2 · medium effect` · `n=unspecified`
+`q3 · peer-reviewed experiment` · `i? · the abstract prints no effect size; the full text may` · `n=unspecified`
 
 This series of experiments investigated the mechanism of chunking, confirming that it improves working memory by reducing the number of units that need to be maintained, thereby decreasing the overall load on the system.
 

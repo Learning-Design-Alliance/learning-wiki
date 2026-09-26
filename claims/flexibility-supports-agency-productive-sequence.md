@@ -14,13 +14,13 @@ sources:
     title: "Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics"
     author: "Podolefsky, N. S., Moore, E. B., & Perkins, K. K."
     q: 1
-    i: 1
+    i: "?"
 ---
 
 # Authors report that flexibility in sim access supports student agency while students tend to explore in a productive sequence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case · `i1` small
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The authors interpret, from interview and classroom observations, that allowing students to access any sim feature at any time supports agency while implicit scaffolding leads students to tend to explore in a productive sequence. [→ Podolefsky 2013](#podolefsky-2013)
@@ -31,7 +31,7 @@ sources:
 
 Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics
 
-`q1 · i1`
+`q1 · i? · the article prints no effect size for this finding`
 
 This is the authors' interpretation regarding ESPB, which has no hard constraints on when students can use any given feature; a student may reach the Track Playground tab early and return to earlier tabs as questions arise. It is stated as a belief, not a tested result.
 

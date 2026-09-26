@@ -14,13 +14,13 @@ sources:
     title: "Wee, L. K., & Lee, T. L. (2011). Video Analysis and Modeling Tool for Physics Education. Paper presented at the 4th Redesigning Pedagogy International Conference, Singapore. http://weelookang.blogspot.com/2011/05/video-analysis-and-modeling-tool-for.html"
     author: "Wee, L. K., & Lee, T. L."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Students can derive an accurate gravitational acceleration value from Tracker's parabola fit of a falling-ball video
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` By fitting a parabola to the y vs t graph of a falling ball in Tracker and equating coefficients, students infer ay = -9.688 m/s2, approximately equal to the gravitational acceleration constant of -9.81 m/s2. [→ Wee 2011](#wee-2011)
@@ -31,7 +31,7 @@ sources:
 
 Wee, L. K., & Lee, T. L. (2011). Video Analysis and Modeling Tool for Physics Education. Paper presented at the 4th Redesigning Pedagogy International Conference, Singapore. http://weelookang.blogspot.com/2011/05/video-analysis-and-modeling-tool-for.html
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Workshop demonstration of video analysis of a free-falling ball: Tracker's parabola fit yields parameters from which students infer "ay = – 9.688 m/s 2", which the authors interpret as approximately equal to the gravitational acceleration constant -9.81 m/s2. No study participants are reported.
 

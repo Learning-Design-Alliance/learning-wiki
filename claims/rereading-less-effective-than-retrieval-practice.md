@@ -19,13 +19,13 @@ sources:
     title: "Roediger, H. L., & Karpicke, J. D. (2006). The power of testing memory: Basic research and implications for educational practice. *Perspectives on Psychological Science, 1*(3), 181–210. [doi:10.1111/j.1745-6916.2006.00012.x](https://doi.org/10.1111/j.1745-6916.2006.00012.x)"
     author: "Roediger, H. L., & Karpicke, J. D."
     q: 2
-    i: 2
+    i: "?"
   - id: dunlosky-et-al-2013
     resource: "https://doi.org/10.1177/1529100612453266"
     title: "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)"
     author: "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T."
     q: 3
-    i: 2
+    i: "?"
 ---
 
 # Rereading is less effective than retrieval practice
@@ -39,9 +39,9 @@ Actively recalling material from memory produces stronger, more durable learning
 
 `q3 i0` Across experiments with educational texts, rereading produced no reliable benefit over a single reading on comprehension or memory measures. [→ Callender & McDaniel 2009](#callender-mcdaniel-2009)
 
-`q3 i2` A systematic review of ten study techniques rated practice testing and distributed practice *high utility* and rereading *low utility*, placing rereading among the least effective of the widely used strategies. [→ Dunlosky et al. 2013](#dunlosky-et-al-2013)
+`q3 i?` A systematic review of ten study techniques rated practice testing and distributed practice *high utility* and rereading *low utility*, placing rereading among the least effective of the widely used strategies. [→ Dunlosky et al. 2013](#dunlosky-et-al-2013)
 
-`q2 i2` Rereading's appeal is that it raises immediate performance and fluency, which is the same mechanism that makes it a poor predictor of delayed retention. [→ Roediger & Karpicke 2006 (review)](#roediger-karpicke-2006-review)
+`q2 i?` Rereading's appeal is that it raises immediate performance and fluency, which is the same mechanism that makes it a poor predictor of delayed retention. [→ Roediger & Karpicke 2006 (review)](#roediger-karpicke-2006-review)
 
 ## Evidence
 
@@ -57,7 +57,7 @@ A series of experiments with authentic educational texts rather than word lists,
 
 Roediger, H. L., & Karpicke, J. D. (2006). The power of testing memory: Basic research and implications for educational practice. *Perspectives on Psychological Science, 1*(3), 181–210. [doi:10.1111/j.1745-6916.2006.00012.x](https://doi.org/10.1111/j.1745-6916.2006.00012.x)
 
-`q2` · `i2`
+`q2` · `i? · the abstract prints no effect size; the full text may`
 
 A narrative review of the testing-effect literature and its educational implications. Relevant here for the mechanism rather than an effect size: rereading increases perceptual fluency and immediate accessibility, both of which learners read as evidence of learning.
 
@@ -65,7 +65,7 @@ A narrative review of the testing-effect literature and its educational implicat
 
 Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
 
-`q3` · `i2`
+`q3` · `i? · the abstract prints no effect size; the full text may`
 
 A systematic review evaluating ten learning techniques against generalisability, learner characteristics, materials and criterion tasks. Rereading and highlighting received the lowest utility ratings; practice testing and distributed practice the highest. The review is a synthesis rather than a single experiment, so its weight here is breadth of coverage.
 

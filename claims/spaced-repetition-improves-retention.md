@@ -13,13 +13,13 @@ sources:
     title: "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380. [doi:10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)"
     author: "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D."
     q: 4
-    i: 2
+    i: "?"
   - id: cepeda-et-al-2008
     resource: "https://doi.org/10.1111/j.1467-9280.2008.02209.x"
     title: "Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing effects in learning: A temporal ridgeline of optimal retention. *Psychological Science, 19*(11), 1095–1102. [doi:10.1111/j.1467-9280.2008.02209.x](https://doi.org/10.1111/j.1467-9280.2008.02209.x)"
     author: "Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H."
     q: 3
-    i: 2
+    i: "?"
   - id: donovan-radosevich-1999
     resource: "https://doi.org/10.1037/0021-9010.84.5.795"
     title: "Donovan, J. J., & Radosevich, D. J. (1999). A meta-analytic review of the distribution of practice effect: Now you see it, now you don't. *Journal of Applied Psychology, 84*(5), 795–805. [doi:10.1037/0021-9010.84.5.795](https://doi.org/10.1037/0021-9010.84.5.795)"
@@ -37,9 +37,9 @@ Distributing study of a given item across multiple sessions separated by time pr
 
 ## Subclaims
 
-`q4 i2` A quantitative synthesis of the verbal-recall literature found spaced practice superior to massed practice, with the advantage increasing as the retention interval lengthened. [→ Cepeda et al. 2006](#cepeda-et-al-2006)
+`q4 i?` A quantitative synthesis of the verbal-recall literature found spaced practice superior to massed practice, with the advantage increasing as the retention interval lengthened. [→ Cepeda et al. 2006](#cepeda-et-al-2006)
 
-`q3 i2` The optimal gap scales with how long the material must be retained: gaps that maximise recall at one week are too short for a test months later. There is no fixed best interval to configure. [→ Cepeda et al. 2008](#cepeda-et-al-2008)
+`q3 i?` The optimal gap scales with how long the material must be retained: gaps that maximise recall at one week are too short for a test months later. There is no fixed best interval to configure. [→ Cepeda et al. 2008](#cepeda-et-al-2008)
 
 `q4 i2` A meta-analysis outside the verbal-learning laboratory, covering task practice, put the distribution-of-practice effect at d = 0.46 and found it moderated by task complexity. [→ Donovan & Radosevich 1999](#donovan-radosevich-1999)
 
@@ -49,7 +49,7 @@ Distributing study of a given item across multiple sessions separated by time pr
 
 Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380. [doi:10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)
 
-`q4` · `i2`
+`q4` · `i? · the abstract prints no effect size; the full text may`
 
 A review and quantitative synthesis of distributed-practice studies in verbal recall, covering several hundred experiments. Spacing beat massing broadly, and the interaction with retention interval was the robust moderator: the longer the delay before test, the larger the advantage.
 
@@ -57,7 +57,7 @@ A review and quantitative synthesis of distributed-practice studies in verbal re
 
 Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing effects in learning: A temporal ridgeline of optimal retention. *Psychological Science, 19*(11), 1095–1102. [doi:10.1111/j.1467-9280.2008.02209.x](https://doi.org/10.1111/j.1467-9280.2008.02209.x)
 
-`q3` · `i2`
+`q3` · `i? · the abstract prints no effect size; the full text may`
 
 An experiment varying the gap between two study sessions and the interval before test across a wide grid, producing a ridgeline of optimal gaps rather than a single value. The optimal gap was a rising function of the retention interval. This is the study that makes spacing a parameter to tune against an intended retention horizon rather than a fixed schedule.
 

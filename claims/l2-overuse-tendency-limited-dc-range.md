@@ -14,13 +14,13 @@ sources:
     title: "Hu, C., & Li, Y. (2015). Discourse Connectives in L1 and L2 Argumentative Writing. Higher Education Studies. https://doi.org/10.5539/hes.v5n4p30"
     author: "Hu, C., & Li, Y."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # L2 writers tend to overuse more discourse connectives than they underuse, and both L1 and L2 students have a limited range of DCs at their disposal
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Across the detailed item comparisons, L2 writers have a general tendency to overuse more DCs than underuse them, especially Hong Kong students who overuse 17 items but underuse only 7 among the 57 DCs listed. [→ Hu 2015](#hu-2015)
@@ -32,7 +32,7 @@ sources:
 
 Hu, C., & Li, Y. (2015). Discourse Connectives in L1 and L2 Argumentative Writing. Higher Education Studies. https://doi.org/10.5539/hes.v5n4p30
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Detailed item-level comparison across Tables 6-8 of individual DC frequencies in the four sub-corpora. The conclusion adds that of the 80 DCs chosen, "23 DCs are used neither by L1 writers nor by L2 writers, indicating that both L1 and L2 university students have a limit range of DCs at their disposal".
 

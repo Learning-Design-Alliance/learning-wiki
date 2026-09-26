@@ -14,13 +14,13 @@ sources:
     title: "Eggleton, Patrick J. (1995). Evolution of a Mathematical Philosophy: The Story of One Secondary Mathematics Preservice Teacher. https://eric.ed.gov/?id=ED389592"
     author: Eggleton, Patrick J.
     q: 1
-    i: 1
+    i: "?"
 ---
 
 # A preservice secondary mathematics teacher's philosophy evolved subtly over a year, appending a 'deeper understanding' view to his original absolutist theory of mathematics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case · `i1` small
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Over one year of preservice teacher education, Ken's philosophy of mathematics evolved subtly, adding problem solving, reasoning, and meaning to his original absolutist view rather than replacing it. [→ Eggleton 1995](#eggleton-1995)
@@ -31,7 +31,7 @@ sources:
 
 Eggleton, Patrick J. (1995). Evolution of a Mathematical Philosophy: The Story of One Secondary Mathematics Preservice Teacher. https://eric.ed.gov/?id=ED389592
 
-`q1 · i1`
+`q1 · i? · the article prints no effect size for this finding`
 
 In-depth single case study within the RADIATE longitudinal study, drawing on field notes, eight guided interviews, 16 informal interviews, and 25 journal entries. The analysis found Ken's evolved view of a "deeper understanding" was an addition to, not a replacement of, his absolutist philosophy.
 

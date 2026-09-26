@@ -17,7 +17,7 @@ sources:
 # Jigsaw structures (within-team and expert jigsaw) create positively interdependent teams with individually accountable members
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The manual's activities are built on two jigsaw variants. In Within Team Jigsaw, "adult learners within home teams master material to be shared with the team": each student works independently to master material, then shares it with teammates in a Roundrobin. In Expert Jigsaw, individuals become experts on a particular topic in expert teams and then return to home teams to share their knowledge to complete a new assignment. The manual states that jigsaw structures ensure the instructor can create a positively interdependent team with individually accountable team members, for each team member has a task to complete and the team is dependent on that individual's task completion.

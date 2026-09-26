@@ -14,19 +14,19 @@ sources:
     title: "Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction"
     author: Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell
     q: 2
-    i: 1
+    i: "?"
   - id: theophile-gervet-2020-2
     resource: "https://github.com/theophilee/learner-performance-prediction"
     title: "Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction"
     author: Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # The expert-designed KC model adds little predictive power on most datasets, with significant contributions only on the two KDD Cup 2010 datasets
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i1` small
+> **Evidence** · 2 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` On seven of nine datasets, KC features provide a boost of +0.01 AUC or less over a no-KC baseline. [→ Theophile Gervet 2020](#theophile-gervet-2020)
@@ -38,7 +38,7 @@ sources:
 
 Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Table 13 ablation comparing Best-LR with NoKC-LR across the nine datasets; the finding is "consistent with results from Lindsey et al. (2014)".
 
@@ -48,7 +48,7 @@ Table 13 ablation comparing Best-LR with NoKC-LR across the nine datasets; the f
 
 Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Same ablation: only the KDD Cup 2010 datasets show a +0.03 AUC KC benefit. Out of 9 datasets, 4 do not meet the condition that PFA-style KC-only models beat IRT item-difficulty baselines, suggesting low-quality KC models.
 

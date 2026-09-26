@@ -20,13 +20,13 @@ sources:
     title: "Zambo, Ron; Hess, Robert. (1994). The Gender Differential Effects of a Procedural Plan for Solving Mathematical Word Problems. ERIC. https://eric.ed.gov/?id=ED375005"
     author: Zambo, Ron; Hess, Robert
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Females gained significantly when the formatted plan followed free exploration but scored lower when the plan was withheld
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i1`–`i2`
+> **Evidence** · 2 studies · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
 `q2 i?` Females in the unformatted-to-formatted sequence showed a significant pre-to-post gain (t = 3.618, p = .001). [→ Zambo 1994](#zambo-1994)
@@ -48,7 +48,7 @@ Paired t-test within the female unformatted-to-formatted group (Table 1: posttes
 
 Zambo, Ron; Hess, Robert. (1994). The Gender Differential Effects of a Procedural Plan for Solving Mathematical Word Problems. ERIC. https://eric.ed.gov/?id=ED375005
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Descriptive result from Table 1 (female formatted-to-unformatted group: posttest mean 1.879 vs pretest 2.091); the article reports the loss descriptively with no test statistic for this contrast.
 

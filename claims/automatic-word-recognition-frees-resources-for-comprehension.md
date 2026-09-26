@@ -13,13 +13,13 @@ sources:
     title: "LaBerge, D., & Samuels, S. J. (1974). Toward a theory of automatic information processing in reading. *Cognitive Psychology, 6*(2), 293–323. [doi:10.1016/0010-0285(74)90015-2](https://doi.org/10.1016/0010-0285(74)90015-2)"
     author: "LaBerge, D., & Samuels, S. J."
     q: 1
-    i: 2
+    i: "?"
   - id: perfetti-2007
     resource: "https://doi.org/10.1080/10888430701530730"
     title: "Perfetti, C. (2007). Reading ability: Lexical quality to comprehension. *Scientific Studies of Reading, 11*(4), 357–383. [doi:10.1080/10888430701530730](https://doi.org/10.1080/10888430701530730)"
     author: Perfetti, C.
     q: 2
-    i: 2
+    i: "?"
 ---
 
 # Automatic word recognition frees resources for comprehension
@@ -31,11 +31,11 @@ When word-level decoding becomes automatic, working-memory resources that would 
 
 ## Subclaims
 
-`q1 i2` The originating model proposes that decoding and comprehension compete for one limited attentional resource, so decoding that runs without attention leaves capacity available for comprehension. [→ LaBerge & Samuels 1974](#laberge-samuels-1974)
+`q1 i?` The originating model proposes that decoding and comprehension compete for one limited attentional resource, so decoding that runs without attention leaves capacity available for comprehension. [→ LaBerge & Samuels 1974](#laberge-samuels-1974)
 
-`q2 i2` The lexical quality hypothesis reframes the mechanism: comprehension depends on the precision and redundancy of word representations, not on decoding speed alone. Fast retrieval is a symptom of representation quality rather than the cause of comprehension. [→ Perfetti 2007](#perfetti-2007)
+`q2 i?` The lexical quality hypothesis reframes the mechanism: comprehension depends on the precision and redundancy of word representations, not on decoding speed alone. Fast retrieval is a symptom of representation quality rather than the cause of comprehension. [→ Perfetti 2007](#perfetti-2007)
 
-`q1 i2` Neither source demonstrates that *training* word recognition to automaticity produces a comprehension gain. The claim is well specified as a mechanism and thinly evidenced as an intervention. [→ LaBerge & Samuels 1974](#laberge-samuels-1974)
+`q1 i?` Neither source demonstrates that *training* word recognition to automaticity produces a comprehension gain. The claim is well specified as a mechanism and thinly evidenced as an intervention. [→ LaBerge & Samuels 1974](#laberge-samuels-1974)
 
 ## Evidence
 
@@ -43,7 +43,7 @@ When word-level decoding becomes automatic, working-memory resources that would 
 
 LaBerge, D., & Samuels, S. J. (1974). Toward a theory of automatic information processing in reading. *Cognitive Psychology, 6*(2), 293–323. [doi:10.1016/0010-0285(74)90015-2](https://doi.org/10.1016/0010-0285(74)90015-2)
 
-`q1` · `i2`
+`q1` · `i? · no source text available to check; the entry prints no effect size`
 
 A theoretical model of reading as a sequence of processing stages, each of which can become automatic with practice, freeing attention for the next. Enormously influential and, as evidence, an argument rather than an experiment — recorded at `q1` for that reason.
 
@@ -51,7 +51,7 @@ A theoretical model of reading as a sequence of processing stages, each of which
 
 Perfetti, C. (2007). Reading ability: Lexical quality to comprehension. *Scientific Studies of Reading, 11*(4), 357–383. [doi:10.1080/10888430701530730](https://doi.org/10.1080/10888430701530730)
 
-`q2` · `i2`
+`q2` · `i? · the abstract prints no effect size; the full text may`
 
 A review advancing the lexical quality hypothesis: comprehension difficulty traces to the quality of word representations — orthographic, phonological and semantic — rather than to decoding speed considered alone. Useful here because it constrains the claim: it predicts that practice which sharpens representations helps, and that practice which only accelerates retrieval of imprecise ones may not.
 

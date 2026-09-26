@@ -14,7 +14,7 @@ sources:
     title: "Srdjan Verbić & Boris Tomić. (2008). Test item response time and the response likelihood. Institute for Education Quality and Evaluation. http://sepp.ceo.edu.rs/moodle/mod/resource/view.php?id=25"
     author: "Srdjan Verbić & Boris Tomić"
     q: 2
-    i: 1
+    i: "?"
   - id: srdjan-verbić-boris-tomić-2008-2
     resource: "http://sepp.ceo.edu.rs/moodle/mod/resource/view.php?id=25"
     title: "Srdjan Verbić & Boris Tomić. (2008). Test item response time and the response likelihood. Institute for Education Quality and Evaluation. http://sepp.ceo.edu.rs/moodle/mod/resource/view.php?id=25"
@@ -26,7 +26,7 @@ sources:
 # Boys responded faster than girls on the test, but the response-time difference did not affect achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i1` small
+> **Evidence** · 2 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Girls answered, on average, about 7 seconds later than boys for correct answers, incorrect answers and non-answers, and boys responded faster to 31 out of 32 items. [→ Srdjan Verbić & Boris Tomić 2008](#srdjan-verbic-boris-tomic-2008)
@@ -38,7 +38,7 @@ sources:
 
 Srdjan Verbić & Boris Tomić. (2008). Test item response time and the response likelihood. Institute for Education Quality and Evaluation. http://sepp.ceo.edu.rs/moodle/mod/resource/view.php?id=25
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Group comparison of response times in the physics trial test (164 boys, 188 girls). Girls' incorrect answers and non-answers also took longer (7 and 14 seconds respectively), and boys responded faster to 31 of 32 items.
 

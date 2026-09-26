@@ -20,7 +20,7 @@ sources:
     title: "Snyder, S. S. & Feldman, D. H. (1975). An Experimental Test of the Effects of Internal and External Disequilibrium on Spatial Reasoning Development. https://eric.ed.gov/?id=ED118211"
     author: "Snyder, S. S. & Feldman, D. H."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Higher internal disequilibrium is associated with more regressive (minus) changes as well as more progressive changes
@@ -30,7 +30,7 @@ sources:
 
 ## Subclaims
 `q2 i1` High mix subjects made significantly more minus (regressive) changes from pretest to posttest than mid and low mix subjects combined. [→ Snyder 1975](#snyder-1975)
-`q2 i1` Higher mixture was associated with more total raw change (fewer unchanged responses) from pretest to posttest. [→ Snyder 1975 (2)](#snyder-1975-2)
+`q2 i?` Higher mixture was associated with more total raw change (fewer unchanged responses) from pretest to posttest. [→ Snyder 1975 (2)](#snyder-1975-2)
 
 ## Evidence
 
@@ -48,7 +48,7 @@ Post hoc item-by-item analysis of concept/feature score changes found a signific
 
 Snyder, S. S. & Feldman, D. H. (1975). An Experimental Test of the Effects of Internal and External Disequilibrium on Spatial Reasoning Development. https://eric.ed.gov/?id=ED118211
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Analysis of variance on the ratio of total changes (plus and minus) to total responses showed a significant Level Mixture main effect (F=5.17). "Highermixture was associated with more rawchange, i.e. fewer responses remained unchangedfrom pretest to posttest."
 

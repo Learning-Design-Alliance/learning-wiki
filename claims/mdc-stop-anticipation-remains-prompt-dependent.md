@@ -14,13 +14,13 @@ sources:
     title: "Risley, R., Hodkowski, N. M., & Tzur, R. (2016). Devin's construction of a multiplicative double counting scheme: Dual anticipation of start and stop. Proceedings of the 38th annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education. https://www.pmena.org/proceedings/"
     author: "Risley, R., Hodkowski, N. M., & Tzur, R."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # The anticipation of where to stop the unit-rate count remained inconsistent and prompt-dependent across subsequent episodes with harder numbers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Three teaching episodes after the prompted success, Devin still needed prompting to regulate stopping the unit-rate count on a 7T6 task, indicating his construction was at the participatory (prompt-dependent) stage. [→ Risley 2016](#risley-2016)
@@ -31,7 +31,7 @@ sources:
 
 Risley, R., Hodkowski, N. M., & Tzur, R. (2016). Devin's construction of a multiplicative double counting scheme: Dual anticipation of start and stop. Proceedings of the 38th annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education. https://www.pmena.org/proceedings/
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Analysis of an October 23, 2014 episode (task 7T6, chosen because both the compilation of composite units and the unit rates exceeded the five fingers on each hand): Devin again anticipated where to start both counts but shifted to counting five instead of six items per composite unit past the second tower.
 

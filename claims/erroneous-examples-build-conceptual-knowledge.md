@@ -11,14 +11,14 @@ sources:
     title: "Rittle-Johnson, B. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611. [https://doi.org/10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)"
     author: Rittle-Johnson, B.
     q: 3
-    i: 2
+    i: "?"
     n: N/A
   - id: durkin-rittle-johnson-2012
     resource: "https://doi.org/10.1016/j.learninstruc.2011.11.001"
     title: "Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using incorrect examples to support learning about decimal magnitude. *Learning and Instruction, 22*(3), 206–214. [https://doi.org/10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)"
     author: "Durkin, K., & Rittle-Johnson, B."
     q: 3
-    i: 2
+    i: "?"
     n: 116
 id: erroneous-examples-build-conceptual-knowledge
 evidence_strength: moderate
@@ -27,13 +27,13 @@ evidence_strength: moderate
 # Erroneous examples improve conceptual understanding by forcing comparison with correct models.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment
 
 Studying a hypothetical peer's incorrect solution and being prompted to find, explain, and fix the error leads to deeper conceptual understanding, as it requires learners to discriminate between correct and incorrect features of a problem.
 
 ## Subclaims
-`q3 i2` Analyzing and explaining errors in erroneous examples improves conceptual knowledge and procedural transfer more than studying correct examples alone. [→ Rittle-Johnson 2017](#rittle-johnson-2017)
-`q3 i2` Comparison of correct and erroneous examples is more effective than studying erroneous examples in isolation. [→ Durkin & Rittle-Johnson 2012](#durkin-rittle-johnson-2012)
+`q3 i?` Analyzing and explaining errors in erroneous examples improves conceptual knowledge and procedural transfer more than studying correct examples alone. [→ Rittle-Johnson 2017](#rittle-johnson-2017)
+`q3 i?` Comparison of correct and erroneous examples is more effective than studying erroneous examples in isolation. [→ Durkin & Rittle-Johnson 2012](#durkin-rittle-johnson-2012)
 
 ## Evidence
 
@@ -43,7 +43,7 @@ Primary evidence link: https://doi.org/10.1007/s11858-017-0834-z
 
 Rittle-Johnson, B. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611. [https://doi.org/10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)
 
-`q3 · meta-analysis` · `i2 · medium impact` · `n=N/A`
+`q3 · meta-analysis` · `i? · no source text available to check; the entry prints no effect size` · `n=N/A`
 
 The meta-analysis highlights erroneous examples as a key instructional tool for prompted self-explanation, finding that it is particularly effective for improving conceptual understanding and transfer.
 
@@ -51,7 +51,7 @@ The meta-analysis highlights erroneous examples as a key instructional tool for 
 
 Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using incorrect examples to support learning about decimal magnitude. *Learning and Instruction, 22*(3), 206–214. [https://doi.org/10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)
 
-`q3 · peer-reviewed experimental study` · `i2 · medium impact` · `n=116`
+`q3 · peer-reviewed experimental study` · `i? · no source text available to check; the entry prints no effect size` · `n=116`
 
 Researchers studied middle-schoolers learning decimal magnitudes. Students who compared correct and erroneous examples performed better than those who only studied correct examples, especially on transfer tasks and in terms of their ability to correctly reason about decimal magnitudes.
 

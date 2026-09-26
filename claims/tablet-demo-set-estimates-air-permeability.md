@@ -20,7 +20,7 @@ sources:
     title: "V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira. (2014). Demonstrations of magnetic phenomena: Measuring the air permeablity using tablets. https://arxiv.org/abs/1405.6581"
     author: V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # The demonstration set yields a fair estimate of air permeability µair from coil data
@@ -48,7 +48,7 @@ Data fit under the magnetic-dipole model with b imposed at −3, using the coil'
 
 V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira. (2014). Demonstrations of magnetic phenomena: Measuring the air permeablity using tablets. https://arxiv.org/abs/1405.6581
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 A more sophisticated error analysis replacing each Table II coil data point in equation 2, with stated measurement uncertainties and the variance formula; Fig. 6 shows the per-distance µair values deviating relatively little from the expected value.
 

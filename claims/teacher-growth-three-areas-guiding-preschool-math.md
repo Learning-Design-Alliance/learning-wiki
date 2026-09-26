@@ -14,13 +14,13 @@ sources:
     title: "Kirova, Anna; Bhargava, Ambika. (2002). Learning To Guide Preschool Children's Mathematical Understanding: A Teacher's Professional Growth. Early Childhood Research & Practice. http://ecrp.uiuc.edu/v4n1/kirova.html"
     author: Kirova, Anna; Bhargava, Ambika
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # A preschool teacher's professional growth in guiding children's mathematical learning was identified in three areas: recognizing demonstrated understanding, using mathematical language, and systematic assessment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Professional growth in three areas was identified as critical in teachers' learning to guide young children's learning of mathematical concepts. [→ Kirova 2002](#kirova-2002)
@@ -31,7 +31,7 @@ sources:
 
 Kirova, Anna; Bhargava, Ambika. (2002). Learning To Guide Preschool Children's Mathematical Understanding: A Teacher's Professional Growth. Early Childhood Research & Practice. http://ecrp.uiuc.edu/v4n1/kirova.html
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Descriptive case study documenting one preschool teacher's master's project through observations and journal analysis. The authors report that "Professional growth in three areas was identified as critical" — recognizing children's demonstrated understanding, using mathematical language, and systematic assessment.
 

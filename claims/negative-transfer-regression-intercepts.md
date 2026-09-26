@@ -14,13 +14,13 @@ sources:
     title: "Flammer, A. (1973). A Conceptual Model Relating Transfer of Learning and Correlation: Theoretical Paper No. 43. Wisconsin Research and Development Center for Cognitive Learning. https://eric.ed.gov/?id=ED085637"
     author: Flammer, A.
     q: 3
-    i: 1
+    i: "?"
 ---
 
 # Regression intercepts of transfer on correlation were negative, contrary to the model's prediction of a zero intercept
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` The model predicts E(T | r = 0) = 0, but all observed regression intercepts were negative and the largest departures occurred where predictions were most precise. [→ Flammer 1973](#flammer-1973)
@@ -31,7 +31,7 @@ sources:
 
 Flammer, A. (1973). A Conceptual Model Relating Transfer of Learning and Correlation: Theoretical Paper No. 43. Wisconsin Research and Development Center for Cognitive Learning. https://eric.ed.gov/?id=ED085637
 
-`q3 · i1`
+`q3 · i? · the article prints no effect size for this finding`
 
 Results of the validation experiment's third hypothesis test, reported in the Results section with t-values for departure from zero of the intercepts in Table 4; the article states the intercepts "were negative without exception."
 

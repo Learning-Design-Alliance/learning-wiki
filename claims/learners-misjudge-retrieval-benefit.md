@@ -13,14 +13,14 @@ sources:
     title: "Karpicke, J. D., Butler, A. C., & Roediger, H. L. (2009). Metacognitive strategies in student learning: Do students practise retrieval when they study on their own? *Memory, 17*(4), 471–479. [doi:10.1080/09658210802647009](https://doi.org/10.1080/09658210802647009)"
     author: "Karpicke, J. D., Butler, A. C., & Roediger, H. L."
     q: 2
-    i: 2
+    i: "?"
     n: 177
   - id: bjork-et-al-2013
     resource: "https://doi.org/10.1146/annurev-psych-113011-143823"
     title: "Bjork, R. A., Dunlosky, J., & Kornell, N. (2013). Self-regulated learning: Beliefs, techniques, and illusions. *Annual Review of Psychology, 64*, 417–444. [doi:10.1146/annurev-psych-113011-143823](https://doi.org/10.1146/annurev-psych-113011-143823)"
     author: "Bjork, R. A., Dunlosky, J., & Kornell, N."
     q: 2
-    i: 2
+    i: "?"
 ---
 
 # Learners Misjudge Retrieval Benefit
@@ -32,11 +32,11 @@ Learners systematically underestimate how much they gain from retrieval practice
 
 ## Subclaims
 
-`q2 i2` Surveyed on how they study, 177 students named rereading their most-used strategy; only a small minority reported self-testing, and those who did mostly described it as a way to check whether studying had worked rather than as a way to study. [→ Karpicke et al. 2009](#karpicke-et-al-2009)
+`q2 i?` Surveyed on how they study, 177 students named rereading their most-used strategy; only a small minority reported self-testing, and those who did mostly described it as a way to check whether studying had worked rather than as a way to study. [→ Karpicke et al. 2009](#karpicke-et-al-2009)
 
-`q2 i2` Learners misread fluency as learning: material that feels easy to process during study is judged better learned, which systematically favours massed rereading over spaced retrieval. [→ Bjork et al. 2013](#bjork-et-al-2013)
+`q2 i?` Learners misread fluency as learning: material that feels easy to process during study is judged better learned, which systematically favours massed rereading over spaced retrieval. [→ Bjork et al. 2013](#bjork-et-al-2013)
 
-`q2 i2` The misjudgement survives instruction and experience, so a system that merely *offers* retrieval alongside restudy should expect restudy to be chosen. [→ Bjork et al. 2013](#bjork-et-al-2013)
+`q2 i?` The misjudgement survives instruction and experience, so a system that merely *offers* retrieval alongside restudy should expect restudy to be chosen. [→ Bjork et al. 2013](#bjork-et-al-2013)
 
 ## Evidence
 
@@ -44,7 +44,7 @@ Learners systematically underestimate how much they gain from retrieval practice
 
 Karpicke, J. D., Butler, A. C., & Roediger, H. L. (2009). Metacognitive strategies in student learning: Do students practise retrieval when they study on their own? *Memory, 17*(4), 471–479. [doi:10.1080/09658210802647009](https://doi.org/10.1080/09658210802647009)
 
-`q2` · `i2` · `n=177`
+`q2` · `i? · the abstract prints no effect size; the full text may` · `n=177`
 
 A survey of 177 undergraduates on their own study strategies, plus a forced-choice task asking what they would do with more study time. Rereading dominated both. The design limitation is self-report, which the forced-choice task only partly offsets.
 
@@ -52,7 +52,7 @@ A survey of 177 undergraduates on their own study strategies, plus a forced-choi
 
 Bjork, R. A., Dunlosky, J., & Kornell, N. (2013). Self-regulated learning: Beliefs, techniques, and illusions. *Annual Review of Psychology, 64*, 417–444. [doi:10.1146/annurev-psych-113011-143823](https://doi.org/10.1146/annurev-psych-113011-143823)
 
-`q2` · `i2`
+`q2` · `i? · the abstract prints no effect size; the full text may`
 
 A review of self-regulated learning covering the metacognitive illusions that govern study choices: the fluency heuristic, the stability bias, and learners' persistent preference for conditions that raise current performance over conditions that raise later retention. Its design implication is direct — where the effective strategy is also the effortful one, the system has to schedule it rather than offer it.
 

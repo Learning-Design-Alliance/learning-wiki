@@ -14,19 +14,19 @@ sources:
     title: "Abdul Gafoor. K., & Kurukkan, A. (2016). Self-Regulated Learning: A Motivational Approach for Learning Mathematics. International Journal of Education and Psychological Research, 5(3). https://ijepr.org/"
     author: "Abdul Gafoor. K., & Kurukkan, A."
     q: 2
-    i: 1
+    i: "?"
   - id: abdul-gafoor-k-2016-2
     resource: "https://ijepr.org/"
     title: "Abdul Gafoor. K., & Kurukkan, A. (2016). Self-Regulated Learning: A Motivational Approach for Learning Mathematics. International Journal of Education and Psychological Research, 5(3). https://ijepr.org/"
     author: "Abdul Gafoor. K., & Kurukkan, A."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Self-regulated learning is domain specific, with greater cognitive strategy use in social studies and English than in mathematics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i1` small
+> **Evidence** · 2 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` SRL is domain specific, per the review citing Greene et al. (2015). [→ Abdul Gafoor. K. 2016](#abdul-gafoor-k-2016)
@@ -38,7 +38,7 @@ sources:
 
 Abdul Gafoor. K., & Kurukkan, A. (2016). Self-Regulated Learning: A Motivational Approach for Learning Mathematics. International Journal of Education and Psychological Research, 5(3). https://ijepr.org/
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Narrative review asserting domain specificity of SRL, attributed to Greene et al. (2015) on science and history processing; the reviewed study was not read directly.
 
@@ -48,7 +48,7 @@ Narrative review asserting domain specificity of SRL, attributed to Greene et al
 
 Abdul Gafoor. K., & Kurukkan, A. (2016). Self-Regulated Learning: A Motivational Approach for Learning Mathematics. International Journal of Education and Psychological Research, 5(3). https://ijepr.org/
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 The review reports, citing Wolters and Pintrich (1998) among seventh and eighth graders, that "They observed greater cognitive strategy use in social studies and English than mathematics"; self-efficacy beliefs for mathematics were less adaptive among females.
 

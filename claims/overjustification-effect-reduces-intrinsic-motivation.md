@@ -13,45 +13,45 @@ sources:
     title: "Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation. *Journal of Personality and Social Psychology, 18*(1), 105-115. [doi:10.1037/h0030644](https://doi.org/10.1037/h0030644)"
     author: Deci, E. L.
     q: 3
-    i: 2
+    i: "?"
     n: modest (university sample)
   - id: cameron-and-pierce-1994
     resource: "https://doi.org/10.3102/00346543064003363"
     title: "Cameron, J., & Pierce, W. D. (1994). Reinforcement, reward, and intrinsic motivation: A meta-analysis. *Review of Educational Research, 64*(3), 363-423. [doi:10.3102/00346543064003363](https://doi.org/10.3102/00346543064003363)"
     author: "Cameron, J., & Pierce, W. D."
     q: 3
-    i: 1
+    i: "?"
     n: large (aggregated across many primary studies)
   - id: eisenberger-and-cameron-1996
     resource: "https://doi.org/10.1037/0003-066X.51.11.1153"
     title: "Eisenberger, R., & Cameron, J. (1996). Detrimental effects of reward: Reality or myth? *American Psychologist, 51*(11), 1153-1166. [doi:10.1037/0003-066X.51.11.1153](https://doi.org/10.1037/0003-066X.51.11.1153)"
     author: "Eisenberger, R., & Cameron, J."
     q: 3
-    i: 1
+    i: "?"
     n: large (aggregated)
   - id: deci-koestner-and-ryan-2001
     resource: "https://doi.org/10.3102/00346543071001001"
     title: "Deci, E. L., Koestner, R., & Ryan, R. M. (2001). Extrinsic Rewards and Intrinsic Motivation in Education: Reconsidered Once Again. *Review of Educational Research, 71*(1), 1-27. [doi:10.3102/00346543071001001](https://doi.org/10.3102/00346543071001001)"
     author: "Deci, E. L., Koestner, R., & Ryan, R. M."
     q: 3
-    i: 1
+    i: "?"
     n: large (aggregated across studies)
 ---
 
 # Rewarding an already-intrinsically-motivating activity can reduce future engagement with it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 4 studies · `q3` peer-reviewed experiment · `i1`–`i2`
+> **Evidence** · 4 studies · `q3` peer-reviewed experiment
 
 Known as the **overjustification effect**: when a person already finds a task interesting for its own sake, introducing an extrinsic reward for doing it can lower their later, unrewarded engagement with that same task — the external justification appears to crowd out the internal one. The effect is not universal; several conditions determine whether it appears.
 
 ## Subclaims
 
-`q3 i2` Paying university students to do puzzle-solving and headline-writing tasks they already found interesting reduced their subsequent free-time engagement with those tasks relative to unpaid students, even though both groups started out equally interested. [→ Deci 1971](#deci-1971)
+`q3 i?` Paying university students to do puzzle-solving and headline-writing tasks they already found interesting reduced their subsequent free-time engagement with those tasks relative to unpaid students, even though both groups started out equally interested. [→ Deci 1971](#deci-1971)
 
-`q3 i1` The effect is substantially weaker or absent when pay is a flat, hourly rate rather than tied piecemeal to output, and when the task itself is well-defined with a clear standard for high-quality performance. [→ Cameron and Pierce 1994](#cameron-and-pierce-1994)
+`q3 i?` The effect is substantially weaker or absent when pay is a flat, hourly rate rather than tied piecemeal to output, and when the task itself is well-defined with a clear standard for high-quality performance. [→ Cameron and Pierce 1994](#cameron-and-pierce-1994)
 
-`q3 i1` A synthesis of the reward/intrinsic-motivation literature confirms the undermining effect occurs often enough that extrinsic rewards for already-interesting tasks need to be used selectively and thoughtfully, rather than never or always. [→ Deci Koestner and Ryan 2001](#deci-koestner-and-ryan-2001)
+`q3 i?` A synthesis of the reward/intrinsic-motivation literature confirms the undermining effect occurs often enough that extrinsic rewards for already-interesting tasks need to be used selectively and thoughtfully, rather than never or always. [→ Deci Koestner and Ryan 2001](#deci-koestner-and-ryan-2001)
 
 ## Evidence
 
@@ -59,7 +59,7 @@ Known as the **overjustification effect**: when a person already finds a task in
 
 Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation. *Journal of Personality and Social Psychology, 18*(1), 105-115. [doi:10.1037/h0030644](https://doi.org/10.1037/h0030644)
 
-`q3 · peer-reviewed lab experiment · i2 · medium-large effect on subsequent free-choice engagement · n=modest (university sample)`
+`q3 · peer-reviewed lab experiment · i? · no source text available to check; the entry prints no effect size · n=modest (university sample)`
 
 University students worked on interesting puzzle-solving and newspaper-headline-writing tasks across several sessions; one group was paid for the activity and another was not, though both groups reported equal initial interest. Students who had been paid spent measurably less free time on the same activities afterward than students who had never been paid — the original demonstration of the overjustification effect, and the source study behind the "hugging and bridging" caution against over-relying on extrinsic reward systems (see [Behaviorism](../theories/behaviorism.md), [Reinforcement Theory](../principles/reinforcement-theory.md)).
 
@@ -67,7 +67,7 @@ University students worked on interesting puzzle-solving and newspaper-headline-
 
 Cameron, J., & Pierce, W. D. (1994). Reinforcement, reward, and intrinsic motivation: A meta-analysis. *Review of Educational Research, 64*(3), 363-423. [doi:10.3102/00346543064003363](https://doi.org/10.3102/00346543064003363)
 
-`q3 · meta-analysis · i1 · small/inconsistent overall effect, moderated by reward structure · n=large (aggregated across many primary studies)`
+`q3 · meta-analysis · i? · the abstract prints no effect size; the full text may · n=large (aggregated across many primary studies)`
 
 This meta-analysis (along with Eisenberger & Cameron, 1996, below) found that the overjustification effect is not a uniform hazard of all rewards: it is markedly less likely when reward is delivered as a flat rate for participation (e.g., a fixed hourly rate) rather than contingent on the quantity of output produced, and less likely still when the task is well-defined with a clear, consistently expected standard of quality (e.g., solving math problems, playing solitaire) — conditions under which externally determined reinforcement remains genuinely useful.
 
@@ -75,7 +75,7 @@ This meta-analysis (along with Eisenberger & Cameron, 1996, below) found that th
 
 Eisenberger, R., & Cameron, J. (1996). Detrimental effects of reward: Reality or myth? *American Psychologist, 51*(11), 1153-1166. [doi:10.1037/0003-066X.51.11.1153](https://doi.org/10.1037/0003-066X.51.11.1153)
 
-`q3 · narrative synthesis of experimental literature · i1 · effect present but bounded to specific reward structures · n=large (aggregated)`
+`q3 · narrative synthesis of experimental literature · i? · no source text available to check; the entry prints no effect size · n=large (aggregated)`
 
 Reaching a similar conclusion to Cameron and Pierce (1994) from a partly overlapping literature, this synthesis argues the overjustification effect, while real, has often been overstated as a blanket argument against all extrinsic reward, and identifies boundary conditions (reward contingent on mere participation vs. on producing more of an activity) under which rewards are unlikely to undermine intrinsic motivation.
 
@@ -83,7 +83,7 @@ Reaching a similar conclusion to Cameron and Pierce (1994) from a partly overlap
 
 Deci, E. L., Koestner, R., & Ryan, R. M. (2001). Extrinsic Rewards and Intrinsic Motivation in Education: Reconsidered Once Again. *Review of Educational Research, 71*(1), 1-27. [doi:10.3102/00346543071001001](https://doi.org/10.3102/00346543071001001)
 
-`q3 · review of a meta-analysis (Deci, Koestner & Ryan, 1999) · i1 · small by this wiki's scale; the authors describe the undermining by tangible rewards as substantial · n=large (aggregated across studies)`
+`q3 · review of a meta-analysis (Deci, Koestner & Ryan, 1999) · i? · the abstract prints no effect size; the full text may · n=large (aggregated across studies)`
 
 Responding directly to Cameron and Pierce's (1994) conclusion that the undermining effect was minimal, this article reviews the results of the authors' 1999 meta-analysis, which it says showed Cameron and Pierce's analysis was seriously flawed and that tangible rewards do have a substantial undermining effect, supporting cognitive evaluation theory. It discusses what that means for rewards in classrooms: they should be used selectively and thoughtfully, not treated as a costless motivational tool.
 

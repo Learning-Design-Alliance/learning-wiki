@@ -14,7 +14,7 @@ sources:
     title: "Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z. (2021). The Better Math Teaching Network: Lessons Learned From a 5-Year Instructionally Focused NIC. American Institutes for Research & WestEd. https://www.bettermathteachingnetwork.org/"
     author: "Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z."
     q: 2
-    i: 1
+    i: "?"
   - id: smith-2021-2
     resource: "https://www.bettermathteachingnetwork.org/"
     title: "Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z. (2021). The Better Math Teaching Network: Lessons Learned From a 5-Year Instructionally Focused NIC. American Institutes for Research & WestEd. https://www.bettermathteachingnetwork.org/"
@@ -38,7 +38,7 @@ sources:
 
 Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z. (2021). The Better Math Teaching Network: Lessons Learned From a 5-Year Instructionally Focused NIC. American Institutes for Research & WestEd. https://www.bettermathteachingnetwork.org/
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Analysis of Change Idea Summaries (Exhibit 9) showing first-year focal DEAs: "29 teachers focused on Justify", 14 on Connect, and 11 on Solve of 54 finalized routines.
 

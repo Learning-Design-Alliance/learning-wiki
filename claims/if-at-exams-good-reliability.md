@@ -14,13 +14,13 @@ sources:
     title: "Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365"
     author: Slepkov, A. D.
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # IF-AT-scored physics midterm and final exams yield good test reliability (α = 0.71 and 0.82; α50 = 0.86 and 0.90)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The IF-AT-administered midterm and final examinations yielded Cronbach's alpha of 0.71 and 0.82 respectively, rising to 0.86 and 0.90 when adjusted to a standard 50-item test length, which the author calls very reliable for classroom exams. [→ Slepkov 2013](#slepkov-2013)
@@ -31,7 +31,7 @@ sources:
 
 Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Reliability analysis of the two case-study examinations, whose unadjusted Cronbach's alpha values were 0.71 (midterm) and 0.82 (final). The author reports "very reliable for classroom exams" after length adjustment to 50 items.
 

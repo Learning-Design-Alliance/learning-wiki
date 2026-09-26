@@ -14,13 +14,13 @@ sources:
     title: "Walker, K. (2000). Classroom Management for New Teachers. Education Partnerships, Inc. http://www.educationpartnerships.org/"
     author: Walker, K.
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Inexperienced teachers report having an insufficient repertoire of classroom management strategies for misbehaving students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Many inexperienced teachers state they lack sufficient classroom management strategies when facing a misbehaving student. [→ Walker 2000](#walker-2000)
@@ -31,7 +31,7 @@ sources:
 
 Walker, K. (2000). Classroom Management for New Teachers. Education Partnerships, Inc. http://www.educationpartnerships.org/
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 The brief reports, citing Tucker, Plax, and Kearney (1985), that inexperienced teachers "stated that they had an insufficient repertoire of classroom management strategies" for misbehaving students. Self-report finding; no effect size printed.
 

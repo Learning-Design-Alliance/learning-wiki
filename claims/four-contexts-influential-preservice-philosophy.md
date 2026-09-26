@@ -14,13 +14,13 @@ sources:
     title: "Eggleton, Patrick J. (1995). Evolution of a Mathematical Philosophy: The Story of One Secondary Mathematics Preservice Teacher. https://eric.ed.gov/?id=ED389592"
     author: Eggleton, Patrick J.
     q: 1
-    i: 1
+    i: "?"
 ---
 
 # Four contexts of mathematics teacher education described the experiences most influential to the preservice teacher's evolving philosophy of mathematics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case · `i1` small
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Mathematical investigations, reflecting on experiences as a learner of mathematics, gaining experience assessing students' understandings, and translating beliefs into viable teaching strategies were the influential contexts in Ken's philosophical evolution. [→ Eggleton 1995](#eggleton-1995)
@@ -31,7 +31,7 @@ sources:
 
 Eggleton, Patrick J. (1995). Evolution of a Mathematical Philosophy: The Story of One Secondary Mathematics Preservice Teacher. https://eric.ed.gov/?id=ED389592
 
-`q1 · i1`
+`q1 · i? · the article prints no effect size for this finding`
 
 Case-study analysis drawing on Cooney's (1994) five suggested contexts, of which four described Ken's influential experiences, including spring-quarter mathematical investigations and reflection on his experience as a learner of mathematics.
 

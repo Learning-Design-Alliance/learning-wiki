@@ -21,13 +21,13 @@ sources:
     title: "Frank, B. W. (2009). Multiple Conceptual Coherences in the Speed Tutorial: Micro-processes of Local Stability. https://eric.ed.gov"
     author: Frank, B. W.
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Students' collective understanding during a physics tutorial alternates repeatedly between two distinct interpretations of tickertape distance rather than changing once
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i1` small
+> **Evidence** · 2 studies · `q2` quasi-experiment
 
 ## Subclaims
 
@@ -51,7 +51,7 @@ Video analysis of two vignettes from a group of four students in an introductory
 
 Frank, B. W. (2009). Multiple Conceptual Coherences in the Speed Tutorial: Micro-processes of Local Stability. https://eric.ed.gov
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Case study of one group of four students in an introductory physics tutorial, based on transcript vignettes. The article reports that after initially deciding shorter strips take less time, the students regenerated the speed interpretation, then a student was again convinced of the earlier idea, showing "their understanding seems to vary between these two distinct ways of making sense of the strips."
 

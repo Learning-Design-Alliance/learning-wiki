@@ -14,13 +14,13 @@ sources:
     title: "Hale, Judy A. (1996). Determining Relationships between Young Children's Cognitive Stage of Development and Art Stage of Development as They Relate to Literacy. https://eric.ed.gov/?id=ED394938"
     author: Hale, Judy A.
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # For 10 of 15 first-graders, literacy development was determined by cognitive development, with artistic responses paralleling the classification
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` For 10 of the 15 students, literacy development was determined by cognitive development, and the classification of artistic responses also paralleled the literacy/cognitive development classification. [→ Hale 1996](#hale-1996)
@@ -31,7 +31,7 @@ sources:
 
 Hale, Judy A. (1996). Determining Relationships between Young Children's Cognitive Stage of Development and Art Stage of Development as They Relate to Literacy. https://eric.ed.gov/?id=ED394938
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Case studies of 15 first-grade students at Overstreet Elementary School, using observational data, interviews, artwork, and teacher comments to place students in Piagetian stages. The study found "for 10 of the 15 students, literacy development was determined by cognitive development."
 

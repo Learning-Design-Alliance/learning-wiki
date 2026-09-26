@@ -14,13 +14,13 @@ sources:
     title: "Roaten, G. K., & Roaten, D. J. (2011). Adolescent Brain Development: Current Research and the Impact on Secondary School Counseling Programs. https://schoolcounselor.org"
     author: "Roaten, G. K., & Roaten, D. J."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Physically or emotionally unsafe environments activate the adolescent stress-response system, which can impede cognition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` When students feel unsafe physically or emotionally, the stress-response system activates and produces stress hormones that can override rational thought and impede cognition. [→ Roaten 2011](#roaten-2011)
@@ -31,7 +31,7 @@ sources:
 
 Roaten, G. K., & Roaten, D. J. (2011). Adolescent Brain Development: Current Research and the Impact on Secondary School Counseling Programs. https://schoolcounselor.org
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Narrative review section on the limbic region, citing Greenleaf (2003). The review states "the stress-response system is activated" in unsafe conditions and that stress hormones "can override rational thought," impeding cognition.
 

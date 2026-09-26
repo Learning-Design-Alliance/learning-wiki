@@ -14,13 +14,13 @@ sources:
     title: "Hale, Judy A. (1996). Determining Relationships between Young Children's Cognitive Stage of Development and Art Stage of Development as They Relate to Literacy. https://eric.ed.gov/?id=ED394938"
     author: Hale, Judy A.
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Children's artwork and written stories offer insight into children's cognitive development and literacy development
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The study's findings suggest to classroom teachers that children's artwork and written stories offer many insights into cognitive development and consequently literacy development. [→ Hale 1996](#hale-1996)
@@ -31,7 +31,7 @@ sources:
 
 Hale, Judy A. (1996). Determining Relationships between Young Children's Cognitive Stage of Development and Art Stage of Development as They Relate to Literacy. https://eric.ed.gov/?id=ED394938
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Authors' interpretation in the Implications section, drawing on Protherough's (1983) contention that young children have difficulty expressing themselves orally. The case-study classifications of drawings and responses are the basis for this suggestion.
 

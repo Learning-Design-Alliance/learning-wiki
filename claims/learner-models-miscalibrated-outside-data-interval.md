@@ -14,19 +14,19 @@ sources:
     title: "Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction"
     author: Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell
     q: 2
-    i: 2
+    i: "?"
   - id: theophile-gervet-2020-2
     resource: "https://github.com/theophilee/learner-performance-prediction"
     title: "Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction"
     author: Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Current best learner performance models are severely biased outside the interval containing most of the data, hindering downstream adaptive policies and open learner models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i1`–`i2`
+> **Evidence** · 2 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` On assistments09, both Best-LR and DKT severely overestimate learners when the probability of correct answer is low and underestimate when it is high. [→ Theophile Gervet 2020](#theophile-gervet-2020)
@@ -38,7 +38,7 @@ sources:
 
 Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction
 
-`q2 · i2`
+`q2 · i? · the article prints no effect size for this finding`
 
 Calibration analysis (Figure 9) of Best-LR and DKT binned by item-wise observed frequency of correctness. "both models severely overestimate learners when the probability of correct answer is low"; no standard technique can correct these biases.
 
@@ -48,7 +48,7 @@ Calibration analysis (Figure 9) of Best-LR and DKT binned by item-wise observed 
 
 Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Section 8 calibration analysis with reliability diagrams binned by predicted and observed probabilities; calibration plots binned by predicted probabilities revealed no biases, while observed-probability bins revealed systematic ones.
 

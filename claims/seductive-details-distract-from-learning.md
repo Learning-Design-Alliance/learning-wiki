@@ -12,37 +12,37 @@ sources:
     title: "Garner, R., Gillingham, M. G., & White, C. S. (1992). Effects of \"seductive details\" on macroprocessing and microprocessing in adults and children. *Cognition and Instruction, 9*(4), 359-373."
     author: "Garner, R., Gillingham, M. G., & White, C. S."
     q: 2
-    i: 2
+    i: "?"
     n: moderate (multiple age-group samples)
   - id: harp-and-mayer-1998
     resource: "https://doi.org/10.1037/0022-0663.90.3.414"
     title: "Harp, S. F., & Mayer, R. E. (1998). How seductive details do their damage: A theory of cognitive interest in science learning. *Journal of Educational Psychology, 90*(3), 414-434. [doi:10.1037/0022-0663.90.3.414](https://doi.org/10.1037/0022-0663.90.3.414)"
     author: "Harp, S. F., & Mayer, R. E."
     q: 3
-    i: 2
+    i: "?"
     n: moderate (college student samples across experiments)
   - id: sanchez-and-wiley-2006
     title: "Sanchez, C. A., & Wiley, J. (2006). An examination of the seductive details effect in terms of working memory capacity. *Memory & Cognition, 34*(2), 344-355."
     author: "Sanchez, C. A., & Wiley, J."
     q: 3
-    i: 1
+    i: "?"
     n: moderate (college student sample)
 ---
 
 # Interesting but irrelevant details added to a lesson can distract from learning the material they were meant to enliven
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2`–`q3` · `i1`–`i2`
+> **Evidence** · 3 studies · `q2`–`q3`
 
 Known in the literature as the **seductive details effect**: features added to instructional material specifically to arouse interest — jokes, colorful illustrations, vivid but tangential anecdotes — can, when they do not genuinely relate to the material's key content, create misunderstandings or draw attention away from what actually needs to be learned, even though the same features can genuinely help engagement when they are well-integrated.
 
 ## Subclaims
 
-`q2 i2` Text passages with added "seductive" but conceptually irrelevant details were recalled better for the irrelevant details themselves, at the cost of poorer recall and understanding of the material's main ideas, compared to passages without the added details. [→ Garner et al. 1992](#garner-et-al-1992)
+`q2 i?` Text passages with added "seductive" but conceptually irrelevant details were recalled better for the irrelevant details themselves, at the cost of poorer recall and understanding of the material's main ideas, compared to passages without the added details. [→ Garner et al. 1992](#garner-et-al-1992)
 
-`q3 i2` Learners who read passages with seductive details performed worse on problem-solving transfer tests of the passage's causal/explanatory content than learners who read the same passage without the added details. [→ Harp and Mayer 1998](#harp-and-mayer-1998)
+`q3 i?` Learners who read passages with seductive details performed worse on problem-solving transfer tests of the passage's causal/explanatory content than learners who read the same passage without the added details. [→ Harp and Mayer 1998](#harp-and-mayer-1998)
 
-`q3 i1` The size of the seductive-details effect is not uniform across learners: students who are already struggling academically are more distractible and more prone to misunderstanding from added but irrelevant interesting material than students who are already learning successfully, an effect partly explained by differences in working memory capacity. [→ Sanchez and Wiley 2006](#sanchez-and-wiley-2006)
+`q3 i?` The size of the seductive-details effect is not uniform across learners: students who are already struggling academically are more distractible and more prone to misunderstanding from added but irrelevant interesting material than students who are already learning successfully, an effect partly explained by differences in working memory capacity. [→ Sanchez and Wiley 2006](#sanchez-and-wiley-2006)
 
 ## Evidence
 
@@ -50,7 +50,7 @@ Known in the literature as the **seductive details effect**: features added to i
 
 Garner, R., Gillingham, M. G., & White, C. S. (1992). Effects of "seductive details" on macroprocessing and microprocessing in adults and children. *Cognition and Instruction, 9*(4), 359-373.
 
-`q2 · experimental study with children and adult readers · i2 · medium effect on comprehension of main ideas · n=moderate (multiple age-group samples)`
+`q2 · experimental study with children and adult readers · i? · no source text available to check; the entry prints no effect size · n=moderate (multiple age-group samples)`
 
 Readers given passages with vivid but tangential added details recalled those seductive details disproportionately well, but recalled and understood the passage's actual main ideas worse than readers given the same passage without the added details — an early demonstration that interest-arousing content can compete with, rather than support, comprehension of the material it was meant to enliven.
 
@@ -58,7 +58,7 @@ Readers given passages with vivid but tangential added details recalled those se
 
 Harp, S. F., & Mayer, R. E. (1998). How seductive details do their damage: A theory of cognitive interest in science learning. *Journal of Educational Psychology, 90*(3), 414-434. [doi:10.1037/0022-0663.90.3.414](https://doi.org/10.1037/0022-0663.90.3.414)
 
-`q3 · peer-reviewed experimental study (multiple experiments) · i2 · medium-large effect on transfer/problem-solving performance · n=moderate (college student samples across experiments)`
+`q3 · peer-reviewed experimental study (multiple experiments) · i? · the abstract prints no effect size; the full text may · n=moderate (college student samples across experiments)`
 
 Across several experiments on science-text passages (e.g., explaining lightning formation), adding interesting-but-irrelevant details reduced participants' performance on later problem-solving and transfer tests of the passage's causal content, compared to a version without the added details — evidence the effect isn't just weaker recall of trivia-adjacent facts, but genuinely worse understanding of underlying mechanisms.
 
@@ -66,7 +66,7 @@ Across several experiments on science-text passages (e.g., explaining lightning 
 
 Sanchez, C. A., & Wiley, J. (2006). An examination of the seductive details effect in terms of working memory capacity. *Memory & Cognition, 34*(2), 344-355.
 
-`q3 · peer-reviewed experimental study measuring individual differences · i1 · effect concentrated in lower-working-memory-capacity readers · n=moderate (college student sample)`
+`q3 · peer-reviewed experimental study measuring individual differences · i? · no source text available to check; the entry prints no effect size · n=moderate (college student sample)`
 
 This study found that the seductive details effect was not uniform: readers with lower working memory capacity were substantially more susceptible to distraction and misunderstanding from added irrelevant-but-interesting content than higher-capacity readers, suggesting the effect is at least partly a working-memory-capacity phenomenon rather than a universal property of all learners.
 

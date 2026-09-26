@@ -14,13 +14,13 @@ sources:
     title: "Liangbei Xu and Mark A. Davenport. (2020). Dynamic Knowledge Embedding and Tracing. Proceedings of The 13th International Conference on Educational Data Mining (EDM 2020). https://educationaldatamining.org"
     author: Liangbei Xu and Mark A. Davenport
     q: 1
-    i: 1
+    i: "?"
 ---
 
 # The learned question embedding aligns with manually labeled skill categories, showing clear clustering of questions by skill in a multidimensional scaling visualization
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case · `i1` small
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Although the matrix-factorization latent space is not explicitly aligned with the skill-tag space, the proposed initialization and sparsity promotion align the question embedding space with the skill embedding space, and a visualization of 200 questions shows clear clustering by associated skill. [→ Liangbei Xu and Mark A. Davenport 2020](#liangbei-xu-and-mark-a-davenport-2020)
@@ -31,7 +31,7 @@ sources:
 
 Liangbei Xu and Mark A. Davenport. (2020). Dynamic Knowledge Embedding and Tracing. Proceedings of The 13th International Conference on Educational Data Mining (EDM 2020). https://educationaldatamining.org
 
-`q1 · i1`
+`q1 · i? · the article prints no effect size for this finding`
 
 Experiment 4 visualized the embedding of a random selection of 200 questions via multidimensional scaling (Figure 5); the authors report clear clustering with respect to associated skills, which they say adds semantic meaning and improves model interpretability.
 

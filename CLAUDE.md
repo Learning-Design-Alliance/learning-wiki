@@ -110,6 +110,25 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-27 (late night) — every `i` code now rests on a printed magnitude: 455 entries recoded
+
+- **`scripts/recode_impact.py`** takes each entry `health_evidence.py` flags (an `i1`–`i3` with no
+  effect size or test statistic in the entry), has GPT read the study's text (the fetched article,
+  else the OpenAlex abstract) and quote any effect size printed for that finding, and keeps a code
+  only when the quote is verbatim in the text **and names its statistic** (a bare ".166" beside
+  "variance explained" was offered as η²). The bin is computed from the value, never taken from the
+  model; r, η² and odds ratios go through the standard conversions for the bin only, and the page
+  shows the statistic as printed. Everything else becomes `i?` with a note saying what was read.
+  Subclaims resting on the entry follow it, including through accent-folded anchors.
+- **Result, $0.82: 441 of 455 became `i?`, 14 kept a verified statistic** (9 `i2`, 3 `i3`, 2 `i1`).
+  Of the `i?`: 311 on full text that prints none for the finding, 77 on abstracts (the note says the
+  full text may), 53 with no source text on this machine. Verified by parse: 379 pages, 440
+  frontmatter `i` values changed, no source entry added or dropped, no other key touched; all 537
+  subclaims on recoded entries agree with their entry. The health report's count is now 0.
+- **The extractor still produces these**: prompt v133's code table reads "0 =
+  negligible/unclear/null/marginal" two sections after telling it to write `null`. Until that is
+  fixed and benchmarked, run `recode_impact.py --check` then `--apply` after a batch.
+
 ### 2026-09-27 (night) — one health report covers evidence and links; the DOI check's 61 problems were 3
 
 - **`python3 scripts/wiki_health_check.py` is the general health report.** Beside lint, citation
@@ -148,7 +167,7 @@ finds out.
   technologies", the LVN and STRP cases, the C/I-cycle classes and the BRT course-schedule
   proposal. One `link_claims.py` link joined that proposal to Behavioral Relaxation Training on the
   acronym "BRT" alone and was removed. Acronym collisions are a known risk of BM25 candidates.
-- **An open problem, found by this check and not fixed: 455 evidence entries code `i1`–`i3` with
+- **Fixed the same night (see above): 455 evidence entries coded `i1`–`i3` with
   no effect size or test statistic in the entry** (first counted as 250 with a looser match), and 621 carry a bare `q2 · i1` codes line. Most come from
   batches. The extraction prompt contradicts itself: v133 says `null` when no effect size is
   printed, and its code table two sections later still reads "0 = negligible/unclear/null/marginal".
@@ -2268,6 +2287,8 @@ ld-wiki/
     merge_claims.py    ← folds a duplicate claim into its canonical page, keeping an alias
     link_pages.py      ← links theories, principles, patterns, elements, strategies into the graph
     check_load_bearing.py ← judges the most-cited claims' evidence against their sources; writes nothing
+    health_evidence.py ← the evidence and link section of the health report (load-bearing, single-study, i codes)
+    recode_impact.py   ← recodes an i code to what the source prints, verified verbatim, else i?
     smd_worklist.py    ← WWC/ESSA review pages to extract next, for the SMD family (see above)
     priority_worklist.py ← what to extract next: cited-but-unrecorded, hub, and evidence-less claims (see above)
     mcp_server.py      ← the wiki as MCP tools: search, fetch, resolve, backlinks, why (see above)

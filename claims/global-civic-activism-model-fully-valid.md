@@ -14,19 +14,19 @@ sources:
     title: "Nguyen, M. T. (2021). Validating a Scale for Measuring Students' Perspectives toward Global Citizenship: A Case at a Private University in Vietnam. Education Quarterly Reviews, 4(3), 575-587. https://doi.org/10.31014/aior.1993.04.03.362"
     author: Nguyen, M. T.
     q: 2
-    i: 1
+    i: "?"
   - id: nguyen-2021-2
     resource: "https://doi.org/10.31014/aior.1993.04.03.362"
     title: "Nguyen, M. T. (2021). Validating a Scale for Measuring Students' Perspectives toward Global Citizenship: A Case at a Private University in Vietnam. Education Quarterly Reviews, 4(3), 575-587. https://doi.org/10.31014/aior.1993.04.03.362"
     author: Nguyen, M. T.
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # The global civic activism measurement model was fully valid with no items removed, appearing valid across contexts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i1` small
+> **Evidence** · 2 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` All indicators of the global civic activism model met the outer loading standard, and CR, AVE, cross-loadings, and HTMT criteria were satisfied without any removals. [→ Nguyen 2021](#nguyen-2021)
@@ -38,7 +38,7 @@ sources:
 
 Nguyen, M. T. (2021). Validating a Scale for Measuring Students' Perspectives toward Global Citizenship: A Case at a Private University in Vietnam. Education Quarterly Reviews, 4(3), 575-587. https://doi.org/10.31014/aior.1993.04.03.362
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 PLS-SEM assessment of the global civic activism model: ICO (CR 0.902, AVE 0.651), PV (CR 0.879, AVE 0.646), GCA (CR 0.811, AVE 0.590); all HTMT figures under 0.85, so the model was valid.
 
@@ -48,7 +48,7 @@ PLS-SEM assessment of the global civic activism model: ICO (CR 0.902, AVE 0.651)
 
 Nguyen, M. T. (2021). Validating a Scale for Measuring Students' Perspectives toward Global Citizenship: A Case at a Private University in Vietnam. Education Quarterly Reviews, 4(3), 575-587. https://doi.org/10.31014/aior.1993.04.03.362
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Conclusion-level statement comparing this validation with prior developed-country validations; the article calls this measurement model the most valid one in the study context.
 

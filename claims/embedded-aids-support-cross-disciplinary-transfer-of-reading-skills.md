@@ -14,13 +14,13 @@ sources:
     title: "Manzo, Anthony V. (1977). 'Imbedded Aids' to Readers: Alternatives to Traditional Textual Material. https://eric.ed.gov/?id=ED136196"
     author: Manzo, Anthony V.
     q: 1
-    i: 1
+    i: "?"
 ---
 
 # Embedded aids address the content-area reading problem by helping weak readers read textual material and helping effective readers transfer training across disciplines, via a running commentary explaining key concepts, terminology, and questions.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case · `i1` small
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The IAs offer a solid base for improving both conditions of the content-area reading problem: a running commentary is offered beside the basic text which explains the key concepts, key terminology and key questions. [→ Manzo 1977](#manzo-1977)
@@ -31,7 +31,7 @@ sources:
 
 Manzo, Anthony V. (1977). 'Imbedded Aids' to Readers: Alternatives to Traditional Textual Material. https://eric.ed.gov/?id=ED136196
 
-`q1 · i1`
+`q1 · i? · the article prints no effect size for this finding`
 
 The article offers this as the author's rationale for how embedded aids address the content-area reading problem; it is an interpretive claim about the design, not a tested transfer result, and no effect size is printed for it.
 

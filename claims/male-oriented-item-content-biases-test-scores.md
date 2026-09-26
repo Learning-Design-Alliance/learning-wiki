@@ -14,13 +14,13 @@ sources:
     title: "Sex and Race Differences on Standardized Tests: Oversight Hearings before the Subcommittee on Civil and Constitutional Rights of the Committee on the Judiciary, House of Representatives, One Hundredth Congress, First Session. (1989). https://eric.ed.gov/?id=ED312276"
     author: "Sex and Race Differences on Standardized Tests: Oversight Hearings before the Subcommittee on Civil and Constitutional Rights of the Committee on the Judiciary, House of Representatives, One Hundredth Congress, First Session"
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Test items with male-oriented content are a source of bias: females tend to do better on items with female or neutral figures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` ETS research cited at the hearing found females tend to do better on items with more female or neutral figures than on items with male figures, and Rosser's own analysis of 24 SAT reading passages found references to 42 men and three women. [→ Sex and Race Differences on Standardized Tests: Oversight Hearings before the Subcommittee on Civil and Constitutional Rights of the Committee on the Judiciary 1989](#sex-and-race-differences-on-standardized-tests-oversight-hearings-before-the-subcommittee-on-civil-and-constitutional-rights-of-the-committee-on-the-judiciary-1989)
@@ -31,7 +31,7 @@ sources:
 
 Sex and Race Differences on Standardized Tests: Oversight Hearings before the Subcommittee on Civil and Constitutional Rights of the Committee on the Judiciary, House of Representatives, One Hundredth Congress, First Session. (1989). https://eric.ed.gov/?id=ED312276
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Rosser's written testimony attributes this finding to a 1979 ETS study by Ekstrom, Lockheed and Donlon, quoted as the review reports it. She adds her own analysis of 24 SAT reading passages from 1984-85 finding references to 42 men and three women.
 

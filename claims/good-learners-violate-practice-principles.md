@@ -14,13 +14,13 @@ sources:
     title: "Williams, A. M., Fawver, B., & Hodges, N. J. (2017). Using the 'expert performance approach' as a framework for examining and enhancing skill learning: Improving understanding of how experts learn. *Frontline Learning Research, 5*(3), 139–154. https://doi.org/10.14786/flr.v5i3.267"
     author: "Williams, A. M., Fawver, B., & Hodges, N. J."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Good learners do not always adhere to established practice principles; low contextual interference can still produce good learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` When learners schedule their own practice, the best learners are not always those who follow good practice principles such as high contextual interference; low switching between skills can produce good learning without accuracy costs in acquisition. [→ Williams 2017](#williams-2017)
@@ -31,7 +31,7 @@ sources:
 
 Williams, A. M., Fawver, B., & Hodges, N. J. (2017). Using the 'expert performance approach' as a framework for examining and enhancing skill learning: Improving understanding of how experts learn. *Frontline Learning Research, 5*(3), 139–154. https://doi.org/10.14786/flr.v5i3.267
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 The review reports, citing Hodges et al. (2011, 2014) and Keetch and Lee (2007), that under self-determined practice "low levels of switching (i.e., contextual interference) between to-be-acquired skills can produce good learning". This is presented as evidence that good learners do not always adhere to established practice principles.
 

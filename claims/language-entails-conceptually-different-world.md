@@ -14,13 +14,13 @@ sources:
     title: "von Glasersfeld, E. (1995). Radical Constructivism: A Way of Knowing and Learning. Falmer Press. https://eric.ed.gov/?id=ED381352"
     author: von Glasersfeld, E.
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Each language entails a conceptually different world, so exact translation of conceptual structure between languages is impossible
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Conceptual analysis of prepositions and equivalent words across languages shows that different languages determine different conceptualizations, making identical-structure translation impossible. [→ von Glasersfeld 1995](#von-glasersfeld-1995)
@@ -31,7 +31,7 @@ sources:
 
 von Glasersfeld, E. (1995). Radical Constructivism: A Way of Knowing and Learning. Falmer Press. https://eric.ed.gov/?id=ED381352
 
-`q2 · i1`
+`q2 · i? · no source text available to check; the entry prints no effect size`
 
 Conceptual-analysis research on prepositions and equivalent vocabulary across English, Italian, German and Russian, conducted in the Milan machine-translation projects. The analyses showed "each language entails a conceptually different world"; practical overlap exists but speakers' worlds are conceptualized differently.
 

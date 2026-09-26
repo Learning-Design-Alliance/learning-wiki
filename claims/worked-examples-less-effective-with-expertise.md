@@ -11,14 +11,14 @@ sources:
     title: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23-31. [https://doi.org/10.1207/S15326985EP3801_4](https://doi.org/10.1207/S15326985EP3801_4)"
     author: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J."
     q: 3
-    i: 2
+    i: "?"
     n: multiple studies
   - id: renkl-atkinson-2003
     resource: "https://doi.org/10.1207/S15326985EP3801_3"
     title: "Renkl, A., & Atkinson, R. K. (2003). Structuring the transition from example study to problem solving in cognitive skill acquisition: A cognitive load perspective. *Educational Psychologist, 38*(1), 15-22. [https://doi.org/10.1207/S15326985EP3801_3](https://doi.org/10.1207/S15326985EP3801_3)"
     author: "Renkl, A., & Atkinson, R. K."
     q: 3
-    i: 2
+    i: "?"
     n: multiple studies
 id: worked-examples-less-effective-with-expertise
 aliases: [worked-examples-expertise-reversal]
@@ -28,19 +28,19 @@ evidence_strength: moderate
 # Worked-example guidance becomes less effective as learner expertise increases.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment
 
 The supports that help novices during initial acquisition can become redundant for more experienced learners, reducing efficiency and sometimes depressing performance.
 
 ## Subclaims
 
-`q3 i2` Guidance benefits novices more than knowledgeable learners. [→ Kalyuga et al. 2003](#kalyuga-et-al-2003)
+`q3 i?` Guidance benefits novices more than knowledgeable learners. [→ Kalyuga et al. 2003](#kalyuga-et-al-2003)
 
-`q3 i2` Previously helpful explanations can impose redundancy load once schemas are established. [→ Kalyuga et al. 2003](#kalyuga-et-al-2003)
+`q3 i?` Previously helpful explanations can impose redundancy load once schemas are established. [→ Kalyuga et al. 2003](#kalyuga-et-al-2003)
 
-`q3 i2` Advanced learners often benefit less from full worked examples than novices do. [→ Kalyuga et al. 2003](#kalyuga-et-al-2003)
+`q3 i?` Advanced learners often benefit less from full worked examples than novices do. [→ Kalyuga et al. 2003](#kalyuga-et-al-2003)
 
-`q3 i2` Example-heavy guidance should be reduced as learners move toward independent problem solving. [→ Renkl & Atkinson 2003](#renkl-atkinson-2003)
+`q3 i?` Example-heavy guidance should be reduced as learners move toward independent problem solving. [→ Renkl & Atkinson 2003](#renkl-atkinson-2003)
 
 ## Evidence
 
@@ -50,7 +50,7 @@ Primary evidence link: https://doi.org/10.1207/S15326985EP3801_4
 
 Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23-31. [https://doi.org/10.1207/S15326985EP3801_4](https://doi.org/10.1207/S15326985EP3801_4)
 
-`q3 · peer-reviewed theoretical synthesis with experimental base` · `i2 · medium impact` · `n=multiple studies`
+`q3 · peer-reviewed theoretical synthesis with experimental base` · `i? · the abstract prints no effect size; the full text may` · `n=multiple studies`
 
 The paper reviews evidence that instructional guidance must be calibrated to prior knowledge. Worked examples, integrated explanations, and other high-guidance supports are useful for novices but can become redundant as expertise develops.
 
@@ -58,7 +58,7 @@ The paper reviews evidence that instructional guidance must be calibrated to pri
 
 Renkl, A., & Atkinson, R. K. (2003). Structuring the transition from example study to problem solving in cognitive skill acquisition: A cognitive load perspective. *Educational Psychologist, 38*(1), 15-22. [https://doi.org/10.1207/S15326985EP3801_3](https://doi.org/10.1207/S15326985EP3801_3)
 
-`q3 · peer-reviewed synthesis` · `i2 · medium impact` · `n=multiple studies`
+`q3 · peer-reviewed synthesis` · `i? · the abstract prints no effect size; the full text may` · `n=multiple studies`
 
 The paper argues that effective instruction must manage the transition away from examples, because maintaining full guidance after competence develops weakens transfer and independent performance.
 

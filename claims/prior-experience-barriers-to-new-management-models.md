@@ -14,13 +14,13 @@ sources:
     title: "Walker, K. (2000). Classroom Management for New Teachers. Education Partnerships, Inc. http://www.educationpartnerships.org/"
     author: Walker, K.
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Previous knowledge and management experiences can inhibit new teachers' learning of new classroom management models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Past learning may create barriers to learning new material and procedures, so previous management knowledge and experience can inhibit new teachers from implementing new management models. [→ Walker 2000](#walker-2000)
@@ -31,7 +31,7 @@ sources:
 
 Walker, K. (2000). Classroom Management for New Teachers. Education Partnerships, Inc. http://www.educationpartnerships.org/
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 The brief reports, citing Woolfolk (1995), that "past learning might create barriers to the learning of new material and procedures", so new teachers may struggle to adopt new management models. Hedged as a possibility; no effect size printed.
 

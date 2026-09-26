@@ -11,7 +11,7 @@ sources:
     title: "Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Cognition and Instruction, 2*(1), 59-89. [https://doi.org/10.1207/s1532690xci0201_3](https://doi.org/10.1207/s1532690xci0201_3)"
     author: "Sweller, J., & Cooper, G. A."
     q: 3
-    i: 2
+    i: "?"
     n: multiple class-based studies
 id: worked-examples-reduce-novice-search
 evidence_strength: moderate
@@ -20,14 +20,14 @@ evidence_strength: moderate
 # Worked examples reduce unnecessary search for novices.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=multiple class-based studies
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=multiple class-based studies
 
 When novices study a fully or partially solved example before independent problem solving, they spend less effort on blind search and can devote more attention to understanding structure and procedure.
 
 ## Subclaims
-`q3 i2` Worked examples reduce inefficient search during early problem solving. [→ Sweller & Cooper 1985](#sweller-cooper-1985)
+`q3 i?` Worked examples reduce inefficient search during early problem solving. [→ Sweller & Cooper 1985](#sweller-cooper-1985)
 
-`q3 i2` Reduced search leaves more cognitive capacity for schema acquisition in novices. [→ Sweller & Cooper 1985](#sweller-cooper-1985)
+`q3 i?` Reduced search leaves more cognitive capacity for schema acquisition in novices. [→ Sweller & Cooper 1985](#sweller-cooper-1985)
 
 ## Evidence
 
@@ -37,7 +37,7 @@ Primary evidence link: https://doi.org/10.1037/0022-0663.77.1.59
 
 Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Cognition and Instruction, 2*(1), 59-89. [https://doi.org/10.1207/s1532690xci0201_3](https://doi.org/10.1207/s1532690xci0201_3)
 
-`q3 · peer-reviewed experiment` · `i2 · medium impact` · `n=multiple class-based studies`
+`q3 · peer-reviewed experiment` · `i? · the abstract prints no effect size; the full text may` · `n=multiple class-based studies`
 
 Across algebra-learning conditions, learners who studied worked examples performed better than learners who spent the same time solving conventional problems. The interpretation advanced by the authors is that examples reduce means-ends search, letting novices focus on recognizing the structure of valid solution moves.
 

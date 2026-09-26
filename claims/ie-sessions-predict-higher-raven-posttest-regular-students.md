@@ -14,13 +14,13 @@ sources:
     title: "Presseisen, Barbara Z.; Kozulin, Alex. (1992). Mediated Learning--The Contributions of Vygotsky and Feuerstein in Theory and Practice. https://eric.ed.gov/?id=ED347202"
     author: Presseisen, Barbara Z.; Kozulin, Alex
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # More Instrumental Enrichment sessions predicted higher Raven posttest scores for regular education middle-grade students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Regular education students' Standard Progressive Matrices scores increased as a result of participating in IE sessions, with more sessions associated with higher posttest scores after removing effects of pretest scores, coaching, and special education participation. [→ Presseisen 1992](#presseisen-1992)
@@ -31,7 +31,7 @@ sources:
 
 Presseisen, Barbara Z.; Kozulin, Alex. (1992). Mediated Learning--The Contributions of Vygotsky and Feuerstein in Theory and Practice. https://eric.ed.gov/?id=ED347202
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Regression analyses in the Philadelphia study (January-June 1991) related number of IE sessions to Standard Progressive Matrices gains for 47 pretested students across seven classes; the average score went from 31.3 to 34.4 raw score points over an average of 14.8 IE sessions.
 

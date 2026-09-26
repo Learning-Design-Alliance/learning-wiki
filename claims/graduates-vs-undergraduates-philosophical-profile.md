@@ -14,13 +14,13 @@ sources:
     title: "Starkey, John D.; Barr, Rita L. (1972). The Philosophical Nature of Teachers--Graduate and Undergraduate. https://eric.ed.gov/?id=BP006086"
     author: Starkey, John D.; Barr, Rita L.
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Graduates differ from undergraduates across all five philosophical beliefs at the .20 level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Compared with undergraduates, graduates show greater belief in Realism, Idealism, and Phenomenology and lesser belief in Pragmatism and Existentialism, with differences significant at the .20 level. [→ Starkey 1972](#starkey-1972)
@@ -31,7 +31,7 @@ sources:
 
 Starkey, John D.; Barr, Rita L. (1972). The Philosophical Nature of Teachers--Graduate and Undergraduate. https://eric.ed.gov/?id=BP006086
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Omnibus graduate-versus-undergraduate comparison pooling elementary and secondary students (Table IX, N = 451); the article states "a consistent significance at the .20 level" across all five beliefs.
 

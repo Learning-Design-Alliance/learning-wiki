@@ -14,13 +14,13 @@ sources:
     title: "Flammer, A. (1973). A Conceptual Model Relating Transfer of Learning and Correlation: Theoretical Paper No. 43. Wisconsin Research and Development Center for Cognitive Learning. https://eric.ed.gov/?id=ED085637"
     author: Flammer, A.
     q: 3
-    i: 1
+    i: "?"
 ---
 
 # The unsquared correlation predicts transfer better than the squared correlation, except within the anomalous E9 group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Excluding the puzzling E9 group, unsquared r's yielded better predictions than squared r's in 13 of 14 cases; within E9 the squared coefficient was superior only five of thirteen times. [→ Flammer 1973](#flammer-1973)
@@ -31,7 +31,7 @@ sources:
 
 Flammer, A. (1973). A Conceptual Model Relating Transfer of Learning and Correlation: Theoretical Paper No. 43. Wisconsin Research and Development Center for Cognitive Learning. https://eric.ed.gov/?id=ED085637
 
-`q3 · i1`
+`q3 · i? · the article prints no effect size for this finding`
 
 Comparison of unsquared versus squared predictor correlations in the validation experiment's Results section, reported as a case count across predictor-transfer combinations; the article states the r's "yielded better predictions than the r2's in 13 out of the 14 cases" outside E9.
 

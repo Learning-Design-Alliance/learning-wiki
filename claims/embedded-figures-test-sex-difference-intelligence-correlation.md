@@ -14,13 +14,13 @@ sources:
     title: "Tamaoka, Katsuo. (1985). Historical Development of Learning Style Inventories from Dichotomous Cognitive Concepts of Field Dependence and Field Independence to Multi-Dimensional Assessment. https://eric.ed.gov/?id=ED339729"
     author: Tamaoka, Katsuo
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Embedded figures test performance differed by sex and correlated relatively highly with intelligence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The embedded figures test correlated relatively highly with an intelligence test, suggesting intellectual capacity might influence results. [→ Tamaoka 1985](#tamaoka-1985)
@@ -31,7 +31,7 @@ sources:
 
 Tamaoka, Katsuo. (1985). Historical Development of Learning Style Inventories from Dichotomous Cognitive Concepts of Field Dependence and Field Independence to Multi-Dimensional Assessment. https://eric.ed.gov/?id=ED339729
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 The review reports that, unlike the three orientation tests, "a relatively high correlation was found between the embedded figures test and the intelligence test", so the intellectual capacity of subjects might influence embedded figures results.
 

@@ -44,7 +44,7 @@ Learners who receive temporary, adaptive support — hints, prompts, models, or 
 
 Belland, B. R., Walker, A. E., Kim, N. J., & Lefler, M. (2017). Synthesizing Results From Empirical Research on Computer-Based Scaffolding in STEM Education: A Meta-Analysis. *Review of Educational Research, 87*(2), 309–344. [doi:10.3102/0034654316670999](https://doi.org/10.3102/0034654316670999)
 
-`q4 · random-effects meta-analysis` · `i2 · medium effect, ĝ=0.46` · `n=144 studies (333 outcomes)`
+`q4 · random-effects meta-analysis` · `i2 · medium effect, g = 0.46` · `n=144 studies (333 outcomes)`
 
 A random-effects meta-analysis of 144 experimental studies (333 outcomes) on computer-based scaffolding designed to assist STEM learners — from primary school through adult education — as they worked through ill-structured, problem-centered curricula. Computer-based scaffolding showed a consistently positive effect on cognitive outcomes (ĝ = 0.46) across contexts of use, scaffold characteristics and levels of assessment; the effect did not differ by context-specificity or by whether/how scaffolding was faded, and was greatest when measured at the level of principles and among adult learners. The authors conclude scaffolding "can largely be designed in many different ways while still being highly effective."
 

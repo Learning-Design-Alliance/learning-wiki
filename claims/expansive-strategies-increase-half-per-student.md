@@ -31,7 +31,7 @@ sources:
 
 C. A. Ogilvie. (2006). Impact of Context-Rich, Multifaceted Problems on Students' Attitudes Towards Problem-Solving. https://www.physics.iastate.edu
 
-`q2 · i2`
+`q2 · i2 · medium effect, d = 0.6`
 
 Within-student pre/post change in coded expansive strategies (diagram, concepts first, qualitative analysis, sub-problems) for the 216 paired reflectors. The article reports < Δ(expansive)> = 0.49±0.06 with p-value < 0.0001 and "The effect-size for this increase in expansive strategies is 0.6."
 

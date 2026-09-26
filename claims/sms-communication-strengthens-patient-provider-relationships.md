@@ -14,13 +14,13 @@ sources:
     title: "Choo Esther M., Lara-Arevalo Jonathan, Achieng Catherine, Odhiambo Merceline, Okello Maurine Anyango, Masheti Mary, Tickell Kirkby D., Diakhate Mame M., Singa Benson O., McGrath Christine J., Means Arianna Rubin. (2026). Acceptability, feasibility, appropriateness, uptake and cost perceptions of family mid-upper arm circumference supported by two-way SMS in western Kenya. PLoS One. https://doi.org/10.1371/journal.pone.0358775"
     author: Choo Esther M., Lara-Arevalo Jonathan, Achieng Catherine, Odhiambo Merceline, Okello Maurine Anyango, Masheti Mary, Tickell Kirkby D., Diakhate Mame M., Singa Benson O., McGrath Christine J., Means Arianna Rubin
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Direct SMS communication with healthcare workers strengthened patient-provider relationships and trust
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Regular direct connection with healthcare workers via SMS built trust and improved communication, increasing satisfaction with the patient/provider relationship. [→ Choo Esther M. 2026](#choo-esther-m-2026)
@@ -31,7 +31,7 @@ sources:
 
 Choo Esther M., Lara-Arevalo Jonathan, Achieng Catherine, Odhiambo Merceline, Okello Maurine Anyango, Masheti Mary, Tickell Kirkby D., Diakhate Mame M., Singa Benson O., McGrath Christine J., Means Arianna Rubin. (2026). Acceptability, feasibility, appropriateness, uptake and cost perceptions of family mid-upper arm circumference supported by two-way SMS in western Kenya. PLoS One. https://doi.org/10.1371/journal.pone.0358775
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Theme from caregiver focus groups and healthcare worker interviews in the qualitative study. Counselors reported the system "has brought us together with the caregivers so that they share their feelings with us."
 

@@ -14,13 +14,13 @@ sources:
     title: "Nilsson, Ingrid. (2008). Alignment in teacher education and distribution of leadership: An example concerning learning study. Forum on Public Policy. https://eric.ed.gov/?id=EJ1099542"
     author: Nilsson, Ingrid
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Teachers integrated general teacher knowledge and subject knowledge during learning study analyses and reflections
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` During analysis and reflection, participating teachers appeared to integrate general educational teacher knowledge with subject knowledge. [→ Nilsson 2008](#nilsson-2008)
@@ -31,7 +31,7 @@ sources:
 
 Nilsson, Ingrid. (2008). Alignment in teacher education and distribution of leadership: An example concerning learning study. Forum on Public Policy. https://eric.ed.gov/?id=EJ1099542
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Author's interpretation of the learning study with five secondary teachers: teachers used mathematics knowledge and critical thinking when formulating the learning object and analyzing critical aspects, and showed ability to analyze lessons and use the theory of variation in planning improved lessons.
 

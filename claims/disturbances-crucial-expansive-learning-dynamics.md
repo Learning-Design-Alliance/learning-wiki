@@ -14,13 +14,13 @@ sources:
     title: "Rantavuori, J., Engeström, Y., & Lipponen, L. (2016). Learning actions, objects and types of interaction: A methodological analysis of expansive learning among pre-service teachers. Frontline Learning Research. http://dx.doi.org/10.14786/flr.v4i3.174"
     author: "Rantavuori, J., Engeström, Y., & Lipponen, L."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Transitions and disturbances were crucial for the dynamics of expansive learning in the meeting
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Transitions and disturbances played a crucial role in the dynamics of the expansive learning process observed. [→ Rantavuori 2016](#rantavuori-2016)
@@ -31,7 +31,7 @@ sources:
 
 Rantavuori, J., Engeström, Y., & Lipponen, L. (2016). Learning actions, objects and types of interaction: A methodological analysis of expansive learning among pre-service teachers. Frontline Learning Research. http://dx.doi.org/10.14786/flr.v4i3.174
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 The article's summary finding states "Transitions and disturbances were crucial for the dynamics of expansive learning"; the analysis identified conflicts, cooperation attempts and communication attempts as disturbances, and transitions between interaction types typically passed through short phases of disturbances.
 

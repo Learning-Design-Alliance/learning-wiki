@@ -14,7 +14,7 @@ sources:
     title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/physics/0606141"
     author: Lei Bao
     q: 2
-    i: 2
+    i: "?"
   - id: lei-bao-2006-2
     resource: "https://arxiv.org/abs/physics/0606141"
     title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/physics/0606141"
@@ -26,7 +26,7 @@ sources:
 # When the γ-process (associative interaction of correct and incorrect knowledge) is considered, the normalized gain correlates positively with pretest score
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i1`–`i2`
+> **Evidence** · 2 studies · `q2` quasi-experiment · `i1` small
 
 ## Subclaims
 `q2 i?` With both α and γ processes, the normalized gain always has explicit pretest-score terms and a positive correlation with pretest score is expected. [→ Lei Bao 2006](#lei-bao-2006)
@@ -38,7 +38,7 @@ sources:
 
 Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/physics/0606141
 
-`q2 · i2`
+`q2 · i? · the article prints no effect size for this finding`
 
 Analytical derivation (Section IV) of the normalized gain under combined α and γ processes, Eq. (17). The article reports that with the γ-process the gain 'always has explicit terms' of the pretest score, unlike the α-only case.
 

@@ -14,13 +14,13 @@ sources:
     title: "Murray, D. W. & Rosanbalm, K. (2017). Promoting Self-Regulation in Adolescents and Young Adults: A Practice Brief. OPRE Report #2015-82. https://www.acf.hhs.gov/opre/resource/self-regulation-and-toxic-stress-implications-for-programs-and-practice"
     author: "Murray, D. W. & Rosanbalm, K."
     q: 2
-    i: 2
+    i: "?"
 ---
 
 # Mindfulness programs show substantial benefits across cognitive and emotional regulation as well as stress and mental health in adolescents and young adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Among the intervention approaches reviewed, mindfulness programs in particular showed substantial benefits across both cognitive and emotional regulation, as well as for stress and mental health. [→ Murray 2017](#murray-2017)
@@ -31,7 +31,7 @@ sources:
 
 Murray, D. W. & Rosanbalm, K. (2017). Promoting Self-Regulation in Adolescents and Young Adults: A Practice Brief. OPRE Report #2015-82. https://www.acf.hhs.gov/opre/resource/self-regulation-and-toxic-stress-implications-for-programs-and-practice
 
-`q2 · i2`
+`q2 · i? · the article prints no effect size for this finding`
 
 The brief's summary of its review of preventive self-regulation interventions reports this as one of the headline findings from studies of high schoolers and young adults. The brief defines mindfulness as intentionally focusing attention on one's emotions and thoughts in the present moment without judgment.
 

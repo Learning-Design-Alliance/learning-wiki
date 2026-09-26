@@ -43,7 +43,7 @@ Teaching science through guided inquiry — where students investigate questions
 
 Furtak, E. M., Seidel, T., Iverson, H., & Briggs, D. C. (2012). Experimental and Quasi-Experimental Studies of Inquiry-Based Science Teaching: A Meta-Analysis. *Review of Educational Research, 82*(3), 300–329. [doi:10.3102/0034654312457206](https://doi.org/10.3102/0034654312457206)
 
-`q4 · meta-analysis of experimental/quasi-experimental studies` · `i2 · medium effect, overall mean effect size = .50` · `n=37 studies`
+`q4 · meta-analysis of experimental/quasi-experimental studies` · `i2 · medium effect, g = 0.5` · `n=37 studies`
 
 This meta-analysis coded 37 experimental and quasi-experimental studies of inquiry-based science teaching published 1996–2006, distinguishing cognitive features of the activity from the degree of guidance given to students. The overall mean effect size on student learning was .50. Studies with teacher-led activities had mean effect sizes about .40 larger than those with student-led (unguided) conditions, and studies emphasizing epistemic activities or a combination of procedural, epistemic, and social activities showed the highest effects.
 

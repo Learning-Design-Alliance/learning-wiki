@@ -14,13 +14,13 @@ sources:
     title: "Madaus, George F.; Nuttall, Ronald L.; Woods, Elinor M. (1971). A Causal Model Analysis Suggests Modification of the Cumulative Hierarchical Structure Assumed in Bloom's Taxonomy of the Cognitive Domain. https://eric.ed.gov/?id=ED054203"
     author: Madaus, George F.; Nuttall, Ronald L.; Woods, Elinor M.
     q: 2
-    i: 2
+    i: "?"
 ---
 
 # Proportions of variance explained follow a curvilinear pattern across the six taxonomy levels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Proportions of variance explained increased steadily from Knowledge to Application and then decreased from Analysis to Evaluation, contradicting the expectation of steadily increasing direct links under the cumulative hierarchy. [→ Madaus 1971](#madaus-1971)
@@ -31,7 +31,7 @@ sources:
 
 Madaus, George F.; Nuttall, Ronald L.; Woods, Elinor M. (1971). A Causal Model Analysis Suggests Modification of the Cumulative Hierarchical Structure Assumed in Bloom's Taxonomy of the Cognitive Domain. https://eric.ed.gov/?id=ED054203
 
-`q2 · i2`
+`q2 · i? · the article prints no effect size for this finding`
 
 Pattern observed in Tables 2-4 and Figure 3 summarizing proportions of variance across the 16 replications. The authors note that if lower-level behaviors were cumulatively integrated, variance explained should increase steadily rather than decline at the upper levels.
 

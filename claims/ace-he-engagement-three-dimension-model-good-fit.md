@@ -14,13 +14,13 @@ sources:
     title: "Graham, C., Borup, J., Tuiloma, S., Martínez Arias, A., Parra Caicedo, D., Larson, R. (2023). Institutional support for Academic Engagement in online and blended learning environments: Exploring affective, behavioral, and cognitive dimensions. Online Learning, 27(3), 4-40. https://doi.org/10.24059/olj.v27i3.4001"
     author: Graham, C., Borup, J., Tuiloma, S., Martínez Arias, A., Parra Caicedo, D., Larson, R.
     q: 3
-    i: 1
+    i: "?"
 ---
 
 # The ACE-HE measurement model of affective, behavioral, and cognitive engagement fits online/blended survey data well
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` A confirmatory factor analysis of the three-dimension academic engagement model met all fit-statistic cutoffs (CFI 0.966, TLI 0.956, RMSEA 0.067, SRMR 0.024), supporting the ACE framework's ABC structure. [→ Graham 2023](#graham-2023)
@@ -31,7 +31,7 @@ sources:
 
 Graham, C., Borup, J., Tuiloma, S., Martínez Arias, A., Parra Caicedo, D., Larson, R. (2023). Institutional support for Academic Engagement in online and blended learning environments: Exploring affective, behavioral, and cognitive dimensions. Online Learning, 27(3), 4-40. https://doi.org/10.24059/olj.v27i3.4001
 
-`q3 · i1`
+`q3 · i? · the article prints no effect size for this finding`
 
 Confirmatory factor analysis of survey responses from 1,253 students at a Colombian university tested the ACE-framework engagement model. Table 6 reports CFI 0.966, TLI 0.956, RMSEA 0.067, SRMR 0.024, all meeting cutoffs; the authors call this "a defensible way to reproduce the covariance matrix of the data."
 

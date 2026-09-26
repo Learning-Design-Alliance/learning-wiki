@@ -14,13 +14,13 @@ sources:
     title: "Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction"
     author: Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # SAKT underperforms DKT on all nine datasets, contradicting previously reported results
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Self-attentive knowledge tracing underperforms DKT on every dataset tested, contradicting Pandey and Karypis (2019). [→ Theophile Gervet 2020](#theophile-gervet-2020)
@@ -31,7 +31,7 @@ sources:
 
 Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Results section comparison across the nine benchmark datasets. The largest gap is on ASSISTment 2015, where the authors report "an AUC of 0.85, while we observed an AUC of 0.73 (no improvement over DKT)".
 

@@ -14,7 +14,7 @@ sources:
     title: "Eylon, Bat-Sheva; Reif, F. (1979). Effects of Internal Knowledge Organization on Task Performance. https://eric.ed.gov/?id=ED171804"
     author: Eylon, Bat-Sheva; Reif, F.
     q: 2
-    i: 2
+    i: "?"
   - id: eylon-1979-2
     resource: "https://eric.ed.gov/?id=ED171804"
     title: "Eylon, Bat-Sheva; Reif, F. (1979). Effects of Internal Knowledge Organization on Task Performance. https://eric.ed.gov/?id=ED171804"
@@ -26,7 +26,7 @@ sources:
 # A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 2 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` High-school subjects with the A organization performed consistently better on deductive (type a) tasks, while subjects with the B organization performed consistently better on historical (type b) tasks. [→ Eylon 1979](#eylon-1979)
@@ -38,7 +38,7 @@ sources:
 
 Eylon, Bat-Sheva; Reif, F. (1979). Effects of Internal Knowledge Organization on Task Performance. https://eric.ed.gov/?id=ED171804
 
-`q2 · i2`
+`q2 · i? · the article prints no effect size for this finding`
 
 Experiment 2: 20 students in an advanced high-school physics class, blocked by ability and randomly assigned to treatments inducing organization A (deductive information at higher levels) or B (historical at higher levels); tested two weeks later on both task types. The consistent pattern held on every one of the cued-recall and problem-solving tasks.
 

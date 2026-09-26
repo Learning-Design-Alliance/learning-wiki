@@ -14,13 +14,13 @@ sources:
     title: "Morzinski, K. M., Crockett, C. J., and Crossfield, I. J. (2010). Digital image exploration at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3297"
     author: Morzinski, K. M., Crockett, C. J., and Crossfield, I. J.
     q: 1
-    i: 1
+    i: "?"
 ---
 
 # Many students in the digital-images inquiry found identifying engineering tradeoffs difficult despite the budget constraint design
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case · `i1` small
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The course instructor reported that many students still found identifying tradeoffs to be difficult when reviewing the Day 2 write-up, and the designers reflected that the budgetary constraint may have been too complicated. [→ Morzinski 2010](#morzinski-2010)
@@ -31,7 +31,7 @@ sources:
 
 Morzinski, K. M., Crockett, C. J., and Crossfield, I. J. (2010). Digital image exploration at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3297
 
-`q1 · i1`
+`q1 · i? · the article prints no effect size for this finding`
 
 Instructor feedback on student homework reports in the Fall 2008 offering, reported by the design team as their own reflection. The article offers no quantitative measure of tradeoff difficulty.
 

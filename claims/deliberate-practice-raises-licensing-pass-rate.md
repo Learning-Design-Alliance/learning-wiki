@@ -14,13 +14,13 @@ sources:
     title: "Do, P. D. (2024). Deliberate practice: An effective way to raise the real estate licensing passing rate. Bradley University. https://scholar.google.com/scholar?q=Deliberate+Practice+Real+Estate+Licensing+Passing+Rate"
     author: Do, P. D.
     q: 2
-    i: 2
+    i: "?"
 ---
 
 # Deliberate practice interventions produce higher real estate licensing exam pass rates than traditional study methods
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Real estate students trained with structured deliberate practice sessions, including expert feedback, exhibited higher exam pass rates than students following a conventional curriculum. [→ Do 2024](#do-2024)
@@ -31,7 +31,7 @@ sources:
 
 Do, P. D. (2024). Deliberate practice: An effective way to raise the real estate licensing passing rate. Bradley University. https://scholar.google.com/scholar?q=Deliberate+Practice+Real+Estate+Licensing+Passing+Rate
 
-`q2 · i2`
+`q2 · i? · the article prints no effect size for this finding`
 
 Quasi-experimental study comparing two self-selected groups of real estate licensing students: a control group following a conventional curriculum and an experimental group receiving deliberate practice interventions. The study found that "the students in the deliberate practice group exhibited higher exam pass rates" than the conventional-curriculum group.
 

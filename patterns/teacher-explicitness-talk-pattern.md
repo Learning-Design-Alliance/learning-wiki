@@ -17,7 +17,7 @@ sources:
 # High-mediating teachers share an 'Explicitness' talk pattern across teacher talk categories
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 6 claims (6 for) · 2 studies, `q2` · 1 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 2 studies, `q2` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 Analysis of variance over the six teacher talk categories revealed a characteristic talk pattern of high-mediating teachers, which the author names "Explicitness". It spans personal explicitness, explicitness when informing, giving rationales for commands, and appealing for conformity on personal rather than status bases. The author suggests these categories may be what Dunkin and Biddle call "trainable traits".

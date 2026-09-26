@@ -14,13 +14,13 @@ sources:
     title: "von Glasersfeld, E. (1995). Radical Constructivism: A Way of Knowing and Learning. Falmer Press. https://eric.ed.gov/?id=ED381352"
     author: von Glasersfeld, E.
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Attention can move within the visual field without eye movements, selecting among simultaneous inputs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Perceptual phenomena including the Cocktail Party Effect and Kohler's visual comparison result show attention moves within the sensory field and selects among simultaneous inputs, indicating an active perceiver. [→ von Glasersfeld 1995](#von-glasersfeld-1995)
@@ -31,7 +31,7 @@ sources:
 
 von Glasersfeld, E. (1995). Radical Constructivism: A Way of Knowing and Learning. Falmer Press. https://eric.ed.gov/?id=ED381352
 
-`q2 · i1`
+`q2 · i? · no source text available to check; the entry prints no effect size`
 
 The author reports experimental demonstrations of attentional mobility by Hebb, Lashley, Kohler, and Zinchenko and Vergiles, quoting Kohler's result on comparing objects with fixed eyes. He presents this as evidence for an active element in the perceiver and builder of knowledge.
 

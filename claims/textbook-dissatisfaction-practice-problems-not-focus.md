@@ -14,13 +14,13 @@ sources:
     title: "O'Shea, B., Terry, L., & Benenson, W. (2013). From F=ma to Flying Squirrels: Curricular Change in an Introductory Physics Course. CBE-Life Science Education (accepted). https://www.lifescied.org"
     author: "O'Shea, B., Terry, L., & Benenson, W."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Student dissatisfaction with the draft textbook stemmed from lack of practice problems and confusing explanations, not from its life science focus
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Many students expressed concern about the draft textbook (24 of 61 on the SALG, 7 of 15 in interviews), but follow-up comments indicated the cause was missing practice problems and confusing explanations rather than the life science focus. [→ O'Shea 2013](#oshea-2013)
@@ -31,7 +31,7 @@ sources:
 
 O'Shea, B., Terry, L., & Benenson, W. (2013). From F=ma to Flying Squirrels: Curricular Change in an Introductory Physics Course. CBE-Life Science Education (accepted). https://www.lifescied.org
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Thematic analysis of SALG free responses and interviews; the life science focus of the textbook was actually a highlight, with 4 of 15 interviewees raising it positively without prompting.
 

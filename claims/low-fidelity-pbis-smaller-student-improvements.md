@@ -14,16 +14,16 @@ sources:
     title: "Benner, G. J., Beaudoin, K. M., Chen, P.-Y., Davis, C., & Ralston, N. (2008). The Impact of Intensive Positive Behavioral Supports on the Behavioral Functioning of Students with Emotional Disturbance: How Much Does Fidelity Matter? JBAIC, Volume 1, No. 1. https://eric.ed.gov/?q=Impact+of+Intensive+Positive+Behavioral+Supports"
     author: "Benner, G. J., Beaudoin, K. M., Chen, P.-Y., Davis, C., & Ralston, N."
     q: 1
-    i: 1
+    i: 3
 ---
 
 # Teachers implementing PBIS with low fidelity tended not to experience large student behavior improvements commensurate with high-fidelity colleagues
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case · `i1` small
+> **Evidence** · 1 study · `q1` argument or single case · `i3` large
 
 ## Subclaims
-`q1 i?` Despite a full year of training, teachers with low fidelity tended not to see large improvements in student behavioral functioning, unlike high-fidelity teachers. [→ Benner 2008](#benner-2008)
+`q1 i3` Despite a full year of training, teachers with low fidelity tended not to see large improvements in student behavioral functioning, unlike high-fidelity teachers. [→ Benner 2008](#benner-2008)
 
 ## Evidence
 
@@ -31,7 +31,7 @@ sources:
 
 Benner, G. J., Beaudoin, K. M., Chen, P.-Y., Davis, C., & Ralston, N. (2008). The Impact of Intensive Positive Behavioral Supports on the Behavioral Functioning of Students with Emotional Disturbance: How Much Does Fidelity Matter? JBAIC, Volume 1, No. 1. https://eric.ed.gov/?q=Impact+of+Intensive+Positive+Behavioral+Supports
 
-`q1 · i1`
+`q1 · i3 · large effect, r = -0.52`
 
 Authors' discussion interpretation (type e) of the fidelity findings: low-fidelity teachers may conclude PBIS does not work, and without considering fidelity it is difficult to ascertain whether the intervention enhanced or constrained outcomes.
 
