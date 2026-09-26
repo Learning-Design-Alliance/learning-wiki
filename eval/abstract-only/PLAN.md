@@ -1,6 +1,6 @@
 # Plan: ingesting ERIC records we can read only as abstracts
 
-**Status:** proposed, 2026-09-25. Nothing below is built yet.
+**Status:** decisions 1 and 2 taken by the maintainer, 2026-09-25; decision 3 open. Nothing below is built yet.
 
 ## Why
 
@@ -92,14 +92,19 @@ Cost: about $0.15 for GLM on 40 records, plus 40 agent checks in session (around
 
 ## Decisions for the maintainer
 
-1. **Is an abstract an acceptable basis at all**, given the pilot passes? `INCLUSION.md`'s default is
-   to include, and E3 covers "no ingestable content". This plan treats a result-bearing abstract as
-   ingestable, which is a policy call.
-2. **An OpenAlex API key** (free) to find open-access copies. Without one, step 3 relies on Crossref
-   and PMC alone.
-3. **Should abstract-only evidence cap a claim's status**, for example never above `draft` until a
-   full-text entry exists? The plan marks the evidence but leaves `status` alone, because status
-   describes whether a page is written, not how it was sourced.
+1. **Is an abstract an acceptable basis?** *Decided 2026-09-25: yes, as weak evidence with a
+   conditional note.* An abstract-only entry is admitted, but it must say so where a reader
+   will see it: `(abstract only)` in its codes line, and a sentence in the page's Discussion
+   saying what the abstract could not establish (typically the effect size, the sample, or the
+   moderators). The `q` code still reflects the design the abstract states, never a stronger
+   one; the note is what carries the weakness. The pilot below still decides whether the
+   pipeline runs at scale.
+2. **An OpenAlex API key.** *Decided: the maintainer is getting one.* Store it in
+   `/etc/eval-harness.env` as `OPENALEX_API_KEY` (never in the repo); step 3 uses it for
+   open-access locations.
+3. **Should abstract-only evidence cap a claim's status**, for example never above `draft` until
+   a full-text entry exists? *Open.* The plan marks the evidence but leaves `status` alone,
+   because status describes whether a page is written, not how it was sourced.
 
 ## Work to build (after the decisions)
 

@@ -18,10 +18,35 @@ Read /home/user/learning-wiki/CLAUDE.md sections "Claim" template, "Evidence qua
 3. READ the article itself: open-access full text (PMC, publisher OA page, ERIC PDF,
    author manuscript) or, failing that, at minimum the publisher abstract. Outbound HTTPS
    goes through $HTTPS_PROXY; `curl` works. JS-rendered pages: `/opt/pw-browsers/chromium-1194/chrome-linux/chrome --headless=new --no-sandbox --proxy-server="$HTTPS_PROXY" --ignore-certificate-errors-spki-list="<SPKI hashes of the session proxy CA keys; see README.md>" --dump-dom <url>`. The SPKI list trusts ONLY the session proxy's CA keys (it re-terminates TLS); every other certificate is still verified. Never use --ignore-certificate-errors or any flag that disables verification wholesale. Record which you read (full text / abstract only).
-4. Every number you write (effect size, k, n, CI) must appear in what you read. Copy one
+4. Every number you write (effect size, k, n, CI) must appear in what you read. A number
+   another paper reports ABOUT your study does not count: cite it only from the study itself.
+   Never compute a difference, midpoint, average or conversion, and never round (0.198 is
+   0.198, and it is below 0.2). `i` codes only a reported standardized effect (d, g, r, OR):
+   never raw units such as GPA points, never a word like "moderate", and never a single-case
+   overlap statistic (Phi, Tau-U, PND, LRR), which are `i?` with the value in the prose.
+   When effects are reported as a range, code the lower bound. Copy one
    short verbatim quote per study supporting the finding.
 5. If the evidence actually contradicts or heavily qualifies the claim, say so — do not
    bend it. If you cannot find a readable source, write NOTHING rather than guess.
+
+## Coding checklist (the corrections reviewers made most often)
+
+- `q4` only for a pre-registered RCT or a meta-analysis whose power is established; do not
+  write "well-powered" otherwise. A systematic review or a meta-analysis of correlational
+  studies is `q3`; a narrative review, survey or quasi-experiment is `q2`; a single-case
+  design with a handful of participants, or a theoretical paper, is `q1`.
+- Before coding a study, `grep -rl <doi> /home/user/learning-wiki/claims/` (read only). If it
+  is already cited, use the same DOI and the same `q`/`i` codes unless you read more of it
+  than that page did, and say so. If a paper has two DOIs (a JSTOR one and the publisher's),
+  use the publisher's.
+- If you read a conference version, a dissertation chapter or a companion chapter instead of
+  the cited article, say so in the entry, and take numbers only from what the cited article's
+  own abstract or text states.
+- Link only to wiki pages that exist: check with `ls` before writing a link.
+- If you read only the abstract, put `(abstract only)` in the entry's codes line, as in
+  `` `q3 · meta-analysis (abstract only)` ``, and say in the entry what the abstract did not
+  establish. Abstract-only evidence is admitted as weak evidence (maintainer decision,
+  2026-09-25); the note is what tells a reader so.
 
 ## Output: write exactly one file, <your folder>/output.md, containing:
 
