@@ -110,6 +110,25 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-28 — prompt v135: the extractor stops writing impact codes it cannot back
+
+- **Prompt v135** (from v133) fixes the code table that still read "0 = negligible/unclear/null/
+  marginal", requires any `i1`–`i3` to state the printed statistic with its value in the evidence
+  description, lists what is not an effect size (p, t/F/χ², raw means, unstandardised β, R²,
+  AUC, "large"), and gives bins for r (≥ .37 / .20 / .10) and η² (≥ .14 / .04 / .01) as well as d.
+  v134 had only d bins, and GLM nulled printed correlations rather than bin them.
+- **The validator enforces it** (`validator.EFFECT_SIZE_RE`, `expected_impact`): a non-zero impact
+  with no printed effect size in the description or quote is an error, and so is one whose bin
+  disagrees with the statistic it prints, or a "β" above 1 (a raw contrast estimate, not a
+  standardised one). Errors go back through the correction retry, so the article fixes the code.
+- **Benchmark (10 articles, GLM, same flags as bench-gate)**: v133 10/10 validation and judge, with
+  13 of 31 non-zero codes printing no effect size and 17 mis-binned; **v135 10/10 and 10/10, 0 and 0,
+  $0.028 against $0.029.** Runs: `eval/runs/bench-v134`, `bench-v135`, `bench-v135b`, `bench-v135c`.
+  Two pattern bugs were found on the way and fixed: "SD = 2.56" read as a d, and "η2-values of
+  .059" not read at all (it failed an article in v135b).
+- **`CURRENT` still says v99.** A batch uses v135 only when given `--prompt-version v135` (batches 1–7
+  were given v133 that way). Moving `CURRENT` is the maintainer's call.
+
 ### 2026-09-27 (late night) — every `i` code now rests on a printed magnitude: 455 entries recoded
 
 - **`scripts/recode_impact.py`** takes each entry `health_evidence.py` flags (an `i1`–`i3` with no
@@ -125,9 +144,9 @@ finds out.
   full text may), 53 with no source text on this machine. Verified by parse: 379 pages, 440
   frontmatter `i` values changed, no source entry added or dropped, no other key touched; all 537
   subclaims on recoded entries agree with their entry. The health report's count is now 0.
-- **The extractor still produces these**: prompt v133's code table reads "0 =
-  negligible/unclear/null/marginal" two sections after telling it to write `null`. Until that is
-  fixed and benchmarked, run `recode_impact.py --check` then `--apply` after a batch.
+- **The extractor produced these** because prompt v133's code table read "0 =
+  negligible/unclear/null/marginal"; v135 (above) fixes it. A batch still on v133 needs
+  `recode_impact.py --check` then `--apply` afterwards; the health report counts what is left.
 
 ### 2026-09-27 (night) — one health report covers evidence and links; the DOI check's 61 problems were 3
 
