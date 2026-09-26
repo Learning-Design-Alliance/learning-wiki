@@ -55,6 +55,39 @@ def add_doi_to_line(line: str, doi: str) -> str | None:
     return f"{body} [doi:{doi}](https://doi.org/{doi})\n"
 
 
+def fill_refusal(entry: dict, cited_title: str, doi: str):
+    """A reason not to ADD this DOI to this citation, or None.
+
+    classify_doi's title test is built for deciding whether an existing DOI is
+    plausible, and it is loose on purpose: a word overlap of 0.35 passes. Adding
+    a DOI is never required, so a fill asks more. On 2026-09-26 the loose test
+    wrote Mayer's single-author chapter "Cognitive Theory of Multimedia
+    Learning" onto three citations of Mayer & Fiorella, "Twelve principles of
+    multimedia learning ...", and a single-author Future of Children article
+    onto a three-author UBC report, re-creating hybrids a citation pass had just
+    removed. A fill therefore needs the titles to be close (equal, one a prefix
+    of the other, or at least 0.6 word overlap), the co-authors to agree, and a
+    multi-author citation not to be matched to a single-author record."""
+    import doi_resolver as dr
+    from citation_identity import coauthor_mismatch, cited_surnames, parse_key, EDITED_TYPES
+    record = dr.load_cache().get(doi) or {}
+    reg_title = record.get("title") or ""
+    a, b = cc._norm_title(cited_title), cc._norm_title(reg_title)
+    wa, wb = cc._words_from_text(cited_title), cc._words_from_text(reg_title)
+    overlap = len(wa & wb) / len(wa | wb) if wa and wb else 0.0
+    if not (a and b and (a == b or a.startswith(b) or b.startswith(a) or overlap >= 0.6)):
+        return f'the cited title is not close to the registry title "{reg_title[:70]}"'
+    line = entry.get("full_line") or entry["line"]
+    cited = cited_surnames(line, parse_key(entry["key"])[1])
+    why = coauthor_mismatch(record, cited)
+    if why:
+        return why
+    authors = [x for x in (record.get("authors") or []) if x]
+    if len(cited) >= 2 and len(authors) == 1 and record.get("type") not in EDITED_TYPES:
+        return f"the citation lists {len(cited)} authors and the registry record one ({authors[0]})"
+    return None
+
+
 def consensus_sample(have: list[dict]) -> dict:
     """The citation whose title the most pages agree on.
 
@@ -130,7 +163,7 @@ def main() -> None:
         sample = consensus_sample(c["have"])
         year = sample["key"].rsplit("-", 1)[-1]
         cited_title = cc._extract_title_text(sample["line"], year)
-        res = rdc.classify_doi(c["doi"], sample["title_words"], cited_title)
+        res = rdc.classify_doi(c["doi"], sample["title_words"], cited_title, key=sample["key"])
 
         ratio = f"{len(c['have'])} assert / {len(c['missing'])} omit"
         if res["status"] == "verified":
@@ -156,7 +189,11 @@ def main() -> None:
             for e in c["missing"]:
                 e_year = e["key"].rsplit("-", 1)[-1]
                 e_title = cc._extract_title_text(e["line"], e_year)
-                e_res = rdc.classify_doi(c["doi"], e["title_words"], e_title)
+                e_res = rdc.classify_doi(c["doi"], e["title_words"], e_title, key=e["key"])
+                if e_res["status"] == "verified":
+                    why = fill_refusal(e, e_title, c["doi"])
+                    if why:
+                        e_res = {"status": "wrong_paper", "title": e_res.get("title"), "why": why}
                 if e_res["status"] != "verified":
                     mismatched.append((e, e_title, e_res["status"], e_res.get("title")))
                     if e_res["status"] in ("not_found", "error"):

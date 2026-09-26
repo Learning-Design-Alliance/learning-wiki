@@ -328,7 +328,7 @@ def run(args) -> None:
             ("evidence header lines", ["scripts/add_evidence_summary.py", "--apply"]),
             ("repairing dead anchors", ["scripts/fix_dead_anchors.py", "--apply"]),
             ("filling agreed DOIs", ["scripts/standardize_citations.py", "--apply"]),
-            ("resolving against Crossref", ["scripts/resolve_citation_metadata.py", "--apply"]),
+            ("resolving against Crossref", ["scripts/resolve_citation_metadata.py", "--apply", "--titles"]),
             ("applying human authorities", ["scripts/apply_authorities.py", "--apply"]),
         ):
             print(f"\n=== {label} ===", flush=True)

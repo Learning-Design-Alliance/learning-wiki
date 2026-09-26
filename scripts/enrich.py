@@ -446,13 +446,14 @@ def verify_page_citations(path: Path, apply: bool = True) -> list[dict]:
         # correct, article-printed DOIs across ~110 citations).
         body = FRONTMATTER_BODY_RE.sub("", text, count=1)
         located = None
+        stem = entry["line"][:120]
         for line in body.split("\n"):
-            if doi.lower() in line.lower():
+            if doi.lower() in line.lower() and line.strip().startswith(stem):
                 located = line
                 break
-        cited_title = cc._extract_title_text(located or entry["line"], year)
+        cited_title = cc._extract_title_text(located or entry.get("full_line") or entry["line"], year)
         try:
-            res = rdc.classify_doi(doi, cc._words_from_text(cited_title), cited_title)
+            res = rdc.classify_doi(doi, cc._words_from_text(cited_title), cited_title, key=entry["key"])
         except Exception as e:                      # network trouble must not lose the page
             print(f"  [citation check skipped for {doi}: {e}]", file=sys.stderr)
             continue
@@ -468,14 +469,55 @@ def verify_page_citations(path: Path, apply: bool = True) -> list[dict]:
                   f"left in place", file=sys.stderr)
             continue
         removals.append({"doi": doi, "status": res["status"],
-                         "cited_as": cited_title, "resolves_to": res.get("title")})
+                         "cited_as": cited_title, "resolves_to": res.get("title"),
+                         "why": res.get("why")})
         if apply:
-            for form in (f" [doi:{doi}](https://doi.org/{doi})",
-                         f" [https://doi.org/{doi}](https://doi.org/{doi})"):
-                text = text.replace(form, "")
-                text = text.replace(form.replace(doi, doi.upper()), "")
+            # Edit the citation line this finding is about, and nothing else.
+            # This used to replace the DOI's link form anywhere in the page, so
+            # a prose sentence citing the same DOI lost its link too, and a DOI
+            # written as a bare URL was not touched at all while the manifest
+            # recorded it as removed. The frontmatter mirror of this entry goes
+            # with it, since it carries the same wrong DOI.
+            from resolve_citation_metadata import strip_doi_from_line
+            out, removed_here = [], False
+            for line in text.splitlines(keepends=True):
+                if doi.lower() in line.lower() and line.strip().startswith(stem):
+                    new_line = strip_doi_from_line(line, doi)
+                    removed_here |= new_line != line
+                    line = new_line
+                elif re.fullmatch(r'\s*resource: "https?://(?:dx\.)?doi\.org/' + re.escape(doi) + r'"\s*',
+                                  line, flags=re.I):
+                    line = ""
+                out.append(line)
+            text = "".join(out)
+            removals[-1]["removed"] = removed_here
     if apply and removals:
         path.write_text(text, encoding="utf-8")
+
+    # Prose links. Every check here reads only Key Sources and Evidence, so a
+    # DOI linked from a sentence is never looked up: 10.1056/NEJMoa054115,
+    # registered nowhere, sat in two prose links for Pronovost et al. (2006).
+    # Reported, never edited, because deciding what a sentence meant to cite is
+    # a person's call.
+    import doi_resolver as dr
+    cited_dois = {e["doi"].lower() for e in cc.extract_citations(text, rel) if e.get("doi")}
+    body = FRONTMATTER_BODY_RE.sub("", text, count=1)
+    for m in re.finditer(r"\]\(https?://(?:dx\.)?doi\.org/(10\.[^)\s]+)\)", body):
+        pdoi = m.group(1).rstrip(".,;").lower()
+        if pdoi in {r["doi"].lower() for r in removals}:
+            print(f"  [prose DOI removed from citation] {rel}: {pdoi} is still linked from "
+                  f"prose; the gate removed it from the citation as another work's DOI",
+                  file=sys.stderr)
+            continue
+        if pdoi in cited_dois:
+            continue
+        try:
+            reg = dr.handle_registered(pdoi)
+        except Exception:
+            reg = None
+        if reg is False:
+            print(f"  [prose DOI unregistered] {rel}: {pdoi} — doi.org has no handle "
+                  f"for it; the sentence linking it needs a person", file=sys.stderr)
 
     # Offline backstop. Everything above needs Crossref, and on an 'error'
     # status it deliberately leaves the DOI alone rather than deleting good

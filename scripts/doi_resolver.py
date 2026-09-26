@@ -37,6 +37,7 @@ Usage:
 import argparse
 import html
 import json
+import re
 import os
 import sys
 import time
@@ -106,6 +107,11 @@ def _is_stale(entry: dict) -> bool:
     # DataCite DOI for another 30 days.
     if not entry.get("resolved") and "registry" not in entry:
         return True
+    # A resolved Crossref entry written before records carried authors, year
+    # and type cannot answer citation_identity's questions; re-fetch it rather
+    # than read the missing fields as "the registry named no authors".
+    if entry.get("resolved") and entry.get("registry", "crossref") == "crossref" and "authors" not in entry:
+        return True
     return date.today() - date.fromisoformat(entry["checked_at"]) > timedelta(days=CACHE_TTL_DAYS)
 
 
@@ -138,14 +144,32 @@ def resolve_doi(doi: str) -> dict:
     # verbatim, so unescape once here rather than at each of the call sites.
     def _u(s):
         return html.unescape(s) if isinstance(s, str) else s
-    titles = [_u(x) for x in (msg.get("title") or [])]
+    # Some publishers deposit markup in titles ("<i>Responsive Classroom</i>",
+    # "<scp>H</scp>arry <scp>P</scp>otter"); a title compared or written with the
+    # tags in it matches nothing on a page.
+    titles = [" ".join(re.sub(r"<[^>]+>", "", _u(x)).split()) for x in (msg.get("title") or [])]
     containers = [_u(x) for x in (msg.get("container-title") or [])]
     pages = _u(msg.get("page") or "")
+    def _names(people):
+        return [_u(a.get("family") or a.get("name") or "") for a in (people or [])]
+    year = None
+    for k in ("published-print", "published-online", "issued", "created"):
+        parts = (msg.get(k) or {}).get("date-parts")
+        if parts and parts[0] and parts[0][0]:
+            year = parts[0][0]
+            break
     return {
         "doi": doi,
         "resolved": True,
         "registry": "crossref",
         "title": titles[0] if titles else None,
+        # Who and when, for citation_identity.identity_mismatch: a title check
+        # alone passed a 2008 paper as Pronovost et al. (2006), and a book
+        # review as the book it reviews.
+        "authors": _names(msg.get("author")),
+        "editors": _names(msg.get("editor")),
+        "year": year,
+        "type": msg.get("type"),
         # Bibliographic fields, so a caller can check the journal/volume/pages
         # a page asserts rather than only its title. Crossref omits any of
         # these freely (books have no volume, some records no page range), so
