@@ -25,7 +25,7 @@ sources:
 # Mentoring/Coaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q2`–`q4` · 6 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Mentoring and coaching are relationship-based supports in which a more experienced peer, instructor, or practitioner helps a learner interpret goals, practice skills, reflect on progress, and navigate challenge. The key difference from simple advice is that mentoring and coaching are developmental: they combine encouragement, modeling, questioning, feedback, and calibrated support over time. In learning settings, they often improve persistence and transfer because support is attached to real performance and real decisions rather than delivered only in the abstract.

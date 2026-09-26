@@ -20,7 +20,7 @@ grain_size: unit
 # 4C/ID (Four-Component Instructional Design)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies, `q2`–`q4` · 8 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 4C/ID is a design pattern for teaching complex skills by organizing instruction around four coordinated components: whole learning tasks, supportive information, procedural information, and part-task practice. The pattern is designed for skills that require learners to integrate knowledge, strategy, and procedure rather than master isolated facts. Its central move is to keep the whole task visible while still managing difficulty through sequencing, scaffolding, and selective automation of subskills.

@@ -267,6 +267,28 @@ def judge(claim: str, title: str, block: str, subs: list, source: str, basis: st
             "cost_usd": gen.cost_usd, "provider": gen.provider, "latency_s": round(time.monotonic() - t0, 1)}
 
 
+def entry_jobs(rows: list, pages: dict) -> tuple:
+    """[(row, anchor, title, block, subs, source, basis, text, digest)] for every
+    evidence entry with a text to judge it against, and a count of those without."""
+    jobs, skipped = [], collections.Counter()
+    for r in rows:
+        title, entries = units(pages[r["claim"]])
+        for anchor, block, subs in entries:
+            hit = cached_article(block, r["articles"])
+            if hit:
+                source, text, basis = hit[0], hit[1], "full text"
+            else:
+                m = DOI_RE.search(block)
+                text = openalex_abstract(m.group(0).rstrip(".,;")) if m else None
+                if not text:
+                    skipped["no DOI" if not m else "no abstract"] += 1
+                    continue
+                source, basis = "doi:" + m.group(0).rstrip(".,;"), "abstract"
+            jobs.append((r, anchor, title, block, subs, source, basis, text,
+                         digest(r["claim"], title, block, "\n".join(subs), text)))
+    return jobs, skipped
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--top", type=int, default=100, help="how many of the most-cited claims")
@@ -288,9 +310,18 @@ def main() -> None:
         return
 
     if args.report:
+        # A verdict counts only while the entry still reads as it did when judged:
+        # once a page is corrected, its old failure is stale, not open.
+        judged = done_before(args.out)
+        wanted = {r["claim"] for r in judged.values()}
+        current = {j[-1] for j in entry_jobs([r for r in ranking(pages) if r["claim"] in wanted], pages)[0]}
         latest = {}
-        for r in done_before(args.out).values():
-            latest[(r["claim"], r["entry"])] = r
+        for r in judged.values():
+            if r["digest"] in current:
+                latest[(r["claim"], r["entry"])] = r
+        stale = len({(r["claim"], r["entry"]) for r in judged.values()} - set(latest))
+        if stale:
+            print(f"{stale} earlier verdict(s) are stale: the entry has changed since, so re-run to judge it again")
         c = collections.Counter(r["verdict"] for r in latest.values())
         b = collections.Counter(r["basis"] for r in latest.values())
         print(f"{len(latest)} evidence entries judged on {len({k[0] for k in latest})} claims: "
@@ -312,25 +343,9 @@ def main() -> None:
     if not key:
         raise SystemExit("OPENROUTER_API_KEY is not set")
     seen = done_before(args.out)
-    jobs, skipped, reused = [], collections.Counter(), 0
-    for r in rows:
-        title, entries = units(pages[r["claim"]])
-        for anchor, block, subs in entries:
-            hit = cached_article(block, r["articles"])
-            if hit:
-                source, text, basis = hit[0], hit[1], "full text"
-            else:
-                m = DOI_RE.search(block)
-                text = openalex_abstract(m.group(0).rstrip(".,;")) if m else None
-                if not text:
-                    skipped["no DOI" if not m else "no abstract"] += 1
-                    continue
-                source, basis = "doi:" + m.group(0).rstrip(".,;"), "abstract"
-            d = digest(r["claim"], title, block, "\n".join(subs), text)
-            if d in seen:
-                reused += 1
-                continue
-            jobs.append((r, anchor, title, block, subs, source, basis, text, d))
+    jobs, skipped = entry_jobs(rows, pages)
+    reused = sum(1 for j in jobs if j[-1] in seen)
+    jobs = [j for j in jobs if j[-1] not in seen]
     print(f"{len(rows)} claims; {len(jobs)} evidence entries to judge, {reused} already judged; "
           f"not checkable: {dict(skipped) or 0}", flush=True)
 

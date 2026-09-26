@@ -110,6 +110,38 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-27 (later) — every kind is linked; the judge is spent where the wiki leans
+
+- **`scripts/link_pages.py`** does for theories, principles, patterns, elements and strategies what
+  `link_claims.py` did for claims: each page outside the main component gets its source's other pages
+  (from the manifest) and its BM25 neighbours of any kind, and GLM says `related` (same kind, both
+  `## Related <Kind>`), `applies` / `applied_by` (the more abstract page's `## Examples`) or
+  `evidence` (a claim, into `### Claims` with a marker). A marker is never stronger than the
+  claim's recorded evidence: S needs two studies and a q3, M one study at q2 (`strength_cap`). No
+  claim link goes onto a strategy or element, whose claims sit in prose sections. 1,256 pages,
+  $0.12: **isolated pages 718 → 90, main component 82% → 96%.** 267 pages got no link because no
+  candidate fitted, and were left alone. The batch runs it after `link_claims.py`.
+- **The batch runs with no gating judge; `scripts/check_load_bearing.py` is where the judge goes
+  instead.** It ranks claims by the design pages citing them and judges each evidence entry against
+  its study's text: the cached article when the claim came from a batch, otherwise the OpenAlex
+  abstract for its DOI. On an abstract, absence is `unverifiable`, never a failure. It writes nothing
+  to any page. **The claims the wiki leans on are not the GLM batches' claims**: of the 137 claims
+  three or more design pages cite, 3 came from a batch, so the extractor's ~13% misstatement rate
+  sits mostly on pages little rests on. First run, top 200 claims plus their re-ranked neighbours, $0.54:
+  366 entries, 168 pass, 178 unverifiable, 19 fail. Ten of the failures were real and are corrected
+  (Trypke et al. 2023 and Lively et al. 2023 each read as the opposite of their abstracts' findings;
+  Stefanou et al. 2004 is a framework paper cited as an evidence review; van Merriënboer et al. 2006
+  is a design argument coded as a q4 experiment with a large effect; Sinha & Kapur's productive-failure
+  range; Deci et al. 2001's "modest"; Bowers et al.'s "particular benefit for younger students";
+  Sweller & Cooper's same-structure limit; Stokamer's r; Orr's own table). **Read the judge's failures before acting**:
+  three were its mistakes (a nine-author list OpenAlex truncates; two online-first years), and
+  `claims/loa-pilot-self-reported-increase-all-20-technologies` now contradicts its own title, which
+  is the maintainer's call to rename.
+- **OpenAlex attaches the wrong abstract to some classics**, under the right DOI and title: a Spanish
+  thesis's for Wood, Bruner & Ross (1976) and Deci (1971), an English action-research study's for
+  Alfieri et al. (2011). `abstract_usable()` refuses a non-English abstract; `--report` lists a
+  `not-this-study` on an abstract as a registry problem, not a page problem.
+
 ### 2026-09-27 — claims are linked and merged; search runs on an index
 
 - **`scripts/search_index.py`**: SQLite FTS5 over every content page, in `.cache/` (ignored), rebuilt
@@ -2190,6 +2222,8 @@ ld-wiki/
     search_index.py    ← SQLite FTS5 index of the wiki in .cache/, used by search and linking
     link_claims.py     ← labels and writes Related Claims links between claims
     merge_claims.py    ← folds a duplicate claim into its canonical page, keeping an alias
+    link_pages.py      ← links theories, principles, patterns, elements, strategies into the graph
+    check_load_bearing.py ← judges the most-cited claims' evidence against their sources; writes nothing
     smd_worklist.py    ← WWC/ESSA review pages to extract next, for the SMD family (see above)
     priority_worklist.py ← what to extract next: cited-but-unrecorded, hub, and evidence-less claims (see above)
     mcp_server.py      ← the wiki as MCP tools: search, fetch, resolve, backlinks, why (see above)

@@ -12,7 +12,7 @@ generated:
 # Cultivate Multiple Ways of Knowing and Making Meaning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 13 studies, `q2`–`q4` · 6 of 13 report an effect size
+> **Evidence** · 5 claims (4 for, 1 against) · 13 studies, `q1`–`q4` · 5 of 13 report an effect size
 
 ## Description
 This strategy designs learning so that content can be accessed, understood, and expressed through multiple modalities, cultural frames, and forms of representation. Learners encounter material through varied means (text, visual, oral, embodied, narrative) and demonstrate understanding through varied means (writing, art, performance, discussion, building). The goal is an inclusive environment where diverse backgrounds are treated as assets and expression is not limited to a single sanctioned format.

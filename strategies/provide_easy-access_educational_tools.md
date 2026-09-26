@@ -12,7 +12,7 @@ generated:
 # Provide Easy-Access Educational Tools
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 5 studies, `q3`–`q4` · 4 of 5 report an effect size
+> **Evidence** · 2 claims (1 for, 1 against) · 5 studies, `q1`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Providing easy-access educational tools means organizing manipulatives, graphic organizers, audio recordings, highlighters, timers, choice boards, learning menus, and digital resources so students can retrieve and use them without asking permission or waiting for the instructor. The strategy shifts tool selection from teacher-controlled to learner-controlled, building self-advocacy and self-regulation alongside content learning. Access is the point: a tool locked in a cabinet or buried in a menu structure provides no support.

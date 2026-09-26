@@ -12,7 +12,7 @@ generated:
 # Self Regulated Learning Strategy Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies, `q2`–`q4` · 6 of 8 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies, `q1`–`q4` · 5 of 8 report an effect size
 
 ## Description
 Self Regulated Learning (SRL) strategy instruction makes the processes of successful learning — goal setting, planning, strategy selection, self-monitoring, and self-evaluation — explicit objects of teaching rather than assumed prerequisites. Instructors model strategies, provide guided practice, and gradually transfer control so learners can deploy and adapt strategies independently across tasks. The approach treats the learner, not just the content, as the target of instruction.

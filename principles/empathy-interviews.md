@@ -17,7 +17,7 @@ sources:
 # Empathy Interviews
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 mixed) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 mixed) · 3 studies, `q2`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Empathy interviews are structured, open-ended conversations designed to help educators or designers understand how learners experience school, work, systems, and support. Unlike a survey or diagnostic checklist, the goal is not only to collect facts but to hear how learners interpret challenges, strengths, motivations, and belonging in their own words. Used well, empathy interviews improve the instructor's model of the learner and can lead to more responsive supports, stronger relationships, and better alignment between instruction and lived reality.

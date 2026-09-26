@@ -12,7 +12,7 @@ generated:
 # Health and Dietary Planning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 7 studies, `q3`–`q4` · 6 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 against) · 7 studies, `q1`–`q4` · 5 of 7 report an effect size
 
 ## Description
 Learners study dietary guidance such as the food pyramid or food-plate models, learn about daily nutritional requirements, and then plan food for one day that satisfies those requirements. The strategy combines content learning (what the body needs) with authentic decision-making (constructing a plan under constraints), so knowledge of nutrition is applied rather than merely recalled.

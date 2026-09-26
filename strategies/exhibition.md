@@ -12,7 +12,7 @@ generated:
 # Exhibition
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 13 studies, `q2`–`q4` · 7 of 13 report an effect size
+> **Evidence** · 5 claims (5 for) · 13 studies, `q1`–`q4` · 6 of 13 report an effect size
 
 ## Description
 An exhibition is a culminating event in which learners present finished work — projects, performances, prototypes, or portfolios — to an audience beyond the instructor, such as peers, families, community members, or domain professionals. The public, authentic audience transforms the work from a private assignment into a performance with real stakes, and the preparation cycle (drafting, critique, revision) is as much the learning mechanism as the event itself.

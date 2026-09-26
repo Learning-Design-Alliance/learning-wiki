@@ -12,7 +12,7 @@ generated:
 # Quiet Space for Self-Regulation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies, `q1`–`q4` · 7 of 8 report an effect size
 
 ## Description
 Designating a quiet space in the learning environment where learners can take breaks to regroup and calm themselves. The area limits auditory, visual, and social input, allowing learners to self-regulate when feeling overwhelmed. It can be as simple as a corner with a comfortable seat or as enclosed as a small tent or canopy, typically stocked with calming sensory tools.

@@ -12,7 +12,7 @@ sources:
     author: "Sweller, J., & Cooper, G. A."
     q: 3
     i: 2
-    n: multiple class-based studies
+    n: five experiments with Year 9, Year 11 and university students
   - id: barbieri-booth-2016
     resource: "https://doi.org/10.1016/j.lindif.2016.04.001"
     title: "Barbieri, C., & Booth, J. L. (2016). Support for struggling students in algebra: Contributions of incorrect worked examples. *Learning and Individual Differences, 48*, 36-44. [https://doi.org/10.1016/j.lindif.2016.04.001](https://doi.org/10.1016/j.lindif.2016.04.001)"
@@ -32,7 +32,7 @@ evidence_strength: moderate
 In mathematics learning, worked examples can improve performance by making solution structure visible before learners attempt similar problems on their own.
 
 ## Subclaims
-`q3 i2` Worked examples improve algebra learning relative to unsupported problem solving for novices. [→ Sweller & Cooper 1985](#sweller-cooper-1985)
+`q3 i2` For novices, studying worked examples instead of solving conventional algebra problems led to faster, more accurate solutions on later problems of the same structure, though not on problems of a different structure. [→ Sweller & Cooper 1985](#sweller-cooper-1985)
 
 `q2 i2` Variants of worked examples can improve mathematics understanding when they direct attention to structure and error. [→ Barbieri & Booth 2016](#barbieri-booth-2016)
 
@@ -44,9 +44,9 @@ Primary evidence link: https://doi.org/10.1037/0022-0663.77.1.59
 
 Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Cognition and Instruction, 2*(1), 59-89. [https://doi.org/10.1207/s1532690xci0201_3](https://doi.org/10.1207/s1532690xci0201_3)
 
-`q3 · peer-reviewed experiment` · `i2 · medium impact` · `n=multiple class-based studies`
+`q3 · peer-reviewed experiments (five)` · `i2 · medium impact` · `n=five experiments with Year 9, Year 11 and university students`
 
-Students learning algebra performed better when they studied worked examples than when they spent the same time on conventional problem solving alone. The effect was strongest during initial learning, when examples reduced search demands and made valid solution structure easier to see.
+In five experiments on algebra manipulation problems, worked examples took considerably less time to process than conventional problems, and students who studied them then solved similar problems faster and with fewer errors. The authors stress that both gains were specific to problems identical in structure to the examples: novices had not yet abstracted general algebra rules, which the authors argue takes considerable practice across a wider range of problems.
 
 ### Barbieri & Booth 2016
 

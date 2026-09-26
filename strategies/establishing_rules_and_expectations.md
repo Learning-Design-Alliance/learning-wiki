@@ -12,7 +12,7 @@ generated:
 # Establishing Rules and Expectations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 3 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Establishing rules and expectations means explicitly defining — and ideally co-constructing — the behavioral, procedural, and academic norms of a learning environment, then teaching them as deliberately as content. It is carried out at the start of a course or term through clear statements of what success and appropriate participation look like, modeled routines, and consistent follow-through.

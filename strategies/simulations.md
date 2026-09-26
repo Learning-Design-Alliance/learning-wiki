@@ -12,7 +12,7 @@ generated:
 # Simulations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 6 studies, `q2`–`q4` · 5 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 Simulations use electronic or software-based activities to model a real-world situation to which a learner must react — operating equipment, managing a patient, negotiating with a customer, or responding to a system failure. Learners practice skills, make decisions, and experience the consequences of mistakes in a safe environment. Long established in aviation and healthcare, simulation-based training is spreading across industries as AI and VR lower the cost of realistic scenario generation.

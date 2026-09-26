@@ -12,7 +12,7 @@ generated:
 # Break Tasks Into Pieces
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 10 claims (8 for, 2 mixed) · 20 studies, `q3`–`q4` · 20 of 20 report an effect size · 3 claims rest on one study
+> **Evidence** · 10 claims (8 for, 2 mixed) · 20 studies, `q1`–`q4` · 18 of 20 report an effect size · 3 claims rest on one study
 
 ## Description
 Breaking tasks into pieces means decomposing a complex task into smaller, sequenced sub-tasks, each with a clear goal, completion criterion, and checkpoint. Learners complete one piece at a time — often with a short break or review between pieces — rather than attempting the whole task in a single sitting. The strategy reduces perceived workload and overwhelm, and is especially useful for learners with attention or executive-function difficulties.

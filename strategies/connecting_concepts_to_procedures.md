@@ -12,7 +12,7 @@ generated:
 # Connecting Concepts to Procedures
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 8 studies, `q3`–`q4` · 7 of 8 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 8 studies, `q2`–`q4` · 6 of 8 report an effect size · 3 claims rest on one study
 
 ## Description
 This strategy treats conceptual knowledge (why a procedure works) and procedural knowledge (how to execute it) as mutually reinforcing rather than separate instructional tracks. Instruction sequences and interleaves the two: procedures are introduced with explicit reference to the concepts that justify them, and conceptual discussion is grounded in the procedures learners are mastering. The relationship is iterative — procedural fluency creates material for conceptual reasoning, and conceptual insight improves procedural flexibility and error detection.

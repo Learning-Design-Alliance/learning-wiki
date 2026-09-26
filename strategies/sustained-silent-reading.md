@@ -12,7 +12,7 @@ generated:
 # Sustained Silent Reading
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies, `q1`–`q4` · 7 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies, `q1`–`q4` · 6 of 8 report an effect size
 
 ## Description
 Sustained Silent Reading (SSR), also known as DEAR ("Drop Everything and Read") or free voluntary reading, is a regularly scheduled block — typically 10–30 minutes — during which students read self-selected texts silently. Teachers usually read alongside students, modeling reading behavior. The strategy prioritizes volume of reading and learner choice over instruction, assessment, or accountability during the reading period itself.

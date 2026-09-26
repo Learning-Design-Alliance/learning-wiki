@@ -12,7 +12,7 @@ generated:
 # Peer Collaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 3 studies, `q2`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Peer collaboration places two or more learners in joint work on a shared task, requiring them to explain, question, negotiate, and build on each other's thinking. It functions as a social engine for learning: the value comes not from proximity but from the elaboration, conflict, and mutual regulation that genuine joint work provokes.

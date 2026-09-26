@@ -12,7 +12,7 @@ generated:
 # Noise Level Monitoring Tools
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q1`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Noise level monitoring tools use a microphone and display (e.g., a projected decibel meter, traffic-light indicator, or app such as Bouncy Balls, Too Noisy, or Yacker Tracker devices) to make ambient classroom sound visible in real time. When noise crosses a teacher-set threshold, the tool signals visually or audibly, prompting students to self-correct without direct teacher intervention. The strategy externalizes a behavioral expectation so that regulation of volume becomes a shared, continuously available cue rather than a repeated verbal reprimand.

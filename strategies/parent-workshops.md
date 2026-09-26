@@ -12,7 +12,7 @@ generated:
 # Parent Workshops
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies, `q3`–`q4` · 7 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies, `q1`–`q4` · 6 of 8 report an effect size
 
 ## Description
 Parent workshops are structured sessions — in person or online — in which schools or programs teach parents specific, actionable techniques for supporting children's learning at home: reading aloud with dialogic questioning, structuring homework routines, giving effective feedback, or managing screen time. Effective workshops model the technique, have parents practice it, and follow up over time, rather than simply delivering information about why the technique matters.

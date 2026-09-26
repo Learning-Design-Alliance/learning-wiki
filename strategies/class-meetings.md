@@ -12,7 +12,7 @@ generated:
 # Class Meetings
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 3 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 2 of 5 report an effect size
 
 ## Description
 A class meeting is a recurring, structured whole-group gathering — typically daily or weekly — in which students and teacher greet one another, share personal or academic news, discuss problems or upcoming work, and make collective decisions. Originating in the Responsive Classroom approach and related to Glasser's class meetings and Deweyan democratic practice, the format positions students as contributors to classroom governance rather than passive recipients of management.

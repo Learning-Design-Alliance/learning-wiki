@@ -23,7 +23,7 @@ sources:
 > **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
-`q2 i2` Exploration of diversity showed the strongest relationship with civic competence outcomes (r = .552); the article reports that the exploration of diversity significantly enhances all civic competence outcomes, though the analysis is correlational (cross tabulations and Pearson correlations) and does not establish causation. [→ Stokamer 2013](#stokamer-2013)
+`q2 i2` Exploration of diversity was one of the two practices most strongly related to civic competence (r = .552), second to a syllabus clearly connecting service work to course content (r = .569); the article reports that the exploration of diversity significantly enhances all civic competence outcomes, though the analysis is correlational (cross tabulations and Pearson correlations) and does not establish causation. [→ Stokamer 2013](#stokamer-2013)
 
 ## Evidence
 

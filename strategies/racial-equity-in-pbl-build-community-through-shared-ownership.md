@@ -12,7 +12,7 @@ generated:
 # Racial Equity In Pbl Build Community Through Shared Ownership
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies, `q2`–`q4` · 3 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies, `q1`–`q4` · 2 of 8 report an effect size
 
 ## Description
 This strategy embeds racial equity into project-based learning (PBL) by restructuring who holds ownership of the project. Instead of the teacher defining the problem, assigning roles, and evaluating against a single standard, students — particularly students of color, whose expertise is often marginalized in traditional schooling — co-define driving questions, negotiate interdependent roles, and present work to authentic audiences. Shared ownership converts the project from a teacher-directed assignment into a community endeavor in which every student's contribution is structurally necessary.

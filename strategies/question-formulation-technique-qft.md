@@ -12,7 +12,7 @@ generated:
 # Question Formulation Technique (QFT)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 4 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 3 of 5 report an effect size
 
 ## Description
 The Question Formulation Technique (QFT), developed by Dan Rothstein and Luz Santana of the Right Question Institute, is a structured procedure in which learners generate, improve, and prioritize their own questions. Learners are presented with a Question Focus (QFocus) — a deliberately neutral stimulus such as a statement, image, or video that is answered by questions, not by discussion — and produce questions under four rules: ask as many questions as possible; do not stop to discuss, judge, or answer; write every question down exactly as stated; and change any statement into a question. The sequence moves from divergent production to convergent refinement (categorizing questions as open- or closed-ended, converting between types, prioritizing against a stated purpose) and closes with metacognitive reflection on what the questioning process taught them. The facilitator enforces the process without evaluating or improving the content of questions, preserving learner ownership.

@@ -12,7 +12,7 @@ generated:
 # Racial Equity in PBL - Listen to the Voices of Students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies, `q3`–`q4` · 4 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies, `q1`–`q4` · 3 of 8 report an effect size
 
 ## Description
 This strategy positions students — particularly students of color — as authors and narrators of their own learning stories within project-based learning (PBL). Rather than projects being designed *about* communities or *for* students, students choose the questions, formats, and audiences through which their experiences and perspectives enter the public record. Advancing youth voice is treated as inseparable from advancing youth equity: voice creates agency and leadership, and student leadership in turn builds the classroom culture that PBL requires.

@@ -12,7 +12,7 @@ generated:
 # Inquiry-Based Exploration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Inquiry-based exploration places learners in front of an open-ended problem, question, or phenomenon and asks them to investigate it — gathering information, forming hypotheses, testing ideas, and generating solutions — rather than first receiving a fully worked explanation. The instructor's role shifts from transmitter to designer of the problem and facilitator of the investigation.

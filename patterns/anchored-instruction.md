@@ -19,7 +19,7 @@ grain_size: lesson
 # Anchored Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (1 for, 3 mixed) · 9 studies, `q2`–`q4` · 8 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 Anchored instruction organizes learning around a rich, shared scenario that acts as the "anchor" for inquiry, discussion, and problem solving. Instead of teaching ideas first and application later, the pattern begins with a narrative or multimedia situation containing the information, constraints, and questions learners will need to investigate. The anchor creates a common reference point that learners can revisit as they gather evidence and develop solutions.

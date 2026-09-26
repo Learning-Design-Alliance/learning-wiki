@@ -17,7 +17,7 @@ sources:
 # Provide student choice to build ownership and self-efficacy in maker education
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies, `q1`–`q4` · 2 of 3 report an effect size
 
 ## Description
 Student choice is identified as a common theme in maker education best practice: student interests and passions should shape the makerspace, the tools available, and the types of projects selected. The paper states that "One of the goals of maker education is increased student ownership and self-efficacy, and providing student choice encourages this."

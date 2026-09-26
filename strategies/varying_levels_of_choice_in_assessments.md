@@ -12,7 +12,7 @@ generated:
 # Varying Levels of Choice in Assessments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies, `q1`–`q4` · 2 of 3 report an effect size
 
 ## Description
 Varying levels of choice in assessments means deliberately calibrating how much decision-making authority students have over what they are assessed on — from fully assigned topics, to constrained choice among options, to open-ended self-selected topics. The strategy is carried out by structuring assessment prompts with tiered options (e.g., choice of topic, choice of format, choice of sources) while holding the assessed criteria constant.

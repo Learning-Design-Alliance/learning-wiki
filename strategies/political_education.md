@@ -12,7 +12,7 @@ generated:
 # Political Education
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 14 studies, `q2`–`q4` · 7 of 14 report an effect size
+> **Evidence** · 5 claims (4 for, 1 mixed) · 14 studies, `q1`–`q4` · 6 of 14 report an effect size
 
 ## Description
 Political education involves developing a comprehensive understanding of the historical, social, and political contexts that shape a problem. It is carried out through structured reading, facilitated dialogue, and critical analysis of power dynamics and positionality within dominant structures. The goal is to build critical consciousness — the capacity to perceive systemic injustice and act against it — before learners engage in empirical research or community action, so that inquiry is grounded in root-cause analysis rather than surface symptoms.

@@ -12,7 +12,7 @@ generated:
 # Experimentation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 2 against) · 16 studies, `q2`–`q4` · 9 of 16 report an effect size
+> **Evidence** · 6 claims (4 for, 2 against) · 16 studies, `q1`–`q4` · 8 of 16 report an effect size
 
 ## Description
 Experimentation asks learners to pose a question or prediction, systematically vary conditions, observe outcomes, and revise their understanding based on evidence. It functions as both a learning activity and a model of scientific reasoning: the learner generates a hypothesis, gathers data, and confronts discrepancies between expectation and result.

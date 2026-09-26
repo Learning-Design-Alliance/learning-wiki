@@ -12,7 +12,7 @@ generated:
 # Self-Reinforcement in Writing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies, `q1`–`q4` · 2 of 3 report an effect size
 
 ## Description
 Self-reinforcement is a self-regulation strategy in which students monitor their own writing behavior and deliver contingent self-praise or self-rewards — "I stayed focused through that whole paragraph," "I met my timer goal" — during planning, drafting, and revising. It is one of the self-regulatory processes in [Self-Regulated Learning](../theories/self-regulated-learning.md) applied to writing, and is typically taught explicitly within Self-Regulated Strategy Development (SRSD) so that external reinforcement from a teacher is gradually replaced by the student's own evaluative self-talk. The strategy draws on [Behaviorism](../theories/behaviorism.md) (contingent reinforcement strengthens behavior) and [Social Learning Theory](../theories/social-learning-theory.md) (self-reinforcement as an internalized standard learned from modeled evaluation).

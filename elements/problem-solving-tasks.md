@@ -12,7 +12,7 @@ generated:
 # Problem-Solving Tasks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 3 studies, `q2`–`q3` · 2 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Problem-solving tasks are structured activities in which learners must apply knowledge to reach a goal state that is not directly given — diagnosing a fault, designing a solution, or deciding among alternatives. Unlike routine exercises, they require learners to select and coordinate strategies, making them the primary vehicle for developing analytical reasoning and transferable skill.

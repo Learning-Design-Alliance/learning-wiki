@@ -12,7 +12,7 @@ generated:
 # Open Communication and Trust
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 6 of 7 report an effect size
 
 ## Description
 Open Communication and Trust is a strategy in which the teacher proactively establishes friendly, accessible channels of communication with students and their families, grounded in mutual respect rather than contact only around problems. When helping students succeed becomes a group effort among teacher, learner, and home, both academic performance and attitudes toward school improve.

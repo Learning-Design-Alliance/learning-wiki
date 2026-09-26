@@ -12,7 +12,7 @@ generated:
 # Warning and Consequence
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 against) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
+> **Evidence** · 1 claim (1 against) · 3 studies, `q1`–`q4` · 2 of 3 report an effect size
 
 ## Description
 Warning and consequence is a behavior management strategy in which the teacher first states a clear behavioral expectation, then delivers an explicit warning that a specific, pre-announced consequence will follow if the behavior continues, and finally applies that consequence consistently and calmly when the behavior persists. It operationalizes contingency: the learner's choices, not the teacher's mood, determine outcomes. The strategy draws on operant conditioning — consequences function as response cost or punishment that reduces the future frequency of the target behavior [Behaviorism](../theories/behaviorism.md).

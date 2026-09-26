@@ -12,7 +12,7 @@ generated:
 # Case Based Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 7 studies, `q2`–`q4` · 4 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 7 studies, `q2`–`q4` · 3 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Case based learning places learners in the role of analyst or decision-maker confronting a realistic scenario — a patient presentation, a business dilemma, a legal dispute, a classroom incident. Learners work through the case individually or in groups, applying concepts to diagnose problems, weigh options, and justify decisions. It is carried out through structured case discussion, written case analysis, or sequenced case sets that reveal information progressively.

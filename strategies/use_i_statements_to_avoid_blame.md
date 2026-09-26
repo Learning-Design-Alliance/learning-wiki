@@ -12,7 +12,7 @@ generated:
 # Use "I" Statements to Avoid Blame
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies, `q3`–`q4` · 5 of 9 report an effect size
+> **Evidence** · 4 claims (4 for) · 9 studies, `q1`–`q4` · 4 of 9 report an effect size
 
 ## Description
 An "I" statement (or "I-message") frames a concern around the speaker's own observation and emotional reaction — "I felt that other students were distracted" — rather than an accusation aimed at the listener ("You distracted everyone"). The strategy, developed in Gordon's Teacher Effectiveness Training, reduces the defensiveness that "you" statements trigger, keeping dialogue open and modeling non-blaming communication for students.

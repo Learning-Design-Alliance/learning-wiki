@@ -12,7 +12,7 @@ generated:
 # Project-based Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (6 for, 1 against) · 17 studies, `q2`–`q4` · 10 of 17 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (6 for, 1 against) · 17 studies, `q1`–`q4` · 9 of 17 report an effect size · 1 claim rests on one study
 
 ## Description
 Project-based learning (PBL) is an instructional approach in which learners work over an extended period on a complex, authentic problem or driving question, producing a public product for a real audience. It combines sustained inquiry, student voice and choice, collaboration, reflection, and critique-and-revision. Effective PBL is not unstructured discovery: it depends on deliberate scaffolding, progress monitoring, and ongoing feedback from the instructor.

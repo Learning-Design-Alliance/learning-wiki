@@ -25,7 +25,7 @@ sources:
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 8 studies, `q2`–`q4` · 7 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Using multiple methods of assessment means gathering evidence of learning through more than one type of task, representation, or performance. Instead of relying on a single assessment mode to stand in for all understanding, instructors use a mix of written, oral, visual, practical, performance-based, or reflective evidence to build a more credible picture of learner progress. The main value is not variety for its own sake, but better alignment between what is being assessed, how competence is expressed, and how different learners can show what they know.

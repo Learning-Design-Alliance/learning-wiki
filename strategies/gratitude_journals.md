@@ -12,7 +12,7 @@ generated:
 # Gratitude Journals
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 3 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 2 of 5 report an effect size
 
 ## Description
 A gratitude journal is a recurring writing activity in which learners list or elaborate on things they are thankful for, typically once or twice weekly, using prompts such as "three good things that happened and why they happened." It is carried out as a brief structured routine — usually 5–15 minutes per session over several weeks — rather than as open-ended diary writing.

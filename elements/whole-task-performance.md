@@ -25,7 +25,7 @@ sources:
 # Whole-task performance
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies, `q2`–`q3` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Whole-task performance engages learners in authentic, complex tasks that integrate multiple skills and knowledge areas simultaneously, mirroring the conditions of real-world practice. Rather than decomposing learning into isolated components, this element requires learners to coordinate knowledge across domains while solving meaningful, non-trivial problems. 

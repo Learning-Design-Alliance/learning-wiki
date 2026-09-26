@@ -12,7 +12,7 @@ generated:
 # Timed Writing Sprints
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies, `q3`–`q4` · 8 of 10 report an effect size
+> **Evidence** · 4 claims (4 for) · 10 studies, `q1`–`q4` · 7 of 10 report an effect size
 
 ## Description
 A timed writing sprint is a bounded composing session — typically 5 to 25 minutes — in which learners write continuously toward a prompt or goal without stopping to revise, edit, or censor. The clock externalizes the "keep going" demand, and the explicit rule that editing is deferred separates idea generation from text refinement. Sprints are usually followed by a short reflection or revision pass in which the raw output is shaped into usable text.

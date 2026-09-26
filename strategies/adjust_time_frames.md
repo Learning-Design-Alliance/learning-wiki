@@ -12,7 +12,7 @@ generated:
 # Adjust Time Frames
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 unmarked) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 unmarked) · 10 studies, `q2`–`q4` · 9 of 10 report an effect size · 2 claims rest on one study
 
 ## Description
 Adjusting time frames means deliberately shortening the duration of instructional segments, work periods, and sustained tasks to match learners' attentional capacity, then re-engaging them at structured checkpoints. It is carried out with visible timers, clearly bounded sub-tasks, and brief check-ins or movement breaks between intervals — for example, a 10-minute work sprint followed by a two-minute progress share.

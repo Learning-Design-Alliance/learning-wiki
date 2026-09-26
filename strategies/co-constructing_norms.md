@@ -12,7 +12,7 @@ generated:
 # Co Constructing Norms
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 3 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Co constructing norms is a strategy in which the instructor facilitates a structured discussion through which learners propose, refine, and agree upon the norms that will govern their shared work — covering behavior, participation, discussion etiquette, and how the group handles disagreement. The resulting agreements are documented, revisited, and enforced (or renegotiated) by the community rather than imposed unilaterally.

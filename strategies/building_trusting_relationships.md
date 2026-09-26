@@ -12,7 +12,7 @@ generated:
 # Building Trusting Relationships
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 3 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Building trusting relationships means deliberately establishing warmth, credibility, and mutual regard between instructor and learners so that learners feel safe to take intellectual risks, seek help, and persist through difficulty. It is carried out through everyday practices — greeting learners, learning names, [Check-Ins](../elements/check-in.md), active listening, transparent expectations, and showing appropriate vulnerability — rather than through a single activity.

@@ -12,7 +12,7 @@ generated:
 # Learning Games
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 10 studies, `q1`–`q4` · 9 of 10 report an effect size
 
 ## Description
 Learning games are rule-governed activities with explicit goals, quantifiable outcomes, and feedback loops, designed so that mastering the game requires mastering the target content or skill. They range from digital serious games (e.g., *DragonBox*, *Foldit*) to well-structured classroom games (e.g., review competitions, simulation games). The defining feature is that the learning is embedded in the game mechanics rather than delivered as a wrapper around game play.

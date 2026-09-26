@@ -12,7 +12,7 @@ generated:
 # Standards-/Mastery-Based Grading
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 9 studies, `q2`–`q4` · 8 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Standards-/Mastery-Based Grading (also called standards-based or mastery grading) assigns grades according to a learner's demonstrated level of proficiency on clearly defined learning objectives, typically on a rubric scale (e.g., beginning → developing → proficient → advanced) rather than a percentage of points earned. Criteria are made transparent to students in advance, and grades communicate what a learner knows and can do — not effort, behavior, or the ability to accumulate points. Reassessment is usually permitted, so a grade reflects eventual mastery rather than speed of mastery.

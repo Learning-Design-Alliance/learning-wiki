@@ -12,7 +12,7 @@ generated:
 # Just In Time Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 18 studies, `q2`–`q4` · 13 of 18 report an effect size
+> **Evidence** · 7 claims (5 for, 2 mixed) · 18 studies, `q1`–`q4` · 12 of 18 report an effect size
 
 ## Description
 Just In Time (JIT) learning defers instruction until the point of need: learners attempt a task first, and content, hints, or mini-lessons are delivered when a gap becomes apparent. The approach trades comprehensive front-loaded instruction for on-demand support embedded in the task context, so new information arrives with immediate relevance and an immediate opportunity to apply it.

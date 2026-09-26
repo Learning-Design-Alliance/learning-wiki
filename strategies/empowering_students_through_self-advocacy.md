@@ -12,7 +12,7 @@ generated:
 # Empowering Students Through Self-Advocacy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 3 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Self-advocacy instruction teaches students to understand their own learning needs, rights, and available supports, and gives them structured opportunities to communicate and act on that understanding — for example, requesting accommodations, asking for help, or leading their own IEP meetings. It is a core component of self-determination instruction, which research links to improved post-school outcomes [Self-determination skills predict better post-school education and employment outcomes.](../claims/autonomy-supports-intrinsic-motivation.md) [+M].

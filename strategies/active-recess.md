@@ -12,7 +12,7 @@ generated:
 # Active Recess
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies, `q1`–`q4` · 2 of 3 report an effect size
 
 ## Description
 Active recess is a scheduled break from academic instruction in which children engage in free or lightly structured physical activity — running, games, playground equipment, or movement stations. It is carried out as a deliberate part of the school day, typically outdoors, with staff who ensure safety and, in structured variants, offer optional activity prompts without mandating participation.

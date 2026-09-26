@@ -24,8 +24,8 @@ sources:
     resource: "https://doi.org/10.1207/s15326985ep3902_2"
     title: "Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C. (2004). Supporting autonomy in the classroom: Ways teachers encourage student decision making and ownership. *Educational Psychologist, 39*(2), 97–110. [https://doi.org/10.1207/s15326985ep3902_2](https://doi.org/10.1207/s15326985ep3902_2)"
     author: "Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C."
-    q: 3
-    i: 2
+    q: 1
+    i: "?"
     n: N/A
 id: autonomy-supports-intrinsic-motivation
 evidence_strength: strong
@@ -34,7 +34,7 @@ evidence_strength: strong
 # Autonomy support increases intrinsic motivation, engagement, and persistence in learning.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q3`–`q4` · `i2` medium
+> **Evidence** · 3 studies · `q1`–`q4` · `i2` medium
 
 When learners experience meaningful choice, volition, and internal causality — rather than external control — they show greater intrinsic motivation, deeper engagement, and longer persistence. The mechanism is not choice for its own sake but perceived self-determination: the sense that one is acting from one's own values rather than external pressure.
 
@@ -44,7 +44,7 @@ When learners experience meaningful choice, volition, and internal causality —
 
 `q4 i2` External rewards contingent on task engagement undermine intrinsic motivation for tasks that were already interesting, while non-controlling informational feedback preserves or enhances it. [→ Deci Koestner Ryan 1999](#deci-koestner-ryan-1999)
 
-`q3 i2` Providing students meaningful organisational choice (over task content or approach) in classrooms increases self-reported intrinsic motivation and willingness to engage with difficult material. [→ Stefanou et al 2004](#stefanou-et-al-2004)
+`q1 i?` A conceptual framework distinguishes organisational, procedural and cognitive autonomy support and proposes that cognitive support (evaluating work against one's own standard) fosters the most enduring investment in deep thinking, while organisational support mainly affects comfort with the classroom. [→ Stefanou et al 2004](#stefanou-et-al-2004)
 
 ## Evidence
 
@@ -68,9 +68,9 @@ This meta-analysis examined 128 studies and found that tangible, expected reward
 
 Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C. (2004). Supporting autonomy in the classroom: Ways teachers encourage student decision making and ownership. *Educational Psychologist, 39*(2), 97–110. [https://doi.org/10.1207/s15326985ep3902_2](https://doi.org/10.1207/s15326985ep3902_2)
 
-`q3 · theoretical and empirical synthesis` · `i2 · moderate` · `n=N/A`
+`q1 · conceptual framework illustrated with teacher vignettes (abstract only)` · `i? · no effect size; no study reported` · `n=N/A`
 
-Stefanou and colleagues distinguish three types of classroom autonomy support: organisational (choosing grouping, seating, task procedures), procedural (choosing tools, presentation formats), and cognitive (evaluating ideas, constructing understanding). They argue — and review evidence suggesting — that cognitive autonomy support, more than procedural or organisational choice, most powerfully supports intrinsic motivation and ownership because it engages learners as thinkers, not just actors.
+Stefanou and colleagues propose that classroom autonomy support takes at least three forms: organisational (a decision-making role in classroom management), procedural (choices such as which media to use to present ideas) and cognitive (opportunities to evaluate work against a self-referent standard). They illustrate the proposal with vignettes of teachers rather than a review of evidence, and suggest the forms have different outcomes: organisational support may encourage well-being and comfort with how the classroom runs, procedural support initial engagement, and cognitive support a more enduring investment in deep-level thinking. The abstract makes these suggestions as a proposition, not as findings.
 
 ## Discussion
 

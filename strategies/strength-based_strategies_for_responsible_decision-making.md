@@ -12,7 +12,7 @@ generated:
 # Strength-Based Strategies for Responsible Decision-Making
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 11 studies, `q2`–`q4` · 9 of 11 report an effect size
+> **Evidence** · 5 claims (5 for) · 11 studies, `q1`–`q4` · 8 of 11 report an effect size
 
 ## Description
 Educators identify students' existing strengths — self-regulation, perspective-taking, analytical reasoning, ethical sensitivity — and deliberately leverage them to build responsible decision-making: the capacity to make constructive, ethical choices by analyzing situations, evaluating consequences, and reflecting on outcomes. Rather than remediating deficits, the strategy anchors new decision-making skills in what students already do well, then extends those capacities through structured practice with authentic scenarios. Typical activities include co-constructing a decision-making process, working through problem scenarios, mapping ethical responsibility with graphic organizers, and analyzing decisions in current events.

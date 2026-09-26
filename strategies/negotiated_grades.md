@@ -12,7 +12,7 @@ generated:
 # Negotiated Grades
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 6 of 7 report an effect size
 
 ## Description
 Negotiated grades involve students and instructors jointly determining assessment criteria, the evidence that will demonstrate learning, and ultimately the grade itself, through structured dialogue. Rather than assessment being delivered to students as a verdict, negotiation makes students participants in setting standards and interpreting their own performance against them. The practice typically combines co-constructed criteria, self-assessment with evidence, and a conferencing step where the final grade is agreed rather than assigned.

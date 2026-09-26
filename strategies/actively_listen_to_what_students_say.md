@@ -12,7 +12,7 @@ generated:
 # Actively Listen To What Students Say
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies, `q1`–`q4` · 9 of 10 report an effect size
 
 ## Description
 Active listening in the classroom means giving a student's contribution full attention — attending to words, tone, and hesitation — and demonstrating that the contribution has been received before moving on. It is carried out through paraphrasing, probing follow-up questions, wait time, and visibly building instruction on what the student actually said rather than on the anticipated answer.

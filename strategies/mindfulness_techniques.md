@@ -12,7 +12,7 @@ generated:
 # Mindfulness Techniques
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 mixed) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size
+> **Evidence** · 2 claims (2 mixed) · 6 studies, `q1`–`q4` · 5 of 6 report an effect size
 
 ## Description
 Mindfulness techniques are short, structured practices in which learners deliberately attend to present-moment experience — typically breath, bodily sensation, or ambient sound — and notice when attention wanders, then return it without self-criticism. In educational settings they are usually delivered as brief (2–10 minute) opening routines, embedded transitions, or standalone training programs rather than as full therapeutic curricula.

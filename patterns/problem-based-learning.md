@@ -19,7 +19,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q4` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Problem-Based Learning uses an authentic or ill-structured problem to drive inquiry, knowledge building, and solution development. This page serves as the canonical short-form target for links that refer to PBL without the explicit acronym.

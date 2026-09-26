@@ -12,7 +12,7 @@ generated:
 # Fostering Self-Advocacy and Self-Determination
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies, `q1`–`q4` · 2 of 3 report an effect size
 
 ## Description
 This strategy makes self-advocacy (understanding and communicating one's needs and rights) and self-determination (goal setting, choice-making, problem solving, self-monitoring) explicit instructional priorities rather than incidental byproducts of schooling. It is carried out by embedding these skills into IEP goals and teacher preparation, designing flexible learning choices through [Universal Design for Learning](../principles/universal-design-for-learning.md) where available, and giving students repeated, authentic opportunities to practice advocating for themselves with feedback and reflection.

@@ -19,7 +19,7 @@ grain_size: course
 # Merrill's First Principles
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q4` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Merrill's First Principles is the short-form canonical target for task-centered instruction organized around problem-centered work, activation, demonstration, application, and integration.

@@ -12,7 +12,7 @@ generated:
 # Part-task practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 4 studies, `q2`–`q3` · 3 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Part-task practice isolates recurring skill elements that must become automatic — such as typing, arithmetic facts, surgical procedures, or code syntax — and provides repeated, focused practice on them separately from whole-task performance. Its purpose is not conceptual understanding but *automation*: driving sub-skill execution below conscious control so working memory is freed for higher-order aspects of complex tasks.

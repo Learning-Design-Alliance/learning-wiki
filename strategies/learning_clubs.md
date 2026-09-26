@@ -12,7 +12,7 @@ generated:
 # Learning Clubs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 5 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 4 of 7 report an effect size
 
 ## Description
 Learning clubs are a grouping system used to organize active learning events around student-selected areas of interest. Guided by the teacher, students select content-area topics and draw on multiple texts — websites, printed material, video, and music — to investigate their topics. Students then share their learning using similar media, such as learning blogs, giving the club a genuine audience and purpose.

@@ -12,7 +12,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q3`–`q4` · 4 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q1`–`q4` · 3 of 7 report an effect size
 
 ## Description
 Gamification is the use of game design elements in non-game contexts (Deterding et al., 2011). In learning design, it means structuring learning activities with mechanics such as points, badges, levels, progress indicators, narratives, and leaderboards. The recommendation is not to decorate learning with rewards, but to align game mechanics with genuine learning behaviors — effortful practice, mastery, collaboration — so that motivational dynamics support rather than substitute for learning.

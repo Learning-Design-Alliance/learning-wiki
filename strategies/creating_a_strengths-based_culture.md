@@ -12,7 +12,7 @@ generated:
 # Creating a Strengths-Based Culture
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q3`–`q4` · 5 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q1`–`q4` · 4 of 7 report an effect size
 
 ## Description
 A strengths-based culture positions learner assets — talents, interests, and existing competencies — as the starting point for instruction rather than deficits to be remediated. Instructors make strengths visible and usable: learners identify and discuss strengths with peers, set goals that deploy those strengths, work on passion projects, and see varied assessment options that let different strengths count. The aim is to maximize motivation, contribution, and confidence by building on what learners do well while they tackle what is hard.

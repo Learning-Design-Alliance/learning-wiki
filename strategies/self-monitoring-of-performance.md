@@ -12,7 +12,7 @@ generated:
 # Self Monitoring Of Performance
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 13 studies, `q2`–`q4` · 11 of 13 report an effect size
+> **Evidence** · 4 claims (2 for, 2 mixed) · 13 studies, `q1`–`q4` · 10 of 13 report an effect size
 
 ## Description
 Self-monitoring of performance is a [self-regulated learning](../theories/self-regulated-learning.md) strategy in which learners deliberately observe, record, and evaluate their own progress against a standard — a goal, a rubric, an expert model, or a prior best. It is carried out through mechanisms such as progress checklists, accuracy self-scoring, timing logs, or structured reflection prompts, and it feeds the monitoring–control loop: what learners notice about their performance shapes what they do next [Self-monitoring is the pivotal process linking strategy use to strategy adjustment.](../theories/self-regulated-learning.md) [+M].

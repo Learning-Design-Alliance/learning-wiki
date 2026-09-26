@@ -12,7 +12,7 @@ generated:
 # Racial Identity Work
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies, `q3`–`q4` · 4 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies, `q1`–`q4` · 3 of 8 report an effect size
 
 ## Description
 Racial identity work is the sustained, reflective examination of one's own racial identity, biases, and positional privilege — undertaken by educators as professional learning rather than as a one-off training event. It draws on models of racial identity development (e.g., Helms's White racial identity model) in which progress requires actively confronting discomfort, misinformation, and defensive reactions rather than avoiding them. Educators who do this work are better positioned to advocate for learners from marginalized racial groups and to model self-advocacy and systemic critique for them.

@@ -19,7 +19,7 @@ grain_size: unit
 # Goal-Based Scenarios
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies, `q2`–`q4` · 5 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Goal-Based Scenarios organize learning around a mission or role-based objective pursued inside a realistic scenario. This page serves as the canonical short-form pattern target for references that point to the GBS family without the explicit acronym.

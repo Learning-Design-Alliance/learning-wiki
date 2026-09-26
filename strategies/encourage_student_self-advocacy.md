@@ -12,7 +12,7 @@ generated:
 # Encourage Student Self-Advocacy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies, `q1`–`q4` · 8 of 9 report an effect size
 
 ## Description
 Self-advocacy instruction teaches students to understand their own strengths, challenges, and learning needs, and to communicate those needs effectively to others. It is carried out through explicit instruction in self-knowledge, knowledge of rights and available supports, and communication skills, combined with authentic opportunities for students to make decisions and request help within the classroom. The instructor's role shifts from sole provider of support to coach of a skill students will need when the instructor is no longer present.

@@ -19,7 +19,7 @@ grain_size: unit
 # Goal-Based Scenarios (GBS)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (1 for, 3 mixed) · 8 studies, `q2`–`q4` · 7 of 8 report an effect size · 3 claims rest on one study
 
 ## Description
 Goal-Based Scenarios organize learning around a mission or role-based objective that learners pursue inside a realistic scenario. Instead of learning content first and applying it later, learners confront a goal, make decisions, access information as needed, and experience the consequences of their choices. The scenario gives purpose and coherence to the learning sequence.

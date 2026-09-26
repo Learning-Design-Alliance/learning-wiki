@@ -12,7 +12,7 @@ generated:
 # Set a High Bar for Each Student
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 3 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Setting a high bar means communicating — through words, feedback, and task design — that every student is capable of meeting rigorous standards, and pairing that message with the support needed to reach them. It is carried out through social-psychological interventions: brief, well-timed messages and practices that change students' beliefs about their ability and belonging, such as growth-mindset framing, wise feedback, and normalized struggle.

@@ -13,13 +13,13 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 | Distinct studies | 860 |
 | Claims resting on one study | 1,969 (91%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 441 of 860 (51%) |
+| Studies reporting an effect size | 439 of 860 (51%) |
 
 **Studies by quality tier** (where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 134 (16%) | 382 (44%) | 250 (29%) | 94 (11%) |
+| 135 (16%) | 383 (45%) | 249 (29%) | 93 (11%) |
 
 **Studies per claim:** 0: 0, 1: 1,969, 2: 143, 3: 50, 4 or more: 2.
 
@@ -61,7 +61,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 643 pages | 3 | q3–q4 | 3 of 3 |
 | [Self-explanation improves conceptual understanding and problem-solving performance.](claims/self-explanation-improves-conceptual-understanding.md) | 510 pages | 2 | q3–q4 | 2 of 2 |
 | [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 429 pages | 2 | q4 | 2 of 2 |
-| [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 413 pages | 3 | q3–q4 | 3 of 3 |
+| [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 413 pages | 3 | q1–q4 | 2 of 3 |
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 364 pages | 2 | q3–q4 | 1 of 2 |
 | [Self-monitoring improves self-regulation and supports better learning decisions.](claims/self-monitoring-improves-self-regulation.md) | 346 pages | 2 | q3 | 2 of 2 |
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 335 pages | 2 | q4 | 2 of 2 |
@@ -81,7 +81,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Different media combinations significantly affect the recall and retention of information](claims/media-combinations-affect-recall-and-retention.md) | 90 pages | 1 | q3 | 1 of 1 |
 | [Building Empathy Improves Intergroup Attitudes](claims/building-empathy-improves-intergroup-attitudes.md) | 89 pages | 3 | q3 | 1 of 3 |
 | [Dual Coding Improves Recall](claims/dual-coding-improves-recall.md) | 87 pages | 3 | q2–q4 | 1 of 3 |
-| [Whole-task performance improves transfer of complex skills to real-world settings.](claims/whole-task-performance-improves-transfer.md) | 83 pages | 1 | q4 | 1 of 1 |
+| [Whole-task performance improves transfer of complex skills to real-world settings.](claims/whole-task-performance-improves-transfer.md) | 83 pages | 1 | q2 | 0 of 1 |
 | [Erroneous examples improve conceptual understanding by forcing comparison with correct …](claims/erroneous-examples-build-conceptual-knowledge.md) | 79 pages | 2 | q3 | 2 of 2 |
 
 Of the 38 claims cited from 50 or more pages, **8 rest on one study or none**: [Example-problem sequences reduce cognitive load and improve learning …](claims/example-problem-sequences-reduce-cognitive-load.md), [Instructional guidance that helps novices can become redundant or …](claims/expertise-reversal-effect.md), [Different media combinations significantly affect the recall and …](claims/media-combinations-affect-recall-and-retention.md), [Part-task practice reduces cognitive load for absolute novices during …](claims/part-task-practice-reduces-load-for-novices.md), [Relevancy of emphasized text directs attention and influences test …](claims/relevancy-of-emphasis-directs-attention.md), [Specific, difficult goals lead to higher performance than easy or …](claims/specific-difficult-goals-lead-to-higher-performance.md), [Whole-task performance improves transfer of complex skills to …](claims/whole-task-performance-improves-transfer.md), [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md).
