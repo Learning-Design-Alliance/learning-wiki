@@ -265,7 +265,13 @@ def strip_doi_from_line(line: str, doi: str) -> str:
     .upper(). The literal replace this used to do therefore silently did
     nothing on those, while the run still counted the removal — leaving a DOI
     the resolver had *proven* wrong on a page the report called fixed."""
-    return re.sub(_DOI_LINK.format(d=re.escape(doi)), "", line, flags=re.I)
+    line = re.sub(_DOI_LINK.format(d=re.escape(doi)), "", line, flags=re.I)
+    # The bare forms too: "... 21–38. https://doi.org/10.x/y" and "doi:10.x/y"
+    # with no link around them. Only the link forms were handled, so a DOI the
+    # gate proved wrong stayed on nine batch 5 pages while the manifest recorded
+    # it as removed (Harkins et al. 2021, 10.3998/mjcsloa.3239521.0026.203).
+    return re.sub(r"[ \t]*(?:https?://(?:dx\.)?doi\.org/|doi:\s*)" + re.escape(doi) + r"(?![\w/])",
+                  "", line, flags=re.I)
 
 
 def _anchored(line: str, stems) -> bool:
@@ -418,6 +424,23 @@ def main() -> None:
                     continue
             else:
                 d = decide(entry["meta"], record, cited_title)
+            # Who and when, which decide() does not look at. A registry record
+            # by other authors, from another year, or of the wrong kind (a
+            # PsycEXTRA dataset, a review of the cited book) is not the cited
+            # work however well its title and coordinates line up, so nothing is
+            # rewritten from it; it is reported with the conflicts. And a title
+            # is not rewritten when the citation's second author is not among the
+            # registry's: that is a citation assembled from two works (Mayer &
+            # Fiorella under Mayer's single-author chapter), and a registry
+            # title would make the hybrid look verified.
+            if d["action"] in ("none", "fix_meta", "fix_title"):
+                from citation_identity import identity_mismatch, coauthor_mismatch, cited_surnames
+                why = identity_mismatch(entry["key"], record)
+                if not why and d["action"] == "fix_title":
+                    why = coauthor_mismatch(record, cited_surnames(
+                        entry.get("full_line", entry["line"]), year))
+                if why:
+                    d = {"action": "conflict", "fields": {}, "why": why}
             if d["action"] == "none":
                 agreed += 1
                 verified.add(doi)

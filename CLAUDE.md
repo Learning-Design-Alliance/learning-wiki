@@ -120,16 +120,31 @@ removed 67 DOIs of other works, rewrote about 290 invented or shortened titles, 
 33 → 22 and invented-title DOIs 109 → 31. What it could not settle (reprint and edition DOIs,
 partial titles with no coordinates) was reported, not written.
 
-- **Do not run `resolve_doi_conflicts.py --apply`.** Its Crossref-search fallback proposed the
-  Springer chapter `10.1007/978-1-4684-7562-3_3` for Bandura (1977) on ~70 pages again.
-- **The ingest gate cannot strip a bare-URL DOI.** `verify_page_citations` removes only the
-  `[doi:X](https://doi.org/X)` and `[https://doi.org/X](...)` forms, so batch 5's manifest records
-  removals of `…mjcsloa.3239521.0026.203` and `10.26077/936a-72f7` that never happened. The first
-  was wrong (the Harkins article is `…0026.202`, now fixed); the second was right all along.
-- **A DOI can be right while the record type is wrong for the citation**: PsycEXTRA conference
-  records and journal reviews of a book carry exactly the cited title. Check the type.
-- **Prose DOI links are unchecked by every tool.** `10.1056/NEJMoa054115` (no handle anywhere) sat in
-  two prose links for Pronovost (2006).
+- **Who and when are now checked, in code.** `citation_identity.identity_mismatch(key, record)`
+  compares the citation's author-year key with the registry's first author, year and record type,
+  and `classify_doi(..., key=)` applies it, so the ingest gate, `standardize_citations.py` and
+  `resolve_citation_metadata.py` all refuse a DOI of another work however well its title matches:
+  a 2008 paper for Pronovost (2006), Bloch's review of *Situated learning* for the book, a PsycEXTRA
+  dataset record for the journal article. Author order wrong on the right paper (Dweck 1998 for
+  Mueller & Dweck 1998) passes, because the year agrees. On the corpus it rejected 2 of 9,560
+  citations the pass judged correct, both PsycEXTRA records. `coauthor_mismatch` is report-only: it
+  blocks a title rewrite and a fill, never removes a DOI, since most of its hits were right DOIs
+  with invented co-authors.
+- **A fill needs more than a plausible title.** `standardize_citations.fill_refusal` requires a
+  close title, agreeing co-authors, and no multi-author citation matched to a one-author record;
+  the loose test had re-added Mayer's single-author chapter to three Mayer & Fiorella citations.
+- **`resolve_doi_conflicts.py --apply` refuses to run** without `--allow-cluster-rewrite`, and its
+  Crossref search fallback is off without `--allow-search`. Even with search off it rewrites whole
+  author-year clusters without checking each page's own citation.
+- **The ingest gate edits only the citation line it checked**, strips bare-URL DOIs
+  (`https://doi.org/X`, `doi:X`) as well as linked ones, removes that entry's frontmatter
+  `resource:` mirror, and reports prose DOI links it cannot vouch for (unregistered, or just
+  removed from the citation) without editing them. It used to replace the link form anywhere on
+  the page and could not touch a bare URL, which is why batch 5's manifest records two removals
+  that never happened (Harkins et al. 2021's wrong `…0026.203`, since corrected to `…0026.202`; and
+  Shvidko 2020's `10.26077/936a-72f7`, which was right).
+- **`run_scrape_batch.py` runs `resolve_citation_metadata.py --apply --titles`**, so a title
+  corroborated by journal, volume and first page (and by the authors) is corrected in the batch.
 
 ### 2026-09-26 — a Crossref 404 now asks DataCite before a DOI is stripped
 

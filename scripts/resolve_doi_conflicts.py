@@ -58,8 +58,17 @@ import doi_resolver as dr
 WIKI_ROOT = Path(__file__).parent.parent
 NEEDS_HUMAN_SNAPSHOT_PATH = WIKI_ROOT / "eval" / "health" / "doi_needs_human.json"
 
+# The Crossref search fallback is OFF unless --allow-search is given. On
+# 2026-09-26 it proposed 10.1007/978-1-4684-7562-3_3, the Springer chapter
+# "Model of Causality in Social Learning Theory", for Bandura (1977) on about 70
+# pages: the exact error that once shipped to 69 pages. A search result is a
+# candidate chosen by word overlap, and choosing a DOI is the step this repo's
+# rules keep for a person. Without the flag, a cluster where no already-cited
+# DOI verifies is reported, which is what it needs.
+ALLOW_SEARCH = False
 
-def classify_doi(doi: str, cluster_title_words: set, cited_title_text: str = None) -> dict:
+
+def classify_doi(doi: str, cluster_title_words: set, cited_title_text: str = None, key: str = None) -> dict:
     """Resolve `doi` against Crossref (cache-backed, same cache
     doi_resolver.py's own checks use) and classify it relative to this
     cluster's title: 'verified' (resolves, title matches), 'wrong_paper'
@@ -84,6 +93,15 @@ def classify_doi(doi: str, cluster_title_words: set, cited_title_text: str = Non
     if not result["resolved"]:
         return {"status": "not_found", "title": None}
     resolved_title = result.get("title") or ""
+    # Who wrote it and when, before the title. A matching title does not make
+    # a 2008 paper Pronovost et al. (2006), a review the book it reviews, or a
+    # PsycEXTRA dataset record the journal article. Only when the caller passes
+    # the citation's author-year key; without one this is unchanged.
+    if key:
+        from citation_identity import identity_mismatch
+        why = identity_mismatch(key, result)
+        if why:
+            return {"status": "wrong_paper", "title": resolved_title, "why": why}
     resolved_words = cc._words_from_text(resolved_title)
     if cc._same_paper(cluster_title_words, resolved_words):
         # Word overlap says yes — but a short, generic cited title is fully
@@ -182,7 +200,7 @@ def resolve_cluster(conflict: dict, debug: bool = False) -> dict:
 
     candidate_dois = sorted(d for d in conflict["dois"] if d)
     cited_title = _cited_title_text(key, entries, cluster_title_words)
-    classifications = {doi: classify_doi(doi, cluster_title_words, cited_title)
+    classifications = {doi: classify_doi(doi, cluster_title_words, cited_title, key=key)
                        for doi in candidate_dois}
     verified = [doi for doi, c in classifications.items() if c["status"] == "verified"]
 
@@ -190,7 +208,7 @@ def resolve_cluster(conflict: dict, debug: bool = False) -> dict:
         canonical, canonical_title = verified[0], classifications[verified[0]]["title"]
         via = "already cited"
     elif len(verified) == 0:
-        found = _search_fallback(key, entries, cluster_title_words, debug=debug)
+        found = (None if not ALLOW_SEARCH else _search_fallback(key, entries, cluster_title_words, debug=debug))
         if not found:
             return {"key": key, "status": "needs_human", "classifications": classifications,
                      "files": sorted({e["source"] for e in entries}),
@@ -273,12 +291,13 @@ def resolve_standalone_issues(by_key: dict, conflict_keys: set, debug_key: str =
         print(f"  [{i}/{len(unique_dois)}] checking {doi} ({affected[0]['key']})...", file=sys.stderr)
         cluster_title_words = max((e["title_words"] for e in affected), key=len)
         classification = classify_doi(doi, cluster_title_words,
-                                      _cited_title_text(affected[0]["key"], affected, cluster_title_words))
+                                      _cited_title_text(affected[0]["key"], affected, cluster_title_words),
+                                      key=affected[0]["key"])
         if classification["status"] == "verified":
             continue  # already correct, nothing to do
 
         key = affected[0]["key"]
-        found = _search_fallback(key, affected, cluster_title_words, debug=(key == debug_key))
+        found = (None if not ALLOW_SEARCH else _search_fallback(key, affected, cluster_title_words, debug=(key == debug_key)))
         if not found:
             resolutions.append({
                 "key": key, "status": "needs_human",
@@ -493,7 +512,7 @@ def debug_key(key: str) -> None:
     for doi, affected in sorted(by_doi.items()):
         cluster_title_words = max((e["title_words"] for e in affected), key=len)
         classification = classify_doi(doi, cluster_title_words,
-                                      _cited_title_text(key, affected, cluster_title_words))
+                                      _cited_title_text(key, affected, cluster_title_words), key=key)
         title_note = f' — Crossref title: "{classification["title"]}"' if classification.get("title") else ""
         print(f"DOI {doi}: {classification['status']}{title_note}")
         print(f"  cited on: {', '.join(e['source'] for e in affected)}")
@@ -519,10 +538,30 @@ def main() -> None:
                               "word-overlap score) — bypasses the full conflict/standalone scan entirely, "
                               "so it's quick regardless of wiki size. Ignores every other flag.")
     parser.add_argument("--out", default=None, help="Write the report to this path instead of stdout")
+    parser.add_argument("--allow-cluster-rewrite", action="store_true",
+                        help="required with --apply: this script rewrites a whole author-year "
+                             "cluster to one DOI without checking each page's own citation")
+    parser.add_argument("--allow-search", action="store_true",
+                        help="enable the Crossref bibliographic-search fallback (off by default: it "
+                             "proposed the Springer chapter DOI for Bandura 1977 on ~70 pages)")
     parser.add_argument("--skip-standalone", action="store_true",
                          help="Only process multi-page conflict clusters; skip the single-citation DOI pass "
                               "(every page agrees on a DOI, but the DOI itself is wrong)")
     args = parser.parse_args()
+    global ALLOW_SEARCH
+    ALLOW_SEARCH = args.allow_search
+    if args.apply and not args.allow_cluster_rewrite:
+        # Checked 2026-09-26, with the search fallback off and the identity
+        # check on: its auto-resolutions still rewrote pages whose own citation
+        # names a different work, because it decides per author-year CLUSTER.
+        # It would have put Mayer's single-author chapter back on three
+        # citations of Mayer & Fiorella. standardize_citations.py (fills) and
+        # resolve_citation_metadata.py (corrections and removals) check each
+        # page's citation and are the tools to use; this one reports.
+        sys.exit("resolve_doi_conflicts.py --apply rewrites whole author-year clusters without "
+                 "checking each page's citation, and has written wrong DOIs that way. Use "
+                 "standardize_citations.py and resolve_citation_metadata.py instead, or pass "
+                 "--allow-cluster-rewrite if you have read the dry-run report line by line.")
 
     if args.debug_key:
         debug_key(args.debug_key)
