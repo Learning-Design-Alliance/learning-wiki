@@ -661,6 +661,17 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#2026-09-27-claims-are-linked-and-merged-search-runs-on-an-index" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-27 — claims are linked and merged; search runs on an index
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-09-26-late-night-the-batch-runs-without-a-gating-judge-what-merging-and-scale-will-need" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1389,6 +1400,17 @@
   
     <nav class="md-nav" aria-label="Working alongside other sessions — read this before starting">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2026-09-27-claims-are-linked-and-merged-search-runs-on-an-index" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-27 — claims are linked and merged; search runs on an index
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#2026-09-26-late-night-the-batch-runs-without-a-gating-judge-what-merging-and-scale-will-need" class="md-nav__link">
@@ -2205,6 +2227,32 @@ work is done, not that the check is broken.</p>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
+<h3 id="2026-09-27-claims-are-linked-and-merged-search-runs-on-an-index">2026-09-27 — claims are linked and merged; search runs on an index<a class="headerlink" href="#2026-09-27-claims-are-linked-and-merged-search-runs-on-an-index" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong><code>scripts/search_index.py</code></strong>: SQLite FTS5 over every content page, in <code>.cache/</code> (ignored), rebuilt
+  when the content folders change. <code>mcp_server.py</code>'s <code>search</code> uses it (<code>"engine": "fts5"</code>) and falls
+  back to the scan when it cannot.</li>
+<li><strong><code>scripts/link_claims.py</code></strong>: each claim's eight nearest claims (BM25), labelled by GLM as <code>same</code>,
+  <code>general</code>, <code>specific</code>, <code>contradicts</code> or <code>related</code>, written with <code>--apply</code> into BOTH pages'
+  <code>## Related Claims</code> with the label after the link. Decisions go to <code>eval/runs/claim-links/</code> first.
+  It moves no evidence. The whole corpus cost $0.14 (2,248 claims); 4,089 pairs were linked on
+  2,147 pages. <strong>Claim pages with no link in or out went 1,226 → 10</strong>; pages in the main component
+  56% → 82% (718 isolated pages remain, none of them claims: theories, elements, strategies).</li>
+<li><strong><code>scripts/merge_claims.py &lt;keep&gt; &lt;fold&gt;</code></strong> moves <code>&lt;fold&gt;</code>'s evidence entries (skipping a study
+  <code>&lt;keep&gt;</code> already carries), subclaims, discussion and related links onto <code>&lt;keep&gt;</code>, deletes <code>&lt;fold&gt;</code>,
+  and runs <code>update_links_for_renames.py</code> so every link is repointed and <code>&lt;fold&gt;</code> becomes an alias.
+  <strong>84 duplicates were merged</strong> (2,248 → 2,164 claims; <code>eval/runs/claim-links/merges-applied.tsv</code>).
+  GLM proposed 369 <code>same</code> pairs and is too loose to trust alone: a merge needed GLM <code>same</code> from both
+  sides, GPT confirming with both pages' findings and studies in view (219 of 369), and a person's
+  read, which dropped 11 of the 95 (broader-vs-narrower pairs such as manipulatives vs hands-on
+  learning). Distinct studies stayed 860; 158 evidence entries were the same study on both pages.
+  The single-study share rose to 91%, because duplicates mostly shared their one study: <strong>new
+  multi-study claims come from new articles attaching to existing claims, not from merging.</strong></li>
+<li><strong>Immutable research files keep the old slugs</strong>, and aliases resolve them: <code>check_research.py --why</code>
+  now follows an alias, and the four <code>observations/</code> records naming merged claims were repointed.</li>
+<li><strong><code>run_scrape_batch.py</code> links each batch's new claims after the verify step</strong> (<code>--new --apply</code>)
+  and rebuilds the indexes. <code>same</code> pairs are listed, never merged automatically.</li>
+</ul>
 <h3 id="2026-09-26-late-night-the-batch-runs-without-a-gating-judge-what-merging-and-scale-will-need">2026-09-26 (late night) — the batch runs without a gating judge; what merging and scale will need<a class="headerlink" href="#2026-09-26-late-night-the-batch-runs-without-a-gating-judge-what-merging-and-scale-will-need" title="Permanent link">&para;</a></h3>
 <p><strong>The unattended batch no longer gates on a judge.</strong> On batch 7 GLM cost $0.0027 an article and the
 GPT judge $0.0047 more, which a full ERIC run (170,647 peer-reviewed full-text records) cannot carry.
@@ -3447,7 +3495,8 @@ allowed; <code>None</code> means <em>the row does not determine this</em> rather
 <p><strong>One synthetic fixture, marked at every level</strong> (<code>source_type:
 synthetic-simulation</code>, <code>SYNTHETIC</code> in every title and header comment): a protocol,
 two release versions, two evidence records, five reviews, one issue —
-and <strong><code>claims/spaced-practice-improves-long-term-retention.md</code> is unchanged</strong>. The
+and <strong><code>claims/spaced-practice-improves-long-term-retention.md</code> is unchanged</strong> (it has since been merged into
+<code>spaced-practice-improves-retention</code>, which answers to the old slug as an alias). The
 evidence names it with a <code>bearing</code> and no <code>anchor</code>, so the edge exists and nothing
 fabricated appears in a real claim's <code>## Evidence</code> section.</p>
 <div class="highlight"><pre><span></span><code>python3<span class="w"> </span>scripts/check_research.py<span class="w">                     </span><span class="c1"># validate; exit 1 on a problem</span>
@@ -4193,6 +4242,9 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
     evidence_rollup.py ← distinct-study roll-ups behind the evidence profiles and evidence.md
     add_evidence_profile.py ← the `&gt; **Evidence** ·` line on pages that cite claims
     build_evidence_report.py ← evidence.md, the state of the wiki's evidence (generated)
+    search_index.py    ← SQLite FTS5 index of the wiki in .cache/, used by search and linking
+    link_claims.py     ← labels and writes Related Claims links between claims
+    merge_claims.py    ← folds a duplicate claim into its canonical page, keeping an alias
     smd_worklist.py    ← WWC/ESSA review pages to extract next, for the SMD family (see above)
     priority_worklist.py ← what to extract next: cited-but-unrecorded, hub, and evidence-less claims (see above)
     mcp_server.py      ← the wiki as MCP tools: search, fetch, resolve, backlinks, why (see above)
