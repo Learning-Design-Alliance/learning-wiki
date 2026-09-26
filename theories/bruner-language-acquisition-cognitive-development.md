@@ -42,10 +42,16 @@ The article presents Jerome Bruner's (1983) cognitive-developmental account, in 
 - 
 
 ## Related Theories
-- 
+
+- [Language Acquisition Theory](language-acquisition-theory.md)
+- [Sociocultural Theory](sociocultural-theory.md)
+- [Krashen's Monitor Model: five hypotheses distinguishing subconscious acquisition from conscious language learning](krashen-monitor-model-five-hypotheses.md)
+- [Krashen's Monitor Model: acquisition versus learning as separate internal rule systems](krashen-monitor-model-acquisition-learning.md)
 
 ## Examples
--
+
+- [Treat talking and writing as means to learning through dialogue-based, student-centered instruction](../principles/talking-and-writing-means-to-learning.md)
+- [Use process writing techniques in natural language settings to develop the push to communicate and facilitate acquisition](../strategies/process-writing-natural-settings-facilitate-acquisition.md)
 
 ## Key Sources
 - Diaz, Diana M. (1988). First Language/Second Language: Acquisition, Writing, and Cognitive Development. https://eric.ed.gov/?id=ED294203

@@ -12,7 +12,7 @@ generated:
 # Independent Reading Time
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Independent Reading Time (also known as sustained silent reading, SSR, or DEAR time) allocates regular class time for students to read self-selected books silently. Unlike assigned reading, the defining feature is learner choice of text, paired with teacher conferencing, sharing routines, or other light accountability structures. It is carried out as a recurring block — typically 10–30 minutes — embedded within a broader literacy program rather than as the whole of reading instruction.

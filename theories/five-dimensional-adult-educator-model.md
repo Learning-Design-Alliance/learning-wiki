@@ -39,10 +39,13 @@ The adult educator is a professional who seeks to develop the educational potent
 - [Educator Functions Influence Community Group Growth](../claims/educator-functions-influence-community-group-growth.md) [+W]
 
 ## Related Theories
-- 
+
+- [Wilson et al.'s five functions of the adult educator committed to experiential approaches](five-functions-experiential-adult-educator.md)
+- [Two-dimensional model of group growth (community problems and group problems, with growth, regression, and plateaus)](two-dimensional-group-growth-model.md)
 
 ## Examples
--
+
+- [Sequence for educators: establish trust, assess group motivation and leadership, then choose a matching style before performing functions](../strategies/educator-sequence-trust-assess-style.md)
 
 ## Key Sources
 - Campbell, M. Donald. (1978). Educator Influence on Group Growth in Community Problem Solving. Paper presented at the Adult Education Research Conference, San Antonio, Texas. https://eric.ed.gov/?id=ED152994

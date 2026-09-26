@@ -23,7 +23,7 @@ sources:
 > **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
-`q2 i?` In the pilot study, self-reported use increased for all 20 technology categories and the average level of use rose across the three survey administrations. [→ Orr 2009](#orr-2009)
+`q2 i?` In the pilot study, the author reports that self-reported use increased for all 20 technology categories and that the average level of use rose across the three survey administrations; the article's own appendix table shows exceptions, such as digital video cameras falling from a mean of 4.13 at pretest to 3.60 at posttest. [→ Orr 2009](#orr-2009)
 
 ## Evidence
 

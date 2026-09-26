@@ -37,7 +37,11 @@ The department contacted students by SMS immediately upon missing any continuous
 - timely submission of continuous assessment and sustained engagement
 
 ## Related Strategies
-- 
+
+- [Mobile Communication for Family Engagement](mobile_communication_for_family_engagement.md)
+- [Contacts Between Students And Faculty](contacts-between-students-and-faculty.md)
+- [Communicate Quickly and Easily Through Mobile Apps](communicate_quickly_and_easily_through_mobile_apps.md)
+- [Text Chats in Instruction](text_chats_in_instruction.md)
 
 ## Examples
 -

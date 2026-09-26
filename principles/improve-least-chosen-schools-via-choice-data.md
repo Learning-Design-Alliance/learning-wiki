@@ -40,7 +40,8 @@ Controlled Choice treats annual parental choices as "a referendum on the attract
 - [Boston Controlled Choice Most Students Get First Or Second Choice](../claims/boston-controlled-choice-most-students-get-first-or-second-choice.md) [+M]
 
 ## Related Principles
-- 
+
+- [Design large, contiguous, heterogeneous attendance zones with equivalent programs and limited transport time](large-heterogeneous-attendance-zones.md)
 
 ## Examples
 -

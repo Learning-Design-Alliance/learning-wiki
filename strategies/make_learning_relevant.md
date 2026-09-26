@@ -12,7 +12,7 @@ generated:
 # Make Learning Relevant
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 6 of 7 report an effect size
 
 ## Description
 Making learning relevant means deliberately connecting instructional content to learners' interests, goals, communities, and prior experience so that the material carries personal value rather than relying solely on external incentives. In practice this ranges from contextualizing problems in familiar scenarios, to giving students authentic audiences and purposes for their work, to offering meaningful choices that build ownership of the learning process.
@@ -59,8 +59,10 @@ Relevance works primarily through task value: when learners perceive that conten
 6. Debrief the relevance explicitly — help students articulate how the skills transfer beyond the classroom, since relevance perceived by the teacher does not automatically become relevance perceived by the student [~W].
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — relevance works by connecting new content to what learners already know and care about
 - [Authentic Learning](../principles/authentic-audiences-purposes.md) — the structural form of relevance: real tasks, audiences, and consequences
+- [Form Interest Groups and Strengths-Based Groups in Science](interest-based-grouping-in-science.md)
 
 ## Examples
 - **[Anchored Instruction (Jasper Woodbury Project)](https://peabody.vanderbilt.edu/research/legacy_projects.php)** — Vanderbilt's Jasper Adventure series anchors mathematics problem solving in extended video narratives, giving abstract math a compelling story context.

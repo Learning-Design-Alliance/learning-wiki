@@ -17,7 +17,7 @@ sources:
 # EF interventions aiming to transfer to mathematics should target factors general to all EF components rather than specific components
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study, `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article argues that because a latent EF factor largely accounts for component-specific EF–math associations, interventions will transfer to math only insofar as they improve mechanisms influencing factors general to all EF components. It states that "Interventions targeting specific EF components (e.g., card-sort task performance or working memory task performance alone), and not factors common to EF, may not reliably transfer to mathematics." It further recommends that intervention evaluations model effects on EF tasks and a latent EF factor simultaneously.
@@ -38,8 +38,11 @@ The article argues that because a latent EF factor largely accounts for componen
 - executive function
 
 ### Claims
+
 - [Latent Ef Factor Preferred Ecls K Math](../claims/latent-ef-factor-preferred-ecls-k-math.md) [+M]
 - [Meta Analytic Replication Latent Ef Model](../claims/meta-analytic-replication-latent-ef-model.md) [+M]
+- [Math achievement correlates more strongly with EF components than EF components correlate with each other in early childhood](../claims/math-correlates-more-with-ef-than-ef-internally.md) [+W]
+- [Under the components model in ECLS-K, working memory is the most closely associated EF component with math, but only at time point 1 does it show a positive residual correlation beyond latent EF](../claims/working-memory-strongest-component-association-ecls-k.md) [+W]
 
 ## Related Principles
 - 

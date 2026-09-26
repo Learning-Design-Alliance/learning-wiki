@@ -37,7 +37,13 @@ The instructor supplies a completed graphic map of key concepts and interrelatio
 - acquiring the expert's structural knowledge of reviewed content
 
 ## Related Strategies
+
 - [Semantic Mapping Principle](../principles/semantic-mapping-principle.md)
+- [Student-generated mapping exercise](student-generated-mapping-strategy.md)
+- [Graphic Organizers](graphic-organizers.md)
+- [Lecture Support with Graphic Organizers](lecture_support_with_graphic_organizers.md)
+- [Providing Graphic Organizers or Guided Notes](providing_graphic_organizers_or_guided_notes.md)
+- [Graphic Organizers/Guided Notes](graphic-organizers-guided-notes.md)
 
 ## Examples
 -

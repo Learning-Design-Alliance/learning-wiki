@@ -17,7 +17,7 @@ sources:
 # Empathy Interviews
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 mixed) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 mixed) · 3 studies, `q2`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Empathy interviews are structured, open-ended conversations designed to help educators or designers understand how learners experience school, work, systems, and support. Unlike a survey or diagnostic checklist, the goal is not only to collect facts but to hear how learners interpret challenges, strengths, motivations, and belonging in their own words. Used well, empathy interviews improve the instructor's model of the learner and can lead to more responsive supports, stronger relationships, and better alignment between instruction and lived reality.
@@ -71,10 +71,13 @@ These are indirect anchors: empathy interviews rely on explanation, authentic co
 - [Debriefing](debriefing.md) — post-interview reflection helps convert what was heard into changed instructional choices.
 
 ## Examples
+
 - **Beginning-of-course learner interviews**: Short structured conversations about goals, barriers, prior experience, and support needs.
 - **Design interviews before program revision**: Staff interview learners about friction points before changing curriculum or services.
 - **Mentoring check-in interviews**: A mentor periodically revisits learner priorities, constraints, and sense of progress.
 - **Affinity-informed listening rounds**: Learners choose whether to share in individual, paired, or small-group interview formats.
+- [Extend empathy interviews to students' caregivers for an additional perspective](../strategies/caregiver-empathy-interview-extension.md)
+- [Conduct empathy interviews as story-based conversations in comfortable, student-chosen settings](../strategies/empathy-interview-conduct-practices.md)
 
 ## Key Sources
 - Anaissie, T., Cary, V., Clifford, D., Malarkey, T., & Wise, S. (2020). *Liberatory design: Your toolkit to design for equity, version 1.0*.

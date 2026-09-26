@@ -43,7 +43,8 @@ Instrumental Enrichment is Feuerstein's major intervention program for creating 
 - 
 
 ## Examples
--
+
+- [Develop bridging techniques linking cognitive strategies to content knowledge areas](../strategies/bridging-cognitive-strategies-to-content-knowledge.md)
 
 ## Key Sources
 - Presseisen, Barbara Z.; Sternberg, Robert J.; Fischer, Kurt W.; Knight, Catharine C.; Feuerstein, Reuven. (1990). Learning and Thinking Styles: Classroom Interaction. National Education Association. https://eric.ed.gov/?id=ED327322

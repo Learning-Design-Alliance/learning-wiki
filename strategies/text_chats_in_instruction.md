@@ -62,9 +62,11 @@ Text chat functions as a low-threshold participation and feedback channel, which
 6. Periodically audit the channel: participation breadth, response latency, and off-task ratio — adjust norms accordingly.
 
 ## Related Strategies
+
 - [Class Discussion](../elements/class-discussion.md) — chat widens entry points but discussion structures deepen reasoning
 - [Check-In](../elements/check-in.md) — chat is a natural delivery channel for rapid formative check-ins
 - [Coaching](../elements/coaching.md) — chat sustains coaching contact between sessions
+- [Escalating multi-channel contact immediately upon missed assessment, starting with SMS](escalating-multichannel-contact-missed-assessment.md)
 
 ## Examples
 - **Remind (https://www.remind.com)** — school-safe SMS/announcement platforms used for assignment reminders, quick pulse questions, and parent communication.

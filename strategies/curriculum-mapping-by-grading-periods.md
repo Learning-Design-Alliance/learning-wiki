@@ -41,7 +41,9 @@ The authors use a modified curriculum-mapping process in which subject-area comm
 - [Wiles Bondi Curriculum Management Plan](../theories/wiles-bondi-curriculum-management-plan.md)
 
 ## Related Strategies
-- 
+
+- [Conduct a needs assessment combining baseline district data and projective opinion data before designing a middle school](needs-assessment-baseline-and-projective-data.md)
+- [Use percentage-consensus opinionnaires to locate shared values before redesign](percentage-consensus-opinionnaires.md)
 
 ## Examples
 -

@@ -41,7 +41,8 @@ Drawing on Mead's 1958-1959 essays, the report describes a shift from purely ver
 - [Mead Rapid Change Obsoletes Knowledge](../claims/mead-rapid-change-obsoletes-knowledge.md) [+M]
 
 ## Related Principles
-- 
+
+- [Redefine primary and secondary education as lifelong stages so adults retain the right to study throughout life](mead-lifelong-redefinition-primary-secondary.md)
 
 ## Examples
 -

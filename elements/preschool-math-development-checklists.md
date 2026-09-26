@@ -41,10 +41,12 @@ Three appended checklists (Appendices I–III) trace staged development of match
 - Zpd Social Constructivist Framework
 
 ## Related Elements
-- 
+
+- [Selected-Response Assessment Items](selected-response-assessment-items.md)
 
 ## Examples
--
+
+- [Use mathematical language during play interactions and everyday routines to move children from behavioral to representational understanding](../strategies/math-language-in-play-to-representational-understanding.md)
 
 ## Key Sources
 - Kirova, Anna; Bhargava, Ambika. (2002). Learning To Guide Preschool Children's Mathematical Understanding: A Teacher's Professional Growth. Early Childhood Research & Practice. http://ecrp.uiuc.edu/v4n1/kirova.html

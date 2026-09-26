@@ -40,10 +40,12 @@ The LoU Interview is a focused interview procedure that measures Levels of Use. 
 - [Levels Of Use Innovation Eight Level Framework](../theories/levels-of-use-innovation-eight-level-framework.md)
 
 ## Related Elements
-- 
+
+- [The LoU Chart: operational definitions of the eight levels across seven categories of user knowledge and activity](lou-chart-seven-categories-operational-definitions.md)
 
 ## Examples
--
+
+- [Use LoU data to monitor implementation, plan staff development, select research samples, and evaluate programs](../strategies/use-lou-data-for-change-monitoring-and-staff-development.md)
 
 ## Key Sources
 - Loucks, Susan F. (1977). Levels of Use of the Innovation: The Conceptualization and Measurement of a Variable Useful for Assessing Innovation Implementation by Individuals. https://eric.ed.gov/?id=ED137947

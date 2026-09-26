@@ -41,7 +41,9 @@ Learner-authored texts used as supplementary reading resources in literacy instr
 - 
 
 ## Examples
--
+
+- [Use Student-Written Texts in Literacy Instruction](../strategies/use-student-written-texts-in-literacy-instruction.md)
+- [Language Experience Approach](../strategies/language_experience_approach.md)
 
 ## Key Sources
 - Student-written texts as supplementary reading material in EFL literacy instruction. (2005). https://eric.ed.gov

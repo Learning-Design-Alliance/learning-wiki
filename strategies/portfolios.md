@@ -12,7 +12,7 @@ generated:
 # Portfolios
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies, `q2`–`q4` · 5 of 9 report an effect size
+> **Evidence** · 3 claims (3 for) · 9 studies, `q1`–`q4` · 4 of 9 report an effect size
 
 ## Description
 A portfolio is a purposeful, curated collection of a learner's work assembled over time, accompanied by the learner's own reflection on what each artifact shows about their learning. Unlike a folder of everything, a portfolio requires selection against criteria — the learner must justify why each piece is included and what it evidences. Portfolios serve both assessment (documenting competence) and learning (driving self-evaluation and goal-setting).
@@ -58,9 +58,11 @@ Portfolios shift assessment authority toward learners, requiring them to evaluat
 5. Close with a synthesis reflection and, where possible, a presentation to an authentic audience [Authentic audiences improve student work.](../claims/authentic-audiences-improve-student-work.md) [+M].
 
 ## Related Strategies
+
 - [Rubric-Based Self-Assessment](rubric-based_self-assessment.md) — supplies the criteria that make portfolio selection and reflection evaluative rather than descriptive
 - [Learning Journals](learning_journals.md) — the reflective engine that generates portfolio commentary over time
 - [Exhibition of Learning](exhibition_of_learning.md) — a culminating authentic audience for the finished portfolio
+- [Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time](student-owned-portfolios-maker-assessment.md)
 
 ## Examples
 - **New Tech Network schools** — students defend digital portfolios of project work before panels of teachers and community members at graduation (https://newtechnetwork.org).

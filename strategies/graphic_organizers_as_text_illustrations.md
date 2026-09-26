@@ -57,8 +57,10 @@ Pairing text with a relevant, structure-mapping diagram engages dual coding — 
 5. Embed the organizer with a caption that states what it illustrates and how it relates to the prose ([Annotating](../principles/annotating.md)).
 
 ## Related Strategies
+
 - [Advance Organizers](../elements/advance-organizers.md) — the pre-text counterpart: organizers presented *before* reading to activate structure
 - Concept mapping — the same diagramming skill applied to domain knowledge rather than to one's own writing
+- [Use interdependence chains in which students link interdependent jobs and explain why each job needs the others](interdependence-chains-activity.md)
 
 ## Examples
 - A student writing about photosynthesis adds a cycle diagram tracing energy from sunlight through the Calvin cycle, exposing in revision that their prose never explained the role of carbon dioxide. Resource: [Cult of Pedagogy on graphic organizers](https://www.cultofpedagogy.com/graphic-organizers/).

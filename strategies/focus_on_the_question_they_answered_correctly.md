@@ -57,8 +57,10 @@ This strategy treats errors as windows into coherent (if incomplete) reasoning r
 5. Follow with [Individual Reflection](../elements/individual-reflection.md) or a similar problem so the student consolidates the repaired connection.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the strategy works by locating and activating the correct knowledge the student already holds
 - [Erroneous Examples](../elements/erroneous-examples.md) — the whole-class analogue: analyzing flawed work to build conceptual knowledge
+- [Question students about why a correct answer was chosen, rather than why an error was made](question-correct-answers-not-errors.md)
 
 ## Examples
 - A student asked "What is 3 × 4?" answers "7." The teacher responds: "You added — 3 + 4 is 7, and that's correct addition. Now, how is multiplying 3 × 4 different from adding 3 + 4?"

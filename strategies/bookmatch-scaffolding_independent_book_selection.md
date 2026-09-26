@@ -12,7 +12,7 @@ generated:
 # BOOKMATCH: Scaffolding Independent Book Selection
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 6 of 7 report an effect size
 
 ## Description
 BOOKMATCH is a classroom framework in which teachers explicitly model and then gradually release responsibility for selecting "just-right" books for independent reading. The acronym names eight selection criteria — **B**ook choice, **O**rigin, **U**se (the five-finger rule for unknown words), **N**ew words, **M**atch (interest), **A**ssess (comprehension), **C**omprehend while reading, and **H**elp (knowing when and where to seek it) — that convert the tacit expertise of strong readers into an explicit, teachable decision procedure. Teachers introduce each criterion through [Think-Aloud](../elements/think-aloud.md) modeling, then fade support until students self-monitor their own selections.

@@ -40,10 +40,13 @@ The Institute for Critical Thinking at Montclair State College defines critical 
 - 
 
 ## Related Theories
-- 
+
+- [Siegel's reasons conception: critical thinking as being appropriately moved by reasons](siegel-reasons-conception-critical-thinking.md)
+- [The univocal language of inquiry: the language of reasons across disciplines](language-of-inquiry-as-language-of-reasons.md)
 
 ## Examples
--
+
+- [Teach undergraduate content within a nexus of justification and application](../principles/nexus-of-justification-and-application.md)
 
 ## Key Sources
 - Weinstein, Mark, Ed.; Oxman-Michelli, Wendy, Ed. (1989). Critical Thinking: Language and Inquiry across the Disciplines. Proceedings of the Annual Conference of the Institute for Critical Thinking (Upper Montclair, New Jersey, 1988). https://eric.ed.gov/?id=ED351305

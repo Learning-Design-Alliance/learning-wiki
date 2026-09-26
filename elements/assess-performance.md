@@ -12,7 +12,7 @@ generated:
 # Assess performance
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 5 studies, `q2`–`q3` · 4 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Assessing performance is the instructional event in which learners demonstrate what they can do and the instructor or system evaluates that demonstration against criteria. It functions both as a measurement of mastery and as a learning event in its own right — the act of retrieving and producing performance strengthens memory and reveals gaps that instruction has not closed.
@@ -63,6 +63,7 @@ Performance assessment is most effective when criteria are transparent and feedb
 - [4C/ID](../patterns/4cid-four-component-instructional-design.md) — assessment of whole-task performance determines when task classes are completed
 
 ## Examples
+
 **[Khan Academy](https://www.khanacademy.org)** — Mastery-based exercise system where learners must demonstrate consistent performance across skill checks before a skill is marked "mastered"; assessment is continuous and criterion-referenced.
 
 **[Duolingo](https://www.duolingo.com)** — Checkpoint assessments and adaptive review that re-test previously learned items, using performance data to schedule spaced practice.
@@ -70,6 +71,7 @@ Performance assessment is most effective when criteria are transparent and feedb
 **[Western Governors University](https://www.wgu.edu)** — Fully competency-based degree programs in which students advance by passing performance assessments and objective exams whenever they can demonstrate mastery.
 
 **[Codecademy](https://www.codecademy.com)** — Project-based assessments in which learners build working artifacts evaluated against checklists, assessing integrated skill rather than isolated syntax.
+- [Use a three-part process-understanding-product rubric for formative and summative maker assessment](../strategies/three-part-rubric-maker-assessment.md)
 
 ## Key Sources
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)

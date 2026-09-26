@@ -37,7 +37,9 @@ The instructional tool of the model is the well-constructed problem case, built 
 - analysing, evaluating and developing solutions for complex real-world practice situations
 
 ## Related Elements
+
 - [Federation University Case Based Experiential Model](../theories/federation-university-case-based-experiential-model.md)
+- [Case-Based Learning](case-based-learning.md)
 
 ## Examples
 -

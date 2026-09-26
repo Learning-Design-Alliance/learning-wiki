@@ -17,7 +17,7 @@ sources:
 # Nine principles of community-based education grounded in democratic participation
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper enumerates nine principles of community-based education drawn from various writers: self-determination, self-help, leadership development, localization, integrated delivery of services, reduced duplication of services, accepting diversity, institutional responsiveness, and lifelong learning. It states that "Principles associated with community-based education are grounded in the notion that each and every community member has a right to be involved in the identification and resolution of individual and community needs through a democratic participatory process."
@@ -39,13 +39,16 @@ The paper enumerates nine principles of community-based education drawn from var
 - lifelong learning access
 
 ### Claims
-- 
+
+- [It is unknown whether community residents and providers recognize the lifelong learning opportunities community-based education offers](../claims/recognition-of-community-lifelong-learning-opportunities-unknown.md) [~W]
 
 ## Related Patterns
 - 
 
 ## Examples
--
+
+- [Advance community-based lifelong learning through mentoring relationships connecting local expertise with desired learners](../strategies/mentoring-for-community-lifelong-learning.md)
+- [Investigate technology's role in community-based lifelong learning delivery as a research priority](../strategies/technology-in-community-based-lifelong-learning-research.md)
 
 ## Key Sources
 - Galbraith, M. W. (1995). Community-Based Organizations and the Delivery of Lifelong Learning Opportunities. https://eric.ed.gov/?id=ED385253

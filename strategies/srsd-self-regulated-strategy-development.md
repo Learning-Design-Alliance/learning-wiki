@@ -12,7 +12,7 @@ generated:
 # SRSD (Self-Regulated Strategy Development)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies, `q2`–`q4` · 5 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies, `q1`–`q4` · 4 of 6 report an effect size
 
 ## Description
 SRSD is a staged instructional model in which teachers explicitly teach a genre-specific strategy (e.g., POW+TREE for persuasive writing: Pick my idea, Organize notes, Write and say more; Topic sentence, Reasons, Explanations, Ending) while simultaneously building the self-regulation routines learners need to use it on their own. Instruction moves through six recursive stages — develop background knowledge, discuss it, model it, memorize it, support it, independent performance — with the teacher gradually releasing responsibility as students take over strategy use and self-monitoring.

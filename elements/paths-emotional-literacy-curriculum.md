@@ -46,7 +46,10 @@ PATHS is an experimental-based emotional literacy curriculum initially designed 
 - 
 
 ## Examples
--
+
+- [Process for Constructive Decision-Making](../strategies/process_for_constructive_decision-making.md)
+- [Emotion Identification and Labeling](../strategies/emotion_identification_and_labeling.md)
+- [Explicit Conversations about Emotions and Social Issues](../strategies/explicit_conversations_about_emotions_and_social_issues.md)
 
 ## Key Sources
 - Wu, Yann-Shya. (2000). Guidelines for Instructional Sequencing in Emotional Literacy Learning Using PATHS Curriculum as an Example. https://eric.ed.gov/?id=ED455810

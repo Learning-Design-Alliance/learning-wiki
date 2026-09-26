@@ -16,7 +16,7 @@ sources:
 # Interactive model of reading: four interacting aspects of the reading process
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The paper defines reading as an active thinking process with four interacting aspects: readers use both reader-based and text-based inferencing to construct meaning, elaborate what and how they read, continually monitor their understanding, and use the situational context to focus purposes. The model holds that "a pattern is synthesized based on information provided simultaneously from several knowledge sources" combined with prior grammatical and topic knowledge. Figure 1 depicts these aspects as continuously interacting while readers construct meaning.
@@ -37,7 +37,10 @@ The paper defines reading as an active thinking process with four interacting as
 - strategic reading
 
 ### Claims
-- 
+
+- [Low reading-group first graders read far fewer words than high-group peers, limiting elaboration](../claims/low-group-first-graders-read-few-words.md) [+W]
+- [Poor beginning readers overrely on a single information source rather than integrating all available cues](../claims/poor-readers-overrely-single-information-source.md) [+W]
+- [Reading difficulty occurs when one aspect of the interactive reading process is excluded for an extended period of time](../claims/reading-difficulty-excluded-aspect-extended-time.md) [+W]
 
 ## Related Theories
 - 

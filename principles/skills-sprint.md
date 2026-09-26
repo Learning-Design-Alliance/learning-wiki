@@ -20,7 +20,7 @@ sources:
 # Skills Sprint
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 mixed) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 mixed) · 7 studies, `q2`–`q4` · 6 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Skills sprints are short, intensive learning cycles organized around producing something meaningful under time constraints. Learners work on a concrete challenge, build or test an output, gather feedback, and iterate quickly. The sprint format is useful because it compresses attention, decision making, collaboration, and application into a bounded window that can create momentum and make progress visible.

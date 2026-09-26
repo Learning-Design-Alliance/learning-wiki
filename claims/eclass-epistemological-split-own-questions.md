@@ -41,4 +41,7 @@ Results from a typical introductory calculus-based lab course at a large public 
 
 
 ## Related Claims
+
 - [Asking questions is a valued scientific practice: all 23 experts agreed it is a key aspect of scientific research](asking-questions-key-scientific-practice-expert-consensus.md) — related
+- [Distinguishing classroom and research contexts in survey questions was a key outcome of student validation interviews](context-clarification-validation-interviews.md)
+- [E-CLASS statements were validated through 42 student interviews and expert responses from 23 faculty and instructors](eclass-validated-interviews-experts.md)

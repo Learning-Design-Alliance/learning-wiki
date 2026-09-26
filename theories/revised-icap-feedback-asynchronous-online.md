@@ -43,7 +43,8 @@ This revision of Chi and Wylie's ICAP Framework adds formative feedback, or its 
 - Audit Most Activities Passive Active Icap [+M]
 
 ## Related Theories
-- 
+
+- [ICAP-Bloom adapted coding scheme for cognitive engagement in online discussion posts](icap-bloom-coding-scheme-discussion-posts.md)
 
 ## Examples
 -

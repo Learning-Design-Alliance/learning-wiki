@@ -40,7 +40,10 @@ The Level of Adoption (LoA) survey is a collaborative self-assessment instrument
 - [Loa Pilot Self Reported Increase All 20 Technologies](../claims/loa-pilot-self-reported-increase-all-20-technologies.md) [+M]
 
 ## Related Theories
-- 
+
+- [Levels of Use of the Innovation: eight developmental levels with decision points](levels-of-use-innovation-eight-levels.md)
+- [Levels of Use of the Innovation: an eight-level behavioral framework for individual innovation implementation](levels-of-use-innovation-eight-level-framework.md)
+- [The five-stage teacher technology adoption process: Entry, Adoption, Adaptation, Appropriation, Invention](teacher-technology-adoption-stages.md)
 
 ## Examples
 -

@@ -39,10 +39,16 @@ Drawing on Lerner's account of empathy and Maruyama's concept of transspection, 
 - 
 
 ## Related Theories
-- 
+
+- [Hanvey's five-dimension framework for an attainable global perspective](hanvey-five-dimensions-global-perspective.md)
+- [Four levels of cross-cultural awareness, with believability achieved only at the intellectual-analysis and immersion levels](four-levels-cross-cultural-awareness.md)
 
 ## Examples
--
+
+- [What Would Their Day Look Like?](../strategies/what_would_their_day_look_like.md)
+- [Empathy Walks](../strategies/empathy-walks.md)
+- [Hot Seat](../strategies/hot_seat.md)
+- [Dramatic Play](../strategies/dramatic_play.md)
 
 ## Key Sources
 - Hanvey, Robert G. (1975). An Attainable Global Perspective. Center for War/Peace Studies. https://eric.ed.gov/?id=ED116993

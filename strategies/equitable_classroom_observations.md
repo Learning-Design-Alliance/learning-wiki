@@ -63,9 +63,11 @@ Equity problems in classroom discourse are typically invisible to teachers becau
 6. **Re-observe**: repeat the cycle to check whether the adjustment shifted participation patterns, closing the formative loop.
 
 ## Related Strategies
+
 - [Check-ins](../principles/check-ins.md) — low-stakes participation structures that widen who gets to talk before observation data are even needed
 - [Action research](../strategies/action-research.md) — EQUIP functions as the data-collection instrument within a teacher inquiry cycle
 - [Actively listen to what students say](../strategies/actively_listen_to_what_students_say.md) — the discourse move teachers most often need to redistribute equitably
+- [Disaggregate participation data intersectionally by race and gender to surface disparities hidden in aggregate analyses](strategies-disaggregate-participation-data-intersectionally.md)
 
 ## Related Elements
 - [Assessment](../elements/assessment.md) — observation analytics are a form of assessment *of teaching*, run through the same formative logic

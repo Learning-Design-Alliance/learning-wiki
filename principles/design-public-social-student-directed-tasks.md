@@ -44,7 +44,8 @@ The article found the discussion-group assessment effective because it "was publ
 - 
 
 ## Examples
--
+
+- [Implement student-led weekly discussion groups in which rotating leaders choose topics, facilitate discussion, and post summaries, unmediated by teaching staff](../strategies/student-led-rotating-discussion-leader-groups.md)
 
 ## Key Sources
 - Pittaway, S. M., & Moss, T. (2014). “Initially, We Were Just Names on a Computer Screen”: Designing Engagement in Online Teacher Education. Australian Journal of Teacher Education, 39(7). http://ro.ecu.edu.au/ajte/vol39/iss7/8

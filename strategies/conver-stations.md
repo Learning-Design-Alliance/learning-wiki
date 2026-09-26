@@ -12,7 +12,7 @@ generated:
 # Conver-Stations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Conver-Stations is a small-group discussion structure in which learners begin in groups of 4–6 to discuss a prepared question, then one or two members from each group rotate to a new group while the others stay put. The rotating learners carry ideas from their original discussion into the new one, so each successive round mixes perspectives without requiring the whole class to reshuffle. The result is that every learner encounters a wider sample of peers' thinking than a static [group discussion](../elements/class-discussion.md) allows.

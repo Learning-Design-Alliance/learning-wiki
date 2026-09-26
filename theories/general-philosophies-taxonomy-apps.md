@@ -39,7 +39,15 @@ Chapter 3 surveys four general philosophical systems—idealism, realism, experi
 - 
 
 ## Related Theories
+
 - [Educational Philosophies Taxonomy Apps](educational-philosophies-taxonomy-apps.md)
+- [Apps's four-category framework for a working philosophy of adult education](apps-four-category-working-philosophy-framework.md)
+- [Traditional versus modern philosophies distinguished by who determines ends and means](traditional-modern-philosophies-ends-means.md)
+- [Realism (Educational Philosophy)](realism-educational-philosophy.md)
+- [Existentialism (Educational Philosophy)](existentialism-educational-philosophy.md)
+- [Five educational philosophies framework (perennialism, idealism, realism, experimentalism, existentialism)](five-educational-philosophies-framework.md)
+- [Five basic educational philosophies: traditional-conservative versus contemporary](five-basic-educational-philosophies-traditional-vs-contemporary.md)
+- [Five-philosophy framework of teacher beliefs (Realism, Idealism, Pragmatism, Existentialism, Phenomenology)](five-philosophies-teacher-belief-framework.md)
 
 ## Examples
 -

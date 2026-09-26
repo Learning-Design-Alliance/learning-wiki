@@ -60,8 +60,10 @@ Graphic organizers as assessments align with [Assessment for Learning](../princi
 6. Use the completed maps diagnostically: common mis-structures indicate where re-teaching is needed, feeding back into [Assessment](../elements/assessment.md) cycles.
 
 ## Related Strategies
+
 - Concept mapping as a learning activity — the same organizer used during instruction rather than for scoring; assessment use is most valid when students have practiced it as a learning tool first
 - Pre-instruction diagnostic mapping — using the blank organizer before teaching to surface prior knowledge and misconceptions
+- [Student-generated mapping exercise](student-generated-mapping-strategy.md)
 
 ## Examples
 - **Science classrooms:** students complete a concept map linking photosynthesis, cellular respiration, and energy transfer after a unit; the teacher scores link labels to identify the common misconception that plants "breathe in" oxygen only at night.

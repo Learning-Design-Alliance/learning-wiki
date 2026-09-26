@@ -44,7 +44,8 @@ The article describes team-based discovery learning as an element of cooperative
 - 
 
 ## Examples
--
+
+- [Pair team-based discovery learning with detailed guiding questions, simplified texts, and glossaries of unfamiliar terms](../strategies/guide-questions-simplification-glossary-for-proposal-writing.md)
 
 ## Key Sources
 - Arifani, Y. (2016). The Implementation of Team-Based Discovery Learning to Improve Students’ Ability in Writing Research Proposal. International Education Studies, 9(2). https://doi.org/10.5539/ies.v9n2p111

@@ -40,7 +40,8 @@ This article adapts Dweck's four-item Goal Orientation Scale into Turkish, with 
 - 
 
 ## Examples
--
+
+- [Introduce student teachers to mindset theory early and foster a learning orientation through classroom language, feedback and attitude to challenge](../strategies/mindset-theory-early-in-teacher-education.md)
 
 ## Key Sources
 - Beyaztaş, D. İ., Kaptı, S. B., & Hymer, B. (2017). The Relationship between Student Teachers' Perception of Intelligence and Their Goal Orientation. Universal Journal of Educational Research 5(9): 1519-1528. https://doi.org/10.13189/ujer.2017.050909

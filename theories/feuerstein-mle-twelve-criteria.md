@@ -40,10 +40,18 @@ Feuerstein's Mediated Learning Experience (MLE) theory explains differential cog
 - [Ie City Wide Nce Mixed Outcomes](../claims/ie-city-wide-nce-mixed-outcomes.md) [~M]
 
 ## Related Theories
-- 
+
+- [A systematic framework of 35 indicators grouped under five quality criteria for MLE in Italian elementary schools](felini-quality-mle-framework.md)
+- [Feuerstein's mediated learning: human mediation as prerequisite for direct learning](feuerstein-mediated-learning-prerequisite.md)
+- [Feuerstein's Mediated Learning Experience (MLE) theory: a human mediator modifies the learner's interaction with stimuli to build cognitive modifiability](mle-theory-human-mediator-cognitive-modifiability.md)
+- [Three universal MLE criteria: intentionality and reciprocity, mediation of meaning, and transcendence](mle-three-universal-criteria.md)
+- [Feuerstein's theory of structural cognitive modifiability and Mediated Learning Experience](structural-cognitive-modifiability-mle.md)
 
 ## Examples
--
+
+- [Use the quality-indicator framework as a self-evaluation instrument for teachers rather than an external ranking tool](../strategies/mle-framework-self-evaluation-use.md)
+- [Instrumental Enrichment program](../elements/instrumental-enrichment-program.md)
+- [Educators should act as mediators and facilitators of learning rather than content disseminators](../principles/teacher-as-mediator-not-content-disseminator.md)
 
 ## Key Sources
 - Presseisen, Barbara Z.; Kozulin, Alex. (1992). Mediated Learning--The Contributions of Vygotsky and Feuerstein in Theory and Practice. https://eric.ed.gov/?id=ED347202

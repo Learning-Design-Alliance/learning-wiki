@@ -17,7 +17,7 @@ sources:
 # Five key characteristics of rigorous regular group processing in enquiry-based learning seminars
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article specifies five key characteristics that defined group processing in the studied seminars: non-hierarchical group dynamics with equal voice, ongoing per-session feedback to every member, a consistent duration of about one third of each session, public in-person verbal feedback for mutual accountability, and novel contributions to guarantee feedback relevancy. The article states that "group processing consistently lasted about one third of each session (i.e. 30 minutes of a 80 minute session)". This pattern operated within closed-loop reiterative enquiry-based learning seminars of roughly 18 students divided into groups of 9-10.
@@ -42,7 +42,12 @@ The article specifies five key characteristics that defined group processing in 
 - reflective evaluation of group learning processes
 
 ### Claims
-- 
+
+- [Participants reported that group processing affected their broader university experience and their experiences after university](../claims/group-processing-affects-broader-university-and-post-university-experience.md) [+W]
+- [Participants reported significant improvement in their ability to deliver, receive, and implement feedback between the seminar and the time of survey](../claims/group-processing-improves-feedback-delivery-reception-implementation.md) [+W]
+- [Students' evaluation of group processing as a positive contribution to learning increased significantly from the beginning to the end of the course and again to the time of survey](../claims/group-processing-perceived-value-increases-over-time.md) [+W]
+- [Students retrospectively evaluated group processing as time well spent and vividly remembered it years later](../claims/group-processing-retrospectively-valued-time-well-spent.md) [+W]
+- [Most former students reported using group processing after their seminar and rated it as transferable to other contexts](../claims/group-processing-skills-transferable-to-other-contexts.md) [+W]
 
 ## Related Patterns
 - 

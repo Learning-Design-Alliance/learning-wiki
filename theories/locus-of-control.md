@@ -37,10 +37,14 @@ A student who does poorly on a test after skipping study time illustrates the co
 ## Claims
 
 ## Related Theories
+
 - [Self-Efficacy Theory](self-efficacy-theory.md) — self-efficacy is task-specific competence belief; locus of control is a broader, more stable belief about the general controllability of outcomes
 - [Attribution Theory](attribution-theory.md) — locus (internal vs. external) is one of attribution theory's own core dimensions, applied there to explanations for specific past outcomes rather than a generalized trait
 - [Expectancy-Value Theory](expectancy-value-theory.md) — internal locus of control has been linked to higher expectancy for success and task value in online learning contexts (Joo, Lim, & Kim, 2013)
 - [Self-Regulated Learning](self-regulated-learning.md) — an internal locus of control is a plausible precondition for sustained self-regulatory effort, since self-regulation presumes outcomes respond to one's own strategic action
+- [Interpersonal styles equated with generalized expectancies in social learning theory](interpersonal-styles-as-generalized-expectancies.md)
+- [Social learning theory expectancy framework (generalized and specific expectancies)](social-learning-expectancy-framework.md)
+- [Weiner's dimensional organization of attributions: locus of control, stability, and later controllability](weiner-attribution-dimensions-locus-stability-control.md)
 
 ## Examples
 

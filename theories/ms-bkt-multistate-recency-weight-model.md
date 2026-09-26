@@ -40,7 +40,8 @@ MS-BKT is a knowledge tracing architecture that keeps BKT's HMM structure but ma
 - [Ms Bkt Estimates Fluctuate Less Than Bkt](../claims/ms-bkt-estimates-fluctuate-less-than-bkt.md) [+M]
 
 ## Related Theories
-- 
+
+- [Two hypotheses for the meaning of Spectral BKT's intermediate states: a stages-of-mastery account and a mastery-by-metacognition interaction account](spectral-bkt-intermediate-state-hypotheses.md)
 
 ## Examples
 -

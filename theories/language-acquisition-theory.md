@@ -40,9 +40,14 @@ The current consensus among researchers is that no single account is sufficient 
 ## Claims
 
 ## Related Theories
+
 - [Sociocultural Theory](sociocultural-theory.md) — the social-interactionist account is a direct application of Vygotsky's broader framework to language specifically
 - [Behaviorism](behaviorism.md) — the learning-theory account of language acquisition is a direct application of behaviorist principles, and shares its central limitation (difficulty explaining generativity)
 - [Constructivism](constructivism.md) — compatible with the interactionist account's emphasis on meaning-making through social interaction
+- [Behavioristic theory: children learn language through imitation of those around them, supported by models and reinforcement](behavioristic-language-acquisition-imitation-theory.md)
+- [Bruner's account: language acquisition as necessity for thinking and the highest levels of cognitive development](bruner-language-acquisition-cognitive-development.md)
+- [Cognitive theory: children are born with processing abilities and learn language by forming and testing hypotheses and rules](cognitive-hypothesis-testing-language-theory.md)
+- [Nativistic theory: language development is determined from within the child; language is innate](nativistic-innate-language-theory.md)
 
 ## Examples
 

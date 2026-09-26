@@ -17,7 +17,7 @@ sources:
 # Four architectonic guiding principles for integrating teaching, learning, and technology
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study, `q1` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article enumerates four principles, attributed to Dennis (2020a), that serve as a paradigm for the interrelationship of teaching, learning, and technology: language and dialogue create unity out of differences; all words, texts, genres, and disciplines integrate through semiotic or dialogic processes; Peircean semiotics is a continuum on which intertextuality, hypertextuality, and interdisciplinarity are nodes; and exigence, context, intertext, and hypertext determine the proper application of interdisciplinarity. As printed: "the first guiding principle is that language and dialogue create unity and simultaneity out of differences. The second principle is that all words, texts, genres, and disciplines integrate through semiotic or dialogic processes."
@@ -39,7 +39,12 @@ The article enumerates four principles, attributed to Dennis (2020a), that serve
 - technology-supported teaching
 
 ### Claims
-- 
+
+- [Language and dialogue operationalize the networking capacities that connectivism values](../claims/language-operationalizes-network-learning.md) [+W]
+- [Connectivism is an iteration of architectonic/constructivist thought rather than a new theory of learning](../claims/connectivism-iteration-of-architectonics.md) [+W]
+- [Hypertextuality extends intertextuality into the digital world, foreshadowing connectivism](../claims/hypertextuality-digitizes-intertextuality.md) [+W]
+- [Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue](../claims/dialogue-underpins-networked-learning.md) [+W]
+- [Kantian architectonics is an early articulation of constructivism, with knowledge constructed into a system](../claims/kantian-architectonics-early-constructivism.md) [+W]
 
 ## Related Patterns
 - 

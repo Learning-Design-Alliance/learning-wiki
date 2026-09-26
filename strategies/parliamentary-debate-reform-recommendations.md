@@ -44,7 +44,8 @@ The paper closes with concrete proposals for improving parliamentary debate as "
 - [Debate As Argumentation Laboratory](../theories/debate-as-argumentation-laboratory.md)
 
 ## Related Strategies
-- 
+
+- [Require consistent advocacy in debate activities: bar or discourage conditional arguments](require-consistent-advocacy-in-debate.md)
 
 ## Examples
 -

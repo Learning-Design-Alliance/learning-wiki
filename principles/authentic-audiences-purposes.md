@@ -12,7 +12,7 @@ generated:
 # Authentic Audiences & Purposes
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 6 claims (6 for) · 11 studies, `q2`–`q4` · 11 of 11 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 11 studies, `q2`–`q4` · 10 of 11 report an effect size · 4 claims rest on one study
 
 ## Description
 Design learning tasks for real or realistically consequential audiences beyond the teacher-as-grader. When learners write, present, build, or investigate for an authentic purpose, the work becomes more than an academic exercise: it carries audience expectations, real constraints, and a reason to revise. This tends to increase relevance, accountability, and transfer, but only when the audience and task are genuinely aligned rather than superficially "real-world" in name only.

@@ -41,7 +41,8 @@ The article recommends that teachers embed mathematical language in everyday int
 - Zpd Social Constructivist Framework
 
 ## Related Strategies
-- 
+
+- [Guided Play](guided_play.md)
 
 ## Examples
 -

@@ -57,8 +57,10 @@ Dot Card Flash is a perceptual-fluency activity: the time limit converts a count
 5. Swap roles and repeat with a new card; increase quantity or irregularity as accuracy stabilizes
 
 ## Related Strategies
+
 - Ten-frame flash routines — same flash-reconstruct-discuss structure applied to ten-frame representations
 - Quick-image routines (e.g., *Number Talks* dot images) — whole-class variant where the teacher flashes and learners describe how they saw the quantity
+- [Teach estimation of coin values and quantities using a 'more than'/'less than' framework rather than counting and rounding](more-than-less-than-estimation-framework.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the activity is short, repeated, feedback-rich practice on a perceptual skill

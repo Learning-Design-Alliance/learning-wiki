@@ -12,7 +12,7 @@ generated:
 # Book Clubs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 11 studies, `q2`–`q4` · 9 of 11 report an effect size
+> **Evidence** · 4 claims (4 for) · 11 studies, `q1`–`q4` · 8 of 11 report an effect size
 
 ## Description
 Book clubs (also called literature circles) organize learners into small, relatively autonomous groups that read a shared text and meet regularly to discuss it. Unlike teacher-led [Class Discussion](../elements/class-discussion.md), the club itself owns the conversation: members prepare, pose questions, and negotiate interpretations, with the instructor acting as facilitator rather than discussion leader. Choice of text and of discussion focus is typically distributed to the group, which is what distinguishes book clubs from assigned whole-class reading followed by recitation.
@@ -61,9 +61,11 @@ Book clubs work because they combine social negotiation of meaning with learner 
 6. Close each cycle with a synthesis product — a written response, book talk, or cross-group share — so individual learning is visible ([Assessment](../elements/assessment.md)).
 
 ## Related Strategies
+
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a more scripted, strategy-focused variant of small-group text discussion
 - [Jigsaw](jigsaw.md) — an alternative cooperative structure when each member reads a different text segment
 - [Socratic Seminar](socratic-seminar.md) — whole-class, teacher-facilitated discussion; a useful contrast or follow-on to club autonomy
+- [Implement student-led weekly discussion groups in which rotating leaders choose topics, facilitate discussion, and post summaries, unmediated by teaching staff](student-led-rotating-discussion-leader-groups.md)
 
 ## Examples
 - **Literature circles (Daniels, 2002)** — the widely adopted role-based format used across K–12 classrooms; see overview at [Harvey Daniels' work](https://www.heinemann.com/authors/424).

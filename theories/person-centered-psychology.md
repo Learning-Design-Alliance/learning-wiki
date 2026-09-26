@@ -37,8 +37,10 @@ Drawing on Carl Rogers' humanistic psychology and small-group encounter methods,
 - (none yet — the source article is a conceptual/theoretical contribution with no empirical claim to attach)
 
 ## Related Theories
+
 - [Situated Learning](situated-learning.md) — both frameworks treat the relational and interactional context, not just content delivery, as the site of learning
 - [Self-Determination Theory](self-determination-theory.md) — unconditional positive regard overlaps with self-determination theory's emphasis on relatedness and non-contingent acceptance as motivational conditions
+- [Person-centered (client-centered) counseling and psychotherapy as Patterson articulated it](patterson-person-centered-counseling-framework.md)
 
 ## Examples
 - [Building Empathy](../principles/building-empathy.md) — person-centered psychology gives a structured relational methodology (safety, congruence, empathic listening) for why and how perspective-taking activities can go deeper than surface-level exercises

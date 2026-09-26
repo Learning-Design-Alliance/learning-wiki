@@ -49,11 +49,14 @@ Behaviorism is criticized as overly deterministic and as denying free will; by t
 - [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/overjustification-effect-reduces-intrinsic-motivation.md) [-M]
 
 ## Related Theories
+
 - [Cognitivism](cognitivism.md) — arose partly in reaction to behaviorism's neglect of internal cognitive processes
 - [Cognitive Load Theory](cognitive-load-theory.md) — arose partly in reaction to behaviorism's neglect of internal cognitive processes
 - [Constructivism](constructivism.md) — contrasts with behaviorism by centering the learner's active construction of meaning
 - [Information Processing Theory](information-processing-theory.md) — replaced behaviorist black-box assumptions with explicit models of memory and attention
 - [Connectivism](connectivism.md) — positions itself against behaviorism (along with cognitivism and constructivism) as a pre-networked-era theory of individual, internal learning
+- [Behaviorism as a learning theory: learning is the acquisition of new observable behavior, not a mental process](behaviorism-observable-behavior-theory-faryadi.md)
+- [Programmed instruction framework: six-element operant-conditioning lesson format](programmed-instruction-six-element-framework.md)
 
 ## Examples
 - [Token Economies](../strategies/token-economies.md) — a classroom-scale system of secondary (token) reinforcers

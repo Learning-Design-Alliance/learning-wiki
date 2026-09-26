@@ -12,7 +12,7 @@ generated:
 # Badges
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 9 studies, `q1`–`q4` · 8 of 9 report an effect size
 
 ## Description
 Badges are a digital way to acknowledge learner work. Learners can receive a badge if they achieve certain levels of success on assignments, or if they do additional work, such as submitting a draft or sharing notes with another learner. Badges may be displayed to other learners in the class as a means to encourage competition or to demonstrate the variety of badges which can be earned. Well-designed badges function as micro-credentials: they carry explicit criteria and evidence, making them closer to [Competency-Based Assessment](../principles/competency-based-assessment.md) than to simple participation rewards.
@@ -61,9 +61,11 @@ Badges operate as extrinsic motivators, and their effect on learning depends alm
 6. Decide on display policy: private progress tracking, learner-curated portfolios, or class-visible boards; prefer learner choice over imposed competition.
 
 ## Related Strategies
+
 - [Gamification](gamification.md) — badges are one of the most common gamification elements; the same motivation caveats apply
 - [Micro-credentials](micro-credentials.md) — badges at institutional scale with external recognition
 - [Leaderboards](leaderboards.md) — a competitive display mechanism often paired with badges, with stronger demotivation risks
+- [Use digital badges to recognize skills, supplement report cards, and manage equipment training access in maker education](digital-badges-maker-education-recognition.md)
 
 ## Related Elements
 - [Assessment](../elements/assessment.md) — badge criteria must be grounded in real assessment of the work

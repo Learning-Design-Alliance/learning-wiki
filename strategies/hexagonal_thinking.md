@@ -58,9 +58,11 @@ Hexagonal thinking combines retrieval of prior learning with elaborative connect
 5. Follow with individual synthesis — a paragraph, essay plan, or annotated photo of the web — to consolidate the relational structure.
 
 ## Related Strategies
+
 - [Concept Mapping](../elements/concept-mapping.md) — the labeled, hierarchical cousin; more precise about relationship types but slower to build
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — hexagons can serve as an activation task at the start of a unit, surfacing what learners already connect
 - [Case-Based Learning](../patterns/case-based-learning.md) — hexagon webs can map the forces at play within a case before analysis
+- [Student-generated mapping exercise](student-generated-mapping-strategy.md)
 
 ## Examples
 - **History (secondary):** students place events, leaders, economic conditions, and ideologies on hexagons to build a causal web explaining a revolution, then defend the web as an essay plan.

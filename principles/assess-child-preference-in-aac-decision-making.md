@@ -40,7 +40,8 @@ The article recommends that practitioners build preference assessment into AAC s
 - [Sgd Preference Over Pe And Manual Signs](../claims/sgd-preference-over-pe-and-manual-signs.md) [+M]
 
 ## Related Principles
-- 
+
+- [Strongly consider aided AAC systems over manual signs, particularly for children with fine motor limitations](prefer-aided-systems-over-manual-signs.md)
 
 ## Examples
 -

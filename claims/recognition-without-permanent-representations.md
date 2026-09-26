@@ -41,4 +41,7 @@ Theoretical argument in the schema-of-the-moment section, answering the question
 
 
 ## Related Claims
--
+
+- [Cognition is a transient phenomenon created by the functioning of distributed components of the nervous system](cognition-transient-distributed-functioning.md)
+- [The nervous system is hypothesized to include an all-spreading nondirectional relational medium alongside directional connections](all-spreading-nondirectional-relational-medium.md)
+- [Synaptic connectionism is argued to be implausible for complex cognition because synaptic plasticity has been studied only as an analog of simpler learning forms](synaptic-connectionism-implausible-complex-cognition.md)

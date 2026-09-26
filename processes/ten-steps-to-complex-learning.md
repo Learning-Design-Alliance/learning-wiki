@@ -14,7 +14,7 @@ grain_size: programme
 # Ten Steps to Complex Learning
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 unmarked) · 12 studies, `q3`–`q4` · 11 of 12 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 unmarked) · 12 studies, `q2`–`q4` · 10 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 Ten Steps is the design process that produces a [4C/ID](../patterns/4cid-four-component-instructional-design.md) blueprint. The pattern describes what the resulting instruction looks like — learning tasks, supportive information, procedural information, part-task practice. This page describes what a designer does to arrive at it, which is a different object and a genuinely different way of working.

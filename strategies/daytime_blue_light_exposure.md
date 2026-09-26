@@ -57,9 +57,11 @@ Blue-enriched lighting in classrooms raises self-reported alertness and, in some
 5. Monitor self-reported alertness and sleep timing to tune exposure for the group and for individuals.
 
 ## Related Strategies
+
 - Sleep hygiene and sleep-regularity routines — the evening complement; daytime blue light only helps if nighttime sleep is protected
 - Scheduling of cognitively demanding tasks in morning hours, when circadian alertness peaks for most adolescents
 - Physical activity breaks — an independent, additive route to daytime alertness
+- [Nighttime Blue Light Reduction](nighttime_blue_light_reduction.md)
 
 ## Examples
 - **Dutch classroom lighting studies (Sleegers et al., 2017)** — classrooms fitted with dynamically adjustable lighting (including a focus mode with higher illuminance and cooler color temperature) showed gains in concentration over conventional lighting.

@@ -29,7 +29,7 @@ sources:
 # Demonstrating Caring
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (1 for, 1 unmarked) · 5 studies, `q1`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Demonstrating caring is the strategy of making personal investment in learners visible through concrete, repeated actions: learning and using names, greeting students individually, noticing and asking about their lives, responding to struggle with patience rather than judgment, and following up on things students have shared. Noddings (1984) frames this as *engrossment* — attending fully to the learner — combined with *confirmation*, affirming what the learner is trying to become. Caring must be perceived by the student to have any effect; a teacher's internal goodwill that is never expressed does not build relationship.

@@ -41,10 +41,13 @@ The report describes Mead's redefinition of educational stages: primary educatio
 - 
 
 ## Related Principles
-- 
+
+- [Balance vertical transmission with lateral transmission so all members of society continually learn from new discoveries](lateral-transmission-alongside-vertical.md)
 
 ## Examples
--
+
+- [Organize schools into educational clusters where older students teach younger ones to break the linearity of the system](../strategies/educational-clusters-older-teach-younger.md)
+- [Advance community-based lifelong learning through mentoring relationships connecting local expertise with desired learners](../strategies/mentoring-for-community-lifelong-learning.md)
 
 ## Key Sources
 - Monroe, Suzanne S. (1992). Margaret Mead: Anthropological Perspective on Educational Change. ERIC Document ED 356 168. https://eric.ed.gov/?id=ED356168

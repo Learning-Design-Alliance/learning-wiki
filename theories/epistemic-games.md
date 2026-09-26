@@ -42,8 +42,10 @@ Studying interdisciplinary teams constructing a shared problem statement, Arthar
 - [Epistemic games reveal unacknowledged disciplinary differences in teams](../claims/epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md) [~M]
 
 ## Related Theories
+
 - [Knowledge Objects and Knowledge Practices](knowledge-objects-and-knowledge-practices.md) — both analyze the moves interdisciplinary teams use to build shared knowledge; epistemic games trace short, game-like interaction sequences, while knowledge objects/practices trace how a project-length artifact evolves
 - [Boundary Crossing Learning](boundary-crossing-learning.md) — the knowledge-validation move often exposes exactly the kind of unacknowledged disciplinary difference that boundary crossing's "identification" mechanism is meant to surface explicitly
+- [Procedural resources and resource graphs: extending the resources framework to model epistemic actions in mathematical problem solving](procedural-resources-resource-graphs-integration.md)
 
 ## Examples
 - [Epistemic Games: Shared-Understanding Moves](../elements/epistemic-games-shared-understanding-moves.md) — the five named moves operationalized as a teachable/scaffoldable instructional element

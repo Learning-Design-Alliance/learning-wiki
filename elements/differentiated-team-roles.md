@@ -70,6 +70,7 @@ Structured roles counteract the well-documented failure modes of unstructured gr
 **[POGIL](https://pogil.org)** — Process-Oriented Guided Inquiry Learning assigns teams of 3–4 the roles of Manager, Recorder, and (optionally) Presenter/Reflector, with mandatory rotation, in guided-inquiry activities across chemistry and other disciplines.
 
 **[Complex Instruction (Cohen & Lotan)](https://ie.berkeley.edu/complex-instruction)** — Uses role assignments (facilitator, recorder, reporter, materials manager) alongside "multiple-ability" tasks specifically to equalize participation across status differences in heterogeneous classrooms.
+- [Use interdependence chains in which students link interdependent jobs and explain why each job needs the others](../strategies/interdependence-chains-activity.md)
 
 ## Key Sources
 - Aronson, E., Blaney, N., Stephan, C., Sikes, J., & Snapp, M. (1978). *The jigsaw classroom*. Sage.

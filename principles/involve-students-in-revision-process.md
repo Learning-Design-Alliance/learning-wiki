@@ -42,10 +42,19 @@ Revision should not be just a giver-receiver relationship with the teacher givin
 - 
 
 ## Related Principles
-- 
+
+- [Avoid appropriating student writing; distinguish appropriation from helpful intervention](avoid-appropriating-student-writing.md)
+- [Minimize student frustration by making feedback clear, legible, focused, and transparent](minimize-student-frustration-in-feedback.md)
+- [Respond to student writing as an interested reader rather than only as an evaluator](respond-as-a-reader.md)
+- [Establish a viable trading point between life story giver and research taker through active collaboration](trading-point-between-story-giver-and-research-taker.md)
 
 ## Examples
--
+
+- [Use a Letter to the Reviewer reflective memo submitted with each draft](../strategies/letter-to-the-reviewer-memo.md)
+- [Hold one-on-one writing conferences to negotiate feedback and revision](../strategies/one-on-one-writing-conferences.md)
+- [Learner-to-Learner (Peer) Feedback](../strategies/learner-to-learner-peer-feedback.md)
+- [Build Community Through Peer Feedback](../strategies/build_community_through_peer_feedback.md)
+- [Building Community Through Peer Feedback in PBL](../strategies/building_community_through_peer_feedback_in_pbl.md)
 
 ## Key Sources
 - Shvidko, Elena. (2020). Taking into Account Interpersonal Aspects of Teacher Feedback: Principles of Responding to Student Writing. Journal on Empowering Teaching Excellence, Vol. 4, Iss. 2, Article 7. https://doi.org/10.26077/936a-72f7

@@ -41,7 +41,8 @@ The threshold hypothesis holds that there are threshold levels of linguistic com
 - [Semilingualism Associated With Negative Cognitive Effects](../claims/semilingualism-associated-with-negative-cognitive-effects.md) [+M]
 
 ## Related Theories
-- 
+
+- [Linguistic Threshold Hypothesis versus Linguistic Interdependence Hypothesis for ELL reading comprehension](linguistic-threshold-vs-interdependence-hypotheses.md)
 
 ## Examples
 -

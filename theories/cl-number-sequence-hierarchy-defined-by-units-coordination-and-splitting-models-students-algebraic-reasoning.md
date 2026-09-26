@@ -42,10 +42,13 @@ The article organizes students' concepts of number as a hierarchy — INS, TNS, 
 - Cl Splitting Construction Distinguishes Ens From Atns Students In Algebraic Reasoning [+M]
 
 ## Related Theories
-- 
+
+- [Steffe's Number Sequences and Multiplicative Double Counting](steffes-number-sequences-and-multiplicative-double-counting.md)
 
 ## Examples
--
+
+- [Multiplicative Double Counting](../strategies/multiplicative_double_counting.md)
+- [In multiplicative task design, deliberately vary number difficulty because harder numbers that exceed available figural counters challenge the dual anticipation](../principles/number-difficulty-impacts-mdc-construction.md)
 
 ## Key Sources
 - No author line printed. (2019). Coordinating Units and Students' Algebraic Reasoning: The Role of Three Levels of Units and Splitting Operations. https://eric.ed.gov

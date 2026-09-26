@@ -40,7 +40,9 @@ The paper presents cognitive learning theory, citing Eggen and Kauchak, as the v
 - 
 
 ## Related Theories
-- 
+
+- [The schema-of-the-moment: cognition as a transient functional organization of simultaneously active neuronal elements](schema-of-the-moment.md)
+- [Cognitivism](cognitivism.md)
 
 ## Examples
 -

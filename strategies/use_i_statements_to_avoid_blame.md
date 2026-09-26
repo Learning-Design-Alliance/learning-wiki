@@ -12,7 +12,7 @@ generated:
 # Use "I" Statements to Avoid Blame
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies, `q3`–`q4` · 5 of 9 report an effect size
+> **Evidence** · 4 claims (4 for) · 9 studies, `q1`–`q4` · 4 of 9 report an effect size
 
 ## Description
 An "I" statement (or "I-message") frames a concern around the speaker's own observation and emotional reaction — "I felt that other students were distracted" — rather than an accusation aimed at the listener ("You distracted everyone"). The strategy, developed in Gordon's Teacher Effectiveness Training, reduces the defensiveness that "you" statements trigger, keeping dialogue open and modeling non-blaming communication for students.
@@ -55,9 +55,11 @@ An "I" statement (or "I-message") frames a concern around the speaker's own obse
 5. Model the same structure when mediating student-to-student conflict, e.g., during a [Check-In](../elements/check-in.md) circle.
 
 ## Related Strategies
+
 - [Active Listening](../strategies/active-listening.md) — the receptive counterpart; "I" statements open the conversation, active listening sustains it
 - [Action-Oriented Feedback](../strategies/action-oriented-feedback.md) — pairs non-blaming framing with concrete next steps
 - [Check-Ins](../principles/check-ins.md) — a routine context where low-stakes "I" statement modeling becomes habitual
+- [Use indirect correction and self-correction to avoid face-threatening error treatment](indirect-error-correction-self-correction.md)
 
 ## Examples
 - Instead of "You distracted other students in class today," try "I felt that other students were distracted by your behavior today."

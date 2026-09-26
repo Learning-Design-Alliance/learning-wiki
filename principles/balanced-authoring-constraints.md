@@ -44,7 +44,8 @@ This principle holds that constraints in level editors should steer creators tow
 - 
 
 ## Examples
--
+
+- [Require authors to solve their own created levels before publishing, as a quality filter and a learning act in itself.](../strategies/author-must-solve-own-level.md)
 
 ## Key Sources
 - Level Creation Tools and Deep Gamification in the BOTS Educational Game. (2015). https://gameslearningsociety.org

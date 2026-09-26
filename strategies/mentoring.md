@@ -12,7 +12,7 @@ generated:
 # Mentoring
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 10 studies, `q3`–`q4` · 8 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies, `q1`–`q4` · 7 of 10 report an effect size
 
 ## Description
 Mentoring pairs a learner with a more experienced person who provides ongoing guidance, modeling, feedback, and emotional support over an extended period. Unlike episodic instruction, mentoring is relational and developmental: the mentor calibrates support to the mentee's growing competence and, in effective programs, addresses both career/instrumental needs (skill coaching, sponsorship, exposure) and psychosocial needs (identity, confidence, belonging).
@@ -59,9 +59,11 @@ Mentoring works because it combines [Coaching](../elements/coaching.md) with sus
 6. Monitor relationship quality; rematch or close out relationships that are not working rather than letting them lapse.
 
 ## Related Strategies
+
 - [Coaching](../elements/coaching.md) — the instructional core of mentoring; mentoring adds relationship and duration
 - [Check-Ins](../elements/check-in.md) — the recurring structure that keeps support contingent on current needs
 - [Communities of Practice](../principles/communities-of-practice.md) — mentoring as the dyadic entry point into a broader professional community
+- [Match teacher education, mentoring, and evaluation to developmental stage: routines and scripts for novices, analytical mentors from the competent and proficient, and stage-appropriate evaluation](stage-matched-teacher-education-policy.md)
 
 ## Examples
 - **[Big Brothers Big Sisters of America](https://www.bbbs.org)** — the most-studied youth mentoring program; its randomized evaluations shaped the "evidence-based practices" now standard in program design (training, monitoring, minimum 12-month commitment).

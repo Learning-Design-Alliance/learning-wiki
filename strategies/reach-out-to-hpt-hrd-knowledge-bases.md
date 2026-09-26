@@ -37,7 +37,8 @@ The digest recommends that practitioners include other knowledge bases, particul
 - broadening the knowledge base applied to educational change
 
 ## Related Strategies
-- 
+
+- [Address environmental deficiencies using Ely's Conditions for Change, such as leadership commitment and professional development](ely-conditions-for-change-address-environment.md)
 
 ## Examples
 -

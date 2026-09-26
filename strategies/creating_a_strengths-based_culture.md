@@ -12,7 +12,7 @@ generated:
 # Creating a Strengths-Based Culture
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q3`–`q4` · 5 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q1`–`q4` · 4 of 7 report an effect size
 
 ## Description
 A strengths-based culture positions learner assets — talents, interests, and existing competencies — as the starting point for instruction rather than deficits to be remediated. Instructors make strengths visible and usable: learners identify and discuss strengths with peers, set goals that deploy those strengths, work on passion projects, and see varied assessment options that let different strengths count. The aim is to maximize motivation, contribution, and confidence by building on what learners do well while they tackle what is hard.
@@ -58,8 +58,10 @@ A strengths orientation supports motivation through competence and autonomy: lea
 6. Pair strengths recognition with process-focused feedback on growth areas; model this by naming your own strengths *and* current challenges.
 
 ## Related Strategies
+
 - Growth-mindset framing — strengths talk should emphasize developable capacities, not fixed traits
 - Passion-project and inquiry approaches — the primary vehicle through which strengths get used rather than merely named
+- [Form Interest Groups and Strengths-Based Groups in Science](interest-based-grouping-in-science.md)
 
 ## Examples
 - **Positive education at Geelong Grammar School** — whole-school adoption of character-strengths identification and use, part of the program evaluated in Seligman et al. (2009).

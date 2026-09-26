@@ -16,7 +16,7 @@ sources:
 # Self-in-relation: development as growth within relationship rather than toward individuation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (4 for, 1 against) · 1 study, `q1` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Drawn from the Stone Center writers (Jordan, Kaplan, Miller, Stiver & Surrey), this account holds that maturation is "an evolutionary process of development through relationship." The authors contrast it with the traditional formulation of development from attachment to separation, quoting that growth is "not toward greater degrees of autonomy or individuation" but toward maintaining connection. It frames agency as operating within communion across the lifespan.
@@ -37,10 +37,16 @@ Drawn from the Stone Center writers (Jordan, Kaplan, Miller, Stiver & Surrey), t
 - relational maturity
 
 ### Claims
-- 
+
+- [Agency develops only within an intensely communal (attachment) relationship](../claims/agency-evolves-within-communal-relationship.md) [+W]
+- [Attachment (communion) contains the fear and anxiety associated with individual action (agency)](../claims/communion-contains-agentic-distress.md) [+W]
+- [Viewing agency/communion as a polarity risks underestimating agency in the lives of women](../claims/polarity-view-obscures-womens-agency.md) [-W]
+- [In attachment theory, the child's exploration is the direct outcome of security from an effective attachment relationship](../claims/secure-base-enables-exploration.md) [+W]
+- [Complex systems function properly only when self-assertive and integrative tendencies are in equilibrium](../claims/self-assertive-integrative-equilibrium-personality.md) [+W]
 
 ## Related Theories
-- 
+
+- [Agency/communion as figure/ground rather than polarity](agency-communion-figure-ground-framework.md)
 
 ## Examples
 -

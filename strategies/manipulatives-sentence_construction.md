@@ -56,8 +56,10 @@ Manipulatives work by grounding abstract grammatical categories in concrete, spa
 5. Fade the tiles: move from tile-first composition to writing first and checking with tiles, then to writing alone ([Fading](../elements/fading.md)).
 
 ## Related Strategies
+
 - [Sentence Combining](sentence-combining.md) — a complementary syntax strategy that operates on written text rather than physical objects
 - [Color-Coded Text Marking](color-coded_text_marking.md) — applies the same category-color mapping to existing text instead of composition
+- [Use sentence manipulation, sentence combining, sentence expanding, semantic feature analysis, and semantic mapping](sentence-manipulation-and-semantic-mapping-strategies.md)
 
 ## Examples
 - **Magnetic word tiles** (e.g., Magna-Tiles-style word kits or Dowling Magnets sentence-building sets) used on classroom whiteboards: the teacher builds a model sentence, then pairs rearrange tiles to vary sentence openings.

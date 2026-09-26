@@ -60,9 +60,11 @@ Classification tasks force learners to encode the *features that define* a conce
 6. Follow with application: learners classify *new* items or use the categories to solve a problem.
 
 ## Related Strategies
+
 - [Concept Attainment](../patterns/concept-attainment.md) — the pattern this strategy enacts; sorting is its core activity cycle
 - [Comparing Cases](../elements/comparing-cases.md) — sorting is comparison made cumulative across a whole item set
 - [Card Sorting](card-sorting.md) — the physical/digital modality most often used to implement sorts
+- [Use carefully chosen starter images to elicit student questions that are investigable with the given materials](starter-images-elicit-investigable-questions.md)
 
 ## Examples
 - **Words Their Way** (Bear, Invernizzi, Templeton, & Johnston) — developmental word study in which students sort spelling/word-feature cards into categories (e.g., short vs. long vowel patterns), then hunt for exceptions. Widely used in elementary literacy instruction.

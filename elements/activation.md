@@ -70,6 +70,7 @@ Activation works because new knowledge is encoded in terms of what is already kn
 **[KWL charts](https://www.adlit.org/in-the-classroom/strategies/kwl-charts)** — Learners record what they Know, what they Want to know, and later what they Learned; the K and W steps are activation, the L step closes the loop.
 
 **[Merrill's First Principles of Instruction](https://www.mdpi.com/2076-3417/12/3/1107)** — Activation is the first principle: effective instruction "activates existing knowledge as a foundation for new knowledge" and, where none exists, provides experience that will.
+- [Verify Prerequisite Knowledge Before Audiovisual Presentations](../strategies/prerequisite-checks-before-audiovisual-presentations.md)
 
 ## Key Sources
 - Bransford, J. D., & Johnson, M. K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 717–726. [doi:10.1016/s0022-5371(72)80006-9](https://doi.org/10.1016/s0022-5371(72)80006-9)

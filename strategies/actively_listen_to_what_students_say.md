@@ -12,7 +12,7 @@ generated:
 # Actively Listen To What Students Say
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies, `q1`–`q4` · 9 of 10 report an effect size
 
 ## Description
 Active listening in the classroom means giving a student's contribution full attention — attending to words, tone, and hesitation — and demonstrating that the contribution has been received before moving on. It is carried out through paraphrasing, probing follow-up questions, wait time, and visibly building instruction on what the student actually said rather than on the anticipated answer.
@@ -58,9 +58,11 @@ Active listening converts student talk from performance into formative evidence:
 6. Close the loop publicly: reference the student's idea later so the class sees that contributions shape instruction.
 
 ## Related Strategies
+
 - [Active Listening](active_listening.md) — the general communication skill this classroom strategy instantiates
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — the same listening stance applied to individual written work
 - [Action-Oriented Feedback](action-oriented_feedback.md) — what responsive listening feeds into
+- [Observe the classroom for dissonance between what students say and what teachers see](classroom-observation-dissonance-inclusive-design.md)
 
 ## Examples
 - **Talk Science / Accountable Talk** (Michaels & O'Connor, [SERP Institute](https://www.serpinstitute.org/talkscience)) — trains teachers in revoicing and probing moves that operationalize listening to student reasoning in math and science discussion.

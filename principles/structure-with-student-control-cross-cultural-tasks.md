@@ -46,7 +46,8 @@ The article recommends that teachers create structures offering support while le
 - 
 
 ## Examples
--
+
+- [Have students interview study-abroad returnees to learn about living abroad first hand](../strategies/guest-speaker-interviews-returnees.md)
 
 ## Key Sources
 - Murray, G. L., & Bollinger, D. J. (2001). Developing Cross-Cultural Awareness: Learning Through the Experiences of Others. TESL Canada Journal, 19(1). https://teslcanadajournal.ca

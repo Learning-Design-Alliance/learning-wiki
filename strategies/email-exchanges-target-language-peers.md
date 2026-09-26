@@ -38,7 +38,9 @@ The activity has students correspond by e-mail with peers in the target language
 - motivation to communicate in English
 
 ## Related Strategies
-- 
+
+- [Have students interview study-abroad returnees to learn about living abroad first hand](guest-speaker-interviews-returnees.md)
+- [Create Culture Kits](create_culture_kits.md)
 
 ## Examples
 -

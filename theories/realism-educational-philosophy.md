@@ -32,8 +32,11 @@ For Realists, teaching methods focus on basic skills, memorization, and mastery 
 - Accurate understanding of an external reality, verified through observation and logical reasoning rather than introspection
 
 ## Related Theories
+
 - [Idealism (Educational Philosophy)](idealism-educational-philosophy.md) — the antithetical ontology Aristotle formed in reply to his teacher Plato
 - [Essentialism and Perennialism (Educational Philosophy)](essentialism-and-perennialism-educational-philosophy.md) — Essentialism in particular tends to subscribe to Realism's tenets, favoring a factual, back-to-basics curriculum
+- [Taxonomy of four general philosophies organized by the three basic philosophical questions](general-philosophies-taxonomy-apps.md)
+- [Traditional versus modern philosophies distinguished by who determines ends and means](traditional-modern-philosophies-ends-means.md)
 
 ## Examples
 - A science curriculum centered on observation, experimentation, and mastery of established facts rather than open-ended discussion of what those facts mean

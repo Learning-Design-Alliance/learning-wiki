@@ -37,7 +37,8 @@ A forward-looking recommendation for addressing long office-hours queues: rather
 - Productive use of wait time and progress on coding problems before reaching an instructor
 
 ## Related Strategies
-- 
+
+- [Use New Student First scheduling for online office hours queues and FCFS for in-person queues](nsf-for-online-office-hours-scheduling.md)
 
 ## Examples
 -

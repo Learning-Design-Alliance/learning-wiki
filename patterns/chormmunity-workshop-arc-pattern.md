@@ -17,7 +17,7 @@ sources:
 # Workshop arc: oral conversation, then imagistic, then somatic, ending in ritual performance
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Chormmunity sessions follow a modal sequence across the presentational-propositional continuum. As printed: "The process of a Chormmunity workshop begins verbally, but in conversation, not lecture, definitely not in printed text", then "quickly "moves back" into the imagistic, then the somatic". The co-created movement text is ritually enacted at the end when the group formally shifts from a rehearsal mode to a performance mode.
@@ -39,13 +39,16 @@ Chormmunity sessions follow a modal sequence across the presentational-propositi
 - transformative learning through collective creation
 
 ### Claims
-- 
+
+- [A playful embodied pedagogy tends to make transformative learning affirming and may promote less catastrophic responses to disorientation](../claims/playful-pedagogy-less-catastrophic-responses.md) [+W]
+- [Returning to direct somatic experience can re-vision thinking and change perception (attributed to Reason)](../claims/somatic-return-revisions-thinking.md) [+W]
 
 ## Related Patterns
 - 
 
 ## Examples
--
+
+- [Intentionally activate symbols so they assist transformative learning](../strategies/intentionally-activate-symbols-for-learning.md)
 
 ## Key Sources
 - Loper, Paul. (2000). Chormmunity: Co-Creating Embodied Community. ERIC Document ED443009. https://eric.ed.gov/?id=ED443009

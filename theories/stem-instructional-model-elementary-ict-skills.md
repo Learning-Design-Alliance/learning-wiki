@@ -43,7 +43,8 @@ The article proposes an instructional model based on the STEM education approach
 - 
 
 ## Examples
--
+
+- [Six-step engineering design process as the teaching and learning sequence](../patterns/engineering-design-six-step-ict-sequence.md)
 
 ## Key Sources
 - Changpetch & Seechaliao. (2020). The Propose of an Instructional Model Based on STEM Education Approach for Enhancing the Information and Communication Technology Skills for Elementary Students in Thailand. International Education Studies. https://doi.org/10.5539/ies.v13n1p69

@@ -39,7 +39,10 @@ The article presents activity theory, tracing it to Vygotsky and Leont'ev and us
 - 
 
 ## Related Theories
+
 - [Cultural Historical Activity Theory](cultural-historical-activity-theory.md)
+- [Activity theory: a mediated activity system framework for analyzing cognition in context](activity-theory-mediated-activity-system.md)
+- [Activity theory frames human activity as a system of six interacting elements (subject, object, tools, community, rules, division of labor)](chat-six-element-activity-framework.md)
 
 ## Examples
 -

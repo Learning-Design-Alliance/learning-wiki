@@ -45,14 +45,22 @@ Cultural-historical activity theory (CHAT) holds that human thinking and learnin
 - [Resolving a participation double-bind requires redesigning activity structures, not just adding outreach](../claims/resolving-participation-double-bind-requires-redesigned-activity-structures.md) [+M]
 
 ## Related Theories
+
 - [Situated Learning](situated-learning.md) — shares the premise that cognition is inseparable from social and material context
 - [Constructivism](constructivism.md) — CHAT extends constructivist ideas to joint, historically situated activity rather than individual meaning-making
 - [Onto-Epistemic Heterogeneity](onto-epistemic-heterogeneity.md) — both frameworks treat participants' distinct histories and ways of knowing as constitutive of what gets learned, not as noise to be normalized away
 - [Adaptive Cycles Framework](adaptive-cycles-framework.md) — both are systems-level frameworks for change, but adaptive cycles specifically models phase and timing dynamics rather than activity-system structure
 - [Boundary Crossing Learning](boundary-crossing-learning.md) — shares CHAT's boundary-object concept but foregrounds the specific dialogical mechanisms (identification, coordination, reflection, transformation) of moving between activity systems
+- [Cultural-historical Activity Theory and activity-system analysis as a lens for examining PLC in mathematics](chat-activity-system-lens-plc-mathematics.md)
+- [Activity theory: a mediated activity system framework for analyzing cognition in context](activity-theory-mediated-activity-system.md)
+- [Cultural-historical activity theory (CHAT) as a framework for analyzing community service-learning](chat-framework-for-community-service-learning.md)
+- [Activity theory frames human activity as a system of six interacting elements (subject, object, tools, community, rules, division of labor)](chat-six-element-activity-framework.md)
+- [Trialogical learning: a distinct form of learning through collaborative work on shared knowledge artefacts](trialogical-learning-framework.md)
 
 ## Examples
+
 - [Community-Based Learning](../principles/community-based-learning.md) — CHAT explains why community partnerships can produce a different learning object than the one intended if participants' meaning systems are not reconciled
+- [Use activity-system analysis (objectives, rules, norms, artifacts, division of labour) as a reflection tool for CSL participants](../strategies/activity-system-analysis-as-csl-reflection-tool.md)
 
 ## Key Sources
 - Meléndez, J. W. (2021). Latino immigrants in civil society: Addressing the double-bind of participation for expansive learning in participatory budgeting. *Journal of the Learning Sciences, 30*(1), 76-102. [https://doi.org/10.1080/10508406.2020.1807349](https://doi.org/10.1080/10508406.2020.1807349)

@@ -39,10 +39,12 @@ The essay's central framework: each student is "judged solely in relation to the
 - [Grade Cutoffs Arbitrary Adjacent Scores](../claims/grade-cutoffs-arbitrary-adjacent-scores.md) [+M]
 
 ## Related Theories
-- 
+
+- [Criterion-referenced testing: tests deliberately constructed so scores tell what behaviors individuals can demonstrate](criterion-referenced-testing-definition.md)
 
 ## Examples
--
+
+- [Establish evaluative criteria as a creative project evolves through student-faculty feedback conferences](../strategies/evolving-criteria-feedback-conferences.md)
 
 ## Key Sources
 - Gentile, J. Ronald. (1971). Toward Excellence in Teaching: Grading Practices. https://eric.ed.gov/?id=ED061264

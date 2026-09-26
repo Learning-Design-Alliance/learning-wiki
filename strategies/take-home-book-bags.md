@@ -12,7 +12,7 @@ generated:
 # Take Home Book Bags
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies, `q1`–`q4` · 2 of 3 report an effect size
 
 ## Description
 Take Home Book Bags are themed collections of children's books, activity guides, and sometimes manipulatives or props that teachers send home on a rotating basis. Caregivers and children read together and complete optional accompanying activities, then return the bag for redistribution. The strategy extends literacy instruction into the home by structuring *what* families read together and *how*, rather than assuming home reading will occur spontaneously.

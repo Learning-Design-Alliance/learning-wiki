@@ -40,7 +40,9 @@ At the mildest level the booklet reduces special provisions: "In classrooms for 
 - 
 
 ## Related Patterns
-- 
+
+- [Moderate-disturbance classrooms merge consultation into the quiet room and add group-project space](moderate-disturbance-shared-quiet-consultation-room.md)
+- [Rigid zoning with clearly separated noisy and quiet areas for severely disturbed children](severe-disturbance-rigid-noisy-quiet-zoning.md)
 
 ## Examples
 -

@@ -12,7 +12,7 @@ generated:
 # Rubrics
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 6 of 7 report an effect size
 
 ## Description
 Rubrics are evaluation tools consisting of a set of criteria, a fixed scale, and descriptors that distinguish the differences in the levels of the scale. They are used to judge the degree of understanding, proficiency levels of skills, the quality of products or performances, and learner growth from one level to the next. Three types are common: holistic (an overall impression), analytic (distinct elements judged independently), and developmental (growth along a proficiency continuum).
@@ -66,9 +66,12 @@ Rubrics make quality criteria explicit *before* performance, converting assessme
 6. Require revision targeting the lowest-scored criteria, closing the feedback loop
 
 ## Related Strategies
+
 - **Self-assessment with rubrics** — the primary mechanism by which rubrics improve self-regulation rather than merely documenting grades
 - **Criterion-referenced feedback** — rubric descriptors supply the language for specific, actionable feedback
 - **Portfolio assessment** — developmental rubrics track growth across artifacts over time
+- [Use a three-part process-understanding-product rubric for formative and summative maker assessment](three-part-rubric-maker-assessment.md)
+
 ## Related Elements
 - [Provide Feedback](../elements/provide-feedback.md) — rubric descriptors make feedback specific and criterion-referenced rather than evaluative
 - [Assess Performance](../elements/assess-performance.md) — the scoring function; rubrics standardize judgment across raters and tasks

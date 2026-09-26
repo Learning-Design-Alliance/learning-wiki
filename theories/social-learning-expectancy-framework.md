@@ -41,7 +41,13 @@ Rotter's social learning theory, as applied in this article, conceptualizes beha
 - Realistic Expectancies Predict Achievement [+M]
 
 ## Related Theories
-- 
+
+- [Interpersonal styles equated with generalized expectancies in social learning theory](interpersonal-styles-as-generalized-expectancies.md)
+- [Rotter's internal-external locus of control of reinforcement construct](locus-of-control-reinforcement-construct.md)
+- [Locus of control as a bipolar internal-external expectancy construct from Rotter's social learning theory](locus-of-control-bipolar-expectancy-construct.md)
+- [Locus of control of reinforcement as a multidimensional, domain-specific construct rather than Rotter's unidimensional generalized expectancy](multidimensional-domain-specific-locus-of-control.md)
+- [Locus of Control](locus-of-control.md)
+- [Social Learning Theory](social-learning-theory.md)
 
 ## Examples
 -

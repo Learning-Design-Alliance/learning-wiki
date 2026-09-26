@@ -60,8 +60,10 @@ Counting Collections converts abstract number concepts into [hands-on activity](
 6. **Adjust next round** — use observed strategies and errors to size and compose the next round's collections.
 
 ## Related Strategies
+
 - [Three-Phase Lesson](../strategies/three-phase_lesson.md) — Counting Collections follows the same explore-then-summarize arc
 - [Number Talks](../strategies/number-talks.md) — a complementary discussion routine; Counting Collections supplies the concrete and recorded experiences that Number Talks then revisit mentally
+- [Teach estimation of coin values and quantities using a 'more than'/'less than' framework rather than counting and rounding](more-than-less-than-estimation-framework.md)
 
 ## Examples
 - **Cognitively Guided Instruction classrooms** (Carpenter et al., *Children's Mathematics*) — teachers use Counting Collections as a core routine for eliciting children's informal counting and grouping strategies and building instruction from them.

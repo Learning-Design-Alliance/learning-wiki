@@ -17,7 +17,7 @@ sources:
 # Organize education around the child's response to material rather than the material provided by elders
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 In the reconstructed lectures Mead contrasts old education, which he argues neglected and even wiped out the attitude of the child, with an approach centered on the learner's response. The article quotes Mead's claim that "the whole of the technique of the process...does not turn on the material provided by elders, but falls around the response of the child to this material". This follows from Mead's goal-seeking account of action, in which the stimulus does not force the reaction but is a stimulus for it, and in which children are trained to choose the stimuli for their own acts.
@@ -37,7 +37,10 @@ In the reconstructed lectures Mead contrasts old education, which he argues negl
 - developing the power to consciously construct the objects to which one responds
 
 ### Claims
-- 
+
+- [In Mead's lectures, meanings grow out of social intercourse and the child constructs meanings only in social process](../claims/meanings-grow-out-of-social-intercourse.md) [+W]
+- [Mead holds that a method of thought cannot be transferred but must be gained through the learner's own abstractions](../claims/method-of-thought-cannot-be-transferred.md) [+W]
+- [Mead holds that the process of acquiring changes the thing acquired, making change of subject matter the rule](../claims/acquiring-changes-the-thing-acquired.md) [+W]
 
 ## Related Principles
 - 

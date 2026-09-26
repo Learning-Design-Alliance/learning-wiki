@@ -42,7 +42,8 @@ Drawing on postmodern body theorists (Butler, Bell, Irigaray, Raschke), the pape
 - 
 
 ## Examples
--
+
+- [Exploit marginalized difference through mimetic and disruptive readings (Irigaray's mime, Bell's philosophical clitoris) rather than expressing conflict as illness](../strategies/exploit-marginalized-difference-against-somatic-response.md)
 
 ## Key Sources
 - Gradin, Sherrie. (1998). Inscribing Our Work as WPAs: Gendered Bodies and Conflict as Physical Trope. ERIC. https://eric.ed.gov/?id=ED422588

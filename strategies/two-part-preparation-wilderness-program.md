@@ -42,7 +42,8 @@ The paper recommends that programs using the empowerment method have two parts: 
 - [Mcwhirter Four Requirement Empowerment Model](../theories/mcwhirter-four-requirement-empowerment-model.md)
 
 ## Related Strategies
-- 
+
+- [Use isomorphic framing to draw parallels between the empowerment model and the program's primary therapeutic theme](isomorphic-framing-empowerment-model.md)
 
 ## Examples
 -

@@ -43,7 +43,8 @@ The principle holds that clinical training curricula should embed basic science 
 - Basic Science Education Counters Misinformation [+M]
 
 ## Related Principles
-- 
+
+- [Incorporate patient acceptability preferences into evidence-based treatment selection for older adults](patient-acceptability-in-ebm-treatment-selection.md)
 
 ## Examples
 -

@@ -40,10 +40,12 @@ The guide instructs curriculum developers to select content on the basis of the 
 - 
 
 ## Related Principles
-- 
+
+- [General principles for selecting learning activities](learning-activity-selection-principles.md)
 
 ## Examples
--
+
+- [Curated Material Selection](../strategies/curated_material_selection.md)
 
 ## Key Sources
 - The Iowa Guide for Curriculum Improvement in Industrial Arts, K-12. A Study of Industrial Technology. (1975). Iowa State Dept. of Public Instruction. https://eric.ed.gov/?id=ED113517

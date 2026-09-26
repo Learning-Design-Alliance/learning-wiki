@@ -12,7 +12,7 @@ generated:
 # Playful Spaces
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 6 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 5 of 7 report an effect size
 
 ## Description
 A playful space is a learning environment — physical, digital, or social — deliberately structured so learners can explore, tinker, and test ideas without fear of failure or evaluation. Play here is not unstructured free time: it is goal-supported, low-stakes experimentation with room for choice, iteration, and invention. The design work lies in removing penalty for error while keeping the activity productive toward learning goals.

@@ -12,7 +12,7 @@ generated:
 # Goal Setting With Students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies, `q2`–`q4` · 5 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies, `q1`–`q4` · 4 of 6 report an effect size
 
 ## Description
 Goal setting with students is the practice of jointly establishing specific, measurable, and appropriately challenging learning targets — rather than imposing them — so that students understand what success looks like and can monitor their own progress toward it. It is carried out through structured conversations, written goal records, and periodic [check-ins](../elements/check-in.md) in which goals are revisited, revised, and connected to feedback.

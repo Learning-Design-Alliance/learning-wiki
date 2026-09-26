@@ -12,7 +12,7 @@ generated:
 # Classroom Rules And Routines
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 against) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
+> **Evidence** · 1 claim (1 against) · 3 studies, `q1`–`q4` · 2 of 3 report an effect size
 
 ## Description
 Classroom rules are explicit statements of behavioral expectations; routines are rehearsed procedures for recurring activities (entering the room, transitioning between tasks, distributing materials, seeking help). Both are taught directly, practiced, and reinforced consistently until they run automatically, reducing the need for in-the-moment behavioral management.
@@ -58,10 +58,12 @@ Routines function as procedural scaffolds for behavior: once automated, they red
 6. Review and revise rules periodically with students, connecting them to shared purposes.
 
 ## Related Strategies
+
 - [Direct Instruction](../patterns/direct-instruction.md) — the teaching pattern routines are typically established within
 - [Behaviorism](../theories/behaviorism.md) — the theoretical basis for reinforcement-based routine establishment
 - [Self-Determination Theory](../theories/self-determination-theory.md) — the counterweight: rules must be balanced against autonomy and relatedness needs
 - [Clear Structure](../principles/clear-structure.md) — routines are the behavioral expression of structural clarity
+- [Implement clear, consistently enforced rules and routines, including a uniform schoolwide discipline plan](posted-observable-rules-and-consistent-discipline-implementation.md)
 
 ## Examples
 - **Responsive Classroom** (https://www.responsiveclassroom.org) — teacher-created structures such as Interactive Modeling and Morning Meeting for teaching routines and norms in elementary settings.

@@ -41,7 +41,8 @@ The article recommends a set of implementable steps for raising active learning 
 - [Revised Icap Feedback Asynchronous Online](../theories/revised-icap-feedback-asynchronous-online.md)
 
 ## Related Strategies
-- 
+
+- [Support e-teachers' transition with professional development focused on reflecting on online-versus-F2F differences and the potential of the tools](pd-reflection-online-versus-f2f-differences.md)
 
 ## Examples
 -

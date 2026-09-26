@@ -54,8 +54,10 @@ Family- and parent-focused components reliably strengthen school-based physical 
 5. Gather feedback from parents and students each term and adjust offerings to reduce barriers.
 
 ## Related Strategies
+
 - [Active Recess](../strategies/active-recess.md) — a school-side structure parents can volunteer to support
 - [Classroom Physical Activity Breaks](../strategies/classroom-physical-activity-breaks.md) — parents can lead or advocate for these
+- [Offering Multiple Options for Family Engagement](offering_multiple_options_for_family_engagement.md)
 
 ## Examples
 - **[SPARK](https://sparkpe.org)** (Sports, Play, and Active Recreation for Kids) — an evidence-based elementary PE program that explicitly includes family take-home activities and parent promotion as part of its design (Sallis et al., 1997).

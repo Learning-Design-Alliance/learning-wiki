@@ -51,10 +51,12 @@ Well-specified goals improve achievement by directing learner attention to what 
 - [Activation](../principles/activation.md) — presenting goals before instruction primes learners to notice goal-relevant information and connect it to prior knowledge [Activation improves learning.](../claims/activation-improves-learning.md) [+M]
 
 ## Related Elements
+
 - [Assessment](assessment.md) — the instrument that verifies whether goals were met; misalignment here invalidates the goal structure
 - [Advance Organizers](advance-organizers.md) — a framing device that often carries or elaborates the goal statement
 - [Check-ins](../principles/check-ins.md) — recurring opportunities to compare current performance against goals
 - [Application](application.md) — the activity type most goals ultimately point toward
+- [Competency statement format: behavior, conditions, and minimal performance level](competency-statement-three-element-format.md)
 
 ## Patterns That Use This Element
 - [Constructive Alignment](../patterns/constructive-alignment.md) — goals are the alignment anchor

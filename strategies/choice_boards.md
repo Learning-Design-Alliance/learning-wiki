@@ -12,7 +12,7 @@ generated:
 # Choice Boards
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 4 of 5 report an effect size
 
 ## Description
 A choice board is a grid or menu of tasks — often organized by modality, difficulty, or learning objective — from which learners select a subset to complete. All options map to the same learning goals, so choice varies the *pathway* while the instructor retains control over the *destination*. Boards may govern how learners practice, how they demonstrate mastery, or both, and typically include completion requirements (e.g., "choose any three," tic-tac-toe rows, or point totals).
@@ -60,9 +60,11 @@ Choice boards operationalize autonomy support: providing meaningful choices with
 6. Debrief: ask learners whether their choice served their learning, building the metacognitive judgment that makes future choices better.
 
 ## Related Strategies
+
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — the broader planning–working–reflecting cycle that choice boards fit into
 - [Tiered Assignments](tiered-assignments.md) — companion differentiation structure; boards can be tiered by row
 - [Learning Menus](learning-menus.md) — a linear variant with required core plus optional sides
+- [Give learners control over how learning is measured via assessment choices and science-fair-type projects](learner-controlled-assessment-science-fair-projects.md)
 
 ## Related Elements
 - [Application](../elements/application.md) — the strongest cells require applying learning to a new context, not restating it

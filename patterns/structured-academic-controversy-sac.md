@@ -97,8 +97,10 @@ SAC is particularly useful when the topic involves legitimate disagreement and l
 - The final synthesis can be oral, written, or collaborative depending on the class.
 
 ## Related Patterns
+
 - [Debate Format](debate-format.md)
 - [Socratic Seminar](socratic-seminar.md)
+- [Debate as a laboratory for argumentation theory, contingent on keeping debate practices accountable to argumentation principles](debate-laboratory-for-argumentation.md)
 
 ## Examples
 - Civics learners examining competing policy responses and then writing a synthesis recommendation.

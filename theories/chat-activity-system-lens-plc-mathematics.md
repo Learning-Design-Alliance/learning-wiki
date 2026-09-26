@@ -39,10 +39,14 @@ The review uses CHAT, in which "activity systems are taken as the smallest unit 
 - 
 
 ## Related Theories
-- 
+
+- [Three activity systems for PLC in mathematics, differing in object, mediating artifacts and norms](three-activity-systems-plc-mathematics.md)
+- [Cultural-Historical Activity Theory](cultural-historical-activity-theory.md)
+- [Activity theory frames human activity as a system of six interacting elements (subject, object, tools, community, rules, division of labor)](chat-six-element-activity-framework.md)
 
 ## Examples
--
+
+- [Mediating artifacts in mathematics PLC are selected according to the PLC's object](../patterns/plc-mediating-artifacts-vary-by-object.md)
 
 ## Key Sources
 - Harvey, F., & Teledahl, A. (2022). Characteristics of Professional Learning Communities in Mathematics: A Systematic Review. Mathematics Teacher Education and Development, 24(1), 72–95. https://eric.ed.gov/?id=EJ1361397

@@ -58,8 +58,11 @@ Offering multiple representations and modes of expression broadens access and gi
 6. Assess via multiple demonstration options so competence, not format fluency, is what is measured.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — different learners arrive with different prior knowledge; activation surfaces it so instruction can build on it
 - [Accessible Syntax](../strategies/accessible_syntax.md) — linguistic access is one of the most consequential forms of respecting diverse learners
+- [Give learners control over how learning is measured via assessment choices and science-fair-type projects](learner-controlled-assessment-science-fair-projects.md)
+- [Act as a learning supporter during multimedia production](teacher-learning-supporter-strategy.md)
 
 ## Examples
 - A statistics tutor lets a learner who struggles with formulas first solve a real-world estimation problem hands-on, then maps the solution back onto the formal notation — the practical route becomes the bridge to the theoretical one.

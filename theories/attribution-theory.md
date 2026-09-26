@@ -51,11 +51,15 @@ Effort-based attributions are only convincing under three conditions: tasks pitc
 ## Claims
 
 ## Related Theories
+
 - [Self-Efficacy Theory](self-efficacy-theory.md) — both concern learners' beliefs about the causes of their own performance; sustained internal-stable-uncontrollable failure attributions are a direct pathway to the learned helplessness that self-efficacy theory also describes
 - [Self-Determination Theory](self-determination-theory.md) — controllable attributions support the sense of autonomy and competence SDT identifies as basic psychological needs
 - [Expectancy-Value Theory](expectancy-value-theory.md) — the stability dimension of an attribution directly shapes a learner's expectancy for future success, the central construct of expectancy-value theory
+- [Weiner's dimensional organization of attributions: locus of control, stability, and later controllability](weiner-attribution-dimensions-locus-stability-control.md)
 
 ## Examples
+
+- [Causal Dimension Scale (CDS) and revised CDSII as improved attribution measurement devices](../elements/causal-dimension-scale-cds-cdsii.md)
 
 ## Key Sources
 - Weiner, B. (1986). *An attributional theory of motivation and emotion*. Springer-Verlag.

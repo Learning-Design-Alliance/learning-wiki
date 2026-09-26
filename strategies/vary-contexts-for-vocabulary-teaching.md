@@ -42,7 +42,9 @@ Because the evidence favors contextual diversity over repetition as the driver o
 - [Likely Need Versus Repetition Principles](../theories/likely-need-versus-repetition-principles.md)
 
 ## Related Strategies
-- 
+
+- [Vocabulary In Context](vocabulary-in-context.md)
+- [Vocabulary Meaning Through Context](vocabulary_meaning_through_context.md)
 
 ## Examples
 -

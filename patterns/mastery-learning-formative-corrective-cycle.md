@@ -41,10 +41,12 @@ A lesson-level instructional pattern in which "Students take frequent \"formativ
 - [Mastery Learning Higher Earned Credit Rates](../claims/mastery-learning-higher-earned-credit-rates.md) [+M]
 
 ## Related Patterns
-- 
+
+- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning-eg-duolingo-pattern.md)
 
 ## Examples
--
+
+- [Increase the use of feedback and correctives through mastery learning procedures](../strategies/formative-tests-with-corrective-feedback.md)
 
 ## Key Sources
 - Bonczar, Thomas P., & Easton, John Q. (1983). The Effect of Mastery Learning on Student Achievement. https://eric.ed.gov/?id=ED238505

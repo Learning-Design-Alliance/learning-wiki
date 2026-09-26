@@ -63,9 +63,12 @@ PBIS treats behavior as a learnable skill rather than an innate trait, applying 
 7. **Sustain** through annual staff training, fidelity self-assessment, and celebrating implementation wins — treat adult behavior with the same reinforcement logic as student behavior.
 
 ## Related Strategies
+
 - [Check-Ins](../principles/check-ins.md) — the Tier 2 Check-In/Check-Out structure is a formalized daily check-in with a consistent adult
 - [Clear Structure](../principles/clear-structure.md) — PBIS is clear structure applied to the social environment rather than the lesson
 - [Action-Oriented Feedback](action-oriented-feedback.md) — effective acknowledgment names the specific behavior, functioning as feedback rather than reward
+- [Implement clear, consistently enforced rules and routines, including a uniform schoolwide discipline plan](posted-observable-rules-and-consistent-discipline-implementation.md)
+- [Sustained, needs-based PBIS professional development with in-classroom coaching to build teacher capacity](sustained-pbis-professional-development-coaching.md)
 
 ## Examples
 - **[Center on PBIS](https://www.pbis.org)** — the national technical assistance center; hosts implementation guides, fidelity measures (Tiered Fidelity Inventory), and state implementation networks.

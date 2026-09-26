@@ -12,7 +12,7 @@ generated:
 # Positive Behavior Support
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 3 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Positive Behavior Support (PBS) is a proactive, function-based approach to behavior management that defines clear behavioral expectations, explicitly teaches them, and reinforces their occurrence instead of relying primarily on punishment for misbehavior. At scale it is implemented as Schoolwide Positive Behavior Interventions and Supports (SWPBIS), typically in three tiers: universal expectations for all students, targeted small-group supports, and intensive individualized function-based plans.
@@ -60,8 +60,10 @@ PBS reframes behavior management from reactive discipline to instructional desig
 6. For persistent cases, conduct a functional behavior assessment and build an individualized plan that teaches a replacement behavior serving the same function.
 
 ## Related Strategies
+
 - Classroom management strategies generally — PBS is the preventive, instructional end of that continuum
 - Social-emotional learning curricula — complementary explicit teaching of self-regulation skills
+- [Implement clear, consistently enforced rules and routines, including a uniform schoolwide discipline plan](posted-observable-rules-and-consistent-discipline-implementation.md)
 
 ## Examples
 - **SWPBIS** (https://www.pbis.org) — the U.S. OSEP-funded national implementation framework; thousands of schools report reduced office discipline referrals under faithful Tier 1 implementation [~S]

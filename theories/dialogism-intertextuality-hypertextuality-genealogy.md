@@ -39,7 +39,10 @@ The article describes a chain of language-centered theories within architectonic
 - 
 
 ## Related Theories
-- 
+
+- [Intertextuality and hypertextuality as twin modes of convergence operationalizing online education](intertextuality-hypertextuality-convergence-modes.md)
+- [Architectonics: the philosophical tradition of building and relating meaning, knowledge, and experience](architectonics-science-of-relations.md)
+- [Peircean architectonics as an interdisciplinary paradigm organized by triadic logic](peircean-architectonics-interdisciplinary-paradigm.md)
 
 ## Examples
 -

@@ -43,7 +43,8 @@ The Language Inquiry is a collection of 100 statements about attitudes toward la
 - 
 
 ## Examples
--
+
+- [Administer the Inquiry with classroom test procedures and interpret by item-by-item comparison with expert votes](../strategies/inquiry-item-by-item-expert-comparison-strategy.md)
 
 ## Key Sources
 - Frogner, Ellen A. (1969). Using the Language Inquiry as a Teaching Device. Illinois State-Wide Curriculum Study Center in the Preparation of Secondary English Teachers (ISCPET). https://eric.ed.gov/?id=ED034768

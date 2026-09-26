@@ -16,7 +16,7 @@ sources:
 # Two facets of the 'Making Meaning of Mathematics' epistemic game: Finding a Family of Functions and Fitting the Physical Situation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The authors describe two versions, or facets, of the large-scale epistemic game 'Mapping Meaning to Mathematics' in the context of solving separable first-order differential equations. They "call these versions 'Finding a Family of Functions' (the +C method without finding the value of the constant) and 'Fitting the Physical Situation' (the limits method)". The facets have similar moves but differ in finer-grain analysis: Phil requires an equation that can "cover everything", while Max seeks consistency between mathematics and physics. The two methods are procedurally different but lead to equivalent solutions.
@@ -36,7 +36,10 @@ The authors describe two versions, or facets, of the large-scale epistemic game 
 - solving separable first-order differential equations with boundary conditions in physics
 
 ### Claims
+
 - [Students Start Semester More Familiar With Integration Constants Method Than Limits Method](../claims/students-start-semester-more-familiar-with-integration-constants-method-than-limits-method.md) [+M]
+- [Students using the limits method initially choose unphysical integration limits, failing to consider the functional relationship between limits on either side of the equal sign](../claims/students-choose-unphysical-limits-ignoring-functional-relationship-across-equal-sign.md) [+W]
+- [Students initially leave variables out of their integration limits, using only numerical values, suggesting that variable ('running') limits of integration are unfamiliar](../claims/students-initially-omit-variables-from-integration-limits.md) [+W]
 
 ## Related Theories
 - [Procedural Resources Resource Graphs Integration](procedural-resources-resource-graphs-integration.md)

@@ -36,7 +36,8 @@ The brief recommends three teaching approaches for parents and school staff: vis
 - Recognizing unsafe online situations and responding safely
 
 ## Related Strategies
-- 
+
+- [Use the PLAY IT SAFE acronym to teach internet safety rules to teens with ASD](play-it-safe-acronym-internet-safety.md)
 
 ## Examples
 -

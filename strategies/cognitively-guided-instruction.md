@@ -57,9 +57,11 @@ CGI rests on the constructivist premise that learners arrive with informal, mean
 5. Pose follow-up problems chosen to nudge students toward the next strategy in the progression — the teacher's knowledge of student thinking drives problem selection, not a fixed script.
 
 ## Related Strategies
+
 - [Problem-Based Learning](problem-based-learning.md) — shares the structure of learning driven by problems rather than by prior explanation
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — CGI institutionalizes this by treating informal strategies as the entry point
 - [Formative Assessment](formative-assessment.md) — interpreting student strategies against a developmental trajectory is a form of embedded assessment
+- [Encourage children to model and discuss multiple solution strategies for number problems instead of hunting for clue words](multiple-strategies-modeling-problems.md)
 
 ## Patterns That Use This Strategy
 - [CGI for Math](../patterns/cgi-for-math.md) — the pattern-level articulation of this strategy in the mathematics classroom

@@ -38,7 +38,8 @@ The article recommends that instead of studying educational philosophies as abst
 - developing professional identity
 
 ## Related Strategies
-- 
+
+- [Include courses on critical thinking and philosophy of education in teacher training programs](critical-thinking-and-philosophy-courses-in-teacher-education.md)
 
 ## Examples
 -

@@ -37,7 +37,10 @@ The article recommends indirect correction: teachers "either encourage students 
 - Linguistic accuracy while maintaining fluency and learner affect
 
 ## Related Strategies
-- 
+
+- [Behavioral Feedback for Correct and Incorrect Responses](behavioral-feedback-for-responses.md)
+- [Use "I" Statements to Avoid Blame](use_i_statements_to_avoid_blame.md)
+- [Normalizing Trouble](normalizing_trouble.md)
 
 ## Examples
 -

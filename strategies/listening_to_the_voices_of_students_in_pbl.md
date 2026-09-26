@@ -12,7 +12,7 @@ generated:
 # Listening to the Voices of Students in PBL
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size
+> **Evidence** · 4 claims (3 for, 1 unmarked) · 9 studies, `q1`–`q4` · 8 of 9 report an effect size
 
 ## Description
 Listening to the voices of students means structuring project-based learning so that students have genuine authorship — they pose questions, tell their own stories, make consequential decisions about project direction, and see their input visibly shape the work. It is carried out through elicitation (structured sharing and discussion), responsiveness (instructor acts on what students say), and shared leadership (students hold roles with real decision rights). This contrasts with traditional transmission models in which students are positioned as recipients rather than co-designers of learning.
@@ -59,10 +59,12 @@ Student voice works as a motivational lever: autonomy and perceived ownership su
 5. Close with [Articulation](../elements/articulation.md) — students present their process and story to an authentic audience, then reflect on how their voice shaped the work.
 
 ## Related Strategies
+
 - [Active Learning](../principles/active-learning.md) — voice opportunities are a form of active participation that improves exam performance [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S]
 - [Building Empathy](../principles/building-empathy.md) — sharing personal stories builds the empathic climate that makes voice safe
 - [Community of Inquiry](../principles/community-of-inquiry.md) — voice sustains the social presence needed for inquiry communities
 - [Collaborative Learning](../principles/collaborative-learning.md) — voice practices operate within and depend on collaborative structures
+- [Build student ownership through student-led conferences, town halls, and college and career readiness activities](student-ownership-practices-middle-school.md)
 
 ## Examples
 - **Expeditionary Learning (EL Education)** — crew structures and student-led conferences institutionalize student voice in project design and exhibition ([https://eleducation.org](https://eleducation.org)).

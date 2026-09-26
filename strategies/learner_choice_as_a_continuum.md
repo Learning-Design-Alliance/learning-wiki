@@ -12,7 +12,7 @@ generated:
 # Learner Choice as a Continuum
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size
+> **Evidence** · 4 claims (4 for) · 9 studies, `q1`–`q4` · 8 of 9 report an effect size
 
 ## Description
 Learner choice as a continuum treats autonomy not as a binary but as a graduated spectrum of decision-making authority. At one end, the teacher structures a menu of options (topic, format, sequence, or tool); in the middle, learners co-design tasks and negotiate criteria; at the far end, learners identify their own challenges, select strategies, and act as designers, advocates, or entrepreneurs who self-regulate learning around personal purposes. The teacher's role shifts correspondingly from option-provider to facilitator of increasingly learner-owned decisions.

@@ -61,9 +61,11 @@ Bilingual texts let multilingual learners access grade-level concepts through th
 6. Assess comprehension in whichever language reveals what learners know, not only in the target language ([Accommodations](../elements/accommodations.md)).
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — L1 preview activates existing schemas that L2 texts can then build on
 - [Accessible Vocabulary and Syntax](../principles/accessible-vocabulary-syntax.md) — bilingual glossaries and cognate instruction complement simplified L2 text
 - [Dialogic Reading](https://doi.org/10.3102/0034654308318492) — bilingual shared reading at home extends the strategy to families
+- [Teach in students' home language in primary, assess learning levels and differentiate instruction, and align teacher training with language-of-instruction policy](sl-home-language-assessment-differentiation.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — bilingual editions can serve as the assigned text with L2 follow-up

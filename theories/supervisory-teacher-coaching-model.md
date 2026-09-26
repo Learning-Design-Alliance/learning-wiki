@@ -43,7 +43,8 @@ Supervisory teacher coaching is a form of coaching in which "an outside expert o
 - 
 
 ## Examples
--
+
+- [Describe coaching components, collect fidelity and maintenance data, and explore school-personnel and technology-based coaching in future coaching research](../strategies/coaching-research-reporting-recommendations.md)
 
 ## Key Sources
 - Carmouche, M., & Thompson, J. (2018). Supervisory Teacher Coaching in K-12 Classrooms. JAASEP Winter 2018. https://eric.ed.gov/?q=Supervisory+Teacher+Coaching+in+K-12+Classrooms

@@ -59,9 +59,11 @@ The number line's power comes from forcing a mapping between numerical magnitude
 5. For place value, use a zoomable line to magnify intervals, showing that the structure between 0 and 1 repeats between 1 and 2.
 
 ## Related Strategies
+
 - [Multiple Representations](../strategies/multiple-representations.md) — the number line is one representation in a coordinated set with symbols, objects, and words
 - [Estimation Activities](../strategies/estimation-activities.md) — blank-line placement is a core estimation task
 - [Game-Based Learning](../principles/game-based-learning.md) — linear board games are the best-evidenced delivery format for young learners
+- [Teach estimation of coin values and quantities using a 'more than'/'less than' framework rather than counting and rounding](more-than-less-than-estimation-framework.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — modeling placement reasoning before independent estimation

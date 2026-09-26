@@ -38,7 +38,9 @@ This strategy directs program designers to build experiences that deliberately u
 - Evaluating the efficacy of other cultural perspectives
 
 ## Related Strategies
-- 
+
+- [Explicitly Discuss Different Perspectives](explicitly_discuss_different_perspectives.md)
+- [Facilitating Difficult Dialogues](facilitating-difficult-dialogues.md)
 
 ## Examples
 -

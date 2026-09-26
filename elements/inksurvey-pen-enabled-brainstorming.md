@@ -39,10 +39,12 @@ InkSurvey is "free, web-based software that allows students to use keyed input o
 - metacognition through open-format writing
 
 ## Related Elements
-- 
+
+- [InkSurvey real-time formative assessment with pen-enabled tablet computers](inksurvey-tablet-formative-assessment.md)
 
 ## Examples
--
+
+- [Solicit open-format curiosity questions after interactive simulations and use responses as a springboard for instruction](../strategies/open-format-simulation-questions-springboard.md)
 
 ## Key Sources
 - Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434

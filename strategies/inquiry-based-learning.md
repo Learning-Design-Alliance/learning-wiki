@@ -59,10 +59,12 @@ Inquiry can produce strong conceptual learning, but only when it is scaffolded �
 6. Consolidate with instructor-led synthesis that names the canonical concepts and corrects residual misconceptions — the phase most often omitted and most needed by novices
 
 ## Related Strategies
+
 - [Problem-Based Learning](problem-based-learning.md) — inquiry organized around authentic professional problems
 - [Case-Based Learning](case-based-learning.md) — inquiry anchored in a rich case narrative [Case-based learning improves exam performance.](../claims/case-based-learning-improves-exam-performance.md) [+M]
 - [Productive Failure](productive-failure.md) — inquiry-before-instruction sequencing
 - [Direct Instruction](direct-instruction.md) — the complementary high-guidance approach; effective inquiry often interleaves with it
+- [Differentiate by guiding higher-ability students to build models that validate their analysis, and support self-directed and collaborative learning goals](osp-differentiation-and-sdl-goals.md)
 
 ## Examples
 - **[BSCS 5E Instructional Model](https://bscs.org/bscs-5e-instructional-model/)** — Engage, Explore, Explain, Elaborate, Evaluate; a widely adopted structured-inquiry sequence for science classrooms that pairs exploration with explicit explanation.

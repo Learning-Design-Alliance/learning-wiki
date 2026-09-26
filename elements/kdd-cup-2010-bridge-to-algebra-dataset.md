@@ -37,7 +37,8 @@ The KDD Cup 2010 Bridge to Algebra dataset, donated by Carnegie Learning and dow
 - predicting student correctness on math problem steps and modeling skill mastery
 
 ## Related Elements
-- 
+
+- [Four large-scale real-world sequential knowledge tracing benchmark datasets used to evaluate Adaptive G-UKT](adaptive-g-ukt-benchmark-datasets.md)
 
 ## Examples
 -

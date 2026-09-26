@@ -29,7 +29,7 @@ sources:
 # Cultural & Life Experiences Connections
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (5 for, 3 mixed) · 13 studies, `q2`–`q4` · 13 of 13 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (5 for, 3 mixed) · 13 studies, `q2`–`q4` · 12 of 13 report an effect size · 6 claims rest on one study
 
 ## Description
 Connecting instruction to learners' cultural and life experiences means treating what learners already know, value, and have lived through as assets for meaning-making rather than as irrelevant background. When instruction acknowledges community knowledge, work experience, language practices, family contexts, and prior responsibilities, learners are more likely to see the material as legible, worthwhile, and connected to real life. This principle strengthens relevance, belonging, and transfer by making learning something learners can situate within what they already understand.
@@ -84,10 +84,12 @@ Connecting instruction to learners’ cultural and life experiences improves lea
 - [Embodied dance improvisation supports physics engagement and sense-making](../claims/embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) [+W] — validating learners' trained movement vocabularies as legitimate scientific expression extends cultural-connection to embodied, not just verbal or artifact-based, resources
 
 ## Related Principles
+
 - [Building Empathy](building-empathy.md) — cultural connection often depends on taking learners' lived realities seriously.
 - [Developing Your Cultural Awareness](developing-your-cultural-awareness.md) — instructors need awareness of their own assumptions to make meaningful connections well.
 - [Strengths-Based Approach](strengths-based-approach.md) — this principle treats learner background as an asset rather than a deficit.
 - [Instructor Accessibility](instructor-accessibility.md) — accessible relationships help learners contribute their own contexts to the work.
+- [Personalizing physics by making each student the object of study bridges science and everyday reality](personalization-making-student-the-object-bridges-science-and-reality.md)
 
 ## Examples
 - **Community-based examples**: Mathematics, literacy, or policy tasks use scenarios drawn from learners' work, neighborhood, or civic contexts.

@@ -42,7 +42,8 @@ The report argues that while simple feedback systems such as surveys are valuabl
 - 
 
 ## Examples
--
+
+- [Identify feedback loops in your organization by sourcing, evaluating, and validating case studies](../strategies/identify-feedback-loops-process.md)
 
 ## Key Sources
 - Baker, A., Weisgrau, J., & Bristal Philyaw, K. (2022, May). Feedback loops: Mapping transformative interactions in education innovation. Digital Promise. https://doi.org/10.51388/20.500.12265/155

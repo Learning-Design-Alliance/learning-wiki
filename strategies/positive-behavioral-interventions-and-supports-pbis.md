@@ -12,7 +12,7 @@ generated:
 # Positive Behavioral Interventions and Supports (PBIS)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q3`–`q4` · 3 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q1`–`q4` · 2 of 7 report an effect size
 
 ## Description
 PBIS is a proactive, school-wide framework for improving behavior and climate by *teaching* behavioral expectations the way academic content is taught, then consistently recognizing and reinforcing them. It is organized in three tiers: universal expectations for all students (Tier 1), targeted small-group supports (Tier 2), and intensive individualized interventions (Tier 3). The core premise is that students can only meet expectations they know, have practiced, and see reinforced — so the emphasis is on prevention and explicit instruction rather than punishment.
@@ -59,9 +59,12 @@ PBIS applies behavioral learning principles at the systems level: expectations a
 6. Escalate support through tiers: [Coaching](../elements/coaching.md) and check-in/check-out for at-risk students, function-based individual plans for intensive need
 
 ## Related Strategies
+
 - [Restorative Practices](../strategies/restorative-practices.md) — complementary alternative to exclusionary discipline within Tier 2/3
 - [Social-Emotional Learning](../patterns/social-emotional-learning.md) — teaches the underlying skills PBIS expectations presuppose
 - [Classroom Rules and Routines](../strategies/classroom-rules-and-routines.md) — the classroom-level expression of Tier 1 expectations
+- [Implement clear, consistently enforced rules and routines, including a uniform schoolwide discipline plan](posted-observable-rules-and-consistent-discipline-implementation.md)
+- [Sustained, needs-based PBIS professional development with in-classroom coaching to build teacher capacity](sustained-pbis-professional-development-coaching.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — Tier 2 support structure and staff implementation coaching

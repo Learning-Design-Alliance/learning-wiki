@@ -39,10 +39,14 @@ The packet presents Canale and Swain's (1980) framework as an integrative theory
 - 
 
 ## Related Theories
-- 
+
+- [Multidimensional oral proficiency assessment framework grounded in communicative competence theory](multidimensional-oral-proficiency-framework-chai.md)
+- [Krashen's five hypotheses of second language acquisition as principles for bilingual program design](krashen-five-hypotheses-l2-acquisition.md)
+- [DiPietro's Strategic-Interaction Method: equal weight to form and function across three dimensions of conversational discourse](strategic-interaction-method-dimensions.md)
 
 ## Examples
--
+
+- [Adopting a communicative approach requires teachers to take a dual role facilitating both natural acquisition and learning](../principles/dual-teacher-role-acquisition-and-learning.md)
 
 ## Key Sources
 - Calderon, Margarita; And Others. (1982). Methods and Techniques for Communicative Competence in Bilingual Education, Packet II. Language Proficiency Acquisition, Assessment, and Communicative Behavior, Series B. Student Edition. Bilingual Education Teacher Training Packets. https://eric.ed.gov/?id=ED226607

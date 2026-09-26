@@ -41,7 +41,8 @@ The toolkit defines three-cueing (also known as "MSV") as a practice teaching st
 - 
 
 ## Related Principles
-- 
+
+- [Adopt high-quality instructional materials aligned to the science of reading, accompanied by professional development](hqim-adoption-with-professional-development.md)
 
 ## Examples
 -

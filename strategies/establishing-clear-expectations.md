@@ -12,7 +12,7 @@ generated:
 # Establishing Clear Expectations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (3 for, 2 mixed, 2 against) · 17 studies, `q2`–`q4` · 7 of 17 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (3 for, 2 mixed, 2 against) · 17 studies, `q1`–`q4` · 6 of 17 report an effect size · 1 claim rests on one study
 
 ## Description
 Establishing clear expectations means making learning goals, performance criteria, procedural requirements, and behavioral norms explicit and visible to learners before and during instruction. It is carried out through tools such as rubrics, exemplars, advance organizers, stated objectives, and modeled norms — so that learners can direct their effort toward the intended outcomes rather than guessing at them.
@@ -59,9 +59,11 @@ Clear expectations reduce uncertainty about what counts as success, freeing work
 6. Fade explicit scaffolding of criteria as learners internalize standards ([Fading](../elements/fading.md)).
 
 ## Related Strategies
+
 - [Communicating High Expectations](communicating-high-expectations.md) — the motivational counterpart: signaling belief that learners can meet demanding standards
 - [Providing Actionable Feedback](action-oriented-feedback.md) — feedback is only usable when it references expectations learners already know
 - [Modeling Classroom Norms](acting-role-play.md) — enacting behavioral expectations rather than merely stating them
+- [Establish evaluative criteria as a creative project evolves through student-faculty feedback conferences](evolving-criteria-feedback-conferences.md)
 
 ## Examples
 - **Understanding by Design (Wiggins & McTighe)** — units begin with published performance criteria; teachers share rubrics with students before work begins. [https://www.ascd.org/books/understanding-by-design-expanded-2nd-edition](https://www.ascd.org/books/understanding-by-design-expanded-2nd-edition)

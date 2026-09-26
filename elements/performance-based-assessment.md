@@ -40,9 +40,11 @@ Performance assessments carry real, specific tradeoffs (Linn & Miller, 2005). Th
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)
 
 ## Related Elements
+
 - [Summative Assessment](summative-assessment.md)
 - [Assessment](assessment.md)
 - [Demonstration](demonstration.md)
+- [Three-category rubric for summative assessment of inquiry poster presentations](three-category-poster-rubric-summative-assessment.md)
 
 ## Patterns That Use This Element
 - [Competency-Based Learning](../patterns/competency-based-learning.md)

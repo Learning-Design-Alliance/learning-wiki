@@ -59,9 +59,11 @@ Cooperative learning works because talking through ideas with peers forces elabo
 5. Close with group processing — a two-minute reflection on collaboration quality — and rotate roles next session
 
 ## Related Strategies
+
 - [Peer Collaboration](../elements/peer-collaboration.md) — the general element this strategy structures
 - [Team-Based Inquiry](../elements/team-based-inquiry.md) — cooperative structure applied to investigative tasks
 - [Class Discussion](../elements/class-discussion.md) — whole-class format that pairs can feed into via think-pair-share
+- [Use named cooperative learning structures adapted to adult classrooms, including Student Team Learning, Think-Pair-Share, Jigsaw, Teaming Together, and Group Investigation](cooperative-structures-for-adult-classrooms.md)
 
 ## Examples
 - **Jigsaw Classroom** ([https://www.jigsaw.org](https://www.jigsaw.org)) — Aronson's original structure: "expert groups" master one segment, then teach it in mixed "jigsaw groups," making each member the sole source of critical information.

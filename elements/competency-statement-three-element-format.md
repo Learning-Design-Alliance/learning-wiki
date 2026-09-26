@@ -38,10 +38,15 @@ A competency statement is the outcome objective for staff development: it specif
 - specify professional competencies needed to achieve student objectives
 
 ## Related Elements
-- 
+
+- [Objective](objective.md)
+- [Learning Objectives](learning-objectives.md)
+- [Learning Goals](learning-goals.md)
+- [State objectives](state-objectives.md)
 
 ## Examples
--
+
+- [Competency Based Learning](../strategies/competency-based-learning.md)
 
 ## Key Sources
 - Huenecke, Dorothy M.; Stansbury, George W. (1975). A Systems Approach to Staff Development. Georgia State Dept. of Education. https://eric.ed.gov/?id=ED123751

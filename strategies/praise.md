@@ -12,7 +12,7 @@ generated:
 # Praise
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies, `q1`–`q4` · 2 of 3 report an effect size
 
 ## Description
 Praise is positive evaluative feedback following a learner's behavior, effort, or outcome. It is one of the most common teacher moves, but research shows it is not uniformly beneficial: praise directed at the person ("You're so smart") undermines persistence after setbacks, while praise directed at process and strategy ("You found a good way to check your work") supports motivation and achievement [Mueller & Dweck, 1998](https://doi.org/10.1037/0022-3514.75.1.33) [+S]. Praise also functions as an operant reinforcer, strengthening the behavior it follows [Behaviorism](../theories/behaviorism.md) [+M].

@@ -42,7 +42,10 @@ The survey's authors released two open-source algorithm libraries: "EduData that
 - [Knowledge Tracing Model Taxonomy](../theories/knowledge-tracing-model-taxonomy.md)
 
 ## Related Elements
+
 - [Knowledge Tracing Learner Modeling Task](../theories/knowledge-tracing-learner-modeling-task.md)
+- [Four large-scale real-world sequential knowledge tracing benchmark datasets used to evaluate Adaptive G-UKT](adaptive-g-ukt-benchmark-datasets.md)
+- [Released learner performance prediction code and public dataset links](learner-performance-prediction-github-code.md)
 
 ## Examples
 -

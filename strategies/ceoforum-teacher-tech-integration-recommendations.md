@@ -40,7 +40,9 @@ The report issues a set of dated recommendations directed at educators, administ
 - [Teacher Technology Adoption Stages](../theories/teacher-technology-adoption-stages.md)
 
 ## Related Strategies
-- 
+
+- [Investigate technology's role in community-based lifelong learning delivery as a research priority](technology-in-community-based-lifelong-learning-research.md)
+- [State policy actions across the career continuum: attract, prepare, and develop/support/retain educators](tdf-state-policy-actions-career-continuum.md)
 
 ## Examples
 -

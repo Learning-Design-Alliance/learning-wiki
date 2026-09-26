@@ -12,7 +12,7 @@ generated:
 # Self Regulated Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 15 studies, `q2`–`q4` · 11 of 15 report an effect size
+> **Evidence** · 5 claims (4 for, 1 against) · 15 studies, `q1`–`q4` · 10 of 15 report an effect size
 
 ## Description
 Self Regulated Learning (SRL) is the process by which learners take active control of their own learning: setting goals, selecting and adapting strategies, monitoring comprehension, and adjusting effort and approach based on feedback. As an instructional strategy, it means explicitly teaching these planning, monitoring, and evaluation processes — not merely expecting them — so learners internalize a cycle of forethought, performance, and self-reflection [Zimmerman's cyclical model](../theories/self-regulated-learning.md).

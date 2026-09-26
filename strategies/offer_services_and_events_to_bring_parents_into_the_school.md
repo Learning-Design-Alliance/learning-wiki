@@ -12,7 +12,7 @@ generated:
 # Offer Services and Events to Bring Parents into the School
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies, `q3`–`q4` · 5 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies, `q1`–`q4` · 4 of 8 report an effect size
 
 ## Description
 Offer free classes and workshops that focus on topics of interest to parents, such as family nutrition, child development, or homework help. Welcoming families with resources and support can help break down negative preconceived notions about school and build a community of hope and trust. The strategy treats the school as a service hub: parents come first for something they value for themselves, and the resulting familiarity and trust become the foundation for deeper engagement in their children's learning.
@@ -59,8 +59,10 @@ Parent involvement research shows that families participate more when schools ac
 6. **Follow up and iterate.** Collect attendance and feedback after every event; adjust topics and formats, and personally invite non-attending families to the next one.
 
 ## Related Strategies
+
 - Home visits and positive phone calls home — complementary outreach that builds the individual relationships events can only start at scale
 - Community-based learning — extends the school-as-hub model outward into reciprocal community partnerships
+- [Offering Multiple Options for Family Engagement](offering_multiple_options_for_family_engagement.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — low-stakes relational routines that turn attendance into community

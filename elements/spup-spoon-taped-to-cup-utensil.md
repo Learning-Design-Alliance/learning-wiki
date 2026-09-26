@@ -40,7 +40,8 @@ The spup is a modified drinking utensil consisting of a large Maroon spoon taped
 - 
 
 ## Examples
--
+
+- [Choose fading starting points by identifying a response already in the child's repertoire](../strategies/repertoire-response-as-fading-starting-point.md)
 
 ## Key Sources
 - Groff, R. A., Piazza, C. C., Zeleny, J. R., & Dempsey, J. R. (2011). Spoon-to-cup fading as treatment for cup drinking in a child with intestinal failure. Journal of Applied Behavior Analysis, 44, 949–954. https://doi.org/10.1901/jaba.2011.44-949

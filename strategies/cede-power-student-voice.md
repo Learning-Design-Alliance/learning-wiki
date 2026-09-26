@@ -12,7 +12,7 @@ generated:
 # Cede Power (Student Voice)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Ceding power means transferring genuine decision-making authority to students over aspects of their learning — what is studied, how it is assessed, how the classroom runs — rather than offering token input. It ranges from bounded choices within teacher-set structures to full co-design of curriculum and governance, and is carried out through mechanisms like co-constructed rubrics, student-led conferences, and participatory rule-making.
@@ -58,8 +58,10 @@ Autonomy is a core psychological need, and instructional environments that suppo
 5. Gradually expand the scope of ceded decisions as students demonstrate readiness, mirroring [Fading](../elements/fading.md) of other supports.
 
 ## Related Strategies
+
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — a structured classroom routine that operationalizes ceded power in daily learning
 - [Action Planning](action_planning.md) — students set and manage their own goals, a concrete transfer of authority
+- [Build student ownership through student-led conferences, town halls, and college and career readiness activities](student-ownership-practices-middle-school.md)
 
 ## Examples
 - **Expeditionary Learning (EL Education)** — crew structures and student-led conferences in which students present and defend their own progress to families ([https://eleducation.org](https://eleducation.org))

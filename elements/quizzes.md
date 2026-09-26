@@ -73,6 +73,7 @@ Quizzes are one of the most robustly supported instructional elements: testing i
 **[Khan Academy](https://www.khanacademy.org)** — Practice exercises with immediate feedback and mastery tracking; quizzes gate progression through skill levels.
 
 **[Retrieval practice guides](https://www.retrievalpractice.org)** — Agarwal and Bain's teacher-facing resources translating testing-effect research into classroom quiz routines (e.g., "brain dumps," two-things exit tickets).
+- [Increase the use of feedback and correctives through mastery learning procedures](../strategies/formative-tests-with-corrective-feedback.md)
 
 ## Key Sources
 - Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)

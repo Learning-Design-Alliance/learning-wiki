@@ -41,7 +41,8 @@ The article presents a table of metacognitive behaviors teachers exhibit before,
 - [Strp Teachers Metacognitive Tools Before During After](../claims/strp-teachers-metacognitive-tools-before-during-after.md) [+M]
 
 ## Related Patterns
-- 
+
+- [A multi-step reading lesson pattern: skimming and scanning, structured comprehension exercises, and teacher-read-aloud vocabulary clarification](multi-step-reading-lesson-pattern.md)
 
 ## Examples
 -

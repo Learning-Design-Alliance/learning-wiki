@@ -16,7 +16,7 @@ sources:
 # STRP five-phase professional development model
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 STRP is grounded in a five-phase professional development model whose phases the article enumerates as "building a knowledge base, observing models and examples, reflecting on your own practice, changing your practice, and gaining expertise." The model offers teachers and administrators a repertoire of collaborative experiences, including participation in Summer institutes, action research, peer coaching, instructional conversations, audioconferences, and computer networking. It underpins the staff development initiative the studied schools adopted to raise Hispanic students' reading comprehension.
@@ -36,10 +36,14 @@ STRP is grounded in a five-phase professional development model whose phases the
 - strategic teaching of reading comprehension
 
 ### Claims
-- 
+
+- [The authors conclude that bilingual students can benefit from instruction in metacognitive strategy use](../claims/bilingual-students-benefit-metacognitive-strategy-instruction.md) [+W]
+- [The authors report that an area of positive change in their study was students' use of self-generated questions](../claims/self-generated-questions-positive-change-metacognitive-training.md) [+W]
+- [STRP-trained teachers were observed providing metacognitive tools before, during, and after lessons](../claims/strp-teachers-metacognitive-tools-before-during-after.md) [+W]
 
 ## Related Theories
-- 
+
+- [Strategic Teaching and Reading Project (STRP) five comprehension strategies](strp-five-comprehension-strategies.md)
 
 ## Examples
 -

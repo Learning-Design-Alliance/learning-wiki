@@ -59,8 +59,10 @@ Controversial-issue discussions produce the strongest learning when teachers fra
 5. Document student work and outcomes so the unit's educational value can be shown if challenged.
 
 ## Related Strategies
+
 - Establishing discussion norms — shared norms make controversial discussion safe enough to be productive
 - Communicating with families — the ongoing relationship that this strategy's letter initiates
+- [Use equity-oriented extracurricular clubs as spaces for sustained peer dialogue on urgent civic issues](gsa-dialogue-space-civic-issues-strategy.md)
 
 ## Examples
 - A middle-school teacher planning a unit on the history of school segregation sends families a letter citing the relevant state social studies standards, describes the [Case Studies](../elements/case-studies.md) and structured discussions students will use, and invites questions before the unit begins.

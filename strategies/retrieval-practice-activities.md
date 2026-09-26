@@ -61,11 +61,13 @@ Retrieval practice produces substantially larger and more durable learning gains
 7. **Explain the effect to learners** so they persist through the effortful feeling rather than reverting to re-reading.
 
 ## Related Strategies
+
 - [Spaced Repetition](../elements/spaced-repetition.md) — spacing multiplies retrieval's benefit; the two are strongest combined
 - [Interleaving](interleaving.md) — mixing retrieval targets builds discrimination between concepts
 - [3-2-1 Reflection](3-2-1_reflection.md) — a structured retrieval-and-summary routine usable at lesson end
 - [Elaborative Interrogation](elaborative-interrogation.md) — "why" questions that pair retrieval with meaning-making
 - [Formative Assessment](formative-assessment.md) — retrieval quizzes double as evidence for instructional adjustment
+- [Retrieval Practice With Graphic Organizers](retrieval_practice_with_graphic_organizers.md)
 
 ## Examples
 - **[Anki](https://apps.ankiweb.net)** — spaced-repetition flashcard system implementing expanding retrieval intervals; widely used in medical education.

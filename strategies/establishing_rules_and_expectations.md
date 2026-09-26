@@ -12,7 +12,7 @@ generated:
 # Establishing Rules and Expectations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 3 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Establishing rules and expectations means explicitly defining — and ideally co-constructing — the behavioral, procedural, and academic norms of a learning environment, then teaching them as deliberately as content. It is carried out at the start of a course or term through clear statements of what success and appropriate participation look like, modeled routines, and consistent follow-through.
@@ -60,9 +60,11 @@ Clear expectations reduce uncertainty and off-task behavior, freeing working mem
 7. Revisit and revise norms periodically, especially after transitions or when the group composition changes.
 
 ## Related Strategies
+
 - [Check-in](../elements/check-in.md) — routine openings that operationalize expectations about presence and community
 - [Attention](../elements/attention.md) — signals and routines for managing focus depend on pre-established norms
 - [Accommodations](../elements/accommodations.md) — expectations must be set with flexibility for documented learner needs
+- [Implement clear, consistently enforced rules and routines, including a uniform schoolwide discipline plan](posted-observable-rules-and-consistent-discipline-implementation.md)
 
 ## Examples
 - **Responsive Classroom (Center for Responsive Schools)** — K–8 program in which teachers and students co-create classroom rules during the first weeks, then practice routines ("Interactive Modeling"); see [responsivereads.com](https://www.responsivereads.com) / [centerforresponsiveschools.org](https://www.centerforresponsiveschools.org).

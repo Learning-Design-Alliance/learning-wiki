@@ -16,7 +16,7 @@ sources:
 # Piaget's account of ludic symbolism: make-believe play as symbolic assimilation bridging concrete experience and abstract thought
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Piaget's concept of ludic symbolism holds that the hallmark of make-believe play is using objects as symbols for absent objects or people, accompanied by joy and delight. The paper explains that "Play bridges the gap between concrete experience and abstract thought," with the child handling concrete objects sensori-motorly while they symbolize something else being thought. Make-believe play represents "pure assimilation," in which the child freely interprets or distorts reality without conforming to real-world demands, in contrast to imitation, where accommodation takes precedence. The paper traces symbolic play through Piaget's types and subtypes, from projecting schemata onto new objects to interiorized daydreams and collective symbolism.
@@ -36,10 +36,14 @@ Piaget's concept of ludic symbolism holds that the hallmark of make-believe play
 - symbolic representation and imaginative thinking as foundations of cognitive development
 
 ### Claims
-- 
+
+- [Symbolic play declines after age seven or eight and disappears or transforms by eleven or twelve](../claims/symbolic-play-declines-after-age-seven.md) [+W]
 
 ## Related Theories
-- 
+
+- [Piaget's taxonomy of play: practice games, symbolic games, and games with rules](piaget-three-categories-of-play.md)
+- [Stages of Cognitive Development](stages-of-cognitive-development.md)
+- [Play and Cognitive Development](play-and-cognitive-development.md)
 
 ## Examples
 -

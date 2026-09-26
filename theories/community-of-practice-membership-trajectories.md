@@ -39,10 +39,17 @@ A community of practice is a group of people, formally or informally bound, who 
 - 
 
 ## Related Theories
+
 - [Cognitive Apprenticeship Four Dimensions Framework](cognitive-apprenticeship-four-dimensions-framework.md)
+- [Communities-of-Practice theory as a framework for understanding community membership and learning](cop-theory-community-membership-learning.md)
+- [Guided participation and traditional apprenticeship as core CA concepts](guided-participation-and-traditional-apprenticeship-concepts.md)
+- [Situated cognition: context, authenticity, and activity as key dimensions](situated-cognition-context-authenticity-activity.md)
 
 ## Examples
--
+
+- [Learning Communities](../strategies/learning-communities.md)
+- [Community Building](../strategies/community-building.md)
+- [Targeted Networking](../strategies/targeted_networking.md)
 
 ## Key Sources
 - Emmanuel Imiere. (2019). An Application of Cognitive Apprenticeship to Philosophy Instruction. https://eric.ed.gov/?q=An+Application+of+Cognitive+Apprenticeship+to+Philosophy+Instruction

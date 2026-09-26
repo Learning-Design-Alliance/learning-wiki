@@ -40,7 +40,8 @@ The Strategic Teaching and Reading Project, designed by the North Central Region
 - [Strp Teachers Metacognitive Tools Before During After](../claims/strp-teachers-metacognitive-tools-before-during-after.md) [+M]
 
 ## Related Theories
-- 
+
+- [STRP five-phase professional development model](strp-five-phase-professional-development-model.md)
 
 ## Examples
 -

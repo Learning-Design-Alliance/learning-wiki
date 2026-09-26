@@ -12,7 +12,7 @@ generated:
 # PLaNS (Play Learning and Narrative Skills)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 14 studies, `q2`–`q4` · 12 of 14 report an effect size
+> **Evidence** · 5 claims (5 for) · 14 studies, `q1`–`q4` · 11 of 14 report an effect size
 
 ## Description
 PLaNS is a guided-play approach to early literacy in which children develop narrative and writing skills by building stories together through structured play — constructing settings and characters (often with physical materials or digital tools), acting out story events, and then drafting written narratives from the shared story. The teacher's role is to set up the play context, join or observe the play, and guide children's narrative moves with prompts and questions rather than direct instruction.

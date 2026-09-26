@@ -12,7 +12,7 @@ generated:
 # Learning Contracts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size
+> **Evidence** · 4 claims (4 for) · 9 studies, `q1`–`q4` · 8 of 9 report an effect size
 
 ## Description
 A learning contract is a formal, typically written agreement in which a learner commits to specific learning objectives, the strategies and resources they will use to pursue them, a timeline, and the criteria or evidence by which achievement will be judged. The instructor's role shifts from content deliverer to negotiator and evaluator: they help shape feasible goals, approve the plan, and assess against the agreed evidence. Contracts are the signature structural device of self-directed learning in adult education, developed most fully by Malcolm Knowles for andragogical settings.
@@ -60,9 +60,11 @@ Learning contracts operationalize learner autonomy, and autonomy is a reliable l
 6. Evaluate: learner self-assesses against the agreed evidence first; instructor evaluates and provides [assessment](../elements/assessment.md) feedback, closing the loop for the next contract cycle.
 
 ## Related Strategies
+
 - [Independent Study](../elements/independent-study.md) — the most common context in which full learning contracts are used
 - [Goal-Setting](../elements/goal-setting.md) — the core skill contracts require and simultaneously develop
 - [Self-Assessment](../elements/self-assessment.md) — the evaluation mechanism that makes contracts formative rather than purely contractual
+- [Establish evaluative criteria as a creative project evolves through student-faculty feedback conferences](evolving-criteria-feedback-conferences.md)
 
 ## Examples
 - **Knowles' andragogical practice** — Knowles used contracts as the organizing structure for graduate courses in adult education at Boston University and the Fielding Institute; students negotiated individualized objectives within a shared course competency framework (Knowles, 1986).

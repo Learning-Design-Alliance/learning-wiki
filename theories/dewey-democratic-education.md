@@ -40,10 +40,12 @@ The article grounds its egalitarian program-design argument in Dewey's democrati
 - [Egalitarian Program Design Supports Culturally Responsive Leadership](../claims/egalitarian-program-design-supports-culturally-responsive-leadership.md) [+M]
 
 ## Related Theories
-- 
+
+- [Mead's social conception of education recognizing both the child and society](mead-social-conception-of-education.md)
 
 ## Examples
--
+
+- [Nine principles of community-based education grounded in democratic participation](../patterns/principles-of-community-based-education.md)
 
 ## Key Sources
 - Farmer & Higham. (2007). Culturally Responsive Leadership: Graduate Program Egalitarianism. https://www.ucea.org

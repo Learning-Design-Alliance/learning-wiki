@@ -41,7 +41,9 @@ Historiographical assessment of Generals's Journal of Negro Education argument: 
 
 
 ## Related Claims
+
 - [Washington's Tuskegee practice anticipated the project method, building an institution around it decades before Kilpatrick](washington-anticipated-project-method.md) — a narrower finding that bears on this claim
 - [Washington's correlating of industrial with academic instruction reflects an adaptation of Pestalozzi and Fröebel, situating him in progressive education](washington-pestalozzi-froebel-correlation.md) — a narrower finding that bears on this claim
 - [Washington's educational philosophy fits within the American pragmatist tradition, sharing a table with Dewey](washington-educational-pragmatist.md) — related
 - [Washington's insistence on the correctness of his Tuskegee method stifled the emergence of new ideas and narrowed his system's application](washington-tuskegee-method-stifled-new-ideas.md) — reports the opposite
+- [Washington and Dewey differed on honoring student desires, with Washington arguing for their suppression](washington-suppression-of-student-desires.md)

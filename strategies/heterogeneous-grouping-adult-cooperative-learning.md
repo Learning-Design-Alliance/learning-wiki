@@ -37,7 +37,9 @@ The report describes how program participants are placed into cooperative learni
 - Collaborative learning that draws on diverse member strengths
 
 ## Related Strategies
-- 
+
+- [Cooperative Learning](cooperative_learning.md)
+- [Complex Instruction](complex_instruction.md)
 
 ## Examples
 -

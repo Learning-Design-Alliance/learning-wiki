@@ -43,10 +43,14 @@ The Integrated Assessment System is CRESST's collective name for a suite of soft
 - [Cresst Model Of Learning Five Families](../theories/cresst-model-of-learning-five-families.md)
 
 ## Related Elements
-- 
+
+- [Application programming interfaces as shared infrastructure for automated assessment tools](assessment-tool-apis-shared-infrastructure.md)
+- [FAULT: Framework for Aiding the Understanding of Logical Troubleshooting](fault-framework-logical-troubleshooting.md)
+- [Eight proposed CRESST assessment tools with specifications and scalability outlooks](cresst-proposed-assessment-tools.md)
 
 ## Examples
--
+
+- [Use a spiral development model with periodic prototype deliveries for assessment software](../strategies/spiral-development-for-assessment-software.md)
 
 ## Key Sources
 - Chung, G. K. W. K., Herl, H. E., Klein, D. C. D., O'Neil, H. F., Jr., & Schacter, J. (1997). Estimate of the Potential Costs and Effectiveness of Scaling Up CRESST Assessment Software. https://eric.ed.gov/?id=ED418102

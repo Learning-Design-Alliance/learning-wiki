@@ -12,7 +12,7 @@ generated:
 # Active Listening
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies, `q1`–`q4` · 9 of 10 report an effect size
 
 ## Description
 Active listening is a structured communication practice in which the listener gives full attention to the speaker, then demonstrates understanding by paraphrasing content, naming emotion, and asking clarifying questions before responding with their own view. In classrooms it appears in teacher–student conferencing, peer discussion protocols, and discussion norms. It is carried out through concrete moves: restating ("So what you're saying is…"), probing ("What makes you say that?"), and withholding evaluation until the speaker's position has been accurately reflected back.

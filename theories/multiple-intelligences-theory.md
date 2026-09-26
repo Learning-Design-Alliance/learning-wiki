@@ -45,7 +45,10 @@ Gardner's inter- and intrapersonal intelligences are often combined by other res
 ## Claims
 
 ## Related Theories
+
 - [Triarchic Theory of Intelligence](triarchic-theory-of-intelligence.md) — a competing, more parsimonious (three-part) account of intelligence developed as an alternative to both single-factor ("g") and highly multi-factor models
+- [Gardner's Multiple Intelligences theory: eight named intelligences with a possible ninth](mi-theory-eight-intelligences-taxonomy.md)
+- [Sternberg's mental self-government model of intellectual styles](mental-self-government-intellectual-styles.md)
 
 ## Examples
 

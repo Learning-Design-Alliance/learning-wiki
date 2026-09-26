@@ -39,11 +39,15 @@ The problem-solving assessment model from the National Center for Research on Ev
 - [Trait Self Regulation Relates Only To Knowledge Map Scores In A Puzzle Game](../claims/trait-self-regulation-relates-only-to-knowledge-map-scores-in-a-puzzle-game.md) [~W]
 
 ## Related Theories
+
 - Self Regulation
 - [Problem Solving](../elements/problem-solving.md)
+- [CRESST model of learning: five families of cognitive learning as assessment targets](cresst-model-of-learning-five-families.md)
 
 ## Examples
--
+
+- [Design assessment tools to measure model components, integrate, be authorable, auto-score, and deploy on the Internet](../principles/cresst-tool-design-criteria.md)
+- [CRESST Integrated Assessment System: a computer-based suite of performance assessment tasks](../elements/cresst-integrated-assessment-system.md)
 
 ## Key Sources
 - Shen, C.-Y., & O’Neil, H. (2006). The Effectiveness of Worked Examples in a Game-Based Learning Environment. Paper presented at the annual meeting of the American Educational Research Association (AERA), San Francisco, CA. https://eric.ed.gov/?id=ED491961

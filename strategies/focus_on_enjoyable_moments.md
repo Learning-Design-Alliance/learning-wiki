@@ -12,7 +12,7 @@ generated:
 # Focus on Enjoyable Moments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 against) · 7 studies, `q1`–`q4` · 6 of 7 report an effect size
 
 ## Description
 This strategy entails consciously choosing to fill one's mind with positive images and thoughts, making it a habit to bring the mind back every time it goes astray. It encourages gratitude for what one has presently, aligning self-talk with joy and fostering a state of gratitude that benefits the psyche. By emphasizing the good times and recognizing life's ups and downs, individuals can maintain a more positive attitude and better manage challenges. In learning contexts, it functions as an affect-regulation practice: learners deliberately attend to moments of enjoyment, competence, and gratitude to sustain the positive emotions that broaden attention and build durable resources for engagement [Fredrickson's broaden-and-build theory.](https://doi.org/10.1037/0003-066X.56.3.218) [+M].

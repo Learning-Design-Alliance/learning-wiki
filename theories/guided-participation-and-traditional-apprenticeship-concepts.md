@@ -16,7 +16,7 @@ sources:
 # Guided participation and traditional apprenticeship as core CA concepts
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Guided participation refers to the processes and systems of involvement between learners as they communicate and coordinate efforts in culturally valued activity; the article calls it the social element of cognitive apprenticeship, where the learner learns by doing with help along the way. Traditional apprenticeship contributes the master-apprentice structure: as the learner masters component skills, the master reduces participation, providing fewer hints and less feedback, and eventually fades away completely. Applying apprenticeship methods to cognitive skills requires externalizing usually internal processes, so thinking and reflection must be out loud.
@@ -36,10 +36,16 @@ Guided participation refers to the processes and systems of involvement between 
 - acquisition and context-appropriate application of cognitive skills and processes
 
 ### Claims
-- 
+
+- [The review reports that cognitive apprenticeship instructional methods were significantly more effective than traditional methods for college-level writing skills](../claims/ca-methods-more-effective-than-traditional-writing-college.md) [+W]
+- [The review reports reciprocal teaching of reading, an approach exemplifying cognitive apprenticeship, was remarkably effective in raising reading comprehension scores, especially for poor readers](../claims/reciprocal-teaching-raises-reading-comprehension-poor-readers.md) [+W]
+- [The review reports that students receiving situated instruction outperformed a lecture-based control group on a causality posttest](../claims/situated-instruction-outperformed-abstract-control-causality.md) [+W]
 
 ## Related Theories
+
 - [Cognitive Apprenticeship Four Dimensions Framework](cognitive-apprenticeship-four-dimensions-framework.md)
+- [Sociocultural Theory](sociocultural-theory.md)
+- [Community of practice with Wenger's five membership trajectories](community-of-practice-membership-trajectories.md)
 
 ## Examples
 -

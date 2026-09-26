@@ -12,7 +12,7 @@ generated:
 # Check In Activities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 5 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 4 of 7 report an effect size
 
 ## Description
 Check in activities are short, low-stakes prompts or routines — a one-word mood poll, a "rose and thorn" share, a quick exit-to-entry question — that open a session by inviting learners to report how they are arriving. They serve two functions simultaneously: giving the instructor actionable information about readiness and affect, and signaling that each learner is seen as a person, not only a performer of tasks.

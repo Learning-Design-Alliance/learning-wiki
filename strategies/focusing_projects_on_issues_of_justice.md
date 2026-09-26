@@ -12,7 +12,7 @@ generated:
 # Focusing Projects on Issues of Justice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 6 of 7 report an effect size
 
 ## Description
 Focusing projects on issues of justice means anchoring [Project-Based Learning](../principles/active-learning.md) in authentic social problems — inequity, environmental harm, access, representation — that students investigate and act on. Rather than treating justice topics as content to read about, the strategy positions students as investigators and change agents who produce work with real stakes for real audiences. It draws on culturally relevant pedagogy, which argues that academic learning is deepened, not diluted, when it connects to students' communities and to critique of social structures [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M].

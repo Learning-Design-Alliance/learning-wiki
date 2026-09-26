@@ -40,7 +40,10 @@ The article organizes teachers' philosophical beliefs into five basic philosophi
 - [Elementary Undergrads Higher Existentialism](../claims/elementary-undergrads-higher-existentialism.md) [+M]
 
 ## Related Theories
-- 
+
+- [Taxonomy of educational philosophies: Perennialism, Essentialism, Pragmatism, Reconstructionism, and Existentialism](educational-philosophies-taxonomy-wiles-bondi.md)
+- [Taxonomy of four general philosophies organized by the three basic philosophical questions](general-philosophies-taxonomy-apps.md)
+- [Traditional versus modern philosophies distinguished by who determines ends and means](traditional-modern-philosophies-ends-means.md)
 
 ## Examples
 -

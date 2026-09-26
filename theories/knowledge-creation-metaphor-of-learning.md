@@ -42,7 +42,12 @@ The paper reports that the Trialogical Approach emerged in response to the disti
 - [Trialogical Learning Framework](trialogical-learning-framework.md)
 
 ## Examples
--
+
+- [Design learning for knowledge creation by delegating responsibility for developing shared, re-usable knowledge objects to learners](../principles/delegate-knowledge-creation-responsibility-to-learners.md)
+- [Pedagogical scenarios that organise learning around knowledge creation with shared objects](../strategies/trialogical-pedagogical-scenarios.md)
+- [Seven basic characteristics of trialogical learning processes](../patterns/trialogical-learning-design-characteristics.md)
+- [Knowledge Practices Environment (KPE): a platform for object-centred collaborative knowledge creation](../elements/knowledge-practices-environment-kpe.md)
+- [KP-Lab toolset supporting four types of mediation, including the Visual Model Editor and analytic mirroring tools](../elements/kp-lab-mediation-tools.md)
 
 ## Key Sources
 - Reynolds, S., & Camilleri, A. F. (2010). KP-LAB: Breaking New Ground on How to Create Knowledge Through Learning. EDEN 2010 Conference, Valencia.

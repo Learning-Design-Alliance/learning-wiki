@@ -48,7 +48,8 @@ CLASP was a three-year, $3.6 million pilot program initiated in 1991 by the DeWi
 - 
 
 ## Examples
--
+
+- [CLASP programming should always create links to books, reading, information use, and library services](../strategies/always-link-programs-to-library-services.md)
 
 ## Key Sources
 - Small, Ruth V.; Katzer, Jeffrey; Eisenberg, Michael B.; McClure, Charles R. (1994). Connecting Libraries and Schools Project (CLASP) Evaluation. Report #7. Final Report. Information Management Consultant Services, Inc. https://eric.ed.gov/?id=ED382199

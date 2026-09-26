@@ -12,7 +12,7 @@ generated:
 # Literacy Centers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size
+> **Evidence** · 4 claims (4 for) · 10 studies, `q1`–`q4` · 9 of 10 report an effect size
 
 ## Description
 Literacy centers are designated areas in the classroom where students work independently or collaboratively on meaningful literacy tasks to explore and expand their learning. They provide structured opportunities to practice and extend skills introduced during core instruction, while the teacher delivers [small-group instruction](../elements/small-group-instruction.md) to targeted groups without interruption. Effective center tasks are scaffolded, include models of exemplary work, and operate under clear expectations and accountability routines.

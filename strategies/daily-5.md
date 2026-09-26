@@ -12,7 +12,7 @@ generated:
 # Daily 5
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies, `q1`–`q4` · 7 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies, `q1`–`q4` · 6 of 8 report an effect size
 
 ## Description
 Daily 5 (Boushey & Moser, 2006) is a structure for organizing literacy blocks in elementary classrooms. Students cycle through five independent tasks — Read to Self, Read to Someone, Listen to Reading, Work on Writing, and Word Work — while the teacher confers with individuals or leads small guided-reading groups. The framework pairs these task rotations with explicit training in [independent working behaviors](../theories/self-regulated-learning.md) and student [choice](../elements/choice-boards.md) about which tasks to do and in what order.

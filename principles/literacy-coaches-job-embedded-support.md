@@ -42,7 +42,9 @@ The toolkit positions literacy coaches as "an important support mechanism for te
 - 
 
 ## Related Principles
-- 
+
+- [Adopt high-quality instructional materials aligned to the science of reading, accompanied by professional development](hqim-adoption-with-professional-development.md)
+- [Use test-based 3rd-grade retention with multiple promotion options and good cause exemptions](test-based-retention-multiple-promotion-options.md)
 
 ## Examples
 -

@@ -39,10 +39,13 @@ Within the Knowledge-in-Pieces resources framework, a resource is "an idea or a 
 - [Students Choose Unphysical Limits Ignoring Functional Relationship Across Equal Sign](../claims/students-choose-unphysical-limits-ignoring-functional-relationship-across-equal-sign.md) [+M]
 
 ## Related Theories
-- 
+
+- [Two facets of the 'Making Meaning of Mathematics' epistemic game: Finding a Family of Functions and Fitting the Physical Situation](two-facets-making-meaning-of-mathematics-epistemic-game.md)
+- [Epistemic Games](epistemic-games.md)
 
 ## Examples
--
+
+- [Represent two correct mathematical procedures in terms of shared resources to clarify student thinking and address failures to connect ideas](../principles/represent-procedures-as-shared-resources-to-clarify-thinking.md)
 
 ## Key Sources
 - Black, K.E. and Wittmann, M.C. (2009). Understanding the use of two integration methods on separable first order differential equations. https://perlnet.umaine.edu/imt/

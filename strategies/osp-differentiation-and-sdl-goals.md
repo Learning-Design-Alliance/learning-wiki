@@ -37,7 +37,9 @@ For higher ability students, teachers may guide the modeling construction to val
 - self-directed learning, collaborative learning, and refined scientific investigation skills
 
 ## Related Strategies
-- 
+
+- [Teach the five steps of scientific investigation through personally motivating video analysis and modeling projects](video-analysis-modeling-sport-science-strategy.md)
+- [Inquiry Based Learning](inquiry-based-learning.md)
 
 ## Examples
 -

@@ -58,9 +58,11 @@ Retakes and revisions operationalize [Assessment for Learning](../principles/ass
 5. Replace or improve the original score per the published policy; cap attempts (typically two) to preserve first-attempt effort.
 
 ## Related Strategies
+
 - Mastery Learning — the broader system in which retakes are the standard mechanism for reaching criterion
 - Standards-Based Grading — grading philosophy that makes score replacement coherent, since grades report current competence
 - Test-Enhanced Learning — retakes double as additional retrieval events
+- [Negotiate learning contracts at the start of term and allow test retakes until mastery](negotiate-contracts-allow-retakes.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — mastery exercises regenerate parallel problems; learners retry until reaching "mastery" level, with hints and instruction available between attempts.

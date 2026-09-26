@@ -12,7 +12,7 @@ generated:
 # Student Led IEPs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies, `q2`–`q4` · 3 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies, `q1`–`q4` · 2 of 6 report an effect size
 
 ## Description
 A student-led IEP shifts the annual special education planning meeting from an adult-run review into a meeting the student prepares for and directs. The student introduces themselves, explains their disability and how it affects learning, presents current goals and progress data, requests or negotiates accommodations, and helps set next-year goals. Preparation typically spans weeks and involves explicit instruction in self-determination skills, rehearsal, and structured materials such as scripts, slides, or portfolios.

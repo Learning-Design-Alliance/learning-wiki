@@ -41,11 +41,16 @@ The article frames teachers' educational beliefs with five basic approaches: "pe
 - [Pe Teacher Essentialism Rises And Progressivism Falls With Seniority](../claims/pe-teacher-essentialism-rises-and-progressivism-falls-with-seniority.md) [~M]
 
 ## Related Theories
+
 - [Essentialism And Perennialism Educational Philosophy](essentialism-and-perennialism-educational-philosophy.md)
 - [Existentialism Educational Philosophy](existentialism-educational-philosophy.md)
 - [Pragmatism And Progressivism Educational Philosophy](pragmatism-and-progressivism-educational-philosophy.md)
 - [Idealism Educational Philosophy](idealism-educational-philosophy.md)
 - [Realism Educational Philosophy](realism-educational-philosophy.md)
+- [Taxonomy of five educational philosophies for adult education](educational-philosophies-taxonomy-apps.md)
+- [Taxonomy of educational philosophies: Perennialism, Essentialism, Pragmatism, Reconstructionism, and Existentialism](educational-philosophies-taxonomy-wiles-bondi.md)
+- [Taxonomy of four general philosophies organized by the three basic philosophical questions](general-philosophies-taxonomy-apps.md)
+- [Traditional versus modern philosophies distinguished by who determines ends and means](traditional-modern-philosophies-ends-means.md)
 
 ## Examples
 -

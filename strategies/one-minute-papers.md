@@ -57,8 +57,10 @@ The strategy combines retrieval practice — learners must reconstruct what they
 5. Periodically pair the paper with a structured reflection such as [3-2-1 Reflection](3-2-1_reflection.md) for deeper consolidation.
 
 ## Related Strategies
+
 - [3-2-1 Reflection](3-2-1_reflection.md) — a richer structured variant (3 things learned, 2 connections, 1 question) serving the same closing-slot function
 - [Exit Tickets](exit-tickets.md) — the broader family of end-of-session checks; the minute paper is the classic two-question exit ticket
+- [Use open-ended reflection questions as self-assessment in place of end-of-unit tests](open-ended-reflection-maker-self-assessment.md)
 
 ## Examples
 - **Harvard University, Dan Ariely's large statistics course** — Charles Schwartz popularized the technique at Berkeley; Mosteller (1989) documented its use in a Harvard statistics course, where the instructor opened each class by answering the previous session's muddiest points.

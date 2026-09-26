@@ -43,7 +43,8 @@ This framework characterizes student understanding and behavior as multiple loca
 - [Material Artifact Stability Stabilizes Thinking](../claims/material-artifact-stability-stabilizes-thinking.md) [+M]
 
 ## Related Theories
-- 
+
+- [Multiple local conceptual coherences: student understanding as locally stable patterns requiring stability explanations](multiple-local-conceptual-coherences.md)
 
 ## Examples
 -

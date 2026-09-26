@@ -39,10 +39,15 @@ The guide adopts the career cluster concept, holding that careers may be classif
 - 
 
 ## Related Theories
-- 
+
+- [General goals of industrial arts: career emphasis and industrial-technological emphasis](general-goals-career-industrial-technological-emphasis.md)
+- [Industrial technology as the content base for industrial arts](industrial-technology-content-base-industrial-arts.md)
 
 ## Examples
--
+
+- [Recommended scope and sequence with per-cluster course time allocations](../patterns/recommended-scope-sequence-time-allocations.md)
+- [Industrial arts pyramid program across operational levels](../patterns/industrial-arts-pyramid-program-levels.md)
+- [Level-differentiated emphases: awareness, exploration, specialization](../patterns/level-differentiated-awareness-exploration-specialization.md)
 
 ## Key Sources
 - The Iowa Guide for Curriculum Improvement in Industrial Arts, K-12. A Study of Industrial Technology. (1975). Iowa State Dept. of Public Instruction. https://eric.ed.gov/?id=ED113517

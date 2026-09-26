@@ -45,7 +45,8 @@ The evaluation recommends replacing the traditional model in which an outside sp
 - 
 
 ## Examples
--
+
+- [Establish continuing one-to-one specialist relationships so expert skills transfer to the tribe](../strategies/continuing-one-to-one-specialist-skill-transfer.md)
 
 ## Key Sources
 - Boise Cascade Center for Community Development. (1972). Indian Economic Development: An Evaluation of EDA's Selected Indian Reservation Program. Volume I: Narrative. https://eric.ed.gov/?id=ED134349

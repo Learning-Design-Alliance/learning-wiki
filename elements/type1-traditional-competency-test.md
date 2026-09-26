@@ -37,10 +37,12 @@ The Type 1 instrument is a paper-and-pencil test of the grade's critical objecti
 - Sorting on multiple attributes, number operations and symbolization, measurement, coin values, estimation, and probability concepts
 
 ## Related Elements
-- 
+
+- [Type 2 checklist assessment: tasks coded to each first-grade critical objective for teacher judgment of progress](type2-checklist-competency-assessment.md)
 
 ## Examples
--
+
+- [Analyze the types of errors students make on assessment items, not just correct/incorrect scores](../strategies/error-type-analysis-informs-teaching.md)
 
 ## Key Sources
 - Kasten, Margaret; Meiring, Steve; Mikesell, Anne. (1997). Mathematics. Competency-Based Education Assessment Series. https://eric.ed.gov/?id=ED417935

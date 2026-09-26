@@ -40,7 +40,11 @@ The article prescribes a concrete adaptation recipe for implementing DL2F in Phi
 - cultural understanding
 
 ## Related Strategies
-- 
+
+- [Design OEP for accessibility and marginalized participation rather than open for all](design-oep-for-those-farthest-from-justice.md)
+- [Consider Socio-Cultural Factors](consider_socio-cultural_factors.md)
+- [Teach in students' home language in primary, assess learning levels and differentiate instruction, and align teacher training with language-of-instruction policy](sl-home-language-assessment-differentiation.md)
+- [Culturally Responsive Curriculum Scorecards](culturally_responsive_curriculum_scorecards.md)
 
 ## Examples
 -

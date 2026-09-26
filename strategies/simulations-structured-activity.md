@@ -61,9 +61,12 @@ Simulation alone is an experience; learning comes from the structure wrapped aro
 6. **Transfer**: ask learners to predict behavior in a new scenario or apply the principle to a real-world case
 
 ## Related Strategies
+
 - Case-Based Learning — simulations are dynamic, learner-driven cases; both trade direct telling for situated experience
 - Productive Failure — a failure-first simulation run before instruction leverages the same mechanism
 - Predict–Observe–Explain — a structured activity format well suited to simulation events
+- [Use direct-experience formats — simulation games, extracurricular activities, action learning, peer teaching — to pursue relational-domain objectives](experiential-formats-relational-objectives.md)
+- [Solicit open-format curiosity questions after interactive simulations and use responses as a springboard for instruction](open-format-simulation-questions-springboard.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the structured engagement phase inside the simulation

@@ -64,9 +64,11 @@ Retrieval practice produces substantially more durable retention than restudying
 6. Periodically explain *why* you quiz this way — the testing effect — to sustain student effort and trust
 
 ## Related Strategies
+
 - Spaced retrieval scheduling — cumulative quizzing is the classroom vehicle for distributed practice
 - Formative feedback loops — the quiz is only half the intervention; the feedback completes it
 - Flipped classroom — pre-class quizzes enforce the preparation the flipped model depends on
+- [Increase the use of feedback and correctives through mastery learning procedures](formative-tests-with-corrective-feedback.md)
 
 ## Examples
 - **Team-Based Learning** ([tbl.teamslearn.org](http://www.tbl.teamslearn.org)) — individual Readiness Assurance Tests taken before team discussion, with immediate appeal and feedback

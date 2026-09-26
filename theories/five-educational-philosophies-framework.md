@@ -41,10 +41,15 @@ The article organizes teachers' philosophical orientations into five categories 
 - [Student Centered Philosophies Correlate Student Centered Styles](../claims/student-centered-philosophies-correlate-student-centered-styles.md) [+M]
 
 ## Related Theories
-- 
+
+- [Learning-centered learning: a construct resting on five philosophical learning assumptions](learning-centered-learning-five-assumptions.md)
+- [Taxonomy of educational philosophies: Perennialism, Essentialism, Pragmatism, Reconstructionism, and Existentialism](educational-philosophies-taxonomy-wiles-bondi.md)
+- [Taxonomy of four general philosophies organized by the three basic philosophical questions](general-philosophies-taxonomy-apps.md)
+- [Traditional versus modern philosophies distinguished by who determines ends and means](traditional-modern-philosophies-ends-means.md)
 
 ## Examples
--
+
+- [Use in-service training to raise teacher awareness of lingering teacher-centered styles](../strategies/in-service-training-teacher-centered-awareness.md)
 
 ## Key Sources
 - Emel Saritaş. (2016). Relationship between philosophical preferences of classroom teachers and their teaching styles. Educational Research and Reviews. https://doi.org/10.5897/ERR2016.2787

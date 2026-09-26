@@ -12,7 +12,7 @@ generated:
 # Parent Workshops
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies, `q3`–`q4` · 7 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies, `q1`–`q4` · 6 of 8 report an effect size
 
 ## Description
 Parent workshops are structured sessions — in person or online — in which schools or programs teach parents specific, actionable techniques for supporting children's learning at home: reading aloud with dialogic questioning, structuring homework routines, giving effective feedback, or managing screen time. Effective workshops model the technique, have parents practice it, and follow up over time, rather than simply delivering information about why the technique matters.
@@ -61,9 +61,11 @@ Parent workshops work when they change what parents *do*, not just what they kno
 7. Offer childcare, translation, and flexible attendance; measure attendance and home implementation, not just satisfaction.
 
 ## Related Strategies
+
 - [Home Reading Programs](../strategies/home-reading-programs.md) — the most common target practice; workshops teach parents how to make reading interactive
 - [Family Literacy Nights](../strategies/family-literacy-nights.md) — lighter-touch events that can funnel families into workshop series
 - [Teacher-Parent Communication](../strategies/teacher-parent-communication.md) — the ongoing channel that sustains workshop practices between sessions
+- [Provide parent read-at-home plans and home reading strategies for struggling readers](parent-read-at-home-plans.md)
 
 ## Examples
 - **Dialogic reading workshops** based on Whitehurst's shared-reading research: parents learn to ask expansion questions ("What happened next? Why?") during read-alouds; randomized trials show gains in children's expressive language when parents are trained with modeling and feedback.

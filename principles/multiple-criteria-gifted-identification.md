@@ -42,7 +42,8 @@ The brief advocates identifying gifted students from culturally and linguistical
 - [Gifted Underrepresentation Diverse Students](../claims/gifted-underrepresentation-diverse-students.md) [+M]
 
 ## Related Principles
-- 
+
+- [Provide a continuum of gifted services and ensure teachers can differentiate instruction](continuum-of-gifted-services.md)
 
 ## Examples
 -

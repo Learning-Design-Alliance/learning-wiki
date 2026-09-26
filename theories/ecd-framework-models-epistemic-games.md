@@ -39,7 +39,9 @@ ECD is a principled assessment design framework that structures the rationales, 
 - 
 
 ## Related Theories
+
 - [Evidence Centered Design](../methods/evidence-centered-design.md)
+- [ECD framework as a conceptual and rhetorical structure for designing simulation studies in games-based assessment](ecd-framework-structures-games-assessment-simulation-design.md)
 
 ## Examples
 -

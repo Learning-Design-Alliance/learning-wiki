@@ -37,7 +37,9 @@ The authors' forward-looking recommendations for the integrated curriculum. Firs
 - experimental detector design, noise reduction, parameter estimation, interdisciplinary STEM exposure
 
 ## Related Strategies
-- 
+
+- [Iterative improvements and interdisciplinary integration for the next course iteration](next-iteration-improvements-life-science-physics.md)
+- [Use freely available gravitational-wave education tools and resources, including Black Hole Hunter and Einstein's Messengers](grav-wave-education-tools-for-educators.md)
 
 ## Examples
 -

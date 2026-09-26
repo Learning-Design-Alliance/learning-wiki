@@ -37,7 +37,9 @@ The brief recommends that systems "use students' home language in primary, build
 - Foundational literacy in a language students understand; differentiated numeracy and literacy instruction
 
 ## Related Strategies
-- 
+
+- [Adapt DL2F to local context by aligning with the national curriculum, using authentic local materials, multilingual approaches, and pragmatic low-bandwidth technology integration](dl2f-philippine-contextual-adaptation-strategy.md)
+- [Primary Language Support with Bilingual Texts](primary_language_support_with_bilingual_texts.md)
 
 ## Examples
 -

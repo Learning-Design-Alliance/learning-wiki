@@ -25,7 +25,7 @@ sources:
 # Solution Development
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 6 studies, `q2`–`q4` · 4 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 6 studies, `q2`–`q4` · 3 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 Solution development asks learners to synthesize information from multiple sources into a proposed solution to an authentic problem, then test, evaluate, and revise that solution against evidence or feedback. It functions as the productive phase of problem-centered instruction — the point where analysis converts into a concrete, defensible artifact or decision.

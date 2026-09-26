@@ -37,7 +37,8 @@ The article releases its experimental code and links to the nine public benchmar
 - accurate prediction of learner correctness in intelligent tutoring systems
 
 ## Related Elements
-- 
+
+- [EduData and EduKTM Open-Source Knowledge Tracing Libraries](edudata-and-eduktm-libraries.md)
 
 ## Examples
 -

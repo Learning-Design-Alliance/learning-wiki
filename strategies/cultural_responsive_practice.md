@@ -12,7 +12,7 @@ generated:
 # Cultural Responsive Practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Culturally responsive practice designs instruction around learners' cultural knowledge, community experiences, and identities, treating them as assets rather than deficits to be overcome. It is carried out by connecting content to students' lived experience, using varied modes of participation and expression, and building relationships that communicate high expectations alongside personal regard.

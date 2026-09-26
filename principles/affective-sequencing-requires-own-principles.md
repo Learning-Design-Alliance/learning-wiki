@@ -17,7 +17,7 @@ sources:
 # Do not simply reuse cognitive and psychomotor sequencing principles when sequencing affective learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Because emotional literacy curricula draw on sequencing strategies beyond those used in cognitive and psychomotor learning, instructional designers should not assume existing sequencing strategies transfer directly to the affective domain. The article concludes "it will not be appropriate, in curriculum design for affective learning, to simply reuse the sequencing principles proper to procedural and cognitive learning," and that designers should seek further guidance from research and practice for emotional development education.
@@ -37,8 +37,11 @@ Because emotional literacy curricula draw on sequencing strategies beyond those 
 - Instructional sequencing of emotional literacy curricula
 
 ### Claims
+
 - [Paths Topical Sequencing Four Guidelines](../claims/paths-topical-sequencing-four-guidelines.md) [+M]
 - [Paths Basic To Complex Hierarchical Spiral Sequencing](../claims/paths-basic-to-complex-hierarchical-spiral-sequencing.md) [+M]
+- [PATHS macro-level sequencing combines spiral and topical sequencing patterns](../claims/paths-macro-sequencing-spiral-topical-combination.md) [+W]
+- [Within-lesson sequencing in the PATHS Feelings and Relationships Unit proceeds from cognitive to behavioral to affective and from external to internal](../claims/paths-within-lesson-cognitive-to-affective-sequencing.md) [+W]
 
 ## Related Principles
 - 

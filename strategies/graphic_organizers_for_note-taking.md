@@ -60,10 +60,12 @@ Graphic organizers externalize relationships among ideas, reducing the working-m
 5. Use the completed organizer as a retrieval-practice or writing scaffold, not as an end product.
 
 ## Related Strategies
+
 - [Advance Organizers](../elements/advance-organizers.md) — organizers presented *before* instruction to prime structure; note-taking organizers operate during and after
 - [Annotating](../principles/annotating.md) — the text-marking counterpart for working directly with source documents
 - [Chunking](../principles/chunking.md) — organizers group information into processable units
 - [Elaborative Interrogation](../claims/elaborative-interrogation-improves-learning.md) — asking "why" and "how" questions while filling organizer cells deepens processing
+- [Retrieval Practice With Graphic Organizers](retrieval_practice_with_graphic_organizers.md)
 
 ## Examples
 - Students complete a comparison matrix on two historical figures while reading paired biographies, then use it to draft a compare–contrast essay (see [Cult of Pedagogy's graphic organizer collection](https://www.cultofpedagogy.com/graphic-organizer/)).

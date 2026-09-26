@@ -17,7 +17,7 @@ sources:
 # Replace one-size-fits-all engagement policies with discipline-specific RPT policies, professional development, and institutional support
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study, `q2` · 1 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 Because publicly engaged scholarship manifests differently across disciplinary groups, institutions should move beyond universal, institution-wide policies. The article recommends reconsidering RPT policies so they do not unintentionally disadvantage hard disciplines whose commercialized activities go unreported, familiarizing decision-makers with the variety of engaged collaboration, diversifying professional development portfolios by disciplinary interest, and extending awards, seed grants, and conference support equitably so they do not concentrate in applied and life fields.
@@ -39,9 +39,13 @@ Because publicly engaged scholarship manifests differently across disciplinary g
 - recognizing and equitably evaluating and supporting publicly engaged scholarship across disciplines
 
 ### Claims
+
 - [Biglan Main Types Engaged Scholarship](../claims/biglan-main-types-engaged-scholarship.md) [+M]
 - [Biglan Intensity Activity Varies](../claims/biglan-intensity-activity-varies.md) [+M]
 - [Biglan Degree Engagement Varies](../claims/biglan-degree-engagement-varies.md) [+M]
+- [Faculty in applied, hard, and life disciplines are more likely than colleagues in pure, soft, and nonlife disciplines to report publicly engaged scholarship overall](../claims/biglan-dimensions-vary-overall-engaged-scholarship.md) [+W]
+- [Subtypes of publicly engaged scholarship vary by Biglan dimension, with applied faculty reporting five subtypes more often and soft faculty reporting two](../claims/biglan-subtypes-engaged-scholarship.md) [+M]
+- [No instances of service-learning were reported on the RPT forms, an unexpected null the authors attribute partly to the form's design](../claims/no-service-learning-reported-rpt-forms.md) [~W]
 
 ## Related Principles
 - 

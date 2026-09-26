@@ -38,8 +38,12 @@ Commognition (Sfard) treats mathematical thinking as a discursive activity: numb
 - [Numerical routines individualize through a three-stage sequence of vertical and horizontal bonding](../claims/numerical-routines-individualize-through-bonding.md) [+M]
 
 ## Related Theories
+
 - [Constructivism](constructivism.md) — commognition shares constructivism's rejection of passive transmission but replaces internal mental construction with discursive participation as the unit of analysis
 - [Situated Learning](situated-learning.md) — both treat learning as inseparable from social participation rather than individual acquisition
+- [Constructivism as a theory of knowledge and learning with individualistic, social, and combined branches](constructivism-knowledge-learning-theory-branches.md)
+- [Ritual versus exploration routines and the process of de-ritualization](ritual-exploration-routines-de-ritualization.md)
+- [Commognitive framework: thinking as communication and learning as participation in mathematical discourse](commognition-framework-thinking-as-communication.md)
 
 ## Examples
 - [Vertical and Horizontal Bonding in Numerical Routines](../principles/vertical-and-horizontal-bonding-in-numerical-routines.md)

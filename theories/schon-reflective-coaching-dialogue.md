@@ -43,7 +43,10 @@ The paper analyzes Schon's account of how master practitioners induct novices in
 - [Joyce Showers Technical Coaching](joyce-showers-technical-coaching.md)
 
 ## Examples
--
+
+- [Pete Frazer's eight guiding moves for working as a co-thinker with novice teachers](../elements/frazer-eight-guiding-moves.md)
+- [Reflection](../elements/reflection.md)
+- [Reflective Practice](../strategies/reflective-practice.md)
 
 ## Key Sources
 - Feiman-Nemser, Sharon, et al. (1994). Guiding Teacher Learning: Insider Studies of Classroom-Based Work with Teachers. Craft Paper 94-1. National Center for Research on Teacher Learning. https://eric.ed.gov/?id=ED377169

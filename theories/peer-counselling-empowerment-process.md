@@ -40,7 +40,9 @@ The paper defines peer counselling empowerment as "a process that relates the me
 - 
 
 ## Related Theories
-- 
+
+- [Empowerment in counselling defined as a five-part process of awareness, skill and capacity, exercise, non-infringement, and support for others' empowerment](empowerment-five-component-definition-counselling.md)
+- [McWhirter's four-requirement empowerment model as a framework for adventure therapy programs](mcwhirter-four-requirement-empowerment-model.md)
 
 ## Examples
 -

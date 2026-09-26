@@ -37,7 +37,8 @@ The report prescribes an ordered procedure for schools integrating digital conte
 - achieving educational objectives and performance standards through digital content
 
 ## Related Strategies
-- 
+
+- [Summative Assessment to Measure Learning Over Time](summative_assessment_to_measure_learning_over_time.md)
 
 ## Examples
 -

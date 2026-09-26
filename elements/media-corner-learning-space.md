@@ -40,7 +40,9 @@ A prepared open classroom space equipped with multimedia tools and learning aids
 - 
 
 ## Examples
--
+
+- [Spaces that Foster Creativity](../strategies/spaces_that_foster_creativity.md)
+- [Act as a learning supporter during multimedia production](../strategies/teacher-learning-supporter-strategy.md)
 
 ## Key Sources
 - Tanaka. (1997). Multimedia learning and cross-curricular learning. https://eric.ed.gov/?id=EJ545678

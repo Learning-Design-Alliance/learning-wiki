@@ -41,10 +41,13 @@ This pattern holds that academic debate can serve as a laboratory for studying a
 - Defending Consistent Positions Improves Advocacy [+W]
 
 ## Related Patterns
-- 
+
+- [Debate Format](debate-format.md)
+- [Structured Academic Controversy (SAC)](structured-academic-controversy-sac.md)
 
 ## Examples
--
+
+- [Require consistent advocacy in debate activities: bar or discourage conditional arguments](../strategies/require-consistent-advocacy-in-debate.md)
 
 ## Key Sources
 - Herbeck. (1990). The Case against Conditional Argumentation. https://eric.ed.gov/?id=ED322540

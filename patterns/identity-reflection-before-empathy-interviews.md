@@ -43,7 +43,8 @@ Steps 0 and 1 of the exercise turn the teacher's gaze inward before any student 
 - 
 
 ## Examples
--
+
+- [Close the empathy exercise by reflecting on surprises, systemic oppression, and short- and long-term design goals](../strategies/empathy-exercise-reflection-and-forward-planning.md)
 
 ## Key Sources
 - Coenraad, M., Hodge, M., Ruiz, P., Mills, K., & Burke, Q. (2021). Empathy Interviews for Developing Inclusive Computing Pathways. Washington, D.C.: Center for Inclusive Innovation, Digital Promise. https://dschool.stanford.edu/resources/liberatory-design-cards

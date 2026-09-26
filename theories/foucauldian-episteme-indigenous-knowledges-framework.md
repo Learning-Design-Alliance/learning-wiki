@@ -39,10 +39,13 @@ The paper frames its pedagogy using Foucault's account of how institutions sanct
 - 
 
 ## Related Theories
-- 
+
+- [Epistemic Injustice](epistemic-injustice.md)
 
 ## Examples
--
+
+- [Embed local Indigenous knowledge and community expertise in curricula, taught by Indigenous people themselves](../principles/embed-local-indigenous-knowledge-community-experts.md)
+- [Indigenous–non-Indigenous academic collaboration grounded in trust, collegiality and un-learning of Western epistemic authority](../strategies/indigenous-non-indigenous-collaborative-pedagogy.md)
 
 ## Key Sources
 - McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous Knowledge and Collaboration at an Indigenous Centre. Journal of University Teaching and Learning Practice. https://ro.uow.edu.au/jutlp/

@@ -39,7 +39,9 @@ The review reports Barnitz's (1997) concrete recommendations for applying theory
 - vocabulary learning
 
 ## Related Strategies
-- 
+
+- [Manipulatives: Sentence Construction](manipulatives-sentence_construction.md)
+- [Manipulatives: Sentence Combining](manipulatives-sentence_combining.md)
 
 ## Examples
 -

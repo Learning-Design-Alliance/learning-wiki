@@ -41,5 +41,7 @@ Case studies of 15 first-grade students at Overstreet Elementary School, using o
 
 
 ## Related Claims
+
 - [Children's artwork and written stories offer insight into children's cognitive development and literacy development](artwork-and-stories-reveal-cognitive-development.md) — a broader claim this one bears on
 - [Concrete-operational/schematic-stage students were reading chapter books while preoperational/preschematic students were not or were nonreaders](cognitive-art-stage-alignment-predicts-chapter-book-reading.md) — a narrower finding that bears on this claim
+- [Reading scores ranged 90-100 for chapter book readers and 75-90 for non-chapter-book readers, based on informal teacher assessment](reading-scores-range-by-chapter-book-status.md)

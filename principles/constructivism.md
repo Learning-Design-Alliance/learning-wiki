@@ -47,9 +47,11 @@ Constructivism implies that learning strengthens when learners have to make sens
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S] — conceptual change can deepen when learners revise confidently held misconceptions after evidence or feedback
 
 ## Related Principles
+
 - [Explaining Their Thinking](explaining-their-thinking.md)
 - [Creating Visual Representations](creating-visual-representations.md)
 - [Error Analysis](error-analysis.md)
+- [In constructivist classrooms the teacher acts as a facilitator while learners construct, question, and integrate meaning](teacher-as-facilitator-constructivist-classroom.md)
 
 ## Examples
 - Learners explain and revise a model after seeing conflicting evidence.

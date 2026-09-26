@@ -40,7 +40,8 @@ The article presents an evaluation framework grounded in prior app-evaluation fr
 - [Teacher Workshops Validate App Evaluation Framework](../claims/teacher-workshops-validate-app-evaluation-framework.md) [+M]
 
 ## Related Theories
-- 
+
+- [Taxonomy of mobile apps for language learning: three groups plus a separate dictionaries/translators category](rosell-aguilar-app-taxonomy-language-learning.md)
 
 ## Examples
 -

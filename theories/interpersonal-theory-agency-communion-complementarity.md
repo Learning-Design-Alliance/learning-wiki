@@ -40,7 +40,9 @@ The article uses interpersonal theory (Kiesler, 1996) to map interpersonal behav
 - [Refraining From Complementarity Hypothesis Not Confirmed](../claims/refraining-from-complementarity-hypothesis-not-confirmed.md) [~M]
 
 ## Related Theories
-- 
+
+- [Agency/communion as figure/ground rather than polarity](agency-communion-figure-ground-framework.md)
+- [Interpersonal styles equated with generalized expectancies in social learning theory](interpersonal-styles-as-generalized-expectancies.md)
 
 ## Examples
 -

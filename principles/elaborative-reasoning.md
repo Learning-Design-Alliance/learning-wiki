@@ -68,6 +68,9 @@ Elaboration works because it changes how information is encoded and organized. A
 
 ## Examples
 
+- [Directly teach students when, why, and how to elaborate on new information](../strategies/directly-teach-elaborative-processing-strategies.md)
+- [Use elaborative interrogation (answering why a fact is true) as a low-resource strategy for science content that conflicts with student misconceptions](../strategies/elaborative-interrogation-minimal-resource-adjunct.md)
+
 ### Validated
 - [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M] — Schwartz & Bransford's (1998) "time for telling" studies showed that learners who first compared and elaborated on contrasting cases of bird-adaptation data learned far more from a subsequent lecture than lecture-only controls.
 

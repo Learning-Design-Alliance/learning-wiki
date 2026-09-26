@@ -25,7 +25,7 @@ sources:
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 8 studies, `q2`–`q4` · 7 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Using multiple methods of assessment means gathering evidence of learning through more than one type of task, representation, or performance. Instead of relying on a single assessment mode to stand in for all understanding, instructors use a mix of written, oral, visual, practical, performance-based, or reflective evidence to build a more credible picture of learner progress. The main value is not variety for its own sake, but better alignment between what is being assessed, how competence is expressed, and how different learners can show what they know.
@@ -78,10 +78,12 @@ Multiple methods of assessment improve judgment when one format alone would unde
 - [Creating Visual Representations](creating-visual-representations.md) — visual forms of evidence can complement written or oral assessment.
 
 ## Examples
+
 - **Mixed evidence portfolios**: Learners submit written work, reflections, performances, and artifacts to demonstrate growth.
 - **Choice of demonstration format**: Learners can show understanding through presentation, written analysis, or multimedia artifact using a common rubric.
 - **Performance plus reflection**: An authentic task is paired with a brief explanation of decisions and learning.
 - **Peer, self, and instructor assessment combination**: Different viewpoints are combined to improve the evidence picture.
+- [Type 2 checklist assessment: tasks coded to each first-grade critical objective for teacher judgment of progress](../elements/type2-checklist-competency-assessment.md)
 
 ## Key Sources
 - Andrade, H. L., & Brookhart, S. M. (2020). Classroom assessment as the co-regulation of learning. *Assessment in Education: Principles, Policy & Practice, 27*(4), 350-372. [https://doi.org/10.1080/0969594X.2019.1571992](https://doi.org/10.1080/0969594X.2019.1571992)

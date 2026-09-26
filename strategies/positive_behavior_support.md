@@ -12,7 +12,7 @@ generated:
 # Positive Behavior Support
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 3 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Positive Behavior Support (PBS, often implemented as Schoolwide Positive Behavior Interventions and Supports, PBIS) is a proactive framework that reduces problem behavior by (a) defining and explicitly teaching behavioral expectations, (b) reinforcing them consistently, and (c) using functional behavioral assessment to understand what problem behavior accomplishes for the student and replacing it with functionally equivalent, appropriate behavior. It operates at three tiers: universal supports for all students, targeted group supports for some, and individualized intensive supports for a few.
@@ -60,10 +60,12 @@ PBS treats behavior as a learned, communicative act shaped by its environment, a
 6. Monitor implementation fidelity and outcome data (referrals, attendance, climate surveys) at least quarterly and adjust.
 
 ## Related Strategies
+
 - [Classroom Management](classroom-management.md) — the classroom-level enactment of PBS principles
 - [Check-In/Check-Out](check-in-check-out.md) — the most widely used Tier 2 PBS support
 - [Restorative Practices](restorative-practices.md) — an alternative/complementary response to harm that replaces exclusionary discipline
 - [Social-Emotional Learning](../patterns/social-emotional-learning.md) — teaches the underlying skills PBS expects students to display
+- [Implement clear, consistently enforced rules and routines, including a uniform schoolwide discipline plan](posted-observable-rules-and-consistent-discipline-implementation.md)
 
 ## Examples
 - **[PBIS](https://www.pbis.org)** — the OSEP-funded national technical assistance center; provides the standard Tier 1–3 implementation guides used in over 25,000 U.S. schools.

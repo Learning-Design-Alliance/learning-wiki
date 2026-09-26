@@ -37,7 +37,10 @@ After a well-crafted prompt, the paper recommends a rubric or checklist as the s
 - 21st century skills (creativity, collaboration, critical thinking, communication) and content-specific learning targets
 
 ## Related Strategies
-- 
+
+- [Rubrics](rubrics.md)
+- [Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time](student-owned-portfolios-maker-assessment.md)
+- [Use open-ended reflection questions as self-assessment in place of end-of-unit tests](open-ended-reflection-maker-self-assessment.md)
 
 ## Examples
 -

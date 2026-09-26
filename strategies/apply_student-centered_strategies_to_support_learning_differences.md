@@ -12,7 +12,7 @@ generated:
 # Apply Student-Centered Strategies to Support Learning Differences
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 against) · 7 studies, `q1`–`q4` · 6 of 7 report an effect size
 
 ## Description
 This strategy involves building a data-driven, student-centered plan and then implementing specific instructional strategies matched to a selected student's learning differences — both strengths and challenges. It moves from assessment data (formal or informal) to a hypothesis about what the student needs, selects strategies accordingly, and monitors whether the strategies actually change learning.

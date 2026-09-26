@@ -39,10 +39,13 @@ The digest describes the behaviorist model derived from Skinner's operant condit
 - 
 
 ## Related Theories
-- 
+
+- [Behaviorism](behaviorism.md)
+- [Gagne's nine Events of Instruction as a lesson-design schema](gagne-nine-events-of-instruction-schema.md)
 
 ## Examples
--
+
+- [Positive Reinforcement Schedules](../strategies/positive-reinforcement-schedules.md)
 
 ## Key Sources
 - Molenda, Michael. (2002). A New Framework for Teaching in the Cognitive Domain. ERIC Digest. https://eric.ed.gov/?id=ED470983

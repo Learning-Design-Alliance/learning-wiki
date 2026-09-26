@@ -42,7 +42,8 @@ The document enumerates concrete state policy actions organized in three section
 - [Talent Development Framework Three Sections](../theories/talent-development-framework-three-sections.md)
 
 ## Related Strategies
-- 
+
+- [CEO Forum recommendations: prepare and certify teachers for technology integration across pre-service, licensure, and in-service career stages](ceoforum-teacher-tech-integration-recommendations.md)
 
 ## Examples
 -

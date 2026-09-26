@@ -45,7 +45,8 @@ In the BRT-guided studio, the instructor's role shifts from lecturing to guiding
 - 
 
 ## Examples
--
+
+- [Use discipline-specific clues as design problems to foster analyze and evaluate steps](../strategies/discipline-clues-as-design-problems.md)
 
 ## Key Sources
 - Sözen, G., & Özen-Yavuz, A. (2024). Proposing a course schedule for architectural basic design studio guided by Bloom's Revised Taxonomy. Turkish Journal of Education, 13(4), 379-409. https://doi.org/10.19128/turje.1495965

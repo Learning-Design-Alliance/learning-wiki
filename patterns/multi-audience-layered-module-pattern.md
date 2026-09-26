@@ -17,7 +17,7 @@ sources:
 # Multi-audience interactive module pattern: layered explanatory text plus parameter-adjustable simulation
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The student modules share a reusable design: an interactive simulation whose physical parameters users can adjust, accompanied by explanatory text layered for different audiences. In the Ting module, "two versions of the detailed explanatory text ... are available for diﬀerent audiences, 1) the general public and 2) undergraduate and graduate students in astronomy." This supports inquiry-based exploration by individuals, group classroom discussion, and use by researchers, with hyperlinks to more advanced material for higher-level learners.
@@ -39,7 +39,8 @@ The student modules share a reusable design: an interactive simulation whose phy
 - astrophysics concepts such as the Lyman Alpha forest, interstellar medium, molecular clouds, and shocks
 
 ### Claims
-- 
+
+- [The multimedia learning module advantage over the textbook persists on a retention test administered two weeks after the lessons](../claims/mlm-retention-advantage-two-weeks.md) [+M]
 
 ## Related Patterns
 - 

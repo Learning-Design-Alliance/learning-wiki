@@ -41,7 +41,8 @@ The article adopts Shaffer and Resnick's (1999) framework of thick authenticity,
 - [Studio Authentic Motivation Beyond Grades](../claims/studio-authentic-motivation-beyond-grades.md) [+M]
 
 ## Related Theories
-- 
+
+- [Learning theories frame interdisciplinary discovery in the studio](learning-theories-interdisciplinary-discovery-studio.md)
 
 ## Examples
 -

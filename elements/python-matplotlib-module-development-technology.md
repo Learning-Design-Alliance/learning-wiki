@@ -39,10 +39,14 @@ Python is an interpreted language typically used for desktop applications or ser
 - radio spectra interpretation
 
 ## Related Elements
-- 
+
+- [JavaScript with the d3.js library as a web-native module-development technology](javascript-d3-module-development-technology.md)
+- [Wolfram Computable Document Format as a module-development technology](wolfram-cdf-module-development-technology.md)
+- [WorldWide Telescope as a module-development technology requiring the least technical experience](wwt-module-development-technology.md)
 
 ## Examples
--
+
+- [Instructor recommendations for running a module-development course project](../strategies/module-development-course-recommendations.md)
 
 ## Key Sources
 - Nathan E. Sanders, Chris Faesi, Alyssa A. Goodman. (2013). A New Approach to Developing Interactive Software Modules through Graduate Education. https://arxiv.org/abs/1308.1908

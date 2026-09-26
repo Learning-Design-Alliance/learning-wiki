@@ -48,12 +48,14 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 ## Claims
 
 ## Related Theories
+
 - [Social Learning Theory](social-learning-theory.md) — self-efficacy is Bandura's own theoretical extension, adding a cognitive, belief-based mediator to observational learning
 - [Self-Determination Theory](self-determination-theory.md) — both treat perceived competence as central to motivation, though SDT frames it as one of three basic psychological needs (alongside autonomy and relatedness) rather than a task-specific belief
 - [Self-Regulated Learning](self-regulated-learning.md) — self-efficacy beliefs shape whether a learner persists with self-regulatory strategies after an initial setback
 - [Expectancy-Value Theory](expectancy-value-theory.md) — shares the "expectancy" component but frames it as domain-general rather than task-specific
 - [ARCS Model of Motivational Design](arcs-model.md) — the Confidence category is a direct, practitioner-facing operationalization of self-efficacy-building tactics
 - [Locus of Control](locus-of-control.md) — a related but distinct cognitive factor: self-efficacy is belief in one's own task-specific ability, while locus of control is a broader belief about whether outcomes generally are controlled by one's own effort or by external forces
+- [Bandura's social learning theory: four fundamental requirements for people to learn and model behavior](bandura-four-requirements-learn-model-behavior.md)
 
 ## Examples
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)

@@ -40,7 +40,8 @@ The article directs recommendations at four stakeholder groups. University leade
 - civic or citizenship competence
 
 ## Related Strategies
-- 
+
+- [Methodological orientations and strategies for professors to promote integrated learning of civic competence](il-methodological-orientations-strategies.md)
 
 ## Examples
 -

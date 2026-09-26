@@ -62,9 +62,11 @@ Collaborative reflection works because it combines external perspective with soc
 6. Revisit the focus after several weeks to examine the effect of the change, ideally using student work as evidence
 
 ## Related Strategies
+
 - [Lesson Study](../strategies/lesson-study.md) — the most formalized version of collaborative reflection, built around a jointly planned research lesson
 - [Professional Learning Communities](../strategies/professional-learning-communities.md) — the ongoing team structure within which peer reflection typically lives
 - [Instructional Coaching](../strategies/instructional-coaching.md) — replaces the reciprocal peer with an expert partner
+- [New teachers should diagnose problem areas with reflection, mentoring, self-assessment, observation of experts, and video review](new-teacher-management-problem-identification-strategy.md)
 
 ## Examples
 - **Lesson study in Japan and the U.S.** — Teams of teachers jointly plan a "research lesson," observe it live while collecting data on student thinking, then revise and reteach it in another class. Documented in the U.S. via the Mills College Lesson Study Group ([lessonresearch.net](https://www.lessonresearch.net)).

@@ -62,9 +62,11 @@ Struggle is only productive when learners sustain engagement with it; interpreti
 6. **Align assessment.** Use revision, resubmission, or mastery-based grading so early errors carry no lasting penalty; otherwise the framing is contradicted by the gradebook.
 
 ## Related Strategies
+
 - [Productive failure](productive-failure.md) — the instructional sequence that operationalizes normalized struggle for conceptual learning
 - [Mastery-oriented feedback](mastery-oriented-feedback.md) — the feedback companion that makes normalization actionable
 - [Low-stakes quizzing](low-stakes-quizzing.md) — assessment design that decouples errors from consequences
+- [Use indirect correction and self-correction to avoid face-threatening error treatment](indirect-error-correction-self-correction.md)
 
 ## Examples
 - **Kapur's Productive Failure lessons (Singapore)** — students attempt complex statistics problems in groups before instruction; their failed solutions are then compared to canonical methods, with struggle explicitly framed as preparation for learning ([Kapur, 2008](https://doi.org/10.1080/07370000802212669)).

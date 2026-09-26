@@ -12,7 +12,7 @@ generated:
 # Learning Clubs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 5 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 4 of 7 report an effect size
 
 ## Description
 Learning clubs are a grouping system used to organize active learning events around student-selected areas of interest. Guided by the teacher, students select content-area topics and draw on multiple texts — websites, printed material, video, and music — to investigate their topics. Students then share their learning using similar media, such as learning blogs, giving the club a genuine audience and purpose.
@@ -61,9 +61,11 @@ Learning clubs combine two well-supported levers: autonomy through topic choice 
 6. **Reflect and assess.** Use shared rubrics on individual contributions (posts, logs) plus observation of collaboration.
 
 ## Related Strategies
+
 - [Jigsaw](jigsaw.md) — a structure that adds individual accountability to club-style grouping
 - [Literature Circles](literature-circles.md) — the reading-focused ancestor of learning clubs
 - [Project-Based Learning](project-based-learning.md) — clubs can serve as the collaborative unit within a longer project
+- [Use Student-Written Texts in Literacy Instruction](use-student-written-texts-in-literacy-instruction.md)
 
 ## Examples
 - Middle school students each chose a topic, investigated it using a teacher-curated set of websites, print, video, and music, and shared their learning on a class blog incorporating text, images, links, and other multimedia.

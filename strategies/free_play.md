@@ -12,7 +12,7 @@ generated:
 # Free Play
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q4` · 5 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 4 of 7 report an effect size
 
 ## Description
 Free play is a child-led activity in which learners explore and develop skills through self-directed interactions with their environment, materials, and peers. The learner chooses the activity, its goals, and its course; the adult's role is to provide a safe, resource-rich setting and to observe, support, and occasionally extend the play without taking over its direction. Free play differs from [Guided Play](guided-play.md) and direct instruction in that learning goals emerge from the child's activity rather than being imposed in advance.
@@ -58,9 +58,11 @@ Free play builds agency and intrinsic motivation by giving learners control over
 5. Consolidate afterward: use [Peer Discussion](../elements/peer-discussion.md) or [Individual Reflection](../elements/individual-reflection.md) to help children narrate and consolidate what they did and learned, connecting play to [Application](../elements/application.md) of ideas in new contexts.
 
 ## Related Strategies
+
 - [Guided Play](guided-play.md) — the intermediate point on the child-direction continuum, where adults design the play context toward curricular goals
 - [Learning Through Play](learning-through-play.md) — the broader family of play-based pedagogies
 - [Cooperative Learning](cooperative-learning.md) — structures the social interaction that free play develops informally
+- [Resist policies that reduce time for social pretend play in preschool and primary grades](resist-policies-reducing-social-pretend-play-time.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — free play provides repeated, self-initiated practice of emerging skills in varied contexts

@@ -39,10 +39,12 @@ Zone Notebooks are learner-maintained journals built into the curriculum. "Scatt
 - communication of learning to others
 
 ## Related Elements
-- 
+
+- [Holding onto the GREEN Zone curriculum: an Earth Science riparian education program for grades 5-8](holding-onto-green-zone-curriculum.md)
 
 ## Examples
--
+
+- [Assess youth learning through journals, observation, discussion, and applied reflection products](../strategies/journal-observation-assessment-reflection.md)
 
 ## Key Sources
 - Reilly, K., Wooster, B., Andrews, E., Bourdeau, V., Conley, R., & Thompson, M. (2008). Holding onto the GREEN Zone Leader Guide: A Youth Program for the Study and Stewardship of Community Riparian Areas. Bureau of Land Management. https://www.blm.gov/education

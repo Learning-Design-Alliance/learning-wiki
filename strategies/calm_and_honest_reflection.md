@@ -61,9 +61,11 @@ Reflection converts raw emotional experience into usable insight, but only when 
 7. **Commit to a process goal.** End with one concrete adjustment for next time, framed as a process rather than an outcome [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M].
 
 ## Related Strategies
+
 - [Activities for Student Self-Reflection](activities_for_student_self-reflection.md) — the broader family of reflection practices this strategy specializes for post-mistake situations
 - [Active Listening](active_listening.md) — the conversational skill that makes mentor- or peer-mediated reflection productive
 - [Action Planning](action_planning.md) — the natural follow-on that converts reflection into committed next steps
+- [Use a seven-perspective reflective heuristic (locus, process, politics, metaphor, history, existence, systems) to respond to professional conflict](seven-perspective-conflict-heuristics-wpa.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — a coach can supply the outside perspective and prompts that guard against self-serving reflection

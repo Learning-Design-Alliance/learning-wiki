@@ -45,7 +45,8 @@ El artículo propone la enseñanza-aprendizaje por investigación, en la que los
 - 
 
 ## Examples
--
+
+- [Secuencia de cinco actividades que va del problema cotidiano a la construcción de un instrumento de medición](../patterns/five-activity-shadow-to-sundial-sequence.md)
 
 ## Key Sources
 - Gangui, Alejandro; Iglesias, María C.; Quinteros, Cynthia P. (2009). El movimiento de las sombras: Una propuesta de trabajo para la escuela secundaria. Ciencia Hoy. https://cms.iafe.uba.ar/gangui

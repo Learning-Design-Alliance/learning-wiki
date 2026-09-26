@@ -12,7 +12,7 @@ generated:
 # Make the Invisible Visible (Power Dynamics)
 
 > **Design Method** · [All design methods](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 4 of 5 report an effect size
 
 ## Description
 This strategy brings power dynamics to the forefront of learning design by naming them rather than leaving them tacit. It asks designers to make explicit who holds decision-making authority at each stage, and to choose deliberately among design postures along a continuum of shared power: user-centered design (designers consult users), co-design (stakeholders join the design team as partners), and user-created design (learners hold genuine authority over decisions). The strategy also employs structured observation tools to assess how a learning environment affirms or minimizes student identities. The goal is equitable design: challenging unexamined assumptions about who belongs, who decides, and whose expertise counts.

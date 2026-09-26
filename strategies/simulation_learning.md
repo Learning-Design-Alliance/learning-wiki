@@ -12,7 +12,7 @@ generated:
 # Simulation Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 15 studies, `q3`–`q4` · 9 of 15 report an effect size
+> **Evidence** · 6 claims (5 for, 1 mixed) · 15 studies, `q1`–`q4` · 8 of 15 report an effect size
 
 ## Description
 Simulation learning places learners inside a simplified, interactive model of a real-world system, event, or role, where their decisions produce observable consequences without real-world stakes. Learners take on assigned roles, act within the simulation's rules, and then examine what happened — learning as much from peers' moves and the debriefing as from the instructor. Effective simulations follow a three-phase arc: preparation, active participation, and structured debriefing that connects the experience to course goals.
@@ -61,9 +61,11 @@ Simulations work because they make learners generate decisions and experience th
 5. **Consolidate and assess.** Connect the experience to the abstract principle; assess via reflection papers, position analyses, or transfer tasks ([Assessment](../elements/assessment.md)).
 
 ## Related Strategies
+
 - [Case-Based Learning](case-based-learning.md) — a lower-fidelity cousin: learners analyze a fixed case rather than acting inside a live scenario
 - [Role-Play](acting-role-play.md) — the interpersonal subset of simulation, focused on perspective adoption rather than system dynamics
 - [Debate](debate.md) — structured adversarial role-taking without a simulated outcome system
+- [Use experiential intercultural training methods such as simulations, role-playing and critical incidents to encounter perceptual and value differences](experiential-intercultural-training-methods.md)
 
 ## Related Elements
 - [Problem Scenario](../elements/problem-scenario.md) — the scenario frame that defines goals, constraints, and feedback

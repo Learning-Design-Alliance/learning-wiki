@@ -38,7 +38,8 @@ For building local planning capability, the report recommends that "Emphasis sho
 - reservation planning and development skills
 
 ## Related Strategies
-- 
+
+- [Establish continuing one-to-one specialist relationships so expert skills transfer to the tribe](continuing-one-to-one-specialist-skill-transfer.md)
 
 ## Examples
 -

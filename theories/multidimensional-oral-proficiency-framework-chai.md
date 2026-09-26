@@ -39,10 +39,13 @@ The article operationalizes spoken competence as a set of distinct but interrela
 - [Cnn Lstm Multitask Oral Diagnostic Accuracy](../claims/cnn-lstm-multitask-oral-diagnostic-accuracy.md) [+M]
 
 ## Related Theories
-- 
+
+- [Canale and Swain's integrative framework of communicative competence: grammatical, sociolinguistic, and discourse components](canale-swain-communicative-competence-framework.md)
 
 ## Examples
--
+
+- [DepEd-aligned assessment and evaluation tools measuring linguistic accuracy, cultural awareness, communication, and collaboration](../elements/dl2f-deped-aligned-assessment-tools.md)
+- [Four-layer system architecture for intelligent oral diagnosis and adaptive training](../elements/four-layer-oral-diagnosis-system-architecture.md)
 
 ## Key Sources
 - Chai Rui. (2026). Deep learning-based intelligent diagnosis and adaptive training system for university english oral proficiency. Scientific Reports. https://doi.org/10.1038/s41598-026-51608-6

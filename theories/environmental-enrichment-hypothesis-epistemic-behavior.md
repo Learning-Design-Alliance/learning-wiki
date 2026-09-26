@@ -16,7 +16,7 @@ sources:
 # Environmental enrichment hypothesis as an account of how cognitive ability and curiosity translate into knowledge attainment
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 against) · 1 study, `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (2 for, 2 mixed, 2 against) · 1 study, `q3` · 1 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The environmental enrichment hypothesis holds that engagement in epistemic behaviors enriches the environment, "thus providing more opportunity for the acquisition of knowledge". In this article it is combined with the differential preservation hypothesis and tested by asking whether epistemic behavior — cognitively challenging behavior at work or leisure such as reading, thinking, or learning — mediates the relations of cognitive ability and curiosity with academic grades. The five-year longitudinal mediation study found no support for the hypothesis for either predictor.
@@ -36,7 +36,13 @@ The environmental enrichment hypothesis holds that engagement in epistemic behav
 - knowledge acquisition and academic performance as outcomes of cognitive ability and curiosity
 
 ### Claims
+
 - [Epistemic Behavior Fails To Mediate Academic Performance](../claims/epistemic-behavior-fails-to-mediate-academic-performance.md) [-M]
+- [Cognitive ability and curiosity are positively correlated in young adults](../claims/cognitive-ability-curiosity-positive-correlation.md) [+W]
+- [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [~W]
+- [Epistemic behavior relates to curiosity but not to cognitive ability](../claims/epistemic-behavior-relates-curiosity-not-cognitive-ability.md) [~W]
+- [Exploratory: leisure epistemic behavior mediates the relation of cognitive ability with tertiary academic performance, with a very small effect](../claims/leisure-epistemic-behavior-exploratory-mediation-tertiary.md) [+W]
+- [Neither cognitive ability, curiosity, nor epistemic behavior significantly predicts tertiary academic performance in the heterogeneous sample](../claims/no-significant-predictors-tertiary-gpa.md) [-W]
 
 ## Related Theories
 - 

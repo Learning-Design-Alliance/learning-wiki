@@ -12,7 +12,7 @@ generated:
 # Setting Goals
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 unmarked) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 unmarked) · 10 studies, `q1`–`q4` · 9 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Lessons have clear learning intentions with goals that clarify what success looks like. Lesson goals always explain what students need to understand and what they must be able to do. Clear goals help the teacher plan learning activities and help students understand what is required, providing a reference point against which progress can be monitored and [Assessment](../elements/assessment.md) interpreted.

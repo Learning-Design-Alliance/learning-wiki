@@ -43,7 +43,8 @@ Critical service-learning is a model that adopts a social justice framework, as 
 - [Community Partner Conflict Negatively Correlates Social Justice](../claims/community-partner-conflict-negatively-correlates-social-justice.md) [+M]
 
 ## Related Theories
-- 
+
+- [Competing conceptual models of service-learning: Butin's four perspectives and Mitchell's traditional/critical distinction](butin-mitchell-models-of-service-learning.md)
 
 ## Examples
 -

@@ -41,8 +41,10 @@ The article's four suggestions for further research. Inequality literature "can 
 - [Cultural Processes And Epistemic Injustice Explain Educational Inequality](../claims/cultural-processes-and-epistemic-injustice-explain-educational-inequality.md) [+W]
 
 ## Related Principles
+
 - [Epistemic Injustice](../theories/epistemic-injustice.md)
 - [Listen_To_The_Voices_Of_Students](../strategies/listen_to_the_voices_of_students.md)
+- [Adopt humanistic and radical approaches so adult learners develop as individuals and can question social injustice](humanistic-radical-adult-education.md)
 
 ## Examples
 -

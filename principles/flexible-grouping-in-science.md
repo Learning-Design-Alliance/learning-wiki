@@ -40,10 +40,16 @@ The digest argues that teaching is far too complex for any one grouping type to 
 - 
 
 ## Related Principles
-- 
+
+- [Make Science Teaching Activity-Centered, with Pupils Learning by Doing](activity-centered-science-teaching.md)
 
 ## Examples
--
+
+- [Use Flexible Discussion Groups for Science Content Analysis](../strategies/flexible-discussion-groups-in-science.md)
+- [Group Pupils During Science Experiments and Demonstrations](../strategies/grouping-for-science-experiments-and-demonstrations.md)
+- [Use Heterogeneous Groups for Projects and Homogeneous Groups for Skill Achievement](../strategies/heterogeneous-grouping-for-science-projects.md)
+- [Form Interest Groups and Strengths-Based Groups in Science](../strategies/interest-based-grouping-in-science.md)
+- [Set Up Learning Centers with More Tasks Than Any One Pupil Can Complete](../strategies/learning-centers-in-science-classrooms.md)
 
 ## Key Sources
 - Grouping for Instruction in Teaching Science (ERIC Digest). (1989). ERIC Digest. https://eric.ed.gov

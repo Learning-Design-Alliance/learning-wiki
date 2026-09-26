@@ -60,9 +60,11 @@ Multiple representations work because they distribute information across verbal 
 6. Offer format choice where feasible ([Choice Boards](../elements/choice-boards.md)) and check that each option leads to the same learning goal.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — representation only works if learners can connect it to existing knowledge
 - [Chunking Text](../strategies/chunking-text.md) — a load-management companion to multi-format presentation
 - [Use Worked Examples](../strategies/use_worked_examples.md) — a representation format that models both outcome and reasoning
+- [Act as a learning supporter during multimedia production](teacher-learning-supporter-strategy.md)
 
 ## Examples
 - **[CAST UDL Guidelines](https://udlguidelines.cast.org)** — the source framework for this strategy, with representation checkpoints for perception, language, and comprehension.

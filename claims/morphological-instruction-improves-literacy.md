@@ -35,7 +35,7 @@ Explicit teaching of morphemes (roots, prefixes, suffixes) and how they combine 
 
 `q3 i2` A meta-analysis of 30 studies (92 effect sizes) finds a moderate overall benefit of morphological instruction on literacy outcomes, with the largest gains for decoding and morphological knowledge but no reliable effect on reading comprehension or fluency. [→ Goodwin Ahn 2013](#goodwin-ahn-2013)
 
-`q3 i?` A systematic review of 22 studies (preschool–grade 8) concludes morphological instruction benefits learners overall, with particular benefit for less-able readers and for younger students, and larger effects when combined with other literacy instruction. [→ Bowers Kirby Deacon 2010](#bowers-kirby-deacon-2010)
+`q3 i?` A meta-analysis of 22 studies (preschool–grade 8) concludes morphological instruction benefits learners overall, with particular benefit for less-able readers, no less effect for younger than for older students, and larger effects when combined with other literacy instruction. [→ Bowers Kirby Deacon 2010](#bowers-kirby-deacon-2010)
 
 ## Evidence
 
@@ -51,9 +51,9 @@ Meta-analysis synthesizing 92 standardized mean differences from 30 independent 
 
 Bowers, P. N., Kirby, J. R., & Deacon, S. H. (2010). The Effects of Morphological Instruction on Literacy Skills. *Review of Educational Research, 80*(2), 144–179. [doi:10.3102/0034654309359353](https://doi.org/10.3102/0034654309359353)
 
-`q3 · systematic review of peer-reviewed studies` · `i? · no pooled effect size reported in what was read` · `n=22 studies (preschool–grade 8)`
+`q3 · meta-analysis of peer-reviewed studies` · `i? · no pooled effect size reported in what was read` · `n=22 studies (preschool–grade 8)`
 
-Systematic review of 22 peer-reviewed studies of morphological intervention with participants from preschool to grade 8. Instructional effects (Cohen's d) were averaged by linguistic outcome category (morphological sublexical, nonmorphological sublexical, lexical, supralexical) and by comparison group. The review concludes morphological instruction benefits learners overall, brings particular benefit to less-able readers, is no less effective for younger than older students, and is more effective when combined with other literacy instruction than delivered in isolation. Only the abstract was available to this review, so no numeric pooled effect size could be confirmed from primary text; the abstract itself reports no single pooled d.
+Meta-analysis of 22 peer-reviewed studies of morphological intervention with participants from preschool to grade 8. Instructional effects (Cohen's d) were averaged by linguistic outcome category (morphological sublexical, nonmorphological sublexical, lexical, supralexical) and by comparison group. The review concludes morphological instruction benefits learners overall, brings particular benefit to less-able readers, is no less effective for younger than older students, and is more effective when combined with other literacy instruction than delivered in isolation. Only the abstract was available to this review, so no numeric pooled effect size could be confirmed from primary text; the abstract itself reports no single pooled d.
 
 ## Discussion
 

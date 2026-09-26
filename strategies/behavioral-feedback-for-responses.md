@@ -47,8 +47,12 @@ Behavioral science distinguishes how to respond to a learner's correct versus in
 4. For learners who seem to seek attention through mistakes, deliberately shift attention toward correct responses and minimize visible attention to errors.
 
 ## Related Strategies
+
 - [Effective Presentation for Errorless Learning](effective-presentation-for-errorless-learning.md) — reduces the error rate this feedback approach is designed to respond to
 - [Least-to-Most Prompting Hierarchy](prompting-hierarchy.md) — prompts prevent errors before the response; this strategy addresses what to do once a response has been made
+- [Keep an extra unassigned spectrum (a red giant) in reserve to challenge students who finish early or reach an incorrect answer](eleventh-star-reserve-spectrum.md)
+- [Use indirect correction and self-correction to avoid face-threatening error treatment](indirect-error-correction-self-correction.md)
+- [Question students about why a correct answer was chosen, rather than why an error was made](question-correct-answers-not-errors.md)
 
 ## Examples
 

@@ -45,7 +45,8 @@ The between-student method, first used in physics by Sayre and Heckler, gives sh
 - 
 
 ## Examples
--
+
+- [Administer short weekly conceptual quizzes to rotating section subgroups to track understanding across a term](../strategies/weekly-rotating-section-quizzes.md)
 
 ## Key Sources
 - Clark, J. W., Sayre, E. C., and Franklin, S. V. (2010). Fluctuations in Student Understanding of Newton's 3rd Law. arXiv preprint. https://arxiv.org/abs/1009.0260

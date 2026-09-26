@@ -41,10 +41,14 @@ Teachers should avoid responding in ways that cause frustration: unclear or cryp
 - 
 
 ## Related Principles
-- 
+
+- [Avoid appropriating student writing; distinguish appropriation from helpful intervention](avoid-appropriating-student-writing.md)
+- [Provide positive comments alongside constructive criticism when responding to student writing](provide-positive-comments-on-student-writing.md)
+- [Involve students in the revision process as a collaborative endeavor rather than a giver-receiver relationship](involve-students-in-revision-process.md)
 
 ## Examples
--
+
+- [Hold one-on-one writing conferences to negotiate feedback and revision](../strategies/one-on-one-writing-conferences.md)
 
 ## Key Sources
 - Shvidko, Elena. (2020). Taking into Account Interpersonal Aspects of Teacher Feedback: Principles of Responding to Student Writing. Journal on Empowering Teaching Excellence, Vol. 4, Iss. 2, Article 7. https://doi.org/10.26077/936a-72f7

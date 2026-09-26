@@ -45,7 +45,8 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Onto Epistemological Stewardship Ai Leadership](../theories/onto-epistemological-stewardship-ai-leadership.md)
 
 ## Related Strategies
-- 
+
+- [Sustain a faculty community of practice for creative problem-solving pedagogy](monthly-faculty-meetings-creative-pedagogy-development.md)
 
 ## Examples
 -

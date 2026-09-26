@@ -40,7 +40,8 @@ Students explore free interactive simulations before or during class, then submi
 - [Six Category Curiosity Question Taxonomy](../theories/six-category-curiosity-question-taxonomy.md)
 
 ## Related Strategies
-- 
+
+- [Simulations + Structured Activity](simulations-structured-activity.md)
 
 ## Examples
 -

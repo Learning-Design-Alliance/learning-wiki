@@ -16,7 +16,7 @@ sources:
 # Symbol systems framework: symbols, symbol systems, and symbolic products
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The review organizes its analysis with Gardner's distinction between symbols, symbol systems, and symbolic products. A symbol is any entity that can denote another entity; a symbol system is a set of symbols plus rules for combining them, with Salomon's added requirement of "correspondence to a field of reference" that gives the symbols meaning. Achievement tests are characterized as symbolic products whose adequacy for estimating knowledge the review examines. The review also surveys classifications (Gross's five modes; Hooper's mathematics taxonomy) and dimensions such as resemblance and notationality.
@@ -36,10 +36,14 @@ The review organizes its analysis with Gardner's distinction between symbols, sy
 - subject-matter knowledge and problem solving in domains such as science and mathematics
 
 ### Claims
-- 
+
+- [People acquire different knowledge from different media, the closest indirect evidence for symbolic encoding specificity](../claims/different-media-yield-different-knowledge-encoding.md) [+M]
+- [Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding](../claims/verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) [+W]
+- [The direct-to-vicarious and purely symbolic experience continuum remains valid while the cone's description of media is dated](../claims/cone-continuum-valid-media-description-dated.md) [+M]
 
 ## Related Theories
-- 
+
+- [Symbol system translation as a problem-solving construct](symbol-system-translation-construct.md)
 
 ## Examples
 -

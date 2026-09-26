@@ -40,10 +40,12 @@ This instructional pattern sequences four modes of engagement around one scienti
 - [Guided Inquiry Computational Model Overcomes Amplitude Misconception](../claims/guided-inquiry-computational-model-overcomes-amplitude-misconception.md) [+M]
 
 ## Related Patterns
-- 
+
+- [Laboratory combining a fundamental-constant measurement, laser physics investigation, and nontrivial statistical analysis](combined-measurement-laser-statistics-lab-pattern.md)
 
 ## Examples
--
+
+- [Audacity-based Fourier analysis activity for teaching signal processing in an authentic context](../elements/audacity-fourier-signal-processing-activity.md)
 
 ## Key Sources
 - Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720

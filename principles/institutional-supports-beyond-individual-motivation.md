@@ -46,7 +46,8 @@ The article concludes that individual agency must be complemented by structural 
 - 
 
 ## Examples
--
+
+- [Use structured professional development workshops featuring the PPH framework to build workforce confidence for pro-environmental change](../strategies/structured-pd-workshops-pph-confidence.md)
 
 ## Key Sources
 - MacKenzie‐Shalders, K. L., McCormack, J., Senior, N. M., & Barbour, L. (2026). From Beliefs to Action: Dietitians' Perspectives on Environmental Sustainability and a Pathway to Planetary Health Framework for Food System Change. Journal of Human Nutrition and Dietetics. https://doi.org/10.1111/jhn.70351

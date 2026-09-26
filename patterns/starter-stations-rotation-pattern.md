@@ -43,7 +43,8 @@ A lesson-level pattern in which students rotate in parallel through brief intera
 - 
 
 ## Related Patterns
-- 
+
+- [Rotating small-team science stations for cooperative inquiry](small-team-science-stations.md)
 
 ## Examples
 -

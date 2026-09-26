@@ -60,9 +60,11 @@ Peer coaching works because articulating feedback to a peer forces the coach to 
 6. **Apply and iterate** — the client sets a concrete adjustment for the next cycle; roles rotate so both partners experience coaching and being coached ([Collaboration](../elements/collaboration.md))
 
 ## Related Strategies
+
 - [Peer Tutoring](peer-tutoring.md) — asymmetric version where one partner holds clearly more expertise
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — structured role rotation applied to comprehension strategies
 - [Learning Communities](learning-communities.md) — the group-scale version of mutual support and accountability
+- [Foster community in counsellor education through student organizations, common space, collegial feedback, and rewards for mutual support](foster-community-counsellor-education-practices.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the general element; peer coaching removes the expert/novice asymmetry

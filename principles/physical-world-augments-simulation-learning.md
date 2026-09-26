@@ -17,7 +17,7 @@ sources:
 # Augment computer simulation learning with physical-world equipment rather than replacing it
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article argues for a balanced view in which real physical-world setups are foregrounded in situations where their strengths matter, complemented by virtual simulation. Real collision-carts equipment offers tacit 3D experience, random errors in measurement (illustrated by Tracker video analysis showing statistical fluctuations in momentum), and the conceptual significance of applying conservation of momentum to velocities just before and just after collision. As the author puts it, "Tacit 3D experience to learn through physical world collision carts setup, provides very valuable experience to students especially for performance in the real world".
@@ -38,7 +38,10 @@ The article argues for a balanced view in which real physical-world setups are f
 - applying conservation of momentum to just-before and just-after collision velocities
 
 ### Claims
-- 
+
+- [After a guided-inquiry lesson with the collision-carts simulation, students' self-reported knowledge of the physics increased and most rated the lesson enjoyable and valuable](../claims/collision-carts-simulation-lesson-positive-student-feedback.md) [+M]
+- [Some students found the guided-inquiry worksheet activities insufficiently thought-provoking and the data exchange troublesome](../claims/students-criticize-inquiry-worksheets-low-thinking.md) [~W]
+- [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](../claims/students-report-simulation-lesson-fun-and-concept-figuring.md) [+W]
 
 ## Related Principles
 - 

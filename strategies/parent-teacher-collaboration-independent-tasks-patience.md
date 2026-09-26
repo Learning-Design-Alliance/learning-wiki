@@ -37,7 +37,11 @@ The teachers' guidelines propose that parents and teachers jointly train childre
 - Working memory, inhibitory control, and independent decision-making
 
 ## Related Strategies
-- 
+
+- [Teacher practices of behavior analysis, encouraging independent decisions, and providing easy-to-use EF materials](teacher-practices-behavior-analysis-independent-decisions-materials.md)
+- [Family Engagement Supporting Children With Disabilities](family_engagement-supporting_children_with_disabilities.md)
+- [Pair AAC introduction with structured parent training, follow-up, and practical guidance for everyday routines](structured-parent-training-and-follow-up-for-aac.md)
+- [Home-Based Literacy Support](home-based_literacy_support.md)
 
 ## Examples
 -

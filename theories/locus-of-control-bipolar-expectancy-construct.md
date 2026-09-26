@@ -40,7 +40,9 @@ The article describes locus of control, following Rotter (1966), as "a generaliz
 - [Locus Of Control Fails To Discriminate Delinquents](../claims/locus-of-control-fails-to-discriminate-delinquents.md) [-M]
 
 ## Related Theories
-- 
+
+- [Interpersonal styles equated with generalized expectancies in social learning theory](interpersonal-styles-as-generalized-expectancies.md)
+- [Social learning theory expectancy framework (generalized and specific expectancies)](social-learning-expectancy-framework.md)
 
 ## Examples
 -

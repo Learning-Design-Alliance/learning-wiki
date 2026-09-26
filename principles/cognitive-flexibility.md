@@ -17,7 +17,7 @@ sources:
 # Cognitive Flexibility
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 4 studies, `q2`–`q4` · 3 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Cognitive flexibility is the principle of helping learners represent, interpret, and apply knowledge in more than one way rather than locking it into a single rigid schema. It is useful when domains are complex, case-based, or open to multiple valid perspectives.

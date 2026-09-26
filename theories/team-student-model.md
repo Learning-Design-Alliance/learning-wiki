@@ -16,7 +16,7 @@ sources:
 # TEAM Student model: a whole-school philosophy centering students and families in every school decision
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 TEAM Student is a whole-school philosophy in which staff put students and families first in every decision, meeting students where they are academically, socially, and emotionally. The article states it means "meeting students where they are academically, socially, and emotionally, and supporting them at their individual pace," with students taking ownership while teachers act as guides and mentors, and families treated as essential partners through regular communication and needs-based support.
@@ -38,7 +38,10 @@ TEAM Student is a whole-school philosophy in which staff put students and famili
 - student ownership of learning
 
 ### Claims
-- 
+
+- [Parent involvement increased for three consecutive years under family-centered engagement approaches](../claims/parent-involvement-increased-three-years.md) [+W]
+- [Out-of-school suspensions decreased 41% at a middle school implementing PBIS under the TEAM Student framework](../claims/pbis-suspensions-decreased-41-percent.md) [+W]
+- [Student mastery increased modestly from 17.5% to 19.2% during TEAM Student implementation](../claims/student-mastery-increase-team-student.md) [+W]
 
 ## Related Theories
 - 

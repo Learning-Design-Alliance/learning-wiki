@@ -37,7 +37,10 @@ Step 4 asks teachers to return to their notes and reflect on what stood out and 
 - Translating empathy interview insights into concrete design changes and equity goals
 
 ## Related Strategies
-- 
+
+- [Extend empathy interviews to students' caregivers for an additional perspective](caregiver-empathy-interview-extension.md)
+- [Observe the classroom for dissonance between what students say and what teachers see](classroom-observation-dissonance-inclusive-design.md)
+- [Conduct empathy interviews as story-based conversations in comfortable, student-chosen settings](empathy-interview-conduct-practices.md)
 
 ## Examples
 -

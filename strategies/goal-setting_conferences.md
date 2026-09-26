@@ -12,7 +12,7 @@ generated:
 # Goal Setting Conferences
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 11 studies, `q3`–`q4` · 11 of 11 report an effect size
+> **Evidence** · 5 claims (5 for) · 11 studies, `q1`–`q4` · 10 of 11 report an effect size
 
 ## Description
 A goal setting conference is a brief, structured one-on-one conversation in which a teacher and learner jointly identify a specific, attainable learning goal, agree on how progress will be evidenced, and schedule a follow-up check. The learner does most of the talking — articulating where they are, where they want to be, and what strategy they will try — while the teacher probes, refines, and records the commitment.

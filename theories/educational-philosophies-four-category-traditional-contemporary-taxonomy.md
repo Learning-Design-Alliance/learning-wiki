@@ -40,7 +40,10 @@ The article organizes educational philosophies into named categories, noting tha
 - [Critical Thinking Dispositions Not Related Traditional Philosophy](../claims/critical-thinking-dispositions-not-related-traditional-philosophy.md) [+M]
 
 ## Related Theories
-- 
+
+- [Taxonomy of five educational philosophies for adult education](educational-philosophies-taxonomy-apps.md)
+- [Taxonomy of educational philosophies: Perennialism, Essentialism, Pragmatism, Reconstructionism, and Existentialism](educational-philosophies-taxonomy-wiles-bondi.md)
+- [Traditional versus modern philosophies distinguished by who determines ends and means](traditional-modern-philosophies-ends-means.md)
 
 ## Examples
 -

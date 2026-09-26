@@ -40,7 +40,8 @@ The toolkit recommends providing summer reading camps or approved innovative sum
 - Motivation to read
 
 ## Related Strategies
-- 
+
+- [Provide parent read-at-home plans and home reading strategies for struggling readers](parent-read-at-home-plans.md)
 
 ## Examples
 -

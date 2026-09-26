@@ -42,10 +42,13 @@ ELAs are "the most fundamental class of instructional activities spawned from th
 - 
 
 ## Related Patterns
-- 
+
+- [Ten guiding precepts for school-wide languaging-oriented reading programs](lica-guiding-precepts.md)
 
 ## Examples
--
+
+- [Structured discussions that anchor new vocabulary in students' personal experience](../strategies/structured-discussion-vocabulary-anchoring.md)
+- [Prompts & Questions](../strategies/prompts-questions.md)
 
 ## Key Sources
 - Manzo, Anthony V.; Sherk, John K., Jr. (1977). Reading and "Languaging in the Content Areas" A Third Generational Approach. https://eric.ed.gov/?id=ED136190

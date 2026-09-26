@@ -37,7 +37,8 @@ As the second component of the staff development plan, during March 1998 each in
 - Sustained, faithful implementation of cooperative learning structures in adult literacy instruction
 
 ## Related Strategies
-- 
+
+- [Peer Observation](peer_observation.md)
 
 ## Examples
 -

@@ -39,7 +39,11 @@ The paper presents Vygotsky's zone of proximal development as the construct at t
 - 
 
 ## Related Theories
+
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md)
+- [Dynamic assessment and the zone of proximal development as a framework for mediator-learner interaction](dynamic-assessment-zpd-mediator-interaction.md)
+- [Real world versus pretend world activities as two distinct ZPD contexts](real-versus-pretend-world-zpd-distinction.md)
+- [Cognitive apprenticeship framework with four learning-environment dimensions](cognitive-apprenticeship-four-dimensions-framework.md)
 
 ## Examples
 -

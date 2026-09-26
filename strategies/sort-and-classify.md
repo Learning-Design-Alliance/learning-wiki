@@ -56,9 +56,11 @@ Sorting forces comparison: to decide whether two items belong together, learners
 5. Re-sort under a second criterion to show that classification depends on purpose.
 
 ## Related Strategies
+
 - [Concept Attainment](../patterns/concept-attainment.md) — the pattern version: exemplars and non-exemplars from which learners infer a concept
 - [Comparing Cases](../strategies/comparing_cases.md) — sorting is comparison scaled up to a full item set
 - [Categorization](../strategies/categorization.md) — the broader cognitive operation this strategy exercises
+- [Use carefully chosen starter images to elicit student questions that are investigable with the given materials](starter-images-elicit-investigable-questions.md)
 
 ## Examples
 - **CGI math classrooms** — students sort word problems by whether the unknown is a result, change, or start quantity, building the problem-type schemas underlying [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md).

@@ -56,17 +56,27 @@ A related developmental mechanism is **private speech**: children's habit of tal
 ## Claims
 
 ## Related Theories
+
 - [Stages of Cognitive Development](stages-of-cognitive-development.md) – stands in explicit contrast: Piaget held that development is biologically determined and precedes learning, while Vygotsky held that learning (mediated by social interaction) drives development
 - [Constructivism](constructivism.md) + shares the view of learning as active meaning-making, and draws directly on Vygotsky as a source
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) + operationalizes the "more capable other" and modeling/coaching/fading structure implied by the ZPD
 - [Situated Learning](situated-learning.md) + shares the emphasis on learning as inseparable from social and cultural context
 - [Social Learning Theory](social-learning-theory.md) ~ both treat observation of and interaction with others as central, but Bandura's account is individually mediated (attention, retention, motivation) rather than developmental
+- [Bruner's account: language acquisition as necessity for thinking and the highest levels of cognitive development](bruner-language-acquisition-cognitive-development.md)
+- [Co-constructionism requires an active individual, an active environment, and culture](co-constructionism-active-individual-environment-culture.md)
+- [Dynamic assessment and the zone of proximal development as a framework for mediator-learner interaction](dynamic-assessment-zpd-mediator-interaction.md)
+- [Real world versus pretend world activities as two distinct ZPD contexts](real-versus-pretend-world-zpd-distinction.md)
+- [Vygotsky's social constructivism: psychological phenomena emerge from social interaction](social-constructivism-vygotsky-social-interaction.md)
+- [Cognitive apprenticeship framework with four learning-environment dimensions](cognitive-apprenticeship-four-dimensions-framework.md)
+- [Guided participation and traditional apprenticeship as core CA concepts](guided-participation-and-traditional-apprenticeship-concepts.md)
 
 ## Examples
+
 - [Scaffolding and Fading](../principles/scaffolding-and-fading.md)
 - [Communities of Practice](../principles/communities-of-practice.md)
 - [Collaborative Learning](../principles/collaborative-learning.md)
 - [Problem-based Learning](../principles/problem-based-learning.md)
+- [Make collaboration paramount in pedagogy because humanity is intrinsically collective](../principles/collaboration-paramount-pedagogy-collectivity.md)
 
 ## Key Sources
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.

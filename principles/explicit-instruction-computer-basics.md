@@ -87,11 +87,13 @@ Explicit instruction in computer basics is often necessary because many foundati
 - [Scaffolding and Fading](scaffolding-and-fading.md) — support should narrow as competence develops
 
 ## Examples
+
 <!-- Links to elements or patterns that apply this principle -->
 - [Address Digital Literacy](../strategies/address_digital_literacy.md) — introduces basic digital tools and terminology explicitly
 - Browser and email onboarding with modeled steps, guided repetition, and immediate troubleshooting
 - File-management mini-lessons tied to real tasks such as uploading assignments or attaching documents
 - Small-group digital-skills labs where learners practice the same routine repeatedly with support nearby
+- [Support digital inclusion through onboarding processes, device lending and technical support when deploying digital learning programmes with older adults](../strategies/digital-inclusion-onboarding-device-lending.md)
 
 ## Key Sources
 - Chaffin, A. J., & Harlow, S. D. (2005). Cognitive learning applied to older adult learners and technology. *Educational Gerontology, 31*(4), 301-329. [doi:10.1080/03601270590916803](https://doi.org/10.1080/03601270590916803)

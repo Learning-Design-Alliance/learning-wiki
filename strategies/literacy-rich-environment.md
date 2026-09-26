@@ -62,9 +62,11 @@ Exposure to print and rich language input is one of the strongest environmental 
 6. Extend access beyond the classroom with take-home books, [audiobooks](../elements/audiobooks.md), and digital libraries
 
 ## Related Strategies
+
 - [Read-Alouds / Shared Reading] — the primary mediation practice that converts passive print exposure into language learning
 - [Independent Reading] — the learner-driven use of the environment that builds volume and fluency
 - [Word Walls and Environmental Print] — curated reference displays that support automatic word recognition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- [Encourage cognition and literacy by providing varied reading, writing, and drawing materials and building environmental awareness](varied-materials-and-environmental-awareness-encourage-literacy.md)
 
 ## Examples
 - **[Reading Recovery](https://readingrecovery.org)** — pairs a print-rich intervention setting with intensive one-to-one mediation for struggling first-grade readers.

@@ -56,9 +56,11 @@ Counting All embodies the developmental progression documented in [Cognitively G
 5. As learners become fluent, increase numbers or hide one set to create pressure toward more efficient strategies, following the progression in [Develop Understanding](../patterns/develop-understanding.md).
 
 ## Related Strategies
+
 - [Counting On](counting-on.md) — the developmental successor; starts from one addend instead of 1
 - [Derived Facts](derived-facts.md) — the strategy that eventually replaces counting entirely
 - [Concrete-Representational-Abstract](concrete-representational-abstract.md) — the instructional sequence that moves learners from counters to symbols
+- [Encourage children to model and discuss multiple solution strategies for number problems instead of hunting for clue words](multiple-strategies-modeling-problems.md)
 
 ## Examples
 - **Cognitively Guided Instruction classrooms** — Teachers diagnose each child's strategy (counting all vs. counting on) from problem-solving interviews and sequence word problems to prompt strategy advancement (see [CGI for Math](../patterns/cgi-for-math.md)).

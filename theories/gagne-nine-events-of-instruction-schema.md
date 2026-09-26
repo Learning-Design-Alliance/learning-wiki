@@ -39,10 +39,13 @@ The digest presents Robert Gagne's Events of Instruction as the dominant framewo
 - 
 
 ## Related Theories
-- 
+
+- [Merrill's First Principles of Instruction: four phases revolving around a problem](merrill-first-principles-four-phases-problem.md)
+- [Programmed instruction framework: six-element operant-conditioning lesson format](programmed-instruction-six-element-framework.md)
 
 ## Examples
--
+
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Key Sources
 - Molenda, Michael. (2002). A New Framework for Teaching in the Cognitive Domain. ERIC Digest. https://eric.ed.gov/?id=ED470983

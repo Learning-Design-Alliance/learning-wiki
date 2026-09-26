@@ -12,7 +12,7 @@ generated:
 # Student Led Conferences
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 6 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 5 of 7 report an effect size
 
 ## Description
 Student led conferences (SLCs) replace the traditional teacher-parent conference with a meeting in which the student presents a portfolio of work, evaluates their own progress against criteria, and sets goals for the next period, with the teacher acting as facilitator and families as audience and questioners. Preparation typically spans weeks: students select work samples, complete structured [reflection](../elements/reflection.md) templates, rehearse their presentation, and practice responding to questions. The format converts assessment reporting from something done *to* students into something done *by* them.
@@ -61,9 +61,11 @@ SLCs operationalize [Assessment for Learning](../principles/assessment-for-learn
 7. **Follow up.** Goals from the conference feed into subsequent [goal-setting](../elements/goal-setting.md) cycles so the conference is a checkpoint, not a terminus.
 
 ## Related Strategies
+
 - [Portfolio Assessment](../strategies/portfolio-assessment.md) — the curricular backbone; SLCs are the culminating event of a portfolio cycle
 - [Goal-Setting Conferences](../strategies/goal-setting_conferences.md) — the goal-setting component SLCs formalize
 - [Self-Assessment](../elements/self-assessment.md) — the evaluative skill SLCs depend on and develop
+- [Build student ownership through student-led conferences, town halls, and college and career readiness activities](student-ownership-practices-middle-school.md)
 
 ## Examples
 - **EL Education (Expeditionary Learning) network schools** — passage presentations and student-led family conferences are a signature practice, with students defending portfolios before panels ([eleducation.org](https://eleducation.org))

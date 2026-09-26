@@ -41,4 +41,6 @@ Theoretical argument quoting Uttal (1978) in the section on pre-functional brain
 
 
 ## Related Claims
+
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — related
+- [Comprehension and recognition need not draw on permanent mental representations: recognition occurs via shared functional elements across schema-of-the-moments](recognition-without-permanent-representations.md)

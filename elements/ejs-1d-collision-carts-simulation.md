@@ -38,10 +38,13 @@ An Easy Java Simulation (EJS) computer model of idealized one-dimensional collis
 - elastic versus inelastic collisions and kinetic energy loss
 
 ## Related Elements
-- 
+
+- [Open Source Physics toolkit: Easy Java Simulations and Tracker for creating and customising free physics computer models](osp-ejs-tracker-toolkit.md)
+- [Tracker: free video analysis and modeling tool built on the Open Source Physics Java framework](tracker-video-analysis-modeling-tool.md)
 
 ## Examples
--
+
+- [Add a game mode with input fields and customized feedback to a physics simulation for concept testing](../strategies/simulation-game-mode-concept-testing-feedback.md)
 
 ## Key Sources
 - Loo Kang WEE. (2015). One-Dimensional Collision Carts Computer Model and its Design Ideas for Productive Experiential Learning. http://iwant2study.org/ospsg/index.php/interactive-resources/physics/02-newtonian-mechanics/02-dynamics/46-one-dimension-collision-js-model

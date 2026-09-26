@@ -41,9 +41,11 @@ The paper's first recommendation is "to consider alternative strategies to the t
 - [Social Constructionism In Composition](../theories/social-constructionism-in-composition.md)
 
 ## Related Strategies
+
 - [Collaborative Writing](collaborative-writing.md)
 - [Writing_Workshop](writing_workshop.md)
 - [Think Write Pair Share](think-write-pair-share.md)
+- [Consider isolated cognitive flexibility practice and later-year timing instead of embedding flexibility practice within phonics activities](isolated-flexibility-practice-and-later-timing-recommendation.md)
 
 ## Examples
 -

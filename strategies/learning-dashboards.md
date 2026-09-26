@@ -58,8 +58,10 @@ Dashboards are only as effective as the self-regulatory behavior they trigger; d
 5. Review instructor-facing views on a schedule and intervene early with struggling learners; the dashboard triggers, the human conversation delivers, the intervention.
 
 ## Related Strategies
+
 - [Assessment for Learning](../principles/assessment-for-learning.md) — dashboards are a delivery mechanism for formative feedback data
 - Early-alert analytics — instructor-facing variant focused on retention
+- [Data activism through intentional participation, student-centric learning analytics, and storytelling](data-activism-participation-storytelling.md)
 
 ## Examples
 - **[Open University, UK — "Student Progress Dashboard"](https://www.open.ac.uk)** — self-referenced progress indicators shown to distance learners; evaluated studies found effects depended on students' prior attainment.

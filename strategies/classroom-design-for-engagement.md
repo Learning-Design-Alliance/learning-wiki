@@ -25,7 +25,7 @@ sources:
 # Classroom Design for Engagement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (3 for, 3 against) · 14 studies, `q2`–`q4` · 10 of 14 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (3 for, 3 against) · 14 studies, `q1`–`q4` · 9 of 14 report an effect size · 1 claim rests on one study
 
 ## Description
 Classroom design for engagement treats the room as an instructional variable rather than a container. It means auditing and adjusting the things a teacher can actually change — where daylight falls, how the air moves, how furniture is arranged, what is on the walls, and how much of the space belongs to the students — with the specific aim of removing what competes for attention and adding what makes participation physically easy. The design target is not a pleasant room; it is a room in which the intended interaction pattern is the path of least resistance.

@@ -37,10 +37,13 @@ Virtually Connecting (VC) is "a process-centric, social justice oriented OEP tha
 - equitable access to scholarly conversation and network development
 
 ## Related Elements
-- 
+
+- [Collaborative web annotation (Marginal Syllabus): low-bandwidth asynchronous discussion with social justice intent](collaborative-web-annotation-marginal-syllabus.md)
+- [Equity Unbound: an open connected course explicitly designed with social justice principles](equity-unbound-open-connected-course.md)
 
 ## Examples
--
+
+- [Design OEP for accessibility and marginalized participation rather than open for all](../strategies/design-oep-for-those-farthest-from-justice.md)
 
 ## Key Sources
 - Bali, M, et al. (2020). Framing Open Educational Practices from a Social Justice Perspective. Journal of Interactive Media in Education, 2020(1): 10, pp. 1–12. https://doi.org/10.5334/jime.565

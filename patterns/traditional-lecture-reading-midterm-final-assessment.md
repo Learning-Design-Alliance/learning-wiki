@@ -95,8 +95,10 @@ The pattern can work reasonably well for broad content coverage and for learners
 - Instructors can strengthen the model by adding low-stakes checks and application tasks without abandoning the overall structure.
 
 ## Related Patterns
+
 - [Flipped Classroom](flipped-classroom.md)
 - [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)
+- [Lecture-free, problem-centered, collaborative course pattern built on model construction and evaluation](constructivist-model-reconstruction-course-pattern.md)
 
 ## Examples
 - Large introductory survey courses organized around lectures, textbook reading, and two major exams.

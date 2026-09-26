@@ -12,7 +12,7 @@ generated:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies, `q1`–`q4` · 2 of 3 report an effect size
 
 ## Description
 Autonomy is the experience of acting with volition and self-endorsement — feeling that one's learning behavior originates from oneself rather than from external pressure. As a design principle, it recommends structuring learning environments so learners make meaningful choices about approach, pace, topics, or expression, and understand the reasons behind required activities. Autonomy does not mean unguided discovery or unlimited freedom; it means minimizing controlling language, rationales, and pressure while maximizing perceived ownership.
@@ -67,6 +67,8 @@ Autonomy is one of three basic psychological needs in [Self-Determination Theory
 - [Cognitive Activation](cognitive-activation.md) — autonomy-supportive classrooms more often invite learners to reason, justify, and connect ideas rather than reproduce procedures
 
 ## Examples
+
+- [Give learners control over how learning is measured via assessment choices and science-fair-type projects](../strategies/learner-controlled-assessment-science-fair-projects.md)
 
 ### Illustrative
 

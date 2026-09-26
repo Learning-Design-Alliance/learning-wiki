@@ -38,7 +38,8 @@ Because the HMM form of BKT is a three-parameter exponential, the article recomm
 - accurate and stable estimation of BKT model parameters from student data
 
 ## Related Strategies
-- 
+
+- [Initialize BKT parameters from simulated student data when no human data is available](initialize-bkt-parameters-from-simulated-data.md)
 
 ## Examples
 -

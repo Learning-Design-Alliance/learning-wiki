@@ -44,7 +44,8 @@ The paper argues that if learning to read and write are seen as complex cognitiv
 - 
 
 ## Examples
--
+
+- [Position children as primary knowers by having them dictate texts for a real purpose to a teacher acting as scribe](../strategies/children-as-primary-knowers-dictation-co-construction.md)
 
 ## Key Sources
 - Dombey, Henrietta; Formisano, Marina Pascucci. (1999). Examining the Notion of Autonomy in the Context of Early Literacy Learning in Four European Countries. https://eric.ed.gov/?id=ED434766

@@ -60,8 +60,10 @@ The strategy operationalizes Bloom's "learning for mastery" model: with adequate
 6. Cap retests (typically one or two per unit) and set a window, so preparation effort stays distributed across the term [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S].
 
 ## Related Strategies
+
 - [Standards-Based Grading](standards-based-grading.md) — the reporting system that makes replacement scores coherent
 - [Formative Assessment Loops](formative-assessment-loops.md) — the shorter-cycle version of the same feedback logic
+- [Negotiate learning contracts at the start of term and allow test retakes until mastery](negotiate-contracts-allow-retakes.md)
 
 ## Examples
 - **Bloom's "Learning for Mastery" (University of Chicago, 1968)** — the original model: unit tests, corrective instruction, parallel retests, with ~80% of mastery-group students reaching levels only ~20% of control students attained.

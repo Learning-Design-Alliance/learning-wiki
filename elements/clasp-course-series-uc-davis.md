@@ -44,7 +44,8 @@ CLASP (Collaborative Learning through Active Sense-making in Physics) is a three
 - 
 
 ## Examples
--
+
+- [Multi-component TA professional development program for teaching interactive-engagement discussion/labs](../strategies/clasp-ta-professional-development.md)
 
 ## Key Sources
 - Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2018). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970

@@ -77,7 +77,9 @@ Interdisciplinary Societal Dilemmas (ISDs) — problems tied to students' lived 
 - The specific disciplines, dilemma topic, and student roles can all be swapped; what must be preserved is genuine multi-solution ambiguity in the dilemma itself.
 
 ## Related Patterns
+
 - [Problem-Based Learning (PBL)](problem-based-learning-pbl.md) — shares facilitated small-group inquiry around an authentic problem; this pattern is specific to civic/societal dilemmas spanning named disciplines and adds an explicit organizational (out-of-school) response to institutional resistance
+- [Combining challenge-based learning, community-engaged learning, COIL, and cross-university collaboration in one course design](cbl-cel-coil-cuc-integrated-course-pattern.md)
 
 ## Examples
 - 150 Grade 7 students across four Israeli schools; five out-of-school "focus days" combining math/science/philosophy preparation with small-group deliberation on dilemmas like mandatory vaccination and biometric passports; both successful teacher-guided integration and unguided/teacher-imposed hindrance patterns appeared in every one of the 50 video-recorded discussions analyzed.

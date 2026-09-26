@@ -12,7 +12,7 @@ generated:
 # Standard-Based Regrouping
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies, `q2`–`q4` · 5 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies, `q1`–`q4` · 4 of 6 report an effect size
 
 ## Description
 Standard-based regrouping forms temporary, homogeneous groups based on learners' demonstrated mastery of *specific standards* rather than general ability. Learners are assessed formatively — through pre-assessments, warm-up questions, and exit tickets — to identify which standards they have not yet mastered; learners from multiple classes or sections can be pooled into groups targeted at a single standard. Groups are fluid: they dissolve and reform as mastery data change, so placement reflects current skill on a defined objective, not a fixed label.
@@ -59,9 +59,11 @@ Standard-based regrouping operationalizes [Assessment for Learning](../principle
 6. **Apply** — return learners to mixed groups for [application](../elements/application.md) tasks that integrate the standard with others
 
 ## Related Strategies
+
 - [Mastery Learning](mastery-learning.md) — standard-based regrouping is the grouping mechanism through which mastery pacing is managed across a cohort
 - [Differentiated Instruction](differentiated-instruction.md) — regrouping is one structural form of differentiation by readiness
 - [Formative Assessment Cycles](formative-assessment-cycles.md) — supplies the mastery data on which regrouping depends
+- [Use Heterogeneous Groups for Projects and Homogeneous Groups for Skill Achievement](heterogeneous-grouping-for-science-projects.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the diagnostic engine of the strategy

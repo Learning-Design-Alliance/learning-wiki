@@ -16,7 +16,7 @@ sources:
 # Architectonics: the philosophical tradition of building and relating meaning, knowledge, and experience
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Architectonics is presented as a concept permeating the Western philosophical tradition, defined by Holquist as "the science of relations" and by the article as "a means of contemplating the various ways that we build and relate meaning, knowledge, and experiences in all aspects of life, especially in education." The article uses it as the master framework within which constructivist learning theories, including connectivism, are rooted. Kant's system-building, Peirce's continuity, Bakhtin's dialogism, Kristeva's intertextuality, and Nelson's hypertextuality are all treated as iterations of this one architectonic system of ideas.
@@ -36,10 +36,15 @@ Architectonics is presented as a concept permeating the Western philosophical tr
 - understanding the philosophical foundations of connectivism and network learning
 
 ### Claims
-- 
+
+- [Connectivism is an iteration of architectonic/constructivist thought rather than a new theory of learning](../claims/connectivism-iteration-of-architectonics.md) [+W]
 
 ## Related Theories
-- 
+
+- [Anderson's six modes of interaction as an architectonic model of online education](anderson-six-modes-interaction-online-education.md)
+- [Peircean architectonics as an interdisciplinary paradigm organized by triadic logic](peircean-architectonics-interdisciplinary-paradigm.md)
+- [Dialogism, intertextuality, and hypertextuality: the language-centered genealogy leading to connectivism](dialogism-intertextuality-hypertextuality-genealogy.md)
+- [Three metaphors of time in knowledge organization systems: architectonic, ouroboric, and lachesic](three-time-metaphors-knowledge-organization-systems.md)
 
 ## Examples
 -

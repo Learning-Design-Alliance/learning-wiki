@@ -45,7 +45,8 @@ Following Dewey, the article argues character education should not be confined t
 - 
 
 ## Examples
--
+
+- [Reconstruct Kohlberg-style moral education to integrate reason and feeling, self and relationship, and concept and context, using real problem situations instead of hypothetical dilemmas](../strategies/integrate-reason-feeling-self-relationship-concept-context.md)
 
 ## Key Sources
 - Xiangdong Liu. (2014). The Problem of Character Education and Kohlberg's Moral Education: Critique from Dewey's Moral Deliberation. Philosophical Studies in Education 45. https://www.ovpes.org/

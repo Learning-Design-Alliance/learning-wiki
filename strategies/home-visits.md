@@ -57,8 +57,10 @@ Home visits operate on the relationship-first logic that trust between educators
 5. Follow up with ongoing [check-ins](../elements/check-in.md) and family communication so the relationship established at the visit continues.
 
 ## Related Strategies
+
 - [Check-ins](../elements/check-in.md) — the lightweight ongoing counterpart that sustains the relationship a home visit establishes
 - [Family engagement communication](family-engagement.md) — the broader communication system home visits anchor
+- [Conduct a needs assessment combining baseline district data and projective opinion data before designing a middle school](needs-assessment-baseline-and-projective-data.md)
 
 ## Examples
 - **[Parent Teacher Home Visits](https://www.pthvp.org)** — The best-documented model, originating in Sacramento in 1998 and now used in hundreds of districts; studies in Sacramento City Unified and other districts link participation to reduced chronic absenteeism.

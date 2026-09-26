@@ -40,7 +40,10 @@ The paper presents imagination, following Egan (1992), as a cognitive tool repre
 - 
 
 ## Related Theories
-- 
+
+- [Egan's developmental understanding model: later understandings build on and incorporate the Somatic](egan-somatic-understanding-incorporation.md)
+- [Constructivism as a theory of knowledge and learning with individualistic, social, and combined branches](constructivism-knowledge-learning-theory-branches.md)
+- [Play and Cognitive Development](play-and-cognitive-development.md)
 
 ## Examples
 -

@@ -37,10 +37,13 @@ Concise summary notes placed alongside the basic text that explain key concepts,
 - comprehension of key concepts, terminology, and questions in textual material
 
 ## Related Elements
-- 
+
+- [In-process comprehension checks embedded within the text](in-process-comprehension-checks.md)
+- [Imbedded Aids: textbook redesign placing teacher-like assistance in the text](imbedded-aids-textbooks.md)
 
 ## Examples
--
+
+- [Embed units of assistance and enrichment into the fabric of textual material so they are unobtrusive yet available for reader use](../strategies/embedded-aids-to-readers.md)
 
 ## Key Sources
 - Manzo, Anthony V. (1977). 'Imbedded Aids' to Readers: Alternatives to Traditional Textual Material. https://eric.ed.gov/?id=ED136196

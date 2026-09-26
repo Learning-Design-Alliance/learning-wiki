@@ -39,10 +39,12 @@ Following Veraksa (2006), the article defines dialectical thinking as "a system 
 - [Dts Associated With Emotional Scaffolding](../claims/dts-associated-with-emotional-scaffolding.md) [+M]
 
 ## Related Theories
-- 
+
+- [Dialectical thinking as the system for improving quality of thought](dialectical-thinking-quality-of-thought.md)
 
 ## Examples
--
+
+- [Improve emotional scaffolding by organising space for emotion training with game methods and creating conditions for discussing opposites](../strategies/organise-space-and-opposites-discussions-for-emotional-scaffolding.md)
 
 ## Key Sources
 - Veraksa N.E., Airapetyan Z.V., Krasheninnikov-Khait E.E. & Gavrilova M.N. (2021). Associations between emotional scaffolding, classroom quality and dialectical thinking support in kindergarten. Cypriot Journal of Educational Science. 16(5), 2091-2099. https://doi.org/10.18844/cjes.v16i5.6224

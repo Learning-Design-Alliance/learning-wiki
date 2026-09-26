@@ -37,7 +37,8 @@ A specific implementable recipe for skill transfer: the report recommends that "
 - transfer of expert skills and experience to tribal staff
 
 ## Related Strategies
-- 
+
+- [Recruit and train local tribal members for planning staffs, supplementing on-the-job experience with training materials and workshops](recruit-and-train-local-tribal-planners.md)
 
 ## Examples
 -

@@ -37,7 +37,8 @@ Part III's Publisher Directory (Section 11) opens with the Association of Americ
 - Identifying publishers and materials sensitive to the treatment of minorities and females
 
 ## Related Elements
-- 
+
+- [Fair Textbooks: A Resource Guide, a centralized catalog of bias-free education resources](fair-textbooks-resource-guide-catalog.md)
 
 ## Examples
 -

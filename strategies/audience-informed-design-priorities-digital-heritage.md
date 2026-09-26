@@ -44,7 +44,8 @@ The article proposes audience-informed design priorities rather than evidence of
 - [Technology Imagery Perception Model](../theories/technology-imagery-perception-model.md)
 
 ## Related Strategies
-- 
+
+- [Investigate technology's role in community-based lifelong learning delivery as a research priority](technology-in-community-based-lifelong-learning-research.md)
 
 ## Examples
 -

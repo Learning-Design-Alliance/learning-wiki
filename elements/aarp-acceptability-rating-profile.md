@@ -37,7 +37,8 @@ The AARP is the dependent measure used in this study to quantify treatment accep
 - rating the acceptability of proposed treatments
 
 ## Related Elements
-- 
+
+- [Behavioral Relaxation Training (BRT)](behavioral-relaxation-training-brt.md)
 
 ## Examples
 -

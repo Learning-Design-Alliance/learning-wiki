@@ -37,10 +37,13 @@ A rating instrument accompanying the guide on which each compliance item is scor
 - Determining regulatory compliance of local JTPA programs
 
 ## Related Elements
-- 
+
+- [Monitoring Report form for submitting self-monitoring results to the state JTPA office](jtpa-monitoring-report-form.md)
 
 ## Examples
--
+
+- [Nine-step self-monitoring review process for local job-training program compliance](../strategies/jtpa-nine-step-self-monitoring-process.md)
+- [Three adaptable self-monitoring approaches: administrative, peer observation, and eclectic](../strategies/jtpa-self-monitoring-approaches.md)
 
 ## Key Sources
 - North Carolina State Dept. of Public Instruction, Div. of Support Programs. (1988). Self-Monitoring Process for Job Training Partnership Act (JTPA) Programs. https://eric.ed.gov/?id=ED303603

@@ -12,7 +12,7 @@ generated:
 # Product
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q1`–`q4` · 6 of 7 report an effect size
 
 ## Description
 A product is the concrete output of learning — an essay, prototype, solution, presentation, or performance — that makes learner competence visible and assessable. It functions as both the goal that organizes instruction and the evidence from which learning is evaluated. In task-centered designs, the product is what distinguishes completing a learning task from merely engaging with content.

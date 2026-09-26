@@ -17,7 +17,7 @@ sources:
 # Two-step fuzzy forecasting pattern: fuzzylise the universe, then interpret the fuzzy output
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article organizes fuzzy forecasting as a reusable two-step procedure. Step one is modeling: "according to the historical data orexperience knowledge setting up the fuzzy logical model", which includes fuzzylising the universe of the historical data. Step two is interpreting the output, which "are actually all fuzzysets" and may need translation into regular numbers. The pattern embeds human subjective experience at both stages.
@@ -37,13 +37,15 @@ The article organizes fuzzy forecasting as a reusable two-step procedure. Step o
 - producing usable enrollment forecasts from historical or experience-based knowledge
 
 ### Claims
-- 
+
+- [A first-order time-invariant fuzzy time series model produces more precise university enrollment forecasts than linear regression with time as predictor](../claims/fuzzy-time-series-more-precise-than-linear-regression-enrollment.md) [+W]
 
 ## Related Patterns
 - 
 
 ## Examples
--
+
+- [Apply three membership-based principles to translate fuzzy forecast outputs into numeric values](../strategies/three-principles-interpret-fuzzy-output-numbers.md)
 
 ## Key Sources
 - Song, Qiang; Chissom, Brad S. (1991). Forecasting Enrollments with Fuzzy Time Series. https://eric.ed.gov/?id=ED340733

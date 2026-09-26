@@ -39,7 +39,11 @@ In advanced practica, the author requires students to begin and end field work w
 - preparation to act as change agents in human service organizations
 
 ## Related Strategies
-- 
+
+- [Field Journals](field-journals.md)
+- [Context-Specific Journaling](context-specific_journaling.md)
+- [Logs and Journals to Guide Reflection](logs_and_journals_to_guide_reflection.md)
+- [Political Education](political_education.md)
 
 ## Examples
 -

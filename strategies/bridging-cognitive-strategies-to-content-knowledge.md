@@ -37,7 +37,8 @@ The article recommends developing bridging techniques within the Instrumental En
 - contradiction identification, analytic and exploratory strategies, and transfer of cognitive strategies to subject-matter learning
 
 ## Related Strategies
-- 
+
+- [Iterative improvements and interdisciplinary integration for the next course iteration](next-iteration-improvements-life-science-physics.md)
 
 ## Examples
 -

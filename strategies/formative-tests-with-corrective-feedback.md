@@ -38,7 +38,11 @@ An implementable teaching activity: structure instruction so that frequent forma
 - increasing student achievement and course outcomes
 
 ## Related Strategies
-- 
+
+- [Low Stakes Quizzing](low-stakes-quizzing.md)
+- [Timely Feedback](timely-feedback.md)
+- [Low Stakes Testing](low-stakes-testing.md)
+- [Frequent, Low-Stakes Quizzes](frequent-low-stakes-quizzes.md)
 
 ## Examples
 -

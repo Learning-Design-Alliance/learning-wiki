@@ -41,10 +41,16 @@ The paper adopts McWhirter's (1991) model, in which empowerment is broader than 
 - 
 
 ## Related Theories
-- 
+
+- [Empowerment in counselling defined as a five-part process of awareness, skill and capacity, exercise, non-infringement, and support for others' empowerment](empowerment-five-component-definition-counselling.md)
+- [Peer counselling empowerment as a process by which people, organizations and communities gain mastery over their lives](peer-counselling-empowerment-process.md)
+- [Five Cs model of counsellor education: Collaboration, Competence, Context, Critical Consciousness, and Community](five-cs-empowerment-counsellor-education-model.md)
 
 ## Examples
--
+
+- [Use isomorphic framing to draw parallels between the empowerment model and the program's primary therapeutic theme](../strategies/isomorphic-framing-empowerment-model.md)
+- [Design programs with two themes: a primary therapeutic theme and a secondary empowerment-model theme](../principles/primary-and-secondary-program-themes.md)
+- [Structure adventure programs in two parts: preparation and training phase followed by the wilderness project](../strategies/two-part-preparation-wilderness-program.md)
 
 ## Key Sources
 - Hyde-Hills, I. (1998). It Is Better To Learn To Fish: Empowerment in Adventure Education. https://eric.ed.gov/?id=ED424058

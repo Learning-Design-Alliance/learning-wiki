@@ -41,7 +41,10 @@ A pre-intermediate level activity, adapted from Haley (2010), in which students 
 - [Cognitive Learning Theory Active Constructive](../theories/cognitive-learning-theory-active-constructive.md)
 
 ## Related Strategies
-- 
+
+- [Drawing To Learn](drawing-to-learn.md)
+- [Graphic Organizers as Text Illustrations](graphic_organizers_as_text_illustrations.md)
+- [Graphic Organizers/Guided Notes](graphic-organizers-guided-notes.md)
 
 ## Examples
 -

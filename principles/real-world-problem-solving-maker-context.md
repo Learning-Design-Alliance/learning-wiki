@@ -17,7 +17,7 @@ sources:
 # Involve students in real-world problem solving to deepen engagement, retention, and understanding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies, `q2` · 2 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper argues that achieving high levels of engagement, increasing graduation rates, and deepening understanding of content requires involving students in meaningful problem solving embedded into their daily classes. Providing meaning through relevant context for learning directly affects the retention and success of all students, especially those who are more at risk, and maker education is presented as a way to provide a relevant context for learning.
@@ -37,10 +37,15 @@ The paper argues that achieving high levels of engagement, increasing graduation
 - Engagement, graduation, retention, and deeper understanding of content
 
 ### Claims
+
 - [Maker Education Assessment Principles Practices Framework](../theories/maker-education-assessment-principles-practices-framework.md) [+M]
+- [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](../claims/spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) [+W]
+- [Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope](../claims/choice-rich-infrastructure-supports-productive-deviation-and-learning.md) [+W]
 
 ## Related Principles
-- 
+
+- [Real-world Math](real-world-math.md)
+- [Provide student choice to build ownership and self-efficacy in maker education](student-choice-builds-ownership-maker-education.md)
 
 ## Examples
 -

@@ -37,7 +37,8 @@ Based on the finding that reflective thinking tendencies and epistemological bel
 - reflective thinking and epistemological belief development
 
 ## Related Strategies
-- 
+
+- [Teachers should act as interfaces between textbooks and learners, adapting strategies to individual learner variables](teachers-interface-textbooks-learners-adapt-strategies.md)
 
 ## Examples
 -

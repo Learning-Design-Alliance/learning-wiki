@@ -70,6 +70,9 @@ Adaptive designs operationalize the zone of proximal development: tasks are matc
 
 ## Examples
 
+- [Four-layer system architecture for intelligent oral diagnosis and adaptive training](../elements/four-layer-oral-diagnosis-system-architecture.md)
+- [Mask the reinforcement learning policy's action space to a zone-of-proximal-development difficulty band (success probability 0.4–0.8)](../strategies/zpd-masked-rl-content-sequencing.md)
+
 ### Validated
 - **[ASSISTments](https://www.assistments.org)** — Free web-based math platform (grades 6–12) that adapts problem selection and hint delivery based on item-level responses. Randomized studies across Maine schools showed significant homework-related learning gains over business-as-usual conditions (Roschelle et al., 2016, *AERJ*).
 - **[Carnegie Learning MATHia](https://www.carnegielearning.com/solutions/math/mathia/)** — Cognitive-tutor-based adaptive math system using a cognitive model of learner knowledge to select problems and tailor step-level hints. A large RAND study (Pane et al., 2014) found roughly doubled learning-growth effects in second-year algebra relative to conventional instruction.

@@ -58,8 +58,10 @@ A balanced system works when assessment is treated as a decision-support tool, n
 6. Involve learners in tracking their own progress against criteria, gradually transferring responsibility for evaluation [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
 
 ## Related Strategies
+
 - [Formative Assessment](../patterns/formative-assessment.md) — the highest-leverage layer of the system; the balanced system exists to protect and amplify it
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — an alternative summative architecture in which the system certifies mastery rather than ranking
+- [Use open-ended reflection questions as self-assessment in place of end-of-unit tests](open-ended-reflection-maker-self-assessment.md)
 
 ## Related Elements
 - [Assessment](../elements/assessment.md) — the core element; every layer of the system is an instance of it

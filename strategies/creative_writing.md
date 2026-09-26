@@ -61,10 +61,12 @@ Creative writing forces generative processing: to write a coherent story, learne
 5. **Share and assess**: students read stories aloud or in pairs; feedback addresses both narrative craft and conceptual accuracy at the task level [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ## Related Strategies
+
 - [Storytelling](storytelling.md) — the oral, teacher-led counterpart; creative writing shifts the generative work to the student
 - [Journaling](journaling.md) — shorter, more reflective writing-for-learning format
 - [Role-Play](acting-role-play.md) — embodied version of the same perspective-taking move
 - [Peer Review](../elements/peer-review.md) — natural follow-on for revising stories and checking content accuracy
+- [Assign speculative theory-fiction writing to build students' capacity for ecologically just futurity](speculative-theory-fiction-assignment.md)
 
 ## Related Elements
 - [Modeling](../elements/modeling.md) — an exemplar story shows students what "content-accurate creativity" looks like

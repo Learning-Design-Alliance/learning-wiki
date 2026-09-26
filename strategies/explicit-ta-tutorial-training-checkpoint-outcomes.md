@@ -37,7 +37,8 @@ The authors propose reforming weekly one-hour tutorial training, in which teachi
 - Conceptual understanding of the work-energy theorem and impulse-momentum theorem
 
 ## Related Strategies
-- 
+
+- [Multi-component TA professional development program for teaching interactive-engagement discussion/labs](clasp-ta-professional-development.md)
 
 ## Examples
 -

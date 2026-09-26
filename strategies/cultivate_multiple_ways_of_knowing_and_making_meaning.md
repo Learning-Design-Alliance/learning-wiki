@@ -12,7 +12,7 @@ generated:
 # Cultivate Multiple Ways of Knowing and Making Meaning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 13 studies, `q2`–`q4` · 6 of 13 report an effect size
+> **Evidence** · 5 claims (4 for, 1 against) · 13 studies, `q1`–`q4` · 5 of 13 report an effect size
 
 ## Description
 This strategy designs learning so that content can be accessed, understood, and expressed through multiple modalities, cultural frames, and forms of representation. Learners encounter material through varied means (text, visual, oral, embodied, narrative) and demonstrate understanding through varied means (writing, art, performance, discussion, building). The goal is an inclusive environment where diverse backgrounds are treated as assets and expression is not limited to a single sanctioned format.
@@ -61,9 +61,11 @@ Multiple representations strengthen learning by giving learners redundant, compl
 6. Assess against the goal, not the format; provide [Accommodations](../elements/accommodations.md) so expression options remain genuinely accessible
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — connects new content to the diverse knowledge learners already hold
 - [Acting-Role-Play](../strategies/acting-role-play.md) — an embodied, non-written way of knowing and expressing understanding
 - [Building Empathy](../principles/building-empathy.md) — a core outcome of engaging multiple cultural perspectives
+- [Act as a learning supporter during multimedia production](teacher-learning-supporter-strategy.md)
 
 ## Examples
 - **[CAST UDL Guidelines](https://udlguidelines.cast.org)** — the multiple-means-of-representation / -action-and-expression framework operationalizes this strategy systemwide.

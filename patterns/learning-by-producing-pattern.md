@@ -42,10 +42,14 @@ Position pupils as multimedia producers: they appreciate exemplar products, inve
 - Learning By Producing Multimedia [+M]
 
 ## Related Patterns
-- 
+
+- [Anchored Instruction](anchored-instruction.md)
+- [Problem-Based Learning (PBL)](problem-based-learning-pbl.md)
 
 ## Examples
--
+
+- [Multimedia production project](../elements/multimedia-production-project.md)
+- [Assign diverse production roles in multimedia teams](../strategies/role-assignment-production-teams.md)
 
 ## Key Sources
 - Tanaka. (1997). Multimedia learning and cross-curricular learning. https://eric.ed.gov/?id=EJ545678

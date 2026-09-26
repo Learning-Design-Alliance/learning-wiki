@@ -39,7 +39,10 @@ A concrete move from the article: the teacher designed slides with blanks and as
 - maintaining online-student inclusion during technical disruptions
 
 ## Related Strategies
-- 
+
+- [Show Me](show_me.md)
+- [Videoconferencing for Collaboration](videoconferencing_for_collaboration.md)
+- [Increase Synchronous Teacher Presence](increase_synchronous_teacher_presence.md)
 
 ## Examples
 -

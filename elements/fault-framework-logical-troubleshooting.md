@@ -37,7 +37,8 @@ FAULT is the article's context-specific fault diagnosis simulation, named becaus
 - context-specific equipment fault diagnosis under cost constraints
 
 ## Related Elements
-- 
+
+- [CRESST Integrated Assessment System: a computer-based suite of performance assessment tasks](cresst-integrated-assessment-system.md)
 
 ## Examples
 -

@@ -12,7 +12,7 @@ generated:
 # Teen Exercise as Stress Management
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 6 of 7 report an effect size
 
 ## Description
 This strategy positions regular physical activity as a deliberate tool for adolescent stress regulation, not merely as fitness or recreation. Exercise modulates physiological stress responses (cortisol regulation, endorphin release), improves sleep and mood, and supports the cognitive functions — attention and executive control — that stress degrades. Implementation involves helping teens select sustainable activities (walking, cycling, dance, yoga, team sport), build a routine, and monitor the relationship between activity and their own stress levels.

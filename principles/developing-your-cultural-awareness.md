@@ -72,10 +72,12 @@ Developing cultural awareness improves instruction when it changes how educators
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — reflective articulation helps educators make tacit assumptions visible enough to revise
 
 ## Related Principles
+
 - [Cultural & Life Experiences Connections](cultural-life-experiences-connections.md) — cultural awareness helps instructors connect content to learner experience without stereotyping.
 - [Building Empathy](building-empathy.md) — empathy supports more careful interpretation of learner experience and perspective.
 - [Discussing Race](discussing-race.md) — race-conscious dialogue requires instructor reflection and cultural awareness to be facilitative rather than harmful.
 - [Strengths-Based Approach](strengths-based-approach.md) — awareness is more useful when it shifts interpretation toward learner assets and possibilities.
+- [Prioritize reciprocal bidirectional knowledge exchange so both parties from different cultural backgrounds contribute and learn equally in international courses](reciprocal-bidirectional-knowledge-exchange-international-courses.md)
 
 ## Examples
 - **Bias review of materials**: Instructors audit examples, language, images, and case studies for hidden assumptions or exclusions.

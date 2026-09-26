@@ -41,6 +41,8 @@ Philosophical contrast drawn from Washington's Sunday evening talks and Dewey's 
 
 
 ## Related Claims
+
 - [Washington's Tuskegee practice anticipated the project method, building an institution around it decades before Kilpatrick](washington-anticipated-project-method.md) — related
 - [Washington's educational aims show consonance with Dewey's three criteria for educational aims](washington-dewey-aims-consonance.md) — reports the opposite
 - [Washington's educational philosophy fits within the American pragmatist tradition, sharing a table with Dewey](washington-educational-pragmatist.md) — related
+- [Generals's case that Washington's Tuskegee practices were as reform-oriented as those identified with the progressive education movement](washington-reform-oriented-progressivist.md)

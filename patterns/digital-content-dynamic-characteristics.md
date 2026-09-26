@@ -40,10 +40,13 @@ The report enumerates the dynamic characteristics that make digital content esse
 - 
 
 ## Related Patterns
-- 
+
+- [Digital learning environments characterized by problem- and project-centered, student-centered, collaborative, communicative, customized, productive and lifelong learning](digital-learning-environment-characteristics.md)
 
 ## Examples
--
+
+- [InkSurvey with pen-enabled mobile devices for anonymous real-time electronic brainstorming](../elements/inksurvey-pen-enabled-brainstorming.md)
+- [Adapt DL2F to local context by aligning with the national curriculum, using authentic local materials, multilingual approaches, and pragmatic low-bandwidth technology integration](../strategies/dl2f-philippine-contextual-adaptation-strategy.md)
 
 ## Key Sources
 - The Power of Digital Learning: Integrating Digital Content. The CEO Forum School Technology and Readiness Report, Year Three. (2000). https://eric.ed.gov/?id=ED447781

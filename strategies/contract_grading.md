@@ -12,7 +12,7 @@ generated:
 # Contract Grading
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies, `q2`–`q4` · 7 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies, `q1`–`q4` · 6 of 8 report an effect size
 
 ## Description
 Contract grading replaces ad-hoc evaluation with an explicit agreement: the instructor specifies in advance what work at each grade level requires (quantity, quality criteria, revision expectations), and learners choose a contract tier and complete the agreed work. Grades are then awarded for fulfilling the contract rather than for relative ranking against peers. The approach shifts the instructor's evaluative role toward specification and feedback, and the learner's role toward planning and self-management.
@@ -58,9 +58,11 @@ Contract grading works by making expectations explicit and giving learners contr
 5. Award the contracted grade when criteria are met; require revision cycles until standard is reached rather than deducting points.
 
 ## Related Strategies
+
 - Mastery Learning — shares the "meet the standard, not beat the curve" logic; contract grading is its assessment-agreement wrapper
 - Ungrading / Labor-Based Assessment — a radical variant that removes grades entirely during the term
 - Specification Grading (Nilson) — a structured commercial variant using token economies and binary rubrics
+- [Negotiate learning contracts at the start of term and allow test retakes until mastery](negotiate-contracts-allow-retakes.md)
 
 ## Examples
 - **Peter Elbow's contract grading** in composition courses (e.g., *Embracing Contraries*, 1986): students earn a B by completing all assigned writing and responding to peers; an A requires a negotiated extra project.

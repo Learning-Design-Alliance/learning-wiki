@@ -12,7 +12,7 @@ generated:
 # Epitome (Elaboration Theory)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q2`–`q4` · 5 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 An epitome is a deliberately simplified, holistic version of the full content — the most fundamental ideas and a representative whole task — presented before any detailed elaboration. In [Elaboration Theory](../patterns/elaboration-theory.md), successive passes then add complexity layer by layer, so learners always hold a complete (if coarse) picture of the subject rather than accumulating isolated parts.

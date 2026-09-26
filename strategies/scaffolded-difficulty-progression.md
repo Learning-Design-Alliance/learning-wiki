@@ -60,9 +60,11 @@ Tasks pitched too high overload working memory and produce failure-driven diseng
 7. Allow learners who demonstrate mastery early to skip ahead ([Adaptive Difficulty](../elements/adaptive-difficulty.md)).
 
 ## Related Strategies
+
 - [Fading](../elements/fading.md) — the support-removal half of the progression; difficulty rises as scaffolds withdraw
 - [Spaced Practice](../principles/spaced-practice.md) — distributes the progression over time so each level consolidates before the next
 - [Mastery-Based Progression](mastery-based-progression.md) — gates advancement on demonstrated competence rather than time
+- [Mask the reinforcement learning policy's action space to a zone-of-proximal-development difficulty band (success probability 0.4–0.8)](zpd-masked-rl-content-sequencing.md)
 
 ## Examples
 - **[4C/ID](../patterns/4cid-four-component-instructional-design.md)** — Ten Steps to Complex Learning sequences whole learning tasks from low to high complexity while support fades from worked examples to conventional tasks.

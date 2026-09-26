@@ -59,8 +59,10 @@ The strategy works by constraining the search space: novices lack the schemas to
 7. Fade over successive lessons: identify fewer instances, eventually asking learners to justify their own identifications.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — recalling known examples of a technique primes learners to spot new ones
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the teacher verbalizes *why* a feature matters, not just where it is
+- [Embed units of assistance and enrichment into the fabric of textual material so they are unobtrusive yet available for reader use](embedded-aids-to-readers.md)
 
 ## Examples
 - A teacher reads a poem aloud, stops at a specific metaphor ("line 7 — 'the sky was a bruised plum'"), and explains how the image sets mood; students then hunt for two further images in pairs and share findings.

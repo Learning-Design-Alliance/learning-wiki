@@ -60,9 +60,11 @@ Problem generation converts learners from consumers to constructors of tasks, fo
 5. Debrief as a class: compare generated problems, identify which target deep structure, and resolve disputes about solvability — this discussion is where much of the learning occurs.
 
 ## Related Strategies
+
 - [Peer Instruction](peer-instruction.md) — shares the peer-exchange mechanism but centers on answering rather than authoring
 - [Reciprocal Questioning](reciprocal-questioning.md) — a structured variant where learners alternate generating and answering questions in groups
 - [Self-Explanation](../elements/self-explanation.md) — complementary; explaining why a generated problem works deepens the authoring benefit
+- [Require authors to solve their own created levels before publishing, as a quality filter and a learning act in itself.](author-must-solve-own-level.md)
 
 ## Examples
 - **Reciprocal Teaching** ([University of Illinois reading studies](https://www.readingrockets.org/strategies/reciprocal_teaching)) — students take turns generating questions about a text passage, a direct application of guided question generation.

@@ -37,7 +37,8 @@ In the game mode, students decide which input field to key in first and receive 
 - testing understanding of conservation of momentum and collision outcomes through predicted answers with feedback
 
 ## Related Strategies
-- 
+
+- [Games](games.md)
 
 ## Examples
 -

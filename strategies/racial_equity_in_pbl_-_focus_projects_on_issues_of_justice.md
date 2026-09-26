@@ -12,7 +12,7 @@ generated:
 # Racial Equity in PBL - Focus Projects on Issues of Justice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 6 of 7 report an effect size
 
 ## Description
 This strategy directs project-based learning toward authentic problems of racial, social, and environmental justice so that students investigate and act on issues with real stakes for their communities. Rather than treating PBL as a format applied to any content, the strategy makes the *purpose* of the project — confronting injustice — the engine of relevance, engagement, and agency. It draws on culturally relevant pedagogy and critical literacy traditions, in which academic learning is coupled with developing students' capacity to identify and challenge inequity [Ladson-Billings, 1995] [+M].
@@ -60,8 +60,10 @@ Anchoring projects in justice issues raises the authenticity and personal stakes
 6. **Act and reflect.** Deliver the work to an authentic audience, then debrief both the academic learning and the emotional experience of confronting injustice.
 
 ## Related Strategies
+
 - Community-embedded and service-oriented project designs — share the commitment to consequential work beyond the classroom
 - Culturally responsive teaching approaches — provide the pedagogical stance this strategy operationalizes within PBL
+- [Engage youth as partners in stewardship rather than as subjects to be taught](youth-as-stewardship-partners.md)
 
 ## Examples
 - **Science/math:** Students analyze air-quality or lead-pipe data from their own zip code, then present remediation demands to the city council — a structure used in community science curricula such as those from the [Public Science Project](https://www.publicscienceproject.org) (participatory action research in New York schools).

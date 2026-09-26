@@ -41,10 +41,15 @@ The paper organizes lifelong education along three dimensions. Vertical integrat
 - 
 
 ## Related Theories
-- 
+
+- [Framework connecting lifelong education and community through formal, nonformal, and informal providers](framework-connecting-lifelong-education-and-community.md)
+- [Typology of community-based education as formal, nonformal, and informal processes](formal-nonformal-informal-community-based-education.md)
 
 ## Examples
--
+
+- [Nine principles of community-based education grounded in democratic participation](../patterns/principles-of-community-based-education.md)
+- [Advance community-based lifelong learning through mentoring relationships connecting local expertise with desired learners](../strategies/mentoring-for-community-lifelong-learning.md)
+- [Investigate technology's role in community-based lifelong learning delivery as a research priority](../strategies/technology-in-community-based-lifelong-learning-research.md)
 
 ## Key Sources
 - Galbraith, M. W. (1995). Community-Based Organizations and the Delivery of Lifelong Learning Opportunities. https://eric.ed.gov/?id=ED385253

@@ -42,7 +42,8 @@ The Ethnic Minority Affairs Committee (EMAC) of an educational psychology depart
 - 
 
 ## Examples
--
+
+- [Foster community in counsellor education through student organizations, common space, collegial feedback, and rewards for mutual support](../strategies/foster-community-counsellor-education-practices.md)
 
 ## Key Sources
 - Ellen Hawley McWhirter. (1998). An Empowerment Model of Counsellor Education. Canadian Journal of Counselling, 32(1). https://cjc-rcc.ucalgary.ca/

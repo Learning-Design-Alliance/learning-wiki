@@ -42,11 +42,20 @@ In response to the last two criticisms, some accounts propose a **revised experi
 ## Claims
 
 ## Related Theories
+
 - [Constructivism](constructivism.md) — shares an emphasis on active meaning-making from experience, though ELT specifies experience-transformation mechanics constructivism leaves more general
 - [Stages of Cognitive Development](stages-of-cognitive-development.md) — one of Kolb's own cited influences, alongside Dewey and Lewin
+- [Kolb's experiential learning theory: knowledge created through transformation of experience via a four-stage cycle](kolb-experiential-learning-four-stage-cycle.md)
+- [Kolb's four-stage experiential learning model and its four learning style categories](kolb-four-stage-experiential-learning-model.md)
+- [Kolb's Learning Style Inventory and experiential learning theory](kolb-learning-style-inventory-four-abilities.md)
+- [Federation University model: a program-level case-based experiential learning framework linking thinking, doing and acting](federation-university-case-based-experiential-model.md)
+- [Kolb's experiential learning cycle as the pedagogical basis for an engineering learning module](kolb-elt-cycle-engineering-module-basis.md)
 
 ## Examples
+
 - [Experiential Learning](../principles/experiential-learning.md) — the wiki's design-facing principle page for applying this theory: requirements, constraints, and worked classroom examples (field courses, role play, a step-by-step lesson-integration recipe) live there rather than here, mirroring how [Constructivism](constructivism.md) and its companion principle page are split
+- [Guide experiential curriculum design with Kolb-derived principles: connect to existing knowledge, honour each learner's experiential base, cycle through experience and reflection, and shift power to the learner](../principles/kolb-derived-curriculum-guidelines.md)
+- [Evaluate and assess experiential learning modules longitudinally to build pre-service teachers' pedagogical skills](../strategies/longitudinal-evaluation-of-elt-engineering-modules.md)
 
 ## Key Sources
 - Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Prentice-Hall.

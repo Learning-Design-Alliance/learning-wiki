@@ -60,10 +60,12 @@ CICO operationalizes [Behaviorism](../theories/behaviorism.md) — clear expecta
 6. Review point data weekly; fade the intervention (self-monitoring, fewer check-ins) once goals are met consistently, or escalate to individualized supports if the student is a non-responder after 6–8 weeks.
 
 ## Related Strategies
+
 - [Daily Behavior Report Cards](daily-behavior-report-cards.md) — the point card is essentially a DBRC embedded in a mentoring routine
 - [Positive Reinforcement](positive-reinforcement.md) — the contingent feedback and rewards at check-out enact this mechanism
 - [Mentoring](mentoring.md) — the adult relationship component that distinguishes CICO from a bare token system
 - [Self-Monitoring](self-monitoring.md) — the standard fade path for students exiting CICO
+- [Advance community-based lifelong learning through mentoring relationships connecting local expertise with desired learners](mentoring-for-community-lifelong-learning.md)
 
 ## Examples
 - **Tier 2 within [PBIS](https://www.pbis.org)** — CICO is the most widely implemented Tier 2 practice in Positive Behavioral Interventions and Supports schools; pbis.org provides free point-card templates and fidelity checklists.

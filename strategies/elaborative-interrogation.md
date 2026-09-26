@@ -58,9 +58,11 @@ Elaborative interrogation is one of the most consistently supported learning tec
 5. Follow with retrieval practice — [Practice Testing](../elements/practice-testing.md) — to consolidate the elaborated connections.
 
 ## Related Strategies
+
 - [Self-Explanation](../elements/self-explanation.md) — the sibling technique applied to one's own reasoning steps rather than stated facts
 - [Retrieval Practice](retrieval-practice.md) — complementary; interrogation elaborates at encoding, retrieval strengthens later
 - [Rereading](rereading.md) — the low-yield technique elaborative interrogation typically replaces
+- [Use elaborative interrogation (answering why a fact is true) as a low-resource strategy for science content that conflicts with student misconceptions](elaborative-interrogation-minimal-resource-adjunct.md)
 
 ## Examples
 - **Biology study guide:** after reading "capillaries have thin walls," students answer "Why would thin walls be useful for capillaries' function?" before checking the provided rationale.

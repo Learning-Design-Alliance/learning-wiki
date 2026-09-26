@@ -57,8 +57,10 @@ Self-knowledge measures work because they feed the monitoring loop of self-regul
 5. Revisit inventory and progress data in periodic conferences so students track change over time ([Coaching](../elements/coaching.md)).
 
 ## Related Strategies
+
 - [Activities for Student Self-Reflection](activities_for_student_self-reflection.md) — the reflection routines that generate self-knowledge data
 - [Activating Prior Knowledge](activating_prior_knowledge.md) — inventories surface prior knowledge that can then be activated in instruction
+- [Integrate evaluation into the learning process with learners participating in creating and understanding standards](integrate-evaluation-into-learning-process-participation.md)
 
 ## Examples
 - **Reading interest inventories** (e.g., the Burke Reading Interview) administered at the start of the year to match students with self-selected texts.

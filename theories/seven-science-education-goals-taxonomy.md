@@ -39,10 +39,15 @@ The paper organizes science education goals into seven reference words: power, s
 - 
 
 ## Related Theories
-- 
+
+- [Four basic determinants of spatial adequacy in educational specifications](four-determinants-spatial-adequacy.md)
+- [Eight laboratory method types from three classificatory adjectives](laboratory-method-variation-taxonomy.md)
+- [A procedural goals-methods-facilities model for planning science facilities](goals-methods-facilities-planning-model.md)
 
 ## Examples
--
+
+- [Select a few goals per course rather than all-inclusive goal statements when designing facilities](../principles/select-few-goals-for-facility-design.md)
+- [Draft flexible educational specifications stating activities and needs rather than fixed dimensions](../strategies/flexible-activity-based-specifications.md)
 
 ## Key Sources
 - Engelhardt, David Frederic. (1966). Space Requirements for Science Instruction Grades 9-12. Harvard Univ., Cambridge, Mass. Graduate School of Education. https://eric.ed.gov/?id=ED022353

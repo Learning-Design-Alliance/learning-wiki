@@ -45,7 +45,16 @@ Teachers should use graphic organizers to structure lessons and material, pre-te
 - 
 
 ## Examples
--
+
+- [KWL Charts](../strategies/kwl-charts.md)
+- [Pre-Reading Graphic Organizers](../strategies/pre-reading_graphic_organizers.md)
+- [KWL Chart](../strategies/kwl_chart.md)
+- [KWL Chart](../strategies/kwl-chart.md)
+- [Note-Taking Using Graphic Organizers](../strategies/note-taking_using_graphic_organizers.md)
+- [Graphic Organizers for Pre-Reading](../strategies/graphic_organizers_for_pre-reading.md)
+- [Pre-Teaching Vocabulary](../strategies/pre-teaching-vocabulary.md)
+- [Clarifying](../strategies/clarifying.md)
+- [KWL Charts](../strategies/kwl_charts.md)
 
 ## Key Sources
 - Using Graphic Organizers in Instruction: A Review of Research and Teacher Practice. (1998). https://eric.ed.gov/?id=ED427095

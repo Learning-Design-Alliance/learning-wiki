@@ -17,7 +17,7 @@ sources:
 # Expert-panel item selection: statements drawn from real settings, winnowed by linguist votes to consensus items
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Inquiry's items were not invented: the attitudes tested were heard in methods classes, conventions, workshops, and printed sources such as newspaper editorials. Ten linguists first responded to 150 statements, then voted on 135 statements using Agree, Moderately agree, No opinion, and Disagree; the author generally kept items where at least seven out of ten linguists concurred, yielding 109 such items, of which 97 were used, with three added where Agree and Moderately agree totaled nine or ten for content balance.
@@ -37,13 +37,15 @@ The Inquiry's items were not invented: the attitudes tested were heard in method
 - valid measurement of language attitudes for instructional planning
 
 ### Claims
-- 
+
+- [Linguist review of draft items revealed communication problems with terminology and imprecisely reasoned attitude statements](../claims/linguist-review-revealed-item-communication-problems.md) [+W]
 
 ## Related Patterns
 - 
 
 ## Examples
--
+
+- [Administer the Inquiry with classroom test procedures and interpret by item-by-item comparison with expert votes](../strategies/inquiry-item-by-item-expert-comparison-strategy.md)
 
 ## Key Sources
 - Frogner, Ellen A. (1969). Using the Language Inquiry as a Teaching Device. Illinois State-Wide Curriculum Study Center in the Preparation of Secondary English Teachers (ISCPET). https://eric.ed.gov/?id=ED034768

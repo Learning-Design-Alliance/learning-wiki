@@ -97,10 +97,12 @@ Unit or multi-day lesson sequence — one full 5E arc typically spans one to two
 **Learners with language or learning differences:** Pre-teach key vocabulary with visuals before Engage; provide written Explore protocols and sentence frames for constructing explanations during Explain and Elaborate.
 
 ## Related Patterns
+
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — shares the experience-before-abstraction logic; 5E applies it to scientific concepts while apprenticeship applies it to expert practice
 - [Direct Instruction](direct-instruction.md) — the Explain phase is a direct-instruction episode; 5E differs by embedding it in an experiential sequence
 - [Anchored Instruction](anchored-instruction.md) — both begin with a rich phenomenon or problem that anchors subsequent learning
 - [Case-Based Learning](case-based-learning.md) — alternative experience-first structure using cases rather than hands-on investigation
+- [Full-immersion day structure: morning background lectures, afternoon group laboratories, evening observation](full-immersion-lecture-lab-day-structure.md)
 
 ## Examples
 **BSCS Science: An Inquiry Approach:** The Biological Sciences Curriculum Study developed 5E and built its high school curriculum around full 5E units, with multi-day Explore phases using laboratory and field investigations. ([https://bscs.org](https://bscs.org))

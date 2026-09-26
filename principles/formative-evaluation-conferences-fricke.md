@@ -43,7 +43,10 @@ The article recommends conferences and feedback through which the student is inf
 - 
 
 ## Examples
--
+
+- [Establish evaluative criteria as a creative project evolves through student-faculty feedback conferences](../strategies/evolving-criteria-feedback-conferences.md)
+- [Self Monitoring In Writing](../strategies/self-monitoring-in-writing.md)
+- [Grading by contract: students propose specific work and criteria within teacher-presented options](../patterns/grading-by-contract-fricke.md)
 
 ## Key Sources
 - Fricke, B. G. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854

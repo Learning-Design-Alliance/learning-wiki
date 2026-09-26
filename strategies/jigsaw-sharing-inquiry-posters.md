@@ -39,7 +39,12 @@ After teams reproduce another team's image, decoded drawings are returned and ea
 - comfort in solving an engineering problem
 
 ## Related Strategies
-- 
+
+- [Modified Jigsaw Activities](modified_jigsaw_activities.md)
+- [Jigsaw Method](jigsaw_method.md)
+- [Jigsaw](jigsaw.md)
+- [Jigsaw Classroom](jigsaw-classroom.md)
+- [Numbered Heads Together](numbered-heads-together.md)
 
 ## Examples
 -

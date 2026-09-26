@@ -16,7 +16,7 @@ sources:
 # Two competing measurement models of the EF–math relation: latent EF as primary influence versus specific EF components as primary influences
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study, `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article formalizes two conceptual models for how EF relates to children's math achievement: "Model 1, which illustrates latent EF as the primary influence on math (represented in the model by a single common factor), and Model 2, which illustrates specific components of EF as the primary influences on math." Model 1 implies EF–math relations reflect the extent to which tasks measure the same construct, and predicts EF interventions affect math only via influences general to all EF tasks. Model 2 implies components differentially influence math, predicting component-specific interventions can transfer regardless of latent EF. The two specifications yield substantively different causal interpretations even when explaining similar total variance.
@@ -37,14 +37,18 @@ The article formalizes two conceptual models for how EF relates to children's ma
 - executive function
 
 ### Claims
+
 - [Latent Ef Factor Preferred Ecls K Math](../claims/latent-ef-factor-preferred-ecls-k-math.md) [+M]
 - [Meta Analytic Replication Latent Ef Model](../claims/meta-analytic-replication-latent-ef-model.md) [+M]
+- [Math achievement correlates more strongly with EF components than EF components correlate with each other in early childhood](../claims/math-correlates-more-with-ef-than-ef-internally.md) [+W]
+- [Under the components model in ECLS-K, working memory is the most closely associated EF component with math, but only at time point 1 does it show a positive residual correlation beyond latent EF](../claims/working-memory-strongest-component-association-ecls-k.md) [+W]
 
 ## Related Theories
 - 
 
 ## Examples
--
+
+- [EF interventions aiming to transfer to mathematics should target factors general to all EF components rather than specific components](../principles/ef-interventions-target-general-factors-for-math-transfer.md)
 
 ## Key Sources
 - Nguyen, T., Duncan, R.J., & Bailey, D.H. (2019). Theoretical and methodological implications of associations between executive function and mathematics in early childhood. Contemporary Educational Psychology. https://doi.org/10.1016/j.cedpsych.2019.04.002

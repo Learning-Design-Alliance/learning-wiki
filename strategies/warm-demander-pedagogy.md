@@ -12,7 +12,7 @@ generated:
 # Warm Demander Pedagogy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 3 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Warm demander pedagogy combines two things often treated as opposites: uncompromising academic expectations and deep personal warmth. The teacher insists that all students meet rigorous standards, provides the scaffolding to get there, and frames demands as evidence of belief in students' capability. The term originates with Kleinfeld (1975), who studied teachers of Inuit and Alaska Native students and found that those who paired personal warmth with firm expectations were the most effective, outperforming both permissive and technically skilled but emotionally distant teachers.

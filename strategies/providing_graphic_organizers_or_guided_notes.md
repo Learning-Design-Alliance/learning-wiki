@@ -60,9 +60,11 @@ The strategy works because it offloads the selection and organization stages of 
 6. Use the completed organizer as a retrieval or application tool afterward — a review prompt, a basis for discussion, or a pre-writing structure ([Practice](../elements/practice.md) — if unavailable, use application activities directly).
 
 ## Related Strategies
+
 - Activating prior knowledge — a front-loaded organizer serves the same preparatory function before content begins
 - Annotating texts — the same external-structuring logic applied to reading rather than listening
 - Structured lecture pauses — pauses give learners the time the organizer assumes
+- [Teacher-provided graphic map as review](teacher-provided-advance-graphic-map.md)
 
 ## Examples
 - **Cornell-style guided notes** in large introductory lectures: cue column and summary section pre-printed, notes area completed live; widely used in developmental-education and UDL implementations.

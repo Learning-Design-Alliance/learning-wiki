@@ -42,10 +42,15 @@ This principle holds that critical communication pedagogy, alongside emancipatin
 - [Species Eulogy Fosters More Than Human Recognition](../claims/species-eulogy-fosters-more-than-human-recognition.md) [+M]
 
 ## Related Principles
-- 
+
+- [Cultivate ecologically just speculative futurity as requisite to political praxis](ecologically-just-speculative-futurity-for-praxis.md)
+- [Figure environmental justice and social justice as co-constitutive projects toward ecological justice](entangle-environmental-and-social-justice.md)
+- [Render planetary ecological crisis concrete, embodied, proximal, and implicative for students](render-ecological-crisis-concrete-embodied-proximal.md)
+- [Critique of language in CCP must include critique of humanism and humanist historicization](critique-language-includes-critique-of-humanism.md)
 
 ## Examples
--
+
+- [Assign speculative theory-fiction writing to build students' capacity for ecologically just futurity](../strategies/speculative-theory-fiction-assignment.md)
 
 ## Key Sources
 - Rife, T. S. (2025). Critical Communication Pedagogy at the End of the World. Journal of Communication Pedagogy. https://doi.org/10.31446/JCP.2025.1.07

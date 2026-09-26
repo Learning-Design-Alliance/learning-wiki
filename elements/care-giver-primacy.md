@@ -41,10 +41,12 @@ Care-Giver Primacy is a component the article advances within the CMR model to r
 - [Cmr Context Metaphor Relationship Model](../theories/cmr-context-metaphor-relationship-model.md)
 
 ## Related Elements
-- 
+
+- [Metaphor anchors for supporting newly admitted youths](metaphor-anchors-admissions.md)
 
 ## Examples
--
+
+- [Conduct admissions as a gradual therapeutic process examining needs, forming relationships, involving supports, and celebrating arrival](../strategies/gradual-therapeutic-admission-strategy.md)
 
 ## Key Sources
 - Williams, Paul A. (1995). Developing a Model to Ease Youths' Transitions into Residential Treatment: Integrating Constructivist Therapies and Youth Care Work into a Contextually Relevant Rite of Passage. Nova Southeastern University. https://eric.ed.gov/?id=ED398498

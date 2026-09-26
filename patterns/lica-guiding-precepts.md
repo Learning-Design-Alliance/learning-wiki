@@ -42,10 +42,12 @@ The LICA thesis embraces instruction, learning, school-wide programming and soci
 - 
 
 ## Related Patterns
-- 
+
+- [Experience with Languaging Activities (ELAs) guided by a sequence of experience-based questions](experience-with-languaging-activities.md)
 
 ## Examples
--
+
+- [Embed units of assistance and enrichment into the fabric of textual material so they are unobtrusive yet available for reader use](../strategies/embedded-aids-to-readers.md)
 
 ## Key Sources
 - Manzo, Anthony V.; Sherk, John K., Jr. (1977). Reading and "Languaging in the Content Areas" A Third Generational Approach. https://eric.ed.gov/?id=ED136190

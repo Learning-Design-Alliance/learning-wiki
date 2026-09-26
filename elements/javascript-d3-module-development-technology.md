@@ -38,10 +38,14 @@ JavaScript is an interpreted scripting language whose functionality "will be fam
 - interactive visualization of astrophysical concepts
 
 ## Related Elements
-- 
+
+- [Python with matplotlib as a module-development technology leveraging existing graduate research skills](python-matplotlib-module-development-technology.md)
+- [Wolfram Computable Document Format as a module-development technology](wolfram-cdf-module-development-technology.md)
+- [WorldWide Telescope as a module-development technology requiring the least technical experience](wwt-module-development-technology.md)
 
 ## Examples
--
+
+- [Instructor recommendations for running a module-development course project](../strategies/module-development-course-recommendations.md)
 
 ## Key Sources
 - Nathan E. Sanders, Chris Faesi, Alyssa A. Goodman. (2013). A New Approach to Developing Interactive Software Modules through Graduate Education. https://arxiv.org/abs/1308.1908

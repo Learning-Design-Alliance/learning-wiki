@@ -43,10 +43,14 @@ During the inquiry introduction, facilitators should make students conscious of 
 - 
 
 ## Related Principles
-- 
+
+- [Help students understand disciplines as modes of inquiry rather than static bodies of information](disciplines-as-modes-of-inquiry.md)
+- [Use backward design: define process, attitudinal, and content goals before designing the inquiry activity](backward-design-goals-first-inquiry.md)
 
 ## Examples
--
+
+- [Stellar Populations inquiry activity in which students construct their own Hertzsprung-Russell diagram from stellar images and spectra](../elements/stellar-populations-inquiry-activity.md)
+- [Use a burning-fuel analogy thinking tool to bridge data trends to stellar lifetimes and mass-to-energy conversion](../strategies/burning-fuel-thinking-tool-stellar-lifetimes.md)
 
 ## Key Sources
 - Rafelski, M., Foley, M., Graves, G. J., Kretke, K. A., Mills, E., Nassir, M., & Patel, S. (2010). Teaching Astronomy with an Inquiry Activity on Stellar Populations. ASP Conference Series. https://arxiv.org/abs/1009.5404

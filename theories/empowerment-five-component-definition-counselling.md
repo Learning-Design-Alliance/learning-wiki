@@ -42,7 +42,11 @@ The article defines empowerment in counselling by drawing on social work, commun
 - 
 
 ## Related Theories
-- 
+
+- [Peer counselling empowerment as a process by which people, organizations and communities gain mastery over their lives](peer-counselling-empowerment-process.md)
+- [McWhirter's four-requirement empowerment model as a framework for adventure therapy programs](mcwhirter-four-requirement-empowerment-model.md)
+- [Empowerment theory with relational and cognitive dimensions frames the predicted benefits of peer discussion](empowerment-theory-relational-cognitive-dimensions-gsa.md)
+- [Five Cs model of counsellor education: Collaboration, Competence, Context, Critical Consciousness, and Community](five-cs-empowerment-counsellor-education-model.md)
 
 ## Examples
 -

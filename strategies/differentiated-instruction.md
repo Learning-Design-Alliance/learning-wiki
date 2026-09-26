@@ -12,7 +12,7 @@ generated:
 # Differentiated Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies, `q2`–`q4` · 8 of 10 report an effect size
+> **Evidence** · 4 claims (4 for) · 10 studies, `q1`–`q4` · 7 of 10 report an effect size
 
 ## Description
 Differentiated instruction is a framework in which teachers proactively plan varied approaches to content (what students learn), process (how they work), and product (how they demonstrate learning), based on ongoing assessment of readiness, interest, and learner profile. The goal is not individualized instruction for every student, but a small number of purposeful pathways converging on the same essential learning goals.

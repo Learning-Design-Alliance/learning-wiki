@@ -46,7 +46,9 @@ The paper closes with concrete guidance for trainers designing their own experie
 - 
 
 ## Examples
--
+
+- [Enhancing the Skills of Early Childhood Trainers training pack](../elements/enhancing-skills-early-childhood-trainers-pack.md)
+- [Deliver structured CT centring training and integrate automated positioning technology with retained professional expertise](../strategies/structured-ct-centring-training-and-automated-positioning-integration.md)
 
 ## Key Sources
 - Torkington, Kate. (1996). The Rationale for Experiential/Participatory Learning. Working Papers in Early Childhood Development 16. Bernard van Leer Foundation. https://eric.ed.gov/?id=ED392940

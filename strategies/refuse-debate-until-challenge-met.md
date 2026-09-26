@@ -39,7 +39,8 @@ A communication strategy for educators and scientists facing pseudoscientific cl
 - understanding that unmet easy challenges argue against pseudoscientific claims
 
 ## Related Strategies
-- 
+
+- [Debate](debate.md)
 
 ## Examples
 -

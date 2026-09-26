@@ -39,7 +39,11 @@ The essay discriminates four levels of cross-cultural awareness: Level I, awaren
 - 
 
 ## Related Theories
-- 
+
+- [Hanvey's five-dimension framework for an attainable global perspective](hanvey-five-dimensions-global-perspective.md)
+- [Perspective consciousness: recognizing that one's view of the world is shaped, partial, and not universally shared](perspective-consciousness-hanvey.md)
+- [Hanvey's attainable global perspective: four components of global awareness](hanvey-attainable-global-perspective.md)
+- [Transspection: imagining oneself in a role within a foreign culture, a step beyond empathy](transspection-beyond-empathy.md)
 
 ## Examples
 -

@@ -40,7 +40,10 @@ Students view pictures of stars one at a time and write questions on large sente
 - stellar populations content
 
 ## Related Strategies
-- 
+
+- [Set aside off-topic student questions as QWWNDW ATTs and tell students in advance that many questions will fall in this category](qwwndw-att-question-parking.md)
+- [Sort And Classify](sort-and-classify.md)
+- [Sorting and Classifying](sorting_and_classifying.md)
 
 ## Examples
 -

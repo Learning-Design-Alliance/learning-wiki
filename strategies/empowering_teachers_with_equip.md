@@ -62,9 +62,11 @@ EQUIP works by making the invisible visible: teachers' implicit calling patterns
 6. **Re-observe.** Repeat the cycle to check whether the change shifted participation patterns, closing the formative-assessment loop [Assess Performance](../elements/assess-performance.md).
 
 ## Related Strategies
+
 - [Formative Assessment](../patterns/formative-assessment.md) — EQUIP applies the same evidence-adjust cycle to teacher practice rather than student learning
 - [Instructional Coaching](../elements/coaching.md) — EQUIP data give coaching conversations a shared, objective anchor
 - [Video-Based Reflection](../elements/video-based-reflection.md) — recording lessons enables EQUIP coding after the fact and repeated analysis
+- [Disaggregate participation data intersectionally by race and gender to surface disparities hidden in aggregate analyses](strategies-disaggregate-participation-data-intersectionally.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — EQUIP is performance assessment applied to teaching practice

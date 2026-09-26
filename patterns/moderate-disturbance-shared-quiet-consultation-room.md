@@ -40,7 +40,9 @@ For moderately disturbed children the booklet relaxes the severe-disorder scheme
 - 
 
 ## Related Patterns
-- 
+
+- [Mild-disturbance classrooms approach conventional classrooms with minimal enclosed space](mild-disturbance-conventional-classroom-minimal-enclosure.md)
+- [Rigid zoning with clearly separated noisy and quiet areas for severely disturbed children](severe-disturbance-rigid-noisy-quiet-zoning.md)
 
 ## Examples
 -

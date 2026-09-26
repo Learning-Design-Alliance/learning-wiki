@@ -16,7 +16,7 @@ sources:
 # A six-concept bipolar classification system for LOA measurement techniques
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Chapter III presents a classification of LOA measurement techniques built from bipolar concepts: direct vs. indirect, continuous vs. categorical item selection, multiple- vs. single-item, free vs. structured response, complete vs. incomplete, and balanced vs. unbalanced. The authors state that "All techniques known to the writersmay be described in terms of onlya few of the 64 possible combinations which result from the classification", with all existing techniques except the OAS falling into three types. The system is used to evaluate commercial and non-commercial LOA instruments.
@@ -36,10 +36,14 @@ Chapter III presents a classification of LOA measurement techniques built from b
 - measuring level of occupational aspiration for research and counseling
 
 ### Claims
-- 
+
+- [Direct LOA techniques are more effective in practice than indirect techniques because they derive explicitly from the occupational hierarchy](../claims/direct-loa-techniques-more-effective-than-indirect.md) [+W]
+- [Free-response LOA techniques produce high non-response rates because many respondents answer in non-hierarchical or uncodable terms](../claims/free-response-loa-high-nonresponse.md) [+W]
+- [Predicted correlates of LOA are borne out about half the time and predicted noncorrelates about 70 percent of the time](../claims/loa-correlates-predictions-borne-out.md) [+W]
 
 ## Related Theories
-- 
+
+- [Level of occupational aspiration (LOA) as a special instance of level-of-aspiration theory with expression levels and goal periods](loa-expression-levels-and-goal-periods-framework.md)
 
 ## Examples
 -

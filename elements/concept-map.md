@@ -51,11 +51,13 @@ Concept mapping supports meaningful learning by forcing learners to identify rel
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — cross-links between distant branches of a map are where analogies surface; prompting learners to add cross-links directly exercises relational mapping across domains
 
 ## Related Elements
+
 - [Advance Organizers](advance-organizers.md) — a completed concept map is a graphic form of organizer presented before instruction
 - [Annotating](../principles/annotating.md) — the textual counterpart: marking relationships in prose rather than diagramming them
 - [Analogies](analogies.md) — cross-links in a map often encode analogical relationships; both depend on relational reasoning
 - [Application](application.md) — maps should be revised after application tasks, when structural understanding has been tested
 - [Assessment](assessment.md) — concept maps serve as formative assessment of knowledge structure, not just content recall
+- [Concept/semantic map](concept-semantic-map-element.md)
 
 ## Patterns That Use This Element
 - [5E Learning Cycle](../patterns/5e-learning-cycle.md) — mapping in the "Explain" and "Elaborate" phases to consolidate relationships

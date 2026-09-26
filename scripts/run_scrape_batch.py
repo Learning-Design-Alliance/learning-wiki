@@ -382,6 +382,16 @@ def run(args) -> None:
         _run_chained_step([sys.executable, "-u", "scripts/link_claims.py", "--new", "--apply",
                            "--out", f"eval/runs/claim-links/{args.label}.ndjson"],
                           SCRAPE_CONSOLE_LOG_PATH)
+        # The batch's theories, principles, patterns, elements and strategies land
+        # unlinked the same way: 718 pages had no link in or out on 2026-09-27.
+        # link_pages.py links each to its source's other pages and to neighbours of
+        # any kind; a claim it cites changes that page's evidence profile.
+        print(f"\n=== linking this batch's other new pages ===", flush=True)
+        _run_chained_step([sys.executable, "-u", "scripts/link_pages.py", "--new", "--apply",
+                           "--out", f"eval/runs/page-links/{args.label}.ndjson"],
+                          SCRAPE_CONSOLE_LOG_PATH)
+        _run_chained_step([sys.executable, "-u", "scripts/add_evidence_profile.py", "--apply"],
+                          SCRAPE_CONSOLE_LOG_PATH)
         _run_chained_step([sys.executable, "-u", "scripts/build_indexes.py"], SCRAPE_CONSOLE_LOG_PATH)
 
         print(f"\n=== lint ===", flush=True)

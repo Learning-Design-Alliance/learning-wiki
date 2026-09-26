@@ -45,7 +45,8 @@ Video modeling pedagogy (attributed to Brown, 2007-2010) has students create sim
 - 
 
 ## Examples
--
+
+- [Teach the five steps of scientific investigation through personally motivating video analysis and modeling projects](../strategies/video-analysis-modeling-sport-science-strategy.md)
 
 ## Key Sources
 - Wee, L. K., & Lee, T. L. (2011). Video Analysis and Modeling Tool for Physics Education. Paper presented at the 4th Redesigning Pedagogy International Conference, Singapore. http://weelookang.blogspot.com/2011/05/video-analysis-and-modeling-tool-for.html

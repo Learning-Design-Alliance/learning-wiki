@@ -11,7 +11,7 @@ generated:
 # Constructivism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 8 studies, `q2`–`q4` · 7 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Constructivism is the broad view that learners actively build understanding by connecting new experiences and information to what they already know. Rather than treating knowledge as something transmitted whole from teacher to learner, constructivist perspectives emphasize interpretation, prior knowledge, social interaction, and meaning-making.
@@ -41,6 +41,7 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 
 ## Related Theories
+
 - [Sociomaterial Agency of Tools](sociomaterial-agency-of-tools.md) — extends constructivism by treating the material substrate of a hands-on task, not just the learner's cognitive engagement with it, as consequential for what gets learned
 - [Stages of Cognitive Development](stages-of-cognitive-development.md) — Piaget's stage theory is the direct historical foundation constructivism builds on
 - [Self-Regulated Learning](self-regulated-learning.md) — constructivist learning often depends on learners monitoring and revising their own understanding
@@ -50,6 +51,11 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Sociocultural Theory](sociocultural-theory.md) — Vygotsky is a direct historical source for constructivism's emphasis on social interaction and meaning-making
 - [Situated Learning](situated-learning.md) — shares constructivism's emphasis on authentic context, but centers participation in social practice rather than individual meaning-making
 - [Constructionism](constructionism.md) — Papert's extension of constructivism, adding the requirement that learning takes the form of building a public, shareable artifact
+- [Co-constructionism requires an active individual, an active environment, and culture](co-constructionism-active-individual-environment-culture.md)
+- [Constructivism as a theory of knowledge and learning with individualistic, social, and combined branches](constructivism-knowledge-learning-theory-branches.md)
+- [Constructivist prescriptive principles for learning environments](constructivist-prescriptive-principles.md)
+- [Piaget's genetic epistemology studies how the human mind moves from less sufficient to higher knowledge](piaget-genetic-epistemology-constructivist-knowing.md)
+- [Vygotsky's social constructivism: psychological phenomena emerge from social interaction](social-constructivism-vygotsky-social-interaction.md)
 
 ## Examples
 - [Inquiry-based Learning](../principles/inquiry-based-learning.md)

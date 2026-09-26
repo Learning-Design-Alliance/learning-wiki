@@ -12,7 +12,7 @@ generated:
 # Establish Group Norms
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies, `q2`–`q4` · 5 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies, `q1`–`q4` · 4 of 6 report an effect size
 
 ## Description
 Establishing group norms means making the expected behaviors of a collaborative group explicit — how members speak, listen, disagree, share work, and make decisions — and then reinforcing those expectations over time. Norms are typically co-created with learners at the start of a collaboration cycle, posted visibly, and revisited when group functioning breaks down.
@@ -58,8 +58,10 @@ Group norms function as procedural scaffolds: they remove the need for learners 
 5. Debrief against the norms: ask groups to rate which norms they followed and which need work; revise the list as needed.
 
 ## Related Strategies
+
 - [Establish Group Norms](establish-group-norms.md) — this page
 - Norm-setting pairs naturally with role assignment and accountability structures; see [Assigned Positions](../elements/assigned-positions.md) for distributing responsibility within groups.
+- [Implement cooperative learning with real problems, slow growth, team building, a safe environment, teacher modeling, mixed academic levels, and a teacher shift from directing to facilitating](aids-to-cooperative-learning-implementation.md)
 
 ## Examples
 - **Cooperative learning structures (Kagan; Johnson & Johnson)** — Team norms such as "everyone participates, no one dominates" are built into structures like RoundRobin and paired with individual accountability quizzes.

@@ -12,7 +12,7 @@ generated:
 # Brainstorming 'Stuff We Want to Know About'
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 8 studies, `q3`–`q4` · 6 of 8 report an effect size
+> **Evidence** · 3 claims (2 for, 1 against) · 8 studies, `q1`–`q4` · 5 of 8 report an effect size
 
 ## Description
 Learners and instructors co-create an ongoing list of questions and topics of interest related to course content, typically generated from a stimulus (a phenomenon, text, image, or event) and maintained publicly across a unit or term. The list functions as both a motivational device — giving learners voice and choice — and an instructional map, since selected questions can drive inquiry projects, case explorations, and discussions.

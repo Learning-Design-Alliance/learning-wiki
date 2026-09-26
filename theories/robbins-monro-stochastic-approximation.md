@@ -42,7 +42,10 @@ The article treats the Robbins-Monro stochastic approximation procedure as an it
 - 
 
 ## Examples
--
+
+- [Use stochastic approximation for sequential parameter estimation when observations are noisy and each observation is costly](../principles/sequential-noisy-estimation-principle.md)
+- [Iteration-coefficient sequences as the controllable design element of stochastic approximation](../elements/iteration-coefficient-sequence.md)
+- [Select iteration coefficients according to the proved convergence condition when implementing stochastic approximation](../strategies/coefficient-selection-strategy.md)
 
 ## Key Sources
 - Wolff, Hans. (1970). On Stochastic Approximation. https://eric.ed.gov/?id=ED051258

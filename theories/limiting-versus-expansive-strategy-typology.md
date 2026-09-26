@@ -44,7 +44,8 @@ The article develops a coding typology distinguishing four "limiting" strategies
 - 
 
 ## Examples
--
+
+- [Use context-rich multifaceted problems with TA scaffolding and group exams to create epistemic doubt in large introductory courses](../strategies/multifaceted-problems-create-epistemic-doubt.md)
 
 ## Key Sources
 - C. A. Ogilvie. (2006). Impact of Context-Rich, Multifaceted Problems on Students' Attitudes Towards Problem-Solving. https://www.physics.iastate.edu

@@ -40,7 +40,9 @@ Within Merrill's framework, the problem-centered element holds that "Learning is
 - 
 
 ## Related Patterns
-- 
+
+- [Merrill's First Principles of Instruction](merrills-first-principles-of-instruction.md)
+- [Merrill's First Principles](merrills-first-principles.md)
 
 ## Examples
 -

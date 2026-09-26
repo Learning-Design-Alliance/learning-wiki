@@ -40,7 +40,8 @@ The paper presents collaboration between Indigenous and non-Indigenous academics
 - [Foucauldian Episteme Indigenous Knowledges Framework](../theories/foucauldian-episteme-indigenous-knowledges-framework.md)
 
 ## Related Strategies
-- 
+
+- [Cultivation of Multiple Ways of Knowing and Making Meaning](cultivation_of_multiple_ways_of_knowing_and_making_meaning.md)
 
 ## Examples
 -

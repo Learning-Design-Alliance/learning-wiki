@@ -42,7 +42,8 @@ The summer school organizes each day so that lectures prepare hands-on work: "In
 - 
 
 ## Related Patterns
-- 
+
+- [5E Learning Cycle](5e-learning-cycle.md)
 
 ## Examples
 -

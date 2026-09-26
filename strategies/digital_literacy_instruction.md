@@ -12,7 +12,7 @@ generated:
 # Digital Literacy Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 13 studies, `q3`–`q4` · 12 of 13 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (6 for) · 13 studies, `q2`–`q4` · 11 of 13 report an effect size · 1 claim rests on one study
 
 ## Description
 Digital literacy instruction teaches learners how to effectively use digital technology, communication tools, and networks to locate, evaluate, use, and create information. It spans operational skills (using devices, search engines, and platforms), information literacy (judging credibility and relevance of sources), and productive skills (creating and communicating digital content). Effective programs treat evaluation and creation as core, not add-ons: learners who only receive tool training do not transfer skills to new platforms or unfamiliar information contexts.
@@ -59,8 +59,10 @@ Digital literacy is best taught through authentic tasks — real searches, real 
 6. Revisit and re-practice across the term; [spaced repetition improves retention](../claims/spaced-repetition-improves-retention.md) [+M]
 
 ## Related Strategies
+
 - Media literacy and civic online reasoning programs — the evaluation-focused branch of digital literacy with the strongest outcome evidence
 - Inquiry-based research projects — the authentic-task context in which digital literacy skills are most durably applied
+- [Support digital inclusion through onboarding processes, device lending and technical support when deploying digital learning programmes with older adults](digital-inclusion-onboarding-device-lending.md)
 
 ## Examples
 - **Stanford History Education Group — Civic Online Reasoning curriculum** ([https://cor.stanford.edu](https://cor.stanford.edu)): free lessons teaching lateral reading, source checking, and evidence evaluation; field-tested in classrooms with measured pre/post gains.

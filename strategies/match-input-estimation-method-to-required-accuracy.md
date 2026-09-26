@@ -40,7 +40,10 @@ The report advises choosing how to determine simulation input parameters accordi
 - [Descriptive Simulation Modeling Framework Es Office](../theories/descriptive-simulation-modeling-framework-es-office.md)
 
 ## Related Strategies
-- 
+
+- [Use simulation as a non-threatening alternative to direct experimentation when testing office reorganizations](simulation-as-non-threatening-experimentation-alternative.md)
+- [Initialize BKT parameters from simulated student data when no human data is available](initialize-bkt-parameters-from-simulated-data.md)
+- [Estimate a skill's minimum BKT-BF RSS a priori from dim, n, and percent_correct before running the full grid search](estimate-minimum-rss-from-skill-variables.md)
 
 ## Examples
 -

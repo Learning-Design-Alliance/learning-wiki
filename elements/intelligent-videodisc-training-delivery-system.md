@@ -37,10 +37,12 @@ An intelligent videodisc system is a configuration in which a computer drives th
 - Interactive practice with feedback, scoring, record-keeping, simulations, and learner-controlled sequencing
 
 ## Related Elements
-- 
+
+- [Videodisc authoring and production system (VAPS)](videodisc-authoring-production-system-vaps.md)
 
 ## Examples
--
+
+- [Build L1 commands for survey and learning tactics into delivery system software, with an L2 advisor when strategy is involved](../strategies/delivery-software-needs-l1-survey-learning-tactics.md)
 
 ## Key Sources
 - Bunderson, C. Victor; Campbell, J. Olin; Farr, Beatrice J. (1980). Instructional Systems Development Model for Interactive Videodisc Training Delivery Systems. Volume I: Hardware, Software and Procedures. Army Research Institute Technical Report 511. https://eric.ed.gov/?id=ED220071

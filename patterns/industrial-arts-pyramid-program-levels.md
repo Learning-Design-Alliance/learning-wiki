@@ -40,7 +40,9 @@ The guide recommends a pyramid program structure (Figure 4) in which elementary 
 - 
 
 ## Related Patterns
-- 
+
+- [Level-differentiated emphases: awareness, exploration, specialization](level-differentiated-awareness-exploration-specialization.md)
+- [Recommended scope and sequence with per-cluster course time allocations](recommended-scope-sequence-time-allocations.md)
 
 ## Examples
 -

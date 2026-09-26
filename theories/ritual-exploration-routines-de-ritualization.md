@@ -41,10 +41,13 @@ Drawing on Lavie et al. (2019), the paper describes routines as repetitive patte
 - 
 
 ## Related Theories
-- 
+
+- [Commognition](commognition.md)
+- [Commognitive framework: thinking as communication and learning as participation in mathematical discourse](commognition-framework-thinking-as-communication.md)
 
 ## Examples
--
+
+- [Analyze lecturers' proof discourse for flexibility, bondedness, applicability, agentivity, objectification, and substantiability to study de-ritualization opportunities](../strategies/analyze-lecturer-proof-discourse-for-de-ritualization-characteristics.md)
 
 ## Key Sources
 - Karavi, Mali, & Avraamidou. (2022). Commognition as an approach to studying proof teaching in university mathematics lectures. EURASIA Journal of Mathematics, Science and Technology Education. https://doi.org/10.29333/ejmste/12173

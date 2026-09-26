@@ -41,7 +41,10 @@ The survey reviews deep learning KT in four sub-categories: deep knowledge traci
 - [Xai Interpretation Of Dkt Enhances Trust](../claims/xai-interpretation-of-dkt-enhances-trust.md) [+W]
 
 ## Related Theories
+
 - [Knowledge Tracing Model Taxonomy](knowledge-tracing-model-taxonomy.md)
+- [Adaptive G-UKT: a unified probabilistic knowledge tracing framework coupling Gaussian state representations, adaptive graph topology learning, Wasserstein attention, and uncertainty-gated contrastive regularization](adaptive-g-ukt-unified-probabilistic-framework.md)
+- [Colearn: a multi-task memory-augmented deep learning model jointly predicting knowledge state and hint-taking](colearn-multi-task-hint-knowledge-model.md)
 
 ## Examples
 -

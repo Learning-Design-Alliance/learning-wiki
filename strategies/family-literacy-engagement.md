@@ -60,9 +60,12 @@ The *quality* of family literacy interaction matters more than its quantity: car
 6. Coordinate with classroom instruction so home practice reinforces, rather than repeats, school goals.
 
 ## Related Strategies
+
 - [Read-Alouds](read-alouds.md) — the classroom counterpart; techniques modeled at school can transfer home
 - [Home-School Communication](home-school-communication.md) — the partnership infrastructure that sustains engagement
 - [Vocabulary Instruction](vocabulary-instruction.md) — shared reading is a primary vehicle for incidental vocabulary growth
+- [Provide parent read-at-home plans and home reading strategies for struggling readers](parent-read-at-home-plans.md)
+- [Encourage cognition and literacy by providing varied reading, writing, and drawing materials and building environmental awareness](varied-materials-and-environmental-awareness-encourage-literacy.md)
 
 ## Examples
 - **Dialogic reading interventions** (Whitehurst et al., 1988): parents of preschoolers trained in interactive questioning showed significant gains in children's expressive language relative to controls.

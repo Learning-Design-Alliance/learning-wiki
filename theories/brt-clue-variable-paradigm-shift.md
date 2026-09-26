@@ -16,7 +16,7 @@ sources:
 # BRT clue variable paradigm shift: clues become the learning field itself
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article proposes a paradigm shift in which Bloom's clue variable, originally a parameter affecting teaching quality, is elevated to directly define the learning unit. The article states: "The article removes the clue variable revealed by the taxonomy from the parameters that affect the learning quality and transforms it into an element that directly defines the learning unit." Each borrowed discipline defines a new area of discovery, learning, and creation, replacing the clue's accompanying and supporting role.
@@ -38,13 +38,18 @@ The article proposes a paradigm shift in which Bloom's clue variable, originally
 - discovery-based learning
 
 ### Claims
-- 
+
+- [BRT-guided schedule raised revised course learning outcome degrees for six program learning outcomes](../claims/brt-schedule-raised-plo-degrees.md) [+W]
+- [Students exemplified discovered clues when explaining their designs orally](../claims/students-exemplified-clues-orally.md) [+W]
 
 ## Related Theories
-- 
+
+- [Taxonomy of Educational Objectives: Relational Domain](relational-domain-taxonomy-brandhorst.md)
+- [Bloom's Taxonomy](blooms-taxonomy.md)
 
 ## Examples
--
+
+- [Use discipline-specific clues as design problems to foster analyze and evaluate steps](../strategies/discipline-clues-as-design-problems.md)
 
 ## Key Sources
 - Sözen, G., & Özen-Yavuz, A. (2024). Proposing a course schedule for architectural basic design studio guided by Bloom's Revised Taxonomy. Turkish Journal of Education, 13(4), 379-409. https://doi.org/10.19128/turje.1495965

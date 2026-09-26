@@ -12,7 +12,7 @@ generated:
 # Creative Check-In Questions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 4 of 5 report an effect size
 
 ## Description
 A creative check-in question is a brief, low-stakes prompt posed at the start of a session — e.g., "What's a sound you love?" or "If your week were a weather forecast, what's the forecast?" — that learners answer in one or two sentences aloud, in chat, or on paper. Unlike routine attendance-taking or "any questions from last time?", the question is deliberately novel and personal-but-not-invasive, serving to surface affect, build relational trust, and mark a transition into learning. It is a specific, playful variant of [Check-Ins](../elements/check-in.md).

@@ -12,7 +12,7 @@ generated:
 # Culturally Responsive Curriculum Scorecards
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 6 studies, `q1`–`q4` · 5 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Culturally Responsive Curriculum Scorecards are structured rubric instruments that rate a curriculum or instructional material on dimensions such as representation, authorship diversity, linguistic accessibility, community relevance, and opportunities for student voice. They are typically co-developed and applied by coalitions of educators, families, and students — most prominently through the NYU Metropolitan Center's Culturally Responsive-Sustaining Education framework — converting a values commitment into itemized, scoreable criteria that produce actionable redesign decisions.
@@ -58,8 +58,10 @@ Scorecards operationalize culturally responsive pedagogy by making its criteria 
 5. Revise the curriculum, re-score, and repeat on a regular cycle so the scorecard functions as formative feedback for continuous improvement.
 
 ## Related Strategies
+
 - Curriculum audit and adoption review — scorecards supply the evaluation criteria that adoption committees otherwise apply informally
 - Co-design of curriculum with community partners — the same participatory stance that produces the scorecard produces the revisions
+- [Adapt DL2F to local context by aligning with the national curriculum, using authentic local materials, multilingual approaches, and pragmatic low-bandwidth technology integration](dl2f-philippine-contextual-adaptation-strategy.md)
 
 ## Examples
 - **[NYU Metro Center Culturally Responsive-Sustaining Education Scorecards](https://www.nyusteinhardt.edu/metrocenter/crehub/)** — classroom-, school-, and district-level scorecards aligned to New York State's CR-SE framework, used by districts nationally for curriculum and policy evaluation.

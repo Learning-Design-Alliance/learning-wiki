@@ -46,7 +46,8 @@ The article recommends that pronunciation-focused audio discussions be embedded 
 - 
 
 ## Examples
--
+
+- [VoiceThread interpersonal audio discussion activities for L2 pronunciation practice](../elements/voicethread-interpersonal-audio-discussions.md)
 
 ## Key Sources
 - Lepore, C. E. (2014). Influencing Students' Pronunciation and Willingness to Communicate through Interpersonal Audio Discussions. Dimension 2014. http://www.voicethread.com

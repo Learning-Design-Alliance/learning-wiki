@@ -12,7 +12,7 @@ generated:
 # Providing Accessible Educational Tools
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 8 studies, `q3`–`q4` · 7 of 8 report an effect size
+> **Evidence** · 3 claims (2 for, 1 against) · 8 studies, `q1`–`q4` · 6 of 8 report an effect size
 
 ## Description
 Providing easy access to a variety of educational tools empowers students to take control of their learning. This approach involves making resources readily available in the classroom and explicitly teaching students how and when to use each tool. Tools include manipulatives, graphic organizers, audio recordings, magnifying paper, highlighters, [Choice Boards](../elements/choice-boards.md), learning menus, and timers — functioning both as [Accommodations](../elements/accommodations.md) for identified learners and as universal supports available to all.

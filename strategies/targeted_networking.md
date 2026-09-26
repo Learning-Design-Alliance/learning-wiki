@@ -59,9 +59,11 @@ Network research shows that valuable resources — information, referrals, spons
 6. Maintain reciprocity: track what you have offered, follow up on outcomes, and share results with those who helped ([Check-ins](../principles/check-ins.md) as relationship maintenance).
 
 ## Related Strategies
+
 - Informational interviewing — a targeted, structured form of outreach to a specific contact for domain knowledge
 - Finding a mentor — the dyadic, sustained version of targeted relationship-building
 - Participating in professional conferences — a venue where targeted preparation (identifying attendees in advance) dramatically raises yield
+- [Connect learners with external collaborators](connect-external-collaborators.md)
 
 ## Examples
 - **Research lab rotation programs** (e.g., undergraduate research placements such as [NSF REU](https://www.nsf.gov/funding/opportunities/reu)) — students build durable ties with faculty and peers through high-stakes shared research rather than casual contact.

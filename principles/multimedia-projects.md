@@ -25,7 +25,7 @@ sources:
 # Multimedia Projects
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies, `q2`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Multimedia projects ask learners to create meaning through more than one medium, such as text, image, audio, video, interaction, or digital composition. The instructional value is not simply using technology; it is requiring learners to make design choices about how best to represent, explain, and communicate an idea. These projects can deepen engagement and expression, but they also raise the complexity of planning, composing, and production.
@@ -71,10 +71,12 @@ Multimedia projects are valuable when the medium choices themselves become part 
 - [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~M] — these projects are strongest when they resemble authentic communication or production tasks rather than isolated tool exercises
 
 ## Related Principles
+
 - [Multimodal Instruction](multimodal-instruction.md) — multimedia projects extend multimodal input into multimodal production.
 - [Creating Visual Representations](creating-visual-representations.md) — many multimedia projects rely on visual representation as part of explanation.
 - [Process-Based Writing](process-based-writing.md) — multimedia composition still benefits from drafting, feedback, and revision cycles.
 - [Learner Choice](learner-choice.md) — projects often work best when learners have some bounded choice over topic, medium, or audience.
+- [Multimedia literacy is developed through producing multimedia](multimedia-literacy-through-production.md)
 
 ## Examples
 - **Digital storytelling**: Learners combine narration, visuals, and sequencing to explain an experience or concept.

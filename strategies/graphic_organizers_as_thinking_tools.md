@@ -59,8 +59,10 @@ Graphic organizers work because they externalize relational structure: spatial a
 5. Revise and consolidate, connecting the final structure to the [Application](../elements/application.md) task that follows.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — organizers can serve as the elicitation vehicle, surfacing existing structure before new content reshapes it
 - [Concept Mapping](../elements/concept-mapping.md) — the specific, research-dense form of this strategy using labeled propositional links
+- [Student-generated mapping exercise](student-generated-mapping-strategy.md)
 
 ## Related Elements
 - [Advance Organizers](../elements/advance-organizers.md) — a provided frame given *before* content, priming the structure learners will fill in

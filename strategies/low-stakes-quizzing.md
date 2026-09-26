@@ -60,9 +60,11 @@ Retrieval practice produces substantially larger and more durable learning gains
 6. Follow with application or [practice](../elements/practice.md) that uses the retrieved knowledge in a new context.
 
 ## Related Strategies
+
 - [Spaced Practice](../principles/spaced-practice.md) — spacing quizzes multiplies the retention benefit of each retrieval event
 - [Formative Assessment](../strategies/formative-assessment.md) — low stakes quizzing is the most frequent, granular instrument of a formative system
 - [Interleaving](../strategies/interleaving.md) — mixing item types within quizzes forces discrimination between concepts
+- [Increase the use of feedback and correctives through mastery learning procedures](formative-tests-with-corrective-feedback.md)
 
 ## Examples
 - **[Retrieval Practice](https://www.retrievalpractice.org)** (Agarwal & Bain) — classroom guides and research summaries for implementing low stakes quizzing across K–12 subjects.

@@ -12,7 +12,7 @@ generated:
 # Varying Levels of Choice in Assessments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies, `q1`–`q4` · 2 of 3 report an effect size
 
 ## Description
 Varying levels of choice in assessments means deliberately calibrating how much decision-making authority students have over what they are assessed on — from fully assigned topics, to constrained choice among options, to open-ended self-selected topics. The strategy is carried out by structuring assessment prompts with tiered options (e.g., choice of topic, choice of format, choice of sources) while holding the assessed criteria constant.
@@ -60,8 +60,10 @@ Choice in assessments supports motivation primarily by satisfying the need for a
 6. After the assessment, have students briefly justify how their choice served the learning goals, connecting choice to [Assessment for Learning](../principles/assessment-for-learning.md).
 
 ## Related Strategies
+
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — the broader classroom structure of which assessment choice is one application
 - [Choice Boards](../elements/choice-boards.md) — the concrete element used to present tiered options
+- [Give learners control over how learning is measured via assessment choices and science-fair-type projects](learner-controlled-assessment-science-fair-projects.md)
 
 ## Examples
 - A history course assigns one essay on "causes of social change" but lets students choose among four case periods; all essays are scored on the same argumentation rubric.

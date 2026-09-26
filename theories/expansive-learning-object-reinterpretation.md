@@ -39,10 +39,13 @@ Drawing on Engeström and on Virkkunen and Kuutti, the article presents expansiv
 - [E Teachers Widen Object Toward Independent Learning](../claims/e-teachers-widen-object-toward-independent-learning.md) [+M]
 
 ## Related Theories
-- 
+
+- [The activity/action/operation hierarchy of activity theory](activity-action-operation-hierarchy.md)
+- [Activity theory: a mediated activity system framework for analyzing cognition in context](activity-theory-mediated-activity-system.md)
 
 ## Examples
--
+
+- [Support e-teachers' transition with professional development focused on reflecting on online-versus-F2F differences and the potential of the tools](../strategies/pd-reflection-online-versus-f2f-differences.md)
 
 ## Key Sources
 - Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl

@@ -38,7 +38,8 @@ The article recommends deploying online technologies within experiential pedagog
 - ongoing critical thinking and engagement outside the classroom
 
 ## Related Strategies
-- 
+
+- [Collaborative Learning Space Design](collaborative_learning_space_design.md)
 
 ## Examples
 -

@@ -60,9 +60,11 @@ Family literacy programs work by changing the *distribution and quality* of lite
 6. **Sustain**: link families to libraries, book distribution programs (e.g., Dolly Parton's Imagination Library), and school communication channels so practices persist after the program ends.
 
 ## Related Strategies
+
 - [Dialogic Reading](../elements/dialogic-reading.md) — the single most-researched coached technique within family literacy programs
 - [Home Visiting](../strategies/home-visiting.md) — a delivery mode that reaches families unlikely to attend center-based sessions
 - [Read-Alouds](../strategies/read-alouds.md) — the classroom counterpart whose techniques programs teach caregivers to replicate at home
+- [Provide parent read-at-home plans and home reading strategies for struggling readers](parent-read-at-home-plans.md)
 
 ## Examples
 - **[ParentChild+](https://parentchildplus.org)** — twice-weekly home visits over two years; a trained visitor models reading and play interactions, then the caregiver practices with feedback, with materials gifted to the family.

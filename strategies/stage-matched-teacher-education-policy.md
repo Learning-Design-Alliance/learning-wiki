@@ -44,7 +44,10 @@ The article's policy section recommends that early training concentrate on perce
 - [Berliner Five Stage Teacher Expertise Theory](../theories/berliner-five-stage-teacher-expertise-theory.md)
 
 ## Related Strategies
-- 
+
+- [Advance community-based lifelong learning through mentoring relationships connecting local expertise with desired learners](mentoring-for-community-lifelong-learning.md)
+- [Mentoring](mentoring.md)
+- [Withdraw mentor support earlier than currently thought, and calibrate how closely mentors work with mentees](withdraw-mentor-support-earlier.md)
 
 ## Examples
 -

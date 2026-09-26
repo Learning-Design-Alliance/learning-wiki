@@ -39,10 +39,12 @@ The final TPI model is materialized as a conceptual map whose key concepts have 
 - organizing research project supervision
 
 ## Related Elements
-- 
+
+- [Student follow-up instruments: initial card, follow-up card, and work diary](tpi-student-followup-instruments.md)
 
 ## Examples
--
+
+- [Organized Online Resources](../strategies/organized_online_resources.md)
 
 ## Key Sources
 - Darder, A.; Pérez Garcias, A. (2015). Online tutoring procedure for research project supervision: management, organization and key elements. New Approaches in Educational Research 4(2). https://doi.org/10.7821/naer.2015.4.110

@@ -37,7 +37,8 @@ The article recommends that because learners within one educational level differ
 - English language learning matched to individual learners' proficiency and prior knowledge
 
 ## Related Strategies
-- 
+
+- [Educators should internalize individual differences and consider the advantages and disadvantages of students' learning styles](educators-consider-learning-style-differences.md)
 
 ## Examples
 -

@@ -42,7 +42,8 @@ The three classic Pippi Longstocking books by Astrid Lindgren (written in Swedis
 - 
 
 ## Examples
--
+
+- [Use Pippi Longstocking experientially in pre-service teacher education to practice educational philosophies.](../strategies/pippi-longstocking-experiential-teacher-education.md)
 
 ## Key Sources
 - Ozturk, N. (2023). Clash of Traditional and Contemporary Educational Philosophies in Pippi Longstocking. EJER Congress 2023 International Eurasian Educational Research Congress Conference Proceedings, Ani Publishing. https://www.youtube.com/watch?v=Cl2Fao763ms

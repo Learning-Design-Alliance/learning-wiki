@@ -16,7 +16,7 @@ sources:
 # Vico's principle that we can rationally know only what we ourselves have made as an early formulation of constructivism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The book identifies Giambattista Vico's 1710 treatise on epistemology as, as far as the author knows, a first explicit formulation of constructivism. Von Glasersfeld recounts that "Vico's notions that we can rationally know only what we ourselves have made, and that the knowledge of poets and myth-makers is of a different kind, fitted well between some of the disconnected ideas in my head." Vico is treated as a pioneer of conceptual analysis alongside Bentham, anchoring the book's philosophical genealogy of radical constructivism.
@@ -36,10 +36,14 @@ The book identifies Giambattista Vico's 1710 treatise on epistemology as, as far
 - understanding the philosophical genealogy of constructivist theories of knowing
 
 ### Claims
-- 
+
+- [Knowledge is not a picture of the real world; its adequacy is tested for logical consistency and experiential validity](../claims/knowledge-viability-not-picture-of-reality.md) [+W]
 
 ## Related Theories
-- 
+
+- [Piaget's genetic epistemology studies how the human mind moves from less sufficient to higher knowledge](piaget-genetic-epistemology-constructivist-knowing.md)
+- [Trial constructivism as the root of constructivism (Piaget's personal constructivism)](trial-constructivism-root-of-constructivism.md)
+- [Constructivism as a theory of knowledge and learning with individualistic, social, and combined branches](constructivism-knowledge-learning-theory-branches.md)
 
 ## Examples
 -

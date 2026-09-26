@@ -12,7 +12,7 @@ generated:
 # Open Communication and Trust
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 6 of 7 report an effect size
 
 ## Description
 Open Communication and Trust is a strategy in which the teacher proactively establishes friendly, accessible channels of communication with students and their families, grounded in mutual respect rather than contact only around problems. When helping students succeed becomes a group effort among teacher, learner, and home, both academic performance and attitudes toward school improve.
@@ -57,9 +57,11 @@ Relational trust between teachers, students, and families is a strong correlate 
 5. When concerns arise, contact families early and frame the conversation as a shared problem-solving effort, then follow through on agreed actions.
 
 ## Related Strategies
+
 - [Check-Ins](../principles/check-ins.md) — the student-facing counterpart; structured brief conversations that operationalize trust day to day
 - [Building Empathy](../principles/building-empathy.md) — the teacher disposition that makes communication feel genuine rather than procedural
 - [Community of Inquiry](../principles/community-of-inquiry.md) — extends trust into the social presence needed for productive online and classroom discourse
+- [Offering Multiple Options for Family Engagement](offering_multiple_options_for_family_engagement.md)
 
 ## Examples
 - **Positive texting campaigns** — In randomized studies, teachers sending brief individualized texts to families about student progress improved homework completion and engagement (Kraft & Dougherty, 2013).

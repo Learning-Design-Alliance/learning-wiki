@@ -60,9 +60,11 @@ Assessment itself is a learning event: retrieving knowledge on an assessment str
 6. Feed results back into instruction — the assessment only improves learning if the information changes what happens next [Feedback is most effective when directed at the task and process rather than the person.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 
 ## Related Strategies
+
 - Formative Assessment Loops — the complementary strategy; summative data is only trustworthy when instruction has been continuously adjusted by formative evidence
 - Standards-Based Grading — reporting structures that make interim-to-summative growth interpretable to learners and stakeholders
 - Mastery Testing — retesting until standard attainment, replacing single-point summatives
+- [Three steps to integrate digital content effectively: link content to educational goals, select performance standards, and measure and adjust against standards](three-steps-integrate-digital-content.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the core element this strategy operationalizes at program scale

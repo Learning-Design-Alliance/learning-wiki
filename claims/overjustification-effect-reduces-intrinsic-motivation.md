@@ -35,7 +35,7 @@ sources:
     author: "Deci, E. L., Koestner, R., & Ryan, R. M."
     q: 3
     i: 1
-    n: large (aggregated across studies specifically in educational contexts)
+    n: large (aggregated across studies)
 ---
 
 # Rewarding an already-intrinsically-motivating activity can reduce future engagement with it
@@ -83,9 +83,9 @@ Reaching a similar conclusion to Cameron and Pierce (1994) from a partly overlap
 
 Deci, E. L., Koestner, R., & Ryan, R. M. (2001). Extrinsic Rewards and Intrinsic Motivation in Education: Reconsidered Once Again. *Review of Educational Research, 71*(1), 1-27. [doi:10.3102/00346543071001001](https://doi.org/10.3102/00346543071001001)
 
-`q3 · meta-analytic reconsideration/synthesis · i1 · modest, condition-dependent effect confirmed on education-relevant tasks · n=large (aggregated across studies specifically in educational contexts)`
+`q3 · review of a meta-analysis (Deci, Koestner & Ryan, 1999) · i1 · small by this wiki's scale; the authors describe the undermining by tangible rewards as substantial · n=large (aggregated across studies)`
 
-Responding directly to Cameron and Pierce's more optimistic reading, this review re-examines the reward literature specifically in educational settings and concludes tangible extrinsic rewards do detectably undermine intrinsic motivation often enough that they should be used selectively and thoughtfully in classrooms, rather than treated as a costless motivational tool.
+Responding directly to Cameron and Pierce's (1994) conclusion that the undermining effect was minimal, this article reviews the results of the authors' 1999 meta-analysis, which it says showed Cameron and Pierce's analysis was seriously flawed and that tangible rewards do have a substantial undermining effect, supporting cognitive evaluation theory. It discusses what that means for rewards in classrooms: they should be used selectively and thoughtfully, not treated as a costless motivational tool.
 
 ## Discussion
 

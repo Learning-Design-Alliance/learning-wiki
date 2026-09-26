@@ -39,10 +39,17 @@ The essay organizes a global perspective into five dimensions: perspective consc
 - 
 
 ## Related Theories
-- 
+
+- [Four levels of cross-cultural awareness, with believability achieved only at the intellectual-analysis and immersion levels](four-levels-cross-cultural-awareness.md)
+- [Two foundational conceptualizations of global awareness: earth as one interdependent system and humankind as one family](global-awareness-foundational-conceptualizations.md)
+- [Hanvey's attainable global perspective: four components of global awareness](hanvey-attainable-global-perspective.md)
+- [Perspective consciousness: recognizing that one's view of the world is shaped, partial, and not universally shared](perspective-consciousness-hanvey.md)
+- [The world as an interconnected system: replacing simple cause and effect with complex interaction](world-as-interconnected-system.md)
+- [Transspection: imagining oneself in a role within a foreign culture, a step beyond empathy](transspection-beyond-empathy.md)
 
 ## Examples
--
+
+- [Schools should stake out a corrective niche that complements and balances event-centered media](../strategies/schools-corrective-niche-versus-media.md)
 
 ## Key Sources
 - Hanvey, Robert G. (1975). An Attainable Global Perspective. Center for War/Peace Studies. https://eric.ed.gov/?id=ED116993

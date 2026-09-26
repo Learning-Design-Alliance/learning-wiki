@@ -40,7 +40,9 @@ The OLR is described as "a portfolio record integrating classroom activity (teac
 - 
 
 ## Examples
--
+
+- [Portfolio Development](../strategies/portfolio_development.md)
+- [Portfolio Assessment](../strategies/portfolio-assessment.md)
 
 ## Key Sources
 - Nelson, Charles P.; Kim, Mi-Kyung. (2001). Contradictions, Appropriation, and Transformation: An Activity Theory Approach to L2 Writing and Classroom Practices. Texas Papers in Foreign Language Education. https://eric.ed.gov/?id=ED464497

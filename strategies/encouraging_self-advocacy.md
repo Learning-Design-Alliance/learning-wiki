@@ -12,7 +12,7 @@ generated:
 # Encouraging Self Advocacy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size
+> **Evidence** · 4 claims (3 for, 1 unmarked) · 9 studies, `q1`–`q4` · 8 of 9 report an effect size
 
 ## Description
 Self advocacy is the ability to understand one's own learning needs, strengths, and rights, and to communicate them effectively — requesting accommodations, asking clarifying questions, negotiating deadlines, or seeking help strategically. Encouraging it as a design strategy means deliberately teaching and creating opportunities for learners to identify what they need and voice it, rather than having all supports arranged invisibly for them. It is typically taught through explicit scripts, role-play, and graduated real-world practice.
@@ -58,9 +58,11 @@ Self advocacy instruction works because it converts help-seeking from an admissi
 5. **Practice authentically and debrief.** Learners make a real request (to a teacher, employer, or platform), then reflect on what worked and what to adjust next time.
 
 ## Related Strategies
+
 - [Teaching Self-Monitoring](../strategies/self-monitoring.md) — the metacognitive precursor: learners must track their own performance before they can articulate needs
 - [Goal Setting with Learners](../elements/goal-setting.md) — advocacy is most concrete when anchored to a learner-set goal
 - [Gradual Release of Responsibility](../strategies/gradual-release-of-responsibility.md) — structures the handoff of support decisions from adult to learner
+- [Teacher practices of behavior analysis, encouraging independent decisions, and providing easy-to-use EF materials](teacher-practices-behavior-analysis-independent-decisions-materials.md)
 
 ## Examples
 - **The Self-Advocacy Strategy** (Van Reusen, Bos, Schumaker, & Deshler, University of Kansas) — a scripted mnemonic-based program in which students with disabilities learn to lead their own IEP meetings; widely replicated in special education research.

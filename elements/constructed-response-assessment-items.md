@@ -48,8 +48,10 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [Selected-Response Assessment Items](selected-response-assessment-items.md) — the complementary item family for recognition-level goals
 
 ## Examples
+
 - A third-grade mathematics extended-response item asking students to divide books among classrooms and explain their reasoning in words (Illinois Standards Achievement Test, 2006)
 - A fifth-grade science item asking students to plan a full investigation (prediction, materials, controlled/manipulated variables, procedure) rather than just answer a single question (Washington State Assessment of Student Learning, 2004)
+- [Give learners control over how learning is measured via assessment choices and science-fair-type projects](../strategies/learner-controlled-assessment-science-fair-projects.md)
 
 ## Key Sources
 - Linn, R. L., & Miller, M. D. (2005). *Measurement and assessment in teaching* (9th ed.). Pearson.

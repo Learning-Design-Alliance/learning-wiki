@@ -39,7 +39,8 @@ The article recommends that the educator ensure students display understanding d
 - class participation
 
 ## Related Strategies
-- 
+
+- [One Minute Paper](one-minute-paper.md)
 
 ## Examples
 -

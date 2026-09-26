@@ -12,7 +12,7 @@ generated:
 # Stress Management Routines
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q3`–`q4` · 4 of 5 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q1`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Stress management routines are brief, repeated practices built into the learning environment — structured breathing, short mindfulness exercises, movement breaks, check-ins, and reappraisal prompts — that help learners recognize and down-regulate stress before it interferes with cognition. They are *routines* rather than one-off interventions: their benefit comes from regular practice at predictable moments (start of class, before assessments, after transitions), which builds learners' independent capacity for self-regulation over time.

@@ -63,9 +63,11 @@ Frequency and specificity of communication drive effects: personalized messages 
 6. Periodically review reach data (who is opening, replying, excluded) and adjust channels so no family is silently disconnected.
 
 ## Related Strategies
+
 - Positive phone calls and personalized notes home — the low-tech precursor; apps industrialize the same mechanism
 - Home literacy activity texting programs (e.g., READY4K) — parent-directed variant with experimental support
 - Student-led conferences with digital portfolios — pairs media-sharing apps with student ownership of the narrative
+- [Remove practical barriers to family participation through flexible scheduling, translation, childcare, and material supports](remove-barriers-family-participation.md)
 
 ## Examples
 - **[ClassDojo](https://www.classdojo.com)** — class story feeds, private message translation into 35+ languages, and student portfolio sharing; widely used in elementary settings.

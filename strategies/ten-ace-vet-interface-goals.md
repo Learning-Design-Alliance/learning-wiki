@@ -39,7 +39,8 @@ The report identifies ten areas at the interface between the ACE sector and the 
 - access and equity in training participation
 
 ## Related Strategies
-- 
+
+- [Eight critical opportunities for the ACE sector to explore within the national VET system](eight-critical-opportunities-ace-sector.md)
 
 ## Examples
 -

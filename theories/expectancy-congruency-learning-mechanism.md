@@ -43,10 +43,14 @@ The chapter proposes that lexical organization is driven by an expectancy-congru
 - Contextual Diversity Beats Frequency Lexical Access [+M]
 
 ## Related Theories
-- 
+
+- [Wickens' Context Alpha and Context Beta distinction](context-alpha-beta-distinction.md)
+- [Semantic diversity as a graded measure of contextual diversity based on document content overlap](semantic-diversity-graded-measure.md)
+- [Principle of likely need versus principle of repetition as competing accounts of lexical learning](likely-need-versus-repetition-principles.md)
 
 ## Examples
--
+
+- [Teach vocabulary by varying contexts rather than repeating words within the same context](../strategies/vary-contexts-for-vocabulary-teaching.md)
 
 ## Key Sources
 - Jones, M. N., Dye, M., & Johns, B. T. (2017). Context as an Organizing Principle of the Lexicon. Psychology of Learning and Motivation, Volume 67. https://doi.org/10.1016/bs.plm.2017.03.008

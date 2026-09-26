@@ -12,7 +12,7 @@ generated:
 # Task Force Teams of Inquiry
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies, `q2`–`q4` · 5 of 9 report an effect size
+> **Evidence** · 3 claims (3 for) · 9 studies, `q1`–`q4` · 4 of 9 report an effect size
 
 ## Description
 Task force teams of inquiry organize learners into small, mission-driven teams, each of which selects a topic from a class-generated brainstorm list. The team's mission is to explore, research, and present on that topic, typically culminating in a public product such as a report, presentation, or recommendation. The teacher frames the inquiry, connects it to relevant standards, and facilitates rather than directs the investigation.
@@ -62,9 +62,11 @@ The strategy combines two well-supported mechanisms: cooperative goal structures
 7. Schedule culminating presentations to an audience beyond the team; include individual reflections and peer evaluations to secure individual accountability.
 
 ## Related Strategies
+
 - [Jigsaw](../strategies/jigsaw.md) — a structured interdependence variant that guarantees each member's contribution is essential
 - [Project-Based Learning](../strategies/project-based-learning.md) — the broader family this strategy belongs to, with a driving question and sustained investigation
 - [Gallery Walk](../strategies/gallery-walk.md) — a presentation format for sharing team findings
+- [Use named cooperative learning structures adapted to adult classrooms, including Student Team Learning, Think-Pair-Share, Jigsaw, Teaming Together, and Group Investigation](cooperative-structures-for-adult-classrooms.md)
 
 ## Examples
 - **Project Citizen** (Center for Civic Education, https://www.civic-ed.org) — class teams identify a community problem, research policy alternatives, and present a portfolio and hearing before civic panels.

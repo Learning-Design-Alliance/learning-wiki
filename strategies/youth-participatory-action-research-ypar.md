@@ -12,7 +12,7 @@ generated:
 # Youth Participatory Action Research (YPAR)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Youth Participatory Action Research (YPAR) positions young people as co-researchers who investigate problems affecting their own communities, analyze evidence, and act on findings. Unlike adult-led research about youth, YPAR democratically engages participants in research design, methods, and analysis, drawing on their lived experience as expertise. The cycle typically moves from identifying a problem, through systematic inquiry, to dissemination and action aimed at institutional or community change.
@@ -60,9 +60,11 @@ YPAR is a form of [Community-Based Learning](../principles/community-based-learn
 6. **Reflect and iterate** — assess what changed, what didn't, and what the next cycle should investigate ([Assess Performance](../elements/assess-performance.md))
 
 ## Related Strategies
+
 - [Action Research](action-research.md) — YPAR applies the same inquiry cycle with youth as the researchers rather than teachers
 - [Community-Based Learning](../principles/community-based-learning.md) — shares the commitment to learning embedded in real community contexts
 - [Service Learning](service-learning.md) — related but typically adult-directed; YPAR shifts the locus of decision-making to youth
+- [Engage youth as partners in stewardship rather than as subjects to be taught](youth-as-stewardship-partners.md)
 
 ## Examples
 - **[YPAR Hub](https://yparhub.berkeley.edu)** — University of California, Berkeley resource offering a step-by-step YPAR curriculum, facilitator guides, and example youth projects.

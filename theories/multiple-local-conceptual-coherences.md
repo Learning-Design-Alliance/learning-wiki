@@ -39,7 +39,8 @@ The framework holds that student understanding and behavior are variable yet exh
 - 
 
 ## Related Theories
-- 
+
+- [Multiple local coherences: stability of student thinking as sustained by real-time activity](multiple-local-coherences-real-time-stability.md)
 
 ## Examples
 -

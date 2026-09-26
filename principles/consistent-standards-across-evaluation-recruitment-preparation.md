@@ -17,7 +17,7 @@ sources:
 # Apply the same educator standards across evaluation, recruitment and hiring, and preparation program selection
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This principle holds that a single set of teacher and leader standards should govern effectiveness evaluation, recruitment and hiring, and preparation program entry and graduation decisions. The document argues that "The same teacher and leader standards that are used to assess teacher and principal effectiveness should be applied during recruitment and hiring," citing Milanowski, Prince, and Koppich (2007) that this consistency can aid selection decisions and signal mismatched candidates to self-select out. It is one of the framework's illustrations of how consistent expectations make policy sections mutually reinforcing.
@@ -38,13 +38,16 @@ This principle holds that a single set of teacher and leader standards should go
 - Coherent, consistent expectations for educators across the career continuum
 
 ### Claims
-- 
+
+- [Piecemeal educator policymaking overburdens educators and can drive talented educators out of the profession](../claims/piecemeal-educator-policymaking-drains-talent.md) [+W]
 
 ## Related Principles
-- 
+
+- [Align ongoing professional learning content with what was taught during preparation and induction](align-professional-learning-with-preparation-and-induction.md)
 
 ## Examples
--
+
+- [State policy actions across the career continuum: attract, prepare, and develop/support/retain educators](../strategies/tdf-state-policy-actions-career-continuum.md)
 
 ## Key Sources
 - Talent Development Framework: Improving Access to Excellent Educators for All Students. (2020). Center on Great Teachers and Leaders at the American Institutes for Research. https://gtlcenter.org

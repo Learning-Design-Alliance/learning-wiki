@@ -39,7 +39,9 @@ Students prepare interview questions—beginners supported by structured questio
 - target language practice
 
 ## Related Strategies
-- 
+
+- [Use structured e-mail exchanges with target-language peers to build cross-cultural interest and motivation](email-exchanges-target-language-peers.md)
+- [Using Empathy Interviews for Family Engagement](using_empathy_interviews_for_family_engagement.md)
 
 ## Examples
 -

@@ -61,9 +61,11 @@ Debriefing operationalizes the reflection stage of experiential learning: experi
 6. Apply forward: have each learner commit to one specific change for the next attempt, then close the loop in a subsequent session.
 
 ## Related Strategies
+
 - [Check-In](../elements/check-in.md) — the brief opening counterpart; debriefing is the closing bookend of a session arc
 - [Class Discussion](../elements/class-discussion.md) — debriefing is a discussion with a specific experiential referent and a facilitator structure
 - [Coaching](../elements/coaching.md) — the facilitation stance that makes debriefing analytic rather than evaluative
+- [Use experiential intercultural training methods such as simulations, role-playing and critical incidents to encounter perceptual and value differences](experiential-intercultural-training-methods.md)
 
 ## Examples
 - **Simulation-based healthcare education** — Post-scenario debriefing is considered the pedagogical heart of simulation; programs following [Fanning & Gaba's](https://doi.org/10.2310/4745.2007.00006) framework treat the scenario as merely the stimulus for the debrief.

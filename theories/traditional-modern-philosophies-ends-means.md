@@ -39,10 +39,22 @@ Apps organizes the four general philosophies by a structural axis: idealism and 
 - 
 
 ## Related Theories
+
 - [General Philosophies Taxonomy Apps](general-philosophies-taxonomy-apps.md)
+- [Apps's four-category framework for a working philosophy of adult education](apps-four-category-working-philosophy-framework.md)
+- [Belief structure: sources, levels (zero-order, first-order, higher order), and the belief-value-attitude distinction](belief-sources-and-levels-taxonomy.md)
+- [Taxonomy of five educational philosophies for adult education](educational-philosophies-taxonomy-apps.md)
+- [Existentialism (Educational Philosophy)](existentialism-educational-philosophy.md)
+- [Realism (Educational Philosophy)](realism-educational-philosophy.md)
+- [Four-category taxonomy of educational philosophies grouped into traditional and contemporary dimensions](educational-philosophies-four-category-traditional-contemporary-taxonomy.md)
+- [Taxonomy of educational philosophies: Perennialism, Essentialism, Pragmatism, Reconstructionism, and Existentialism](educational-philosophies-taxonomy-wiles-bondi.md)
+- [Five basic educational philosophies: traditional-conservative versus contemporary](five-basic-educational-philosophies-traditional-vs-contemporary.md)
+- [Five educational philosophies framework (perennialism, idealism, realism, experimentalism, existentialism)](five-educational-philosophies-framework.md)
+- [Five-philosophy framework of teacher beliefs (Realism, Idealism, Pragmatism, Existentialism, Phenomenology)](five-philosophies-teacher-belief-framework.md)
 
 ## Examples
--
+
+- [A four-step process for examining beliefs: recognition, analysis, judgment, and evaluation](../strategies/recognize-analyze-judge-evaluate-beliefs.md)
 
 ## Key Sources
 - Apps, Jerold W. (1973). Toward a Working Philosophy of Adult Education. Syracuse University Publications in Continuing Education / ERIC Clearinghouse on Adult Education. https://eric.ed.gov/?id=ED078229

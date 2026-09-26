@@ -60,9 +60,11 @@ Difficult dialogues work because productive discomfort — not comfort — drive
 6. Close with individual reflection or writing so learners consolidate what changed in their thinking ([Class Discussion](../elements/class-discussion.md) → reflection)
 
 ## Related Strategies
+
 - [Active Listening](../strategies/active-listening.md) — the micro-skill that keeps dialogue from becoming serial monologue
 - [Debate](../patterns/debate.md) — a more formalized structure for the same goal of engaging opposing views
 - [Discussion-Based Learning](../patterns/discussion-based-learning.md) — the broader family of which difficult dialogues are the high-stakes subset
+- [Facilitate cognitive disequilibrium about ethnocentric views](facilitate-cognitive-disequilibrium.md)
 
 ## Examples
 - **University of Michigan Program on Intergroup Relations** ([igr.umich.edu](https://igr.umich.edu)) — semester-long intergroup dialogue courses pairing identity groups with trained facilitators; the most-studied implementation of the strategy

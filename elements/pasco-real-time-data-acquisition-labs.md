@@ -40,7 +40,8 @@ The technology intervention consisted of Pasco data acquisition hardware and dat
 - 
 
 ## Examples
--
+
+- [Measure and Graph Data](../strategies/measure_and_graph_data.md)
 
 ## Key Sources
 - Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics

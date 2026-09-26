@@ -39,7 +39,8 @@ The review proposes translation among symbol systems as a construct: the process
 - [Lesh Utilities Group Outperformed Computation Group](../claims/lesh-utilities-group-outperformed-computation-group.md) [+M]
 
 ## Related Theories
-- 
+
+- [Symbol systems framework: symbols, symbol systems, and symbolic products](symbol-systems-framework-gardner-salomon.md)
 
 ## Examples
 -

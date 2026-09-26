@@ -60,9 +60,11 @@ Shadowing functions as a form of situated, perspective-taking inquiry: the adult
 6. **Close the loop with students.** Report back what changed as a result — this step is what distinguishes shadowing from surveillance.
 
 ## Related Strategies
+
 - [Empathy Interviews](../principles/empathy-interviews.md) — complements observation with the student's own account of their experience
 - [Learning Walks](learning-walks.md) — adult-focused observation of instruction; shadowing inverts the vantage point
 - [Design Thinking](../processes/design-thinking.md) — shadowing typically serves as the empathy phase of a design cycle
+- [Observe the classroom for dissonance between what students say and what teachers see](classroom-observation-dissonance-inclusive-design.md)
 
 ## Examples
 - **[Shadow a Student Challenge](https://www.shadowastudent.org)** — A campaign by IDEO's Teachers Guild and Stanford d.school in which thousands of school leaders nationwide shadow a student for a day and share documented insights; commonly cited findings include the sheer number of transitions, sitting fatigue, and how little voice students have in a typical day.

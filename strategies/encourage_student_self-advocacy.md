@@ -12,7 +12,7 @@ generated:
 # Encourage Student Self-Advocacy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies, `q1`–`q4` · 8 of 9 report an effect size
 
 ## Description
 Self-advocacy instruction teaches students to understand their own strengths, challenges, and learning needs, and to communicate those needs effectively to others. It is carried out through explicit instruction in self-knowledge, knowledge of rights and available supports, and communication skills, combined with authentic opportunities for students to make decisions and request help within the classroom. The instructor's role shifts from sole provider of support to coach of a skill students will need when the instructor is no longer present.
@@ -64,9 +64,11 @@ Self-advocacy is a component of self-determination, and interventions that build
 6. Transfer responsibility: fade teacher prompting and move students toward leading their own conferences and accommodation conversations.
 
 ## Related Strategies
+
 - [Achievable Micro-Goals](../strategies/achievable_micro-goals.md) — small wins build the self-efficacy that makes advocacy feel worthwhile
 - [Active Listening](../strategies/active_listening.md) — the teacher-side skill that makes student advocacy productive
 - [Activities for Student Self-Reflection](../strategies/activities_for_student_self-reflection.md) — the self-knowledge foundation on which advocacy rests
+- [Teacher practices of behavior analysis, encouraging independent decisions, and providing easy-to-use EF materials](teacher-practices-behavior-analysis-independent-decisions-materials.md)
 
 ## Related Elements
 - [Articulation](../elements/articulation.md) — students must put their needs into words; articulation is the core performance

@@ -37,7 +37,8 @@ Based on the null embedded-practice results, the authors recommend alternative d
 - Decoding acquisition and executive function development supporting early reading
 
 ## Related Strategies
-- 
+
+- [Replacing think-write pedagogy with conversation-based writing activities](alternatives-to-think-write-pedagogy.md)
 
 ## Examples
 -

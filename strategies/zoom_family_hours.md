@@ -60,9 +60,12 @@ Family engagement is consistently associated with student achievement, but the m
 6. **Evaluate and adapt** — gather brief family feedback each term and adjust timing, format, or language support accordingly.
 
 ## Related Strategies
+
 - Regular positive phone or text communication — complements family hours by reaching families who never attend; proactive positive contact builds the trust that makes drop-in hours productive
 - Home learning guidance sessions — themed family hours focused on how to support specific schoolwork at home
 - Student-led conferences — shift the same family-teacher channel toward student ownership of the conversation
+- [Offering Multiple Options for Family Engagement](offering_multiple_options_for_family_engagement.md)
+- [Remove practical barriers to family participation through flexible scheduling, translation, childcare, and material supports](remove-barriers-family-participation.md)
 
 ## Related Elements
 - [Check-Ins](../principles/check-ins.md) — the opening move that makes each family contact feel personal rather than procedural

@@ -42,7 +42,8 @@ The article frames grading as a choice between two conceptions: grading students
 - 
 
 ## Examples
--
+
+- [Grading by contract: students propose specific work and criteria within teacher-presented options](../patterns/grading-by-contract-fricke.md)
 
 ## Key Sources
 - Fricke, B. G. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854

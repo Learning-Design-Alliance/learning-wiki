@@ -12,7 +12,7 @@ generated:
 # SEL-Focused Digital Libraries
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 11 studies, `q2`–`q4` · 6 of 11 report an effect size
+> **Evidence** · 4 claims (3 for, 1 against) · 11 studies, `q1`–`q4` · 5 of 11 report an effect size
 
 ## Description
 This strategy involves curating a digital library to include a dedicated section of books addressing Social-Emotional Learning (SEL) topics — self-awareness, self-management, social awareness, relationship skills, and responsible decision-making. Titles are tagged by SEL competency so teachers and students can search for books relevant to a specific skill, making it easy to weave SEL into reading activities rather than treating it as a separate program.

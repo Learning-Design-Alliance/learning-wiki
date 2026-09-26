@@ -39,10 +39,13 @@ A group activity in which members pool individual interpretations to construct s
 - negotiation of interpretations
 
 ## Related Elements
-- 
+
+- [Concept Mapping](concept-mapping.md)
+- [Knowledge Synthesis](knowledge-synthesis.md)
 
 ## Examples
--
+
+- [Graphic Organizers as Thinking Tools](../strategies/graphic_organizers_as_thinking_tools.md)
 
 ## Key Sources
 - Student-written texts as supplementary reading material in EFL literacy instruction. (2005). https://eric.ed.gov

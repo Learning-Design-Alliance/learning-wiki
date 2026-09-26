@@ -12,7 +12,7 @@ generated:
 # Fostering Self-Advocacy and Self-Determination
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 3 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 2 of 5 report an effect size
 
 ## Description
 This strategy treats self-advocacy (communicating one's needs, rights, and preferences) and self-determination (goal setting, decision making, problem solving, self-monitoring) as explicit instructional priorities rather than incidental byproducts of schooling. It is carried out by embedding these skills into [Individualized Education Programs](../elements/accommodations.md), giving students tangible, repeated opportunities to practice them in real contexts, and holding systems accountable through teacher preparation, assessment, and school performance measures.

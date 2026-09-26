@@ -41,7 +41,8 @@ The article argues that teachers should recognize students' style preferences an
 - [Styles Socialized And Modifiable](../claims/styles-socialized-and-modifiable.md) [+M]
 
 ## Related Principles
-- 
+
+- [Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment](four-factor-teaching-compatibility.md)
 
 ## Examples
 -

@@ -17,7 +17,7 @@ sources:
 # Teaching-research nexus with cross-disciplinary, cross-cultural team teaching
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies, `q2` · 1 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Woolyungah's academics span several disciplines and use a team-teaching approach so students encounter a range of approaches to disciplinary and cross-disciplinary research. Staff research — on teacher education, Aboriginal Studies curricula, community arts, life writing, intercultural performance, cultural studies and Indigenous environmental management — is included in teaching to demonstrate the viability and integrity of Indigenous knowledges alongside Western knowledges, linking theory with real-world outcomes in an environment where competitiveness is not the primary focus.
@@ -37,7 +37,11 @@ Woolyungah's academics span several disciplines and use a team-teaching approach
 - Understanding Indigenous knowledges as multifaceted and always in process; critical and cross-disciplinary research skills
 
 ### Claims
-- 
+
+- [Interdisciplinary studio collaboration deepened students' disciplinary skills while exposing them to cross-disciplinary skills](../claims/interdisciplinary-collab-deepens-disciplinary-and-cross-disciplinary-skills.md) [+M]
+- [Interdisciplinary studio collaboration produced challenges including uneven workloads, vocabulary barriers, and difficulty giving cross-disciplinary feedback](../claims/interdisciplinary-collab-challenges-workload-vocabulary-feedback.md) [~W]
+- [Students believed interdisciplinary studio experiences would ease their transition into the workforce](../claims/studio-experience-prepares-students-for-workforce.md) [+W]
+- [The authors' research indicates strong student interest in local Indigenous culture, which supports locally-based teaching of cultural knowledge](../claims/local-indigenous-culture-student-interest.md) [+W]
 
 ## Related Patterns
 - 

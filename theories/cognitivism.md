@@ -46,11 +46,15 @@ Cognitivism is the broader theoretical paradigm; [Information Processing Theory]
 ### Claims
 
 ## Related Theories
+
 - [Behaviorism](behaviorism.md) – the paradigm cognitivism reacted against; both value practice and feedback, but for different reasons (shaping observable responses vs. supporting mental encoding)
 - [Constructivism](constructivism.md) – shares cognitivism's view of learning as mental activity but rejects the assumption that a fixed body of knowledge can be transmitted or "mapped" onto the learner
 - [Information Processing Theory](information-processing-theory.md) + the specific memory-system model most commonly used to implement cognitivist instructional design
 - [Cognitive Load Theory](cognitive-load-theory.md) + a working-memory-capacity account built on cognitivist assumptions about encoding and storage
 - [Dual Coding Theory](dual-coding-theory.md) + a cognitivist account of how verbal and nonverbal information are represented in memory
+- [Greenwald's cognitive response account: rehearsal of the recipient's own cognitive responses explains persisting persuasion effects](cognitive-response-account-of-persuasion.md)
+- [The schema-of-the-moment: cognition as a transient functional organization of simultaneously active neuronal elements](schema-of-the-moment.md)
+- [Cognitive learning theory: learners are active, build on prior learning, and learning is a change in mental structures](cognitive-learning-theory-active-constructive.md)
 
 ## Examples
 - [Advance Organizers](../elements/advance-organizers.md)

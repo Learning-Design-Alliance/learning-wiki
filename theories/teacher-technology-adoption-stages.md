@@ -16,7 +16,7 @@ sources:
 # The five-stage teacher technology adoption process: Entry, Adoption, Adaptation, Appropriation, Invention
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report proposes that teachers, even enthusiastic ones, typically pass through five distinct stages before becoming education technology integrators and innovators: Entry (students, not the teacher, use technology), Adoption (teachers use technology to support traditional instruction), Adaptation (technology enriches the curriculum through automating familiar practices), Appropriation (technology is integrated and used for its unique capabilities), and Invention (teachers discover new uses and redefine classroom environments). The report states "The following list describes five stages of teacher technology adoption" and that the list "underscores the idea that understanding and using technology well takes time." It is used to argue that professional development must be tailored to teachers' current stage.
@@ -36,10 +36,14 @@ The report proposes that teachers, even enthusiastic ones, typically pass throug
 - Effective integration of technology into teaching and learning
 
 ### Claims
-- 
+
+- [Early self- and task-related concerns are maintained alongside later impact concerns as adoption of complex technologies advances, modifying the sequential CBAM conception](../claims/early-concerns-maintained-alongside-later-concerns.md) [~W]
 
 ## Related Theories
-- 
+
+- [Concerns Based Adoption Model (CBAM) stages of concern](cbam-stages-of-concern-model.md)
+- [Revised emergent-growth model of technology adoption integrating voluntary activities with maintained early concerns](emergent-growth-adoption-model.md)
+- [Level of Adoption (LoA) survey: an online self-report adaptation of the CBAM Level of Use index](loa-survey-instrument-cbam-adaptation.md)
 
 ## Examples
 -

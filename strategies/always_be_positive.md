@@ -12,7 +12,7 @@ generated:
 # Always Be Positive
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size
+> **Evidence** · 4 claims (3 for, 1 against) · 9 studies, `q1`–`q4` · 8 of 9 report an effect size
 
 ## Description
 Always Be Positive is a professional stance in which the educator commits to responding to students, colleagues, and setbacks in a constructive, optimistic way — framing errors as improvable, acknowledging effort and progress, and modeling the emotional tone they want the community to adopt. It is carried out through daily interactions: how mistakes are handled, how feedback is worded, and how challenges are framed, from classrooms to playgrounds and across the school day.

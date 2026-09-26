@@ -43,10 +43,12 @@ The project developed and tested tools for four types of mediation: epistemic me
 - [Trialogical Learning Framework](../theories/trialogical-learning-framework.md)
 
 ## Related Elements
-- 
+
+- [Knowledge Practices Environment (KPE): a platform for object-centred collaborative knowledge creation](knowledge-practices-environment-kpe.md)
 
 ## Examples
--
+
+- [Pedagogical scenarios that organise learning around knowledge creation with shared objects](../strategies/trialogical-pedagogical-scenarios.md)
 
 ## Key Sources
 - Reynolds, S., & Camilleri, A. F. (2010). KP-LAB: Breaking New Ground on How to Create Knowledge Through Learning. EDEN 2010 Conference, Valencia.

@@ -39,7 +39,9 @@ The report recommends teaching students when, why, and how to elaborate on new i
 - transfer of elaborative processing strategy to new material
 
 ## Related Strategies
-- 
+
+- [Making Connections](making_connections.md)
+- [Question Generation](question-generation.md)
 
 ## Examples
 -

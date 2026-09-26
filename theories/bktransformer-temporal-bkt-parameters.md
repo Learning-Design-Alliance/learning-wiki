@@ -40,7 +40,9 @@ BKTransformer extends OptimNN by generating BKT parameters that vary over time w
 - [Bkt Parameter Evolution Interpretability](../claims/bkt-parameter-evolution-interpretability.md) [+M]
 
 ## Related Theories
-- 
+
+- [Adaptive G-UKT: a unified probabilistic knowledge tracing framework coupling Gaussian state representations, adaptive graph topology learning, Wasserstein attention, and uncertainty-gated contrastive regularization](adaptive-g-ukt-unified-probabilistic-framework.md)
+- [Bayesian Knowledge Tracing: a two-state Hidden Markov Model inferring skill mastery from response histories](bkt-two-state-hmm-student-model.md)
 
 ## Examples
 -

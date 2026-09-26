@@ -12,7 +12,7 @@ generated:
 # Spaces that Foster Creativity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (3 for, 2 mixed, 2 against) · 16 studies, `q2`–`q4` · 10 of 16 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (3 for, 2 mixed, 2 against) · 16 studies, `q1`–`q4` · 9 of 16 report an effect size · 1 claim rests on one study
 
 ## Description
 Spaces that foster creativity are learning environments intentionally designed to move beyond the rows-and-lecture layout inherited from industrial-era schooling. They feature flexible, reconfigurable furniture; distinct zones for group work, quiet focus, making, and presentation; visible displays of learner work; and environmental qualities (light, color, air quality, acoustics) chosen to support attention and comfort. The design goal is that the environment itself affords collaboration, experimentation, and learner agency rather than only passive reception.

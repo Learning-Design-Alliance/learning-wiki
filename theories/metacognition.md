@@ -50,6 +50,8 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 
 ## Examples
 
+- [Use a three-stage model to help learners identify and apply their learning-style characteristics](../strategies/three-stage-learning-style-awareness-model.md)
+
 ## Key Sources
 - Bjorklund, D. F. (2005). *Children's thinking: Cognitive development and individual differences* (4th ed.). Wadsworth.
 - Schneider, W., Kron-Sperl, V., & Hunnerkopf, M. (2009). The development of young children's memory strategies: Evidence from the Würzburg Longitudinal Memory Study. *European Journal of Developmental Psychology, 6*(1), 70-99.

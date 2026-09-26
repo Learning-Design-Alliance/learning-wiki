@@ -60,8 +60,10 @@ Presenting verbal content in a coordinated visual form exploits the two independ
 6. Check uptake: ask learners to restate directions from the board, and adjust visual design based on where they still get stuck.
 
 ## Related Strategies
+
 - [Chunking](../principles/chunking.md) — segmenting the visual presentation controls how much load each display moment carries
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the opening visual can serve as the activation prompt before explanation begins
+- [Invite students to co-facilitate tasks by typing content into the shared whiteboard or chat](student-co-facilitation-via-shared-chat-typing.md)
 
 ## Related Elements
 - [Advance Organizers](../elements/advance-organizers.md) — a Show Me visual shown before instruction functions as an organizer for what follows

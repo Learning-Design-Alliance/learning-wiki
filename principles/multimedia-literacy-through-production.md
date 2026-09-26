@@ -40,10 +40,13 @@ This principle holds that students acquire multimedia literacy by engaging in mu
 - Learning By Producing Multimedia [+M]
 
 ## Related Principles
-- 
+
+- [Multimedia Projects](multimedia-projects.md)
 
 ## Examples
--
+
+- [Multimedia production project](../elements/multimedia-production-project.md)
+- [Learning by Producing (multimedia production as learning)](../patterns/learning-by-producing-pattern.md)
 
 ## Key Sources
 - Tanaka. (1997). Multimedia learning and cross-curricular learning. https://eric.ed.gov/?id=EJ545678

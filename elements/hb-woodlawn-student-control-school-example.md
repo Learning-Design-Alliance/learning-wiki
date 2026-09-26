@@ -37,7 +37,8 @@ The article presents H-B Woodlawn Secondary School in Arlington, Virginia, start
 - Student self-direction and shared governance of the learning environment
 
 ## Related Elements
-- 
+
+- [The League for Innovation's Learning College movement as community-college reform toward learning-centeredness](learning-college-league-innovation-reform.md)
 
 ## Examples
 -

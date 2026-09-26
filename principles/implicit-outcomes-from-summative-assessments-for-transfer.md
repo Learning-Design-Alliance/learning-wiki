@@ -45,7 +45,8 @@ Because explicit learning outcomes are often sector-specific, non-standardized, 
 - 
 
 ## Examples
--
+
+- [Support credit transfer with direct credit for bidirectional transfers plus small bridging modules targeting missing outcomes](../strategies/bridging-modules-targeting-missing-outcomes.md)
 
 ## Key Sources
 - Zakani, S., Kaupp, J., Turner, R. D., & Frank, B. (2019). Analyzing implicit science and math outcomes in engineering and technology programs. The Canadian Journal for the Scholarship of Teaching and Learning, 10(1). https://doi.org/10.5206/cjsotl-rcacea.2019.1.7994

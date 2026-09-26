@@ -75,11 +75,13 @@ Accessible vocabulary and syntax matter because learners can fail a task for lan
 - [Scaffolding and Fading](scaffolding-and-fading.md) — language supports should be deliberately reduced over time
 
 ## Examples
+
 <!-- Links to elements or patterns that apply this principle -->
 - [Accessible Syntax](../strategies/accessible_syntax.md) — revises sentence complexity while preserving the core concept
 - [Relevant Vocabulary Instruction](../strategies/relevant_vocabulary_instruction.md) — explicitly selects and revisits high-value terms
 - [Simplify and Clarify Instructions](../strategies/simplify_and_clarify_instructions.md) — removes avoidable ambiguity from task directions
 - [Assigned Readings](../elements/assigned-readings.md) paired with glossaries, margin notes, or sentence frames can make complex texts usable without replacing them
+- [Pair team-based discovery learning with detailed guiding questions, simplified texts, and glossaries of unfamiliar terms](../strategies/guide-questions-simplification-glossary-for-proposal-writing.md)
 
 ## Key Sources
 - Binder, K. S., Tremblay, K. A., & Joseph, A. (2020). Vocabulary accessibility and acquisition: Do you get more from a financestor or a sociophite? *Journal of Research in Reading, 43*(4), 395-416. [doi:10.1111/1467-9817.12314](https://doi.org/10.1111/1467-9817.12314)

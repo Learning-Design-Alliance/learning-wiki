@@ -43,7 +43,8 @@ The forum reports Hamp-Lyons's (2014) proposal to reconfigure the interlocutor's
 - 
 
 ## Examples
--
+
+- [Scenario-based standardized assessments with simulated peer and teacher interaction](../elements/scenario-based-simulated-interaction-assessments.md)
 
 ## Key Sources
 - Dean, A. C. (2014). The Interactional Dimension of LOA: Within and Beyond the Classroom. Teachers College, Columbia University Working Papers in TESOL & Applied Linguistics. https://eric.ed.gov/?id=EJ1176847

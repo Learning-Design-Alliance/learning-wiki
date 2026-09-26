@@ -12,7 +12,7 @@ generated:
 # Silent Game Incentive
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies, `q2`–`q4` · 5 of 6 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies, `q1`–`q4` · 4 of 6 report an effect size
 
 ## Description
 A Silent Game Incentive is a group-contingency classroom-management routine: after a discussion or collaborative activity, the teacher announces a timed quietness goal (e.g., "work silently for the next five minutes"), and the class advances a shared game board, token jar, or progress meter if the goal is met. The reward is collective and delayed — typically a accumulated privilege such as extra free time or a class celebration — so the routine functions as a gamified [interdependent group contingency](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+M] layered over instruction rather than a learning activity itself.

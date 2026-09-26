@@ -41,4 +41,6 @@ A program learning outcomes matrix (Table 1) rated course learning outcomes on a
 
 
 ## Related Claims
+
 - [Behavioral Relaxation Training is rated more acceptable than medication for GAD comorbid with Parkinson's disease by both younger and older adults](brt-more-acceptable-than-medication-gad-pd.md) — related
+- [Students exemplified discovered clues when explaining their designs orally](students-exemplified-clues-orally.md)

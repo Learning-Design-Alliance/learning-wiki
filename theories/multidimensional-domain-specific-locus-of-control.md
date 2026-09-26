@@ -40,7 +40,8 @@ The article argues that Rotter's (1966) locus of control of reinforcement, origi
 - [Nonacademic Domains Increase Dimensions](../claims/nonacademic-domains-increase-dimensions.md) [+M]
 
 ## Related Theories
-- 
+
+- [Social learning theory expectancy framework (generalized and specific expectancies)](social-learning-expectancy-framework.md)
 
 ## Examples
 -

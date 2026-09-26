@@ -12,7 +12,7 @@ generated:
 # Classroom PBIS
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 7 studies, `q3`–`q4` · 3 of 7 report an effect size
+> **Evidence** · 3 claims (1 for, 2 mixed) · 7 studies, `q1`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Classroom Positive Behavioral Interventions and Supports (PBIS) is the classroom-level application of a multi-tiered behavior framework: teachers define 3–5 positively stated behavioral expectations, teach them explicitly like academic content, acknowledge them consistently with specific reinforcement, and respond to problem behavior with predictable, instructional consequences. Behavior data (e.g., office discipline referrals) is collected and reviewed to adjust supports.

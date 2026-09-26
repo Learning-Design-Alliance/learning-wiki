@@ -60,9 +60,11 @@ Portfolios shift assessment from a summative snapshot toward [Assessment for Lea
 5. Close with a curated presentation portfolio and a reflective cover narrative that synthesizes growth.
 
 ## Related Strategies
+
 - [Rubric-Based Self-Assessment](rubric-based_self-assessment.md) — supplies the criteria infrastructure portfolios depend on
 - [Learning Journals](learning_journals.md) — a reflective complement that documents process between artifacts
 - [Conferencing](conferencing.md) — one-on-one portfolio review deepens the feedback loop
+- [Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time](student-owned-portfolios-maker-assessment.md)
 
 ## Examples
 - **National Board Certification (USA)** — teachers submit portfolio entries with student work samples, video, and written analysis scored against professional standards ([https://www.nbpts.org](https://www.nbpts.org)).

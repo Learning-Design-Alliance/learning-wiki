@@ -23,7 +23,7 @@ grain_size: course
 # Merrill's First Principles of Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 9 studies, `q2`–`q4` · 8 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 Merrill's First Principles of Instruction is a task-centered pattern that organizes learning around five recurring moves: problem-centered work, activation of prior knowledge, demonstration, application, and integration. Rather than prescribing a rigid lesson script, it identifies a set of instructional conditions that tend to support effective learning across many settings. The pattern is strongest when learners are working toward meaningful performance, not just isolated recall.
@@ -101,8 +101,11 @@ Its practical strength is that it balances authenticity with structured support.
 - Integration can take many forms, including teaching others, reflection, or workplace application.
 
 ## Related Patterns
+
 - [Four-Component Instructional Design](4cid-four-component-instructional-design.md)
 - [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)
+- [Demonstration, application, and integration corollaries of Merrill's framework](merrill-demonstration-application-integration-corollaries.md)
+- [Problem-centered instruction with task-level engagement and problem progression](problem-centered-task-level-progression-pattern.md)
 
 ## Examples
 - Clinical training where learners analyze a case, study demonstrations, practice decisions, and reflect on use in real settings.

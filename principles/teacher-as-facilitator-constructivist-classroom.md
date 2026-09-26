@@ -17,7 +17,7 @@ sources:
 # In constructivist classrooms the teacher acts as a facilitator while learners construct, question, and integrate meaning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article states that in constructivist classrooms learners do not passively repeat teacher-delivered information; learning involves "constructing, creating, inventing, and developing one's own knowledge and meaning." The teacher's role is a facilitator who provides information and organizes activities for learners to discover their own learning, with learners demonstrating understanding through critical questions and summarizing in their own words.
@@ -37,13 +37,16 @@ The article states that in constructivist classrooms learners do not passively r
 - constructing, interpreting, and integrating new understanding with past experiences
 
 ### Claims
-- 
+
+- [Taiwan's constructivist mathematics reform, introduced in 1993, was stopped in 2003 after students taught under it underperformed traditionally educated peers in high school](../claims/taiwan-constructivist-math-reform-stopped-2003.md) [-W]
 
 ## Related Principles
-- 
+
+- [Constructivism](constructivism.md)
 
 ## Examples
--
+
+- [Lecture-free, problem-centered, collaborative course pattern built on model construction and evaluation](../patterns/constructivist-model-reconstruction-course-pattern.md)
 
 ## Key Sources
 - Liu, C. C., & Chen, I. J. (2010). Evolution Of Constructivism. Contemporary Issues In Education Research, 3(4). https://www.cluteinstitute.com/ojs/index.php/cier

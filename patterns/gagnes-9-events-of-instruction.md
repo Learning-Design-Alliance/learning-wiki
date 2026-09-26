@@ -15,7 +15,7 @@ grain_size: lesson
 # Gagné's 9 Events of Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (4 mixed) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 mixed) · 10 studies, `q2`–`q4` · 9 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Gagné's 9 Events of Instruction is a structured lesson pattern that sequences attention, objectives, recall, presentation, guidance, practice, feedback, assessment, and transfer. It is a classic design for lessons where the instructor wants to move learners through a complete learning cycle with explicit support at each stage. The pattern is especially useful when content needs to be introduced clearly and practiced systematically within a bounded instructional sequence.

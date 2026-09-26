@@ -39,10 +39,12 @@ The article adopts Anderson and Krathwohl's (2001) Revised Bloom's Taxonomy, in 
 - 
 
 ## Related Theories
-- 
+
+- [ICAP-Bloom adapted coding scheme for cognitive engagement in online discussion posts](icap-bloom-coding-scheme-discussion-posts.md)
 
 ## Examples
--
+
+- [Six-phase assignment process mapped to BRT cognitive steps](../patterns/brt-six-phase-assignment-process.md)
 
 ## Key Sources
 - Sankaranarayanan Paleeri. (2014). Setting Objectives of Value Education in Constructivist Approach in the Light of Revised Blooms Taxonomy (RBT). i-manager's Journal of School Educational Technology. https://www.imanagerpublications.com

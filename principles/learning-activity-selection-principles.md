@@ -40,7 +40,8 @@ Chapter V states five general principles for selecting learning activities: acti
 - 
 
 ## Related Principles
-- 
+
+- [Select content from competencies, not the reverse](content-selected-from-competencies.md)
 
 ## Examples
 -

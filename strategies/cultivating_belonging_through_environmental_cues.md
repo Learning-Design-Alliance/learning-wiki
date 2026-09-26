@@ -12,7 +12,7 @@ generated:
 # Cultivating Belonging Through Environmental Cues
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 4 of 5 report an effect size
 
 ## Description
 This strategy deliberately designs the physical, social, and communicative environment of a learning space so that learners from all backgrounds perceive themselves as welcome and capable members of the community. Cues include who is visibly represented (posters, examples, role models), the language used in materials and discourse, and the everyday signals of inclusion (greetings, norms, accessibility of help). Because belonging is inferred from ambient information rather than stated assurances, the environment itself does much of the communicative work.

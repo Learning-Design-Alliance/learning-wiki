@@ -12,7 +12,7 @@ generated:
 # Free Play
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Free play is a child-led activity in which learners explore and develop skills through self-directed interactions with their environment, materials, and peers. The adult's role is not to direct the activity but to design the conditions for it — providing a safe, stimulating environment, accessible and varied materials, and time — and then to observe, document, and respond to what children do. Free play is distinguished from guided play and direct instruction by who holds the initiative: the child decides what to do, how, and with whom.
@@ -61,8 +61,10 @@ Free play supports holistic development — physical, social, cognitive, and cre
 6. Use observations to guide resource selection and to inform families and assessment.
 
 ## Related Strategies
+
 - [Guided play](../strategies/play-based-learning.md) — an intermediate point on the child-led/adult-led continuum where adults embed learning goals in play
 - [Learning through play centers](../strategies/learning-centers.md) — structured provision of play zones with different material affordances
+- [Resist policies that reduce time for social pretend play in preschool and primary grades](resist-policies-reducing-social-pretend-play-time.md)
 
 ## Examples
 - **Anji Play (China)** — a published approach in which children engage in extended outdoor self-directed play with large, open materials (ladders, barrels, planks) while teachers observe and document; teachers later discuss play stories with children ([https://www.anjiplay.com](https://www.anjiplay.com))

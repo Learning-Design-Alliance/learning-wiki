@@ -12,7 +12,7 @@ generated:
 # Instructor as Facilitator
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 6 of 7 report an effect size
 
 ## Description
 The instructor shifts from being the primary source of content and authority to a role of guiding, questioning, and structuring learner activity. Concretely, this means eliciting student ideas before supplying answers, letting students select materials and topics, and handing discussion leadership to learners. The goal is not abdication — the facilitator still designs tasks, monitors understanding, and intervenes when needed — but a deliberate redistribution of control that supports autonomy and engagement.

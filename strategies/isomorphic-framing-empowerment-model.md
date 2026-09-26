@@ -41,7 +41,8 @@ Isomorphic framing techniques create parallel relationships between McWhirter's 
 - [Mcwhirter Four Requirement Empowerment Model](../theories/mcwhirter-four-requirement-empowerment-model.md)
 
 ## Related Strategies
-- 
+
+- [Structure adventure programs in two parts: preparation and training phase followed by the wilderness project](two-part-preparation-wilderness-program.md)
 
 ## Examples
 -

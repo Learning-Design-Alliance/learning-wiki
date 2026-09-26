@@ -51,6 +51,7 @@ Social Cognitive Theory is not a fully unified theory: the literature offers no 
 ## Claims
 
 ## Related Theories
+
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — operationalizes social learning via modeling, coaching, and fading in authentic contexts
 - [Situated Learning](situated-learning.md) — extends observational learning to communities of practice
 - [Self-Regulated Learning](self-regulated-learning.md) — incorporates self-efficacy as a regulatory mechanism
@@ -58,9 +59,14 @@ Social Cognitive Theory is not a fully unified theory: the literature offers no 
 - [Sociocultural Theory](sociocultural-theory.md) — both center learning through interaction with others, but Vygotsky's account is developmental (mediated by language and culture) rather than mediated by observation, attention, and self-efficacy
 - [Self-Efficacy Theory](self-efficacy-theory.md) — Bandura's own extension of this theory into a dedicated account of task-specific competence beliefs
 - [Locus of Control](locus-of-control.md) — another cognitive factor Bandura's tradition treats as shaping behavior, distinct from self-efficacy: locus of control concerns general beliefs about who or what controls outcomes, not task-specific competence
+- [Behavioristic theory: children learn language through imitation of those around them, supported by models and reinforcement](behavioristic-language-acquisition-imitation-theory.md)
+- [Social learning theory expectancy framework (generalized and specific expectancies)](social-learning-expectancy-framework.md)
+- [Bandura's social learning theory: four fundamental requirements for people to learn and model behavior](bandura-four-requirements-learn-model-behavior.md)
 
 ## Examples
+
 - [Prosocial Modeling](../strategies/prosocial-modeling.md) — deliberately applies vicarious reinforcement to encourage socially desirable behavior
+- [eSylvan: an early online tutoring environment deliberately incorporating Bandura's four steps](../elements/esylvan-online-tutoring-environment.md)
 
 ## Key Sources
 - Bandura, A. (1973). *Aggression: A social learning analysis*. Prentice-Hall.

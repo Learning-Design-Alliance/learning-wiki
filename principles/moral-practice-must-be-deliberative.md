@@ -44,7 +44,8 @@ Because individual beliefs and moment-by-moment responses may lead to actions th
 - 
 
 ## Examples
--
+
+- [Return observational field-notes to teachers and discuss critical episodes in team meetings as dialogical data generation](../strategies/field-notes-dialogical-data-generation.md)
 
 ## Key Sources
 - Norberg, K. (2003). Constitutive Values and Daily Practice in a Swedish School. Values and Ethics in Educational Administration, 1(3). http://www.ed.psu.edu/uceacsle/

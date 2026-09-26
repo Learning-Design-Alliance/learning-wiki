@@ -59,9 +59,11 @@ Journaling converts experience into learning by forcing articulation: writing ab
 5. Periodically ask learners to re-read earlier entries and write a synthesis, so reflection accumulates rather than evaporates; fade prompt support as reflective skill grows [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
 
 ## Related Strategies
+
 - **Learning portfolios** — journals are the raw material; portfolios curate and synthesize entries into evidence of growth
 - **Debriefing** — the synchronous, group version of the same describe–analyze–generalize move
 - **Action research** — journaling as the data-collection and reflection engine for practitioner inquiry
+- [Use structured power-analysis journaling at the start and end of field placements to build critical consciousness](field-placement-power-analysis-journaling.md)
 
 ## Examples
 - **Service-learning reflection (DEAL model)** — [Ash & Clayton's](https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1377&context=slcece) Describe–Examine–Articulate Learning framework is used across service-learning courses to structure context-specific journals tied to community placements.

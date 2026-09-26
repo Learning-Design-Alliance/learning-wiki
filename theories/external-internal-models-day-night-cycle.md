@@ -16,7 +16,7 @@ sources:
 # Modelos externos e internos (vivenciales) como dos representaciones complementarias del ciclo día-noche
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 El artículo distingue dos representaciones del movimiento aparente del Sol: el modelo externo, en el que un observador fuera de la Tierra ve el planeta rotar con el Sol fijo, y el modelo interno o vivencial, en el que "la Tierra permanece inalterada y es el Sol el que aparentemente se mueve por el cielo". La secuencia guía a los alumnos en una transición lenta y reflexiva entre ambos modelos, usando la esfera de telgopor iluminada y luego la maqueta.
@@ -39,13 +39,15 @@ El artículo distingue dos representaciones del movimiento aparente del Sol: el 
 - conceptos observacionales de la astronomía
 
 ### Claims
-- 
+
+- [Los estudiantes de secundaria tienen dificultades persistentes para reconocer los cambios observables en el movimiento aparente del Sol y los momentos singulares del año](../claims/students-difficulties-solar-movement-observable-changes.md) [~W]
 
 ## Related Theories
 - 
 
 ## Examples
--
+
+- [Maqueta de esferas de telgopor, alambres y linterna para representar los arcos solares diurnos en tres momentos del año](../elements/solar-arc-maqueta-foam-wire-flashlight.md)
 
 ## Key Sources
 - Gangui, Alejandro; Iglesias, María C.; Quinteros, Cynthia P. (2009). El movimiento de las sombras: Una propuesta de trabajo para la escuela secundaria. Ciencia Hoy. https://cms.iafe.uba.ar/gangui

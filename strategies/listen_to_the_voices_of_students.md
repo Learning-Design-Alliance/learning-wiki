@@ -12,7 +12,7 @@ generated:
 # Listen to the Voices of Students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size
+> **Evidence** · 4 claims (4 for) · 9 studies, `q1`–`q4` · 8 of 9 report an effect size
 
 ## Description
 Providing students authorship and allowing them to share their stories empowers them, fostering agency and leadership. This approach disrupts traditional classroom power dynamics by treating student perspectives as legitimate instructional content — students shape discussion topics, project directions, and classroom norms rather than merely responding to teacher-initiated prompts. It is carried out through structured sharing formats, student-led discussion, and authentic authorship opportunities in which learners' lived experiences become part of the curriculum.
@@ -58,9 +58,12 @@ Elevating student voice builds on self-determination research: experiences of au
 5. Close the loop by reflecting with students on how their input shaped the class, making agency visible
 
 ## Related Strategies
+
 - [Actively Listen to What Students Say](../strategies/actively_listen_to_what_students_say.md) — the receptive skill that makes voice-giving genuine rather than performative
 - [Action Planning](../strategies/action_planning.md) — converts student input into concrete, student-owned next steps
 - [Activating Background Knowledge](../strategies/activating_background_knowledge.md) — student stories are a primary vehicle for surfacing prior knowledge and identity
+- [Observe the classroom for dissonance between what students say and what teachers see](classroom-observation-dissonance-inclusive-design.md)
+- [Build student ownership through student-led conferences, town halls, and college and career readiness activities](student-ownership-practices-middle-school.md)
 
 ## Examples
 - **Youth participatory action research** (e.g., the [Public Science Project](https://www.publicscienceproject.org) at CUNY Graduate Center) — students design and conduct research on problems in their own communities and present findings to authentic audiences.

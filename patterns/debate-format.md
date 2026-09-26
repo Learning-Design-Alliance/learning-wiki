@@ -97,8 +97,10 @@ The pattern can take many forms, but the core features are role clarity, timed t
 - Some debates can culminate in position revision rather than fixed winner/loser outcomes.
 
 ## Related Patterns
+
 - [Socratic Seminar](socratic-seminar.md)
 - [Structured Academic Controversy (SAC)](structured-academic-controversy-sac.md)
+- [Debate as a laboratory for argumentation theory, contingent on keeping debate practices accountable to argumentation principles](debate-laboratory-for-argumentation.md)
 
 ## Examples
 - Civics learners debating policy approaches using evidence from assigned sources.

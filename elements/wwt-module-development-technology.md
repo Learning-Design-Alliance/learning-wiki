@@ -39,10 +39,14 @@ WorldWide Telescope (WWT) is described as "an interactive scientiﬁc data visua
 - science outreach
 
 ## Related Elements
-- 
+
+- [JavaScript with the d3.js library as a web-native module-development technology](javascript-d3-module-development-technology.md)
+- [Python with matplotlib as a module-development technology leveraging existing graduate research skills](python-matplotlib-module-development-technology.md)
+- [Wolfram Computable Document Format as a module-development technology](wolfram-cdf-module-development-technology.md)
 
 ## Examples
--
+
+- [Instructor recommendations for running a module-development course project](../strategies/module-development-course-recommendations.md)
 
 ## Key Sources
 - Nathan E. Sanders, Chris Faesi, Alyssa A. Goodman. (2013). A New Approach to Developing Interactive Software Modules through Graduate Education. https://arxiv.org/abs/1308.1908

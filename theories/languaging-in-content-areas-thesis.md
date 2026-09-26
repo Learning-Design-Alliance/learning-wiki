@@ -41,10 +41,15 @@ LICA is proposed as "a working title for a potentially unifying thesis" for post
 - 
 
 ## Related Theories
-- 
+
+- [The 'Languaging in the Content Areas' (LICA) thesis as a formulating theory of post-elementary reading](languaging-in-content-areas-lica-thesis.md)
 
 ## Examples
--
+
+- [Ten guiding precepts for school-wide languaging-oriented reading programs](../patterns/lica-guiding-precepts.md)
+- [Experience with Languaging Activities (ELAs) guided by a sequence of experience-based questions](../patterns/experience-with-languaging-activities.md)
+- [Imbedded Aids: textbook redesign placing teacher-like assistance in the text](../elements/imbedded-aids-textbooks.md)
+- [Embed units of assistance and enrichment into the fabric of textual material so they are unobtrusive yet available for reader use](../strategies/embedded-aids-to-readers.md)
 
 ## Key Sources
 - Manzo, Anthony V.; Sherk, John K., Jr. (1977). Reading and "Languaging in the Content Areas" A Third Generational Approach. https://eric.ed.gov/?id=ED136190

@@ -38,7 +38,9 @@ In lieu of a final exam, student groups create a simple choreography, record and
 - creative and analytical integration
 
 ## Related Strategies
-- 
+
+- [Music & Dance](music-dance.md)
+- [Mathematical Dance](mathematical_dance.md)
 
 ## Examples
 -

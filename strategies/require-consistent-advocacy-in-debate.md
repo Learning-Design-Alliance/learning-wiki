@@ -38,7 +38,8 @@ In debate activities, require students to commit to and defend a consistent set 
 - rigorous comparison of policy options
 
 ## Related Strategies
-- 
+
+- [Eight reforms for improving parliamentary debate as educational debate](parliamentary-debate-reform-recommendations.md)
 
 ## Examples
 -

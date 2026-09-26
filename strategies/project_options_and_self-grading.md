@@ -12,7 +12,7 @@ generated:
 # Project Options and Self-Grading
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies, `q2`–`q4` · 5 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies, `q1`–`q4` · 4 of 6 report an effect size
 
 ## Description
 This strategy combines two moves: offering learners a genuine choice among project formats (e.g., paper, presentation, website, exhibit) and involving them in building a criteria chart — a co-constructed rubric — for each project. Learners complete the project, grade their own work against the criteria, and write a short reflection justifying the grade they assigned. The combination converts assessment from something done *to* students into something done *with* them.
@@ -60,8 +60,10 @@ Choice supports autonomy, which is a core driver of intrinsic motivation [Autono
 6. Teacher grades independently, then reconciles discrepancies through [feedback](../elements/provide-feedback.md) or a brief conference; treat large gaps as teaching moments about evaluative judgment.
 
 ## Related Strategies
+
 - Academic Choice (planning, working, reflecting) — shares the autonomy-plus-reflection structure; this strategy applies it to summative projects
 - [Rubrics and criteria charts](../elements/assess-performance.md) — the assessment infrastructure this strategy depends on
+- [Give learners control over how learning is measured via assessment choices and science-fair-type projects](learner-controlled-assessment-science-fair-projects.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — self-grading is a form of performance assessment turned inward

@@ -38,7 +38,9 @@ Teachers make connections with keypals on the network or local volunteers in the
 - communication skills
 
 ## Related Strategies
-- 
+
+- [Community Involvement](community_involvement.md)
+- [Targeted Networking](targeted_networking.md)
 
 ## Examples
 -

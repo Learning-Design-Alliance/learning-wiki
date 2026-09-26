@@ -41,7 +41,8 @@ A protocol for a scoping review registered in the Open Science Framework (regist
 - 
 
 ## Examples
--
+
+- [Map educational approaches onto predefined evidence synthesis skill components, delivery modes and outcome-measure categories when charting the literature](../strategies/chart-approaches-by-skill-component-delivery-and-outcome-type.md)
 
 ## Key Sources
 - Kapu H, Shetty Veekshitha S, Rajendran Rajalakshmi, Sekhar M Sonal, Kunhikatta Vijayanarayana, Unnikrishnan B, Khan Sohil, Gunning Tiffany K, Athan Eugene, Saha Sajal K, Thunga Girish. (2026). Exploring educational approaches and strategies for developing evidence synthesis skills among pharmacy students: a scoping review protocol. BMJ Open. https://doi.org/10.1136/bmjopen-2026-119283

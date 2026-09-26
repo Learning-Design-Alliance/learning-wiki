@@ -12,7 +12,7 @@ generated:
 # Points or Experience (XP) Systems
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies, `q2`–`q4` · 5 of 8 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies, `q1`–`q4` · 4 of 8 report an effect size
 
 ## Description
 Point systems or experience (XP) systems reward learners for completing tasks, assignments, or assessments. Unlike traditional grading, XP typically starts at zero and only accumulates — signaling progress rather than loss — and can offer limitless points, flexible goals, and learner choice about which activities to pursue. Points are tracked in a gradebook, leaderboard, or dedicated platform, and may be tied to levels, badges, or privileges.

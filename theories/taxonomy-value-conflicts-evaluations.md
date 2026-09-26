@@ -16,7 +16,7 @@ sources:
 # Taxonomy of potential value conflicts in evaluations
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article presents a taxonomy of the value conflicts that arise in evaluation processes. Its basis is stated as follows: "Basis is the distinction of types of conflict (aims vs. means conflicts; qualitative vs. quantitative conflicts)." The taxonomy organizes conflicts across six areas of values and is intended as an analytical tool to be applied to concrete evaluation processes before they start.
@@ -36,13 +36,17 @@ The article presents a taxonomy of the value conflicts that arise in evaluation 
 - analyzing value conflicts in educational evaluation processes
 
 ### Claims
-- 
+
+- [Antagonistic and dilemma situations in evaluation are decision situations where any choice breaks a value](../claims/antagonistic-dilemma-situations-break-value.md) [+W]
+- [The value-conflict taxonomy is applied to student rating of teaching at the University of Salzburg, surfacing conflicts such as bandwidth vs. fidelity](../claims/taxonomy-applied-salzburg-student-ratings.md) [+W]
 
 ## Related Theories
-- 
+
+- [Six areas of values in evaluation conflicts](six-areas-values-evaluation-conflicts.md)
 
 ## Examples
--
+
+- [Use the taxonomy of value conflicts before starting an evaluation](../principles/use-taxonomy-before-starting-evaluation.md)
 
 ## Key Sources
 - Patry, Jean-Luc, & Gastager, Angela. (2004). Kokybės vertinimo dilemos – Dilemmas in quality assessment. The Quality of Higher Education 2004/1. https://eric.ed.gov/?id=EJ874233

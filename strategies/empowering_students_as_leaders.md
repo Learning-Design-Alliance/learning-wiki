@@ -12,7 +12,7 @@ generated:
 # Empowering Students as Leaders
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies, `q2`–`q4` · 5 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies, `q1`–`q4` · 4 of 8 report an effect size
 
 ## Description
 This strategy identifies students whose challenging classroom behavior often masks leadership qualities — social influence, initiative, verbal confidence — and gives them formal leadership roles within learning groups: facilitator, timekeeper, materials manager, or outcome checker. Student leaders are paired with or positioned to support peers who struggle academically, converting a source of disruption into a source of structure. The approach reframes the student's status from "problem" to "contributor," which changes both the student's self-concept and the peer group's response to them.
@@ -61,9 +61,11 @@ The strategy works through two mechanisms documented in the cooperative learning
 6. **Monitor and debrief.** Circulate, redirect misuse of influence privately, and end sessions with a short group debrief on how well each role functioned.
 
 ## Related Strategies
+
 - [Cooperative Learning](../patterns/cooperative-learning.md) — the group-structure pattern this strategy operates within; role assignment is one of its five key elements
 - [Peer Tutoring](peer-tutoring.md) — a more academically focused variant of structured peer support
 - [Classroom Community Building](classroom-community-building.md) — leadership roles are one lever for building belonging and shared norms
+- [Implement student-led weekly discussion groups in which rotating leaders choose topics, facilitate discussion, and post summaries, unmediated by teaching staff](student-led-rotating-discussion-leader-groups.md)
 
 ## Examples
 - **Cooperative learning role cards** (Johnson & Johnson tradition): teams in a science class assign Facilitator, Recorder, Timekeeper, and Checker roles that rotate weekly; teachers report reduced off-task behavior among previously disruptive students given the Facilitator role.
