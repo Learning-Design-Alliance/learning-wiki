@@ -661,6 +661,17 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#2026-09-27-night-one-health-report-covers-evidence-and-links-the-doi-checks-61-problems-were-3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-27 (night) — one health report covers evidence and links; the DOI check's 61 problems were 3
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-09-27-evening-the-load-bearing-check-has-a-runbook-and-runs-in-every-batch" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1422,6 +1433,17 @@
   
     <nav class="md-nav" aria-label="Working alongside other sessions — read this before starting">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2026-09-27-night-one-health-report-covers-evidence-and-links-the-doi-checks-61-problems-were-3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-27 (night) — one health report covers evidence and links; the DOI check's 61 problems were 3
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#2026-09-27-evening-the-load-bearing-check-has-a-runbook-and-runs-in-every-batch" class="md-nav__link">
@@ -2271,6 +2293,28 @@ work is done, not that the check is broken.</p>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
+<h3 id="2026-09-27-night-one-health-report-covers-evidence-and-links-the-doi-checks-61-problems-were-3">2026-09-27 (night) — one health report covers evidence and links; the DOI check's 61 problems were 3<a class="headerlink" href="#2026-09-27-night-one-health-report-covers-evidence-and-links-the-doi-checks-61-problems-were-3" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong><code>python3 scripts/wiki_health_check.py</code> is the general health report.</strong> Beside lint, citation
+  conflicts, DOIs, duplicates and the TODO backlog (now naming the TODO pages), it carries
+  <code>scripts/health_evidence.py</code>'s section: load-bearing claims (3+ design pages) by what the judge
+  has on them at their current text (checked / an abstract could not settle it / not checkable /
+  never judged / open failure), how many rest on one study, abstract-only entries, <code>i1</code>–<code>i3</code> codes
+  with no effect size or test statistic in the entry, unmarked claim citations, and pages with no
+  link in or out. Offline and model-free (it reads only cached abstracts); every run appends to
+  <code>eval/health/history.ndjson</code>. Run on its own: <code>python3 scripts/health_evidence.py</code>.</li>
+<li><strong>"DOI resolution problems: 61" was 3.</strong> <code>doi_resolver.check_all</code> compared the registry title
+  with <code>check_citations</code>' 160-character excerpt, which a long author list ends before the title:
+  58 "resolves to a different paper" findings, 0 real. It reads <code>full_line</code> now, and accepts a
+  title that is the other's prefix (Crossref's "Two Strikes" for the page's full title), never
+  containment elsewhere, so the Bandura case is still refused. Of the other three, two were
+  parser bugs: <code>check_citations.DOI_RE</code> stopped at <code>[</code> in a SICI DOI, and <code>resolve_doi</code> put an
+  unencoded <code>#</code> into the Crossref URL. One was real: <code>10.1123/jpah.2017-0457</code> has no doi.org
+  handle; the Brusseau citation now carries Crossref's record, <code>10.1123/jpah.2016-0028</code>.</li>
+<li><strong>The count of <code>i</code> codes with nothing behind them is 455, not 250</strong>: the first figure matched
+  any stray letter. Raw means with no SD, "significant" with no number and a model's
+  "substantially" are what the rule means by an impact with no printed magnitude.</li>
+</ul>
 <h3 id="2026-09-27-evening-the-load-bearing-check-has-a-runbook-and-runs-in-every-batch">2026-09-27 (evening) — the load-bearing check has a runbook and runs in every batch<a class="headerlink" href="#2026-09-27-evening-the-load-bearing-check-has-a-runbook-and-runs-in-every-batch" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong><code>eval/load-bearing/README.md</code> is the procedure</strong>: when to run <code>check_load_bearing.py</code>, how to
@@ -2287,8 +2331,8 @@ finds out.</p>
   technologies", the LVN and STRP cases, the C/I-cycle classes and the BRT course-schedule
   proposal. One <code>link_claims.py</code> link joined that proposal to Behavioral Relaxation Training on the
   acronym "BRT" alone and was removed. Acronym collisions are a known risk of BM25 candidates.</li>
-<li><strong>An open problem, found by this check and not fixed: 250 evidence entries code <code>i1</code>–<code>i3</code> with
-  no statistic anywhere in the entry</strong>, and 621 carry a bare <code>q2 · i1</code> codes line. Most come from
+<li><strong>An open problem, found by this check and not fixed: 455 evidence entries code <code>i1</code>–<code>i3</code> with
+  no effect size or test statistic in the entry</strong> (first counted as 250 with a looser match), and 621 carry a bare <code>q2 · i1</code> codes line. Most come from
   batches. The extraction prompt contradicts itself: v133 says <code>null</code> when no effect size is
   printed, and its code table two sections later still reads "0 = negligible/unclear/null/marginal".
   Recoding needs each source read, not a regex, and the prompt fix needs a benchmark run.</li>
