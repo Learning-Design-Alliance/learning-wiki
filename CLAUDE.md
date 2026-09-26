@@ -121,7 +121,7 @@ finds out.
   shows the statistic as printed. Everything else becomes `i?` with a note saying what was read.
   Subclaims resting on the entry follow it, including through accent-folded anchors.
 - **Result, $0.82: 441 of 455 became `i?`, 14 kept a verified statistic** (9 `i2`, 3 `i3`, 2 `i1`).
-  Of the `i?`: 312 on full text that prints none for the finding, 77 on abstracts (the note says the
+  Of the `i?`: 311 on full text that prints none for the finding, 77 on abstracts (the note says the
   full text may), 53 with no source text on this machine. Verified by parse: 379 pages, 440
   frontmatter `i` values changed, no source entry added or dropped, no other key touched; all 537
   subclaims on recoded entries agree with their entry. The health report's count is now 0.
