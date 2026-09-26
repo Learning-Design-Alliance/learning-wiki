@@ -634,6 +634,17 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#2026-09-26-later-a-citation-pass-checked-against-author-and-year" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-26 (later) — a citation pass checked against author and year
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-09-26-a-crossref-404-now-asks-datacite-before-a-doi-is-stripped" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1307,6 +1318,17 @@
   
     <nav class="md-nav" aria-label="Working alongside other sessions — read this before starting">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2026-09-26-later-a-citation-pass-checked-against-author-and-year" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-26 (later) — a citation pass checked against author and year
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#2026-09-26-a-crossref-404-now-asks-datacite-before-a-doi-is-stripped" class="md-nav__link">
@@ -2068,6 +2090,26 @@ work is done, not that the check is broken.</p>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
+<h3 id="2026-09-26-later-a-citation-pass-checked-against-author-and-year">2026-09-26 (later) — a citation pass checked against author and year<a class="headerlink" href="#2026-09-26-later-a-citation-pass-checked-against-author-and-year" title="Permanent link">&para;</a></h3>
+<p>Every DOI-bearing citation was compared with its full Crossref record, <strong>first author and year
+included</strong>. The existing tools compare title and journal coordinates only, and that is not enough:
+a similar title passed <code>classify_doi</code> for Pronovost (2006) on a 2008 AJIC paper, and a first-author
+match alone produced hybrids (Mayer &amp; Fiorella cited under Mayer's single-author chapter). The pass
+removed 67 DOIs of other works, rewrote about 290 invented or shortened titles, and moved conflicts
+33 → 22 and invented-title DOIs 109 → 31. What it could not settle (reprint and edition DOIs,
+partial titles with no coordinates) was reported, not written.</p>
+<ul>
+<li><strong>Do not run <code>resolve_doi_conflicts.py --apply</code>.</strong> Its Crossref-search fallback proposed the
+  Springer chapter <code>10.1007/978-1-4684-7562-3_3</code> for Bandura (1977) on ~70 pages again.</li>
+<li><strong>The ingest gate cannot strip a bare-URL DOI.</strong> <code>verify_page_citations</code> removes only the
+  <code>[doi:X](https://doi.org/X)</code> and <code>[https://doi.org/X](...)</code> forms, so batch 5's manifest records
+  removals of <code>…mjcsloa.3239521.0026.203</code> and <code>10.26077/936a-72f7</code> that never happened. The first
+  was wrong (the Harkins article is <code>…0026.202</code>, now fixed); the second was right all along.</li>
+<li><strong>A DOI can be right while the record type is wrong for the citation</strong>: PsycEXTRA conference
+  records and journal reviews of a book carry exactly the cited title. Check the type.</li>
+<li><strong>Prose DOI links are unchecked by every tool.</strong> <code>10.1056/NEJMoa054115</code> (no handle anywhere) sat in
+  two prose links for Pronovost (2006).</li>
+</ul>
 <h3 id="2026-09-26-a-crossref-404-now-asks-datacite-before-a-doi-is-stripped">2026-09-26 — a Crossref 404 now asks DataCite before a DOI is stripped<a class="headerlink" href="#2026-09-26-a-crossref-404-now-asks-datacite-before-a-doi-is-stripped" title="Permanent link">&para;</a></h3>
 <p>Batch 5's ingest gate stripped <code>10.26077/936a-72f7</code> from eight pages as <code>not_found</code>. DataCite
 registers it to exactly the cited article (Shvidko 2020, Utah State's digitalcommons); Crossref
