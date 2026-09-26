@@ -42,6 +42,7 @@ class GenerationResult:
     cost_source: str  # "generation_stats" | "list_pricing" | "unknown"
     generation_id: Optional[str]
     provider: Optional[str] = None  # the upstream provider OpenRouter routed to
+    finish_reason: Optional[str] = None  # "length" = the output ran into max_tokens
 
 
 def generate(
@@ -203,6 +204,7 @@ def generate(
             cost_source=cost_source,
             generation_id=generation_id,
             provider=body.get("provider"),
+            finish_reason=choice.get("finish_reason"),
         )
 
     raise last_error or GenerationError(f"Failed to generate from {model} after {MAX_RETRIES} attempts.")

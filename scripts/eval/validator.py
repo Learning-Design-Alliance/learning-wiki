@@ -220,9 +220,14 @@ class _Checker:
         if not ground_truth.quote_is_grounded(source_quote, self.article_text):
             shown = str(source_quote).strip()
             shown = shown if len(shown) <= 80 else shown[:80] + "…"
+            near = ground_truth.nearest_passage(source_quote, self.article_text)
+            hint = (f" The closest passage in the article is: {near!r}. Copy 15-40 consecutive words "
+                    f"from it verbatim if it supports this entry; if it does not, drop the entry."
+                    if near else " No passage in the article resembles it; drop the entry unless you "
+                                 "can find the sentence it came from.")
             self.error(field_name, f"quote {shown!r} does not appear in the source article (checked "
                                     f"verbatim, with a fuzzy word-overlap fallback) — likely fabricated or "
-                                    f"too heavily paraphrased; quotes must be copied verbatim.")
+                                    f"too heavily paraphrased; quotes must be copied verbatim.{hint}")
 
     def check_consistency(self, field_name: str, value) -> None:
         """SelfCheckGPT-style: no external source to check against here —

@@ -110,7 +110,7 @@ _load_secrets_env()
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from scripts.eval import (fetch_article, openrouter_client, validator, judge, failure_analysis, html_report,
                           executive_summary, cost_projection, history, prompts, optimizer, model_catalog,
-                          auto_optimize_report, index_report, consistency, home_report)
+                          auto_optimize_report, index_report, consistency, home_report, source_citation)
 from scripts.eval.jsonutil import extract_json, JSONExtractionError
 
 RUN_CONFIG_PATH = WIKI_ROOT / "deploy" / "run-config.env"
@@ -176,6 +176,22 @@ def result_path(run_dir: Path, model: str, article_id: str) -> Path:
     return run_dir / safe_model_dirname(model) / f"{article_id}.json"
 
 
+MAX_RUNAWAY_RESAMPLES = 2
+
+
+def _is_runaway(gen, max_tokens: int) -> bool:
+    """Truncated at the token cap AND unparseable. A long reply that still
+    parses is kept: the validator, not this, decides whether it is complete."""
+    truncated = gen.finish_reason == "length" or (gen.completion_tokens or 0) >= 0.98 * max_tokens
+    if not truncated:
+        return False
+    try:
+        extract_json(gen.raw_text)
+        return False
+    except JSONExtractionError:
+        return True
+
+
 def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
             judges: list, gpt_judge_model: str, max_tokens: int, refresh_cache: bool = False,
             prompt_version: str = None, max_correction_attempts: int = 0, ground_truth: bool = False,
@@ -219,16 +235,28 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
     total_completion_tokens = 0
 
     for attempt in range(max_correction_attempts + 1):
-        try:
-            gen = openrouter_client.generate(model, system_prompt, current_prompt, api_key, max_tokens=max_tokens,
-                                              disable_reasoning=model_catalog.needs_reasoning_disabled(model),
-                                              reasoning_effort=model_catalog.reasoning_effort_for(model))
-        except openrouter_client.GenerationError as e:
-            record["generation"] = {"error": str(e)}
-            return record
-
-        total_cost += gen.cost_usd or 0
-        total_completion_tokens += gen.completion_tokens
+        # A reply that ran into max_tokens is a runaway, not an answer: every one of
+        # GLM's 12 unparseable outputs before 2026-09-26 stopped exactly at the cap,
+        # mid-reasoning. The same prompt sampled again almost always finishes, so a
+        # truncated, unparseable reply is resampled (at most twice per attempt)
+        # before anything is validated. A resample is not a correction attempt: the
+        # model is shown nothing new, and `initial_passed` still means first answer.
+        for sample in range(MAX_RUNAWAY_RESAMPLES + 1):
+            try:
+                gen = openrouter_client.generate(model, system_prompt, current_prompt, api_key, max_tokens=max_tokens,
+                                                  disable_reasoning=model_catalog.needs_reasoning_disabled(model),
+                                                  reasoning_effort=model_catalog.reasoning_effort_for(model))
+            except openrouter_client.GenerationError as e:
+                record["generation"] = {"error": str(e)}
+                return record
+            total_cost += gen.cost_usd or 0
+            total_completion_tokens += gen.completion_tokens
+            if not _is_runaway(gen, max_tokens):
+                break
+            record["runaway_resamples"] = record.get("runaway_resamples", 0) + 1
+            if sample < MAX_RUNAWAY_RESAMPLES:
+                print(f"  [runaway] {model} / {entry['id']}: output hit max_tokens with no JSON "
+                      f"({gen.completion_tokens} tokens, provider {gen.provider}); resampling", flush=True)
         record["generated_at"] = datetime.now(timezone.utc).isoformat()
         record["generation"] = {
             "prompt_tokens": gen.prompt_tokens,
@@ -238,6 +266,7 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
             "cost_source": gen.cost_source,
             "generation_id": gen.generation_id,
             "provider": gen.provider,
+            "finish_reason": gen.finish_reason,
         }
         record["raw_text"] = gen.raw_text
 
@@ -248,6 +277,12 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
             record["parse_error"] = None
         except JSONExtractionError as e:
             record["parse_error"] = str(e)
+
+        # The source's own citation gets the catalogue URL it was fetched from
+        # when it carries no link (source_citation.py): the model cannot know a
+        # link the article does not print, and asking it for one asks it to invent.
+        if parsed:
+            record["citation_repairs"] = source_citation.repair(parsed, entry)
 
         # A rejection is a judgment about the source, so it is accepted only from the
         # first attempt, which is the only one asked to read the article. On a correction
