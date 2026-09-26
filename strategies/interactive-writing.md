@@ -12,7 +12,7 @@ generated:
 # Interactive Writing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 12 studies, `q1`–`q4` · 12 of 12 report an effect size
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 12 studies, `q1`–`q4` · 11 of 12 report an effect size
 
 ## Description
 Interactive writing is a collaborative composition routine in which a teacher and a group of students construct a shared text, with individual children taking turns writing known letters, words, or punctuation directly on the chart or board while the teacher fills in what is beyond the learners' reach. The group talks through each decision — hearing sounds in words, choosing letters, checking spacing and conventions — before and as it is written. It sits between [modeled writing](../elements/demonstration.md) (teacher writes everything) and independent writing (students write everything), dynamically distributing the task according to what each child can do.

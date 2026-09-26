@@ -12,7 +12,7 @@ generated:
 # Annotating Texts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 6 studies, `q2`–`q4` · 5 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Annotating texts is a reading strategy in which learners actively mark up a text while reading — highlighting or underlining key ideas, writing margin notes, coding with symbols, posing questions, or summarizing passages in their own words. It converts passive reading into generative processing: the reader must decide what matters, why it matters, and how it connects to prior knowledge. Annotation can be learner-generated or instructor-provided (e.g., pre-annotated exemplars or embedded prompts), and ranges from simple marking to structured schemes (claim/evidence/question codes).

@@ -12,7 +12,7 @@ generated:
 # Prep Activities for Shadowing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies, `q3`–`q4` · 4 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies, `q2`–`q4` · 3 of 6 report an effect size
 
 ## Description
 Prep activities for shadowing are short, structured tasks completed before a learner observes an expert (in a clinic, classroom, workplace, or simulation) to make the subsequent observation active rather than passive. Typical activities include activating relevant prior knowledge, previewing the task's structure and vocabulary, and setting specific observation goals or question prompts. They convert shadowing from unguided watching into a purposeful [Observation](../elements/observation.md) episode with a clear attentional agenda.

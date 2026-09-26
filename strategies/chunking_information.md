@@ -12,7 +12,7 @@ generated:
 # Chunking Information
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Chunking organizes content into small, meaningful units — each small enough to be processed as a single item in working memory — and sequences those units so learners can consolidate them into larger schemas before the next load arrives. It is carried out by segmenting text, video, diagrams, or instruction into coherent parts, labeling each part, and ordering them from simple to complex.

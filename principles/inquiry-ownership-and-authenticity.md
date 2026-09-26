@@ -41,7 +41,7 @@ The article frames its inquiry design with two stated keys: "Keys to inquiry are
 ### Claims
 
 - [Students rated the image decoding, poster sharing, and synthesis lecture components of a digital-images inquiry highest on a five-point feedback scale](../claims/digital-images-inquiry-student-feedback-ratings.md) [+W]
-- [A six-step C/I cycle administered in two engineering physics classes guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric](../claims/ci-cycle-metric-guided-solution-quarry-problem.md) [+W]
+- [A six-step C/I cycle administered in a sophomore engineering physics class and a graduate physics class guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric](../claims/ci-cycle-metric-guided-solution-quarry-problem.md) [+W]
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](../claims/spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) [+W]
 
 ## Related Principles

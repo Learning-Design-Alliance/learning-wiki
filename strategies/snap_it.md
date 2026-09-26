@@ -12,7 +12,7 @@ generated:
 # Snap It
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 A game where children make a train of connecting cubes, snap the train into two parts, hide one part behind their back, and show the remaining cubes. The other children work out the full number combination — inferring the hidden quantity from the visible part and the known whole. The game converts part–part–whole relationships into a concrete, social, and self-checking activity.

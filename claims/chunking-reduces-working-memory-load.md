@@ -10,8 +10,8 @@ sources:
     resource: "https://doi.org/10.1037/h0043158"
     title: "Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review, 63*(2), 81–97. [https://doi.org/10.1037/h0043158](https://doi.org/10.1037/h0043158)"
     author: Miller, G. A.
-    q: 4
-    i: 3
+    q: 2
+    i: "?"
     n: N/A
   - id: cowan-2001
     resource: "https://doi.org/10.1017/S0140525X01003922"
@@ -34,12 +34,12 @@ evidence_strength: strong
 # Chunking reduces working memory load by grouping information into fewer, more meaningful units.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q3`–`q4` · `i2`–`i3`
+> **Evidence** · 3 studies · `q2`–`q4` · `i2`–`i3`
 
 By organizing discrete elements into larger, familiar patterns (chunks), learners can effectively bypass the limited capacity of short-term memory, allowing for more complex processing.
 
 ## Subclaims
-`q4 i3` Grouping information into chunks significantly increases the total amount of information that can be maintained in working memory. [→ Miller 1956](#miller-1956)
+`q2 i?` Recoding input into larger chunks lets people stretch the limit on how much information they can hold in immediate memory, a limit Miller found clustering around seven items while withholding judgment on what the recurring seven means. [→ Miller 1956](#miller-1956)
 `q4 i3` More recent estimates put the limit closer to three to five chunks for novel material, tightening rather than overturning Miller's estimate. [→ Cowan 2001](#cowan-2001)
 `q3 i2` Chunking reduces the number of units to be maintained, freeing up cognitive resources for higher-order tasks. [→ Thalmann et al. 2019](#thalmann-et-al-2019)
 
@@ -51,9 +51,9 @@ Primary evidence link: https://doi.org/10.1037/h0043158
 
 Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review, 63*(2), 81–97. [https://doi.org/10.1037/h0043158](https://doi.org/10.1037/h0043158)
 
-`q4 · peer-reviewed theoretical synthesis` · `i3 · large impact` · `n=N/A`
+`q2 · narrative review of absolute-judgment and immediate-memory experiments (abstract only)` · `i? · no effect size; a review` · `n=N/A`
 
-The foundational paper establishing that working memory capacity is limited by the number of "chunks" rather than the number of raw bits or items. It demonstrated that humans can hold approximately 7 (±2) chunks of information.
+Miller reviews experiments on the limits of absolute judgment and of immediate memory, notes that both kinds of limit cluster around seven, and explicitly withholds judgment on whether the recurring seven means anything. His positive proposal is that organising input into chunks, recoding it into fewer and larger units, lets people break or stretch that bottleneck on how much they can remember. The popular reading that working memory holds "7 ± 2 chunks" goes further than the paper does; Cowan (2001) below later put the limit for novel material nearer four.
 
 ### Cowan 2001
 

@@ -12,7 +12,7 @@ generated:
 # Word Walls
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q4` · 2 of 3 report an effect size
 
 ## Description
 A word wall is a visible, organized display of high-leverage vocabulary words for the current unit or discipline, built cumulatively over time. Learners are explicitly taught to use the wall — referencing it during writing and discussion, sorting words by linguistic features, and exploring relationships among terms — rather than treating it as passive decoration.

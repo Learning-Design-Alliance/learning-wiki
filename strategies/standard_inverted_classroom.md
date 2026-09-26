@@ -12,7 +12,7 @@ generated:
 # Standard Inverted Classroom
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q4` · 6 of 7 report an effect size
 
 ## Description
 The standard inverted (flipped) classroom relocates first-exposure content — typically recorded lectures or readings — to pre-class study, and reserves synchronous class time for active work: problem solving, discussion, and instructor feedback. The instructor's role shifts from delivering content to diagnosing difficulties and facilitating application during class.

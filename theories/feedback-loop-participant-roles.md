@@ -15,7 +15,7 @@ sources:
 # Six participant roles in feedback loops: translators, facilitators, users, informants, advisors, designers
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies, `q1` · 3 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies, `q1` · 1 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The report identifies recurring participant roles that contribute to knowledge transformation in feedback loops. Translators bridge understanding between communities; facilitators manage the loop through planning, organizing, and leading engagements; users actively engage with outputs; informants generate feedback without engaging the outputs; advisors share expertise without engaging outputs; and designers construct outputs from the transformed knowledge. An individual may play more than one role depending on the structure, and some participants, such as informants, may contribute without being part of the loop itself.
@@ -36,7 +36,7 @@ The report identifies recurring participant roles that contribute to knowledge t
 
 ### Claims
 
-- [In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need beyond what surveys would have produced](../claims/lvn-generator-feedback-loop-case.md) [+W]
+- [In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need that the authors say simple surveys may not have produced](../claims/lvn-generator-feedback-loop-case.md) [+W]
 - [In the Maker Learning @ Home cohort, feedback loops with cohort members redefined the initiative's outputs and goals](../claims/maker-cohort-amplifier-case.md) [+W]
 - [Some initiatives fit no single generalized structure: the OER for Racial Justice project required a novel generator-plus-catalyzer combination](../claims/oer-racial-justice-novel-structure.md) [+W]
 

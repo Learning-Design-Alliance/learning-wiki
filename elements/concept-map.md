@@ -12,7 +12,7 @@ generated:
 # Concept Map
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies, `q3`–`q4` · 5 of 6 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies, `q2`–`q4` · 4 of 6 report an effect size
 
 ## Description
 A concept map is a diagram in which concepts appear as nodes and labeled links express the relationships between them, forming a propositional structure ("concept — linking word — concept"). It functions both as a learning activity (learners construct maps) and as an assessment or advance organizer (instructors provide or score maps). Concept maps make knowledge structure — not just knowledge items — visible and revisable.

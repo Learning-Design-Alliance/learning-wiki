@@ -12,7 +12,7 @@ generated:
 # Visual Timers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q4` · 2 of 3 report an effect size
 
 ## Description
 A visual timer is a physical or digital device (e.g., a shrinking red disc, sand timer, or countdown bar) that represents the passage of time graphically rather than numerically. It is used to show learners how much time remains in an activity, signal upcoming transitions, and build an understanding that activities have finite durations. The approach is common in structured teaching for autistic learners and in behavior-support plans for learners with ADHD.

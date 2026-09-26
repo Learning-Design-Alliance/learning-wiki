@@ -13877,9 +13877,6 @@
    "brt-more-acceptable-than-medication-gad-pd": {
     "claims": [
      {
-      "slug": "brt-schedule-raised-plo-degrees"
-     },
-     {
       "slug": "demographics-unrelated-to-acceptability-ratings"
      },
      {
@@ -13899,9 +13896,6 @@
    },
    "brt-schedule-raised-plo-degrees": {
     "claims": [
-     {
-      "slug": "brt-more-acceptable-than-medication-gad-pd"
-     },
      {
       "slug": "students-exemplified-clues-orally"
      }

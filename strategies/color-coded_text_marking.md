@@ -12,7 +12,7 @@ generated:
 # Color Coded Text Marking
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (2 for, 3 mixed, 1 against) · 13 studies, `q2`–`q4` · 8 of 13 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (2 for, 3 mixed, 1 against) · 13 studies, `q2`–`q4` · 7 of 13 report an effect size · 2 claims rest on one study
 
 ## Description
 Color coded text marking asks learners to annotate a text using a consistent, shared color scheme in which each color represents a category — claims, evidence, counterarguments, unfamiliar vocabulary, personal connections. Unlike free-form [Annotating](../principles/annotating.md), the defining feature is a *fixed mapping* between color and meaning, which turns highlighting from a passive motor act into a structured analysis of the text's rhetorical or conceptual structure. It is typically carried out on printed handouts, shared digital documents (e.g., Google Docs, Perusall), or dedicated annotation tools (e.g., Hypothesis).

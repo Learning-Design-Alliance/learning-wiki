@@ -12,7 +12,7 @@ generated:
 # Create a Character Profile
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 18 studies, `q2`–`q4` · 12 of 18 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (6 for) · 18 studies, `q2`–`q4` · 11 of 18 report an effect size · 1 claim rests on one study
 
 ## Description
 Creating a character profile helps students form a deeper understanding of a book's characters. Learners compile evidence-based portraits of a character — lists of supporting adjectives, illustrations grounded in textual description, predictions about the character's future, or reflections on how the character makes them feel at a given point in the text. The profile format forces students to move from passive reading to active synthesis of textual evidence.

@@ -12,7 +12,7 @@ generated:
 # Letter Formation Activities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 5 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q4` · 4 of 7 report an effect size
 
 ## Description
 Letter formation activities teach learners how to produce legible letterforms through explicit modeling of stroke sequence, directionality, and starting points, followed by structured practice. The goal is to build a stable motor plan for each letter so that production becomes automatic, freeing working memory for composing and spelling.

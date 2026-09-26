@@ -12,7 +12,7 @@ generated:
 # Unit Planning with Graphic Organizers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 11 studies, `q2`–`q4` · 7 of 11 report an effect size
+> **Evidence** · 4 claims (3 for, 1 against) · 11 studies, `q2`–`q4` · 6 of 11 report an effect size
 
 ## Description
 When introducing a unit to students, the teacher presents a graphic organizer — a concept map, flowchart, timeline, or structured diagram — showing how the unit's topics, lessons, and assessments fit together. The organizer is displayed throughout the unit and referenced as each new segment begins, so students can locate the current lesson within the larger structure and understand why they are learning each individual part. The act of building the organizer also forces the teacher to decide what is essential versus "nice to know."

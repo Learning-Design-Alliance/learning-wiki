@@ -12,7 +12,7 @@ generated:
 # Pre-recorded Instructional Video
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 10 studies, `q3`–`q4` · 7 of 10 report an effect size
+> **Evidence** · 4 claims (3 for, 1 against) · 10 studies, `q2`–`q4` · 6 of 10 report an effect size
 
 ## Description
 Pre-recorded instructional video delivers [Direct Instruction](../elements/direct-instruction.md), [Demonstration](../elements/demonstration.md), or explanation asynchronously: the instructor records content in advance and publishes it through a hosting platform (e.g., YouTube, Canvas, Panopto). Learners can pause, rewind, and rewatch at will, and synchronous sessions can be repurposed for [Practice](../elements/practice.md) and interaction rather than one-way transmission.

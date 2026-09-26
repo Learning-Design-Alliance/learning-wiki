@@ -12,7 +12,7 @@ generated:
 # Repeating Key Points in Different Ways
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 9 studies, `q2`–`q4` · 8 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Repeating key points in different ways means restating core content through varied representations — paraphrase, concrete examples, visuals, gestures, or analogies — rather than verbatim repetition. Each restatement encodes the idea from a new angle, building redundant retrieval routes while giving learners who process slowly a second or third pass at the material.

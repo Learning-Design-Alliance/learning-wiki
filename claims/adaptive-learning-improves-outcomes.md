@@ -53,7 +53,7 @@ Kulik, J. A., & Fletcher, J. D. (2016). Effectiveness of intelligent tutoring sy
 
 `q4 · meta-analysis` · `i2 · medium effect, median 0.66 SD` · `n=50 controlled evaluations`
 
-A meta-analysis of 50 controlled evaluations of intelligent computer tutoring systems against conventional instruction. The median effect raised test scores 0.66 standard deviations, from the 50th to the 75th percentile. The size of the gain depended strongly on whether outcomes were measured with locally developed or standardized tests, suggesting that test-instruction alignment drives part of the effect; ten further evaluations with nonconventional control groups or flawed implementations showed small effects. Read from the abstract only.
+A meta-analysis of 50 controlled evaluations of intelligent computer tutoring systems against conventional instruction. The median effect raised test scores 0.66 standard deviations, from the 50th to the 75th percentile. The size of the gain depended strongly on whether outcomes were measured with locally developed or standardized tests, which the authors suggest makes test-instruction alignment a critical determinant of the effect; ten further evaluations with nonconventional control groups or flawed implementations showed small effects. Read from the abstract only.
 
 ## Discussion
 

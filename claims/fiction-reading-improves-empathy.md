@@ -54,7 +54,7 @@ Dodell-Feder, D., & Tamir, D. I. (2018). Fiction reading has a small positive im
 
 `q3 · meta-analysis of experiments` · `i0 · negligible effect, g=.15–.16` · `n=14 studies (53 effect sizes)`
 
-A multilevel random-effects meta-analysis of published and unpublished experiments in which people were assigned to read fiction, to read nonfiction, or to read nothing, and then completed social-cognition tasks. Fiction reading produced a small but statistically significant improvement over both comparisons. The authors report that the effect survives sensitivity analyses and does not appear to come from publication bias. They call for stronger reading manipulations and for tests of whether the gain carries over into real-world social functioning, which no study had yet shown. (Read from the abstract only.)
+A multilevel random-effects meta-analysis of published and unpublished experiments in which people were assigned to read fiction, to read nonfiction, or to read nothing, and then completed social-cognition tasks. Fiction reading produced a small but statistically significant improvement over both comparisons. The authors report that the effect survives sensitivity analyses and does not appear to come from publication bias. The outcome is performance on social-cognitive tasks, which is not the same thing as empathy, the word in this claim's title. The authors recommend stronger reading manipulations, tests of whether the gain transfers to real-world social functioning, and work on mechanisms. (Read from the abstract only.)
 
 ### Panero et al. 2016
 

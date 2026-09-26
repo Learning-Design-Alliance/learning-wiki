@@ -17,7 +17,7 @@ sources:
 # Functional Approach progression from oral dialogue (BICS) to written discourse (CALP)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study, `q1` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Larsen-Pusey's Functional Approach is a teaching model that bridges the gap between oral skills and academic language: "This model focuses on taking the students from BICS(oral dialogue) to *6ALP (written discourse)". It moves students from context-embedded to context-reduced situations and from cognitively undemanding to cognitively demanding tasks, drawing on generative linguistics, psycholinguistics, sociolinguistics, and educational psychology. The packet's model diagram sequences dialogue plays and skits, reported speech, reader's theater, narrative and expository reading, and note-taking, dialog journals, and written reports, with activities (e.g., Activity III's five steps from dialogue performance to narrative reconstruction) enacting the progression.

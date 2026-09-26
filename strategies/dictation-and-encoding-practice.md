@@ -12,7 +12,7 @@ generated:
 # Dictation And Encoding Practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies, `q1`–`q4` · 7 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies, `q1`–`q4` · 6 of 8 report an effect size
 
 ## Description
 Dictation asks learners to transcribe spoken words, phrases, or sentences into writing; encoding practice is the broader activity of producing spellings from sound rather than reading them from print. Because the learner must segment the speech stream into phonemes and retrieve or construct the letter sequence, dictation exercises the productive direction of the orthographic mapping process that reading alone does not.

@@ -81,4 +81,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — a narrower finding that bears on this claim
 - [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — a narrower finding that bears on this claim
 - [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — related
-- [STRP-trained teachers were observed providing metacognitive tools before, during, and after lessons](strp-teachers-metacognitive-tools-before-during-after.md) — related
+- [The authors conclude that the Strategic Teaching and Reading Project gives teachers metacognitive tools for before, during and after lessons](strp-teachers-metacognitive-tools-before-during-after.md) — related

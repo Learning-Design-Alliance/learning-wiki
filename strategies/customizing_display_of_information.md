@@ -12,7 +12,7 @@ generated:
 # Customizing Display of Information
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies, `q3`–`q4` · 5 of 8 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies, `q2`–`q4` · 4 of 8 report an effect size
 
 ## Description
 Customizing the display of information means modifying how digital content appears — text size, font, line spacing, margins, color themes, and justification — to reduce reading effort and improve comprehension. Browser reading modes and e-reading apps strip away page clutter and let each reader tailor the visual presentation to their own needs, rather than forcing every learner through an identical interface.

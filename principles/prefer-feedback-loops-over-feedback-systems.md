@@ -16,7 +16,7 @@ sources:
 # Prefer feedback loops over one-directional feedback systems when direct benefits for all participants matter
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report argues that while simple feedback systems such as surveys are valuable and can lead to significant increases in the impact of a product, feedback loops as conceived here result in not only improvement in outputs, but create direct benefits for all participants. Organizations should therefore assess whether a scenario calls for mere sentiment-gathering or for a bidirectional, iterative, transformative interaction, and reserve feedback loops for cases where mutual transformation and partnership-building are the goal.

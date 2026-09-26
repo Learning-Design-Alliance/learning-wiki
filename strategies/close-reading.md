@@ -12,7 +12,7 @@ generated:
 # Close Reading
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 against) · 11 studies, `q2`–`q4` · 7 of 11 report an effect size
+> **Evidence** · 5 claims (3 for, 2 against) · 11 studies, `q2`–`q4` · 6 of 11 report an effect size
 
 ## Description
 Close reading is a strategy in which learners engage with a short, complex text through multiple readings, each with a distinct purpose — first for literal comprehension, then for how the text works (structure, word choice, author's craft), and finally for interpretation and evaluation. Discussion and questioning are anchored in evidence from the text itself ("text-dependent questions") rather than prior knowledge or personal response alone.

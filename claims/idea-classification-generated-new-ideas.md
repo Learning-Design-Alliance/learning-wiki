@@ -41,4 +41,4 @@ Case illustration (type c/d): after students devised classification schemes A, B
 
 
 ## Related Claims
-- [A six-step C/I cycle administered in two engineering physics classes guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric](ci-cycle-metric-guided-solution-quarry-problem.md) — related
+- [A six-step C/I cycle administered in a sophomore engineering physics class and a graduate physics class guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric](ci-cycle-metric-guided-solution-quarry-problem.md) — related

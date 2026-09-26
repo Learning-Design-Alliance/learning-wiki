@@ -12,7 +12,7 @@ generated:
 # Manipulatives: Sentence Combining
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 12 studies, `q3`–`q4` · 11 of 12 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (5 for, 2 mixed) · 12 studies, `q2`–`q4` · 10 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 Sentence combining asks learners to merge two or more simple sentences into one more complex sentence using coordination, subordination, embedding, or appositive structures. The manipulative variant externalizes this process: learners physically or digitally move, sort, and connect movable cards or tiles representing sentences, clauses, and connectives — often color-coded by grammatical role — so that syntactic relationships become tangible objects to manipulate rather than abstractions to hold in mind. Meta-analytic evidence identifies sentence combining as one of the most effective writing interventions for adolescents [Graham & Perin's meta-analysis of adolescent writing instruction.](https://doi.org/10.1037/0022-0663.99.3.445) [+S].

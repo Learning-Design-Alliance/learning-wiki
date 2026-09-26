@@ -12,7 +12,7 @@ generated:
 # Demystification of Learning Challenges
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (7 for) · 16 studies, `q3`–`q4` · 16 of 16 report an effect size
+> **Evidence** · 7 claims (7 for) · 16 studies, `q2`–`q4` · 15 of 16 report an effect size
 
 ## Description
 Demystification is the explicit explanation of the cognitive mechanics behind learning — how working memory limits, attention, spacing, and retrieval practice operate — delivered directly to learners, particularly when they experience difficulty. Rather than leaving learners to attribute struggle to fixed ability ("I'm bad at math"), the instructor reframes difficulty as a predictable, manageable feature of how memory and attention work, and pairs the explanation with concrete strategies the learner can apply.

@@ -12,7 +12,7 @@ generated:
 # Using Manipulatives
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 11 studies, `q2`–`q4` · 9 of 11 report an effect size
+> **Evidence** · 5 claims (5 for) · 11 studies, `q2`–`q4` · 8 of 11 report an effect size
 
 ## Description
 Manipulatives are physical objects — counters, base-10 blocks, fraction strips, pattern blocks, geoboards, algebra tiles — that learners handle to model and reason about mathematical concepts. They serve to introduce, practice, or remediate ideas across number, algebra, geometry, measurement, and data strands. Effective use requires making the manipulative's mathematical structure transparent, connecting it explicitly to symbols and language, and fading it as learners internalize the concept.

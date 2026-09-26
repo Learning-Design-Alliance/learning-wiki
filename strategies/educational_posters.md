@@ -12,7 +12,7 @@ generated:
 # Educational Posters
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies, `q2`–`q4` · 6 of 11 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies, `q2`–`q4` · 5 of 11 report an effect size
 
 ## Description
 Educational posters are visual displays placed in the physical or digital learning environment that surface key concepts, procedures, learning strategies, or reference material. Unlike transient instructional visuals, posters persist across lessons, functioning as environmental scaffolds that support recall, vocabulary access, and self-regulation during independent work.

@@ -23,7 +23,7 @@ grain_size: lesson
 # Model-Evidence Link (MEL) Reasoning Pattern
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 12 studies, `q3`–`q4` · 12 of 12 report an effect size
+> **Evidence** · 4 claims (1 for, 3 mixed) · 12 studies, `q2`–`q4` · 11 of 12 report an effect size
 
 ## Description
 The Model-Evidence Link pattern structures reasoning by having learners compare competing models or explanations against available evidence, judge which links are strong or weak, and revise their conclusions accordingly. Rather than asking learners to memorize one correct explanation, the pattern gives them practice weighing evidence, examining fit, and making scientific or disciplinary reasoning visible.

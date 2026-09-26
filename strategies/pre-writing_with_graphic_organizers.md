@@ -25,7 +25,7 @@ sources:
 # Pre-Writing with Graphic Organizers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Students use a visual planning tool — outline, concept map, story map, T-chart, or argument frame — to generate, connect, and sequence ideas before drafting. The organizer externalizes the planning phase of writing so that idea generation and rhetorical structuring are not competing with sentence production for working memory.

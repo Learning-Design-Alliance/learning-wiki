@@ -12,7 +12,7 @@ generated:
 # Explicit Instruction: Decoding
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies, `q1`–`q4` · 7 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies, `q1`–`q4` · 6 of 8 report an effect size
 
 ## Description
 Explicit instruction in decoding involves directly and systematically teaching grapheme–phoneme correspondences, blending routines, and word-recognition strategies, rather than expecting learners to infer them from exposure to text. The instructor models sounding out and blending, guides learners through practice with a planned sequence of letter patterns (from simple, high-frequency correspondences to more complex ones), and provides immediate corrective feedback. It is the instructional core of systematic phonics programs and a central component of most interventions for struggling readers.

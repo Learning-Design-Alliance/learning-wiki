@@ -12,7 +12,7 @@ generated:
 # Explicit Routine Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 11 studies, `q3`–`q4` · 10 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 11 studies, `q2`–`q4` · 9 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Explicit routine instruction is the deliberate, step-by-step teaching of recurring procedures — decoding routines, problem-solving sequences, writing-process checklists, lab protocols — through direct explanation, [demonstration](../elements/demonstration.md), and guided rehearsal. The instructor states the goal, models each step with clear language, leads structured practice, and fades support as fluency develops. It is the routine-focused strand of [Direct Instruction](../patterns/direct-instruction.md): rather than teaching every instance anew, it installs a reusable procedure learners can apply across cases.

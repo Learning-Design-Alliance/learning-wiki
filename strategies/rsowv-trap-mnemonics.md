@@ -12,7 +12,7 @@ generated:
 # RSOWV/TRAP Mnemonics
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 5 studies, `q3`–`q4` · 3 of 5 report an effect size
+> **Evidence** · 2 claims (1 for, 1 against) · 5 studies, `q2`–`q4` · 2 of 5 report an effect size
 
 ## Description
 RSOWV (Relax, Slow down, Organize, Write, Visualize) and TRAP (Translate, Repeat, A Picture, Practice) are packaged mnemonic strategies that give learners a step-by-step routine for encoding and retrieving information. RSOWV governs the study episode — settling attention, pacing reading, organizing material, writing key content, and forming visual images — while TRAP governs item-level learning: restating content in one's own words, rehearsing it, generating a mental picture, and practicing retrieval. Both routines combine established techniques (elaborative encoding, imagery, self-testing) into a single teachable procedure.

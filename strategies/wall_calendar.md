@@ -12,7 +12,7 @@ generated:
 # Wall Calendar
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q4` · 2 of 3 report an effect size
 
 ## Description
 A wall calendar is a persistent, externally visible representation of upcoming events, appointments, and deadlines shared by a household or classroom. Each member's commitments are marked — often in a distinct color — so learners can see how their own schedule fits into the larger picture. The calendar functions as an external memory aid that shifts the burden of remembering from verbal reminders to a stable visual structure.

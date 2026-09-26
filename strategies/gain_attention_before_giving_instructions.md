@@ -25,7 +25,7 @@ sources:
 # Gain Attention Before Giving Instructions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q4` · 3 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 The strategy establishes a reliable signal — a clap pattern, chime, raised hand, countdown, or call-and-response — that learners are trained to recognize as a cue to stop, orient, and listen. Instructions are delivered only after the signal has secured attention, ensuring that task directions arrive while learners can actually process them.
