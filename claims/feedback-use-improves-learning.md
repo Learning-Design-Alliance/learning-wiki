@@ -60,3 +60,9 @@ Open questions: how durable feedback effects are over time, how feedback interac
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — chunked feedback is easier to absorb and act on.
 - [Self-regulated learning](../theories/self-regulated-learning.md) — feedback uptake depends on learners monitoring gaps and adjusting their own strategies.
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — the optimal feedback type shifts from directive to self-evaluative prompts as expertise grows.
+- [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — a narrower finding that bears on this claim
+- [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — a narrower finding that bears on this claim
+- [Feedback Improves Learning](feedback-improves-learning.md) — related
+- [Feedback Improves Learning When It Addresses Task Goals](feedback-improves-learning-when-it-addresses-task-goals.md) — a narrower finding that bears on this claim
+- [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md) — a narrower finding that bears on this claim
+- [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — related

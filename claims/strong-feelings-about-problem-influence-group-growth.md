@@ -41,4 +41,7 @@ Generated from the five primary case studies: the three highest-ranked groups we
 
 
 ## Related Claims
--
+- [Trust between the adult educator and the group positively influences group growth](educator-group-trust-influences-group-growth.md) — related
+- [A minority of honours community members feel the community is too closed, hindering knowledge growth](honours-community-closedness-hinders-knowledge-growth.md) — related
+- [Group growth in leadership positively influences additional group growth](leadership-growth-drives-additional-group-growth.md) — related
+- [Homogeneous problem perceptions predict better regulation outcomes in collaborative groups](homogeneous-problem-perceptions-predict-regulation-success.md) — related

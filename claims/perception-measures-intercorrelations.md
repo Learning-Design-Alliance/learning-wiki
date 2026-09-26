@@ -41,4 +41,6 @@ Correlational analysis of the study's dependent measures (Ns = 232 to 295 per Ta
 
 
 ## Related Claims
--
+- [The interaction of label type and victim age did not significantly affect public perceptions of individuals who sexually offend](label-by-victim-age-interaction-null.md) — related
+- [The type of label used (person-first, 'sex offender', diagnostic, or offence-specific) does not significantly affect public perceptions of individuals who sexually offend](label-type-no-effect-public-perceptions-sexual-offenders.md) — related
+- [Label type, victim age, and their interaction showed no significant effects on treatment amenability subscales (capacity to change, treatment ineffectiveness, incapacitation)](treatment-amenability-subscales-null-manova.md) — related

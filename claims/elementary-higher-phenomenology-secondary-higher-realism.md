@@ -41,4 +41,6 @@ Teaching-level comparison pooling graduate and undergraduate students (Table X, 
 
 
 ## Related Claims
--
+- [Secondary education students show significantly higher belief in Realism than elementary education students](secondary-students-higher-realism-than-elementary.md) — a narrower finding that bears on this claim
+- [Several group comparisons show no statistically significant differences in philosophical belief](null-comparisons-philosophical-beliefs.md) — related
+- [Elementary undergraduates show greater belief in Existentialism than secondary undergraduates](elementary-undergrads-higher-existentialism.md) — related

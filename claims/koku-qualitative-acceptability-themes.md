@@ -58,4 +58,7 @@ Theme 3 from older-adult interviews and Theme 2 from care-provider interviews (1
 
 
 ## Related Claims
--
+- [The 12-week KOKU programme is dominant over usual care in cost-effectiveness, with a significant QALY gain and non-significant cost savings](koku-cost-effective-dominant.md) — related
+- [Older adults rated the KOKU digital programme with excellent usability and high acceptability](koku-high-usability-acceptability.md) — related
+- [The KOKU digital programme improves balance function at 12 weeks compared with standard care in community-dwelling older adults, with the effect increasing over time](koku-improves-balance-12-weeks-older-adults.md) — related
+- [KOKU improves lower-limb function, concerns about falling and health-related quality of life, but not mood, physical activity, fatigue or fall rate](koku-secondary-outcomes-mixed.md) — related

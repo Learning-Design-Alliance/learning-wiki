@@ -41,4 +41,8 @@ Chi-square tests related background factors to styles in each dimension for the 
 
 
 ## Related Claims
--
+- [Cultural and linguistic background influences measured learning and cognitive styles, and should be considered in style assessment](cultural-background-influences-learning-style-measurement.md) — related
+- [Grade is related to sixth graders' thinking styles in the function, form, level and leaning dimensions](grade-related-to-thinking-styles-dimensions.md) — related
+- [Judicial and liberal are the most prevalent function and leaning styles among Thai sixth graders](sixth-graders-prevalent-thinking-styles.md) — related
+- [Reliability of the thinking styles scale ranges from .722 to .913 across its five dimensions](thinking-styles-scale-reliability-nrm.md) — related
+- [Differential item functioning was found in four items across the function, form and level dimensions](thinking-styles-scale-dif-items.md) — related

@@ -41,4 +41,7 @@ The review reports, citing Salomon and Perkins (1998), an analysis of four meani
 
 
 ## Related Claims
--
+- [Cultural mediation has four implications, including that artifacts fundamentally transform mental functioning and the mind is distributed in artifacts](cultural-mediation-four-implications-artifacts-transform-mind.md) — related
+- [Salomon distinguishes effects with the computer (system performance) from effects of the computer (cognitive residue on the solo performer)](effects-with-versus-effects-of-computer.md) — related
+- [A tool's effectiveness results from the whole configuration of events, activities, and contexts in which it is used](tool-effectiveness-depends-on-context-configuration.md) — related
+- [Verbal and pictorial tools-mediators fail to evoke contradiction discovery without mediation of meaning](tools-mediation-fails-without-mediation-of-meaning.md) — related

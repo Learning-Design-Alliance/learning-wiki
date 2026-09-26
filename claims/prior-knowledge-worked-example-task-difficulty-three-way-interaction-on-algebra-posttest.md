@@ -41,5 +41,10 @@ In a 2 x 2 x 2 factorial experiment with college students solving simultaneous e
 
 
 ## Related Claims
-- [Worked Examples Expertise Reversal](worked-examples-expertise-reversal.md)
+- [Worked Examples Expertise Reversal](worked-examples-less-effective-with-expertise.md)
 - [Expertise Reversal Effect](expertise-reversal-effect.md)
+- [High- and low-prior-knowledge learners differ significantly on an algebra posttest and on intrinsic and germane cognitive load, but not on extraneous load](high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load.md) — related
+- [Lower-prior-knowledge learners scored higher on an algebra posttest after full-worked than completion-worked examples, while higher-prior-knowledge learners' non-significant advantage ran the other way](lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples.md) — related
+- [No significant interaction between prior knowledge and task difficulty was observed in a worked-example algebra study](no-prior-knowledge-by-task-difficulty-interaction-in-algebra-worked-examples.md) — related
+- [Prior knowledge and worked-example type (full vs completion) interact significantly on self-reported germane cognitive load, but not on intrinsic or extraneous load](prior-knowledge-by-worked-example-type-interaction-on-germane-load.md) — related
+- [Task difficulty (easy vs difficult simultaneous-equation problems) has significant main effects on intrinsic and extraneous cognitive load, but not on germane load](task-difficulty-raises-intrinsic-and-extraneous-but-not-germane-load-in-algebra.md) — related

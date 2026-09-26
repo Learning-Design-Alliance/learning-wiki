@@ -41,4 +41,10 @@ Correlational analysis over two years of conceptual physics courses relating pre
 
 
 ## Related Claims
--
+- [Preliminary explicit instruction in scientific reasoning patterns (e.g., IAT statement construction) produced much larger LCTSR gains (g = 0.68) than courses without such intervention (g = 0.11)](explicit-reasoning-instruction-preliminary-large-gains.md) — related
+- [Random measurement noise in pretest scores produces a negative contribution to the correlation between normalized gain and pretest score](measurement-noise-negative-gain-pretest-correlation.md) — related
+- [When the γ-process (associative interaction of correct and incorrect knowledge) is considered, the normalized gain correlates positively with pretest score](gamma-process-positive-gain-pretest-correlation.md) — related
+- [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) — related
+- [High-ability students' learning behaves as a dominant α-process even at low pretest scores, while average-ability students show more γ-process behavior](high-ability-alpha-dominant-low-pretest.md) — related
+- [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — reports the opposite
+- [Research-verified active-engagement pedagogy yields significant content gains (g ≈ 0.38–0.42) but essentially zero gains on the LCTSR (g = 0.06) without explicit reasoning instruction](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) — related

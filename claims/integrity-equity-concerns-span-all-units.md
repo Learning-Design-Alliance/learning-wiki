@@ -41,4 +41,8 @@ Cross-unit thematic findings from the seven-respondent survey case study; the ar
 
 
 ## Related Claims
--
+- [AI implementation increases the invisible emotional and relational labor of associate deans, which remains unquantified in leadership evaluations](ai-increases-invisible-labor-of-associate-deans.md) — related
+- [Associate deans report that neither their institution nor their units have implemented official AI policies, prompting localized unit-level guidelines](associate-deans-report-no-official-ai-policies-localized-guidelines.md) — related
+- [AI adoption levels and policy implementation vary unevenly across academic units, shaped by discipline and external industry alignment](uneven-unit-ai-adoption-shaped-by-industry-alignment.md) — related
+- [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](teacher-perceived-cost-reduces-motivation-to-use-ai.md) — related
+- [An internal program review found absence of a consistent pedagogical framework and need for active case-based materials](program-review-five-design-findings.md) — related

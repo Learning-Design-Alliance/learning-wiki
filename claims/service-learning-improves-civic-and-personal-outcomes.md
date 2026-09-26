@@ -58,4 +58,9 @@ A second reviewed finding attributes greater social responsibility, community aw
 
 
 ## Related Claims
--
+- [Cooperation compared with individualistic efforts typically results in higher achievement, greater retention, and greater social competence and self-esteem](cooperation-versus-individualistic-effort-outcomes.md) — related
+- [Reviewed studies report experiential learning benefits for engagement, skills, confidence and outcomes in human services education](experiential-learning-engagement-skills-ethical-reasoning.md) — related
+- [Properly conducted LRE programs can reduce delinquent tendencies and improve citizenship attitudes](lre-reduces-delinquent-tendencies.md) — related
+- [Conflict and antagonism with community partners negatively correlate with social justice and diversity attitudes](community-partner-conflict-negatively-correlates-social-justice.md) — related
+- [Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged](positive-relationships-increase-civic-engagement-intention.md) — related
+- [Professor-student relationship quality correlates with multiple civic engagement outcomes in both directions](professor-relationship-quality-civic-engagement-bidirectional.md) — related

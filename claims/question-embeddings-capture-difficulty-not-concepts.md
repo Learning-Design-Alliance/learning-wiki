@@ -41,4 +41,5 @@ t-SNE visualization analysis of question representations for the Junyi dataset (
 
 
 ## Related Claims
--
+- [The learned question embedding aligns with manually labeled skill categories, showing clear clustering of questions by skill in a multidimensional scaling visualization](dynemb-question-embedding-clusters-by-skill.md) — reports the opposite
+- [Replacing concept/skill tags with question identifiers significantly degrades DKT and DKVMN performance, while DynEmb tracks knowledge using pretrained question embeddings instead of tags](dynemb-tracks-knowledge-without-skill-tags.md) — related

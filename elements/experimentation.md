@@ -19,7 +19,7 @@ Experimentation asks learners to pose a question or prediction, systematically v
 
 ## Design Implications
 
-Experimentation supports learning by making learners active generators and testers of ideas rather than passive recipients [Active learning improves exam performance relative to lecture alone.](../claims/active-learning-improves-exam-performance.md) [+S]. Its effectiveness depends heavily on structure: unguided "discovery" tends to overload working memory and leave misconceptions intact, whereas experimentation with prompts, predictions, and feedback produces robust gains [Unguided discovery is less effective than guided instruction.](../claims/unguided-discovery-less-effective-than-guided-instruction.md) [-S]. Requiring explicit predictions before observing outcomes is the highest-leverage design move — prediction creates a commitment that evidence can confirm or violate, and violated expectations drive conceptual change [Cognitive disequilibrium motivates conceptual change.](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M].
+Experimentation supports learning by making learners active generators and testers of ideas rather than passive recipients [Active learning improves exam performance relative to lecture alone.](../claims/active-learning-improves-exam-performance.md) [+S]. Its effectiveness depends heavily on structure: unguided "discovery" tends to overload working memory and leave misconceptions intact, whereas experimentation with prompts, predictions, and feedback produces robust gains [Unguided discovery is less effective than guided instruction.](../claims/minimal-guidance-less-effective-for-novices.md) [-S]. Requiring explicit predictions before observing outcomes is the highest-leverage design move — prediction creates a commitment that evidence can confirm or violate, and violated expectations drive conceptual change [Cognitive disequilibrium motivates conceptual change.](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Experimentation supports learning by making learners active generators and teste
 - Scaffolds for the reasoning cycle itself: question → predict → test → interpret → revise ([Articulation](articulation.md) prompts or structured lab reports)
 
 #### Constraints
-- Unguided experimentation with minimal scaffolding produces poor outcomes for novices, who tend to run unsystematic trials and confirm prior beliefs [Unguided discovery is less effective than guided instruction.](../claims/unguided-discovery-less-effective-than-guided-instruction.md) [-S]
+- Unguided experimentation with minimal scaffolding produces poor outcomes for novices, who tend to run unsystematic trials and confirm prior beliefs [Unguided discovery is less effective than guided instruction.](../claims/minimal-guidance-less-effective-for-novices.md) [-S]
 - Learners often exhibit confirmation bias — testing cases they expect to succeed rather than disconfirming ones — unless prompted to consider alternative hypotheses [~M]
 - In domains with high element interactivity, the overhead of managing the experiment itself can crowd out the target learning [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-M]
 - Slow feedback loops (multi-day labs) weaken the prediction–outcome link; simulations with immediate feedback preserve it

@@ -41,4 +41,5 @@ The article reports, citing Janet Emig's 1977 article on writing as a mode of le
 
 
 ## Related Claims
--
+- [Expansive learning moved epistemically from questioning to analysis, modeling and implementation while interactionally moving from coordination to cooperation and communication, but with no mechanical correspondence between specific actions and interaction types](no-mechanical-correspondence-actions-interaction.md) — related
+- [Self-efficacy judgments correspond less well to behavior in learning settings than in performance settings](self-efficacy-accuracy-lower-in-learning-settings.md) — related

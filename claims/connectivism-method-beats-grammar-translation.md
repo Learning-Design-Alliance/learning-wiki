@@ -41,4 +41,6 @@ The survey reports, citing Borna and Fouladchang (2018b), a comparison of a conn
 
 
 ## Related Claims
--
+- [In surveyed recent literature, no evaluative study found evidence against connectivism; outcomes were positive or at worst neutral](connectivism-evaluations-no-negative-evidence.md) — a broader claim this one bears on
+- [Connectivism-based training produced higher academic self-efficacy and task value than CLT in an EFL experiment](connectivism-raises-motivational-beliefs-vs-clt.md) — related
+- [Autonomy, diversity, interactivity, openness and Web 2.0 showed a positive significant effect on students' achievement in a structural model](connectivist-principles-positive-effect-achievement.md) — related

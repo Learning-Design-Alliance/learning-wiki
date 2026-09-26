@@ -41,4 +41,5 @@ The document's argument section on moving past piecemeal policies asserts this c
 
 
 ## Related Claims
--
+- [Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction](working-conditions-shape-retention-and-recruitment.md) — related
+- [Disconnected educator data systems are a common implementation challenge; a unified talent data system can generate prioritization insights](unified-talent-data-system-generates-prioritization-insights.md) — related

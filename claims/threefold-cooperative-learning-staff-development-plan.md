@@ -41,4 +41,5 @@ Project report describing a 353 staff development project in which nine instruct
 
 
 ## Related Claims
--
+- [In a systems approach to staff development, felt needs must be legitimized by data before planning proceeds](felt-needs-require-data-verification.md) — related
+- [SEP national monitoring reports indicate insufficient teacher training for the reform: 35% of surveyed teachers requested training in planning and design of didactic activities, and about 30% of directors rated induction-workshop information as poorly adequate or inadequate](reform-teacher-training-insufficient.md) — related

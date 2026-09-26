@@ -41,4 +41,5 @@ Cross-cultural comparison using stimulus material adopted from the Soviet study 
 
 
 ## Related Claims
--
+- [Short-term Instrumental Enrichment training improves analytic, exploratory, and contradiction-identification strategies in poorly performing adult learners, limited by reliance on everyday content knowledge](short-term-ie-training-improves-contradiction-identification-in-poor-performers.md) — related
+- [Verbal and pictorial tools-mediators fail to evoke contradiction discovery without mediation of meaning](tools-mediation-fails-without-mediation-of-meaning.md) — related

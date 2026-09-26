@@ -41,4 +41,5 @@ The author's interpretive analysis in the classroom implications section of Ster
 
 
 ## Related Claims
--
+- [Intellectual style is a way of directing intelligence, not a level of it](style-distinct-from-intelligence-level.md) — a broader claim this one bears on
+- [Intellectual styles are partly socialized and therefore modifiable to some degree](styles-socialized-and-modifiable.md) — related

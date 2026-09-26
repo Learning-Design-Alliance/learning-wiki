@@ -41,4 +41,7 @@ TAPoR text-analysis of the 20 highest-frequency words in pre-course reflections,
 
 
 ## Related Claims
--
+- [Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances](course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances.md) — related
+- [Limiting strategies decrease only slightly and remain resilient despite multifaceted-problem instruction](limiting-strategies-resilient-slight-decrease.md) — related
+- [Students' problem-solving preference shifts significantly toward expansive strategies over a semester of multifaceted problems](pscale-shifts-toward-expansive-strategies.md) — related
+- [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) — related

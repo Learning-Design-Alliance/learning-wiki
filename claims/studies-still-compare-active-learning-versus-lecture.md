@@ -41,4 +41,7 @@ Coding of comparison types across the 59 studies in the systematic review. The a
 
 
 ## Related Claims
--
+- [Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions](active-learning-conditions-more-other-pedagogical-features.md) — related
+- [Most active learning college science conditions contain a substantial lecture component despite the active-learning-versus-lecture dichotomy](active-learning-courses-retain-lecture-component.md) — related
+- [Most active learning comparison studies differ on more than one course feature, limiting attribution of effects to single features](most-comparisons-differ-on-multiple-features.md) — related
+- [Time-on-task is frequently unequal across compared conditions, with active learning conditions typically requiring more home time](time-on-task-unequal-in-active-learning-comparisons.md) — related

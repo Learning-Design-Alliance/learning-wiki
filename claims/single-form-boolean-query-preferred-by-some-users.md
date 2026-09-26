@@ -41,4 +41,5 @@ In the WWW Entrez discussion section, the authors report informal user feedback:
 
 
 ## Related Claims
--
+- [Internet-based Entrez use grew dramatically in 1994 while CD-ROM subscriptions plateaued](internet-entrez-use-grew-cd-rom-plateaued.md) — related
+- [Browsing term lists (selection mode) helps searchers who do not know the exact query term](selection-mode-browsing-helps-uncertain-searchers.md) — related

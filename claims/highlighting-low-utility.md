@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: highlighting-low-utility
+aliases: [highlighting-alone-is-ineffective, highlighting-alone-low-utility]
 evidence_strength: moderate
 sources:
   - id: dunlosky-et-al-2013
@@ -48,9 +49,32 @@ A monograph by five cognitive/educational psychologists reviewing the empirical 
 
 **Open questions.** Most evidence comes from short laboratory texts with immediate or short-delay tests; effects on complex, multi-session learning of authentic materials are less well established. Digital highlighting tools add features (colors, aggregation across documents) whose learning benefits remain largely untested.
 
+*Merged from “Highlighting Alone Is Ineffective” (highlighting-alone-is-ineffective):* **Why highlighting underperforms.** Highlighting is a passive review behavior: learners can select text without connecting it to prior knowledge, elaborating on it, or self-testing on it. It also risks an *illusion of competence* — marked text feels familiar on rereading, which learners misinterpret as mastery. This places highlighting among the lower-yield study techniques in surveys of learning-strategy efficacy, in contrast to retrieval practice and elaborative techniques.
+
+**When marking can help.** The picture is not uniformly negative. Marking may function as a first-pass selection step that supports later generative work — for example, when combined with [annotating](../principles/annotating.md), margin notes, or self-explanation, or when learners are explicitly taught criteria for what deserves marking. Text-marking effects also interact with salience: making critical information visually distinct can guide attention, consistent with distinctiveness accounts of text marking (see [Von Restorff effect and text marking](../theories/von-restorff-effect-text-marking.md)). The claim here is therefore narrow: highlighting *alone*, as a complete study strategy, is ineffective — not that marking is harmful in all configurations.
+
+**Design implication.** Where courses supply pre-highlighted or pre-annotated materials, designers should pair the marking with a task that forces processing — summarizing, questioning, or retrieval — rather than treating the highlight as the learning event. See the [headings and highlight strategy](../strategies/headings-and-highlight-strategy-variant.md) for a structured variant.
+
+**Constraints on the claim.** The ineffectiveness is conditional on highlighting serving as the *sole* study activity. Conditions under which marking fails or backfires include: learners with no criteria for relevance, who mark indiscriminately and then over-study marked text at the expense of unmarked content [-M]; rereading of highlighted text as a substitute for retrieval, which compounds the familiarity illusion [-M]; and pre-highlighted materials that impose the author's selection on learners without a task requiring them to process the selections [~M]. Where marking is paired with generative follow-up, the constraint does not apply.
+
+**Open questions.** The review recorded above rates highlighting low utility from the primary experiments it summarizes, and reports no pooled effect size. Direct comparisons of highlighting with generative strategies are not separately recorded here.
+
+*Merged from “Highlighting Alone Low Utility” (highlighting-alone-low-utility):* **Why highlighting underperforms.** Highlighting is a passive, low-effort strategy: it can be performed without deep comprehension of the text, and it does not require learners to retrieve, organize, or transform content. Learning benefits come from generative processing — summarizing, self-testing, annotating with one's own words — rather than from marking text itself. This aligns with the broader finding that [annotating improves learning](annotating-improves-learning.md) when annotation involves elaboration rather than mere marking.
+
+**Moderating conditions.** Highlighting may serve a limited supporting role: it can direct attention during a second reading pass, or provide a scaffold for later generative work (e.g., turning highlights into flashcards or summaries). Its utility likely depends on what happens *after* highlighting, not the highlighting itself. Learners also frequently over-highlight, which can create an illusion of fluency — marked text feels familiar, encouraging premature cessation of study.
+
+**Boundary conditions.** For learners with weak metacognitive monitoring, highlighting may actively mislead by privileging salient over important content — a concern related to the [Von Restorff effect in text marking](../theories/von-restorff-effect-text-marking.md), where distinctiveness drives attention but not necessarily encoding. Strategy-training contexts should pair highlighting with explicit follow-up tasks rather than presenting it as a complete study method; structured approaches such as the [headings and highlight strategy](../strategies/headings-and-highlight-strategy-variant.md) embed marking within a larger generative routine for this reason.
+
+**Open questions.** Comparative evidence on highlighting versus alternative rereading strategies, and on whether highlighting quality (selectivity) predicts outcomes, still needs to be added to this page's evidence base.
+
 ## Related Claims
 
 - [Annotating improves learning.](annotating-improves-learning.md) — written annotation adds the generative processing that highlighting lacks
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — selective organization of material, unlike highlighting, restructures content for comprehension
 - [Coherence principle: irrelevant material hurts learning.](coherence-principle-irrelevant-material-hurts-learning.md) — extraneous emphasis, like over-highlighting, can divert attention from essential content
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — low-effort strategies fail because they do not engage the resources needed for durable encoding
+- [Headings and highlight strategy](../strategies/headings-and-highlight-strategy-variant.md) — a structured use of highlighting embedded in a larger strategy.
+- [Von Restorff effect — text marking](../theories/von-restorff-effect-text-marking.md) — why salient, distinctive marks capture attention but do not guarantee encoding.
+- [Experimenter-generated underlining is as effective as student-generated underlining for test performance](experimenter-underlining-effective-as-student-underlining.md) — related
+- [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — related
+- [Prior knowledge is not significantly related to test performance in this sample](prior-knowledge-not-related-to-performance.md) — related

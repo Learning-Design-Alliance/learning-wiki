@@ -41,4 +41,7 @@ The article describes, citing Legare and Lombrozo, a study in which five-year-ol
 
 
 ## Related Claims
--
+- [Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement](co-construction-scribe-teacher-fosters-composition-autonomy.md) — related
+- [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on
+- [Drawing Improves Learning](drawing-improves-learning.md) — related
+- [AI-mediated feedback in hands-on exhibits improves learning and engagement](ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement.md) — related

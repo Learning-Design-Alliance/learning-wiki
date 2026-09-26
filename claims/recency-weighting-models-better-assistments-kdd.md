@@ -58,4 +58,10 @@ Analysis of random subsets of the KDD cup 2005/2006 dataset (809,694 observation
 
 
 ## Related Claims
--
+- [Memory-decay-based models fit fact-learning datasets better than models insensitive to memory decay](memory-features-improve-fit-for-fact-learning-datasets.md) — related
+- [The survey reports, citing Pavlik et al., that no single knowledge tracing model was always the best, and that a better model must consider multiple student features and the learning context.](no-single-knowledge-tracing-model-is-always-best.md) — related
+- [No single learner model was best across the six datasets, justifying a broad multi-model approach](no-single-learner-model-best-across-datasets.md) — a broader claim this one bears on
+- [The PPE memory model was the best-fitting model for the Andes physics dataset, with the recency feature also beneficial](ppe-best-fitting-andes-physics.md) — related
+- [For Chinese tone learning, simpler models insensitive to memory decay fit as well as or better than memory-feature models](simpler-models-sufficient-for-tone-learning.md) — related
+- [Ablation of feature-vector models: time-window features add no predictive power to logistic regression but boost a feedforward network, and total count features substantially boost performance on all datasets](time-window-features-null-for-lr-boost-nonlinear.md) — related
+- [Recency weights let MS-BKT capture learning and forgetting from response patterns without a fixed learning rate, in a hypothetical example](recency-weights-capture-learning-and-forgetting-from-data.md) — a narrower finding that bears on this claim

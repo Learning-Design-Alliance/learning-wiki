@@ -41,4 +41,7 @@ The paper's Sequences and Milestones section states that although children vary 
 
 
 ## Related Claims
--
+- [Error analysis has stated limitations: overattention to errors, overstressing production data, failure to account for avoidance, and language-specific focus](error-analysis-limitations.md) — related
+- [Learner errors arise from interlingual transfer, intralingual overgeneralization, cultural interference, and communicative strategies](error-sources-interlingual-intralingual-cultural.md) — related
+- [Children produce overgeneralized forms they have not heard, indicating they use rules rather than imitation](overgeneralization-errors-indicate-rule-use.md) — related
+- [Errors should be distinguished from mistakes, and analysis proceeds through recognition, description, and explanation stages](error-versus-mistake-analysis-procedure.md) — related

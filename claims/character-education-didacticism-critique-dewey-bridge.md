@@ -41,4 +41,8 @@ Philosophical argument in the article's framing section: the author states that 
 
 
 ## Related Claims
--
+- [Dewey rejects Kohlberg's fixed stage hierarchy: moral inquiry happens only in problematic situations where no single action seems morally justified, and must be repeated as concrete situations arise](dewey-rejects-fixed-moral-stages.md) — related
+- [For Dewey, moral knowledge is a product of moral inquiry, so character education should add moral problem solving rather than teach fixed principles through example, reward, or punishment](moral-knowledge-product-of-moral-inquiry.md) — related
+- [A meta-analysis of 55 studies found Kohlberg's dilemma discussion approach had a moderate to significant effect on moral education, and Just Community Schools provided a moral culture](dilemma-discussion-meta-analysis-moderate-effect.md) — related
+- [Dewey holds that virtues cannot be given fixed meanings because they express interests in changing objects and institutions, so virtues should be taught in relation to specific situations](dewey-virtues-not-fixed-meaning.md) — related
+- [The relational taxonomy is argued to support values and moral education because fostering ego strength addresses the gap between moral reasoning and moral behavior](relational-taxonomy-supports-moral-education.md) — related

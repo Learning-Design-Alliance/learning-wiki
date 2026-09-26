@@ -57,4 +57,5 @@ The paper reports Pea's critique of Salomon's analytic/systemic evaluation crite
 
 
 ## Related Claims
--
+- [Salomon and Perkins distinguish learning with a tool from learning of a tool, with tools triggering cognitive transformations](salomon-perkins-learning-with-versus-of-tools.md) — related
+- [A tool's effectiveness results from the whole configuration of events, activities, and contexts in which it is used](tool-effectiveness-depends-on-context-configuration.md) — related

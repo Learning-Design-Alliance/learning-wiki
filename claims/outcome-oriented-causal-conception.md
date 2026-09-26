@@ -41,4 +41,7 @@ Qualitative analysis of giving-birth and die responses. The article reports o/o*
 
 
 ## Related Claims
--
+- [Attributing outcomes to Allah's will among some PSMTs functioned as probabilistic reasoning, not mere personalist belief](allahs-will-as-probabilistic-reasoning.md) — related
+- [Mathematically oriented PSMTs exhibit equiprobability and insensitivity-to-prior-probability biases](m-thinkers-equiprobability-insensitivity-biases.md) — related
+- [A bias-free experimental-probability subcategory (o**) emerged only in the die-rolling task](o-star-star-law-of-large-numbers.md) — related
+- [Subjectively oriented reasoning emerged in the giving-birth context but disappeared in the die-rolling task](subjective-reasoning-context-dependent.md) — related

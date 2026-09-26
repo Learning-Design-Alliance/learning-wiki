@@ -74,3 +74,11 @@ A year-long study of 35 fourth-graders across two classrooms implementing Qualit
 - [Questioning strategies improve learning.](questioning-strategies-improve-learning.md) — teacher questioning quality is a primary driver of discussion quality
 - [Cognitive disequilibrium motivates conceptual change.](cognitive-disequilibrium-motivates-conceptual-change.md) — productive discussion often works by surfacing and resolving conceptual conflict
 - [Clear structure improves learning.](clear-structure-improves-learning.md) — discussion quality depends on explicitly established norms and structure
+- [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](active-collaborative-approaches-higher-order-thinking.md) — related
+- [Advance Organizers Improve Learning](advance-organizers-improve-learning.md) — related
+- [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) — related
+- [A scholar identifies children's acquisition of appropriate critical thinking skills as the determining element of MLE quality in elementary schools](critical-thinking-quality-mle.md) — related
+- [Structured Discussion Approaches Improve Comprehension](structured-discussion-approaches-improve-comprehension.md) — possibly the same claim (merge candidate)
+- [Structured Discussion Methods Improve Comprehension](structured-discussion-methods-improve-comprehension.md) — possibly the same claim (merge candidate)
+- [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
+- [Teacher responses, including verbal rewards, can close off pupil thinking rather than sustain it](teacher-responses-can-close-off-pupil-thinking.md) — related

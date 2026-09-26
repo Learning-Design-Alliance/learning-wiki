@@ -58,4 +58,8 @@ Same experiment and CLM measure: "No significant differences were observed betwe
 
 
 ## Related Claims
-- [Worked Examples Expertise Reversal](worked-examples-expertise-reversal.md)
+- [Worked Examples Expertise Reversal](worked-examples-less-effective-with-expertise.md)
+- [Self-reported germane cognitive load correlates positively with interest (QCM) among college students solving algebra problems](germane-cognitive-load-correlates-positively-with-interest.md) — related
+- [High- and low-prior-knowledge learners differ significantly on an algebra posttest and on intrinsic and germane cognitive load, but not on extraneous load](high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load.md) — related
+- [No significant interaction between prior knowledge and task difficulty was observed in a worked-example algebra study](no-prior-knowledge-by-task-difficulty-interaction-in-algebra-worked-examples.md) — related
+- [Prior knowledge, worked-example type (full vs completion) and task difficulty show a significant three-way interaction on an algebra posttest, but not on self-reported cognitive load](prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) — related

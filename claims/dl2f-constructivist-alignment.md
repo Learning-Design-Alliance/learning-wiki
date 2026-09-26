@@ -41,4 +41,7 @@ Theoretical argument in the Theory of Learning section: the author roots DL2F in
 
 
 ## Related Claims
--
+- [Constructivist learning environments are built on four system attributes: context, construction, collaboration, and conversation](constructivist-environments-four-system-attributes.md) — related
+- [Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue](dialogue-underpins-networked-learning.md) — related
+- [Knowledge is not a picture of the real world; its adequacy is tested for logical consistency and experiential validity](knowledge-viability-not-picture-of-reality.md) — related
+- [DL2F is grounded in communicative language teaching theory prioritizing communication as the key objective of language learning](dl2f-grounded-in-clt-theory.md) — related

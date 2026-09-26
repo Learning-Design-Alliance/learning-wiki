@@ -41,4 +41,4 @@ Historical narrative in Part II describing the community school idea piloted in 
 
 
 ## Related Claims
--
+- [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related

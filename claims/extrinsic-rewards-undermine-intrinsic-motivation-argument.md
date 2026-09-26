@@ -41,4 +41,9 @@ The essay's 'Learning Motivation' section reports, citing Deci, Koestner & Ryan 
 
 
 ## Related Claims
--
+- [Rewards Undermine Intrinsic Motivation](rewards-undermine-intrinsic-motivation.md) — a narrower finding that bears on this claim
+- [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](overjustification-effect-reduces-intrinsic-motivation.md) — a narrower finding that bears on this claim
+- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
+- [Feedback Praise Reduces Learning](feedback-praise-reduces-learning.md) — related
+- [Group rewards combined with individual accountability make cooperative learning effective](cooperative-learning-group-rewards-and-individual-accountability.md) — related
+- [Authentic Audiences Improve Student Work](authentic-audiences-improve-student-work.md) — related

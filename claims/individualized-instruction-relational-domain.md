@@ -41,4 +41,8 @@ Theoretical argument in the individualized-learning section, applying Harvey's d
 
 
 ## Related Claims
--
+- [Dale argued learning becomes more meaningful when abstract learning and concrete experience are related, not that more realism is better](dale-related-concrete-and-abstract-not-realism.md) — related
+- [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — related
+- [The direct-to-vicarious and purely symbolic experience continuum remains valid while the cone's description of media is dated](cone-continuum-valid-media-description-dated.md) — related
+- [Relational-domain conceptualization and evaluation objectives suit traditional testing, while leadership, followership and role-exchange objectives require new non-traditional evaluation formats](relational-measurement-format-implications.md) — related
+- [The relational taxonomy rests on value orientations that task-oriented group activity requires rotating leadership exercised through sanctions, persuasion, or expertise](rotating-leadership-three-agencies-claim.md) — related

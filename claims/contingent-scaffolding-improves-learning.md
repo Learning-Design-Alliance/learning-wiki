@@ -117,3 +117,7 @@ Finally, van de Pol et al. treat contingency as definitionally necessary for sca
 ## Related Claims
 - [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md)
 - [Self-explanation improves conceptual understanding and problem-solving performance.](self-explanation-improves-conceptual-understanding.md)
+- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — related
+- [Tutoring Effectiveness Comes From Scaffolding And Feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related
+- [A student began interacting with the sim within 10 seconds and verbalized sense-making without explicit guidance](implicit-scaffolding-supports-immediate-exploration.md) — related
+- [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — a narrower finding that bears on this claim

@@ -41,4 +41,8 @@ Average DIF detection rates across simulated conditions reported in Table 4. The
 
 
 ## Related Claims
--
+- [Item discrimination moderates detection differently by index: NCDIF benefits from high a-parameters only at large DIF magnitude](a-parameter-moderates-dif-detection-by-index.md) — related
+- [Type I error rates of all three polytomous DIF indices increase as the number of DIF items and DIF magnitude increase](dif-type-i-error-increases-with-dif-items-and-magnitude.md) — related
+- [The polytomous-DFIT framework effectively identified DTF and DIF in polytomously scored data under the simulated conditions](polytomous-dfit-effective-dif-detection-simulation.md) — related
+- [Test length, focal group distribution, number of DIF items, and direction of DIF had little effect on detection rates](polytomous-dfit-factors-little-effect.md) — reports the opposite
+- [Type of DIF affected detection: nonuniform DIF items with higher a-parameters were not detected whereas lower a-parameter items were](polytomous-dfit-nonuniform-high-a-not-detected.md) — related

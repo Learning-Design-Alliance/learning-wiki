@@ -41,4 +41,9 @@ Laboratory experiments in which students in language-laboratory cubicles heard t
 
 
 ## Related Claims
--
+- [Global errors hinder communication while local errors affect only a single sentence element, informing which errors to correct](global-versus-local-errors-correction.md) — related
+- [Students high in Need for Cognition are more persuaded by unintelligible messages than students low in Need for Cognition](need-for-cognition-moderates-unintelligible-persuasion.md) — related
+- [Increased repetitions of both intelligible and unintelligible communications produce increased acceptance](repetitions-increase-acceptance-both-message-types.md) — related
+- [Increased source credibility produces greater agreement to both intelligible and unintelligible messages](source-credibility-effect-holds-unintelligible-messages.md) — related
+- [Unintelligible messages produce more agreement and cognitive elaboration than a no-message control](unintelligible-beats-no-message-control.md) — related
+- [Unintelligible messages elicit a higher proportion of idiosyncratic cognitive elaborations than intelligible messages](unintelligible-messages-increase-idiosyncratic-elaboration.md) — related

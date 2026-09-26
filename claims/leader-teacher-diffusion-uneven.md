@@ -58,4 +58,6 @@ CPRE's account of the Leader Teacher diffusion strategy: success depended on sel
 
 
 ## Related Claims
--
+- [Network learning spread beyond the network through a website, conference presentations, school and district sharing, and AIR-led professional learning communities](bmtn-external-spread-channels.md) — related
+- [Non-participation in intensive professional development reflected enjoyment, preparation, and conceptions of professional development, not experience or science background](nonparticipant-barriers-professional-development.md) — related
+- [Content familiarity, not teaching experience, predicted reform-based science teaching practice](content-familiarity-predicts-reform-practice-experience-does-not.md) — related

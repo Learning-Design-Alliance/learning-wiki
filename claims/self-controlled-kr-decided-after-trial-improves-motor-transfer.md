@@ -59,3 +59,8 @@ Post hoc analyses of transfer AE in the same experiment: Self-After and Self-Bot
 
 ## Related Claims
 - [Self Controlled Kr Decided After Trial Improves Motor Retention](self-controlled-kr-decided-after-trial-improves-motor-retention.md)
+- [During motor practice with knowledge of results, all groups reduced absolute error across blocks, and groups whose KR decision fell after the trial were more accurate during practice than groups whose decision fell before it, independent of choice.](motor-practice-accuracy-improves-across-blocks-and-favors-after-decision-groups.md) — related
+- [Learning should be assessed with retention and transfer tests rather than current practice performance](retention-transfer-tests-define-learning.md) — related
+- [Learners who could decide after a trial whether to receive knowledge of results estimated their own movement outcomes more accurately in retention than Self-Before learners and their yoked counterparts.](self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy.md) — related
+- [Having control over the knowledge-of-results decision only before a motor trial (Self-Before) produced no statistically significant retention or transfer benefit over a yoked group receiving the same KR schedule.](self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked.md) — related
+- [On a motor transfer test, self-controlled knowledge-of-results groups estimated their outcomes more accurately than yoked groups, and among self-controlled groups Self-After and Self-Both were more accurate than Self-Before.](self-controlled-kr-groups-estimate-transfer-outcomes-more-accurately-than-yoked.md) — related

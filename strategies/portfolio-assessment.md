@@ -43,7 +43,7 @@ Portfolios shift assessment from a summative snapshot toward [Assessment for Lea
 
 ### Target Learners
 - Learners developing complex, ill-structured skills (writing, design, teaching, clinical practice) where single tests under-sample competence
-- Learners building self-regulation: selection and reflection cycles train monitoring and evaluation [Self-regulated learning strategies improve achievement.](../claims/self-regulated-learning-strategies-improve-achievement.md) [+S]
+- Learners building self-regulation: selection and reflection cycles train monitoring and evaluation [Self-regulated learning strategies improve achievement.](../claims/self-regulated-learning-improves-achievement.md) [+S]
 - Less suitable as a *graded* measure for novices who cannot yet judge quality; early use should be low-stakes with heavy rubric scaffolding
 
 ### Target Learning Goals

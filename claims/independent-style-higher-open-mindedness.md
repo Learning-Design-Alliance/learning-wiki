@@ -41,4 +41,7 @@ Games Howell post hoc comparison from Table 4 (independent n=108, avoidant n=33,
 
 
 ## Related Claims
--
+- [Collaborative-style preservice teachers score higher on continuous and intentional thinking than avoidant and dependent styles](collaborative-style-higher-continuous-thinking.md) — related
+- [Avoidant-style preservice teachers hold stronger certainty-of-knowledge beliefs than participant-style peers](avoidant-style-higher-certainty-knowledge.md) — related
+- [Preservice teachers' epistemological beliefs differ significantly by learning style in all four dimensions](epistemological-beliefs-differ-by-learning-style.md) — a broader claim this one bears on
+- [Preservice teachers' reflective thinking tendencies differ statistically by learning style in all seven dimensions](reflective-thinking-differs-by-learning-style.md) — a broader claim this one bears on

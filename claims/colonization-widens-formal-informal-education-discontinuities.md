@@ -41,4 +41,4 @@ Theoretical-analytical argument in Part I of the conference paper, contrasting c
 
 
 ## Related Claims
--
+- [Adult education development in the Philippines resulted from dynamic interaction among social problems, popular demands, state response and external constraints](adult-education-dynamic-interaction-social-problems-state.md) — related

@@ -41,4 +41,7 @@ Spearman correlation analysis of survey data from 47 graduate students in the on
 
 
 ## Related Claims
--
+- [Co-regulation shows stronger relationships with the three CoI presences than self-regulation in an online case-based course](co-regulation-stronger-presence-relationships-than-self-regulation.md) — related
+- [In an online case-based course, students perceive cognitive presence as highest and least variable, and teaching presence as the most variable, among the CoI presences and metacognition dimensions](cognitive-presence-highest-least-variable-online-cbi.md) — related
+- [The five passage attributes are significantly intercorrelated, with imagery, interest, and linkage highly correlated](passage-attributes-intercorrelated.md) — related
+- [Social presence shows the strongest association with metacognition in an online case-based course, while teaching presence shows no significant relationship](social-presence-strongest-metacognition-association-cbi.md) — related

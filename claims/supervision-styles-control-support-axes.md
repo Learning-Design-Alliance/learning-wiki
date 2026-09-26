@@ -41,4 +41,5 @@ Synthesis of prior supervision-style studies (Brown & Atkins, 1988; Gatfield, 20
 
 
 ## Related Claims
--
+- [Tutors and trainee researchers most value supportive attitude, mastery of the research field, and accessibility in a research project supervisor](supervisor-desirable-characteristics-survey.md) — related
+- [Implementation of the TPI procedure reached only one tutor-trainee pair out of nine potential tutors, though participants assessed it positively](tpi-implementation-low-participation-positive-assessment.md) — related

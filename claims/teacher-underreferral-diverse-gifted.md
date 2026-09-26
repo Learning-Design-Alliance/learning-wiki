@@ -41,4 +41,6 @@ The brief summarizes referral research showing "culturally and linguistically di
 
 
 ## Related Claims
--
+- [Cultural and linguistic background influences measured learning and cognitive styles, and should be considered in style assessment](cultural-background-influences-learning-style-measurement.md) — related
+- [Culturally and linguistically diverse students are underrepresented in gifted identification nationwide](gifted-underrepresentation-diverse-students.md) — related
+- [The perception that language minority students bring language disadvantages and knowledge deficiencies from home has too often led to lowered academic expectations for them.](deficit-view-of-minority-households-lowers-academic-expectations.md) — related

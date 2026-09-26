@@ -41,4 +41,6 @@ Chi-square test of independence on boiling point task responses across the three
 
 
 ## Related Claims
--
+- [Learning environment significantly affected students' use of causal mechanistic reasoning on the dissolution task, with the core ideas environment highest at 40%](dissolution-task-environment-effect.md) — related
+- [More instructional time spent on causal mechanistic reasoning correlated with a higher percentage of student responses using causal mechanistic reasoning on phenomenon-based tasks](instructional-cmr-time-correlates-student-cmr.md) — related
+- [Inquiry-based physics discussion supported peer co-construction of mechanistic explanations, distributing authority of knowledge and language among students](third-space-distributes-authority-among-students.md) — related

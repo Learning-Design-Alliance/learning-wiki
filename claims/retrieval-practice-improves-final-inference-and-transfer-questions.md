@@ -93,3 +93,8 @@ The chapter reports Eglington and Kang (2016), who reused Tran et al.'s material
 
 ## Related Claims
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md)
+- [Whether prompting students to construct explanations during retrieval adds benefit beyond initial free recall is mixed across studies](adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects.md) — related
+- [Retrieval practice effects on mediator-cued final tests have been positive, but Coppens et al. (2016) concluded the true effect may be only about 0.10 to 0.20](mediator-cued-final-test-effects-of-retrieval-practice-may-be-small.md) — related
+- [The benefits of retrieval practice do not depend on an exact match between initial retrieval practice conditions and the final test format](retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats.md) — related
+- [Retrieval practice benefits extend to nonverbal visual materials, spatial map learning, and educational texts with different structures](retrieval-practice-benefits-extend-to-nonverbal-spatial-and-differently-structured-text-materials.md) — related
+- [The argument that retrieval practice effects do not occur with materials high in element interactivity is contested, and the chapter judges its research base not convincing](whether-element-interactivity-limits-retrieval-practice-effects-is-contested.md) — related

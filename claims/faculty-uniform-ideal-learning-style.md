@@ -41,4 +41,6 @@ Faculty (N=41) completed the LSI for an ideal student in their department. Only 
 
 
 ## Related Claims
--
+- [Significant mismatches exist between faculty ideal learning styles and actual student learning styles](faculty-student-learning-style-mismatch.md) — related
+- [Student learning styles differ significantly by department, particularly on Concrete Experience and Abstract Conceptualization](student-learning-style-department-differences.md) — related
+- [Student subject matter orientation differs significantly from faculty perceptions of departmental characteristics](student-faculty-subject-matter-mismatch.md) — related

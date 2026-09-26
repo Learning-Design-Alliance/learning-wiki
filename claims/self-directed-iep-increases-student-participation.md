@@ -72,3 +72,5 @@ Four high school students with moderate intellectual disability were taught a mo
 - [Self-Determination Theory](../theories/self-determination-theory.md) — the theoretical framework (autonomy, competence, relatedness) most often used to explain self-directed IEP outcomes.
 - [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) — students monitoring and articulating their own goals parallels the IEP goal-review process.
 - [Cognitive apprenticeship](../theories/cognitive-apprenticeship.md) — modeling and coaching of self-advocacy skills precedes independent student-led meetings.
+- [Self-determination instruction improves outcomes](self-determination-instruction-improves-outcomes.md) — a broader claim this one bears on
+- [Self Determined Learning Model Of Instruction Improves Self Determination](self-determined-learning-model-of-instruction-improves-self-determination.md) — related

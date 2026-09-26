@@ -41,4 +41,6 @@ Theoretical argument in an opinion paper: the author asserts that conscientizati
 
 
 ## Related Claims
--
+- [Adventure programs can be designed to teach participants a transferable empowerment process, not only deliver an intervention](adventure-programs-teach-empowerment-process.md) — related
+- [Critics argue experiential learning's weaknesses lie in the reflective observation phase; the authors counter that trainers can develop observation skills](critics-weak-reflective-observation-phase.md) — related
+- [CHAT references are noticeably absent from commonly cited CSL literature despite shared commitments with Dewey and Freire](chat-absent-from-csl-literature.md) — related

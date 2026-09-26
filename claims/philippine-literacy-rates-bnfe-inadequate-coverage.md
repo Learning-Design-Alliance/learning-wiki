@@ -41,4 +41,7 @@ Descriptive statistics reported in the Literacy subsection of Part II's contextu
 
 
 ## Related Claims
--
+- [Adult education development in the Philippines resulted from dynamic interaction among social problems, popular demands, state response and external constraints](adult-education-dynamic-interaction-social-problems-state.md) — related
+- [Many practices in adult literacy programs violate principles of learning for adults, including short-timeframe funding, isolated individualized learning, ignored learner experience, and non-meaningful materials](adult-literacy-programs-violate-adult-learning-principles.md) — related
+- [Proposed equivalency system between non-formal and formal education streams will not work without local government uptake](equivalency-system-requires-local-government-uptake.md) — related
+- [Labor export policy depletes the educated segment of the Philippine manpower pool, explaining the remaining workforce's under-education](labor-export-depletes-educated-manpower-pool.md) — related

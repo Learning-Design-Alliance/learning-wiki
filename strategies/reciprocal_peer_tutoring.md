@@ -19,7 +19,7 @@ Reciprocal peer tutoring (RPT) pairs students of similar ability who alternate t
 
 ## Design Implications
 
-RPT works because preparing to teach forces deeper processing than preparing to listen, and because explaining aloud exposes gaps in understanding [Explaining to another person improves learning more than explaining to oneself.](../claims/learning-by-teaching-improves-learning.md) [+M]. The reciprocity is not decorative — alternating roles ensures both partners retrieve and reorganize content, and prevents the status dynamics that undermine fixed tutoring pairs. Structure matters: unstructured "work together" time produces far weaker effects than RPT with scripted roles, timed turns, and individual accountability [Peer-assisted learning works best with structure and individual accountability.](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+S].
+RPT works because preparing to teach forces deeper processing than preparing to listen, and because explaining aloud exposes gaps in understanding [Explaining to another person improves learning more than explaining to oneself.](../claims/learning-by-teaching-improves-tutor-learning.md) [+M]. The reciprocity is not decorative — alternating roles ensures both partners retrieve and reorganize content, and prevents the status dynamics that undermine fixed tutoring pairs. Structure matters: unstructured "work together" time produces far weaker effects than RPT with scripted roles, timed turns, and individual accountability [Peer-assisted learning works best with structure and individual accountability.](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+S].
 
 ### Context
 #### Requirements

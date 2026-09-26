@@ -58,4 +58,8 @@ Responses to the hypothetical name-calling dilemma in the interviews showed all 
 
 
 ## Related Claims
--
+- [Antagonistic and dilemma situations in evaluation are decision situations where any choice breaks a value](antagonistic-dilemma-situations-break-value.md) — related
+- [The ethic of care was found in all three female principals studied, expressed in teaching, learning, dedication to students, and child-centered schools](ethic-of-care-found-in-three-female-principals.md) — related
+- [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
+- [Female principals maintained autonomy and connectedness despite hierarchical bureaucratic structures, and reported no isolation](principals-maintain-connectedness-despite-bureaucracy.md) — related
+- [The principals' personal ethic of care, rooted in motherhood, transferred to their professional leadership roles](personal-ethic-of-care-transferred-from-motherhood.md) — related

@@ -41,4 +41,4 @@ This is the digest's introductory framing statement, an authorial assessment rat
 
 
 ## Related Claims
--
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related

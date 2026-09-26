@@ -58,4 +58,6 @@ Findings section: rural teachers held sessions at 6:00 am or late evening around
 
 
 ## Related Claims
--
+- [Four relational components—positive feedback, rapport, mutual respect, and reciprocal trust—form the relational framework of coaching](four-relational-components-coaching-partnership.md) — related
+- [Framework identifies teacher prerequisites: basic content knowledge, willingness to engage, and genuine concern for improving student learning](requisite-teacher-characteristics-qualitative-findings.md) — related
+- [Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes](coaching-outcomes-teacher-knowledge-sustainability-student-learning.md) — related

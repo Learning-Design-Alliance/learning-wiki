@@ -91,3 +91,11 @@ Open questions for future enrichment: effect sizes relative to other learning te
 - [Chunking reduces working-memory load](chunking-reduces-working-memory-load.md) — explanation generation consumes working memory, so material organization matters.
 - [Advance organizers improve learning](advance-organizers-improve-learning.md) — both approaches scaffold integration of new facts with existing knowledge structures.
 - [Elaboration theory](../patterns/elaboration-theory.md) — a broader instructional pattern built on progressively elaborated content.
+- [Answers to elaborative interrogation questions were mostly poor in quality, and answer quality correlated positively with posttest scores](elaborative-interrogation-answer-quality-poor-correlates-with-posttest.md) — a narrower finding that bears on this claim
+- [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related
+- [Elaborative interrogation instructions produce better recall and recognition of science facts than reading-for-understanding instructions](elaborative-interrogation-improves-science-fact-learning.md) — a narrower finding that bears on this claim
+- [Elaborative interrogation increased perceived difficulty and time spent with the lesson](elaborative-interrogation-increases-difficulty-and-time-on-lesson.md) — related
+- [Elaborative interrogation produced lower posttest accuracy than reading the lesson twice in a written lesson on posterior probability](elaborative-interrogation-lower-posttest-than-read-twice-posterior-probability.md) — a narrower finding that bears on this claim
+- [Elaborative-interrogation students are less confident in their incorrect recognition selections than reading controls, who express great confidence in erroneous answers](elaborative-interrogation-reduces-confidence-in-errors.md) — a narrower finding that bears on this claim
+- [Low reading-group first graders read far fewer words than high-group peers, limiting elaboration](low-group-first-graders-read-few-words.md) — related
+- [The quality of elaborative-interrogation answers had little effect on retention; even failed or inadequate why-answers facilitated learning relative to reading](response-quality-little-effect-on-elaborative-interrogation-retention.md) — a narrower finding that bears on this claim

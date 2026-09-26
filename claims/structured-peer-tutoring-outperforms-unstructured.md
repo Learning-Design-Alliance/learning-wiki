@@ -73,3 +73,9 @@ A meta-analysis of 36 elementary-school peer-assisted-learning studies examined 
 - [Active learning improves exam performance.](active-learning-improves-exam-performance.md) — peer tutoring is one active-learning structure whose benefits depend on how interaction is organized
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — explains why novice tutors need scaffolds and protocols to avoid overload
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — the amount of structure that helps novice tutors may need to fade as tutors gain competence
+- [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — related
+- [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — related
+- [Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — a broader claim this one bears on
+- [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — related
+- [Tutoring benefits both tutors and tutees](tutoring-benefits-tutors-and-tutees.md) — related
+- [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — related

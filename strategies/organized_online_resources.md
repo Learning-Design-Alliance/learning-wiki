@@ -19,7 +19,7 @@ Organized online resources is a strategy in which an instructor curates, annotat
 
 ## Design Implications
 
-Curation reduces extraneous cognitive load: every navigation decision, broken link, or ambiguous file name consumes working memory that would otherwise support learning [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Well-organized resource collections function as advance organizers — they show learners the structure of the unit before they encounter its parts, which improves encoding and retrieval [Advance organizers provide a scaffold for new learning.](../claims/activation.md) [+M]. The critical design decision is *selective* curation: a small, purpose-annotated set of resources outperforms an exhaustive dump, because unstructured abundance increases search cost and choice paralysis [~M].
+Curation reduces extraneous cognitive load: every navigation decision, broken link, or ambiguous file name consumes working memory that would otherwise support learning [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Well-organized resource collections function as advance organizers — they show learners the structure of the unit before they encounter its parts, which improves encoding and retrieval [Advance organizers provide a scaffold for new learning.](../claims/activation-improves-learning.md) [+M]. The critical design decision is *selective* curation: a small, purpose-annotated set of resources outperforms an exhaustive dump, because unstructured abundance increases search cost and choice paralysis [~M].
 
 ### Context
 #### Requirements

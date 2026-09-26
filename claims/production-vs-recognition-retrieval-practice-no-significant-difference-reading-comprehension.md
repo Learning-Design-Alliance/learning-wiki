@@ -41,5 +41,12 @@ Classroom experiment with 100 first-year Cognitive Psychology undergraduates in 
 
 
 ## Related Claims
-- [Retrieval Practice Improves Learning](retrieval-practice-improves-learning.md)
+- [Retrieval Practice Improves Learning](retrieval-practice-improves-retention.md)
 - [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md)
+- [The effect of retrieval practice format on reading comprehension does not differ significantly between an immediate and a three-week-delayed final test](retrieval-format-by-retention-interval-interaction-not-significant.md) — related
+- [Final-test reading comprehension after retrieval practice does not differ significantly between an immediate test and a test delayed by three weeks](retrieval-practice-reading-comprehension-no-significant-retention-interval-difference.md) — related
+- [Retrieval practice format, levels of thinking and retention interval show no significant three-way interaction on undergraduates' reading comprehension](retrieval-format-levels-of-thinking-retention-interval-three-way-interaction-not-significant.md) — related
+- [The effect of retrieval practice format on reading comprehension does not differ significantly between lower-order and higher-order thinking questions](retrieval-format-by-levels-of-thinking-interaction-not-significant.md) — related
+- [The effect of retention interval on reading comprehension after retrieval practice does not differ significantly between lower-order and higher-order thinking questions](retention-interval-by-levels-of-thinking-interaction-not-significant.md) — related
+- [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) — related
+- [Initial short-answer tests outperform initial multiple-choice tests mainly when feedback follows them; without feedback, the higher initial success of multiple-choice tests can favor multiple-choice](feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice.md) — related

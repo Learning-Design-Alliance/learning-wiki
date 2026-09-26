@@ -41,4 +41,8 @@ Conditional process modelling (Hayes Model 4, 5,000 bootstrap resamples) on the 
 
 
 ## Related Claims
--
+- [Extraversion's protective effect on well-being declines with age, significant only for younger students](age-moderates-extraversion-wellbeing-effect.md) — related
+- [Conscientiousness and tolerance for novelty show small negative associations with well-being decline; other uncertainty-tolerance facets do not](conscientiousness-novelty-tolerance-small-protective-associations.md) — related
+- [Emotional stability shows the strongest negative association with decline in students' subjective well-being under martial law](emotional-stability-strongest-protective-wellbeing-wartime.md) — related
+- [Extraversion correlates negatively with well-being decline in wartime students, though less strongly than emotional stability](extraversion-protective-wellbeing-wartime.md) — related
+- [Openness protects against well-being decline only when emotional stability is average or high](openness-protects-only-with-emotional-stability.md) — related

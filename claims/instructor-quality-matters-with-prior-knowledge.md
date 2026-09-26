@@ -41,4 +41,8 @@ Post-hoc LSD comparisons among cooperative-group styles with verbal TA interacti
 
 
 ## Related Claims
--
+- [A computer-based implementation of the tutorial yields the lowest post-test scores, statistically lower on momentum than every other style studied](computer-based-tutorial-implementation-lowest-posttest.md) — related
+- [Detailed written answer keys at checkpoints significantly improved momentum post-test scores over brief answers, but not kinetic energy scores](detailed-answer-keys-improve-momentum-only.md) — related
+- [Drop-in one-to-one tutorial attendees improved P1X-to-P1Y marks while the class average declined](drop-in-tutorials-improve-p1y-marks.md) — related
+- [Socratic dialogue by a skilled but inefficient teaching assistant underperformed: lengthy, unsummarized checkpoints may leave students without clear understanding](socratic-dialogue-needs-efficiency-and-summaries.md) — related
+- [For novel material (impulse-momentum theorem), no statistical difference emerges among group-based styles with verbal TA interaction; the tutorial material itself dominates](novel-material-instructor-support-less-important.md) — related

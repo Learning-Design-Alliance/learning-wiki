@@ -41,4 +41,4 @@ Secondary term in the same ANCOVA of applied conceptual understanding (Table 4),
 
 
 ## Related Claims
--
+- [Puppetry as a teaching tool produces a statistically significant post-intervention difference in Grade 9 learners' applied conceptual understanding of ecological concepts, favouring the puppetry group](puppetry-improves-applied-conceptual-understanding-ecology.md) — related

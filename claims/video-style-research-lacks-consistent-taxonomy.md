@@ -41,4 +41,5 @@ Narrative review synthesis of prior instructional-video studies (Table 1). The r
 
 
 ## Related Claims
--
+- [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](guo-video-style-engagement-findings.md) — related
+- [Screencast design findings: static vs. dynamic screen movement, explicit vs. implicit narration, and handwriting preferred though typefaces judged more legible](screencast-design-movement-narration-handwriting.md) — related

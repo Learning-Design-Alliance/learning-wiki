@@ -70,3 +70,12 @@ A meta-analysis of 31 experiments and quasi-experiments (2,049 children) in whic
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — like dialogic reading, structured interaction that increases learner talk is the active ingredient.
 - [Chunking Reduces Working Memory Load](chunking-reduces-working-memory-load.md) — relevant to why well-scaffolded prompts keep young children's language production within manageable demands.
 - [Activation Improves Learning](activation-improves-learning.md) — dialogic prompts elicit the child's prior knowledge and vocabulary, converting passive exposure into active production.
+- [In teacher-led big-book reading, children exercise cognitive autonomy by making their own connections between spoken and written words within the activity's boundaries](big-book-reading-cognitive-autonomy.md) — related
+- [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — possibly the same claim (merge candidate)
+- [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
+- [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
+- [Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content](interactional-structures-shape-content-processing.md) — related
+- [Embedding literacy materials in play settings increases children's literacy engagement and environmental print reading](literacy-embedded-play-increases-literacy-engagement.md) — related
+- [A disadvantaged-child program with heavy oral language emphasis led all compared programs in cognitive gains](oral-language-emphasis-program-led-cognitive-gains.md) — related
+- [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — related
+- [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related

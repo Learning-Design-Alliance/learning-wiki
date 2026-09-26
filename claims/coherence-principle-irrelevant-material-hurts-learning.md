@@ -85,3 +85,6 @@ A review and meta-analysis of the seductive-detail literature. The effect held o
 - [Chunking reduces working-memory load](chunking-reduces-working-memory-load.md) — complementary strategy for managing limited capacity
 - [Signaling improves learning by guiding attention](signaling-improves-learning.md) — the constructive counterpart: cue what matters instead of adding what doesn't
 - [Multimedia learning improves outcomes when aligned with cognitive theory](multimedia-principle-improves-learning.md) — the broader Mayer framework in which coherence is one principle
+- [Interesting but irrelevant details impair learning](seductive-details-effect.md) — a broader claim this one bears on
+- [Decorative Illustrations Do Not Improve Learning](decorative-illustrations-do-not-improve-learning.md) — a broader claim this one bears on
+- [Interesting but irrelevant details added to a lesson can distract from learning the material they were meant to enliven](seductive-details-distract-from-learning.md) — a narrower finding that bears on this claim

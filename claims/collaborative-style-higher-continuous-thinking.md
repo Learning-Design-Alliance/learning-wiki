@@ -41,4 +41,7 @@ Games Howell post hoc comparisons following the ANOVA in Table 4 (collaborative 
 
 
 ## Related Claims
--
+- [Independent-style preservice teachers score higher on open-mindedness than avoidant, collaborative, and competitive styles](independent-style-higher-open-mindedness.md) — related
+- [Avoidant-style preservice teachers hold stronger certainty-of-knowledge beliefs than participant-style peers](avoidant-style-higher-certainty-knowledge.md) — related
+- [Preservice teachers' epistemological beliefs differ significantly by learning style in all four dimensions](epistemological-beliefs-differ-by-learning-style.md) — a broader claim this one bears on
+- [Preservice teachers' reflective thinking tendencies differ statistically by learning style in all seven dimensions](reflective-thinking-differs-by-learning-style.md) — a broader claim this one bears on

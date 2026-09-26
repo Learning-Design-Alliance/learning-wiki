@@ -58,4 +58,6 @@ Wait-time analysis across all simulations (Table 1): average wait was around 80 
 
 
 ## Related Claims
--
+- [The NSF advantage over FCFS appears only above an arrival-rate threshold (λ > 0.06); under relaxed queues no strategy makes a difference](arrival-rate-threshold-nsf-advantage.md) — reports the opposite
+- [Under busy or normal queue load, the New Student First (NSF) strategy significantly increases the percentage of students who receive help compared with FCFS, LWF, and VLWF](nsf-strategy-increases-helped-students-busy-normal-queues.md) — reports the opposite
+- [Code commit features before a help request show no correlation with interaction time, and commit-based scheduling strategies perform no better than FCFS](code-commit-features-no-correlation-interaction-time.md) — related

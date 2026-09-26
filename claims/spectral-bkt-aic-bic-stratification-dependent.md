@@ -41,4 +41,7 @@ AIC/BIC comparison from the Model Validation section's cross-validation of the t
 
 
 ## Related Claims
--
+- [In an empirical comparison on a testlet-based English assessment test, the bifactor model is preferred over the second-order and unidimensional 2PL models by both AIC and BIC](bifactor-model-preferred-aic-bic-testlet-test.md) — related
+- [Spectral BKT achieves higher prediction accuracy than standard BKT on the KDD Cup 2010 Bridge to Algebra data, reaching 92% accuracy](spectral-bkt-beats-standard-bkt-accuracy-kdd2010.md) — related
+- [Spectral BKT's accuracy advantage over standard BKT varies by skill opportunity: slightly worse at opportunity 1, but decisive at opportunities 2 and 3+](spectral-bkt-advantage-varies-by-opportunity.md) — related
+- [Alternative Spectral BKT configurations (2 states with 4 bigrams; 8 states with 16 4-grams) did not improve over the 4-state, 3-gram configuration](spectral-bkt-alternative-configurations-no-improvement.md) — related

@@ -58,4 +58,8 @@ Table 3 reports all four subscale t-tests as significant (e.g., PSCV: APPS M = 3
 
 
 ## Related Claims
--
+- [Attitudes and demographics predicted empathy in the prostitute-label group but not the trafficking-label group](label-condition-moderates-empathy-predictors.md) — related
+- [The type of label used (person-first, 'sex offender', diagnostic, or offence-specific) does not significantly affect public perceptions of individuals who sexually offend](label-type-no-effect-public-perceptions-sexual-offenders.md) — related
+- [Counselors without prior training on prostitution/sex trafficking endorsed more stigmatizing beliefs and more rape myths](lack-of-trafficking-training-linked-stigma-rape-myths.md) — related
+- [Attitudes, gender, and age predict counselors' rape myth acceptance in both label conditions](attitudes-demographics-predict-counselor-rape-myth-acceptance.md) — related
+- [Male counselors reported more rape myth acceptance and lower empathy than female counselors](male-counselors-more-rape-myths-less-empathy.md) — related

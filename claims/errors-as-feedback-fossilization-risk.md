@@ -42,4 +42,7 @@ Authors' interpretive argument in §5 on the significance of error analysis. The
 
 
 ## Related Claims
--
+- [Errors should be distinguished from mistakes, and analysis proceeds through recognition, description, and explanation stages](error-versus-mistake-analysis-procedure.md) — related
+- [Feedback Improves Learning When It Addresses Task Goals](feedback-improves-learning-when-it-addresses-task-goals.md) — a broader claim this one bears on
+- [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — a broader claim this one bears on
+- [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md) — a broader claim this one bears on

@@ -41,4 +41,6 @@ Two-way interactions between treatment condition and the three covariates were t
 
 
 ## Related Claims
--
+- [Bilingual education evaluations have produced uninterpretable data by failing to model child-input by treatment interactions](bilingual-evaluations-ignore-interactions.md) — related
+- [Pretest, attendance, and EB status showed distinct covariate effects on specific literacy outcomes](covariate-effects-pretest-attendance-eb-gains.md) — related
+- [Embedded cognitive flexibility practice showed no overall advantage over phonics alone on growth in decoding, encoding, or cognitive flexibility](embedded-cognitive-flexibility-no-overall-advantage-winter-kindergarten.md) — related

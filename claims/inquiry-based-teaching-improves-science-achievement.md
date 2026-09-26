@@ -75,3 +75,11 @@ This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing t
 - [5E learning cycle](../patterns/5e-learning-cycle.md) — a structured, guided inquiry pattern that operationalizes this claim
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — explains why unguided inquiry fails for novices and scaffolds are essential
 - [Clear structure improves learning](clear-structure-improves-learning.md) — the guidance component that separates effective guided inquiry from ineffective discovery
+- [Guided Inquiry Outperforms Pure Discovery](guided-inquiry-outperforms-pure-discovery.md) — related
+- [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — possibly the same claim (merge candidate)
+- [The learning cycle is reported as an effective means for learning science concepts and processes](learning-cycle-effective-science-learning.md) — a narrower finding that bears on this claim
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
+- [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — a narrower finding that bears on this claim
+- [Socratic dialogue by a skilled but inefficient teaching assistant underperformed: lengthy, unsummarized checkpoints may leave students without clear understanding](socratic-dialogue-needs-efficiency-and-summaries.md) — a narrower finding that bears on this claim
+- [Some students found the guided-inquiry worksheet activities insufficiently thought-provoking and the data exchange troublesome](students-criticize-inquiry-worksheets-low-thinking.md) — related
+- [Teaching Games for Understanding improves tactical decision-making more than traditional physical education instruction.](teaching-games-for-understanding-improves-tactical-decision-making.md) — related

@@ -72,3 +72,8 @@ Open questions for future enrichment: whether parent-delivered and professional-
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — parent training must manage load to protect implementation fidelity
 - [Feedback improves learning.](feedback-improves-learning.md) — coaching parents with feedback on their implementation is itself a feedback design problem
 - [Spaced practice improves retention.](spaced-practice-improves-retention.md) — parent-delivered programs succeed when techniques are distributed across daily routines rather than massed
+- [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
+- [Evaluations of parent education initiatives using experiential methods found positive results for parents](parent-education-experiential-evaluations-positive.md) — related
+- [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
+- [Parent Involvement Improves Achievement](parent-involvement-improves-achievement.md) — related
+- [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-expressive-language.md) — related

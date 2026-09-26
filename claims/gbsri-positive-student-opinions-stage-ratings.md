@@ -41,4 +41,6 @@ Four-point Likert questionnaire administered after the treatment; descriptive st
 
 
 ## Related Claims
--
+- [Both procedural and descriptive writing scores improved significantly after GBSRI](gbsri-improves-procedural-and-descriptive-genres.md) — related
+- [GBSRI significantly improved Thai undergraduates' overall English paragraph writing scores after eight weeks](gbsri-improves-thai-undergraduate-writing-scores.md) — related
+- [Most questionnaire respondents (96.88%) reported that GBSRI activities improved their writing, and collaborative activities were the most preferred](gbsri-respondents-reported-writing-improvement.md) — related

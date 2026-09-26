@@ -41,4 +41,5 @@ In the same seven-case rank-correlation analysis, pre-treatment to six-month fol
 
 
 ## Related Claims
--
+- [Therapy relationships do not show a transition from relational incongruence to congruence across sessions](no-incongruence-to-congruence-transition-across-therapy-sessions.md) — related
+- [Response redundancy (relational congruence) is not related to working alliance ratings](redundancy-unrelated-to-working-alliance.md) — related

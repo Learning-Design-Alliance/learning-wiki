@@ -43,4 +43,11 @@ Theoretical review section (§3) categorizing error sources. The article states 
 
 
 ## Related Claims
--
+- [Lack of confidence and inappropriate language use were observed obstacles to students' mathematical communication during the experiment](confidence-obstacles-math-communication.md) — related
+- [Contrastive rhetoric overgeneralizes shared culture and ignores individual differences among L2 writers](contrastive-rhetoric-overgeneralizes-culture.md) — related
+- [Error analysis has stated limitations: overattention to errors, overstressing production data, failure to account for avoidance, and language-specific focus](error-analysis-limitations.md) — related
+- [Children follow a similar four-stage sequence in acquiring specific syntactic forms, from no usage through error-filled production to correct usage](four-stage-syntax-acquisition-sequence.md) — related
+- [Errors should be distinguished from mistakes, and analysis proceeds through recognition, description, and explanation stages](error-versus-mistake-analysis-procedure.md) — related
+- [Morphological and derivational interference in Polish-English deceptive pairs is unidirectional, operating only in translation from Polish into English](morphological-interference-unidirectional-polish-to-english.md) — a narrower finding that bears on this claim
+- [Children produce overgeneralized forms they have not heard, indicating they use rules rather than imitation](overgeneralization-errors-indicate-rule-use.md) — related
+- [Global errors hinder communication while local errors affect only a single sentence element, informing which errors to correct](global-versus-local-errors-correction.md) — related

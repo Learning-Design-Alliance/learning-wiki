@@ -41,4 +41,7 @@ The essay's historical illustration of French contact with aboriginal North Amer
 
 
 ## Related Claims
--
+- [Cultural processes and forms of epistemic injustice should be taken into account in understanding how inequalities in education are produced and maintained](cultural-processes-and-epistemic-injustice-explain-educational-inequality.md) — related
+- [A constructivist, process-oriented syllabus was suggested to be more effective than a knowledge-based approach for cross-cultural learning (Wright, 2000, as reported)](constructivist-syllabus-beats-knowledge-based-culture-teaching.md) — related
+- [The article argues education for global citizenship has the potential to improve quality of life and lessen inter- and intra-group violence toward a culture of peace](gced-potential-culture-of-peace.md) — related
+- [Multivoiced boundary crossing supports holistic nature connection and ethical reflection](multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection.md) — related

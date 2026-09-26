@@ -41,4 +41,9 @@ Longitudinal panel study of 14 first-year teachers with mentors interviewed in O
 
 
 ## Related Claims
--
+- [Discipline concerns declined for all four teacher groups over the school year](discipline-concern-declines-all-groups.md) — related
+- [First-year teachers without mentors declined in self and impact concerns but task concerns stayed at 50%](unmentored-first-year-task-concerns-flat.md) — related
+- [Reentry teachers without mentors made the greatest progress through Fuller's stages; reentry teachers with mentors developed very limitedly](reentry-without-mentors-greatest-fuller-progress.md) — related
+- [Teachers without mentors reached the impact level more often than mentored teachers, raising the question that mentoring may inhibit development](mentors-may-inhibit-concern-development.md) — related
+- [Teacher concern development is better characterized as progression and retreat than linear stage movement](teacher-concern-progression-and-retreat.md) — a broader claim this one bears on
+- [Not all educators develop impact concerns even when colleagues do; concern change cannot be forced by an outside agent](not-all-educators-develop-impact-concerns.md) — related

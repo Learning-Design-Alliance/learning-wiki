@@ -41,4 +41,5 @@ Definitional/design statement from the paper's program-design and curriculum-con
 
 
 ## Related Claims
--
+- [Egalitarian graduate program design supports culturally responsive leadership development](egalitarian-program-design-supports-culturally-responsive-leadership.md) — related
+- [Programs should facilitate cognitive disequilibrium so students question ethnocentric views and consider other cultural perspectives](programs-facilitate-cognitive-disequilibrium-ethnocentric-views.md) — related

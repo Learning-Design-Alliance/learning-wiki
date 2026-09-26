@@ -52,7 +52,7 @@ The strategy operationalizes a core insight from vocabulary research: instructio
 ### Instructions
 1. **Select words from authentic texts.** Read the texts learners will use; shortlist words that appear across contexts, are important to comprehension, and are definable in learner-friendly language. Discard Tier One words and reserve Tier Three words for content lessons.
 2. **Pre-teach with [Direct Instruction](../patterns/direct-instruction.md).** Provide a student-friendly definition, pronounce the word, and show it in multiple varied contexts — [Analogies](../elements/analogies.md) and familiar examples anchor new meanings in prior knowledge [Activation improves learning.](../claims/activation-improves-learning.md) [+M].
-3. **Provide guided [Practice](../elements/practice.md).** Have learners sort examples and non-examples, complete sentence frames, and explain word relationships; comparing contrasting uses sharpens meaning discrimination [Comparing contrasting cases improve learning.](../claims/comparing-contrasting-cases-improve-learning.md) [+M].
+3. **Provide guided [Practice](../elements/practice.md).** Have learners sort examples and non-examples, complete sentence frames, and explain word relationships; comparing contrasting uses sharpens meaning discrimination [Comparing contrasting cases improve learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 4. **Require active use.** Build writing and discussion tasks that require Tier Two words, with [Application](../elements/application.md) in authentic communication rather than isolated drill.
 5. **Space and revisit.** Reencounter words across days and units; assess through learner-generated sentences and use in writing rather than matching tests.
 

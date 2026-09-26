@@ -41,4 +41,7 @@ Pre/post comparison of a coded preference scale (pscale = (expansive-limiting)/(
 
 
 ## Related Claims
--
+- [Students describe on average half an additional expansive strategy by semester's end (effect size 0.6)](expansive-strategies-increase-half-per-student.md) — related
+- [Limiting strategies decrease only slightly and remain resilient despite multifaceted-problem instruction](limiting-strategies-resilient-slight-decrease.md) — related
+- [Pre-course problem-solving preference does not predict final course grade](pre-pscale-no-correlation-with-grade.md) — related
+- [Word-frequency changes in reflections suggest a shift away from given-information-based strategies](word-frequency-shifts-in-reflections.md) — related

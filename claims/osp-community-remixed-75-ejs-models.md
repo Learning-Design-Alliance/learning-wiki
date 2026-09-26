@@ -41,4 +41,11 @@ Descriptive report of community activity in the article: the community "has remi
 
 
 ## Related Claims
--
+- [The OSP approach helps users overcome barriers in creating, using and scaling up meaningful ICT use in education](osp-overcomes-ict-barriers.md) — a broader claim this one bears on
+- [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
+- [After a guided-inquiry lesson with the collision-carts simulation, students' self-reported knowledge of the physics increased and most rated the lesson enjoyable and valuable](collision-carts-simulation-lesson-positive-student-feedback.md) — related
+- [Some students found the guided-inquiry worksheet activities insufficiently thought-provoking and the data exchange troublesome](students-criticize-inquiry-worksheets-low-thinking.md) — related
+- [Comparing an incorrect applied-force model (fx = 10 N) with real data shows students why projectile motion has no x-direction acceleration](tracker-incorrect-fx-model-refutes-x-force.md) — related
+- [Students can derive an accurate gravitational acceleration value from Tracker's parabola fit of a falling-ball video](tracker-parabola-fit-derives-gravitational-acceleration.md) — related
+- [Keying a constant-vx dynamic model against real video data helps students make sense of constant x-direction velocity in projectile motion](tracker-constant-vx-model-activity.md) — related
+- [Initial findings suggest video modeling pedagogy is suitable for active and deep learning through predicting, observing and explaining](video-modeling-suits-active-deep-learning.md) — related

@@ -41,4 +41,5 @@ Experiment 2 activation analysis: students talked 1.5 minutes about topic-releva
 
 
 ## Related Claims
--
+- [Students recognize more belief-consistent science facts than belief-inconsistent facts, an effect appearing on recognition but not recall tests](belief-consistent-facts-better-recognized.md) — related
+- [Activation Improves Learning](activation-improves-learning.md) — related

@@ -12,7 +12,7 @@ generated:
 # Worked Example Fading
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 6 studies, `q3`–`q4` · 5 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 6 studies, `q3`–`q4` · 5 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Worked example fading begins instruction with complete worked examples, then systematically removes steps — first the final step, then the last two, and so on — until learners solve entire problems on their own. The learner completes the truncated portion of each example, so every task sits at the boundary of current competence. This implements the completion and fading strategy from [Cognitive Load Theory](../theories/cognitive-load-theory.md) as a structured bridge from [Worked Examples](../principles/worked-examples.md) to independent [Practice](../elements/practice.md).

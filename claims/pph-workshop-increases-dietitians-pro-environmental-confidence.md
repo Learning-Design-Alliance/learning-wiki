@@ -41,4 +41,5 @@ Pre–post survey of 46 conference workshop participants (pre n = 42, post n = 4
 
 
 ## Related Claims
--
+- [Dietitians' barriers and enablers to pro-environmental action fall into three themes: personal, social and professional, and contextual and environmental factors](three-themes-barriers-enablers-pro-environmental-dietitians.md) — related
+- [Belief that a global environmental problem needs addressing was already high before the workshop and did not significantly change](pph-workshop-no-significant-belief-change.md) — related

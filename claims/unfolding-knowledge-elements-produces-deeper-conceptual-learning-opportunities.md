@@ -48,3 +48,5 @@ Eight experienced mathematics teachers using the same conceptually-focused volum
 
 ## Related Claims
 - (none yet linked)
+- [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) — related
+- [After retrieval practice, undergraduates score significantly higher on lower-order thinking questions than on higher-order thinking questions about a studied passage](retrieval-practice-lower-order-questions-outscore-higher-order-questions.md) — related

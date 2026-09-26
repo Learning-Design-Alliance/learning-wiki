@@ -41,4 +41,4 @@ Results of the validation experiment's third hypothesis test, reported in the Re
 
 
 ## Related Claims
--
+- [The unsquared correlation predicts transfer better than the squared correlation, except within the anomalous E9 group](unsquared-beats-squared-predictor.md) — related

@@ -41,4 +41,5 @@ Narrative review attributing this finding to Duncan (1996); the reviewed study's
 
 
 ## Related Claims
--
+- [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
+- [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — related

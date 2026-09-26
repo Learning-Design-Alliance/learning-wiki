@@ -41,4 +41,5 @@ The article offers this as an author observation from the study rather than a te
 
 
 ## Related Claims
--
+- [Textual material treated with embedded aids produced 10-15% higher reading comprehension scores than conventional text, statistically significant at the .01 level, in a science-material study with approximately 200 tenth graders across three schools.](embedded-aids-improve-reading-comprehension.md) — related
+- [Embedded aids address the content-area reading problem by helping weak readers read textual material and helping effective readers transfer training across disciplines, via a running commentary explaining key concepts, terminology, and questions.](embedded-aids-support-cross-disciplinary-transfer-of-reading-skills.md) — related

@@ -58,4 +58,7 @@ Figure 7 analysis on the squirrel dataset of AUC versus data available on a new 
 
 
 ## Related Claims
--
+- [Dataset size moderates the LR-versus-DKT comparison: Best-LR dominates in low and medium data regimes and DKT takes over in the high data regime](dataset-size-moderates-lr-versus-dkt.md) — related
+- [DKT makes better use of the temporal order of interactions than logistic regression, confirmed by KC-specific DKT models on sequential datasets](dkt-better-exploits-temporal-order.md) — related
+- [Logistic regression with the best feature vector outperforms all other approaches on 4 of 9 datasets while DKT leads on the remaining 5, and Markov process methods lag behind](best-lr-and-dkt-lead-markov-methods-lag-nine-datasets.md) — related
+- [Current best learner performance models are severely biased outside the interval containing most of the data, hindering downstream adaptive policies and open learner models](learner-models-miscalibrated-outside-data-interval.md) — related

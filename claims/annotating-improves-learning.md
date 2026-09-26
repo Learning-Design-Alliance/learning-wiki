@@ -75,3 +75,7 @@ A long review that asks, for each of ten study techniques, whether its benefits 
 - [Von Restorff effect text marking](../theories/von-restorff-effect-text-marking.md) — distinctive marking makes annotated items more memorable
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — scaffolds that help novices can burden advanced learners, including annotation guidance
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — annotation must not add extraneous load on dense texts
+- [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — related
+- [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) — reports the opposite
+- [Experimenter-generated underlining is as effective as student-generated underlining for test performance](experimenter-underlining-effective-as-student-underlining.md) — related
+- [Strong acquisition tasks explicating the organization produce better internalization than weak tasks asking only for a structured summary](strong-acquisition-tasks-improve-internalization.md) — related

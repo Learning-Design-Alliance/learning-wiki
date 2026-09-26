@@ -57,4 +57,8 @@ Correlation for the fourth factor, decision making through negotiation, among th
 
 
 ## Related Claims
--
+- [Iranian EFL teachers' awareness of critical pedagogy differs significantly across academic degrees, with PhD holders most aware](phd-holders-most-aware-of-critical-pedagogy.md) — related
+- [PhD teachers show significantly higher awareness than both MA and BA teachers of liberatory autonomy](phd-higher-awareness-liberatory-autonomy.md) — related
+- [BA, MA and PhD teachers do not differ significantly in awareness of a critical approach to EFL classroom content](no-degree-difference-critical-approach-content.md) — related
+- [PhD teachers show significantly higher awareness than MA teachers of incorporating dialogue and learners' real life into second language instruction](phd-higher-awareness-dialogue-real-life-factor.md) — related
+- [PhD teachers show significantly higher awareness than BA teachers of decision making through negotiation](phd-higher-awareness-decision-making-negotiation.md) — related

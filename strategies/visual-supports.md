@@ -31,7 +31,7 @@ Well-designed visuals improve learning because presenting words and correspondin
 #### Constraints
 - Decorative or tangential images ("seductive details") actively depress learning and recall [Irrelevant graphics and seductive details reduce learning.](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [-S]
 - Overly complex or dense visuals presented all at once overload working memory, especially for novices [Cognitive overload from too much simultaneous information degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S]
-- Redundant on-screen text duplicating narration can hurt learning in multimedia settings [Redundant presentation of identical text and narration impairs multimedia learning.](../claims/redundancy-hurts-multimedia-learning.md) [~M]
+- Redundant on-screen text duplicating narration can hurt learning in multimedia settings [Redundant presentation of identical text and narration impairs multimedia learning.](../claims/redundancy-effect-impairs-learning.md) [~M]
 - Learners with low spatial ability may need additional scaffolding to interpret schematic diagrams
 
 #### Implementation Variability

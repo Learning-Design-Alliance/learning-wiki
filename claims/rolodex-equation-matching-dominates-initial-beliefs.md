@@ -41,4 +41,6 @@ Coding of pre-course written reflections from 292 students in a sophomore calcul
 
 
 ## Related Claims
--
+- [Limiting strategies decrease only slightly and remain resilient despite multifaceted-problem instruction](limiting-strategies-resilient-slight-decrease.md) — related
+- [Students describe on average half an additional expansive strategy by semester's end (effect size 0.6)](expansive-strategies-increase-half-per-student.md) — related
+- [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related

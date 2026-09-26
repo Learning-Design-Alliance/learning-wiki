@@ -76,3 +76,7 @@ Open questions include how summarization compares with other generative strategi
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — summarization works by organizing material into larger, meaningful units.
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — summarization can overload novices if the source material exceeds working-memory capacity.
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — the theoretical framework for managing the demands summarization imposes.
+- [Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels](higher-hierarchy-levels-recalled-better.md) — related
+- [Summarization Effective With Training](summarization-effective-with-training.md) — possibly the same claim (merge candidate)
+- [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related
+- [Peer Assessment Improves Performance](peer-assessment-improves-performance.md) — related

@@ -41,4 +41,9 @@ Unsupervised structural topic models estimated separately for each of four simul
 
 
 ## Related Claims
--
+- [Simulation-response convergence was corroborated by survey-based changes in mindsets and practices and by human rater ratings for Roster Justice](convergence-corroborated-by-surveys-and-human-raters.md) — related
+- [In the Jeremy's Journal simulation, Equality-mindset participants more often cited school policy while Equity-mindset participants prioritized the student's health](jeremy-journal-topics-track-equality-equity-mindsets.md) — a narrower finding that bears on this claim
+- [Low-equity participants' simulation responses converged over successive simulations toward those of a high-equity reference group](low-equity-participants-converge-toward-high-equity-responses.md) — a narrower finding that bears on this claim
+- [In Coach Wright, Asset-mindset participants noticed Jeremy's positive behaviors while Deficit-mindset participants framed behavior as rule compliance, and strength language sometimes appeared without referencing actual strengths](coach-wright-topics-track-asset-deficit-mindsets.md) — a narrower finding that bears on this claim
+- [In Roster Justice, Avoidant-mindset participants described roster disparities in racially neutral terms while Aware-mindset participants named the racialized nature of the disparity](roster-justice-topics-track-avoidant-aware-mindsets.md) — a narrower finding that bears on this claim
+- [In Layers, Context-Centered-mindset participants drew on students' communities and home lives while Context-Neutral-mindset participants adapted content without students' out-of-school experiences](layers-topics-track-context-centered-mindsets.md) — a narrower finding that bears on this claim

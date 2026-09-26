@@ -58,4 +58,8 @@ Experiment 2 certainty analysis: three-way strategy-by-accuracy-by-certainty int
 
 
 ## Related Claims
--
+- [Students recognize more belief-consistent science facts than belief-inconsistent facts, an effect appearing on recognition but not recall tests](belief-consistent-facts-better-recognized.md) — related
+- [Elaborative-interrogation learning gains are durable, with performance maintained up to six months after study](durable-elaborative-interrogation-gains-six-months.md) — related
+- [Elaborative interrogation produced greater pretest-to-posttest gains on items about common misbeliefs than reading control in Experiment 2](elaborative-interrogation-improves-misbelief-items-pretest-posttest.md) — related
+- [Elaborative interrogation instructions produce better recall and recognition of science facts than reading-for-understanding instructions](elaborative-interrogation-improves-science-fact-learning.md) — related
+- [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) — a broader claim this one bears on

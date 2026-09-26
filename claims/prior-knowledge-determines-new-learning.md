@@ -62,3 +62,6 @@ This claim is one of the most robust premises in educational psychology, but its
 - [Analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md) — analogies leverage existing knowledge to structure unfamiliar content
 - [Cognitive disequilibrium motivates conceptual change.](cognitive-disequilibrium-motivates-conceptual-change.md) — how inaccurate prior knowledge is confronted and revised
 - [Expertise reversal effect.](../theories/expertise-reversal-effect.md) — prior knowledge determines which scaffolds help and which hinder
+- [Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for theoretical content (TUG-K r=0.59) and more weakly for descriptive content (DIRECT r=0.50)](lctsr-prescore-correlates-content-gains-theoretical-strongest.md) — reports the opposite
+- [Teacher Student Relationships Improve Engagement And Achievement](teacher-student-relationships-improve-engagement-and-achievement.md) — related
+- [Synaptic connectionism is argued to be implausible for complex cognition because synaptic plasticity has been studied only as an analog of simpler learning forms](synaptic-connectionism-implausible-complex-cognition.md) — related

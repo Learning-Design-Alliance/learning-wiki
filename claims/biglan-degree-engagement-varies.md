@@ -58,4 +58,9 @@ Results section, Table 5: degree of engagement difference in means .49 for life/
 
 
 ## Related Claims
--
+- [Intensity of publicly engaged activity is higher in applied (2.29 vs 1.76) and life (2.28 vs 1.63) disciplines, with no significant hard/soft difference](biglan-intensity-activity-varies.md) — related
+- [Main types of publicly engaged scholarship vary by Biglan dimension: applied faculty report more research, teaching, and service; hard faculty more commercialized activities; life faculty more research and service](biglan-main-types-engaged-scholarship.md) — related
+- [Faculty in applied, hard, and life disciplines are more likely than colleagues in pure, soft, and nonlife disciplines to report publicly engaged scholarship overall](biglan-dimensions-vary-overall-engaged-scholarship.md) — related
+- [Subtypes of publicly engaged scholarship vary by Biglan dimension, with applied faculty reporting five subtypes more often and soft faculty reporting two](biglan-subtypes-engaged-scholarship.md) — related
+- [No instances of service-learning were reported on the RPT forms, an unexpected null the authors attribute partly to the form's design](no-service-learning-reported-rpt-forms.md) — related
+- [Student subject matter orientation differs significantly from faculty perceptions of departmental characteristics](student-faculty-subject-matter-mismatch.md) — related

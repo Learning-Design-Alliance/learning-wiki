@@ -41,4 +41,5 @@ Frequency analysis across the 88 active learning conditions coded in the systema
 
 
 ## Related Claims
--
+- [Most active learning college science conditions contain a substantial lecture component despite the active-learning-versus-lecture dichotomy](active-learning-courses-retain-lecture-component.md) — related
+- [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related

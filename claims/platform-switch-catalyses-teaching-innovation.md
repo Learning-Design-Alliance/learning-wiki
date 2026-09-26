@@ -41,4 +41,6 @@ Findings from Period 2 of the case study: after testing the updated Collaborate 
 
 
 ## Related Claims
--
+- [Challenges of blended delivery catalyse opportunities for teacher agency growth](blended-challenges-catalyse-agency-growth.md) — a broader claim this one bears on
+- [Teachers' voluntary individual adoption activities fall into two categories — investigating new computer resources and experimenting with altered teaching methods and classroom arrangements — associated with informational through consequence stages of concern](voluntary-investigation-and-experimentation-adoption-activities.md) — related
+- [Early self- and task-related concerns are maintained alongside later impact concerns as adoption of complex technologies advances, modifying the sequential CBAM conception](early-concerns-maintained-alongside-later-concerns.md) — related

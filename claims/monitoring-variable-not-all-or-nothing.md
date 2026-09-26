@@ -41,4 +41,5 @@ The only test case of the pull-up hypothesis in Figure 4 is subject-verb agreeme
 
 
 ## Related Claims
--
+- [Monitoring significantly improves a second language learner's accuracy on learnable rules (subject-verb agreement, regular past tense) in the most monitored style](monitoring-improves-learnable-rule-accuracy.md) — related
+- [Monitoring lowers accuracy for unlearnable rules: preposition usage was significantly less accurate in the more monitored style](monitoring-lowers-preposition-accuracy.md) — related

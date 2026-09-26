@@ -41,4 +41,6 @@ In the TEOG booklet DIF analysis, items 2 and 13 in Booklet A occupy 3rd and 14t
 
 
 ## Related Claims
--
+- [Items flagged as DIF were generally positioned at considerably different places between booklets, suggesting position-related DIF](dif-items-differently-positioned-across-booklets.md) — reports the opposite
+- [The polytomous DFIT framework shows Type I error rates close to nominal alpha except when the number of DIF items and DIF magnitude are highest](polytomous-dfit-type-i-error-near-alpha.md) — related
+- [An item positioned later in one booklet was found more difficult by that booklet's test takers, attributed to fatigue effect](later-position-item-more-difficult-fatigue-effect.md) — related

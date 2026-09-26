@@ -41,4 +41,7 @@ Descriptive survey of 1409 student teachers at a Turkish university in 2015-2016
 
 
 ## Related Claims
--
+- [Entity theory correlates positively with performance goal orientation and incremental theory with learning goal orientation among student teachers](mindset-goal-orientation-correlation-student-teachers.md) — related
+- [Incremental theory and performance goal orientation differ across university departments, but entity and learning goal orientation do not](department-differences-mindset-goal-orientation.md) — related
+- [Intelligence-perception scores differ by class year, with fourth-year students more incremental and second-year students more entity-oriented](class-level-mindset-differences.md) — related
+- [Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions](gender-performance-goal-orientation-females-higher.md) — related

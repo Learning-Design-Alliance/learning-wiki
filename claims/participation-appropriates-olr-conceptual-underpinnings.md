@@ -41,4 +41,7 @@ Participant-observer analysis of students' Online Learning Record observations a
 
 
 ## Related Claims
--
+- [Contradictions surrounding the OLR drove students to appropriate it, transforming it from an object of confusion into an instrument of critical reflection](contradictions-transform-olr-into-reflection-instrument.md) — related
+- [Some students expanded and generalized class tools and rhetorical concepts into their own activities beyond the course](expansion-generalization-beyond-classroom.md) — related
+- [Class conflicts with the OLR led to course changes: sample OLRs from nonnative speakers were implemented and a simplified version and online interface are in progress](olr-conflicts-drive-course-changes.md) — related
+- [Students' appropriation of class interaction practices was mediated by prior sociohistorical educational experiences](prior-practices-mediate-class-interaction-appropriation.md) — related

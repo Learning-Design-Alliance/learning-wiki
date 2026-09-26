@@ -58,4 +58,10 @@ Theoretical argument stated in the introduction: the literature on education "sh
 
 
 ## Related Claims
--
+- [Contact between societies does not by itself produce cross-cultural understanding](contact-does-not-yield-understanding.md) — related
+- [In the analyzed school ethnography, stereotyping operates as a rationalization process that constructs uniformities, and the ghetto label privileges white culture's standards and evaluation networks](stereotyping-operates-as-rationalization-producing-inequality-in-school.md) — a narrower finding that bears on this claim
+- [In a pedagogical space, epistemic injustice might be activated when teachers' identity prejudice leads them to give a student less credit, and the curriculum can block or enable students' understanding and expression of their social experiences](teacher-identity-prejudice-and-curriculum-can-enact-epistemic-injustice-toward-students.md) — a narrower finding that bears on this claim
+- [In the analyzed school setting, black girls experience testimonial injustice as direct discrimination and hermeneutical injustice as indirect, structural discrimination that personal effort cannot erode](black-girls-face-testimonial-and-structural-hermeneutical-injustice-in-school.md) — a narrower finding that bears on this claim
+- [In the ethnography the article analyzes, black girls bussed to an affluent suburban school were unpopular and socially excluded for being seen as loud and ghetto, while black boys were classified as incapable of academic achievement](gender-performance-grounds-exclusion-of-bussed-black-students-in-suburban-school.md) — a narrower finding that bears on this claim
+- [Eradicating hermeneutical injustice requires sufficient social equality in general, not only slight interpersonal hermeneutical empowerments](eradicating-hermeneutical-injustice-requires-social-equality.md) — related
+- [Wikipedia editing reproduces inequalities in editors, topics and credible knowledge, but feminist edit-a-thons can redress cultural injustice](wikipedia-editing-inequality-and-edit-a-thons.md) — a narrower finding that bears on this claim

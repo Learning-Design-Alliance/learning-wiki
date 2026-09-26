@@ -41,4 +41,6 @@ In the same two-way ANOVA of 116 preschool children, the TOM main effect (Sally-
 
 
 ## Related Claims
--
+- [Executive function performance significantly predicts semantic fluency in preschool children](ef-significant-effect-semantic-fluency-preschool.md) — related
+- [No interaction effect of executive functions and theory of mind on semantic fluency in preschool children](no-ef-tom-interaction-semantic-fluency.md) — related
+- [Preschool children who pass both EF and TOM tests score significantly higher on semantic fluency than children who fail both](pass-both-ef-tom-higher-semantic-fluency.md) — related

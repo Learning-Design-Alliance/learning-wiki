@@ -58,4 +58,10 @@ The article reports Dewey's position, citing Westbrook and Eastman, that moderni
 
 
 ## Related Claims
--
+- [Deweyan principles of democratic localization of the education system and school autonomy were never implemented in any period of Turkish education history](dewey-localization-autonomy-unimplemented-turkish-education.md) — related
+- [Inclusion of students with disabilities often falls short because efforts start from a place of exclusion, making students guests who must earn access](disability-inclusion-starts-from-exclusion.md) — related
+- [The Republic's education project espoused equality of opportunity and coeducation as discourse, but in practice a mentality turning these principles into their opposites prevailed](equality-discourse-versus-practice-turkish-education.md) — a broader claim this one bears on
+- [Advanced technology's hyperinteractivity can intensify social inequality in education](hyperinteractivity-can-intensify-inequality.md) — related
+- [The article concludes there is an irreconcilable conflict between the values of Turkish modernization and the libertarian and democratic values Dewey advocates](irreconcilable-conflict-turkish-modernization-dewey-values.md) — a broader claim this one bears on
+- [The Republic's top-down education method contradicts Dewey's pedagogical principles and his understanding of democracy](top-down-education-method-contradicts-dewey.md) — a broader claim this one bears on
+- [Turkish modernization is a state-centered project that is at the same time an education project, distinguishing it from Western examples](turkish-modernization-state-centered-education-project.md) — related

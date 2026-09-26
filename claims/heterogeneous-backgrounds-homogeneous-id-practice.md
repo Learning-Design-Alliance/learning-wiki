@@ -41,4 +41,5 @@ In the Montreal replication survey, introductions to ID varied (47% formal unive
 
 
 ## Related Claims
--
+- [No significant differences in step performance across job title, position, duties, introduction to ID, or experience](no-demographic-differences-id-step-performance.md) — possibly the same claim (merge candidate)
+- [Only a small number of model designers follow all steps all of the time](minority-of-designers-follow-all-steps.md) — related

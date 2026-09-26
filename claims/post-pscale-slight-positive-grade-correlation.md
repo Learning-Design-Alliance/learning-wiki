@@ -41,4 +41,5 @@ Regression of final course grade on post-course pscale. The article reports r2=0
 
 
 ## Related Claims
--
+- [Students describe on average half an additional expansive strategy by semester's end (effect size 0.6)](expansive-strategies-increase-half-per-student.md) — related
+- [Pre-course problem-solving preference does not predict final course grade](pre-pscale-no-correlation-with-grade.md) — related

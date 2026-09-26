@@ -41,4 +41,9 @@ Author's conclusion from comparing the component structures of the career-develo
 
 
 ## Related Claims
--
+- [Canonical analysis of IAR and CDR factor scores yields two nontrivial canonical functions (R = .644 and .463)](canonical-two-functions-locus-control.md) — related
+- [Principal components analyses of both the IAR and CDR yield eleven components with eigenvalues of one or greater](eleven-components-iar-cdr.md) — a narrower finding that bears on this claim
+- [IAR and CDR factor scores intercorrelate too weakly to confirm the two instruments measure the same locus of control construct](iar-cdr-factor-scores-low-intercorrelations.md) — a narrower finding that bears on this claim
+- [Academic achievement is significantly correlated with locus of control for normal adolescents but not for delinquent adolescents](achievement-locus-correlation-only-normal-adolescents.md) — related
+- [Locus of control scores show no significant main effects of behavioral condition (normal vs. delinquent) or sex](no-group-or-sex-effect-on-locus-of-control.md) — related
+- [Prior evidence suggested locus of control relates to achievement independently of intelligence, which the present results contradict for delinquent adolescents](prior-claim-achievement-independent-of-intelligence-questioned.md) — related

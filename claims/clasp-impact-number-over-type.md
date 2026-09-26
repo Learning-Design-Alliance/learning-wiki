@@ -41,4 +41,7 @@ The evaluation found that despite increased frequency in CLASP activities, there
 
 
 ## Related Claims
--
+- [CLASP succeeded in bringing ethnically diverse and underserved users into the library but programs often failed to create links to books, reading, or library services](clasp-diverse-users-missing-library-links.md) — related
+- [CLASP successfully established library use among children, reaching thousands of new users who were highly satisfied with programs](clasp-successful-library-use-children.md) — related
+- [CLASP made limited progress on cooperative activities and little progress on developing replicable collaboration models](clasp-limited-collaboration-models.md) — related
+- [Communication, cooperation, and coordination were the most critical factors in successful CLASP programming](clasp-critical-success-factors-communication.md) — related

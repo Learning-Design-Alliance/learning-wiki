@@ -41,4 +41,4 @@ A sidebar in the access section describes the Hiawassee one-to-one e-learning in
 
 
 ## Related Claims
--
+- [West Virginia's ten-year basic technology skills program was associated with an 11 percent gain in standardized test scores and a rise in state achievement ranking](west-virginia-basic-tech-gains.md) — related

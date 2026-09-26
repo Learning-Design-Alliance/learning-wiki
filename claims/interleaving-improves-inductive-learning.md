@@ -55,3 +55,7 @@ A multilevel meta-analysis of 59 studies comparing interleaved to blocked presen
 - [Cognitive flexibility theory: multiple cases.](../patterns/cognitive-flexibility-theory.md) — varied, interleaved cases build flexible, transferable knowledge
 - [Cognitive disequilibrium motivates conceptual change.](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) — the productive difficulty of interleaving can drive reevaluation of strategies
 - [Cognitive load reduction improves learning.](../claims/cognitive-load-reduction-improves-learning.md) — interleaving imposes load that must be managed for the discriminative benefit to emerge
+- [Interleaved Practice Improves Retention](interleaved-practice-improves-retention.md) — possibly the same claim (merge candidate)
+- [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — a narrower finding that bears on this claim
+- [Interleaving Improves Learning](interleaving-improves-learning.md) — possibly the same claim (merge candidate)
+- [Interleaving Improves Transfer](interleaving-improves-transfer.md) — possibly the same claim (merge candidate)

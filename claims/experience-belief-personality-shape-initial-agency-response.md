@@ -41,4 +41,5 @@ Findings from Period 1 of the case study, synthesising written reflection and em
 
 
 ## Related Claims
--
+- [Teacher agency development proceeds through temporal phases in which different subsystems dominate](agency-subsystems-dominate-temporally.md) — related
+- [Challenges of blended delivery catalyse opportunities for teacher agency growth](blended-challenges-catalyse-agency-growth.md) — related

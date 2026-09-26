@@ -60,3 +60,6 @@ The authors’ discussion of the same experiment: "The present data did not supp
 ## Related Claims
 - [Self Controlled Kr Decided After Trial Improves Motor Retention](self-controlled-kr-decided-after-trial-improves-motor-retention.md)
 - [Self Controlled Kr Decided After Trial Improves Motor Transfer](self-controlled-kr-decided-after-trial-improves-motor-transfer.md)
+- [During motor practice with knowledge of results, all groups reduced absolute error across blocks, and groups whose KR decision fell after the trial were more accurate during practice than groups whose decision fell before it, independent of choice.](motor-practice-accuracy-improves-across-blocks-and-favors-after-decision-groups.md) — related
+- [Learners allowed to make a knowledge-of-results decision before a trial and revise it after (Self-Both) mostly kept their original choice but sometimes changed it after seeing their own performance.](learners-given-two-kr-decisions-mostly-keep-their-first-choice.md) — related
+- [Learners who could decide after a trial whether to receive knowledge of results estimated their own movement outcomes more accurately in retention than Self-Before learners and their yoked counterparts.](self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy.md) — related

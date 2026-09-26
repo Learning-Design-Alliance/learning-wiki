@@ -41,4 +41,5 @@ Single-school descriptive outcome reported in the Results section; the article r
 
 
 ## Related Claims
--
+- [Out-of-school suspensions decreased 41% at a middle school implementing PBIS under the TEAM Student framework](pbis-suspensions-decreased-41-percent.md) — related
+- [Parent involvement increased for three consecutive years under family-centered engagement approaches](parent-involvement-increased-three-years.md) — related

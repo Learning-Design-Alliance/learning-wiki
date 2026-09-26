@@ -40,4 +40,5 @@ Qualitative finding from faculty interviews and observations of Course B, a Flex
 
 
 ## Related Claims
--
+- [A Flexible problem-solving approach within a Fixed-Cooperative course appeared to support cooperative learning](flexible-problem-solving-supports-cooperative-learning.md) — related
+- [PjBL assessment research should evaluate outcomes across all four quadrants, not only Flexible-Cooperative designs](assess-pjbl-outcomes-across-quadrants.md) — related

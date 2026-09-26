@@ -41,4 +41,6 @@ The report's Executive Summary presents estimates of ACE engagement with the nat
 
 
 ## Related Claims
--
+- [ACE's main VET contribution is General Education and Training (around 20% of provision), with around 10% in non-industry-specific occupational training and little in industry-specific training](ace-vet-contribution-concentration-general-education.md) — related
+- [ACE providers deliver VET to equity target groups and to rural and remote communities where other VET provision is limited or non-existent](ace-vet-equity-groups-rural-remote-delivery.md) — related
+- [General Adult Education remains the heartland of the ACE sector, forming no less than 70% of ACE provision](general-adult-education-heartland-ace-sector.md) — related

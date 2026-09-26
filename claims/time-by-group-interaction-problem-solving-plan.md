@@ -58,4 +58,8 @@ The interaction is described as disordinal and strongest for females who receive
 
 
 ## Related Claims
--
+- [Females gained significantly when the formatted plan followed free exploration but scored lower when the plan was withheld](females-benefit-free-exploration-then-plan.md) — related
+- [No significant gender difference in word-problem performance on either formatted or unformatted test forms](no-gender-difference-either-test-form.md) — related
+- [Retention differs by type of knowledge tested, with concepts and rules retained best and problem solving worst](retention-varies-by-knowledge-type.md) — related
+- [In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains](srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep.md) — related
+- [SRL interventions in a four-week online mathematics preparation course did not significantly change the mathematics overall score (interaction marginal), while the mathematics focus score on self-chosen chapters showed a statistically significant group by time interaction](srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course.md) — related

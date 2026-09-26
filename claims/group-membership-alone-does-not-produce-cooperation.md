@@ -41,4 +41,4 @@ This is the handbook's preface argument, a conceptual distinction drawn from dic
 
 
 ## Related Claims
--
+- [Many practices in adult literacy programs violate principles of learning for adults, including short-timeframe funding, isolated individualized learning, ignored learner experience, and non-meaningful materials](adult-literacy-programs-violate-adult-learning-principles.md) — related

@@ -41,4 +41,8 @@ Generalized ordered logistic regression on survey and administrative data from 5
 
 
 ## Related Claims
--
+- [Black students are more likely to complete the apprenticeship component of LC101 when accounting for all other factors, suggesting alternative STEM programs may represent vehicles for racial equity in STEM](black-students-more-likely-complete-apprenticeship.md) — related
+- [Almost 10 percent of students from the first two cohorts of the CNMCC Breaking Through Construction Apprenticeship Program entered a formal apprenticeship](breaking-through-cohorts-enter-apprenticeships.md) — related
+- [Educational attainment is not significantly associated with persistence in either the coursework or apprenticeship phase of the LC101 program](educational-attainment-not-associated-lc101-persistence.md) — related
+- [Mentorship timing has divergent effects on LC101 persistence: post-application mentorship increases course completion odds while pre-application mentorship decreases persistence across both phases](mentorship-timing-divergent-persistence-effects.md) — related
+- [Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence](qualitative-experience-themes-lc101-persistence.md) — related

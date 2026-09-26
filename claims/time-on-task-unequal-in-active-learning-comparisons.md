@@ -41,4 +41,7 @@ Study-level time-on-task analysis in the review's structure/design source of var
 
 
 ## Related Claims
--
+- [Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions](active-learning-conditions-more-other-pedagogical-features.md) — related
+- [Most active learning college science conditions contain a substantial lecture component despite the active-learning-versus-lecture dichotomy](active-learning-courses-retain-lecture-component.md) — related
+- [Most active learning comparison studies differ on more than one course feature, limiting attribution of effects to single features](most-comparisons-differ-on-multiple-features.md) — a broader claim this one bears on
+- [Post-2014 comparison studies still most commonly contrast one active learning condition with one lecture condition](studies-still-compare-active-learning-versus-lecture.md) — related

@@ -41,4 +41,5 @@ An observational display of district achievement testing data (Figure 4) compari
 
 
 ## Related Claims
--
+- [Self-affirmation improves outcomes](self-affirmation-improves-outcomes.md) — related
+- [Effective teachers compound their advantage over consecutive years, and low-achieving students are disproportionately assigned to ineffective ones](teacher-effectiveness-compounds-over-consecutive-years.md) — related

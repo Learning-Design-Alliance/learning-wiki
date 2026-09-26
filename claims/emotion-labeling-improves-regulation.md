@@ -55,3 +55,6 @@ Kircanski, K., Lieberman, M. D., & Craske, M. G. (2012). Feelings into words: Co
 - [Brief intervention: empathic discipline cuts suspensions.](brief-intervention-empathic-discipline-cuts-suspensions.md) — teacher-side practice of reappraising student behavior, the counterpart to student-side emotion labeling
 - [Building empathy improves intergroup attitudes.](building-empathy-improves-intergroup-attitudes.md) — perspective-taking and emotion recognition overlap with the labeling skill
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — the theoretical frame in which monitoring and controlling one's own states drives learning
+- [Attending to affect in co-design supports community formation and cross-scale transfer](attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) — related
+- [Adolescents rely more on the amygdala and less on frontal regions than adults when processing emotional stimuli, and younger teens often misread facial expressions](adolescents-amygdala-driven-emotion-processing.md) — related
+- [Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking](students-prefer-peer-support-diversion-over-professional-help.md) — related

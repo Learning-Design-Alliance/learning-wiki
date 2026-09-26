@@ -41,4 +41,5 @@ Study under NSF CCLI grant DUE-0633317 comparing a group taking CLASP first quar
 
 
 ## Related Claims
--
+- [Bioscience students who took the CLASP series had statistically significantly higher upper-division GPAs than students who took the traditional Physics 5 series](clasp-higher-udgpa-than-physics5.md) — related
+- [Only bioscience graduates who took CLASP (2000-2001) had significantly higher UDGPA than transfer students in their majors, unlike 1993-1994 graduates and non-bioscience majors](clasp-bio-freshmen-beat-transfers-udgpa.md) — related

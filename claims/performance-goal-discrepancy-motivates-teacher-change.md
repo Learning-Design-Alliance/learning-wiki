@@ -41,4 +41,6 @@ Theoretical argument in the 'Change in the Classroom' chapter, explicitly footno
 
 
 ## Related Claims
--
+- [Misconceptions Interfere With New Learning](misconceptions-interfere-with-new-learning.md) — related
+- [Personalized Normative Feedback Corrects Misperceived Norms](personalized-normative-feedback-corrects-misperceived-norms.md) — related
+- [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related

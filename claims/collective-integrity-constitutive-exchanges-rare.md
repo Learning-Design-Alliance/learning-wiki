@@ -41,4 +41,7 @@ Rhetorical analysis of three papers in this context, one series invited by the j
 
 
 ## Related Claims
--
+- [In the regulative knowledge/constitutive community context, argument proceeds by contention and fortification](constitutive-community-context-contention-and-fortification.md) — related
+- [In the fully regulative context, critique proceeds by methodological correctness or paradigmatic positioning](regulative-context-critique-methodological-or-paradigmatic.md) — related
+- [In the constitutive knowledge/regulative community context, critique targets interpretive appropriateness rather than execution](interpretive-appropriateness-context-critique.md) — related
+- [Comments and replies are rare in the research and scholarly literature](comments-replies-rare-in-scholarly-literature.md) — related

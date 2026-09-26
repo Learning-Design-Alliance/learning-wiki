@@ -41,4 +41,6 @@ Listed among the product variables of the Dunkin and Biddle model framing the st
 
 
 ## Related Claims
--
+- [High teacher mediation is associated with more children talking and higher frequency of both elaborated and restricted talk](high-mediation-more-child-talk-both-codes.md) — related
+- [More children who could shift codes were found in the classroom of the highest mediating teacher](code-shifting-highest-mediating-teacher.md) — related
+- [Teacher mediation interacts with SES: the SES gap in elaborated utterances appears only in the low-mediating classroom](mediation-ses-interaction-elaborated-utterances.md) — related

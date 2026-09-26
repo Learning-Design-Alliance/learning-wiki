@@ -78,3 +78,6 @@ The practical tension this claim describes sits directly alongside [interest-aro
 - [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](overjustification-effect-reduces-intrinsic-motivation.md) — both describe a well-intentioned motivational tactic that can backfire under identifiable conditions
 
 Also relevant: [Cognitive Load Theory](../theories/cognitive-load-theory.md) — seductive details function as a specific, interest-motivated source of extraneous cognitive load
+- [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) — a broader claim this one bears on
+- [Decorative Illustrations Do Not Improve Learning](decorative-illustrations-do-not-improve-learning.md) — a broader claim this one bears on
+- [Interesting but irrelevant details impair learning](seductive-details-effect.md) — a broader claim this one bears on

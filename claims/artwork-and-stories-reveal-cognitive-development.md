@@ -41,4 +41,4 @@ Authors' interpretation in the Implications section, drawing on Protherough's (1
 
 
 ## Related Claims
--
+- [For 10 of 15 first-graders, literacy development was determined by cognitive development, with artistic responses paralleling the classification](literacy-development-parallels-cognitive-stage-in-first-graders.md) — a narrower finding that bears on this claim

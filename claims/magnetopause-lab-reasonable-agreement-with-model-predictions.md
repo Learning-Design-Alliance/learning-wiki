@@ -58,4 +58,6 @@ Authors' summary statement from the abstract describing the overall outcome of t
 
 
 ## Related Claims
--
+- [Students find magnetopause crossings well in magnetic field data but have more difficulty with particle data, and some data sets contain no crossings at all](magnetopause-lab-crossing-search-field-versus-particle-data.md) — related
+- [Students' empirical fits of simulated magnetopause locations show good internal agreement, though student estimates and simulation-calculated locations often disagree beyond uncertainties](magnetopause-lab-student-fits-agree-internally-but-differ-from-simulation-values.md) — related
+- [Using a stair-step pattern of solar wind input conditions in the simulation portion of the lab led to much better student results than linearly varying conditions](stair-step-solar-wind-inputs-improve-lab-results.md) — related

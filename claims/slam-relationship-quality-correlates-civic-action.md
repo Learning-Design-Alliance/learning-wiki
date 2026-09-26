@@ -41,4 +41,9 @@ Correlational analyses of CASQ and NRI-SPV scores among mentored students (MG, n
 
 
 ## Related Claims
--
+- [Conflict and antagonism with community partners negatively correlate with social justice and diversity attitudes](community-partner-conflict-negatively-correlates-social-justice.md) — related
+- [Learner-centered teacher–student relationships improve student outcomes](learner-centered-teacher-student-relationships-are-effective.md) — related
+- [Peer mentoring by SLAMs increases posttest civic action scores in service-learning courses](peer-mentoring-increases-civic-action-service-learning.md) — related
+- [Peer mentoring shows a trend toward higher posttest social justice attitudes](peer-mentoring-trend-social-justice-attitudes.md) — related
+- [Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged](positive-relationships-increase-civic-engagement-intention.md) — a broader claim this one bears on
+- [Professor-student relationship quality correlates with multiple civic engagement outcomes in both directions](professor-relationship-quality-civic-engagement-bidirectional.md) — a broader claim this one bears on

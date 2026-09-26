@@ -41,4 +41,6 @@ Descriptive impact data from the standard setting panels across grades 4, 6, 8, 
 
 
 ## Related Claims
--
+- [A body of work standard setting process produced classification agreement rates ranging from 71% to 97% for an alternate portfolio assessment](body-of-work-agreement-rates-71-97.md) — related
+- [A mean-classification cut-score method outperformed a contrasting-groups-style mean method because it was more robust to outliers](mean-classification-cut-score-method-robust.md) — related
+- [Presenting ordered portfolios led panelists to shift toward a bookmarking-like mental process, contaminating independent classification](ordered-portfolio-presentation-contamination.md) — related

@@ -58,4 +58,6 @@ A separate Executive Summary statement attributes ACE delivery in rural and remo
 
 
 ## Related Claims
--
+- [ACE providers are increasingly delivering recognised outcomes in the national VET system, with around 180 registered providers and 1.5-2% of national VET course activity](ace-providers-delivering-recognised-vet-outcomes.md) — related
+- [ACE's main VET contribution is General Education and Training (around 20% of provision), with around 10% in non-industry-specific occupational training and little in industry-specific training](ace-vet-contribution-concentration-general-education.md) — related
+- [General Adult Education remains the heartland of the ACE sector, forming no less than 70% of ACE provision](general-adult-education-heartland-ace-sector.md) — related

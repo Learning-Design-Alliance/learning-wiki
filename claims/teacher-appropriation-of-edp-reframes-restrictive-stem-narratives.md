@@ -46,3 +46,9 @@ This is a single-case study (n=1) with research questions about appropriation an
 
 ## Related Claims
 - (none yet linked)
+- [Teacher agency development proceeds through temporal phases in which different subsystems dominate](agency-subsystems-dominate-temporally.md) — related
+- [Assigned subject names are inherently obsolescent with respect to both past and future discourses (Buckland's account)](assigned-names-inherently-obsolescent-buckland.md) — related
+- [A six-step C/I cycle administered in two engineering physics classes guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric](ci-cycle-metric-guided-solution-quarry-problem.md) — related
+- [Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances](course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances.md) — related
+- [Participant examples support identity reconstruction through academic content](participant-examples-support-identity-reconstruction-through-academic-content.md) — related
+- [Reflexive noticing shifts teacher discourse from stabilization to possibility, while surprises alone often re-stabilize it](reflexive-noticing-shifts-stabilization-to-possibility-discourse.md) — related

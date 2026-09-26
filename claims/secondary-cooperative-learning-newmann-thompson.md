@@ -58,4 +58,7 @@ Method comparison within the same secondary review. The authors speculated that 
 
 
 ## Related Claims
--
+- [Group rewards combined with individual accountability make cooperative learning effective](cooperative-learning-group-rewards-and-individual-accountability.md) — related
+- [Cooperative biology instruction raised achievement and improved perceived classroom atmosphere in Israeli junior high studies](lazarowitz-cooperative-biology-achievement.md) — a narrower finding that bears on this claim
+- [Cooperative learning without individual accountability produces free-riding that reduces learning outcomes](cooperative-learning-free-rider-without-accountability.md) — related
+- [Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons](cooperative-learning-achievement-synthesis-slavin.md) — a broader claim this one bears on

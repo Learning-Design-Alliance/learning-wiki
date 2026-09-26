@@ -41,4 +41,4 @@ Narrative review of neurotransmitter changes, citing Steinberg (2011) and Cohen 
 
 
 ## Related Claims
--
+- [During early and mid-adolescence, brain reward and emotion systems are more developed than cognitive control systems, leaving self-regulation developmentally out of balance](adolescent-brain-imbalance-reward-versus-control.md) — related

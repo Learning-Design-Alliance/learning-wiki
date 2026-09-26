@@ -41,4 +41,4 @@ Summary statement of the ERIC Digest. It calls ARCS "an easy-to-apply, heuristic
 
 
 ## Related Claims
--
+- [Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed](effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) — related

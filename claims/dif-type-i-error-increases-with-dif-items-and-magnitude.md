@@ -41,4 +41,7 @@ Simulation results across conditions varying two versus four DIF items and .10 v
 
 
 ## Related Claims
--
+- [The polytomous DFIT framework shows Type I error rates close to nominal alpha except when the number of DIF items and DIF magnitude are highest](polytomous-dfit-type-i-error-near-alpha.md) — related
+- [DIF detection rates for all indices are higher with larger samples, equivalent distributions, fewer DIF items, greater DIF magnitude, and larger a-parameters](polytomous-dif-detection-rate-factors.md) — related
+- [Test length, focal group distribution, number of DIF items, and direction of DIF had little effect on detection rates](polytomous-dfit-factors-little-effect.md) — related
+- [The polytomous-DFIT framework effectively identified DTF and DIF in polytomously scored data under the simulated conditions](polytomous-dfit-effective-dif-detection-simulation.md) — related

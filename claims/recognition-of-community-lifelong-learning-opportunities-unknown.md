@@ -41,4 +41,4 @@ Authors' framing of the research gap in the Research Recommendations section; no
 
 
 ## Related Claims
--
+- [Reacculturation into a new community is argued to be virtually impossible alone and to require collaboration](reacculturation-into-a-new-community-requires-collaboration.md) — related

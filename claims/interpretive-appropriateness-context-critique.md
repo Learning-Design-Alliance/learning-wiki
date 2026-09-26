@@ -41,4 +41,7 @@ Rhetorical analysis of six papers spanning topics from a tenants' movement to wi
 
 
 ## Related Claims
--
+- [Fully constitutive exchanges are rare and proceed by collective integrity](collective-integrity-constitutive-exchanges-rare.md) — related
+- [In the regulative knowledge/constitutive community context, argument proceeds by contention and fortification](constitutive-community-context-contention-and-fortification.md) — related
+- [Constructivist responses to Objectivist criticism have redirected rather than addressed the specific questions raised](constructivist-responses-redirect-objectivist-criticisms.md) — related
+- [In the fully regulative context, critique proceeds by methodological correctness or paradigmatic positioning](regulative-context-critique-methodological-or-paradigmatic.md) — related

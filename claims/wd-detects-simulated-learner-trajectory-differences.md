@@ -58,4 +58,8 @@ Follow-up boxplot analyses for six prototypical learner types under design matri
 
 
 ## Related Claims
--
+- [Easy, highly specific simulated tasks compress the range of the WD statistic across learner types, while well-designed tasks widen it](easy-highly-specific-tasks-shrink-wd-range.md) — related
+- [The WD statistic is more useful for differentiating between simulated learner types when games are played longer](longer-games-sharpen-wd-learner-differentiation.md) — related
+- [Segmentation boundary choices differentially affect statistics computed on epistemic-game process data](segmentation-boundaries-differentially-affect-statistics.md) — related
+- [In the simulation, task complexity and task difficulty explain the majority of variance in the individual-learner WD statistic, with some effect of task specificity](task-complexity-and-difficulty-dominate-wd-variance.md) — related
+- [In pairwise WD analyses, learner trajectory similarity dominates variation in percentage-overlap values (57.90% of variation) while remaining design factors are essentially zero](trajectory-similarity-dominates-wd-pair-overlap.md) — related

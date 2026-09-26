@@ -75,4 +75,4 @@ The chapter reports Brewer and Unsworth (2012): working memory and attentional c
 
 
 ## Related Claims
--
+- [Retrieval practice benefits learners regardless of trait anxiety level, but higher trait or induced anxiety is associated with smaller testing effects](higher-anxiety-is-associated-with-smaller-testing-effects.md) — related

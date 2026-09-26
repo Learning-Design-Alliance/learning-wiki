@@ -41,4 +41,9 @@ Age-group ANOVA of weekly magazine article reading in the two-wave survey; means
 
 
 ## Related Claims
--
+- [Network television news exposure does not increase with age and shows little intergenerational similarity](network-news-exposure-no-age-increase.md) — related
+- [Television news specials viewing shows no substantial age increase in frequency but systematic increases in stability and parent-child similarity](news-specials-stability-similarity-increase.md) — related
+- [Late-evening local television news viewing increases with age and its consistency and parent-child similarity also rise](late-evening-local-news-increases-with-age.md) — related
+- [Parent-child similarity in newspaper exposure peaks during early adolescence (ages 12-14)](parent-child-newspaper-similarity-peaks-early-adolescence.md) — related
+- [Newspaper reading frequency increases systematically between ages 10 and 17 but remains below adult levels](newspaper-reading-increases-ages-10-17.md) — related
+- [Over-time consistency of newspaper reading rises to roughly adult levels by age 13](newspaper-consistency-adult-level-by-13.md) — related

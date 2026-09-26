@@ -60,3 +60,7 @@ Same experiment, prior-knowledge contrast on the CLM extraneous subscale: "no si
 ## Related Claims
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md)
 - [Expertise Reversal Effect](expertise-reversal-effect.md)
+- [Self-reported germane cognitive load correlates positively with interest (QCM) among college students solving algebra problems](germane-cognitive-load-correlates-positively-with-interest.md) — related
+- [Prior knowledge and worked-example type (full vs completion) interact significantly on self-reported germane cognitive load, but not on intrinsic or extraneous load](prior-knowledge-by-worked-example-type-interaction-on-germane-load.md) — related
+- [Prior knowledge, worked-example type (full vs completion) and task difficulty show a significant three-way interaction on an algebra posttest, but not on self-reported cognitive load](prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) — related
+- [Lower-prior-knowledge learners scored higher on an algebra posttest after full-worked than completion-worked examples, while higher-prior-knowledge learners' non-significant advantage ran the other way](lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples.md) — related

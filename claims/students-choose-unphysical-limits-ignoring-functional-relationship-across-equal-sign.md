@@ -41,4 +41,5 @@ Transcript analysis of two miniview groups solving an air resistance problem wit
 
 
 ## Related Claims
--
+- [Students initially leave variables out of their integration limits, using only numerical values, suggesting that variable ('running') limits of integration are unfamiliar](students-initially-omit-variables-from-integration-limits.md) — possibly the same claim (merge candidate)
+- [Intermediate mechanics students start the semester more familiar with the integration constants (+C) method than with the limits method, and the +C method remains preferred by at least one student even after instruction modeling the limits method](students-start-semester-more-familiar-with-integration-constants-method-than-limits-method.md) — related

@@ -40,4 +40,11 @@ Authors' recommendation from the discussion of their qualitative study. They not
 
 
 ## Related Claims
--
+- [PjBL courses in the studied program spanned multiple matrix quadrants, with no Fixed-Individualistic courses](pjbl-courses-span-multiple-quadrants.md) — related
+- [PjBL does not necessarily have to exhibit any particular combination of matrix attributes](pjbl-no-required-attribute-combination.md) — related
+- [Cooperative learning has drawbacks including slow learners depending on fast achievers, so teachers should stress both cooperative and individual work](cooperative-learning-versus-individual-endeavors.md) — related
+- [Cooperative learning without individual accountability produces free-riding that reduces learning outcomes](cooperative-learning-free-rider-without-accountability.md) — related
+- [Group rewards combined with individual accountability make cooperative learning effective](cooperative-learning-group-rewards-and-individual-accountability.md) — related
+- [A four-quadrant FEA-supported experiential module was implemented across three heat transfer topics without formal assessment](elt-fea-module-implemented-three-topics-unassessed.md) — related
+- [The most Flexible-Cooperative course demanded the most tolerance of uncertainty and the most time](flexible-cooperative-courses-demand-uncertainty-tolerance.md) — related
+- [A Flexible problem-solving approach within a Fixed-Cooperative course appeared to support cooperative learning](flexible-problem-solving-supports-cooperative-learning.md) — related

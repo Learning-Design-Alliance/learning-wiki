@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: sel-programs-improve-behavior-and-achievement
+aliases: [social-emotional-learning-improves-achievement, social-emotional-learning-programs-improve-achievement]
 evidence_strength: pending
 sources:
   - id: durlak-et-al-2011
@@ -84,6 +85,22 @@ A meta-analysis of 22 studies (17 universal, 5 targeted programs; 2011–2021) o
 
 **Evidence status.** No studies are currently catalogued on this page. The claim is widely reported in the SEL literature (notably meta-analytic syntheses of universal school-based programs), but per wiki policy no specific effect sizes or citations are asserted here until verified Evidence entries are added.
 
+*Merged from “Social Emotional Learning Improves Achievement” (social-emotional-learning-improves-achievement):* **Mechanism.** Plausible pathways from SEL to achievement include improved classroom behavior and engagement, better emotion regulation freeing working-memory resources for learning (see [Cognitive Load Theory](../theories/cognitive-load-theory.md)), and improved student–teacher and peer relationships that support participation (see [Belonging](../elements/belonging.md)). SEL programs may also raise achievement indirectly by reducing time lost to disruption and by increasing students' willingness to attempt and persist at challenging academic tasks.
+
+**Moderators and boundary conditions.** Effects are generally larger when programs are implemented well (SAFE features: sequenced, active, focused, explicit), when classroom teachers rather than external providers deliver them, and when programs are integrated with academic content rather than run as add-ons. Effects tend to be smaller in studies with weaker designs and may fade without sustained implementation. SEL is not a substitute for quality instruction; it operates as a complement to, not a replacement for, effective academic teaching (see [Active Learning](../principles/active-learning.md), [Assessment for Learning](../principles/assessment-for-learning.md)).
+
+**Constraints on generalization.** Achievement gains are typically small in magnitude and should not be oversold; programs implemented with poor fidelity or as brief, one-off interventions show little to no academic benefit [~W]. Effects appear weaker when SEL is delivered by external providers with no classroom-teacher involvement, and when programs are bolted on rather than woven into academic content [~M]. Some published evaluations rely on passive-consent samples or researcher-developed achievement measures, which can inflate estimates relative to independent standardized outcomes [~W].
+
+**Open questions.** The durability of achievement effects after program completion, differential effects across grade bands and subject areas, and the relative contribution of specific SEL skill domains remain under-studied. Evidence entries with effect sizes and study quality codes are needed before a strength rating can be assigned.
+
+*Merged from “Social Emotional Learning Programs Improve Achievement” (social-emotional-learning-programs-improve-achievement):* The proposed mechanism is indirect: SEL programs are hypothesized to improve achievement by building self-regulation and executive-function capacities (attention control, impulse management, goal pursuit) that free cognitive resources for academic work — consistent with [cognitive load management](../principles/cognitive-load-management.md) — and by improving classroom climate and student engagement, which increase time on task. This positions the claim downstream of better-established claims such as [Belonging interventions improve outcomes](belonging-interventions-improve-outcomes.md) and [Autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md).
+
+Boundary conditions matter. Effects are likely strongest when SEL instruction is explicit, sustained across multiple years, and integrated with — rather than substituted for — academic instruction; brief or bolt-on programs would be expected to show weaker academic effects. Programs implemented with poor fidelity, or in contexts where behavior is not the binding constraint on achievement, should show attenuated effects. There is also a plausible opportunity-cost concern: instructional time devoted to SEL competes with academic content, so the claim requires that the self-regulation and climate benefits outweigh that cost — an empirical question the field has not fully settled.
+
+Open questions include the durability of achievement effects after programs end, whether effects differ by grade band (early-childhood vs. secondary implementation), and whether universal (whole-classroom) programs outperform targeted interventions for students with elevated behavioral or emotional needs.
+
+**Note:** The meta-analyses recorded above are of universal school-based SEL programs; see each entry for the achievement outcome it reports and whether it was read in full.
+
 ## Related Claims
 
 - [Belonging interventions improve outcomes](belonging-interventions-improve-outcomes.md) — social connectedness is a key pathway through which SEL climate affects achievement
@@ -91,3 +108,10 @@ A meta-analysis of 22 studies (17 universal, 5 targeted programs; 2011–2021) o
 - [Collaborative learning improves outcomes](collaborative-learning-improves-outcomes.md) — SEL skills underpin effective peer collaboration
 - [Autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md) — motivational mechanisms complementary to SEL's self-regulation focus
 - [Self-regulated learning](../theories/self-regulated-learning.md) — the self-regulation competencies SEL programs explicitly target are the same ones SRL research links to achievement
+- [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — a narrower finding that bears on this claim
+- [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — related
+- [Disruptive student behavior is associated with less academic engaged time and lower achievement](disruptive-behavior-lowers-engagement-and-achievement.md) — related
+- [Mindfulness programs show substantial benefits across cognitive and emotional regulation as well as stress and mental health in adolescents and young adults](mindfulness-programs-benefit-adolescent-regulation.md) — related
+- [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
+- [SEL Programs Improve Academic Achievement](sel-programs-improve-academic-achievement.md) — possibly the same claim (merge candidate)
+- [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related

@@ -41,4 +41,5 @@ The same MANOVA on CASQ posttest scores found the social justice attitudes subsc
 
 
 ## Related Claims
--
+- [Peer mentoring by SLAMs increases posttest civic action scores in service-learning courses](peer-mentoring-increases-civic-action-service-learning.md) — related
+- [Positive SLAM-student relationship qualities correlate with civic action](slam-relationship-quality-correlates-civic-action.md) — related

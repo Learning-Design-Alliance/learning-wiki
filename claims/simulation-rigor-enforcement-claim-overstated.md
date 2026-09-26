@@ -41,4 +41,6 @@ Theoretical argument (section 2.2) reviewing six problems with the Gregg & Simon
 
 
 ## Related Claims
--
+- [External empirical evidence can refute a computational model of particle interactions when the model's own simulation cannot](external-evidence-can-refute-computational-models-of-particle-interactions.md) — related
+- [Instructional design models are rarely tested against outcomes; their credibility comes from practitioners finding them useful.](instructional-design-models-are-validated-by-adoption-not-testing.md) — related
+- [The HPM learning simulation's directed activation mechanism, developed to minimize working memory load, yields a new account of the Zeigarnik effect](hpm-directed-activation-zeigarnik-account.md) — related

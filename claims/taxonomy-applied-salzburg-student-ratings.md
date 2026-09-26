@@ -46,4 +46,4 @@ The article applies the taxonomy to the Salzburg student-rating project (Task Fo
 
 
 ## Related Claims
--
+- [The article concludes there is an irreconcilable conflict between the values of Turkish modernization and the libertarian and democratic values Dewey advocates](irreconcilable-conflict-turkish-modernization-dewey-values.md) — related

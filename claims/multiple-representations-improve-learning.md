@@ -73,3 +73,9 @@ This review addresses the "representation dilemma": students often must learn un
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — too many simultaneous representations can backfire
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — redundant representations can lose value as expertise grows
 - [Dual coding theory](../theories/dual-coding-theory.md) — the primary theoretical rationale for pairing verbal and visual formats
+- [Creating computational literature develops computational literacy even when code modification is minor](creating-computational-literature-develops-computational-literacy.md) — related
+- [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — a broader claim this one bears on
+- [Engineering physics undergraduates are more curious than they appear in lecture when given the chance to submit questions about interactive simulations](students-more-curious-than-lecture-appears.md) — related
+- [Instruction on scalar electric potential produces a pronounced dip in correct vector-based Newton's Third Law responses in E&M](scalar-instruction-interferes-with-vector-responses.md) — related
+- [The interference dip disappears once instruction returns to vector-based topics such as magnetic fields](interference-disappears-when-vector-instruction-resumes.md) — related
+- [Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding](verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) — related

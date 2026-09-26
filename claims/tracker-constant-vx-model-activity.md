@@ -41,4 +41,7 @@ Suggested workshop activity for novice students who may not appreciate constant 
 
 
 ## Related Claims
--
+- [Using video analysis data to set model parameters yields a more precise model than trial-and-error model building](data-driven-modeling-more-precise-than-trial-and-error.md) — related
+- [A Singapore teacher community has remixed 75 EJS models and lesson packages toward a national digital library](osp-community-remixed-75-ejs-models.md) — related
+- [Initial findings suggest video modeling pedagogy is suitable for active and deep learning through predicting, observing and explaining](video-modeling-suits-active-deep-learning.md) — a broader claim this one bears on
+- [Comparing an incorrect applied-force model (fx = 10 N) with real data shows students why projectile motion has no x-direction acceleration](tracker-incorrect-fx-model-refutes-x-force.md) — related

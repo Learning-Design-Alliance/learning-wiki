@@ -57,4 +57,4 @@ Comparison of reliability estimates on the same data: split-half reliability rgh
 
 
 ## Related Claims
--
+- [Test difficulty value defined as ratio of observed to maximum score vector length times cosine of their angle equals test mean divided by number of items](test-difficulty-value-cosine-definition.md) — related

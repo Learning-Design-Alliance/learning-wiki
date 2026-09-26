@@ -48,3 +48,10 @@ The central statistic (d=1.96) is frequently the kind of number that gets over-r
 
 ## Related Claims
 - (none yet linked)
+- [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) — related
+- [Defining and quantifying reliability and measurement error is particularly challenging in epistemic games for three principal reasons](reliability-challenges-epistemic-games.md) — related
+- [Structured Discussion Approaches Improve Comprehension](structured-discussion-approaches-improve-comprehension.md) — related
+- [Structured Discussion Methods Improve Comprehension](structured-discussion-methods-improve-comprehension.md) — related
+- [Discussion Quality Drives Comprehension](discussion-quality-drives-comprehension.md) — related
+- [A student-led small-group discussion assessment sustained online participation and produced denser peer interaction than a standard teacher-led discussion board](student-led-discussion-task-sustains-online-participation.md) — related
+- [Word-frequency changes in reflections suggest a shift away from given-information-based strategies](word-frequency-shifts-in-reflections.md) — related

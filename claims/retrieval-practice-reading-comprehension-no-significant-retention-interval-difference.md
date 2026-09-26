@@ -41,5 +41,11 @@ Between-subjects factor of the classroom experiment: 100 undergraduates randomly
 
 
 ## Related Claims
-- [Retrieval Practice Enhances Long Term Retention](retrieval-practice-enhances-long-term-retention.md)
-- [Testing Effect Improves Retention](testing-effect-improves-retention.md)
+- [Retrieval Practice Enhances Long Term Retention](retrieval-practice-improves-retention.md)
+- [Three weeks of explicit language-focused strategy instruction produced no significant word-problem gain in this study](explicit-strategy-instruction-no-significant-gain.md) — related
+- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
+- [Short-answer (production) and multiple-choice (recognition) retrieval practice produce no statistically significant difference in undergraduates' reading comprehension on a final MCQ test](production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension.md) — related
+- [The effect of retention interval on reading comprehension after retrieval practice does not differ significantly between lower-order and higher-order thinking questions](retention-interval-by-levels-of-thinking-interaction-not-significant.md) — related
+- [The effect of retrieval practice format on reading comprehension does not differ significantly between an immediate and a three-week-delayed final test](retrieval-format-by-retention-interval-interaction-not-significant.md) — related
+- [Retrieval practice format, levels of thinking and retention interval show no significant three-way interaction on undergraduates' reading comprehension](retrieval-format-levels-of-thinking-retention-interval-three-way-interaction-not-significant.md) — related
+- [Retrieval Practice Improves Long Term Retention](retrieval-practice-improves-long-term-retention.md) — related

@@ -41,4 +41,7 @@ Descriptive analysis of the perpetration dimension of the epistemic violence-fre
 
 
 ## Related Claims
--
+- [Adults' resorting to epistemic violence correlates negatively with past enjoyment of and tendency toward education-related epistemic freedom](epistemic-violence-negatively-correlated-epistemic-freedom.md) — related
+- [Adults' acceptance of education-related epistemic violence is moderate, with 48.1% at a moderate and 40.3% at a high level](adults-moderate-acceptance-epistemic-violence.md) — related
+- [Adults' past enjoyment of education-related epistemic freedom is between moderate and high, and their tendency toward it is high](adults-past-freedom-moderate-high-tendency-high.md) — related
+- [The study's correlational, cross-sectional design limits internal validity and causal interpretation](correlational-design-limits-epistemic-freedom-study.md) — related

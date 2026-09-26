@@ -31,7 +31,7 @@ Unit-level organizers function as [Advance Organizers](../elements/advance-organ
 #### Constraints
 - Organizers that are decorative or that merely restate a list of topics without showing relationships add visual load without aiding learning [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M]
 - Overly dense organizers can overload novices rather than orienting them [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~M]
-- Learners with strong prior knowledge may gain little from an instructor-provided structure and may benefit more from generating their own [Concept maps improve learning.](../claims/concept-maps-improve-learning.md) [~M]
+- Learners with strong prior knowledge may gain little from an instructor-provided structure and may benefit more from generating their own [Concept maps improve learning.](../claims/concept-mapping-improves-learning.md) [~M]
 - A mismatch between the organizer's implied structure and the actual sequence of instruction confuses rather than orients
 
 #### Implementation Variability
@@ -42,7 +42,7 @@ Unit-level organizers function as [Advance Organizers](../elements/advance-organ
 ### Target Learners
 - Novices who lack a schema for the domain and cannot otherwise see how lessons connect [Advance organizers improve learning.](../claims/advance-organizers-improve-learning.md) [+M]
 - Learners who benefit from reduced orientation demands, including those with working memory or attention challenges
-- Less valuable for advanced learners who already possess an organizing schema [Concept maps improve learning.](../claims/concept-maps-improve-learning.md) [~M]
+- Less valuable for advanced learners who already possess an organizing schema [Concept maps improve learning.](../claims/concept-mapping-improves-learning.md) [~M]
 
 ### Target Learning Goals
 - Structural knowledge: understanding how unit parts relate to a whole

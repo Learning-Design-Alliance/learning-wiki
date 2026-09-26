@@ -58,4 +58,6 @@ In the same no-superfactor SEM, the hypothesized dimension-matched paths for beh
 
 
 ## Related Claims
--
+- [The ACE-HE measurement model of affective, behavioral, and cognitive engagement fits online/blended survey data well](ace-he-engagement-three-dimension-model-good-fit.md) — related
+- [The ACE-HE measurement model of institutional support for ABC engagement also fits the data well](ace-he-institutional-support-model-good-fit.md) — related
+- [Overall institutional support for academic engagement has an extremely strong positive relationship with overall academic engagement](overall-support-strongly-predicts-engagement.md) — a broader claim this one bears on

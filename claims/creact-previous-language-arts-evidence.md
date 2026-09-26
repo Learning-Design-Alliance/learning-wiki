@@ -41,4 +41,7 @@ The article reports, citing Sak & Oz (2009), a one group pretest-posttest study 
 
 
 ## Related Claims
--
+- [CREACT improves 5th-grade students' creative thinking performance in drawing arts with a large pretest-posttest effect](creact-improves-creative-thinking-drawing-arts.md) — related
+- [No significant interaction between gender and CREACT on pretest or posttest creative performance](creact-no-gender-interaction.md) — related
+- [Short-term creativity interventions can be effective in changing creativity positively](short-term-interventions-change-creativity.md) — a broader claim this one bears on
+- [Critical thinking gains were significant for creative critical thought but not for logic and reasoning](ideation-discussion-creative-thought-gains-not-logic.md) — related

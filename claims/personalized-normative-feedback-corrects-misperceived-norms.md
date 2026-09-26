@@ -78,3 +78,5 @@ An open question for learning designers is durability: most evaluations measure 
 - [Social learning theory](../theories/social-learning-theory.md) — provides the theoretical grounding for why peer behavior information influences learner behavior.
 - [Self-determination theory](../theories/self-determination-theory.md) — normative feedback interacts with autonomy and competence needs; controlling framings can undermine motivation.
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — feedback that positions learners relative to meaningful standards, including social ones, is most actionable.
+- [Perceived discrepancy between actual teaching performance and goals motivates teachers to change their teaching](performance-goal-discrepancy-motivates-teacher-change.md) — related
+- [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related

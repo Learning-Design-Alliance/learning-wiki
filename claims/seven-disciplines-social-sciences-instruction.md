@@ -41,4 +41,5 @@ The Goal I section defines each of the seven disciplines in turn, e.g. economics
 
 
 ## Related Claims
--
+- [The framework directs social sciences programs toward five stated student outcomes including understandings, skills, respect for diversity, values clarification, and participation](five-social-science-program-goals.md) — related
+- [The framework's first Goal I program goal is helping students understand interdisciplinary concepts through studies of human experience, with the remaining goals implicit in the illustrative objectives](goal-i-program-goals-explication.md) — related

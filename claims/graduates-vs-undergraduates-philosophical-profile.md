@@ -41,4 +41,7 @@ Omnibus graduate-versus-undergraduate comparison pooling elementary and secondar
 
 
 ## Related Claims
--
+- [Elementary graduate students score higher in Realism and lower in Existentialism than elementary undergraduates](elementary-grads-realism-up-existentialism-down.md) — related
+- [Elementary undergraduates show greater belief in Existentialism than secondary undergraduates](elementary-undergrads-higher-existentialism.md) — related
+- [Several group comparisons show no statistically significant differences in philosophical belief](null-comparisons-philosophical-beliefs.md) — related
+- [Physical education teachers studying in a graduate program endorse progressivism, perennialism and essentialism more than teachers with an undergraduate degree](graduate-educated-pe-teachers-endorse-progressivism-perennialism-and-essentialism-more.md) — related

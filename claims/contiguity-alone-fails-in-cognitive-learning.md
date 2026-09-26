@@ -41,4 +41,8 @@ Theoretical argument in a conference paper: the author cites the familiar phenom
 
 
 ## Related Claims
--
+- [The review reports that behaviorism cannot deal with complex human behavior and fails to explain linguistic generativity](behaviorism-fails-linguistic-generativity.md) — related
+- [Useful cognitive associations acquire secondary-reward value, making information storage an operant event](cognitive-associations-as-generalized-reinforcers.md) — reports the opposite
+- [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related
+- [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — related
+- [Little firm evidence supports learning by contiguity alone in any realm of behavior](little-evidence-for-contiguity-only-learning.md) — possibly the same claim (merge candidate)

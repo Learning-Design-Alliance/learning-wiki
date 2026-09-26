@@ -41,4 +41,6 @@ Qualitative/interpretative study of audio-recorded dialogues of 20 pre-service s
 
 
 ## Related Claims
--
+- [Two inferred norms concern teachers' role, with the teacher-validation norm appearing in all participating groups](sdmns-teacher-role-validation-all-groups.md) — a narrower finding that bears on this claim
+- [Three of the inferred norms relate to the mathematical content and its learning, including privileging the table of values and devaluing explanation](sdmns-related-to-mathematical-content-and-learning.md) — a narrower finding that bears on this claim
+- [The inferred norms show features of a traditional teacher perspective, while SDMN 4 shows features of a perception-based perspective](sdmns-relate-to-traditional-and-perception-based-perspectives.md) — related

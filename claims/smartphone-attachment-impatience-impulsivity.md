@@ -41,4 +41,6 @@ Authors' discussion-section interpretation attributing this to Gazzaley and Rose
 
 
 ## Related Claims
--
+- [Academics most often name smartphones and personal computers as the tools they use to realise physiological needs](academics-prefer-smartphones-pcs-physiological.md) — related
+- [In attachment theory, the child's exploration is the direct outcome of security from an effective attachment relationship](secure-base-enables-exploration.md) — related
+- [Smartphone use during class is a distraction with potential to compromise grades (review attribution)](smartphone-class-distraction-grades.md) — related

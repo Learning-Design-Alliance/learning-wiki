@@ -74,3 +74,8 @@ A synthesis of 29 intervention studies (1994–2004) with Grades 6–12 students
 - [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) — segmenting difficult text is a key close-reading scaffold
 - [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) — explains why unscaffolded complex texts overwhelm struggling readers
 - [Expertise reversal effect.](../theories/expertise-reversal-effect.md) — scaffolds that help novices can hinder more proficient readers
+- [A hard core of non-attending students remained unresponsive to all offered support](hard-core-unresponsive-non-attenders.md) — related
+- [Reading Strategy Instruction Improves Comprehension](reading-strategy-instruction-improves-comprehension.md) — related
+- [Self-questioning improves comprehension](self-questioning-improves-comprehension.md) — related
+- [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — related
+- [Structured Literacy Interventions Help Struggling Readers](structured-literacy-interventions-help-struggling-readers.md) — related

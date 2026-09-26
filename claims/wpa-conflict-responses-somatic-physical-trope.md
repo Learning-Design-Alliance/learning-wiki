@@ -41,4 +41,6 @@ The author's interpretive reading of essays collected from Writing Program Admin
 
 
 ## Related Claims
--
+- [Systems thinking holds the most promise for understanding departmental and institutional conflict](systems-thinking-most-promising-for-institutional-conflict.md) — related
+- [Composition studies and the WPA position are feminized, and male WPAs remain in a feminized position within the academic hierarchy](wpa-position-feminized-including-male-wpas.md) — related
+- [Returning to direct somatic experience can re-vision thinking and change perception (attributed to Reason)](somatic-return-revisions-thinking.md) — related

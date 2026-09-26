@@ -41,4 +41,5 @@ Posthoc moderator analysis comparing the 7 studies using the Classroom Organizat
 
 
 ## Related Claims
--
+- [Teachers' universal classroom management practices significantly reduce problem classroom behavior (mean classroom ES = 0.80, ICC=.05)](universal-classroom-management-reduces-problem-behavior.md) — a broader claim this one bears on
+- [Effect sizes across classroom management studies are homogeneous, with no significant moderator variability](homogeneous-effect-sizes-classroom-management.md) — related

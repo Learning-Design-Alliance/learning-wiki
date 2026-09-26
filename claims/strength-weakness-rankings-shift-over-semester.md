@@ -41,4 +41,6 @@ Descriptive analysis of Part 4 of the self-assessment forms, where participants 
 
 
 ## Related Claims
--
+- [Participation in interpersonal audio discussions produced no statistically significant changes in overall willingness to communicate, though most students reported unchanged or increased WTC](audio-discussions-no-significant-wtc-change.md) — related
+- [Students reported significantly less difficulty with comprehensibility and accuracy of pronunciation between the first and final audio discussion activity](decreased-perceived-pronunciation-difficulty.md) — related
+- [Interpersonal audio discussions with feedback and self-assessment elicit a statistically significant increase in introductory L2 learners' perceived pronunciation ability](audio-discussions-increase-perceived-pronunciation-ability.md) — related

@@ -12,7 +12,7 @@ generated:
 # Simple-to-Difficult Examples
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies, `q3`–`q4` · 3 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies, `q3`–`q4` · 4 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Simple-to-difficult sequencing presents learners with easy, prototypical instances of a concept or task first, then progressively introduces more complex, ambiguous, or atypical instances. If learners only ever see simple instances, they under-generalize — forming a concept representation too narrow to classify the harder cases they will eventually meet. Sequencing manages this by letting the concept schema form on clear cases before it must accommodate noisy ones.

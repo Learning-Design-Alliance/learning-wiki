@@ -41,4 +41,6 @@ Reconstruction from lecture XXXIII of Mead's Course 50, in the article's section
 
 
 ## Related Claims
--
+- [In Mead's lectures, meanings grow out of social intercourse and the child constructs meanings only in social process](meanings-grow-out-of-social-intercourse.md) — related
+- [Mead holds that the process of acquiring changes the thing acquired, making change of subject matter the rule](acquiring-changes-the-thing-acquired.md) — related
+- [Mead holds that social interaction precedes and produces reflective self-consciousness](social-interaction-precedes-self-consciousness.md) — related

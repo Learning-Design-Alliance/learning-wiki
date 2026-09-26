@@ -41,4 +41,8 @@ Confirmatory factor analysis of survey responses from 1,253 students at a Colomb
 
 
 ## Related Claims
--
+- [The ACE-HE measurement model of institutional support for ABC engagement also fits the data well](ace-he-institutional-support-model-good-fit.md) — related
+- [Only support for affective engagement predicts its matching engagement dimension; behavioral and cognitive support do not, contradicting the ACE framework's alignment](affective-support-predicts-all-engagement-dimensions.md) — related
+- [Overall institutional support for academic engagement has an extremely strong positive relationship with overall academic engagement](overall-support-strongly-predicts-engagement.md) — related
+- [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — related
+- [The three-dimension instructional design competence model fits the empirical data acceptably in CFA](idc-model-acceptable-cfa-fit.md) — related

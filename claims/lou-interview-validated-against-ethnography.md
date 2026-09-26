@@ -41,4 +41,4 @@ Second validity comparison in the same ethnographic study, between consensus rat
 
 
 ## Related Claims
--
+- [The LoU Interview shows high interrater reliability, and the rating procedure was streamlined over two years without loss of agreement](lou-interview-interrater-reliability-high.md) — related

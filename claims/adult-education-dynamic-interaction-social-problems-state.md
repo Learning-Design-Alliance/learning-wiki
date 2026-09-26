@@ -41,4 +41,7 @@ Historical-analytical framework presented in Part II, operationalized through Ta
 
 
 ## Related Claims
--
+- [Philippine basic literacy is 89.8% and functional literacy 73.2%, yet BNFE serves only 1.07% of estimated adult education clientele](philippine-literacy-rates-bnfe-inadequate-coverage.md) — related
+- [Colonization-introduced formal education creates greater discontinuities with informal education than evolved systems](colonization-widens-formal-informal-education-discontinuities.md) — related
+- [Proposed equivalency system between non-formal and formal education streams will not work without local government uptake](equivalency-system-requires-local-government-uptake.md) — related
+- [Labor export policy depletes the educated segment of the Philippine manpower pool, explaining the remaining workforce's under-education](labor-export-depletes-educated-manpower-pool.md) — related

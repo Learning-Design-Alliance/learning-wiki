@@ -41,4 +41,8 @@ Theoretical argument in the paper's introduction: the author, sympathetic to nar
 
 
 ## Related Claims
--
+- [Adventure programs can be designed to teach participants a transferable empowerment process, not only deliver an intervention](adventure-programs-teach-empowerment-process.md) — related
+- [Facilitated self-directed learning and peer discussion empower adult learners](facilitated-self-directed-learning-empowers-adults.md) — reports the opposite
+- [Modernist discourses have produced contradictory environmental effects, raising awareness of problems while helping cultivate stories that construe the earth as an object of instrumental value](modernist-discourses-contradictory-environmental-effects.md) — related
+- [Equipping caregivers with MUAC tapes empowered them to track child nutrition and become community health advocates](family-muac-empowers-caregivers-as-health-advocates.md) — related
+- [Storying is socially and politically non-neutral: it privileges some storylines and silences others](storying-privileges-some-storylines-silences-others.md) — related

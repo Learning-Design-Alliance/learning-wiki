@@ -41,4 +41,5 @@ Two open-ended attitude-survey questions asked what participants liked best and 
 
 
 ## Related Claims
--
+- [Elaborative interrogation increased perceived difficulty and time spent with the lesson](elaborative-interrogation-increases-difficulty-and-time-on-lesson.md) — related
+- [The study's results confirm both theses of the Interaction Equivalency Theorem in blended learning contexts](theorem-theses-confirmed-by-survey.md) — related

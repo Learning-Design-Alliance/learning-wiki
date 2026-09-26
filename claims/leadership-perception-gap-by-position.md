@@ -41,4 +41,7 @@ ANOVA across positional groups in the 455-respondent survey, reported for Figure
 
 
 ## Related Claims
--
+- [Higher educational attainment is associated with more positive evaluations of international cooperation efforts](education-level-internationalization-perceptions.md) — related
+- [Satisfaction with facilities and infrastructure rises with student enrollment size](facilities-ratings-rise-with-enrollment-size.md) — related
+- [The original global citizenship scale is employable in a developing-country university context after adjustments to social responsibility and global competence](global-citizenship-scale-employable-developing-context.md) — related
+- [Leadership competence is the strongest predictor of governance effectiveness in Vietnamese universities](leadership-strongest-predictor-vietnamese-governance.md) — related

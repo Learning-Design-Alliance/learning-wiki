@@ -41,4 +41,6 @@ Document analysis of the PATHS Feelings and Relationships Unit, which Greenberg 
 
 
 ## Related Claims
--
+- [PATHS macro-level sequencing combines spiral and topical sequencing patterns](paths-macro-sequencing-spiral-topical-combination.md) — related
+- [PATHS topical sequencing follows a general-to-detailed continuum, the Simplifying Conditions Method, and synonymous and antonymous relationships](paths-topical-sequencing-four-guidelines.md) — related
+- [Within-lesson sequencing in the PATHS Feelings and Relationships Unit proceeds from cognitive to behavioral to affective and from external to internal](paths-within-lesson-cognitive-to-affective-sequencing.md) — related

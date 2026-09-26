@@ -70,3 +70,5 @@ some configurations.
 - [Fluent bilingualism enhances metalinguistic awareness](bilingual-fluency-enhances-metalinguistic-awareness.md) — the other direction: what a learner's language background gives them rather than costs them
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — phonemic sensitivity as a predictor, in first-language reading
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — the general principle this instantiates
+- [Preservation of the mother tongue predicts second-language achievement among migrant children](mother-tongue-preservation-predicts-l2-achievement.md) — related
+- [Morpheme difficulty orders were similar across first-language backgrounds, suggesting universals in language acquisition](morpheme-order-similarity-across-l1-backgrounds.md) — related

@@ -42,3 +42,5 @@ Final-turn accuracy against CoMTA's ground-truth labels in the human evaluation:
 
 ## Related Claims
 - [Expert Teachers Rate Gpt 4O Dialogue Annotations As Largely Accurate](expert-teachers-rate-gpt-4o-dialogue-annotations-as-largely-accurate.md)
+- [Knowledge tracing performance on tutoring dialogues is relatively low, with a maximum of around 76% AUC, which the authors take to show dialogueKT is a challenging task.](dialogue-kt-performance-is-relatively-low-compared-to-standard-kt.md) — related
+- [GPT-4o's correctness-labeling errors concentrate on final turns requiring numerical calculation, and its main KC-labeling error is assigning too few standards to a turn.](gpt-4o-annotation-errors-concentrate-on-final-turns-and-too-few-kcs.md) — related

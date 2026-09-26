@@ -41,4 +41,7 @@ Theoretical argument in this essay, not an empirical test: the author contends c
 
 
 ## Related Claims
--
+- [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — related
+- [Abandoning assessment entirely is not an acceptable alternative to competitive grading, per the author's argument](nonassessment-unacceptable-alternative.md) — related
+- [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — related
+- [Meta-analyses by Johnson and Johnson find cooperative learning promotes higher achievement than competition or individual work across ages, subjects, and tasks](johnson-meta-analysis-cooperative-achievement.md) — related

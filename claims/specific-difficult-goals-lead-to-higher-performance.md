@@ -46,3 +46,5 @@ Goal setting is most effective when accompanied by feedback, as feedback allows 
 ## Related Claims
 - [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md)
 - [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md)
+- [Goal setting improves performance](goal-setting-improves-performance.md) — possibly the same claim (merge candidate)
+- [Proximal goals, ability attributional feedback, and peer models raise self-efficacy for learning more than distant goals, effort feedback, and teacher models](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — related

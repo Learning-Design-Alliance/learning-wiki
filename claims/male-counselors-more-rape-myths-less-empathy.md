@@ -58,4 +58,7 @@ Bivariate correlations between gender and empathy subscales; the article interpr
 
 
 ## Related Claims
--
+- [Attitudes, gender, and age predict counselors' rape myth acceptance in both label conditions](attitudes-demographics-predict-counselor-rape-myth-acceptance.md) — related
+- [Attitudes and demographics predicted empathy in the prostitute-label group but not the trafficking-label group](label-condition-moderates-empathy-predictors.md) — related
+- [Counselors without prior training on prostitution/sex trafficking endorsed more stigmatizing beliefs and more rape myths](lack-of-trafficking-training-linked-stigma-rape-myths.md) — related
+- [Counselors exposed to 'sex trafficking' labels reported more victimization-oriented attitudes than counselors exposed to 'prostitute' labels](trafficking-labels-shift-counselor-attitudes-toward-victimization.md) — related

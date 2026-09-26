@@ -58,4 +58,4 @@ The report states the elaborative-processing effect on retrieval was replicated 
 
 
 ## Related Claims
--
+- [Training seventh graders to elaborate produced better long-term recall than questions stimulating elaboration, and the training transferred to new passages](trained-elaboration-beats-question-stimulated-elaboration.md) — related

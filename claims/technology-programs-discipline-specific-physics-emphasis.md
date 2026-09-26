@@ -41,4 +41,7 @@ Content-specialist scoring of physics exam questions plotted in the rigor-releva
 
 
 ## Related Claims
--
+- [Engineering physics exam questions demand more approach selection or synthesis while Technology questions often prescribe a specific approach](engineering-physics-questions-higher-scaffolding-autonomy.md) — related
+- [Collected exam questions required no cognitive processes above apply and no originality in analysis or high-level interdependence](exam-questions-capped-at-apply-and-standardized-analysis.md) — related
+- [No significant differences between Engineering and Technology exam questions in novelty and level of communication](no-significant-difference-novelty-communication.md) — related
+- [The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions](framework-scoring-high-consistency-physics.md) — related

@@ -58,4 +58,9 @@ Responses to the hypothetical merit-pay dilemma revealed differing enactments of
 
 
 ## Related Claims
--
+- [A standing committee structure sustains middle school change despite personnel turnover](committee-structure-sustains-change-despite-turnover.md) — related
+- [The ethic of care was found in all three female principals studied, expressed in teaching, learning, dedication to students, and child-centered schools](ethic-of-care-found-in-three-female-principals.md) — related
+- [Facilitated self-directed learning and peer discussion empower adult learners](facilitated-self-directed-learning-empowers-adults.md) — related
+- [Female principals maintained autonomy and connectedness despite hierarchical bureaucratic structures, and reported no isolation](principals-maintain-connectedness-despite-bureaucracy.md) — related
+- [Female principals enacted care through a 'listening then deciding' pattern of situational decision making](listening-then-deciding-situational-decision-making.md) — related
+- [Parent involvement increased for three consecutive years under family-centered engagement approaches](parent-involvement-increased-three-years.md) — related

@@ -58,4 +58,5 @@ Authors' interpretation of a Book 3, Chapter 4 episode coded as Reconstructionis
 
 
 ## Related Claims
--
+- [Pippi Longstocking portrays a clash between contemporary educational philosophies (embodied by Pippi) and an Essentialist understanding (embodied by the other social agents).](pippi-versus-society-educational-philosophy-clash.md) — possibly the same claim (merge candidate)
+- [In the Pippi Longstocking series, 55 educational instances were coded, with ways of learning, functions of school, and decision making the dominant categories.](pippi-longstocking-55-educational-instances-dominant-categories.md) — a narrower finding that bears on this claim

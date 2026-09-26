@@ -50,3 +50,9 @@ This is a single-school qualitative discourse study without a comparison school 
 
 ## Related Claims
 - (none yet linked)
+- [Assigned subject names are inherently obsolescent with respect to both past and future discourses (Buckland's account)](assigned-names-inherently-obsolescent-buckland.md) — related
+- [Material arrangement of artifacts (strips centered and ordered by length, worksheets held close) affords and stabilizes the initial pattern of activity; later decentralization enables new patterns](material-arrangement-affords-stability.md) — related
+- [The physical stability of material artifacts such as stacked tickertape strips and worksheets stabilizes students' attention, action, and knowledge use](material-artifact-stability-stabilizes-thinking.md) — related
+- [The teacher's agency system reached dynamic stability at the edge of chaos in the final period](agency-reaches-edge-of-chaos-stability.md) — related
+- [Synchronized collective behaviors oriented to strips and worksheets dynamically stabilize the students' initial activity and thinking](synchronized-interactional-behaviors-stabilize-activity.md) — related
+- [A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life](teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md) — related

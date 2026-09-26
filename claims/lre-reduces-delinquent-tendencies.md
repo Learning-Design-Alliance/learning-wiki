@@ -41,4 +41,8 @@ The digest reports, citing Little and Haley (1982), a study by the Social Scienc
 
 
 ## Related Claims
--
+- [The article argues education for global citizenship has the potential to improve quality of life and lessen inter- and intra-group violence toward a culture of peace](gced-potential-culture-of-peace.md) — related
+- [Interactive LRE methods engage students, who value LRE classes as relevant and interesting](lre-interactive-methods-student-interest.md) — related
+- [LRE grew rapidly in U.S. curricula after 1975, ranking fourth in social studies priority](lre-curriculum-growth-since-1975.md) — related
+- [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](service-learning-improves-civic-and-personal-outcomes.md) — related
+- [A Pennsylvania state assessment reportedly showed declining citizenship measure scores from 1974 to 1976](pennsylvania-citizenship-scores-declined-1974-1976.md) — related

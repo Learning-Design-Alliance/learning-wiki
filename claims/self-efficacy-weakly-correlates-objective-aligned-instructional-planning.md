@@ -41,4 +41,8 @@ Pearson product-moment correlation analysis of STEBI and TSMTDF scores from 101 
 
 
 ## Related Claims
--
+- [Integrated instructional hours correlate more positively with technology integration ability than stand-alone technology courses](integrated-hours-beat-standalone-tech-courses.md) — related
+- [Pre-service teachers' self-efficacy and instructional-planning levels were relatively high, but Bloom taxonomy classification was low](preservice-planning-high-taxonomy-low.md) — related
+- [Pre-service teachers choose science objectives mainly for ease of teaching, material support, and perceived professional knowledge, with grade-level differences](reasons-for-choosing-science-objectives.md) — related
+- [Pre-service teachers choose strategies, methods, and techniques mainly for fit with objective content and for promoting active student participation](reasons-for-choosing-strategies-methods-techniques.md) — related
+- [Seniors outperformed juniors in determining taxonomy and method-technique, but not in self-efficacy or strategy determination](seniors-better-taxonomy-method-technique.md) — related

@@ -41,4 +41,8 @@ Theoretical argument in the article's conclusions, offered with no empirical dat
 
 
 ## Related Claims
--
+- [Multicultural approach to education may increase cultural sensitivity and reduce race-related stressors (review attribution)](multicultural-approach-sensitivity-stressors.md) — related
+- [Contact between societies does not by itself produce cross-cultural understanding](contact-does-not-yield-understanding.md) — related
+- [Properly conducted LRE programs can reduce delinquent tendencies and improve citizenship attitudes](lre-reduces-delinquent-tendencies.md) — related
+- [In a pedagogical space, epistemic injustice might be activated when teachers' identity prejudice leads them to give a student less credit, and the curriculum can block or enable students' understanding and expression of their social experiences](teacher-identity-prejudice-and-curriculum-can-enact-epistemic-injustice-toward-students.md) — related
+- [Ikeda positions hope as an essential component of global citizenship education, with value creation starting from hope](hope-essential-component-gced.md) — related

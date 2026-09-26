@@ -53,4 +53,8 @@ This review classifies redundancy effects across 63 multimedia-learning experime
 - [Irrelevant material hurts learning (coherence principle).](coherence-principle-irrelevant-material-hurts-learning.md) — same working-memory logic: extra material that adds no value imposes cost
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — the overload mechanism redundancy exploits
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — complementary strategy for managing limited working memory
-- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md) — expertise reversal: redundancy effects depend on learner expertise
+- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — expertise reversal: redundancy effects depend on learner expertise
+- [Expertise Reversal Guidance Hurts Experts](expertise-reversal-guidance-hurts-experts.md) — related
+- [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
+- [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — possibly the same claim (merge candidate)
+- [Redundancy Hurts Learning](redundancy-hurts-learning.md) — a narrower finding that bears on this claim

@@ -29,7 +29,7 @@ A culture of error changes what learners do with mistakes: instead of concealing
 - Feedback routines that are specific, process-focused, and actionable [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 
 #### Constraints
-- Growth-mindset and error-tolerance messaging alone, without changed grading and task structures, produces weak or no effects [Growth mindset interventions show small, context-dependent effects.](../claims/growth-mindset-interventions-small-effects.md) [~M] — exhortation cannot substitute for structural safety
+- Growth-mindset and error-tolerance messaging alone, without changed grading and task structures, produces weak or no effects [Growth mindset interventions show small, context-dependent effects.](../claims/growth-mindset-improves-achievement.md) [~M] — exhortation cannot substitute for structural safety
 - In high-stakes, grade-dominated environments, learners rationally conceal errors; a culture of error cannot coexist with punitive error accounting [-M]
 - Excessive tolerance for error without correction can entrench misconceptions; errors must be surfaced *and* resolved, not merely accepted [-M]
 - Learners with histories of failure may initially resist public error disclosure; trust builds gradually and cannot be demanded on day one [-W]

@@ -41,4 +41,7 @@ Qualitative theme 3 asked students what forms of support they consider effective
 
 
 ## Related Claims
--
+- [Emotion Labeling Improves Regulation](emotion-labeling-improves-regulation.md) — related
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
+- [Prolonged or overwhelming stress disrupts self-regulation development by physically changing brain wiring toward emotional reactivity](toxic-stress-disrupts-self-regulation-development.md) — related
+- [Only 4.3% of surveyed secondary vocational students meet mental health knowledge standards](vocational-students-low-mental-health-literacy-4-3-percent.md) — related

@@ -41,4 +41,8 @@ In the Findings (Community section) of the interview study, e-teachers reported 
 
 
 ## Related Claims
--
+- [In web-based high-school distance education, e-teachers widened the object of their teaching activity toward more independent and engaged forms of learning](e-teachers-widen-object-toward-independent-learning.md) — related
+- [Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content](interactional-structures-shape-content-processing.md) — related
+- [The change in tools caused the most disruption in e-teachers' activity system, replacing body language and visual cues with text and voice mediation](tool-change-most-disruption-online-teaching.md) — related
+- [A student-led small-group discussion assessment sustained online participation and produced denser peer interaction than a standard teacher-led discussion board](student-led-discussion-task-sustains-online-participation.md) — related
+- [Online peer assisted learning communities foster informal learning and spontaneous interest-based groups](online-peer-assisted-learning-fosters-informal-learning.md) — reports the opposite

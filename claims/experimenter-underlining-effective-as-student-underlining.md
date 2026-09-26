@@ -52,3 +52,4 @@ In a controlled experiment comparing student-generated underlining with experime
 - [Annotating improves learning outcomes.](annotating-improves-learning.md) — broader annotation evidence; underlining is the weakest form
 - [Coherence principle: irrelevant material hurts learning.](coherence-principle-irrelevant-material-hurts-learning.md) — poorly selected marks act as irrelevant material that diverts attention
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — well-placed marks can segment text, a mechanism independent of who marks
+- [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) — related

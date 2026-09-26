@@ -41,4 +41,7 @@ Recommendation question in the same Ghana survey: 43% of students, 19% of teache
 
 
 ## Related Claims
--
+- [All three participant groups commonly recommend training teachers to use the computer to support their teaching](all-groups-recommend-teacher-computer-training.md) — related
+- [Ghanaian education officers show no significant differences in their responses on computer versus teacher implementation of the first five principles](ghanaian-education-officers-no-significant-response-differences.md) — related
+- [Ghanaian students significantly favour the computer over the teacher for implementing the first five principles of instruction](ghanaian-students-favour-computer-over-teacher-first-principles.md) — related
+- [Teachers, rather than students, want teachers trained to design instruction for effective teaching](teachers-rather-than-students-want-instructional-design-training.md) — related

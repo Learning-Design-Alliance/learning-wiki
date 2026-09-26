@@ -41,4 +41,7 @@ The authors' interpretive inference (not a direct test), combining the printed 9
 
 
 ## Related Claims
--
+- [85.1% of DC public school students attend schools at least 91% non-White, versus 42.8% of voucher private school students](dc-public-students-in-highly-minority-schools.md) — related
+- [After one year, DC's voucher program had no statistically significant effect, positive or negative, on public school test-score gains](dc-voucher-competition-no-public-school-effect-year-one.md) — related
+- [Voucher-participating private schools in DC have racial compositions closer to the surrounding metro area than public schools](dc-voucher-schools-closer-to-metro-racial-mix.md) — related
+- [Far fewer voucher-participating private schools than DC public schools are racially homogeneous (90% or 95%+ one race)](dc-voucher-schools-less-racially-homogeneous.md) — related

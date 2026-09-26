@@ -41,4 +41,7 @@ Dimensionality study (Research Report 79-4) examining achievement test data befo
 
 
 ## Related Claims
--
+- [The assessment violates IRT assumptions of unidimensionality and local independence, which the authors identify as a likely cause of the method discrepancy](irt-assumption-violations-cause-dif-method-discrepancy.md) — related
+- [The same achievement variable is measurable up to one month after instruction, supporting ICC-based retention measurement](icc-retention-measurement-supported-one-month.md) — reports the opposite
+- [Immediate knowledge of results during computerized achievement testing produces essentially no systematic differences in achievement estimates or response dimensionality](knowledge-of-results-no-effect-achievement-test-dimensionality.md) — related
+- [Exploratory factor analysis indicates the Oral composite domain is possibly two-dimensional while each single subtest appears one-dimensional, with mixed MIRT model-fit evidence on the two-dimensional structure](oral-composite-domain-two-dimensional-english-proficiency.md) — related

@@ -41,4 +41,6 @@ The review's synthesis of Cole (1996) and Vygotsky states that "Artifacts are re
 
 
 ## Related Claims
--
+- [CHAT is an interventionist research method aimed at transformation, but tensions persist between adaptive and transformative orientations](chat-interventionist-transformation-tensions.md) — related
+- [Salomon and Perkins distinguish learning with a tool from learning of a tool, with tools triggering cognitive transformations](salomon-perkins-learning-with-versus-of-tools.md) — related
+- [The change in tools caused the most disruption in e-teachers' activity system, replacing body language and visual cues with text and voice mediation](tool-change-most-disruption-online-teaching.md) — a narrower finding that bears on this claim

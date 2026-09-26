@@ -41,4 +41,9 @@ Rosser's written testimony attributes this finding to a 1979 ETS study by Ekstro
 
 
 ## Related Claims
--
+- [Prior research attributes growing male superiority in word problem solving to age, with onset debated between sixth grade and high school](gender-gap-word-problems-increases-with-age.md) — related
+- [Minority female test-takers are doubly penalized, scoring below the males of their own ethnic group and below white males](minority-females-doubly-penalized-on-tests.md) — related
+- [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
+- [PSAT-based National Merit scholarship selection distributes awards disproportionately to boys, with girls receiving 36 percent of scholarships](psat-national-merit-awards-skew-male.md) — related
+- [Research on minority group testing has focused on test bias, linguistic minorities, and culture-fair tests, rarely on alternative symbolic forms](minority-testing-research-neglects-alternative-symbolic-forms.md) — related
+- [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md) — related

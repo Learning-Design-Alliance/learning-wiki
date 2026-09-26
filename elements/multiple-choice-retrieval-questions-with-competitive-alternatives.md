@@ -43,7 +43,7 @@ A recognition-format retrieval practice item: a multiple-choice question whose i
 
 ## Related Elements
 - [Retrieval Practice](retrieval-practice.md)
-- [Retrieval Practice Improves Learning](../claims/retrieval-practice-improves-learning.md)
+- [Retrieval Practice Improves Learning](../claims/retrieval-practice-improves-retention.md)
 
 ## Examples
 -

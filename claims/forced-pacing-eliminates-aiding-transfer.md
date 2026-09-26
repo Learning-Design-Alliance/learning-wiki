@@ -41,4 +41,7 @@ Same Experiment Two forced-pacing study with twelve subjects on 49-component Tas
 
 
 ## Related Claims
--
+- [Computer aiding produces positive transfer of training: aided-trained subjects maintain performance on unaided fault-diagnosis displays](computer-aiding-positive-transfer-unaided-fault-diagnosis.md) — related
+- [Context-free diagnostic training transfers to context-specific performance: aided Task One training reduced cost to solution on two of three FAULT powerplants](context-free-training-transfers-to-context-specific-fault-diagnosis.md) — related
+- [Aiding-based transfer differs by trainee experience: first-semester trainees showed no aided-to-unaided transfer on Task One and initial negative then positive transfer on Task Two](trainee-experience-moderates-aiding-transfer.md) — related
+- [Learner Paced Beats System Paced Complex Material](learner-paced-beats-system-paced-complex-material.md) — related

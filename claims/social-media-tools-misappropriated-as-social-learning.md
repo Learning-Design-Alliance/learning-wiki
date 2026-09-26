@@ -41,4 +41,7 @@ The authors' central argument, drawn from their industry observation at NECC 200
 
 
 ## Related Claims
--
+- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — a broader claim this one bears on
+- [Four types of designerly talk manifest in student-managed social network spaces: tool selection, professional identity, skill-sharing coordination, and ethical design discussion](four-types-designerly-talk-sns.md) — related
+- [SCMD discourse activity is best understood as an ecology of nested activity systems within and beyond the classroom](ecology-of-activity-systems-scmd.md) — related
+- [Knowledge development as social collaboration: ZPD and collective activity systems support CSL learning networks](chat-knowledge-development-social-collaborative-csl.md) — related

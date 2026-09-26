@@ -41,4 +41,6 @@ Qualitative finding from student emails and posts in the case study. The authors
 
 
 ## Related Claims
--
+- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
+- [Tutoring benefits both tutors and tutees](tutoring-benefits-tutors-and-tutees.md) — related
+- [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related

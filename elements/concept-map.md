@@ -12,14 +12,14 @@ generated:
 # Concept Map
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q3`–`q4` · 5 of 6 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies, `q3`–`q4` · 5 of 6 report an effect size
 
 ## Description
 A concept map is a diagram in which concepts appear as nodes and labeled links express the relationships between them, forming a propositional structure ("concept — linking word — concept"). It functions both as a learning activity (learners construct maps) and as an assessment or advance organizer (instructors provide or score maps). Concept maps make knowledge structure — not just knowledge items — visible and revisable.
 
 ## Design Implications
 
-Concept mapping supports meaningful learning by forcing learners to identify relationships rather than memorize isolated facts [Concept maps improve learning.](../claims/concept-maps-improve-learning.md) [+M]. Construction is the active ingredient: learners who generate and justify links outperform those who merely study a completed map, though studying expert maps still beats no mapping [Concept mapping improves learning.](../claims/concept-mapping-improves-learning.md) [+M]. Because maps externalize structure, they also serve as diagnostic tools — missing or mislabeled links reveal misconceptions that prose responses can hide.
+Concept mapping supports meaningful learning by forcing learners to identify relationships rather than memorize isolated facts [Concept maps improve learning.](../claims/concept-mapping-improves-learning.md) [+M]. Construction is the active ingredient: learners who generate and justify links outperform those who merely study a completed map, though studying expert maps still beats no mapping [Concept mapping improves learning.](../claims/concept-mapping-improves-learning.md) [+M]. Because maps externalize structure, they also serve as diagnostic tools — missing or mislabeled links reveal misconceptions that prose responses can hide.
 
 ### Context
 #### Requirements
@@ -37,12 +37,12 @@ Concept mapping supports meaningful learning by forcing learners to identify rel
 ### Target Learners
 - Learners with moderate prior knowledge who can relate new ideas to existing schemas [Concept mapping improves learning.](../claims/concept-mapping-improves-learning.md) [+M]
 - Students in conceptually dense domains (biology, chemistry, history) where causal and hierarchical relationships matter
-- Less effective for complete novices, who lack the knowledge to propose meaningful links [Concept maps improve learning.](../claims/concept-maps-improve-learning.md) [~M]
+- Less effective for complete novices, who lack the knowledge to propose meaningful links [Concept maps improve learning.](../claims/concept-mapping-improves-learning.md) [~M]
 
 ### Target Learning Goals
 - Relational and structural knowledge: seeing how concepts connect, not just what they are
 - Misconception diagnosis: surfacing faulty links for revision
-- Knowledge organization for transfer and retrieval [Concept maps improve learning.](../claims/concept-maps-improve-learning.md) [+M]
+- Knowledge organization for transfer and retrieval [Concept maps improve learning.](../claims/concept-mapping-improves-learning.md) [+M]
 
 ### Affordances
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — externalizing relationships onto the diagram offloads the working-memory burden of holding multiple concepts and their connections in mind simultaneously, letting learners manipulate structure visibly rather than mentally

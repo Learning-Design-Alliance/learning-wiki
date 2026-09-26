@@ -41,4 +41,5 @@ Authors' stated limitation in the Discussion: the capacity-versus-motivation con
 
 
 ## Related Claims
--
+- [The creativity dimension appears strongly in lower-SES urban black fifth-grade children and shows little relation to IQ](creativity-dimension-present-in-lower-ses-children.md) — related
+- [Reward does not reduce the relation between baseline and rewarded creativity performance, supporting a capacity rather than motivational interpretation of individual differences](reward-leaves-creativity-individual-differences-unchanged.md) — related

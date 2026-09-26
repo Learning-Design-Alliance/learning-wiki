@@ -35,7 +35,7 @@ Instructional language competes with task content for limited working memory; co
 
 #### Implementation Variability
 - **Written vs. spoken:** spoken instructions need shorter sentences and more repetition because they cannot be re-read
-- **Multimedia:** pair simplified text with visuals or a worked demonstration rather than text alone [Multimedia messages that combine words and pictures improve learning.](../claims/multimedia-principle.md) [+S]
+- **Multimedia:** pair simplified text with visuals or a worked demonstration rather than text alone [Multimedia messages that combine words and pictures improve learning.](../claims/multimedia-principle-improves-learning.md) [+S]
 - **Layered instructions:** a one-line summary first, expandable detail beneath — supports both quick orientation and careful re-reading
 - **Translated/simplified English:** for multilingual learners, controlled vocabulary and glossed terms rather than simplified content
 

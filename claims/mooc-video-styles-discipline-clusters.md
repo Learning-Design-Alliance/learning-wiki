@@ -41,4 +41,5 @@ Narrative review attributing to Santos-Espino et al. (2016) a survey of instruct
 
 
 ## Related Claims
--
+- [Kolb's inventory successfully differentiated group learning styles by students' subject majors](kolb-inventory-group-styles-by-subject-major.md) — related
+- [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](guo-video-style-engagement-findings.md) — related

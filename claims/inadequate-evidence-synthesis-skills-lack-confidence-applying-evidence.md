@@ -41,4 +41,5 @@ Second-hand report in the protocol's discussion, attributed to Chandran et al; t
 
 
 ## Related Claims
--
+- [Journal club activities are reported to enhance critical appraisal skills and confidence among pharmacy students](journal-clubs-enhance-critical-appraisal-pharmacy-students.md) — related
+- [Game-based learning improved pharmacy students' literature searching course scores in one reported study](game-based-learning-improves-literature-searching-scores-pharmacy.md) — related

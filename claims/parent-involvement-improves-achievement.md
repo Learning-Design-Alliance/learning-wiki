@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: parent-involvement-improves-achievement
+aliases: [parental-involvement-improves-achievement]
 evidence_strength: weak
 sources:
   - id: hill-tyson-2009
@@ -86,9 +87,25 @@ Meta-analysis of 41 studies on parental involvement and academic achievement in 
 
 **Open questions.** The stub currently has no curated Evidence entries, so effect sizes, age bands, and subject-domain boundaries cannot yet be stated with citation-level confidence. Priority studies to add include meta-analyses of parent-involvement programs and experimental evaluations of home-learning routines (e.g., shared reading and dialogic reading interventions).
 
+*Merged from “Parental Involvement Improves Achievement” (parental-involvement-improves-achievement):* **Form of involvement matters.** The literature conventionally distinguishes home-based involvement (e.g., discussing school, supporting homework routines), school-based involvement (e.g., attending events, communicating with teachers), and academic socialization (communicating expectations and the value of education). Broad syntheses in the field suggest academic socialization and home discussion show the most consistent positive associations with achievement [~M], while direct help with homework shows weaker or null average associations [~W] — plausibly because unsolicited or poorly scaffolded homework help can conflict with learner autonomy and effective [practice](../elements/practice.md) design.
+
+**Moderators and boundary conditions.** Effects appear to vary by grade level, with involvement tending to show stronger associations in earlier grades [~M]; by socioeconomic and cultural context, where measures of "involvement" may embed school-defined norms [~W]; and by whether involvement supports autonomy versus control. Overly controlling involvement can undermine the motivational benefits described in [Autonomy supports intrinsic motivation.](autonomy-supports-intrinsic-motivation.md) [-M]. Interventions that train parents in specific, structured behaviors (e.g., shared reading routines, responsive questioning) outperform generic encouragement of involvement [~M], consistent with the broader finding that [clear structure improves learning](clear-structure-improves-learning.md).
+
+**Correlational base.** Much of the evidence base is correlational, so causal claims about achievement gains require caution: involved parents differ from uninvolved parents in ways that also predict achievement (parental education, household resources, prior achievement). Experimental and quasi-experimental intervention studies — programs that train parents in responsive, structured engagement — provide a stronger but smaller evidence base, with modest positive effects on achievement [~M].
+
+**Open questions.** How digital communication tools change the cost–benefit of school-based involvement, and how involvement effects interact with teacher-side practices such as [assessment for learning](assessment-for-learning-improves-achievement.md), remain under-specified. Whether involvement benefits persist into adolescence, or are largely displaced by academic socialization at that stage, is unresolved.
+
 ## Related Claims
 
 - [Autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md) — controlling parental help can undermine the autonomous effort that involvement is meant to support
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — capacity-building parent programs work by scaffolding the child's learning environment
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — informed feedback loops between home and school mirror formative-assessment mechanisms
 - [Belonging interventions improve outcomes](belonging-interventions-improve-outcomes.md) — home–school relationship building may act partly through the child's sense of belonging
+- [Clear structure improves learning.](clear-structure-improves-learning.md) — structured parental routines mirror the benefits of structured instruction
+- [Extracurricular involvement and adult mentorship are associated with reversal of gifted underachievement](extracurriculars-mentoring-reverse-underachievement.md) — related
+- [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
+- [Evaluations of parent education initiatives using experiential methods found positive results for parents](parent-education-experiential-evaluations-positive.md) — related
+- [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — related
+- [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
+- [Parent involvement increased for three consecutive years under family-centered engagement approaches](parent-involvement-increased-three-years.md) — a narrower finding that bears on this claim
+- [Teacher Student Relationships Improve Engagement And Achievement](teacher-student-relationships-improve-engagement-and-achievement.md) — related

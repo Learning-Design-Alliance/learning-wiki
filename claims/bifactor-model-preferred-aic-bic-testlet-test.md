@@ -41,4 +41,11 @@ Empirical comparison fitting a unidimensional 2PL model, a second-order model, a
 
 
 ## Related Claims
--
+- [Ignoring testlet effects by fitting a unidimensional 2PL model produced mild shrinkage of item intercept and loading estimates toward zero relative to the bifactor model](ignoring-testlet-effects-shrinks-parameter-estimates.md) — related
+- [The second-order multidimensional IRT model for testlets is formally equivalent to the testlet model, and both are restricted bifactor models](second-order-model-equivalent-to-testlet-model.md) — related
+- [The proportionality restrictions that the testlet model imposes on the bifactor model were implausible in the applied dataset, as specific-to-general loading quotients varied far from constant within testlets](testlet-proportionality-restrictions-implausible.md) — related
+- [Model-fit statistics disagree on the best calibration for the Oral scale in the lower elementary population but agree on a two-dimensional model for the upper elementary population](mirt-model-fit-inconsistent-lower-elementary.md) — related
+- [The reciprocal EF–ER model fits only marginally better than a forward-only model, so model preference rests on theory as much as fit](reciprocal-versus-forward-only-model-fit.md) — related
+- [Model-complexity penalties favor Spectral BKT under student-stratified cross-validation but not under item-stratified cross-validation](spectral-bkt-aic-bic-stratification-dependent.md) — related
+- [The assessment violates IRT assumptions of unidimensionality and local independence, which the authors identify as a likely cause of the method discrepancy](irt-assumption-violations-cause-dif-method-discrepancy.md) — related
+- [In concurrent unidimensional calibration the Speaking subtest dominates the Oral scale score while Listening and Speaking correlate only moderately](speaking-dominates-concurrent-oral-scale.md) — related

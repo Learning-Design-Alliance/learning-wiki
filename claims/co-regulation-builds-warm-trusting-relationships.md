@@ -41,4 +41,8 @@ Section II.C qualitative findings from facilitator interviews and youth focus gr
 
 
 ## Related Claims
--
+- [Facilitators reported that co-regulation strategies strengthened their facilitation and made their interactions with youth more intentional](co-regulation-strategies-strengthen-facilitation-intentionality.md) — related
+- [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — related
+- [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) — related
+- [Implementation of co-regulation strategies was shaped by classroom context, facilitator experience and mindset, and varied in ease across strategies](co-regulation-implementation-factors-context-experience-strategy-ease.md) — related
+- [School-level constraints prevented two of nine sites from using the four-part written praise strategy](school-constraints-blocked-written-praise-two-sites.md) — related

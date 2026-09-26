@@ -41,4 +41,7 @@ Topic-prevalence analysis of Layers responses (N = 7,429 sentence rows) against 
 
 
 ## Related Claims
--
+- [In Roster Justice, Avoidant-mindset participants described roster disparities in racially neutral terms while Aware-mindset participants named the racialized nature of the disparity](roster-justice-topics-track-avoidant-aware-mindsets.md) — related
+- [In the Jeremy's Journal simulation, Equality-mindset participants more often cited school policy while Equity-mindset participants prioritized the student's health](jeremy-journal-topics-track-equality-equity-mindsets.md) — related
+- [In Coach Wright, Asset-mindset participants noticed Jeremy's positive behaviors while Deficit-mindset participants framed behavior as rule compliance, and strength language sometimes appeared without referencing actual strengths](coach-wright-topics-track-asset-deficit-mindsets.md) — related
+- [Structural topic modeling identifies simulation decision points indicative of different equity mindsets across four digital teaching simulations](stm-identifies-equity-mindset-decision-points-in-simulations.md) — a broader claim this one bears on

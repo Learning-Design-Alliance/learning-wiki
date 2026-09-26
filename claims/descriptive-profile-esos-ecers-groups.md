@@ -41,4 +41,7 @@ Descriptive statistics (Table 1, n = 22 groups) report means such as Reactions t
 
 
 ## Related Claims
--
+- [Higher overall ECERS-R classroom quality is positively correlated with Modeling of Emotional Expressiveness and total ESOS score](classroom-quality-correlates-modeling-expressiveness.md) — related
+- [Teaching about Emotions is positively associated with ECERS-R Space and Furnishings quality in kindergarten groups](teaching-about-emotions-associated-with-space-and-furnishings.md) — related
+- [Better emotional scaffolding is associated with higher ECERS-R Interaction scores](emotional-scaffolding-associated-with-ecers-interactions.md) — related
+- [Dialectical thinking support is positively associated with teachers' emotional scaffolding, reported for the first time](dts-associated-with-emotional-scaffolding.md) — related

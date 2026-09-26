@@ -92,4 +92,14 @@ The chapter reports Carpenter (2009), in which weak associates were assumed to o
 
 
 ## Related Claims
--
+- [Whether prompting students to construct explanations during retrieval adds benefit beyond initial free recall is mixed across studies](adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects.md) — related
+- [Having more multiple-choice alternatives benefits later retention when initial retrieval success is high but hurts learning when it is low](effect-of-more-multiple-choice-alternatives-depends-on-initial-retrieval-success.md) — reports the opposite
+- [Whether initial retrieval practice enhances semantic organization in final free recall is unclear, with results that may depend on how retrieval practice is implemented](effects-of-retrieval-practice-on-semantic-organization-are-unclear.md) — related
+- [Initial short-answer tests outperform initial multiple-choice tests mainly when feedback follows them; without feedback, the higher initial success of multiple-choice tests can favor multiple-choice](feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice.md) — reports the opposite
+- [Generation Effect Improves Retention](generation-effect-improves-retention.md) — related
+- [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
+- [Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects](retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) — reports the opposite
+- [Retrieval practice effects on mediator-cued final tests have been positive, but Coppens et al. (2016) concluded the true effect may be only about 0.10 to 0.20](mediator-cued-final-test-effects-of-retrieval-practice-may-be-small.md) — related
+- [The benefits of retrieval practice do not depend on an exact match between initial retrieval practice conditions and the final test format](retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats.md) — related
+- [Retrieval practice produces more learning than elaborative study techniques, including concept mapping and imagery-based strategies such as the keyword mnemonic](retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration.md) — related
+- [Strong acquisition tasks explicating the organization produce better internalization than weak tasks asking only for a structured summary](strong-acquisition-tasks-improve-internalization.md) — related

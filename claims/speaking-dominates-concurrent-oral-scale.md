@@ -58,4 +58,8 @@ Same correlation analysis of scale scores (Table 1.4). The authors report the Li
 
 
 ## Related Claims
--
+- [In an empirical comparison on a testlet-based English assessment test, the bifactor model is preferred over the second-order and unidimensional 2PL models by both AIC and BIC](bifactor-model-preferred-aic-bic-testlet-test.md) — related
+- [The three composite scoring methods yield differently related ability estimates, with the UIRT oral composite correlating far more with Speaking than Listening estimates](composite-score-estimates-correlation-patterns.md) — related
+- [Model-fit statistics disagree on the best calibration for the Oral scale in the lower elementary population but agree on a two-dimensional model for the upper elementary population](mirt-model-fit-inconsistent-lower-elementary.md) — related
+- [Exploratory factor analysis indicates the Oral composite domain is possibly two-dimensional while each single subtest appears one-dimensional, with mixed MIRT model-fit evidence on the two-dimensional structure](oral-composite-domain-two-dimensional-english-proficiency.md) — related
+- [Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content](synthesis-evaluation-measure-general-ability-lower-grades.md) — related

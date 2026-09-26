@@ -41,4 +41,7 @@ Between-group comparisons of step-frequency responses in the Montreal survey acr
 
 
 ## Related Claims
--
+- [Heterogeneous introduction to ID and references nonetheless yield homogeneous practice responses](heterogeneous-backgrounds-homogeneous-id-practice.md) — possibly the same claim (merge candidate)
+- [Only a small number of model designers follow all steps all of the time](minority-of-designers-follow-all-steps.md) — related
+- [The average annual number of patients assessed in detail did not differ significantly across the three time periods](cap-clinic-annual-volume-no-significant-change.md) — related
+- [Montreal sample differs significantly from the 1992 sample in pilot testing and assessing trainees](montreal-difference-pilot-testing-assess-trainees.md) — related

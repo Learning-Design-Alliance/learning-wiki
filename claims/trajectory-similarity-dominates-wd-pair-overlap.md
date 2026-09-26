@@ -58,4 +58,8 @@ Empirical 95% pseudo-confidence bands for WD (Figure 10, design matrix 1, median
 
 
 ## Related Claims
--
+- [Easy, highly specific simulated tasks compress the range of the WD statistic across learner types, while well-designed tasks widen it](easy-highly-specific-tasks-shrink-wd-range.md) — related
+- [The WD statistic is more useful for differentiating between simulated learner types when games are played longer](longer-games-sharpen-wd-learner-differentiation.md) — related
+- [Segmentation boundary choices differentially affect statistics computed on epistemic-game process data](segmentation-boundaries-differentially-affect-statistics.md) — related
+- [In the simulation, task complexity and task difficulty explain the majority of variance in the individual-learner WD statistic, with some effect of task specificity](task-complexity-and-difficulty-dominate-wd-variance.md) — related
+- [In simulated epistemic games, the weighted density statistic distinguishes simulated learner types with distinct mastery trajectories, with the expert trajectory showing the largest WD values](wd-detects-simulated-learner-trajectory-differences.md) — related

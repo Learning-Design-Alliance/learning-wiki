@@ -41,4 +41,5 @@ Initial comparison of nine student-variance-only models (Table IV, McFadden's R2
 
 
 ## Related Claims
--
+- [Ablation study: removing any component lowers evaluation AUC, and removing all additional features yields the lowest public and private AUCs](ablation-all-features-maximize-auc.md) — related
+- [Ablation of feature-vector models: time-window features add no predictive power to logistic regression but boost a feedforward network, and total count features substantially boost performance on all datasets](time-window-features-null-for-lr-boost-nonlinear.md) — related

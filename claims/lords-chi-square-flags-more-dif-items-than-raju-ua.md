@@ -57,4 +57,6 @@ Same observational DIF analysis, with-purification condition: "fewer items with 
 
 
 ## Related Claims
--
+- [Item purification made both DIF methods more sensitive, flagging more items](item-purification-increases-dif-detection-sensitivity.md) — related
+- [Item discrimination moderates detection differently by index: NCDIF benefits from high a-parameters only at large DIF magnitude](a-parameter-moderates-dif-detection-by-index.md) — related
+- [The chi-square significance test for NC-DIF is overly sensitive at large sample sizes, requiring an empirical cutoff value](nc-dif-chi-square-overly-sensitive-large-samples.md) — related

@@ -41,4 +41,7 @@ This is the authors' interpretive rationale in the Early Childhood Development s
 
 
 ## Related Claims
--
+- [Critics argue experiential learning's weaknesses lie in the reflective observation phase; the authors counter that trainers can develop observation skills](critics-weak-reflective-observation-phase.md) — related
+- [Knowledge gained by self-analysis is more likely to produce constructive change in teaching than insights given by an observer](self-analysis-knowledge-drives-teacher-change.md) — related
+- [Adults learn better when learning content and methods link to their previous experience](adult-learning-linked-to-previous-experience.md) — a broader claim this one bears on
+- [Evaluations of parent education initiatives using experiential methods found positive results for parents](parent-education-experiential-evaluations-positive.md) — related

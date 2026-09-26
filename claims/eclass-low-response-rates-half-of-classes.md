@@ -41,4 +41,4 @@ Participation and administration data from online delivery during Fall 2012 and 
 
 
 ## Related Claims
--
+- [Descriptive expert-like response percentages on the CLASS survey were lower for the experimental group than the control group at post-test, despite the significant ANCOVA result](class-descriptive-scores-favour-control-post-test.md) — related

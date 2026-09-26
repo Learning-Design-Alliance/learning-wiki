@@ -41,4 +41,7 @@ Comparison of two modeling approaches on the same projectile video: trial-and-er
 
 
 ## Related Claims
--
+- [Students can derive an accurate gravitational acceleration value from Tracker's parabola fit of a falling-ball video](tracker-parabola-fit-derives-gravitational-acceleration.md) — related
+- [Keying a constant-vx dynamic model against real video data helps students make sense of constant x-direction velocity in projectile motion](tracker-constant-vx-model-activity.md) — related
+- [Student video analysis of vertical jumps yields a free-fall acceleration estimate close to the local value of g](video-jump-analysis-estimates-g-near-local-value.md) — related
+- [Comparing an incorrect applied-force model (fx = 10 N) with real data shows students why projectile motion has no x-direction acceleration](tracker-incorrect-fx-model-refutes-x-force.md) — related

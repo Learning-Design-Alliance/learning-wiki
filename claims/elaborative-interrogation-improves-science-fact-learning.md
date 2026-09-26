@@ -58,4 +58,9 @@ Experiment 2: 80 grade 6 and 7 students in four conditions (strategy x activatio
 
 
 ## Related Claims
--
+- [Students recognize more belief-consistent science facts than belief-inconsistent facts, an effect appearing on recognition but not recall tests](belief-consistent-facts-better-recognized.md) — related
+- [Elaborative-interrogation students are less confident in their incorrect recognition selections than reading controls, who express great confidence in erroneous answers](elaborative-interrogation-reduces-confidence-in-errors.md) — related
+- [The quality of elaborative-interrogation answers had little effect on retention; even failed or inadequate why-answers facilitated learning relative to reading](response-quality-little-effect-on-elaborative-interrogation-retention.md) — related
+- [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) — a broader claim this one bears on
+- [Elaborative-interrogation learning gains are durable, with performance maintained up to six months after study](durable-elaborative-interrogation-gains-six-months.md) — related
+- [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related

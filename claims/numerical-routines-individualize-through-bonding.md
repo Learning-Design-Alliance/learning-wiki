@@ -46,3 +46,4 @@ This is a theory-building empirical case study, not an intervention trial: there
 
 ## Related Claims
 - (none yet linked)
+- [Number Board Games Improve Numerical Knowledge](number-board-games-improve-numerical-knowledge.md) — related

@@ -41,4 +41,9 @@ Qualitative analysis of one session: students took turns interpreting Mahaley's 
 
 
 ## Related Claims
--
+- [Elementary students prefer and can evaluate mechanistic explanations using explanatory power and accuracy criteria](elementary-students-prefer-mechanistic-explanations.md) — related
+- [Third-grade ELLs recruit familiar everyday language, including onomatopoeic labels, to talk productively about the sounds produced by strings](ells-recruit-everyday-language-sound-discussion.md) — related
+- [Everyday and invented terminology became formalized through classroom discussion, establishing a shared protocol for referring to strings](everyday-language-formalized-classroom-protocol.md) — related
+- [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related
+- [Learning environment had a less significant impact on causal mechanistic reasoning on the boiling point task, with a small effect size of 0.168](boiling-task-environment-effect.md) — related
+- [Learning environment significantly affected students' use of causal mechanistic reasoning on the dissolution task, with the core ideas environment highest at 40%](dissolution-task-environment-effect.md) — related

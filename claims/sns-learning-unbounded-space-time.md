@@ -41,4 +41,8 @@ Analysis of two exemplar threads. The Selecting Professional Tools thread showed
 
 
 ## Related Claims
--
+- [Four types of designerly talk manifest in student-managed social network spaces: tool selection, professional identity, skill-sharing coordination, and ethical design discussion](four-types-designerly-talk-sns.md) — related
+- [Student-created Facebook groups support self-directed design learning and sharing of expertise outside the formal curriculum](sns-groups-support-informal-design-learning.md) — a broader claim this one bears on
+- [Student-generated Facebook groups constitute a hidden curriculum that supports learning outside the formal design studio](student-generated-hidden-curriculum-sns.md) — related
+- [Students transition between student and proto-professional roles in informal SNS discourse, bridging learning and design practice](student-proto-professional-role-transition.md) — related
+- [Longer Facebook threads with more interlocutors show distinct structural characteristics compared to the broader corpus](thread-structure-designerly-talk-corpus.md) — related

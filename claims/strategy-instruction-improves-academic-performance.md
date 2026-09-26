@@ -76,3 +76,7 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — the theoretical frame for why strategies must manage, not add, load.
 - [Expertise Reversal Effect](../theories/expertise-reversal-effect.md) — a boundary condition: taught strategies can become redundant for advanced learners.
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — the broader construct of which strategy instruction is the most trainable component.
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — possibly the same claim (merge candidate)
+- [Self-regulation strategy instruction improves achievement](self-regulation-strategy-instruction-improves-achievement.md) — possibly the same claim (merge candidate)
+- [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — possibly the same claim (merge candidate)
+- [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — related

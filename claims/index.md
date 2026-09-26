@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**2248 entries** · 0 stable · 29 in review · 2219 drafts
+**2164 entries** · 0 stable · 27 in review · 2137 drafts
 
 ---
 
@@ -15,7 +15,6 @@ Empirical claims with evidence ratings, sources, and competing views.
 * [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md)
 * [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md)
 * [Example-problem sequences reduce cognitive load and improve learning outcomes.](example-problem-sequences-reduce-cognitive-load.md)
-* [Example–problem sequences reduce cognitive load and improve learning outcomes](example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes.md)
 * [Example–problem sequences reduce cognitive load and improve learning outcomes](worked-examples-example-problem-sequences.md)
 * [Experimenter-generated underlining is as effective as student-generated underlining for test performance](experimenter-underlining-effective-as-student-underlining.md)
 * [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md)
@@ -33,7 +32,6 @@ Empirical claims with evidence ratings, sources, and competing views.
 * [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md)
 * [Specific, difficult goals lead to higher performance than easy or vague \"do your best\" goals.](specific-difficult-goals-lead-to-higher-performance.md)
 * [Whole-task performance improves transfer of complex skills to real-world settings.](whole-task-performance-improves-transfer.md)
-* [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md)
 * [Worked examples improve mathematics performance, especially for novices.](worked-examples-improve-math-performance.md)
 * [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md)
 * [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md)
@@ -95,7 +93,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [A second wave of brain development, including experience-dependent synaptic pruning, occurs during adolescence from roughly age 11 or 12 through approximately 24](adolescent-second-wave-brain-development-pruning.md) - A second wave of brain development, including experience-dependent synaptic pruning, occurs during adolescence from roughly age 11 or 12 through approximately 24
 * [A simulation of quantum behavior violates the Bell inequality with about 99% probability using only 800 photon pairs](qrc-simulation-violates-bell-99-percent-800-pairs.md) - A simulation of quantum behavior violates the Bell inequality with about 99% probability using only 800 photon pairs
 * [A Singapore teacher community has remixed 75 EJS models and lesson packages toward a national digital library](osp-community-remixed-75-ejs-models.md) - A Singapore teacher community has remixed 75 EJS models and lesson packages toward a national digital library
-* [A single innovation foreign to the rest of the system may be rejected; success depends on a coordinated bundle of innovations](innovation-bundle-coherence-beats-single-innovation.md) - A single innovation foreign to the rest of the system may be rejected; success depends on a coordinated bundle of innovations
 * [A single meeting of self-regulating pre-service teachers contained an almost complete expansive mini-cycle of learning actions, with all expansive actions except consolidating the new practice](single-meeting-almost-complete-expansive-mini-cycle.md) - A single meeting of self-regulating pre-service teachers contained an almost complete expansive mini-cycle of learning actions, with all expansive actions except consolidating the new practice
 * [A single videodisc side can hold the equivalent of large volumes of Army printed and audiovisual training materials](videodisc-storage-packs-army-training-materials.md) - A single videodisc side can hold the equivalent of large volumes of Army printed and audiovisual training materials
 * [A six-factor measurement model of university governance shows convergent validity in the Vietnamese context](six-factor-governance-model-convergent-validity.md) - A six-factor measurement model of university governance shows convergent validity in the Vietnamese context
@@ -147,7 +144,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Achievement dimensionality appears to change from pretest to end-of-course testing, questioning unidimensional ICC measurement of individual growth during instruction](achievement-dimensionality-changes-during-instruction.md) - Achievement dimensionality appears to change from pretest to end-of-course testing, questioning unidimensional ICC measurement of individual growth during instruction
 * [Across seven kindergarten equivalence lessons, the teacher's sides-of-equation gesture (GSIDES) was coded 38 times, the most of any language or gesture code](gsides-gesture-most-frequent-teacher-code-in-kindergarten-equal-sign-lessons.md) - Across seven kindergarten equivalence lessons, the teacher's sides-of-equation gesture (GSIDES) was coded 38 times, the most of any language or gesture code
 * [Acting on the collaborative writing recommendations is argued to produce active student writers who attend to what their peers say](collaborative-writing-recommendations-argued-to-produce-active-student-writers.md) - Acting on the collaborative writing recommendations is argued to produce active student writers who attend to what their peers say
-* [Activation](activation.md)
 * [Activation Improves Learning](activation-improves-learning.md)
 * [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](active-collaborative-approaches-higher-order-thinking.md) - Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)
 * [Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions](active-learning-conditions-more-other-pedagogical-features.md) - Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions
@@ -177,7 +173,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Adults' perpetration of education-related epistemic violence on their own or relatives' children is low](adults-low-perpetration-epistemic-violence.md) - Adults' perpetration of education-related epistemic violence on their own or relatives' children is low
 * [Adults' resorting to epistemic violence correlates negatively with past enjoyment of and tendency toward education-related epistemic freedom](epistemic-violence-negatively-correlated-epistemic-freedom.md) - Adults' resorting to epistemic violence correlates negatively with past enjoyment of and tendency toward education-related epistemic freedom
 * [Advance Organizers Improve Learning](advance-organizers-improve-learning.md)
-* [Advance organizers improve learning](advance-organizers-improves-learning.md)
 * [Advanced technology's hyperinteractivity can intensify social inequality in education](hyperinteractivity-can-intensify-inequality.md) - Advanced technology's hyperinteractivity can intensify social inequality in education
 * [Adventure programs can be designed to teach participants a transferable empowerment process, not only deliver an intervention](adventure-programs-teach-empowerment-process.md) - Adventure programs can be designed to teach participants a transferable empowerment process, not only deliver an intervention
 * [Affective, developmental and emotional disorder registrations rose while mental retardation registrations fell over 26 years; pervasive developmental disorder registrations fell between Periods II and III](cap-clinic-diagnostic-profile-time-trends.md) - Affective, developmental and emotional disorder registrations rose while mental retardation registrations fell over 26 years; pervasive developmental disorder registrations fell between Periods II and III
@@ -406,7 +401,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Community partners report that co-planning under the CSL model gives them a voice in what the service project will be and how it is implemented](csl-co-planning-gives-community-partners-voice-in-project.md) - Community partners report that co-planning under the CSL model gives them a voice in what the service project will be and how it is implemented
 * [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md)
 * [Comparing an incorrect applied-force model (fx = 10 N) with real data shows students why projectile motion has no x-direction acceleration](tracker-incorrect-fx-model-refutes-x-force.md) - Comparing an incorrect applied-force model (fx = 10 N) with real data shows students why projectile motion has no x-direction acceleration
-* [Comparing contrasting cases improves learning](comparing-contrasting-cases-improve-learning.md)
 * [Comparing Contrasting Cases Improves Learning](comparing-contrasting-cases-improves-learning.md)
 * [Competitive (norm-referenced) grading pits students against one another and discourages cooperation, according to the author's argument](competitive-grading-pits-students-against-each-other.md) - Competitive (norm-referenced) grading pits students against one another and discourages cooperation, according to the author's argument
 * [Complex systems function properly only when self-assertive and integrative tendencies are in equilibrium](self-assertive-integrative-equilibrium-personality.md) - Complex systems function properly only when self-assertive and integrative tendencies are in equilibrium
@@ -416,7 +410,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Computer aiding produces positive transfer of training: aided-trained subjects maintain performance on unaided fault-diagnosis displays](computer-aiding-positive-transfer-unaided-fault-diagnosis.md) - Computer aiding produces positive transfer of training: aided-trained subjects maintain performance on unaided fault-diagnosis displays
 * [Computer-based keypad systems permit up to ten alternatives per question and per-answer scoring, unlike optical scanners](keypad-systems-allow-ten-alternatives-and-per-answer-scoring.md) - Computer-based keypad systems permit up to ten alternatives per question and per-answer scoring, unlike optical scanners
 * [Concept mapping improves learning](concept-mapping-improves-learning.md)
-* [Concept mapping improves learning outcomes](concept-maps-improve-learning.md)
 * [Conceptions of how children learn literacy are cultural and political as much as scientific, shaping different classroom practices across countries](literacy-learning-conceptions-culturally-shaped.md) - Conceptions of how children learn literacy are cultural and political as much as scientific, shaping different classroom practices across countries
 * [Conceptual change strategies in cooperative groups reduced misconceptions in community college chemistry, but poor group leadership undermined discussion](cooperative-conceptual-change-chemistry-misconceptions.md) - Conceptual change strategies in cooperative groups reduced misconceptions in community college chemistry, but poor group leadership undermined discussion
 * [Concrete reward increases children's mean ideational fluency on creativity tasks relative to control conditions](concrete-reward-increases-mean-ideational-fluency.md) - Concrete reward increases children's mean ideational fluency on creativity tasks relative to control conditions
@@ -440,7 +433,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Context-free diagnostic training transfers to context-specific performance: aided Task One training reduced cost to solution on two of three FAULT powerplants](context-free-training-transfers-to-context-specific-fault-diagnosis.md) - Context-free diagnostic training transfers to context-specific performance: aided Task One training reduced cost to solution on two of three FAULT powerplants
 * [Contextual diversity facilitates episodic recall but impairs recognition](cd-facilitates-recall-impairs-recognition.md) - Contextual diversity facilitates episodic recall but impairs recognition
 * [Contextual micro-features (worksheet wording, salient length differences, matching part-whole structure) support persistence of the less-distance-implies-less-time intuition](contextual-features-stabilize-distance-time-inference.md) - Contextual micro-features (worksheet wording, salient length differences, matching part-whole structure) support persistence of the less-distance-implies-less-time intuition
-* [Contiguity Principle Improves Learning](contiguity-principle-improves-learning.md)
 * [Contradictions surrounding the OLR drove students to appropriate it, transforming it from an object of confusion into an instrument of critical reflection](contradictions-transform-olr-into-reflection-instrument.md) - Contradictions surrounding the OLR drove students to appropriate it, transforming it from an object of confusion into an instrument of critical reflection
 * [Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL](chat-contradictions-activity-systems-rationale-for-csl.md) - Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL
 * [Contrasting workshop practices (random vs. purposeful grouping) framed the problem of labeling students around local context and teacher agency](grouping-practices-framed-labeling-problem.md) - Contrasting workshop practices (random vs.
@@ -450,7 +442,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Cooperative biology instruction raised achievement and improved perceived classroom atmosphere in Israeli junior high studies](lazarowitz-cooperative-biology-achievement.md) - Cooperative biology instruction raised achievement and improved perceived classroom atmosphere in Israeli junior high studies
 * [Cooperative learning has drawbacks including slow learners depending on fast achievers, so teachers should stress both cooperative and individual work](cooperative-learning-versus-individual-endeavors.md) - Cooperative learning has drawbacks including slow learners depending on fast achievers, so teachers should stress both cooperative and individual work
 * [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md)
-* [Cooperative learning outperforms competitive and individualistic goal structures](cooperative-learning-outperforms-competitive-individualistic.md)
 * [Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons](cooperative-learning-achievement-synthesis-slavin.md) - Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons
 * [Cooperative learning shows benefits for gifted and high-ability students, though long-term evidence is lacking](cooperative-learning-gifted-students.md) - Cooperative learning shows benefits for gifted and high-ability students, though long-term evidence is lacking
 * [Cooperative learning without individual accountability produces free-riding that reduces learning outcomes](cooperative-learning-free-rider-without-accountability.md)
@@ -509,7 +500,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Design of learning activities and measurement/evaluation load highest among knowledge and ability components; systematic thinking highest among personal attributes](idc-subcomponent-highest-loadings.md) - Design of learning activities and measurement/evaluation load highest among knowledge and ability components; systematic thinking highest among personal attributes
 * [Design-based research asks one person to be researcher, designer, project manager and theorist, and those roles compete.](design-based-research-roles-compete-and-threaten-credible-claims.md) - A review of the design-based research literature finds that the roles a DBR researcher must hold at once pull against each other, putting research quality, theory fidelity and the credibility of findings at risk.
 * [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md)
-* [Desirable Difficulties Improve Retention](desirable-difficulties-improve-retention.md)
 * [Despite ignorance of CLT, surveyed teachers report using some of its principles when designing instructions](teachers-use-clt-principles-despite-ignorance.md) - Despite ignorance of CLT, surveyed teachers report using some of its principles when designing instructions
 * [Detailed written answer keys at checkpoints significantly improved momentum post-test scores over brief answers, but not kinetic energy scores](detailed-answer-keys-improve-momentum-only.md) - Detailed written answer keys at checkpoints significantly improved momentum post-test scores over brief answers, but not kinetic energy scores
 * [Developing and delivering an integrated CBL/CEL/COIL planetary health course yielded three key lessons on flexibility, structural reform, and equitable partnerships](planetary-health-course-three-key-lessons.md) - Developing and delivering an integrated CBL/CEL/COIL planetary health course yielded three key lessons on flexibility, structural reform, and equitable partnerships
@@ -610,7 +600,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Elementary students prefer and can evaluate mechanistic explanations using explanatory power and accuracy criteria](elementary-students-prefer-mechanistic-explanations.md)
 * [Elementary undergraduates show greater belief in Existentialism than secondary undergraduates](elementary-undergrads-higher-existentialism.md) - Elementary undergraduates show greater belief in Existentialism than secondary undergraduates
 * [Eleven experts rated the tentative STEM-ICT instructional model as appropriate at a high level](stem-ict-model-expert-evaluation-high.md) - Eleven experts rated the tentative STEM-ICT instructional model as appropriate at a high level
-* [Eliciting Self Explanations Improves Understanding](eliciting-self-explanations-improves-understanding.md)
 * [ELLs attempted academic terminology from prior lessons, with experience mediating their connection to the concept of vibration](experience-mediate-connection-academic-language-vibration.md) - ELLs attempted academic terminology from prior lessons, with experience mediating their connection to the concept of vibration
 * [Embedded aids address the content-area reading problem by helping weak readers read textual material and helping effective readers transfer training across disciplines, via a running commentary explaining key concepts, terminology, and questions.](embedded-aids-support-cross-disciplinary-transfer-of-reading-skills.md) - Embedded aids address the content-area reading problem by helping weak readers read textual material and helping effective readers transfer training across disciplines, via a running commentary explaining key concepts...
 * [Embedded cognitive flexibility practice showed no overall advantage over phonics alone on growth in decoding, encoding, or cognitive flexibility](embedded-cognitive-flexibility-no-overall-advantage-winter-kindergarten.md) - Embedded cognitive flexibility practice showed no overall advantage over phonics alone on growth in decoding, encoding, or cognitive flexibility
@@ -679,7 +668,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Explanation-quality distributions differed significantly between years for Physics 1A (2011 slightly lower) but not Physics 1B](explanation-quality-differs-by-year-1a-only.md) - Explanation-quality distributions differed significantly between years for Physics 1A (2011 slightly lower) but not Physics 1B
 * [Explicit contextualization instruction improves procedural aspects of historical writing without improving contextualization scores themselves](explicit-contextualization-instruction-improves-writing-procedure-not-scores.md)
 * [Explicit Handwriting Instruction Improves Legibility](explicit-handwriting-instruction-improves-legibility.md)
-* [Explicit Writing Strategy Instruction Improves Writing](explicit-writing-strategy-instruction-improves-writing.md)
 * [Explicitly unfolding higher-order contributions into lower-order concept elements produces deeper conceptual learning opportunities than jumping directly to procedure](unfolding-knowledge-elements-produces-deeper-conceptual-learning-opportunities.md)
 * [Exploration of diversity is associated with all civic competence outcomes in community-based learning courses](diversity-enhances-all-civic-competence-outcomes.md) - Exploration of diversity is associated with all civic competence outcomes in community-based learning courses
 * [Exploratory analyses suggest the digital moderation of the EF–reappraisal link is concentrated in social media and short-form video, not gaming or educational use](category-specific-moderation-social-media-short-video.md) - Exploratory analyses suggest the digital moderation of the EF–reappraisal link is concentrated in social media and short-form video, not gaming or educational use
@@ -698,7 +686,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Extracurricular involvement and adult mentorship are associated with reversal of gifted underachievement](extracurriculars-mentoring-reverse-underachievement.md) - Extracurricular involvement and adult mentorship are associated with reversal of gifted underachievement
 * [Extraversion correlates negatively with well-being decline in wartime students, though less strongly than emotional stability](extraversion-protective-wellbeing-wartime.md) - Extraversion correlates negatively with well-being decline in wartime students, though less strongly than emotional stability
 * [Extraversion's protective effect on well-being declines with age, significant only for younger students](age-moderates-extraversion-wellbeing-effect.md) - Extraversion's protective effect on well-being declines with age, significant only for younger students
-* [Extrinsic Rewards Undermine Intrinsic Motivation](extrinsic-rewards-undermine-intrinsic-motivation.md)
 
 #### F {: #letter-f }
 
@@ -714,7 +701,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Feedback Answers Three Questions](feedback-answers-three-questions.md)
 * [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md)
 * [Feedback Improves Learning](feedback-improves-learning.md)
-* [Feedback improves learning outcomes](feedback-improves-learning-outcomes.md)
 * [Feedback Improves Learning When It Addresses Task Goals](feedback-improves-learning-when-it-addresses-task-goals.md)
 * [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md)
 * [Feedback Praise Reduces Learning](feedback-praise-reduces-learning.md)
@@ -745,8 +731,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Five socio-didactic-mathematical norms can be inferred from pre-service secondary mathematics teachers' discourse while solving a didactic-mathematical task](five-sdmns-inferred-preservice-teacher-discourse.md) - Five socio-didactic-mathematical norms can be inferred from pre-service secondary mathematics teachers' discourse while solving a didactic-mathematical task
 * [Fixed personal work places are assumed to build study habits for severely disturbed children](fixed-workplace-builds-study-habits.md) - Fixed personal work places are assumed to build study habits for severely disturbed children
 * [Fixed point analysis of the Knowledge Tracing Algorithm yields parameter constraints P(G)+P(S)<1 and 0<P(T)<(1−P(S))/(1−P(G)) for sensible behavior](kt-algorithm-fixed-point-parameter-constraints.md) - Fixed point analysis of the Knowledge Tracing Algorithm yields parameter constraints P(G)+P(S)<1 and 0<P(T)<(1−P(S))/(1−P(G)) for sensible behavior
-* [Fluency is a poor cue for actual learning](fluency-poor-cue-learning.md)
-* [Fluency Judgments Mislead Learners](fluency-judgments-mislead-learners.md)
 * [Fluent bilingualism enhances metalinguistic awareness](bilingual-fluency-enhances-metalinguistic-awareness.md)
 * [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md)
 * [Follow-up evaluation, needs assessment and task analysis are performed least often and considered least necessary](least-performed-steps-least-necessary.md) - Follow-up evaluation, needs assessment and task analysis are performed least often and considered least necessary
@@ -811,8 +795,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Group tasks are the most frequent active learning activity in college science active learning conditions, followed by activity sheets](group-tasks-most-frequent-active-learning-activity.md) - Group tasks are the most frequent active learning activity in college science active learning conditions, followed by activity sheets
 * [Group-level scaffolding training increases teacher process support and student participation](group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md)
 * [Growth mindset improves achievement](growth-mindset-improves-achievement.md)
-* [Growth Mindset Interventions Improve Achievement](growth-mindset-interventions-improve-achievement.md)
-* [Growth mindset interventions produce small positive effects on academic outcomes](growth-mindset-interventions-small-effects.md)
 * [Guided Discovery Outperforms Pure Discovery](guided-discovery-outperforms-pure-discovery.md)
 * [Guided Inquiry Outperforms Pure Discovery](guided-inquiry-outperforms-pure-discovery.md)
 * [Guided Notes Improve Note Accuracy](guided-notes-improve-note-accuracy.md)
@@ -824,7 +806,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [HackerRank test scores and prior coding experience are significantly associated with increased odds of persistence across both the coursework and apprenticeship phases of the LC101 program](test-scores-prior-coding-experience-predict-lc101-persistence.md) - HackerRank test scores and prior coding experience are significantly associated with increased odds of persistence across both the coursework and apprenticeship phases of the LC101 program
 * [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) - Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02
 * [Half of reported developmental barriers stem from academic-related challenges (50.39%)](academic-challenges-half-of-development-barriers.md) - Half of reported developmental barriers stem from academic-related challenges (50.39%)
-* [Hands On Without Conceptual Integration Insufficient](hands-on-without-conceptual-integration-insufficient.md)
 * [Hands-on learning improves achievement](hands-on-learning-improves-achievement.md)
 * [Having control over the knowledge-of-results decision only before a motor trial (Self-Before) produced no statistically significant retention or transfer benefit over a yoked group receiving the same KR schedule.](self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked.md) - Having control over the knowledge-of-results decision only before a motor trial (Self-Before) produced no statistically significant retention or transfer benefit over a yoked group receiving the same KR schedule.
 * [Having more multiple-choice alternatives benefits later retention when initial retrieval success is high but hurts learning when it is low](effect-of-more-multiple-choice-alternatives-depends-on-initial-retrieval-success.md) - Having more multiple-choice alternatives benefits later retention when initial retrieval success is high but hurts learning when it is low
@@ -849,8 +830,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Higher overall ECERS-R classroom quality is positively correlated with Modeling of Emotional Expressiveness and total ESOS score](classroom-quality-correlates-modeling-expressiveness.md) - Higher overall ECERS-R classroom quality is positively correlated with Modeling of Emotional Expressiveness and total ESOS score
 * [Higher pretest cognitive flexibility predicted greater decoding gains and compensated for lower pretest alphabet knowledge](pretest-cognitive-flexibility-predicts-decoding-gains-compensates-alphabet.md) - Higher pretest cognitive flexibility predicted greater decoding gains and compensated for lower pretest alphabet knowledge
 * [Higher-order questions (synthesis and evaluation) were rarely present in the examined question papers](higher-order-bloom-questions-rare.md) - Higher-order questions (synthesis and evaluation) were rarely present in the examined question papers
-* [Highlighting Alone Is Ineffective](highlighting-alone-is-ineffective.md)
-* [Highlighting Alone Low Utility](highlighting-alone-low-utility.md)
 * [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md)
 * [Highly reflective students often viewed the lecture-free restructured course negatively, as unchallenging and lacking in content](highly-reflective-students-found-restructured-course-unchallenging.md) - Highly reflective students often viewed the lecture-free restructured course negatively, as unchallenging and lacking in content
 * [Hint takers spend less time on a question than learners who attempt it, regardless of attempt outcome](hint-takers-spend-less-time-than-attempters.md) - Hint takers spend less time on a question than learners who attempt it, regardless of attempt outcome
@@ -893,7 +872,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Immigration discussion frequency shows no significant association with critical reflection or sociopolitical efficacy](immigration-discussion-null-critical-consciousness.md) - Immigration discussion frequency shows no significant association with critical reflection or sociopolitical efficacy
 * [Implementation of co-regulation strategies was shaped by classroom context, facilitator experience and mindset, and varied in ease across strategies](co-regulation-implementation-factors-context-experience-strategy-ease.md) - Implementation of co-regulation strategies was shaped by classroom context, facilitator experience and mindset, and varied in ease across strategies
 * [Implementation of the TPI procedure reached only one tutor-trainee pair out of nine potential tutors, though participants assessed it positively](tpi-implementation-low-participation-positive-assessment.md) - Implementation of the TPI procedure reached only one tutor-trainee pair out of nine potential tutors, though participants assessed it positively
-* [In a collaborative physics tutorial, students' interpretation of tickertape distance shifts back and forth multiple times between time and speed meanings without full resolution](students-shift-multiple-times-between-distance-meanings.md) - In a collaborative physics tutorial, students' interpretation of tickertape distance shifts back and forth multiple times between time and speed meanings without full resolution
 * [In a game-based problem-solving study, trait self-regulation scores related significantly only to knowledge map scores, with higher planning, self-monitoring, effort and self-efficacy going with better knowledge map performance](trait-self-regulation-relates-only-to-knowledge-map-scores-in-a-puzzle-game.md) - In a game-based problem-solving study, trait self-regulation scores related significantly only to knowledge map scores, with higher planning, self-monitoring, effort and self-efficacy going with better knowledge map p...
 * [In a kindergarten early algebra intervention, the teacher's equal-sign language shifted with lesson focus, from definitions and \"is the same as\" early on to \"balanced\" talk and balance gestures when evaluating and solving equations](teacher-shifts-equal-sign-language-with-kindergarten-lesson-focus.md) - In a kindergarten early algebra intervention, the teacher's equal-sign language shifted with lesson focus, from definitions and \"is the same as\" early on to \"balanced\" talk and balance gestures when evaluating and sol...
 * [In a masked-priming lexical decision task, both Chinese and Japanese speakers show a TC effect, with TC primes producing faster responses than control nonword primes](tc-effect-both-groups-masked-priming.md) - In a masked-priming lexical decision task, both Chinese and Japanese speakers show a TC effect, with TC primes producing faster responses than control nonword primes
@@ -961,7 +939,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Inadequate evidence synthesis skills left nearly 70% of pharmacy students and practitioners reporting lack of confidence in applying evidence in patient care](inadequate-evidence-synthesis-skills-lack-confidence-applying-evidence.md) - Inadequate evidence synthesis skills left nearly 70% of pharmacy students and practitioners reporting lack of confidence in applying evidence in patient care
 * [Inappropriate mealtime behavior was maintained by escape and attention](inappropriate-behavior-maintained-by-escape-and-attention.md) - Inappropriate mealtime behavior was maintained by escape and attention
 * [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md)
-* [Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure](incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure.md)
 * [Including practice with feedback in computer-based instruction significantly raises posttest achievement](practice-presence-raises-cbi-posttest-achievement.md) - Including practice with feedback in computer-based instruction significantly raises posttest achievement
 * [Inclusion of students with disabilities often falls short because efforts start from a place of exclusion, making students guests who must earn access](disability-inclusion-starts-from-exclusion.md) - Inclusion of students with disabilities often falls short because efforts start from a place of exclusion, making students guests who must earn access
 * [Inconsistent MUAC measurements, negative social influences, and phone sharing compromised uptake, especially among low interactors](family-muac-uptake-barriers.md) - Inconsistent MUAC measurements, negative social influences, and phone sharing compromised uptake, especially among low interactors
@@ -1101,17 +1078,13 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Learned question embeddings capture question difficulty rather than clustering exercises by concept](question-embeddings-capture-difficulty-not-concepts.md) - Learned question embeddings capture question difficulty rather than clustering exercises by concept
 * [Learner Constructed Graphic Organizers Outperform Provided](learner-constructed-graphic-organizers-outperform-provided.md)
 * [Learner errors arise from interlingual transfer, intralingual overgeneralization, cultural interference, and communicative strategies](error-sources-interlingual-intralingual-cultural.md) - Learner errors arise from interlingual transfer, intralingual overgeneralization, cultural interference, and communicative strategies
-* [Learner Generated Organizers Beat Provided Organizers](learner-generated-organizers-beat-provided-organizers.md)
 * [Learner Paced Beats System Paced Complex Material](learner-paced-beats-system-paced-complex-material.md)
 * [Learner presence in an accelerated online MBA context manifests as three qualities: learner intentions, learner metacognition, and peer monitoring](learner-presence-three-qualities-mba.md) - Learner presence in an accelerated online MBA context manifests as three qualities: learner intentions, learner metacognition, and peer monitoring
 * [Learner-centered teacher–student relationships improve student outcomes](learner-centered-teacher-student-relationships-are-effective.md)
 * [Learners allowed to make a knowledge-of-results decision before a trial and revise it after (Self-Both) mostly kept their original choice but sometimes changed it after seeing their own performance.](learners-given-two-kr-decisions-mostly-keep-their-first-choice.md) - Learners allowed to make a knowledge-of-results decision before a trial and revise it after (Self-Both) mostly kept their original choice but sometimes changed it after seeing their own performance.
-* [Learners Misjudge Effective Study Strategies](learners-misjudge-effective-study-strategies.md)
 * [Learners Misjudge Retrieval Benefit](learners-misjudge-retrieval-benefit.md)
 * [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md)
-* [Learners misjudge the benefits of spaced practice](learners-misjudge-spacing.md)
 * [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md)
-* [Learners mistake fluency and familiarity for actual knowledge, producing an illusion of knowing](illusion-of-knowing.md)
 * [Learners of Italian report ideal-self motivation rather than instrumental motivation, while their teachers assume the reverse.](italian-l2-motivation-is-ideal-self-not-instrumental.md) - Two independent university studies find learners of Italian motivated by an imagined future self who speaks the language and barely at all by expected usefulness — with the mismatch running the other way for their teachers.
 * [Learners use apps mostly for vocabulary development, translation, and grammar practice, often informally and in short sessions](learners-use-apps-vocabulary-translation-grammar-informally.md) - Learners use apps mostly for vocabulary development, translation, and grammar practice, often informally and in short sessions
 * [Learners using structured CAI maintained their level of memory from recall to retention, while unstructured CAI learners did not](structured-cai-maintains-memory-recall-to-retention.md) - Learners using structured CAI maintained their level of memory from recall to retention, while unstructured CAI learners did not
@@ -1119,8 +1092,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Learners who could decide after a trial whether to receive knowledge of results (Self-After, Self-Both) were more accurate on a 24-h motor retention test than learners who decided before the trial (Self-Before) and than their yoked counterparts.](self-controlled-kr-decided-after-trial-improves-motor-retention.md) - Learners who could decide after a trial whether to receive knowledge of results (Self-After, Self-Both) were more accurate on a 24-h motor retention test than learners who decided before the trial (Self-Before) and th...
 * [Learners who could decide after a trial whether to receive knowledge of results estimated their own movement outcomes more accurately in retention than Self-Before learners and their yoked counterparts.](self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy.md) - Learners who could decide after a trial whether to receive knowledge of results estimated their own movement outcomes more accurately in retention than Self-Before learners and their yoked counterparts.
 * [Learning and innovation skills outcomes: 15 innovations from the game design program and six from the mathematics CAI program, with all students working creatively with others](innovation-skills-by-program-outcomes.md) - Learning and innovation skills outcomes: 15 innovations from the game design program and six from the mathematics CAI program, with all students working creatively with others
-* [Learning By Teaching Improves Learning](learning-by-teaching-improves-learning.md)
-* [Learning By Teaching Improves Mastery](learning-by-teaching-improves-mastery.md)
 * [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md)
 * [Learning environment had a less significant impact on causal mechanistic reasoning on the boiling point task, with a small effect size of 0.168](boiling-task-environment-effect.md) - Learning environment had a less significant impact on causal mechanistic reasoning on the boiling point task, with a small effect size of 0.168
 * [Learning environment significantly affected students' use of causal mechanistic reasoning on the dissolution task, with the core ideas environment highest at 40%](dissolution-task-environment-effect.md) - Learning environment significantly affected students' use of causal mechanistic reasoning on the dissolution task, with the core ideas environment highest at 40%
@@ -1130,7 +1101,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Learning should be assessed with retention and transfer tests rather than current practice performance](retention-transfer-tests-define-learning.md) - Learning should be assessed with retention and transfer tests rather than current practice performance
 * [Learning Space Redesign Alone Insufficient](learning-space-redesign-alone-insufficient.md)
 * [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md)
-* [Learning Styles Matching Yields No Benefit](learning-styles-matching-yields-no-benefit.md)
 * [Learning styles measured by Kolb's inventory showed no significant change over one year of varied instruction](kolb-learning-style-stable-over-one-year.md) - Learning styles measured by Kolb's inventory showed no significant change over one year of varied instruction
 * [Length of residence in the United States does not predict psychosocial development of adult Korean immigrants](length-of-residence-does-not-predict-immigrant-psychosocial-development.md) - Length of residence in the United States does not predict psychosocial development of adult Korean immigrants
 * [Less experienced debate judges are more likely to be assigned to parliamentary debate](inexperienced-judges-assigned-to-parliamentary-debate.md) - Less experienced debate judges are more likely to be assigned to parliamentary debate
@@ -1203,10 +1173,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [MI theory lacks empirical theory-testing research supporting its intelligences as autonomous faculties](mi-lacks-empirical-theory-testing.md) - MI theory lacks empirical theory-testing research supporting its intelligences as autonomous faculties
 * [Middle-school students progress through zones of mathematical play in a designed digital game, taking varied conceptual paths to the same goal](students-progress-through-zones-of-mathematical-play.md)
 * [Mindfulness programs show substantial benefits across cognitive and emotional regulation as well as stress and mental health in adolescents and young adults](mindfulness-programs-benefit-adolescent-regulation.md) - Mindfulness programs show substantial benefits across cognitive and emotional regulation as well as stress and mental health in adolescents and young adults
-* [Minimal Guidance Instruction Less Effective](minimal-guidance-instruction-less-effective.md)
-* [Minimal guidance is ineffective for novices](minimal-guidance-ineffective-for-novices.md)
 * [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md)
-* [Minimally Guided Instruction Less Effective For Novices](minimally-guided-instruction-less-effective-for-novices.md)
 * [Minority female test-takers are doubly penalized, scoring below the males of their own ethnic group and below white males](minority-females-doubly-penalized-on-tests.md) - Minority female test-takers are doubly penalized, scoring below the males of their own ethnic group and below white males
 * [Misconceptions Interfere With New Learning](misconceptions-interfere-with-new-learning.md)
 * [Mismatched Graphic Organizers Increase Extraneous Load](mismatched-graphic-organizers-increase-extraneous-load.md)
@@ -1216,8 +1183,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Mnemonic Instruction Improves Recall For Students With Disabilities](mnemonic-instruction-improves-recall-for-students-with-disabilities.md)
 * [Mobile user typology shows cross-national specificity: class distributions differ across campus-territory groups, challenging the assumption of a fixed set of user segments across countries](cross-national-specificity-of-user-typology.md) - Mobile user typology shows cross-national specificity: class distributions differ across campus-territory groups, challenging the assumption of a fixed set of user segments across countries
 * [Mobile user typology significantly predicts behavioural intention to adopt mobile learning, independently explaining approximately 11% of its variance](mobile-user-typology-predicts-adoption-intention.md) - Mobile user typology significantly predicts behavioural intention to adopt mobile learning, independently explaining approximately 11% of its variance
-* [Modality Principle Narration Beats On Screen Text](modality-principle-narration-beats-on-screen-text.md)
-* [Modality Principle Spoken Narration Beats On Screen Text](modality-principle-spoken-narration-beats-on-screen-text.md)
 * [Model-complexity penalties favor Spectral BKT under student-stratified cross-validation but not under item-stratified cross-validation](spectral-bkt-aic-bic-stratification-dependent.md) - Model-complexity penalties favor Spectral BKT under student-stratified cross-validation but not under item-stratified cross-validation
 * [Model-fit statistics disagree on the best calibration for the Oral scale in the lower elementary population but agree on a two-dimensional model for the upper elementary population](mirt-model-fit-inconsistent-lower-elementary.md) - Model-fit statistics disagree on the best calibration for the Oral scale in the lower elementary population but agree on a two-dimensional model for the upper elementary population
 * [Modeling training improved imaginative play in disadvantaged kindergartners, with gains in imaginativeness, verbal communication, spontaneity, and attention span persisting two months](modeling-training-improves-imaginative-play.md) - Modeling training improved imaginative play in disadvantaged kindergartners, with gains in imaginativeness, verbal communication, spontaneity, and attention span persisting two months
@@ -1260,10 +1225,8 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Multidimensional latent variable models rarely support more than about four to six latent variables, limiting fine-grained SKIVE modeling](latent-variable-models-limit-grain-size.md) - Multidimensional latent variable models rarely support more than about four to six latent variables, limiting fine-grained SKIVE modeling
 * [Multimedia enhancing features increase attention to print in single-language e-books in both English and Mandarin](enhancing-features-increase-attention-single-language-e-books.md) - Multimedia enhancing features increase attention to print in single-language e-books in both English and Mandarin
 * [Multimedia features improved story comprehension in dual-language e-books (marginal trend) but not in single-language e-books](comprehension-benefit-dual-language-only.md) - Multimedia features improved story comprehension in dual-language e-books (marginal trend) but not in single-language e-books
-* [Multimedia Learning More Effective With Words And Pictures](multimedia-learning-more-effective-with-words-and-pictures.md)
 * [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md)
 * [Multimedia Principles Benefit Novices](multimedia-principles-benefit-novices.md)
-* [Multimedia Words Plus Images Beat Words Alone](multimedia-words-plus-images-beat-words-alone.md)
 * [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md)
 * [Multiple Contrasting Cases Support Abstraction](multiple-contrasting-cases-support-abstraction.md)
 * [Multiple representations improve learning](multiple-representations-improve-learning.md)
@@ -1359,7 +1322,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Parent involvement increased for three consecutive years under family-centered engagement approaches](parent-involvement-increased-three-years.md) - Parent involvement increased for three consecutive years under family-centered engagement approaches
 * [Parent-child similarity in newspaper exposure peaks during early adolescence (ages 12-14)](parent-child-newspaper-similarity-peaks-early-adolescence.md) - Parent-child similarity in newspaper exposure peaks during early adolescence (ages 12-14)
 * [Parental awareness of alternative AAC systems is limited, and only about one-third agree AAC systems are suitable for all children](limited-parental-awareness-of-alternative-aac-systems.md) - Parental awareness of alternative AAC systems is limited, and only about one-third agree AAC systems are suitable for all children
-* [Parental Involvement Improves Achievement](parental-involvement-improves-achievement.md)
 * [Parental support for a neighborhood single-gender middle school varied across elementary attendance zones](parental-support-single-gender-middle-school-varies-by-attendance-zone.md) - Parental support for a neighborhood single-gender middle school varied across elementary attendance zones
 * [Parents more often report initial difficulty accepting AAC than continued difficulty after time has passed](aac-acceptance-difficulty-declines-over-time.md) - Parents more often report initial difficulty accepting AAC than continued difficulty after time has passed
 * [Parents of children with autism using AAC commonly report perceived benefits, most frequently increased communication opportunities](parents-report-high-perceived-aac-benefits-nablus.md) - Parents of children with autism using AAC commonly report perceived benefits, most frequently increased communication opportunities
@@ -1392,8 +1354,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [PD support type and salience depends on a teacher team's current phase in the adaptive learning cycle](pd-support-salience-depends-on-adaptive-cycle-phase.md)
 * [PDSA testing of instructional routines provided a durable structure for teachers to reflect on and improve instruction over time](pdsa-testing-routines-structure-teacher-reflection.md) - PDSA testing of instructional routines provided a durable structure for teachers to reflect on and improve instruction over time
 * [Peer Assessment Benefits Assessor](peer-assessment-benefits-assessor.md)
-* [Peer Assessment Improves Academic Performance](peer-assessment-improves-academic-performance.md)
-* [Peer Assessment Improves Achievement](peer-assessment-improves-achievement.md)
 * [Peer Assessment Improves Performance](peer-assessment-improves-performance.md)
 * [Peer Assessment Structured Criteria Improve Learning](peer-assessment-structured-criteria-improve-learning.md)
 * [Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) - Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction
@@ -1402,14 +1362,12 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Peer Feedback Accuracy Depends On Expertise](peer-feedback-accuracy-depends-on-expertise.md)
 * [Peer Feedback Improves Work Quality](peer-feedback-improves-work-quality.md)
 * [Peer Feedback Improves Writing](peer-feedback-improves-writing.md)
-* [Peer Feedback Improves Writing Outcomes](peer-feedback-improves-writing-outcomes.md)
 * [Peer mentoring by SLAMs increases posttest civic action scores in service-learning courses](peer-mentoring-increases-civic-action-service-learning.md) - Peer mentoring by SLAMs increases posttest civic action scores in service-learning courses
 * [Peer mentoring shows a trend toward higher posttest social justice attitudes](peer-mentoring-trend-social-justice-attitudes.md) - Peer mentoring shows a trend toward higher posttest social justice attitudes
 * [Peer monitoring among MBA learners goes beyond CoI social presence by involving professionally relevant evaluation of peers' contributions](peer-monitoring-exceeds-social-presence.md) - Peer monitoring among MBA learners goes beyond CoI social presence by involving professionally relevant evaluation of peers' contributions
 * [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md)
 * [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md)
 * [People acquire different knowledge from different media, the closest indirect evidence for symbolic encoding specificity](different-media-yield-different-knowledge-encoding.md) - People acquire different knowledge from different media, the closest indirect evidence for symbolic encoding specificity
-* [People learn better from words and pictures than from words alone](multimedia-principle.md)
 * [Perceived AAC benefit score is positively correlated with the seven-item AAC implementation experience score](perceived-benefit-correlates-with-aac-experience.md) - Perceived AAC benefit score is positively correlated with the seven-item AAC implementation experience score
 * [Perceived discrepancy between actual teaching performance and goals motivates teachers to change their teaching](performance-goal-discrepancy-motivates-teacher-change.md) - Perceived discrepancy between actual teaching performance and goals motivates teachers to change their teaching
 * [Perceived immersive, interactive, and distributed affordances are each positively associated with a distinct lacquer-painting imagery characteristic in cross-sectional survey data](perceived-digital-affordances-associated-with-lacquer-imagery-characteristics.md) - Perceived immersive, interactive, and distributed affordances are each positively associated with a distinct lacquer-painting imagery characteristic in cross-sectional survey data
@@ -1426,7 +1384,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Philippine basic literacy is 89.8% and functional literacy 73.2%, yet BNFE serves only 1.07% of estimated adult education clientele](philippine-literacy-rates-bnfe-inadequate-coverage.md) - Philippine basic literacy is 89.8% and functional literacy 73.2%, yet BNFE serves only 1.07% of estimated adult education clientele
 * [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md)
 * [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md)
-* [Phonics Instruction Improves Word Reading](phonics-instruction-improves-word-reading.md)
 * [Phonics Instruction Outperforms Whole Word For Generalization](phonics-instruction-outperforms-whole-word-for-generalization.md)
 * [Phonological Awareness Training Improves Reading](phonological-awareness-training-improves-reading.md)
 * [Physical education teachers studying in a graduate program endorse progressivism, perennialism and essentialism more than teachers with an undergraduate degree](graduate-educated-pe-teachers-endorse-progressivism-perennialism-and-essentialism-more.md) - Physical education teachers studying in a graduate program endorse progressivism, perennialism and essentialism more than teachers with an undergraduate degree
@@ -1456,7 +1413,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Positioning students as sources increases productive participation in science discourse](positioning-students-as-sources-increases-productive-participation-in-science-discourse.md)
 * [Positive Bias (more non-modal responses above than below the mode) distinguishes subjects likely to advance in Modal Level from those likely to consolidate](positive-bias-predicts-modal-level-advance.md) - Positive Bias (more non-modal responses above than below the mode) distinguishes subjects likely to advance in Modal Level from those likely to consolidate
 * [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md)
-* [Positive Greetings At The Door Improve Engagement And Behavior](positive-greetings-at-the-door-improve-engagement-and-behavior.md)
 * [Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged](positive-relationships-increase-civic-engagement-intention.md) - Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged
 * [Positive SLAM-student relationship qualities correlate with civic action](slam-relationship-quality-correlates-civic-action.md) - Positive SLAM-student relationship qualities correlate with civic action
 * [Post-2014 comparison studies still most commonly contrast one active learning condition with one lecture condition](studies-still-compare-active-learning-versus-lecture.md) - Post-2014 comparison studies still most commonly contrast one active learning condition with one lecture condition
@@ -1496,7 +1452,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Pretest, attendance, and EB status showed distinct covariate effects on specific literacy outcomes](covariate-effects-pretest-attendance-eb-gains.md) - Pretest, attendance, and EB status showed distinct covariate effects on specific literacy outcomes
 * [Pretesting Can Harm Motivation](pretesting-can-harm-motivation.md)
 * [Pretesting enhances learning](pretesting-enhances-learning.md)
-* [Pretesting Improves Retention](pretesting-improves-retention.md)
 * [Pretraining Improves Transfer](pretraining-improves-transfer.md)
 * [Previous instructional-video research lacks a consistent taxonomy, hindering comparison and meta-analysis](video-style-research-lacks-consistent-taxonomy.md) - Previous instructional-video research lacks a consistent taxonomy, hindering comparison and meta-analysis
 * [Previous knowledge and management experiences can inhibit new teachers' learning of new classroom management models](prior-experience-barriers-to-new-management-models.md) - Previous knowledge and management experiences can inhibit new teachers' learning of new classroom management models
@@ -1514,11 +1469,9 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Prior-knowledge activation instructions before study had little effect on retention in Experiment 2](prior-knowledge-activation-little-effect-on-retention.md) - Prior-knowledge activation instructions before study had little effect on retention in Experiment 2
 * [Process evaluation found no major recordkeeping or pupil-selection problems in ADK classrooms](adk-process-evaluation-no-major-problems.md) - Process evaluation found no major recordkeeping or pupil-selection problems in ADK classrooms
 * [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md)
-* [Process Writing Instruction Improves Writing Quality](process-writing-instruction-improves-writing-quality.md)
 * [Process-tracing measures should accompany outcome measures because process changes may not be immediately reflected in outcomes](process-tracing-measures-for-learning.md) - Process-tracing measures should accompany outcome measures because process changes may not be immediately reflected in outcomes
 * [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](plc-norms-three-categories-trust-prerequisite.md) - Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time
 * [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md)
-* [Productive Failure Improves Learning](productive-failure-improves-learning.md)
 * [Professional dialog maintains and reproduces the logic of each knowledge context over time](professional-dialog-reproduces-knowledge-context-logic.md) - Professional dialog maintains and reproduces the logic of each knowledge context over time
 * [Professor-student relationship quality correlates with multiple civic engagement outcomes in both directions](professor-relationship-quality-civic-engagement-bidirectional.md) - Professor-student relationship quality correlates with multiple civic engagement outcomes in both directions
 * [Program experiments on the McClelland & Rumelhart interactive activation model turned thought experiments into real tests, revealing friends-enemies, rich-get-richer, and gang effects](interactive-activation-program-experiments-mask-effects.md) - Program experiments on the McClelland & Rumelhart interactive activation model turned thought experiments into real tests, revealing friends-enemies, rich-get-richer, and gang effects
@@ -1575,12 +1528,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Recognition of prior informal learning (PLAR) would substantially narrow the course-participation gap between occupational classes](plar-narrow-participation-gap.md) - Recognition of prior informal learning (PLAR) would substantially narrow the course-participation gap between occupational classes
 * [Recovery from decline was linked to the presence of paradoxical strategies, while linearity was not](paradoxical-strategies-linked-to-recovery-from-decline.md) - Recovery from decline was linked to the presence of paradoxical strategies, while linearity was not
 * [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md)
-* [Redundancy Harms Learning](redundancy-harms-learning.md)
 * [Redundancy Hurts Learning](redundancy-hurts-learning.md)
-* [Redundancy Hurts Multimedia Learning](redundancy-hurts-multimedia-learning.md)
-* [Redundancy Principle Hurts Learning](redundancy-principle-hurts-learning.md)
-* [Redundancy Principle On Screen Text Hurts Learning](redundancy-principle-on-screen-text-hurts-learning.md)
-* [Redundant On Screen Text Hurts Learning](redundant-on-screen-text-hurts-learning.md)
 * [Redundant on-screen text duplicates of narration or graphics impair learning](redundancy-principle.md)
 * [Redundant text in the diagram did not affect posttest accuracy or difficulty ratings](redundant-text-no-effect-posterior-probability-lesson.md) - Redundant text in the diagram did not affect posttest accuracy or difficulty ratings
 * [Reentry teachers without mentors made the greatest progress through Fuller's stages; reentry teachers with mentors developed very limitedly](reentry-without-mentors-greatest-fuller-progress.md) - Reentry teachers without mentors made the greatest progress through Fuller's stages; reentry teachers with mentors developed very limitedly
@@ -1636,14 +1584,11 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects](retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) - Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects
 * [Retrieval practice effects on mediator-cued final tests have been positive, but Coppens et al. (2016) concluded the true effect may be only about 0.10 to 0.20](mediator-cued-final-test-effects-of-retrieval-practice-may-be-small.md) - Retrieval practice effects on mediator-cued final tests have been positive, but Coppens et al.
 * [Retrieval practice enhances final-test recollection of contextual details and speeds final retrieval, as shown by list discrimination, response time, and cumulative recall measures](retrieval-practice-enhances-final-context-memory-and-memory-search-efficiency.md) - Retrieval practice enhances final-test recollection of contextual details and speeds final retrieval, as shown by list discrimination, response time, and cumulative recall measures
-* [Retrieval Practice Enhances Long Term Retention](retrieval-practice-enhances-long-term-retention.md)
 * [Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not](retrieval-practice-improves-final-inference-and-transfer-questions.md) - Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not
 * [Retrieval practice enhances retention relative to repeated study, with an overall effect of g = 0.50 across 159 studies in Rowland's (2014) meta-analysis](retrieval-practice-outperforms-repeated-study-rowland-meta-analysis.md) - Retrieval practice enhances retention relative to repeated study, with an overall effect of g = 0.50 across 159 studies in Rowland's (2014) meta-analysis
 * [Retrieval practice format, levels of thinking and retention interval show no significant three-way interaction on undergraduates' reading comprehension](retrieval-format-levels-of-thinking-retention-interval-three-way-interaction-not-significant.md) - Retrieval practice format, levels of thinking and retention interval show no significant three-way interaction on undergraduates' reading comprehension
-* [Retrieval Practice Improves Learning](retrieval-practice-improves-learning.md)
 * [Retrieval Practice Improves Long Term Retention](retrieval-practice-improves-long-term-retention.md)
 * [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md)
-* [Retrieval practice improves long-term retention more than restudying](testing-effect-retrieval-practice-improves-retention.md)
 * [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md)
 * [Retrieval practice instructions improved final recall of translations in Experiment 1](retrieval-instructions-improve-final-recall-exp1.md) - Retrieval practice instructions improved final recall of translations in Experiment 1
 * [Retrieval practice instructions led students to recall items to a criterion of about three correct retrievals before dropping them](instructions-promote-three-recall-criterion.md) - Retrieval practice instructions led students to recall items to a criterion of about three correct retrievals before dropping them
@@ -1671,7 +1616,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Rubric scoring showed low inter-assessor reliability (mean class standard deviation 1.2 of 9 points)](engineering-rubric-low-scoring-reliability.md) - Rubric scoring showed low inter-assessor reliability (mean class standard deviation 1.2 of 9 points)
 * [Rubrics Improve Peer Feedback Quality](rubrics-improve-peer-feedback-quality.md)
 * [Rubrics improve student work](rubrics-improve-student-work.md)
-* [Rubrics Improve Student Work Quality](rubrics-improve-student-work-quality.md)
 
 #### S {: #letter-s }
 
@@ -1682,7 +1626,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Satisfaction with facilities and infrastructure rises with student enrollment size](facilities-ratings-rise-with-enrollment-size.md) - Satisfaction with facilities and infrastructure rises with student enrollment size
 * [Scaffolded Close Reading Improves Comprehension For Struggling Readers](scaffolded-close-reading-improves-comprehension-for-struggling-readers.md)
 * [Scaffolding improves learning](scaffolding-improves-learning.md)
-* [Scaffolding improves learning outcomes](scaffolding-improves-learning-outcomes.md)
 * [Scholarship on teaching style at the collegiate level has nearly disappeared since the social turn](style-teaching-disappeared-collegiate-level.md) - Scholarship on teaching style at the collegiate level has nearly disappeared since the social turn
 * [School (A, B, C) showed no statistically significant effect on post-test applied conceptual understanding in the ANCOVA model](school-effect-null-ecology-puppetry-ancova.md) - School (A, B, C) showed no statistically significant effect on post-test applied conceptual understanding in the ANCOVA model
 * [School social workers perceive immigration enforcement as a daily macro-level force producing fear and trauma among immigrant students and families](ssws-perceive-enforcement-daily-macro-force.md) - School social workers perceive immigration enforcement as a daily macro-level force producing fear and trauma among immigrant students and families
@@ -1697,29 +1640,20 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) - Secondary academic performance is predicted by cognitive ability more strongly than by curiosity
 * [Secondary education students show significantly higher belief in Realism than elementary education students](secondary-students-higher-realism-than-elementary.md) - Secondary education students show significantly higher belief in Realism than elementary education students
 * [Section 1 research studies provide methods and awareness for addressing textbook bias](research-section-supports-bias-analysis.md) - Section 1 research studies provide methods and awareness for addressing textbook bias
-* [Seductive Details Harm Learning](seductive-details-harm-learning.md)
 * [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md)
 * [Segmentation boundary choices differentially affect statistics computed on epistemic-game process data](segmentation-boundaries-differentially-affect-statistics.md) - Segmentation boundary choices differentially affect statistics computed on epistemic-game process data
 * [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md)
-* [Segmenting Principle Improves Multimedia Learning](segmenting-principle-improves-multimedia-learning.md)
 * [SEL Programs Improve Academic Achievement](sel-programs-improve-academic-achievement.md)
 * [SEL Programs Improve Behavior And Achievement](sel-programs-improve-behavior-and-achievement.md)
 * [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md)
 * [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md)
-* [Self Assessment Against Criteria Supports Self Regulated Learning](self-assessment-against-criteria-supports-self-regulated-learning.md)
 * [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md)
 * [Self Determined Learning Model Of Instruction Improves Self Determination](self-determined-learning-model-of-instruction-improves-self-determination.md)
 * [Self Directed IEP Increases Student Participation](self-directed-iep-increases-student-participation.md)
-* [Self Explanation Prompts Improve Learning](self-explanation-prompts-improve-learning.md)
 * [Self Explanation Prompts Improve Learning From Worked Examples](self-explanation-prompts-improve-learning-from-worked-examples.md)
 * [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md)
 * [Self Monitoring Improves On Task Behavior](self-monitoring-improves-on-task-behavior.md)
-* [Self Regulated Learning Improves Academic Outcomes](self-regulated-learning-improves-academic-outcomes.md)
 * [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md)
-* [Self Regulated Learning Strategies Improve Achievement](self-regulated-learning-strategies-improve-achievement.md)
-* [Self Regulated Learning Strategies Improve Performance](self-regulated-learning-strategies-improve-performance.md)
-* [Self Regulated Learning Strategy Instruction Improves Achievement](self-regulated-learning-strategy-instruction-improves-achievement.md)
-* [Self Regulation Strategy Instruction Improves Academic Performance](self-regulation-strategy-instruction-improves-academic-performance.md)
 * [Self Talk Improves Learning And Performance](self-talk-improves-learning-and-performance.md)
 * [Self-affirmation improves outcomes](self-affirmation-improves-outcomes.md)
 * [Self-determination instruction improves outcomes](self-determination-instruction-improves-outcomes.md)
@@ -1731,7 +1665,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Self-explanation improves learning](self-explanation-improves-learning.md)
 * [Self-questioning improves comprehension](self-questioning-improves-comprehension.md)
 * [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md)
-* [Self-regulated learning improves outcomes](self-regulated-learning-improves-outcomes.md)
 * [Self-regulated learning is domain specific, with greater cognitive strategy use in social studies and English than in mathematics](srl-is-domain-specific-strategy-use-varies-by-subject.md) - Self-regulated learning is domain specific, with greater cognitive strategy use in social studies and English than in mathematics
 * [Self-regulated learning strategies account for up to 51% of the variance in academic performance, with metacognitive regulation strategies the strongest predictors](srl-strategies-account-up-to-51-percent-variance-academic-performance.md) - Self-regulated learning strategies account for up to 51% of the variance in academic performance, with metacognitive regulation strategies the strongest predictors
 * [Self-regulated learning strategy instruction improves writing outcomes](self-regulated-learning-strategies-improve-writing.md)
@@ -1778,8 +1711,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Small Group Learning Improves STEM Achievement](small-group-learning-improves-stem-achievement.md)
 * [Smartphone attachment is associated with impatience and impulsive behavior in young children, per cited literature](smartphone-attachment-impatience-impulsivity.md) - Smartphone attachment is associated with impatience and impulsive behavior in young children, per cited literature
 * [Smartphone use during class is a distraction with potential to compromise grades (review attribution)](smartphone-class-distraction-grades.md) - Smartphone use during class is a distraction with potential to compromise grades (review attribution)
-* [Social Emotional Learning Improves Achievement](social-emotional-learning-improves-achievement.md)
-* [Social Emotional Learning Programs Improve Achievement](social-emotional-learning-programs-improve-achievement.md)
 * [Social interdependence, not role interdependence or specialization, correlates with performance and well-being](social-interdependence-predicts-performance.md) - Social interdependence, not role interdependence or specialization, correlates with performance and well-being
 * [Social media tools plugged into learning management systems are presented as \"social learning\" solutions without being designed around social learning theory](social-media-tools-misappropriated-as-social-learning.md) - Social media tools plugged into learning management systems are presented as \"social learning\" solutions without being designed around social learning theory
 * [Social network site participation enables design learning that breaks the confines of space and time, including pre-enrollment learning and asynchronous ethical discussion](sns-learning-unbounded-space-time.md) - Social network site participation enables design learning that breaks the confines of space and time, including pre-enrollment learning and asynchronous ethical discussion
@@ -1794,24 +1725,17 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Some students expanded and generalized class tools and rhetorical concepts into their own activities beyond the course](expansion-generalization-beyond-classroom.md) - Some students expanded and generalized class tools and rhetorical concepts into their own activities beyond the course
 * [Some students found the guided-inquiry worksheet activities insufficiently thought-provoking and the data exchange troublesome](students-criticize-inquiry-worksheets-low-thinking.md) - Some students found the guided-inquiry worksheet activities insufficiently thought-provoking and the data exchange troublesome
 * [Some users prefer a single-form Boolean query interface to the original Entrez interface](single-form-boolean-query-preferred-by-some-users.md) - Some users prefer a single-form Boolean query interface to the original Entrez interface
-* [Spaced Practice Improves Long Term Retention](spaced-practice-improves-long-term-retention.md)
 * [Spaced Practice Improves Retention](spaced-practice-improves-retention.md)
 * [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md)
 * [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md)
 * [Spaced Retrieval Outperforms Restudy](spaced-retrieval-outperforms-restudy.md)
-* [Spaced Retrieval Practice Improves Retention](spaced-retrieval-practice-improves-retention.md)
 * [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) - Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention
-* [Spacing Improves Long Term Retention](spacing-improves-long-term-retention.md)
-* [Spacing Improves Retention](spacing-improves-retention.md)
-* [Spatial Contiguity Improves Learning](spatial-contiguity-improves-learning.md)
 * [Spatial Skills Improve Through Block Building](spatial-skills-improve-through-block-building.md)
 * [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md)
 * [Speaking gains were significant for fluency, pronunciation and vocabulary but not for grammar](ideation-discussion-speaking-gains-not-grammar.md) - Speaking gains were significant for fluency, pronunciation and vocabulary but not for grammar
 * [Spectral BKT achieves higher prediction accuracy than standard BKT on the KDD Cup 2010 Bridge to Algebra data, reaching 92% accuracy](spectral-bkt-beats-standard-bkt-accuracy-kdd2010.md) - Spectral BKT achieves higher prediction accuracy than standard BKT on the KDD Cup 2010 Bridge to Algebra data, reaching 92% accuracy
 * [Spectral BKT's accuracy advantage over standard BKT varies by skill opportunity: slightly worse at opportunity 1, but decisive at opportunities 2 and 3+](spectral-bkt-advantage-varies-by-opportunity.md) - Spectral BKT's accuracy advantage over standard BKT varies by skill opportunity: slightly worse at opportunity 1, but decisive at opportunities 2 and 3+
-* [Split attention between mutually referring sources of information impairs learning](split-attention-effect-impairs-learning.md)
 * [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md)
-* [Split Attention Effect Integration Improves Learning](split-attention-effect-integration-improves-learning.md)
 * [Spontaneous break-apart-make-ten strategy use is associated with stronger multiplicative double-counting reasoning](spontaneous-additive-strategy-relates-to-multiplicative-reasoning.md)
 * [Spontaneous discovery of contradictions was much higher among American students than among Soviet peers, attributed to lack of mediation of challenge](spontaneous-contradiction-discovery-higher-american-than-soviet.md) - Spontaneous discovery of contradictions was much higher among American students than among Soviet peers, attributed to lack of mediation of challenge
 * [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md)
@@ -1945,7 +1869,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Teacher agency development proceeds through temporal phases in which different subsystems dominate](agency-subsystems-dominate-temporally.md) - Teacher agency development proceeds through temporal phases in which different subsystems dominate
 * [Teacher buy-in and willingness to engage are viewed as strong mediators of coaching benefits](teacher-buy-in-mediates-coaching-benefit.md) - Teacher buy-in and willingness to engage are viewed as strong mediators of coaching benefits
 * [Teacher concern development is better characterized as progression and retreat than linear stage movement](teacher-concern-progression-and-retreat.md) - Teacher concern development is better characterized as progression and retreat than linear stage movement
-* [Teacher Expectancy Effects Influence Student Achievement](teacher-expectancy-effects-influence-student-achievement.md)
 * [Teacher expectation effects on achievement](teacher-expectation-effects-on-achievement.md)
 * [Teacher expertise level shows no statistically significant difference on any of five selected indicators of effective teaching in elementary physical education](expertise-levels-no-difference-teaching-indicators.md) - Teacher expertise level shows no statistically significant difference on any of five selected indicators of effective teaching in elementary physical education
 * [Teacher fidelity (TKSS total score) shows a statistically significant interaction effect on pre-to-post changes in student problem behavior (F = 10.43, p = .003)](tkss-fidelity-ancova-interaction-problem-behavior.md) - Teacher fidelity (TKSS total score) shows a statistically significant interaction effect on pre-to-post changes in student problem behavior (F = 10.43, p = .003)
@@ -2013,9 +1936,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Test items with male-oriented content are a source of bias: females tend to do better on items with female or neutral figures](male-oriented-item-content-biases-test-scores.md) - Test items with male-oriented content are a source of bias: females tend to do better on items with female or neutral figures
 * [Test length, focal group distribution, number of DIF items, and direction of DIF had little effect on detection rates](polytomous-dfit-factors-little-effect.md) - Test length, focal group distribution, number of DIF items, and direction of DIF had little effect on detection rates
 * [Test-score increases occurred only for identical and near-transfer problems; no increases were found for far-transfer problems in any of the three conditions](germane-load-gains-limited-to-identical-and-near-transfer-problems.md) - Test-score increases occurred only for identical and near-transfer problems; no increases were found for far-transfer problems in any of the three conditions
-* [Testing Effect Improves Learning](testing-effect-improves-learning.md)
-* [Testing Effect Improves Retention](testing-effect-improves-retention.md)
-* [Testing Improves Retention](testing-improves-retention.md)
 * [Textual material treated with embedded aids produced 10-15% higher reading comprehension scores than conventional text, statistically significant at the .01 level, in a science-material study with approximately 200 tenth graders across three schools.](embedded-aids-improve-reading-comprehension.md) - Textual material treated with embedded aids produced 10-15% higher reading comprehension scores than conventional text, statistically significant at the .01 level, in a science-material study with approximately 200 te...
 * [Thai students overuse the causal connective because, a pattern the article attributes to L1 influence](thai-overuse-because-l1-influence.md) - Thai students overuse the causal connective because, a pattern the article attributes to L1 influence
 * [The 12-week KOKU programme is dominant over usual care in cost-effectiveness, with a significant QALY gain and non-significant cost savings](koku-cost-effective-dominant.md) - The 12-week KOKU programme is dominant over usual care in cost-effectiveness, with a significant QALY gain and non-significant cost savings
@@ -2253,7 +2173,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Undergraduates report very high overall satisfaction with instruction management in the cloud-based constructivism and connectivism learning model](high-satisfaction-cloud-constructivism-connectivism-model.md) - Undergraduates report very high overall satisfaction with instruction management in the cloud-based constructivism and connectivism learning model
 * [Understanding Stewart's formal definition of the definite integral demands mobilizing a system of prior knowledge across a network of semiotic functions](stewart-definition-prior-knowledge-demands.md) - Understanding Stewart's formal definition of the definite integral demands mobilizing a system of prior knowledge across a network of semiotic functions
 * [Understanding technical world conditions such as stratospheric ozone depletion requires a level of education most publics lack](technical-world-data-require-education.md) - Understanding technical world conditions such as stratospheric ozone depletion requires a level of education most publics lack
-* [Unguided discovery is less effective than guided instruction for novices](unguided-discovery-less-effective-than-guided-instruction.md)
 * [Unintelligible messages elicit a higher proportion of idiosyncratic cognitive elaborations than intelligible messages](unintelligible-messages-increase-idiosyncratic-elaboration.md) - Unintelligible messages elicit a higher proportion of idiosyncratic cognitive elaborations than intelligible messages
 * [Unintelligible messages produce more agreement and cognitive elaboration than a no-message control](unintelligible-beats-no-message-control.md) - Unintelligible messages produce more agreement and cognitive elaboration than a no-message control
 * [University examination questions concentrate at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge](exam-questions-concentrate-lower-bloom-levels.md) - University examination questions concentrate at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge
@@ -2310,7 +2229,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md) - Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes
 * [Word frequency does not modulate the transposed-character effect in either experiment](frequency-does-not-modulate-tc-effect.md) - Word frequency does not modulate the transposed-character effect in either experiment
 * [Word-frequency changes in reflections suggest a shift away from given-information-based strategies](word-frequency-shifts-in-reflections.md) - Word-frequency changes in reflections suggest a shift away from given-information-based strategies
-* [Words and pictures are better than words alone](words-and-pictures-better-than-words-alone.md)
 * [Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks](cd-semantic-richness-improves-lexical-processing.md) - Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks
 * [Worked-example gains in a puzzle game remained small relative to expert performance, with the worked example group learning only 2.7% of experts' knowledge-map knowledge](worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps.md) - Worked-example gains in a puzzle game remained small relative to expert performance, with the worked example group learning only 2.7% of experts' knowledge-map knowledge
 * [Workers and administrators who were presented with the CMR model viewed it as a comfortable transition into residential treatment](cmr-model-viewed-as-comfortable-transition.md) - Workers and administrators who were presented with the CMR model viewed it as a comfortable transition into residential treatment
@@ -2318,8 +2236,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Writing Improves Mathematical Understanding](writing-improves-mathematical-understanding.md)
 * [Writing is presented as uniquely corresponding to the features of successful learning](writing-uniquely-corresponds-features-successful-learning.md) - Writing is presented as uniquely corresponding to the features of successful learning
 * [Writing Program Administrators' responses to conflict are frequently somatic, with conflict becoming a physical trope expressed as illness](wpa-conflict-responses-somatic-physical-trope.md) - Writing Program Administrators' responses to conflict are frequently somatic, with conflict becoming a physical trope expressed as illness
-* [Writing Strategy Instruction Improves Writing Quality](writing-strategy-instruction-improves-writing-quality.md)
-* [Writing To Learn Improves Content Learning](writing-to-learn-improves-content-learning.md)
 * [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md)
 
 #### Y {: #letter-y }

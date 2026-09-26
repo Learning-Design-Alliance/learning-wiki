@@ -41,4 +41,7 @@ Content analysis of the same 115 question papers (357 questions) classified by e
 
 
 ## Related Claims
--
+- [Question-level emphasis varied by academic designation, with professors omitting synthesis and lecturers omitting evaluation entirely](designation-wise-bloom-question-differences.md) — a broader claim this one bears on
+- [University examination questions concentrate at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge](exam-questions-concentrate-lower-bloom-levels.md) — a broader claim this one bears on
+- [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
+- [Adult teachers' questions concentrate at low Bloom's levels, and cooperative learning's dialogue and questioning support critical thinking across Bloom's taxonomy](teacher-questions-low-bloom-levels-cooperative-dialogue.md) — related

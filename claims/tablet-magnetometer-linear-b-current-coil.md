@@ -41,4 +41,6 @@ A demonstration-set experiment in which current was increased by equal amounts �
 
 
 ## Related Claims
--
+- [Magnetic field falls off as the inverse cube of axial distance for both a coil and a magnet](magnetic-field-inverse-cube-axial-distance-coil-magnet.md) — related
+- [The demonstration set yields a fair estimate of air permeability µair from coil data](tablet-demo-set-estimates-air-permeability.md) — related
+- [The magnet data cannot determine air permeability; only the magnet's dipole moment can be estimated](magnet-case-cannot-determine-air-permeability.md) — related

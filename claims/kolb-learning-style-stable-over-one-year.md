@@ -41,4 +41,6 @@ The review reports Cahill and Madigan's pretest–posttest study in an occupatio
 
 
 ## Related Claims
--
+- [A four-quadrant FEA-supported experiential module was implemented across three heat transfer topics without formal assessment](elt-fea-module-implemented-three-topics-unassessed.md) — related
+- [Kolb's inventory successfully differentiated group learning styles by students' subject majors](kolb-inventory-group-styles-by-subject-major.md) — related
+- [Kolb's inventory showed no association with medical career choices, and its personality-type predictions were contradicted](kolb-inventory-limited-validity-career-and-personality.md) — related

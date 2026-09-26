@@ -41,4 +41,6 @@ The review attributes this to Willingham (2004) summing up Gardner's view that t
 
 
 ## Related Claims
--
+- [Matching instruction to students' learning styles or intelligences has no effect on learning](matching-instruction-to-styles-no-effect.md) — a broader claim this one bears on
+- [Children scoring highly on one intelligence tend to score highly on others, consistent with general intelligence](high-scorers-across-intelligences-support-g.md) — related
+- [The Theory of Multiple Intelligences is weak in stressing science and social sciences as fields of talent, and existing subject categories could nurture pupils' talents](multiple-intelligences-weak-on-science-talent.md) — related

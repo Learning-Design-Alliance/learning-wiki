@@ -41,4 +41,6 @@ Written Reflection data from one teacher at semester's end. The article gives tw
 
 
 ## Related Claims
--
+- [Challenges of blended delivery catalyse opportunities for teacher agency growth](blended-challenges-catalyse-agency-growth.md) — related
+- [E-teachers reported shifting from lecture-based, teacher-as-source teaching toward a facilitator role in the online classroom](e-teacher-shift-to-facilitator-role.md) — related
+- [Facilitated self-directed learning and peer discussion empower adult learners](facilitated-self-directed-learning-empowers-adults.md) — related

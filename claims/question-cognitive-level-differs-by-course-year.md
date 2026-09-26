@@ -58,4 +58,7 @@ Chi-squared test comparing Physics 1A cognitive-level distributions for 2010 (N=
 
 
 ## Related Claims
--
+- [Explanation-quality distributions differed significantly between years for Physics 1A (2011 slightly lower) but not Physics 1B](explanation-quality-differs-by-year-1a-only.md) — related
+- [Students answer lower-taxonomy-category questions more frequently, but only by a factor of about 2](lower-taxonomy-questions-answered-more.md) — related
+- [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — related
+- [Student-authored physics questions mostly require application or analysis, with under 5% at the lowest recall level](student-questions-majority-above-recall-bloom.md) — related

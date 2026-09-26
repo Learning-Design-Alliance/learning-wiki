@@ -41,4 +41,5 @@ Qualitative analysis of parameter evolution (Section 6.4, Figure 5) on two test 
 
 
 ## Related Claims
--
+- [Under standard BKT with non-degenerate parameters, the mastery probability stays above the learn rate even after unboundedly many incorrect responses](bkt-mastery-floor-above-learn-rate.md) — reports the opposite
+- [MS-BKT mastery estimates fluctuate less than classic BKT and avoid over-high estimates after long incorrect runs, in fictitious-student comparisons](ms-bkt-estimates-fluctuate-less-than-bkt.md) — related

@@ -45,7 +45,7 @@ The authors recommend assigning worked-example type by prior knowledge: "by appl
 ## Related Principles
 - [Worked Examples](worked-examples.md)
 - Expertise Reversal Effect
-- [Worked Examples Expertise Reversal](../claims/worked-examples-expertise-reversal.md)
+- [Worked Examples Expertise Reversal](../claims/worked-examples-less-effective-with-expertise.md)
 
 ## Examples
 -

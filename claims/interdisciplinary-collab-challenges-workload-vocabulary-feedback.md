@@ -41,4 +41,7 @@ Interview findings: editing students finished early and had lighter loads, progr
 
 
 ## Related Claims
--
+- [Interdisciplinary studio collaboration deepened students' disciplinary skills while exposing them to cross-disciplinary skills](interdisciplinary-collab-deepens-disciplinary-and-cross-disciplinary-skills.md) — related
+- [Organization-simulation knowledge practices support interdisciplinary learning](organization-simulation-knowledge-practices-support-interdisciplinary-learning.md) — related
+- [Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams](epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md) — related
+- [Students believed interdisciplinary studio experiences would ease their transition into the workforce](studio-experience-prepares-students-for-workforce.md) — related

@@ -61,3 +61,6 @@ A meta-analysis (part of a US Department of Education-commissioned review) synth
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — frequent online low-stakes assessment is a frequent blended component
 - [Case-based learning improves exam performance.](case-based-learning-improves-exam-performance.md) — an active in-class method blended models often aim to make room for
 - [Clear structure improves learning.](clear-structure-improves-learning.md) — structure matters especially in the self-directed online portion of a blend
+- [Students prioritize teacher interaction for face-to-face learning but content interaction for online learning](interaction-priority-f2f-teacher-online-content.md) — related
+- [The ACE-HE measurement model of affective, behavioral, and cognitive engagement fits online/blended survey data well](ace-he-engagement-three-dimension-model-good-fit.md) — related
+- [Learning Space Redesign Alone Insufficient](learning-space-redesign-alone-insufficient.md) — related

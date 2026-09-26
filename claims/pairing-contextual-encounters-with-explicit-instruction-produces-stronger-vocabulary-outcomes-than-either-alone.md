@@ -61,3 +61,8 @@ This meta-analysis synthesized studies on the effects of vocabulary instruction 
 - [Annotating improves learning.](../claims/annotating-improves-learning.md) — annotation is one way to bind explicit glosses to contextual encounters
 - [Cognitive flexibility theory: multiple cases.](../claims/cognitive-flexibility-theory-multiple-cases.md) — multiple varied encounters support flexible, transferable word knowledge
 - [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) — excessive contextual processing demands can undermine the pairing for low-proficiency learners
+- [Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks](cd-semantic-richness-improves-lexical-processing.md) — related
+- [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — related
+- [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md) — related
+- [Vocabulary Instruction Improves Comprehension](vocabulary-instruction-improves-comprehension.md) — related
+- [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — related

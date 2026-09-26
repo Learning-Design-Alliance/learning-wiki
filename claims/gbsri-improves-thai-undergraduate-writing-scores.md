@@ -41,4 +41,11 @@ One-group pretest-posttest quasi-experiment with 32 Thai first-year English majo
 
 
 ## Related Claims
--
+- [Three weeks of explicit language-focused strategy instruction produced no significant word-problem gain in this study](explicit-strategy-instruction-no-significant-gain.md) — related
+- [A four-phase teaching process for congruent triangles significantly improves grade 8 students' test scores](four-phase-process-improves-congruent-triangle-scores.md) — related
+- [Both procedural and descriptive writing scores improved significantly after GBSRI](gbsri-improves-procedural-and-descriptive-genres.md) — a narrower finding that bears on this claim
+- [Students expressed positive overall opinions of GBSRI, rating Independent Practicing highest and Post-writing lowest](gbsri-positive-student-opinions-stage-ratings.md) — related
+- [Most questionnaire respondents (96.88%) reported that GBSRI activities improved their writing, and collaborative activities were the most preferred](gbsri-respondents-reported-writing-improvement.md) — related
+- [Interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work](gbsri-interview-attributions-and-pair-work-discomfort.md) — related
+- [Before the intervention, most students could not write assumptions and conclusions, and only one student achieved the maximum pre-test score](pretest-assumption-conclusion-difficulties.md) — related
+- [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related

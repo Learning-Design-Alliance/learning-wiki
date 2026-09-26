@@ -61,3 +61,5 @@ This claim links a specific bilingual cognitive advantage to the broader constru
 
 ## Related Claims
 - [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — both claims establish that genuine bilingual fluency (not merely partial exposure to a second language) carries real cognitive and practical benefits
+- [Teaching students in a language they understand benefits both language learning and broader learning](cl-teaching-in-language-students-understand-improves-learning.md) — related
+- [Assuming conversational fluency indicates English proficiency has led to bilingual children being misdiagnosed as learning disabled or retarded and to premature exit from support programs](conversational-fluency-misleading-proficiency-indicator.md) — related

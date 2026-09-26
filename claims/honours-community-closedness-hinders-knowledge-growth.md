@@ -41,4 +41,7 @@ Likert-scale questionnaire section on 'community' completed by 28 honours studen
 
 
 ## Related Claims
--
+- [Honours community members report isolation and negative bias from regular students and lecturers](honours-community-isolation-from-regular-students.md) — related
+- [Honours community members perceive a safe and supportive environment that facilitates exploring new ideas](honours-community-safe-supportive-learning-environment.md) — related
+- [Active participation in a community has a more significant impact on learning than mere membership](active-participation-beats-mere-membership-for-learning.md) — related
+- [Strong feelings about a community problem positively influence group growth](strong-feelings-about-problem-influence-group-growth.md) — related

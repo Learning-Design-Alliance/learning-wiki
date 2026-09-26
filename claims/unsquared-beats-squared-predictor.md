@@ -41,4 +41,5 @@ Comparison of unsquared versus squared predictor correlations in the validation 
 
 
 ## Related Claims
--
+- [Transfer between tasks is linearly dependent on the unsquared intertask correlation corrected for attenuation](transfer-linear-in-corrected-correlation.md) — related
+- [Regression intercepts of transfer on correlation were negative, contrary to the model's prediction of a zero intercept](negative-transfer-regression-intercepts.md) — related

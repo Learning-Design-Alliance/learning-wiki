@@ -41,4 +41,5 @@ Exposición conceptual de los autores dentro de la actividad 1, no un estudio em
 
 
 ## Related Claims
--
+- [Los estudiantes de secundaria tienen dificultades persistentes para reconocer los cambios observables en el movimiento aparente del Sol y los momentos singulares del año](students-difficulties-solar-movement-observable-changes.md) — related
+- [El Sol solo sale exactamente por el este y se pone exactamente por el oeste durante los equinoccios](sun-rises-exactly-east-only-at-equinoxes.md) — related

@@ -41,4 +41,5 @@ Concluding argument of the paper. The author states the taxonomy does not presum
 
 
 ## Related Claims
--
+- [Coleman describes experiential learning steps as almost the reverse of traditional learning steps](coleman-experiential-steps-reverse-of-traditional.md) — related
+- [Relational-domain conceptualization and evaluation objectives suit traditional testing, while leadership, followership and role-exchange objectives require new non-traditional evaluation formats](relational-measurement-format-implications.md) — related

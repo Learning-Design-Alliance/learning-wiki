@@ -41,4 +41,5 @@ The brief reports, citing prior studies, that "Gifted students who have reversed
 
 
 ## Related Claims
--
+- [Parent Involvement Improves Achievement](parent-involvement-improves-achievement.md) — related
+- [Mentorship timing has divergent effects on LC101 persistence: post-application mentorship increases course completion odds while pre-application mentorship decreases persistence across both phases](mentorship-timing-divergent-persistence-effects.md) — related

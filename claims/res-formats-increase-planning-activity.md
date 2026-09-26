@@ -41,4 +41,5 @@ Documentary comparison of the two SEP planning formats printed as Tables I and I
 
 
 ## Related Claims
--
+- [The new Ciencias II curriculum shifts the entry point to physics from measurement of physical properties (1993 plan) to the perception of movement, integrating light and sound from the start of the course](ciencias-ii-entry-shift-measurement-to-movement.md) — related
+- [The 2006 reform concentrated physics, previously taught across three secondary years, into a single second-grade course (Ciencias II) with 6 hours per week, raising teacher concern about fostering interest in one school cycle](res-concentrates-physics-into-single-second-grade-course.md) — related

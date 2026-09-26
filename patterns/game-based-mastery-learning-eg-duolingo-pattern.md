@@ -63,7 +63,7 @@ This pattern can be highly effective for incremental skill development, especial
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 #### Contradicting
-- [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-expertise-reversal.md) [~M]
+- [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 
 ## Design
 

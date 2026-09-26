@@ -74,3 +74,6 @@ This random-effects meta-analysis covers 57 laboratory and classroom experiments
 - [Cognitive flexibility](../principles/cognitive-flexibility.md) — the underlying learner capability
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — bounds the claim: novices may be harmed by multi-case complexity that benefits advanced learners
 - [Case studies](../elements/case-studies.md) — the primary instructional element for implementing multiple-case sequences
+- [Comparing Contrasting Cases Improves Learning](comparing-contrasting-cases-improves-learning.md) — a broader claim this one bears on
+- [Multiple Contrasting Cases Support Abstraction](multiple-contrasting-cases-support-abstraction.md) — a broader claim this one bears on
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related

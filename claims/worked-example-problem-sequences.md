@@ -56,3 +56,11 @@ A key boundary condition is the [expertise reversal effect](../theories/expertis
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — problem-only practice can overload novices, motivating example support
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — examples should present solutions in manageable steps
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — the main boundary condition on sequencing examples before problems
+- [Example-problem sequences reduce cognitive load and improve learning outcomes.](example-problem-sequences-reduce-cognitive-load.md) — a broader claim this one bears on
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](worked-examples-example-problem-sequences.md) — possibly the same claim (merge candidate)
+- [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — related
+- [Interleaving Improves Learning](interleaving-improves-learning.md) — related
+- [Scaffolding improves learning](scaffolding-improves-learning.md) — related
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
+- [Interleaved Practice Improves Retention](interleaved-practice-improves-retention.md) — related
+- [Pairing worked examples with practice or fading supports transfer better than examples alone.](worked-examples-with-practice-improve-transfer.md) — a broader claim this one bears on

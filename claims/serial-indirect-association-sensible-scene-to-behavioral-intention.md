@@ -42,4 +42,6 @@ A prespecified constrained serial path model estimated with 5,000 bootstrap samp
 
 
 ## Related Claims
--
+- [Lacquer-painting imagery characteristics are positively associated with aesthetic responses: sensible scene with emotional resonance, imaginable atmosphere with cognitive evaluation, and virtual-real imagination with behavioral intention](imagery-characteristics-associated-with-aesthetic-responses.md) — a broader claim this one bears on
+- [Perceived immersive, interactive, and distributed affordances are each positively associated with a distinct lacquer-painting imagery characteristic in cross-sectional survey data](perceived-digital-affordances-associated-with-lacquer-imagery-characteristics.md) — related
+- [Technology acceptance conditions the virtual-real-imagination–behavioral-intention association, which is stronger at higher reported technology acceptance](technology-acceptance-moderates-vr-imagination-behavioral-intention.md) — related

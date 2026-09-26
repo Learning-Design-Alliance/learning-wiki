@@ -59,3 +59,6 @@ A further predicted benefit stated in the conclusion, with no data and no argume
 
 ## Related Claims
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md)
+- [Students' writing is argued, citing Bruffee, to be only as good as their conversation about writing](student-writing-only-as-good-as-conversation-about-writing.md) — related
+- [Collaborative Writing Improves Text Quality](collaborative-writing-improves-text-quality.md) — a broader claim this one bears on
+- [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related

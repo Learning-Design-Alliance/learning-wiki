@@ -41,4 +41,4 @@ The review reports Witkin and Asch's rod-and-frame experiment with 53 adults, in
 
 
 ## Related Claims
--
+- [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — related

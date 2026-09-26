@@ -41,4 +41,8 @@ Theoretical argument in Sternberg's chapter contrasting standard ability theorie
 
 
 ## Related Claims
--
+- [Matching instruction to students' learning styles or intelligences has no effect on learning](matching-instruction-to-styles-no-effect.md) — related
+- [Schools overwhelmingly reward executive styles and confuse style with level of intellect](schools-reward-executive-styles.md) — a narrower finding that bears on this claim
+- [Embedded figures test performance differed by sex and correlated relatively highly with intelligence](embedded-figures-test-sex-difference-intelligence-correlation.md) — related
+- [A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for](intellectual-test-performances-correlated.md) — related
+- [Intellectual styles are partly socialized and therefore modifiable to some degree](styles-socialized-and-modifiable.md) — related

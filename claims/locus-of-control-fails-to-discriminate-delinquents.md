@@ -41,4 +41,7 @@ Comparison of delinquent adolescents placed in residential treatment by juvenile
 
 
 ## Related Claims
--
+- [Academic achievement is significantly correlated with locus of control for normal adolescents but not for delinquent adolescents](achievement-locus-correlation-only-normal-adolescents.md) — related
+- [Intelligence test scores are significantly correlated with locus of control for both normal and delinquent adolescents](intelligence-locus-correlation-both-groups.md) — related
+- [Prior evidence suggested locus of control relates to achievement independently of intelligence, which the present results contradict for delinquent adolescents](prior-claim-achievement-independent-of-intelligence-questioned.md) — related
+- [Locus of control scores show no significant main effects of behavioral condition (normal vs. delinquent) or sex](no-group-or-sex-effect-on-locus-of-control.md) — possibly the same claim (merge candidate)

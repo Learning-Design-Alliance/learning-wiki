@@ -19,7 +19,7 @@ Students interact with content by organizing chunks of it into graphic organizer
 
 ## Design Implications
 
-Graphic organizers work because they externalize relational structure: spatial arrangement and links encode how ideas connect, supporting [dual coding](../theories/dual-coding-theory.md) and reducing the working-memory burden of holding relationships in mind [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. Meta-analytic evidence shows knowledge-map activities outperform reading or list-based study conditions on average [Nesbit & Adesope meta-analysis of concept/knowledge mapping.](../claims/concept-mapping-improves-learning.md) [+M], with the strongest effects when learners *construct* the map themselves rather than study a completed one [Learner-generated organizers outperform studying provided ones.](../claims/learner-generated-organizers-beat-provided-organizers.md) [+M]. The organizer type should match the target structure — hierarchies for taxonomies, matrices for comparisons, causal chains for processes — and the task should require justification of placements, not just completion.
+Graphic organizers work because they externalize relational structure: spatial arrangement and links encode how ideas connect, supporting [dual coding](../theories/dual-coding-theory.md) and reducing the working-memory burden of holding relationships in mind [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. Meta-analytic evidence shows knowledge-map activities outperform reading or list-based study conditions on average [Nesbit & Adesope meta-analysis of concept/knowledge mapping.](../claims/concept-mapping-improves-learning.md) [+M], with the strongest effects when learners *construct* the map themselves rather than study a completed one [Learner-generated organizers outperform studying provided ones.](../claims/learner-constructed-graphic-organizers-outperform-provided.md) [+M]. The organizer type should match the target structure — hierarchies for taxonomies, matrices for comparisons, causal chains for processes — and the task should require justification of placements, not just completion.
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Graphic organizers work because they externalize relational structure: spatial a
 - Templates or scaffolds for novices ([Advance Organizers](../elements/advance-organizers.md) can seed the frame before content is encountered)
 
 #### Constraints
-- Studying a pre-completed organizer is substantially less effective than constructing one [Learner-generated organizers outperform studying provided ones.](../claims/learner-generated-organizers-beat-provided-organizers.md) [-M] — fill-in-the-blank organizers can become low-level transcription tasks
+- Studying a pre-completed organizer is substantially less effective than constructing one [Learner-generated organizers outperform studying provided ones.](../claims/learner-constructed-graphic-organizers-outperform-provided.md) [-M] — fill-in-the-blank organizers can become low-level transcription tasks
 - Poorly matched organizer types force content into an alien structure, distorting rather than clarifying relationships [~M]
 - For learners with high prior knowledge, organizer scaffolds can be redundant and even depress performance [Guidance becomes less effective as learner expertise increases.](../claims/expertise-reversal-effect.md) [~M]
 - Construction takes time; the overhead can exceed benefits for simple or short content [-W]

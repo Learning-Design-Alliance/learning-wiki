@@ -41,4 +41,7 @@ Experiment 1 fact-type analysis: no significant fact-type differences on free or
 
 
 ## Related Claims
--
+- [Elaborative interrogation instructions produce better recall and recognition of science facts than reading-for-understanding instructions](elaborative-interrogation-improves-science-fact-learning.md) — related
+- [Refutational text (misbelief stated first, then fact) enhanced recall and 14-day retention relative to traditional and inverted refutational text](refutational-text-order-enhances-retention.md) — related
+- [Elaborative-interrogation students are less confident in their incorrect recognition selections than reading controls, who express great confidence in erroneous answers](elaborative-interrogation-reduces-confidence-in-errors.md) — related
+- [Prior-knowledge activation instructions before study had little effect on retention in Experiment 2](prior-knowledge-activation-little-effect-on-retention.md) — related

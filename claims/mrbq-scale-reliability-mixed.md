@@ -41,4 +41,8 @@ Internal consistency estimates computed after the exploratory analysis for the s
 
 
 ## Related Claims
--
+- [A four-factor principal component model of the MRBQ provides some empirical ground for the proposed structure of students' mathematics-related beliefs](mrbq-four-factor-model-partial-support.md) — a broader claim this one bears on
+- [Civic competence items cluster into four epistemological components (knowledge, skills, attitudes, actions) in community-based learning course surveys](civic-competence-four-epistemological-components.md) — related
+- [IF-AT-scored physics midterm and final exams yield good test reliability (α = 0.71 and 0.82; α50 = 0.86 and 0.90)](if-at-exams-good-reliability.md) — related
+- [Self-efficacy measures show high reliability and domain-specific validity](self-efficacy-measures-reliable-domain-specific.md) — related
+- [Socio-constructivist and absolutist views of mathematics are only mildly related (r = .21) and cannot be treated as opposite poles of one dimension](socio-constructivist-absolutist-views-not-opposite-poles.md) — related

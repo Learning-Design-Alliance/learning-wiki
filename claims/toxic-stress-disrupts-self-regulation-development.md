@@ -41,4 +41,6 @@ The brief states this as a finding from the research literature on stress and se
 
 
 ## Related Claims
--
+- [Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking](students-prefer-peer-support-diversion-over-professional-help.md) — related
+- [Physically or emotionally unsafe environments activate the adolescent stress-response system, which can impede cognition](unsafe-environments-trigger-stress-response-impeding-cognition.md) — related
+- [Urban living is associated with higher activity in stress-related brain regions and reduced grey matter in dorsolateral prefrontal and pregenual anterior cingulate cortex after urban exposure during upbringing](urban-living-linked-to-stress-brain-activity-and-grey-matter-deficits.md) — related

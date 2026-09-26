@@ -41,4 +41,6 @@ Pilot pretest-posttest study of 19 Russian immigrant special education teachers 
 
 
 ## Related Claims
--
+- [More Instrumental Enrichment sessions predicted higher Raven posttest scores for regular education middle-grade students](ie-sessions-predict-higher-raven-posttest-regular-students.md) — related
+- [The immigrant sample's low return rate limits generalizability to Korean adult immigrants as a whole](low-mail-survey-return-rate-limits-generalizability.md) — related
+- [Spontaneous discovery of contradictions was much higher among American students than among Soviet peers, attributed to lack of mediation of challenge](spontaneous-contradiction-discovery-higher-american-than-soviet.md) — related

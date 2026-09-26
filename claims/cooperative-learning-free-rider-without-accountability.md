@@ -88,3 +88,13 @@ The standard remedy in the cooperative learning literature is **individual accou
 - [Cooperative learning](../patterns/cooperative-learning.md) — the pattern whose design elements include individual accountability
 - [Collaborative learning](../principles/collaborative-learning.md) — principle-level guidance on structuring group interaction
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — individual assessment checkpoints serve both accountability and feedback functions
+- [Anonymous real-time sharing of student responses mitigates evaluation apprehension while preserving individual accountability (authors' account)](anonymity-mitigates-evaluation-apprehension.md) — related
+- [PjBL assessment research should evaluate outcomes across all four quadrants, not only Flexible-Cooperative designs](assess-pjbl-outcomes-across-quadrants.md) — related
+- [Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons](cooperative-learning-achievement-synthesis-slavin.md) — related
+- [Group rewards combined with individual accountability make cooperative learning effective](cooperative-learning-group-rewards-and-individual-accountability.md) — possibly the same claim (merge candidate)
+- [Cooperative learning has drawbacks including slow learners depending on fast achievers, so teachers should stress both cooperative and individual work](cooperative-learning-versus-individual-endeavors.md) — a broader claim this one bears on
+- [Cooperative biology instruction raised achievement and improved perceived classroom atmosphere in Israeli junior high studies](lazarowitz-cooperative-biology-achievement.md) — related
+- [In this inquiry, student pairs work better than groups of three because larger groups risk disengaging members](pairs-better-than-triads-in-stellar-inquiry.md) — a narrower finding that bears on this claim
+- [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — related
+- [In secondary-school research, cooperative learning beat frontal teaching in 68% of comparisons, with STAD most and Jigsaw least successful](secondary-cooperative-learning-newmann-thompson.md) — related
+- [Small Group Learning Improves STEM Achievement](small-group-learning-improves-stem-achievement.md) — related

@@ -41,4 +41,8 @@ Expert assessment study: five experts in designing and developing learning model
 
 
 ## Related Claims
--
+- [Experts rate the implemented constructionism imagineering learning model via metaverse as appropriate at the highest level overall (Mean = 4.67, S.D. = 0.08)](cilm-implemented-assessment-highest.md) — related
+- [Experts rate the model's individual elements as appropriate at the highest level overall (Mean = 4.65, S.D. = 0.27), with learning achievement output rated High](cilm-individual-elements-assessment.md) — related
+- [Experts rate the constructionism imagineering learning process via metaverse as appropriate at the highest level (Mean = 4.82, S.D. = 0.40)](cilm-process-expert-assessment-highest.md) — related
+- [Eleven experts rated the tentative STEM-ICT instructional model as appropriate at a high level](stem-ict-model-expert-evaluation-high.md) — related
+- [Five professionals approved the model as appropriate at a high level](stem-ict-model-professional-approval-high.md) — related

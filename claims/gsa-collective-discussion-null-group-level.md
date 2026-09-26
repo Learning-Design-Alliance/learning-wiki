@@ -41,4 +41,7 @@ Level 2 estimates from Model 1 of the multilevel SEM across 38 GSAs, testing col
 
 
 ## Related Claims
--
+- [Immigration discussion frequency shows no significant association with critical reflection or sociopolitical efficacy](immigration-discussion-null-critical-consciousness.md) — related
+- [Youth lost to attrition had discussed immigration more frequently and reported lower hope and peer validation at baseline](gsa-study-attrition-differences.md) — related
+- [Discussing immigration more frequently than fellow GSA members predicts increased perceived peer validation by year's end](immigration-discussion-in-gsas-predicts-peer-validation.md) — related
+- [More frequent immigration discussion predicts increased hope for immigrant-origin GSA members but not non-immigrant-origin members](immigration-discussion-hope-immigrant-origin-only.md) — related

@@ -41,4 +41,6 @@ Qualitative microanalysis of one think-aloud interview from a set of nine middle
 
 
 ## Related Claims
--
+- [Authors report that flexibility in sim access supports student agency while students tend to explore in a productive sequence](flexibility-supports-agency-productive-sequence.md) — a broader claim this one bears on
+- [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — related
+- [A student used slider extremes to make qualitative comparisons of skater mass effects](slider-extremes-support-qualitative-comparisons.md) — related

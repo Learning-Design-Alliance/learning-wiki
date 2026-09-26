@@ -59,4 +59,6 @@ Figure 5 shows Rose's jumps, where the right foot dominates impulse on both take
 
 
 ## Related Claims
--
+- [The authors report that the kinesthetic experience enhances student understanding and that a student project provides evidence of the approach's effectiveness](kinesthetic-experience-enhances-understanding-physics-of-dance.md) — a broader claim this one bears on
+- [Overlaying mass times calculated acceleration with net force from force plates provides a compelling visual connection to Newton's Second Law](ma-overlay-net-force-visual-connection-second-law.md) — related
+- [Student video analysis of vertical jumps yields a free-fall acceleration estimate close to the local value of g](video-jump-analysis-estimates-g-near-local-value.md) — related

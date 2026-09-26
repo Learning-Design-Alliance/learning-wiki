@@ -41,4 +41,6 @@ Second-cycle planning modification in the classroom action research. The article
 
 
 ## Related Claims
--
+- [First-cycle underperformance was attributed to low-quality student-generated questions that failed to represent journal article patterns](question-quality-limited-first-cycle-outcomes.md) — related
+- [Team-based discovery learning improved EFL students' research proposal writing across two action-research cycles, with cycle-two average score 85.8 above the success criterion](team-based-discovery-learning-improves-research-proposal-writing.md) — related
+- [Individual writing-test scores improved for all thirty students between cycles, with gains ranging from 6.3% to 30.8% and no student declining](individual-score-gains-range-6-3-to-30-8-percent.md) — related

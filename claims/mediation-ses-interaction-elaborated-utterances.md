@@ -41,4 +41,8 @@ A significant mediation-by-SES interaction was obtained in the analysis of varia
 
 
 ## Related Claims
--
+- [More children who could shift codes were found in the classroom of the highest mediating teacher](code-shifting-highest-mediating-teacher.md) — related
+- [Elaborated coding was associated with higher reading scores among the observed children](elaborated-coding-higher-reading-scores.md) — related
+- [High teacher mediation is associated with more children talking and higher frequency of both elaborated and restricted talk](high-mediation-more-child-talk-both-codes.md) — related
+- [MLE mediation is reported as applicable and beneficial even when learners receive it late or face environmental, socio-economic or mental barriers](mle-beneficial-despite-barriers-or-late-mediation.md) — related
+- [Motor development milestone timing varies by cultural childcare practice, but functional motor competence equalizes by middle childhood.](motor-milestones-vary-by-cultural-childcare-practices.md) — related

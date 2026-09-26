@@ -59,3 +59,7 @@ Theoretical argument the article attributes to Kotzee (2017): the curriculum "ha
 
 ## Related Claims
 - [Positioning Personal Experience As Epistemic Resource Supports Critical Orientation Expansion](positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md)
+- [In the analyzed school setting, black girls experience testimonial injustice as direct discrimination and hermeneutical injustice as indirect, structural discrimination that personal effort cannot erode](black-girls-face-testimonial-and-structural-hermeneutical-injustice-in-school.md) — a narrower finding that bears on this claim
+- [Cultural processes and forms of epistemic injustice should be taken into account in understanding how inequalities in education are produced and maintained](cultural-processes-and-epistemic-injustice-explain-educational-inequality.md) — a broader claim this one bears on
+- [Eradicating hermeneutical injustice requires sufficient social equality in general, not only slight interpersonal hermeneutical empowerments](eradicating-hermeneutical-injustice-requires-social-equality.md) — related
+- [The article argues education for global citizenship has the potential to improve quality of life and lessen inter- and intra-group violence toward a culture of peace](gced-potential-culture-of-peace.md) — related

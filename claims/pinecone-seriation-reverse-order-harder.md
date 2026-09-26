@@ -41,4 +41,4 @@ Classroom activity with the teacher's collection of 17 pinecones of varied sizes
 
 
 ## Related Claims
--
+- [Preschool children demonstrate behavioral knowledge of classification, one-to-one correspondence, and seriation during everyday free play with everyday materials](free-play-reveals-behavioral-math-knowledge.md) — related

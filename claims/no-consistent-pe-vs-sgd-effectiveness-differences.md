@@ -58,4 +58,6 @@ Overview of the Gevarter et al. (2013) review of 28 single-subject studies compa
 
 
 ## Related Claims
--
+- [Aided AAC systems show advantages over manual signs for acquiring requests, and motor imitation and matching skills predict manual sign acquisition](aided-systems-advantage-over-manual-signs.md) — related
+- [Heterogeneity across reviewed single-subject studies limits broad AAC comparisons, warranting more focused syntheses](heterogeneity-limits-aac-reviews.md) — related
+- [Individuals with developmental disabilities tend to prefer speech-generating devices over picture exchange and manual signs, with substantial individual differences](sgd-preference-over-pe-and-manual-signs.md) — related

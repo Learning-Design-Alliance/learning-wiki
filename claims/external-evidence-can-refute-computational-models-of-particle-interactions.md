@@ -44,3 +44,7 @@ This is a single-classroom qualitative study without a comparison condition, so 
 
 ## Related Claims
 - (none yet linked)
+- [Refutational text (misbelief stated first, then fact) enhanced recall and 14-day retention relative to traditional and inverted refutational text](refutational-text-order-enhances-retention.md) — related
+- [Students' empirical fits of simulated magnetopause locations show good internal agreement, though student estimates and simulation-calculated locations often disagree beyond uncertainties](magnetopause-lab-student-fits-agree-internally-but-differ-from-simulation-values.md) — related
+- [Simulation usefully explores the plausibility of models where empirical testing lags, and permits psycho-surgery experiments impossible with human subjects](simulation-explores-model-plausibility.md) — related
+- [The claim that computer simulation necessarily enforces clearer, more rigorous psychological theory specification does not hold up](simulation-rigor-enforcement-claim-overstated.md) — related

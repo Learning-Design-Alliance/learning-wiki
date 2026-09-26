@@ -41,4 +41,7 @@ Review discussion of maintenance across the included studies: Duchaine et al. (2
 
 
 ## Related Claims
--
+- [Teacher praise increased in every reviewed study that coached teachers to increase praise](coaching-increases-teacher-praise.md) — related
+- [Research quality and outcome durability were highest when coaching targeted fidelity of specific academic tasks rather than teacher-specific behaviors](coaching-academic-task-fidelity-higher-quality.md) — related
+- [Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes](coaching-outcomes-teacher-knowledge-sustainability-student-learning.md) — related
+- [Supervisory teacher coaching shows mixed effects, with six of sixteen reviewed studies reporting improved teacher results and four reporting improved student behaviors](supervisory-coaching-mixed-teacher-student-outcomes.md) — a broader claim this one bears on

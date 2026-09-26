@@ -58,4 +58,6 @@ Overview of the Lorah et al. (2015) review of 17 empirical studies on handheld c
 
 
 ## Related Claims
--
+- [Aided AAC systems show advantages over manual signs for acquiring requests, and motor imitation and matching skills predict manual sign acquisition](aided-systems-advantage-over-manual-signs.md) — related
+- [Heterogeneity across reviewed single-subject studies limits broad AAC comparisons, warranting more focused syntheses](heterogeneity-limits-aac-reviews.md) — related
+- [Review evidence shows no consistent differences between picture exchange and speech-generating devices for communication and request outcomes](no-consistent-pe-vs-sgd-effectiveness-differences.md) — related

@@ -41,4 +41,6 @@ Canonical correlation analysis of factor scores from the same 188-student sample
 
 
 ## Related Claims
--
+- [Principal components analyses of both the IAR and CDR yield eleven components with eigenvalues of one or greater](eleven-components-iar-cdr.md) — related
+- [IAR and CDR factor scores intercorrelate too weakly to confirm the two instruments measure the same locus of control construct](iar-cdr-factor-scores-low-intercorrelations.md) — related
+- [Locus of control instruments measuring domains beyond academic achievement increase the number of dimensions obtained](nonacademic-domains-increase-dimensions.md) — related

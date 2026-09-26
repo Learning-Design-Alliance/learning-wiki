@@ -41,4 +41,6 @@ Cross-tabulation of authentic inquiry features with Earth Science logical reason
 
 
 ## Related Claims
--
+- [Forestructures of understanding are associated with the majority of several key authentic inquiry features, up to 100% for complex transformation of observation and developing theories about mechanisms](forestructures-associated-authentic-features.md) — related
+- [Inquiry tasks in the Holt Earth Science curriculum rely mainly on inductive and abductive methods, with deductive reasoning used least](holt-earth-science-induction-abduction-dominate.md) — related
+- [Holt Earth Science inquiry tasks emphasize making multiple observations and developing theories about mechanisms but omit several authentic scientific inquiry features](holt-earth-science-missing-authentic-inquiry-features.md) — related

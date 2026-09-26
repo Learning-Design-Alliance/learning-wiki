@@ -41,4 +41,6 @@ The author states in the abstract and interview framing that Patterson's person-
 
 
 ## Related Claims
--
+- [Patterson held that psychology, not education, is the basic science of both counseling and education](patterson-psychology-basic-science-counseling-education.md) — related
+- [Patterson valued his personal mentoring of students and mentees above his scholarly works](patterson-valued-mentoring-above-scholarship.md) — related
+- [Patterson attributes his major career turning points to serendipitous events](patterson-serendipitous-career-events.md) — related

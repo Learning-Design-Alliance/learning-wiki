@@ -41,4 +41,6 @@ Path estimates from Model 2 estimated on ECLS-K raw data at three waves (Table 6
 
 
 ## Related Claims
--
+- [In the ECLS-K: 2010 dataset, a single latent EF factor model fits EF–math associations better than a specific-components model at all three time points](latent-ef-factor-preferred-ecls-k-math.md) — related
+- [Math achievement correlates more strongly with EF components than EF components correlate with each other in early childhood](math-correlates-more-with-ef-than-ef-internally.md) — related
+- [In a meta-analytic database of ten studies, the latent EF factor model was preferred in seven samples, with two favoring the components model and one equal](meta-analytic-replication-latent-ef-model.md) — related

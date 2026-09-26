@@ -41,4 +41,5 @@ The paper contrasts the two program types, both involving a home-school language
 
 
 ## Related Claims
--
+- [High L2 achievers in immersion programs show IQ gains, consistent with a higher threshold of bilingual competence](high-l2-achievers-show-iq-gains-in-immersion.md) — related
+- [Bilingual education evaluations have produced uninterpretable data by failing to model child-input by treatment interactions](bilingual-evaluations-ignore-interactions.md) — related

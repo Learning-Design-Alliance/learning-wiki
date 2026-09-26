@@ -41,4 +41,4 @@ In the study on text familiarity and cohesion, cohesion was defined as the degre
 
 
 ## Related Claims
--
+- [Passage familiarity (prior related knowledge) correlates .52 with recall, and only familiarity, not imageability, affected one-week delayed recall](passage-familiarity-correlates-with-recall.md) — related

@@ -41,4 +41,7 @@ Semi-structured interviews with the 7th-grade participants after the MLE-mediate
 
 
 ## Related Claims
--
+- [ELLs attempted academic terminology from prior lessons, with experience mediating their connection to the concept of vibration](experience-mediate-connection-academic-language-vibration.md) — related
+- [MLE mediation is reported as applicable and beneficial even when learners receive it late or face environmental, socio-economic or mental barriers](mle-beneficial-despite-barriers-or-late-mediation.md) — related
+- [Teachers doubted institutionalizing MLE in school documents, and the institutionalization criterion was removed from the final framework](institutionalization-criterion-dropped-mle.md) — related
+- [Feuerstein argues learning through direct, unmediated experience cannot yield meaningful learning or full modifiability](direct-experience-insufficient-for-meaningful-learning.md) — a broader claim this one bears on

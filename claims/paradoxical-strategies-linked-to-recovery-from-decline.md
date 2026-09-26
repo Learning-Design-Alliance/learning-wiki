@@ -41,4 +41,5 @@ A matched-group comparison between institutions that recovered from decline and 
 
 
 ## Related Claims
--
+- [Colorado's financial incentives for community alternatives and an interagency agreement were followed by a decline in residential institutional placements](colorado-deinstitutionalization-incentives-declined-placements.md) — related
+- [Institutions that improved effectiveness over time possessed paradoxical characteristics, tending to be both clans and markets or both hierarchies and adhocracies](paradoxical-institutional-characteristics-improve-effectiveness-over-time.md) — related

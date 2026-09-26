@@ -41,4 +41,6 @@ This is the protocol's discussion-section synthesis (authors' interpretation) of
 
 
 ## Related Claims
--
+- [The study's correlational, cross-sectional design limits internal validity and causal interpretation](correlational-design-limits-epistemic-freedom-study.md) — related
+- [Distributed Practice Improves Retention](distributed-practice-improves-retention.md) — related
+- [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related

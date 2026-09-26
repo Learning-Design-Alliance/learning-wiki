@@ -71,3 +71,8 @@ This review examined 35 experimental research studies that taught self-questioni
 - [Activation improves learning](activation-improves-learning.md) — self-questioning often serves as an activation mechanism, connecting new text to prior knowledge.
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — a boundary condition: questioning during very high-load material can compete with comprehension.
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — segmenting text into question-sized units supports the strategy.
+- [Reciprocal Teaching Improves Reading Comprehension](reciprocal-teaching-improves-reading-comprehension.md) — related
+- [Scaffolded Close Reading Improves Comprehension For Struggling Readers](scaffolded-close-reading-improves-comprehension-for-struggling-readers.md) — related
+- [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — a broader claim this one bears on
+- [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
+- [Reading Strategy Instruction Improves Comprehension](reading-strategy-instruction-improves-comprehension.md) — a broader claim this one bears on

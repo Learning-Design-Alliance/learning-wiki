@@ -59,3 +59,7 @@ A systematic review and meta-analysis (search through May 2011 across MEDLINE, E
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — fidelity and scenario complexity must be managed to avoid overload
 - [Situated learning](../theories/situated-learning.md) — simulation works by approximating the authentic context in which skills will be used
 - [Cognitive apprenticeship](../patterns/cognitive-apprenticeship.md) — simulation supports the coaching and articulation phases of the model
+- [Deliberate practice interventions produce higher real estate licensing exam pass rates than traditional study methods](deliberate-practice-raises-licensing-pass-rate.md) — related
+- [Interactive LRE methods engage students, who value LRE classes as relevant and interesting](lre-interactive-methods-student-interest.md) — related
+- [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md) — related
+- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a narrower finding that bears on this claim

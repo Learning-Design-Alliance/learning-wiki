@@ -12,7 +12,7 @@ generated:
 # Mentor Text Analysis
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies, `q3` · 4 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies, `q3` · 4 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 Mentor text analysis asks learners to read an exemplary published or peer text not primarily for comprehension but as a model of craft — noticing how the author structures an argument, opens a narrative, integrates evidence, or controls tone. Learners annotate, name, and discuss these moves, then imitate or adapt them in their own composing. The strategy treats the text as a demonstration of expert performance embedded in authentic work rather than as a decontextualized rule list.

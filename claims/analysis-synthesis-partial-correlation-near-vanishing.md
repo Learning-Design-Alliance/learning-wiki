@@ -41,4 +41,5 @@ Partial correlation check of the assumed hierarchy computed between nonadjacent 
 
 
 ## Related Claims
--
+- [Causal model analysis of taxonomy test data suggests a Y-shaped structure rather than Bloom's cumulative hierarchy](y-shaped-structure-challenges-bloom-cumulative-hierarchy.md) — possibly the same claim (merge candidate)
+- [The direct link between Application and Synthesis is stronger than the link between Analysis and Synthesis](application-synthesis-link-stronger-than-analysis-synthesis.md) — related

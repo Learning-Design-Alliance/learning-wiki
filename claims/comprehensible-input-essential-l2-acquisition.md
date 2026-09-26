@@ -41,4 +41,6 @@ Theoretical exposition of Krashen's Input Hypothesis within the article's review
 
 
 ## Related Claims
--
+- [Low anxiety, high self-confidence, and motivation are presented as affective variables facilitating L2 acquisition](affective-variables-facilitate-l2-acquisition.md) — related
+- [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — related
+- [Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — related

@@ -41,4 +41,6 @@ The article's design guidance states items "should be representative of skills t
 
 
 ## Related Claims
--
+- [Criterion-referenced tests indicate whether a particular skill or objective has been achieved rather than comparing performance to other test takers](criterion-referenced-tests-measure-mastery-not-relative-standing.md) — a broader claim this one bears on
+- [Criterion-referenced tests require empirically-based construct validation studies](criterion-referenced-tests-need-construct-validation.md) — related
+- [Statistical item selection that maximizes norm-referenced discrimination undermines criterion-referenced test definitions](statistical-item-selection-conflicts-criterion-referenced-definition.md) — related

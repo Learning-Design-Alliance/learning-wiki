@@ -58,4 +58,5 @@ Instructor-reported improvement from the lab-development section: after switchin
 
 
 ## Related Claims
--
+- [Students' empirical fits of simulated magnetopause locations show good internal agreement, though student estimates and simulation-calculated locations often disagree beyond uncertainties](magnetopause-lab-student-fits-agree-internally-but-differ-from-simulation-values.md) — related
+- [Students achieve reasonable agreement between their magnetopause-crossing findings and model predictions, gaining exposure to the tools and techniques of space physics](magnetopause-lab-reasonable-agreement-with-model-predictions.md) — related

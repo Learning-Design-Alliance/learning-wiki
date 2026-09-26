@@ -90,3 +90,10 @@ Open questions: how durable the recall advantage is over long retention interval
 - [Activation improves learning.](activation-improves-learning.md) — prior knowledge determines whether a second representation adds retrieval routes
 - [Dual coding theory](../theories/dual-coding-theory.md) — the theoretical account of separate verbal and visual memory systems
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — added representations can become redundant for advanced learners
+- [Dual Coding Improves Learning](dual-coding-improves-learning.md) — possibly the same claim (merge candidate)
+- [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — a broader claim this one bears on
+- [Learner Constructed Graphic Organizers Outperform Provided](learner-constructed-graphic-organizers-outperform-provided.md) — related
+- [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) — related
+- [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
+- [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md) — related
+- [Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding](verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) — related

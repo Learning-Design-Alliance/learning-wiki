@@ -26,12 +26,12 @@ Because working memory is severely limited and attention is selective, instructi
 - A clear analysis of *what* learners must attend to (the critical features, steps, or relationships in the content)
 - Signaling or cueing (highlighting, arrows, emphasis, vocal stress) that marks essential information [Signaling essential information improves learning outcomes.](../claims/signaling-improves-learning.md) [+S]
 - Segmentation of complex material into learner-paced units so attention can be refreshed between segments
-- An environment with manageable distraction — seductive but irrelevant details compete for the same resources [Seductive details interfere with learning.](../claims/seductive-details-harm-learning.md) [-S]
+- An environment with manageable distraction — seductive but irrelevant details compete for the same resources [Seductive details interfere with learning.](../claims/seductive-details-effect.md) [-S]
 
 #### Constraints
-- Novelty and salience can backfire: emotionally interesting but irrelevant material draws attention away from the learning goal [Seductive details interfere with learning.](../claims/seductive-details-harm-learning.md) [-S]
+- Novelty and salience can backfire: emotionally interesting but irrelevant material draws attention away from the learning goal [Seductive details interfere with learning.](../claims/seductive-details-effect.md) [-S]
 - Sustained attention degrades over time; long unbroken expositions lose learners regardless of quality, so attention must be re-engaged periodically rather than assumed
-- Learners cannot attend to two demanding streams simultaneously — redundant on-screen text read while listening to narration splits attention [Redundant on-screen text with narration harms learning.](../claims/redundancy-harms-learning.md) [-S]
+- Learners cannot attend to two demanding streams simultaneously — redundant on-screen text read while listening to narration splits attention [Redundant on-screen text with narration harms learning.](../claims/redundancy-effect-impairs-learning.md) [-S]
 - Attention captured by extrinsic rewards or gamified cues can displace attention from the content itself when the reward becomes the focus [~M]
 
 ### Target Learners

@@ -41,4 +41,7 @@ Simulation comparison of the two indices. C-DIF varied from expectations in 40-i
 
 
 ## Related Claims
--
+- [Test length, focal group distribution, number of DIF items, and direction of DIF had little effect on detection rates](polytomous-dfit-factors-little-effect.md) — related
+- [The chi-square significance test for NC-DIF is overly sensitive at large sample sizes, requiring an empirical cutoff value](nc-dif-chi-square-overly-sensitive-large-samples.md) — related
+- [The polytomous-DFIT framework effectively identified DTF and DIF in polytomously scored data under the simulated conditions](polytomous-dfit-effective-dif-detection-simulation.md) — related
+- [Type of DIF affected detection: nonuniform DIF items with higher a-parameters were not detected whereas lower a-parameter items were](polytomous-dfit-nonuniform-high-a-not-detected.md) — related

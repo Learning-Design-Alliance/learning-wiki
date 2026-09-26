@@ -41,4 +41,8 @@ Inductive qualitative case study of three female principals at elementary, junio
 
 
 ## Related Claims
--
+- [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
+- [Female principals enacted care through a 'listening then deciding' pattern of situational decision making](listening-then-deciding-situational-decision-making.md) — related
+- [Female principals maintained autonomy and connectedness despite hierarchical bureaucratic structures, and reported no isolation](principals-maintain-connectedness-despite-bureaucracy.md) — related
+- [The principals' personal ethic of care, rooted in motherhood, transferred to their professional leadership roles](personal-ethic-of-care-transferred-from-motherhood.md) — related
+- [Heterogeneity-seeking modeling curricula surface epistemic commitments in most students, including care-based commitments absent from prior frameworks](heterogeneity-seeking-curricula-surface-diverse-epistemic-commitments.md) — related

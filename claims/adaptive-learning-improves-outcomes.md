@@ -72,3 +72,12 @@ A meta-analysis of 50 controlled evaluations of intelligent computer tutoring sy
 - [Adaptive learning](../principles/adaptive-learning.md) — the design principle this claim evaluates empirically
 - [Adaptive difficulty](../elements/adaptive-difficulty.md) — difficulty adjustment is the most common adaptation target in practice
 - [Adaptive learning](../patterns/adaptive-learning.md) — the pattern-level implementation of adaptive sequencing
+- [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — related
+- [Tutoring Effectiveness Comes From Scaffolding And Feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related
+- [The survey reports, citing Lee and Brunskill, that individualized BKT in an intelligent tutoring system reduced by about half the questions required for 20% of students to achieve mastery.](individualized-bkt-reduces-questions-needed-for-mastery.md) — related
+- [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — related
+- [Scaffolding improves learning](scaffolding-improves-learning.md) — related
+- [Early objective and subjective feedback helps evaluate program effectiveness and prevents small problems from growing](early-objective-subjective-feedback-program-effectiveness.md) — related
+- [The survey reports, citing Long and Aleven, that students who used DragonBox enjoyed the experience more, while students who used the Lynnette intelligent tutoring system performed significantly better on the test.](intelligent-tutor-lynnette-outperformed-dragonbox-on-test.md) — related
+- [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — related
+- [Tutoring benefits both tutors and tutees](tutoring-benefits-tutors-and-tutees.md) — related

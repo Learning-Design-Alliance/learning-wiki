@@ -41,4 +41,6 @@ Pattern observed in Tables 2-4 and Figure 3 summarizing proportions of variance 
 
 
 ## Related Claims
--
+- [Causal model analysis of taxonomy test data suggests a Y-shaped structure rather than Bloom's cumulative hierarchy](y-shaped-structure-challenges-bloom-cumulative-hierarchy.md) — related
+- [The g-factor's relationship to the higher taxonomy levels declines across grade levels](g-factor-relationship-declines-with-grade-level.md) — related
+- [Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels](higher-hierarchy-levels-recalled-better.md) — related

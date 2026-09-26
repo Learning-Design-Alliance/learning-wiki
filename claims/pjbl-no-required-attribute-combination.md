@@ -40,4 +40,5 @@ Authors' interpretation (type e) drawn from their qualitative study of five PjBL
 
 
 ## Related Claims
--
+- [PjBL assessment research should evaluate outcomes across all four quadrants, not only Flexible-Cooperative designs](assess-pjbl-outcomes-across-quadrants.md) — related
+- [PjBL courses in the studied program spanned multiple matrix quadrants, with no Fixed-Individualistic courses](pjbl-courses-span-multiple-quadrants.md) — related

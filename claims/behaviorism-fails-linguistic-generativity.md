@@ -41,4 +41,4 @@ The review's critique section states that "Behaviorism is unable to deal with co
 
 
 ## Related Claims
--
+- [Pure contiguity fails to explain cognitive learning: repeated contiguity between cognitions does not make one evoke the other](contiguity-alone-fails-in-cognitive-learning.md) — related

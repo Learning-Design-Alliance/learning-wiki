@@ -58,4 +58,7 @@ Correlation analysis (Table 6, n=410) for the looking professional dimension; al
 
 
 ## Related Claims
--
+- [Preservice teachers' epistemological beliefs differ significantly by learning style in all four dimensions](epistemological-beliefs-differ-by-learning-style.md) — related
+- [Historical increases in peak performance contradict fixed innate upper limits](historical-improvements-reject-immutable-limits.md) — related
+- [Adults' resorting to epistemic violence correlates negatively with past enjoyment of and tendency toward education-related epistemic freedom](epistemic-violence-negatively-correlated-epistemic-freedom.md) — related
+- [Preservice teachers' reflective thinking tendencies differ statistically by learning style in all seven dimensions](reflective-thinking-differs-by-learning-style.md) — related

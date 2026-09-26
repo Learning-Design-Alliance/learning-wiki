@@ -41,4 +41,5 @@ Cohort comparison using Table III: bioscience freshmen graduating 2000-2001 (UDG
 
 
 ## Related Claims
--
+- [Bioscience students who took the CLASP series had statistically significantly higher upper-division GPAs than students who took the traditional Physics 5 series](clasp-higher-udgpa-than-physics5.md) — related
+- [Students who took the first quarter of CLASP before general chemistry earned significantly higher chemistry grades in all three quarters of the chemistry sequence](clasp-first-quarter-boosts-chemistry-grades.md) — related

@@ -19,7 +19,7 @@ Schwa instruction teaches learners that any vowel letter (a, e, i, o, u) can rep
 
 ## Design Implications
 
-Schwa instruction is a form of structured literacy teaching that connects phonology to orthography: it converts what looks like an arbitrary spelling exception into a predictable consequence of stress [Explicit and systematic phonics instruction improves word reading.](../claims/phonics-instruction-improves-word-reading.md) [+S]. It works best when embedded in a systematic sequence after learners can read and spell single-syllable words with common vowel patterns, since schwa only makes sense once students expect vowels to "say their sounds" [Explicit and systematic phonics instruction improves word reading.](../claims/phonics-instruction-improves-word-reading.md) [+M]. Instruction should pair perception (hearing the reduced vowel) with production (spelling and marking it), because orthographic mapping — linking phonemes to letter patterns — is what builds automatic word recognition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
+Schwa instruction is a form of structured literacy teaching that connects phonology to orthography: it converts what looks like an arbitrary spelling exception into a predictable consequence of stress [Explicit and systematic phonics instruction improves word reading.](../claims/systematic-phonics-improves-word-reading.md) [+S]. It works best when embedded in a systematic sequence after learners can read and spell single-syllable words with common vowel patterns, since schwa only makes sense once students expect vowels to "say their sounds" [Explicit and systematic phonics instruction improves word reading.](../claims/systematic-phonics-improves-word-reading.md) [+M]. Instruction should pair perception (hearing the reduced vowel) with production (spelling and marking it), because orthographic mapping — linking phonemes to letter patterns — is what builds automatic word recognition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Schwa instruction is a form of structured literacy teaching that connects phonol
 - Immediate corrective feedback on identification and spelling ([Provide Feedback](../elements/provide-feedback.md))
 
 #### Constraints
-- Taught too early, before students have stable single-syllable vowel knowledge, schwa adds confusion rather than resolving it [Explicit and systematic phonics instruction improves word reading.](../claims/phonics-instruction-improves-word-reading.md) [-M]
+- Taught too early, before students have stable single-syllable vowel knowledge, schwa adds confusion rather than resolving it [Explicit and systematic phonics instruction improves word reading.](../claims/systematic-phonics-improves-word-reading.md) [-M]
 - Isolated word-list drills without connected reading and writing application produce weak transfer to authentic spelling [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [~M]
 - Overreliance on the "lazy vowel" metaphor without linking it to actual stress patterns can lead students to mark stressed vowels as schwa
 
@@ -40,7 +40,7 @@ Schwa instruction is a form of structured literacy teaching that connects phonol
 
 ### Target Learners
 - Students in roughly Grade 3 and up who are transitioning to multisyllabic word reading and spelling
-- Struggling spellers who spell phonetically but miss unstressed vowels (e.g., writing *problum* for *problem*) [Explicit and systematic phonics instruction improves word reading.](../claims/phonics-instruction-improves-word-reading.md) [+M]
+- Struggling spellers who spell phonetically but miss unstressed vowels (e.g., writing *problum* for *problem*) [Explicit and systematic phonics instruction improves word reading.](../claims/systematic-phonics-improves-word-reading.md) [+M]
 - English learners, who benefit from explicit attention to English stress-timing and vowel reduction, which their first language may not share
 
 ### Target Learning Goals

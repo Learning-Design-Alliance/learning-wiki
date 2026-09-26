@@ -41,4 +41,4 @@ Theoretical argument in a conference paper: the author contends style instructio
 
 
 ## Related Claims
--
+- [In one first-year composition class, stylistic analysis of a president's letter served critical pedagogy goals](style-analysis-president-letter-critical-reading.md) — a narrower finding that bears on this claim

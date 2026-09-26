@@ -41,4 +41,5 @@ The forum reports Tsagari's (2014) empirical study of teacher-student exchanges 
 
 
 ## Related Claims
--
+- [Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content](interactional-structures-shape-content-processing.md) — a broader claim this one bears on
+- [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related

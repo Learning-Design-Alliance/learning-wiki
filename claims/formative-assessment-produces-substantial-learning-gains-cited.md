@@ -41,4 +41,6 @@ The review reports, citing Black and Wiliam, that formative assessment produces 
 
 
 ## Related Claims
--
+- [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) — related
+- [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — related
+- [Wireless keypads with immediate-response questions convert a passive lecture audience into active learners by providing rapid feedback](wireless-keypads-convert-passive-audience-to-active-learners.md) — a narrower finding that bears on this claim

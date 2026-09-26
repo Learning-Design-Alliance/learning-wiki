@@ -41,4 +41,5 @@ The review reports, citing Dulay and Burt (1974), that children acquiring fourte
 
 
 ## Related Claims
--
+- [Mead argued that treating the mother tongue as inferior impedes movement between home and school language structures](mead-mother-tongue-status-affects-bilingual-learning.md) — related
+- [A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does.](l1-predicts-l2-phoneme-perception-more-than-proficiency.md) — related

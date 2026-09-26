@@ -41,4 +41,7 @@ Authors' analysis of questionnaire responses in the Discussion. They report teac
 
 
 ## Related Claims
--
+- [Algerian university teachers of English lack sufficient knowledge of cognitive load theory](algerian-efl-teachers-lack-clt-knowledge.md) — related
+- [Only a minority of self-reported CLT-familiar teachers could identify the three types of cognitive load](minority-identify-three-load-types.md) — related
+- [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — related
+- [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — related

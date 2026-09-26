@@ -41,4 +41,7 @@ Student-weighted decile distribution of White/non-White enrollment mix across DC
 
 
 ## Related Claims
--
+- [Far fewer voucher-participating private schools than DC public schools are racially homogeneous (90% or 95%+ one race)](dc-voucher-schools-less-racially-homogeneous.md) — related
+- [Voucher-participating private schools in DC have racial compositions closer to the surrounding metro area than public schools](dc-voucher-schools-closer-to-metro-racial-mix.md) — related
+- [The authors infer the DC voucher program is likely reducing racial segregation in schooling, since 94% of voucher users are African American](dc-voucher-program-likely-reducing-segregation.md) — related
+- [After one year, DC's voucher program had no statistically significant effect, positive or negative, on public school test-score gains](dc-voucher-competition-no-public-school-effect-year-one.md) — related

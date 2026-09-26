@@ -59,3 +59,6 @@ Mechanical Turk vocabulary-learning experiment (Japanese words or American Sign 
 
 ## Related Claims
 - [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md)
+- [In a Mechanical Turk flashcard experiment, raising the new-item arrival rate first increases mastered items, but past the optimum fewer items are mastered and more get stuck in deck 1.](excess-new-item-rate-leaves-items-stuck-in-first-leitner-deck.md) — possibly the same claim (merge candidate)
+- [Under the mean-recall approximation, the maximum achievable learning rate is convex in the learner's review frequency budget, suggesting increasing returns at lower budgets.](leitner-learning-rate-shows-increasing-returns-to-review-budget.md) — related
+- [In simulation, the mean-recall approximation matches the clocked-delay Leitner Queue Network for small arrival rates, and its phase-transition threshold appears to be a conservative lower bound.](mean-recall-approximation-matches-clocked-delay-simulation-at-low-arrival-rates.md) — related

@@ -41,4 +41,5 @@ The essay lists pros of team teaching, including that "teachers do not work in i
 
 
 ## Related Claims
--
+- [Group rewards combined with individual accountability make cooperative learning effective](cooperative-learning-group-rewards-and-individual-accountability.md) — related
+- [In this inquiry, student pairs work better than groups of three because larger groups risk disengaging members](pairs-better-than-triads-in-stellar-inquiry.md) — related

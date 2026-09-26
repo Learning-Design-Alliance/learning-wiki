@@ -41,4 +41,7 @@ Qualitative comparison of high and low interactors purposively sampled from the 
 
 
 ## Related Claims
--
+- [Equipping caregivers with MUAC tapes empowered them to track child nutrition and become community health advocates](family-muac-empowers-caregivers-as-health-advocates.md) — related
+- [Caregiver uptake of the Family MUAC two-way SMS intervention was high](family-muac-sms-high-uptake.md) — related
+- [Caregivers and healthcare workers perceived Family MUAC with two-way SMS as acceptable, cost-saving, appropriate, and feasible](family-muac-sms-perceived-acceptable-feasible.md) — related
+- [Baseline-only training was insufficient for sustained measurement accuracy; healthcare workers recommended refresher training](refresher-training-needed-for-muac-accuracy.md) — related

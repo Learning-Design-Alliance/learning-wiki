@@ -42,4 +42,9 @@ Qualitative single case study of one mentor-mentee dyad over a four-week first p
 
 
 ## Related Claims
--
+- [Talk-time analysis showed the mentor spoke more than the mentee in video-recorded dialogues, with classroom management talk ranging from 3% to 39% of total talk time](mentor-mentee-talk-time-classroom-management-dialogues.md) — related
+- [Repeating one short lesson six times with small groups gave the mentee repeated opportunities to review and modify her classroom management strategies and build confidence](repeated-short-lessons-scaffold-mentee-behaviour-management.md) — a narrower finding that bears on this claim
+- [Mentor modelling and a school-wide behaviour program's strategies transferred to the mentee's classroom management practices](mentor-modelling-strategies-transfer-mentee-behaviour-management.md) — a narrower finding that bears on this claim
+- [A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development](structured-feedback-reflection-cycle-mentoring.md) — a narrower finding that bears on this claim
+- [Mentee participation in a school-wide positive behaviour support program (Program Achieve) enabled confident implementation of learned strategies in other lessons](program-achieve-participation-builds-mentee-behaviour-management-confidence.md) — a narrower finding that bears on this claim
+- [Classrooms where mentors understand and model program concepts are more fruitful contexts for student teachers' learning](mentor-program-concepts-support-student-teacher-learning.md) — a broader claim this one bears on

@@ -41,4 +41,6 @@ The article offers this as the author's assertion from her experience as an empl
 
 
 ## Related Claims
--
+- [Organizational climate can influence people's behavior and may be linked to teaching practices (attributed to Milem)](organizational-climate-influences-teaching-behavior.md) — related
+- [Recognition of prior informal learning (PLAR) would substantially narrow the course-participation gap between occupational classes](plar-narrow-participation-gap.md) — related
+- [Over 70% of job training received by employees is informal, according to U.S. and Canadian national surveys](over-70-percent-job-training-informal.md) — related

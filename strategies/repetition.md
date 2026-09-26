@@ -19,7 +19,7 @@ Repetition is the deliberate re-presentation of key points multiple times within
 
 ## Design Implications
 
-Repetition works because each exposure strengthens the memory trace and gives working memory a second chance to encode material that was missed the first time [Multiple exposures to to-be-learned material improve retention compared with single exposure.](../claims/chunking-reduces-working-memory-load.md) [+M]. Its effectiveness depends on *what* is repeated: only the highest-priority concepts should be selected in advance, and language should be simplified so repetition does not compound confusion. Repetition is most powerful when converted into retrieval — asking learners to restate or re-explain the point rather than merely hearing it again [Retrieval practice produces stronger long-term retention than restudying.](../claims/retrieval-practice-enhances-long-term-retention.md) [+S].
+Repetition works because each exposure strengthens the memory trace and gives working memory a second chance to encode material that was missed the first time [Multiple exposures to to-be-learned material improve retention compared with single exposure.](../claims/chunking-reduces-working-memory-load.md) [+M]. Its effectiveness depends on *what* is repeated: only the highest-priority concepts should be selected in advance, and language should be simplified so repetition does not compound confusion. Repetition is most powerful when converted into retrieval — asking learners to restate or re-explain the point rather than merely hearing it again [Retrieval practice produces stronger long-term retention than restudying.](../claims/retrieval-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements

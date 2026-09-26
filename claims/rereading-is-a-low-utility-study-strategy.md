@@ -73,3 +73,9 @@ Undergraduates read educational texts (textbook chapters or a Scientific America
 - [Active learning improves exam performance.](active-learning-improves-exam-performance.md) — active engagement during study generally outperforms passive exposure
 - [Retrieval practice improves retention.](retrieval-practice-improves-retention.md) — self-testing is the best-documented high-utility replacement for rereading
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — organizing material into chunks during a first reading can make subsequent study more efficient
+- [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) — related
+- [Elaborative interrogation instructions produce better recall and recognition of science facts than reading-for-understanding instructions](elaborative-interrogation-improves-science-fact-learning.md) — related
+- [Elaborative interrogation increased perceived difficulty and time spent with the lesson](elaborative-interrogation-increases-difficulty-and-time-on-lesson.md) — related
+- [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
+- [First-cycle underperformance was attributed to low-quality student-generated questions that failed to represent journal article patterns](question-quality-limited-first-cycle-outcomes.md) — related
+- [Rereading is less effective than retrieval practice](rereading-less-effective-than-retrieval-practice.md) — related

@@ -42,3 +42,4 @@ This is a null finding from a single study's sub-sample (n=136) and should not b
 
 ## Related Claims
 - [Homogeneous problem perceptions predict better regulation outcomes in collaborative groups](homogeneous-problem-perceptions-predict-regulation-success.md) — the positive finding this null result qualifies: alignment itself predicts success, but simply becoming aware of misalignment does not
+- [Homogeneous grouping for reading instruction and heterogeneous grouping for discussion groups each serve distinct purposes](mixed-homogeneous-heterogeneous-grouping.md) — related

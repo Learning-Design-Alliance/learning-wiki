@@ -41,4 +41,6 @@ Content analysis of Table 3 opinion categories (80 coded expressions) from the s
 
 
 ## Related Claims
--
+- [Academics most often name Facebook as the Web 2.0 tool they use to realise belonging and love needs](academics-prefer-facebook-belonging-love.md) — related
+- [Academics most often name Instagram and LinkedIn as the Web 2.0 tools they use to realise esteem needs](academics-prefer-instagram-linkedin-esteem.md) — related
+- [Academics most often name YouTube and Instagram as the Web 2.0 tools they use to realise self-actualisation needs](academics-prefer-youtube-instagram-self-actualisation.md) — related

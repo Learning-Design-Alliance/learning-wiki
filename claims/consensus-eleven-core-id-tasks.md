@@ -41,4 +41,6 @@ Survey of 66 NSPI-Montreal members reporting how often they perform 11 ID activi
 
 
 ## Related Claims
--
+- [Only a small number of model designers follow all steps all of the time](minority-of-designers-follow-all-steps.md) — related
+- [Most surveyed teachers report accounting for learner prior knowledge and material complexity in instructional design](teachers-account-for-prior-knowledge-and-complexity.md) — related
+- [Practitioners believe roughly 20% of learning takes place formally while 80% takes place informally](twenty-percent-formal-eighty-informal-learning.md) — related

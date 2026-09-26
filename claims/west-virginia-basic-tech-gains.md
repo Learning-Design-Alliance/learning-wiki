@@ -41,4 +41,5 @@ A sidebar describes West Virginia's comprehensive longitudinal study of a ten-ye
 
 
 ## Related Claims
--
+- [A one-to-one wireless laptop initiative in Hiawassee, Georgia was accompanied by improved test scores, a 24 percent rise in adult education enrollment and a 71 percent rise in G.E.D. completions](hiawassee-laptop-outcomes.md) — related
+- [Teachers who used the Kit & Kaboodle science curriculum daily saw a larger test-score gain than teachers who used it sporadically](kit-kaboodle-daily-use-gains.md) — related

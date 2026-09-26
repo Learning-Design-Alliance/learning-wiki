@@ -41,4 +41,4 @@ This is a definitional/argumentative statement from the workbook's background on
 
 
 ## Related Claims
--
+- [A threefold staff development plan of immersion, peer monitoring and review, and manual contribution supported instructors' implementation of cooperative learning structures](threefold-cooperative-learning-staff-development-plan.md) — related

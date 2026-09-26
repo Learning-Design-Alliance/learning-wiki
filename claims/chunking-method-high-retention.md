@@ -41,4 +41,5 @@ Retention study in one general psychology class: a delayed posttest on chapter o
 
 
 ## Related Claims
--
+- [Retention differs by type of knowledge tested, with concepts and rules retained best and problem solving worst](retention-varies-by-knowledge-type.md) — related
+- [High CPC students outperform low CPC students only on the delayed posttest under the chunking method](cpc-difference-delayed-posttest-only.md) — related

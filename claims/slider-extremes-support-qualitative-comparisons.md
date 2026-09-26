@@ -41,4 +41,5 @@ Continuation of the same single-student think-aloud case study. The student move
 
 
 ## Related Claims
--
+- [Authors report that flexibility in sim access supports student agency while students tend to explore in a productive sequence](flexibility-supports-agency-productive-sequence.md) — a broader claim this one bears on
+- [A student began interacting with the sim within 10 seconds and verbalized sense-making without explicit guidance](implicit-scaffolding-supports-immediate-exploration.md) — related

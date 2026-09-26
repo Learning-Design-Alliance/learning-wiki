@@ -40,7 +40,7 @@ Janelli, M., & Lipnevich, A. A. (2021). Effects of pre-tests and feedback on per
 
 ## Discussion
 
-**Mechanism.** The proposed harm runs through learners' affective response to error. When a pretest consists of questions learners cannot answer, repeated failure before any instruction can lower self-efficacy and perceived competence, undermining willingness to engage with the subsequent lesson. [-W] This is consistent with motivation theories that treat perceived competence as a driver of engagement — see [Autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md) [+S] — and it marks a boundary condition on the otherwise well-supported pretesting effect (see [Pretesting improves retention of to-be-learned material](pretesting-improves-retention.md) [+S]).
+**Mechanism.** The proposed harm runs through learners' affective response to error. When a pretest consists of questions learners cannot answer, repeated failure before any instruction can lower self-efficacy and perceived competence, undermining willingness to engage with the subsequent lesson. [-W] This is consistent with motivation theories that treat perceived competence as a driver of engagement — see [Autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md) [+S] — and it marks a boundary condition on the otherwise well-supported pretesting effect (see [Pretesting improves retention of to-be-learned material](pretesting-enhances-learning.md) [+S]).
 
 **Moderators.** The motivational cost plausibly depends on how failure is framed and experienced: whether the pretest is low-stakes, whether learners are told in advance that errors are expected and useful, whether feedback follows quickly, and how difficult the pretest items are relative to learners' background knowledge. [~W] Learners with low prior knowledge or low academic confidence are the most plausible at-risk group, since they have the least basis for interpreting pretest failure as informative rather than as evidence of inability. [~W] Framing matters in both directions: [Cognitive disequilibrium motivates conceptual change](cognitive-disequilibrium-motivates-conceptual-change.md) [+M] captures the case where early failure provokes productive curiosity, while [Belonging interventions improve outcomes](belonging-interventions-improve-outcomes.md) [+S] suggests that normalizing early error as shared and temporary can buffer the harm.
 
@@ -50,7 +50,11 @@ Janelli, M., & Lipnevich, A. A. (2021). Effects of pre-tests and feedback on per
 
 ## Related Claims
 
-- [Pretesting improves retention of to-be-learned material](pretesting-improves-retention.md) — the cognitive benefit that this motivational cost trades off against
+- [Pretesting improves retention of to-be-learned material](pretesting-enhances-learning.md) — the cognitive benefit that this motivational cost trades off against
 - [Cognitive disequilibrium motivates conceptual change](cognitive-disequilibrium-motivates-conceptual-change.md) — productive failure can motivate, but only under the right conditions
 - [Autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md) — competence and autonomy are key drivers of the motivation at risk here
 - [Belonging interventions improve outcomes](belonging-interventions-improve-outcomes.md) — framing failure as normal and shared can buffer the motivational harm of early errors
+- [Instruction can harm learners in ways its performance data do not show.](instruction-has-unintended-moral-effects-that-performance-data-miss.md) — a broader claim this one bears on
+- [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
+- [Retrieval Fails Without Encoding](retrieval-fails-without-encoding.md) — related
+- [Random measurement noise in pretest scores produces a negative contribution to the correlation between normalized gain and pretest score](measurement-noise-negative-gain-pretest-correlation.md) — related

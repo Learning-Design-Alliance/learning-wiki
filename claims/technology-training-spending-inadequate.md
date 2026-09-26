@@ -41,4 +41,7 @@ Spending projections reported in the New Urgency section of the report, contrast
 
 
 ## Related Claims
--
+- [All three participant groups commonly recommend training teachers to use the computer to support their teaching](all-groups-recommend-teacher-computer-training.md) — related
+- [Only 20 percent of U.S. teachers felt well prepared to integrate educational technology into classroom instruction (1998)](only-20-percent-teachers-prepared-integrate-technology.md) — related
+- [Teachers receiving 11 or more hours of training on integrating digital content report roughly double the reliance on software and the Internet compared with untrained teachers](pd-integration-training-doubles-reliance.md) — related
+- [Between the 1997 and 1999 STaR assessments, the share of schools effectively using technology rose from 15 to 24 percent, and almost 80 percent of schools had Internet connections](star-year2-technology-use-rise.md) — related

@@ -72,3 +72,9 @@ More than 1,350 people were taught a set of facts, reviewed them after a gap of 
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — learners' spacing decisions are shaped by flawed metacognitive judgments
 - Retrieval practice improves retention — no page yet; spaced retrieval combines two of the strongest retention effects
 - The lag effect — longer gaps yield proportionally larger spacing benefits; no page yet
+- [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — possibly the same claim (merge candidate)
+- [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
+- [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md) — possibly the same claim (merge candidate)
+- [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
+- [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
+- [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — related

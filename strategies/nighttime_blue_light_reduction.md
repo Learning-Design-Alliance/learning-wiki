@@ -48,7 +48,7 @@ Sleep deprivation and fragmentation degrade attention, working memory, and conso
 ### Target Learning Goals
 - Indirect but foundational: protecting the consolidation of any newly learned material [Distributed practice improves long-term retention compared with massed practice.](../claims/distributed-practice-improves-retention.md) [+S]
 - Next-day attention and working-memory capacity for new encoding
-- Self-regulation habits: managing one's own study environment and schedule [Self-regulated learning improves academic outcomes.](../claims/self-regulated-learning-improves-academic-outcomes.md) [+M]
+- Self-regulation habits: managing one's own study environment and schedule [Self-regulated learning improves academic outcomes.](../claims/self-regulated-learning-improves-achievement.md) [+M]
 
 ### Instructions
 1. Teach the mechanism briefly — melatonin suppression, circadian delay, and the role of sleep in consolidation — so the rule is understood rather than imposed ([Advance Organizers](../elements/advance-organizers.md) can frame a study-skills unit around "protect the consolidation window")

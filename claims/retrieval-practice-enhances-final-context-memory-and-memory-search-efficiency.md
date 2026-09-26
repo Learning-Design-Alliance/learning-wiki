@@ -75,4 +75,6 @@ The chapter reports Lehman et al. (2014), who used cumulative recall curves: "in
 
 
 ## Related Claims
--
+- [Inducing learners to recollect the prior study episode during retrieval practice enhances retention even when reexposure and initial success are held constant](recollecting-the-prior-study-episode-during-retrieval-enhances-retention.md) — related
+- [Practicing retrieval of some portions of an educational text can enhance retention of related nontested portions (retrieval-induced facilitation), but not when relational encoding is disrupted](retrieval-induced-facilitation-of-nontested-text-material-requires-relational-encoding.md) — related
+- [Retrieval practice instructions improved final recall of translations in Experiment 1](retrieval-instructions-improve-final-recall-exp1.md) — a narrower finding that bears on this claim

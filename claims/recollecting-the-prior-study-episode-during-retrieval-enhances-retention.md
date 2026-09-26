@@ -58,4 +58,5 @@ The chapter reports Whiffen and Karpicke (2017), where both conditions reexperie
 
 
 ## Related Claims
--
+- [Retrieval practice enhances final-test recollection of contextual details and speeds final retrieval, as shown by list discrimination, response time, and cumulative recall measures](retrieval-practice-enhances-final-context-memory-and-memory-search-efficiency.md) — related
+- [Retrieval practice disrupted within-list order reconstruction of eight-item word lists, just as generation did](retrieval-practice-disrupts-within-list-order-reconstruction.md) — related

@@ -41,4 +41,4 @@ Case description of Tacoma Public Schools' progressive inclusion system, develop
 
 
 ## Related Claims
--
+- [Colorado's financial incentives for community alternatives and an interagency agreement were followed by a decline in residential institutional placements](colorado-deinstitutionalization-incentives-declined-placements.md) — related

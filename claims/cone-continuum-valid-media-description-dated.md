@@ -41,4 +41,8 @@ The author's historical analysis concludes the cone's experiential continuum ret
 
 
 ## Related Claims
--
+- [The Cone of Experience rests on conflated theoretical assumptions, mixing humanistic and hierarchical task-analysis viewpoints](cone-conflated-theoretical-assumptions.md) — related
+- [The validity of the cone approach to media selection was questioned by 1969 because instructional design, not media alone, shapes media characteristics](cone-media-selection-questioned-tosti-ball.md) — related
+- [A theoretical gap exists between delivery-system/media theory and instructional strategy theory and other ISD steps](gap-between-media-theory-and-isd-steps.md) — related
+- [People acquire different knowledge from different media, the closest indirect evidence for symbolic encoding specificity](different-media-yield-different-knowledge-encoding.md) — related
+- [Relational-domain programs are argued to be workable only under highly individualized instruction matched to learners' concrete-abstract developmental stage](individualized-instruction-relational-domain.md) — related

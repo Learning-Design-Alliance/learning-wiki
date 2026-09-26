@@ -41,4 +41,6 @@ Across the 5-year project, teachers' translation of ICAP was assessed by pre/pos
 
 
 ## Related Claims
--
+- [In the 5-year translation project, students learned significantly more in Constructive than Active activities](students-learned-more-constructive-than-active.md) — related
+- [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on
+- [Engagement modes were unevenly distributed across units, with some units rated Interactive and others entirely Passive](uneven-icap-mode-distribution-across-units.md) — related

@@ -41,4 +41,6 @@ Survey screening used a self-developed self-injury scale and the SBO-R suicide r
 
 
 ## Related Claims
--
+- [Academic burnout is widespread among secondary vocational students](academic-burnout-widespread-vocational-students.md) — related
+- [Depressive symptoms are detected in 26.35% of secondary vocational students](vocational-students-depression-detection-26-35-percent.md) — related
+- [Only 4.3% of surveyed secondary vocational students meet mental health knowledge standards](vocational-students-low-mental-health-literacy-4-3-percent.md) — related

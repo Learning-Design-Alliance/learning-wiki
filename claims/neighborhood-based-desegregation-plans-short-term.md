@@ -41,4 +41,6 @@ This is the authors' interpretive review of prior desegregation approaches, attr
 
 
 ## Related Claims
--
+- [Under Boston's Controlled Choice plan, 90 percent of students received a first- or second-choice school and fewer than 10 percent were mandatorily assigned](boston-controlled-choice-most-students-get-first-or-second-choice.md) — related
+- [Parental support for a neighborhood single-gender middle school varied across elementary attendance zones](parental-support-single-gender-middle-school-varies-by-attendance-zone.md) — related
+- [Support for single-gender middle schools dropped when traditional-school attendance required travel outside the neighborhood](travel-outside-neighborhood-reduces-single-gender-support.md) — related

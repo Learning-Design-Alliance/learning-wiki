@@ -41,4 +41,4 @@ This is the protocol's narrative attribution in its introduction, citing prior s
 
 
 ## Related Claims
--
+- [Inadequate evidence synthesis skills left nearly 70% of pharmacy students and practitioners reporting lack of confidence in applying evidence in patient care](inadequate-evidence-synthesis-skills-lack-confidence-applying-evidence.md) — related

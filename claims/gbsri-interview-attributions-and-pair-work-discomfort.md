@@ -41,4 +41,8 @@ Semi-structured interviews with six students stratified by pre-test ability (hig
 
 
 ## Related Claims
--
+- [GBSRI significantly improved Thai undergraduates' overall English paragraph writing scores after eight weeks](gbsri-improves-thai-undergraduate-writing-scores.md) — related
+- [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — a broader claim this one bears on
+- [Self-regulated learning strategy instruction improves writing outcomes](self-regulated-learning-strategies-improve-writing.md) — a broader claim this one bears on
+- [Collaborative Writing Improves Text Quality](collaborative-writing-improves-text-quality.md) — a broader claim this one bears on
+- [Most questionnaire respondents (96.88%) reported that GBSRI activities improved their writing, and collaborative activities were the most preferred](gbsri-respondents-reported-writing-improvement.md) — related

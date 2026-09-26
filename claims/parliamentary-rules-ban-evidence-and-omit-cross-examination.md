@@ -58,4 +58,6 @@ The author's rule analysis identifies the missing cross examination period as a 
 
 
 ## Related Claims
--
+- [Less experienced debate judges are more likely to be assigned to parliamentary debate](inexperienced-judges-assigned-to-parliamentary-debate.md) — related
+- [Judges surveyed perceive CEDA/NDT debaters as devoting more weekly work than parliamentary debaters](judges-perceive-ceda-ndt-work-exceeds-parliamentary-work.md) — related
+- [Coaches and students perceive distinct strengths and weaknesses of parliamentary debate relative to other formats](survey-identifies-perceived-strengths-weaknesses-of-parliamentary-debate.md) — related

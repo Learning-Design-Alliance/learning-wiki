@@ -69,3 +69,5 @@ A direct replication of Mueller and Oppenheimer (2014) that added an eWriter gro
 - [Chunking reduces working memory load](../claims/chunking-reduces-working-memory-load.md) — summarizing notes forces chunking; verbatim transcription does not
 - [Cognitive overload degrades learning](../claims/cognitive-overload-degrades-learning.md) — fast-paced lectures can push learners toward transcription as a coping strategy
 - [Active learning improves exam performance](../claims/active-learning-improves-exam-performance.md) — generative note-taking is one form of active engagement during lecture
+- [Guided Notes Improve Note Accuracy](guided-notes-improve-note-accuracy.md) — related
+- [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — related

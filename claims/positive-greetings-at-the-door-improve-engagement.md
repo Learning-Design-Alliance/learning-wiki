@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: positive-greetings-at-the-door-improve-engagement
+aliases: [positive-greetings-at-the-door-improve-engagement-and-behavior]
 evidence_strength:
 sources:
   - id: cook-et-al-2018
@@ -61,8 +62,26 @@ The mechanism is usually framed as a relationship- and routine-building move: a 
 
 Boundary conditions to watch: the greeting must be genuinely positive and personalized; a perfunctory or corrective greeting ("get your phone put away") may function as a reprimand rather than a welcome. The practice also depends on a stable arrival routine — it is hardest to sustain in settings with staggered arrivals, large numbers of students per teacher, or shared teaching spaces. Effects, once evidenced, should be expected to operate through classroom climate and student–teacher relationship quality rather than through direct instructional mechanisms, so gains are most plausible for engaged time and behavior rather than for learning of new content per se. Because the claim currently lacks evidence entries, its strength is ungraded; studies are still needed before this page can support design recommendations with confidence.
 
+*Merged from “Positive Greetings At The Door Improve Engagement And Behavior” (positive-greetings-at-the-door-improve-engagement-and-behavior):* **Mechanism.** The greeting functions as a brief, low-cost relational routine: it signals personal recognition and belonging before instruction begins, sets behavioral expectations at a transition point, and gives the teacher a moment to scan for students who may need early support. It aligns with relational and belonging-oriented approaches such as [Belonging interventions improve outcomes](belonging-interventions-improve-outcomes.md) and with empathic-discipline work that reduces exclusionary discipline — see [Brief empathic discipline intervention cuts suspensions](brief-intervention-empathic-discipline-cuts-suspensions.md). The mechanism is plausibly threefold: a relational signal (each student is seen as an individual), a procedural signal (the lesson's behavioral expectations are primed at the threshold), and a diagnostic opportunity (the teacher can pre-empt escalation by noticing a student arriving distressed).
+
+**Moderators and boundary conditions.** Effects should depend on the greeting being genuinely positive and individualized; perfunctory or uniformly scripted greetings may lose relational value. The claim is also specific to transition points — the same interaction embedded mid-lesson may not produce the same engagement gains. Because the routine depends on consistent teacher delivery, implementation fidelity is a plausible moderator, and effects may attenuate if the greeting becomes routine without warmth. The claim is most plausible for classroom-managed, teacher-delivered routines in K-12 settings; it should not be assumed to transfer unchanged to large lectures or online environments where the doorway interaction has no natural analogue.
+
+**Relationship to behavior-management approaches.** The greeting is best understood as a proactive, preventive strategy rather than a reactive one: it aims to raise engagement and pre-empt disruption before it occurs, complementing rather than replacing consequence-based systems. It sits naturally alongside routines and structures that reduce ambiguity at transitions — see [Clear structure improves learning](../principles/clear-structure.md) — and with relational practices that build the teacher–student relationship as a channel for classroom management. It also connects to the broader principle that students' sense of being known and valued supports engagement — see [Belonging](../elements/belonging.md) — and to proactive classroom-climate strategies such as [Check-ins](../principles/check-ins.md), which serve a similar relational-diagnostic function at other moments in the lesson.
+
+**Open questions.** The durability of effects beyond the immediately following lesson, generalization across grade levels and cultural contexts, and whether gains in engagement translate into achievement gains are not yet established on this page. Both studies recorded above were read as abstracts and report no standardized effect size; one is a three-student single-case design.
+
 ## Related Claims
 
 - [Belonging interventions improve outcomes](belonging-interventions-improve-outcomes.md) — greetings are a micro-level belonging signal delivered daily
 - [Brief intervention empathic discipline cuts suspensions](brief-intervention-empathic-discipline-cuts-suspensions.md) — similarly low-cost, relationship-focused teacher behavior change
 - [Classroom design affects learning progress](classroom-design-affects-learning-progress.md) — the doorway/entry routine is part of the physical and procedural learning environment
+- [Clear structure improves learning](../principles/clear-structure.md) — greetings are one routine within a broader set of transition-management structures
+- [Check-ins](../principles/check-ins.md) — relational-diagnostic moments at other points in the lesson serving a similar function
+- [Behaviorist reinforcement methods are reported to be effective in creating positive behavior across learning environments](behaviorist-reinforcement-effective-positive-behavior.md) — related
+- [Using co-regulation strategies helped facilitators and youth build warm, trusting relationships](co-regulation-builds-warm-trusting-relationships.md) — related
+- [Disruptive student behavior is associated with less academic engaged time and lower achievement](disruptive-behavior-lowers-engagement-and-achievement.md) — related
+- [Teachers who effectively implement classroom management can engage students in learning activities for more than 90 percent of allocated time](effective-classroom-management-engages-students-over-90-percent-of-time.md) — related
+- [Teachers feel more in control and more competent when they have a formal plan for discipline and procedures](formal-discipline-plan-increases-teacher-control-and-competence.md) — related
+- [Teacher Student Relationships Improve Engagement And Achievement](teacher-student-relationships-improve-engagement-and-achievement.md) — related
+- [Students in treatment classrooms showed less disruptive behavior than control classrooms in all 12 studies](treatment-classrooms-less-disruptive-than-control.md) — related
+- [Teachers' universal classroom management practices significantly reduce problem classroom behavior (mean classroom ES = 0.80, ICC=.05)](universal-classroom-management-reduces-problem-behavior.md) — a broader claim this one bears on

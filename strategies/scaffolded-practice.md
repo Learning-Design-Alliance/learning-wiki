@@ -12,7 +12,7 @@ generated:
 # Scaffolded Practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 11 studies, `q3`–`q4` · 10 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 11 studies, `q3`–`q4` · 10 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Scaffolded practice structures repeated application of a skill so that support is high at first and fades as learners gain competence. Rather than moving from full instruction directly to independent problems, the designer builds a gradient — worked examples, then completion problems, then faded or simplified tasks, then independent practice with feedback. The supports (prompts, hints, partially completed solutions, reduced task complexity) are temporary and deliberately withdrawn.

@@ -55,3 +55,8 @@ A meta-analysis of studies that induced self-explanation — a generative strate
 - [Annotating improves learning.](annotating-improves-learning.md) — annotation is a concrete generative activity during reading
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — managing load is a precondition for productive generative effort
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — generation helps only when working memory is not overwhelmed
+- [Self-explanation improves learning](self-explanation-improves-learning.md) — related
+- [Generative Learning Improves Comprehension](generative-learning-improves-comprehension.md) — related
+- [Generative Learning Improves Retention](generative-learning-improves-retention.md) — possibly the same claim (merge candidate)
+- [Elaborative Encoding Improves Retention](elaborative-encoding-improves-retention.md) — related
+- [Self Explanation Prompts Improve Learning From Worked Examples](self-explanation-prompts-improve-learning-from-worked-examples.md) — a narrower finding that bears on this claim

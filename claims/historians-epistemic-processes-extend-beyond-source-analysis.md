@@ -48,3 +48,6 @@ This is a self-report interview study of one national population (Finnish academ
 
 ## Related Claims
 - (none yet linked)
+- [Heterogeneity-seeking modeling curricula surface epistemic commitments in most students, including care-based commitments absent from prior frameworks](heterogeneity-seeking-curricula-surface-diverse-epistemic-commitments.md) — related
+- [Expansive learning moved epistemically from questioning to analysis, modeling and implementation while interactionally moving from coordination to cooperation and communication, but with no mechanical correspondence between specific actions and interaction types](no-mechanical-correspondence-actions-interaction.md) — related
+- [Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams](epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md) — related

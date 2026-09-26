@@ -41,4 +41,5 @@ The review reports, citing Ford et al. (2012) and Hopwood et al. (2016), "extrem
 
 
 ## Related Claims
--
+- [Deliberate Practice Improves Performance](deliberate-practice-improves-performance.md) — related
+- [Amount of accumulated deliberate practice distinguishes more from less accomplished musicians](deliberate-practice-hours-differentiate-musicians.md) — related

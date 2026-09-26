@@ -41,4 +41,6 @@ Experiment 4 visualized the embedding of a random selection of 200 questions via
 
 
 ## Related Claims
--
+- [Learned question embeddings capture question difficulty rather than clustering exercises by concept](question-embeddings-capture-difficulty-not-concepts.md) — reports the opposite
+- [Replacing concept/skill tags with question identifiers significantly degrades DKT and DKVMN performance, while DynEmb tracks knowledge using pretrained question embeddings instead of tags](dynemb-tracks-knowledge-without-skill-tags.md) — related
+- [Embedding pretraining outperforms end-to-end training in DynEmb, avoiding the overfitting that end-to-end training exhibits](embedding-pretraining-beats-end-to-end-training-dynemb.md) — related

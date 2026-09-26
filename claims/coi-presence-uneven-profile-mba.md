@@ -58,4 +58,9 @@ Descriptive statistics from the CoI Survey cognitive presence subscale (n = 32).
 
 
 ## Related Claims
--
+- [Co-regulation shows stronger relationships with the three CoI presences than self-regulation in an online case-based course](co-regulation-stronger-presence-relationships-than-self-regulation.md) — related
+- [In an online case-based course, students perceive cognitive presence as highest and least variable, and teaching presence as the most variable, among the CoI presences and metacognition dimensions](cognitive-presence-highest-least-variable-online-cbi.md) — related
+- [Students in an accelerated online MBA program experience their courses as a community of inquiry, with all three CoI presences rated above 4.0 on a 5-point scale](mba-students-experience-courses-as-coi.md) — related
+- [A program-wide standard online course template heightens teaching presence and supports learner intentions in accelerated online courses](course-template-supports-learner-presence.md) — related
+- [Learner presence in an accelerated online MBA context manifests as three qualities: learner intentions, learner metacognition, and peer monitoring](learner-presence-three-qualities-mba.md) — related
+- [Unconstrained topic writing produces frivolous resolutions that perpetuate non-argumentative practices](unconstrained-topic-writing-yields-frivolous-resolutions.md) — related

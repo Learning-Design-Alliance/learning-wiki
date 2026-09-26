@@ -41,4 +41,6 @@ Theme from caregiver focus groups and healthcare worker interviews in the qualit
 
 
 ## Related Claims
--
+- [Caregiver uptake of the Family MUAC two-way SMS intervention was high](family-muac-sms-high-uptake.md) — related
+- [Caregivers and healthcare workers perceived Family MUAC with two-way SMS as acceptable, cost-saving, appropriate, and feasible](family-muac-sms-perceived-acceptable-feasible.md) — related
+- [Baseline-only training was insufficient for sustained measurement accuracy; healthcare workers recommended refresher training](refresher-training-needed-for-muac-accuracy.md) — related

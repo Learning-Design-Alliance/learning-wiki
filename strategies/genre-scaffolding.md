@@ -19,7 +19,7 @@ Genre scaffolding teaches learners the socially recognized forms of writing — 
 
 ## Design Implications
 
-Genre scaffolding reduces the cognitive burden of composing by giving learners a structural frame, so working memory is spent on ideas rather than on inventing organization [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. It is most effective when structure is taught through analysis of authentic models followed by guided joint construction, not by handing learners a blank graphic organizer [Explicit writing strategy instruction improves composition quality.](../claims/explicit-writing-strategy-instruction-improves-writing.md) [+S]. Comparing multiple texts of the same genre helps learners infer the underlying pattern rather than memorizing one exemplar [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
+Genre scaffolding reduces the cognitive burden of composing by giving learners a structural frame, so working memory is spent on ideas rather than on inventing organization [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. It is most effective when structure is taught through analysis of authentic models followed by guided joint construction, not by handing learners a blank graphic organizer [Explicit writing strategy instruction improves composition quality.](../claims/strategy-instruction-improves-writing-quality.md) [+S]. Comparing multiple texts of the same genre helps learners infer the underlying pattern rather than memorizing one exemplar [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Genre scaffolding reduces the cognitive burden of composing by giving learners a
 - **Digital variant:** use annotated exemplars with margin commentary instead of whole-class deconstruction
 
 ### Target Learners
-- Novice writers and English language learners, who benefit most from explicit structural maps [Explicit writing strategy instruction improves composition quality.](../claims/explicit-writing-strategy-instruction-improves-writing.md) [+S]
+- Novice writers and English language learners, who benefit most from explicit structural maps [Explicit writing strategy instruction improves composition quality.](../claims/strategy-instruction-improves-writing-quality.md) [+S]
 - Adolescent writers in content-area courses who must produce discipline-specific texts (lab reports, source-based arguments)
 - Less beneficial for experienced writers, for whom heavy scaffolding can constrain development [~M]
 

@@ -41,4 +41,5 @@ Findings from interviews with equipment and recorded-edition suppliers conducted
 
 
 ## Related Claims
--
+- [Plan 2 is the most cost-effective of twelve delineated conversion plans for recorded-book media conversion](plan2-most-cost-effective-disc-to-cassette-conversion.md) — related
+- [Classroom Design Affects Learning Progress](classroom-design-affects-learning-progress.md) — related

@@ -41,4 +41,4 @@ The authors report, from their own teaching experience rather than a systematic 
 
 
 ## Related Claims
--
+- [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related

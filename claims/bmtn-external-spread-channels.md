@@ -41,4 +41,5 @@ Descriptive account of external spread in the Key Learnings section: "The spread
 
 
 ## Related Claims
--
+- [Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven](leader-teacher-diffusion-uneven.md) — related
+- [PDSA testing of instructional routines provided a durable structure for teachers to reflect on and improve instruction over time](pdsa-testing-routines-structure-teacher-reflection.md) — related

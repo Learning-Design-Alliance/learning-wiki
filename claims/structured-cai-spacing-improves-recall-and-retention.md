@@ -41,4 +41,7 @@ The dissertation's pretest-posttest control-group experiment analyzed between-gr
 
 
 ## Related Claims
--
+- [Learners using structured CAI maintained their level of memory from recall to retention, while unstructured CAI learners did not](structured-cai-maintains-memory-recall-to-retention.md) — related
+- [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — a broader claim this one bears on
+- [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — a broader claim this one bears on
+- [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — a broader claim this one bears on

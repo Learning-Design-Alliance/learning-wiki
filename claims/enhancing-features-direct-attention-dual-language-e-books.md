@@ -58,4 +58,9 @@ Study 1 enhanced Mandarin condition: during animation children's "PLT to the tar
 
 
 ## Related Claims
--
+- [The attention-guiding effect of narration-plus-animation is phase-dependent: target-language attention drops significantly after the animation ends](animation-phase-dependent-attention-to-print.md) — related
+- [Multimedia features improved story comprehension in dual-language e-books (marginal trend) but not in single-language e-books](comprehension-benefit-dual-language-only.md) — related
+- [Bilingual preschoolers silently reading dual-language e-books attend more to their dominant language (English) than the nondominant language (Mandarin)](dominant-language-attention-bias-dual-language-e-books.md) — related
+- [Multimedia enhancing features increase attention to print in single-language e-books in both English and Mandarin](enhancing-features-increase-attention-single-language-e-books.md) — related
+- [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
+- [Without a competing language, bilingual preschoolers show no preference between English-only and Mandarin-only books during silent reading](no-language-preference-single-language-silent-reading.md) — related

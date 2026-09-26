@@ -30,7 +30,7 @@ This strategy operationalizes differentiation: instructional decisions are drive
 
 #### Constraints
 - Data collection and analysis require significant time; under-resourced settings often default to one-size-fits-all instruction
-- Misidentification of a student's barrier leads to mismatched supports — e.g., adding scaffolds for a knowledge gap that requires reteaching, which can depress achievement [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-expertise-reversal.md) [~M]
+- Misidentification of a student's barrier leads to mismatched supports — e.g., adding scaffolds for a knowledge gap that requires reteaching, which can depress achievement [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 - Fixed "learning styles" matching is not supported by evidence and wastes planning time [X] — differentiate by readiness, interest, and task demands instead
 - Over-scaffolding can reduce autonomy and undermine motivation; supports must fade as competence grows [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
 

@@ -41,4 +41,8 @@ General linear model analysis of mail-survey MPD data from 79 Korean adult immig
 
 
 ## Related Claims
--
+- [Cross-cultural measurement problems may bias psychosocial instruments translated across cultures](cross-cultural-measurement-bias-in-translated-psychosocial-instruments.md) — related
+- [External sociocultural adaptation may change with time while internal psychosocial identity resists change, per the authors' conjecture](external-adaptation-changes-internal-identity-resists.md) — related
+- [Female Korean immigrants showed better psychosocial adjustment than males on diffusion, isolation, and intimacy resolution](female-korean-immigrants-better-adjustment-than-males.md) — related
+- [Korean immigrant sample scored significantly lower than the MPD normative group on identity, intimacy, and generativity resolution for both genders](korean-immigrants-lower-resolution-than-norm-group.md) — related
+- [The immigrant sample's low return rate limits generalizability to Korean adult immigrants as a whole](low-mail-survey-return-rate-limits-generalizability.md) — related

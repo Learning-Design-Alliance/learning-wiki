@@ -41,4 +41,6 @@ Interview-based finding from six MBA students in the stimulated recall study. Le
 
 
 ## Related Claims
--
+- [Learner presence in an accelerated online MBA context manifests as three qualities: learner intentions, learner metacognition, and peer monitoring](learner-presence-three-qualities-mba.md) — a broader claim this one bears on
+- [Students in an accelerated online MBA program experience their courses as a community of inquiry, with all three CoI presences rated above 4.0 on a 5-point scale](mba-students-experience-courses-as-coi.md) — related
+- [A program-wide standard online course template heightens teaching presence and supports learner intentions in accelerated online courses](course-template-supports-learner-presence.md) — related

@@ -41,4 +41,7 @@ The brief reports this developmental neuroscience finding as background from res
 
 
 ## Related Claims
--
+- [A rapid increase in dopamine activity in the adolescent brain's reward center contributes to teen risk-taking](adolescent-dopamine-surge-drives-risk-taking.md) — related
+- [Adolescents rely more on the amygdala and less on frontal regions than adults when processing emotional stimuli, and younger teens often misread facial expressions](adolescents-amygdala-driven-emotion-processing.md) — related
+- [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](early-delay-of-gratification-predicts-later-outcomes.md) — related
+- [A second wave of brain development, including experience-dependent synaptic pruning, occurs during adolescence from roughly age 11 or 12 through approximately 24](adolescent-second-wave-brain-development-pruning.md) — related

@@ -41,4 +41,5 @@ The article's distributional interpretability analysis, described as in-depth vi
 
 
 ## Related Claims
--
+- [Adaptive G-UKT reportedly establishes competitive state-of-the-art knowledge tracing performance, particularly under sparse observation regimes](adaptive-g-ukt-competitive-performance-sparse-regimes.md) — related
+- [Existing deep sequential knowledge tracing encoders treat concept nodes as isolated deterministic vectors, limiting handling of structural sparsity and epistemic uncertainty](kt-encoders-entity-isolated-deterministic-limits.md) — related

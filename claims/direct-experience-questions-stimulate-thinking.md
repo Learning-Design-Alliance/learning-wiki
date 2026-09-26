@@ -41,4 +41,6 @@ Descriptive statement from the Workbook H (Experience Referents) section of Unit
 
 
 ## Related Claims
--
+- [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
+- [Returning to direct somatic experience can re-vision thinking and change perception (attributed to Reason)](somatic-return-revisions-thinking.md) — related
+- [Student oral presentations of laboratory results became the central activity stimulating active and cooperative learning](student-lab-presentations-central-activity.md) — related

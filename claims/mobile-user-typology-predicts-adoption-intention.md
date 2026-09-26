@@ -41,4 +41,8 @@ Structural equation model (Mplus, robust maximum likelihood) with behavioural in
 
 
 ## Related Claims
--
+- [Behavioural intention to adopt mobile learning is highest among eclectic users, followed by Internet users, then offline entertainment users, and lowest among basic users](adoption-intention-ordering-across-user-types.md) — related
+- [Age, sex, faculty, programme level and campus-territory are each significantly related to mobile user type membership, though the model's pseudo R-squared is low](demographics-relate-to-mobile-user-type.md) — related
+- [Latent class analysis of Caribbean higher-education students' mobile phone feature use yields four user types: eclectic, Internet, basic, and offline entertainment users](four-mobile-user-types-caribbean-higher-education.md) — related
+- [Adding mobile user typology to the UTAUT predictors renders effort expectancy non-significant, suggesting the typology accounts for ease of use](typology-renders-effort-expectancy-nonsignificant.md) — related
+- [Mobile user typology shows cross-national specificity: class distributions differ across campus-territory groups, challenging the assumption of a fixed set of user segments across countries](cross-national-specificity-of-user-typology.md) — related

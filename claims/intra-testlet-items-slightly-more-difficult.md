@@ -41,4 +41,5 @@ Descriptive item-difficulty comparison across the midterm and final exams, where
 
 
 ## Related Claims
--
+- [IF-AT-scored physics midterm and final exams yield good test reliability (α = 0.71 and 0.82; α50 = 0.86 and 0.90)](if-at-exams-good-reliability.md) — related
+- [An item positioned later in one booklet was found more difficult by that booklet's test takers, attributed to fatigue effect](later-position-item-more-difficult-fatigue-effect.md) — related

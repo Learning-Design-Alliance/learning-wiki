@@ -43,3 +43,5 @@ Same randomized two-group SafeCracker experiment with 72 students. "The worked e
 ## Related Claims
 - [Worked Examples Improve Problem Solving Strategy Retention In A Puzzle Game](worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game.md)
 - [Worked Examples With Practice Improve Transfer](worked-examples-with-practice-improve-transfer.md)
+- [Studying worked examples between two rounds of a computer puzzle game produced significantly greater knowledge map improvement than no worked examples for adult players](worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game.md) — related
+- [In a game-based problem-solving study, trait self-regulation scores related significantly only to knowledge map scores, with higher planning, self-monitoring, effort and self-efficacy going with better knowledge map performance](trait-self-regulation-relates-only-to-knowledge-map-scores-in-a-puzzle-game.md) — related

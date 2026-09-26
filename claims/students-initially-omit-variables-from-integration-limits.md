@@ -41,4 +41,5 @@ Qualitative transcript analysis of two miniview groups. The authors observe that
 
 
 ## Related Claims
--
+- [Students using the limits method initially choose unphysical integration limits, failing to consider the functional relationship between limits on either side of the equal sign](students-choose-unphysical-limits-ignoring-functional-relationship-across-equal-sign.md) — possibly the same claim (merge candidate)
+- [Intermediate mechanics students start the semester more familiar with the integration constants (+C) method than with the limits method, and the +C method remains preferred by at least one student even after instruction modeling the limits method](students-start-semester-more-familiar-with-integration-constants-method-than-limits-method.md) — related

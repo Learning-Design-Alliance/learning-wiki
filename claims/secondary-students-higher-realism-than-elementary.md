@@ -41,4 +41,6 @@ Survey comparison of undergraduate secondary (mean 40.035) and elementary (mean 
 
 
 ## Related Claims
--
+- [Elementary education students show higher Phenomenology belief and lower Realism belief than secondary students](elementary-higher-phenomenology-secondary-higher-realism.md) — a broader claim this one bears on
+- [Elementary undergraduates show greater belief in Existentialism than secondary undergraduates](elementary-undergrads-higher-existentialism.md) — related
+- [Several group comparisons show no statistically significant differences in philosophical belief](null-comparisons-philosophical-beliefs.md) — related

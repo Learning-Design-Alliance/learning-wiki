@@ -41,4 +41,6 @@ Gleason (1969) conducted an experiment with first, second and third graders conc
 
 
 ## Related Claims
--
+- [Children's language is highly resistant to alteration by adult intervention, challenging a simple imitation theory](child-language-resistant-to-adult-correction.md) — possibly the same claim (merge candidate)
+- [Learner errors arise from interlingual transfer, intralingual overgeneralization, cultural interference, and communicative strategies](error-sources-interlingual-intralingual-cultural.md) — related
+- [Children follow a similar four-stage sequence in acquiring specific syntactic forms, from no usage through error-filled production to correct usage](four-stage-syntax-acquisition-sequence.md) — related

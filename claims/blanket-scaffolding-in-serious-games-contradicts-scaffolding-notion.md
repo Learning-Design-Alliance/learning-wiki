@@ -41,4 +41,4 @@ A literature-analysis section (§4 Problems and Solutions) of this narrative rev
 
 
 ## Related Claims
--
+- [Instructional support suited to novices can have negative effects for more expert learners (expertise-reversal effect), so instructional design should be tailored to learner experience](expertise-reversal-effect-redundant-support-harms-experts.md) — a broader claim this one bears on

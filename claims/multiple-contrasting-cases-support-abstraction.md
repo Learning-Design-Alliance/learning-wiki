@@ -77,3 +77,6 @@ Three experiments taught novices negotiation strategies (trade-offs, contingent 
 - [Case-based learning improves exam performance.](../claims/case-based-learning-improves-exam-performance.md) — cases as the unit of instruction in professional education
 - [Concept attainment](../patterns/concept-attainment.md) — pattern in which learners induce a concept from contrasting examples and non-examples
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md) — worked examples are a single-case alternative whose multi-case extensions raise the same design questions
+- [Comparing Contrasting Cases Improves Learning](comparing-contrasting-cases-improves-learning.md) — possibly the same claim (merge candidate)
+- [Encoding variability across varied example contexts produces decontextualization supporting transfer (review reports DiVesta and Peverly)](encoding-variability-decontextualization-transfer.md) — related
+- [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related

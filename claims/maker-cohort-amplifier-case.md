@@ -39,4 +39,6 @@ Case study of the Maker Learning @ Home cohort, an amplifier structure in which 
 
 
 ## Related Claims
--
+- [The authors argue formative feedback is critical for making student behaviour 'seen' in asynchronous online learning where the teacher is not physically present](feedback-makes-behaviour-seen-asynchronous.md) — related
+- [In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need beyond what surveys would have produced](lvn-generator-feedback-loop-case.md) — related
+- [Some initiatives fit no single generalized structure: the OER for Racial Justice project required a novel generator-plus-catalyzer combination](oer-racial-justice-novel-structure.md) — related

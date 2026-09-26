@@ -42,4 +42,5 @@ Point biserial correlations (Table 2) related demographic and anxiety/PD history
 
 
 ## Related Claims
--
+- [Behavioral Relaxation Training is rated more acceptable than medication for GAD comorbid with Parkinson's disease by both younger and older adults](brt-more-acceptable-than-medication-gad-pd.md) — related
+- [No significant interaction between age group and treatment type in acceptability ratings](no-age-by-treatment-interaction-acceptability.md) — related

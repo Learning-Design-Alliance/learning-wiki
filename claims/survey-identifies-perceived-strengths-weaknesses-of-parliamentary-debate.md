@@ -58,4 +58,7 @@ The same informal tournament survey asked students the strengths/weaknesses ques
 
 
 ## Related Claims
--
+- [Less experienced debate judges are more likely to be assigned to parliamentary debate](inexperienced-judges-assigned-to-parliamentary-debate.md) — related
+- [Parliamentary rules ban published evidence and omit cross examination, which the author argues undermines argumentation training](parliamentary-rules-ban-evidence-and-omit-cross-examination.md) — related
+- [Judges surveyed perceive CEDA/NDT debaters as devoting more weekly work than parliamentary debaters](judges-perceive-ceda-ndt-work-exceeds-parliamentary-work.md) — related
+- [Unconstrained topic writing produces frivolous resolutions that perpetuate non-argumentative practices](unconstrained-topic-writing-yields-frivolous-resolutions.md) — related

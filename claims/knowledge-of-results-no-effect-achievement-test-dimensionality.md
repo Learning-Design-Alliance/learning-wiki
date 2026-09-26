@@ -41,4 +41,7 @@ Two studies (Research Report 80-1) comparing two groups of students on computer-
 
 
 ## Related Claims
--
+- [Achievement dimensionality appears to change from pretest to end-of-course testing, questioning unidimensional ICC measurement of individual growth during instruction](achievement-dimensionality-changes-during-instruction.md) — related
+- [One- and two-parameter ICC scoring yields highly similar achievement estimates, while the three-parameter model reduces similarity, especially for adaptive test data](icc-scoring-methods-estimate-similarity.md) — related
+- [The same achievement variable is measurable up to one month after instruction, supporting ICC-based retention measurement](icc-retention-measurement-supported-one-month.md) — related
+- [Cognitive process inference in computerized testing rarely rests on strong process data](weak-process-data-in-computerized-testing.md) — related

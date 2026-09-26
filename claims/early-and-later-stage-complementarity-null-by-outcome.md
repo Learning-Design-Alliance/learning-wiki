@@ -58,4 +58,8 @@ Later-stage (last and next-to-last sessions) comparison of Complementarity Index
 
 
 ## Related Claims
--
+- [During the middle stage of therapy, successful therapists respond at a significantly lower level of complementarity than unsuccessful therapists](middle-stage-lower-complementarity-successful-therapists.md) — related
+- [Overall therapist complementarity across the full therapeutic relationship does not differ significantly between successful and unsuccessful outcome groups](overall-therapist-complementarity-not-related-to-therapy-outcome.md) — related
+- [During the early stage of therapy, more severely maladjusted clients elicit higher levels of therapist complementarity](early-stage-maladjustment-elicits-complementarity.md) — related
+- [Observed interaction frequencies support the Interaction Matrix cell weightings, with the most interactions in the highest-weighted cells](interaction-frequencies-support-matrix-weightings.md) — related
+- [Therapy relationships do not show a transition from relational incongruence to congruence across sessions](no-incongruence-to-congruence-transition-across-therapy-sessions.md) — related

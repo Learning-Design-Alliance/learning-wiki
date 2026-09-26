@@ -41,4 +41,5 @@ The authors' analytical evaluation within their classification of LOA techniques
 
 
 ## Related Claims
--
+- [Free-response LOA techniques produce high non-response rates because many respondents answer in non-hierarchical or uncodable terms](free-response-loa-high-nonresponse.md) — related
+- [Predicted correlates of LOA are borne out about half the time and predicted noncorrelates about 70 percent of the time](loa-correlates-predictions-borne-out.md) — related

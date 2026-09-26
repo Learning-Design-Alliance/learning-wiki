@@ -39,4 +39,6 @@ Sequence analysis of DKT predictions for a single student's full sequence (Fig. 
 
 
 ## Related Claims
--
+- [BKT is the most efficient knowledge tracing approach overall in simulated online mastery learning, though DKT is more efficient for AS and M problems](bkt-most-efficient-online-mastery-learning.md) — related
+- [DKT's input/output representation significantly affects performance, with KC inputs and item outputs working best on most datasets](dkt-input-output-representation-affects-performance.md) — related
+- [In simulated online mastery learning, BKT gave the fewest problems, Streak the second fewest, Random the most, and DKT gave almost as many as Random in one problem type and the least in the other two](problem-counts-by-knowledge-tracing-condition.md) — related

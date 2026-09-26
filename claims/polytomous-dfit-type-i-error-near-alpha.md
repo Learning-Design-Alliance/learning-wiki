@@ -41,4 +41,9 @@ Monte Carlo simulation of a 20-item five-category test using the graded response
 
 
 ## Related Claims
--
+- [Item discrimination moderates detection differently by index: NCDIF benefits from high a-parameters only at large DIF magnitude](a-parameter-moderates-dif-detection-by-index.md) — related
+- [Some items positioned close together across booklets were also flagged as DIF, possibly due to Type I error from sampling](close-positioned-items-also-flagged-dif-possible-type-i-error.md) — related
+- [Type I error rates of all three polytomous DIF indices increase as the number of DIF items and DIF magnitude increase](dif-type-i-error-increases-with-dif-items-and-magnitude.md) — related
+- [NCDIF Type I error rates are unaffected by focal group distribution, unlike SIBTEST and Lord's chi-square](ncdif-type-i-error-robust-to-focal-distribution.md) — related
+- [The polytomous-DFIT framework effectively identified DTF and DIF in polytomously scored data under the simulated conditions](polytomous-dfit-effective-dif-detection-simulation.md) — related
+- [Test length, focal group distribution, number of DIF items, and direction of DIF had little effect on detection rates](polytomous-dfit-factors-little-effect.md) — related

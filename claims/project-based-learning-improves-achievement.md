@@ -64,3 +64,5 @@ Meta-analysis comparing project-based learning against traditional, teacher-led 
 - [Autonomy supports intrinsic motivation](../claims/autonomy-supports-intrinsic-motivation.md) — student voice and choice in projects may drive engagement, though not necessarily achievement directly.
 - [Cognitive overload degrades learning](../claims/cognitive-overload-degrades-learning.md) — the principal risk when projects are insufficiently scaffolded for novices.
 - [Activation improves learning](../claims/activation-improves-learning.md) — project launches that activate prior knowledge are a plausible on-ramp to achievement gains.
+- [Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope](choice-rich-infrastructure-supports-productive-deviation-and-learning.md) — a narrower finding that bears on this claim
+- [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — a narrower finding that bears on this claim

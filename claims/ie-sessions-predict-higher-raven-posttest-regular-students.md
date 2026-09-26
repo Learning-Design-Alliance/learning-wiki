@@ -41,4 +41,6 @@ Regression analyses in the Philadelphia study (January-June 1991) related number
 
 
 ## Related Claims
--
+- [Short-term Instrumental Enrichment training improves analytic, exploratory, and contradiction-identification strategies in poorly performing adult learners, limited by reliance on everyday content knowledge](short-term-ie-training-improves-contradiction-identification-in-poor-performers.md) — related
+- [Up to about 35 IE sessions moderated the decline of report card marks in language-based subjects, but IE did not affect mathematics grades](ie-sessions-moderate-decline-in-language-marks-not-math.md) — related
+- [IE participation correlated with improved Mathematics Computation NCE scores but lower Reading and Mathematics Concepts NCE scores on city-wide tests](ie-city-wide-nce-mixed-outcomes.md) — reports the opposite

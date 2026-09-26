@@ -41,4 +41,6 @@ Same regression analysis (Table 8) of the 455-respondent survey. The article rep
 
 
 ## Related Claims
--
+- [Financial governance shows no statistically significant direct effect on governance effectiveness when modeled with other factors](finance-no-significant-direct-effect-governance.md) — related
+- [Leadership competence is the strongest predictor of governance effectiveness in Vietnamese universities](leadership-strongest-predictor-vietnamese-governance.md) — related
+- [A six-factor measurement model of university governance shows convergent validity in the Vietnamese context](six-factor-governance-model-convergent-validity.md) — related

@@ -58,4 +58,6 @@ Dependent groups t-test on pre-to-posttest change in the 0 condition showed a me
 
 
 ## Related Claims
--
+- [One-level and two-level external disequilibrium conditions did not differ significantly, and all Modal Level advances occurred to exactly one level above the subject's mode](one-step-advance-regardless-of-discrepancy-size.md) — related
+- [Discrepant training conditions (+1/+2) provided limited evidence of greater transfer to related spatial reasoning tasks than own-level training](limited-transfer-from-discrepant-training.md) — related
+- [External disequilibrium level systematically influences subsequent changes in internal disequilibrium: discrepant conditions increase mixture among low mix subjects and decrease it among high mix subjects](external-disequilibrium-shapes-internal-mixture-changes.md) — related

@@ -41,4 +41,8 @@ Rosser's testimony on the National Merit Scholarship Corporation, which awards o
 
 
 ## Related Claims
--
+- [Test items with male-oriented content are a source of bias: females tend to do better on items with female or neutral figures](male-oriented-item-content-biases-test-scores.md) — related
+- [Minority female test-takers are doubly penalized, scoring below the males of their own ethnic group and below white males](minority-females-doubly-penalized-on-tests.md) — related
+- [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
+- [Lower SAT scores reduce girls' entry into gifted and enrichment programs that use test scores for admission](test-scores-gate-gifted-program-entry.md) — related
+- [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md) — related

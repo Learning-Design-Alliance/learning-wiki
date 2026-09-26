@@ -55,3 +55,9 @@ This National Reading Panel meta-analysis pooled 52 peer-reviewed studies (96 tr
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — phonological training lowers the intrinsic load of early decoding tasks
 - [Cognitive load theory.](../theories/cognitive-load-theory.md) — the theoretical frame explaining why sound-level instruction eases early decoding
 - [Expertise reversal effect.](../theories/expertise-reversal-effect.md) — predicts diminishing returns of sound-level training for readers who have already established decoding
+- [Increased cognitive flexibility may strengthen the effectiveness of phonemic awareness, reading, and spelling instruction for kindergarten and first-grade students with low cognitive flexibility](cf-training-may-strengthen-early-literacy-instruction.md) — a narrower finding that bears on this claim
+- [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related
+- [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — possibly the same claim (merge candidate)
+- [Systematic Phonics Improves Word Reading](systematic-phonics-improves-word-reading.md) — related
+- [Phonics Instruction Outperforms Whole Word For Generalization](phonics-instruction-outperforms-whole-word-for-generalization.md) — related
+- [Structured Literacy Interventions Help Struggling Readers](structured-literacy-interventions-help-struggling-readers.md) — related

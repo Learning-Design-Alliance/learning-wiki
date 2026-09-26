@@ -41,4 +41,7 @@ Conceptual analysis citing Orr (2003): Nelson's hypertext — non-sequential, mu
 
 
 ## Related Claims
--
+- [Connectivism is an iteration of architectonic/constructivist thought rather than a new theory of learning](connectivism-iteration-of-architectonics.md) — related
+- [Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue](dialogue-underpins-networked-learning.md) — related
+- [Language and dialogue operationalize the networking capacities that connectivism values](language-operationalizes-network-learning.md) — related
+- [Advanced technology's hyperinteractivity can intensify social inequality in education](hyperinteractivity-can-intensify-inequality.md) — related

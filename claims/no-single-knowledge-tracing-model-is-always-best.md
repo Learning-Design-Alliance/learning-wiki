@@ -42,3 +42,8 @@ Narrative review citing Pavlik et al.; the survey reports they "empirically veri
 
 ## Related Claims
 - [Deep Learning Knowledge Tracing Outperforms But Lacks Interpretability](deep-learning-knowledge-tracing-outperforms-but-lacks-interpretability.md)
+- [No single learner model was best across the six datasets, justifying a broad multi-model approach](no-single-learner-model-best-across-datasets.md) — possibly the same claim (merge candidate)
+- [Memory-decay-based models fit fact-learning datasets better than models insensitive to memory decay](memory-features-improve-fit-for-fact-learning-datasets.md) — related
+- [For Chinese tone learning, simpler models insensitive to memory decay fit as well as or better than memory-feature models](simpler-models-sufficient-for-tone-learning.md) — related
+- [The PPE memory model was the best-fitting model for the Andes physics dataset, with the recency feature also beneficial](ppe-best-fitting-andes-physics.md) — related
+- [Models able to weight performance by recency fit better on the Assistments and KDD datasets, without explicit memory-decay terms being necessary](recency-weighting-models-better-assistments-kdd.md) — related

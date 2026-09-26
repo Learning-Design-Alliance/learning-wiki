@@ -41,4 +41,7 @@ Multinomial logistic regression with the four latent classes as dependent variab
 
 
 ## Related Claims
--
+- [Mobile user typology shows cross-national specificity: class distributions differ across campus-territory groups, challenging the assumption of a fixed set of user segments across countries](cross-national-specificity-of-user-typology.md) — related
+- [Latent class analysis of Caribbean higher-education students' mobile phone feature use yields four user types: eclectic, Internet, basic, and offline entertainment users](four-mobile-user-types-caribbean-higher-education.md) — related
+- [Mobile user typology significantly predicts behavioural intention to adopt mobile learning, independently explaining approximately 11% of its variance](mobile-user-typology-predicts-adoption-intention.md) — related
+- [EFL university students report varied preferences for music, drawing, photography, acting, internet use, mobile-phone use, cooking and travelling while studying English](efl-students-report-varied-style-related-preferences.md) — related

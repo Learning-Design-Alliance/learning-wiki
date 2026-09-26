@@ -41,4 +41,4 @@ In the Results section the authors report full participation: "Every student pre
 
 
 ## Related Claims
--
+- [Engineering physics undergraduates are more curious than they appear in lecture when given the chance to submit questions about interactive simulations](students-more-curious-than-lecture-appears.md) — related

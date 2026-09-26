@@ -41,4 +41,7 @@ Chi-square comparisons of students meeting the TRF t-score-at-or-above-63 criter
 
 
 ## Related Claims
--
+- [Teachers implementing PBIS with low fidelity tended not to experience large student behavior improvements commensurate with high-fidelity colleagues](low-fidelity-pbis-smaller-student-improvements.md) — related
+- [PBIS implementation is associated with significant pre-to-post reductions in externalizing and total problem behaviors of students with ED in self-contained settings](pbis-reduces-externalizing-total-problems-ed-self-contained.md) — possibly the same claim (merge candidate)
+- [Teacher fidelity (TKSS total score) shows a statistically significant interaction effect on pre-to-post changes in student problem behavior (F = 10.43, p = .003)](tkss-fidelity-ancova-interaction-problem-behavior.md) — related
+- [PBIS is associated with significant reductions on the Thought Problems, Attention Problems, and Aggressive Behavior syndrome scores](pbis-reduces-syndrome-scores-ed-students.md) — related

@@ -41,4 +41,7 @@ In the initial application study, American students and young professionals read
 
 
 ## Related Claims
--
+- [Findings on teacher mediation patterns differ from the Gahagans' conclusion of no difference in teacher verbal mediation](findings-differ-from-gahagans-no-difference.md) — related
+- [Spontaneous discovery of contradictions was much higher among American students than among Soviet peers, attributed to lack of mediation of challenge](spontaneous-contradiction-discovery-higher-american-than-soviet.md) — related
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
+- [Salomon and Perkins distinguish learning with a tool from learning of a tool, with tools triggering cognitive transformations](salomon-perkins-learning-with-versus-of-tools.md) — related

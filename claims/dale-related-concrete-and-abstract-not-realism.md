@@ -41,4 +41,8 @@ The author, Dale's mentee, corrects the misconception that Dale was a realism th
 
 
 ## Related Claims
--
+- [The Cone of Experience rests on conflated theoretical assumptions, mixing humanistic and hierarchical task-analysis viewpoints](cone-conflated-theoretical-assumptions.md) — related
+- [The validity of the cone approach to media selection was questioned by 1969 because instructional design, not media alone, shapes media characteristics](cone-media-selection-questioned-tosti-ball.md) — related
+- [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — related
+- [Relational-domain programs are argued to be workable only under highly individualized instruction matched to learners' concrete-abstract developmental stage](individualized-instruction-relational-domain.md) — related
+- [A theoretical gap exists between delivery-system/media theory and instructional strategy theory and other ISD steps](gap-between-media-theory-and-isd-steps.md) — related

@@ -41,4 +41,6 @@ Life-history narrative of Ana Maria Orbe-Lugo, a Chicago public school teacher, 
 
 
 ## Related Claims
--
+- [A teacher mentioning her own less-celebrated identities opens the door for students to include their perspectives and identities](mentioning-other-identities-opens-door-for-students.md) — related
+- [Experiences of racism and assimilationist schooling shape teachers' resolve to prevent non-white children's cultures from being overlooked](racism-shapes-resolve-to-teach-childrens-cultures.md) — possibly the same claim (merge candidate)
+- [The mismatch between school and home cultures disadvantages students for learning, and the disadvantage stems from assimilation rather than diversity](school-home-culture-mismatch-assimilation-disadvantage.md) — related

@@ -30,7 +30,7 @@ Struggle supports learning only when it is *productive* — learners grapple wit
 - Feedback that addresses strategies and process rather than the person [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 
 #### Constraints
-- Struggle without eventual resolution or support becomes unproductive frustration and harms learning [Unguided or minimally guided struggle is less effective for novices than guided instruction.](../claims/minimally-guided-instruction-less-effective-for-novices.md) [-S] — pure discovery under the banner of "productive struggle" fails for learners lacking prior knowledge
+- Struggle without eventual resolution or support becomes unproductive frustration and harms learning [Unguided or minimally guided struggle is less effective for novices than guided instruction.](../claims/minimal-guidance-less-effective-for-novices.md) [-S] — pure discovery under the banner of "productive struggle" fails for learners lacking prior knowledge
 - Framing struggle as valuable while still grading on error-free performance sends a contradictory message; students follow the grading signal, not the rhetoric
 - Learners with histories of failure may interpret "struggle is good" as confirmation of low ability unless growth framing is explicit and repeated
 - Excessive struggle increases extraneous load and can overwhelm working memory [Cognitive overload from excessive difficulty degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-M]
@@ -38,12 +38,12 @@ Struggle supports learning only when it is *productive* — learners grapple wit
 #### Implementation Variability
 - **Teacher vulnerability modeling**: instructors narrate their own errors and revision processes
 - **"Stuck" rituals**: structured routines (e.g., the broken-escalator video, "my favorite mistake" shares) that make struggle a normal classroom event
-- **Struggle-first task sequencing**: posing a problem before instruction so learners experience the need for the concept [Struggling to generate solutions before instruction improves subsequent learning.](../claims/productive-failure-improves-learning.md) [+M]
+- **Struggle-first task sequencing**: posing a problem before instruction so learners experience the need for the concept [Struggling to generate solutions before instruction improves subsequent learning.](../claims/productive-failure-improves-conceptual-learning.md) [+M]
 - **Error analysis routines**: using [Erroneous Examples](../elements/erroneous-examples.md) and error debriefs as regular practice
 
 ### Target Learners
 - Students of all ages; framing is especially consequential for learners developing beliefs about ability
-- Students with low prior knowledge need more scaffolding during struggle, or the approach backfires [Unguided or minimally guided struggle is less effective for novices than guided instruction.](../claims/minimally-guided-instruction-less-effective-for-novices.md) [-S]
+- Students with low prior knowledge need more scaffolding during struggle, or the approach backfires [Unguided or minimally guided struggle is less effective for novices than guided instruction.](../claims/minimal-guidance-less-effective-for-novices.md) [-S]
 - Particularly valuable for high-achievers who have rarely failed and avoid challenge to protect a fixed-ability self-image
 
 ### Target Learning Goals

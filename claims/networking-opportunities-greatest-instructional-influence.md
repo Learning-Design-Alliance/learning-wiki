@@ -41,4 +41,5 @@ Teacher interview analysis in the Key Learnings section: "20 of the 24 teachers 
 
 
 ## Related Claims
--
+- [Teachers reported providing deep-engagement opportunities at levels similar to or greater than student reports, and about 8 in 10 attributed instruction changes to the network](teacher-reported-engagement-opportunities-increased.md) — related
+- [Changes traced to historical and activity factors, but the authors conclude the IDEAS academy itself may not be the major factor in observed changes](academy-influence-not-major-factor.md) — related

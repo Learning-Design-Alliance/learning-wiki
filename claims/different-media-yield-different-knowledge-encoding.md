@@ -41,4 +41,6 @@ The review reports, citing Thorndyke and Hayes-Roth's (1982) map-learning study,
 
 
 ## Related Claims
--
+- [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md) — related
+- [The direct-to-vicarious and purely symbolic experience continuum remains valid while the cone's description of media is dated](cone-continuum-valid-media-description-dated.md) — related
+- [Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding](verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) — related

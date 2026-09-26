@@ -41,4 +41,5 @@ Discussion-section comparison of the two studies. The author attributes the conv
 
 
 ## Related Claims
--
+- [Follow-up or post-implementation contact by change agents relates most strongly to adoption success; without it adoption falters](follow-up-contact-strongest-adoption-success-factor.md) — related
+- [Early self- and task-related concerns are maintained alongside later impact concerns as adoption of complex technologies advances, modifying the sequential CBAM conception](early-concerns-maintained-alongside-later-concerns.md) — related

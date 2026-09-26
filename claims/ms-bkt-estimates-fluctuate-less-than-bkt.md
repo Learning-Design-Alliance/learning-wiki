@@ -41,4 +41,8 @@ Section 4 compares the two models on fictitious student data (Table 2, Figure 3)
 
 
 ## Related Claims
--
+- [Under standard BKT with non-degenerate parameters, the mastery probability stays above the learn rate even after unboundedly many incorrect responses](bkt-mastery-floor-above-learn-rate.md) — related
+- [The survey reports, citing Qiu et al., that BKT consistently overestimates the accuracy of students' answers when a day or more has elapsed since their previous responses.](bkt-overestimates-accuracy-after-a-day-elapses.md) — related
+- [Recency weights let MS-BKT capture learning and forgetting from response patterns without a fixed learning rate, in a hypothetical example](recency-weights-capture-learning-and-forgetting-from-data.md) — related
+- [MS-BKT performs similarly to classic BKT on held-out data, with classic BKT better on most of six datasets but differences not very large](ms-bkt-performs-similarly-to-classic-bkt-on-holdout-data.md) — related
+- [BKTransformer's generated parameters evolve intuitively with student response sequences, supporting interpretability of mastery and correctness predictions](bkt-parameter-evolution-interpretability.md) — related

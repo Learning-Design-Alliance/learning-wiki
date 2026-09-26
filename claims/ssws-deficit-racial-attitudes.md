@@ -58,4 +58,8 @@ Thematic analysis found most SSWs focused on trauma from home country or initial
 
 
 ## Related Claims
--
+- [SSWs aware of racialized nested contexts of reception take advocacy actions that counteract racialization, though such actions were less frequently reported](ssw-awareness-linked-advocacy-actions.md) — related
+- [School social workers perceive immigration enforcement as a daily macro-level force producing fear and trauma among immigrant students and families](ssws-perceive-enforcement-daily-macro-force.md) — related
+- [SSWs perceive meso-level community and school contexts, including 287g programs and ICE activity, as shaping immigrant families' fear and access](ssws-perceive-meso-community-school-contexts.md) — related
+- [Multicultural approach to education may increase cultural sensitivity and reduce race-related stressors (review attribution)](multicultural-approach-sensitivity-stressors.md) — related
+- [In Roster Justice, Avoidant-mindset participants described roster disparities in racially neutral terms while Aware-mindset participants named the racialized nature of the disparity](roster-justice-topics-track-avoidant-aware-mindsets.md) — related

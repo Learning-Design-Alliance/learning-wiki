@@ -58,4 +58,10 @@ The review reports, citing Bergen and Mauer, a longitudinal study linking high p
 
 
 ## Related Claims
--
+- [Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy](cl-early-childhood-education-improves-school-readiness.md) — related
+- [Fixed personal work places are assumed to build study habits for severely disturbed children](fixed-workplace-builds-study-habits.md) — related
+- [Title I preschool classrooms showed no typical increase in social pretense and verbal interaction over time, most evident in lowest-SES classrooms](title-i-preschools-no-increase-social-pretense.md) — related
+- [Guided Play Improves Academic Outcomes](guided-play-improves-academic-outcomes.md) — related
+- [Pretend play and divergent problem solving show a reciprocal relationship, with cooperative play broadly and thematic play specifically influential](pretend-play-divergent-problem-solving-reciprocal.md) — related
+- [Multimedia enhancing features increase attention to print in single-language e-books in both English and Mandarin](enhancing-features-increase-attention-single-language-e-books.md) — related
+- [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-expressive-language.md) — related

@@ -58,4 +58,7 @@ The survey reports Al Dahdouh's (2018) argument that connectivism cannot show ho
 
 
 ## Related Claims
--
+- [Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated](connectivist-courses-student-agency-problems.md) — related
+- [In the regulative knowledge/constitutive community context, argument proceeds by contention and fortification](constitutive-community-context-contention-and-fortification.md) — related
+- [In surveyed recent literature, no evaluative study found evidence against connectivism; outcomes were positive or at worst neutral](connectivism-evaluations-no-negative-evidence.md) — related
+- [Autonomy, diversity, interactivity, openness and Web 2.0 showed a positive significant effect on students' achievement in a structural model](connectivist-principles-positive-effect-achievement.md) — related

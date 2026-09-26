@@ -19,7 +19,7 @@ Notice and Wonder presents learners with a stimulus — a graph, image, data dis
 
 ## Design Implications
 
-The routine works because it forces activation of prior knowledge and attention to problem structure *before* answer-seeking begins, countering the well-documented novice tendency to grab numbers and compute without modeling the situation. By removing the question, it prevents premature solution attempts and gives every learner a low-floor entry point into discourse [Activation of prior knowledge improves learning of new material.](../claims/activation.md) [+M]. Collecting notices and wonders publicly also lets the instructor orchestrate which ideas get taken up in discussion, sequencing student contributions toward the target concept.
+The routine works because it forces activation of prior knowledge and attention to problem structure *before* answer-seeking begins, countering the well-documented novice tendency to grab numbers and compute without modeling the situation. By removing the question, it prevents premature solution attempts and gives every learner a low-floor entry point into discourse [Activation of prior knowledge improves learning of new material.](../claims/activation-improves-learning.md) [+M]. Collecting notices and wonders publicly also lets the instructor orchestrate which ideas get taken up in discussion, sequencing student contributions toward the target concept.
 
 ### Context
 #### Requirements
@@ -43,7 +43,7 @@ The routine works because it forces activation of prior knowledge and attention 
 ### Target Learners
 - Novices and math-anxious learners, who benefit from an entry point with no wrong answers and from attending to structure before computation [~M]
 - Multilingual learners — the routine values observational language before technical vocabulary
-- Whole-class settings where the instructor needs a window into heterogeneous prior knowledge [Activation of prior knowledge improves learning of new material.](../claims/activation.md) [+M]
+- Whole-class settings where the instructor needs a window into heterogeneous prior knowledge [Activation of prior knowledge improves learning of new material.](../claims/activation-improves-learning.md) [+M]
 
 ### Target Learning Goals
 - Problem comprehension: modeling a situation before solving it

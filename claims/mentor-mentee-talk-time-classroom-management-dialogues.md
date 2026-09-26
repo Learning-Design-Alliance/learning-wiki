@@ -58,4 +58,6 @@ Subset analysis of classroom-management talk in the five video sessions (Table 1
 
 
 ## Related Claims
--
+- [Serious talk about teaching in school-based meetings spans five types of intellectual work beyond classroom management](cochran-smith-five-types-intellectual-work.md) — related
+- [Most attributes and practices of the five-factor mentoring model (30 of 34) provided input into a first-practicum mentee's classroom management, with no overt evidence on aims, curriculum, timetabling or assessment](five-factor-mentoring-30-of-34-practices-classroom-management.md) — related
+- [A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development](structured-feedback-reflection-cycle-mentoring.md) — related

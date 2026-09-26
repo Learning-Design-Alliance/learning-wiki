@@ -89,3 +89,8 @@ Thirty-two undergraduates took part in eight computer-based "trialogues" about r
 - [Analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md) — analogy is one route for resolving disequilibrium by mapping a familiar conception onto the anomalous case
 - [Cognitive flexibility theory: multiple cases.](cognitive-flexibility-theory-multiple-cases.md) — multiple representations and cases help learners restructure knowledge after conflict
 - [Coherence principle: irrelevant material hurts learning.](coherence-principle-irrelevant-material-hurts-learning.md) — conflict should come from the target conception, not from extraneous material adding load
+- [Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL](chat-contradictions-activity-systems-rationale-for-csl.md) — related
+- [Misconceptions Interfere With New Learning](misconceptions-interfere-with-new-learning.md) — related
+- [Children in Constructivist kindergarten classrooms showed greater effort resolving interpersonal conflicts than children in eclectic or didactic classrooms](constructivist-kindergarten-greater-conflict-resolution-effort.md) — related
+- [Higher internal disequilibrium (Level Mixture) predicts Modal Level advance but not Map Drawing Mean improvement](level-mixture-predicts-modal-level-advance.md) — a narrower finding that bears on this claim
+- [Change in new teachers requires a restructuring of their prior beliefs](new-teacher-change-requires-restructuring-prior-beliefs.md) — related

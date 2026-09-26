@@ -93,3 +93,6 @@ The 1990s-2000s literature split into a genuine, still-cited disagreement: Camer
 
 ## Related Claims
 - [Early ability to delay gratification predicts later life outcomes](early-delay-of-gratification-predicts-later-outcomes.md) — both concern how external structure interacts with a learner's own self-regulation of motivation
+- [Rewards Undermine Intrinsic Motivation](rewards-undermine-intrinsic-motivation.md) — a broader claim this one bears on
+- [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](extrinsic-rewards-undermine-intrinsic-motivation-argument.md) — a broader claim this one bears on
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — reports the opposite

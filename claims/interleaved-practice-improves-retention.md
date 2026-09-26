@@ -60,3 +60,12 @@ A multilevel meta-analysis of 59 studies comparing interleaved to blocked presen
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — the theoretical frame for why interleaving is harder during practice but better for retention
 - [Cognitive load management](../principles/cognitive-load-management.md) — practical levers for keeping mixed practice within learners' capacity
 - [Analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md) — comparing across mixed items supports the discrimination that interleaving demands
+- [Interleaving Improves Inductive Learning](interleaving-improves-inductive-learning.md) — possibly the same claim (merge candidate)
+- [Interleaving Improves Transfer](interleaving-improves-transfer.md) — possibly the same claim (merge candidate)
+- [Interleaving Improves Learning](interleaving-improves-learning.md) — possibly the same claim (merge candidate)
+- [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — a narrower finding that bears on this claim
+- [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — related
+- [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md) — related
+- [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
+- [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — related
+- [Sequencing worked examples with practice problems improves learning for novices](worked-example-problem-sequences.md) — related

@@ -41,4 +41,5 @@ Paired-sample t-test on pre-test and post-test speaking scores of eight purposiv
 
 
 ## Related Claims
--
+- [Participants reported a strong level of agreement and high satisfaction with ideation discussion activities in Design Thinking](high-survey-agreement-ideation-discussion.md) — related
+- [Speaking gains were significant for fluency, pronunciation and vocabulary but not for grammar](ideation-discussion-speaking-gains-not-grammar.md) — a narrower finding that bears on this claim

@@ -41,4 +41,6 @@ An opinion essay contrasting whole language experts, who argue phonics segments 
 
 
 ## Related Claims
--
+- [Phonics Instruction Outperforms Whole Word For Generalization](phonics-instruction-outperforms-whole-word-for-generalization.md) — reports the opposite
+- [Systematic Phonics Improves Word Reading](systematic-phonics-improves-word-reading.md) — related
+- [Homogeneous grouping for reading instruction and heterogeneous grouping for discussion groups each serve distinct purposes](mixed-homogeneous-heterogeneous-grouping.md) — related

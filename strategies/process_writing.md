@@ -19,7 +19,7 @@ Process writing treats composing as a recursive cycle — planning, drafting, re
 
 ## Design Implications
 
-Process writing works because it externalizes and distributes the cognitive demands of composing: novice writers juggle planning, transcription, and revision within working memory, and staging the work reduces that load [Working memory overload degrades learning and performance.](../claims/cognitive-overload-degrades-learning.md) [+M]. Meta-analytic evidence shows process writing instruction produces substantial gains in writing quality, especially when it includes explicit strategy instruction and structured peer collaboration [Process writing instruction improves writing quality.](../claims/process-writing-instruction-improves-writing-quality.md) [+S]. The approach shifts assessment from a single summative judgment to [assessment for learning](../principles/assessment-for-learning.md), with feedback timed to be actionable during drafting rather than after grading.
+Process writing works because it externalizes and distributes the cognitive demands of composing: novice writers juggle planning, transcription, and revision within working memory, and staging the work reduces that load [Working memory overload degrades learning and performance.](../claims/cognitive-overload-degrades-learning.md) [+M]. Meta-analytic evidence shows process writing instruction produces substantial gains in writing quality, especially when it includes explicit strategy instruction and structured peer collaboration [Process writing instruction improves writing quality.](../claims/process-writing-improves-writing-quality.md) [+S]. The approach shifts assessment from a single summative judgment to [assessment for learning](../principles/assessment-for-learning.md), with feedback timed to be actionable during drafting rather than after grading.
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Process writing works because it externalizes and distributes the cognitive dema
 - Authentic audiences or purposes so revision has a reason beyond the grade ([Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md))
 
 #### Constraints
-- Unstructured "just write and revise" versions without explicit strategy instruction show much weaker effects [Process writing instruction improves writing quality.](../claims/process-writing-instruction-improves-writing-quality.md) [~S] — the cycle alone is not the active ingredient
+- Unstructured "just write and revise" versions without explicit strategy instruction show much weaker effects [Process writing instruction improves writing quality.](../claims/process-writing-improves-writing-quality.md) [~S] — the cycle alone is not the active ingredient
 - Weak peer feedback can mislead; peer review requires training and protocols to be productive
 - Over-emphasis on process can stall fluent writers in endless revision; editing must be separated from composing or transcription quality suffers
 - Time-intensive: multiple full cycles per piece reduce the number of compositions per term
@@ -41,7 +41,7 @@ Process writing works because it externalizes and distributes the cognitive dema
 - **Digital tools**: version history and commenting (Google Docs, Perusall) make revision visible and feedback asynchronous
 
 ### Target Learners
-- Struggling and novice writers, who benefit most from explicit stage-by-stage structure and modeled planning [Process writing instruction improves writing quality.](../claims/process-writing-instruction-improves-writing-quality.md) [+S]
+- Struggling and novice writers, who benefit most from explicit stage-by-stage structure and modeled planning [Process writing instruction improves writing quality.](../claims/process-writing-improves-writing-quality.md) [+S]
 - English learners, when paired with [accessible vocabulary and syntax](../principles/accessible-vocabulary-syntax.md) and sentence-level scaffolds
 - Proficient writers need less stage scaffolding; excessive structure can suppress their own composing strategies [~M]
 

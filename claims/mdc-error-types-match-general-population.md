@@ -41,4 +41,5 @@ Error-type analysis from the 1971 survey, in which Goldman-Fristoe errors (omiss
 
 
 ## Related Claims
--
+- [No significant correlations were found between MDC speech articulation disorders and paternal separation time, family moves, rank, father's age, child's familial placement, or military occupation](mdc-articulation-null-correlates-paternal-factors.md) — related
+- [In two of three integrated schools, MDC articulation disorder incidence was about three times that of civilian dependent children in grades 2 through 4, but lower in grades 5 and 6](mdc-articulation-three-times-cdc-grades-2-4.md) — related

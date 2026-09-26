@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: learners-misjudge-effective-learning-strategies
+aliases: [learners-misjudge-effective-study-strategies]
 evidence_strength:
 sources:
   - id: karpicke-butler-roediger-2009
@@ -67,6 +68,14 @@ This Annual Review of Psychology article synthesizes survey and experimental wor
 
 **Open questions.** The evidence recorded above shows what students prefer (rereading over self-testing) rather than measuring the judgment–performance gap directly; judgments-of-learning experiments that do measure it are recorded on the spacing and fluency claim pages.
 
+*Merged from “Learners Misjudge Effective Study Strategies” (learners-misjudge-effective-study-strategies):* This claim concerns a metacognitive mismatch rather than a specific intervention: the strategies learners *choose* and the strategies that *work* diverge. The mechanism most commonly proposed is that learners use subjective fluency — how smoothly processing feels right now — as a proxy for learning. Strategies that make information immediately accessible (rereading, highlighting, massed practice) feel productive, while strategies that introduce desirable difficulties (retrieval practice, spacing, interleaving) feel ineffective precisely because they slow performance during study, even though they improve retention and transfer.
+
+A key boundary condition is that the misjudgment is strongest for judgments made *during or immediately after* study, when fluency cues dominate. Judgments made after a delay, or based on actual test performance rather than felt ease, align better with objective learning. This suggests the misjudgment is not a fixed trait but a consequence of the cues learners attend to — a scope question that remains open in the literature: how much of the effect reflects poor strategy knowledge versus poor monitoring despite adequate knowledge.
+
+**Design implications.** Because learners will not reliably self-select high-utility strategies, learning designs should build those strategies into the structure of instruction — scheduled retrieval, spaced review, interleaved practice — rather than leaving the choice to learners. Feedback that recalibrates judgments of learning is the primary corrective, connecting to [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md). Where instruction reduces processing difficulty, designers should be alert to the flip side: reduced load can inflate fluency-based confidence without improving retention, so load reduction should be paired with retrieval demands rather than substituted for them — see [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) and [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md).
+
+**Open questions.** The relative weight of strategy knowledge versus monitoring failure is unresolved, as is the durability of calibration training: learners can be taught that effortful strategies work, but whether they maintain use of those strategies once instruction ends is not well established. Evidence entries supporting this claim still need to be added.
+
 ## Related Claims
 
 - [Retrieval practice improves long-term retention.](retrieval-practice-improves-retention.md) — the generative strategy learners most often underestimate
@@ -76,3 +85,15 @@ This Annual Review of Psychology article synthesizes survey and experimental wor
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — explains why effort and effectiveness dissociate during study
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — external feedback can substitute for learners' faulty internal monitoring
 - [Self-regulated learning](../theories/self-regulated-learning.md) — the framework this claim constrains: inaccurate monitoring corrupts strategy regulation
+- [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — effective strategies manage load; learners' fluency judgments conflate low load with learning.
+- [Annotating improves learning](annotating-improves-learning.md) — annotating can support processing, but superficial marking is one of the strategies learners overprefer.
+- [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — the flip side of the fluency trap: strategies that feel easy may not be the ones that manage load well.
+- [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
+- [Instructions increased self-testing and cumulative learning but not study choices or feedback seeking in Experiment 1](instructions-increase-self-testing-cumulative-learning.md) — related
+- [Judgments of learning are often inaccurate](judgments-of-learning-inaccurate.md) — related
+- [Learners Misjudge Retrieval Benefit](learners-misjudge-retrieval-benefit.md) — possibly the same claim (merge candidate)
+- [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
+- [Rereading is less effective than retrieval practice](rereading-less-effective-than-retrieval-practice.md) — related
+- [Retrieval practice enhances retention relative to repeated study, with an overall effect of g = 0.50 across 159 studies in Rowland's (2014) meta-analysis](retrieval-practice-outperforms-repeated-study-rowland-meta-analysis.md) — related
+- [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related
+- [Most middle and high school students surveyed after classroom retrieval practice programs viewed them positively and said frequent retrieval practice helped them feel less nervous about exams](students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness.md) — related

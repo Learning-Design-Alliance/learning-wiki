@@ -41,4 +41,6 @@ End-of-study survey comparing study materials with the students' current textboo
 
 
 ## Related Claims
--
+- [MLM-script presentations fall between the other two groups: above the Textbook group but below the MLM group, as multimedia learning theory predicts](mlm-script-intermediate-between-mlm-and-textbook.md) — related
+- [The multimedia learning module advantage over the textbook persists on a retention test administered two weeks after the lessons](mlm-retention-advantage-two-weeks.md) — related
+- [Students report rarely reading their physics textbooks, with half claiming never to have used it in an entire semester](students-rarely-read-textbook.md) — related

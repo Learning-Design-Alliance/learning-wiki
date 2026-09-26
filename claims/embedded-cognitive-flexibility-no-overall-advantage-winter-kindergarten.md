@@ -41,4 +41,9 @@ In the randomized winter-kindergarten cohort (Flex n = 29, Plain n = 28), multil
 
 
 ## Related Claims
--
+- [Cognitive flexibility training added to phonemic awareness training produces significantly greater growth in cognitive flexibility than phonemic awareness training alone in kindergarten and first-grade students](cognitive-flexibility-training-increases-cognitive-flexibility-growth.md) — reports the opposite
+- [For students with full week-6 attendance, Flex showed significantly greater gains than Plain on taught-letter alphabetics, decoding, and word reading](week6-attendance-interaction-favors-flex.md) — related
+- [Higher pretest cognitive flexibility predicted greater decoding gains and compensated for lower pretest alphabet knowledge](pretest-cognitive-flexibility-predicts-decoding-gains-compensates-alphabet.md) — related
+- [Pretest, attendance, and EB status showed distinct covariate effects on specific literacy outcomes](covariate-effects-pretest-attendance-eb-gains.md) — related
+- [Treatment effects were not moderated by emergent bilingual status, pretest levels, or tutoring attendance](no-treatment-moderators-eb-pretest-attendance.md) — related
+- [Systematic Phonics Improves Word Reading](systematic-phonics-improves-word-reading.md) — related

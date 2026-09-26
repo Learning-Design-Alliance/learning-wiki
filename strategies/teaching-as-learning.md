@@ -29,14 +29,14 @@ sources:
 # Teaching as Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 11 claims (10 for, 1 against) · 17 studies, `q2`–`q4` · 7 of 17 report an effect size
+> **Evidence** · 9 claims (8 for, 1 against) · 17 studies, `q2`–`q4` · 7 of 17 report an effect size
 
 ## Description
 Teaching as learning assigns a learner responsibility for explaining material to someone else, and treats that responsibility as the instructional intervention. The learner studies with the knowledge that they will have to present, then delivers the explanation to a peer, a younger student, a camera, or a software agent. The gain accrues to the *teacher*, not the audience: preparing to explain forces the learner to organize the material into something transmissible, and delivering the explanation exposes every place where the organization was incomplete.
 
 ## Design Implications
 
-The effect has two separable parts, and the design question is whether you need both. Merely *expecting* to teach changes how learners study — they organize more, recall more, and structure knowledge better than learners studying for a test on the same material [Learning By Teaching Improves Learning](../claims/learning-by-teaching-improves-learning.md) [+M]. Actually *delivering* the explanation adds further gain on top of the expectancy [Learning By Teaching Improves Mastery](../claims/learning-by-teaching-improves-mastery.md) [+M], because generating an explanation aloud without notes is both a retrieval event and a self-monitoring one [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [+S].
+The effect has two separable parts, and the design question is whether you need both. Merely *expecting* to teach changes how learners study — they organize more, recall more, and structure knowledge better than learners studying for a test on the same material [Learning By Teaching Improves Learning](../claims/learning-by-teaching-improves-tutor-learning.md) [+M]. Actually *delivering* the explanation adds further gain on top of the expectancy [Learning By Teaching Improves Mastery](../claims/learning-by-teaching-improves-tutor-learning.md) [+M], because generating an explanation aloud without notes is both a retrieval event and a self-monitoring one [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [+S].
 
 What determines size of benefit is what the tutor actually does while teaching. Roscoe and Chi's distinction is the operative one: tutors who engage in *knowledge-building* — reasoning aloud, integrating, repairing their own gaps — learn substantially; tutors who engage in *knowledge-telling* — summarizing and restating what they read — learn little [Learning By Teaching Improves Tutor Learning](../claims/learning-by-teaching-improves-tutor-learning.md) [+M]. Unstructured "go teach your partner" defaults to knowledge-telling, which is why structure matters more here than in most peer arrangements [Structured Peer Tutoring Outperforms Unstructured](../claims/structured-peer-tutoring-outperforms-unstructured.md) [+M].
 

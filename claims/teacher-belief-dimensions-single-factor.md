@@ -41,4 +41,6 @@ Result from the principal component analysis of MRBQ responses: items on the cog
 
 
 ## Related Claims
--
+- [Belief factors are positively intercorrelated: a social-dynamic view of mathematics co-occurs with higher task value and confidence (r = .48) and more positive teacher beliefs (r = .41)](mrbq-factor-correlations-positive.md) — related
+- [A four-factor principal component model of the MRBQ provides some empirical ground for the proposed structure of students' mathematics-related beliefs](mrbq-four-factor-model-partial-support.md) — a broader claim this one bears on
+- [Students confident about their mathematical ability are mostly also convinced of the relevance of mathematics, forming a motivational basis; low-confidence students are hard to motivate](self-confidence-and-value-clustering-motivational-basis.md) — related

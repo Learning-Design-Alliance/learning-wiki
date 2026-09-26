@@ -41,4 +41,7 @@ Spearman correlations in the 22-group observational sample; the article reports 
 
 
 ## Related Claims
--
+- [Teaching about Emotions is positively associated with ECERS-R Space and Furnishings quality in kindergarten groups](teaching-about-emotions-associated-with-space-and-furnishings.md) — related
+- [In observed groups, Reactions to Children's Emotions was the most common scaffolding subscale, and ECERS-R Interactions rated high while Activities rated low](descriptive-profile-esos-ecers-groups.md) — related
+- [Better emotional scaffolding is associated with higher ECERS-R Interaction scores](emotional-scaffolding-associated-with-ecers-interactions.md) — related
+- [Dialectical thinking support is positively associated with teachers' emotional scaffolding, reported for the first time](dts-associated-with-emotional-scaffolding.md) — related

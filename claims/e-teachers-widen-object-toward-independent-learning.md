@@ -41,4 +41,7 @@ Qualitative interview study of 13 e-teachers plus seven management/support perso
 
 
 ## Related Claims
--
+- [E-teachers reported shifting from lecture-based, teacher-as-source teaching toward a facilitator role in the online classroom](e-teacher-shift-to-facilitator-role.md) — possibly the same claim (merge candidate)
+- [Creating community and interacting with students online required deliberate, planned effort unlike spontaneous face-to-face co-presence](online-community-requires-conscious-effort.md) — related
+- [The change in tools caused the most disruption in e-teachers' activity system, replacing body language and visual cues with text and voice mediation](tool-change-most-disruption-online-teaching.md) — related
+- [Fortnightly web conferences with open-ended discussion supported students' academic and social engagement and community formation](web-conferences-support-online-community.md) — related

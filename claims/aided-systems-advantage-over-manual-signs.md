@@ -58,4 +58,6 @@ The article attributes the prerequisite relationship to the Gregory, DeLeon, and
 
 
 ## Related Claims
--
+- [Individuals with developmental disabilities tend to prefer speech-generating devices over picture exchange and manual signs, with substantial individual differences](sgd-preference-over-pe-and-manual-signs.md) — related
+- [Review evidence shows no consistent differences between picture exchange and speech-generating devices for communication and request outcomes](no-consistent-pe-vs-sgd-effectiveness-differences.md) — related
+- [Heterogeneity across reviewed single-subject studies limits broad AAC comparisons, warranting more focused syntheses](heterogeneity-limits-aac-reviews.md) — related

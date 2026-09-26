@@ -41,4 +41,4 @@ Finding from the 42 student validation interviews described in the design and va
 
 
 ## Related Claims
--
+- [E-CLASS statements were validated through 42 student interviews and expert responses from 23 faculty and instructors](eclass-validated-interviews-experts.md) — related

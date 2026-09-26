@@ -41,4 +41,4 @@ Regression results from both samples (high school n=64, college n=68) showed the
 
 
 ## Related Claims
--
+- [Field-dependence-independence and figural creativity significantly predict spatial recall accuracy in both high school and college samples](fdi-figural-creativity-predict-spatial-recall.md) — related

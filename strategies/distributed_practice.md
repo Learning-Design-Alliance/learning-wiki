@@ -19,7 +19,7 @@ Distributed practice (spacing) involves practicing content in short sessions sep
 
 ## Design Implications
 
-Distributed practice is one of the most robust findings in learning science: across hundreds of studies, spaced practice produces substantially better long-term retention than massed practice of equal total duration [Spaced practice produces superior long-term retention compared to massed practice.](../claims/spacing-improves-long-term-retention.md) [+S]. Its counterintuitive cost is that spacing feels less effective in the moment — learners misinterpret the difficulty of retrieval as poor learning, and prefer cramming because it produces fluent short-term performance [Learners often misjudge their learning, favoring less effective strategies like rereading over retrieval and spacing.](../claims/learners-misjudge-effective-learning-strategies.md) [+M]. Effective implementation therefore requires explicit scheduling structures and, ideally, instruction about why desirable difficulty helps.
+Distributed practice is one of the most robust findings in learning science: across hundreds of studies, spaced practice produces substantially better long-term retention than massed practice of equal total duration [Spaced practice produces superior long-term retention compared to massed practice.](../claims/spaced-practice-improves-retention.md) [+S]. Its counterintuitive cost is that spacing feels less effective in the moment — learners misinterpret the difficulty of retrieval as poor learning, and prefer cramming because it produces fluent short-term performance [Learners often misjudge their learning, favoring less effective strategies like rereading over retrieval and spacing.](../claims/learners-misjudge-effective-learning-strategies.md) [+M]. Effective implementation therefore requires explicit scheduling structures and, ideally, instruction about why desirable difficulty helps.
 
 ### Context
 #### Requirements
@@ -39,7 +39,7 @@ Distributed practice is one of the most robust findings in learning science: acr
 - **Curriculum-embedded vs. learner-managed:** teachers can build cumulative review into homework and warm-ups, or learners can use spaced-repetition software such as [Anki](https://apps.ankiweb.net) or [Duolingo](https://www.duolingo.com), which schedules review algorithmically
 
 ### Target Learners
-- Learners of all ages, from children to older adults; the effect is remarkably general across materials and populations [Spaced practice produces superior long-term retention compared to massed practice.](../claims/spacing-improves-long-term-retention.md) [+S]
+- Learners of all ages, from children to older adults; the effect is remarkably general across materials and populations [Spaced practice produces superior long-term retention compared to massed practice.](../claims/spaced-practice-improves-retention.md) [+S]
 - Especially valuable for learners preparing for delayed assessments (exams, certification, licensure) or building durable professional skills
 - Less useful for learners who need performance only in the immediate short term — cramming genuinely wins there, which is precisely why it persists
 

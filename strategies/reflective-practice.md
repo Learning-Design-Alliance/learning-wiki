@@ -48,7 +48,7 @@ Reflection works when it is structured and prompted, not when it is left to chan
 ### Target Learning Goals
 - Metacognition: recognizing one's own reasoning patterns, assumptions, and errors
 - Transfer: extracting generalizable principles from specific experiences
-- Self-regulation: planning, monitoring, and adjusting one's own learning [Self-regulated learning strategies improve academic performance.](../claims/self-regulated-learning-strategies-improve-performance.md) [+S]
+- Self-regulation: planning, monitoring, and adjusting one's own learning [Self-regulated learning strategies improve academic performance.](../claims/self-regulated-learning-improves-achievement.md) [+S]
 - Professional identity and judgment formation
 
 ### Instructions

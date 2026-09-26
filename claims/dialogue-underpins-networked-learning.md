@@ -41,4 +41,10 @@ The article reports, citing Ravenscroft (2011), that "thinking in networks will 
 
 
 ## Related Claims
--
+- [Knowledge development as social collaboration: ZPD and collective activity systems support CSL learning networks](chat-knowledge-development-social-collaborative-csl.md) — related
+- [Connectivism is an iteration of architectonic/constructivist thought rather than a new theory of learning](connectivism-iteration-of-architectonics.md) — related
+- [Language and dialogue operationalize the networking capacities that connectivism values](language-operationalizes-network-learning.md) — related
+- [The dialogical pair of responding and responded utterances, not a single utterance, is the minimum unit of analysis for SCMD research](topical-pair-minimum-unit-analysis-scmd.md) — related
+- [DL2F aligns with social and cognitive constructivist theories of learning](dl2f-constructivist-alignment.md) — related
+- [Hypertextuality extends intertextuality into the digital world, foreshadowing connectivism](hypertextuality-digitizes-intertextuality.md) — related
+- [Kantian architectonics is an early articulation of constructivism, with knowledge constructed into a system](kantian-architectonics-early-constructivism.md) — related

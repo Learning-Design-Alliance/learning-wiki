@@ -64,3 +64,4 @@ immersion context, not foreign-language study abroad. Self-report, cross-section
 - [Strategy instruction is more effective when contextualized in authentic tasks](learning-strategy-instruction-contextualized-more-effective.md) — the instructional response to what this measures
 - [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — the same argument against leaving acquisition to the learner's own initiative
 - [Learners of Italian report ideal-self motivation rather than instrumental motivation, while their teachers assume the reverse](italian-l2-motivation-is-ideal-self-not-instrumental.md) — the other learner-side variable in this set
+- [Preservation of the mother tongue predicts second-language achievement among migrant children](mother-tongue-preservation-predicts-l2-achievement.md) — related

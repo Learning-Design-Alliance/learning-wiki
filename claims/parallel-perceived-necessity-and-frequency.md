@@ -41,4 +41,5 @@ Ranking analysis of the Montreal survey compared frequency of performance with p
 
 
 ## Related Claims
--
+- [Follow-up evaluation, needs assessment and task analysis are performed least often and considered least necessary](least-performed-steps-least-necessary.md) — related
+- [Only a small number of model designers follow all steps all of the time](minority-of-designers-follow-all-steps.md) — related

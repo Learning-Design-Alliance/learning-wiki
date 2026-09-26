@@ -41,4 +41,10 @@ The authors' own limitations section for this correlational, cross-sectional stu
 
 
 ## Related Claims
--
+- [Adults' perpetration of education-related epistemic violence on their own or relatives' children is low](adults-low-perpetration-epistemic-violence.md) — related
+- [Adults' past enjoyment of education-related epistemic freedom is between moderate and high, and their tendency toward it is high](adults-past-freedom-moderate-high-tendency-high.md) — related
+- [Block Play Predicts Math Achievement](block-play-predicts-math-achievement.md) — related
+- [Learner-centered teacher–student relationships improve student outcomes](learner-centered-teacher-student-relationships-are-effective.md) — related
+- [Teacher Student Relationships Improve Engagement](teacher-student-relationships-improve-engagement.md) — related
+- [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — related
+- [Adults' resorting to epistemic violence correlates negatively with past enjoyment of and tendency toward education-related epistemic freedom](epistemic-violence-negatively-correlated-epistemic-freedom.md) — related

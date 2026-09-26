@@ -58,4 +58,5 @@ The review cites Fisher's meta-analysis as showing "a body of evidence" for play
 
 
 ## Related Claims
--
+- [Embedding literacy materials in play settings increases children's literacy engagement and environmental print reading](literacy-embedded-play-increases-literacy-engagement.md) — related
+- [High-quality pretend play is an important facilitator of perspective taking and later abstract thought](pretend-play-facilitates-perspective-taking-abstract-thought.md) — related

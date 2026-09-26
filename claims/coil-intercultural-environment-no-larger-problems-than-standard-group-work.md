@@ -41,4 +41,5 @@ Educators' observation across two course editions in which Dutch and Philippine 
 
 
 ## Related Claims
--
+- [Developing and delivering an integrated CBL/CEL/COIL planetary health course yielded three key lessons on flexibility, structural reform, and equitable partnerships](planetary-health-course-three-key-lessons.md) — related
+- [Only two intercultural communication items (IC1, IC2) were removed from the global competence model, attributed to limited intercultural exposure](global-competence-model-ic-items-removed.md) — related

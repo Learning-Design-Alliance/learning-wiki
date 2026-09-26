@@ -41,4 +41,6 @@ Requisite Relationship Components section: focus group data showed coaches empha
 
 
 ## Related Claims
--
+- [Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes](coaching-outcomes-teacher-knowledge-sustainability-student-learning.md) — related
+- [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](rpp-adaptive-practices-sustain-partnerships-during-disruption.md) — related
+- [Effective coaches require content expertise, classroom experience, technology proficiency, flexible scheduling, partnership orientation, and interpersonal skills](requisite-coach-characteristics-qualitative-findings.md) — related

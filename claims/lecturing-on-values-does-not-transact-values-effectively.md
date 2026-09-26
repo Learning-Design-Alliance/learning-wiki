@@ -41,4 +41,5 @@ The article's conclusion reports, citing Goel & Goel (2005), findings of researc
 
 
 ## Related Claims
--
+- [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related
+- [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related

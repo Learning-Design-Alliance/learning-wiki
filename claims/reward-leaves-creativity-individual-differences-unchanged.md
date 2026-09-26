@@ -41,4 +41,7 @@ Regression analysis shown in Figure 1 with four tasks combined; slopes of .61, .
 
 
 ## Related Claims
--
+- [Baseline performance differed by later treatment group for two tasks, with the delayed-reward group giving fewer baseline responses, while no sex or order effects emerged](baseline-group-effect-no-sex-order-effects.md) — related
+- [Concrete reward increases children's mean ideational fluency on creativity tasks relative to control conditions](concrete-reward-increases-mean-ideational-fluency.md) — related
+- [Reward effects hold across individual creativity tasks, with immediate reward significant on all four tasks and delayed reward on three](reward-effects-hold-across-individual-tasks.md) — related
+- [The capacity interpretation of creativity-score differences rests on the finding that results were obtained only with fluency scores, and may not generalize to originality scoring](fluency-only-scoring-limits-generalization.md) — related

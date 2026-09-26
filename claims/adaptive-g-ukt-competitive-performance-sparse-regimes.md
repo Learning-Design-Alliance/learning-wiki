@@ -41,4 +41,6 @@ The article's summary of its benchmark experiments on four real-world sequential
 
 
 ## Related Claims
--
+- [SAKT underperforms DKT on all nine datasets, contradicting previously reported results](sakt-underperforms-dkt-all-datasets.md) — related
+- [Visualization analysis indicates the learned graph topology recovers interpretable relational structures such as modular node clusters and directed dependency hierarchies](adaptive-g-ukt-learned-topology-interpretable.md) — related
+- [Existing deep sequential knowledge tracing encoders treat concept nodes as isolated deterministic vectors, limiting handling of structural sparsity and epistemic uncertainty](kt-encoders-entity-isolated-deterministic-limits.md) — related

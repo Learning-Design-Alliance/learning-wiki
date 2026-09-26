@@ -41,4 +41,4 @@ Conceptual argument opening the paper: cognitive events are described as functio
 
 
 ## Related Claims
--
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related

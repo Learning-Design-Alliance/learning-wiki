@@ -42,4 +42,7 @@ Paired samples t-tests comparing value and practice sections of the TCAS and TLC
 
 
 ## Related Claims
--
+- [A minority of prospective teachers show consonance, believing each conception dimension is both valuable and applicable](consonance-both-valuable-and-applicable-minority.md) — related
+- [Most prospective teachers see constructivist conceptions as highly valuable but not very applicable, and traditional conceptions as not valuable but highly applicable](constructivist-valued-but-not-applicable-person-level.md) — related
+- [Demographic variables (gender, year of study, fields of study, age) have trivial effects on prospective teachers' conception values and practices](demographics-trivial-effects-conceptions.md) — related
+- [Consonance and dissonance patterns form four components, including a dominant pattern linking valuing constructivist teaching/assessment for learning with dissonance](four-patterns-consonance-dissonance-pca.md) — related

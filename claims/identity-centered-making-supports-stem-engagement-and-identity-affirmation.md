@@ -44,3 +44,5 @@ This is a single, short (5-day), self-selected, small-sample (n=9) camp with no 
 
 ## Related Claims
 - (none yet linked)
+- [Restorying supports Black girls' identification of and resistance to dominant narratives in computing](restorying-supports-computing-identity-reconstruction.md) — related
+- [Material choice shapes conceptual learning and who feels invited to learn](material-choice-shapes-conceptual-learning-and-participation.md) — related

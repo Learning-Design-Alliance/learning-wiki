@@ -58,4 +58,8 @@ Empirical evidence section reporting Schunk (1984) on attributional feedback. Th
 
 
 ## Related Claims
--
+- [Learning goals and self-evaluation raise task orientation and lower ego orientation, and self-efficacy correlates positively with task orientation](learning-goals-raise-task-orientation.md) — related
+- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on
+- [Goal setting improves performance](goal-setting-improves-performance.md) — related
+- [Feedback Praise Reduces Learning](feedback-praise-reduces-learning.md) — related
+- [Specific, difficult goals lead to higher performance than easy or vague \"do your best\" goals.](specific-difficult-goals-lead-to-higher-performance.md) — related

@@ -41,4 +41,5 @@ Observational analysis of TEOG booklet data: among items flagged in at least one
 
 
 ## Related Claims
--
+- [Some items positioned close together across booklets were also flagged as DIF, possibly due to Type I error from sampling](close-positioned-items-also-flagged-dif-possible-type-i-error.md) — reports the opposite
+- [An item positioned later in one booklet was found more difficult by that booklet's test takers, attributed to fatigue effect](later-position-item-more-difficult-fatigue-effect.md) — related

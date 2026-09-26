@@ -41,4 +41,10 @@ Participant-observer analysis of end-of-semester student remarks. Cahyadi wrote,
 
 
 ## Related Claims
--
+- [Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL](chat-contradictions-activity-systems-rationale-for-csl.md) — a broader claim this one bears on
+- [CHAT is an interventionist research method aimed at transformation, but tensions persist between adaptive and transformative orientations](chat-interventionist-transformation-tensions.md) — a broader claim this one bears on
+- [Class conflicts with the OLR led to course changes: sample OLRs from nonnative speakers were implemented and a simplified version and online interface are in progress](olr-conflicts-drive-course-changes.md) — related
+- [Participation in composing the Midterm OLR moved students from appropriating labels and surface features toward conceptual underpinnings](participation-appropriates-olr-conceptual-underpinnings.md) — related
+- [Some students expanded and generalized class tools and rhetorical concepts into their own activities beyond the course](expansion-generalization-beyond-classroom.md) — related
+- [Students' appropriation of class interaction practices was mediated by prior sociohistorical educational experiences](prior-practices-mediate-class-interaction-appropriation.md) — related
+- [Individual user goals, such as avoiding cognitive load, can contradict the objectives of the educational community](user-goals-contradict-educational-objectives.md) — a broader claim this one bears on

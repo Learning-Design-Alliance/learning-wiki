@@ -43,3 +43,5 @@ Qualitative analysis of one teacher's coded lesson video. The authors report tha
 ## Related Claims
 - [Gsides Gesture Most Frequent Teacher Code In Kindergarten Equal Sign Lessons](gsides-gesture-most-frequent-teacher-code-in-kindergarten-equal-sign-lessons.md)
 - [Teacher Shifts Equal Sign Language With Kindergarten Lesson Focus](teacher-shifts-equal-sign-language-with-kindergarten-lesson-focus.md)
+- [The kindergarten teacher explicitly discussed the forms an equation can take (FORM) with the goal of expanding the range of equations students would accept as valid](teacher-explicitly-discusses-equation-forms-to-widen-kindergarten-acceptance.md) — related
+- [After an early algebra intervention, the number of kindergarteners giving a relational definition of the equal sign went from one to nine, and acceptance of non-standard equation forms rose, as reported from the authors' earlier study](kindergarten-early-algebra-intervention-shifts-equal-sign-understanding.md) — related

@@ -75,4 +75,9 @@ Self versus yoked post hoc comparisons on retention AE: "both the Self-After and
 
 
 ## Related Claims
--
+- [During motor practice with knowledge of results, all groups reduced absolute error across blocks, and groups whose KR decision fell after the trial were more accurate during practice than groups whose decision fell before it, independent of choice.](motor-practice-accuracy-improves-across-blocks-and-favors-after-decision-groups.md) — related
+- [Allowing learners to request knowledge of results before a trial and then revise the choice after it (Self-Both) did not produce learning beyond deciding only after the trial (Self-After), which the authors take as no support for an additive motivational-plus-informational effect.](self-both-kr-decision-shows-no-additive-motivational-informational-benefit.md) — related
+- [Learners who could decide after a trial whether to receive knowledge of results estimated their own movement outcomes more accurately in retention than Self-Before learners and their yoked counterparts.](self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy.md) — possibly the same claim (merge candidate)
+- [Learners who could decide after a trial whether to receive knowledge of results (Self-After, Self-Both) showed less error on a 24-h transfer test to a new target distance than Self-Before learners and their yoked counterparts.](self-controlled-kr-decided-after-trial-improves-motor-transfer.md) — related
+- [Having control over the knowledge-of-results decision only before a motor trial (Self-Before) produced no statistically significant retention or transfer benefit over a yoked group receiving the same KR schedule.](self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked.md) — related
+- [On a motor transfer test, self-controlled knowledge-of-results groups estimated their outcomes more accurately than yoked groups, and among self-controlled groups Self-After and Self-Both were more accurate than Self-Before.](self-controlled-kr-groups-estimate-transfer-outcomes-more-accurately-than-yoked.md) — related

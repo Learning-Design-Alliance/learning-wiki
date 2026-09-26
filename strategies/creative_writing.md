@@ -51,7 +51,7 @@ Creative writing forces generative processing: to write a coherent story, learne
 - Consolidation and integration of recently learned concepts into a coherent mental model
 - Transfer of concepts to novel, invented contexts (a hallmark of understanding)
 - Perspective-taking and empathy when narrating from another's viewpoint [Building empathy improves intergroup attitudes.](../claims/building-empathy-improves-intergroup-attitudes.md) [+M]
-- Writing skill itself, when combined with explicit strategy instruction [Writing strategy instruction improves writing quality.](../claims/writing-strategy-instruction-improves-writing-quality.md) [+S]
+- Writing skill itself, when combined with explicit strategy instruction [Writing strategy instruction improves writing quality.](../claims/strategy-instruction-improves-writing-quality.md) [+S]
 
 ### Instructions
 1. **Activate prior knowledge** on the target concepts through discussion or review ([Activation](../elements/activation.md)).

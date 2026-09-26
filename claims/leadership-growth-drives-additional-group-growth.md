@@ -41,4 +41,9 @@ Case-comparison evidence: the two top-ranked groups developed effective citizen 
 
 
 ## Related Claims
--
+- [Educator functions of encouraging, linking with knowledge, and linking with human resources positively influence group growth, while enlisting support negatively influences it](educator-functions-influence-community-group-growth.md) — related
+- [Trust between the adult educator and the group positively influences group growth](educator-group-trust-influences-group-growth.md) — related
+- [Educator activity style should match the group's leadership capacity: low activity style with well-developed leadership, high activity style without it](educator-style-matches-leadership-capacity.md) — related
+- [Strong feelings about a community problem positively influence group growth](strong-feelings-about-problem-influence-group-growth.md) — related
+- [The relational taxonomy rests on value orientations that task-oriented group activity requires rotating leadership exercised through sanctions, persuasion, or expertise](rotating-leadership-three-agencies-claim.md) — related
+- [LRE grew rapidly in U.S. curricula after 1975, ranking fourth in social studies priority](lre-curriculum-growth-since-1975.md) — related

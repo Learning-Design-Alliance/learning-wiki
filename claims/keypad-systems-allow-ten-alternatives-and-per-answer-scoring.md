@@ -41,4 +41,4 @@ The article's description of keypad system capabilities, contrasted with optical
 
 
 ## Related Claims
--
+- [Wireless keypads with immediate-response questions convert a passive lecture audience into active learners by providing rapid feedback](wireless-keypads-convert-passive-audience-to-active-learners.md) — related

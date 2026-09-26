@@ -44,3 +44,7 @@ This is a single-classroom, four-child qualitative study using video-elicited in
 
 ## Related Claims
 - (none yet linked)
+- [A teacher's prompting that oriented a student's reflection on his own tracking methods fostered monitoring of his goal-directed counting activity](orienting-reflection-to-own-tracking-fosters-monitoring.md) — related
+- [Preschool children demonstrate behavioral knowledge of classification, one-to-one correspondence, and seriation during everyday free play with everyday materials](free-play-reveals-behavioral-math-knowledge.md) — related
+- [Funds-of-knowledge-grounded tasks reveal computational thinking that decontextualized assessment misses](funds-of-knowledge-tasks-reveal-computational-thinking.md) — related
+- [Video-based self-observation of teaching was among the most powerful parts of the coaching process for teachers](video-self-observation-powerful-coaching-component.md) — related

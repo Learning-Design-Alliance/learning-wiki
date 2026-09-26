@@ -46,3 +46,6 @@ This is a single-group case study (one focal group deeply analyzed out of four o
 
 ## Related Claims
 - (none yet linked)
+- [The quality of inter-group interactions shifted from brief, superficial exchanges to long, detailed, collaborative discussions as community norms were negotiated](adlab-interaction-quality-shifted-from-superficial-to-collaborative.md) — related
+- [Fiber crafting develops proportional reasoning through nested, personally-defined units](fiber-crafting-develops-proportional-reasoning-through-unitizing.md) — related
+- [Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.](functional-fixedness-limits-problem-solving.md) — related

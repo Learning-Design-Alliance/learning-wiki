@@ -58,4 +58,5 @@ The author reports, citing Heliny and Corey as quoted in Corey, Corey and Callan
 
 
 ## Related Claims
--
+- [Antagonistic and dilemma situations in evaluation are decision situations where any choice breaks a value](antagonistic-dilemma-situations-break-value.md) — related
+- [The author sets out peer counsellor competency as requiring defined personal qualities, extended skills training, and referral to supervisors when issues exceed their capability](peer-counsellor-competency-qualities-and-referral.md) — related

@@ -41,4 +41,6 @@ MPEX-II survey administered in Fall 2008 to about 600 students in two CLASP A co
 
 
 ## Related Claims
--
+- [Under the life-science curriculum, MPEX attitudes showed no meaningful change in five of six clusters, avoiding the reality-link decline seen in previous semesters, while the effort cluster declined significantly](mpex-attitudes-stable-reality-link.md) — related
+- [Enrollment in the reformed physics sequence rose 61% year-over-year, though the article treats alternative explanations as equally possible](enrollment-increase-after-reform.md) — related
+- [MPEX profiles were similar across both years, indicating the pedagogy and class structure remained consistent when technology was added](mpex-consistent-pedagogy-across-tech-years.md) — related

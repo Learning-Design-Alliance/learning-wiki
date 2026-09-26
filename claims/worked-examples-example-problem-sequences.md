@@ -14,6 +14,7 @@ sources:
     i: 2
     n: 48
 id: worked-examples-example-problem-sequences
+aliases: [example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes]
 evidence_strength: moderate
 ---
 
@@ -44,13 +45,29 @@ Forty-eight secondary-school novices in electrical-circuits troubleshooting were
 
 ## Discussion
 
-**Expertise reversal.** The benefit of worked examples diminishes as learner expertise grows. For more advanced learners, example-based sequences can become redundant or counterproductive — see [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md). Designers should fade examples and shift toward independent problem-solving as competence develops.
+**Expertise reversal.** The benefit of worked examples diminishes as learner expertise grows. For more advanced learners, example-based sequences can become redundant or counterproductive — see [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md). Designers should fade examples and shift toward independent problem-solving as competence develops.
 
 **Single-study limitation.** Both subclaims currently rest on one experiment with 48 participants in a single domain. Replication in other domains and with larger samples would substantially strengthen confidence.
+
+*Merged from “Example–problem sequences reduce cognitive load and improve learning outcomes” (example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes):* **Mechanism.** The claim sits within [Cognitive Load Theory](../theories/cognitive-load-theory.md): problem-only practice forces novices to search solution paths, consuming working memory that could otherwise build schemas. Studying worked examples first or interleaved with problems offloads that search, consistent with the broader finding that [cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) and that [chunking reduces working memory load](chunking-reduces-working-memory-load.md).
+
+**Expertise reversal.** The benefit of examples diminishes as learner expertise grows; for advanced learners, example-based sequences can become redundant or counterproductive — see the [expertise reversal effect](../theories/expertise-reversal-effect.md) and [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md). Designers should fade examples and shift toward independent problem-solving as competence develops.
+
+**Sequencing questions.** Whether examples should precede problems (example–problem) or follow them (problem–example), and in what ratio, is an open design question. In van Gog 2011, all three example-based conditions outperformed problem-only practice and did not differ from each other, so the evidence on this page does not discriminate between orderings. Practically, example-first sequences remain the safer default for novices because they guarantee a schema before problem-solving begins, whereas problem-first sequences risk unproductive search even when an example follows.
+
+**Relation to fading and completion problems.** Sequencing is closely related to fading strategies in which worked steps are progressively replaced by problem-solving steps — see [Pairing worked examples with practice or fading supports transfer better than examples alone.](worked-examples-with-practice-improve-transfer.md). Alternating full examples with full problems is the coarsest form of this; faded examples are a finer-grained variant.
+
+**Single-study limitation.** Both subclaims currently rest on one experiment with 48 participants in a single domain (electrical-circuits troubleshooting). Replication in other domains and with larger samples would substantially strengthen confidence. Until then, treat the ordering-specific reading of this claim as a well-motivated theoretical prediction rather than an independently verified finding; the general example-over-problem-only advantage is more robustly supported in the wider worked-examples literature (see Related Claims).
 
 ## Related Claims
 
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md) — worked examples reduce unnecessary search for novices
 - [Pairing worked examples with practice or fading supports transfer better than examples alone.](worked-examples-with-practice-improve-transfer.md) — pairing examples with practice or fading supports transfer
-- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md) — expertise reversal effect
+- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — expertise reversal effect
 - [Worked examples improve mathematics performance, especially for novices.](worked-examples-improve-math-performance.md) — worked examples improve math performance (meta-analysis)
+- [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — the general mechanism this claim instantiates.
+- [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — a complementary load-reduction technique.
+- [Expertise reversal effect](../theories/expertise-reversal-effect.md) — the underlying theory explaining when example-based sequencing loses its benefit.
+- [Example-problem sequences reduce cognitive load and improve learning outcomes.](example-problem-sequences-reduce-cognitive-load.md) — possibly the same claim (merge candidate)
+- [Sequencing worked examples with practice problems improves learning for novices](worked-example-problem-sequences.md) — possibly the same claim (merge candidate)
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related

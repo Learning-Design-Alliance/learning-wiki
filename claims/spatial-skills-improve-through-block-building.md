@@ -54,3 +54,6 @@ Boundary conditions and open questions remain. It is not established whether gai
 - [Analogical reasoning improves transfer](analogical-reasoning-improves-transfer.md) — spatial assembly tasks rely on structural comparison and mapping
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — building strategies that group pieces reduce the spatial working-memory demands of construction
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — framework for why spatial manipulation tasks can overload novice learners without scaffolding
+- [Preschool block play complexity predicts later mathematics achievement, with relationships emerging by seventh grade](block-play-complexity-predicts-later-math-achievement.md) — related
+- [Modeling training improved imaginative play in disadvantaged kindergartners, with gains in imaginativeness, verbal communication, spontaneity, and attention span persisting two months](modeling-training-improves-imaginative-play.md) — related
+- [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — related

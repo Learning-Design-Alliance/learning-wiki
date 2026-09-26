@@ -41,4 +41,10 @@ The discussion section synthesizes survey and focus group findings, reporting th
 
 
 ## Related Claims
--
+- [Direct one-on-one interaction with community partners is reported to help students see community members as people rather than stereotypes](csl-one-on-one-partner-contact-disrupts-stereotypes.md) — related
+- [Peer mentoring by SLAMs increases posttest civic action scores in service-learning courses](peer-mentoring-increases-civic-action-service-learning.md) — a narrower finding that bears on this claim
+- [Professor-student relationship quality correlates with multiple civic engagement outcomes in both directions](professor-relationship-quality-civic-engagement-bidirectional.md) — related
+- [Positive SLAM-student relationship qualities correlate with civic action](slam-relationship-quality-correlates-civic-action.md) — a narrower finding that bears on this claim
+- [Conflict and antagonism with community partners negatively correlate with social justice and diversity attitudes](community-partner-conflict-negatively-correlates-social-justice.md) — related
+- [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](service-learning-improves-civic-and-personal-outcomes.md) — related
+- [Traditional student participation mechanisms in Spain have been shown to be inefficient for promoting civic commitment](traditional-student-participation-inefficient-spain.md) — related

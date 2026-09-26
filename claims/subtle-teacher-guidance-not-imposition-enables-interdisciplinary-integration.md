@@ -46,3 +46,11 @@ The mechanism is illustrated through two carefully transcribed, representative e
 
 ## Related Claims
 - (none yet linked)
+- [Dialogic teacher support cultivates all four aspects of statistical modeling practice over a multi-week unit](dialogic-teacher-support-cultivates-statistical-modeling-practice.md) — related
+- [Mixed-disciplinary teacher making supports transdisciplinary epistemic liberation](mixed-disciplinary-teacher-making-supports-transdisciplinary-epistemic-liberation.md) — related
+- [Organization-simulation knowledge practices support interdisciplinary learning](organization-simulation-knowledge-practices-support-interdisciplinary-learning.md) — related
+- [Professional dialog maintains and reproduces the logic of each knowledge context over time](professional-dialog-reproduces-knowledge-context-logic.md) — related
+- [Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams](epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md) — related
+- [Explicitly unfolding higher-order contributions into lower-order concept elements produces deeper conceptual learning opportunities than jumping directly to procedure](unfolding-knowledge-elements-produces-deeper-conceptual-learning-opportunities.md) — related
+- [Teacher responses, including verbal rewards, can close off pupil thinking rather than sustain it](teacher-responses-can-close-off-pupil-thinking.md) — related
+- [Teachers actively synthesize professional-development practices with their own context rather than transferring them intact](teachers-synthesize-pd-practices-with-context-not-just-transfer-them.md) — related

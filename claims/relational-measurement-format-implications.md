@@ -41,4 +41,7 @@ The paper's measurement-implications section argues, without data, that the cogn
 
 
 ## Related Claims
--
+- [Coleman describes experiential learning steps as almost the reverse of traditional learning steps](coleman-experiential-steps-reverse-of-traditional.md) — related
+- [The relational taxonomy rests on value orientations that task-oriented group activity requires rotating leadership exercised through sanctions, persuasion, or expertise](rotating-leadership-three-agencies-claim.md) — related
+- [Relational-domain programs are argued to be workable only under highly individualized instruction matched to learners' concrete-abstract developmental stage](individualized-instruction-relational-domain.md) — related
+- [The taxonomy's most significant functional value is proposed to be providing structure for designing evaluation of action learning](taxonomy-structure-for-action-learning-evaluation.md) — related

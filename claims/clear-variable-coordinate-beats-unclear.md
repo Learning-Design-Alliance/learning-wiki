@@ -41,4 +41,7 @@ Dunn-Sidak multiple comparison tests in the Results section of the 2x3 factorial
 
 
 ## Related Claims
--
+- [Clarity matters less as concept structure becomes simpler: no significant clear-vs-unclear difference for constant successive lessons](clarity-less-relevant-simpler-structures.md) — related
+- [Instructional clarity is a significant main effect on concept achievement, accounting for roughly half of score variance across measures](instructional-clarity-main-effect-concept-achievement.md) — a broader claim this one bears on
+- [Students accurately perceive differences between clear and unclear lessons regardless of concept structure](students-perceive-lesson-clarity.md) — related
+- [Under unclear presentation, a more complex concept structure lessens students' ability to identify concepts](unclear-presentation-complex-structure-penalty.md) — related

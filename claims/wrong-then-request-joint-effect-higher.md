@@ -41,4 +41,6 @@ Artificial action-log simulation (Figure 3) inserting a wrong response before an
 
 
 ## Related Claims
--
+- [In artificial action logs, \"answer requested\" yields the lowest average predicted probability of a correct end-of-unit response, below even \"wrong response\"](answer-requested-lowest-main-effect.md) — related
+- [Hint takers spend less time on a question than learners who attempt it, regardless of attempt outcome](hint-takers-spend-less-time-than-attempters.md) — related
+- [Single instances of help-seeking actions (answer requested, explanation requested) carry more predictive information than single correct or open responses (ISA)](isa-help-seeking-more-informative-than-correct-response.md) — related

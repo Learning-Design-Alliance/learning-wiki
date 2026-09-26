@@ -41,4 +41,5 @@ The article offers this as an author interpretation rather than a tested result:
 
 
 ## Related Claims
--
+- [Cognitive Load Management](cognitive-load-management.md) — related
+- [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — related

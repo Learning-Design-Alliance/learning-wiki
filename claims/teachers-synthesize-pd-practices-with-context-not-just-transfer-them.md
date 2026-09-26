@@ -44,3 +44,5 @@ This is a two-case ethnographic study (n=2 intensive focal cases) selected from 
 
 ## Related Claims
 - (none yet linked)
+- [External conceptual resources support teachers' pedagogical judgment by affording richer representations and more productive problem frames](external-resources-support-pedagogical-judgment-alignment.md) — related
+- [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) — related

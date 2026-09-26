@@ -41,4 +41,4 @@ A narrative review of classical comparison studies of wet laboratory versus non-
 
 
 ## Related Claims
--
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related

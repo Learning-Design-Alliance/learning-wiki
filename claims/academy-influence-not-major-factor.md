@@ -58,4 +58,6 @@ Authors' interpretation in the Discussion: the two educators differed greatly in
 
 
 ## Related Claims
--
+- [After the IDEAS academy, both studied teachers' classrooms moved toward more student-centered methods, with inquiry and collaborative learning emerging](academy-shift-toward-student-centered-methods.md) — related
+- [Networking opportunities were the most valued feature of the network, with 20 of 24 interviewed teachers crediting them as playing the greatest role in changing their instruction](networking-opportunities-greatest-instructional-influence.md) — related
+- [Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction](working-conditions-shape-retention-and-recruitment.md) — related

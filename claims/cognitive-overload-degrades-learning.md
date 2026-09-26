@@ -73,6 +73,13 @@ The founding cognitive load paper. It argues that conventional problem solving b
 
 - [Coherence principle: irrelevant material hurts learning](coherence-principle-irrelevant-material-hurts-learning.md) — extraneous material is a direct source of overload
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — a primary design countermeasure
-- [Worked examples can become redundant or counterproductive for advanced learners](worked-examples-expertise-reversal.md) — expertise moderates when load-reducing scaffolds help
+- [Worked examples can become redundant or counterproductive for advanced learners](worked-examples-less-effective-with-expertise.md) — expertise moderates when load-reducing scaffolds help
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — automaticity lowers load in literacy tasks
 - [Cognitive disequilibrium motivates conceptual change](cognitive-disequilibrium-motivates-conceptual-change.md) — moderate challenge can be productive; overload is the failure point beyond it
+- [Clear Structure Improves Learning](clear-structure-improves-learning.md) — related
+- [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — a narrower finding that bears on this claim
+- [Cognitive Load Management](cognitive-load-management.md) — related
+- [Multimedia Principles Benefit Novices](multimedia-principles-benefit-novices.md) — related
+- [Signaling Improves Learning](signaling-improves-learning.md) — related
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](part-task-practice-reduces-load-for-novices.md) — a narrower finding that bears on this claim
+- [Individual user goals, such as avoiding cognitive load, can contradict the objectives of the educational community](user-goals-contradict-educational-objectives.md) — related

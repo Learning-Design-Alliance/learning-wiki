@@ -41,4 +41,7 @@ The author's lexicological observation over his compiled list of contrast pairs 
 
 
 ## Related Claims
--
+- [Use of a deceptive word need not cause complete misunderstanding, but some semantic affinity in the pair is always necessary for such a translation to be correct](deceptive-word-use-not-always-complete-misunderstanding.md) — related
+- [Risk of semantic interference varies systematically across the four relation types, with full contrast always producing faulty translation when a formal replica is used](interference-risk-varies-by-relation-type.md) — related
+- [Morphological and derivational interference in Polish-English deceptive pairs is unidirectional, operating only in translation from Polish into English](morphological-interference-unidirectional-polish-to-english.md) — related
+- [In overlapping pairs, the danger of false identification of meanings is lower when the shared meaning is obvious in only one sense](overlap-degree-moderates-false-identification-risk.md) — related

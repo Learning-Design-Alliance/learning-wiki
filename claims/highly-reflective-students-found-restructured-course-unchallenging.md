@@ -57,4 +57,6 @@ The author contends the course intentionally de-emphasized the authority/expert 
 
 
 ## Related Claims
--
+- [Pre-reflective students initially reacted negatively to the lecture-free course but the restructure fostered growth in their reflective judgment](pre-reflective-students-growth-in-restructured-course.md) — related
+- [Most incoming college freshmen function at pre- or quasi-reflective levels, averaging about stage 3.5](incoming-freshmen-average-reflective-judgment-stage-3-5.md) — related
+- [Instruction can harm learners in ways its performance data do not show.](instruction-has-unintended-moral-effects-that-performance-data-miss.md) — related

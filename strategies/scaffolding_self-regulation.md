@@ -12,14 +12,14 @@ generated:
 # Scaffolding Self-Regulation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies, `q3`–`q4` · 8 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies, `q3`–`q4` · 9 of 11 report an effect size
 
 ## Description
 Scaffolding self-regulation means providing temporary external structure — task breakdowns, prompts, models, and check-ins — that helps learners plan, monitor, and control their own behavior and emotional responses, then progressively withdrawing that structure as internal control develops. The goal is not task completion but the transfer of regulatory responsibility from teacher or system to learner. It is carried out through modeling of self-regulatory strategies, guided practice with prompts, and fading of support in an emotionally safe context where errors are treated as information rather than failure.
 
 ## Design Implications
 
-Self-regulatory skill is learnable: strategy instruction embedded in subject-matter teaching improves both self-regulated learning behaviors and achievement across grade levels [Self-regulation strategy instruction improves academic performance.](../claims/self-regulation-strategy-instruction-improves-academic-performance.md) [+S]. Support must be calibrated to current learner capability — too much help prevents learners from exercising regulatory muscles, too little produces overload and disengagement [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M]. Because regulation is effortful and failure-prone early on, the emotional climate matters: learners need to experience setbacks as recoverable, which is supported by belonging and norm-setting interventions [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M].
+Self-regulatory skill is learnable: strategy instruction embedded in subject-matter teaching improves both self-regulated learning behaviors and achievement across grade levels [Self-regulation strategy instruction improves academic performance.](../claims/self-regulated-learning-improves-achievement.md) [+S]. Support must be calibrated to current learner capability — too much help prevents learners from exercising regulatory muscles, too little produces overload and disengagement [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M]. Because regulation is effortful and failure-prone early on, the emotional climate matters: learners need to experience setbacks as recoverable, which is supported by belonging and norm-setting interventions [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M].
 
 ### Context
 #### Requirements
@@ -42,7 +42,7 @@ Self-regulatory skill is learnable: strategy instruction embedded in subject-mat
 - **Technology-mediated**: adaptive systems that prompt planning and reflection at calibrated points ([Adaptive Difficulty](../elements/adaptive-difficulty.md))
 
 ### Target Learners
-- K–12 and post-secondary students generally, with the largest gains for younger learners and those with weak prior strategy repertoires [Self-regulation strategy instruction improves academic performance.](../claims/self-regulation-strategy-instruction-improves-academic-performance.md) [+S]
+- K–12 and post-secondary students generally, with the largest gains for younger learners and those with weak prior strategy repertoires [Self-regulation strategy instruction improves academic performance.](../claims/self-regulated-learning-improves-achievement.md) [+S]
 - Students with learning disabilities, ADHD, or emotional/behavioral challenges, who benefit most from explicit strategy instruction and external structure [+M]
 - Learners who experience task-related anxiety; emotionally safe, scaffolded practice reduces avoidance [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M]
 - Less beneficial for already highly self-regulated learners, for whom prompts and check-ins add friction without new information [~M]

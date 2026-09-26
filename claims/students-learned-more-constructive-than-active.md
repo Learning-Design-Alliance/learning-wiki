@@ -41,4 +41,5 @@ In the 5-year translation project, teachers designed and implemented lesson plan
 
 
 ## Related Claims
--
+- [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on
+- [Teachers had minimal success designing Constructive and Interactive activities after ICAP professional development](teachers-struggle-designing-interactive-activities.md) — related

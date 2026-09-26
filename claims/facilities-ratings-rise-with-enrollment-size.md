@@ -41,4 +41,6 @@ ANOVA by student enrollment size (Table 4) in the 455-respondent survey. The art
 
 
 ## Related Claims
--
+- [Higher educational attainment is associated with more positive evaluations of international cooperation efforts](education-level-internationalization-perceptions.md) — related
+- [Frequent participation in governance is associated with more favorable perceptions of organizational culture](governance-participation-linked-culture-perceptions.md) — related
+- [Evaluations of leadership competency increase with hierarchical position in Vietnamese universities](leadership-perception-gap-by-position.md) — related

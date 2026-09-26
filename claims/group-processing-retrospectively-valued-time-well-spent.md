@@ -41,4 +41,6 @@ Retrospective online survey of 46 former enquiry-based learning seminar students
 
 
 ## Related Claims
--
+- [Participants reported that group processing affected their broader university experience and their experiences after university](group-processing-affects-broader-university-and-post-university-experience.md) — related
+- [Students' evaluation of group processing as a positive contribution to learning increased significantly from the beginning to the end of the course and again to the time of survey](group-processing-perceived-value-increases-over-time.md) — related
+- [Most former students reported using group processing after their seminar and rated it as transferable to other contexts](group-processing-skills-transferable-to-other-contexts.md) — related

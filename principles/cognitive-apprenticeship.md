@@ -12,7 +12,7 @@ generated:
 # Cognitive Apprenticeship
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Cognitive apprenticeship is the principle of making expert thinking visible through modeling, coaching, scaffolding, and gradual participation in authentic tasks.

@@ -41,4 +41,9 @@ Cross-sectional Pearson correlation analysis of 147 Ukrainian students surveyed 
 
 
 ## Related Claims
--
+- [Extraversion's protective effect on well-being declines with age, significant only for younger students](age-moderates-extraversion-wellbeing-effect.md) — related
+- [Agreeableness is unexpectedly a weak risk factor for well-being decline in wartime students](agreeableness-risk-factor-wartime-wellbeing.md) — related
+- [Conscientiousness and tolerance for novelty show small negative associations with well-being decline; other uncertainty-tolerance facets do not](conscientiousness-novelty-tolerance-small-protective-associations.md) — a narrower finding that bears on this claim
+- [Extraversion correlates negatively with well-being decline in wartime students, though less strongly than emotional stability](extraversion-protective-wellbeing-wartime.md) — related
+- [Openness protects against well-being decline only when emotional stability is average or high](openness-protects-only-with-emotional-stability.md) — related
+- [Openness partially mediates effects of extraversion and novelty tolerance, and fully mediates general uncertainty tolerance, on well-being decline](openness-mediates-personality-wellbeing-pathways.md) — related

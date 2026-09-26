@@ -58,4 +58,6 @@ Relaxed-load simulation (λ = 0.05): long-wait requests were almost always 0 and
 
 
 ## Related Claims
--
+- [Under busy or normal queue load, the New Student First (NSF) strategy significantly increases the percentage of students who receive help compared with FCFS, LWF, and VLWF](nsf-strategy-increases-helped-students-busy-normal-queues.md) — related
+- [Choice of scheduling strategy does not significantly affect the number of resolved requests or students' overall wait time](scheduling-strategy-no-effect-resolved-requests-wait-time.md) — reports the opposite
+- [Code commit features before a help request show no correlation with interaction time, and commit-based scheduling strategies perform no better than FCFS](code-commit-features-no-correlation-interaction-time.md) — related

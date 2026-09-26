@@ -41,4 +41,6 @@ Province-wide survey screening depression with the Chinese version of the BDI-II
 
 
 ## Related Claims
--
+- [Academic burnout is widespread among secondary vocational students](academic-burnout-widespread-vocational-students.md) — related
+- [Severe depressive symptoms co-occur with self-harm and suicidal tendencies among vocational students](severe-depression-co-occurs-self-harm-suicidal-tendencies.md) — related
+- [Only 4.3% of surveyed secondary vocational students meet mental health knowledge standards](vocational-students-low-mental-health-literacy-4-3-percent.md) — related

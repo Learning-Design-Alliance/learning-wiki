@@ -41,4 +41,4 @@ Quantitative experimental study of 355 Grade 9 learners in three schools, random
 
 
 ## Related Claims
--
+- [School (A, B, C) showed no statistically significant effect on post-test applied conceptual understanding in the ANCOVA model](school-effect-null-ecology-puppetry-ancova.md) — related

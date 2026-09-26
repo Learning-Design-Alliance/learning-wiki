@@ -55,3 +55,6 @@ This claim currently lacks evidence entries. Studies establishing when manipulat
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — the boundary condition: poorly designed manipulatives can add rather than remove load.
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — why manipulative benefits should fade as learners advance.
 - [Active learning improves exam performance](active-learning-improves-exam-performance.md) — clarifies that engagement must be cognitive, not merely physical, for manipulative use to pay off.
+- [Hands-on learning improves achievement](hands-on-learning-improves-achievement.md) — possibly the same claim (merge candidate)
+- [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — related
+- [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — related

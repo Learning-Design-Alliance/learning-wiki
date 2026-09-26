@@ -41,4 +41,7 @@ Correlation analysis (Pearson, N=301) after Kolmogorov-Smirnov tests showed all 
 
 
 ## Related Claims
--
+- [Prospective teachers' critical thinking dispositions show no significant relationship with traditional educational philosophy preference](critical-thinking-dispositions-not-related-traditional-philosophy.md) — related
+- [Physical education teachers working in high school endorse perennialism more than those in secondary school, with no significant school-type difference in the other four philosophies](high-school-pe-teachers-endorse-perennialism-more-than-secondary-school-teachers.md) — related
+- [Adopted educational philosophy is significantly positively related to teaching style](philosophy-significantly-related-teaching-style.md) — a broader claim this one bears on
+- [Student-centered philosophies correlate with personal, facilitator and delegator teaching styles](student-centered-philosophies-correlate-student-centered-styles.md) — related

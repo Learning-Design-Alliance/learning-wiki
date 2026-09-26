@@ -41,4 +41,6 @@ Qualitative thematic interviews with 671 students, coded by keyword extraction a
 
 
 ## Related Claims
--
+- [Academic burnout is widespread among secondary vocational students](academic-burnout-widespread-vocational-students.md) — related
+- [Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence](qualitative-experience-themes-lc101-persistence.md) — related
+- [Only 4.3% of surveyed secondary vocational students meet mental health knowledge standards](vocational-students-low-mental-health-literacy-4-3-percent.md) — related

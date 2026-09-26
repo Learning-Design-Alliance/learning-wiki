@@ -42,4 +42,7 @@ Narrative review of 35 studies on SRL published 1998-2016; the review's conclusi
 
 
 ## Related Claims
--
+- [Canfield's learning style variables predicted academic success where cognitive style did not](canfield-learning-style-predicts-academic-success.md) — related
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
+- [Self-efficacy for self-regulated learning predicts academic achievement above and beyond prior achievement, gender, SES, intelligence, personality traits, and self-esteem](self-efficacy-for-srl-predicts-achievement-beyond-traits.md) — related
+- [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — related

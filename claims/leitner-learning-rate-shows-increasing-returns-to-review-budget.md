@@ -41,4 +41,8 @@ Optimization result under the mean-recall approximation (Fig. 11). The convexity
 
 
 ## Related Claims
--
+- [In simulation, the mean-recall approximation matches the clocked-delay Leitner Queue Network for small arrival rates, and its phase-transition threshold appears to be a conservative lower bound.](mean-recall-approximation-matches-clocked-delay-simulation-at-low-arrival-rates.md) — related
+- [Under the mean-recall approximation, the optimal Leitner Queue Network review schedule spends more time on lower decks than on higher decks.](optimal-leitner-schedule-reviews-lower-decks-more-often.md) — related
+- [Under the mean-recall approximation, the optimal Leitner Queue Network schedule increases the expected delay between reviews as an item moves up through the decks.](optimal-leitner-schedule-expands-intervals-between-reviews.md) — related
+- [Under the Leitner Queue Network model, raising the rate of new-item introduction beyond a threshold causes a phase transition in learning rate, which a Mechanical Turk vocabulary experiment reproduced.](leitner-queue-network-phase-transition-in-learning-rate.md) — related
+- [Under the Leitner Queue Network optimization, easy items call for roughly uniform time across decks, while more difficult items call for more time on lower decks.](optimal-leitner-deck-allocation-depends-on-item-difficulty.md) — related

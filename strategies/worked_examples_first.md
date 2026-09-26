@@ -25,7 +25,7 @@ sources:
 # Worked_Examples_First
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies, `q3`–`q4` · 5 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies, `q3`–`q4` · 5 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Worked_Examples_First sequences instruction so that learners encounter one or more fully worked solutions — with reasoning made explicit — *before* attempting problems on their own. The strategy replaces early unguided problem solving, where novices flounder in means-ends search, with careful study of expert solutions, followed by paired practice and progressive fading of support.
@@ -52,7 +52,7 @@ Studying worked examples reduces the extraneous cognitive load of unguided searc
 - **Completion problems**: present a partially worked solution the learner must finish, bridging observation and independent performance
 - **Faded worked examples**: a sequence of examples with progressively more steps omitted
 - **Erroneous examples**: present a flawed solution for learners to diagnose, sharpening discrimination of common misconceptions
-- **Comparing cases**: present two worked examples side by side for learners to contrast solution methods [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improve-learning.md) [+M]
+- **Comparing cases**: present two worked examples side by side for learners to contrast solution methods [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learners
 - Novices encountering a new problem type, who otherwise waste effort on unguided search [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+S]

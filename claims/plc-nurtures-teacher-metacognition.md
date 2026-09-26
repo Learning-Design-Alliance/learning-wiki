@@ -41,4 +41,6 @@ Phenomenological study of three female PLC leaders (Tracey, Lisa, Jacki) using s
 
 
 ## Related Claims
--
+- [Disagreements within a PLC can catalyze teacher learning rather than impede it](plc-disagreements-catalyze-learning.md) — related
+- [PLC leaders' recognition of their own metacognition impacted the type of work they led in the PLC](plc-leader-metacognition-shapes-led-work.md) — related
+- [Teacher metacognition in PLCs appears at both a lower level (reflecting on what one does) and a higher level (reflecting on how one reflects)](plc-metacognition-lower-and-higher-levels.md) — related

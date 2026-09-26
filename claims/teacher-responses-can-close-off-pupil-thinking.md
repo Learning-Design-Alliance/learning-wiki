@@ -41,4 +41,6 @@ Descriptive/theoretical statement from the Workbook G (Teacher Responses) sectio
 
 
 ## Related Claims
--
+- [Discussion Quality Drives Comprehension](discussion-quality-drives-comprehension.md) — related
+- [Rewards Undermine Intrinsic Motivation](rewards-undermine-intrinsic-motivation.md) — related
+- [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) — related

@@ -58,4 +58,5 @@ Requisite Teacher Characteristics section: coaches reported that content experti
 
 
 ## Related Claims
--
+- [Effective coaches require content expertise, classroom experience, technology proficiency, flexible scheduling, partnership orientation, and interpersonal skills](requisite-coach-characteristics-qualitative-findings.md) — related
+- [Teacher buy-in and willingness to engage are viewed as strong mediators of coaching benefits](teacher-buy-in-mediates-coaching-benefit.md) — related

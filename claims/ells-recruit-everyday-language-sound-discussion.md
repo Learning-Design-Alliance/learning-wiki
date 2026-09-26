@@ -41,4 +41,6 @@ Qualitative discourse analysis of one videotaped discussion in a third-grade SEI
 
 
 ## Related Claims
--
+- [Everyday and invented terminology became formalized through classroom discussion, establishing a shared protocol for referring to strings](everyday-language-formalized-classroom-protocol.md) — related
+- [ELLs attempted academic terminology from prior lessons, with experience mediating their connection to the concept of vibration](experience-mediate-connection-academic-language-vibration.md) — related
+- [Inquiry-based physics discussion supported peer co-construction of mechanistic explanations, distributing authority of knowledge and language among students](third-space-distributes-authority-among-students.md) — related

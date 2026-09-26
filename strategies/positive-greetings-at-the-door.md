@@ -19,7 +19,7 @@ Positive Greetings at the Door (PGD) is a brief classroom-management routine in 
 
 ## Design Implications
 
-PGD operationalizes the finding that teacher–student relationship quality is one of the strongest correlates of engagement and achievement [Teacher-student relationship quality predicts engagement and achievement.](../claims/teacher-student-relationships-improve-engagement-and-achievement.md) [+S]. The greeting functions as a proactive behavior-management move: it sets an affirmative tone, gives the teacher a rapid read on each student's affective state, and reduces the likelihood that off-task or disruptive behavior escalates once class starts. In a randomized evaluation across middle school classrooms, the routine increased academic engaged time and reduced disruptive behavior [Positive greetings at the door increased academic engaged time and reduced disruptive behavior in a randomized study.](../claims/positive-greetings-at-the-door-improve-engagement-and-behavior.md) [+S].
+PGD operationalizes the finding that teacher–student relationship quality is one of the strongest correlates of engagement and achievement [Teacher-student relationship quality predicts engagement and achievement.](../claims/teacher-student-relationships-improve-engagement-and-achievement.md) [+S]. The greeting functions as a proactive behavior-management move: it sets an affirmative tone, gives the teacher a rapid read on each student's affective state, and reduces the likelihood that off-task or disruptive behavior escalates once class starts. In a randomized evaluation across middle school classrooms, the routine increased academic engaged time and reduced disruptive behavior [Positive greetings at the door increased academic engaged time and reduced disruptive behavior in a randomized study.](../claims/positive-greetings-at-the-door-improve-engagement.md) [+S].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ PGD operationalizes the finding that teacher–student relationship quality is o
 - **Digital analog:** synchronous online classes adapt the routine as a named welcome in chat or by voice as students join the call
 
 ### Target Learners
-- Middle school students, where transition-related disruption is most prevalent and the routine was originally validated [Positive greetings at the door increased academic engaged time and reduced disruptive behavior in a randomized study.](../claims/positive-greetings-at-the-door-improve-engagement-and-behavior.md) [+S]
+- Middle school students, where transition-related disruption is most prevalent and the routine was originally validated [Positive greetings at the door increased academic engaged time and reduced disruptive behavior in a randomized study.](../claims/positive-greetings-at-the-door-improve-engagement.md) [+S]
 - Students at risk of exclusionary discipline; relationship-based proactive strategies reduce suspension disparities, particularly for students of color [Brief empathic discipline interventions reduce suspensions for students of color.](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+S]
 - Students with weak school belonging; a daily named greeting is a low-cost belonging signal [Belonging interventions improve academic outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M]
 

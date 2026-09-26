@@ -41,4 +41,10 @@ The handbook's research section reports this secondhand distribution of teacher 
 
 
 ## Related Claims
--
+- [Question-level emphasis varied by academic designation, with professors omitting synthesis and lecturers omitting evaluation entirely](designation-wise-bloom-question-differences.md) — related
+- [University examination questions concentrate at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge](exam-questions-concentrate-lower-bloom-levels.md) — related
+- [Pre-service teachers' self-efficacy and instructional-planning levels were relatively high, but Bloom taxonomy classification was low](preservice-planning-high-taxonomy-low.md) — related
+- [Student-authored physics questions mostly require application or analysis, with under 5% at the lowest recall level](student-questions-majority-above-recall-bloom.md) — related
+- [Higher-order questions (synthesis and evaluation) were rarely present in the examined question papers](higher-order-bloom-questions-rare.md) — related
+- [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — related
+- [Causal model analysis of taxonomy test data suggests a Y-shaped structure rather than Bloom's cumulative hierarchy](y-shaped-structure-challenges-bloom-cumulative-hierarchy.md) — related

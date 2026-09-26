@@ -74,3 +74,11 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — metacognitive strategies help learners detect and avoid overload
 - [Annotating improves learning.](annotating-improves-learning.md) — annotation is a concrete monitoring strategy learners can be taught
 - [Activation improves learning.](activation-improves-learning.md) — activating prior knowledge is a planning-phase metacognitive move
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — possibly the same claim (merge candidate)
+- [Self-regulation strategy instruction improves achievement](self-regulation-strategy-instruction-improves-achievement.md) — possibly the same claim (merge candidate)
+- [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — possibly the same claim (merge candidate)
+- [Scaffolded Close Reading Improves Comprehension For Struggling Readers](scaffolded-close-reading-improves-comprehension-for-struggling-readers.md) — related
+- [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — a narrower finding that bears on this claim
+- [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — a narrower finding that bears on this claim
+- [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — related
+- [STRP-trained teachers were observed providing metacognitive tools before, during, and after lessons](strp-teachers-metacognitive-tools-before-during-after.md) — related

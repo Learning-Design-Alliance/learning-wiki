@@ -41,4 +41,5 @@ The article's 'A Note on Fun' section reports workshop participants' experience 
 
 
 ## Related Claims
--
+- [Returning to direct somatic experience can re-vision thinking and change perception (attributed to Reason)](somatic-return-revisions-thinking.md) — related
+- [Embodied dance improvisation supports physics engagement and sense-making](embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) — related

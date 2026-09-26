@@ -41,4 +41,6 @@ Theoretical reconstruction of Mead's early writings (1900-1913) in the article's
 
 
 ## Related Claims
--
+- [In Mead's lectures, meanings grow out of social intercourse and the child constructs meanings only in social process](meanings-grow-out-of-social-intercourse.md) — related
+- [Mead holds that the process of acquiring changes the thing acquired, making change of subject matter the rule](acquiring-changes-the-thing-acquired.md) — related
+- [Mead holds that a method of thought cannot be transferred but must be gained through the learner's own abstractions](method-of-thought-cannot-be-transferred.md) — related

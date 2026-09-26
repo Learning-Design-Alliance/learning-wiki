@@ -41,4 +41,8 @@ In the serial position results, although high-arousal primacy exceeded low-arous
 
 
 ## Related Claims
--
+- [The arousal recall advantage is not attributable to differential clustering within the high- versus low-arousal lists](arousal-effect-not-differential-clustering.md) — related
+- [Increased exposure time did not significantly facilitate primacy (hypothesis 5 not supported)](exposure-time-primacy-effect-not-significant.md) — related
+- [Primacy exceeds recency in one-trial free recall, with significant arousal, exposure, and serial position effects and no interactions](primacy-exceeds-recency-one-trial-free-recall.md) — related
+- [Longer exposure time (9 sec vs 3 sec per word) improves free recall, with no arousal-by-exposure interaction](longer-exposure-improves-free-recall-no-interaction.md) — related
+- [High-arousal words are recalled better than low-arousal words in free recall](high-arousal-words-recalled-better-free-recall.md) — related

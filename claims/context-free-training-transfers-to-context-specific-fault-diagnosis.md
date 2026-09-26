@@ -41,4 +41,7 @@ Experiment Six: 39 trainees in the last semester of a two-year FAA certificate p
 
 
 ## Related Claims
--
+- [Computer aiding produces positive transfer of training: aided-trained subjects maintain performance on unaided fault-diagnosis displays](computer-aiding-positive-transfer-unaided-fault-diagnosis.md) — related
+- [Aiding-based transfer differs by trainee experience: first-semester trainees showed no aided-to-unaided transfer on Task One and initial negative then positive transfer on Task Two](trainee-experience-moderates-aiding-transfer.md) — related
+- [Forced pacing eliminates positive transfer from computer aiding and leads subjects to use strategies requiring many more tests than necessary](forced-pacing-eliminates-aiding-transfer.md) — related
+- [Human fault-diagnosis performance deviates from optimality as problem size increases, though it beats a brute-force tracing strategy](problem-size-deviation-from-optimality-fault-diagnosis.md) — related

@@ -41,4 +41,7 @@ Discussion-section analysis of the distribution of all rated client-therapist in
 
 
 ## Related Claims
--
+- [During the early stage of therapy, more severely maladjusted clients elicit higher levels of therapist complementarity](early-stage-maladjustment-elicits-complementarity.md) — related
+- [Overall therapist complementarity across the full therapeutic relationship does not differ significantly between successful and unsuccessful outcome groups](overall-therapist-complementarity-not-related-to-therapy-outcome.md) — related
+- [Early-stage therapist complementarity does not differ by outcome group, and the predicted later-stage advantage for successful dyads was not supported](early-and-later-stage-complementarity-null-by-outcome.md) — related
+- [During the middle stage of therapy, successful therapists respond at a significantly lower level of complementarity than unsuccessful therapists](middle-stage-lower-complementarity-successful-therapists.md) — related

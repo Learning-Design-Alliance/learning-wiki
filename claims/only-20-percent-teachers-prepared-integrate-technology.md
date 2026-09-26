@@ -41,4 +41,6 @@ A national survey statistic reported in the in-service career development sectio
 
 
 ## Related Claims
--
+- [Teachers receiving 11 or more hours of training on integrating digital content report roughly double the reliance on software and the Internet compared with untrained teachers](pd-integration-training-doubles-reliance.md) — related
+- [Schools spend far less per student on teacher technology training than on hardware, software, and connectivity, below the recommended 30 percent share](technology-training-spending-inadequate.md) — related
+- [Between the 1997 and 1999 STaR assessments, the share of schools effectively using technology rose from 15 to 24 percent, and almost 80 percent of schools had Internet connections](star-year2-technology-use-rise.md) — related

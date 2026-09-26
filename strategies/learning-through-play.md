@@ -19,7 +19,7 @@ Learning through play embeds learning goals in activities characterized by enjoy
 
 ## Design Implications
 
-Play leverages intrinsic motivation and active engagement, which support attention, persistence, and encoding [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. However, unguided discovery through play is often inefficient: learners may not notice the intended structure without scaffolding [Unguided discovery is less effective than guided instruction.](../claims/unguided-discovery-less-effective-than-guided-instruction.md) [+S]. Guided play — where adults set up the play context and prompt within it — consistently outperforms both free play and direct instruction for early academic content [Guided play improves early academic outcomes.](../claims/guided-play-improves-academic-outcomes.md) [+M]. Playful formats also support social and language development through peer negotiation and role enactment [Act It Out](../elements/act-it-out.md).
+Play leverages intrinsic motivation and active engagement, which support attention, persistence, and encoding [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. However, unguided discovery through play is often inefficient: learners may not notice the intended structure without scaffolding [Unguided discovery is less effective than guided instruction.](../claims/minimal-guidance-less-effective-for-novices.md) [+S]. Guided play — where adults set up the play context and prompt within it — consistently outperforms both free play and direct instruction for early academic content [Guided play improves early academic outcomes.](../claims/guided-play-improves-academic-outcomes.md) [+M]. Playful formats also support social and language development through peer negotiation and role enactment [Act It Out](../elements/act-it-out.md).
 
 ### Context
 #### Requirements
@@ -29,8 +29,8 @@ Play leverages intrinsic motivation and active engagement, which support attenti
 - Time: play-based learning requires longer, less fragmented activity blocks than direct instruction
 
 #### Constraints
-- Pure free play frequently fails to produce the intended academic learning without adult guidance [Unguided discovery is less effective than guided instruction.](../claims/unguided-discovery-less-effective-than-guided-instruction.md) [-S]
-- Extrinsic rewards layered onto play can undermine the intrinsic motivation that makes play effective [Extrinsic rewards can undermine intrinsic motivation.](../claims/extrinsic-rewards-undermine-intrinsic-motivation.md) [+S]
+- Pure free play frequently fails to produce the intended academic learning without adult guidance [Unguided discovery is less effective than guided instruction.](../claims/minimal-guidance-less-effective-for-novices.md) [-S]
+- Extrinsic rewards layered onto play can undermine the intrinsic motivation that makes play effective [Extrinsic rewards can undermine intrinsic motivation.](../claims/rewards-undermine-intrinsic-motivation.md) [+S]
 - Playful formats can overload working memory if game mechanics compete with content for attention [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-M]
 - Effectiveness drops sharply for complex, high-element-interactivity content where novices need explicit structure [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M]
 

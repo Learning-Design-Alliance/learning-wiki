@@ -58,4 +58,5 @@ The chapter reports Blunt and Karpicke (2014): on a 1-week short-answer assessme
 
 
 ## Related Claims
-- [Concept Maps Improve Learning](concept-maps-improve-learning.md)
+- [Concept Maps Improve Learning](concept-mapping-improves-learning.md)
+- [Retrieval practice produces more learning than elaborative study techniques, including concept mapping and imagery-based strategies such as the keyword mnemonic](retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration.md) — related

@@ -41,4 +41,7 @@ In the same crowdsourced vignette experiment, the first MANOVA's victim-age main
 
 
 ## Related Claims
--
+- [The interaction of label type and victim age did not significantly affect public perceptions of individuals who sexually offend](label-by-victim-age-interaction-null.md) — related
+- [The type of label used (person-first, 'sex offender', diagnostic, or offence-specific) does not significantly affect public perceptions of individuals who sexually offend](label-type-no-effect-public-perceptions-sexual-offenders.md) — related
+- [Prior evidence on whether labels change public perceptions of people with sexual offences is mixed, with some studies finding label effects and others finding none](mixed-prior-evidence-label-effects-forensic.md) — related
+- [Label type, victim age, and their interaction showed no significant effects on treatment amenability subscales (capacity to change, treatment ineffectiveness, incapacitation)](treatment-amenability-subscales-null-manova.md) — related

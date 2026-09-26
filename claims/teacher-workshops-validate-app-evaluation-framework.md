@@ -41,4 +41,5 @@ Section 4 reports two workshop evaluations: 18 language teachers in Ireland (Oct
 
 
 ## Related Claims
--
+- [Rubrics Improve Peer Feedback Quality](rubrics-improve-peer-feedback-quality.md) — related
+- [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — related

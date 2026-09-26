@@ -41,4 +41,10 @@ Qualitative case analysis of four exemplar threads selected from 50 coded thread
 
 
 ## Related Claims
--
+- [Social network site participation enables design learning that breaks the confines of space and time, including pre-enrollment learning and asynchronous ethical discussion](sns-learning-unbounded-space-time.md) — related
+- [Students transition between student and proto-professional roles in informal SNS discourse, bridging learning and design practice](student-proto-professional-role-transition.md) — related
+- [Student-created Facebook groups support self-directed design learning and sharing of expertise outside the formal curriculum](sns-groups-support-informal-design-learning.md) — related
+- [Social media tools plugged into learning management systems are presented as \"social learning\" solutions without being designed around social learning theory](social-media-tools-misappropriated-as-social-learning.md) — related
+- [Student-generated Facebook groups constitute a hidden curriculum that supports learning outside the formal design studio](student-generated-hidden-curriculum-sns.md) — a broader claim this one bears on
+- [Students exemplified discovered clues when explaining their designs orally](students-exemplified-clues-orally.md) — related
+- [Longer Facebook threads with more interlocutors show distinct structural characteristics compared to the broader corpus](thread-structure-designerly-talk-corpus.md) — related

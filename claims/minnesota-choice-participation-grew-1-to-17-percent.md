@@ -41,4 +41,9 @@ Observational enrollment analysis compiled from Minnesota Department of Children
 
 
 ## Related Claims
--
+- [Under Boston's Controlled Choice plan, 90 percent of students received a first- or second-choice school and fewer than 10 percent were mandatorily assigned](boston-controlled-choice-most-students-get-first-or-second-choice.md) — related
+- [Participants in Minnesota's choice options express a high degree of satisfaction, and preliminary studies suggest positive academic outcomes](choice-participants-high-satisfaction-preliminary-positive-outcomes.md) — related
+- [Alternative schools and Area Learning Centers showed the greatest growth of any choice option, from 4,050 students in 1988-89 to over 100,000 in 2000-01](minnesota-alternative-schools-greatest-choice-growth.md) — related
+- [Charter school students in Minnesota are disproportionately students of color, low-income, special needs, and non-English speakers](minnesota-charter-students-disproportionately-underserved.md) — related
+- [Area Learning Center students most often cite individualized education, smaller schools, less restrictive environments, and flexible schedules as enrollment reasons](alc-students-enroll-for-individualized-flexible-settings.md) — related
+- [Public support for cross-district school choice in Minnesota rose from 33% in 1985 to 88% by 1994](minnesota-public-support-cross-district-choice-rose.md) — related

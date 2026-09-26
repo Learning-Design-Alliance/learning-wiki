@@ -41,4 +41,4 @@ Interpretive statement in the article's section on Ikeda's philosophy, reporting
 
 
 ## Related Claims
--
+- [The article argues education for global citizenship has the potential to improve quality of life and lessen inter- and intra-group violence toward a culture of peace](gced-potential-culture-of-peace.md) — related

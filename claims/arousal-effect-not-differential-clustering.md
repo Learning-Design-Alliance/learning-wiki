@@ -41,4 +41,7 @@ Several secondary analyses on the recall data: a nine-factor principal component
 
 
 ## Related Claims
--
+- [High-arousal words are recalled better than low-arousal words in free recall](high-arousal-words-recalled-better-free-recall.md) — related
+- [Neural consolidation predictions about arousal, primacy, and recency were not supported: arousal facilitated recency as well as primacy](arousal-serial-position-predictions-fail.md) — related
+- [Primacy exceeds recency in one-trial free recall, with significant arousal, exposure, and serial position effects and no interactions](primacy-exceeds-recency-one-trial-free-recall.md) — related
+- [Longer exposure time (9 sec vs 3 sec per word) improves free recall, with no arousal-by-exposure interaction](longer-exposure-improves-free-recall-no-interaction.md) — related

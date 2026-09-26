@@ -41,4 +41,6 @@ Analysis shown in Figure 2 contrasts offices differing in the emphasis on "being
 
 
 ## Related Claims
--
+- [Negative specialization–role interdependence relationship holds only in offices low on workgroup process](specialization-role-interdependence-moderated-by-social-climate.md) — related
+- [Integration–performance link fails in specialized offices, contradicting the differentiation–integration paradigm](integration-performance-link-fails-in-specialized-offices.md) — related
+- [Modes of interdependence are weakly or negligibly intercorrelated across brokerage offices](interdependence-modes-weakly-negatively-correlated.md) — related

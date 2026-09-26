@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: incidental-vocabulary-exposure-limited
+aliases: [incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure]
 evidence_strength: moderate
 sources:
   - id: swanborn-de-glopper-1999
@@ -67,6 +68,16 @@ This meta-analysis synthesised 45 correlations from 26 second-language studies (
 
 **Open questions.** Most evidence comes from L1 reading research with school-age learners; the number of encounters needed may differ for L2 learners, multimedia environments, and listening comprehension. The Evidence section currently has no verified entries; studies quantifying per-encounter acquisition rates and the effects of encounter frequency still need to be added.
 
+*Merged from “Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure” (incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure):* **Low per-exposure rates compound over volume.** The practical significance of incidental word learning comes from accumulation: a per-exposure acquisition probability of even 5–10% can yield substantial vocabulary growth over months of wide reading, which is why extensive reading is often credited as a major driver of vocabulary development despite weak learning from any single text [+M]. The flip side is that incidental learning alone is slow and unreliable for specific target words — a learner who needs a word now cannot depend on stumbling into enough contextual encounters [-M].
+
+**Moderators.** Learning from context depends on the informativeness of surrounding text, the proportion of known words (typically cited thresholds around 95–98% coverage for comfortable comprehension), learner skill in inferring meaning, and word-level factors such as concreteness and morphological transparency [~M]. Partial knowledge gained from one exposure may be refined rather than acquired on later encounters, meaning "learning" is incremental rather than all-or-nothing [+M].
+
+**Boundary conditions.** Very low per-exposure rates imply that instructional designs relying solely on incidental exposure will underserve learners with small existing vocabularies, since they both recognize fewer words and infer meanings less accurately [-M]. Deliberate instruction paired with wide reading is generally more efficient than either alone [+M] — see [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) for how word-level fluency interacts with the capacity available for context-based inference.
+
+**Measurement variability.** Exact per-exposure rates vary widely across studies and measurement methods (form recall, meaning recognition, glossing), and how much of the variance reflects genuine acquisition versus partial knowledge is still debated. Comparisons across studies should therefore be made within, not across, assessment formats.
+
+**Design implication.** Because acquisition is incremental, designs that engineer repeated encounters with target words across varied contexts — rather than relying on a single rich context — align with the low-rate mechanism. Glosses, elaboration, and post-reading activities can supplement, but not replace, the accumulation that volume of reading provides. This is consistent with [Cognitive load theory](../theories/cognitive-load-theory.md): inferring a novel word's meaning while simultaneously comprehending text competes for the same limited working-memory resources, which is why single-context inference so often yields only partial knowledge.
+
 ## Related Claims
 
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — limited working memory constrains how much word meaning can be inferred from a single encounter
@@ -74,3 +85,7 @@ This meta-analysis synthesised 45 correlations from 26 second-language studies (
 - [Cognitive load theory.](../theories/cognitive-load-theory.md) — explains why inferring meaning under load yields weak retention
 - [Spaced repetition improves retention.](spaced-repetition-improves-retention.md) — multiple spaced encounters, not single exposure, drive durable word learning
 - [Activation improves learning.](activation-improves-learning.md) — weak prior knowledge undermines the meaning inferences incidental exposure depends on
+- [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — related
+- [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — related
+- [Vocabulary Instruction Improves Comprehension](vocabulary-instruction-improves-comprehension.md) — related
+- [Low reading-group first graders read far fewer words than high-group peers, limiting elaboration](low-group-first-graders-read-few-words.md) — related

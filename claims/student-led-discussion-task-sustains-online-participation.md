@@ -41,4 +41,5 @@ Observational analysis of SNAPP visualisations of discussion-board interactions 
 
 
 ## Related Claims
--
+- [Creating community and interacting with students online required deliberate, planned effort unlike spontaneous face-to-face co-presence](online-community-requires-conscious-effort.md) — related
+- [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) — related

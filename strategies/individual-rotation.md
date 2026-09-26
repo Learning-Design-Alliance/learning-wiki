@@ -43,7 +43,7 @@ Individual rotation operationalizes personalization by matching modality and pac
 
 #### Constraints
 - Screen time can crowd out the teacher-led and collaborative modalities that drive deeper learning; rotations dominated by software show weaker effects [Blended learning effects depend on the balance and quality of modalities, not technology alone.](../claims/blended-learning-improves-outcomes.md) [~M]
-- Younger learners and those with weak self-regulation struggle to manage independent rotation segments without heavy structure [Self-regulated learning strategies improve achievement, but learners must be taught them explicitly.](../claims/self-regulated-learning-strategies-improve-achievement.md) [+M]
+- Younger learners and those with weak self-regulation struggle to manage independent rotation segments without heavy structure [Self-regulated learning strategies improve achievement, but learners must be taught them explicitly.](../claims/self-regulated-learning-improves-achievement.md) [+M]
 - Poorly calibrated diagnostics produce mis-sequenced playlists that waste time or frustrate learners [-M]
 - Implementation costs (devices, licenses, scheduling) are high, and effects shrink when fidelity is low [Large personalized-learning implementations show wide variation in outcomes tied to implementation fidelity.](../claims/personalized-learning-effects-vary-with-fidelity.md) [~M]
 
@@ -55,7 +55,7 @@ Individual rotation operationalizes personalization by matching modality and pac
 ### Target Learners
 - K–12 learners in mixed-readiness classrooms where whole-class pacing fits no one
 - Learners with gaps who need targeted remediation before grade-level work
-- Less effective without support for students with weak executive function or self-regulation [Self-regulated learning strategies improve achievement, but learners must be taught them explicitly.](../claims/self-regulated-learning-strategies-improve-achievement.md) [+M]
+- Less effective without support for students with weak executive function or self-regulation [Self-regulated learning strategies improve achievement, but learners must be taught them explicitly.](../claims/self-regulated-learning-improves-achievement.md) [+M]
 
 ### Target Learning Goals
 - Procedural fluency and skill mastery at variable paces (math facts, phonics, language practice)

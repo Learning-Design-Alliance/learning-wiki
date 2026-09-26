@@ -41,4 +41,6 @@ Descriptive interview study of 46 kindergartners (22 boys, 24 girls, mean age 67
 
 
 ## Related Claims
--
+- [Few kindergartners hold synthetic (18%) or scientific (13%) models of the day and night cycle despite no formal instruction](few-kindergartners-synthetic-scientific-models.md) — related
+- [Boys and girls do not differ in the type of mental models of the day and night cycle they hold](no-gender-difference-day-night-mental-models.md) — related
+- [Kindergartners struggle to give verbal causal explanations, but model-based tasks let most of them express causal ideas](model-tasks-overcome-verbal-explanation-limits.md) — related

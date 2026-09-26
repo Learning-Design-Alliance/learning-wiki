@@ -41,4 +41,8 @@ Analytical derivation under CTT (equations 1.13–1.15) expressing the point-bis
 
 
 ## Related Claims
--
+- [Polychotomously scored IF-AT physics exam items show excellent discrimination, with a mean item-total correlation of r′ = 0.41 ± 0.13 across 45 items](if-at-integrated-testlet-items-excellent-discrimination.md) — related
+- [Item discriminating value as coefficient of variation decreases monotonically as number of correct answers increases, giving a negative difficulty–discrimination relationship](item-discrimination-cv-negative-difficulty-relation.md) — related
+- [Intersection point k0 of item difficulty and discriminating curves provides a data-driven item-deletion criterion](k0-intersection-item-deletion-criterion.md) — related
+- [Test discriminating value equals the coefficient of variation of test scores (tan∅ = SD/mean)](test-discriminating-value-cv.md) — related
+- [Test difficulty value defined as ratio of observed to maximum score vector length times cosine of their angle equals test mean divided by number of items](test-difficulty-value-cosine-definition.md) — related

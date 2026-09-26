@@ -41,4 +41,6 @@ The review reports, citing Frieze and Weiner's series of task performance studie
 
 
 ## Related Claims
--
+- [Attributing repeated failure to lack of ability fosters learned helplessness, while external, unstable, specific attributions are adaptive](ability-attributions-foster-learned-helplessness-in-sport.md) — related
+- [Skilled athletes attribute successes to stable internal causes and failures to unstable external causes (self-serving attribution bias)](self-serving-attribution-bias-skilled-athletes.md) — related
+- [Prolonged reading failure leads students to attribute failure to fixed low ability and define reading as a failure situation](reading-failure-fixed-ability-attribution.md) — related

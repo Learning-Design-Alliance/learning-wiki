@@ -58,4 +58,8 @@ The author's conceptual analysis of ISD models identifies types of learning as t
 
 
 ## Related Claims
--
+- [The Cone of Experience rests on conflated theoretical assumptions, mixing humanistic and hierarchical task-analysis viewpoints](cone-conflated-theoretical-assumptions.md) — related
+- [The direct-to-vicarious and purely symbolic experience continuum remains valid while the cone's description of media is dated](cone-continuum-valid-media-description-dated.md) — related
+- [The validity of the cone approach to media selection was questioned by 1969 because instructional design, not media alone, shapes media characteristics](cone-media-selection-questioned-tosti-ball.md) — related
+- [Dale argued learning becomes more meaningful when abstract learning and concrete experience are related, not that more realism is better](dale-related-concrete-and-abstract-not-realism.md) — related
+- [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md) — related

@@ -41,4 +41,8 @@ In the 2 x 2 factorial design, internal experimenters (I-E mean 3.00) and extern
 
 
 ## Related Claims
--
+- [Aware externals accounted for the conditioning effect, while aware internals, unaware subjects, and controls showed essentially no change](aware-externals-account-for-conditioning-effect.md) — related
+- [Aware external subjects reported greater incentive value of the verbal reinforcer than aware internal subjects](aware-externals-greater-reinforcer-incentive.md) — related
+- [Internal experimenters were perceived as significantly more potent than external experimenters, and external subjects rated their experimenters higher on Activity](ie-experimenters-perceived-more-potent.md) — related
+- [I-E scale scores correlate with conditioning performance for aware subjects but not for unaware subjects](ie-scores-correlate-conditioning-aware-only.md) — related
+- [The study found no evidence that learning without awareness is a demonstrable phenomenon in verbal conditioning](no-learning-without-awareness-verbal-conditioning.md) — related

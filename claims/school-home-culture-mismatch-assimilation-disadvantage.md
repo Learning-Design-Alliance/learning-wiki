@@ -41,4 +41,6 @@ A conclusion-section argument of the paper: the "mismatch between the school and
 
 
 ## Related Claims
--
+- [Experiences of racism and assimilationist schooling shape teachers' resolve to prevent non-white children's cultures from being overlooked](racism-shapes-resolve-to-teach-childrens-cultures.md) — related
+- [A teacher whose home culture was excluded from school brought her home culture into her teaching so students could express and maintain their identities](teacher-brings-home-culture-into-teaching.md) — related
+- [Premodern cultures' narratives assimilate language to the world rather than vice versa, offering environmental educators place-bound narrative strategies](premodern-narratives-assimilate-language-to-world.md) — related

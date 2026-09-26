@@ -41,4 +41,6 @@ Multi-method evaluation across three studies (summer 1993, fall 1993, summer 199
 
 
 ## Related Claims
--
+- [CLASP succeeded in bringing ethnically diverse and underserved users into the library but programs often failed to create links to books, reading, or library services](clasp-diverse-users-missing-library-links.md) — related
+- [CLASP's impact centered on the number of programs offered rather than program type, with few differences between CLASP and non-CLASP library programs](clasp-impact-number-over-type.md) — related
+- [CLASP made limited progress on cooperative activities and little progress on developing replicable collaboration models](clasp-limited-collaboration-models.md) — related

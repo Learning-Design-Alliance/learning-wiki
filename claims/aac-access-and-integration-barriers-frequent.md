@@ -41,4 +41,6 @@ Item-level results from the same cross-sectional parent survey in Nablus. Barrie
 
 
 ## Related Claims
--
+- [Parents more often report initial difficulty accepting AAC than continued difficulty after time has passed](aac-acceptance-difficulty-declines-over-time.md) — related
+- [Parents of children with autism using AAC commonly report perceived benefits, most frequently increased communication opportunities](parents-report-high-perceived-aac-benefits-nablus.md) — related
+- [Parental awareness of alternative AAC systems is limited, and only about one-third agree AAC systems are suitable for all children](limited-parental-awareness-of-alternative-aac-systems.md) — related

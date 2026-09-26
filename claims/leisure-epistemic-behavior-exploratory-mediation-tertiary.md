@@ -41,4 +41,6 @@ Exploratory post hoc mediation analyses repeated separately for each of the four
 
 
 ## Related Claims
--
+- [Epistemic behavior does not mediate the relation of cognitive ability or curiosity with academic performance](epistemic-behavior-fails-to-mediate-academic-performance.md) — reports the opposite
+- [Epistemic behavior relates to curiosity but not to cognitive ability](epistemic-behavior-relates-curiosity-not-cognitive-ability.md) — related
+- [Neither cognitive ability, curiosity, nor epistemic behavior significantly predicts tertiary academic performance in the heterogeneous sample](no-significant-predictors-tertiary-gpa.md) — related

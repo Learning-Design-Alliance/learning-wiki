@@ -76,3 +76,4 @@ The chapter reports Kupper-Tetzel et al. (2014), with relearning sessions expand
 
 ## Related Claims
 - [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md)
+- [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related

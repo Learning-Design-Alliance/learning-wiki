@@ -41,4 +41,6 @@ Paired t-tests in the retrospective survey of 46 former seminar students showed 
 
 
 ## Related Claims
--
+- [Students' evaluation of group processing as a positive contribution to learning increased significantly from the beginning to the end of the course and again to the time of survey](group-processing-perceived-value-increases-over-time.md) — related
+- [Peer Assessment Improves Performance](peer-assessment-improves-performance.md) — related
+- [Most former students reported using group processing after their seminar and rated it as transferable to other contexts](group-processing-skills-transferable-to-other-contexts.md) — related

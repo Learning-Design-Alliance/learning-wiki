@@ -42,4 +42,9 @@ Descriptive statistics (means and SDs) from the study's survey of 47 graduate st
 
 
 ## Related Claims
--
+- [Co-regulation shows stronger relationships with the three CoI presences than self-regulation in an online case-based course](co-regulation-stronger-presence-relationships-than-self-regulation.md) — related
+- [Cognitive engagement is the least well-defined engagement perspective and conflates with motivational constructs](cognitive-engagement-least-well-defined.md) — related
+- [Students in an accelerated online MBA program experience their courses as a community of inquiry, with all three CoI presences rated above 4.0 on a 5-point scale](mba-students-experience-courses-as-coi.md) — related
+- [CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while facilitation behaviors and resolution-phase items rated below 4.0](coi-presence-uneven-profile-mba.md) — related
+- [Social presence shows the strongest association with metacognition in an online case-based course, while teaching presence shows no significant relationship](social-presence-strongest-metacognition-association-cbi.md) — related
+- [Self-regulation and co-regulation are significantly and highly correlated in an online case-based course](self-co-regulation-highly-correlated-online-cbi.md) — related

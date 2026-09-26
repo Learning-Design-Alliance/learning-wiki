@@ -46,3 +46,7 @@ This is a single revelatory case (q1); it demonstrates that the restorying mecha
 
 ## Related Claims
 - (none yet linked)
+- [Critical speculative design pedagogy supports critical consciousness and justice-oriented sensemaking in science](critical-speculative-design-supports-critical-consciousness-in-science.md) — related
+- [Identity-centered making supports simultaneous STEM engagement and identity affirmation for queer youth](identity-centered-making-supports-stem-engagement-and-identity-affirmation.md) — related
+- [Participant examples support identity reconstruction through academic content](participant-examples-support-identity-reconstruction-through-academic-content.md) — related
+- [Justice-oriented youth maker programs support redefinition of entrepreneurialism and resistance to structural misrecognition](justice-oriented-youth-maker-programs-support-critical-identity-and-resistance.md) — related

@@ -54,3 +54,4 @@ This meta-analysis pooled true- and quasi-experimental studies of handwriting in
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — letter strokes and letter groups are learned as chunks, reducing the load of transcription
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — effortful, non-automatic handwriting consumes working memory that would otherwise support content generation
 - [The expertise reversal effect](../theories/expertise-reversal-effect.md) — highly scaffolded formation instruction may become redundant for learners who have already automatized letter forms
+- [Different types of handwriting interventions produce equivalent gains in handwriting legibility and fluency](handwriting-intervention-type-equivalence.md) — related

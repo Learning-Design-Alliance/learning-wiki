@@ -41,4 +41,10 @@ Conceptual argument citing Roth and Lee's Grade 7 environmental-science project,
 
 
 ## Related Claims
--
+- [CHAT references are noticeably absent from commonly cited CSL literature despite shared commitments with Dewey and Freire](chat-absent-from-csl-literature.md) — related
+- [CHAT is an interventionist research method aimed at transformation, but tensions persist between adaptive and transformative orientations](chat-interventionist-transformation-tensions.md) — related
+- [Contradictions surrounding the OLR drove students to appropriate it, transforming it from an object of confusion into an instrument of critical reflection](contradictions-transform-olr-into-reflection-instrument.md) — a narrower finding that bears on this claim
+- [Cognitive disequilibrium motivates conceptual change](cognitive-disequilibrium-motivates-conceptual-change.md) — related
+- [Knowledge development as social collaboration: ZPD and collective activity systems support CSL learning networks](chat-knowledge-development-social-collaborative-csl.md) — related
+- [CHAT's rejection of the theory/practice divide frames CSL as boundary crossing that develops connective skills](chat-rejects-theory-practice-divide-csl-boundary-crossing.md) — related
+- [Individual user goals, such as avoiding cognitive load, can contradict the objectives of the educational community](user-goals-contradict-educational-objectives.md) — a narrower finding that bears on this claim

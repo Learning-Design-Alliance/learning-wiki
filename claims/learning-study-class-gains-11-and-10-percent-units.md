@@ -41,4 +41,5 @@ Group-level analysis of pre- and post-tests in three grade-6 classes (23, 22, an
 
 
 ## Related Claims
--
+- [Students' explanation (argument, presentation) levels improved after the intervention, though gains were smaller than in vocabulary](explanation-levels-improve-post-test.md) — related
+- [Class 6B increased 41 percent units on one task addressing the critical aspect of dividing a whole in similar parts](task-level-41-percent-unit-gain-dividing-whole-similar-parts.md) — a narrower finding that bears on this claim

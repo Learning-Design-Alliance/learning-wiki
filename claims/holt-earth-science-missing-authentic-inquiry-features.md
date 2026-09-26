@@ -41,4 +41,7 @@ Analysis of 22 inquiry tasks in the sampled pages against the modified Chinn and
 
 
 ## Related Claims
--
+- [Inquiry tasks in the Holt Earth Science curriculum rely mainly on inductive and abductive methods, with deductive reasoning used least](holt-earth-science-induction-abduction-dominate.md) — related
+- [Forestructures of understanding are associated with the majority of several key authentic inquiry features, up to 100% for complex transformation of observation and developing theories about mechanisms](forestructures-associated-authentic-features.md) — related
+- [The abductive method is the logical reasoning method most associated with features of authentic scientific inquiry in the curriculum](abductive-method-associated-authentic-inquiry.md) — related
+- [Historical-method inquiry tasks center on uniformitarianism and taxonomy construction, and evaluating independent lines of inquiry for convergence is entirely absent](historical-method-uniformitarianism-dominates.md) — related

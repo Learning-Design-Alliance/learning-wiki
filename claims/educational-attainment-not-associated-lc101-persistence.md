@@ -41,4 +41,8 @@ Null finding from the generalized ordered logistic regression on 524 LC101 parti
 
 
 ## Related Claims
--
+- [Black students are more likely to complete the apprenticeship component of LC101 when accounting for all other factors, suggesting alternative STEM programs may represent vehicles for racial equity in STEM](black-students-more-likely-complete-apprenticeship.md) — related
+- [Almost 10 percent of students from the first two cohorts of the CNMCC Breaking Through Construction Apprenticeship Program entered a formal apprenticeship](breaking-through-cohorts-enter-apprenticeships.md) — related
+- [HackerRank test scores and prior coding experience are significantly associated with increased odds of persistence across both the coursework and apprenticeship phases of the LC101 program](test-scores-prior-coding-experience-predict-lc101-persistence.md) — related
+- [Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence](qualitative-experience-themes-lc101-persistence.md) — related
+- [Mentorship timing has divergent effects on LC101 persistence: post-application mentorship increases course completion odds while pre-application mentorship decreases persistence across both phases](mentorship-timing-divergent-persistence-effects.md) — related

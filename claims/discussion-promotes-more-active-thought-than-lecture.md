@@ -76,3 +76,16 @@ The core interpretive point is that "is lecture effective?" is the wrong questio
 
 ## Related Claims
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — a related, more recent body of evidence on when moving away from pure lecture format matters most
+- [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](active-collaborative-approaches-higher-order-thinking.md) — related
+- [Guided Inquiry Outperforms Pure Discovery](guided-inquiry-outperforms-pure-discovery.md) — related
+- [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — related
+- [E-teachers reported shifting from lecture-based, teacher-as-source teaching toward a facilitator role in the online classroom](e-teacher-shift-to-facilitator-role.md) — related
+- [Critical thinking gains were significant for creative critical thought but not for logic and reasoning](ideation-discussion-creative-thought-gains-not-logic.md) — related
+- [Inquiry-first teaching stimulates interest, sharpens reading, and helps organize course work](inquiry-first-stimulates-interest-and-organizes-course.md) — related
+- [Merrill's First Principles may provide a more comprehensive synthesis than prior lesson-design frameworks](merrill-framework-more-comprehensive-synthesis.md) — related
+- [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
+- [Sharing experiences in class discussion modifies learners' attitudes and interpretations](sharing-experiences-modifies-attitudes.md) — related
+- [Socratic dialogue by a skilled but inefficient teaching assistant underperformed: lengthy, unsummarized checkpoints may leave students without clear understanding](socratic-dialogue-needs-efficiency-and-summaries.md) — related
+- [Review reports students did not recognize the key points an exemplary lecturer presented in a proof](students-did-not-recognize-lecture-proof-key-points.md) — related
+- [Research has not clearly supported wet laboratory work for product-centered goals](wet-lab-not-supported-for-product-goals.md) — related
+- [Wireless keypads with immediate-response questions convert a passive lecture audience into active learners by providing rapid feedback](wireless-keypads-convert-passive-audience-to-active-learners.md) — related

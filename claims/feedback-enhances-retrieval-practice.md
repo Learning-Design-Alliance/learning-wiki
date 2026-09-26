@@ -72,4 +72,7 @@ Pashler, H., Cepeda, N. J., Wixted, J. T., & Rohrer, D. (2005). When does feedba
 - [Retrieval practice improves long-term retention.](retrieval-practice-improves-retention.md) — the base effect that feedback is hypothesized to augment
 - [Feedback improves learning outcomes.](feedback-improves-learning.md) — the general feedback effect this claim situates within retrieval contexts
 - [Pretesting enhances learning from subsequent instruction.](pretesting-enhances-learning.md) — related "errorful generation then correction" mechanism
-- [Spacing improves retention.](spacing-improves-retention.md) — often combined with retrieval and feedback in durable learning designs
+- [Spacing improves retention.](spaced-practice-improves-retention.md) — often combined with retrieval and feedback in durable learning designs
+- [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — related
+- [Feedback Use Improves Learning](feedback-use-improves-learning.md) — related
+- [High-confidence errors lead to better retention after correction than low-confidence errors.](high-confidence-errors-improve-retention.md) — related

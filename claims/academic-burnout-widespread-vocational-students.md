@@ -41,4 +41,8 @@ Burnout was measured with the revised MBI-GS covering emotional exhaustion, cyni
 
 
 ## Related Claims
--
+- [Half of reported developmental barriers stem from academic-related challenges (50.39%)](academic-challenges-half-of-development-barriers.md) — related
+- [Depressive symptoms are detected in 26.35% of secondary vocational students](vocational-students-depression-detection-26-35-percent.md) — related
+- [Only 4.3% of surveyed secondary vocational students meet mental health knowledge standards](vocational-students-low-mental-health-literacy-4-3-percent.md) — related
+- [Severe depressive symptoms co-occur with self-harm and suicidal tendencies among vocational students](severe-depression-co-occurs-self-harm-suicidal-tendencies.md) — related
+- [Interpersonal relationships are the most prominent student concern in qualitative interviews (30.61% of coded responses)](interpersonal-relationships-top-student-concern-30-61.md) — related

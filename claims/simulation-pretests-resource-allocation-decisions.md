@@ -41,4 +41,4 @@ This is the report's introductory argument (Chapter 1) for simulation as a manag
 
 
 ## Related Claims
--
+- [Simulation allows the expense and effect of a policy change to be evaluated before implementation](simulation-evaluates-policy-change-before-implementation.md) — possibly the same claim (merge candidate)

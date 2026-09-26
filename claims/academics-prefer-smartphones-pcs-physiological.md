@@ -41,4 +41,8 @@ Content analysis of Table 10 tool frequencies from the 20-academician case study
 
 
 ## Related Claims
--
+- [Academics most often name Facebook as the Web 2.0 tool they use to realise belonging and love needs](academics-prefer-facebook-belonging-love.md) — related
+- [Academics most often name Gmail and Google Drive as the Web 2.0 tools they use to realise safety needs](academics-prefer-gmail-google-drive-safety.md) — related
+- [Academics most often name Instagram and LinkedIn as the Web 2.0 tools they use to realise esteem needs](academics-prefer-instagram-linkedin-esteem.md) — related
+- [Academics most often name YouTube and Instagram as the Web 2.0 tools they use to realise self-actualisation needs](academics-prefer-youtube-instagram-self-actualisation.md) — related
+- [Smartphone attachment is associated with impatience and impulsive behavior in young children, per cited literature](smartphone-attachment-impatience-impulsivity.md) — related

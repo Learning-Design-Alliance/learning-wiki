@@ -58,4 +58,4 @@ Same Mechanical Turk experiment and deck-distribution analysis (Fig. 15). Past t
 
 
 ## Related Claims
--
+- [Under the Leitner Queue Network model, raising the rate of new-item introduction beyond a threshold causes a phase transition in learning rate, which a Mechanical Turk vocabulary experiment reproduced.](leitner-queue-network-phase-transition-in-learning-rate.md) — possibly the same claim (merge candidate)

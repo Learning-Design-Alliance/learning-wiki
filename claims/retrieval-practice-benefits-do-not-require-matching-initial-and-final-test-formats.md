@@ -76,3 +76,9 @@ The chapter reports Rohrer et al. (2010), where "this retrieval practice activit
 
 ## Related Claims
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md)
+- [Initial multiple-choice tests with plausible, competitive alternatives outperformed initial short-answer tests on final questions that were related to but not directly tested initially](competitive-multiple-choice-alternatives-benefit-related-untested-questions.md) — a narrower finding that bears on this claim
+- [Retrieval practice effects on mediator-cued final tests have been positive, but Coppens et al. (2016) concluded the true effect may be only about 0.10 to 0.20](mediator-cued-final-test-effects-of-retrieval-practice-may-be-small.md) — related
+- [Retrieval practice instructions improved final recall of translations in Experiment 1](retrieval-instructions-improve-final-recall-exp1.md) — a narrower finding that bears on this claim
+- [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](less-initial-retrieval-support-produces-better-retention.md) — related
+- [Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not](retrieval-practice-improves-final-inference-and-transfer-questions.md) — related
+- [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) — related

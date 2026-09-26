@@ -41,4 +41,4 @@ Observational comparison of MCAT scores for students who took Physics 5 (N = 386
 
 
 ## Related Claims
--
+- [Bioscience students who took the CLASP series had statistically significantly higher upper-division GPAs than students who took the traditional Physics 5 series](clasp-higher-udgpa-than-physics5.md) — related

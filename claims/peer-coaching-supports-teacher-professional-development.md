@@ -41,4 +41,6 @@ The article's review asserts that peer coaching "has been proved as a highly eff
 
 
 ## Related Claims
--
+- [Facilitated self-directed learning and peer discussion empower adult learners](facilitated-self-directed-learning-empowers-adults.md) — related
+- [Video-based self-observation of teaching was among the most powerful parts of the coaching process for teachers](video-self-observation-powerful-coaching-component.md) — a narrower finding that bears on this claim
+- [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — related

@@ -41,4 +41,8 @@ Authors' evaluative conclusion (type e), not a tested result: the IRT advantages
 
 
 ## Related Claims
--
+- [Items flagged as DIF in booklet comparisons displayed non-uniform DIF in their item characteristic curves](flagged-dif-items-displayed-non-uniform-dif.md) — related
+- [The ICC and LDF methods identify substantially different sets of items as exhibiting DIF on a state science performance assessment](icc-and-ldf-methods-identify-different-dif-items.md) — related
+- [ICC method flags seven items with the largest DIF indices, two of which show slight nonuniform DIF that the unsigned-area measure understates](icc-identifies-seven-largest-dif-items.md) — related
+- [Seven items exhibit absolute gender DIF by the LDF method, flagged when the total-score line falls outside .95 confidence bands](ldf-identifies-seven-absolute-dif-items.md) — related
+- [The assessment violates IRT assumptions of unidimensionality and local independence, which the authors identify as a likely cause of the method discrepancy](irt-assumption-violations-cause-dif-method-discrepancy.md) — related

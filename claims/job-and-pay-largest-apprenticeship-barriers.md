@@ -41,4 +41,7 @@ Descriptive analysis of survey-reported reasons for non-persistence in the appre
 
 
 ## Related Claims
--
+- [Black students are more likely to complete the apprenticeship component of LC101 when accounting for all other factors, suggesting alternative STEM programs may represent vehicles for racial equity in STEM](black-students-more-likely-complete-apprenticeship.md) — related
+- [Interest alignment is highest among course completers while economic motivations (higher pay, better benefits, increased stability) are highest among non-completers](interest-alignment-vs-economic-motivations-persistence.md) — related
+- [Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence](qualitative-experience-themes-lc101-persistence.md) — related
+- [Time constraints (47.3%) and course difficulty (27.7%) are the two largest barriers to completing the LC101 coursework phase](time-and-difficulty-largest-coursework-barriers.md) — related

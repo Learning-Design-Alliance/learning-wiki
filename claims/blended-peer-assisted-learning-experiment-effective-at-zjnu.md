@@ -41,4 +41,5 @@ The article's application section reports a case in which a blended Distance Edu
 
 
 ## Related Claims
--
+- [Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — a broader claim this one bears on
+- [Online peer assisted learning communities foster informal learning and spontaneous interest-based groups](online-peer-assisted-learning-fosters-informal-learning.md) — a broader claim this one bears on

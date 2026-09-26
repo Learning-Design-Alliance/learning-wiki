@@ -41,4 +41,4 @@ Review of longitudinal assessments and retrospective evidence on expert developm
 
 
 ## Related Claims
--
+- [Heritability of everyday abilities cannot be extrapolated to expert performance; twins almost never reach elite levels](no-heritability-extrapolation-to-expert-performance.md) — related

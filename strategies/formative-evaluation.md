@@ -37,7 +37,7 @@ Formative evaluation is among the highest-yield interventions in education; revi
 #### Implementation Variability
 - **Instructor-driven:** minute papers, clicker questions, exit tickets — instructor interprets and adjusts
 - **Peer-mediated:** structured peer review against criteria; requires training to be reliable
-- **Self-mediated:** learners judge their work against exemplars, building self-regulation [Self-assessment against criteria supports self-regulated learning.](../claims/self-assessment-against-criteria-supports-self-regulated-learning.md) [+M]
+- **Self-mediated:** learners judge their work against exemplars, building self-regulation [Self-assessment against criteria supports self-regulated learning.](../claims/self-assessment-improves-self-regulated-learning.md) [+M]
 - **System-mediated:** adaptive platforms adjust task difficulty from response data ([Adaptive Difficulty](../elements/adaptive-difficulty.md))
 
 ### Target Learners

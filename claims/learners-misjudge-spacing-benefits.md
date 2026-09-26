@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: learners-misjudge-spacing-benefits
+aliases: [learners-misjudge-spacing]
 evidence_strength: 
 sources:
   - id: kornell-bjork-2008
@@ -65,9 +66,32 @@ Participants used a web-based programme to learn GRE-type vocabulary word pairs,
 
 **Open questions.** Both recorded studies (painting-style induction and flashcard vocabulary) were read as abstracts, which report no effect sizes. Judgments-of-learning studies comparing massed and spaced predictions, and whether the misjudgment persists after learners see their own results, remain to be recorded.
 
+*Merged from “Learners misjudge the benefits of spaced practice” (learners-misjudge-spacing):* **The illusion of massing.** Spacing a study session feels harder and less fluent than massing: revisiting material after a delay produces more retrieval difficulty, which learners misread as poor learning. Massed practice, by contrast, produces immediate fluency that learners mistake for durable mastery. This is a case where subjective judgments of learning diverge sharply from actual long-term retention — the same dissociation that underlies other fluency-based misjudgments such as rereading and highlighting.
+
+**Consequences for self-regulated study.** Because most study scheduling is learner-controlled, this misjudgment is practically consequential: students who plan review sessions by what "feels" effective will cram before assessments and rarely revisit material at expanding intervals. This places the illusion squarely within the domain of [Self-Regulated Learning](../theories/self-regulated-learning.md) — the strategy-selection stage of self-regulated study is corrupted even when learners are otherwise motivated and monitoring their progress. Corrective feedback alone is often insufficient, because the error is experienced at the moment of study rather than at the moment of test. Explicit instruction about desirable difficulties, combined with scheduling tools or instructor-imposed spaced review, can work around the bias — see [Cognitive Load Theory](../theories/cognitive-load-theory.md) for the broader resource-management context and [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) for a related case where perceived and actual ease diverge.
+
+**Boundary conditions.** The misjudgment is strongest for verbal, fact-like material where massing produces rapid apparent fluency; learners with domain expertise may judge spacing more accurately because they have experienced delayed retrieval success — a moderation consistent with the general pattern described by the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md), in which instructional conditions that help novices are judged and used differently by more advanced learners. The illusion also weakens when learners receive test-based feedback on spaced versus massed conditions rather than relying on study-phase impressions.
+
+**Design implications.** Where the schedule can be controlled by the instructor rather than the learner — e.g., cumulative quizzing, automatically rescheduled review in [adaptive learning](../patterns/adaptive-learning.md) systems — the misjudgment becomes moot; this is one mechanism by which [adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) for self-directed study. Where scheduling cannot be system-controlled, designers should treat the illusion itself as a training target, teaching learners to distrust fluency as a cue for learning and to prefer schedules that feel harder.
+
+**Open questions.** Both studies recorded above were read as abstracts and report no effect sizes. How large the misjudgment is, and whether it holds in authentic course settings rather than laboratory tasks, remain to be recorded.
+
 ## Related Claims
 
 - [Spaced practice improves long-term retention](spaced-practice-improves-retention.md) — the effectiveness claim that learners' scheduling misjudgments prevent them from exploiting
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — shares the theme that subjective experience during study is an unreliable guide to learning outcomes
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — the broader framework in which performance during instruction diverges from durable learning
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — another case where structural conditions of study, not learner intuition, determine retention
+- [Self-Regulated Learning](../theories/self-regulated-learning.md) — the framework in which learners' scheduling decisions are made, and where this illusion does its damage
+- [Expertise Reversal Effect](../theories/expertise-reversal-effect.md) — expertise moderates how learners respond to and judge instructional conditions
+- [Adaptive learning](../patterns/adaptive-learning.md) — system-controlled scheduling sidesteps learner misjudgment entirely
+- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — algorithmic scheduling is one route to removing the scheduling decision from the learner
+- [Considering The Opposite Reduces Bias](considering-the-opposite-reduces-bias.md) — related
+- [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
+- [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — related
+- [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
+- [Learners Misjudge Retrieval Benefit](learners-misjudge-retrieval-benefit.md) — related
+- [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
+- [Distributed Practice Improves Retention](distributed-practice-improves-retention.md) — related
+- [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
+- [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) — related

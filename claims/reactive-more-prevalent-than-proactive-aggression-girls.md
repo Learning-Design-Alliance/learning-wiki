@@ -41,4 +41,6 @@ Paired comparison of reactive and proactive aggression scores in the study of 44
 
 
 ## Related Claims
--
+- [Both reactive and proactive aggression correlate positively with mild deviance, serious deviance, self-disclosure, and loyalty among high school girls](aggression-correlates-peer-deviance-peer-relations-girls.md) — related
+- [Self-disclosure, loyalty, and mild deviance significantly and positively predict reactive aggression among high school girls](self-disclosure-loyalty-mild-deviance-predict-reactive-aggression-girls.md) — related
+- [A two-factor (reactive–proactive) model of the Turkish RPQ fits adolescent data better than a one-factor general aggression model](rpq-two-factor-model-fits-better-turkish-adolescents.md) — related

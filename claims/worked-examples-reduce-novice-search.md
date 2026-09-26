@@ -49,3 +49,6 @@ The claim is strongest for novices. Once learners already possess the underlying
 - [Pairing worked examples with practice or fading supports transfer better than examples alone.](worked-examples-with-practice-improve-transfer.md)
 - [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md)
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](worked-examples-example-problem-sequences.md)
+- [Worked examples improve mathematics performance, especially for novices.](worked-examples-improve-math-performance.md) — a narrower finding that bears on this claim
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on
+- [Example-problem sequences reduce cognitive load and improve learning outcomes.](example-problem-sequences-reduce-cognitive-load.md) — related

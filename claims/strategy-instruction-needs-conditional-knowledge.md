@@ -73,3 +73,6 @@ This is the source paper that introduces conditional knowledge as one of three c
 - [Self-regulated learning](../theories/self-regulated-learning.md) — the theoretical framework in which conditional knowledge drives strategy selection and adaptation
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — explains why conditional instruction can be redundant for advanced learners
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — explains why heavy conditional discussion can overload novices before procedural fluency
+- [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — a broader claim this one bears on
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
+- [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — related

@@ -69,5 +69,9 @@ This meta-analysis updated earlier work (Niemiec, Sikorski, & Walberg) on giving
 
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — the load-reduction mechanism that learner pacing is hypothesized to support
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — segmenting content is the design-side partner to learner pacing control
-- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md) — expertise reversal may moderate who benefits from pacing control
+- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — expertise reversal may moderate who benefits from pacing control
 - [Clear structure improves learning.](clear-structure-improves-learning.md) — well-structured segments make learner-controlled pacing effective rather than merely available
+- [Cognitive Load Management](cognitive-load-management.md) — related
+- [Forced pacing eliminates positive transfer from computer aiding and leads subjects to use strategies requiring many more tests than necessary](forced-pacing-eliminates-aiding-transfer.md) — related
+- [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — related
+- [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — a broader claim this one bears on

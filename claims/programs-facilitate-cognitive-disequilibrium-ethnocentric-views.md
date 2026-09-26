@@ -41,4 +41,5 @@ Authors' program-design recommendation in the curriculum-content discussion, pre
 
 
 ## Related Claims
--
+- [Egalitarian graduate program design supports culturally responsive leadership development](egalitarian-program-design-supports-culturally-responsive-leadership.md) — related
+- [Interracial interaction is a key component of program design for developing culturally responsive leaders](interracial-interaction-key-to-program-design.md) — related

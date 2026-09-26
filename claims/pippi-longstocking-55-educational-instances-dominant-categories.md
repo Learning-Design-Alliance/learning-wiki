@@ -41,4 +41,5 @@ Interpretive content analysis of three Pippi Longstocking books, with deductive 
 
 
 ## Related Claims
--
+- [Pippi's specific behaviors in the series instantiate Pragmatism, Reconstructionism, and Existentialism, including rejecting imposed learning decisions and reconstructing assessment.](pippi-instantiates-contemporary-philosophies.md) — a broader claim this one bears on
+- [Pippi Longstocking portrays a clash between contemporary educational philosophies (embodied by Pippi) and an Essentialist understanding (embodied by the other social agents).](pippi-versus-society-educational-philosophy-clash.md) — related

@@ -41,4 +41,6 @@ Multiple linear regression (Table 8) of the 455-respondent survey. The article p
 
 
 ## Related Claims
--
+- [Leadership competence is the strongest predictor of governance effectiveness in Vietnamese universities](leadership-strongest-predictor-vietnamese-governance.md) — related
+- [The policy-legal framework is the second strongest predictor of governance effectiveness in Vietnamese universities](policy-legal-second-predictor-governance.md) — related
+- [A six-factor measurement model of university governance shows convergent validity in the Vietnamese context](six-factor-governance-model-convergent-validity.md) — related

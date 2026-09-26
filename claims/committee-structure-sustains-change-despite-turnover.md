@@ -41,4 +41,6 @@ The authors' expert interpretation from consulting across many districts, not a 
 
 
 ## Related Claims
--
+- [Resolving a participation double-bind requires redesigning activity structures, not just adding outreach](resolving-participation-double-bind-requires-redesigned-activity-structures.md) — related
+- [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
+- [Female principals maintained autonomy and connectedness despite hierarchical bureaucratic structures, and reported no isolation](principals-maintain-connectedness-despite-bureaucracy.md) — related

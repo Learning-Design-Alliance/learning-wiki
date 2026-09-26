@@ -41,4 +41,5 @@ The review reports, citing Wolfgang, Stannard, and Jones, a longitudinal study r
 
 
 ## Related Claims
--
+- [Block Play Predicts Math Achievement](block-play-predicts-math-achievement.md) — related
+- [Spatial Skills Improve Through Block Building](spatial-skills-improve-through-block-building.md) — related

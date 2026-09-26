@@ -42,4 +42,7 @@ Empirical verification on the 911-candidate, 50-item Selection Test data. The co
 
 
 ## Related Claims
--
+- [Test discriminating value equals the coefficient of variation of test scores (tan∅ = SD/mean)](test-discriminating-value-cv.md) — related
+- [Point-biserial item-total correlation is negatively related to test discriminating value and can be expressed via item and test difficulty and discrimination parameters](point-biserial-negative-test-discrimination-relation.md) — related
+- [Intersection point k0 of item difficulty and discriminating curves provides a data-driven item-deletion criterion](k0-intersection-item-deletion-criterion.md) — related
+- [Test difficulty value defined as ratio of observed to maximum score vector length times cosine of their angle equals test mean divided by number of items](test-difficulty-value-cosine-definition.md) — related

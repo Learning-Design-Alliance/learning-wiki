@@ -60,3 +60,7 @@ Table 2 descriptive statistics from the same survey: the highest dimensions were
 ## Related Claims
 - [Pe Teacher Educational Philosophy Beliefs Differ By Gender](pe-teacher-educational-philosophy-beliefs-differ-by-gender.md)
 - [Pe Teacher Essentialism Rises And Progressivism Falls With Seniority](pe-teacher-essentialism-rises-and-progressivism-falls-with-seniority.md)
+- [Majority of classroom teachers adopt experimentalist philosophy](classroom-teachers-mostly-adopt-experimentalism.md) — related
+- [Physical education teachers working in high school endorse perennialism more than those in secondary school, with no significant school-type difference in the other four philosophies](high-school-pe-teachers-endorse-perennialism-more-than-secondary-school-teachers.md) — related
+- [Physical education teachers studying in a graduate program endorse progressivism, perennialism and essentialism more than teachers with an undergraduate degree](graduate-educated-pe-teachers-endorse-progressivism-perennialism-and-essentialism-more.md) — related
+- [Student-centered philosophies correlate with personal, facilitator and delegator teaching styles](student-centered-philosophies-correlate-student-centered-styles.md) — related

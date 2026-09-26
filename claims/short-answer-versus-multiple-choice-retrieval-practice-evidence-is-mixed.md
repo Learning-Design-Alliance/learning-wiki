@@ -109,4 +109,11 @@ The chapter reports laboratory experiments by Smith and Karpicke (2014), includi
 
 
 ## Related Claims
--
+- [Whether prompting students to construct explanations during retrieval adds benefit beyond initial free recall is mixed across studies](adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects.md) — related
+- [Initial multiple-choice tests with plausible, competitive alternatives outperformed initial short-answer tests on final questions that were related to but not directly tested initially](competitive-multiple-choice-alternatives-benefit-related-untested-questions.md) — related
+- [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective](feedback-after-multiple-choice-tests-halves-lure-intrusions.md) — related
+- [Short-answer (production) and multiple-choice (recognition) retrieval practice produce no statistically significant difference in undergraduates' reading comprehension on a final MCQ test](production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension.md) — related
+- [Renewable assignments such as student-created quiz questions transcend classroom boundaries and can ameliorate economic injustice](renewable-assignments-economic-justice.md) — related
+- [The benefits of retrieval practice do not depend on an exact match between initial retrieval practice conditions and the final test format](retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats.md) — related
+- [Initial short-answer tests outperform initial multiple-choice tests mainly when feedback follows them; without feedback, the higher initial success of multiple-choice tests can favor multiple-choice](feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice.md) — related
+- [Having more multiple-choice alternatives benefits later retention when initial retrieval success is high but hurts learning when it is low](effect-of-more-multiple-choice-alternatives-depends-on-initial-retrieval-success.md) — related

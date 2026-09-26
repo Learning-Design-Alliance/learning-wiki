@@ -41,4 +41,4 @@ Test AUC and RMSE comparison (Table 3) of BKTransformer against DKT, SAKT, and B
 
 
 ## Related Claims
--
+- [SAKT underperforms DKT on all nine datasets, contradicting previously reported results](sakt-underperforms-dkt-all-datasets.md) — related

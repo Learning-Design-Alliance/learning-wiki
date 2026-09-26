@@ -41,4 +41,7 @@ Transcript analysis of the [01:47]–[02:17] exchange in Section 4.A.1, where Ka
 
 
 ## Related Claims
--
+- [Contextual micro-features (worksheet wording, salient length differences, matching part-whole structure) support persistence of the less-distance-implies-less-time intuition](contextual-features-stabilize-distance-time-inference.md) — a broader claim this one bears on
+- [The physical stability of material artifacts such as stacked tickertape strips and worksheets stabilizes students' attention, action, and knowledge use](material-artifact-stability-stabilizes-thinking.md) — related
+- [A network of three mutually overlapping intuitive ideas (less distance implies less time, bunched up means faster, faster implies less time) stabilizes students' initial thinking](network-of-intuitive-ideas-stabilizes-thinking.md) — related
+- [Students' collective understanding during a physics tutorial alternates repeatedly between two distinct interpretations of tickertape distance rather than changing once](student-understanding-alternates-between-local-coherences-tickertape.md) — related

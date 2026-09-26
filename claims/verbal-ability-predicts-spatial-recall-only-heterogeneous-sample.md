@@ -58,4 +58,5 @@ Discussion of the high school intercorrelation matrix (n=64), where Verbal Abili
 
 
 ## Related Claims
--
+- [College and high school samples differed significantly only in verbal ability, with college students higher](college-advantage-limited-to-verbal-ability.md) — related
+- [Field-dependence-independence and figural creativity significantly predict spatial recall accuracy in both high school and college samples](fdi-figural-creativity-predict-spatial-recall.md) — related

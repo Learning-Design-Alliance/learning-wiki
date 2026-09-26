@@ -41,4 +41,9 @@ The study's stated conclusion, a theoretical-historical reading of Dewey and Tur
 
 
 ## Related Claims
--
+- [Deweyan principles of democratic localization of the education system and school autonomy were never implemented in any period of Turkish education history](dewey-localization-autonomy-unimplemented-turkish-education.md) — a narrower finding that bears on this claim
+- [Turkish modernization is a state-centered project that is at the same time an education project, distinguishing it from Western examples](turkish-modernization-state-centered-education-project.md) — related
+- [Turkish education increasingly became an exam- and success-focused selective system prioritizing elite formation, contrary to Dewey's objection to exclusion and supervision mechanisms](turkish-education-selective-elite-formation-contrary-dewey.md) — a narrower finding that bears on this claim
+- [The Republic's top-down education method contradicts Dewey's pedagogical principles and his understanding of democracy](top-down-education-method-contradicts-dewey.md) — possibly the same claim (merge candidate)
+- [The Republic's education project espoused equality of opportunity and coeducation as discourse, but in practice a mentality turning these principles into their opposites prevailed](equality-discourse-versus-practice-turkish-education.md) — a narrower finding that bears on this claim
+- [The value-conflict taxonomy is applied to student rating of teaching at the University of Salzburg, surfacing conflicts such as bandwidth vs. fidelity](taxonomy-applied-salzburg-student-ratings.md) — related

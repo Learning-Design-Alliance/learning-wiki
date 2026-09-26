@@ -41,4 +41,8 @@ Theoretical argument in the 'Assimilating body and narrative to place' section. 
 
 
 ## Related Claims
--
+- [The narratives of premodern mythologies and postmodern physics accept that the creation of meaning in the world is a human and communal responsibility, which modern science fails to do](meaning-creation-human-communal-responsibility.md) — related
+- [Modernist discourses have produced contradictory environmental effects, raising awareness of problems while helping cultivate stories that construe the earth as an object of instrumental value](modernist-discourses-contradictory-environmental-effects.md) — related
+- [The Western linear, material construction of time is only one among many constructions of reality, and deconstructing it is another step toward reconstructing the relationship with the earth](western-linear-time-one-construction-among-many.md) — related
+- [Deconstructing the modern metaphors of nature cultivated by modern science and industrialism is a first step toward reconstructing relationships with the earth](deconstructing-modern-nature-metaphors-first-step.md) — related
+- [The mismatch between school and home cultures disadvantages students for learning, and the disadvantage stems from assimilation rather than diversity](school-home-culture-mismatch-assimilation-disadvantage.md) — related

@@ -58,4 +58,6 @@ A more sophisticated error analysis replacing each Table II coil data point in e
 
 
 ## Related Claims
--
+- [The magnet data cannot determine air permeability; only the magnet's dipole moment can be estimated](magnet-case-cannot-determine-air-permeability.md) — reports the opposite
+- [Magnetic field falls off as the inverse cube of axial distance for both a coil and a magnet](magnetic-field-inverse-cube-axial-distance-coil-magnet.md) — a broader claim this one bears on
+- [Magnetic field measured by a tablet magnetometer depends linearly on the coil current](tablet-magnetometer-linear-b-current-coil.md) — related

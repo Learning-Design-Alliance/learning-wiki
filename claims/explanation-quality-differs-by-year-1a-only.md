@@ -58,4 +58,6 @@ Chi-squared test on explanation-category distributions for Physics 1B 2010 (N=17
 
 
 ## Related Claims
--
+- [Question cognitive-level distributions differed significantly between years for Physics 1B but not Physics 1A](question-cognitive-level-differs-by-course-year.md) — related
+- [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — related
+- [Over 95% of student-authored questions included an explanation, mostly of good or excellent quality](student-explanations-majority-good-or-excellent.md) — related

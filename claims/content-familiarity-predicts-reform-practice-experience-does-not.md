@@ -58,4 +58,4 @@ Null finding from the same HLM model of 334 teachers: years of teaching experien
 
 
 ## Related Claims
--
+- [Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven](leader-teacher-diffusion-uneven.md) — related

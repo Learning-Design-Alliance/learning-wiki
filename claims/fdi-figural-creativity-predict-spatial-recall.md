@@ -41,4 +41,5 @@ Forward stepwise multiple regression on the high school sample (n=64) entered Fi
 
 
 ## Related Claims
--
+- [Verbal ability predicts spatial recall only for the less verbal, more heterogeneous high school sample, not for college students](verbal-ability-predicts-spatial-recall-only-heterogeneous-sample.md) — related
+- [Field-independent subjects more accurately reconstruct spatial arrays than field-dependent subjects](field-independent-better-map-feature-placement.md) — related

@@ -130,7 +130,7 @@ evidence_base:
       elements:
         - term: "spaced digital education — repeated learning sessions separated by prespecified time intervals"
           anchors:
-            - claims/spacing-improves-long-term-retention
+            - claims/spaced-practice-improves-retention
     - id: spaced-digital-simulation
       description: "Spaced digital simulation: simulation-based training distributed across repeated sessions."
       size:

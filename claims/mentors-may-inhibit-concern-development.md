@@ -41,4 +41,10 @@ Discussion-section comparison across the study's four volunteer groups, contrast
 
 
 ## Related Claims
--
+- [Discipline concerns declined for all four teacher groups over the school year](discipline-concern-declines-all-groups.md) — related
+- [Mentors' roles and practices differ by program context: local guides versus educational companions](mentor-context-shapes-local-guide-or-educational-companion.md) — related
+- [First-year teachers with mentors declined in self and task concerns and increased impact concerns over the school year](mentored-first-year-teachers-follow-fuller-progression.md) — related
+- [Reentry teachers without mentors made the greatest progress through Fuller's stages; reentry teachers with mentors developed very limitedly](reentry-without-mentors-greatest-fuller-progress.md) — a narrower finding that bears on this claim
+- [Teacher concern development is better characterized as progression and retreat than linear stage movement](teacher-concern-progression-and-retreat.md) — related
+- [Previous knowledge and management experiences can inhibit new teachers' learning of new classroom management models](prior-experience-barriers-to-new-management-models.md) — related
+- [First-year teachers without mentors declined in self and impact concerns but task concerns stayed at 50%](unmentored-first-year-task-concerns-flat.md) — related

@@ -41,4 +41,5 @@ Hierarchical regression on the 425-case formal sample: Model 1 (adjusted R2 = 0.
 
 
 ## Related Claims
--
+- [Lacquer-painting imagery characteristics are positively associated with aesthetic responses: sensible scene with emotional resonance, imaginable atmosphere with cognitive evaluation, and virtual-real imagination with behavioral intention](imagery-characteristics-associated-with-aesthetic-responses.md) — related
+- [Sensible scene shows a statistically distinguishable serial indirect association with behavioral intention through emotional resonance and cognitive evaluation in a constrained bootstrap model](serial-indirect-association-sensible-scene-to-behavioral-intention.md) — related

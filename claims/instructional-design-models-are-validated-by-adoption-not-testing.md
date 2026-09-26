@@ -49,3 +49,4 @@ A textbook chapter by a co-author of the *Survey of Instructional Design Models*
 
 ## Related Claims
 - [Design-based research asks one person to be researcher, designer, project manager and theorist, and those roles compete.](design-based-research-roles-compete-and-threaten-credible-claims.md) — another limit on how design knowledge is established
+- [The claim that computer simulation necessarily enforces clearer, more rigorous psychological theory specification does not hold up](simulation-rigor-enforcement-claim-overstated.md) — related

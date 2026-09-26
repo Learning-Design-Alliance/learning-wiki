@@ -41,4 +41,7 @@ CFA on the same survey (n = 1253) tested the institutional support measurement m
 
 
 ## Related Claims
--
+- [The ACE-HE measurement model of affective, behavioral, and cognitive engagement fits online/blended survey data well](ace-he-engagement-three-dimension-model-good-fit.md) — related
+- [Only support for affective engagement predicts its matching engagement dimension; behavioral and cognitive support do not, contradicting the ACE framework's alignment](affective-support-predicts-all-engagement-dimensions.md) — related
+- [Overall institutional support for academic engagement has an extremely strong positive relationship with overall academic engagement](overall-support-strongly-predicts-engagement.md) — related
+- [The three-dimension instructional design competence model fits the empirical data acceptably in CFA](idc-model-acceptable-cfa-fit.md) — related

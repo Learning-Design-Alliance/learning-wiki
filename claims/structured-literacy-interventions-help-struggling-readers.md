@@ -72,3 +72,11 @@ A meta-analysis of 24 identified studies (16 with sufficient data for pooling; 1
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — why unstructured or incidental approaches can overwhelm struggling readers
 - [Expertise reversal effect.](../theories/expertise-reversal-effect.md) — why highly explicit instruction may add little for already-fluent readers
 - [Direct instruction.](../patterns/direct-instruction.md) — the explicit, teacher-guided delivery model structured literacy depends on
+- [Direct instruction improves learning outcomes](direct-instruction-improves-outcomes.md) — related
+- [Disciplinary Literacy Instruction Improves Comprehension](disciplinary-literacy-instruction-improves-comprehension.md) — related
+- [Morphological Instruction Improves Literacy](morphological-instruction-improves-literacy.md) — related
+- [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — related
+- [Systematic Phonics Improves Word Reading](systematic-phonics-improves-word-reading.md) — related
+- [Phonics Instruction Outperforms Whole Word For Generalization](phonics-instruction-outperforms-whole-word-for-generalization.md) — related
+- [Scaffolded Close Reading Improves Comprehension For Struggling Readers](scaffolded-close-reading-improves-comprehension-for-struggling-readers.md) — related
+- [Phonological Awareness Training Improves Reading](phonological-awareness-training-improves-reading.md) — related

@@ -42,3 +42,8 @@ The paper reports this as an assertion by Bruffee, who drew on Oakeshott's idea 
 
 ## Related Claims
 - [Conversational Turns Predict Language Development](conversational-turns-predict-language-development.md)
+- [If writing and thinking are forms of conversation, collaborative learning is an extension of social constructionism into the composition classroom](collaborative-learning-is-an-extension-of-social-constructionism-into-composition.md) — related
+- [Collaborative writing methods such as peer criticism and group revision were in use before the collaborative learning movement](collaborative-writing-methods-predate-the-collaborative-learning-movement.md) — related
+- [Acting on the collaborative writing recommendations is argued to produce active student writers who attend to what their peers say](collaborative-writing-recommendations-argued-to-produce-active-student-writers.md) — related
+- [Reacculturation into a new community is argued to be virtually impossible alone and to require collaboration](reacculturation-into-a-new-community-requires-collaboration.md) — related
+- [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — related

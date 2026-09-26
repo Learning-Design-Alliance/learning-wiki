@@ -19,7 +19,7 @@ Writing to learn (WTL) uses writing as a vehicle for sense-making rather than as
 
 ## Design Implications
 
-Writing is generative: composing requires learners to retrieve knowledge, select what matters, and build explicit connections, which produces deeper processing than reading or listening alone [Bangert-Drowns et al.'s meta-analysis found small but consistent learning benefits from writing-to-learn interventions, strongest when writing included personal connection and metacognitive elements.](../claims/writing-to-learn-improves-content-learning.md) [+M]. The mechanism is elaboration plus retrieval — writing functions as a form of [Active Learning](../principles/active-learning.md) and [Elaborative Interrogation](elaborative-interrogation.md) in written form. Benefits are largest when prompts demand transformation (explain to a novice, argue a position, connect to experience) rather than transcription (copying or summarizing verbatim) [~M].
+Writing is generative: composing requires learners to retrieve knowledge, select what matters, and build explicit connections, which produces deeper processing than reading or listening alone [Bangert-Drowns et al.'s meta-analysis found small but consistent learning benefits from writing-to-learn interventions, strongest when writing included personal connection and metacognitive elements.](../claims/writing-to-learn-improves-understanding.md) [+M]. The mechanism is elaboration plus retrieval — writing functions as a form of [Active Learning](../principles/active-learning.md) and [Elaborative Interrogation](elaborative-interrogation.md) in written form. Benefits are largest when prompts demand transformation (explain to a novice, argue a position, connect to experience) rather than transcription (copying or summarizing verbatim) [~M].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Writing is generative: composing requires learners to retrieve knowledge, select
 - Adequate time; rushed writing degrades into listing
 
 #### Constraints
-- Effects are small on average and shrink when writing is purely expressive with no content demand [Bangert-Drowns et al. found journal-style expressive writing without content-specific prompts showed weaker effects on content learning.](../claims/writing-to-learn-improves-content-learning.md) [~M]
+- Effects are small on average and shrink when writing is purely expressive with no content demand [Bangert-Drowns et al. found journal-style expressive writing without content-specific prompts showed weaker effects on content learning.](../claims/writing-to-learn-improves-understanding.md) [~M]
 - Weak writers may spend so much capacity on transcription and mechanics that the intended elaboration never happens — a working-memory bottleneck [Cognitive overload degrades learning when task demands exceed available capacity.](../claims/cognitive-overload-degrades-learning.md) [-M]
 - Without follow-up (discussion, revision, feedback), WTL can become busywork with no consolidation
 - Not a substitute for direct instruction on content learners don't yet know; writing about material one has not understood produces fluent-sounding misconceptions

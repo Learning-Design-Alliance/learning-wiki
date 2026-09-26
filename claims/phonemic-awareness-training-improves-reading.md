@@ -57,3 +57,9 @@ This National Reading Panel meta-analysis pooled 52 peer-reviewed studies (96 tr
 - [Automatic word recognition frees resources for comprehension.](automatic-word-recognition-frees-resources-for-comprehension.md) — the downstream mechanism through which phonemic awareness is expected to benefit reading
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — relevant to why blending and segmenting routines must be automated to avoid overload during decoding
 - [Expertise reversal effect.](../theories/expertise-reversal-effect.md) — predicts fading benefits once learners can already decode, bounding when training should be delivered
+- [Increased cognitive flexibility may strengthen the effectiveness of phonemic awareness, reading, and spelling instruction for kindergarten and first-grade students with low cognitive flexibility](cf-training-may-strengthen-early-literacy-instruction.md) — a narrower finding that bears on this claim
+- [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related
+- [Phonological Awareness Training Improves Reading](phonological-awareness-training-improves-reading.md) — possibly the same claim (merge candidate)
+- [Structured Literacy Interventions Help Struggling Readers](structured-literacy-interventions-help-struggling-readers.md) — related
+- [Systematic Phonics Improves Word Reading](systematic-phonics-improves-word-reading.md) — related
+- [Phonics Instruction Outperforms Whole Word For Generalization](phonics-instruction-outperforms-whole-word-for-generalization.md) — related

@@ -41,4 +41,5 @@ Theoretical argument in the paper's reliability section. The authors argue that 
 
 
 ## Related Claims
--
+- [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) — related
+- [Multidimensional latent variable models rarely support more than about four to six latent variables, limiting fine-grained SKIVE modeling](latent-variable-models-limit-grain-size.md) — related

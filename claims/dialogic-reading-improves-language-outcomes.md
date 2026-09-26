@@ -71,3 +71,11 @@ A meta-analysis of 31 experiments and quasi-experiments (2,049 children) in whic
 - [Accessible vocabulary and syntax support comprehension.](../principles/accessible-vocabulary-syntax.md) — the adult's expansions must stay within the child's zone of comprehension
 - [Automatic word recognition frees resources for comprehension.](automatic-word-recognition-frees-resources-for-comprehension.md) — oral language built through dialogic reading underpins later decoding-to-comprehension transitions
 - [Audiobooks.](../elements/audiobooks.md) — a related but non-interactive read-aloud format lacking the dialogic feedback loop
+- [In teacher-led big-book reading, children exercise cognitive autonomy by making their own connections between spoken and written words within the activity's boundaries](big-book-reading-cognitive-autonomy.md) — related
+- [Conversational turn-taking predicts language development better than raw word count or socioeconomic status.](conversational-turns-predict-language-development.md) — related
+- [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-expressive-language.md) — possibly the same claim (merge candidate)
+- [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
+- [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
+- [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
+- [Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content](interactional-structures-shape-content-processing.md) — related
+- [A disadvantaged-child program with heavy oral language emphasis led all compared programs in cognitive gains](oral-language-emphasis-program-led-cognitive-gains.md) — related

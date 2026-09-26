@@ -19,7 +19,7 @@ Hyperlinked teaching provides students with direct avenues for further inquiry a
 
 ## Design Implications
 
-Hyperlinked teaching leverages learner choice and self-direction, which supports motivation when students perceive genuine autonomy [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. Its effectiveness, however, depends on structure: unguided exploration of linked resources is a form of minimally guided instruction and works poorly for novices [Minimal guidance is less effective than guided instruction for novices.](../claims/minimal-guidance-ineffective-for-novices.md) [-S]. Curated link sets, guiding questions, and a required synthesis product convert free browsing into purposeful inquiry.
+Hyperlinked teaching leverages learner choice and self-direction, which supports motivation when students perceive genuine autonomy [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. Its effectiveness, however, depends on structure: unguided exploration of linked resources is a form of minimally guided instruction and works poorly for novices [Minimal guidance is less effective than guided instruction for novices.](../claims/minimal-guidance-less-effective-for-novices.md) [-S]. Curated link sets, guiding questions, and a required synthesis product convert free browsing into purposeful inquiry.
 
 ### Context
 #### Requirements

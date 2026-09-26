@@ -41,4 +41,8 @@ Item-level survey results on AAC knowledge and perceived general suitability. "A
 
 
 ## Related Claims
--
+- [Barriers to integrating AAC into daily routines and accessing AAC programs are frequently reported despite high perceived benefits](aac-access-and-integration-barriers-frequent.md) — related
+- [Parents more often report initial difficulty accepting AAC than continued difficulty after time has passed](aac-acceptance-difficulty-declines-over-time.md) — related
+- [Parents of children with autism using AAC commonly report perceived benefits, most frequently increased communication opportunities](parents-report-high-perceived-aac-benefits-nablus.md) — related
+- [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md) — related
+- [Perceived AAC benefit score is positively correlated with the seven-item AAC implementation experience score](perceived-benefit-correlates-with-aac-experience.md) — related

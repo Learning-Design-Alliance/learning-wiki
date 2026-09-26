@@ -41,4 +41,6 @@ CFA (LISREL 8.51, maximum likelihood) on the Turkish RPQ administered to 728 hig
 
 
 ## Related Claims
--
+- [Both reactive and proactive aggression correlate positively with mild deviance, serious deviance, self-disclosure, and loyalty among high school girls](aggression-correlates-peer-deviance-peer-relations-girls.md) — related
+- [Reactive aggression is considerably more prevalent than proactive aggression among high school girls](reactive-more-prevalent-than-proactive-aggression-girls.md) — related
+- [Self-disclosure, loyalty, and mild deviance significantly and positively predict reactive aggression among high school girls](self-disclosure-loyalty-mild-deviance-predict-reactive-aggression-girls.md) — related

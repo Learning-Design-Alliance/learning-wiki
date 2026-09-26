@@ -41,4 +41,6 @@ Scheffe post hoc comparison following the ANOVA in Table 5 (avoidant n=33, mean 
 
 
 ## Related Claims
--
+- [Preservice teachers' epistemological beliefs differ significantly by learning style in all four dimensions](epistemological-beliefs-differ-by-learning-style.md) — a broader claim this one bears on
+- [Collaborative-style preservice teachers score higher on continuous and intentional thinking than avoidant and dependent styles](collaborative-style-higher-continuous-thinking.md) — related
+- [Independent-style preservice teachers score higher on open-mindedness than avoidant, collaborative, and competitive styles](independent-style-higher-open-mindedness.md) — related

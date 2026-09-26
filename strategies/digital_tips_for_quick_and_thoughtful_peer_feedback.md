@@ -19,7 +19,7 @@ This strategy uses digital platforms — shared documents, learning management s
 
 ## Design Implications
 
-Digital tools reduce the logistical friction that makes peer feedback slow and shallow — collecting, distributing, and returning work — freeing class time for the cognitively demanding part: evaluating a peer's work against criteria. Feedback improves learning most when it addresses the task and the process rather than the person [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S], and digital comment threads make it easy to anchor comments to specific passages or artifacts. Peer assessment as a whole has reliable positive effects on achievement, particularly when feedback quality is supported by training and criteria [Peer assessment improves academic performance.](../claims/peer-assessment-improves-academic-performance.md) [+S].
+Digital tools reduce the logistical friction that makes peer feedback slow and shallow — collecting, distributing, and returning work — freeing class time for the cognitively demanding part: evaluating a peer's work against criteria. Feedback improves learning most when it addresses the task and the process rather than the person [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S], and digital comment threads make it easy to anchor comments to specific passages or artifacts. Peer assessment as a whole has reliable positive effects on achievement, particularly when feedback quality is supported by training and criteria [Peer assessment improves academic performance.](../claims/peer-assessment-improves-performance.md) [+S].
 
 ### Context
 #### Requirements
@@ -48,7 +48,7 @@ Digital tools reduce the logistical friction that makes peer feedback slow and s
 
 ### Target Learning Goals
 - Improving the quality of student work through iterative revision
-- Developing evaluative judgment: critiquing work against criteria deepens understanding of quality itself [Peer assessment improves academic performance.](../claims/peer-assessment-improves-academic-performance.md) [+S]
+- Developing evaluative judgment: critiquing work against criteria deepens understanding of quality itself [Peer assessment improves academic performance.](../claims/peer-assessment-improves-performance.md) [+S]
 - Digital communication skills and digital citizenship norms
 
 ### Instructions

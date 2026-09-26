@@ -41,4 +41,7 @@ Case-study analysis of Ken's reflections after a reading assignment in the NCTM 
 
 
 ## Related Claims
--
+- [Four contexts of mathematics teacher education described the experiences most influential to the preservice teacher's evolving philosophy of mathematics](four-contexts-influential-preservice-philosophy.md) — related
+- [A preservice teacher's self-perceived confidence and success with traditional mathematics inhibited reinterpreting his understanding of mathematics](math-confidence-inhibits-philosophy-reinterpretation.md) — related
+- [The preservice teacher's philosophical evolution was so subtle that he did not recognize alternative philosophical views of mathematics or perceive his student teaching would have differed without the program](subtle-philosophy-evolution-unrecognized-by-teacher.md) — related
+- [A preservice secondary mathematics teacher's philosophy evolved subtly over a year, appending a 'deeper understanding' view to his original absolutist theory of mathematics](preservice-philosophy-evolved-by-appending-deeper-understanding.md) — related

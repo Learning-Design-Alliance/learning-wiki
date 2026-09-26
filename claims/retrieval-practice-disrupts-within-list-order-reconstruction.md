@@ -41,4 +41,5 @@ The chapter reports Karpicke and Zaromb (2010, Experiment 3), where subjects sor
 
 
 ## Related Claims
--
+- [Whether initial retrieval practice enhances semantic organization in final free recall is unclear, with results that may depend on how retrieval practice is implemented](effects-of-retrieval-practice-on-semantic-organization-are-unclear.md) — related
+- [Inducing learners to recollect the prior study episode during retrieval practice enhances retention even when reexposure and initial success are held constant](recollecting-the-prior-study-episode-during-retrieval-enhances-retention.md) — related

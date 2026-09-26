@@ -41,4 +41,7 @@ Theoretical argument quoted from Dewey within the essay's discussion of connecti
 
 
 ## Related Claims
--
+- [Feuerstein argues learning through direct, unmediated experience cannot yield meaningful learning or full modifiability](direct-experience-insufficient-for-meaningful-learning.md) — related
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
+- [Early self- and task-related concerns are maintained alongside later impact concerns as adoption of complex technologies advances, modifying the sequential CBAM conception](early-concerns-maintained-alongside-later-concerns.md) — related
+- [Building Empathy Improves Intergroup Attitudes](building-empathy-improves-intergroup-attitudes.md) — related

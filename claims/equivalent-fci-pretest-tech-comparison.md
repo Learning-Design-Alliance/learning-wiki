@@ -41,4 +41,5 @@ Pretest comparison in the same quasi-experimental design: the article reports th
 
 
 ## Related Claims
--
+- [Students in a technology-enhanced modeling physics class learned significantly more than students in an otherwise identical no-technology class](real-time-data-collection-increases-modeling-physics-learning.md) — related
+- [FCI change-score versus pretest-score data from three classes show linear relations at high pretest scores and curving-down at low scores, diagnosable as α- versus γ-process dominance](fci-change-score-curves-diagnose-processes.md) — related

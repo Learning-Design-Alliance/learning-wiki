@@ -41,4 +41,5 @@ Descriptive analysis in the VTD Concepts section, citing Heuston (1977), argues 
 
 
 ## Related Claims
--
+- [Consumer-model players cost far less than industrial/education players but lack programmed random access and computer linkage](consumer-vs-ie-player-cost-capability-tradeoff.md) — related
+- [A single videodisc side can hold the equivalent of large volumes of Army printed and audiovisual training materials](videodisc-storage-packs-army-training-materials.md) — related

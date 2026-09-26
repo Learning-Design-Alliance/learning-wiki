@@ -41,4 +41,4 @@ The review attributes this to Collins (1998), noting the resulting tension: Gard
 
 
 ## Related Claims
--
+- [MI theory lacks empirical theory-testing research supporting its intelligences as autonomous faculties](mi-lacks-empirical-theory-testing.md) — related

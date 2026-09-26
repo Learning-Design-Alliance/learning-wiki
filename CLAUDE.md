@@ -110,6 +110,32 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-27 — claims are linked and merged; search runs on an index
+
+- **`scripts/search_index.py`**: SQLite FTS5 over every content page, in `.cache/` (ignored), rebuilt
+  when the content folders change. `mcp_server.py`'s `search` uses it (`"engine": "fts5"`) and falls
+  back to the scan when it cannot.
+- **`scripts/link_claims.py`**: each claim's eight nearest claims (BM25), labelled by GLM as `same`,
+  `general`, `specific`, `contradicts` or `related`, written with `--apply` into BOTH pages'
+  `## Related Claims` with the label after the link. Decisions go to `eval/runs/claim-links/` first.
+  It moves no evidence. The whole corpus cost $0.14 (2,248 claims); 4,089 pairs were linked on
+  2,147 pages. **Claim pages with no link in or out went 1,226 → 10**; pages in the main component
+  56% → 82% (718 isolated pages remain, none of them claims: theories, elements, strategies).
+- **`scripts/merge_claims.py <keep> <fold>`** moves `<fold>`'s evidence entries (skipping a study
+  `<keep>` already carries), subclaims, discussion and related links onto `<keep>`, deletes `<fold>`,
+  and runs `update_links_for_renames.py` so every link is repointed and `<fold>` becomes an alias.
+  **84 duplicates were merged** (2,248 → 2,164 claims; `eval/runs/claim-links/merges-applied.tsv`).
+  GLM proposed 369 `same` pairs and is too loose to trust alone: a merge needed GLM `same` from both
+  sides, GPT confirming with both pages' findings and studies in view (219 of 369), and a person's
+  read, which dropped 11 of the 95 (broader-vs-narrower pairs such as manipulatives vs hands-on
+  learning). Distinct studies stayed 860; 158 evidence entries were the same study on both pages.
+  The single-study share rose to 91%, because duplicates mostly shared their one study: **new
+  multi-study claims come from new articles attaching to existing claims, not from merging.**
+- **Immutable research files keep the old slugs**, and aliases resolve them: `check_research.py --why`
+  now follows an alias, and the four `observations/` records naming merged claims were repointed.
+- **`run_scrape_batch.py` links each batch's new claims after the verify step** (`--new --apply`)
+  and rebuilds the indexes. `same` pairs are listed, never merged automatically.
+
 ### 2026-09-26 (late night) — the batch runs without a gating judge; what merging and scale will need
 
 **The unattended batch no longer gates on a judge.** On batch 7 GLM cost $0.0027 an article and the
@@ -1398,7 +1424,8 @@ allowed; `None` means *the row does not determine this* rather than a guess.
 **One synthetic fixture, marked at every level** (`source_type:
 synthetic-simulation`, `SYNTHETIC` in every title and header comment): a protocol,
 two release versions, two evidence records, five reviews, one issue —
-and **`claims/spaced-practice-improves-long-term-retention.md` is unchanged**. The
+and **`claims/spaced-practice-improves-long-term-retention.md` is unchanged** (it has since been merged into
+`spaced-practice-improves-retention`, which answers to the old slug as an alias). The
 evidence names it with a `bearing` and no `anchor`, so the edge exists and nothing
 fabricated appears in a real claim's `## Evidence` section.
 
@@ -2160,6 +2187,9 @@ ld-wiki/
     evidence_rollup.py ← distinct-study roll-ups behind the evidence profiles and evidence.md
     add_evidence_profile.py ← the `> **Evidence** ·` line on pages that cite claims
     build_evidence_report.py ← evidence.md, the state of the wiki's evidence (generated)
+    search_index.py    ← SQLite FTS5 index of the wiki in .cache/, used by search and linking
+    link_claims.py     ← labels and writes Related Claims links between claims
+    merge_claims.py    ← folds a duplicate claim into its canonical page, keeping an alias
     smd_worklist.py    ← WWC/ESSA review pages to extract next, for the SMD family (see above)
     priority_worklist.py ← what to extract next: cited-but-unrecorded, hub, and evidence-less claims (see above)
     mcp_server.py      ← the wiki as MCP tools: search, fetch, resolve, backlinks, why (see above)

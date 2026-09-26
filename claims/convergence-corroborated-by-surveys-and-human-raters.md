@@ -58,4 +58,6 @@ Human-rater validation for Roster Justice only: research assistants rated respon
 
 
 ## Related Claims
--
+- [In Roster Justice, Avoidant-mindset participants described roster disparities in racially neutral terms while Aware-mindset participants named the racialized nature of the disparity](roster-justice-topics-track-avoidant-aware-mindsets.md) — related
+- [Low-equity participants' simulation responses converged over successive simulations toward those of a high-equity reference group](low-equity-participants-converge-toward-high-equity-responses.md) — related
+- [Structural topic modeling identifies simulation decision points indicative of different equity mindsets across four digital teaching simulations](stm-identifies-equity-mindset-decision-points-in-simulations.md) — related

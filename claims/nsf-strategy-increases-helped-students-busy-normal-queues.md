@@ -58,4 +58,6 @@ Normal-load simulation (λ = 0.10) comparing FCFS and NSF on percentage of stude
 
 
 ## Related Claims
--
+- [The NSF advantage over FCFS appears only above an arrival-rate threshold (λ > 0.06); under relaxed queues no strategy makes a difference](arrival-rate-threshold-nsf-advantage.md) — related
+- [Code commit features before a help request show no correlation with interaction time, and commit-based scheduling strategies perform no better than FCFS](code-commit-features-no-correlation-interaction-time.md) — related
+- [Choice of scheduling strategy does not significantly affect the number of resolved requests or students' overall wait time](scheduling-strategy-no-effect-resolved-requests-wait-time.md) — reports the opposite

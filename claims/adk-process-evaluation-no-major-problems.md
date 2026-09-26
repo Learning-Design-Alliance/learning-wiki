@@ -41,4 +41,6 @@ Process evaluation via Calendar Worksheet reviews (November 1992, February 1993)
 
 
 ## Related Claims
--
+- [ADK program teachers rated the four September 1992 inservice meetings very positively, averaging 4.7 on a 5-point scale](adk-inservice-rated-4-7-of-5.md) — related
+- [78.9% of ADK pupils attending at least 80% of sessions met the print-concepts objective of 12 or more of 17 items on the Balloons test](adk-78-9-percent-met-balloons-objective.md) — related
+- [Balloons posttest scores in the ADK evaluation sample had a median of 15 items correct, ranging from 2 to 17](balloons-posttest-median-15-range-2-17.md) — related

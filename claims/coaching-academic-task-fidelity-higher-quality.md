@@ -41,4 +41,7 @@ Review discussion comparing quality-indicator adherence across the 16 studies. T
 
 
 ## Related Claims
--
+- [Supervisory teacher coaching shows mixed effects, with six of sixteen reviewed studies reporting improved teacher results and four reporting improved student behaviors](supervisory-coaching-mixed-teacher-student-outcomes.md) — related
+- [Teacher praise increased in every reviewed study that coached teachers to increase praise](coaching-increases-teacher-praise.md) — related
+- [Most reviewed coaching studies did not collect maintenance data, so sustained use of coached practices cannot be confirmed](coaching-maintenance-rarely-measured.md) — related
+- [Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes](coaching-outcomes-teacher-knowledge-sustainability-student-learning.md) — related

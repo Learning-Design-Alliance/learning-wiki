@@ -89,3 +89,16 @@ Sixty-four 4th and 5th graders at high risk of academic failure were randomly se
 - [Accountability partners](../strategies/accountability-partners.md) — a lightweight individual-accountability mechanism
 - [Social learning theory](../theories/social-learning-theory.md) — theoretical grounding for peer modeling and reinforcement within groups
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — improvement-based team scoring is a form of assessment for learning applied at the group level
+- [Anonymous real-time sharing of student responses mitigates evaluation apprehension while preserving individual accountability (authors' account)](anonymity-mitigates-evaluation-apprehension.md) — related
+- [PjBL assessment research should evaluate outcomes across all four quadrants, not only Flexible-Cooperative designs](assess-pjbl-outcomes-across-quadrants.md) — related
+- [Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons](cooperative-learning-achievement-synthesis-slavin.md) — related
+- [Cooperative learning without individual accountability produces free-riding that reduces learning outcomes](cooperative-learning-free-rider-without-accountability.md) — possibly the same claim (merge candidate)
+- [In secondary-school research, cooperative learning beat frontal teaching in 68% of comparisons, with STAD most and Jigsaw least successful](secondary-cooperative-learning-newmann-thompson.md) — related
+- [Science-classroom studies of cooperative learning show mixed results, with several null or negative comparisons](cooperative-learning-science-studies-mixed.md) — related
+- [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — a broader claim this one bears on
+- [Cooperative learning has drawbacks including slow learners depending on fast achievers, so teachers should stress both cooperative and individual work](cooperative-learning-versus-individual-endeavors.md) — a broader claim this one bears on
+- [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](extrinsic-rewards-undermine-intrinsic-motivation-argument.md) — related
+- [In this inquiry, student pairs work better than groups of three because larger groups risk disengaging members](pairs-better-than-triads-in-stellar-inquiry.md) — a narrower finding that bears on this claim
+- [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — related
+- [Small Group Learning Improves STEM Achievement](small-group-learning-improves-stem-achievement.md) — related
+- [Team teaching offers planning advantages but carries risks of interpersonal friction and domination by a dogmatic team member](team-teaching-pros-and-cons.md) — related

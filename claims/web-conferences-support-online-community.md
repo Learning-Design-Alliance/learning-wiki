@@ -41,4 +41,5 @@ Qualitative finding from student comments in web conference sessions collected a
 
 
 ## Related Claims
--
+- [In web-based high-school distance education, e-teachers widened the object of their teaching activity toward more independent and engaged forms of learning](e-teachers-widen-object-toward-independent-learning.md) — related
+- [The redesigned unit promoted engagement across all five elements of the Engagement Framework, including professional relevance rated 4.86 on SETL](redesigned-unit-engaged-all-framework-elements.md) — a broader claim this one bears on

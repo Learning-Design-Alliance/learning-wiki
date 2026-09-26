@@ -41,4 +41,5 @@ The review attributes this finding to McGuiness (2007) discussing work by Guskin
 
 
 ## Related Claims
--
+- [A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for](intellectual-test-performances-correlated.md) — possibly the same claim (merge candidate)
+- [Gardner holds intelligences are not interchangeable, so one intelligence cannot substitute for another in learning a domain](intelligences-not-interchangeable.md) — related

@@ -40,4 +40,6 @@ Qualitative grounded theory analysis of five VIP courses using syllabi, eight fa
 
 
 ## Related Claims
--
+- [PjBL assessment research should evaluate outcomes across all four quadrants, not only Flexible-Cooperative designs](assess-pjbl-outcomes-across-quadrants.md) — related
+- [A Flexible problem-solving approach within a Fixed-Cooperative course appeared to support cooperative learning](flexible-problem-solving-supports-cooperative-learning.md) — related
+- [PjBL does not necessarily have to exhibit any particular combination of matrix attributes](pjbl-no-required-attribute-combination.md) — related

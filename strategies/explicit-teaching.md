@@ -12,7 +12,7 @@ generated:
 # Explicit Teaching
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 12 studies, `q2`–`q4` · 7 of 12 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 13 studies, `q2`–`q4` · 8 of 13 report an effect size · 1 claim rests on one study
 
 ## Description
 Explicit teaching is a structured approach in which the teacher decides on the learning intentions and success criteria, makes them transparent to students, and demonstrates the target skill or concept through modelling. Instruction proceeds through showing and explaining, guided practice with checks for understanding, and a closing segment that revisits and ties together what was covered. It is the practical enactment of teacher-led, fully guided instruction rather than discovery-oriented learning.

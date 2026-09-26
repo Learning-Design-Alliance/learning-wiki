@@ -12,7 +12,7 @@ generated:
 # Coaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 unmarked) · 13 studies, `q2`–`q4` · 13 of 13 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 unmarked) · 14 studies, `q2`–`q4` · 14 of 14 report an effect size
 
 ## Description
 Coaching is the provision of individualized support and guidance while learners actively perform a task. The coach observes performance, diagnoses gaps between current and target performance, and intervenes with hints, questions, modeling, or [Feedback](feedback.md) calibrated to what the learner needs at that moment. Unlike one-time instruction, coaching is sustained and adaptive — support rises and falls with learner performance.

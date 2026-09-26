@@ -41,4 +41,8 @@ Testimony of Phyllis Rosser citing MIT's admissions experience as evidence again
 
 
 ## Related Claims
--
+- [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — a broader claim this one bears on
+- [Minority female test-takers are doubly penalized, scoring below the males of their own ethnic group and below white males](minority-females-doubly-penalized-on-tests.md) — related
+- [Test items with male-oriented content are a source of bias: females tend to do better on items with female or neutral figures](male-oriented-item-content-biases-test-scores.md) — related
+- [Lower SAT scores reduce girls' entry into gifted and enrichment programs that use test scores for admission](test-scores-gate-gifted-program-entry.md) — related
+- [PSAT-based National Merit scholarship selection distributes awards disproportionately to boys, with girls receiving 36 percent of scholarships](psat-national-merit-awards-skew-male.md) — related

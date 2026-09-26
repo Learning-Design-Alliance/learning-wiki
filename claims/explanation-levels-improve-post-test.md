@@ -41,4 +41,5 @@ Rubric-based scoring of the explanation (argument, presentation) criterion in Ta
 
 
 ## Related Claims
--
+- [Students' mathematical vocabulary use shifted from lower to higher rubric levels after the intervention](math-vocabulary-levels-improve-post-test.md) — related
+- [In the learning study, class post-test scores increased 11 and 10 percent units in the first and last lessons but not in the middle class](learning-study-class-gains-11-and-10-percent-units.md) — related

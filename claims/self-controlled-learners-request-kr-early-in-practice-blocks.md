@@ -59,3 +59,5 @@ The authors’ summary of the same descriptive Table 2 data: the groups "appear 
 
 ## Related Claims
 - [Self Controlled Learners Do Not Show Lower Error On Requested Kr Trials](self-controlled-learners-do-not-show-lower-error-on-requested-kr-trials.md)
+- [Learners allowed to make a knowledge-of-results decision before a trial and revise it after (Self-Both) mostly kept their original choice but sometimes changed it after seeing their own performance.](learners-given-two-kr-decisions-mostly-keep-their-first-choice.md) — related
+- [During motor practice with knowledge of results, all groups reduced absolute error across blocks, and groups whose KR decision fell after the trial were more accurate during practice than groups whose decision fell before it, independent of choice.](motor-practice-accuracy-improves-across-blocks-and-favors-after-decision-groups.md) — related

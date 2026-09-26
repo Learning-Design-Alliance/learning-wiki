@@ -41,4 +41,5 @@ The author's retrospective report on an initial online deployment (Vongehr 2011)
 
 
 ## Related Claims
--
+- [Demanding anti-correlation is argued to be didactically superior to employing the CHSH inequality in the QRC](anti-correlation-superior-to-chsh-didactically.md) — related
+- [A classical-indeterminism modification of the QRC program fails to reproduce anti-correlation at equal angles](classical-indeterminism-model-fails-anticorrelation.md) — related

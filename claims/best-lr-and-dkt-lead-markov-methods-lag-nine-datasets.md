@@ -42,4 +42,10 @@ Extensive empirical comparison of three model families on nine real-world tutori
 
 
 ## Related Claims
--
+- [Dataset size moderates the LR-versus-DKT comparison: Best-LR dominates in low and medium data regimes and DKT takes over in the high data regime](dataset-size-moderates-lr-versus-dkt.md) — related
+- [DKT makes better use of the temporal order of interactions than logistic regression, confirmed by KC-specific DKT models on sequential datasets](dkt-better-exploits-temporal-order.md) — related
+- [DKT fails to retain long-term information on datasets with thousands of interactions per learner, but reaches peak performance on a new student faster than logistic regression](dkt-long-term-information-and-faster-burn-in.md) — related
+- [The expert-designed KC model adds little predictive power on most datasets, with significant contributions only on the two KDD Cup 2010 datasets](expert-kc-model-adds-little-predictive-power.md) — related
+- [Current best learner performance models are severely biased outside the interval containing most of the data, hindering downstream adaptive policies and open learner models](learner-models-miscalibrated-outside-data-interval.md) — related
+- [SAKT underperforms DKT on all nine datasets, contradicting previously reported results](sakt-underperforms-dkt-all-datasets.md) — related
+- [Ablation of feature-vector models: time-window features add no predictive power to logistic regression but boost a feedforward network, and total count features substantially boost performance on all datasets](time-window-features-null-for-lr-boost-nonlinear.md) — related

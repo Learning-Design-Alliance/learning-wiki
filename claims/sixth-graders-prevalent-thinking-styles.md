@@ -58,4 +58,8 @@ Frequencies and percentages for the level dimension of the same sample: "most of
 
 
 ## Related Claims
--
+- [Gender is related to sixth graders' thinking styles in the function, form and scope dimensions](gender-related-to-thinking-styles-dimensions.md) — related
+- [Grade is related to sixth graders' thinking styles in the function, form, level and leaning dimensions](grade-related-to-thinking-styles-dimensions.md) — related
+- [Reliability of the thinking styles scale ranges from .722 to .913 across its five dimensions](thinking-styles-scale-reliability-nrm.md) — related
+- [The five dimensions of the developed thinking styles scale show structural validity via confirmatory factor analysis](thinking-styles-scale-cfa-structural-validity.md) — related
+- [The 96 thinking styles profiles cluster into three groups, with Achievement Motivation Thinking the most common](thinking-style-profiles-three-clusters.md) — related

@@ -40,4 +40,5 @@ Interaction analysis of the Rees Middle School debrief episode (EPR 2), where Ez
 
 
 ## Related Claims
--
+- [External conceptual resources support teachers' pedagogical judgment by affording richer representations and more productive problem frames](external-resources-support-pedagogical-judgment-alignment.md) — a broader claim this one bears on
+- [Group-level scaffolding training increases teacher process support and student participation](group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md) — related

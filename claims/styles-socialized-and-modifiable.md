@@ -41,4 +41,6 @@ Theoretical argument in the development section of Sternberg's chapter, which li
 
 
 ## Related Claims
--
+- [Schools overwhelmingly reward executive styles and confuse style with level of intellect](schools-reward-executive-styles.md) — related
+- [Intellectual style is a way of directing intelligence, not a level of it](style-distinct-from-intelligence-level.md) — related
+- [Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples](gender-effects-on-srl-mediated-by-culture-discipline-age.md) — related

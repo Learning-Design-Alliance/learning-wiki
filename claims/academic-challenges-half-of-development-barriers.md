@@ -41,4 +41,7 @@ Qualitative theme 2 asked students what obstacles they encountered during growth
 
 
 ## Related Claims
--
+- [Academic burnout is widespread among secondary vocational students](academic-burnout-widespread-vocational-students.md) — related
+- [Time constraints (47.3%) and course difficulty (27.7%) are the two largest barriers to completing the LC101 coursework phase](time-and-difficulty-largest-coursework-barriers.md) — related
+- [Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence](qualitative-experience-themes-lc101-persistence.md) — related
+- [Only 4.3% of surveyed secondary vocational students meet mental health knowledge standards](vocational-students-low-mental-health-literacy-4-3-percent.md) — related

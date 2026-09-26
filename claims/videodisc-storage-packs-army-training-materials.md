@@ -41,4 +41,5 @@ Analytical capacity estimate from the Bunderson and Jarvis (1979) study, reporte
 
 
 ## Related Claims
--
+- [The interactive videodisc combines the capabilities of books, movies, and computer-assisted instruction in one delivery medium](videodisc-combines-books-movies-cai-capabilities.md) — related
+- [Consumer-model players cost far less than industrial/education players but lack programmed random access and computer linkage](consumer-vs-ie-player-cost-capability-tradeoff.md) — related

@@ -41,4 +41,6 @@ Three trained content specialists scored anonymized physics exam questions from 
 
 
 ## Related Claims
--
+- [Rubric scoring showed low inter-assessor reliability (mean class standard deviation 1.2 of 9 points)](engineering-rubric-low-scoring-reliability.md) — related
+- [The LoU Interview shows high interrater reliability, and the rating procedure was streamlined over two years without loss of agreement](lou-interview-interrater-reliability-high.md) — related
+- [Technology programs examine discipline-related physics topics at higher cognitive levels within a disciplinary context](technology-programs-discipline-specific-physics-emphasis.md) — related

@@ -77,3 +77,9 @@ Open questions include how much scaffolding converts a failing constructive atte
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — the load constraint on unguided construction
 - [Example–problem sequences reduce cognitive load and improve learning outcomes.](example-problem-sequences-reduce-cognitive-load.md) — sequencing construction after example study for novices
 - [Constructivism](../theories/constructivism.md) — the theoretical tradition underlying the constructive-learning claim
+- [Concept mapping improves learning](concept-mapping-improves-learning.md) — related
+- [Generative (Constructive) engagement by young children produces better learning than attentive (Passive) engagement](constructive-beats-passive-young-children.md) — a narrower finding that bears on this claim
+- [Collaborative concept mapping enhances learning more than individual concept mapping, supporting Interactive over Constructive engagement](interactive-beats-constructive-concept-mapping.md) — related
+- [In the 5-year translation project, students learned significantly more in Constructive than Active activities](students-learned-more-constructive-than-active.md) — a narrower finding that bears on this claim
+- [Authors report that flexibility in sim access supports student agency while students tend to explore in a productive sequence](flexibility-supports-agency-productive-sequence.md) — a narrower finding that bears on this claim
+- [Teachers had minimal success designing Constructive and Interactive activities after ICAP professional development](teachers-struggle-designing-interactive-activities.md) — a narrower finding that bears on this claim

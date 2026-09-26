@@ -19,7 +19,7 @@ Critique protocols are structured routines — often with prescribed sentence st
 
 ## Design Implications
 
-Structured critique converts feedback from an evaluative judgment into an instructional event: learners analyze criteria, compare work against them, and articulate improvements, which deepens their own understanding of quality [Feedback that answers "Where am I going, how am I doing, and what next?" drives achievement gains.](../claims/assessment-for-learning-improves-achievement.md) [+S]. Giving feedback is often as beneficial as receiving it — the reviewer must judge work against criteria, which is a form of elaborative practice [Peer assessment can be as effective as teacher assessment when criteria are clear.](../claims/peer-assessment-improves-achievement.md) [+M]. Protocols matter because unstructured peer feedback tends toward vague praise or personal comments; explicit structures and rubrics raise the specificity and usefulness of peer comments [Peer assessment quality improves when structured criteria or rubrics are provided.](../claims/rubrics-improve-peer-feedback-quality.md) [+M].
+Structured critique converts feedback from an evaluative judgment into an instructional event: learners analyze criteria, compare work against them, and articulate improvements, which deepens their own understanding of quality [Feedback that answers "Where am I going, how am I doing, and what next?" drives achievement gains.](../claims/assessment-for-learning-improves-achievement.md) [+S]. Giving feedback is often as beneficial as receiving it — the reviewer must judge work against criteria, which is a form of elaborative practice [Peer assessment can be as effective as teacher assessment when criteria are clear.](../claims/peer-assessment-improves-performance.md) [+M]. Protocols matter because unstructured peer feedback tends toward vague praise or personal comments; explicit structures and rubrics raise the specificity and usefulness of peer comments [Peer assessment quality improves when structured criteria or rubrics are provided.](../claims/rubrics-improve-peer-feedback-quality.md) [+M].
 
 ### Context
 #### Requirements
@@ -42,7 +42,7 @@ Structured critique converts feedback from an evaluative judgment into an instru
 - **Asynchronous critique**: structured comment threads in platforms like Peergrade or Perusall, using the same stems
 
 ### Target Learners
-- Learners old enough to articulate observations against criteria (upper elementary through adult) [Peer assessment works across grade levels but needs more scaffolding for younger students.](../claims/peer-assessment-improves-achievement.md) [+M]
+- Learners old enough to articulate observations against criteria (upper elementary through adult) [Peer assessment works across grade levels but needs more scaffolding for younger students.](../claims/peer-assessment-improves-performance.md) [+M]
 - Learners producing iterative artifacts (writing, design, code, proofs) where revision is expected
 - Reviewers benefit even when their own work is not critiqued — judging others' work builds evaluative judgment [~M]
 

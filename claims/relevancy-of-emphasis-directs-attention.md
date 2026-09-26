@@ -71,3 +71,6 @@ In the same study, the main effect for relevancy was also significant for the lo
 - [Irrelevant material hurts learning (coherence principle).](../claims/coherence-principle-irrelevant-material-hurts-learning.md) — emphasis on low-relevant content is a form of irrelevant material competing for attention
 - [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) — selective emphasis helps learners chunk the most relevant content first
 - [Von Restorff effect and text marking.](../theories/von-restorff-effect-text-marking.md) — distinctiveness of marking underlies the attention shift
+- [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) — related
+- [Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content](interactional-structures-shape-content-processing.md) — related
+- [Prior knowledge is not significantly related to test performance in this sample](prior-knowledge-not-related-to-performance.md) — related

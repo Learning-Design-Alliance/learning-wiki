@@ -41,4 +41,9 @@ The review reports, citing Smith, Ghazizadeh and Shadmehr (2006), evidence from 
 
 
 ## Related Claims
--
+- [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
+- [Interleaved Practice Improves Retention](interleaved-practice-improves-retention.md) — related
+- [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md) — related
+- [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — related
+- [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
+- [Interleaving Improves Transfer](interleaving-improves-transfer.md) — related

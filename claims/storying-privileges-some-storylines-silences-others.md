@@ -41,4 +41,7 @@ Interpretive argument drawing on the paper's media analysis, including the New Y
 
 
 ## Related Claims
--
+- [Treating students' personal histories as sources of knowledge makes them part of the classroom curriculum](personal-histories-as-curriculum-sources-of-knowledge.md) — related
+- [Principles of reason assessment are both subject-neutral and subject-specific](reason-assessment-principles-both-neutral-and-specific.md) — related
+- [Narrative and storying genres in educational inquiry risk disempowering the very people they claim to empower](narrative-genres-may-disempower-while-claiming-empowerment.md) — related
+- [Conceptions of how children learn literacy are cultural and political as much as scientific, shaping different classroom practices across countries](literacy-learning-conceptions-culturally-shaped.md) — related

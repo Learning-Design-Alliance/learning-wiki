@@ -41,4 +41,6 @@ Qualitative analysis of SCMD transcripts from a graduate seminar (12 topical ses
 
 
 ## Related Claims
--
+- [A collective unit of subjects emerges when two utterances form a dialogical pair in SCMD](collective-subject-emergence-dialogical-pair.md) — related
+- [Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue](dialogue-underpins-networked-learning.md) — related
+- [SCMD discourse activity is best understood as an ecology of nested activity systems within and beyond the classroom](ecology-of-activity-systems-scmd.md) — related

@@ -41,4 +41,6 @@ Randomized five-month experiment with 187 Egyptian EFL freshmen (62 interactive,
 
 
 ## Related Claims
--
+- [Teacher-initiated and student-mediated semantic mapping did not differ significantly in their effects on EFL reading comprehension](teacher-initiated-and-student-mediated-mapping-no-difference.md) — related
+- [Posttest reading comprehension differed significantly across the three semantic mapping conditions overall](posttest-omnibus-anova-semantic-mapping-conditions.md) — a broader claim this one bears on
+- [The three treatment groups were equivalent in reading comprehension at pretest](semantic-mapping-groups-equivalent-at-pretest.md) — related

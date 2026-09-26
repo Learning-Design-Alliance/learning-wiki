@@ -41,4 +41,8 @@ The review attributes this to Carson (2003), who gives five points explaining MI
 
 
 ## Related Claims
--
+- [A large psychometric data review supports a hierarchical model of intelligence headed by g, which MI theory does not fit](carroll-data-support-hierarchical-g-model.md) — related
+- [Gardner never laid down a detailed plan for applying MI theory in schools, and classroom implementations operate independently of him](gardner-no-detailed-classroom-application-plan.md) — related
+- [A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for](intellectual-test-performances-correlated.md) — related
+- [Matching instruction to students' learning styles or intelligences has no effect on learning](matching-instruction-to-styles-no-effect.md) — related
+- [The Theory of Multiple Intelligences is weak in stressing science and social sciences as fields of talent, and existing subject categories could nurture pupils' talents](multiple-intelligences-weak-on-science-talent.md) — related

@@ -42,4 +42,10 @@ Experiment with 256 undergraduate computer literacy students randomly assigned w
 
 
 ## Related Claims
--
+- [AI-mediated feedback in hands-on exhibits improves learning and engagement](ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement.md) — a narrower finding that bears on this claim
+- [Treatment version significantly affects student attitudes, with the lean program most negative and no-practice next](cbi-version-affects-attitudes-lean-most-negative.md) — related
+- [Ninth graders using the computer as a translation tool (utilities group) outperformed a computation group on applications problems](lesh-utilities-group-outperformed-computation-group.md) — related
+- [Students notice the absence of practice and examples: attitude items about those events are rated lower when the events are missing](students-notice-missing-practice-and-examples.md) — related
+- [Short chunking study outlines produce higher test performance than long chunking study outlines](short-cso-improves-test-performance.md) — related
+- [Individually removing objectives, examples, or review from a well-designed computer-based lesson did not significantly reduce achievement](single-event-removal-no-achievement-effect.md) — related
+- [The review reports that students receiving situated instruction outperformed a lecture-based control group on a causality posttest](situated-instruction-outperformed-abstract-control-causality.md) — related

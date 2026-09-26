@@ -58,4 +58,5 @@ The paper attributes the feminization evidence to second-hand sources: Holbrook'
 
 
 ## Related Claims
--
+- [Writing Program Administrators' responses to conflict are frequently somatic, with conflict becoming a physical trope expressed as illness](wpa-conflict-responses-somatic-physical-trope.md) — related
+- [Systems thinking holds the most promise for understanding departmental and institutional conflict](systems-thinking-most-promising-for-institutional-conflict.md) — related

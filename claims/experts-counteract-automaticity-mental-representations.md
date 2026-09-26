@@ -41,4 +41,6 @@ Illustrated in Figure 2, contrasting the course of improvement of expert perform
 
 
 ## Related Claims
--
+- [Heritability of everyday abilities cannot be extrapolated to expert performance; twins almost never reach elite levels](no-heritability-extrapolation-to-expert-performance.md) — related
+- [Expertise Reversal Guidance Hurts Experts](expertise-reversal-guidance-hurts-experts.md) — related
+- [Expert teachers show intense emotionality and sense of responsibility for their performance, unlike affectless novices and postulants](experts-show-emotionality-and-responsibility.md) — related

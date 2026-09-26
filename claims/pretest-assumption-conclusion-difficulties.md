@@ -41,4 +41,5 @@ Qualitative analysis of pre-test worksheets from the 40-student experimental cla
 
 
 ## Related Claims
--
+- [Ambiguous tasks with a revision step help students recognize the role of assumptions in mathematical activity](ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions.md) — related
+- [GBSRI significantly improved Thai undergraduates' overall English paragraph writing scores after eight weeks](gbsri-improves-thai-undergraduate-writing-scores.md) — related

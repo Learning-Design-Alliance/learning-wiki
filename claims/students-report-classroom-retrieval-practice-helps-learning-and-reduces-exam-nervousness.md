@@ -41,4 +41,7 @@ The chapter reports a self-report survey by Agarwal et al. (2014) of 1408 middle
 
 
 ## Related Claims
--
+- [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — related
+- [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
+- [Benefits of retrieval practice have persisted for 6 months in medical students and 9 months in middle-school students](retrieval-practice-benefits-persist-six-to-nine-months.md) — related
+- [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related

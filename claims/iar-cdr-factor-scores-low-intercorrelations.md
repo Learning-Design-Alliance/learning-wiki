@@ -41,4 +41,8 @@ Correlational analysis of factor scores from 188 ninth-graders (17% black, 83% w
 
 
 ## Related Claims
--
+- [Canonical analysis of IAR and CDR factor scores yields two nontrivial canonical functions (R = .644 and .463)](canonical-two-functions-locus-control.md) — related
+- [Principal components analyses of both the IAR and CDR yield eleven components with eigenvalues of one or greater](eleven-components-iar-cdr.md) — related
+- [Locus of control instruments measuring domains beyond academic achievement increase the number of dimensions obtained](nonacademic-domains-increase-dimensions.md) — a broader claim this one bears on
+- [Intelligence test scores are significantly correlated with locus of control for both normal and delinquent adolescents](intelligence-locus-correlation-both-groups.md) — related
+- [Locus of control scores show no significant main effects of behavioral condition (normal vs. delinquent) or sex](no-group-or-sex-effect-on-locus-of-control.md) — related

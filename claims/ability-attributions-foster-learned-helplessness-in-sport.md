@@ -41,4 +41,6 @@ The review defines learned helplessness, citing Pervin (1990), as a syndrome occ
 
 
 ## Related Claims
--
+- [Skilled athletes attribute successes to stable internal causes and failures to unstable external causes (self-serving attribution bias)](self-serving-attribution-bias-skilled-athletes.md) — related
+- [Outcome-consistent task performances are attributed to stable factors and outcome-conflicting performances to unstable factors](outcome-consistency-drives-stable-versus-unstable-attributions.md) — related
+- [Prolonged reading failure leads students to attribute failure to fixed low ability and define reading as a failure situation](reading-failure-fixed-ability-attribution.md) — related

@@ -41,4 +41,5 @@ Teacher self-report data from the project's first site, with instances the autho
 
 
 ## Related Claims
--
+- [Teachers adapt TEFA to their own terms and contexts, with learning trajectories that are personal and idiosyncratic](teachers-adapt-tefa-to-own-terms.md) — related
+- [After one year of TEFA professional development, videotaped lessons showed increased discussion time, more student-student interactions, less IRE interaction, and more varied discussion formats](tefa-pd-year-one-observable-practice-changes.md) — related

@@ -43,4 +43,7 @@ Authors' critical discussion in §5 of error analysis's limitations. The article
 
 
 ## Related Claims
--
+- [Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — related
+- [Learner errors arise from interlingual transfer, intralingual overgeneralization, cultural interference, and communicative strategies](error-sources-interlingual-intralingual-cultural.md) — related
+- [Children follow a similar four-stage sequence in acquiring specific syntactic forms, from no usage through error-filled production to correct usage](four-stage-syntax-acquisition-sequence.md) — related
+- [Errors should be distinguished from mistakes, and analysis proceeds through recognition, description, and explanation stages](error-versus-mistake-analysis-procedure.md) — related

@@ -58,4 +58,4 @@ A t-test of dependent means examined within-group change from recall to retentio
 
 
 ## Related Claims
--
+- [Structured CAI with spaced practice and spaced review produced better recall and retention than unstructured CAI](structured-cai-spacing-improves-recall-and-retention.md) — related

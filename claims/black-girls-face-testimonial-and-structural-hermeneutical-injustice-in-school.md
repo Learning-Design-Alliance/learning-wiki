@@ -76,3 +76,9 @@ The author's argument: a "systematic absence of knowledge about the speaker’s 
 
 ## Related Claims
 - [Teacher Identity Prejudice And Curriculum Can Enact Epistemic Injustice Toward Students](teacher-identity-prejudice-and-curriculum-can-enact-epistemic-injustice-toward-students.md)
+- [Big Data can amplify suppressed testimony because its sheer size lends it assumed authenticity](big-data-assumed-authenticity-amplifies-suppressed-testimony.md) — related
+- [Eradicating hermeneutical injustice requires sufficient social equality in general, not only slight interpersonal hermeneutical empowerments](eradicating-hermeneutical-injustice-requires-social-equality.md) — a broader claim this one bears on
+- [In the analyzed school ethnography, stereotyping operates as a rationalization process that constructs uniformities, and the ghetto label privileges white culture's standards and evaluation networks](stereotyping-operates-as-rationalization-producing-inequality-in-school.md) — related
+- [In the ethnography the article analyzes, black girls bussed to an affluent suburban school were unpopular and socially excluded for being seen as loud and ghetto, while black boys were classified as incapable of academic achievement](gender-performance-grounds-exclusion-of-bussed-black-students-in-suburban-school.md) — a narrower finding that bears on this claim
+- [Cultural processes and forms of epistemic injustice should be taken into account in understanding how inequalities in education are produced and maintained](cultural-processes-and-epistemic-injustice-explain-educational-inequality.md) — a broader claim this one bears on
+- [Girls' experiences of injustice were neglected and girls were expected to accept unfair treatment](girls-injustice-neglected.md) — related

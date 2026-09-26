@@ -41,4 +41,6 @@ The paper attributes this position to Barkatoolah (1990) in its adult learning s
 
 
 ## Related Claims
--
+- [Many practices in adult literacy programs violate principles of learning for adults, including short-timeframe funding, isolated individualized learning, ignored learner experience, and non-meaningful materials](adult-literacy-programs-violate-adult-learning-principles.md) — related
+- [Previous knowledge and management experiences can inhibit new teachers' learning of new classroom management models](prior-experience-barriers-to-new-management-models.md) — reports the opposite
+- [The paper argues experiential training of early childhood workers is likely to produce reflective, creative caregivers and children who learn better](experiential-training-ecd-workers-better-child-outcomes.md) — a narrower finding that bears on this claim

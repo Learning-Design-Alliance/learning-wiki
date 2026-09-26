@@ -41,4 +41,9 @@ Pilot study of a blended graduate course: 26 students were surveyed three times 
 
 
 ## Related Claims
--
+- [Learning management system adoption rose from mostly non-use/orientation to routine-through-integration levels by December](loa-lms-adoption-growth.md) — a narrower finding that bears on this claim
+- [Presentation software adoption rose even though it was modeled by instructors rather than directly taught](loa-presentation-software-modeled-not-taught-gain.md) — a narrower finding that bears on this claim
+- [Reported videoconferencing adoption rose significantly after practitioners returned to the workplace (p<0.005), with mean level increasing from 2.00 to 4.53](loa-videoconferencing-significant-post-posttest-increase.md) — a narrower finding that bears on this claim
+- [Reported use of bridging/conferencing software showed a significant increase (p<0.001), with mean level rising from 1.00 to 2.60](loa-bridging-conferencing-significant-increase.md) — a narrower finding that bears on this claim
+- [Respondent feedback prompted a revised ten-level LoA scale splitting non-use and adding a replacement level, plus a more cyclic adoption model](loa-revised-ten-level-scale-from-respondent-feedback.md) — related
+- [Interactive whiteboard results showed shifts between orientation/preparation after returning to schools, raising questions about perceived versus actual use](loa-whiteboard-perceived-versus-actual-use.md) — related

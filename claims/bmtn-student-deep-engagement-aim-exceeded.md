@@ -41,4 +41,5 @@ Annual spring 14-item student survey of opportunities for deep engagement, score
 
 
 ## Related Claims
--
+- [Teachers reported providing deep-engagement opportunities at levels similar to or greater than student reports, and about 8 in 10 attributed instruction changes to the network](teacher-reported-engagement-opportunities-increased.md) — related
+- [Teachers' tested routines tended to focus on Justify in year one and most switched to a different deep-engagement area, most often Justify to Solve, in year two](routines-focused-justify-then-switch-dea.md) — related

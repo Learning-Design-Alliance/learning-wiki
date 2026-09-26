@@ -41,4 +41,8 @@ Null finding from the document analysis in the limitations section. The research
 
 
 ## Related Claims
--
+- [Main types of publicly engaged scholarship vary by Biglan dimension: applied faculty report more research, teaching, and service; hard faculty more commercialized activities; life faculty more research and service](biglan-main-types-engaged-scholarship.md) — related
+- [Subtypes of publicly engaged scholarship vary by Biglan dimension, with applied faculty reporting five subtypes more often and soft faculty reporting two](biglan-subtypes-engaged-scholarship.md) — related
+- [Faculty in applied, hard, and life disciplines are more likely than colleagues in pure, soft, and nonlife disciplines to report publicly engaged scholarship overall](biglan-dimensions-vary-overall-engaged-scholarship.md) — related
+- [Intensity of publicly engaged activity is higher in applied (2.29 vs 1.76) and life (2.28 vs 1.63) disciplines, with no significant hard/soft difference](biglan-intensity-activity-varies.md) — related
+- [Degree of engagement is higher in applied (1.52 vs 1.22, p=.016) and life (1.56 vs 1.07, p=.000) disciplines, with no significant hard/soft difference](biglan-degree-engagement-varies.md) — related

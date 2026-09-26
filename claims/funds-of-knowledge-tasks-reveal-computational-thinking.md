@@ -44,3 +44,8 @@ This is a design-based study with a small sample (13 children total across two t
 
 ## Related Claims
 - (none yet linked)
+- [Young children's video interpretation of their own mathematical play reveals both mathematical and social-affective sensemaking](childrens-video-interpretation-of-play-reveals-mathematical-and-social-sensemaking.md) — related
+- [Teacher-researchers in funds of knowledge work face difficulties, including helpless pessimism and heavy time demands, which reflective after-school labs helped them overcome; they judged the process worthwhile.](teacher-researcher-difficulties-eased-by-reflective-labs.md) — related
+- [Teachers doing household ethnography had readier entree to families than anthropologists and were welcomed without suspicion in the Tucson project.](teachers-have-readier-household-entree-than-anthropologists.md) — related
+- [In the Tucson funds of knowledge project, teachers visiting language minority households found funds of knowledge to be abundant and diverse.](home-visits-reveal-abundant-diverse-household-funds-of-knowledge.md) — related
+- [Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies](static-assessment-misses-emerging-functions.md) — related

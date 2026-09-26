@@ -47,7 +47,7 @@ The applying half works largely through argument. Requiring learners to construc
 - Abstract ethics instruction produces learners who reason well on paper and behave unchanged in practice; the transfer gap between judgement and conduct is the central finding of this literature [-M]
 - Cases where the ethical dimension is pre-announced train judgement but not sensitivity — and sensitivity is the component that fails in real settings [-M]
 - Discussion of contested moral questions can consolidate rather than shift positions if learners argue only from their existing stance; the structure must require engaging with the opposing case [-M]
-- Codes and case sets carry the assumptions of who wrote them, and treating a professional code as a neutral standard can teach learners to reproduce inequities encoded in it [Transformative social and emotional learning (SEL): Toward SEL in service of educational equity and excellence](../claims/social-emotional-learning-improves-achievement.md) [~M]
+- Codes and case sets carry the assumptions of who wrote them, and treating a professional code as a neutral standard can teach learners to reproduce inequities encoded in it [Transformative social and emotional learning (SEL): Toward SEL in service of educational equity and excellence](../claims/sel-programs-improve-behavior-and-achievement.md) [~M]
 - Assessing ethical reasoning invites learners to produce the answer they think is wanted, which measures compliance rather than judgement [-M]
 - The classroom setting removes the pressures — time, hierarchy, money, fatigue — that cause most real ethical failures [~M]
 

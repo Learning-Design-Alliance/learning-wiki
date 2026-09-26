@@ -12,7 +12,7 @@ generated:
 # Science Through Inquiry
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (4 for, 1 mixed, 2 against) · 14 studies, `q2`–`q4` · 7 of 14 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (4 for, 1 mixed, 2 against) · 15 studies, `q2`–`q4` · 8 of 15 report an effect size · 1 claim rests on one study
 
 ## Description
 Science Through Inquiry positions learners as investigators: they pose questions, design and conduct investigations, gather and interpret evidence, and revise explanations or models in light of data. Rather than first receiving canonical explanations, learners construct understanding through structured exploration that mirrors authentic scientific practice. The strategy spans a continuum from fully guided (confirmation, structured inquiry) to open inquiry, with the degree of learner autonomy over question, method, and solution varying by design.
@@ -34,7 +34,7 @@ Inquiry can produce strong conceptual gains, but only when it is scaffolded: ung
 - Time- and resource-intensive; poorly planned inquiry consumes class time without converging on target concepts
 - Difficult to assess with conventional tests; requires rubrics for investigation design, evidence use, and reasoning
 - Learners with high prior knowledge may benefit less from heavy scaffolding and more from open inquiry [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — the expertise-reversal pattern applies to inquiry scaffolds as well
-- Hands-on activity alone does not guarantee learning; "activity without conceptual focus" yields engagement but shallow understanding [Hands-on activity without conceptual integration does not improve science learning.](../claims/hands-on-without-conceptual-integration-insufficient.md) [-M]
+- Hands-on activity alone does not guarantee learning; "activity without conceptual focus" yields engagement but shallow understanding [Hands-on activity without conceptual integration does not improve science learning.](../claims/manipulatives-require-connection-to-concept.md) [-M]
 
 #### Implementation Variability
 - **Structured inquiry**: instructor provides question and procedure; learners generate explanations — appropriate for novices

@@ -58,4 +58,7 @@ Null results from the same baseline analyses of variance: "No sex differences or
 
 
 ## Related Claims
--
+- [Reward does not reduce the relation between baseline and rewarded creativity performance, supporting a capacity rather than motivational interpretation of individual differences](reward-leaves-creativity-individual-differences-unchanged.md) — related
+- [Reward effects hold across individual creativity tasks, with immediate reward significant on all four tasks and delayed reward on three](reward-effects-hold-across-individual-tasks.md) — related
+- [Concrete reward increases children's mean ideational fluency on creativity tasks relative to control conditions](concrete-reward-increases-mean-ideational-fluency.md) — related
+- [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](early-delay-of-gratification-predicts-later-outcomes.md) — related

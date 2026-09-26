@@ -41,4 +41,4 @@ The paper's concluding interpretive claim, drawn from the comparative rhetorical
 
 
 ## Related Claims
--
+- [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) — related

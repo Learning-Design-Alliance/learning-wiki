@@ -70,7 +70,7 @@ The canonical enumeration of the ten steps is in van Merriënboer and Kirschner'
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M] — the within-class fading schedule
 
 #### Contradicting
-- [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-expertise-reversal.md) [~M] — the modelling example that opens a task class is wasted or harmful on learners who have already reached that complexity, which is what makes the reset at each new class a real design decision rather than a formality
+- [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — the modelling example that opens a task class is wasted or harmful on learners who have already reached that complexity, which is what makes the reset at each new class a real design decision rather than a formality
 
 ## Design
 

@@ -54,3 +54,7 @@ In an extended in-class experiment, 37 students studied the same content present
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — managing load is a precondition for benefiting from richer media combinations
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — poorly combined media can push learners past working-memory capacity
 - [Dual coding theory](../theories/dual-coding-theory.md) — the theoretical mechanism behind the claim
+- [People acquire different knowledge from different media, the closest indirect evidence for symbolic encoding specificity](different-media-yield-different-knowledge-encoding.md) — related
+- [Dual Coding Improves Learning](dual-coding-improves-learning.md) — related
+- [Dual Coding Improves Recall](dual-coding-improves-recall.md) — related
+- [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — a narrower finding that bears on this claim

@@ -41,4 +41,4 @@ The article quotes a student comment from the fifth national report's observatio
 
 
 ## Related Claims
--
+- [SEP national monitoring reports indicate insufficient teacher training for the reform: 35% of surveyed teachers requested training in planning and design of didactic activities, and about 30% of directors rated induction-workshop information as poorly adequate or inadequate](reform-teacher-training-insufficient.md) — related

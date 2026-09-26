@@ -41,4 +41,5 @@ In this classroom study of 24 fourth-graders, a computation pre-test was compare
 
 
 ## Related Claims
--
+- [Sixth graders scored significantly higher on posttests that included the seven-step problem-solving plan than on unformatted posttests](formatted-problem-solving-plan-posttest-advantage.md) — related
+- [No significant gender difference in word-problem performance on either formatted or unformatted test forms](no-gender-difference-either-test-form.md) — related

@@ -41,4 +41,6 @@ From the same descriptive interview study's results: "Eight children (18%) held 
 
 
 ## Related Claims
--
+- [The majority (63%) of kindergartners hold naïve mental models of the day and night cycle, with the distance model the most common](kindergartners-majority-naive-day-night-models.md) — related
+- [Kindergartners struggle to give verbal causal explanations, but model-based tasks let most of them express causal ideas](model-tasks-overcome-verbal-explanation-limits.md) — related
+- [Boys and girls do not differ in the type of mental models of the day and night cycle they hold](no-gender-difference-day-night-mental-models.md) — related

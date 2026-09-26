@@ -12,7 +12,7 @@ generated:
 # Explicit Teacher Modeling
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 14 studies, `q2`–`q4` · 12 of 14 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 14 studies, `q2`–`q4` · 12 of 14 report an effect size · 1 claim rests on one study
 
 ## Description
 Explicit teacher modeling involves the teacher both describing and demonstrating a skill or concept. The teacher names the features of the concept or the steps of the skill, breaks it into learnable parts, and performs it while verbalizing the reasoning behind each decision — often via [Think-Aloud](../elements/think-aloud.md). Modeling is delivered at a lively pace with periodic questioning and checks for understanding, and is always followed by guided practice before independent work.

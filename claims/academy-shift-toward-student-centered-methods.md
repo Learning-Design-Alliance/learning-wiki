@@ -41,4 +41,8 @@ Case study observations (Theme 1) of two teachers selected for maximal variety f
 
 
 ## Related Claims
--
+- [Changes traced to historical and activity factors, but the authors conclude the IDEAS academy itself may not be the major factor in observed changes](academy-influence-not-major-factor.md) — related
+- [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — a broader claim this one bears on
+- [In one narrative inquiry, boundary crossing collaboration between a mathematics education researcher and an informal educator created a space for a new understanding of mathematics as normal human practice](boundary-crossing-collaboration-with-informal-educators-reframes-mathematics-as-human-practice.md) — related
+- [The CHAT approach yielded richer understanding of technology integration than a cognitive paradigm, but pilot findings must be interpreted cautiously (two subjects only)](chat-richer-understanding-pilot-caveats.md) — related
+- [Both case-study teachers increased web and technology use for lesson preparation, presentation, and classroom exploration over the project](increased-web-technology-use-over-project.md) — related

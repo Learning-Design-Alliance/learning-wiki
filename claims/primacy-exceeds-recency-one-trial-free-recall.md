@@ -41,4 +41,8 @@ An Arousal x Exposure time x Serial position ANOVA on first and last six items c
 
 
 ## Related Claims
--
+- [The arousal recall advantage is not attributable to differential clustering within the high- versus low-arousal lists](arousal-effect-not-differential-clustering.md) — related
+- [Neural consolidation predictions about arousal, primacy, and recency were not supported: arousal facilitated recency as well as primacy](arousal-serial-position-predictions-fail.md) — related
+- [Increased exposure time did not significantly facilitate primacy (hypothesis 5 not supported)](exposure-time-primacy-effect-not-significant.md) — related
+- [High-arousal words are recalled better than low-arousal words in free recall](high-arousal-words-recalled-better-free-recall.md) — related
+- [Longer exposure time (9 sec vs 3 sec per word) improves free recall, with no arousal-by-exposure interaction](longer-exposure-improves-free-recall-no-interaction.md) — related

@@ -41,4 +41,5 @@ Comparative evaluation applying linear regression with time as predictor to the 
 
 
 ## Related Claims
--
+- [Fuzzy time series forecasting beats nonlinear regression when only a quadratic term is included, but loses when a cubic term is included](ftm-versus-nonlinear-regression-quadratic-cubic.md) — related
+- [Quadratic and cubic trends significantly improved the linear model of teacher and student behavior, showing the importance of studying nonlinearity](quadratic-cubic-trends-improve-linear-model-teacher-behavior.md) — related

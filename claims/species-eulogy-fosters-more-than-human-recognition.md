@@ -41,4 +41,4 @@ The author's reflective report from teaching the course Communication at the End
 
 
 ## Related Claims
--
+- [Facilitated self-directed learning and peer discussion empower adult learners](facilitated-self-directed-learning-empowers-adults.md) — related

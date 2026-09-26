@@ -41,4 +41,6 @@ Event-recording data on teachers' verbal behavior in the same study; Table 3 rep
 
 
 ## Related Claims
--
+- [Teacher expertise level shows no statistically significant difference on any of five selected indicators of effective teaching in elementary physical education](expertise-levels-no-difference-teaching-indicators.md) — a broader claim this one bears on
+- [Successful motor engagement (ALT-PE) increased gradually across expertise groups while remaining statistically non-significant](alt-pe-increases-across-expertise-groups.md) — related
+- [Students' off-task behavior was very low in every expertise group with little change across groups](off-task-low-across-expertise-groups.md) — related

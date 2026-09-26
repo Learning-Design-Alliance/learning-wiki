@@ -41,4 +41,6 @@ The article's abstract-level result from the research project: alignment of lear
 
 
 ## Related Claims
--
+- [Review reports TAs sharing the same agenda provided different meta-level learning opportunities through object-level adaptations](ta-agenda-object-meta-level-opportunities.md) — related
+- [Reflective coaching and technical coaching rest on different relationships, goals and epistemologies of practice despite sharing the coaching label](reflective-versus-technical-coaching-comparison.md) — related
+- [Teachers integrated general teacher knowledge and subject knowledge during learning study analyses and reflections](learning-study-integrates-general-and-subject-knowledge.md) — related

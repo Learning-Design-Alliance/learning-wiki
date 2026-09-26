@@ -41,4 +41,4 @@ The review reports Blagg's comparison of the Hidden Figures Test, the Canfield L
 
 
 ## Related Claims
--
+- [Self-regulated learning strategies account for up to 51% of the variance in academic performance, with metacognitive regulation strategies the strongest predictors](srl-strategies-account-up-to-51-percent-variance-academic-performance.md) — related

@@ -41,4 +41,6 @@ On Items 1 and 2 (goal clarity), the no-objectives group gave the highest rating
 
 
 ## Related Claims
--
+- [Treatment version significantly affects student attitudes, with the lean program most negative and no-practice next](cbi-version-affects-attitudes-lean-most-negative.md) — related
+- [Students notice the absence of practice and examples: attitude items about those events are rated lower when the events are missing](students-notice-missing-practice-and-examples.md) — related
+- [Individually removing objectives, examples, or review from a well-designed computer-based lesson did not significantly reduce achievement](single-event-removal-no-achievement-effect.md) — related

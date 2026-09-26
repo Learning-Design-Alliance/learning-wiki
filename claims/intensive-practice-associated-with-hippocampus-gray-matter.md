@@ -41,4 +41,5 @@ The dissertation reports, citing Maguire et al., an MRI study comparing sixteen 
 
 
 ## Related Claims
--
+- [Exercise Increases Hippocampal Volume](exercise-increases-hippocampal-volume.md) — related
+- [Time spent outdoors in the 24 hours before scanning is positively associated with grey matter volume in the right dorsolateral prefrontal cortex](outdoor-time-associated-with-right-dlpfc-grey-matter.md) — related

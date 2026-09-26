@@ -75,4 +75,8 @@ Program Outcomes section: teachers used clear language that they "knew" students
 
 
 ## Related Claims
--
+- [Teacher praise increased in every reviewed study that coached teachers to increase praise](coaching-increases-teacher-praise.md) — related
+- [Most reviewed coaching studies did not collect maintenance data, so sustained use of coached practices cannot be confirmed](coaching-maintenance-rarely-measured.md) — related
+- [Four relational components—positive feedback, rapport, mutual respect, and reciprocal trust—form the relational framework of coaching](four-relational-components-coaching-partnership.md) — related
+- [Research quality and outcome durability were highest when coaching targeted fidelity of specific academic tasks rather than teacher-specific behaviors](coaching-academic-task-fidelity-higher-quality.md) — related
+- [Effective coaches require content expertise, classroom experience, technology proficiency, flexible scheduling, partnership orientation, and interpersonal skills](requisite-coach-characteristics-qualitative-findings.md) — related

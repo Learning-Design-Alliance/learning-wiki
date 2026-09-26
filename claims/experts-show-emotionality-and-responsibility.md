@@ -41,4 +41,9 @@ In Berliner's (1988) study where experts, novices, and postulants planned and ta
 
 
 ## Related Claims
--
+- [Expert performers counteract automaticity by building increasingly complex mental representations, unlike everyday skill learning](experts-counteract-automaticity-mental-representations.md) — related
+- [Expert teachers interpret complex classroom phenomena more accurately and fluidly than novices and postulants](expert-teachers-interpret-classroom-phenomena-better.md) — related
+- [Experts discern instructional significance in classroom scenes while novices and postulants treat all visual stimuli as equally important](experts-discern-importance-of-classroom-events.md) — related
+- [Experts attend selectively to atypical events, merging typical student information into a group picture, while novices and postulants study all student details](experts-attend-to-atypical-events.md) — related
+- [Experts predict classroom phenomena and student errors far more than novices, who rarely anticipate misalgorithms](experts-predict-student-errors-and-classroom-events.md) — related
+- [Expert teachers' well-practiced routines make their performance fluid, as seen in homework-review and lesson-teaching comparisons](expert-teachers-use-routines-for-fluid-performance.md) — related

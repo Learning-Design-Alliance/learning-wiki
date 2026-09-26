@@ -12,7 +12,7 @@ generated:
 # Scaffolded Practice Sequences
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 11 studies, `q2`–`q4` · 9 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 11 studies, `q2`–`q4` · 9 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Scaffolded practice sequences arrange a set of practice tasks along a planned gradient: early tasks are simpler and heavily supported, later tasks are more complex and less supported. Support is faded systematically — from full worked examples, to completion problems, to independent problem solving — so that responsibility for task performance transfers gradually from instruction to the learner.

@@ -41,4 +41,6 @@ Paired comparison of the 8 groups' observation assignments after Workshop 1 (VS)
 
 
 ## Related Claims
--
+- [Authentic video outperformed virtual simulation on the higher-order analysis and support dimensions of observation assignments](av-advantage-analysis-support-dimensions.md) — related
+- [No significant difference between virtual simulation and authentic video on the basic observation dimension of assignments](vs-av-no-difference-observation-dimension.md) — related
+- [Virtual simulation stimulated higher self-reported purposefulness (active reflection) than authentic video](vs-higher-purposefulness-reflection.md) — related

@@ -19,7 +19,7 @@ This strategy anchors new mathematical content in domains where a student alread
 
 ## Design Implications
 
-Connecting new content to well-developed prior knowledge reduces the working-memory burden of learning and improves comprehension, because familiar contexts supply ready-made schemas for the new material [Activating prior knowledge improves comprehension of new material.](../claims/activation.md) [+M]. Strength-based framing also supports self-efficacy, which predicts persistence on challenging tasks [~M]. However, the connection must be structurally meaningful: surface-level "wrapper" contexts (e.g., basketball-themed worksheets with the same abstract procedures) do not produce transfer and can add extraneous load if the context must itself be learned [~M].
+Connecting new content to well-developed prior knowledge reduces the working-memory burden of learning and improves comprehension, because familiar contexts supply ready-made schemas for the new material [Activating prior knowledge improves comprehension of new material.](../claims/activation-improves-learning.md) [+M]. Strength-based framing also supports self-efficacy, which predicts persistence on challenging tasks [~M]. However, the connection must be structurally meaningful: surface-level "wrapper" contexts (e.g., basketball-themed worksheets with the same abstract procedures) do not produce transfer and can add extraneous load if the context must itself be learned [~M].
 
 ### Context
 #### Requirements
@@ -42,7 +42,7 @@ Connecting new content to well-developed prior knowledge reduces the working-mem
 ### Target Learners
 - Students with negative math self-concept or math anxiety, who benefit from entering through a domain of demonstrated competence [~M]
 - Learners from communities whose everyday practices embody mathematical structure (e.g., measurement in trades, pattern in textile arts) [~M]
-- Students with strong interest-domain knowledge but weak formal math vocabulary — the bridge supports vocabulary mapping [Activating prior knowledge improves comprehension of new material.](../claims/activation.md) [+M]
+- Students with strong interest-domain knowledge but weak formal math vocabulary — the bridge supports vocabulary mapping [Activating prior knowledge improves comprehension of new material.](../claims/activation-improves-learning.md) [+M]
 - Less effective when applied uniformly: students with high prior math achievement often need less contextual scaffolding, and expertise can reverse the benefit of extra contextual support [Guidance that helps novices can hinder learners with higher expertise.](../claims/expertise-reversal-effect.md) [~M]
 
 ### Target Learning Goals

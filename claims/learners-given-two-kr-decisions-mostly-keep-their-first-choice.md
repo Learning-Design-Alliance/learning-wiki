@@ -42,3 +42,4 @@ Descriptive count of Self-Both group decisions in this experiment: "there were 3
 
 ## Related Claims
 - [Self Both Kr Decision Shows No Additive Motivational Informational Benefit](self-both-kr-decision-shows-no-additive-motivational-informational-benefit.md)
+- [When restricted to three knowledge-of-results requests per 10-trial block, all three self-controlled groups requested KR mostly on early trials of a block, a massed schedule.](self-controlled-learners-request-kr-early-in-practice-blocks.md) — related

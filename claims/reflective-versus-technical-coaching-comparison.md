@@ -41,4 +41,5 @@ This comparative analysis in the framing paper applies the five-element framewor
 
 
 ## Related Claims
--
+- [Communication problems between university and school regarding epistemological and ontological questions affect teaching and learning of subject knowledge](epistemological-communication-problems-between-organizations.md) — related
+- [Preservice teachers' reflective thinking tendencies differ statistically by learning style in all seven dimensions](reflective-thinking-differs-by-learning-style.md) — related

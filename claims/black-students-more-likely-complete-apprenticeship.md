@@ -41,4 +41,7 @@ Generalized ordered logistic regression results for the apprenticeship phase amo
 
 
 ## Related Claims
--
+- [Educational attainment is not significantly associated with persistence in either the coursework or apprenticeship phase of the LC101 program](educational-attainment-not-associated-lc101-persistence.md) — related
+- [Finding another job (29.1%) and low apprenticeship pay (13.9%) are the largest barriers to completing the LC101 apprenticeship phase](job-and-pay-largest-apprenticeship-barriers.md) — related
+- [HackerRank test scores and prior coding experience are significantly associated with increased odds of persistence across both the coursework and apprenticeship phases of the LC101 program](test-scores-prior-coding-experience-predict-lc101-persistence.md) — related
+- [Self-affirmation improves outcomes](self-affirmation-improves-outcomes.md) — related

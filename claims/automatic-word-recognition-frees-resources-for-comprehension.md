@@ -74,4 +74,11 @@ either. Any design that rests on this claim is resting on a mechanism, and shoul
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — same limited-capacity mechanism applied to larger units of information
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — explains why effortful decoding harms comprehension under load
 - [Activation improves learning.](activation-improves-learning.md) — background knowledge activation complements freed capacity for meaning-building
-- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md) — parallel expertise reversal: fluency scaffolds stop paying off once decoding is automatic
+- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — parallel expertise reversal: fluency scaffolds stop paying off once decoding is automatic
+- [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — related
+- [Systematic Phonics Improves Word Reading](systematic-phonics-improves-word-reading.md) — related
+- [Structured Literacy Interventions Help Struggling Readers](structured-literacy-interventions-help-struggling-readers.md) — related
+- [Morphological Instruction Improves Literacy](morphological-instruction-improves-literacy.md) — related
+- [Cognitive Load Management](cognitive-load-management.md) — related
+- [Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks](cd-semantic-richness-improves-lexical-processing.md) — related
+- [Combined semantic and syntactic contextual information expedites word recognition compared with syntactic information alone](combined-semantic-syntactic-context-expedites-word-recognition.md) — related

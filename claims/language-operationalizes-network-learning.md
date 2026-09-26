@@ -41,4 +41,7 @@ Theoretical claim from the conclusion, argued via the architectonic tradition: d
 
 
 ## Related Claims
--
+- [Connectivism is an iteration of architectonic/constructivist thought rather than a new theory of learning](connectivism-iteration-of-architectonics.md) — related
+- [Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue](dialogue-underpins-networked-learning.md) — related
+- [Hypertextuality extends intertextuality into the digital world, foreshadowing connectivism](hypertextuality-digitizes-intertextuality.md) — related
+- [Knowledge development as social collaboration: ZPD and collective activity systems support CSL learning networks](chat-knowledge-development-social-collaborative-csl.md) — related

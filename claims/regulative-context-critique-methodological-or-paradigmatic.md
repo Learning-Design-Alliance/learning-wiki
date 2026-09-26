@@ -41,4 +41,9 @@ Rhetorical analysis of six papers with comments and replies in this context, inc
 
 
 ## Related Claims
--
+- [Fully constitutive exchanges are rare and proceed by collective integrity](collective-integrity-constitutive-exchanges-rare.md) — related
+- [Comments and replies are rare in the research and scholarly literature](comments-replies-rare-in-scholarly-literature.md) — related
+- [In the regulative knowledge/constitutive community context, argument proceeds by contention and fortification](constitutive-community-context-contention-and-fortification.md) — related
+- [Constructivist responses to Objectivist criticism have redirected rather than addressed the specific questions raised](constructivist-responses-redirect-objectivist-criticisms.md) — related
+- [Weinstein argues critical thinking needs a disciplinary perspective incorporating substantive methodological criteria from within disciplines](disciplinary-perspective-critical-thinking.md) — related
+- [In the constitutive knowledge/regulative community context, critique targets interpretive appropriateness rather than execution](interpretive-appropriateness-context-critique.md) — related

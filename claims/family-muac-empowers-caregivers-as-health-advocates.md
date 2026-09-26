@@ -41,4 +41,8 @@ Theme from caregiver focus groups: some caregivers were recognized as community 
 
 
 ## Related Claims
--
+- [Caregivers and healthcare workers perceived Family MUAC with two-way SMS as acceptable, cost-saving, appropriate, and feasible](family-muac-sms-perceived-acceptable-feasible.md) — related
+- [Baseline-only training was insufficient for sustained measurement accuracy; healthcare workers recommended refresher training](refresher-training-needed-for-muac-accuracy.md) — related
+- [Caregiver uptake of the Family MUAC two-way SMS intervention was high](family-muac-sms-high-uptake.md) — related
+- [Inconsistent MUAC measurements, negative social influences, and phone sharing compromised uptake, especially among low interactors](family-muac-uptake-barriers.md) — related
+- [Narrative and storying genres in educational inquiry risk disempowering the very people they claim to empower](narrative-genres-may-disempower-while-claiming-empowerment.md) — related

@@ -41,4 +41,13 @@ The forum reports Purpura and Turner's (2014) analysis of teacher-learner discou
 
 
 ## Related Claims
--
+- [Aware externals accounted for the conditioning effect, while aware internals, unaware subjects, and controls showed essentially no change](aware-externals-account-for-conditioning-effect.md) — related
+- [I-E scale scores correlate with conditioning performance for aware subjects but not for unaware subjects](ie-scores-correlate-conditioning-aware-only.md) — related
+- [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — related
+- [The study found no evidence that learning without awareness is a demonstrable phenomenon in verbal conditioning](no-learning-without-awareness-verbal-conditioning.md) — related
+- [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-expressive-language.md) — related
+- [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — related
+- [Creating community and interacting with students online required deliberate, planned effort unlike spontaneous face-to-face co-presence](online-community-requires-conscious-effort.md) — related
+- [Students' appropriation of class interaction practices was mediated by prior sociohistorical educational experiences](prior-practices-mediate-class-interaction-appropriation.md) — related
+- [Teacher repetition and translation as unplanned scaffolding can hinder rather than facilitate learning](repetition-translation-scaffolding-hinders-learning.md) — a narrower finding that bears on this claim
+- [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related

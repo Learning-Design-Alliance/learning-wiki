@@ -42,4 +42,6 @@ Narrative review of language-of-instruction evidence. The brief states the "evid
 
 
 ## Related Claims
--
+- [Fluent bilingualism enhances metalinguistic awareness](bilingual-fluency-enhances-metalinguistic-awareness.md) — related
+- [Learners of Italian report ideal-self motivation rather than instrumental motivation, while their teachers assume the reverse.](italian-l2-motivation-is-ideal-self-not-instrumental.md) — related
+- [Early-exit transitional bilingual programs that provide minimal early-grade English literacy and then transition students to all-English classrooms with no support are inappropriate](early-exit-transitional-transition-unsupported-inappropriate.md) — related

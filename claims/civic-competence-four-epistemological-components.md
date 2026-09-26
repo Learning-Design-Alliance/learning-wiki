@@ -41,4 +41,8 @@ Item and factor analysis of course-evaluation survey data from 10,974 students i
 
 
 ## Related Claims
--
+- [Exploration of diversity is associated with all civic competence outcomes in community-based learning courses](diversity-enhances-all-civic-competence-outcomes.md) — related
+- [A syllabus that clearly connects service work to course content shows the strongest relationship with civic competence outcomes](syllabus-service-content-connection-strongest-pedagogical-relationship.md) — related
+- [Class discussion is widely used among students attaining knowledge outcomes, while race and political topics are underused despite association with civic competence](discussion-common-race-political-topics-underused.md) — related
+- [A specific civic education subject provides valuable knowledge but is insufficient on its own to develop civic competence](civic-subject-alone-insufficient.md) — related
+- [Teacher-belief and competence/value scales show high internal consistency (alphas .92 and .89), while the social-activity and excellence scales are weaker (.65 and .69)](mrbq-scale-reliability-mixed.md) — related

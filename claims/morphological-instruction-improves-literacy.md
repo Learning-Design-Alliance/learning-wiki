@@ -71,3 +71,6 @@ Systematic review of 22 peer-reviewed studies of morphological intervention with
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — morphemes function as meaningful chunks within long words
 - [Activation improves learning.](activation-improves-learning.md) — morphological analysis activates learners' existing word knowledge when encountering unfamiliar vocabulary
 - [Expertise reversal effect.](../theories/expertise-reversal-effect.md) — morphological scaffolds, like other supports, should be faded as learners gain decoding skill
+- [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md) — related
+- [Structured Literacy Interventions Help Struggling Readers](structured-literacy-interventions-help-struggling-readers.md) — related
+- [Systematic Phonics Improves Word Reading](systematic-phonics-improves-word-reading.md) — related

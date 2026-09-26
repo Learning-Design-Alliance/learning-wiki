@@ -41,4 +41,6 @@ Pearson correlation analysis in a relational screening study of 429 prospective 
 
 
 ## Related Claims
--
+- [Prospective teachers' critical thinking dispositions show no significant relationship with traditional educational philosophy preference](critical-thinking-dispositions-not-related-traditional-philosophy.md) — related
+- [Critical thinking disposition subscales jointly explain about 14% of contemporary educational philosophy preference, with innovation the only significant predictor](ctds-subscales-predict-contemporary-philosophy-innovation.md) — related
+- [Adopted educational philosophy is significantly positively related to teaching style](philosophy-significantly-related-teaching-style.md) — related

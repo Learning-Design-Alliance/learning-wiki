@@ -41,4 +41,6 @@ Topic-prevalence analysis of Jeremy's Journal simulation responses (N = 13,160 s
 
 
 ## Related Claims
--
+- [In Coach Wright, Asset-mindset participants noticed Jeremy's positive behaviors while Deficit-mindset participants framed behavior as rule compliance, and strength language sometimes appeared without referencing actual strengths](coach-wright-topics-track-asset-deficit-mindsets.md) — related
+- [Structural topic modeling identifies simulation decision points indicative of different equity mindsets across four digital teaching simulations](stm-identifies-equity-mindset-decision-points-in-simulations.md) — a broader claim this one bears on
+- [In Layers, Context-Centered-mindset participants drew on students' communities and home lives while Context-Neutral-mindset participants adapted content without students' out-of-school experiences](layers-topics-track-context-centered-mindsets.md) — related

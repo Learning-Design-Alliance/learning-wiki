@@ -77,3 +77,10 @@ The underlying mechanism these three findings share is that a heritage language,
 
 ## Related Claims
 - [Bilingual fluency enhances metalinguistic awareness](bilingual-fluency-enhances-metalinguistic-awareness.md) — a second, independent benefit of maintaining genuine fluency in both of a bilingual student's languages
+- [Bilingual education evaluations have produced uninterpretable data by failing to model child-input by treatment interactions](bilingual-evaluations-ignore-interactions.md) — related
+- [Assuming conversational fluency indicates English proficiency has led to bilingual children being misdiagnosed as learning disabled or retarded and to premature exit from support programs](conversational-fluency-misleading-proficiency-indicator.md) — related
+- [Early-exit transitional bilingual programs that provide minimal early-grade English literacy and then transition students to all-English classrooms with no support are inappropriate](early-exit-transitional-transition-unsupported-inappropriate.md) — related
+- [Preservation of the mother tongue predicts second-language achievement among migrant children](mother-tongue-preservation-predicts-l2-achievement.md) — possibly the same claim (merge candidate)
+- [Italian grammatical gender stays incompletely mastered by L2 learners and heritage speakers alike, and a gendered first language helps only conditionally.](italian-gender-stays-incomplete-for-l2-and-heritage-speakers.md) — related
+- [Teacher repetition and translation as unplanned scaffolding can hinder rather than facilitate learning](repetition-translation-scaffolding-hinders-learning.md) — related
+- [Rizal Experiment showed literacy achieved more quickly in local and national languages but finding glossed over](rizal-experiment-local-language-faster-literacy.md) — related

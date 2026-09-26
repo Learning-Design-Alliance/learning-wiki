@@ -19,7 +19,7 @@ Cross-grade-level tutoring pairs older learners with younger learners so the old
 
 ## Design Implications
 
-Cross-age tutoring is one of the most consistently supported peer-learning formats: meta-analytic evidence shows tutoring raises achievement for both tutees and tutors, with tutors often gaining as much or more than those they teach [Peer tutoring improves academic achievement for both tutors and tutees.](../claims/peer-tutoring-improves-achievement.md) [+S]. The tutor's benefit comes from generative processing — preparing explanations, answering questions, and monitoring a novice's understanding forces reorganization of one's own knowledge [Learning-by-teaching effects depend on the tutor engaging in generative processing, not just explaining.](../claims/learning-by-teaching-improves-mastery.md) [+M]. Because the age gap reduces social comparison, younger learners may ask questions they would not ask a same-age peer or teacher, and tutors gain confidence and a sense of responsibility [Fading-support-promotes-transfer-of-responsibility](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
+Cross-age tutoring is one of the most consistently supported peer-learning formats: meta-analytic evidence shows tutoring raises achievement for both tutees and tutors, with tutors often gaining as much or more than those they teach [Peer tutoring improves academic achievement for both tutors and tutees.](../claims/peer-tutoring-improves-achievement.md) [+S]. The tutor's benefit comes from generative processing — preparing explanations, answering questions, and monitoring a novice's understanding forces reorganization of one's own knowledge [Learning-by-teaching effects depend on the tutor engaging in generative processing, not just explaining.](../claims/learning-by-teaching-improves-tutor-learning.md) [+M]. Because the age gap reduces social comparison, younger learners may ask questions they would not ask a same-age peer or teacher, and tutors gain confidence and a sense of responsibility [Fading-support-promotes-transfer-of-responsibility](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ### Context
 #### Requirements
@@ -42,7 +42,7 @@ Cross-age tutoring is one of the most consistently supported peer-learning forma
 
 ### Target Learners
 - Younger learners needing academic support who benefit from individualized attention and a low-stakes questioning environment [+S]
-- Older learners who benefit from teaching others — particularly those whose mastery is solid but whose articulation and metacognition need development [Learning-by-teaching effects depend on the tutor engaging in generative processing, not just explaining.](../claims/learning-by-teaching-improves-mastery.md) [+M]
+- Older learners who benefit from teaching others — particularly those whose mastery is solid but whose articulation and metacognition need development [Learning-by-teaching effects depend on the tutor engaging in generative processing, not just explaining.](../claims/learning-by-teaching-improves-tutor-learning.md) [+M]
 - Less effective when either party has significant attendance, behavior, or engagement issues that prevent consistent sessions [-W]
 
 ### Target Learning Goals

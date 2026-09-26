@@ -74,3 +74,6 @@ A registered systematic review of single (acute) bouts of classroom movement bre
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — overly demanding concurrent activity can negate attentional gains
 - [Classroom design affects learning progress](classroom-design-affects-learning-progress.md) — the physical environment shapes opportunities for movement and attention
 - [Clear structure improves learning](clear-structure-improves-learning.md) — predictable lesson structure gives movement breaks a natural, low-cost place in instruction
+- [Teaching Games for Understanding improves tactical decision-making more than traditional physical education instruction.](teaching-games-for-understanding-improves-tactical-decision-making.md) — related
+- [Daily physiological changes in non-experimental situations influence measures of brain structure and function](daily-physiological-changes-influence-brain-measures.md) — related
+- [Self Monitoring Improves On Task Behavior](self-monitoring-improves-on-task-behavior.md) — related

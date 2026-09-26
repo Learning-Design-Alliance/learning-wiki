@@ -41,4 +41,6 @@ Comparison of elementary graduate and undergraduate students (Table IV, N = 213)
 
 
 ## Related Claims
--
+- [Graduates differ from undergraduates across all five philosophical beliefs at the .20 level](graduates-vs-undergraduates-philosophical-profile.md) — related
+- [Several group comparisons show no statistically significant differences in philosophical belief](null-comparisons-philosophical-beliefs.md) — related
+- [Elementary undergraduates show greater belief in Existentialism than secondary undergraduates](elementary-undergrads-higher-existentialism.md) — related

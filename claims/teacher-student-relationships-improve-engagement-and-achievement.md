@@ -76,3 +76,10 @@ The meta-analysis covers 99 studies of students from preschool to high school an
 - [Autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md) — relatedness and autonomy are parallel motivational needs in self-determination theory
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — feedback practices are a relational channel through which teachers sustain engagement
 - [Check-ins](../principles/check-ins.md) — a practical routine for building and monitoring relationship quality
+- [National Board certification identifies teachers who are more expert and whose students achieve deeper learning](board-certification-identifies-more-expert-teachers.md) — related
+- [Learner-centered teacher–student relationships improve student outcomes](learner-centered-teacher-student-relationships-are-effective.md) — related
+- [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) — related
+- [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — related
+- [Teacher Student Relationships Improve Engagement](teacher-student-relationships-improve-engagement.md) — possibly the same claim (merge candidate)
+- [Parent Involvement Improves Achievement](parent-involvement-improves-achievement.md) — related
+- [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — related

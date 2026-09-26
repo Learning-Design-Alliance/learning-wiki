@@ -41,4 +41,6 @@ The paper reviews this finding citing U.S. Department of Labor (1996) and Ekos R
 
 
 ## Related Claims
--
+- [Employee development and continuing education are presented as improving employee behavior, morale, and organizational performance](employee-education-improves-performance.md) — related
+- [Employed Canadian adults report about 6 hours per week of employment-related informal learning](employment-related-informal-learning-hours.md) — related
+- [Over 95% of Canadian adults are involved in some form of informal learning activities they identify as significant](over-95-percent-canadian-adults-informal-learning.md) — related

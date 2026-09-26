@@ -12,7 +12,7 @@ generated:
 # Augmented Reality (AR) for Medical Education and Training
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size
 
 ## Description
 AR overlays interactive, spatially registered 3D content — anatomical models, procedural guidance, virtual patients — onto the learner's real view of the world, typically via head-mounted displays, tablets, or mobile devices. In medical education it is used to teach anatomy in depth, multiply training opportunities through simulation, and let trainees rehearse procedures on virtual patients before touching real ones.

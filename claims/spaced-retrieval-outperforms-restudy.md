@@ -55,3 +55,6 @@ Meta-analysis of 29 studies on spaced retrieval practice, split into two subsets
 - [Active learning improves exam performance](active-learning-improves-exam-performance.md) — retrieval practice is a form of active learning with direct assessment consequences
 - [Feedback improves learning](../claims/feedback-improves-learning.md) — feedback after retrieval attempts is a key moderator of whether errors are corrected or entrenched
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — retrieval demands that help novices may become counterproductive for advanced learners
+- [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
+- [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — related
+- [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related

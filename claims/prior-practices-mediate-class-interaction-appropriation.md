@@ -41,4 +41,7 @@ Participant-observer analysis of a first-year composition course for internation
 
 
 ## Related Claims
--
+- [Contradictions surrounding the OLR drove students to appropriate it, transforming it from an object of confusion into an instrument of critical reflection](contradictions-transform-olr-into-reflection-instrument.md) — related
+- [Participation in composing the Midterm OLR moved students from appropriating labels and surface features toward conceptual underpinnings](participation-appropriates-olr-conceptual-underpinnings.md) — related
+- [Past and present sociohistorical influences led two similar students in the same class to work toward different grades](sociohistorical-influences-on-achievement.md) — related
+- [Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content](interactional-structures-shape-content-processing.md) — related

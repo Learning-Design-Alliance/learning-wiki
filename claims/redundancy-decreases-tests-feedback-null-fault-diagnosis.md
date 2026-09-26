@@ -58,4 +58,4 @@ Same Experiment Four with four highly trained subjects. The article attributes t
 
 
 ## Related Claims
--
+- [Human fault-diagnosis performance deviates from optimality as problem size increases, though it beats a brute-force tracing strategy](problem-size-deviation-from-optimality-fault-diagnosis.md) — related

@@ -58,4 +58,8 @@ Follow-up trend analysis within the same audit: no-follow-up registrations fell 
 
 
 ## Related Claims
--
+- [The average annual number of patients assessed in detail did not differ significantly across the three time periods](cap-clinic-annual-volume-no-significant-change.md) — related
+- [Affective, developmental and emotional disorder registrations rose while mental retardation registrations fell over 26 years; pervasive developmental disorder registrations fell between Periods II and III](cap-clinic-diagnostic-profile-time-trends.md) — related
+- [More than 60% of clinic attendees were boys in every period, with no significant gender time trend](cap-clinic-male-predominance-constant.md) — related
+- [Clinic registrations shifted geographically: Chandigarh registrations declined while Haryana registrations increased across the three periods](cap-clinic-geographic-shift-chandigarh-haryana.md) — related
+- [Registrations of children aged 0-5 and 5-10 years declined significantly across the three time periods](cap-clinic-younger-child-registrations-declined.md) — related

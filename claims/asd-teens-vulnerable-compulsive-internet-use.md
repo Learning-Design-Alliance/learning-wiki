@@ -39,4 +39,4 @@ A practitioner brief asserts, without cited data, that teens with ASD are "vulne
 
 
 ## Related Claims
--
+- [Adolescents with ASD are described as frequent targets of cyberbullying because they may miss social cues and lack self-advocacy skills](asd-teens-cyberbullying-targets-missed-cues.md) — related

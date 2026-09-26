@@ -58,4 +58,8 @@ Analysis of the mentee's 15 written reflections showed she internalised a three-
 
 
 ## Related Claims
--
+- [Most attributes and practices of the five-factor mentoring model (30 of 34) provided input into a first-practicum mentee's classroom management, with no overt evidence on aims, curriculum, timetabling or assessment](five-factor-mentoring-30-of-34-practices-classroom-management.md) — a broader claim this one bears on
+- [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related
+- [Mentee participation in a school-wide positive behaviour support program (Program Achieve) enabled confident implementation of learned strategies in other lessons](program-achieve-participation-builds-mentee-behaviour-management-confidence.md) — related
+- [Repeating one short lesson six times with small groups gave the mentee repeated opportunities to review and modify her classroom management strategies and build confidence](repeated-short-lessons-scaffold-mentee-behaviour-management.md) — a narrower finding that bears on this claim
+- [Talk-time analysis showed the mentor spoke more than the mentee in video-recorded dialogues, with classroom management talk ranging from 3% to 39% of total talk time](mentor-mentee-talk-time-classroom-management-dialogues.md) — related

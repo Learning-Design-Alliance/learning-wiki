@@ -41,4 +41,5 @@ Observational study: three months after STRP training, researchers observed 6 te
 
 
 ## Related Claims
--
+- [The authors conclude that bilingual students can benefit from instruction in metacognitive strategy use](bilingual-students-benefit-metacognitive-strategy-instruction.md) — related
+- [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — related

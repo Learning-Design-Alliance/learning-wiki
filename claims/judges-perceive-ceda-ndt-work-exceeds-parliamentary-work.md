@@ -41,4 +41,6 @@ The tournament survey asked judges about weekly workload of serious debaters in 
 
 
 ## Related Claims
--
+- [Less experienced debate judges are more likely to be assigned to parliamentary debate](inexperienced-judges-assigned-to-parliamentary-debate.md) — related
+- [Parliamentary rules ban published evidence and omit cross examination, which the author argues undermines argumentation training](parliamentary-rules-ban-evidence-and-omit-cross-examination.md) — related
+- [Coaches and students perceive distinct strengths and weaknesses of parliamentary debate relative to other formats](survey-identifies-perceived-strengths-weaknesses-of-parliamentary-debate.md) — related

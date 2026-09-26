@@ -41,4 +41,6 @@ Author interpretation in the Discussion section: the article asserts, without pr
 
 
 ## Related Claims
--
+- [Feuerstein argues learning through direct, unmediated experience cannot yield meaningful learning or full modifiability](direct-experience-insufficient-for-meaningful-learning.md) — related
+- [Students reported greater engagement, motivation and language use after MLE-mediated English lessons](students-report-engagement-after-mle-lessons.md) — related
+- [Teacher mediation interacts with SES: the SES gap in elaborated utterances appears only in the low-mediating classroom](mediation-ses-interaction-elaborated-utterances.md) — related

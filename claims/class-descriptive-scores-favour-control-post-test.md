@@ -41,4 +41,5 @@ Descriptive statistics for expert-like responses across all schools A, B, and C 
 
 
 ## Related Claims
--
+- [E-CLASS statements were validated through 42 student interviews and expert responses from 23 faculty and instructors](eclass-validated-interviews-experts.md) — related
+- [Survey participation was low in about half of administered classes, with only 20 of 45 classes exceeding 40% matched pre/post response](eclass-low-response-rates-half-of-classes.md) — related

@@ -41,4 +41,5 @@ Observational comparison in the 2007-08 class: only ~10% of the class attended t
 
 
 ## Related Claims
--
+- [Support measures introduced in 2007-08 raised the level 1 physics passrate by approximately 8%](learning-support-raises-level1-physics-passrate.md) — related
+- [For material students have prior knowledge of (work-energy theorem), tutorial effectiveness depends significantly on teaching quality, with the ideal Socratic implementation best](instructor-quality-matters-with-prior-knowledge.md) — related

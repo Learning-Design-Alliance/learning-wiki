@@ -41,4 +41,9 @@ Large-scale online questionnaire survey of 31,010 secondary vocational students 
 
 
 ## Related Claims
--
+- [Academic burnout is widespread among secondary vocational students](academic-burnout-widespread-vocational-students.md) — related
+- [Severe depressive symptoms co-occur with self-harm and suicidal tendencies among vocational students](severe-depression-co-occurs-self-harm-suicidal-tendencies.md) — related
+- [Depressive symptoms are detected in 26.35% of secondary vocational students](vocational-students-depression-detection-26-35-percent.md) — related
+- [Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking](students-prefer-peer-support-diversion-over-professional-help.md) — related
+- [Half of reported developmental barriers stem from academic-related challenges (50.39%)](academic-challenges-half-of-development-barriers.md) — related
+- [Interpersonal relationships are the most prominent student concern in qualitative interviews (30.61% of coded responses)](interpersonal-relationships-top-student-concern-30-61.md) — related

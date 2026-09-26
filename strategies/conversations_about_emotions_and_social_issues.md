@@ -19,7 +19,7 @@ This strategy uses deliberately structured classroom conversation — whole-clas
 
 ## Design Implications
 
-Explicit conversation about emotions builds the vocabulary and norms that make social-emotional learning durable; programs that include structured discussion and practice outperform information-only approaches [Social-emotional learning programs improve academic achievement and social-emotional competence.](../claims/social-emotional-learning-improves-achievement.md) [+S]. Naming emotions supports regulation and perspective-taking, and discussing real social issues connects classroom learning to learners' lived experience, supporting engagement and belonging [Belonging interventions improve outcomes for marginalized students.](../claims/belonging-interventions-improve-outcomes.md) [+M]. The quality of the conversation matters more than its occurrence: open, student-voiced dialogue produces deeper reasoning than teacher-led recitation.
+Explicit conversation about emotions builds the vocabulary and norms that make social-emotional learning durable; programs that include structured discussion and practice outperform information-only approaches [Social-emotional learning programs improve academic achievement and social-emotional competence.](../claims/sel-programs-improve-behavior-and-achievement.md) [+S]. Naming emotions supports regulation and perspective-taking, and discussing real social issues connects classroom learning to learners' lived experience, supporting engagement and belonging [Belonging interventions improve outcomes for marginalized students.](../claims/belonging-interventions-improve-outcomes.md) [+M]. The quality of the conversation matters more than its occurrence: open, student-voiced dialogue produces deeper reasoning than teacher-led recitation.
 
 ### Context
 #### Requirements
@@ -42,7 +42,7 @@ Explicit conversation about emotions builds the vocabulary and norms that make s
 - Age-scaled intensity: naming feelings in early grades; structured ethical argument in secondary settings
 
 ### Target Learners
-- K–12 students broadly; effects are strongest when programs are sustained and classroom-embedded [Social-emotional learning programs improve academic achievement and social-emotional competence.](../claims/social-emotional-learning-improves-achievement.md) [+S]
+- K–12 students broadly; effects are strongest when programs are sustained and classroom-embedded [Social-emotional learning programs improve academic achievement and social-emotional competence.](../claims/sel-programs-improve-behavior-and-achievement.md) [+S]
 - Students from marginalized groups, for whom classrooms that acknowledge identity and injustice support belonging [Belonging interventions improve outcomes for marginalized students.](../claims/belonging-interventions-improve-outcomes.md) [+M]
 - Learners with limited emotional vocabulary, who gain the labeling tools needed for self-regulation [~M]
 

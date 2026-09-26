@@ -41,4 +41,4 @@ Written feedback forms from approximately 25 first- and second-year Electrical E
 
 
 ## Related Claims
--
+- [Many students in the digital-images inquiry found identifying engineering tradeoffs difficult despite the budget constraint design](students-found-tradeoffs-difficult-in-inquiry.md) — related

@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: pretesting-enhances-learning
+aliases: [pretesting-improves-retention]
 evidence_strength: weak
 sources:
   - id: richland-kornell-and-kao-2009
@@ -67,10 +68,26 @@ Six experiments tested whether failed retrieval attempts help or hurt later lear
 
 **Open questions.** The durability of pretesting benefits over long retention intervals, and their magnitude relative to equivalent time spent studying, remain actively debated in the literature. Until controlled studies are added to the Evidence section above, the strength and generality of this claim should be treated as provisional.
 
+*Merged from “Pretesting Improves Retention” (pretesting-improves-retention):* **The pretesting (prequestioning) effect.** Failed retrieval attempts before instruction appear to prime learners to encode the corrective information presented afterward. The dominant explanations are search-set activation — the pretest activates related prior knowledge and narrows what learners look for in the to-be-learned material — and productive failure, in which the experience of not knowing creates a gap that subsequent instruction fills. Both accounts predict that the pretest need not be answered correctly to confer a benefit, which distinguishes pretesting from [activation](../principles/activation.md) aimed only at surfacing prior knowledge.
+
+**Scope and moderators.** The effect has been reported most consistently for verbal, fact-like material (word pairs, trivia, expository text) and for relatively short retention intervals. Whether pretesting benefits transfer or complex-skill learning, and whether gains persist over long delays, remain open questions. Feedback after the pretest is likely important: without corrective information, a failed guess may entrench errors rather than prime correction — a boundary condition shared with claims about when [retrieval practice](../strategies/retrieval_practice.md) helps and when errors persist.
+
+**Practical form.** Pretests should be low- or no-stakes, brief, and on the same content as the upcoming instruction. They pair naturally with [retrieval practice](../strategies/retrieval_practice.md) during and after instruction, forming a test–study–test cycle. In classroom settings, brief prequestions embedded at the start of a lesson or online module are the lowest-cost implementation.
+
+**Constraints.** Pretesting gains shrink or vanish when the pretest targets content unrelated to the subsequent instruction [-M], when no corrective feedback or instruction follows the failed attempt [-M], and possibly when learners lack enough prior knowledge to generate even plausible guesses [~W]. High-stakes pretests can also induce anxiety and discourage the productive guessing the effect depends on [-W].
+
+**Single-family limitation.** Until peer-reviewed studies are added to Evidence, this claim should be treated as emerging: the effect is well known in the literature but this page does not yet document its evidentiary basis.
+
 ## Related Claims
 
 - [Retrieval practice improves retention](retrieval-practice-improves-retention.md) — the closest cousin; pretesting extends testing effects to pre-instruction attempts
 - [Activation improves learning](activation-improves-learning.md) — pretesting is a form of prior-knowledge activation that surfaces gaps
 - [Cognitive disequilibrium motivates conceptual change](cognitive-disequilibrium-motivates-conceptual-change.md) — failed pretest attempts create the disequilibrium that instruction then resolves
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — pretests as low-stakes, formative rather than evaluative assessment
-- [Productive failure improves learning](productive-failure-improves-learning.md) — the broader pattern that failed attempts before instruction can outperform instruction alone
+- [Productive failure improves learning](productive-failure-improves-conceptual-learning.md) — the broader pattern that failed attempts before instruction can outperform instruction alone
+- [Retrieval practice](../strategies/retrieval_practice.md) — the strategy page covering test–study–test cycles
+- [Pretesting Can Harm Motivation](pretesting-can-harm-motivation.md) — related
+- [Retrieval Fails Without Encoding](retrieval-fails-without-encoding.md) — related
+- [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — related
+- [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
+- [Question prompts improve learning](question-prompts-improve-learning.md) — related

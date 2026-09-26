@@ -49,3 +49,4 @@ This page exists because multiple principle and index pages reference `[Example-
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md)
 - [Pairing worked examples with practice or fading supports transfer better than examples alone.](worked-examples-with-practice-improve-transfer.md)
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](worked-examples-example-problem-sequences.md)
+- [Sequencing worked examples with practice problems improves learning for novices](worked-example-problem-sequences.md) — a narrower finding that bears on this claim

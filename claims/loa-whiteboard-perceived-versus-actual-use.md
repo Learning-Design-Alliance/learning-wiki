@@ -41,4 +41,8 @@ Descriptive analysis of whiteboard adoption (n=15) showed reported levels in the
 
 
 ## Related Claims
--
+- [Self-reported levels of adoption increased for all 20 surveyed educational technologies across three administrations of the LoA survey](loa-pilot-self-reported-increase-all-20-technologies.md) — related
+- [Learning management system adoption rose from mostly non-use/orientation to routine-through-integration levels by December](loa-lms-adoption-growth.md) — related
+- [Reported use of bridging/conferencing software showed a significant increase (p<0.001), with mean level rising from 1.00 to 2.60](loa-bridging-conferencing-significant-increase.md) — related
+- [Reported videoconferencing adoption rose significantly after practitioners returned to the workplace (p<0.005), with mean level increasing from 2.00 to 4.53](loa-videoconferencing-significant-post-posttest-increase.md) — related
+- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related

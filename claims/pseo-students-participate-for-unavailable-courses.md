@@ -41,4 +41,5 @@ Center for School Change survey of on-campus PSEO students conducted in 2001. Th
 
 
 ## Related Claims
--
+- [Participants in Minnesota's choice options express a high degree of satisfaction, and preliminary studies suggest positive academic outcomes](choice-participants-high-satisfaction-preliminary-positive-outcomes.md) — related
+- [Area Learning Center students most often cite individualized education, smaller schools, less restrictive environments, and flexible schedules as enrollment reasons](alc-students-enroll-for-individualized-flexible-settings.md) — related

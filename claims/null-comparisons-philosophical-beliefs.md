@@ -41,4 +41,8 @@ Secondary graduate versus secondary undergraduate comparison (Table VII, N = 238
 
 
 ## Related Claims
--
+- [Elementary graduate students score higher in Realism and lower in Existentialism than elementary undergraduates](elementary-grads-realism-up-existentialism-down.md) — related
+- [Elementary education students show higher Phenomenology belief and lower Realism belief than secondary students](elementary-higher-phenomenology-secondary-higher-realism.md) — related
+- [Elementary undergraduates show greater belief in Existentialism than secondary undergraduates](elementary-undergrads-higher-existentialism.md) — related
+- [Graduates differ from undergraduates across all five philosophical beliefs at the .20 level](graduates-vs-undergraduates-philosophical-profile.md) — related
+- [Secondary education students show significantly higher belief in Realism than elementary education students](secondary-students-higher-realism-than-elementary.md) — related

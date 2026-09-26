@@ -61,3 +61,5 @@ A meta-analysis of controlled experiments testing reflective interventions inten
 - [Self-regulated learning](../theories/self-regulated-learning.md) — reflection is the self-evaluation phase of self-regulated learning cycles
 - [Communities of practice](../principles/communities-of-practice.md) — social context in which professional reflection is often situated
 - [Cognitive apprenticeship](../patterns/cognitive-apprenticeship.md) — pairs reflection with expert modeling and feedback, addressing the novice-diagnosis limitation
+- [Deliberate practice interventions produce higher real estate licensing exam pass rates than traditional study methods](deliberate-practice-raises-licensing-pass-rate.md) — related
+- [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related

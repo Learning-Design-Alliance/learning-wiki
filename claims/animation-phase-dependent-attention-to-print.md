@@ -41,4 +41,7 @@ Study 1 phase analysis of the enhanced English condition: English text retained 
 
 
 ## Related Claims
--
+- [Audio narration with finger-tracking animation directs bilingual preschoolers' attention to the target-language print in dual-language e-books, including the nondominant language](enhancing-features-direct-attention-dual-language-e-books.md) — related
+- [Multimedia enhancing features increase attention to print in single-language e-books in both English and Mandarin](enhancing-features-increase-attention-single-language-e-books.md) — related
+- [Multimedia features improved story comprehension in dual-language e-books (marginal trend) but not in single-language e-books](comprehension-benefit-dual-language-only.md) — related
+- [Bilingual preschoolers silently reading dual-language e-books attend more to their dominant language (English) than the nondominant language (Mandarin)](dominant-language-attention-bias-dual-language-e-books.md) — related

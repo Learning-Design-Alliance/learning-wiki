@@ -41,4 +41,8 @@ In the Montreal survey, three respondents reported always performing all 11 acti
 
 
 ## Related Claims
--
+- [Practitioners agree that the 11 listed tasks form the core of the ID process](consensus-eleven-core-id-tasks.md) — related
+- [Follow-up evaluation, needs assessment and task analysis are performed least often and considered least necessary](least-performed-steps-least-necessary.md) — related
+- [Steps perceived as most necessary are performed most frequently](parallel-perceived-necessity-and-frequency.md) — related
+- [No significant differences in step performance across job title, position, duties, introduction to ID, or experience](no-demographic-differences-id-step-performance.md) — related
+- [Heterogeneous introduction to ID and references nonetheless yield homogeneous practice responses](heterogeneous-backgrounds-homogeneous-id-practice.md) — related

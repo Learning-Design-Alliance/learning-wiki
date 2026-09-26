@@ -58,4 +58,5 @@ Descriptive profile analysis by frequencies and percentage of the 1,545-student 
 
 
 ## Related Claims
--
+- [Judicial and liberal are the most prevalent function and leaning styles among Thai sixth graders](sixth-graders-prevalent-thinking-styles.md) — related
+- [Kolb's inventory successfully differentiated group learning styles by students' subject majors](kolb-inventory-group-styles-by-subject-major.md) — related

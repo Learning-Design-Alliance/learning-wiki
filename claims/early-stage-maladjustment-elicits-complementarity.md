@@ -41,4 +41,8 @@ Correlational analysis relating each client's maladjustment index (distance of t
 
 
 ## Related Claims
--
+- [The teacher with the more desirable interpersonal style showed overall coordination consistent with the complementarity principle, while the less desirable teacher's coordination did not](desirable-interpersonal-style-overall-coordination-complementarity.md) — related
+- [Early-stage therapist complementarity does not differ by outcome group, and the predicted later-stage advantage for successful dyads was not supported](early-and-later-stage-complementarity-null-by-outcome.md) — related
+- [During the middle stage of therapy, successful therapists respond at a significantly lower level of complementarity than unsuccessful therapists](middle-stage-lower-complementarity-successful-therapists.md) — related
+- [Overall therapist complementarity across the full therapeutic relationship does not differ significantly between successful and unsuccessful outcome groups](overall-therapist-complementarity-not-related-to-therapy-outcome.md) — related
+- [Observed interaction frequencies support the Interaction Matrix cell weightings, with the most interactions in the highest-weighted cells](interaction-frequencies-support-matrix-weightings.md) — related

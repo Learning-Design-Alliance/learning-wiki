@@ -42,5 +42,8 @@ The chapter reports Rowland's (2014) meta-analysis as its quantitative synthesis
 
 ## Related Claims
 - [Retrieval Practice Improves Retention](retrieval-practice-improves-retention.md)
-- [Testing Effect Improves Retention](testing-effect-improves-retention.md)
 - [Rereading Less Effective Than Retrieval Practice](rereading-less-effective-than-retrieval-practice.md)
+- [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
+- [Retrieval practice effects are larger at retention intervals greater than 1 day (g = 0.69) than at intervals less than 1 day (g = 0.41) in Rowland's (2014) meta-analysis](retrieval-practice-effects-larger-at-retention-intervals-over-one-day.md) — a narrower finding that bears on this claim
+- [Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects](retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) — related
+- [Retrieval practice produces reliable positive effects at short delays, although some forgetting must set in so that the final test is not at ceiling](retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling.md) — a narrower finding that bears on this claim

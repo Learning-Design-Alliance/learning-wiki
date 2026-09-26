@@ -58,4 +58,10 @@ The authors' comparative policy observation: England's National Literacy Strateg
 
 
 ## Related Claims
--
+- [Exercise of autonomy at one level may inhibit its development at another in early literacy learning](autonomy-at-one-level-may-inhibit-another.md) — a narrower finding that bears on this claim
+- [A constructivist, process-oriented syllabus was suggested to be more effective than a knowledge-based approach for cross-cultural learning (Wright, 2000, as reported)](constructivist-syllabus-beats-knowledge-based-culture-teaching.md) — related
+- [Experiences of racism and assimilationist schooling shape teachers' resolve to prevent non-white children's cultures from being overlooked](racism-shapes-resolve-to-teach-childrens-cultures.md) — related
+- [Mobile user typology shows cross-national specificity: class distributions differ across campus-territory groups, challenging the assumption of a fixed set of user segments across countries](cross-national-specificity-of-user-typology.md) — related
+- [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related
+- [Agentic engagement with lively data supports epistemically just crisis sensemaking](lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking.md) — related
+- [Storying is socially and politically non-neutral: it privileges some storylines and silences others](storying-privileges-some-storylines-silences-others.md) — related

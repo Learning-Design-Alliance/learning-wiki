@@ -41,4 +41,5 @@ Qualitative analysis of videotaped miniviews and a group quiz in intermediate me
 
 
 ## Related Claims
--
+- [Students initially leave variables out of their integration limits, using only numerical values, suggesting that variable ('running') limits of integration are unfamiliar](students-initially-omit-variables-from-integration-limits.md) — related
+- [Students using the limits method initially choose unphysical integration limits, failing to consider the functional relationship between limits on either side of the equal sign](students-choose-unphysical-limits-ignoring-functional-relationship-across-equal-sign.md) — related

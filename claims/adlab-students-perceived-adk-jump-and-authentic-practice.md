@@ -41,4 +41,6 @@ Semi-structured interview data from AdLab students at the 10-week point. Tom's q
 
 
 ## Related Claims
--
+- [Time spent in inter-group interactions increased substantially over the semester in the advanced laboratory course](adlab-intergroup-interaction-time-increased-over-semester.md) — related
+- [The quality of inter-group interactions shifted from brief, superficial exchanges to long, detailed, collaborative discussions as community norms were negotiated](adlab-interaction-quality-shifted-from-superficial-to-collaborative.md) — related
+- [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related

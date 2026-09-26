@@ -41,4 +41,6 @@ Theme from rapid qualitative analysis of three virtual focus groups with 19 Hisp
 
 
 ## Related Claims
--
+- [Hispanic adults valued culturally relevant visual design — bright colors, Hispanic representation, and realistic imagery — in lung cancer screening educational materials](culturally-relevant-visual-design-lcs-materials.md) — related
+- [Cancer-related fear and fatalism shape lung cancer screening decisions, and Hispanic adults preferred balanced risk communication that minimizes fear](fear-fatalism-shape-lcs-decisions-balanced-risk-communication.md) — related
+- [Hispanic adults in LCS focus groups reported limited awareness and understanding of lung cancer screening, including eligibility, benefits, and harms](hispanic-adults-limited-lcs-awareness-focus-groups.md) — related

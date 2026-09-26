@@ -19,7 +19,7 @@ Socratic questioning teaches through inquiry: the instructor poses a structured 
 
 ## Design Implications
 
-Socratic questioning works because generating an answer forces deeper processing than receiving one: explaining and justifying reasoning produces self-explanation effects that improve understanding [Eliciting self-explanations improves understanding.](../claims/eliciting-self-explanations-improves-understanding.md) [+S]. It also induces productive cognitive conflict — confronting contradictions in one's own reasoning motivates conceptual change [Cognitive disequilibrium motivates conceptual change.](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M]. However, its effectiveness depends on question quality and sequencing: poorly scaffolded pure-discovery versions leave novices floundering, while guided questioning approaches consistently outperform unguided exploration [Minimally guided instruction is less effective than guided instruction for novices.](../claims/minimally-guided-instruction-less-effective-for-novices.md) [~S].
+Socratic questioning works because generating an answer forces deeper processing than receiving one: explaining and justifying reasoning produces self-explanation effects that improve understanding [Eliciting self-explanations improves understanding.](../claims/self-explanation-improves-learning.md) [+S]. It also induces productive cognitive conflict — confronting contradictions in one's own reasoning motivates conceptual change [Cognitive disequilibrium motivates conceptual change.](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M]. However, its effectiveness depends on question quality and sequencing: poorly scaffolded pure-discovery versions leave novices floundering, while guided questioning approaches consistently outperform unguided exploration [Minimally guided instruction is less effective than guided instruction for novices.](../claims/minimal-guidance-less-effective-for-novices.md) [~S].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Socratic questioning works because generating an answer forces deeper processing
 - Enough wait time (typically 3+ seconds) for learners to compose substantive answers
 
 #### Constraints
-- With novices who lack foundational knowledge, questioning alone can overload working memory and produce frustration or guessing [Minimally guided instruction is less effective than guided instruction for novices.](../claims/minimally-guided-instruction-less-effective-for-novices.md) [-S] — novices need some direct exposition before or alongside inquiry
+- With novices who lack foundational knowledge, questioning alone can overload working memory and produce frustration or guessing [Minimally guided instruction is less effective than guided instruction for novices.](../claims/minimal-guidance-less-effective-for-novices.md) [-S] — novices need some direct exposition before or alongside inquiry
 - Dominant speakers can hijack whole-class Socratic dialogue; quieter students may disengage without structures that distribute participation
 - High-stakes or evaluative framing suppresses the risk-taking that genuine reasoning aloud requires
 - Less efficient than direct instruction when the goal is efficient acquisition of well-defined procedural knowledge [VanLehn's analysis shows guided tutoring's benefit comes largely from immediate feedback and scaffolding, not open questioning alone.](../claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) [~M]
@@ -41,12 +41,12 @@ Socratic questioning works because generating an answer forces deeper processing
 - **Question stems scaffold**: giving students the Socratic question types themselves (Paul & Elder's taxonomy) so they can lead the dialogue
 
 ### Target Learners
-- Learners with sufficient prior knowledge to generate meaningful answers — intermediate and above [Minimally guided instruction is less effective than guided instruction for novices.](../claims/minimally-guided-instruction-less-effective-for-novices.md) [~S]
+- Learners with sufficient prior knowledge to generate meaningful answers — intermediate and above [Minimally guided instruction is less effective than guided instruction for novices.](../claims/minimal-guidance-less-effective-for-novices.md) [~S]
 - Learners who hold misconceptions that must be surfaced before they can be revised [Cognitive disequilibrium motivates conceptual change.](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M]
 - Advanced and professional learners developing judgment in ill-structured domains (law, medicine, ethics)
 
 ### Target Learning Goals
-- Conceptual understanding and misconception repair [Eliciting self-explanations improves understanding.](../claims/eliciting-self-explanations-improves-understanding.md) [+S]
+- Conceptual understanding and misconception repair [Eliciting self-explanations improves understanding.](../claims/self-explanation-improves-learning.md) [+S]
 - Critical thinking and argument evaluation [Structured argumentation practice improves reasoning quality.](../claims/argumentation-improves-reasoning.md) [+M]
 - Metacognitive awareness of one's own assumptions and reasoning processes
 

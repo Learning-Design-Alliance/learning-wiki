@@ -41,4 +41,5 @@ This is the essay's analytical argument, illustrated with examples such as deter
 
 
 ## Related Claims
--
+- [Late-evening local television news viewing increases with age and its consistency and parent-child similarity also rise](late-evening-local-news-increases-with-age.md) — related
+- [Understanding technical world conditions such as stratospheric ozone depletion requires a level of education most publics lack](technical-world-data-require-education.md) — related

@@ -19,7 +19,7 @@ The Pomodoro Technique, developed by Francesco Cirillo in the late 1980s, struct
 
 ## Design Implications
 
-The technique operationalizes two well-supported ideas: that sustained attention degrades over continuous periods, and that brief breaks restore cognitive resources [~M]. It also externalizes self-regulation — the timer and interval structure substitute for in-the-moment willpower, which supports learners whose executive control is still developing [Self-regulated learning strategies improve achievement.](../claims/self-regulated-learning-strategies-improve-achievement.md) [+M]. The fixed interval acts as a form of [Chunking](../principles/chunking.md) applied to time, reducing the perceived size of a daunting task to a single bounded session.
+The technique operationalizes two well-supported ideas: that sustained attention degrades over continuous periods, and that brief breaks restore cognitive resources [~M]. It also externalizes self-regulation — the timer and interval structure substitute for in-the-moment willpower, which supports learners whose executive control is still developing [Self-regulated learning strategies improve achievement.](../claims/self-regulated-learning-improves-achievement.md) [+M]. The fixed interval acts as a form of [Chunking](../principles/chunking.md) applied to time, reducing the perceived size of a daunting task to a single bounded session.
 
 ### Context
 #### Requirements

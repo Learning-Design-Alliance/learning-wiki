@@ -75,3 +75,7 @@ An intact group of 37 four-year-olds at a play-oriented preschool was rated on b
 - [Play-based learning improves outcomes](play-based-learning-improves-outcomes.md) — situates block play within the broader evidence on guided play
 - [Manipulatives improve mathematics learning](manipulatives-improve-math-learning.md) — physical materials in math instruction, with similar moderation by structure and learner level
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — framework for why structured construction tasks manage intrinsic load while building spatial schemas
+- [Preschool block play complexity predicts later mathematics achievement, with relationships emerging by seventh grade](block-play-complexity-predicts-later-math-achievement.md) — related
+- [Spatial Skills Improve Through Block Building](spatial-skills-improve-through-block-building.md) — related
+- [Guided Play Improves Academic Outcomes](guided-play-improves-academic-outcomes.md) — related
+- [The study's correlational, cross-sectional design limits internal validity and causal interpretation](correlational-design-limits-epistemic-freedom-study.md) — related

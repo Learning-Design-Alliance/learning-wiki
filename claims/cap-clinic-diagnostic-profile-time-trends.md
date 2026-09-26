@@ -75,4 +75,9 @@ Same Table 2 diagnostic trend analysis. Mean annual schizophrenia and psychotic 
 
 
 ## Related Claims
--
+- [Registrations of 10-15 year olds at a north Indian child and adolescent psychiatry clinic increased significantly across three time periods (1980-2005)](cap-clinic-adolescent-registrations-increased.md) — related
+- [The average annual number of patients assessed in detail did not differ significantly across the three time periods](cap-clinic-annual-volume-no-significant-change.md) — related
+- [Psychological treatment provision increased and no-follow-up registrations declined over time, though reduced non-follow-up may not indicate improved service quality](cap-clinic-management-and-follow-up-trends.md) — related
+- [Registrations of children aged 0-5 and 5-10 years declined significantly across the three time periods](cap-clinic-younger-child-registrations-declined.md) — related
+- [More than 60% of clinic attendees were boys in every period, with no significant gender time trend](cap-clinic-male-predominance-constant.md) — related
+- [Among Period III cases followed for one year, 53.3% were rated partially improved or recovered and most unimproved cases had mental retardation](cap-clinic-one-year-outcome-period-iii.md) — related

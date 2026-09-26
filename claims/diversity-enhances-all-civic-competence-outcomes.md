@@ -41,4 +41,9 @@ Correlational analysis (cross tabulations and Pearson correlation) of instructio
 
 
 ## Related Claims
--
+- [Civic competence items cluster into four epistemological components (knowledge, skills, attitudes, actions) in community-based learning course surveys](civic-competence-four-epistemological-components.md) — related
+- [A specific civic education subject provides valuable knowledge but is insufficient on its own to develop civic competence](civic-subject-alone-insufficient.md) — related
+- [Class discussion is widely used among students attaining knowledge outcomes, while race and political topics are underused despite association with civic competence](discussion-common-race-political-topics-underused.md) — related
+- [A syllabus that clearly connects service work to course content shows the strongest relationship with civic competence outcomes](syllabus-service-content-connection-strongest-pedagogical-relationship.md) — related
+- [Professor-student relationship quality correlates with multiple civic engagement outcomes in both directions](professor-relationship-quality-civic-engagement-bidirectional.md) — related
+- [Conflict and antagonism with community partners negatively correlate with social justice and diversity attitudes](community-partner-conflict-negatively-correlates-social-justice.md) — related

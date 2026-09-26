@@ -41,4 +41,7 @@ Within-survey comparison of general perceptions of traditional language courses 
 
 
 ## Related Claims
--
+- [Students prioritize teacher interaction in skill-oriented language courses but show no unified preference in knowledge-oriented general education courses](interaction-priority-skill-vs-knowledge-orientation.md) — related
+- [In online learning, the perceived importance of teacher and student interaction decreases with student age](online-interaction-priority-decreases-with-age.md) — related
+- [Students' general expectations of interaction for learning quality show no single priority order common to all](no-universal-interaction-priority-order.md) — related
+- [The study's results confirm both theses of the Interaction Equivalency Theorem in blended learning contexts](theorem-theses-confirmed-by-survey.md) — related

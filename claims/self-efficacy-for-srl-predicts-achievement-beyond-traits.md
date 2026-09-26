@@ -42,4 +42,6 @@ Narrative review attributing this finding to Zuffiano et al. (2013); the review 
 
 
 ## Related Claims
--
+- [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — related
+- [Self-regulated learning is domain specific, with greater cognitive strategy use in social studies and English than in mathematics](srl-is-domain-specific-strategy-use-varies-by-subject.md) — related
+- [Self-regulated learning strategies account for up to 51% of the variance in academic performance, with metacognitive regulation strategies the strongest predictors](srl-strategies-account-up-to-51-percent-variance-academic-performance.md) — related

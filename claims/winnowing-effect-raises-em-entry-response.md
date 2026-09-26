@@ -41,4 +41,7 @@ Observational comparison of entry response in E&M versus Mechanics exit. Mechani
 
 
 ## Related Claims
--
+- [Direct instruction on forces produces a significant positive effect on Newton's Third Law responses that peaks at instruction's end and diminishes by the end of the quarter](instruction-positive-effect-peaks-then-diminishes.md) — related
+- [Instruction on scalar electric potential produces a pronounced dip in correct vector-based Newton's Third Law responses in E&M](scalar-instruction-interferes-with-vector-responses.md) — related
+- [Current instruction affects previously learned knowledge (interference), calling into question the accuracy of any single assessment](interference-questions-single-assessment-accuracy.md) — related
+- [The interference dip disappears once instruction returns to vector-based topics such as magnetic fields](interference-disappears-when-vector-instruction-resumes.md) — related

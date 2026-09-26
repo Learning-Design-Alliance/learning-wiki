@@ -57,3 +57,8 @@ This meta-analysis pooled 108 controlled evaluations comparing mastery learning 
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — mastery gating only works when unit boundaries match prerequisite structure
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — the broader curricular pattern built on the same time–mastery trade
 - [Adaptive Mastery Learning](../elements/adaptive-mastery-learning.md) — the element-level implementation of mastery gating
+- [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — related
+- [Tutoring benefits both tutors and tutees](tutoring-benefits-tutors-and-tutees.md) — related
+- [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — related
+- [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) — related
+- [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) — related

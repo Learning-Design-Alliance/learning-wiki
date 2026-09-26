@@ -41,4 +41,6 @@ Narrative review attributing these findings to Guo, Kim, and Rubin (2014), descr
 
 
 ## Related Claims
--
+- [Human embodiment in video: perceived social presence benefits learning ratings, but instructor-face inclusion shows no significant learning-performance difference, and learners prefer human over robot presenters with mixed recall](human-embodiment-video-presence-effects.md) — related
+- [Previous instructional-video research lacks a consistent taxonomy, hindering comparison and meta-analysis](video-style-research-lacks-consistent-taxonomy.md) — related
+- [MOOC video styles cluster by discipline: humanities/arts favor speaker-centric, science/engineering favor board-centric](mooc-video-styles-discipline-clusters.md) — related

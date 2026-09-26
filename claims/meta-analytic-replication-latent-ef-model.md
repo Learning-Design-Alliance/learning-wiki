@@ -41,4 +41,6 @@ Meta-analytic database of ten studies (2008–2017) meeting inclusion criteria f
 
 
 ## Related Claims
--
+- [In the ECLS-K: 2010 dataset, a single latent EF factor model fits EF–math associations better than a specific-components model at all three time points](latent-ef-factor-preferred-ecls-k-math.md) — a narrower finding that bears on this claim
+- [Math achievement correlates more strongly with EF components than EF components correlate with each other in early childhood](math-correlates-more-with-ef-than-ef-internally.md) — related
+- [Under the components model in ECLS-K, working memory is the most closely associated EF component with math, but only at time point 1 does it show a positive residual correlation beyond latent EF](working-memory-strongest-component-association-ecls-k.md) — related

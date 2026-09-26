@@ -41,4 +41,6 @@ The review's synthesis of CDST work (citing Caspi 2010 and van Geert 2008) state
 
 
 ## Related Claims
--
+- [Review reports a precursor relationship in which lexical growth suppressed grammatical growth until a threshold was reached](lexical-precursor-grammatical-growth-threshold.md) — a narrower finding that bears on this claim
+- [Review reports word and noun complexity were connected growers while sentence and noun complexity competed in a Dutch learner of Finnish](word-noun-complexity-connected-sentence-noun-competitive-finnish.md) — a narrower finding that bears on this claim
+- [Review reports syntactic complexity and accuracy shift from competitive to connected growers over time in Chinese learners of English](syntactic-complexity-accuracy-competitive-then-connected-growers.md) — a narrower finding that bears on this claim

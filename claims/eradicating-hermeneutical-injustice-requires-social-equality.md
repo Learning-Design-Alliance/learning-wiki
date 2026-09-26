@@ -42,3 +42,7 @@ Theoretical argument the article quotes from Fricker (2017): eradication "will r
 
 ## Related Claims
 - [Black Girls Face Testimonial And Structural Hermeneutical Injustice In School](black-girls-face-testimonial-and-structural-hermeneutical-injustice-in-school.md)
+- [Big Data's variety can aid redress of hermeneutical injustice by letting buried experiences find themselves within the data](big-data-variety-aids-hermeneutical-injustice-redress.md) — related
+- [Cultural processes and forms of epistemic injustice should be taken into account in understanding how inequalities in education are produced and maintained](cultural-processes-and-epistemic-injustice-explain-educational-inequality.md) — related
+- [In a pedagogical space, epistemic injustice might be activated when teachers' identity prejudice leads them to give a student less credit, and the curriculum can block or enable students' understanding and expression of their social experiences](teacher-identity-prejudice-and-curriculum-can-enact-epistemic-injustice-toward-students.md) — related
+- [Girls' experiences of injustice were neglected and girls were expected to accept unfair treatment](girls-injustice-neglected.md) — a narrower finding that bears on this claim

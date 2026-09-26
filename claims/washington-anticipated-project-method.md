@@ -41,4 +41,9 @@ Historiographical argument via Generals: Washington's Tuskegee curriculum placed
 
 
 ## Related Claims
--
+- [Generals's case that Washington's Tuskegee practices were as reform-oriented as those identified with the progressive education movement](washington-reform-oriented-progressivist.md) — a broader claim this one bears on
+- [Washington's correlating of industrial with academic instruction reflects an adaptation of Pestalozzi and Fröebel, situating him in progressive education](washington-pestalozzi-froebel-correlation.md) — related
+- [Washington and Dewey differed on honoring student desires, with Washington arguing for their suppression](washington-suppression-of-student-desires.md) — related
+- [Washington's insistence on the correctness of his Tuskegee method stifled the emergence of new ideas and narrowed his system's application](washington-tuskegee-method-stifled-new-ideas.md) — related
+- [Washington's educational aims show consonance with Dewey's three criteria for educational aims](washington-dewey-aims-consonance.md) — related
+- [Washington's educational philosophy fits within the American pragmatist tradition, sharing a table with Dewey](washington-educational-pragmatist.md) — related

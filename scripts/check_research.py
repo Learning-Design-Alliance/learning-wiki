@@ -45,8 +45,19 @@ def _fmt_result(result: dict) -> str:
 def why(claim_slug: str) -> int:
     """Traverse claim <- evidence <- analysis <- dataset <- release <- protocol."""
     if not (rl.WIKI_ROOT / "claims" / f"{claim_slug}.md").is_file():
-        print(f"no claims/{claim_slug}.md", file=sys.stderr)
-        return 1
+        # A merged or renamed claim answers to its old slug as an alias
+        # (merge_claims.py, update_links_for_renames.py); follow it.
+        import json
+        try:
+            idx = json.loads((rl.WIKI_ROOT / "wiki-index.json").read_text(encoding="utf-8"))
+            target = idx["resolve"].get("claim", {}).get(claim_slug)
+        except (OSError, ValueError, KeyError):
+            target = None
+        if not target:
+            print(f"no claims/{claim_slug}.md", file=sys.stderr)
+            return 1
+        print(f"{claim_slug} is an alias of {target}")
+        claim_slug = target
     obs_records, _ = ol.load_all()
     releases, _ = rl.load_releases()
     protocols, _ = rl.load_protocols()

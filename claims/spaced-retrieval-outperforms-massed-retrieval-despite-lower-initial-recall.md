@@ -76,4 +76,11 @@ In the same Karpicke and Bauernschmidt (2011) experiment, as the chapter reports
 
 ## Related Claims
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md)
-- [Spaced Retrieval Practice Improves Retention](spaced-retrieval-practice-improves-retention.md)
+- [Distributed Practice Improves Retention](distributed-practice-improves-retention.md) — related
+- [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
+- [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](less-initial-retrieval-support-produces-better-retention.md) — related
+- [Repeatedly recalling a text without feedback or rereading produces the best one-week retention, while repeated studying leads on a final test at the end of the session](repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes.md) — related
+- [Repeated retrieval practice alters the rate at which learned items are forgotten, according to learn-to-criterion studies and forgetting-curve analyses the chapter reviews](repeated-retrieval-alters-the-rate-of-forgetting.md) — related
+- [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
+- [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
+- [Structured CAI with spaced practice and spaced review produced better recall and retention than unstructured CAI](structured-cai-spacing-improves-recall-and-retention.md) — a narrower finding that bears on this claim

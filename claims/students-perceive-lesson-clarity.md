@@ -41,4 +41,9 @@ ANOVA on the 20-item Clarity of Teaching questionnaire (Cronbach alpha .96) in t
 
 
 ## Related Claims
--
+- [Clarity and concept structure interact for defining and applying concepts, each accounting for about 40-44% of variance](clarity-concept-structure-interaction.md) — related
+- [Clarity matters less as concept structure becomes simpler: no significant clear-vs-unclear difference for constant successive lessons](clarity-less-relevant-simpler-structures.md) — related
+- [Instructional clarity is a significant main effect on concept achievement, accounting for roughly half of score variance across measures](instructional-clarity-main-effect-concept-achievement.md) — related
+- [Under unclear presentation, a more complex concept structure lessens students' ability to identify concepts](unclear-presentation-complex-structure-penalty.md) — related
+- [A clear variable coordinate lesson produced higher achievement than an unclear lesson with the same concept structure on all five measures](clear-variable-coordinate-beats-unclear.md) — related
+- [Each positive clarity move (keys, links, framing, focusing, examples) correlates positively with every concept achievement measure](positive-clarity-moves-correlate-achievement.md) — related

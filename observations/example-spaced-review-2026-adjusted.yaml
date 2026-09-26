@@ -33,7 +33,7 @@ provenance:
   verification: unverified
 
 appears_in:
-  - claim: spaced-practice-improves-long-term-retention
+  - claim: spaced-practice-improves-retention
     # `qualifies`, not `supports`: this record says the effect exists but is
     # smaller than the unadjusted estimate and is not separable from time on
     # task in this design. The direction is a property of the edge, which is
@@ -92,7 +92,7 @@ observations:
       role: capability-evidence
       role_basis: stated
       anchors:
-        - claims/spaced-practice-improves-long-term-retention
+        - claims/spaced-practice-improves-retention
     time:
       label: Four weeks after the final unit
       offset:

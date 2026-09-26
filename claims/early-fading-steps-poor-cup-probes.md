@@ -41,4 +41,6 @@ Multiple-probe assessment during fading in the single-participant study. The art
 
 
 ## Related Claims
--
+- [Cup-drinking gains were maintained at a 1-year caregiver-conducted follow-up](cup-drinking-gains-maintained-one-year-follow-up.md) — related
+- [Spoon-to-cup fading increased acceptance and mouth clean during cup drinking in a child with intestinal failure](spoon-to-cup-fading-increases-cup-drinking.md) — related
+- [Extinction increased spoon acceptance but cup mouth clean remained low before fading](extinction-utensil-differential-mouth-clean.md) — related

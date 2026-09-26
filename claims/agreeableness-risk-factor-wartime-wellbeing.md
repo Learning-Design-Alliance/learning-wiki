@@ -41,4 +41,6 @@ Pearson correlation in the 147-student wartime sample. The authors attribute the
 
 
 ## Related Claims
--
+- [Emotional stability shows the strongest negative association with decline in students' subjective well-being under martial law](emotional-stability-strongest-protective-wellbeing-wartime.md) — related
+- [Extraversion correlates negatively with well-being decline in wartime students, though less strongly than emotional stability](extraversion-protective-wellbeing-wartime.md) — related
+- [Conscientiousness and tolerance for novelty show small negative associations with well-being decline; other uncertainty-tolerance facets do not](conscientiousness-novelty-tolerance-small-protective-associations.md) — related

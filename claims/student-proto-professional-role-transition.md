@@ -41,4 +41,7 @@ Qualitative analysis of the Selecting Professional Tools and Selecting a Profess
 
 
 ## Related Claims
--
+- [Four types of designerly talk manifest in student-managed social network spaces: tool selection, professional identity, skill-sharing coordination, and ethical design discussion](four-types-designerly-talk-sns.md) — related
+- [Social network site participation enables design learning that breaks the confines of space and time, including pre-enrollment learning and asynchronous ethical discussion](sns-learning-unbounded-space-time.md) — related
+- [Student-generated Facebook groups constitute a hidden curriculum that supports learning outside the formal design studio](student-generated-hidden-curriculum-sns.md) — related
+- [Student-created Facebook groups support self-directed design learning and sharing of expertise outside the formal curriculum](sns-groups-support-informal-design-learning.md) — related

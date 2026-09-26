@@ -76,3 +76,4 @@ The authors’ discussion of Table 1 in the same experiment: a "trend for decrea
 
 ## Related Claims
 - [Self Controlled Kr Decided After Trial Improves Motor Retention](self-controlled-kr-decided-after-trial-improves-motor-retention.md)
+- [During motor practice with knowledge of results, all groups reduced absolute error across blocks, and groups whose KR decision fell after the trial were more accurate during practice than groups whose decision fell before it, independent of choice.](motor-practice-accuracy-improves-across-blocks-and-favors-after-decision-groups.md) — related

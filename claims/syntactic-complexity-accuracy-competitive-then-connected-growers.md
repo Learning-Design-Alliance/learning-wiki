@@ -41,4 +41,6 @@ The review reports Yu and Lowie's (2020) longitudinal case study of the oral lan
 
 
 ## Related Claims
--
+- [Review reports a precursor relationship in which lexical growth suppressed grammatical growth until a threshold was reached](lexical-precursor-grammatical-growth-threshold.md) — related
+- [Language subsystems may show supportive, competitive, or precursor relationships depending on available cognitive resources](subsystems-show-supportive-competitive-precursor-relationships.md) — a broader claim this one bears on
+- [Review reports word and noun complexity were connected growers while sentence and noun complexity competed in a Dutch learner of Finnish](word-noun-complexity-connected-sentence-noun-competitive-finnish.md) — related

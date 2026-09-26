@@ -34,7 +34,7 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 
 ## Claims
 - [Mnemonic instruction improves recall for students with disabilities](../claims/mnemonic-instruction-improves-recall-for-students-with-disabilities.md) [+M] — a targeted response with a well-identified population
-- [Spatial contiguity improves learning](../claims/spatial-contiguity-improves-learning.md) [+M] — placing related elements together lowers a demand that falls hardest here
+- [Spatial contiguity improves learning](../claims/split-attention-effect-degrades-learning.md) [+M] — placing related elements together lowers a demand that falls hardest here
 
 ## Related Learner Variables
 - Digital literacy — whether they can operate it, as against whether they can perceive it.

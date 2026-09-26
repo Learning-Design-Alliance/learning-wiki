@@ -49,3 +49,5 @@ A philosophical argument, first published in *Educational Technology* in 2003, t
 
 ## Related Claims
 - [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — the empirical literature closest to the harm the argument describes
+- [Highly reflective students often viewed the lecture-free restructured course negatively, as unchallenging and lacking in content](highly-reflective-students-found-restructured-course-unchallenging.md) — related
+- [Pretesting Can Harm Motivation](pretesting-can-harm-motivation.md) — a narrower finding that bears on this claim

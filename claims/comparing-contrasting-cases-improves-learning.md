@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: comparing-contrasting-cases-improves-learning
+aliases: [comparing-contrasting-cases-improve-learning]
 evidence_strength:
 sources:
   - id: alfieri-et-al-2013
@@ -84,6 +85,16 @@ Seventy seventh-grade students learning to solve algebra equations were randomly
 
 **Open questions.** The evidence base for this page has not yet been populated; the strength of the claim, its moderators (novice vs. advanced learners, domain, case format), and its effect sizes need to be established from the literature before the claim can be rated.
 
+*Merged from “Comparing contrasting cases improves learning” (comparing-contrasting-cases-improve-learning):* **Mechanism.** Contrasting cases work by making discriminating features visible. When two cases differ on exactly the dimension the designer wants learned, learners' attention is drawn to that dimension in a way that studying a single case cannot achieve [+W]. This aligns with the broader claim that [analogical reasoning improves transfer](analogical-reasoning-improves-transfer.md) [+M]: comparison invites learners to map structure from one case onto another, and the mapping process surfaces the relational schema that supports transfer.
+
+**Relation to multiple-case instruction.** The claim is closely related to [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md) and its recommendation of multiple representations and cases for ill-structured domains — see [Cognitive flexibility theory: multiple cases support transfer in ill-structured domains.](cognitive-flexibility-theory-multiple-cases.md). It also underpins [case-based learning](../patterns/case-based-learning.md) designs, where [case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) under some conditions [~M].
+
+**Moderators and boundary conditions.** Comparison is not automatically beneficial. If the cases differ on too many dimensions at once, learners may attend to surface features rather than the intended deep structure, and the added processing can contribute to [cognitive overload degrading learning](cognitive-overload-degrades-learning.md) [~M]. Sequencing matters: learners typically need enough prior knowledge to interpret the cases before comparison pays off, and for novices the comparison itself imposes working-memory demands that may need scaffolding — consistent with [cognitive load theory](../theories/cognitive-load-theory.md) [~M]. As expertise grows, the value of guided comparison may decline in line with the [expertise reversal effect](../theories/expertise-reversal-effect.md) [~M].
+
+**Design implications.** Effective comparisons tend to (a) vary on one or few dimensions at a time, (b) present cases side by side or in immediate succession rather than spaced apart, (c) prompt learners to state what differs and why rather than leaving comparison implicit, and (d) align case surface features so that the intended deep structure is the salient difference. These follow directly from the mechanism above: anything that obscures the discriminating dimension — extra differences, temporal separation, or unprompted comparison — weakens the effect [~W]. Prompts to articulate differences can be treated as a form of [self-explanation](../elements/self-explanation.md) layered onto the comparison itself.
+
+**Open questions.** The evidence base for this claim has not yet been populated on this page; studies still need to be added before an evidence strength can be assigned. Key open questions include how the number of cases, the similarity of the cases, and the amount of guidance during comparison moderate the effect.
+
 ## Related Claims
 
 - [Analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md) — comparison is the mechanism by which analogies transfer structure between cases
@@ -92,3 +103,7 @@ Seventy seventh-grade students learning to solve algebra equations were randomly
 - [Concept attainment.](../patterns/concept-attainment.md) — comparing positive and negative examples to induce a concept is the classic contrasting-cases pattern
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — relevant to the working-memory demands of holding multiple cases in mind simultaneously
 - [Expertise reversal effect.](../theories/expertise-reversal-effect.md) — comparison scaffolds that help novices may burden more advanced learners
+- [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — poorly designed comparisons can overload working memory
+- [Multiple Contrasting Cases Support Abstraction](multiple-contrasting-cases-support-abstraction.md) — possibly the same claim (merge candidate)
+- [Interleaving Improves Transfer](interleaving-improves-transfer.md) — related
+- [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related

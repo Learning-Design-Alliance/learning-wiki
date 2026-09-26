@@ -41,4 +41,5 @@ School-level comparison from the 1971 survey contrasting MDC and CDC incidence r
 
 
 ## Related Claims
--
+- [No significant correlations were found between MDC speech articulation disorders and paternal separation time, family moves, rank, father's age, child's familial placement, or military occupation](mdc-articulation-null-correlates-paternal-factors.md) — related
+- [The types of speech articulation errors among MDC approximated those reported for the general school-age population](mdc-error-types-match-general-population.md) — related
