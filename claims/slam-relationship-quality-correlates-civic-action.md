@@ -1,0 +1,44 @@
+---
+type: claim
+title: Positive SLAM-student relationship qualities correlate with civic action
+description: Positive SLAM-student relationship qualities correlate with civic action
+id: slam-relationship-quality-correlates-civic-action
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-09-26
+evidence_strength: moderate
+sources:
+  - id: harkins-2021
+    resource: "https://doi.org/10.3998/mjcsloa.3239521.0026.203"
+    title: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2021). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.203"
+    author: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M."
+    q: 3
+    i: 1
+---
+
+# Positive SLAM-student relationship qualities correlate with civic action
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+
+## Subclaims
+`q3 i1` Civic action correlated positively with SLAM relationship variables: guidance (r = .32, p < .05), satisfaction (r = .33, p < .01), nurturance (r = .45, p < .01), reassurance of competence (r = .48, p < .01), and intimate disclosure (r = .31, p < .05). [→ Harkins 2021](#harkins-2021)
+
+## Evidence
+
+### Harkins 2021
+
+Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2021). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.203
+
+`q3 · i1`
+
+Correlational analyses of CASQ and NRI-SPV scores among mentored students (MG, n = 60) examined student-SLAM relationship quality. The article reports positive correlations between civic action and five NRI relationship variables, with the strongest being reassurance of competence (r = .48).
+
+> "there was a correlation between civic action and the NRI relationship variables guidance (r = .32, p < .05); satisfaction (r = .33, p < .01); nurturance (r = .45, p < .01); reassurance of competence (r = .48, p < .01); and intimate disclosure (r = .31, p < .05)"
+
+## Discussion
+
+
+## Related Claims
+-

@@ -71,4 +71,4 @@ Generative strategies improve retention and transfer because they force learners
 - Wittrock, M. C. (1974). Learning as a generative process. *Educational Psychologist, 11*(2), 87–95. [doi:10.1080/00461527409529129](https://doi.org/10.1080/00461527409529129)
 - Mayer, R. E. (2014). Cognitive theory of multimedia learning. In R. E. Mayer (Ed.), *The Cambridge Handbook of Multimedia Learning* (2nd ed., pp. 43–71). Cambridge University Press. [doi:10.1017/CBO9781139547369.005](https://doi.org/10.1017/CBO9781139547369.005)
 - Fiorella, L., & Mayer, R. E. (2016). Eight ways to promote generative learning. *Educational Psychology Review, 28*(4), 717–741. [doi:10.1007/s10648-015-9348-9](https://doi.org/10.1007/s10648-015-9348-9)
-- Fiorella, L., & Mayer, R. E. (2015). *Learning as a generative activity: Eight learning strategies that promote understanding*. Cambridge University Press.
+- Fiorella, L., & Mayer, R. E. (2015). *Learning as a generative activity: Eight learning strategies that promote understanding*. Cambridge University Press. [doi:10.1017/cbo9781107707085](https://doi.org/10.1017/cbo9781107707085)

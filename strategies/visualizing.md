@@ -69,7 +69,7 @@ Visualizing improves comprehension and problem solving because external represen
 - **Reading comprehension story maps** — learners diagram setting, characters, and causal chains while reading narrative text.
 
 ## Key Sources
-- Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press.
+- Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)
 - Hegarty, M., & Kozhevnikov, M. (1999). Types of visual–spatial representations and mathematical problem solving. *Journal of Educational Psychology, 91*(4), 684–689. [doi:10.1037/0022-0663.91.4.684](https://doi.org/10.1037/0022-0663.91.4.684)
 - van Garderen, D., & Montague, M. (2003). Visual–spatial representation, mathematical problem solving, and students of varying abilities. *Learning Disabilities Research & Practice, 18*(4), 246–254.
 - Fiorella, L., & Mayer, R. E. (2016). Eight ways to promote generative learning. *Educational Psychology Review, 28*(4), 717–741. [doi:10.1007/s10648-015-9348-9](https://doi.org/10.1007/s10648-015-9348-9)

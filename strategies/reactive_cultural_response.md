@@ -69,5 +69,5 @@ Effective responsiveness depends on accurate diagnosis before adjustment — tea
 ## Key Sources
 - Cornelius-White, J. (2007). Learner-centered teacher-student relationships are effective: A meta-analysis. *Review of Educational Research, 77*(1), 113–143. [doi:10.3102/003465430298563](https://doi.org/10.3102/003465430298563)
 - Emmer, E. T., & Stough, L. M. (2001). Classroom management: A critical part of educational psychology, with implications for teacher education. *Educational Psychologist, 36*(2), 103–112. [doi:10.1207/S15326985EP3602_5](https://doi.org/10.1207/S15326985EP3602_5)
-- Hattie, J. (2009). *Visible learning: A synthesis of over 800 meta-analyses relating to achievement.* Routledge.
+- Hattie, J. (2009). *Visible learning: A synthesis of over 800 meta-analyses relating to achievement.* Routledge. [doi:10.4324/9780203887332](https://doi.org/10.4324/9780203887332)
 - Wubbels, T., & Brekelmans, M. (2005). Two decades of research on teacher–student relationships in class. *International Journal of Educational Research, 43*(1–2), 6–24. [doi:10.1016/j.ijer.2006.03.003](https://doi.org/10.1016/j.ijer.2006.03.003)

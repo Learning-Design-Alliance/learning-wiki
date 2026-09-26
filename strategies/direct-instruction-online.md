@@ -80,6 +80,6 @@ Explicit, well-structured online instruction reduces unguided search and working
 ## Key Sources
 - Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. *Educational Psychologist, 41*(2), 75–86. [doi:10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)
 - Anderson, T., Rourke, L., Garrison, D. R., & Archer, W. (2001). Assessing teaching presence in a computer conferencing context. *Journal of Asynchronous Learning Networks, 5*(2), 1–17. [doi:10.24059/olj.v5i2.1875](https://doi.org/10.24059/olj.v5i2.1875)
-- Hattie, J. (2009). *Visible learning: A synthesis of over 800 meta-analyses relating to achievement.* Routledge.
+- Hattie, J. (2009). *Visible learning: A synthesis of over 800 meta-analyses relating to achievement.* Routledge. [doi:10.4324/9780203887332](https://doi.org/10.4324/9780203887332)
 - Mayer, R. E. (2020). *Multimedia learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)
 - Guo, P. J., Kim, J., & Rubin, R. (2014). How video production affects student engagement: An empirical study of MOOC videos. *Proceedings of the First ACM Conference on Learning @ Scale (L@S '14)*, 41–50. [doi:10.1145/2556325.2566239](https://doi.org/10.1145/2556325.2566239)
