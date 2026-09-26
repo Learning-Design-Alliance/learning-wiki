@@ -17,6 +17,7 @@ sources:
 # Use a three-stage model to help learners identify and apply their learning-style characteristics
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article describes a three-stage developmental model (Reynolds & Werner, 2003) in which learners 'first identify their learning-style characteristics; next to understand their current effective or ineffective learning strategies; and, then to construct new learning strategies that incorporate their own learning-style characteristics.' The author also recommends making learning-style characteristics overt through individual discussions and independent student investigation.

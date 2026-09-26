@@ -17,6 +17,7 @@ sources:
 # Use DFIT indices with empirically established cutoffs and iterative linking to screen polytomous tests for DIF and DTF
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article outlines a practical workflow for test developers: estimate item parameters with PARSCALE, link the Reference Group metric to the Focal Group metric with a two-stage iterative linking procedure, compute C-DIF and NC-DIF, and apply an empirically established cutoff value (.016 in this study) to flag items. The authors suggest that "a test developercould examine the DTF,then determine which itemneeds to be eliminated based on its C-DIFvalue and its.overallcontribution to DTF."

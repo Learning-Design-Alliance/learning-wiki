@@ -17,6 +17,7 @@ sources:
 # Use CREACT discussions in classroom environments to develop students' creative performance
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors recommend that "discussions with CREACT can be conducted" in classroom environments to help develop students' creative performance and creative thinking, and it "is recommended to teachers and/or trainers that CREACT be used in the classroom or in any kind of teaching environments." Implementation as described in this study involved a classroom teacher trained in CREACT over two sessions guiding pre-planned lessons with a discussion form, with activity forms collected and checked after each lesson.

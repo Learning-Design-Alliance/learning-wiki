@@ -24,6 +24,7 @@ sources:
 # Define and Apply Ethical Responsibility
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies, `q2`–`q4` · 5 of 10 report an effect size
 
 ## Description
 This strategy has two halves that must both be present. **Defining**: making explicit what obligations a domain places on someone acting within it — what a researcher owes participants, a developer owes users, a clinician owes patients, a student owes the people whose work they cite. **Applying**: putting learners into concrete cases where those obligations conflict with each other or with self-interest, and requiring a decision with reasons. The definition alone produces learners who can recite a code; the application is where the learning is, because the difficulty in practice is almost never ignorance of the principle but failure to notice that it applies.

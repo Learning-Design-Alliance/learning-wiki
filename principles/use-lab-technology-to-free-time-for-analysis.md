@@ -17,6 +17,7 @@ sources:
 # Use real-time data collection technology to free class time for interpretation, analysis, and further investigation rather than covering more material
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Because real-time data collection makes labs faster and represents data instantly, students can focus immediately on interpretation and analysis instead of building representations themselves and questioning their accuracy. The article shows the additional time was dedicated to further investigation of concepts and added problem solving, which the authors identify as a reason for greater learning. Technology should thus be used to do non-learning-critical tasks more quickly, freeing time for activities important to learning.

@@ -17,6 +17,7 @@ sources:
 # Provide scaffolding and support activities before student question-authoring tasks, because context and support appear to bear on question quality
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article proposes that the quality of student-authored questions depends substantially on the material and support provided before authoring. It states: "It is our hypothesis that the higher quality of student-authored questions found in the present study is connected to the introductory exercises and scaﬀolding activities that we provided to students ahead of the ﬁrst PeerWise assessment task." The scaffolding set a high bar via a worked example and pushed students beyond what they currently know. This remains an untested hypothesis in this study.

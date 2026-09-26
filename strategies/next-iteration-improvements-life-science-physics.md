@@ -17,6 +17,7 @@ sources:
 # Iterative improvements and interdisciplinary integration for the next course iteration
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors' forward-looking recommendations for improving the reformed course: supplement the draft textbook with additional practice problems, develop additional multi-part homework problems exploring "the physical principles behind specific living systems," develop appropriate laboratory exercises since current labs are relatively standard, and formally integrate the physics sequence into the BRAID program linking chemistry and biology courses. They judge the interdisciplinary integration to have the most potential for students' long-term success.

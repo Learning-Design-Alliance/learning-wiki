@@ -16,6 +16,7 @@ sources:
 # Värdegrunden: the läroplan as consensual steering document of constitutive democratic values
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Swedish läroplan is "a consensually constructed document and a symbol of broad political agreement" and a steering document identifying the steering values in education. When the 1994 läroplan was introduced, a new label for the constitutive values of the school system was invented: "värdegrunden". The revised Lpo94 opened with norms and values rather than knowledge, symbolically emphasising that schooling can prioritise values over knowledge, and each sector document begins by identifying democratic values all Swedish schools should represent and impart.

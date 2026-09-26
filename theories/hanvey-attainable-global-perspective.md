@@ -16,6 +16,7 @@ sources:
 # Hanvey's attainable global perspective: four components of global awareness
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The bibliography annotates Robert G. Hanvey's ATTAINABLE GLOBAL PERSPECTIVE (Center for Global Perspectives, 1979) as an effort to define global perspective through four components. The annotation reads: "An effort to define global perspective as having a 'state of the planet' awareness, cross cultural awareness, knowledge of global dynamics, and awareness of numan choice." This framework gives educators a vocabulary for the dimensions of global perspective that materials for K-8 programs can target.

@@ -12,6 +12,7 @@ generated:
 # Self Evaluation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 6 studies, `q2`–`q3` · 2 of 6 report an effect size
 
 ## Description
 Self evaluation asks learners to judge the quality of their own work, performance, or understanding against explicit criteria before (or instead of) receiving external judgment. It is carried out through rubrics, checklists, exemplar comparison, or structured reflection prompts, and functions as both an assessment activity and a training method for self-regulation.

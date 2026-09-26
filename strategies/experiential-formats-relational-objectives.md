@@ -17,6 +17,7 @@ sources:
 # Use direct-experience formats — simulation games, extracurricular activities, action learning, peer teaching — to pursue relational-domain objectives
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends learning environments that let learners explore social relationships through direct experience, in simulated or real-world formats, on the premise that one leads by leading rather than by reading about leading. It invokes Anderson and Moore's three qualities of effective formats for interdependence training: "a safe environment; safety to make mistakes; a playful atmosphere; (2) an intrinsic reward system; builtin goals and source of motivation; (3) guidance in mastery of relevant techniques." Simulation games, school extracurricular activities, community action learning, peer teaching, and Junior Achievement are named as strong matches, especially when paired with structured conceptual and evaluational activities.

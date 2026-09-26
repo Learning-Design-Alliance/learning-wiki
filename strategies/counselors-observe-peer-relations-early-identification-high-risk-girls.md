@@ -17,6 +17,7 @@ sources:
 # School counselors should observe adolescent peer relations and identify high-risk girls early for prevention and intervention
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Based on the finding that peer relations and peer deviance are differently related to reactive and proactive aggression, the article recommends that school counselors observe adolescent peer relations in terms of their relationships with aggressive behaviors, increase awareness of negative outcomes of girls' aggression, identify high-risk girls early, and provide school-based supports such as promoting social and emotional development and building social skills. The authors state these differences "should be considered when planning prevention and intervention programs."

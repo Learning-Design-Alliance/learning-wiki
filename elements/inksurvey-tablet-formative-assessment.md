@@ -17,6 +17,7 @@ sources:
 # InkSurvey real-time formative assessment with pen-enabled tablet computers
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 InkSurvey is free web-based software used to collect real-time, open-format student responses on pen-enabled mobile devices (Tablet PCs). "Students used the web-based software InkSurvey [17] to comp ose and submit their responses to questions about free, interactive simulations they accessed online." The authors chose it because it is free and robust in classes exceeding sixty students; a single student can submit multiple responses, identity is concealed from peers, and the instructor can track individual submissions.

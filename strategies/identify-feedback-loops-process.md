@@ -16,6 +16,7 @@ sources:
 # Identify feedback loops in your organization by sourcing, evaluating, and validating case studies
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report lays out a three-part process for identifying feedback loops in an organization: sourcing case studies by mapping connections to external partners, evaluating those case studies against the definition and criteria, and validating and iterating the learnings. Evaluation involves identifying initial structures, assigning participant roles, building visual diagrams with arrows for unidirectional versus bidirectional interactions, and reviewing what transformed between parties. Validation requires following up with the parties themselves, approaching it from both central-party and non-central perspectives and expecting to iterate on initial conceptions.

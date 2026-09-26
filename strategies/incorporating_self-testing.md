@@ -12,6 +12,7 @@ generated:
 # Incorporating Self-Testing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (5 for) · 11 studies, `q3`–`q4` · 11 of 11 report an effect size
 
 ## Description
 Self-testing reframes testing as a learning event rather than a measurement event: learners answer questions — flashcards, practice quizzes, free recall prompts — before, during, or after instruction, with no grade consequences. The act of retrieving information from memory strengthens retention far more than rereading, and the results show learners *what they do not yet know*, directing subsequent study. The instructor's role shifts from administering tests to supplying retrieval opportunities and teaching learners to interpret their own errors.

@@ -19,6 +19,7 @@ grain_size: lesson
 # Merrill's First Principles (Demonstration)
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 This page captures the demonstration-focused slice of Merrill's First Principles of Instruction: showing what successful performance or reasoning looks like before asking learners to apply it independently. It serves as the canonical short-form target for links that reference Merrill's demonstration move specifically rather than the full instructional pattern.

@@ -12,6 +12,7 @@ generated:
 # Professional Learning Communities
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 2 of 3 report an effect size
 
 ## Description
 A Professional Learning Community (PLC) is an ongoing, school-embedded structure in which teams of educators collaborate around three questions: what should students learn, how will we know they learned it, and what will we do when they don't? Unlike one-off workshops, PLCs are characterized by shared mission, collective inquiry, collaborative teams, action orientation, and continuous improvement [DuFour's four pillars and three big ideas]. The unit of change is the team's shared practice, not the individual teacher's knowledge.

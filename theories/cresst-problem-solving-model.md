@@ -16,6 +16,7 @@ sources:
 # CRESST model of problem solving
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The problem-solving assessment model from the National Center for Research on Evaluation, Standards, and Student Testing, used as this study's theoretical frame. It "consists of three components: (a) content understanding, (b) problem-solving strategies, and (c) self-regulation". Strategies divide into domain-independent and domain-specific; self-regulation divides into metacognition (self-monitoring, planning) and motivation (effort, self-efficacy). The study measured content understanding with knowledge maps and strategies with retention and transfer questions.

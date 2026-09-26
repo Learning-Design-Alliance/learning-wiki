@@ -12,6 +12,7 @@ generated:
 # Attention Breaks
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 unmarked) · 2 studies, `q3` · 2 of 2 report an effect size
 
 ## Description
 Attention breaks are brief, scheduled intervals during which learners practice attending to whether they are paying attention. At periodic intervals — signaled by a timer or app — the learner marks whether they were attending during the preceding work period. The strategy trains learners to recognize what attention feels like and how often they are tempted to disengage, converting attention from an invisible state into an object of [self-monitoring](../claims/self-monitoring-improves-self-regulation.md).

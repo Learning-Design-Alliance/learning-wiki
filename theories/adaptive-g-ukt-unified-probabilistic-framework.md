@@ -16,6 +16,7 @@ sources:
 # Adaptive G-UKT: a unified probabilistic knowledge tracing framework coupling Gaussian state representations, adaptive graph topology learning, Wasserstein attention, and uncertainty-gated contrastive regularization
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Adaptive G-UKT is a knowledge tracing framework that models each learner's evolving latent state as a Gaussian distribution rather than a point vector, tracking "semantic activation levels and estimation confidence through diagonal covariance". It couples an end-to-end differentiable Adaptive Graph Topology Learner, an Adaptive Gaussian-HGNN that propagates means and variances across the learned topology, a Wasserstein attention mechanism for distribution-aware sequence retrieval, and an uncertainty-guided contrastive learning strategy for robustness against noisy interactions.

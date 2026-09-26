@@ -17,6 +17,7 @@ sources:
 # Adopt humanistic and radical approaches so adult learners develop as individuals and can question social injustice
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article presents two further approaches within the pragmatic progressive stance. The humanistic approach "helps the learner to think and develop as an individual," with the educator valuing student opinions even when different from their own; the goal of learning is to become fully human, with good ethics mattering more than eloquence. Radical, self-directed learning gives learners "the skills to raise questions and discuss social events and take action if necessary," which the author credits with advancing social justice.

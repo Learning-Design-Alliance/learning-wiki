@@ -12,6 +12,7 @@ generated:
 # Random Calling Name Cards
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q4` · 4 of 7 report an effect size
 
 ## Description
 Random Calling Name Cards is a classroom questioning technique in which the teacher writes each student's name on a card, shuffles the deck, and draws cards to select who responds to questions. Because selection is visibly random, every student must be prepared to answer, and participation is distributed across the whole class rather than concentrated among volunteers. The deck is typically reshuffled (or drawn without replacement until exhausted) so students cannot predict who is next.

@@ -16,6 +16,7 @@ sources:
 # Multiple local coherences: stability of student thinking as sustained by real-time activity
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 This framework characterizes student understanding and behavior as multiple local coherences that are variable yet exhibit local stabilities. The authors take the position that "The stability of student thinking need not be due to the existence of a robust belief or mental category, but rather may be due to how real-time activity sustains patterns of thought." Real-time activity may be understood in knowledge-based terms (interactions among fine-grained knowledge elements, e.g., connectionism, phenomenological primitives with cuing and reliability priorities) or participation-based terms (persons-in-settings, artifacts, behavioral clusters). The paper uses the framework to explain how a group's initial incorrect understanding persisted for minutes during a physics tutorial.

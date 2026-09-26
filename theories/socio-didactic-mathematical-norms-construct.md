@@ -16,6 +16,7 @@ sources:
 # Socio-didactic-mathematical norms (SDMNs) as metadiscursive rules in pre-service teacher discourse
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 SDMNs extend sociomathematical norms by capturing constraints, conditions and particularities related to mathematics as a school subject, its teaching and its learning, as they arise in interaction among pre-service teachers solving professional tasks. Building on Sfard's commognition, where norms are "metadiscursive rules that are widely endorsed and enacted within the discourse community", the authors infer SDMNs from endorsed narratives in group discourse. The construct situates norm identification in teacher education rather than classroom student-teacher interaction.

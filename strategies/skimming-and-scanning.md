@@ -12,6 +12,7 @@ generated:
 # Skimming And Scanning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q1`–`q4` · 6 of 7 report an effect size
 
 ## Description
 Skimming is rapid reading to extract the gist of a text — typically by reading titles, headings, topic sentences, and summary paragraphs. Scanning is rapid visual search for a specific piece of information (a name, date, figure, keyword) without processing surrounding text. Both are goal-directed reading behaviors that deliberately trade completeness for speed, and both are teachable skills rather than innate talents.

@@ -16,6 +16,7 @@ sources:
 # Decolonial and feminist framework positioning AI leadership as moral and onto-epistemological stewardship
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article synthesizes decolonial theory, which situates AI within histories of coloniality that normalize Eurocentric epistemologies, with critical feminist theory, which illuminates the invisible relational labor of leaders. Together they frame leadership as "a form of moral and onto-epistemological stewardship" rather than policy enforcement, treating AI as not neutral but embedded in assumptions about intelligence, language, and legitimacy. The authors use this dual lens to analyze how governance and everyday practices may reproduce epistemic violence against marginalized learners.

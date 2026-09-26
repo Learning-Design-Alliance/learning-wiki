@@ -17,6 +17,7 @@ sources:
 # Embodied Choreographic Assessment
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Learners work in small groups to create a dance or movement sequence that represents a concept they have been studying (e.g., resonance, energy transfer). The task unfolds in cycles: collaborative brainstorming and initial choreography, a first sharing with performer reflection on what the dance represents (and misrepresents or omits), structured peer feedback, revision, and a final sharing. The task treats movement as a legitimate epistemic tool: learners must translate an abstract concept into kinetic and narrative form, make representational choices, and defend those choices through explanation.

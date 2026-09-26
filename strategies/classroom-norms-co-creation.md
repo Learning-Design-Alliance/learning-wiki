@@ -12,6 +12,7 @@ generated:
 # Classroom Norms Co Creation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 3 of 7 report an effect size
 
 ## Description
 Classroom norms co-creation is a strategy in which the teacher and students collaboratively generate, refine, and commit to shared expectations for behavior, participation, and academic work — rather than the teacher presenting rules unilaterally. The process typically involves eliciting student experiences of productive and unproductive classrooms, drafting candidate norms in small groups, consolidating them into a short public list, and establishing routines for revisiting and revising them. The product matters less than the process: students who help author norms treat them as commitments rather than impositions.

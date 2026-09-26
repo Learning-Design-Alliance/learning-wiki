@@ -16,6 +16,7 @@ sources:
 # Five-factor mentoring model: personal attributes, system requirements, pedagogical knowledge, modelling, and feedback
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The five-factor mentoring model is an empirically derived framework for describing effective mentoring practices, organised into five factors: "personal attributes, system requirements, pedagogical knowledge, modelling, and feedback". Each factor carries associated attributes and practices that were statistically justified in prior instrument-development work and used in this study as a framework for collecting, examining and categorising qualitative data on mentoring dialogues about classroom management. It served both as theoretical lens and as an analytic coding scheme.

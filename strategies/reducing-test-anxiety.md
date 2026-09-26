@@ -12,6 +12,7 @@ generated:
 # Reducing Test Anxiety
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 1 of 6 report an effect size
 
 ## Description
 Test anxiety is a situation-specific anxiety trait combining worry (cognitive interference) and emotionality (physiological arousal) that degrades performance on high-stakes assessments. Reducing it involves two complementary moves: changing the assessment environment (frequent low-stakes testing, clear expectations, accommodations) and teaching learners regulation strategies (expressive writing, reappraisal, relaxation, study-skill training).

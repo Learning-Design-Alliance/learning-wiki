@@ -25,6 +25,7 @@ sources:
 # Thinking Critically
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies, `q2`–`q4` · 2 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Thinking critically is a strategy in which learners systematically question, analyze, and evaluate ideas rather than receiving them passively — identifying assumptions, weighing evidence, considering alternatives, and justifying conclusions. It is carried out through tasks that demand reasoning: structured dialogue, argument construction, case analysis, and explicit instruction in evaluative criteria. Critical thinking is not a generic skill applied uniformly across domains; it operates through domain-specific knowledge and dispositions that must be taught deliberately.

@@ -12,6 +12,7 @@ generated:
 # Conferencing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q3` · 2 of 5 report an effect size
 
 ## Description
 Conferencing is a scheduled, individualized conversation between a teacher and a learner (or small group) focused on the learner's work, progress, or goals. The instructor asks diagnostic questions, gives targeted feedback, and negotiates next steps, replacing or supplementing written feedback. It is most common in writing instruction but applies to any domain where work can be reviewed and revised.

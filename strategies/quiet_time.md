@@ -12,6 +12,7 @@ generated:
 # Quiet Time
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (1 for, 2 mixed) · 7 studies, `q3`–`q4` · 5 of 7 report an effect size
 
 ## Description
 Quiet time is a structured period of 10–15 minutes where students engage in calming activities like reading, writing, drawing, puzzles, or meditation to transition back into the classroom in a purposeful and relaxed manner. It gives students a physical, mental, and emotional breather after high-arousal periods (lunch, recess, transitions), reducing energy spills and disputes and preparing them for subsequent learning. Teachers may participate or use the time for preparation, but not to engage with students — the period is deliberately low-demand and student-directed.

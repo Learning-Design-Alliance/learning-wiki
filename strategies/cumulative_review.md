@@ -12,6 +12,7 @@ generated:
 # Cumulative Review
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (1 for, 3 mixed, 1 unmarked) · 11 studies, `q3`–`q4` · 11 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Cumulative review is the deliberate, recurring integration of previously taught material into current instruction and assessment. Instead of teaching topics in sealed blocks — "unit 3 is over, we never touch unit 1 again" — every practice set, quiz, and discussion includes items drawn from earlier content, forcing learners to retrieve and apply old knowledge alongside new.

@@ -12,6 +12,7 @@ generated:
 # State objectives
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size · 2 claims rest on one study
 
 ## Description
 Stating objectives means explicitly communicating what learners should know or be able to do by the end of an instructional episode, before instruction begins. It functions as an advance signal of relevance and direction, orienting attention toward the features of the task that matter and setting a standard against which learners can monitor their own progress. Goal statements, though written for the teacher's own planning, are properly expressed from the learner's point of view: "learners will acquire the ability to construct a convincing argument" is a goal statement, while "the teacher will show students examples of logical arguments" is not, since it describes teacher action rather than what students will learn.

@@ -12,6 +12,7 @@ generated:
 # Cooperative Learning Strategies
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size
 
 ## Description
 Cooperative learning strategies are structured group activities in which students work toward shared learning goals under conditions of positive interdependence — each member's success depends on the group's success — combined with individual accountability. Common formats include jigsaw, think-pair-share, round robin, gallery walks, and simultaneous round table. Unlike unstructured group work, cooperative learning assigns roles, specifies interaction protocols, and requires every member to demonstrate individual mastery.

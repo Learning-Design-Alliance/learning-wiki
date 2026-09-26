@@ -17,6 +17,7 @@ sources:
 # Foster community in counsellor education through student organizations, common space, collegial feedback, and rewards for mutual support
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Community component holds that developing counsellor skills within a supportive community can normalize and enhance the integration of new behaviours, attitudes, and perspectives. The article enumerates facilitation practices: active promotion of graduate student organizations, an informal common study and socialize area, informal faculty-student interaction on professional issues, close attention to feedback inside the classroom or clinic, increasing rewards for students who encourage and challenge one another while decreasing rewards for competitiveness, and mutual student/faculty advocacy against sexism, racism, and homophobia.

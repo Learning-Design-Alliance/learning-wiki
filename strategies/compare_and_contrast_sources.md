@@ -12,6 +12,7 @@ generated:
 # Compare and Contrast Sources
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 6 studies, `q3`–`q4` · 4 of 6 report an effect size
 
 ## Description
 Present learners with multiple sources on the same topic and have them compare and contrast the information presented, including information conveyed through photographs and other images as well as text. Guiding questions structure the comparison: When was each source created or updated? What is similar or different about the images on each page? What is the main idea or reason behind each page? What seems to be the author's purpose on each page?

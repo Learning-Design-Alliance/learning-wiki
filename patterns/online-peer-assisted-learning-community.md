@@ -17,6 +17,7 @@ sources:
 # Online Peer Assisted Learning Community
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A reusable lesson- and course-level design in which an online learning community is built on peer assisted learning, blended learning, and knowledge management. Learners take rotating roles as instructor/assistant or learner needing help, supported by a peer tutor of intermediate ability, personal knowledge management tools, and communication tools such as BBS, blog, messaging, and email. The article states that "Construction of online peer assisted learning community regards peer assisted learning, blended learning and knowledge management as its theoretical base."

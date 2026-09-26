@@ -16,6 +16,7 @@ sources:
 # Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The brief characterizes rightful presence by "a fundamental shift in power" in which students, families, and communities who most frequently experience systemic inequities become integral in the shaping and design of educational systems, policies, and practices. It promotes co-creation of school experiences benefiting students, educators, staff, families, and communities, requiring collective action across the system.

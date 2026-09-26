@@ -17,6 +17,7 @@ sources:
 # Compose LKT models by starting with a student-ability feature, adding KC/item difficulty intercepts, then adding and splitting dynamic learning features
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends a stepwise procedure for building a learner model from scratch in LKT. Models meant to generalize to unseen students should begin with the propdec or logitdec features to capture student variability; initial KC or item difficulty is accounted for with fixed or random intercepts; then learning features such as lineafm are added, and dynamic features that work well can be split (e.g., lineafm into linesuc and linefail) to capture richer effects, with cross-validation confirming generalizability.

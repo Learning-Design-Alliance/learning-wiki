@@ -12,6 +12,7 @@ generated:
 # Team-Building Through Problem-Based Learning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (5 for) · 11 studies, `q2`–`q4` · 5 of 11 report an effect size
 
 ## Description
 This strategy places culturally diverse groups of learners inside an authentic, ill-structured problem that cannot be solved by any single member, and uses the collaborative problem-solving process itself as the vehicle for team formation. The problem provides a shared goal; the diversity of perspectives creates productive friction; and facilitated negotiation of roles, interpretations, and solutions builds the communication norms, mutual understanding, and trust that constitute a functioning team. The team outcome is treated as a learning objective in its own right, not merely a byproduct of covering content.

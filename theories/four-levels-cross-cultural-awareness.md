@@ -16,6 +16,7 @@ sources:
 # Four levels of cross-cultural awareness, with believability achieved only at the intellectual-analysis and immersion levels
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The essay discriminates four levels of cross-cultural awareness: Level I, awareness of superficial or very visible cultural traits such as stereotypes, gained through tourism, textbooks, and National Geographic; Level II, awareness of significant and subtle contrasting traits through culture conflict situations, experienced as frustrating or irrational; Level III, the same traits reached through intellectual analysis and accepted cognitively; and Level IV, awareness of how another culture feels from the insider's standpoint through cultural immersion. "Believability" is achieved only at levels III and IV, and the author argues level III is the practical goal while some aspects of level IV should still be pursued.

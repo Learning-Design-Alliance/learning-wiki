@@ -12,6 +12,7 @@ generated:
 # Virtual Reality (VR) Skills Management Assessments
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 Virtual reality skills assessments immerse employees in simulated, high-stakes service and management scenarios — surging crowds, irate customers, staffing conflicts — and capture their behavioral responses for scoring. The same simulations serve dual purposes: preparing employees for real events and generating evidence about which individuals have the skills for advancement into supervisory roles.

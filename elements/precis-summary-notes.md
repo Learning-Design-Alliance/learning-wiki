@@ -17,6 +17,7 @@ sources:
 # Precis summary notes placed alongside the basic text
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Concise summary notes placed alongside the basic text that explain key concepts, key terminology, and key questions. The article reports that students "gave very high marks to the precis summaries, vocabulary helpers, mini-notes, and Reader Helper notes," making precis summaries one of the highest-rated aids in the study's student reactions.

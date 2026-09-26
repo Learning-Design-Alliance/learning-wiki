@@ -16,6 +16,7 @@ sources:
 # Narrative inquiry as a method for critical educational research
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper adopts narrative inquiry, in Connelly and Clandinin's formulation, as its methodological framework: "humans are storytelling organisms who, individually and socially, lead storied lives". Education and educational research are thereby seen as the construction and reconstruction of personal and social stories, with teachers and learners as storytellers and characters. The authors use narrative inquiry to analyse and criticise the texts, myths and metaphors in which environmental education stories are embedded, drawing on poststructural criticism and premodern mythologies.

@@ -17,6 +17,7 @@ sources:
 # Use structured power-analysis journaling at the start and end of field placements to build critical consciousness
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 In advanced practica, the author requires students to begin and end field work with a reflection on the power dynamics at their site, using journals to track changes in perception. Students consider how power, respect, and decision-making are distributed across personnel, how class, culture, gender, and sexual orientation are handled, who defines problems, and how clients are discussed. The article reports students typically initially view sites as free of power dynamics but by placement's end provide detailed accounts and critically reflect on their role as practitioners.

@@ -12,6 +12,7 @@ generated:
 # Student Choice
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
 
 ## Description
 Student choice gives learners meaningful decision points within a structured learning environment: selecting topics, task formats, difficulty levels, pacing, or how to demonstrate mastery. The choices must be consequential — options that all lead to the same outcome or that learners perceive as trivial do not function as autonomy support. Choice is carried out by designing bounded option sets (e.g., [Choice Boards](../elements/choice-boards.md)), negotiating learning goals with students, or offering multiple pathways through the same content.

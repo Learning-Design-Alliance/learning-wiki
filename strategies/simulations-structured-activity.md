@@ -12,6 +12,7 @@ generated:
 # Simulations + Structured Activity
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 8 studies, `q2`–`q4` · 4 of 8 report an effect size
 
 ## Description
 Students engage with simulations — physical or digital environments that model real-world systems, processes, or phenomena — combined with a structured activity that specifies goals, roles, decision points, and reflection prompts. The simulation provides safe, consequential experimentation; the structure ensures that exploration is directed toward the target concepts rather than left to unguided discovery. Debriefing and reflection convert the experience into transferable knowledge.

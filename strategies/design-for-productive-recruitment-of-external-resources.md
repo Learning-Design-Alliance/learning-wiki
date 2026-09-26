@@ -16,6 +16,7 @@ sources:
 # Design professional development, curricular tools, and analytic frameworks to support productive recruitment of external conceptual resources
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors argue there is practical value in analyzing how teachers recruit external conceptual resources: "understanding how teachers recruit these resources in their sensemaking can illuminate productive ways to design things like professional development, curricular tools, and analytic frameworks for teaching with the goal of supporting their productive use in schools and classrooms." They position this work as a step toward designing, facilitating, and analyzing mathematics teacher learning across contexts.

@@ -17,6 +17,7 @@ sources:
 # Instructor avoids direct narration of design principles and shares only indirectly
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 In the BRT-guided studio, the instructor's role shifts from lecturing to guiding through clues and indirect sharing. The article states: "the role of the instructor in this environment is to avoid direct narration about design principles, rules, and compositional concepts and to share only indirectly." A single truth is never referenced; positive and negative aspects of examples are discussed together, allowing all student discoveries to be revealed.

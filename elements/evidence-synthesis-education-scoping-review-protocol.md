@@ -17,6 +17,7 @@ sources:
 # Registered scoping review protocol on evidence synthesis education for pharmacy students
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A protocol for a scoping review registered in the Open Science Framework (registration DOI:10.17605/OSF.IO/ZQVGY), designed per PRISMA-P and to be reported per PRISMA-ScR. It will search PubMed, Scopus, Embase, CINAHL Ultimate and Web of Science from 2010, screen in Covidence with two independent reviewers and Cohen's Kappa, extract data on training programme, delivery method, duration and outcome assessment, and compile results with descriptive statistics and narrative synthesis.

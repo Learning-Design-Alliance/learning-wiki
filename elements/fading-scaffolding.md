@@ -12,6 +12,7 @@ generated:
 # Fading Scaffolding
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Fading scaffolding is the element in which supports such as hints, prompts, or models are progressively reduced so that learners take on more of the task independently. It is useful when learners need a designed bridge from guided performance to independence.

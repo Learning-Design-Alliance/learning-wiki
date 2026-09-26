@@ -17,6 +17,7 @@ sources:
 # Use technology to facilitate active participation rather than replace face-to-face learning, potentially creating greater synchronicity between modes
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends deploying online technologies within experiential pedagogy as a means of enabling student activity, not as a substitute for campus learning. Citing Holmes et al. (2015), it states "technology is used as a means to facilitate student's active participation in their learning rather than as a replacement for face-to-face learning", "potentially creating greater synchronicity between the learning experiences of online students and campus-based students". The ALF on Moodle operationalises this by giving face-to-face and online students the same structured pre-, in- and post-workshop activities.

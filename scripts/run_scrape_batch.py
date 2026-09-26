@@ -333,10 +333,13 @@ def run(args) -> None:
             # new claim pages counted as having no coded evidence).
             ("evidence codes into frontmatter", ["scripts/sync_evidence_codes.py", "--apply"]),
             ("evidence header lines", ["scripts/add_evidence_summary.py", "--apply"]),
+            ("evidence profiles on citing pages", ["scripts/add_evidence_profile.py", "--apply"]),
             ("repairing dead anchors", ["scripts/fix_dead_anchors.py", "--apply"]),
             ("filling agreed DOIs", ["scripts/standardize_citations.py", "--apply"]),
             ("resolving against Crossref", ["scripts/resolve_citation_metadata.py", "--apply", "--titles"]),
             ("applying human authorities", ["scripts/apply_authorities.py", "--apply"]),
+            # Last, because the codes and citations above change what it counts.
+            ("state of the evidence", ["scripts/build_evidence_report.py"]),
         ):
             print(f"\n=== {label} ===", flush=True)
             rc = _run_chained_step([sys.executable, "-u", *cmd], SCRAPE_CONSOLE_LOG_PATH)

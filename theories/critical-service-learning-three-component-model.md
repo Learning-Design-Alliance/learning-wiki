@@ -16,6 +16,7 @@ sources:
 # Critical service-learning model with three components: social change orientation, power redistribution, and authentic relationships
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 4 claims (4 for) · 1 study, `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Critical service-learning is a model that adopts a social justice framework, as opposed to a more "apolitical helper" model of service-learning, and demands an analysis of power structures and social change (Mitchell, 2008). The article identifies three components: "(a) providing a social change orientation; (b) working to redistribute power; and (c) developing authentic relationships." Authentic relationships challenge the self-other binary, emphasizing interdependence and reciprocity. This study operationalizes the authentic relationships component by examining professor, community partner, and peer mentor relationships.

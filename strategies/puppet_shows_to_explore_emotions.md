@@ -25,6 +25,7 @@ sources:
 # Puppet Shows to Explore Emotions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (4 for, 1 against) · 11 studies, `q3`–`q4` · 6 of 11 report an effect size
 
 ## Description
 Puppet shows for emotional exploration use puppets to enact situations that provoke feelings — being left out of a game, losing something, being told no, getting it wrong in front of others — and then stop to ask what the puppet feels, how anyone can tell, and what it could do next. The puppet is a distancing device: a four-year-old who cannot discuss being excluded at breaktime can discuss what happened to the rabbit, and the discussion still builds the vocabulary and the response repertoire. Children can also take the puppet and speak through it, which gives them a voice that is theirs and not-theirs at the same time.

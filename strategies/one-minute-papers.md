@@ -12,6 +12,7 @@ generated:
 # One Minute Papers
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 The One Minute Paper (also called the "minute paper" or "muddiest point") asks learners to spend one to two minutes at the end of a class writing brief answers to two questions: "What was the most important thing you learned today?" and "What question remains unanswered?" (the "muddiest point"). The instructor collects responses, scans them before the next session, and opens the next class by addressing the most common confusions.

@@ -12,6 +12,7 @@ generated:
 # Just-in-Time Information
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 Just-in-time information presents explanatory content — procedures, concepts, feedback — at the moment the learner needs it to perform the current task step, rather than as a block of upfront instruction. The task comes first; information is delivered on demand or automatically triggered when the learner reaches a point where it is required.

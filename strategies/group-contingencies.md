@@ -12,6 +12,7 @@ generated:
 # Group Contingencies
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 2 of 3 report an effect size
 
 ## Description
 A group contingency is a classroom management and motivational arrangement in which a consequence — typically a reward, privilege, or earned activity — is delivered to an entire group contingent on the behavior of a single member (dependent), every member meeting a criterion (interdependent), or the group as a whole (independent). The teacher announces the criterion in advance, tracks progress publicly, and delivers the consequence when the group meets it. The approach derives from operant conditioning but redistributes the reinforcement schedule across peers, harnessing social influence as an instructional lever.

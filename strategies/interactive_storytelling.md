@@ -12,6 +12,7 @@ generated:
 # Interactive Storytelling
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 Interactive storytelling creates narratives in which the reader or user makes choices that affect the story's direction and outcome, typically through branching structures built with tools such as [inklewriter](https://www.inklewriter.com), [Twine](https://twinery.org), or [Storyline](https://www.articulate.com/360/storyline/). The learner is positioned as an agent whose decisions carry consequences, which converts narrative consumption into narrative participation. It is used both as a medium learners *experience* (to explore consequences of decisions) and one they *author* (to demonstrate understanding of narrative structure and content).

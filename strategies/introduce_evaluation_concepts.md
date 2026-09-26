@@ -12,6 +12,7 @@ generated:
 # Introduce Evaluation Concepts
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 against) · 9 studies, `q2`–`q4` · 3 of 9 report an effect size
 
 ## Description
 This strategy gives learners a shared vocabulary for judging information quality — terms such as *relevance*, *accuracy*, *bias*, *reliability*, and *credibility* — and then uses those terms routinely in discussion, reading, and assessment. The goal is to move source evaluation from an occasional activity to a habitual stance: learners come to ask, by default, who produced a source, why, and how well it supports the claim at hand.

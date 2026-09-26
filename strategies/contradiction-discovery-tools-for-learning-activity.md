@@ -17,6 +17,7 @@ sources:
 # Provide tools such as the Online Learning Record that help students observe and reflect on class concepts in settings outside the class
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends designing learning activity settings in which students participate in discovering contradictions between what they are learning in class and what they know and practice, in order to transcend the classroom context. It states students "need tools such as the Online Learning Record that can help them observe and reflect on class-related concepts in settings outside the class", as when Neelum expanded rhetorical concepts into persuading friends and relatives.

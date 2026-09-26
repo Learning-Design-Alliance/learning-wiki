@@ -17,6 +17,7 @@ sources:
 # Replacing think-write pedagogy with conversation-based writing activities
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper's first recommendation is "to consider alternative strategies to the think-write pedagogy", in which writers work in isolation. Teachers would elicit the talk about writing that literate writers engage in, making allowances for reading aloud, pair invention, co-authoring, small group work and a writing studio or workshop arrangement.

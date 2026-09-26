@@ -12,6 +12,7 @@ generated:
 # Identifying Obstacles
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 mixed) · 2 studies, `q3`–`q4` · 1 of 2 report an effect size
 
 ## Description
 Identifying obstacles is a self-regulatory strategy in which learners systematically anticipate the challenges — gaps in knowledge, skills, resources, time, or motivation — that could block progress toward a goal. It is typically carried out through structured reflection (e.g., listing barriers, "premortem" analysis, or mental contrasting) and paired with concrete if-then plans for overcoming each anticipated barrier. The strategy converts vague optimism about a goal into a realistic implementation plan.

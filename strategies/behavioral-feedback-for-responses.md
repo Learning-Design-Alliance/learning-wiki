@@ -12,6 +12,7 @@ generated:
 # Behavioral Feedback for Correct and Incorrect Responses
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Behavioral science distinguishes how to respond to a learner's correct versus incorrect responses, based on research into what actually changes behavior rather than what feels intuitively corrective.

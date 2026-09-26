@@ -12,6 +12,7 @@ generated:
 # Common Ground Group Assignments
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q4` · 4 of 7 report an effect size
 
 ## Description
 Common ground group assignments are collaborative tasks deliberately structured so learners must identify and use shared interests, values, experiences, or goals to complete the work. Rather than assigning groups and hoping cohesion emerges, the instructor builds a "finding common ground" phase into the task itself — an initial discussion, interest-mapping activity, or negotiated topic/role selection — so that the group's work is anchored in what members genuinely share. This fosters belonging and positive interdependence, which in turn sustain the discussion, mutual support, and persistence that collaborative learning requires.

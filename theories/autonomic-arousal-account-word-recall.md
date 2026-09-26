@@ -16,6 +16,7 @@ sources:
 # Autonomic (rather than cortical) arousal account of the word-arousal memory effect
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article proposes that the emotionally engendered by words affects retention through autonomic rather than cortical arousal. Because the neural consolidation predictions failed, the author concludes that "the facilitation of recall by word-arousal in this study is a function of autonomic rather than cortical arousal." Supporting this, rated word-arousal correlated (r=.37) with Neuroticism but not with Extraversion, a known correlate of cortical arousal, so emotional arousal from words can aid memory without producing cortical arousal sufficient to inhibit memory.

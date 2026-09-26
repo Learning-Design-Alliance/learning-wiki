@@ -12,6 +12,7 @@ generated:
 # Attention Check
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 2 of 2 report an effect size
 
 ## Description
 An attention check is a brief, structured pause in which learners are prompted to notice the current state of their attention — present, wandering, or fatigued — and to deliberately redirect it toward the task. It functions as a micro-intervention for metacognitive monitoring, typically lasting under a minute, and can be delivered verbally, through a signal, or via a quick response prompt. Unlike comprehension checks, which assess understanding of content, attention checks target the learner's cognitive and affective readiness to engage with content.

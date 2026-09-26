@@ -12,6 +12,7 @@ generated:
 # Implement Measures for Student Self-Knowledge
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size
 
 ## Description
 Implementing measures for student self-knowledge means systematically gathering and returning information about learners' strengths, interests, and areas for growth — through interest inventories, exit tickets, progress monitoring, and self/peer assessment — so that students, not just teachers, hold that picture. The goal is metacognitive accuracy: students who can describe how they learn, what they need, and where they stand are positioned to self-advocate and take ownership of their learning.

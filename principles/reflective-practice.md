@@ -12,6 +12,7 @@ generated:
 # Reflective Practice
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size
 
 ## Description
 Reflective practice is the principle of examining actions, decisions, and outcomes in order to improve later performance.

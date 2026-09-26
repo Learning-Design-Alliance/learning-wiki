@@ -16,6 +16,7 @@ sources:
 # General goals of industrial arts: career emphasis and industrial-technological emphasis
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Chapter III presents two inter-related types of general goals for the entire K-12 industrial arts program. Career emphasis goals address awareness and exploration of aptitudes and interests in terms of potential for future careers, including understanding the role of the worker and developing traits that help students obtain and maintain employment. Industrial-technological emphasis goals address development of knowledge, skills, and attitudes relating to industry and its supporting technologies, including proficiency with tools and machines, problem-solving and creative thinking abilities, and consumer knowledge. These general goals provide the framework for subgoals at each of the three operational levels.

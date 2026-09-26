@@ -16,6 +16,7 @@ sources:
 # Feuerstein's theory of structural cognitive modifiability and Mediated Learning Experience
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Feuerstein's theory holds that human beings can be changed cognitively throughout life, and that intelligence reflects plasticity and flexibility of adaptation produced through Mediated Learning Experience. Mediation is distinct from mere exposure: specific conditions and ways of intervening must be brought into the learner's purview. The article states "It is mediation between teacher and learnerthatholdsthekeytosuch modifiability, he contends. But for the Israelipsychologist, mediation does not mean mere exposure."

@@ -12,6 +12,7 @@ generated:
 # Note-Taking/Note-Making
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Note-taking is the process of recording key points during a lesson or from a text; note-making is the generative follow-up in which learners transform those records into their own words, questions, summaries, and connections. The distinction matters because the two activities engage different cognitive processes: taking captures information, while making requires learners to restructure and elaborate it. Structured formats such as the Cornell method build note-making in as a dedicated stage (cue column and summary), rather than leaving it to chance.

@@ -12,6 +12,7 @@ generated:
 # Model Receiving Feedback
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 2 of 3 report an effect size
 
 ## Description
 Modeling feedback reception means the instructor deliberately demonstrates the *recipient* side of feedback: reading or hearing feedback, managing the emotional reaction, interpreting what it means, deciding what to act on, and revising work accordingly — all narrated aloud. This is a form of [Think-Aloud](../elements/think-aloud.md) applied to the feedback process, making the usually invisible work of a skilled feedback recipient observable and imitable. It treats feedback literacy as a teachable competency rather than expecting learners to infer it from comments alone.

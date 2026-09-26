@@ -17,6 +17,7 @@ sources:
 # Multi-Objective Exercise Recommendation: Review and Explore, Smooth Difficulty, Engagement
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The survey reports three objectives proposed by Huang et al. to go beyond assigning non-mastered exercises: "review and explore , smoothness of difficulty level and student engagement ." Review and explore reinforces non-mastered concepts with timely reviews while keeping opportunities to explore new knowledge; smooth difficulty keeps consecutive exercises within a small difficulty range; engagement aligns recommended exercises with student preferences. These objectives are optimized in a multi-objective deep reinforcement learning (DRE) framework.

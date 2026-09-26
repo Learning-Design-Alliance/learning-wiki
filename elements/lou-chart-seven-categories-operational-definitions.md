@@ -17,6 +17,7 @@ sources:
 # The LoU Chart: operational definitions of the eight levels across seven categories of user knowledge and activity
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The LoU Chart (Figure 2) displays operational definitions of the eight Levels of Use. Each level is defined across seven categories: "Knowledge, Acquiring Information, Sharing, Assessing, Planning, Status Reporting, and Performing", which "provide a wide range of behaviors that can be specified for individuals". Decision points A through F further delimit differences between the levels, e.g., Decision Point C "Begins first use of the innovation."

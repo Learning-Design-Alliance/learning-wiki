@@ -17,6 +17,7 @@ sources:
 # Disaggregate participation data intersectionally by race and gender to surface disparities hidden in aggregate analyses
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 This strategy operationalizes EQUIP data for equity analysis: record low-inference participation indicators (turns, talk type, talk length, solicitation, evaluation) during whole-class discussion, cross-tabulate them with student demographic categories such as gender and race, and additionally disaggregate by the intersection of categories (race x gender) to surface disparities hidden in aggregate analyses. Statistical tests such as chi-squared identify significant participation differences that can inform equitable discussion practices. The article's finding that aggregate gender analyses showed no differences while intersectional analysis exposed lower Why-level talk by Latin@ males illustrates why the intersectional step matters.

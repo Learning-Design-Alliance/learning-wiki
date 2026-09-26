@@ -17,6 +17,7 @@ sources:
 # Minimal Conditions for Funds of Knowledge Research Projects
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The digest's recommendation set for teachers who plan similar projects: "the following minimal conditions are suggested" — theoretical teacher preparation, believing households contain abundant social and intellectual resources; home visits as participant-observers entering as learners; teacher labs as a center for discussion, reflection and analysis; and voluntary teacher participation so the work does not become an imposition.

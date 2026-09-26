@@ -16,6 +16,7 @@ sources:
 # Hermeneutical Injustice: Incidental and Systematic
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article's account, following Fricker (2007), of hermeneutical injustice as occurring when a gap in collective interpretive resources disadvantages someone in making sense of their social experiences. It distinguishes two kinds: "systematic cases involve persistent and wide-ranging marginalization of some social identities while incidental cases involve localized, person-specific experiences". The article uses the systematic case to describe black girls' social experience being obscured from collective understanding in school.

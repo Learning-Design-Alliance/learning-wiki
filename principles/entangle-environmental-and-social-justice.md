@@ -17,6 +17,7 @@ sources:
 # Figure environmental justice and social justice as co-constitutive projects toward ecological justice
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article argues that an ecologically attuned CCP should treat environmental justice and social justice as intimately entangled rather than discrete, so that "CCP should figure efforts toward human and more-than-human emancipation as co-constitutive and mutually reinforcing of a shared utopic vision: ecological justice." Environmentalist pursuits ignoring human subjugation neglect how ecological crisis impacts map onto colonial, capitalist, white supremacist, and patriarchal hierarchies, while social justice politics excluding the more-than-human fail to address planetary crises. The principle retains CCP's attention to power, identity, culture, and communication while challenging it with ecological justice.

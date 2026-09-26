@@ -17,6 +17,7 @@ sources:
 # Recruit and train local tribal members for planning staffs, supplementing on-the-job experience with training materials and workshops
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 For building local planning capability, the report recommends that "Emphasis should be placed on the recruitment and training of local tribal members for EDA-funded planning staffs." Non-tribal planners are acceptable early on if qualified and supported by tribal leaders, but should train replacements from among the tribe. The report adds that "Additional training materials and work shops should be arranged by EDA to supplement the on-theiob experi- ence of the tribal planners and pkinning trainees."

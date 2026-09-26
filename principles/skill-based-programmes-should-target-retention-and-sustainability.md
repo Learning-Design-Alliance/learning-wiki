@@ -17,6 +17,7 @@ sources:
 # Skill-based training programmes should extend beyond short-term skill enhancement towards persistent retention and sustainability of acquired knowledge and skills
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The protocol argues that skill-based training programmes delivered alongside the conventional academic curriculum — via independent workshops, practical sessions or short courses — promote domain-specific professional competencies and bridge the gap between individual capabilities and organisational expectations. However, it recommends such programmes must extend their focus beyond immediate short-term skill enhancement towards ensuring persistent retention and sustainability of acquired knowledge and skills so students can translate them in real-world professional contexts.

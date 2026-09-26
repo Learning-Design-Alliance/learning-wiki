@@ -12,6 +12,7 @@ generated:
 # Team Based Learning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q4` · 4 of 7 report an effect size
 
 ## Description
 Team Based Learning (TBL) is a whole-course instructional strategy in which permanent, instructor-formed teams of 5–7 students work through a repeatable sequence: individual preparation, an individual readiness test, a team readiness test with immediate feedback, and a series of team application activities. The instructor's role shifts from delivering content to designing powerful application problems and facilitating inter-team discussion, so that the majority of contact time is spent applying concepts rather than transmitting them.

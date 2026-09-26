@@ -12,6 +12,7 @@ generated:
 # Enrichment Through Art and Music
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (4 for, 1 against) · 14 studies, `q2`–`q4` · 4 of 14 report an effect size
 
 ## Description
 Teachers integrate art and music from diverse cultures into their lessons to enrich learning, engage students, and promote cultural understanding. Artworks and musical selections serve as entry points, analogies, and evidence for academic content, while students are encouraged to share their own cultural art and music, fostering a sense of inclusion and connection.

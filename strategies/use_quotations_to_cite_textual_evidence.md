@@ -12,6 +12,7 @@ generated:
 # Use Quotations to Cite Textual Evidence
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 5 of 6 report an effect size
 
 ## Description
 Using quotations to cite textual evidence involves teaching students to select relevant passages from a text and integrate them into their own writing to support claims. The strategy typically pairs explicit instruction in selection and integration mechanics (framing quotes, citing, commenting) with repeated practice and feedback, so that quoting becomes a purposeful analytical move rather than a decorative one.

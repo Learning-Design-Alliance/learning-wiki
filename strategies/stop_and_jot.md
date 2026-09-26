@@ -12,6 +12,7 @@ generated:
 # Stop and Jot
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size
 
 ## Description
 Stop and Jot pauses instruction at planned points and asks learners to write a brief response to a targeted prompt — a prediction, summary, inference, or question — before the lesson continues. The written pause converts passive listening into generative processing and gives the instructor a rapid formative read on understanding. Responses are typically short (1–3 sentences), low-stakes, and either shared with a partner, discussed as a class, or collected.

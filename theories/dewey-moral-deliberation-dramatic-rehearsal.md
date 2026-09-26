@@ -16,6 +16,7 @@ sources:
 # Dewey's moral deliberation as dramatic rehearsal of competing possible lines of action
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Dewey's moral deliberation, introduced in 1932, is the article's central explanatory framework for moral education: it is the process used in dealing with a moral problem, defined as "a dramatic rehearsal of various competing possible action." Caspary's three characteristics are that deliberation focuses on possible lines of action, predicts possible responses and consequences for each, and is inter-personal and sensitive to emotional feeling and intuition. The article uses it to critique and reconstruct both character education and Kohlberg's approach, arguing it is situation-based rather than tied to a sequence of moral stages.

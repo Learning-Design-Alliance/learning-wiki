@@ -16,6 +16,7 @@ sources:
 # Social learning theory account of proactive aggression as learned, goal-directed behavior
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article grounds proactive aggression in social learning theory, under which "people acquire aggressive responses in the same way that they acquire other complex forms of social behavior" via observational learning processes. In the study, this framework is used to interpret why loyalty was the strongest predictor of proactive aggression: adolescent girls may show proactive aggressive behaviors toward peers to maintain friendships, and delinquent peers provide both modeling and positive reinforcement of aggressive behavior.

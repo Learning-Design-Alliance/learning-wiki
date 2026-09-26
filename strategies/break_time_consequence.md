@@ -12,6 +12,7 @@ generated:
 # Break Time Consequence
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 unmarked) · 2 studies, `q3` · 2 of 2 report an effect size
 
 ## Description
 Writing instructions in bold letters on the chalkboard stating that students who continue talking during the lesson will have time taken off their break. By the time the title is written on the board, students need to be sitting in silence. The strategy pairs a visible antecedent (the written rule) with a stated consequence, relying on operant conditioning principles: a mild, immediate, consistently applied penalty for off-task talking [Behaviorism](../theories/behaviorism.md).

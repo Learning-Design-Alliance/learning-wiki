@@ -16,6 +16,7 @@ sources:
 # Generalized non-constant α model framing learning as an error-reduction process
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 In Section VI the article generalizes the γ-process as a special case of the α-process with α linearly dependent on score, allowing α to be a function of the score including constant, linear, and higher-order terms (Eqs. 24–25). The article states the meaning of Eq. (24) reflects 'a measurement based probability model that would lead to a general form “error reduction” process', in which measured incorrect knowledge is reduced when α is positive. Any non-constant terms in α produce a positive gain–pretest correlation and a curved-down pattern at low pretest scores.

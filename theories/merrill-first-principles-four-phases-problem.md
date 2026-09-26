@@ -16,6 +16,7 @@ sources:
 # Merrill's First Principles of Instruction: four phases revolving around a problem
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The digest presents Merrill's (2002) First Principles of Instruction as the most recent comprehensive framework for designing lessons aimed primarily at cognitive learning, springing from an eclectic perspective that explicitly assimilates prescriptions from a broad array of instructional theories. It proposes four phases to the instructional process: "(1) activation of prior experience, (2) demonstration of skills, (3) application of skills, and (4) integration of these skills into real-world activities"—with all four phases revolving around a problem, as shown in Figure 1.

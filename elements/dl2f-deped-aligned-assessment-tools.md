@@ -17,6 +17,7 @@ sources:
 # DepEd-aligned assessment and evaluation tools measuring linguistic accuracy, cultural awareness, communication, and collaboration
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A component of DL2F implementation is a set of assessment and evaluation tools developed to align with the Philippine Department of Education's national language proficiency standards. The article states these tools 'measure not only linguistic accuracy but also cultural awareness, effective communication, and collaborative skills, ensuring a comprehensive understanding of students' language competencies', extending assessment beyond linguistic accuracy.

@@ -17,6 +17,7 @@ sources:
 # Align ongoing professional learning content with what was taught during preparation and induction
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The framework's learning-experiences interdependency example holds that preparation should transition seamlessly into comprehensive induction and mentoring, which should align with ongoing professional growth opportunities informed by regular evaluations. It states that "What is taught in ongoing professional learning activities must be aligned with, and not contradictory to, what is taught during the preparation phase." This alignment is presented as necessary for a mutually reinforcing system supporting educators across the career continuum.

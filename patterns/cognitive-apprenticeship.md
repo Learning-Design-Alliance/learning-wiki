@@ -23,6 +23,7 @@ grain_size: course, unit
 # Cognitive Apprenticeship
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies, `q3` · 4 of 4 report an effect size · 3 claims rest on one study
 
 ## Description
 Cognitive apprenticeship adapts the structure of traditional craft apprenticeship to the teaching of complex cognitive skills. Experts make their thinking visible through modeling and narration; learners then practice under coaching with gradually fading support until they can perform independently. Where traditional apprenticeship involves observable physical skill, cognitive apprenticeship focuses on surfacing invisible mental processes — how an expert reads, writes, solves problems, or debugs code.

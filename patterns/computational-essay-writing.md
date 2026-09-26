@@ -19,6 +19,7 @@ sources:
 # Computational Essay Writing
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q1` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Students are given example "computational literature" — documents that mix executable code with prose, visualization, and explanation to convey a disciplinary idea — plus a working code "seed" (e.g., a provided simulation) and its extension questions. Working in pairs, they formulate their own investigation question, extend or modify the provided code to explore it, and write a computational essay (e.g., a Jupyter notebook) documenting their question, method, results, and interpretation, which they then present orally to peers. The pattern treats code as a thinking and communication tool, not only a technical skill to master, and mirrors how professional computational scientists work: reading existing computational literature before proposing a novel direction.

@@ -16,6 +16,7 @@ sources:
 # Cognitive apprenticeship framework with four learning-environment dimensions
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Cognitive apprenticeship is defined as learning through guided experience on cognitive and metacognitive rather than physical skills, rooted in social learning theories and Vygotsky's zone of proximal development. The article states the resulting method comprises a learning environment of four dimensions: "content, method, sequencing and the sociology of a learning environment". The method dimension synthesizes modeling, coaching, and scaffolding with articulation, reflection, and exploration, and the article applies this framework to design philosophy sessions.

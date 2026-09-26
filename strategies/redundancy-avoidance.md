@@ -12,6 +12,7 @@ generated:
 # Redundancy Avoidance
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies, `q3`–`q4` · 5 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Redundancy avoidance removes simultaneous duplicate presentations of the same information — most commonly, on-screen text that repeats narration word-for-word, or graphics that duplicate what text already states. Learners must reconcile the two streams, spending working memory on coordination rather than construction of understanding. The strategy is to present each piece of information once, in the modality best suited to it.

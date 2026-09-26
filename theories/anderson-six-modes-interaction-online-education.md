@@ -16,6 +16,7 @@ sources:
 # Anderson's six modes of interaction as an architectonic model of online education
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article reviews Anderson's (2008) interactive model of online education, in which interaction is defined as a reciprocal event involving at least two objects and two actions, and six forms of interaction engage teachers and students. The author reads the six modes as illustrations of Peirce's triadic logic and the operationalization of intertextuality and hypertextuality, with content-content interactions actualizing intertextuality because content is experienced as text existing through exchanges with other texts. As printed: "the six modes of interaction are student-student, student-content, student-teacher, teacher-content, teacher-teacher, and content-content interactions."

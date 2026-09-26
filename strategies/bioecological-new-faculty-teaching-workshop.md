@@ -17,6 +17,7 @@ sources:
 # Teaching-oriented workshop for new faculty organized by the bioecological model's four dimensions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article illustrates the framework's utility through a teaching-oriented workshop for new faculty, who often arrive with limited teaching training. The workshop would emphasize building rapport "through attentiveness, efforts to build trust, courtesy, and being relatable", regular student-teacher interactions, active learning, awareness of student characteristics, and campus resources. Situating SoTL research within the framework makes studies about teaching "more digestible, user-friendly, and theoretically grounded".

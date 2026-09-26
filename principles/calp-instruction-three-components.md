@@ -17,6 +17,7 @@ sources:
 # Instruction promoting bilingual students' CALP should integrate cognitive challenge, academic content, and critical language awareness
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Cummins specifies three components an instructional program in bilingual, ESL or mainstream classes should address to promote CALP: cognitively challenging instruction requiring higher-order thinking, integration of academic content with language instruction as in content-based ESL, and fostering critical language awareness by encouraging students to compare and contrast their languages and investigate language use in projects. Instruction should provide "a Focus on Message, a Focus on Language, and a Focus on Use in both languages."

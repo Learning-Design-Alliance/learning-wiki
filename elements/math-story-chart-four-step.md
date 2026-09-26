@@ -17,6 +17,7 @@ sources:
 # Math Story Chart: a four-step word-problem organizer (Tell-Show-Solve-Answer and Look Back)
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Math Story Chart is a teacher-made graphic organizer based on Polya's four-step problem-solving method, with four components: Tell (the information given), Show (the equation demonstrating the algorithm), Solve (the computational component), and Answer and Look Back (a check of the answer's reasonableness). It was used with teacher modeling during daily 20-minute strategy instruction over three weeks. "All but one student chose to use this 4 step chart 'study aid' when completing their Post-tests," and students appeared to view it as a means of clarifying and organizing problem information rather than as an additional task.

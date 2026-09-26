@@ -16,6 +16,7 @@ sources:
 # Implicit scaffolding framework: guidance built into the tool via affordances, constraints, cueing and feedback
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The implicit scaffolding framework holds that scaffolding need not be written or verbal but can be built into the design of a learning tool, so that students find productive inquiry paths without explicit instructions. As the authors state, "Implicit scaffolding employs affordances, constraints, cueing, and feedback in order to frame and scaffold student exploration without explicit guidance". The framework draws on constructivism, tool-mediated learning, and tool design (Norman's affordances and constraints), and aims to support content, process, and participation goals simultaneously while preserving student agency.

@@ -12,6 +12,7 @@ generated:
 # Process Writing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 5 studies, `q3`–`q4` · 3 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Process writing treats composing as a recursive cycle — planning, drafting, revising, and editing — rather than a single-pass product to be graded. Instruction makes each stage explicit, provides [feedback](../elements/feedback.md) and [coaching](../elements/coaching.md) during composition, and gives learners time and structure to revise before publication or assessment.

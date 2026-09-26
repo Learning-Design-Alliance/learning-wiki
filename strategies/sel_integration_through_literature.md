@@ -12,6 +12,7 @@ generated:
 # SEL Integration through Literature
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 13 studies, `q3`–`q4` · 6 of 13 report an effect size
 
 ## Description
 Integrating social and emotional learning (SEL) into language arts uses carefully chosen literature as the vehicle for exploring emotions, perspective-taking, conflict resolution, and identity. Characters facing realistic dilemmas give students a safe, third-person entry point for discussing feelings and relationships that would be harder to discuss directly. Structured discussion and reflection prompt students to connect narrative events to their own backgrounds, emotions, and social worlds, distinguishing conflict from violence and analyzing how characters resolve — or fail to resolve — their problems.

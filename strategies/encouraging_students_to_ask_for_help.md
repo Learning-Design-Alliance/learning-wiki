@@ -12,6 +12,7 @@ generated:
 # Encouraging Students to Ask for Help
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size
 
 ## Description
 This strategy builds a classroom environment in which seeking help is treated as a normal, strategic part of learning rather than a sign of inadequacy. It combines cultural moves (normalizing struggle, modeling help-seeking) with explicit instruction in *how* to seek help well — articulating what is confusing, what has already been tried, and what kind of help is needed. The aim is adaptive help-seeking: students first attempt independent strategies, then seek targeted assistance that supports rather than replaces their own effort.

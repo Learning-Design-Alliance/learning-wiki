@@ -17,6 +17,7 @@ sources:
 # Adapt DL2F to local context by aligning with the national curriculum, using authentic local materials, multilingual approaches, and pragmatic low-bandwidth technology integration
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article prescribes a concrete adaptation recipe for implementing DL2F in Philippine secondary schools: align with the K-12 curriculum and DepEd goals, select authentic resources reflecting Philippine culture, history, and literature, leverage students' multilingual proficiency, and integrate technology pragmatically. The article states that 'given the varied technology access in Philippine schools, a pragmatic approach to technology integration is essential', exploring low-bandwidth technologies, open-source software, and collaborative online platforms for accessibility.

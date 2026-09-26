@@ -17,6 +17,7 @@ sources:
 # Publisher Directory listing publishers sensitive to treatment of minorities and females
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Part III's Publisher Directory (Section 11) opens with the Association of American Publishers' "Statement on Bias-free Materials" reproduced in its entirety, then presents an alphabetical listing of publishers of books and other educational materials that, in the estimation of the publishers themselves, contribute favorably to or are particularly sensitive to the treatment of minorities and females. It also includes publishers who have developed or are using guidelines in an attempt to help administrators avoid textbook bias. Each publisher entry lists titles of catalogs, guidelines, and other resources the publisher provided, coded by group, grade level, and subject area.

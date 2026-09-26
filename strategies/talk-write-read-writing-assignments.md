@@ -17,6 +17,7 @@ sources:
 # Writing assignments that have students talk, write and read through the writing process
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The second recommendation is to re-evaluate writing assignments, reconsidering the one-hour in-class essay and "developing instead assignments that encourage writers to talk, write, and read" while collecting information, focusing, designing, ordering, drafting and clarifying. A paper on a societal problem, researched by talking with authorities, is offered as an example.

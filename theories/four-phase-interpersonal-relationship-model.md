@@ -16,6 +16,7 @@ sources:
 # Four-phase model of interpersonal relationships: choice, beginning, deepening, termination
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article conceptualizes relationships as a process of four phases through which dyads progress. In the Choice phase people decide whether to pursue a relationship; in the Beginning phase success depends on the participants' favored interpersonal styles meshing; in the Deepening phase flexibility of styles becomes important as interactants gather common experiences; and all dyads eventually terminate, requiring effective disengagement. The authors state: "we conceptualize relationships as a process consisting of at least four major phases; choice, beginning, deepening and termination."

@@ -12,6 +12,7 @@ generated:
 # Writing Workshops
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
 
 ## Description
 A writing workshop structures class time around extended writing with targeted support: a brief mini-lesson on a specific craft element (transitions, topic sentences, source integration), followed by sustained writing time during which the teacher confers individually or learners rotate through stations focused on distinct revision concerns. The approach treats writing as a recursive process — drafting, feedback, revision — rather than a single product assigned and graded.

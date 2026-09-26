@@ -17,6 +17,7 @@ sources:
 # ARCS relevance strategies: goal orientation, motive matching and familiarity
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Relevance is the second ARCS component, described as strategies "that link to learners' needs, interests, and motives". The digest lists three sub-components: goal orientation (present the objectives and useful purpose of the instruction), motive matching (match objectives to student needs and motives), and familiarity (present content related to the learners' experience and values), each with a teacher example.

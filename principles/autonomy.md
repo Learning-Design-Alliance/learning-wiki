@@ -12,6 +12,7 @@ generated:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
 
 ## Description
 Autonomy is the experience of acting with volition and self-endorsement — feeling that one's learning behavior originates from oneself rather than from external pressure. As a design principle, it recommends structuring learning environments so learners make meaningful choices about approach, pace, topics, or expression, and understand the reasons behind required activities. Autonomy does not mean unguided discovery or unlimited freedom; it means minimizing controlling language, rationales, and pressure while maximizing perceived ownership.

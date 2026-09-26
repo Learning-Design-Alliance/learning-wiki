@@ -17,6 +17,7 @@ sources:
 # Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Drawing on Berquist and Phillips (1975), the article argues that an effective program should take into account the preferred teaching style of the faculty member, the preferred learning style of students, the content emphasis of the course, and the nature of the educational environment. Each of these four factors interacts with the others to help or hinder learning.

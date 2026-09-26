@@ -17,6 +17,7 @@ sources:
 # EF interventions aiming to transfer to mathematics should target factors general to all EF components rather than specific components
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article argues that because a latent EF factor largely accounts for component-specific EF–math associations, interventions will transfer to math only insofar as they improve mechanisms influencing factors general to all EF components. It states that "Interventions targeting specific EF components (e.g., card-sort task performance or working memory task performance alone), and not factors common to EF, may not reliably transfer to mathematics." It further recommends that intervention evaluations model effects on EF tasks and a latent EF factor simultaneously.

@@ -16,6 +16,7 @@ sources:
 # CREACT: a five-step discussion-based teaching tool for creative thinking based on the Janusian process
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 CREACT is a teaching tool developed by Sak (2009) based on the Janusian process; the article states that "CREACT consists of five steps": construction, segregation, opposition, combination, and elaboration. Discussion questions move students from exploring a concept, to identifying its thematic elements, to generating and validating opposites, to combining opposites into a new conception, and finally revising it so it sounds original. The article operationalizes it through a discussion form with focus questions and behaviors for each step, and reports it as flexible enough for a variety of lessons and topics.

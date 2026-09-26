@@ -16,6 +16,7 @@ sources:
 # Cognitive flexibility theory applied to early literacy acquisition
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article draws on Spiro, Vispoel, Schmitz, Samarapungavan, and Boerger's (1987) cognitive flexibility theory, which "propose[s] that information from different knowledge sources is needed to construct meaning in a complex knowledge domain (e.g. reading acquisition)". Applied to literacy, it treats literacy as a complex knowledge domain in which learning requires selecting diverse knowledge elements to fit understanding and decision-making in specific literacy episodes such as reading and spelling. The authors use the theory to explain why complex phonemic awareness training may fail for low-ability students and to motivate cognitive flexibility instruction.

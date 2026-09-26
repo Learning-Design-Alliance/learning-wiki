@@ -12,6 +12,7 @@ generated:
 # Tier Two Vocabulary Instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Tier Two vocabulary instruction targets high-frequency, general-academic words — such as *coincide*, *reluctant*, *analyze*, and *fortunate* — that appear across many contexts and content areas but are unlikely to be learned incidentally by struggling readers (Beck, McKeown, & Kucan's three-tier framework). Instruction is carried out through explicit, friendly definitions, multiple encounters in varied contexts, active processing such as word manipulation and comparison, and repeated spaced review, rather than dictionary copying or isolated memorization.

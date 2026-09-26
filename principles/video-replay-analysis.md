@@ -29,6 +29,7 @@ sources:
 # Video Replay Analysis
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (1 for, 2 mixed) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size
 
 ## Description
 Video replay analysis uses recorded performance, instruction, or interaction as an object for review. Learners or instructors pause, revisit, and analyze moments that would otherwise pass too quickly to examine. This makes it possible to notice decisions, patterns, cues, and missed opportunities with much more precision than relying on memory alone.

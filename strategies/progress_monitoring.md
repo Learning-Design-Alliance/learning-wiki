@@ -12,6 +12,7 @@ generated:
 # Progress Monitoring
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Progress monitoring is the repeated, systematic measurement of learner performance on target skills across time, used to judge whether instruction is working and to adjust teaching when it is not. Unlike a one-off test, it uses brief, frequent, parallel measures (e.g., weekly or biweekly probes) plotted against an expected trajectory, so that both instructor and learner can see growth — or its absence — early enough to act on it. The practice originated in curriculum-based measurement (CBM) in special education [Deno's CBM framework.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S] and now underpins tiered intervention systems and adaptive learning platforms.

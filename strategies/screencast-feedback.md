@@ -12,6 +12,7 @@ generated:
 # Screencast Feedback
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 5 studies, `q2`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Screencast feedback is a form of technology-mediated formative feedback in which the instructor records the learner's assignment on screen (a document, code, design, or dataset) while providing spoken commentary, often pointing to, highlighting, or annotating specific passages as they talk. It replaces or supplements written margin comments with a richer, dialogic-feeling audiovisual message that conveys tone, emphasis, and reasoning alongside the content of the critique.

@@ -17,6 +17,7 @@ sources:
 # Target Each Expectancy-Value Component in Policy and Teacher Training for AI
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 5 claims (5 for) · 1 study, `q1` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The paper's concluding recommendation: educational policies and teacher training programs for AI integration should address every component of Expectancy-Value Theory. It "highlighted the importance of increasing teachers' expectations, attainment values, utility values, and intrinsic/interest values regarding the use of AI applications", and discussed strategies for reducing cost perceptions, repeating in each section that such programs are "of great importance".

@@ -12,6 +12,7 @@ generated:
 # Talk About Real-Life Challenges and Situations
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Facilitating structured discussions in which learners describe real challenges they are facing, articulate how those situations make them feel, and reframe them constructively — focusing on what went right, what can be learned, and how the experience transfers to future situations. The facilitator guides with open questions rather than advising, positioning learners' own experiences as the curriculum.

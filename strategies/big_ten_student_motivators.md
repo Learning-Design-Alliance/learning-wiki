@@ -12,6 +12,7 @@ generated:
 # Big Ten Student Motivators
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
 
 ## Description
 The Big Ten Student Motivators are a bundle of classroom strategies — choice in reading, writing, and projects; collaboration; meaningful talk; problem solving; inquiry; risk taking; creativity development; empathy building; teacher–student negotiation; and play/brain breaks — designed to make academic work feel self-endorsed rather than imposed. They operationalize the three basic psychological needs from [Self-Determination Theory](../theories/self-determination-theory.md): autonomy (choice, negotiation), competence (problem solving, supported risk taking), and relatedness (collaboration, empathy, meaningful talk).

@@ -12,6 +12,7 @@ generated:
 # Rubric-Based Self Assessment
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 6 studies, `q2`–`q3` · 2 of 6 report an effect size
 
 ## Description
 Rubric-based self assessment asks learners to judge their own draft or performance against explicit, criterion-referenced scoring guidelines before (or alongside) instructor evaluation. The rubric converts tacit quality standards into observable criteria, and the act of applying it trains learners to monitor and regulate their own work. It is typically carried out as: introduce the rubric, model its application, have learners score their own work with evidence, then revise.

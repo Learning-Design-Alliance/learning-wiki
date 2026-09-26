@@ -17,6 +17,7 @@ sources:
 # Spend class time presenting the app evaluation framework so learners can make better-informed app choices
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Drawing on workshop feedback, the article recommends that teachers present the evaluation framework to students in class. Participants suggested that, since most students own smartphones or tablets, "it would be a worthwhile activity to spend time in class presenting the framework to language learners to enable them to make better-informed decisions" about which apps suit their curriculum and learning preferences.

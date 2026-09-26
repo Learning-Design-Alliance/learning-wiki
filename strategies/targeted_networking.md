@@ -12,6 +12,7 @@ generated:
 # Targeted Networking
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 Targeted networking directs relationship-building effort toward specific individuals, groups, and activities that align with one's learning or career goals, rather than accumulating contacts indiscriminately. It involves researching prospective contacts, identifying genuine shared interests or purposes, and engaging through substantive, high-stakes collaborative activities rather than casual interaction. The strategy treats networks as learning infrastructure: relationships formed around shared work carry more knowledge, opportunity, and support than weak acquaintance ties built through volume-based networking.

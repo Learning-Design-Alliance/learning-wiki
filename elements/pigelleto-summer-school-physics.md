@@ -17,6 +17,7 @@ sources:
 # Pigelleto's Summer School of Physics: a full-immersion orientation program for high-school students
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Pigelleto's Summer School of Physics is a four-day full-immersion residential school held in a natural reserve since 2006, oriented toward physics. About forty students "selected by their teachers in a wide network of schools" engage in lectures, laboratories and presentations on topics "rarely pursued in high school, i.e. quantum mechanics, new materials, energy resources". It also serves as a training opportunity for younger teachers.

@@ -12,6 +12,7 @@ generated:
 # Learning Objectives
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 3 claims (2 for, 1 against) · 8 studies, `q2`–`q4` · 4 of 8 report an effect size
 
 ## Description
 Learning objectives are explicit statements of the knowledge, skills, or dispositions learners should acquire, typically phrased in observable terms ("analyze," "construct," "compare" rather than "understand" or "appreciate"). They function as the design contract of a learning experience: aligning content, activities, and assessment around a shared target.

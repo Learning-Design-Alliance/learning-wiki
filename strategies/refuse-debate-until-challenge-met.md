@@ -17,6 +17,7 @@ sources:
 # Refuse debate with pseudoscience until the challenge is met, using the challenge's existence as the argument
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A communication strategy for educators and scientists facing pseudoscientific claims: point to the bare existence of an unmet challenge with large rewards rather than engaging in rhetorical debate. The article states "All communication is postponed until after the challenge is met", because engagement in debates provides pseudoscience a platform and constructs the appearance of an expert controversy. DRCs "decline to discuss 'until the challenge is met', without solidifying the perception of establishment conspiracy", which requires transparency.

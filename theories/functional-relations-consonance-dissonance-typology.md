@@ -16,6 +16,7 @@ sources:
 # Functional-relations typology: logical, pragmatic, and pure consonance, with dissonance as a post-functional unstable state
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper translates Festinger's system of cognitive relations into functional terms, defining types of consonance among neuronal elements. Logical consonance means activation of one element always leads to activation of another; pragmatic and pure consonance are multiple-source dependent, requiring contributions from other sources. The authors argue "disson4ndeis a post-functional phenomenon", arising only when elements compete for simultaneous functioning, and that "Multiple-Source dependence inevitably results,at some time or other,in dissonance".

@@ -17,6 +17,7 @@ sources:
 # Map educational approaches onto predefined evidence synthesis skill components, delivery modes and outcome-measure categories when charting the literature
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The protocol's Stage 5 analysis plan specifies how to organise extracted data on educational approaches: compile and map them per the predefined evidence synthesis skill components (research question development, literature searching, study selection, critical appraisal, data analysis and interpretation, and final report writing), and chart the mode of delivery (online, offline or blended), teaching approach (lecture-based and/or practice-based), duration of training programme (short-term, moderate and long-term), categories of outcome measures (self-reported, observer-reported or performance-based) and feasibility indicators.

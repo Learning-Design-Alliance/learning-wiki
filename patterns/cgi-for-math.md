@@ -14,6 +14,7 @@ grain_size: lesson
 # CGI for Math
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 CGI for Math is the short-form canonical target for Cognitively Guided Instruction in mathematics, where instruction is built around learners' informal strategies and explanation of problem solving.

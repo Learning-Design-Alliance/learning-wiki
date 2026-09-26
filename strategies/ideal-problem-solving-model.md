@@ -12,6 +12,7 @@ generated:
 # IDEAL Problem-Solving Model
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 IDEAL (Bransford & Steen, 1984) is a general problem-solving system usable across curriculum areas and problem types, named for its five stages:

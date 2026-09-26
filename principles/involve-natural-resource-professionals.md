@@ -17,6 +17,7 @@ sources:
 # Involve local natural resource professionals in youth environmental learning programs
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Because community-based environmental study depends on local information and technical accuracy, the guide urges leaders to recruit a local natural resource expert. "Leaders are strongly encouraged to involve a natural resource professional from a local environmental group or agency." Such partners bring science expertise, validate learner interpretations of scientific information, introduce youth to natural resource careers, and can offer supplies such as water testing equipment, background data on local riparian zones, service project ideas, and technical assistance.

@@ -12,6 +12,7 @@ generated:
 # Self-Monitoring
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Self-monitoring is the element in which learners track their own attention, behavior, progress, or accuracy during learning.

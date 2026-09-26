@@ -12,6 +12,7 @@ generated:
 # Provide Opportunities for Success
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy deliberately sequences and calibrates instruction so that learners experience authentic, earned success early and often. Success experiences are the most powerful source of self-efficacy — learners' beliefs about their own capability — which in turn predict persistence, effort, and achievement [Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review, 84*(2), 191–215](https://doi.org/10.1037/0033-295X.84.2.191) [+S]. The strategy is not grade inflation or lowered standards: success must be *earned* through calibrated challenge, adequate support, and high expectations for work quality, or it produces no durable efficacy gain.

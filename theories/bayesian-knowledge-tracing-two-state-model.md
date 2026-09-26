@@ -16,6 +16,7 @@ sources:
 # Bayesian Knowledge Tracing (Two-State Hidden Markov Model)
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The survey describes Bayesian Knowledge Tracing (BKT), introduced by Corbett and Anderson, as a special case of the Hidden Markov Model with learning parameters (transition, forgetting) and performance parameters (guess, slip) plus an initial mastery probability. "BKT operates within a two-state student modeling framework: knowledge is either learned or unlearned, and there is no forgetting once a student has mastered the knowledge." Dynamic Bayesian knowledge tracing extends it to model hierarchies and relationships among knowledge concepts jointly.

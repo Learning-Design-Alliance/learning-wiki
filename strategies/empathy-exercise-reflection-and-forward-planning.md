@@ -17,6 +17,7 @@ sources:
 # Close the empathy exercise by reflecting on surprises, systemic oppression, and short- and long-term design goals
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Step 4 asks teachers to return to their notes and reflect on what stood out and surprised them, what the student identified as computer science needs, inconsistencies between interviews and observations, and how their identity as teacher shaped what was shared. Teachers then connect findings to structure, considering "how are the experiences the student (and caregiver) shared related to privilege and systemic oppression in schools", and set short-term and long-term goals for change that feed into creating an Inclusive Computing Pathway.

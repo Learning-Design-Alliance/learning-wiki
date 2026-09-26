@@ -12,6 +12,7 @@ generated:
 # Rich Library Audio & Braille
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies, `q1`–`q4` · 9 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 A rich library of audio and braille materials gives learners multiple, equivalent pathways to the same content: professionally narrated or synthetic-speech audiobooks, and braille (contracted or uncontracted, tactile graphics included) for learners who read by touch. The strategy is carried out by curating a deep collection — not a token accessible shelf — and by ensuring formats are available *simultaneously* with print, so learners using audio or braille participate in the same discussion, on the same schedule, as their peers.

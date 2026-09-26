@@ -17,6 +17,7 @@ sources:
 # Organize process-based value education activities matched to each RBT process dimension
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article prescribes concrete classroom activities for each RBT process dimension so that any subject teacher can transact values within regular lessons. For Remember it suggests an "experience sharing session, story telling, and life experience based extempore speech"; for Understand, discussions and classifying values; for Apply, informal school practices such as keeping premises clean and observing queues; for Analyze, categorizing incidents and open forums; for Evaluate, dilemma discussions and judging public issues; for Create, artistic performance, painting and story writing.

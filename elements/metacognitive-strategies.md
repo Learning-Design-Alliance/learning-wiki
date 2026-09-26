@@ -12,6 +12,7 @@ generated:
 # Metacognitive Strategies
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Metacognitive strategies are deliberate learner moves for planning, monitoring, checking, and revising thinking during learning. This element captures concrete supports for self-regulation such as confidence checks, self-questioning, and strategy review.

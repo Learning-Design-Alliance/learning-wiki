@@ -17,6 +17,7 @@ sources:
 # Moderate-disturbance classrooms merge consultation into the quiet room and add group-project space
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 For moderately disturbed children the booklet relaxes the severe-disorder scheme: "Classrooms for moderately disturbed children differ from those for severely disturbed children in the elimination of separate consultation rooms and washrooms." The quiet room, furnished, doubles as a consultation space, and Drawings 4-6 show how space may be provided for group projects, including trapezoidal desks that join into large tables and a tiled floor area that normalizes everyday noise.

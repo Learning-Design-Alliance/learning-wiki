@@ -16,6 +16,7 @@ sources:
 # Varieties of Testimonial Injustice (Wanderer and Hookway)
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A taxonomy the article compiles in its Table 1. Wanderer (2017) "suggests three perspectives on testimonial injustice: transactional testimonial injustice, structural testimonial injustice, and testimonial betrayal", covering exchanges between two people, unequal distribution of epistemic goods such as education, and trust relations. Hookway (2010) adds participatory prejudice (lacking a sense of relevance) and informational prejudice (lacking capacity to provide relevant information).

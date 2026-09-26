@@ -17,6 +17,7 @@ sources:
 # Future Research Directions for Knowledge Tracing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The survey closes by noting "there are still a substantial number of problems that require urgent resolution." It names six directions: interpretable KT, including educational theories such as the Rasch model or transfer of knowledge; KT with sparse learning interactions via contrastive learning; KT for subjective, open-ended exercises; KT using students' feedback; KT for general user modeling; and KT with large language models.

@@ -12,6 +12,7 @@ generated:
 # Augmented Reality (AR) for Space Industry Training
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 9 studies, `q2`–`q4` · 6 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Augmented reality overlays task-relevant digital content — 3D models, step-by-step visual instructions, labels, and remote expert annotations — onto the learner's real workspace, so guidance appears in the location where the work is performed. NASA's Project Sidekick, developed with Microsoft HoloLens, exemplifies this approach: crew members receive virtual holographic illustrations overlaid on equipment during International Space Station maintenance, eliminating the need to cross-reference paper manuals mid-task. AR is also used to reconstruct the Martian landscape from surface photography, giving scientists and astronauts realistic environmental rehearsal for exploration missions.

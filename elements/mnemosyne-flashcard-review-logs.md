@@ -17,6 +17,7 @@ sources:
 # Mnemosyne Flashcard Review Log Data
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Large-scale log data from the Mnemosyne flashcard software, used by the article to compare memory models. After filtering, the authors select a random subset that "contains 859 , 591 interactions, 2, 742 users, and 88 , 892 items". Each interaction carries a self-reported 0-5 grade, which the authors discretize into binary recall, and models are compared by ten-fold cross-validated AUC and a held-out test set.

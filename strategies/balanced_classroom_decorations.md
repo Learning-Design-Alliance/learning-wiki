@@ -12,6 +12,7 @@ generated:
 # Balanced Classroom Decorations
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Balanced classroom decorations is the deliberate curation of wall displays, charts, lighting, and color so the physical environment supports — rather than competes with — instruction. The balance has two axes: enough visual richness to signal belonging, relevance, and content focus, but not so much that off-task stimuli capture attention during lessons. Core moves include displaying student work, featuring inspiring role models, using instructional visual aids (anchor charts, maps, diagrams), avoiding clutter and grade displays, maximizing natural light, and choosing calm wall colors.

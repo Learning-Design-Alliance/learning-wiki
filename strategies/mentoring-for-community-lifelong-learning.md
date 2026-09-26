@@ -17,6 +17,7 @@ sources:
 # Advance community-based lifelong learning through mentoring relationships connecting local expertise with desired learners
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper recommends mentoring as a major component for effective community-based lifelong learning, describing it as a one-to-one relationship in which mentor and protege experience personal, professional, and intellectual growth. It states that "Mentoring is a powerful emotional and passionate interaction whereby the mentor and protege experience personal, professional, and intelledtual growth and development," and that mentoring involves relationship building, information giving, role modeling, and providing a vision about what can be.

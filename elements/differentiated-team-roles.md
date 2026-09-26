@@ -12,6 +12,7 @@ generated:
 # Differentiated Team Roles
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 Differentiated team roles assign each member of a collaborative group a distinct function — such as facilitator, recorder, skeptic, or resource manager — so that participation is structured rather than optional. Roles create positive interdependence: the group cannot succeed unless each member performs their function, which raises individual accountability and distributes cognitive labor across the team.

@@ -12,6 +12,7 @@ generated:
 # Explicit Instruction
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Explicit instruction is the principle of teaching with clear explanations, modeling, guided practice, and deliberate checks for understanding rather than leaving key steps or criteria implicit. This page serves as the canonical short-form target for links that refer to explicit instruction broadly rather than to a domain-specific variant.

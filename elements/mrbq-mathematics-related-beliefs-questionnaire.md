@@ -17,6 +17,7 @@ sources:
 # Mathematics-Related Beliefs Questionnaire (MRBQ), experimental version with 58 items on a 6-point Likert scale
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The MRBQ is an integrated questionnaire developed to measure students' beliefs about mathematics education, about the self in relation to mathematics, and about the social context of their class, unlike existing questionnaires that usually measure only one kind of beliefs. As printed, it is "the experimental version of the Mathematics-Related Beliefs Questionnaire (MRBQ) containing 58 items that are scored on a 6 point Likert-scale, from 0 (I completely disagree) to 5 (I totally agree)." It was administered to 365 Flemish junior high school students across 21 classrooms spanning different tracks.

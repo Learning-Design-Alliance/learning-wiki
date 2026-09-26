@@ -16,6 +16,7 @@ sources:
 # Co-constructionism requires an active individual, an active environment, and culture
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article reports Cole and Wertsch's (1996) argument that researchers overfocused on the Vygotsky–Piaget individual versus social genesis debate while the cardinal difference is the importance of culture. Co-constructionism needs "An active individual and an active environment," plus a third essential element: culture, the accumulated product of prior generations, through which mind develops in interaction with the surrounding environment.

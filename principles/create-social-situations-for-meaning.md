@@ -17,6 +17,7 @@ sources:
 # Create social situations in which meaning arises through the learner's own response
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This principle, drawn from Mead's lectures as reconstructed in the article, holds that because meanings grow out of social intercourse, education must deliberately arrange social interaction rather than transmit definitions. The article reports Mead's view that "meaning must arise in the child's consciousness in some sort of intercourse with others", and that the child must get meaning through his own response to certain social situations. Mead accordingly concludes that if education is social, the social situation must be created; the article presents this as one of two pedagogically relevant consequences of the social origin of meaning.

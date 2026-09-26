@@ -12,6 +12,7 @@ generated:
 # Reflection on Lessons
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Reflection on lessons is a professional learning strategy in which teachers deliberately examine their instruction before and after teaching it. Before a lesson, reflection surfaces assumptions about pacing, difficulty, and likely misconceptions; after a lesson, the teacher records what worked, what did not, and why, keeping these notes organized alongside the lesson plan for revision. The practice converts teaching experience into an evidence base for iterative improvement rather than letting each lesson pass unexamined.

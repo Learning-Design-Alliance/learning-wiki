@@ -12,6 +12,7 @@ generated:
 # Keyword Method
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q2`–`q4` · 2 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 The keyword method is a mnemonic strategy for vocabulary learning, developed by Atkinson and Raugh (1975). In the first stage, learners identify a *keyword* — a familiar word that sounds similar to (or shares part of) the target word. In the second stage, they construct a mental image in which the keyword and the target word's meaning interact. For example, to learn Spanish *pato* (duck), an English speaker might use the keyword "pot" and picture a duck sitting in a pot. The strategy is typically taught explicitly, with the instructor modeling keyword selection and image construction before learners generate their own.

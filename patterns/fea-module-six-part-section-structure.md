@@ -16,6 +16,7 @@ sources:
 # Six-part section structure for FEA-based experiential learning modules
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Each section of the FEA-based learning module followed a fixed internal structure of six sub-sections: "Educational objective, Problem description and objective analysis, Mathematical equation, General steps of the FE analysis, Comparison of analytical and numerical analysis, Summary and discussion". This structure pairs the mathematical formulation with numerical verification, supporting the cycle's movement from concrete experience to abstract conceptualization.

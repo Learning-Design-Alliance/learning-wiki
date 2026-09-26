@@ -12,6 +12,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 2 claims (1 for, 1 unmarked) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.

@@ -17,6 +17,7 @@ sources:
 # A conceptual structure and procedure for message design incorporated in a performance support system
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article describes a message design theory developed by Seels and colleagues that provides "a conceptual structure and procedure which relates message design to types of learning, media, and learning paradigms". This conceptual theory has been incorporated in a performance support system for message design, offered as one way to provide conceptual links between media and instructional theory in an area where design and development are strongly linked.

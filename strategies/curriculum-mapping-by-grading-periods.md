@@ -17,6 +17,7 @@ sources:
 # Map the curriculum by grading periods to eliminate gaps and redundancy and enable interdisciplinary planning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors use a modified curriculum-mapping process in which subject-area committees identify their purpose in terms of the board design, their standards, and how the area teaches general learning skills, then outline content and skills on worksheets arranged by nine-week grading periods. They assert that "If nothing else were done in establishing middle schools, this mapping experience would be worth the effort," because gaps and redundancy are eliminated and teaching and testing are coordinated.

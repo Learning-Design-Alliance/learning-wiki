@@ -15,6 +15,7 @@ sources:
 # Trialogical learning: a distinct form of learning through collaborative work on shared knowledge artefacts
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Trialogical Approach holds that learning occurs not only through monological activities such as reading or lectures, nor only through dialogical activities such as discussion, but also through trialogical activities in which individuals participate in collaborative activities involving the production of concrete knowledge objects like documents or models developed collaboratively for use as tools for future development. The approach is explicitly not an over-arching theory but a specific approach to knowledge creation through learning, characterised by a set of processes and practices described in the Trialogical Learning Framework. It builds on social constructivism while integrating educational technology traditions rooted in cognitivist theories.

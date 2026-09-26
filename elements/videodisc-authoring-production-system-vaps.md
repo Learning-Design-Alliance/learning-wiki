@@ -17,6 +17,7 @@ sources:
 # Videodisc authoring and production system (VAPS)
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 VAPS denotes the hardware and software configurations needed to author and produce interactive videodisc training materials, distinct from the delivery system (VTDS). The report describes a range of VAPS hardware configurations using available equipment at Army audio-visual service offices and production centers, three levels of authoring/production software, tape-based and film-based production routes, alternatives for text and graphics production, and editing, tryout, revision, mastering and replication steps. Its software is described as authoring and production aids, a step towards design automation of authoring and production processes.

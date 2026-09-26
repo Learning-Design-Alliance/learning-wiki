@@ -12,6 +12,7 @@ generated:
 # Engage with Empathy
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q3`–`q4` · 1 of 5 report an effect size
 
 ## Description
 Engage with Empathy is a strategy for effective online communication in which participants take the time to read and understand the original post, exchange ideas with one or more users, tag and mention community members, carefully craft their messages, present evidence and personal experiences, uphold the community's agreed-upon norms, and consume as much as they contribute. It treats empathic communication as a learnable practice — supported by sentence frames, norms, and modeling — rather than a fixed personality trait [Empathy is partly trainable through structured practice and perspective-taking.](../claims/building-empathy-improves-intergroup-attitudes.md) [+M].

@@ -17,6 +17,7 @@ sources:
 # Peer review of cooperative learning sessions: instructors observe a colleague's session and complete a peer review form
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 As the second component of the staff development plan, during March 1998 each instructor was assigned to observe another instructor's cooperative learning instructional session and complete a Peer Review form. The report lists reviewing the peer evaluation process among the staff development session topics, and professional staff participation in peer review of cooperative learning sessions is reported as a project outcome. The report recommends additional peer review monitoring sessions as part of future tracking and follow-up to ensure continued implementation of cooperative learning structures.

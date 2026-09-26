@@ -16,6 +16,7 @@ sources:
 # Environmental enrichment hypothesis as an account of how cognitive ability and curiosity translate into knowledge attainment
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 against) · 1 study, `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The environmental enrichment hypothesis holds that engagement in epistemic behaviors enriches the environment, "thus providing more opportunity for the acquisition of knowledge". In this article it is combined with the differential preservation hypothesis and tested by asking whether epistemic behavior — cognitively challenging behavior at work or leisure such as reading, thinking, or learning — mediates the relations of cognitive ability and curiosity with academic grades. The five-year longitudinal mediation study found no support for the hypothesis for either predictor.

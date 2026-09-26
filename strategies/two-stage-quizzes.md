@@ -12,6 +12,7 @@ generated:
 # Two Stage Quizzes
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 A two-stage quiz (also called a two-stage or collaborative exam) is administered in two passes: learners first complete the quiz individually and submit their answers, then immediately retake the same or overlapping items in small groups, discussing each question until the group agrees on an answer. Grades typically weight both stages (e.g., 75% individual, 25% group), and feedback is delivered through the discussion itself rather than delayed instructor commentary.

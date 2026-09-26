@@ -17,6 +17,7 @@ sources:
 # Vocabulary assistance embedded directly in the text
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Vocabulary help, such as pronunciation and glossing of difficult terms, embedded directly in the text as one of the enumerated aid types. The article reports that students "gave very high marks to the precis summaries, vocabulary helpers, mini-notes, and Reader Helper notes," so vocabulary helpers were among the most favorably rated aids by students in the study.

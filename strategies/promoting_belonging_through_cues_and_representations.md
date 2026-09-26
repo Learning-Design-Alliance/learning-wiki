@@ -25,6 +25,7 @@ sources:
 # Promoting Belonging Through Cues and Representations
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (3 for, 2 against) · 10 studies, `q2`–`q4` · 6 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy treats the ambient signals of a learning environment as a design surface. What is on the walls, which examples appear in problems, whose photographs are on the department page, what objects fill the room, and which names recur in the reading list all communicate who this subject is for — and learners read those signals long before anyone tells them explicitly whether they belong. The strategy is to audit those cues and change the ones that narrow the field, replacing stereotype-linked signals with ones that admit a wider range of people without singling anyone out.

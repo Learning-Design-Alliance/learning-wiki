@@ -12,6 +12,7 @@ generated:
 # Understand Your Bias
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 unmarked) · 2 studies, `q3` · 2 of 2 report an effect size
 
 ## Description
 Understand Your Bias is a structured self-reflection strategy in which learners examine their own automatic associations, stereotypes, and prejudices — often through instruments such as the Implicit Association Test, guided journaling, or structured discussion prompts — and then analyze how those biases influence their judgments of other people. The goal is metacognitive awareness of one's own perceptual filters, not immediate behavior change.

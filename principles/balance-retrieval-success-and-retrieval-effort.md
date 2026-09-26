@@ -17,6 +17,7 @@ sources:
 # Balance Retrieval Success and Retrieval Effort
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 unmarked) · 4 studies, `q2`–`q4` · 3 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 The chapter's common theme across manipulations of initial retrieval practice: "Conditions that provide less retrieval support and require more effort from the learner tend to produce greater gains in learning, as long as learners can successfully retrieve material". Spacing, fewer cues, and recall formats add effort, while learning to criterion or feedback can protect success.

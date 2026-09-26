@@ -17,6 +17,7 @@ sources:
 # Integrate evaluation into the learning process with learners participating in creating and understanding standards
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper recommends resolving Constructivist evaluation problems through instruction's prescriptive function: evaluations should not simply be administered but integrated as part of the learning process. This is accomplished by making clear who is responsible for creating the evaluative standards and when, so students feel they are participating in standard evaluation rather than subjected to an imposed standard, learning to understand the standard as a first step toward participating in the evaluation and selection of future standards. Standards are treated as logical possibilities to be worked toward cooperatively, likened to cognitive apprenticeship.

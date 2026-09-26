@@ -12,6 +12,7 @@ generated:
 # No Hands Up
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 No Hands Up (also called "cold calling" or "no opt out" questioning) removes the raised-hand norm from classroom questioning. Instead of allowing volunteers to self-select, the instructor selects respondents deliberately — by name, by random draw (name cards, popsicle sticks, digital pickers), or by structured turn-taking — and typically builds in thinking time before the name is chosen. The goal is to distribute participation, keep all students accountable for thinking, and give the instructor a valid sample of class understanding.

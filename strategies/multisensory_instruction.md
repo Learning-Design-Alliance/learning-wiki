@@ -12,6 +12,7 @@ generated:
 # Multisensory Instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (3 for, 2 mixed) · 10 studies, `q1`–`q4` · 9 of 10 report an effect size · 2 claims rest on one study
 
 ## Description
 Multisensory instruction teaches content through two or more sensory modalities at once — learners see a letter, say its sound, and trace or write it in the same lesson. The approach originated in the Orton-Gillingham-Stillman tradition for dyslexia remediation and underpins most structured literacy programs. Its core mechanism is not "matching learning styles" but pairing explicit, systematic phonics with simultaneous multimodal encoding and motor output.

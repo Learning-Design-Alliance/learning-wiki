@@ -17,6 +17,7 @@ sources:
 # BMTN network resources: shared deep-engagement definitions and rubrics, a curated task library, and the Change Idea Summary Book
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The network developed shared definitions of deep engagement with algebra and rubrics for each DEA (connect, justify, solve), built from teachers categorizing sample student work and revised through ongoing teacher feedback. Network leaders also "created a library of tasks" organized "by topic (e.g., linear functions, algebraic equations) and type of task (e.g., longer mathematical explorations, short tasks)" to spread rich tasks supporting deep engagement. The Change Idea Summary Book collected teachers' refined routines each year and served as a within-network spread mechanism. These resources supported teachers in addressing the third PDSA learning question about student depth of engagement.

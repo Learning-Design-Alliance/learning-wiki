@@ -12,6 +12,7 @@ generated:
 # Constructivism
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Constructivism, as an instructional principle, emphasizes that learners build understanding by connecting new information to prior knowledge through active interpretation, explanation, and application. In practice, the principle pushes design toward tasks that make thinking visible, surface misconceptions, and require learners to organize meaning rather than passively receive it.

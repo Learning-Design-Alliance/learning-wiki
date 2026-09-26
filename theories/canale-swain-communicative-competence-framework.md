@@ -16,6 +16,7 @@ sources:
 # Canale and Swain's integrative framework of communicative competence: grammatical, sociolinguistic, and discourse components
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The packet presents Canale and Swain's (1980) framework as an integrative theory in which communicative competence is "a synthesis of knowledge of basic grammatical principles, knowledge of how language is used in social contexts to perform communicative functions, and knowledge of how utterances and communicative functions can be combined according to the principles of discourse". It is depicted in a figure showing sentence grammar, sociolinguistic elements (topic, role of participants, setting, norms of interaction, register), and is used as the organizing framework against which the packet's two teaching models are compared. The framework also spans speaking, reading, and writing rather than a subset of skills.

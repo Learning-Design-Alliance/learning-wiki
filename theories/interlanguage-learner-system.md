@@ -16,6 +16,7 @@ sources:
 # Interlanguage: learners form self-contained linguistic systems intermediate between native and target language
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Interlanguage, a term Selinker (1972) adopted from "interlingual", names the second language learner's system that "has a structurally intermediate status between the native and target language learners". The article describes it as having its own legitimate system, being dynamic, and reflecting the psychological process of foreign language learning. It became the basis of error analysis, reframing learners as creative beings proceeding through systematic acquisition stages rather than producers of malformed language.

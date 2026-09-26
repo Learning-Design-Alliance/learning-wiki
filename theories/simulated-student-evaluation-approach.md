@@ -15,6 +15,7 @@ sources:
 # Simulated student approach: using computational models of learning (Apprentice agents) to evaluate knowledge tracing online before classroom deployment
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 3 claims (3 for) · 3 studies, `q2` · 3 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The article introduces "a novel way of using machine-learning models to generate simulated students" for evaluating knowledge tracing in online mastery learning settings. Unlike statistical predictive models, Apprentice agents "actually perform the task (not just predict performance)" and "do not require prior human data to operate." The authors ran 30 agents per condition in a fraction arithmetic tutor and argue the approach "provide[s] a practical means of evaluating knowledge tracing models prior to more costly classroom testing."

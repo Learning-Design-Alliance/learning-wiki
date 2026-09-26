@@ -17,6 +17,7 @@ sources:
 # Five-step empathy interview exercise for teachers designing inclusive computing pathways
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article lays out a structured exercise teachers complete before designing an inclusive computing pathway. It moves through five steps: "Step 0: Notice - Begin with yourself and your identity", "Step 1: Answer - Reflect on your own experiences before interviewing a student", "Step 2: Listen", "Step 3: Observe", and "Step 4: Reflect". The exercise is designed to surface students' real experiences and needs so lessons and curricula can be designed for those needs rather than for imagined users.

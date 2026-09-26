@@ -16,6 +16,7 @@ sources:
 # Vygotsky's social constructivism: psychological phenomena emerge from social interaction
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article identifies Vygotsky as the pioneer of social constructivism, whose social learning theory holds that "psychological phenomena emerge from social interaction." Mental elements are social artifacts such as signs, symbols, and linguistic terms, and anyone directly interacting with the learner belongs to the learner's social world. The authors link Vygotsky's emphasis on social transformation to his experience of revolutionary Russia.

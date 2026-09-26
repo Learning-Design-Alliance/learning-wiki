@@ -17,6 +17,7 @@ sources:
 # Select a video production style holistically, considering course type, complementary materials, and learner needs rather than video alone
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article argues that instructional video is one pillar of pedagogical design that must work with other components such as problem sets, hypertext, discussion boards, and interactive quiz segmentation. It states that "the selection of a video production style should take a holistic view that considers the type of the course (Figure 3) and the needs of the learners." It also distinguishes video as a substitute for classroom teaching in distance education versus a complementary tool in flipped classrooms, noting that target group and instructional framework shape design motivations.

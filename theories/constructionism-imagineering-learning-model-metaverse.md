@@ -16,6 +16,7 @@ sources:
 # Constructionism imagineering learning model via metaverse with four main elements: inputs, learning process, output, and feedback
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article develops a learning model that integrates imagineering learning with constructionism learning and delivers it through the metaverse, a virtual environment where learners interact through avatars as 3D graphics. The model is described as "a prototype for teaching and learning in the digital age by integrating the imagineering learning process with the constructionism learning process." It consists of four main elements: input factors (learning objectives, analysis of teachers and learners, defining constructionism imagineering learning activities, preparing metaverse technology), the learning process, output (learning achievement and young innovators), and feedback that uses output data to improve the process and inputs.

@@ -12,6 +12,7 @@ generated:
 # Peer-Assisted Learning Strategies (PALS)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 2 of 3 report an effect size
 
 ## Description
 PALS is a structured peer tutoring approach in which learners are paired to work together on academic activities, taking turns as "reader" (or solver) and "coach." The coach records errors, prompts corrections, and awards points for accurate performance; after reading, partners retell or summarize content using structured prompts. Core activities include partner reading, paragraph shrinking (main-idea summarization), and prediction relays. The instructor trains pairs, assigns partnerships, monitors interactions, and provides feedback and corrective instruction.

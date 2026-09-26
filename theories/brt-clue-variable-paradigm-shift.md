@@ -16,6 +16,7 @@ sources:
 # BRT clue variable paradigm shift: clues become the learning field itself
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes a paradigm shift in which Bloom's clue variable, originally a parameter affecting teaching quality, is elevated to directly define the learning unit. The article states: "The article removes the clue variable revealed by the taxonomy from the parameters that affect the learning quality and transforms it into an element that directly defines the learning unit." Each borrowed discipline defines a new area of discovery, learning, and creation, replacing the clue's accompanying and supporting role.

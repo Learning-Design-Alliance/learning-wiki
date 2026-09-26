@@ -12,6 +12,7 @@ generated:
 # Emphasize Time on Task
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 0 of 2 report an effect size
 
 ## Description
 Time plus energy equals learning. There is no substitute for time on task: learners need to allocate realistic amounts of time to learning and use that time effectively. This strategy, one of Chickering and Gamson's (1987) Seven Principles for Good Practice in Undergraduate Education, directs instructors and tutors to make time expectations explicit, structure sessions into purposeful segments, and teach learners to manage their own study time. How the tutor or instructor uses session time defines time expectations for the learner and establishes the basis for sustained effort.

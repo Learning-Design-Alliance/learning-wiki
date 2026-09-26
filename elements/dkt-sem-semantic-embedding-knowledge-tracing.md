@@ -17,6 +17,7 @@ sources:
 # DKT-Sem: Deep Knowledge Tracing with Semantic Embeddings
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 DKT-Sem is the article's simpler alternative KT method for dialogues, described as a strong baseline. The authors "slightly modify the deep KT (DKT) model [46] to use semantic embeddings of the textual content in dialogues": S-BERT embeddings of the tutor turn, student turn and averaged KC embeddings feed an LSTM, and KC masteries are predicted via a bilinear projection onto KC embeddings. It is trained with the same objective as LLMKT.

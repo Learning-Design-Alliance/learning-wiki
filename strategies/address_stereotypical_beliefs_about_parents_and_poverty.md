@@ -12,6 +12,7 @@ generated:
 # Address Stereotypical Beliefs About Parents and Poverty
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 10 studies, `q3`–`q4` · 3 of 10 report an effect size
 
 ## Description
 This strategy targets the beliefs educators hold about parents and families experiencing poverty before attempting family engagement initiatives. Deficit framings — that low-income parents do not value education, lack the capacity to support learning, or are apathetic — are surfaced, examined against evidence, and deliberately replaced with asset-based understandings (e.g., funds of knowledge, competing constraints rather than indifference). The work is carried out through structured reflection, counter-stereotypical exposure, and rethinking engagement practices so they assume family capability rather than family deficiency.

@@ -17,6 +17,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (4 for) · 1 study, `q1` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Applying Newton's third law as a metaphor, the essay argues every educational change provokes an equal and opposite reaction, so "the best course may be to strike a balance between competing ideas". Educators should "avoid going overboard on one methodor philosophy of teaching" and instead weigh pros and cons of each reform, adopting balanced combinations such as both cooperative and individual work, or both grouping plans.

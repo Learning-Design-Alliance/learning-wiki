@@ -16,6 +16,7 @@ sources:
 # Criterion-referenced (mastery) testing as the advocated grading framework
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The essay's central framework: each student is "judged solely in relation to these pre-established criteria" — the course objectives — "and independently of the performance of any other student." Students who have not yet learned are merely in the process of learning; slower learners are helped, not stigmatized, and cooperation is safe because class rank is not at stake. A pass-fail cutoff remains arbitrary, but repeated opportunities to demonstrate mastery remove its sting.

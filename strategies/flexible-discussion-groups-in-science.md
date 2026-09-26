@@ -17,6 +17,7 @@ sources:
 # Use Flexible Discussion Groups for Science Content Analysis
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Discussion groups, homogeneous or heterogeneous, help pupils analyze content, question gaps in understanding, brainstorm solutions, and record information in diaries or journals. They can produce artifacts such as a classroom science newspaper, dioramas, murals, models, and journals, and pupils can 'challenge ideas presented, in a positive way', with mutual respect as a precondition.

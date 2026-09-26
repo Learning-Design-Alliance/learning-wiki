@@ -12,6 +12,7 @@ generated:
 # Text-to-Speech (TTS)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 6 studies, `q1`–`q4` · 6 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Text-to-speech (TTS) converts written text into synthesized spoken audio, allowing learners to listen to digital text rather than — or alongside — reading it. It is implemented through screen readers (JAWS, NVDA), literacy support tools ([Read&Write](https://www.texthelp.com/products/readwrite/), [Learning Ally](https://www.learningally.org)), built-in OS features, and audio narration embedded in courseware. TTS serves both as an [accommodation](../elements/accommodations.md) for learners with print disabilities and as a universal design option for any learner who benefits from hearing text.

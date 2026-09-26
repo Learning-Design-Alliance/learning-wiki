@@ -16,6 +16,7 @@ sources:
 # Theory of expansive learning: seven learning actions forming an expansive cycle, grounded in ascending from the abstract to the concrete
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The theory of expansive learning holds that learners "learn something that is not yet there": they construct a new object and concept for their collective activity and implement it in practice. It is object-oriented, with motives located in the object to be transformed, and rests on the dialectics of ascending from the abstract to the concrete, in which an initial germ cell is enriched into a concrete system of manifestations. The cycle is described as a stepwise process of seven learning actions — questioning, analyzing, modeling, examining the model, implementing it, and reflecting on and evaluating/consolidating — forming an idealized analytical tool rather than a universal formula of stages.

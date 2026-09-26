@@ -16,6 +16,7 @@ sources:
 # Person-centered (client-centered) counseling and psychotherapy as Patterson articulated it
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article presents person-centered counseling and psychotherapy as the framework Patterson championed, derived from Carl Rogers' philosophy. Patterson encountered it through Rogers' 1942 book and the VA counselor training program Rogers directed at the University of Chicago, and spent his career elaborating it, including his 1969 paper "A Current View of Client-Centered Therapy" in The Counseling Psychologist. He reports that issue "was very popular and was reprinted many times, because it was widely used in courses in counseling," and he extended the approach to group work, arguing "the philosophy and theory of group therapy are the same as the Rogers' philosophy and theory of individual therapy."

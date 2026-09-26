@@ -17,6 +17,7 @@ sources:
 # Motivational Delivery Checklist
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The digest describes the Motivational Delivery Checklist, developed by Keller and Keller (1989), as "a 47-item ARCS-based instrument for evaluating the motivational characteristics of an instructor's classroom delivery". Its items are grouped by the four ARCS components, so an observer can rate an instructor's delivery on attention, relevance, confidence and satisfaction behaviours.

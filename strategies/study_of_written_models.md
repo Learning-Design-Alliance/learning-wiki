@@ -12,6 +12,7 @@ generated:
 # Study of Written Models
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 6 studies, `q3`–`q4` · 5 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 Study of written models asks learners to closely examine exemplary texts — their formats, structures, tones, vocabulary, and sentence patterns — and then imitate or adapt those features in their own writing. The strategy treats expert writing as a [Demonstration](../elements/demonstration.md) in text form: the model makes visible what a successful product looks like, and guided analysis makes its reasoning and craft explicit. It is especially valuable for learners unfamiliar with a genre, who otherwise must infer its conventions from vague instructions alone.

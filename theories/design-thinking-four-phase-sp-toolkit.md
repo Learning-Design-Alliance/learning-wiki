@@ -16,6 +16,7 @@ sources:
 # Design Thinking four-phase process (Singapore Polytechnic toolkit)
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article adopts the Singapore Polytechnic Department of Educational Development (2011) account of Design Thinking as a four-phase cycle: "sense and sensibility, empathy, ideation, and prototype." Sense and sensibility uses all the senses to search information; empathy involves understanding users by feeling like them, using ethnography, interview, observation and insight generation; ideation generates various ideas and theories with ideation tools until one concept is selected; prototype makes concepts tangible and examines the concept-user experience relationship. The study focuses on the ideation phase as the most challenging one.

@@ -17,6 +17,7 @@ sources:
 # Virtually Connecting: equitable conference conversations facilitated by marginalized scholars
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Virtually Connecting (VC) is "a process-centric, social justice oriented OEP that goes beyond the limited and unidirectional access to livestreamed/recorded presentations that conferences typically provide, and instead focuses on inviting and facilitating conversations between those who attend a conference and those who cannot". Its founders and many volunteers belong to marginalized groups in academia, creating a parallel mode of developing social capital where marginalized individuals design the experience.

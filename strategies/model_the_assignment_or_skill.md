@@ -29,6 +29,7 @@ sources:
 # Model the Assignment or Skill
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 6 claims (5 for, 1 mixed) · 10 studies, `q3`–`q4` · 9 of 10 report an effect size · 2 claims rest on one study
 
 ## Description
 Modeling means the teacher performs the target task — writing a paragraph, solving a problem, annotating a text, critiquing an argument — while verbalizing the decisions, checks, and revisions that expert performance involves. The goal is to make invisible expert thinking observable, so learners acquire not just the product but the process that produces it.

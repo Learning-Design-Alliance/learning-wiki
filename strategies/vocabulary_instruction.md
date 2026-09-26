@@ -12,6 +12,7 @@ generated:
 # Vocabulary Instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 mixed) · 2 studies, `q1`–`q2` · 2 of 2 report an effect size
 
 ## Description
 Explicitly teaching vocabulary words and their definitions, along with providing context, to help students understand and use new words effectively. Vocabulary instruction can include pre-teaching challenging words before reading a text, so students don't become discouraged. Activities can be incorporated into any content area. Effective programs go beyond definitional teaching: they provide multiple encounters with words in varied contexts, require learners to actively process word meanings, and connect new words to known concepts.

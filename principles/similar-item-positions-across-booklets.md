@@ -17,6 +17,7 @@ sources:
 # Position the same items in similar locations across different test booklets to avoid position-related DIF
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This test-assembly principle holds that when multiple booklets are formed from the same items, the items should occupy similar positions in each booklet. The article's DIF analysis of TEOG booklets found that items flagged as DIF were "generally positioned at considerably different places between booklets", and on this basis recommends that "the same items be positioned in similar locations in the different booklets" to avoid DIF resulting from item position effects.

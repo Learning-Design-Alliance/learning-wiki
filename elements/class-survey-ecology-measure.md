@@ -17,6 +17,7 @@ sources:
 # Colorado Learning Attitudes about Science Survey (CLASS) as the outcome measure
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The study used the CLASS questionnaire, a standardised instrument that "has passed validity and reliability tests" and differentiates between the beliefs of experts and novices, to measure learners' engagement and applied understanding of ecological concepts. It was administered as a pre- and post-test with a 5-point Likert scale (1=strongly disagree to 5=strongly agree). Learners' percentage favourable scores were computed against the CLASS Expert Response Key across 42 statements, comparing responses of the 355 learners to expert reactions.

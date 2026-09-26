@@ -17,6 +17,7 @@ sources:
 # Begin inclusive design work with teacher self-reflection on intersecting identities
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Steps 0 and 1 of the exercise turn the teacher's gaze inward before any student contact. Teachers complete an identity web of race, ethnicity, SES and values, then map how identities overlap, since "Advantages and disadvantages are experiences not only because of a single identity, but also due to identities combining and intersecting". Step 1 then asks teachers to reflect on their computing values, memorable student relationships, challenges connecting with students, and stereotypes they have had challenged, and to identify which empathy actions and blind spots they might pursue.

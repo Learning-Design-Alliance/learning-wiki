@@ -12,6 +12,7 @@ generated:
 # Historically Responsive Literacy
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 Historically Responsive Literacy (HRL), developed by Gholdy Muhammad, is a framework for literacy instruction that draws on the educational practices of 19th-century Black literary societies to pursue four interrelated goals: **identity** (who students are and want to become), **skills** (proficiency in disciplinary literacies), **intellect** (deep conceptual and historical knowledge), and **criticality** (the ability to read and disrupt power, inequity, and injustice). Lessons are planned so that every learning task advances all four pursuits simultaneously, connecting texts and tasks to students' lives and to the histories of marginalized communities.

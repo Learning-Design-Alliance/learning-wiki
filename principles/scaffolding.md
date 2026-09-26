@@ -17,6 +17,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size
 
 ## Description
 Scaffolding is the principle of providing temporary support that helps learners perform beyond what they could do independently. This page serves as the canonical short-form target for links that refer to scaffolding without explicitly naming fading or transfer of responsibility.

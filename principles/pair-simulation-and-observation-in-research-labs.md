@@ -17,6 +17,7 @@ sources:
 # Pair simulation and observation in a research-based lab and encourage students to work on both parts in parallel so they see the connections
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors argue that in space physics simulation and observations build upon one another, and one of the strengths of this lab is exposing students to both. Although the simulation portion is presented first because it gives a global view and cleaner results, the two parts can be done in any order. They encourage students to work on both parts in parallel for practical reasons (simulation results take days to become available) and for the philosophical reason that switching back and forth makes students more likely to see the connections between the parts.

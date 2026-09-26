@@ -16,6 +16,7 @@ sources:
 # ARCS strategy sub-component taxonomy (four components, three sub-components each)
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The digest presents ARCS as a two-level taxonomy for designing motivating instruction. It says "The ARCS Model identifies four essential strategy components for motivating instruction" (Attention, Relevance, Confidence, Satisfaction), and that "Keller (1987) breaks each of the four ARCS components down into three strategy sub-components", giving twelve sub-components, each paired with a classroom example. The model is described as rooted in expectancy-value theory.

@@ -17,6 +17,7 @@ sources:
 # Make technology professional development ongoing, sustained, and followed up rather than one-shot workshops
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The report argues that the traditional pattern of one-shot workshops, without follow-up study, classroom observation, links to student activity, or measurement of results, is ineffective for technology integration. It states "One-time sessions are not particularly effective" and that professional development must become "a new mode of continuous improvement linked to the program goals of the institution and the performance of teachers and students in the classroom." Schools should guarantee adequate follow-up so emerging questions are addressed, differentiate activities by audience and specialty, and focus on teaching with technology rather than mechanics.

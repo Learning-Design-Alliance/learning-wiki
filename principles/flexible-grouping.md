@@ -21,6 +21,7 @@ sources:
 # Flexible Grouping
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Flexible grouping is a classroom practice that temporarily places learners together in groups to work collaboratively toward specific learning goals or activities. These groups are adaptive, accommodating learners' evolving needs and interests based on instructor observations, formative assessments, and learner feedback. Encouraging learners to move flexibly between groups allows them to bring their own strengths to the class and provides opportunities to learn with and from each other, thereby strengthening social awareness and relationship skills. This practice supports all adults, including those with learning disabilities and multilingual learners, by allowing them to participate alongside their peers, showcase their strengths, and learn from others intentionally.

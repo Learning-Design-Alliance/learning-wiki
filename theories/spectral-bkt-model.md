@@ -16,6 +16,7 @@ sources:
 # Spectral BKT: a BKT variant combining feature compensation (3-gram observations) with model compensation (four latent states)
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Spectral BKT is a reconceptualization of Bayesian Knowledge Tracing as a first-order HMM that applies two noise-handling paradigms from speech processing. Feature compensation replaces single binary observations with "n-grams of the consecutive original unary observations of correct and incor rect skill application" (3-grams, giving 8 spectral observations), and model compensation adds two intermediate latent states between unknown and known, for 4 states and 37 parameters per skill. A sparsity structure in the transition matrix forces forward progression from unknown to known and prevents the EM algorithm from learning degenerate models. Predictions over 8 spectral observations are mapped back to binary correct/incorrect via regular, strict, or relaxed rules.

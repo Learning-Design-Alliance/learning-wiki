@@ -12,6 +12,7 @@ generated:
 # Mindfulness Techniques for Emotional Regulation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
 
 ## Description
 Mindfulness techniques for emotional regulation teach students to notice their emotional and physiological states non-judgmentally in the moment, creating a pause between stimulus and reaction. Practices include focused breathing, body scans, brief meditation, and mindful observation of thoughts. The mechanism is improved attentional control and interoceptive awareness, which weakens automatic reactivity and supports deliberate self-regulation [~S].

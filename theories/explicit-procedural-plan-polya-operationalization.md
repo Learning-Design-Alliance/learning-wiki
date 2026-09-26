@@ -16,6 +16,7 @@ sources:
 # Explicit step-by-step problem-solving plans operationalizing Polya's phases for middle-grade word problems
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article describes textbook problem-solving plans derived from Polya's four phases, which give students steps to follow such as "Read the problem, Plan, Find the answer, Check the answer," plus strategies for each step (identifying given facts and the question, drawing a diagram, choosing an operation, writing and solving an equation, estimating, checking). A research model operationalized Polya's plan for children in eleven steps grouped by phase. The study tested such a plan as a seven-step formatted form on each test page with space for student work.

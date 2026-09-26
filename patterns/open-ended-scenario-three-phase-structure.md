@@ -17,6 +17,7 @@ sources:
 # Open-ended scenario: collaboratively planned, acted-out, and debriefed role play for language learners
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The open-ended scenario is a pedagogical device designed by DiPietro (1981) that "resembles a role play in that it grows from a set of circumstances" but differs in that "the dialogues are planned collaboratively by the second-langage learn- ers, then acted out", after which interactions and transactions are discussed with the language facilitator. It unfolds in three phases: off-stage (planning and discussion), on-stage (acting out the dialogue), and a debriefing stage in which interactions and transactions are discussed. The packet provides guidelines for constructing open-ended scenarios, a guide to discussion on scenario development, and workshop activities in which trainees build and evaluate scenarios.

@@ -17,6 +17,7 @@ sources:
 # Holding onto the GREEN Zone curriculum: an Earth Science riparian education program for grades 5-8
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A riparian education curriculum for learners in grades 5-8 or youth group members ages 10-14, focused on science inquiry and experiential learning. It guides learners in "investigating, measuring, and documenting some characteristics of a riparian zone" across six key elements such as water quality and quantity, soils, plant characteristics, erosion and deposition, and surrounding land uses. The package includes an Action Guide for learners, this Leader Guide, and a poster, and is designed for both formal and nonformal settings.

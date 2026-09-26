@@ -12,6 +12,7 @@ generated:
 # Highlighting Strategy with Add-on Tool
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 Students use a Google Doc add-on tool to create individualized highlighters in different colors over a shared text. For example, all text supporting "Argument #1" might be highlighted red, evidence for "Argument #2" green, and so on. Highlights can be exported by color into a table that gathers all ideas in each category; students then add a column in which they write summaries of everything in that highlighted category, converting an attention-directing act into a generative one.

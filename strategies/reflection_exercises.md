@@ -12,6 +12,7 @@ generated:
 # Reflection Exercises
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 0 of 2 report an effect size
 
 ## Description
 Reflection exercises are structured activities that prompt learners to think back on their experiences, feelings, and behaviors — identifying patterns, evaluating outcomes, and setting goals. Common formats include journal reflections, end-of-class exit prompts, structured debriefs after group work, and goal-setting reviews. The key design feature is a prompt or frame: unstructured "think about your day" rarely produces insight, whereas guided questions ("What was hardest today, and what did you do about it?") direct attention productively.

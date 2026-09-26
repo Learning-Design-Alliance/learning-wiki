@@ -16,6 +16,7 @@ sources:
 # Four-mode framework of interdependence: task, position-role, social, and skill interdependence
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper develops a conceptual framework defining interdependence as encompassing four distinct modes: task interdependence (interrelatedness of discrete operations), role or positional interdependence (normatively expected exchange of inputs and outputs among role players), social interdependence (rooted in the reward system tying rewards to individual and group performance), and skill or knowledge interdependence (specialization from training and expertise). The framework is operationalized with questionnaire scales and specialization indices and applied to 40 brokerage offices.

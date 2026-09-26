@@ -17,6 +17,7 @@ sources:
 # Incorporate discussions of human sex trafficking into required counselor education trauma curriculum and provide targeted training
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that counselor educators embed human sex trafficking content into accredited coursework and that counselors, supervisors, and students receive training on trafficking topics. It states that "counselor educators may better support students by incorporating discussions about human sex trafficking as part of the Council for Accreditation of Counseling and Related Educational Programs (2015) required trauma curriculum," for example within social and cultural foundations courses. Supervisors are also urged to learn resources and trauma-informed techniques that empower trafficked clients and support supervisees.

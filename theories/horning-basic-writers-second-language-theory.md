@@ -16,6 +16,7 @@ sources:
 # Horning's theory: for basic writers, academic written English is a second language
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article describes Alice Horning's (1987) theory of writing development for basic writers, formulated around Krashen's hypotheses. Its central hypothesis is that "(B)asic writers learn to write as other learners master a second language because, for them, academic written English is a whole new language" (p.5). The theory holds that the written form of language is a distinct linguistic system, and that basic writers' needs are similar to those of other writers, their differences being a matter of degree.

@@ -12,6 +12,7 @@ generated:
 # Mini Classroom Exercise Breaks
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Mini classroom exercise breaks are brief (typically 3–10 minute) bouts of moderate-to-vigorous physical activity — jumping jacks, dancing, push-ups, running in place — scheduled between or within lessons. They function as attention-restoration and arousal-regulation devices while also contributing to students' daily physical activity requirements.

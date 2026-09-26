@@ -25,6 +25,7 @@ sources:
 # Windows, Mirrors, and Sliding Glass Doors
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 6 studies, `q3` · 2 of 6 report an effect size
 
 ## Description
 This strategy involves using stories and materials that act as mirrors, windows, and sliding glass doors to help students identify their place in the world. A **mirror** reflects the reader's own culture and identity back to them; a **window** offers a view into someone else's lived experience; a **sliding glass door** invites the reader to step through and inhabit that other world. The framework, introduced by Rudine Sims Bishop (1990), rests on the premise that students cannot truly learn about themselves unless they also learn about others — seeing how other people conduct themselves in the world helps students understand how they might fit in.

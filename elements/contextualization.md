@@ -12,6 +12,7 @@ generated:
 # Contextualization
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Contextualization is the element in which new ideas, texts, or tasks are framed within a meaningful situation, purpose, domain, or prior experience. It is useful when learners need to understand why something matters before they can engage with it deeply.

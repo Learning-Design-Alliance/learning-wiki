@@ -16,6 +16,7 @@ sources:
 # Revised Bloom's Taxonomy process dimensions as a framework for framing value education objectives
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article adopts Anderson and Krathwohl's (2001) Revised Bloom's Taxonomy, in which "six process dimensions" are named "Remember, Understand, Apply, Analyze, Evaluate and Create." These dimensions "represent a continuum of increasing cognitive complexity from lower order thinking skills to higher order thinking skills," starting at Remember and reaching Create, with nineteen specific cognitive processes clarifying their scope. The article uses this taxonomy as the organizing framework for setting value education objectives and planning transaction activities in each dimension.

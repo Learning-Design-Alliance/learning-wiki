@@ -17,6 +17,7 @@ sources:
 # Annotated bibliography of K-8 cultural and global awareness materials organized in 11 categories
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article is a guide that provides, in one integrated document, a listing and brief description of materials located in the Project Resource Center at Arizona State University. Each entry gives author, title, publisher, publication date, grade level where appropriate, and an annotation. As the abstract states, "Materials are presented in 11 categories--general theory, background information for teachers, curriculum guide and classroom activities, reports on programs, Your Community in the World /world in Your Community projects, textbooks, children's books, periodicals, audio-visual materials, bibliographies and lists of resources, and supplemental information". Asterisked items are also held in four Model Schools Resource Centers.

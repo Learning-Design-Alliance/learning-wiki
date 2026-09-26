@@ -17,6 +17,7 @@ sources:
 # Teach video analysis by hand, in real time, without automation layers for non-science majors
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Although the software supports automatic video position analysis, the course has students find the position in each frame by hand and demonstrates analysis in real time. The authors state "we feel that it is essential to show this analysis in real-time without too many layers of automation in order for them to develop basic skills and understanding", and as students build skills, steps are left out in subsequent weeks.

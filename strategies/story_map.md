@@ -12,6 +12,7 @@ generated:
 # Story Map
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
 
 ## Description
 A story map is a graphic organizer that scaffolds narrative comprehension by prompting learners to identify and visually arrange the structural elements of a story — setting, characters, problem/conflict, key events, and resolution. Learners complete the map during or after reading, converting a linear text into an explicit spatial representation of narrative structure. Variants range from simple fill-in frames for young readers to complex maps tracking multiple plotlines, character perspectives, or story grammar components.

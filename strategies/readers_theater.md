@@ -12,6 +12,7 @@ generated:
 # Reader's Theater
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q1`–`q3` · 5 of 6 report an effect size
 
 ## Description
 Reader's Theater is a strategy that combines reading practice and performing by having learners read scripts created from books or stories aloud. Students perform by reading from their scripts — without costumes, props, sets, or memorization — so that the interpretive work of reading (phrasing, expression, emphasis) carries the performance. Because the same script is rehearsed repeatedly across practice sessions, the strategy functions as a purposeful form of repeated reading aimed at building fluency, confidence, and comprehension.

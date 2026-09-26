@@ -12,6 +12,7 @@ generated:
 # Novelty Sounds
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 against) · 2 studies, `q3`–`q4` · 1 of 2 report an effect size
 
 ## Description
 Novelty sounds are brief, distinctive auditory or ritualized cues — wind chimes, rain sticks, "hush-bubbles," or a labeled "Quiet Spray" bottle — used to capture attention and quiet a classroom quickly. The technique works by exploiting the orienting response: stimuli that are novel, sudden, or incongruous involuntarily draw attention [~M]. Because the effect depends on stimulus novelty, it is a management routine rather than an instructional strategy, and it must be refreshed or rotated to remain effective.

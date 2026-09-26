@@ -16,6 +16,7 @@ sources:
 # Cross-curricular model of multimedia learning
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article's organizing framework holds that multimedia learning is grounded in multi-mode expression, an activity isomorphic to cross-curricular activities. Learning units combine an investigation phase supporting the content of expression with production phases supporting expression itself. Teachers require expertise as learning supporter, curriculum developer, and multimedia producer for the model to function.

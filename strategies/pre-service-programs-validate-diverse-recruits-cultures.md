@@ -17,6 +17,7 @@ sources:
 # Pre-service education programs should recruit diverse inner-city students and validate their cultures and experiences
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 This strategy, offered by a novice teacher in the paper, directs pre-service program staff to go beyond recruiting inner-city majority students: they should "validate their culture and individual experiences" and learn from them to develop more effective education programs. He also urges professors to engage districts, unions, and parents in positive forums that help schools transform themselves.

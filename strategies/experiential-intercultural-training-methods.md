@@ -17,6 +17,7 @@ sources:
 # Use experiential intercultural training methods such as simulations, role-playing and critical incidents to encounter perceptual and value differences
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Several annotated background materials recommend experiential methods for intercultural learning. Hoopes' INTERCULTURAL SOURCEBOOK (SIETAR, 1979) is annotated: "Approaches help the trainee experience or encounter perceptual and value differences, respond to them, and integrate the resultant learning into their own patterns of thinking and behaving." Methods listed include role-playing, simulations, cultural assimilators, self-awareness inventories, critical incidents, case studies and group exercises, and Nesbitt's edited volume introduces games focusing on global concerns.

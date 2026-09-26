@@ -17,6 +17,7 @@ sources:
 # Have students interview study-abroad returnees to learn about living abroad first hand
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Students prepare interview questions—beginners supported by structured question-writing tasks such as sentence-ordering worksheets—and interview returnees about their experiences overseas. The authors write that "Interviewing 'returnees' about their time in another country provides an opportunity for students to hear first hand about the experience of traveling overseas and serves to heighten their awareness of what it is like to live abroad." Returnees also model attainable English proficiency.

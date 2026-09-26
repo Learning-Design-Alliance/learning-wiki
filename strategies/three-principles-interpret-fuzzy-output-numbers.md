@@ -17,6 +17,7 @@ sources:
 # Apply three membership-based principles to translate fuzzy forecast outputs into numeric values
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Because model outputs are fuzzy sets, the article prescribes three interpretation principles for obtaining quantitative forecasts. If an output has only one maximum membership, select the midpoint of the corresponding interval; if there are two or more consecutive maximums, select the midpoint of the corresponding consecutive intervals; otherwise compute a weighted "mean" using standardized memberships and interval midpoints. "Using human subjective experience knowledge isone ofthe most important features of fuzzy forecasting methods."

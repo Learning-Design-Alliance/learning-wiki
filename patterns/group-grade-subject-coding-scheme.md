@@ -17,6 +17,7 @@ sources:
 # Three-set coding scheme (group, grade level, subject area) with column-aligned codes and group indexes
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Each resource entry carries three sets of codes on its last line: group codes (e.g., AA Asian American, BA Black American, MF Minority Female, H Handicapped), grade-level codes (E elementary, J junior high, H high school), and subject-area codes (R reading, SS social studies, O other). As the guide notes, "it should be noted that each code always appears in'the same coluenn as you go down the page," so users interested in a particular group, grade, or subject can scan the corresponding column. Consecutively numbered items are retrievable through group indexes at the end of each section and an alphabetical title index at the end of the book.

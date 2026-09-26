@@ -17,6 +17,7 @@ sources:
 # Co-Developing Mathematics Tasks from an Informal Educator's Everyday Problem
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A task-development route the article illustrates with the Quilt Problem, showing "informal educators as curriculum developers who capture emerging learning opportunities from everyday practice and teaching practice". An informal educator's real problem (resizing a quilt) is modelled with a mathematics educator, turned into a task, reflected on together, and then transformed into an integrated project, tracing the four boundary crossing mechanisms.

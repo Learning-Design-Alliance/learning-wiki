@@ -12,6 +12,7 @@ generated:
 # Maintaining an Inclusive Curriculum
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 A culturally responsive curriculum ensures that all students are included within all aspects of schooling while acknowledging the unique cultural backgrounds and differences they bring. It requires teachers to understand and recognize each student's non-school cultural life and to incorporate that knowledge into curriculum design, so that content, examples, texts, and tasks connect to learners' identities rather than assuming a single default cultural frame [Ladson-Billings' culturally relevant pedagogy framework.](https://doi.org/10.1080/0142569950180107) [+M].

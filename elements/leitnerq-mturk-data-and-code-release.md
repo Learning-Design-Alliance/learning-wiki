@@ -17,6 +17,7 @@ sources:
 # LeitnerQ Mechanical Turk Data and Code Release
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors release their model, evaluation and user-study code plus their experiment data: "we release (1) all model and evaluation code, (2) framework code for carrying out user studies, and (3) the data collected in our Mechanical Turk study". The Mechanical Turk data set holds 77,034 logs from 331 unique users and 446 unique items, with an overall recall rate of 0.663 and fixed 15-minute sessions.

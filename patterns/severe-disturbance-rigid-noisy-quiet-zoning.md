@@ -17,6 +17,7 @@ sources:
 # Rigid zoning with clearly separated noisy and quiet areas for severely disturbed children
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 For severely disturbed children the booklet prescribes the most structured arrangement: "The schemes for teaching areas for severely disturbed children are fairly rigid in their design. The noisy areas and the quiet areas are clearly defined and separated." Supporting devices include consultation and quiet rooms as retreat areas, separate washrooms, individual study carrels per child, high window sills, and doorless cupboards to minimize visual distractions.

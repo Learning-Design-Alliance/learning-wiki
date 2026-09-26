@@ -16,6 +16,7 @@ sources:
 # Integrated testlets: ordered, inter-dependent MC item sets enabled by immediate feedback
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Integrated testlets are context-dependent item sets in which, per the article, "certain items are purposefully inter-dependent and are thus presented in a particular order", unlike traditional testlets whose items are independent and order-arbitrary. Because one task may lead to another procedurally, the format can assess knowledge of how concepts relate, approximating constructed-response problems. Immediate confirmatory/corrective feedback per item (via the IF-AT) prevents error propagation ('multiple jeopardy') and allows each concept or procedural step to be scored fairly and independently, with partial credit for proximal knowledge.

@@ -16,6 +16,7 @@ sources:
 # Expansive learning: object reinterpreted and widened when activity-system components change and generate contradictions
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Drawing on Engeström and on Virkkunen and Kuutti, the article presents expansive learning as a transformation in the object of activity. The object of activity is reinterpreted and "reconstructed in a wider perspective" when components of the activity system change substantially and misalign, resulting in contradictions or double binds that individuals overcome. Resolution of contradictions, rather than regression to old practices, gradually gives form to a new practice; in learning contexts, expansive learning activity produces "new patterns of activity." The article uses this principle to interpret e-teachers' shift toward facilitative practice as resolution of contradictions between historically learned F2F teaching and the online classroom.

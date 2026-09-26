@@ -17,6 +17,7 @@ sources:
 # Provide mentorship and outreach support after program entry to sustain persistence in alternative STEM programs
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article's findings point to support structures timed to program phases: mentorship received after applying increased the likelihood of course completion, and peer study groups helped students without work obligations devote full attention to the program. The authors also note the absence of formal outreach to struggling students and instructors' reports that LaunchCode's attempt to continue mentorship through the first year of employment did not work out, implying programs should build sustained mentoring capacity.

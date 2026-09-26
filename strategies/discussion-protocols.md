@@ -12,6 +12,7 @@ generated:
 # Discussion Protocols
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q4` · 2 of 4 report an effect size
 
 ## Description
 Discussion protocols are explicit, repeatable structures — turn-taking rules, sentence stems, role assignments, and timing constraints — that organize classroom conversation. Rather than asking learners to "discuss," the instructor specifies who speaks, in what order, for how long, and with what obligation to respond to prior contributions. Well-known examples include Think-Pair-Share, Socratic Seminar, and the Harkness method.

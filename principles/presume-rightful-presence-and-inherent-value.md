@@ -16,6 +16,7 @@ sources:
 # Presume the rightful presence and inherent value of disenfranchised students, families, and communities from the start
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The principle holds that building a culture of true belonging must begin "with the presumption of the rightful presence and inherent value of the disenfranchised." Inherent value means a person's value is assumed to exist without needing to be proven, and it is educators' and institutions' responsibility to look until that value is seen, honoring people's humanity, intersectional identities, and culture.

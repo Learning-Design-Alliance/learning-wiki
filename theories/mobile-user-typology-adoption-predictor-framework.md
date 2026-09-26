@@ -16,6 +16,7 @@ sources:
 # Mobile user typology as a candidate predictor in mobile learning adoption models, substituting for effort expectancy
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article proposes that the four-class mobile user typology derived from latent class cluster analysis — eclectic, Internet, basic, and offline entertainment users — be introduced into technology adoption models such as UTAUT and TAM, which currently omit user typology. The authors argue that "understanding the mobile user ty pology can enhance the designing of mobile learning" and that the typology "introduces mobile user typology as a potential predictor of mobile learning adoption". Empirically, the typology independently predicts behavioural intention and makes effort expectancy redundant, leading the authors to suggest "a mobile user typology variable seems to be a better inclusion in the technology adoption model than effort expectancy".

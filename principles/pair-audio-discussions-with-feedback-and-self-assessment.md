@@ -17,6 +17,7 @@ sources:
 # Pair interpersonal audio discussion activities with instructor feedback and structured self-assessment to support pronunciation development in introductory L2 courses
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that pronunciation-focused audio discussions be embedded in a feedback-supported environment: students complete recorded discussions, receive instructor feedback on accuracy, fluency, comprehensibility, and overall performance, then complete self-assessment forms and journals. The study highlights "the importance of the need for activities that focus solely on spoken language followed by feedback that also accomplish the communicative goals of today's L2 classrooms." Self-assessment urged learners to become more reflective and independent and enabled closer monitoring of participation.

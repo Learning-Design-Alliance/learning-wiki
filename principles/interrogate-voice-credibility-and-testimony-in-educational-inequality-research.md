@@ -17,6 +17,7 @@ sources:
 # Interrogate Voice, Credibility and Testimony When Studying Inequality in Education
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's four suggestions for further research. Inequality literature "can communicate forms of epistemic injustice" through guiding questions such as "Who has voice and who doesn’t?"; it should build a responsive approach to testimony, credibility and recognition; it "should question and problematize the structural inequalities in society"; and education literature should problematize its own epistemic practices and the credibility of the knowledge institutions it references.

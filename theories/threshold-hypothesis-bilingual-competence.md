@@ -16,6 +16,7 @@ sources:
 # The threshold hypothesis: two levels of bilingual competence mediate cognitive and academic effects of bilingualism
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The threshold hypothesis holds that there are threshold levels of linguistic competence bilingual children must attain, such that "there may be threshold levels of linguistic competence which bilingual children must attain both in order to avoid cognitive disadvantages and allow the potentially beneficial aspects of bilingualism to influence his/her cognitive and academic functioning." The paper's preferred form posits two thresholds: attaining a lower threshold suffices to avoid negative cognitive effects, while a second, higher level is necessary for accelerated cognitive growth. The hypothesis treats level of competence in the two languages as an intervening variable mediating bilingualism's effects on cognition, and is expressed in a figure relating type of bilingualism (additive, dominant, semilingualism) to positive, neutral, or negative cognitive effects.

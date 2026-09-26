@@ -17,6 +17,7 @@ sources:
 # Three-category rubric for summative assessment of inquiry poster presentations
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A rubric used to score individual poster presentations as a summative assessment of student learning in the inquiry. Facilitators graded three categories: describing the encoding process, describing the image file, and practicing good communication skills, awarding 1 point per cell to allow for uneven mastery across rows. The design team was "one of the ﬁrst PDP design teams to pilot use of a rubric for inquiry."

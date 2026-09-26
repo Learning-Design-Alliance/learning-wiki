@@ -17,6 +17,7 @@ sources:
 # Pair students with complementary intellectual styles to compensate for weaknesses
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Sternberg recommends pairing learners whose preferred styles differ so that each compensates for the other's weak areas, since people benefit most from collaborators moderately unlike themselves in preferred level of processing. The article states "students with one preferred style can be paired with others who have different preferred styles." It also notes that with too little overlap in levels, a breakdown in communication can occur.

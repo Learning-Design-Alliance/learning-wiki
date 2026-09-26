@@ -12,6 +12,7 @@ generated:
 # Blended Learning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 against) · 8 studies, `q3`–`q4` · 7 of 8 report an effect size
 
 ## Description
 Blended learning combines face-to-face instruction with online learning through an LMS, offering the advantages of direct interaction and the convenience of eLearning. It involves live training sessions, additional online resources, and assignments to ensure complete understanding. The defining design decision is *which* activities go in each mode: typically, content delivery and self-paced work move online, while scarce in-person time is reserved for interaction, feedback, and application.

@@ -17,6 +17,7 @@ sources:
 # Problem-centered instruction with task-level engagement and problem progression
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Within Merrill's framework, the problem-centered element holds that "Learning is promoted when learners are engaged in solving real-world problems." Its corollaries specify that learners are shown the tasks they will be able to do, are engaged at the problem or task level rather than just the operation or action level, and solve a progression of problems that are explicitly compared to one another. The digest presents these as the prescriptions for effective instruction supporting the framework's central problem element.

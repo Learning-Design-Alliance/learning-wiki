@@ -16,6 +16,7 @@ sources:
 # Two-dimensional taxonomy of instructional video styles: human embodiment and instructional media
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes a taxonomy that classifies asynchronous instructional videos along two nominal dimensions: human embodiment (the gamut of human presence, from audience shots to pen-tip capture) and instructional media (from slides and animation to physical objects). Each dimension's values range from digital or artificial to physical, and existing styles are mapped on a Cartesian scatter plot (Figure 2, Table 2). The article states: "In the proposed taxonomy, there are two dimension that determine the instructional video style: 1) human embodiment, and 2) instructional media." It extends Santos-Espino et al.'s speaker-centric/board-centric distinction by treating speakers and boards as complementary dimensions rather than opposing conditions.

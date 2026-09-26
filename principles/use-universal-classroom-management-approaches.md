@@ -17,6 +17,7 @@ sources:
 # Teachers should use universal, whole-classroom management approaches to reduce problem behavior and enable instruction
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study, `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that teachers adopt universal, multi-component classroom management programs implemented with the entire class, because such programs produce a significant positive effect on decreasing problem behavior. The authors state that "Teachers who use universal classroom management approaches can expect to experience improvements in student behavior, improvements that establish the context for effective instructional practices to occur." The recommendation rests on the meta-analytic mean effect size of .71 or .80.

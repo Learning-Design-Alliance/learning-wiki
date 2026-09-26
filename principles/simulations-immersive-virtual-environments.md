@@ -25,6 +25,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 mixed) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Simulations and immersive virtual environments let learners practice decisions, procedures, and interpretations inside a designed representation of reality. Their value is not novelty by itself. They are useful when they make otherwise inaccessible experiences visible, repeatable, safer, or more manipulable than the real setting would allow. Good simulations help learners coordinate knowledge, perception, and action under conditions that resemble authentic performance.

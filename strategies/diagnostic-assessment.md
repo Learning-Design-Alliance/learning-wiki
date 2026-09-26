@@ -12,6 +12,7 @@ generated:
 # Diagnostic Assessment
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies, `q2`–`q4` · 5 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Diagnostic assessment gathers evidence about what learners already know, believe, and can do *before* instruction begins, so that teaching can be matched to actual starting points rather than assumed ones. It typically takes the form of pre-tests, concept inventories, misconception probes, or structured interviews, and its output is a profile of readiness — not a grade.

@@ -16,6 +16,7 @@ sources:
 # Use visual supports, role playing, and social narratives to teach internet safety to adolescents with ASD
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The brief recommends three teaching approaches for parents and school staff: visual supports such as checklists of internet dos and don'ts and lists of acceptable websites; role playing multiple internet safety scenarios followed by discussion of why they are safe or unsafe; and social narratives, scripts, or social stories that describe an internet safety scenario in story form. These "can help to reinforce ideas about how to stay safe while using the internet."

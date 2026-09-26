@@ -17,6 +17,7 @@ sources:
 # Use studies of human experience across world societies with an interdisciplinary focus through grade eight
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The framework recommends implementing its goals through selected studies of human experience spanning American cultures and societies, European, African, Asian, Middle Eastern, and Pacific societies. It specifies that 'Such studies will stress an interdisciplinary focus in kindergarten through grade eight and may be both interdisciplinary and disciplinary in structure in grades nine through twelve.' This gives districts a content-organization recipe for planning programs.

@@ -17,6 +17,7 @@ sources:
 # Instructional Materials Motivation Survey (IMMS)
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The IMMS is one of several instruments the digest says were developed for assessing the motivational quality of instructional situations. It "asks students to rate 36 ARCS-related statements in relation to the instructional materials they have just used", with items keyed to Attention, Relevance, Confidence and Satisfaction. The digest attributes it to Keller (1987).

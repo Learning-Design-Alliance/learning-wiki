@@ -12,6 +12,7 @@ generated:
 # Creating Beautiful Spaces in PBL
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q3` · 2 of 5 report an effect size
 
 ## Description
 Creating beautiful spaces in project-based learning means curating and displaying student work — final products, drafts, critique notes, and process documentation — throughout the school building so that the environment itself testifies to the quality and value of student thinking. The practice treats the school as a gallery of authentic work rather than a corridor of posters, honoring craftsmanship and making excellence visible to students, staff, families, and visitors. For students whose home or community environments offer little beauty or recognition, a building that celebrates their work can carry particular emotional weight.

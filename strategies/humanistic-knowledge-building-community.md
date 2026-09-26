@@ -17,6 +17,7 @@ sources:
 # Humanistic Knowledge Building Community
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 unmarked) · 2 studies, `q1` · 2 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A four-phase collaborative knowledge-building design (Hod & Ben-Zvi, 2018) applied here to a topic — national identity — where students hold personal stakes in the content, not just academic interest. Students use an online knowledge-building platform (Knowledge Forum) to collect, merge, and iterate on ideas, moving through phases of steadily increasing collective cognitive responsibility: from low (structured, teacher-directed assignments) to high (student-determined content and direction). The design deliberately curates materials that present the topic as contested and multiple — pluralistic, sometimes contradictory legal, philosophical, and journalistic sources — rather than converging on one authoritative account, and pairs this with humanistic classroom practices (trust, active listening, psychological safety) intended to let students bring personal experience into academic analysis.

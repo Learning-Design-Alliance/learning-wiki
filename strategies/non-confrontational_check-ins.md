@@ -12,6 +12,7 @@ generated:
 # Non-Confrontational Check-ins
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q1`–`q4` · 0 of 6 report an effect size
 
 ## Description
 Non-confrontational check-ins are brief, positive, individual interactions conducted as students arrive — typically at the classroom door — using greetings by name, informal chitchat, and nonconfrontational statements that redirect potential misbehavior without accusation. The strategy socializes students into productive behavior proactively rather than reacting to disruption after it occurs, setting a positive tone and surfacing concerns (a bad day, a conflict) before they interfere with learning.

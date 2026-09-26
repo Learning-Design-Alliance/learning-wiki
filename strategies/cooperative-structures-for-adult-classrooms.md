@@ -17,6 +17,7 @@ sources:
 # Use named cooperative learning structures adapted to adult classrooms, including Student Team Learning, Think-Pair-Share, Jigsaw, Teaming Together, and Group Investigation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The handbook catalogs the most commonly used cooperative learning structures and advises teachers that knowing the concept matters more than the exact name. Think-Pair-Share lets individuals think alone, pair to discuss, then share with the whole group, and "allows the shy person to gain confidenceby just sharing with one other person instead of a wholegroup." Jigsaw, originally designed by Elliot Aronson, uses home teams and expert representatives; Student Team Learning adds team goals and inter-team competition with individual scores based on improvement; Teaming Together suits group essays and problem solving; Group Investigation has small groups divide subtopics into individual tasks.

@@ -17,6 +17,7 @@ sources:
 # Choose fading starting points by identifying a response already in the child's repertoire
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes that when a child refuses a target consumable or utensil, the clinician should first identify a related response the child already performs and begin fading from that response. It states that "identification of a response that is in the child’s repertoire (in this case swallowing liquids on a spoon) might be one method for choosing initial starting points for fading." The therapist then gradually altered the utensil until the child consumed from the cup.

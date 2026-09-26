@@ -16,6 +16,7 @@ sources:
 # Cultural historical activity theory (CHAT) activity-system framework as a lens for understanding e-teaching
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article applies Engeström's CHAT, in which the activity system is "object-oriented, collective, and culturally mediated human activity," as the unit of analysis for e-teachers' work. CHAT broadens Vygotsky's triad of subject, object, and mediating artefact "to include rules, community, division of labour, and outcome." The authors code interview statements under these elements (subject, object, tools, rules, community, division of labour) and use the five CHAT principles — including multivoicedness, historicity, and contradictions as sources of change — to interpret how web-based teaching transformed the teachers' practice.

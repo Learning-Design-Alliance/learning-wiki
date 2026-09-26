@@ -17,6 +17,7 @@ sources:
 # Use dual enrollment and a shared pathway template so students complete prerequisites while still in high school
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Using a template from the CCTI project, NVCC and partner high schools developed a complete career pathway listing the courses students need each year of high school to enter NVCC health care programs. Through dual enrollment, "many students can complete all of the prerequisites required for entry into the specific postsecondary program of their choice while still in high school; this decreases the time necessary to earn a postsecondary credential." The strategy eases secondary-to-postsecondary transitions and reduces time to credential.

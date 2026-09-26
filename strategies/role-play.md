@@ -12,6 +12,7 @@ generated:
 # Role Play
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 Role play places learners inside a simulated scenario where they adopt a role — a customer service agent, a manager delivering difficult feedback, a negotiator — and act out the interaction in real time. Because the stakes are artificial, learners can make mistakes, experience the emotional texture of the situation, and receive [feedback](../elements/provide-feedback.md) without real-world consequences. The cycle of enactment, reflection, and re-enactment converts abstract interpersonal knowledge into practiced behavior.

@@ -17,6 +17,7 @@ sources:
 # Incorporate spacing effects into the design and structure of computer assisted instruction programs
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The dissertation recommends that educational software developers build spacing effects — spaced practice and spaced review — into the design and structure of the CAI programs they develop, because the study found spacing effects enhanced recall and retention when incorporated within CAI. The author concludes that spacing effects affect the design of educational software and could drive innovation in the educational software arena.

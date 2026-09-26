@@ -12,6 +12,7 @@ generated:
 # Assessing and Differentiating Language Skills in PBL
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size
 
 ## Description
 Assessing and differentiating language skills in project-based learning (PBL) means treating academic language as an explicit outcome of the project, not a hidden prerequisite. Educators assess vocabulary, discourse structures, and language functions alongside content, then use the results to differentiate products (what students create), processes (how they work), and supports (what scaffolds are provided). The cycle is continuous: assessment informs differentiation, and differentiated work generates new evidence of language growth.

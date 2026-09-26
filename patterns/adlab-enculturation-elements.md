@@ -17,6 +17,7 @@ sources:
 # Five enculturation elements of a classroom community of practice that encourage authentic practices of physicists
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article names five enculturation elements that the structural features and instructional choice produce and that are "not typical of a classroom community": "Classroom norms and expectations", "Distributed expertise", "Community involvement", "Many central players", and "Instructor is not sole mediator". These elements encourage some of the authentic practices of physicists, such as students becoming experts in different experiments and collaborating across groups when problems arise.

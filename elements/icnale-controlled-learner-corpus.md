@@ -17,6 +17,7 @@ sources:
 # ICNALE corpus as a controlled comparability resource for contrastive interlanguage analysis of Asian English learners
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The International Corpus Network of Asian Learners of English (ICNALE) is a learner corpus of argumentative essays used in this study as the data source for contrasting L1 and L2 DC usage. It "consists of 1.3 million words of 5600 essays written by 2600 college students in 10 Asian countries and areas as well as 200 English Native Speakers". Its writing conditions (topics, time, length) are strictly controlled, which the article says guarantees high comparability of data and allows more reliable comparison of DC range and frequency among groups. EFL participants are proficiency-classified into four levels (A2, B1_1, B1_2, B2+) via TOEIC, TOEFL or VST scores.

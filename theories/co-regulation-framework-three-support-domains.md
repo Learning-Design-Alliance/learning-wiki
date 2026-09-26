@@ -16,6 +16,7 @@ sources:
 # Co-regulation framework: three domains of adult support surrounding youth self-regulation, with adult self-regulation central
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The report presents a co-regulation framework (Exhibit I.3, modeled on the SARHM project) in which youth self-regulation—comprising cognitive, emotion, and behavior regulation—is encircled by three domains of adult support. As the report states, "Co-regulation integrates three key types of support from adults: (1) building warm, responsive relationships; (2) creating a safe, supportive environment and positive program climate, and (3) coaching youth and providing opportunities for them to practice self -regulation skills". Adult self-regulation is pictured as a belt because it is central to the quality of co-regulation support. The study operationalized this framework into facilitator strategies for SRAE classrooms.

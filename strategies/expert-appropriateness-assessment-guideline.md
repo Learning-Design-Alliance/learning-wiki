@@ -17,6 +17,7 @@ sources:
 # Use expert appropriateness assessment of a designed learning model as the basis for further system development and future outcome studies
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends treating expert evaluation of a newly designed learning model as an initial design-stage checkpoint before implementation. The authors state that "Assessment of the constructionism imagineering learning model via metaverse to enhance young innovators is an assessment of the appropriateness of the initial design and development for use as a guideline for developing the constructionism imagineering learning model via metaverse in the future." They further recommend that "For further study, exploration of learning achievements and imagineering design skills should be considered," and that satisfaction studies should reflect whether the implemented model and processes are suitable.

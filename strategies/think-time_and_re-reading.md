@@ -12,6 +12,7 @@ generated:
 # Think-Time and Re-Reading
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 1 of 2 report an effect size
 
 ## Description
 Sufficient time is allowed for learners to process information and re-read materials if needed. In discourse, this takes the form of deliberate wait time — pausing several seconds after posing a question before calling on anyone. In study contexts, it means permitting and structuring re-reading of texts, problems, and feedback rather than forcing immediate responses.

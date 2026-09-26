@@ -16,6 +16,7 @@ sources:
 # Four-category taxonomy of educational philosophies grouped into traditional and contemporary dimensions
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article organizes educational philosophies into named categories, noting that literature "mostly classified in four categories as perennialism, essentialism, progressivism, re-constructionism". Perennialism and essentialism are treated as Traditional Educational Philosophy (TEP), while progressivism and re-constructionism form Contemporary Philosophy of Education (CPE), as operationalized in the Philosophy Preference Assessment Scale. The taxonomy guides how the study relates philosophy preference to critical thinking dispositions.

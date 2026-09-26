@@ -12,6 +12,7 @@ generated:
 # Lateral Reading
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Lateral reading is a digital literacy strategy for evaluating online information: instead of staying on a page and scrutinizing its design, credentials, or "About Us" statement (vertical reading), the reader opens new tabs and searches what *other* sources say about the site, author, or claim. Professional fact-checkers use this technique to reach credibility judgments in seconds, relying on Wikipedia, news coverage, and fact-checking sites as external checks [Wineburg & McGrew, 2019].

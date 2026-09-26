@@ -12,6 +12,7 @@ generated:
 # Number Relationships and Reasoning Strategies
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 mixed) · 5 studies, `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Basic facts should be taught using number relationships and reasoning strategies, not rote memorization. Learners derive unknown facts from known ones using structured strategies — Making 10 (7 + 5 → 7 + 3 + 2 → 10 + 2), near doubles, compensation, and benchmark numbers — so that fluency emerges from understanding rather than preceding it. Because these strategies rest on number relationships and benchmarks, they support emerging conceptual understanding and flexibility, and they generalize: Making 10 with whole numbers becomes Make-a-Whole with fractions and decimals, and compensation strategies extend to multidimensional and mental computation.

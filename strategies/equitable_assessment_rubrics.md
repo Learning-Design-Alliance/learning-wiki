@@ -12,6 +12,7 @@ generated:
 # Equitable Assessment Rubrics
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 Equitable assessment rubrics are explicit scoring guides that describe performance levels against task-relevant criteria drawn directly from learning standards and objectives. Because criteria are public and applied uniformly, they reduce the influence of idiosyncratic grader expectations and convert grading into [formative assessment](../patterns/formative-assessment.md) information students can act on.

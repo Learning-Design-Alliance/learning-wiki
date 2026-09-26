@@ -17,6 +17,7 @@ sources:
 # Attitudes Toward Trafficked Women and Sex Trafficking Scale (ATTS)
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The ATTS is a modified version of the 29-item APPS in which the first author collaborated with the original developers to reword items with person-first language such as 'human trafficking survivor' and 'sex trafficking'. It retains the APPS's four subscales (PSCV, PSND, PNND, PNCV) measuring attitudes on normative/deviant and choosing/victimized axes. In this study it served as the 'sex trafficking' label condition instrument, completed by 203 licensed counselors.

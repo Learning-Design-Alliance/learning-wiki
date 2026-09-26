@@ -12,6 +12,7 @@ generated:
 # Sentence Starters
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 13 studies, `q3`–`q4` · 13 of 13 report an effect size
 
 ## Description
 Sentence starters are partial openings — "The evidence suggests that…", "One difference between X and Y is…", "I disagree because…" — that learners complete when speaking or writing. They function as a linguistic scaffold: the rhetorical and syntactic structure is supplied, so working memory and attention can go to the ideas being expressed.

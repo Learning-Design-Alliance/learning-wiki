@@ -17,6 +17,7 @@ sources:
 # Extend the curriculum with student-built interferometer projects and a Bayesian parameter-estimation unit
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors' forward-looking recommendations for the integrated curriculum. First, independent study projects in which students "design and build their own interferometric detector" from relatively cheap components (laser, beamsplitter, photodiode, tabletop, two mirrors), then experiment with improving sensitivity and reducing environmental noise. Second, condensing the year's material into a single self-contained unit and adding parameter estimation, since lessons on the Bayesian methods used by the LIGO-Virgo collaboration have yet to be developed and would expose students to computational science, statistics, and applied math.

@@ -12,6 +12,7 @@ generated:
 # Paired Reading
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 4 studies, `q1`–`q4` · 3 of 4 report an effect size
 
 ## Description
 Paired reading is a dyadic reading routine in which a more proficient reader (teacher, parent, tutor, or peer) and a learner read a text aloud simultaneously, then the proficient reader fades support so the learner reads independently. The learner chooses when to take over (often via a signal such as a tap), and errors are typically corrected by repeating the word correctly rather than stopping for extended correction. The goal is building fluency — accuracy, rate, and prosody — through supported oral reading with immediate modeling.

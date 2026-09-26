@@ -17,6 +17,7 @@ sources:
 # Cloud technology as information source and activity tool in the learning model
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Cloud technology is a core component of the model, serving a dual role in the innovation-creation process. The article states that "Cloud technology is used as a source of information and as a tool to carry out these activities." It lets learners access shared resources and search information online through a learning management system linked to various knowledge sources, supporting collaboration without requiring learners and instructors to be in the same place. The instructor uses it alongside constructivist and connectivist principles to help learners connect bodies of knowledge.

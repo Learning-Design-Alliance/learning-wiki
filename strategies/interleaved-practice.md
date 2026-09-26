@@ -12,6 +12,7 @@ generated:
 # Interleaved Practice
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 1 of 3 report an effect size
 
 ## Description
 Interleaved practice mixes different but related problem types, skills, or categories within a single study session (A-B-C-A-B-C) instead of practicing each in a blocked sequence (A-A-A-B-B-B). The key mechanism is discriminative contrast: because learners cannot assume which procedure applies, they must first identify the problem type and select the appropriate strategy before solving. Interleaving is typically combined with [spaced repetition](../elements/practice.md), since interleaved schedules inherently distribute practice over time.

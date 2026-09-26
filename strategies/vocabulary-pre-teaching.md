@@ -12,6 +12,7 @@ generated:
 # Vocabulary Pre Teaching
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 against) · 8 studies, `q1`–`q4` · 6 of 8 report an effect size
 
 ## Description
 Vocabulary pre-teaching introduces the meanings of selected words *before* learners read a text, watch a demonstration, or begin a task. The instructor selects a small set of high-impact words, provides student-friendly definitions and examples, and often engages learners in brief active processing (e.g., generating examples, connecting to known concepts) so the meanings are available when the words appear in context.

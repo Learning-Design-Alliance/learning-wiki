@@ -12,6 +12,7 @@ generated:
 # Think-Pair-Share (Turn & Talk)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Think-Pair-Share (TPS), introduced by Frank Lyman (1981), is a cooperative discussion routine with three steps: **Think** (learners consider a question silently and individually), **Pair** (learners discuss their thinking with a partner), and **Share** (pairs report their ideas to the whole class). The strategy converts whole-class questioning — where only one learner responds at a time — into simultaneous, low-stakes rehearsal, giving every learner talk time and a chance to refine ideas before public exposure.

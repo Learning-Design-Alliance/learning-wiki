@@ -16,6 +16,7 @@ sources:
 # Cognitive resources perspective as an account of reasoning development during phenomenon-based instruction
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article draws on the cognitive resources perspective, attributed to Hammer and Elby, to interpret how instruction influences students' explanatory reasoning. It states that "students possess various resources that can be activated during learning and problem-solving tasks," which are small knowledge components or skills combined and reorganized into more complex understanding. The study uses this lens to analyze which resources students activate when engaging in causal mechanistic reasoning on assessment tasks, and to interpret instruction as modeling content that can help activate students' resources.

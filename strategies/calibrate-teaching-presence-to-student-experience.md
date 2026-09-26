@@ -17,6 +17,7 @@ sources:
 # Calibrate teaching presence to student experience: encourage and challenge advanced students without being too directive
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Based on the finding that teaching presence was highly variable and unrelated to metacognition, the article recommends that instructors in advanced online CBI courses adjust their facilitation to student differences. Citing Ertmer and Koehler (2014), it states an advanced graduate course "may require instructors to plan and implement regulation strategies by encouraging, supporting, and challenging advanced students without being too directive or authoritative," while instructors still need to support and train less experienced students so they gain the full benefit of CBI. Teaching presence may vary due to student differences in age, online learning experience, or comfort with online CBI.

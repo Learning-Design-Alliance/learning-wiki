@@ -16,6 +16,7 @@ sources:
 # Contrastive analysis hypothesis: first-language interference as the principal barrier to second language acquisition
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Developed by Robert Lado in the 1950s, the contrastive analysis hypothesis "claimed that the principal barrier to second language acquisition is the interference of the first language system with the second language system". Rooted in behaviorism and structuralism, it held that language learning is changing old habits and building new habits, so errors should not be allowed to occur and teaching emphasized mechanical pattern drills. The article presents it as the precursor whose weaknesses led to interlanguage and error analysis.

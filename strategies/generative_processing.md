@@ -12,6 +12,7 @@ generated:
 # Generative Processing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q3`–`q4` · 3 of 4 report an effect size
 
 ## Description
 Generative processing is the cognitive work learners do to make sense of material: selecting relevant information, organizing it into a coherent structure, and integrating it with prior knowledge (Mayer, 2014). Strategies that promote generative processing deliberately prompt this construction — through summarizing, self-explaining, mapping, teaching, or drawing — rather than leaving comprehension to chance. The underlying claim is that learning is a knowledge-construction activity, not a knowledge-transmission one (Wittrock, 1974).

@@ -17,6 +17,7 @@ sources:
 # Taxonomy of ten symbolic representation types for heat and temperature in high school science textbooks
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 An appendix study applied and modified Hooper's mathematics taxonomy to symbolic representations of heat and temperature in three widely used LAUSD physical science textbooks. Three raters independently sorted sixty-eight extracted examples into categories, yielding "Ten distinct types of symbolic representations": verbal, diagrams (defined along concrete/abstract, static/dynamic, labeled/unlabeled dimensions), photographs, tables, graphs, and equations (in words or symbols). The taxonomy is intended to guide construction of achievement test items in alternative symbolic forms.

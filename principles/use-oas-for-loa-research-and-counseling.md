@@ -17,6 +17,7 @@ sources:
 # Use a structured, multiple-item, complete LOA instrument such as the OAS for research and vocational counseling on occupational aspiration
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends its easily administered, structured-response, multiple-item scale as the practical instrument for measuring level of occupational aspiration. The abstract concludes that "THE OCCUPATIONAL ASPIRATION SCALE IS A SATISFACTORY INSTRUMENT FOR RESEARCH ON LOA AND MAY BE ESPECIALLY USEFUL TO VOCATIONAL COUNSELORS." Structured response techniques overcome the coding and non-response difficulties of free-response questions, and multiple-item designs permit tests of internal consistency.

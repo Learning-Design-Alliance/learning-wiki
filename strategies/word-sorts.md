@@ -12,6 +12,7 @@ generated:
 # Word Sorts
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Word sorts are a hands-on word study activity in which learners categorize a set of words according to shared features — sound patterns (e.g., short vs. long vowel), spelling patterns (e.g., -ck vs. -k endings), or morphological elements (e.g., prefixes, roots, inflections). Sorts may be *closed* (the instructor supplies the categories) or *open* (learners determine their own categories and justify them). Physically cutting, moving, and rearranging word cards adds a multisensory, manipulable dimension, and sorts can be completed independently or collaboratively with discussion of sorting rationale.

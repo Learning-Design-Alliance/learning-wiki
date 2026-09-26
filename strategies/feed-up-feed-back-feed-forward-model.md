@@ -12,6 +12,7 @@ generated:
 # Feed Up, Feed Back, Feed Forward Model
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 The Feed Up, Feed Back, Feed Forward Model structures feedback around three questions: **Feed Up** — Where am I going? (learning intentions and success criteria); **Feed Back** — How am I going? (evidence of current performance relative to those criteria); **Feed Forward** — Where to next? (specific actions and activities to close the gap). The model, articulated most influentially by Hattie and Timperley (2007), treats feedback as an information system rather than a judgment, and insists that all three components be present for feedback to improve learning rather than merely report on it.

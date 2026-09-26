@@ -12,6 +12,7 @@ generated:
 # Graphic Organizers / Guided Notes (for Processing Speed)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 11 studies, `q2`–`q4` · 8 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 During lecture, learners are provided with graphic organizers or guided notes to help pull out the important points. These tools structure the information being presented, making it easier to process and retain. Guided notes prompt learners to fill in key information — blanks, prompts, or diagram nodes — promoting active engagement during the lecture rather than verbatim transcription.

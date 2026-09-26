@@ -17,6 +17,7 @@ sources:
 # Treat other people and technology as learning resources whose selection and evaluation learners control
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article's fifth assumption holds that other learners, teachers, family members, community people, employers, and technology tools are learning resources, and that learners should gain control over selecting and evaluating them. The author notes collaborative learning describes learning with others toward a common goal, but cautions that 'not all learners function well with others,' so each learner should decide if and how others can help.

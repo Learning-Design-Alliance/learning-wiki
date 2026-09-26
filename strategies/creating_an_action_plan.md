@@ -12,6 +12,7 @@ generated:
 # Creating An Action Plan
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 6 claims (5 for, 1 against) · 13 studies, `q3`–`q4` · 13 of 13 report an effect size · 1 claim rests on one study
 
 ## Description
 Creating an action plan asks learners to translate a goal into a concrete, sequenced set of actions — specifying what they will do, when and where they will do it, what resources they need, and how they will know they are on track. The plan functions as an implementation intention ("if situation X, I will do Y") that links the goal to specific cues and behaviors, and as a self-monitoring tool that makes progress visible against a standard.

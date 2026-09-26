@@ -12,6 +12,7 @@ generated:
 # Positive Narration
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Positive narration is a classroom management technique in which the teacher describes appropriate student behavior aloud as it happens ("I see tables 2 and 3 already have their materials out"), rather than calling out or correcting misbehavior. It works by making behavioral expectations salient through live models, redirecting collective attention toward what students *should* be doing. It is a core component of techniques such as Teach Like a Champion's "Positive Framing" and Responsive Classroom's teacher language.

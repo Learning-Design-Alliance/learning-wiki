@@ -17,6 +17,7 @@ sources:
 # Structured discussions that anchor new vocabulary in students' personal experience
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A third-generation vocabulary strategy in which, after the teacher gives a word's meaning, students are asked "What experiences, thoughts or associations do you have with the term... which might help you to learn and remember its meaning?" Students record the dictionary meaning plus a parenthetical personal association, giving the word "an objective and subjective definition". The authors judge structured discussions the best ELA approach, requiring "the least preparation" with "the greatest potential for fostering independent learning skills".

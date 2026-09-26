@@ -17,6 +17,7 @@ sources:
 # Use discipline-specific clues as design problems to foster analyze and evaluate steps
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends selecting clues from different disciplines each week and requiring students to analyze them before creating original designs. The article states: "The clues are designed to foster the 'analyze' and 'evaluate' in these steps." Students analyze, differentiate, organize, and attribute the clue within basic design principles and elements before proceeding to creation.

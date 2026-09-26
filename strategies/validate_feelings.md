@@ -29,6 +29,7 @@ sources:
 # Validate Feelings
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 1 of 2 report an effect size
 
 ## Description
 Validation is the act of explicitly acknowledging that a learner's emotional response — frustration, anxiety, embarrassment, excitement — is real, understandable, and legitimate, without necessarily endorsing the behavior that accompanies it. The core move is a two-part separation: "Your feeling makes sense" is affirmed independently of "and here is what we do next." Validation is carried out through naming the emotion, normalizing it where accurate, and communicating that the learner's perspective has been heard before corrective or instructional content is delivered.

@@ -12,6 +12,7 @@ generated:
 # Using Colors for Different Feelings
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Learners assign colors to emotions and use them deliberately in artwork to express how they feel. The activity builds a personal, stable mapping between visual cues (color) and internal states (feelings), giving learners a concrete vocabulary for emotions that are otherwise hard to name or discuss. It is typically carried out as a facilitated art activity: the facilitator introduces the idea that colors can carry feelings, models an example, and learners create and then share or discuss their work.

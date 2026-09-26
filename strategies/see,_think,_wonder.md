@@ -12,6 +12,7 @@ generated:
 # See, Think, Wonder
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q3`–`q4` · 4 of 8 report an effect size
 
 ## Description
 See, Think, Wonder is a thinking routine developed by Harvard Project Zero's Visible Thinking project. Learners examine a stimulating artifact — an image, object, text, or data display — and respond to three prompts in sequence: *What do you see?* (evidence-only observation), *What do you think about it?* (interpretation), and *What does it make you wonder?* (questions). The routine separates observation from inference and culminates in curiosity, ensuring every learner can begin from what is directly perceivable before moving to interpretation.

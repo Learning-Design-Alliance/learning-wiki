@@ -17,6 +17,7 @@ sources:
 # Six-step engineering design process as the teaching and learning sequence
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The model's teaching and learning process follows the engineering design process with six steps: "problem identification, related information search, solution design, planning and development, testing evaluation, and design improvement and presentation". Each step integrates technology to support learning activities: learners brainstorm solutions, collect supporting information, design methods, develop sub-process prototypes, test performance under actual conditions and improve defective solutions, and demonstrate with appropriate technology.

@@ -12,6 +12,7 @@ generated:
 # Miscue Analysis
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q1`–`q3` · 4 of 5 report an effect size
 
 ## Description
 Miscue analysis is a formative assessment technique in which a learner reads a selected passage aloud while the teacher marks every deviation from the printed text — substitutions, omissions, insertions, repetitions, and self-corrections. Rather than treating these deviations as "errors" to be eliminated, the teacher analyzes *why* each miscue occurred: did the reader rely on graphophonic (letter–sound), syntactic (grammar), or semantic (meaning) cues? The analysis is typically followed by a retelling to assess comprehension, and the resulting profile informs targeted instruction.

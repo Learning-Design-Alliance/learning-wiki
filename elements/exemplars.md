@@ -12,6 +12,7 @@ generated:
 # Exemplars
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 6 studies, `q3`–`q4` · 3 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 An exemplar is a high-quality model of a finished product or performance — an essay, design, proof, or solution — that learners study to internalize quality criteria before producing their own work. Unlike a [Demonstration](demonstration.md), which shows a *process*, an exemplar shows the *product* of expertise, making implicit standards observable and discussable.

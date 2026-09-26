@@ -12,6 +12,7 @@ generated:
 # Knowledge Synthesis
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q3`–`q4` · 6 of 7 report an effect size
 
 ## Description
 Knowledge synthesis asks learners to integrate information from multiple sources, perspectives, or group members into a single coherent account, model, or argument. Rather than recalling or summarizing individual inputs, learners must reconcile differences, resolve contradictions, and organize ideas into a unified structure — the integration itself is the learning work.

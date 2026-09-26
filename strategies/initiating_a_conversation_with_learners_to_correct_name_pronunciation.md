@@ -12,6 +12,7 @@ generated:
 # Initiating a Conversation with Learners to Correct Name Pronunciation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 The instructor initiates a private, low-stakes conversation with the learner to hear their name pronounced correctly, practice it, and invite correction. The instructor frames the difficulty as their own limitation rather than the learner's burden, avoids expressing frustration or amusement, and treats correct pronunciation as an ongoing responsibility rather than a one-time fix.

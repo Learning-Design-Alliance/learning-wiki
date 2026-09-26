@@ -12,6 +12,7 @@ generated:
 # Ten Frames
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
 
 ## Description
 A ten-frame is a simple 2×5 array on which counters, dots, or numerals are placed to represent quantities from 0 to 10. Because each cell holds at most one counter, the frame makes the "ten-ness" of numbers visually salient — learners can see 7 as 5-and-2, or as 3-away-from-10 — without counting individual units. Two frames side by side (or a double ten-frame) extend the representation to 20 and ground early place-value reasoning.

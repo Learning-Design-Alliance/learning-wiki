@@ -12,6 +12,7 @@ generated:
 # Timely Feedback
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 Timely feedback is delivered while the learning task is still active in the learner's mind — immediately after a response, or during the task itself — rather than days or weeks later. The rationale is that feedback functions as information for revising understanding, and its value decays as the gap between performance and response grows. Timing is a design variable: the optimal delay depends on what the feedback is for (error correction vs. retention testing).

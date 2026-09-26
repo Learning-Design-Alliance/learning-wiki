@@ -17,6 +17,7 @@ sources:
 # Pete Frazer's eight guiding moves for working as a co-thinker with novice teachers
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Through interviews and observations, Feiman-Nemser documented the strategies of Pete Frazer, a thoughtful support teacher who enacted his role as "co-thinker" with novice teachers. "Feiman-Nemser (in press) noted eight different 'moves' that Pete Frazer named, justified and demonstrated," including "finding openings," "pinpointing problems," "probing novices' thinking," "noticing signs of growth," "reinforcing an understanding of theory," "giving living examples of someone else's teaching," and "modeling wondering about teaching." The case illustrates the artistry of guided practice and how much can be learned from studying the wisdom of practice.

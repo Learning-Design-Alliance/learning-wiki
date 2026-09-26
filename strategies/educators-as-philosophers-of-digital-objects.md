@@ -17,6 +17,7 @@ sources:
 # Educators should treat themselves as philosophers of teaching, learning, and digital objects
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that educators recognize themselves as "philosophers" of teaching and learning, extending Hui's call for educators to become philosophers of digital objects — forms of data made visible and invisible with technology that now permeate human life. Because digital objects raise new questions about being and social interaction in network culture, the article argues pedagogy and computer technology should be used together to transform online education, with architectonic reflection guiding that relationship.

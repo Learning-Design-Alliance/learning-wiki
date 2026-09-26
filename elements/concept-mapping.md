@@ -12,6 +12,7 @@ generated:
 # Concept Mapping
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Concept mapping is the element in which learners represent concepts and their relationships visually, typically as nodes and labeled links. It is useful for organizing prior knowledge, identifying structure, and making connections visible before, during, or after learning.

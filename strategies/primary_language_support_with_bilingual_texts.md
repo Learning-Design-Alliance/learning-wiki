@@ -12,6 +12,7 @@ generated:
 # Primary Language Support with Bilingual Texts
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 0 of 2 report an effect size
 
 ## Description
 This strategy incorporates texts and resources in a learner's primary (L1) language — bilingual picture books, dual-language editions, and multilingual digital libraries — to scaffold comprehension of new content while the learner develops proficiency in the target language. It rests on the linguistic interdependence hypothesis: skills and knowledge acquired in the L1 transfer to the second language, so continued L1 literacy development supports rather than competes with L2 acquisition [Cummins' interdependence hypothesis.](https://doi.org/10.3102/00346543076003367) [+M]. Beyond comprehension, bilingual texts validate learners' cultural and linguistic identities, supporting engagement and belonging.

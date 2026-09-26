@@ -17,6 +17,7 @@ sources:
 # Turkish adaptation of Dweck's Goal Orientation Scale
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 This article adapts Dweck's four-item Goal Orientation Scale into Turkish, with two sub-dimensions: "learning goal orientation" and "performance goal orientation". Adaptation followed Hambleton and Patsula's steps: four independent translations revised via the Delphi technique, back-translation, expert grammar review, and permission from Dweck. The fourth item was converted to a 6-point Likert format, yielding Cronbach's Alpha of .81 for learning orientation and .61 for performance orientation, with mean inter-item correlations of 0,31 and 0,38, and CFA fit indices of RMSEA= 0.00, CFI= 1 and χ2/sd=0.26.

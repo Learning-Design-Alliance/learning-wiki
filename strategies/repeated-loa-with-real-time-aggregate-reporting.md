@@ -17,6 +17,7 @@ sources:
 # Deploy the LoA repeatedly over time with real-time aggregate reporting within a community that owns the data and process
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that a professional community access the LoA on an ongoing basis at critical decision points, using online real-time aggregate reporting to document and inform collaborative professional development. The authors report implementing survey software that "reports aggregate results to all participants in real‐time as responses to the LoA survey accrue", and argue the content should be context-specific while the overarching construct and process of application is critical to its value.

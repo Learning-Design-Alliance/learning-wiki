@@ -12,6 +12,7 @@ generated:
 # Positive Classroom Climate
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Positive classroom climate is the pattern of relational, emotional, and organizational conditions under which learners feel psychologically safe, connected, and respected. It is carried out through teacher warmth and responsiveness, predictable routines, high combined with clear expectations, and norms that treat errors as information rather than failure. Climate is not a single activity but a property of ongoing interaction — it is built (or eroded) in every exchange.

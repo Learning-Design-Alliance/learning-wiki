@@ -17,6 +17,7 @@ sources:
 # Continue ADK with more teacher inservices, maintained recordkeeping documents, and increased evaluator classroom visitations
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Based on the 1992-93 evaluation results, the report recommends that the All Day Kindergarten program be continued in 1993-94 and that program success be enhanced by three actions: "provide more teacher inservices, continue use of the current recordkeeping documents, and continue school visitations by the program evaluator." Inservice meetings should share instructional ideas about beginning readers relative to the new reading series and provide information on evaluation procedures, while increased visitation should support recordkeeping and answer evaluation questions.

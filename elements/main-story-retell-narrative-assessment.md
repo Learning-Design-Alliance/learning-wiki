@@ -17,6 +17,7 @@ sources:
 # Multilingual Assessment Instrument of Narratives (MAIN) used as a story retell task for bilingual narrative assessment
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 MAIN is a tool "developed to assess narrative production and comprehension skills of children from 3- to 10-years-old," usable as a story tell, retell, or model story. In this study the dog and cat parallel stories were used as retells with 56 children, scored for story structure (17-point scale), structural complexity (3-point system), internal state terms, and comprehension questions, alongside SALT-coded microstructure measures. The authors note it supports ecologically valid identification of language disorders in bilingual children.

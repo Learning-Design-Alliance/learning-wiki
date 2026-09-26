@@ -17,6 +17,7 @@ sources:
 # Teach undergraduate content within a nexus of justification and application
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The editors maintain that students should see course content within a nexus of justification and application: content must be learned in relation to the methodological and substantive principles that make it justifiable, and students should be helped to link information to domains of meaningful application that frequently extend beyond the discipline itself. They write that knowledge taught to undergraduates 'should address the theoretic reason of the student by having the theoretic and/or empirical bases of that knowledge made explicit,' and should also speak to practical reason by relating to purposes for which the knowledge has potential significance.

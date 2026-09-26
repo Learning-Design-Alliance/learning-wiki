@@ -17,6 +17,7 @@ sources:
 # Labelled corpus of 4,217 discussion posts from fully online graduate courses
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A dataset of discussion forum posts from fully online graduate-level courses in a Canadian college of education, spanning topics from language learning to educational psychology, educational technology, and educational policy. "The dataset included 4,217 posts that had been produced by 111 students." Posts were coded into four hierarchical cognitive engagement levels (social, active, constructive, interactive) with .91 inter-rater reliability, and courses varied in facilitation method (peer vs. instructor) and term length. The corpus was split 70/30 for training and testing classifiers.

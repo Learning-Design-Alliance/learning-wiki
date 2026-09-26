@@ -17,6 +17,7 @@ sources:
 # Extend this line of research with quantitative methods, different sample groups, and validated scales
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article closes with forward-looking research recommendations for work on Web 2.0 tool use through the needs hierarchy. It recommends that "further studies can be realised with different research methods of quantitative research", that studies "can be realised with different sample groups and different stages" beyond faculty members, and that "Further studies can be realised with a valid and reliable scale or questionnaire" so that "detailed and comparative results can be produced."

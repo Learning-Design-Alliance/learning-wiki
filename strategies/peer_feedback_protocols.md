@@ -12,6 +12,7 @@ generated:
 # Peer Feedback Protocols
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q3` · 3 of 5 report an effect size
 
 ## Description
 Peer feedback protocols are structured routines — such as gallery walks, two-stars-and-a-wish, critical friends protocols, or rubric-guided peer review — that govern how learners exchange feedback on one another's work. The protocol specifies who reviews what, against which criteria, in what sequence, and with what language, converting the informal act of "giving feedback" into a teachable, repeatable procedure.

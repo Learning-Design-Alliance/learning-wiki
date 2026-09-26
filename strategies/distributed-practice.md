@@ -12,6 +12,7 @@ generated:
 # Distributed Practice
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Distributed practice (spacing) involves practicing content in short sessions separated by intervals of time, in contrast to massed practice (cramming) in a single long session. The gap between sessions allows partial forgetting, so each session requires active reconstruction of the material — a "desirable difficulty" that strengthens the memory trace. It typically begins after initial learning has reached reasonably good accuracy, then repeats at expanding intervals.

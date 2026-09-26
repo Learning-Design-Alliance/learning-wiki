@@ -12,6 +12,7 @@ generated:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (2 for, 2 mixed) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 Competency-based assessment judges a learner against explicit statements of what they should be able to do, at a defined standard, using evidence that actually elicits that performance. It replaces the question "how much of the course did this learner complete, and how did they score relative to peers?" with "can this learner do this thing, to this standard, and what is the evidence?"

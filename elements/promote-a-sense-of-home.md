@@ -12,6 +12,7 @@ generated:
 # Promote a Sense of Home
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Promote a sense of home is the element of creating belonging, familiarity, and social warmth within a learning environment.

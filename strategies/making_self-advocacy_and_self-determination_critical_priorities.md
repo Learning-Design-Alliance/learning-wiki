@@ -12,6 +12,7 @@ generated:
 # Making Self-Advocacy and Self-Determination Critical Priorities
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (5 for) · 11 studies, `q3`–`q4` · 11 of 11 report an effect size
 
 ## Description
 This strategy treats self-advocacy (speaking up for one's needs, rights, and preferences) and self-determination (goal setting, choice-making, problem solving, and self-management) as explicit instructional priorities rather than incidental byproducts of schooling. It is carried out by embedding these skills into teacher preparation, IEP goals, assessment systems, and school accountability measures, and by giving students frequent, authentic opportunities to practice them — leading IEP meetings, making curricular choices, and negotiating accommodations.

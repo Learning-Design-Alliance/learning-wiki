@@ -17,6 +17,7 @@ sources:
 # TSMTDF: form for determining objective-oriented taxonomy, strategy, and method-techniques with scoring rubric
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The TSMTDF is a researcher-developed form with six open-ended tasks: choose at least two objectives from the primary science curriculum, classify them according to Bloom's Taxonomy, determine a suitable strategy, determine suitable methods and techniques, and explain both choices. A rubric scored answers 2 for true, 1 for partly true, and 0 for wrong, with a maximum of 6 and minimum of 0. Content and linguistic suitability were checked by two science educators and a linguist, and scores correlated weakly but significantly with Science Teaching I passing grades (r = 0.242, ρ < 0.05).

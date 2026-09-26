@@ -12,6 +12,7 @@ generated:
 # Peer Mediation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3` · 1 of 3 report an effect size
 
 ## Description
 Peer mediation trains selected students in a structured conflict-resolution protocol — typically opening, storytelling, issue identification, solution generation, and agreement — so they can facilitate disputes between classmates as neutral third parties. The mediator does not judge or impose solutions; the disputants generate and own the agreement. Programs are usually whole-school: a cadre of trained mediators, a referral system, adult supervision, and classroom instruction in conflict-resolution skills for all students.

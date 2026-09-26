@@ -12,6 +12,7 @@ generated:
 # Restorative Questions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 1 of 7 report an effect size
 
 ## Description
 Restorative questions are a structured set of open-ended prompts used after a conflict or harm to shift the conversation from blame ("What rule was broken? What punishment is deserved?") to repair ("What happened? Who was affected? What needs to happen to make things right?"). The facilitator asks the person who caused harm one set of questions (What happened? What were you thinking at the time? Who has been affected and how? What do you need to do to make things right?) and the person harmed a parallel set (What did you think when you realized what had happened? How has this affected you? What has been the hardest thing for you? What do you need to make things right?). They are carried out in one-to-one conversations, small circles, or classroom meetings, and are the core conversational tool of restorative practices.

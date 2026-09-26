@@ -12,6 +12,7 @@ generated:
 # Metacognition
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Metacognition is the element in which learners monitor, explain, and regulate their own thinking.

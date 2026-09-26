@@ -16,6 +16,7 @@ sources:
 # Strauss's dual disequilibrium framework extended with a Bias directionality indicator
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article tests and extends Strauss's (1972) elaboration of Piaget's equilibration model, which distinguishes two aspects of structural instability: "external disequilibrium refers to the interplay of current structure with discrepantenvironmental events" and "internal disequilibrium refers to contradictionswithin the existing structure itself." Internal disequilibrium is operationalized as level mixture, a tendency to respond at several reasoning levels. The authors add a Bias indicator measuring the directionality of non-modal responses (above vs. below the mode) to distinguish subjects likely to advance from those likely to consolidate. The framework predicts that external disequilibrium determines the direction of change while internal disequilibrium affects the amount of change.

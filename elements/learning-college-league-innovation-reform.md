@@ -17,6 +17,7 @@ sources:
 # The League for Innovation's Learning College movement as community-college reform toward learning-centeredness
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article describes the League for Innovation in the Community College's effort to transform community colleges from teaching to learning institutions, built on Terry O'Banion's concept of a Learning College. One of O'Banion's six key principles is that 'The Learning College engages learners as full partners in the learning process, with learners assuming primary responsibility for their own choices.' The League sponsors an annual Learning College Summit aimed at institutional change to improve student learning, performance and success.

@@ -17,6 +17,7 @@ sources:
 # Care-Giver Primacy as a worker stance for meeting new youths' needs
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Care-Giver Primacy is a component the article advances within the CMR model to reorient youth workers during admissions. As printed, "'Care-Giver Primacy' was advanced to help Workers deal with the needs of new youths." It positions the worker's caregiving relationship, rather than procedural intake tasks, as the primary focus when a new youth arrives, supporting the model's emphasis on relationships and gradual, empathic transition.

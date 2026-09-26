@@ -17,6 +17,7 @@ sources:
 # Design professional development that is intensive, on-site, peer-based, responsive, and grounded in teachers' real classroom experiences
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The project's professional development program embeds known best practices from the in-service PD literature: it is delivered on-site at teachers' own schools, builds a critical mass of peers who learn together, begins with an intensive summer workshop followed by weekly or biweekly meetings across about three years, and stays grounded in classroom experience. "At every meeting, participants discuss their current problems, insights, observations, and ideas. This helps the teachers connect the content of PD with their practice." The program is kept highly responsive to participants' evolving needs, uses TEFA itself to teach TEFA, and shifts from facilitator-driven to teacher-driven collaborative action research in later years.

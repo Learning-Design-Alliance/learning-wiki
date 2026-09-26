@@ -12,6 +12,7 @@ generated:
 # Use Estimation and Prediction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Students make explicit predictions before beginning work — an estimated grade on a project, time needed to complete a task, or expected performance on an assessment — and record those estimates. After completing the work, they compare predictions with actual outcomes and reflect on sources of discrepancy, building calibrated self-assessment over repeated cycles.

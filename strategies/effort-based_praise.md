@@ -12,6 +12,7 @@ generated:
 # Effort-Based Praise
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (5 for) · 11 studies, `q3`–`q4` · 11 of 11 report an effect size
 
 ## Description
 Effort-based praise (also called process praise) directs feedback at the learner's effort, strategies, choices, and progress rather than at stable traits like intelligence or talent. Saying "you tried several approaches until one worked" attributes success to controllable actions; saying "you're so smart" attributes it to a fixed ability. The distinction matters because learners infer their implicit theories of intelligence from the praise they receive: trait praise pushes them toward an entity theory (ability is fixed), while process praise pushes them toward an incremental theory (ability grows with effort and strategy) [~M]. Process praise is associated with greater persistence, willingness to tackle challenges, and resilience after failure, whereas trait praise is associated with performance avoidance after setbacks [~M].

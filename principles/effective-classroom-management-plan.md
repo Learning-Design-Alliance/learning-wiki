@@ -12,6 +12,7 @@ generated:
 # Effective Classroom Management Plan Criteria
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 against) · 4 studies, `q3` · 4 of 4 report an effect size
 
 ## Description
 Approaches to classroom management have historically grouped into three traditions: a **humanist** tradition emphasizing communication and problem-solving between teacher and student ([Ginott's Congruent Communication](../theories/ginotts-congruent-communication.md); [Glasser's Choice Theory](../theories/glassers-choice-theory-and-cooperative-learning.md)); an **applied behavior analysis** tradition applying behaviorist principles to the classroom (see [Antecedent-Behavior-Consequence Model](../elements/antecedent-behavior-consequence-model.md) and [Reinforcement Theory](reinforcement-theory.md)); and a newer **classroom-management/prevention** tradition emphasizing the teaching skills involved in organizing instruction and preventing misbehavior before it starts ([Kounin's Classroom Management Research](../theories/kounins-classroom-management-research.md)). Each tradition has genuine strengths and limitations, and effective managers in practice blend elements of all three rather than relying on just one.

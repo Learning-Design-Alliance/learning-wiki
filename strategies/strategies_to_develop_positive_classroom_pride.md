@@ -12,6 +12,7 @@ generated:
 # Strategies to Develop Positive Classroom Pride
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
 
 ## Description
 This strategy bundle builds learners' collective and individual pride in their classroom. Core moves include displaying learner work, offering sincere verbal reinforcement on a regular basis, inviting other staff to witness specific class accomplishments, recognizing achievements across domains (kindness, citizenship, test scores, athletics), and extending recognition to parents through conferences, newsletters, and school events. The intent is to convert individual accomplishment into shared identity and motivation.

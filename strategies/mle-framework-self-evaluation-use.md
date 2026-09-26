@@ -17,6 +17,7 @@ sources:
 # Use the quality-indicator framework as a self-evaluation instrument for teachers rather than an external ranking tool
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends using the indicator grid as a tool of self-evaluation for questioning and examining one's own MLE experience, individually or in a community of practice. "This self-evaluative aim of the tool is the main difference distinguishing it from other approaches to the evaluation of good practices in MLE", such as Parola and Ranieri's model meant for testing programs. The grid suits teachers with at least one MLE experience and can guide reflective analysis and discussion.

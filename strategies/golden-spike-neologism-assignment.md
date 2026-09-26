@@ -17,6 +17,7 @@ sources:
 # Task students with proposing a neologism and a golden spike placement to expose the rhetoricity of historicizing the Anthropocene
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 In this assignment, students forward a unique neologism and advocate a placement for the golden spike, "a stratigraphic marker designating epochal transformation." By arguing for a particular placement, students study moments of historic rupture at the intersection of culture, technology, extraction politics, globalization, science, and knowledge, and demonstrate "the rhetoricity of the Anthropocene's historicization." Each proposed spike outlines a rhetorical proposition highlighting a unique set of planetary concerns worthy of political action.

@@ -12,6 +12,7 @@ generated:
 # Review
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Review places learners in the role of evaluator: they examine their own or peers' work against criteria before a final version is produced. The act of judging work — identifying strengths, diagnosing weaknesses, and articulating improvements — converts evaluation from an instructor-only function into a learning activity in its own right.

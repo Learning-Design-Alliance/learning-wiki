@@ -12,6 +12,7 @@ generated:
 # Phonemic Awareness Blending And Segmenting
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 against) · 7 studies, `q1`–`q4` · 6 of 7 report an effect size
 
 ## Description
 Blending is the ability to merge a sequence of isolated phonemes (/k/ /a/ /t/) into a recognizable word (*cat*); segmenting is the reverse — breaking a spoken word into its constituent phonemes. Instruction involves short, systematic oral lessons in which the teacher models the operation, leads guided practice with letter-sound support where appropriate, and fades to independent performance. These two skills are taught together because they are reciprocal: blending supports decoding while segmenting supports spelling [Ehri's review found blending and segmenting instruction produced stronger reading and spelling gains than other PA skills.](https://doi.org/10.1598/RRQ.36.3.2) [+S].

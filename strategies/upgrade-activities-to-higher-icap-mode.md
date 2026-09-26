@@ -17,6 +17,7 @@ sources:
 # Upgrade learning activities to a higher ICAP mode rather than aiming for perfect mode classification
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that instructors focus on moving activities up the ICAP hierarchy rather than on perfectly classifying them. It states that "From a practical perspective, it does not matter how accurately an instructor classiﬁes an activity that s/he has designed; it is more important for an instructor to know how to design or upgrade an activity to a higher ICAP mode if possible." Because many activities fall between two modes, instructors should judge the mode from students' behaviors and products compared against the instructional materials, and redesign activities so students generate ideas beyond what was presented.

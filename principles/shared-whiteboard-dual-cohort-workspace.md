@@ -17,6 +17,7 @@ sources:
 # Use a shared synchronous whiteboard as the common workspace for both face-to-face and online cohorts
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article shows a teacher uploading slides to the Collaborate whiteboard rather than projecting them, so that "both cohorts to see, write and highlight the contents on the slides to help with their task completion". The whiteboard served as a shared learning space, reduced multitasking and device-switching, allowed anonymous colour-coded student notetaking, and sat centrally in the interface to draw both cohorts' attention.

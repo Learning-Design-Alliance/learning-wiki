@@ -17,6 +17,7 @@ sources:
 # Online SRL Peer Feedback Groups After Each Training Lesson
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Participants who took the web-based SRL training were placed in groups; "Participants in Group TDP were assigned to peer feedback groups of five persons each", drawn where possible from the same field of study. Each group used a separate bulletin board, began with quiz questions to get to know each other, and after every lesson received a group task on self-regulated learning to be solved collaboratively. Mean self-rated active engagement was 3.18 on a six-point scale.

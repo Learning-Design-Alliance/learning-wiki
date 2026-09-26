@@ -12,6 +12,7 @@ generated:
 # Encourage Cooperation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 9 studies, `q2`–`q4` · 5 of 9 report an effect size
 
 ## Description
 Learning is enhanced when it is more like a team effort than a solo race. Good learning, like good work, is collaborative and social, not competitive and isolated. Learners articulate and share ideas, respond to others' reactions, and negotiate shared understanding — processes that expose gaps in reasoning and deepen comprehension. Cooperation differs from mere grouping: it requires structured positive interdependence, individual accountability, and explicit collaborative skills [Cooperative learning with group rewards and individual accountability improves achievement.](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+S].

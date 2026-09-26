@@ -17,6 +17,7 @@ sources:
 # ARCS satisfaction strategies: intrinsic reinforcement, extrinsic rewards and equity
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Satisfaction is the fourth ARCS component, described as strategies "that provide extrinsic and intrinsic reinforcement for effort". The digest lists three sub-components: intrinsic reinforcement (support intrinsic enjoyment of the learning experience), extrinsic rewards (positive reinforcement and motivational feedback), and equity (maintain consistent standards and consequences for success), each with a teacher example.

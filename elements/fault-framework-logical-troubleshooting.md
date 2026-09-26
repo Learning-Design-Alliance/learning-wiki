@@ -17,6 +17,7 @@ sources:
 # FAULT: Framework for Aiding the Understanding of Logical Troubleshooting
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 FAULT is the article's context-specific fault diagnosis simulation, named because "an excellent acronym was FAULT which stands for Framework for Aiding the Understanding of Logical Troubleshooting." Subjects receive general symptoms, then gather information by checking gauges, requesting component function definitions, making observations, or bench-testing removed components, and can replace parts. Costs for observations, tests, and replacements plus a priori failure probabilities yield a single cost performance measure; subjects minimize total cost. Its software is general, with systems specified by data files, and has been used for automobile and aircraft powerplant systems.

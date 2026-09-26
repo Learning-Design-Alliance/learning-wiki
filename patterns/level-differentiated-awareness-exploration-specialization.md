@@ -17,6 +17,7 @@ sources:
 # Level-differentiated emphases: awareness, exploration, specialization
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The guide differentiates the function of industrial arts by school level: elementary school provides INSIGHTS into and AWARENESS of the industrial-technical society; junior high courses provide EXPLORATION of the adult world of work and support of SELF CONCEPTS during early adolescence; senior high provides concentrated, specialized study with career EXPLORATION IN DEPTH and BEGINNING SPECIALIZATION. Operational level goals and expected outcomes are listed for each level under career emphasis and industrial-technological emphasis headings.

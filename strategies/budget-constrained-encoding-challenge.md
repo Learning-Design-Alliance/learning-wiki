@@ -17,6 +17,7 @@ sources:
 # Use a budget-constrained image encoding challenge to force explicit tradeoffs between spatial and color resolution
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Teams receive a grayscale astronomy photograph, a science-case goal (e.g., mapping sunspots), and a limited budget with a transmission cost per pixel and color bit, so they cannot maintain fidelity in both spatial and color resolution and must make a tradeoff. The article states: "Their budget was $1000 and pixels were $2 each while colors were $50 each." Teams then write up their encoded image with a file-format description, swap with another team, and decode it by drawing.

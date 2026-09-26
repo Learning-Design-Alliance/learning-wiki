@@ -12,6 +12,7 @@ generated:
 # Discussion (Pre-Reading)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies, `q3`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 A pre-reading discussion asks learners to take a position on the topic of an upcoming text *before* reading it — often by physically moving to a spot representing their stance (e.g., agree/disagree corners), constructing arguments for that position, and debating peers who hold opposing views. The goal is not to reach consensus but to activate prior knowledge, generate questions, and create a felt need to read: learners arrive at the text with stakes in the outcome.

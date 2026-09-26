@@ -12,6 +12,7 @@ generated:
 # Reflection On Learning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies, `q2`–`q4` · 6 of 9 report an effect size
 
 ## Description
 Reflection on learning is the deliberate, structured act of prompting learners to examine what they have learned, how they learned it, and what it means for future action. It is carried out through prompts, journals, exit tickets, structured discussions, or portfolio entries that require learners to articulate their understanding and monitor their own learning processes. Unlike unstructured "think about it" exhortations, effective reflection is scaffolded with specific questions tied to content and process.

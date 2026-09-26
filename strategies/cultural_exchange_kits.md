@@ -12,6 +12,7 @@ generated:
 # Cultural Exchange Kits
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q3` · 2 of 8 report an effect size
 
 ## Description
 Students assemble a "Culture Kit" — a small collection of objects, images, recipes, music, or stories that represent their family traditions, heritage, or community — and present it to peers. Kits are then exchanged or rotated so that students explore one another's cultures through concrete artifacts, supported by structured discussion and reflection.

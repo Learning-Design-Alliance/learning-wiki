@@ -12,6 +12,7 @@ generated:
 # Expressive Writing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Expressive writing involves putting thoughts and feelings into words, often focusing on emotionally charged or stressful experiences. In the canonical protocol (Pennebaker paradigm), learners write for 15–20 minutes on three to five consecutive days about a difficult experience, emphasizing emotions and meaning-making rather than grammar, style, or audience. Unlike [Reflective Writing](reflective-writing.md) or [Journaling](journaling.md), the goal is emotional disclosure and cognitive processing, not documentation or analysis of course content.

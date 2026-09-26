@@ -16,6 +16,7 @@ sources:
 # Johnson and Johnson's four basic elements of cooperative learning
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review presents the Johnsons' account of what distinguishes cooperative learning from ordinary group work: "interdependence among students seeking mutual goals through combined efforts", face-to-face interaction, individual accountability for mastering the material, and appropriate use of interpersonal and small-group skills. Effective implementation also involves specifying objectives, forming appropriate groups, explaining tasks and cooperative methods, monitoring and intervening, and evaluating achievement with student input. The bulletin uses this framework to argue that merely moving desks into groups is not cooperative learning.

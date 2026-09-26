@@ -21,6 +21,7 @@ sources:
 # Video-Based Reflection
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Video-based reflection is the element in which learners or practitioners review a recording of their own past activity to analyze choices, patterns, and next steps. The reviewer, not only an outside observer, does the interpreting — this is what distinguishes it from an instructor simply watching and evaluating footage. It has been used at very different grain sizes: young children interpreting video of their own unscripted play, and teacher teams interpreting video of their own classroom teaching within an ongoing professional-development partnership.

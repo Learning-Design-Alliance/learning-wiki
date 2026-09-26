@@ -17,6 +17,7 @@ sources:
 # Design large, contiguous, heterogeneous attendance zones with equivalent programs and limited transport time
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The guide specifies zone design rules: "Zones should be large enough to encompass heterogeneous population groups but small enough to limit student transportation time toand from school within the zone to not more than thirty, thirty-five, or forty minutes." Zones should aggregate contiguous neighborhoods of different population groups to avoid the appearance of gerrymandering, encompass equivalent educational programs, and reflect districtwide racial composition, with a minority critical mass of at least one-fifth.

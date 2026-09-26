@@ -17,6 +17,7 @@ sources:
 # Hold one-on-one writing conferences to negotiate feedback and revision
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 One-on-one writing conferences, whose purpose is to transmit feedback and discuss potential revision, derive their value from the negotiation and collaboration that take place during this pedagogical activity. The article reports that conferences allow students to exercise their agency by negotiating teacher feedback and standing up for their ideas, and that most students appreciate the chance to discuss their writing face to face and clarify feedback.

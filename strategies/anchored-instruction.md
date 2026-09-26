@@ -12,6 +12,7 @@ generated:
 # Anchored Instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q2`–`q3` · 2 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Anchored instruction situates learning in a rich, realistic problem context — the "anchor" — typically a detailed narrative, video case, or simulation that contains embedded data and multiple solvable problems. Learners explore the anchor, generate their own questions, and acquire knowledge as a tool for solving the problem rather than as an end in itself. The approach was developed by the Cognition and Technology Group at Vanderbilt, whose Jasper Woodbury series used extended video adventures as anchors for mathematical problem solving.

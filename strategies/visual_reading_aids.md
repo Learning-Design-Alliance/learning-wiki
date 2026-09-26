@@ -12,6 +12,7 @@ generated:
 # Visual Reading Aids
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 5 of 5 report an effect size
 
 ## Description
 Visual reading aids are external supports that reduce the visual and attentional demands of reading: reading guides (windows or rulers that isolate one line), colored overlays or tinted lenses placed over text, finger or pointer tracking, and digital equivalents such as line-focus modes and bionic/serif-adjusted display settings. They work by narrowing the visual field, stabilizing text position, or improving contrast, thereby freeing cognitive resources for comprehension rather than visual search and place-keeping.

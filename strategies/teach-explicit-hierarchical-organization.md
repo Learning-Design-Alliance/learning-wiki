@@ -17,6 +17,7 @@ sources:
 # Teach knowledge with explicit hierarchical multi-level structure and active student processing of the organization
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that instructional efforts pay more attention to the organization, not just the content, of knowledge to be taught. It suggests teaching usefully organized knowledge through "suitably structured teaching materials(e.g., containing explicitindica-tions of hierarchical multi-levelorganization, explicit connections between levels of description,systematic order of traversal of the hierarchy)" and through carefully designed teaching methods using active student processing for incorporating organizational aspects, such as the chart-marking and organization tasks used in the experiments.

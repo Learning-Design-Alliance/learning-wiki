@@ -17,6 +17,7 @@ sources:
 # Implement cooperative learning with extended training, direct social-skills teaching, and small initial groups
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The bulletin's staff development section advises that although cooperative learning is inexpensive to implement, "it takes time and practice for teachers to become skilled in its use." Teachers should directly teach social skills for cooperation before academic assignments, including staying with the group, using quiet voices, encouraging participation, criticizing ideas without criticizing people, and asking probing questions. When in doubt about group size, teachers should start small with two to three people, and teachers trying the method should enlist colleagues so a support group can develop.

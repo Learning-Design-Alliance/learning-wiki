@@ -17,6 +17,7 @@ sources:
 # Establish a viable trading point between life story giver and research taker through active collaboration
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article argues that listening to people and capturing their voices is not sufficient; a far more active collaboration is required. The key to a viable trading point is the differential structural location of the research taker: the academic has the time and resources to collaborate with teachers in developing genealogies of context, offering back goods in the trade. In such conditions collaboration between differentially located parties may at last begin.

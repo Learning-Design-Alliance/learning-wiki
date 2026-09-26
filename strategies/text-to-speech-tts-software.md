@@ -12,6 +12,7 @@ generated:
 # Text-to-Speech (TTS) Software
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies, `q1`–`q3` · 3 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Text-to-speech (TTS) software converts written text into synthesized spoken audio, allowing learners to listen to digital or scanned text rather than — or alongside — reading it. Modern implementations offer adjustable reading rate, voice selection, word-level highlighting that synchronizes audio with text, and integration with browsers, documents, and dedicated reading platforms. TTS is both an [accommodation](../elements/accommodations.md) for learners with reading difficulties and a universal design feature that benefits a broad range of learners.

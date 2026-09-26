@@ -12,6 +12,7 @@ generated:
 # Competency Based Progression
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q2`–`q4` · 7 of 8 report an effect size
 
 ## Description
 Competency based progression (CBP) restructures pacing so that advancement depends on demonstrated mastery of explicitly defined competencies — measurable statements of what a learner can do — rather than time in seat, age, or unit completion. Learners move on when they can reliably perform the competency, and receive additional time, support, or alternative pathways when they cannot.

@@ -17,6 +17,7 @@ sources:
 # Orient students' reflection onto their own tracking methods to foster monitoring of goal-directed counting
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 This teaching strategy has the teacher-researcher mirror and describe the student's own counting gestures back to him, prompting recognition of errors in the unit-rate count. In the episode, the teacher held her hand over the table, folded fingers down, and asked Devin to tell her what he was doing; the authors assert that "when Nina oriented Devin's reflection on his own tracking methods, she fostered his monitoring of his own goal-directed activity." This enabled Devin to begin monitoring a stop at 6 for each tower.

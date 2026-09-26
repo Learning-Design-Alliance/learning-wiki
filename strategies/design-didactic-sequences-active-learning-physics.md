@@ -17,6 +17,7 @@ sources:
 # Design didactic sequences for secondary physics concepts through active learning, taking advantage of the reform's adaptation period to equip teachers with new working strategies
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends seizing the reform's change and adaptation period to sow working strategies in teachers through designed didactic sequences; it states that "El aprendizaje activo de la física tiene hoy una gran oportunidad de desarrollo en México si logramos captar la atención de los docentes y mejorar sus estrategias de trabajo". As a continuation of the critique, the authors report they are designing didactic sequences through diverse strategies, principally active learning of physics, to achieve the reform's expected learnings in Ciencias II.

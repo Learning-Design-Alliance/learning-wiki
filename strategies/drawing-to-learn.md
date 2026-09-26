@@ -12,6 +12,7 @@ generated:
 # Drawing To Learn
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (3 for, 2 mixed) · 9 studies, `q3`–`q4` · 8 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 Drawing to learn asks learners to create their own external visual representations — sketches, concept diagrams, annotated illustrations — of the content they are studying. The generative act of translating verbal or numerical information into spatial form forces selection, organization, and integration of ideas, which is where the learning benefit arises. It differs from studying prepared visuals: the cognitive work of constructing the representation is done by the learner, not the designer.

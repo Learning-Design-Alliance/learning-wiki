@@ -12,6 +12,7 @@ generated:
 # Whole Task Practice
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 against) · 7 studies, `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Whole task practice asks learners to work on integrated, realistic versions of the target task from the beginning of instruction, rather than first mastering isolated components and combining them later. Complexity is managed by sequencing simple-to-complex whole tasks (task classes) and providing [Scaffolding](../elements/scaffolding.md) within each task, not by fragmenting the task into decontextualized drills. This is the organizing principle of the learning-task component in [Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md).

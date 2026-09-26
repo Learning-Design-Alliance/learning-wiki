@@ -17,6 +17,7 @@ sources:
 # CLASP programming should always create links to books, reading, information use, and library services
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A key recommendation from the CLASP evaluation is that library outreach programs must explicitly connect their activities back to books, reading, information use, or library services. The report found that while most activities were book-oriented to some degree, presenters did not always make strong connections between activities and reading or library resources. This recommendation addresses the gap between bringing users into the library and ensuring they engage with its core services.

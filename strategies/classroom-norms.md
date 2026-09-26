@@ -12,6 +12,7 @@ generated:
 # Classroom Norms
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 1 of 4 report an effect size
 
 ## Description
 Classroom norms are explicit, shared expectations governing how members of a learning community treat one another, participate, handle errors, and pursue work. They are typically established at the start of a course — ideally co-authored with students — posted visibly, revisited regularly, and enforced through consistent teacher modeling and response rather than punishment alone.

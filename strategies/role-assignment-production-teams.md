@@ -17,6 +17,7 @@ sources:
 # Assign diverse production roles in multimedia teams
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Structure multimedia production so students take diverse roles, including writer, painter, video editor, audio mixer, and computer operator, supported by a constructed role structure and role assignment. The article argues this role diversity is what makes collaboration productive in production projects.

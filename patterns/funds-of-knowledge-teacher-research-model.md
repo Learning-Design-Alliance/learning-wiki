@@ -17,6 +17,7 @@ sources:
 # Funds of Knowledge Teacher-Research Model (Tucson Project)
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A research model, described in the digest, in which teachers and university researchers in education and anthropology "enter minority households and discover knowledge and other resources therein" and then build classroom practice from what they find. It had three components: an ethnographic community study of household funds of knowledge, after-school teacher labs, and classroom studies implementing innovations based on the household study.

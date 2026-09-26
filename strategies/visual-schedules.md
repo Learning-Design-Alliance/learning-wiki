@@ -12,6 +12,7 @@ generated:
 # Visual Schedules
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 6 studies, `q2`–`q4` · 4 of 6 report an effect size
 
 ## Description
 A visual schedule is a persistent, at-a-glance display — pictures, icons, written words, or objects — that shows what will happen, in what order, and often what comes after the current activity. Learners check the schedule, complete an activity, mark it done, and move to the next item, making the schedule a self-management tool rather than a teacher-directed prompt.

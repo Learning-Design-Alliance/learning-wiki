@@ -16,6 +16,7 @@ sources:
 # Tennyson and Cocchiarella's concept-teaching model: structure choice follows generalization/discrimination needs and dimension stability
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study, `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article tests Tennyson and Cocchiarella's (1986) empirically based model of concept instruction, which holds that "the instructor who is effective at teaching concepts needs to determine if the concept being addressed shouldbe presented in succession or in coordination with the other concepts." Successive (outline) presentation suits concepts needing generalization only within their class; coordinate (simultaneous) presentation suits concepts also needing discrimination from other classes; variable-dimension concepts additionally require context, best and expository examples, interrogatory examples, attribute elaboration, strategy information, and embedded refreshment. The study applied this taxonomy to teach schedules of reinforcement as a variable coordinate concept.

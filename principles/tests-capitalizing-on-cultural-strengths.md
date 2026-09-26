@@ -17,6 +17,7 @@ sources:
 # Develop tests that capitalize on the strengths of students from different cultural backgrounds rather than eliminating cultural factors
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review argues that culture-fair tests, which minimize language and reading requirements and avoid culture-specific content, move toward a lowest common denominator and away from identifying what an examinee knows or can do. Because each culture fosters certain abilities and suppresses others, the authors recommend developing tests that "capitalize on the strengths of students from different cultural backgrounds" so ability can be measured accurately, including via alternative symbolic representations.

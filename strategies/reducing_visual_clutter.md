@@ -12,6 +12,7 @@ generated:
 # Reducing Visual Clutter
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q3`–`q4` · 5 of 8 report an effect size
 
 ## Description
 Reducing visual clutter involves minimizing unnecessary or distracting visual stimuli in the learning environment — on classroom walls, slides, web pages, and course materials. The strategy applies the *coherence principle* from multimedia learning research: people learn better when extraneous graphics, decorations, and background information are excluded rather than added [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S]. In physical classrooms, it means curating displays so that only content supporting current learning objectives remains visible; in digital materials, it means stripping decorative images, gratuitous animation, and competing layout elements.

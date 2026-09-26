@@ -17,6 +17,7 @@ sources:
 # Draft flexible educational specifications stating activities and needs rather than fixed dimensions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper recommends that educators give architects specifications describing intended activities and program needs rather than prescribing shapes and dimensions, so the architect retains autonomy and can modify specifics as the plan develops. The author states: "Using the model produces educational specifications which are highly flexible in the actual process of designing schools." For example, a flexible specification for a space facilitating plant growing could materialize as a growth room using artificial light even when specific window requests are rejected.

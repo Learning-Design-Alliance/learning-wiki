@@ -17,6 +17,7 @@ sources:
 # OptimNN-Reg: penalty-based regularization framework for non-degenerate BKT parameters
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 OptimNN-Reg extends OptimNN by adding regularizing penalty terms to the binary cross-entropy loss with chosen coefficients, enforcing allowable-parameter rules (slip below 0.5, guess below 0.5, learn below (1-slip)/guess) and supporting priors over BKT parameters via any differentiable distribution, demonstrated with a Dirichlet prior on guess rates. The paper argues the penalty approach "not only effectively generalizes to simple bound-based rules, but it could be used in more complex distribution-based rules". Generated guess-rate histograms roughly matched the chosen Dirichlet distribution on AST09.

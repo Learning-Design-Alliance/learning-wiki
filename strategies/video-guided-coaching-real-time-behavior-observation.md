@@ -17,6 +17,7 @@ sources:
 # Use fine-grained observation of real-time teacher and student behavior in video-guided coaching to analyze interactional fit
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article's practical implication is a general suggestion for teacher education and in-service professional development, especially when video-guided coaching is used. Because generalized findings do not always fit individual teachers, the author recommends that "observing both real-time teacher and student behavior during coaching sessions provides opportunities to analyze the fit and interrelatedness of their own behavior with their students' behavior". Becoming aware of (in)effective interaction patterns is framed as a first step towards improvement, helping teachers understand why they experience problems establishing positive relationships.

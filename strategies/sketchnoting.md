@@ -29,6 +29,7 @@ sources:
 # Sketchnoting
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 12 claims (9 for, 3 against) · 20 studies, `q2`–`q4` · 11 of 20 report an effect size · 5 claims rest on one study
 
 ## Description
 Sketchnoting is note-taking in which learners record ideas as a combination of small hand-drawn images, hand-lettered words, containers, arrows, and layout, rather than as running prose. The claim it rests on is not that learners have a visual style, and not that the notes are attractive: it is that deciding *what to draw* forces the learner to select the key idea, decide what it is like, and commit to a spatial relationship between ideas — three selections that verbatim transcription never requires. The artifact is a by-product; the selection is the learning.

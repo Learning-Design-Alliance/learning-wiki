@@ -12,6 +12,7 @@ generated:
 # Critical Lens Development
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 5 studies, `q3`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Critical lens development teaches learners to analyze media and multimodal texts through explicit evaluative frameworks — asking how design choices (image, typography, layout, sound, sequence) construct meaning, position audiences, and include or exclude perspectives. Learners internalize criteria through guided analysis of contrasting examples, then apply those criteria productively when composing their own multimodal work. The strategy treats critique and creation as mutually reinforcing rather than sequential.

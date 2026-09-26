@@ -29,6 +29,7 @@ sources:
 # Teaching as Learning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 11 claims (10 for, 1 against) · 17 studies, `q2`–`q4` · 7 of 17 report an effect size
 
 ## Description
 Teaching as learning assigns a learner responsibility for explaining material to someone else, and treats that responsibility as the instructional intervention. The learner studies with the knowledge that they will have to present, then delivers the explanation to a peer, a younger student, a camera, or a software agent. The gain accrues to the *teacher*, not the audience: preparing to explain forces the learner to organize the material into something transmissible, and delivering the explanation exposes every place where the organization was incomplete.

@@ -12,6 +12,7 @@ generated:
 # Pre-Writing Skills Activities
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 3 studies, `q3` · 3 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Pre-writing skills activities develop the component abilities that formal handwriting depends on: hand and finger strength, stable pencil grasp, visual-motor integration, line and shape discrimination, and directional awareness (top-to-bottom, left-to-right). Typical activities include tracing and copying strokes and shapes, mazes and dot-to-dot tasks, playdough and manipulatives for hand strengthening, and multisensory letter formation (tracing in sand, forming letters with body movements). They are carried out as short, repeated, developmentally sequenced sessions before or alongside early handwriting instruction.

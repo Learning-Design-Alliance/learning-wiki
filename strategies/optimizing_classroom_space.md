@@ -12,6 +12,7 @@ generated:
 # Optimizing Classroom Space
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Optimizing classroom space means deliberately managing three physical variables — crowding/density, seating arrangement, and layout flexibility — to match the environment to the intended learning activity. Overcrowded classrooms are associated with increased aggression and disengagement, while well-arranged, flexible spaces support collaboration, communication, and sustained attention.

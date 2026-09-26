@@ -17,6 +17,7 @@ sources:
 # Tailor mentor feedback frequency and elaboration to learners' developing expertise level
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes that mentor feedback in epistemic games be differentiated by learner expertise. It reports that "novice learners in epistemic games seem to require more frequent, more targeted, and less elaborate mentor feedback while expert learners seem to require less frequent, broader, and more elaborated feedback." The authors are investigating how mentor interaction strategies influence the nature of resulting data and how feedback mechanisms could be tailored to learners at different levels of developing expertise.

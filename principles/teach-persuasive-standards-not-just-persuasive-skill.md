@@ -17,6 +17,7 @@ sources:
 # The basic course should teach how audiences learn to be persuaded, not just persuasive technique
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The first operationalization replaces instruction in the efficacy of persuasive techniques with explicit instruction in rhetorical theory and persuasive standards. The paper proposes that "in place of instruction and practice in the efficacy of certain persuasive techniques, the basic course addressed the ways in which an audience learns how to be persuaded." Students would not merely follow an acceptable persuasive format but would explain or justify to the audience the persuasiveness of their format choice, making both speaker and audience aware that a speech simultaneously teaches the audience how to evaluate it.

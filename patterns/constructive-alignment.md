@@ -19,6 +19,7 @@ grain_size: course, program
 # Constructive Alignment
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q2`–`q4` · 7 of 8 report an effect size
 
 ## Description
 Constructive alignment, developed by John Biggs, holds that effective teaching requires three components to point in the same direction: intended learning outcomes (ILOs) stating what learners should be able to *do*, teaching and learning activities (TLAs) that require learners to enact exactly those verbs, and assessment tasks (ATs) that measure the same performance. Because learners construct their understanding from what they actually do during instruction, misalignment — teaching one thing, assessing another — produces learning that follows the assessment rather than the stated outcomes. The pattern treats the course as a system to be designed, not a set of topics to be covered.

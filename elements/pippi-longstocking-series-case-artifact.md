@@ -17,6 +17,7 @@ sources:
 # The Pippi Longstocking book series as a case artifact for analyzing educational philosophies
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The three classic Pippi Longstocking books by Astrid Lindgren (written in Swedish in 1945, translated into many languages and countries) serve as the data source for the study's document analysis. The author examined "the book chapters where Pippi engages or decides to engage in any form of educational practices", coding episodes such as Pippi's first school day (Book 1, Chp. 4) where she questions arithmetic, reading, and drawing lessons. The series portrays a protagonist who is self-regulated and challenges authority while still being able to "live and thrive in relation with others", making it usable material for philosophy-of-education analysis.

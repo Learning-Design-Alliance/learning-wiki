@@ -17,6 +17,7 @@ sources:
 # Implement desegregation, choice, and school improvement simultaneously rather than incrementally
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The guide's central design recommendation is that the three components of Controlled Choice "should be implemented simultaneously and not incrementally." Citing Williams and Ryan, the authors report that "long-drawn out efforts and fluctuating policies appear to have maximized confusion and resistance," while a clear, resolved policy accomplished desegregation with minimal difficulty. Remedies applied singly or sequentially (desegregation alone, then magnets, then choice) each failed parts of the system.

@@ -12,6 +12,7 @@ generated:
 # Empathy Walks
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3` · 1 of 3 report an effect size
 
 ## Description
 An empathy walk asks learners to move through an environment, task, or scenario as if they were another person — a user with a disability, a new immigrant, a struggling customer, a character in a text — attending to barriers, emotions, and decisions that person would encounter. The embodied experience is followed by structured reflection that converts the experience into articulated insight about the other person's perspective.

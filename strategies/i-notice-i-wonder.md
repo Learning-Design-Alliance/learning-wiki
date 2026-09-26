@@ -12,6 +12,7 @@ generated:
 # I Notice I Wonder
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies, `q3`–`q4` · 5 of 11 report an effect size
 
 ## Description
 I Notice I Wonder is a two-step discussion routine: learners examine an artifact (image, graph, text, object, or problem) and generate observations ("I notice…") without interpretation pressure, then generate questions ("I wonder…"). The routine defers explanation and evaluation, making it a low-stakes entry point that activates prior knowledge, surfaces misconceptions, and creates a "need to know" that subsequent instruction can resolve.

@@ -17,6 +17,7 @@ sources:
 # General principles for selecting learning activities
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Chapter V states five general principles for selecting learning activities: activities should provide practice of the behavior implied by the competency or objective, the student should acquire satisfaction from carrying out the activity, activities should be within the range of possibility for the students involved, many types of activities can attain the same competencies, and the same learning activities will usually bring about several outcomes beyond the targeted objective.

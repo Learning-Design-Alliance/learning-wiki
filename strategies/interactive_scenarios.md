@@ -29,6 +29,7 @@ sources:
 # Interactive Scenarios
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 7 studies, `q2`–`q4` · 4 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Interactive scenarios place learners inside simulated, realistic situations where they must make decisions and experience the consequences. Branching narratives, simulations, and role-based dilemmas require active choice rather than passive reception, with feedback and consequences delivered in response to learner decisions.

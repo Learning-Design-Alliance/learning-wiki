@@ -12,6 +12,7 @@ generated:
 # Encouraging Self Advocacy
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 unmarked) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size
 
 ## Description
 Self advocacy is the ability to understand one's own learning needs, strengths, and rights, and to communicate them effectively — requesting accommodations, asking clarifying questions, negotiating deadlines, or seeking help strategically. Encouraging it as a design strategy means deliberately teaching and creating opportunities for learners to identify what they need and voice it, rather than having all supports arranged invisibly for them. It is typically taught through explicit scripts, role-play, and graduated real-world practice.

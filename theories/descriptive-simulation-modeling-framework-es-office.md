@@ -16,6 +16,7 @@ sources:
 # Two-stage descriptive-plus-simulation modeling framework for Employment Service local office operations
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report proposes a two-stage modeling framework: a descriptive model capturing office activities, priorities and flows, and a simulation model built on it that adds statistics-gathering. As printed, "The descriptive model indicates the placement activities of an Employment Service local office, the priorities placed on these activities, and the relationships between them." The simulation model "represents the behavior of an Employment Service local office during an entire day of operation, in accordance with well-defined parameters established in the descriptive model," generating statistics on waiting times and staff time use across simulated days.

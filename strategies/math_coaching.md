@@ -12,6 +12,7 @@ generated:
 # Math Coaching
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 11 studies, `q2`–`q4` · 9 of 11 report an effect size
 
 ## Description
 Math Coaching is a peer-mediated strategy in which small groups of learners work together to solve word problems. One learner reads a word problem aloud while the others act as "math coaches," advising on which mathematical operation to use, underlining key words in the problem, and confirming the choice by "flashing" an operation flashcard. Roles rotate so every learner alternates between solver and coach.

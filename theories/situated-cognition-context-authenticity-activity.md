@@ -16,6 +16,7 @@ sources:
 # Situated cognition: context, authenticity, and activity as key dimensions
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Situated cognition holds that cognitive processes are located in physical and social contexts, drawing on Lave and Wenger's view of learning as participation in social practice. The article identifies "Context , Authenticity and activity" as the key dimensions: knowledge is anchored and indexed by context, authenticity means correspondence to real-world practices, and knowledge construction results from activity. This perspective provides the theoretical foundation for cognitive apprenticeship's situated learning environments.

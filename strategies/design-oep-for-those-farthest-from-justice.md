@@ -17,6 +17,7 @@ sources:
 # Design OEP for accessibility and marginalized participation rather than open for all
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that open educators make their work more accessible to those with lower bandwidth, e.g. "by deemphasizing high quality video and synchronicity, or at least providing recordings or transcripts" and by creating work that is translatable or translated, and enhance participation of marginalized groups. It cautions that projects emphasizing open for all may not meet the needs of those farthest from justice.

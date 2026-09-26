@@ -12,6 +12,7 @@ generated:
 # Positive Affirmations
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Positive affirmations are short, positive self-statements ("I am capable of learning this") that learners repeat aloud or in writing, with the goal of raising self-esteem, confidence, and motivation. They are distinct from [self-affirmation](../principles/self-affirmation.md) in the social-psychological sense, which involves reflecting on core personal values rather than repeating praise-like statements.

@@ -12,6 +12,7 @@ generated:
 # Activation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Activation is a pre-instructional strategy that prompts learners to retrieve and articulate relevant prior knowledge before new material is presented. It can be carried out through recall questions, brainstorming, [Analogies](analogies.md), [Advance Organizers](../elements/advance-organizers.md), prediction tasks, or brief diagnostic quizzes. The goal is to bring existing schemas into working memory so incoming information can be connected to them rather than encoded in isolation.

@@ -12,6 +12,7 @@ generated:
 # Cold Calling
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 Cold calling is the practice of directing a question to a specific, named student rather than accepting only volunteer responses. It is carried out by posing a genuine, prepared question, naming the student, and treating the response as a contribution to be built upon rather than a test to be passed. It functions as a participation-distribution and accountability technique, most common in discussion-based and case-based classrooms.

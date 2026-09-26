@@ -17,6 +17,7 @@ sources:
 # LLMKT: LLM-Based Knowledge Tracing for Dialogues
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 LLMKT is the article's knowledge tracing method: "a novel LLM-based KT method, LLMKT, that leverages the textual content in dialogues, by fine-tuning the open-source Llama 3 LLM" on the KT objective. Given the dialogue up to the target turn and a prompt about one KC, it estimates mastery from the logits of the True and False tokens, averages KC masteries into a correctness prediction, and is trained with binary cross entropy. The article reports that "averaging over KC masteries performed better than taking a product over them", and the authors publicly release their code.

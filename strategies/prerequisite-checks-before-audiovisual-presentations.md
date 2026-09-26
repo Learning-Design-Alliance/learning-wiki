@@ -17,6 +17,7 @@ sources:
 # Verify Prerequisite Knowledge Before Audiovisual Presentations
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Before using videotapes or other audiovisual aids in science, the teacher should ensure each pupil has the necessary prerequisite knowledge, using questioning, advance organizers, prediction prompts, or resource persons. The digest warns that 'If students do not have these prerequisites, they will tend to benefit only partially' from the presentation.

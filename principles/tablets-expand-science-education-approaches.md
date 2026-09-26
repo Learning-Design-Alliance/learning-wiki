@@ -17,6 +17,7 @@ sources:
 # Use tablets and smartphones in science education to expand approaches that motivate understanding of physical phenomena
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article opens with the design rationale that consumer mobile devices can serve as scientific measurement instruments in teaching. It states that "The use of tablets and smartphone in science education expands possibilities for approaches that motivate students to understand better several physical phenomena", and notes tablets were shown as good tools to measure magnetostatic responses. The demonstration set realizes this principle by turning an iPad's magnetometer into a quantitative field probe.

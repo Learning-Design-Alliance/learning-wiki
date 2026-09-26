@@ -17,6 +17,7 @@ sources:
 # Four large-scale real-world sequential knowledge tracing benchmark datasets used to evaluate Adaptive G-UKT
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The evaluation corpus comprises four large-scale real-world sequential datasets: "ASSISTments2009, Bridge2Algebra2006, Algebra2005, and NIPS34". These datasets supply the historical observation streams of exercise-response pairs over which the model predicts next-response probability and against which state-of-the-art baselines are compared, with the authors reporting particular advantages in sparse data regimes.

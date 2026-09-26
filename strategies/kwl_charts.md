@@ -12,6 +12,7 @@ generated:
 # KWL Charts
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 KWL (Know, Want to know, Learned) charts are three-column graphic organizers completed around a lesson or unit. Before instruction, students list what they think they know (K) and generate questions about what they want to know (W); after instruction, they record what they learned (L). Developed by Ogle (1986) as part of a comprehension strategy for expository text, the routine combines [prior knowledge activation](../principles/activation.md), goal setting, and post-hoc reflection in a single reusable structure.

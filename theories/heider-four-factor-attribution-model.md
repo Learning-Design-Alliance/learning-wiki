@@ -16,6 +16,7 @@ sources:
 # Heider's original attribution model: four causal factors for interpreting achievement outcomes
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The review presents Heider's founding account of attribution theory, in which people strive for prediction and understanding of daily events. In achievement-related events such as athletic contests, "individuals use four attribution factors both to interpret and predict the outcome of the event": ability, effort, task difficulty, and luck. External and internal forces are added together to yield a behavioral outcome to which a causal attribution is ascribed.

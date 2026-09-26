@@ -12,6 +12,7 @@ generated:
 # Discussion-Based Learning
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Discussion-based learning is the element in which talk, interpretation, and response are central vehicles for learning.

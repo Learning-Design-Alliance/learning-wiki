@@ -19,6 +19,7 @@ grain_size: unit
 # Research-Based Learning
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Research-Based Learning is a pattern in which learners investigate questions, gather and evaluate evidence, and build explanations or products from that inquiry. It is useful when learning goals include information literacy, inquiry, and evidence-based reasoning.

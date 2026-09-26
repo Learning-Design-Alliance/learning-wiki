@@ -16,6 +16,7 @@ sources:
 # Cultural Processes to Inequality: Identification and Rationalization
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A framework the article adopts from Lamont, Beljean and Clair (2014) in which inequality is produced through two meso-level cultural processes: identification (stigmatization and racialization) and rationalization (standardization and evaluation). The article lists "six characteristics of cultural processes", including that they are formed through meaning-making and operate in a routine way. It argues that "Evaluation and its sub-categories are central to everyday functioning of school".

@@ -17,6 +17,7 @@ sources:
 # Culturally adapt shared decision-making interventions by attending to language, communication style, relationship-building, fear, and visual design — beyond direct translation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that culturally adapted shared decision-making interventions "attend not only to language but also to communication style and relationship-building." Concretely, this means plain-language explanations of eligibility, benefits, and harms; warm, respectful, nonjudgmental delivery; balanced risk messaging that minimizes fear and fatalism; and educational materials with culturally relevant colors, realistic imagery, and Hispanic representation. The authors state these findings provide practical guidance for adapting LCS decision-support and navigation interventions for Hispanic populations.

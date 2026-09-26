@@ -12,6 +12,7 @@ generated:
 # Strategy Identification and Application
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size
 
 ## Description
 This strategy involves explicitly teaching problem-solving strategies and providing opportunities for students to practice using them when they feel "stuck." Students are encouraged to be mindful of how they get themselves unstuck and to name their process. The teacher checks in with questions like "How did you get yourself unstuck?" or "What was your first step? What might you try next?" and adds each named strategy to a growing class list, giving students language that matches what they did so they can reuse it in future moments of struggle.

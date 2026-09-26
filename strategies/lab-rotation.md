@@ -12,6 +12,7 @@ generated:
 # Lab Rotation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q3`–`q4` · 5 of 6 report an effect size
 
 ## Description
 Lab Rotation is a blended-learning model in which students move on a fixed schedule between a computer laboratory — where they work through online or adaptive courseware — and a traditional classroom with a teacher. The online segment typically delivers content, practice, or [assessment](../elements/assessment.md), while the face-to-face segment is reserved for discussion, remediation, enrichment, or hands-on work that technology handles poorly. It is one of the original rotation models described in the Christensen Institute taxonomy of blended learning, distinguished from [Station Rotation](station-rotation.md) by rotation between whole rooms (including the lab) rather than within one classroom.

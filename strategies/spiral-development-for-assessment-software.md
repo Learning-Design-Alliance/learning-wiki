@@ -17,6 +17,7 @@ sources:
 # Use a spiral development model with periodic prototype deliveries for assessment software
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Because the assessment software will have evolving requirements, the report adopts a spiral development model: "The spiral model minimizes risks through incremental development of software." Periodic prototype deliveries are planned, with each cycle implementing only the highest priority features and successive cycles adding more. Technical and functional problems are identified early, informing cancel-or-continue decisions, and a working prototype is always available for demonstration.

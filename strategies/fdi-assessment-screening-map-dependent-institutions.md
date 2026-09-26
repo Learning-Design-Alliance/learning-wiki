@@ -17,6 +17,7 @@ sources:
 # Use field-dependence-independence assessment to screen personnel in map-dependent institutions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that institutions relying on efficient map learning and recall, such as the military and cartographically-oriented agencies, study field-dependence-independence assessment techniques for screening or remedial decisions. Assessment could identify personnel with field-dependent deficits that make spatial learning more difficult, who could then be referred for remedial training or channelled into jobs with reduced demands on spatial recall.

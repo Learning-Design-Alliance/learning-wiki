@@ -17,6 +17,7 @@ sources:
 # Future Directions for Dialogue Knowledge Tracing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article closes with avenues for future work on dialogueKT. First, "we can jointly model tutor moves and student knowledge states to analyze what types of tutor moves are effective at improving student knowledge". Second, student affect dynamics should be accounted for, possibly with audio and video. Third, the scope can extend to other subjects and multi-student dialogues. Fourth, work should test whether estimated knowledge states are useful for personalization, teacher support, or powering simulated student agents.

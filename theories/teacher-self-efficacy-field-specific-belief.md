@@ -16,6 +16,7 @@ sources:
 # Teacher self-efficacy belief as a field-specific judgment influencing instructional choices
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article frames teacher self-efficacy within Bandura's social learning theory, defining it as "judgments of people regarding their capacities of coordinating and implementing activities to achieve specific performance types". Ashton's definition covers teachers' beliefs in their talents of influencing student performance and fulfilling duties. Because Pajares holds self-efficacy is field-specific, the article examines science teaching self-efficacy specifically, arguing it shapes learning environments, strategy use, and whether teachers adopt student-centered versus teacher-centered approaches.

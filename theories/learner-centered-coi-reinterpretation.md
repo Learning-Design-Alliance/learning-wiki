@@ -16,6 +16,7 @@ sources:
 # Learner-centered reinterpretation of the CoI framework placing learner presence at the intersection of the three presences
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors propose a graphic reinterpretation of the original CoI framework in which learner presence replaces educational experience at the center of the overlapping teaching, social, and cognitive presences. They state this "explicitly communicates a learner -centered focus within a community of inquiry" and "is meant to foreground the learner as an active agent in the evolution of the course learning experience." Faculty and designers are advised to start with the learner lens and adjust the other presences to accord with learners' intentions, metacognitive skill, and peer collaboration potential.

@@ -17,6 +17,7 @@ sources:
 # Extending game-based worked examples with practice problems, fading, self-explanation, verbal instruction and subgoals
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors' forward-looking recommendation, prompted by a gain they call small. "In order to obtain greater improvement, the worked example instruction could add: (a) practice problems", followed by (b) fading procedure, (c) self-explanations, (d) verbal instruction, and (e) subgoals, each tied to earlier worked example research. These are proposals for future study; the present experiment did not test them.

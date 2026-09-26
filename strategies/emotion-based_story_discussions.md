@@ -12,6 +12,7 @@ generated:
 # Emotion-Based Story Discussions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3` · 3 of 5 report an effect size
 
 ## Description
 Emotion-based story discussions involve reading stories and having learners identify and discuss the characters' feelings. Learners connect emotions to specific narrative events, label emotional vocabulary, and reason about why characters feel as they do — building emotional literacy and perspective-taking through a safe, third-person medium. The facilitator guides discussion with open questions ("Why did she feel that way? What would you do?") rather than delivering correct answers.

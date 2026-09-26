@@ -17,6 +17,7 @@ sources:
 # Quantum Randi Challenge: a modifiable computer game teaching quantum mechanics
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The QRC is a computer game that anybody can modify, designed to reject hidden variable models by simply teaching quantum mechanics. Per the article, "there is no bet or interaction with challengers". The present version includes a simulation of true quantum behavior violating Bell 99% of the time, hidden variables violating Bell and CHSH with 50% probability, and ones violating Bell 85% of the time when missing 13% anti-correlation. The challenge is to modify the hidden variables so the predicted quantum behavior, including anti-correlation, arises.

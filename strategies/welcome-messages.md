@@ -12,6 +12,7 @@ generated:
 # Welcome Messages
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 1 of 4 report an effect size
 
 ## Description
 A welcome message is the instructor's opening communication in a course — delivered as text, video, or audio — that greets learners, introduces the instructor and course purpose, previews how the course works, and invites initial engagement. In online and blended settings it is often the learner's first experience of the instructor's presence, and it functions simultaneously as orientation, social-emotional signaling, and norm-setting.

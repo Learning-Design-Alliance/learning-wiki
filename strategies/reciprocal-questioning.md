@@ -12,6 +12,7 @@ generated:
 # Reciprocal Questioning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 12 studies, `q2`–`q4` · 9 of 12 report an effect size · 1 claim rests on one study
 
 ## Description
 Reciprocal questioning asks learners to formulate questions about material they have just read or studied and to pose those questions to peers, who answer and discuss. The questioner role rotates, so every learner alternates between generating questions and responding to them. It is a core component of [Reciprocal Teaching](../elements/reciprocal-teaching.md) (alongside predicting, clarifying, and summarizing) and can also be run standalone as "question generation" or "reQuest" activities.

@@ -17,6 +17,7 @@ sources:
 # Minimize student frustration by making feedback clear, legible, focused, and transparent
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Teachers should avoid responding in ways that cause frustration: unclear or cryptic comments such as confusing symbols, abbreviations, single-word questions, vague remarks, and grammar jargon; illegible handwriting; and overwhelming commentary on every weakness. Feedback is most useful when understood, so teachers should comment in complete sentences or detailed phrases that are clear, specific, and concrete, prioritize a few features of the text, and articulate their feedback philosophies and expectations to learners.

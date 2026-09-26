@@ -17,6 +17,7 @@ sources:
 # When test dimensionality is unclear, compare several candidate calibration models to empirically justify the chosen composite scoring model
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 This strategy addresses practical testing situations where no clear a priori theoretical belief about the latent structure exists. The article recommends that "finding the most adequate model by comparing several candidate models provide empirical justifications of using one particular model." In the study this meant estimating one unidimensional and three two-dimensional calibrations and comparing them with AIC and chi-square difference tests before selecting the model used to produce composite scores.

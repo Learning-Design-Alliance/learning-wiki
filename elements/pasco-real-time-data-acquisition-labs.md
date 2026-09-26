@@ -17,6 +17,7 @@ sources:
 # Pasco data acquisition hardware and software for real-time data collection and representation in modeling physics labs
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The technology intervention consisted of Pasco data acquisition hardware and data analysis software supporting real-time data collection and representation in hands-on labs. In the momentum lab, students used Pasco PasCarts with motion detectors, and laptop computers instantly displayed position vs. time and velocity vs. time graphs. Student activity centered on interpreting and analyzing the data they had collected, supporting model construction and validation in the modeling curriculum.

@@ -16,6 +16,7 @@ sources:
 # Levels of discourse taxonomy for student/computer interaction (L0, L1, L2)
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report models communication between a student and a machine as occurring at three levels of discourse. At L0 the student enters responses and control choices on request within author-sequenced displays; at L1 the student commands the system in a gross manner (logon, logoff, calculation) and may gain control over strategy; at L2 the student asks questions and seeks advice about general and strategic control, with data on how the student is doing used to advise on improving strategy and tactics. The taxonomy is used to specify what delivery system software must contain, and strategy-control at L1 is divided into survey, learning, evaluation, and review tactics, illustrated with the TICCIT system's Rule, Example, Practice, Easy, Hard, Help, Map, Objective, GO, and Advice commands.

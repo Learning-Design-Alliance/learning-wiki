@@ -12,6 +12,7 @@ generated:
 # Question Answering
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (2 for, 2 mixed, 1 against) · 12 studies, `q2`–`q4` · 4 of 12 report an effect size
 
 ## Description
 Question Answering positions questions — not explanations — as the primary driver of a learning episode. Learners must generate an answer from memory, reasoning, or text evidence before receiving confirmation, feedback, or the correct response. The strategy spans oral questioning in class, embedded questions in texts and videos, and quiz-like prompts in adaptive software.

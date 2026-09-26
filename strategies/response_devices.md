@@ -12,6 +12,7 @@ generated:
 # Response Devices
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Response devices allow learners to anonymously share answers with the whole class. They range from low-tech whiteboards and colored cards to commercial clicker systems and web-based polling tools (e.g., [Poll Everywhere](https://www.polleverywhere.com), [Socrative](https://www.socrative.com), [Kahoot!](https://kahoot.com), [Mentimeter](https://www.mentimeter.com)). The typical cycle: the instructor poses a question, learners commit to an answer individually, responses are aggregated and displayed, and the distribution drives discussion or instructional adjustment.

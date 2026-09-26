@@ -12,6 +12,7 @@ generated:
 # Concrete Representational Abstract Sequencing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (2 for, 2 mixed, 1 against) · 10 studies, `q2`–`q4` · 5 of 10 report an effect size · 2 claims rest on one study
 
 ## Description
 Concrete Representational Abstract (CRA) sequencing teaches a new concept in three stages: first with concrete objects learners can manipulate (counters, base-ten blocks, fraction tiles), then with drawn or diagrammatic representations of the same structure, and finally with abstract notation (symbols, equations, algorithms). Each stage is explicitly connected to the previous one — the same problem is shown in all three forms — so the abstract symbols inherit meaning from the concrete and pictorial experiences rather than being memorized as arbitrary marks.

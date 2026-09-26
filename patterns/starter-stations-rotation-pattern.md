@@ -17,6 +17,7 @@ sources:
 # Rotating starter stations that stimulate interest and introduce concepts before a focused investigation
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A lesson-level pattern in which students rotate in parallel through brief interactive stations, each introducing one concept relevant to later activity components. The article defines a Starter as "a brief, interactive pedagogical tool designed to stimulate student interest and engagement in a topic". After each station students write questions and observations, which facilitators collect and later synthesize into a shared classroom experience.

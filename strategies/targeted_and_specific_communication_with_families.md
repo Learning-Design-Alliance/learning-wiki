@@ -12,6 +12,7 @@ generated:
 # Targeted and Specific Communication with Families
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 Targeted and specific communication with families means tailoring the content, language, and channel of school-to-home communication to the particular population receiving it — non-native English speakers, families from different cultural backgrounds, families of students with disabilities — rather than sending generic messages to all. Messages focus on the individual student's progress or concrete steps families can take to support learning, and schools provide modes for two-way communication so families can respond, question, and contribute.

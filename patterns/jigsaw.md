@@ -13,6 +13,7 @@ grain_size: lesson
 # Jigsaw
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Jigsaw is the short-form canonical pattern for dividing a topic into expert roles, peer teaching, and synthesis.

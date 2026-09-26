@@ -14,6 +14,7 @@ grain_size: lesson
 # Cognitively Guided Instruction (CGI) for Math
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 4 claims (2 for, 2 mixed) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 CGI for math is a pattern in which instruction begins with learners' own mathematical thinking and strategies rather than with a fixed demonstration of one correct method. The instructor presents a problem, listens closely to how learners approach it, and uses discussion and comparison to guide movement toward more sophisticated reasoning. The core design move is to treat learner thinking as instructional material.

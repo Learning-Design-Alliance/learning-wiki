@@ -12,6 +12,7 @@ generated:
 # Process Writing Approach
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 1 of 2 report an effect size
 
 ## Description
 The process writing approach treats composing as a recursive cycle — planning, drafting, revising, editing, publishing — rather than a single-shot product. It includes many related activities: a greatly increased quantity of writing (only some of which is taken to publication), writing integrated throughout the course, mini-lessons on embedded skills (e.g., sentence combining), instructor modeling of writing and revision, and structured peer and teacher feedback. It is also a professional development model: student writing gains correlate with the depth of teachers' training in the approach, most visibly through the [National Writing Project](https://www.nwp.org).

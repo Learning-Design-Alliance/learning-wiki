@@ -12,6 +12,7 @@ generated:
 # What’s Below the Surface? (Iceberg Analysis)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 3 of 4 report an effect size
 
 ## Description
 Iceberg analysis uses the waterline metaphor to separate observable events from their underlying causes. Students select a key event in a text — typically featuring an adolescent protagonist — and record the visible "above the surface" causes (explicit scenes, actions, dialogue) on the iceberg's tip, then generate "below the surface" explanations (character traits, identity facets, social pressures, unspoken motivations) beneath the waterline. Discussion follows, connecting the hidden layers to a fuller understanding of the event. The visible/hidden structure makes inference an explicit, scaffolded act rather than an unmarked expectation.

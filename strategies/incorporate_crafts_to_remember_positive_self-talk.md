@@ -12,6 +12,7 @@ generated:
 # Incorporate Crafts to Remember Positive Self-Talk
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 3 of 4 report an effect size
 
 ## Description
 Learners create a physical artifact — an affirmation card, "self-talk flower," bookmark, poster, or decorated object — inscribed with positive self-statements they have authored themselves. The craft serves two functions: the act of making it deepens encoding of the self-talk, and the finished object acts as a portable cue that re-triggers the self-statements at moments of difficulty.

@@ -12,6 +12,7 @@ generated:
 # Talk Moves
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Talk moves are sentence frames and conversational routines supplied to learners that help them express ideas and interact with one another in respectful, academically appropriate ways. From kindergarten through college, learners benefit from explicit instruction in skills such as summarizing another person's argument before presenting an alternate view, asking clarifying questions, and expressing agreement or partial agreement with a peer's stance. Talk moves can be incorporated into any discussion format, including [Class Discussion](../elements/class-discussion.md), [Collaborative Learning](../elements/collaborative-learning.md), and [Argumentation](../elements/argumentation.md).

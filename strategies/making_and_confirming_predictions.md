@@ -12,6 +12,7 @@ generated:
 # Making and confirming predictions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 Making and confirming predictions asks learners to commit to an explicit, educated guess about what a text, lecture, or recording will contain — based on titles, headings, images, or prior knowledge — before or during engagement. Learners then read or listen to confirm, revise, or reject each prediction, treating the material as evidence against a hypothesis rather than as passive input. The commitment step is what distinguishes prediction from mere anticipation: a stated guess creates a stake in the outcome that drives attention and comprehension monitoring.

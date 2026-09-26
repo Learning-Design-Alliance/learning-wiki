@@ -12,6 +12,7 @@ generated:
 # Praise And Ignore
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Praise and ignore is a classroom management strategy in which the teacher systematically reinforces desired behavior with attention and specific praise while deliberately withholding attention (eye contact, verbal engagement, visible reaction) from minor, non-disruptive misbehavior. It operationalizes differential reinforcement: attention functions as a powerful consequence, so it is spent on behavior you want to see repeated rather than behavior you want to extinguish.

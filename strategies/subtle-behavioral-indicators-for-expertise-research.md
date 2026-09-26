@@ -17,6 +17,7 @@ sources:
 # Use finer-grained behavioral indicators such as transition rate, pacing, momentum, and accountability to study teaching expertise
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Because total-percentage time measures did not distinguish expertise groups, the authors recommend studying molecular behavioral quantities. They state "it is suggested that further efforts be employedusing more subtle behavioral indicators", naming frequency/rate and interresponse time of transitions, Kounin's momentum, smoothness, and accountability, and field systems analysis of contextual and temporal relationships among setting variables.

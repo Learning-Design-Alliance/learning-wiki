@@ -12,6 +12,7 @@ generated:
 # Barometer — Taking a Stand on Controversial Issues
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 11 studies, `q2`–`q4` · 6 of 11 report an effect size
 
 ## Description
 The barometer (also called "Four Corners" or "taking a stand") is a whole-class discussion strategy in which the instructor poses a genuinely contested question and learners physically move to a position along a line or into corners representing degrees of agreement. Learners then justify their stance, listen to opposing reasoning, and are invited to move if their thinking changes — making the revision of position a visible, public event.

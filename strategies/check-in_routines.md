@@ -12,6 +12,7 @@ generated:
 # Check In_Routines
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 A check-in routine is a short, predictable opening activity in which every learner briefly reports on their emotional state, well-being, progress, or readiness to work. Formats range from a one-word mood share to a rating scale, a quick written prompt, or a round-robin question. The routine serves two functions simultaneously: it builds relational trust and belonging, and it surfaces information the instructor can use to adjust the day's plan.

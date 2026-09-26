@@ -12,6 +12,7 @@ generated:
 # Retrieval Practice Openers
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3` · 1 of 3 report an effect size
 
 ## Description
 Retrieval practice openers begin a lesson with a brief activity in which learners recall previously learned material from memory — a short quiz, free recall prompt, or two or three questions — before new content is introduced. The act of retrieval itself strengthens and stabilizes memory, and the recalled material is then available to be connected to the day's new content.

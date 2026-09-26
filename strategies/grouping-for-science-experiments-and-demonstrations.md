@@ -17,6 +17,7 @@ sources:
 # Group Pupils During Science Experiments and Demonstrations
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The digest recommends grouping pupils during science experiments and demonstrations so they can reveal previous knowledge acquired, access prior information for better hypothesizing, and ask questions about gaps in their knowledge. Grouping lets pupils 'participate actively in the ongoing activity' rather than watch passively, supporting knowledge, skill, and attitudinal objectives.

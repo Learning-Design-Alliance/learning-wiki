@@ -17,6 +17,7 @@ sources:
 # Treat humanlikeness as a tunable design parameter and anthropomorphism as an evaluation metric
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The review recommends that once the constructs are distinguished, designers can "intentionally manipulating humanlike features of robots" to systematically amplify or attenuate attribution of specific human qualities aligned with deployment contexts, and treat anthropomorphism as an outcome measure rather than a confound. For example, in hospital contexts designers may suppress facial cues inviting moral-agency attributions while leveraging other humanlike features for task-focused interaction. If people anthropomorphize a socially evocative robot consistent with its design goals, the design achieved its intended interaction purpose.

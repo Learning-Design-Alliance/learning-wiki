@@ -12,6 +12,7 @@ generated:
 # Student Hand Signals
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Student Hand Signals is a whole-class response strategy in which learners use pre-defined non-verbal cues — e.g., one finger for agree, two for disagree, three for undecided, or a fist-to-five scale for confidence — to indicate their understanding or position after hearing a statement or question. All learners respond simultaneously and visibly, giving the instructor an instant snapshot of the class and giving quieter learners a low-stakes means of participation.

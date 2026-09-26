@@ -16,6 +16,7 @@ sources:
 # Open-source PyTorch DKT implementation supporting online knowledge tracing with DataShop-format data
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors created their own DKT implementation using PyTorch's LSTM module to support online mastery learning. Based on prior work, "the model has 200 nodes in the hidden layer, uses a dropout of 0.4 during training, and uses a batch size of 5." It "supports the ability to ﬁt DKT to data presented in standard DataShop format" and provides "a simple interface for use in online knowledge tracing settings." Open-source code is available at the authors' GitLab repository.

@@ -12,6 +12,7 @@ generated:
 # Peer Review Protocols
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (4 for, 1 against) · 13 studies, `q2`–`q4` · 5 of 13 report an effect size
 
 ## Description
 Peer review protocols are structured procedures through which learners evaluate one another's work against explicit criteria, exchange written or oral feedback, and often revise in response. The protocol — rubrics, sentence stems, calibrated exemplars, staged deadlines — is what distinguishes peer review from informal commenting: it specifies what reviewers look for, how judgments are justified, and what happens to the feedback.

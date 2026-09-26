@@ -12,6 +12,7 @@ generated:
 # Discussion Based Learning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (5 for) · 12 studies, `q2`–`q4` · 6 of 12 report an effect size
 
 ## Description
 Discussion-based learning positions dialogue as the primary engine of sense-making: learners articulate ideas, respond to others' reasoning, and negotiate meaning under the facilitation of an instructor. It ranges from whole-class dialogic discussion to small-group [discussion-group](../patterns/discussion-group.md) formats, and depends on tasks that are genuinely open to multiple defensible positions rather than recall questions with a single answer.

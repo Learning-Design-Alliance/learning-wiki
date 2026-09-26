@@ -12,6 +12,7 @@ generated:
 # Rubrics
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.

@@ -12,6 +12,7 @@ generated:
 # Mini-Lessons on Features
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 10 studies, `q3`–`q4` · 9 of 10 report an effect size
 
 ## Description
 A mini-lesson on features is a brief (5–15 minute), tightly focused instructional episode targeting a single, nameable craft feature of writing — e.g., how a strong title works, how sentence variety controls rhythm, how evidence is introduced and cited. Each lesson typically follows a consistent arc: name the feature, show it in a mentor text or [Demonstration](../elements/demonstration.md), then have students try it immediately in their own drafts. Mini-lessons are sequenced across a unit so that features accumulate into a repertoire rather than arriving as a one-time lecture.

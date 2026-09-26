@@ -12,6 +12,7 @@ generated:
 # Pizza Box Portfolios
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Pizza Box Portfolios are a physical, low-cost adaptation of the classroom portfolio: each learner keeps a standard pizza box — decorated and personalized — that holds drafts, finished work, artifacts, and reflection sheets accumulated over a term. The box functions as both storage and a curated exhibit; learners periodically select, order, and annotate its contents, then use it as the basis for conferences, self-assessment, and showcase events.

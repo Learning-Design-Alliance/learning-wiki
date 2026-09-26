@@ -17,6 +17,7 @@ sources:
 # Five-phase retrieval practice session crossing question format and level of thinking
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 3 claims (3 mixed) · 1 study, `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The study's session design: read a passage, do a distractor task, answer mixed-format retrieval questions, do a second distractor, then take a final test. The article states the procedure "involved five phases: study phase, first distractor task, retrieval practice phase, second distractor task and final test phase", with 10 MCQs and 10 short-answer questions, each split into five lower-order and five higher-order items.

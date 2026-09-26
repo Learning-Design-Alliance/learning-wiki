@@ -17,6 +17,7 @@ sources:
 # Support digital inclusion through onboarding processes, device lending and technical support when deploying digital learning programmes with older adults
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The trial supported digital inclusion "through supporting onboarding processes and device lending": researchers provided initial training at the baseline visit, preloaded iPads, and made ad hoc technical support available. Staff highlighted that taking part enabled older adults facing high socioeconomic deprivation to learn digital skills, and recommended increasing device compatibility (mobile phones, TVs) to enhance reach. The authors caution that without such consideration, digital interventions risk compounding existing health inequalities.

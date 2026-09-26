@@ -16,6 +16,7 @@ sources:
 # Mitchell's critical service-learning framework: redistribution of power, social change, and authentic relationships
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article presents Mitchell's (2008) critical service-learning model as a democratized, social-justice approach to service learning that adds three components to the traditional model. As printed, these are "the redistribution of power so as to allow for the community partner to have a voice in the process," "the incorporation of a social change component," and "developing authentic relationships." The article applies the framework to center the community partner in course planning, co-teaching, and collaborative scholarship, and concludes that the autoethnographic voices of partners "testify to the practical value of Mitchell's CSL model."

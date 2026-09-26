@@ -17,6 +17,7 @@ sources:
 # Developers of locus of control instruments should account for the balance of situations and sources of control items, which affects obtained scores
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article concludes that instrument developers must attend to how situations and sources of control are represented in their items, because "the balance of situations and sources of control items will affect the scores obtained from the instrument." Since respondents' expectancies for control vary by situation and by external source (fate, luck, chance, or others), item composition shifts measured internality-externality and thus the instrument's relationship with other locus of control instruments.

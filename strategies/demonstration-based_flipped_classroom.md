@@ -12,6 +12,7 @@ generated:
 # Demonstration-Based Flipped Classroom
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 8 studies, `q3`–`q4` · 7 of 8 report an effect size · 3 claims rest on one study
 
 ## Description
 In a demonstration-based flipped classroom, the instructor records narrated demonstrations — worked problems, software walkthroughs, lab techniques, geometric constructions — and assigns them as pre-class viewing. Learners can pause, rewind, and rewatch at their own pace, then attend class for [practice](../elements/practice.md), feedback, and resolution of difficulties. The approach suits procedural, precision-dependent subjects (mathematics, chemistry, physics, engineering, software) where observing exact expert steps matters.

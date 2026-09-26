@@ -12,6 +12,7 @@ generated:
 # Expert Groups
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 3 claims (3 for) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size
 
 ## Description
 Expert groups are a cooperative structure in which learners first work in same-topic groups to master one segment of a topic, then return to heterogeneous groups to teach their segment to peers. Each learner becomes the sole source of a piece of knowledge, making the group's success depend on every member's contribution. The structure is the core mechanism of the Jigsaw classroom and related collaborative inquiry formats.

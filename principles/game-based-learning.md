@@ -21,6 +21,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (4 for) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 Game-based learning is the instructional principle of using a game itself as the learning environment, with goals, rules, feedback, and progression aligned to specific learning outcomes. Unlike light gamification layered onto ordinary tasks, game-based learning makes the core learning activity intrinsically game-like: learners make decisions, test strategies, receive immediate consequences, and improve through repeated attempts. When designed well, it can increase time on task, support mastery through iteration, and make complex systems or decisions easier to experience directly.

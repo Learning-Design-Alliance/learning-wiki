@@ -17,6 +17,7 @@ sources:
 # Develop instructional design competence through integrated curricula combining knowledge, hands-on design practice, and personal attributes
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that teacher preparation institutions use the validated competence model as a guideline for curriculum design, integrating knowledge components (curriculum and learner analysis), design capabilities such as creating innovative learning activities, and personal attributes such as systematic thinking and teamwork. It states that "the development of instructional design competence should emphasize hands-on practice and the cultivation of personal attributes that promote systematic thinking and effective teamwork."

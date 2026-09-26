@@ -12,6 +12,7 @@ generated:
 # A Finder's Guide to Facts
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 3 of 4 report an effect size
 
 ## Description
 A Finder's Guide to Facts is a short checklist of questions readers apply to a news story to judge its credibility: Is the story outrageous? Does the headline match the article body? Are quotes presented in context? Does the story attack a generic enemy? Who is the source, and what is their track record? The strategy converts expert habits of skepticism into an explicit, teachable routine that novices can apply before trusting or amplifying a story.

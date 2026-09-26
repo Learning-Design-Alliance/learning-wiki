@@ -21,6 +21,7 @@ sources:
 # Reciprocal Teaching: Peer Assisted Learning Strategies (PALS)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (5 for) · 13 studies, `q2`–`q4` · 11 of 13 report an effect size
 
 ## Description
 PALS is a classwide peer-tutoring routine in which students work in pairs, alternating higher- and lower-performing roles ("Coach" and "Player"), and move through scripted activities — partner reading with retells, paragraph shrinking, and prediction relay — that operationalize the [Reciprocal Teaching](../elements/reciprocal-teaching.md) strategies of summarizing, questioning, clarifying, and predicting. The teacher trains the routines, monitors pairs, and awards points for accurate coaching, but the bulk of instructional time is spent in structured peer interaction rather than teacher-led instruction.

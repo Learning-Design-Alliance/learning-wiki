@@ -12,6 +12,7 @@ generated:
 # Pretend Play
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Pretend play (sociodramatic or role play) asks learners to act within an imagined scenario — taking on roles, using objects symbolically ("this block is the phone"), and negotiating the shared fiction with peers. It is carried out through structured scenarios, props or minimal props, and adult moves such as modeling a role or injecting problems to sustain the drama.

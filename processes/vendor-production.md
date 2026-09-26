@@ -14,6 +14,7 @@ grain_size: course
 # Vendor Production (Alpha–Beta–Gold)
 
 > **Design Process** · [All design processes](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Vendor production is the process a studio runs when a client is paying for a course. Its stages are named for build fidelities rather than design activities — **alpha**, **beta** and **gold** — and each ends in a client review. It is the dominant production model in commercial e-learning, and it is documented in trade practice rather than in the research literature.

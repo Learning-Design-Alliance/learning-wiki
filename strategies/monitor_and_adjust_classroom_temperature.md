@@ -12,6 +12,7 @@ generated:
 # Monitor and Adjust Classroom Temperature
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Classroom temperature is a physical environmental factor that measurably affects learning performance. This strategy involves monitoring classroom temperature (ideally with a sensor and logged readings) and adjusting it — via thermostats, ventilation, shading, or fans — to keep it in a moderate band, roughly 68–74°F (20–23°C). Both overheated and overcooled rooms degrade performance on academic tasks, so the goal is avoidance of thermal extremes rather than a single "perfect" setting.

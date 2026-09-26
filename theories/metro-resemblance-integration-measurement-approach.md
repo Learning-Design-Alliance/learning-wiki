@@ -16,6 +16,7 @@ sources:
 # Metro-resemblance and homogeneity-threshold approaches to measuring school racial integration
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article argues that common integration measures are flawed: counting minority students, evenness within already-segregated districts, using public schools as the benchmark, or comparing participants with non-participants all "fail to square with the common understanding of racial integration." It proposes two approaches: comparing each school's racial composition with that of the surrounding metro school-age population, ignoring political boundaries, and counting schools that are more than 90% racially homogeneous, which "cannot be considered to be racially integrated under any reasonable standard." The study applies both to DC public and voucher-participating private schools.

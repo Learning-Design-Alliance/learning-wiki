@@ -16,6 +16,7 @@ sources:
 # Bandura's social learning theory: four fundamental requirements for people to learn and model behavior
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper presents social learning theory as a century-old body of work in education, psychology and sociology, with Albert Bandura as one of its most prominent experts. According to the account, "since individuals learn best by observing others, learners are tremendously influenced by the roles models who they observe." The theory specifies four requirements — attention, retention, reproduction and motivation — that the paper uses as a design lens for evaluating online learning environments.

@@ -17,6 +17,7 @@ sources:
 # Add a game mode with input fields and customized feedback to a physics simulation for concept testing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 In the game mode, students decide which input field to key in first and receive feedback text whose level of customization depends on teachers' customized inputs. Incorrect answers get hints such as "no! hint v1=v2" for perfectly inelastic collision or "no! out by 2.0", while correct answers get reaffirming feedback such as "yes! m1u1+m2u2 = m1v1+m2v2". The author writes that "we suspect that a simple game or puzzle (Adams et al., 2008) could be fun for the students by means of input fields and feedback text", and this design was directly inspired by a student suggestion to make the program a game with a table of values provided for analysis.

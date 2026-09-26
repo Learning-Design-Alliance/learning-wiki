@@ -17,6 +17,7 @@ sources:
 # Retain, strengthen, and improve statewide choice options, with urgent state action on information, oversight, and funding equity
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report's central recommendation is that Minnesota "retain, strengthen and improve our choice options" rather than retreat from them. It pairs this with specific state actions: provide more information to families, improve supervision and examination procedures for alternative schools, refine charter sponsorship and oversight procedures, examine equity of funding among public school options, and promote more information exchange among schools. It warns that without such modifications, state money will not be spent effectively and students will suffer.

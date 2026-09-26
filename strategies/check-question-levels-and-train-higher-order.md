@@ -17,6 +17,7 @@ sources:
 # Teachers should check question levels with software after writing papers and be trained in preparing higher-order questions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that after making question papers, teachers verify the cognitive-level balance of their questions and that institutions improve paper-making criteria. It states "teachers should use different software to find out their levels of questions after making question papers, to make a balanced question paper which evaluate the whole performance of students", and suggests young teachers be trained in preparing high-order questions. The university should provide good questions' criteria and improve student-teacher interaction.

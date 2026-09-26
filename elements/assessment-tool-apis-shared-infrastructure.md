@@ -17,6 +17,7 @@ sources:
 # Application programming interfaces as shared infrastructure for automated assessment tools
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report identifies two classes of software needed for computer-based automated assessment tools: individual tool applications and application programming interfaces. "Application programming interfaces provide transparent layers for collecting, parsing, managing, analyzing, and outputting data." Shared APIs for authoring, data logging, reporting, collaboration, search, simulation, text classification, scoring, and process analysis avoid recreating code per tool; for example, one standard data logging API serves all tools.

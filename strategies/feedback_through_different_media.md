@@ -12,6 +12,7 @@ generated:
 # Feedback Through Different Media
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Feedback can be delivered through text, audio, video, screencast, or face-to-face channels, and the choice of medium shapes how learners perceive and use it. Video and audio feedback carry paralinguistic cues — tone of voice, pacing, facial expression — that soften critique and convey instructor presence, whereas text is faster to scan, easier to reference, and better suited to precise, itemized corrections.

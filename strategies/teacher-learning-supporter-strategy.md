@@ -17,6 +17,7 @@ sources:
 # Act as a learning supporter during multimedia production
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 During multimedia production, the teacher provides good examples of products and research findings, offers alternatives for themes and methodologies, provides varied learning materials, prepares flexible open space and learning aids, describes the sequence of activities, and cares for pupils' learning difficulties. The article derives these supporter functions from its classroom implementations of multimedia production units.

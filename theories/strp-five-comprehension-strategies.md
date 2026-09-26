@@ -16,6 +16,7 @@ sources:
 # Strategic Teaching and Reading Project (STRP) five comprehension strategies
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Strategic Teaching and Reading Project, designed by the North Central Regional Educational Laboratory in 1987 and implemented in 125 schools, is a professional development program for reading comprehension. It "focuses on five basic comprehension strategies: metacognition, prior knowledge, inferencing, word meaning, and text structure." It is based on a constructivist approach to reading, which defines reading as a dynamic interaction between reader, context, and text, and aims to bring strategic teaching and learning into classrooms.

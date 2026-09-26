@@ -17,6 +17,7 @@ sources:
 # Change facilitators should work in a diagnostic/prescriptive mode, matching interventions to the user's level
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article argues change facilitators should constantly assess where users are developmentally and adapt interventions accordingly, since NDN change agent activities were "targeted toward where the individual is" with a close fit between interventions and client activity. The Levels of Use diagnostic tool combined with the NDN's effective interventions "provide the rudimentary beginnings of a diagnostic prescriptive model for change facilitation."

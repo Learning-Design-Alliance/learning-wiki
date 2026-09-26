@@ -16,6 +16,7 @@ sources:
 # DiPietro's Strategic-Interaction Method: equal weight to form and function across three dimensions of conversational discourse
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Strategic-Interaction (S-I) Method, designed by Robert J. DiPietro, is a pedagogical model in which "The SLI model gives equal significance to both fOrmand function" and all matters to be taught "are cast in theframework of conversations". It analyzes conversational discourse along three dimensions: the formal dimension (referential meaning open to grammatical analysis), the transactional dimension, "by whichparticipants utilize the language to motivate actions in their favor", and the interactional dimension, dealing with how conversations reflect the execution of roles. Classroom practice is organized into on-stage phases (performing, open to evaluation) and off-stage phases (learning and acquiring skills), with two axes: an elaborative axis reserved for grammar work and a consecutive axis dedicated to advancing conversational language.

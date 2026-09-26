@@ -12,6 +12,7 @@ generated:
 # Present Tense Messages
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 2 of 2 report an effect size
 
 ## Description
 Present Tense Messages is a self-talk strategy in which learners deliberately phrase their internal dialogue as concrete, present-tense statements about what they are doing now ("I am writing the opening sentence") rather than future-oriented evaluations or worries ("Will I finish? What if this is bad?"). The shift converts abstract threat appraisal into task-focused procedural attention, and is typically paired with naming the next single action.

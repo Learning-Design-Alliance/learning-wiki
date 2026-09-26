@@ -16,6 +16,7 @@ sources:
 # Five broad categories of evidence-based classroom management practices (Simonsen et al. taxonomy)
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article organizes evidence-based classroom management practices, drawing on a prior systematic review of 81 studies, into five broad categories: "(1) maximize structure and predictability, (2) post, teach, review, and provide feedback on expectations, (3) actively engage students in observable ways, (4) use a continuum of strategies to acknowledge appropriate behavior, and (5) use a continuum of strategies to respond to inappropriate behavior". This taxonomy frames the multi-component universal programs the meta-analysis evaluates.

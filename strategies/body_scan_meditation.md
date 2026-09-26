@@ -12,6 +12,7 @@ generated:
 # Body Scan Meditation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
 
 ## Description
 Body scan meditation is a guided practice in which learners direct sustained, non-judgmental attention to physical sensations sequentially across the body — typically from feet to head or head to feet — noticing tension, warmth, contact, or numbness without attempting to change them. It is a foundational exercise in Mindfulness-Based Stress Reduction (MBSR) and is delivered live, via audio recording, or through apps such as [Headspace](https://www.headspace.com) and [Calm](https://www.calm.com). In learning contexts it functions as an attention-regulation warm-up, an emotional-awareness builder, and a recovery practice for managing cognitive fatigue.

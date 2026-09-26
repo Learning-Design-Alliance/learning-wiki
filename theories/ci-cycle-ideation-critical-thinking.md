@@ -16,6 +16,7 @@ sources:
 # The C/I cycle: ideation followed by positive and negative critical thinking, iterated to refine solutions
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article frames creativity as "a cognitive process involving both the retrieval of information and making novel associations and connections about this information," which must then be critically evaluated. This yields "a C/I cycle where ideation is followed by critical thinking (involving both positive and negative aspects of the ideas)." The authors stress that positive critical thinking — finding the positive aspects of an idea disguised with dysfunctional parts — is much less common than negative critique and needs deliberate practice in STEM. The cycle is operationalized in their six-step classroom process and can be run individually or in groups.

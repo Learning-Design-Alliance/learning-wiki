@@ -14,6 +14,7 @@ grain_size: course
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 against) · 3 studies, `q2`–`q3` · 3 of 3 report an effect size
 
 ## Description
 Traditional Lecture-Based Instruction is the short-form canonical target for designs centered on lecture, assigned study, and subsequent discussion or assessment.

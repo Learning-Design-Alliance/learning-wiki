@@ -17,6 +17,7 @@ sources:
 # Adopted instructional materials should reflect learning principles, pupil maturity, major cultures, varied teaching methods, and individual differences
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The framework's philosophy section sets criteria for what adopted courses and materials should reflect. It states that 'Adopted courses and instructional materials should reflect the principles of learning; the levels of pupil maturity; the significance of all the major cultures, including their social institutions and values; various teaching methods; individual, group, and community differences; and the legal and educational requirements of California.' This functions as a selection and design criterion for local districts.

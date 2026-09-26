@@ -25,6 +25,7 @@ sources:
 # TPRI Diagnostic Assessment
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q1`–`q4` · 4 of 4 report an effect size
 
 ## Description
 The TPRI is an individually administered screening and diagnostic inventory of early reading development, used in kindergarten through grade 3. It consists of a brief Screening section identifying students at risk, followed by an Inventory section that assesses specific domains — phonological awareness, graphophonemic knowledge, word reading, fluency, and comprehension — so instruction can be targeted to each child's profile. Teachers administer it at the beginning, middle, and end of the year, using results to group students and select interventions.

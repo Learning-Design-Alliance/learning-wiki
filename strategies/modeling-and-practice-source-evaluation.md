@@ -12,6 +12,7 @@ generated:
 # Modeling and Practice (Source Evaluation)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q3` · 1 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy pairs explicit [Demonstration](../elements/demonstration.md) of source-evaluation moves — lateral reading, checking author credentials, detecting bias and stance, negotiating conflicting perspectives — with repeated, feedback-rich [Practice](../elements/practice.md) on authentic online sources. The instructor makes expert evaluation visible by narrating decisions aloud ("I'm leaving this site to see what other outlets say about it…"), then gradually transfers responsibility to learners as they evaluate sources in their own research.

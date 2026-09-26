@@ -16,6 +16,7 @@ sources:
 # Cummins's BICS/CALP distinction: language proficiency divides into basic interpersonal communicative skills and cognitive/academic language proficiency
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The packet explains that "Cummins divides language proficiency into two dimensions: basic Interpersonal communicative skills (BICS) and cognitive/academic language proficiency (CALP)", with CALP the basis for academic success. It uses the distinction to explain the phenomenon of students who seem fluent in informal English yet fail academic tasks, arguing their difficulty stems from lacking the language skills required for academic domains rather than from learning handicaps or low motivation. The two dimensions are described as developmental continuums rather than a dichotomy, and the distinction drives the packet's instructional models, which aim to move learners from BICS to CALP.

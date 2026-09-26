@@ -17,6 +17,7 @@ sources:
 # Stages of Concern Questionnaire (SoCQ)
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Stages of Concern Questionnaire is a quantitative instrument used to measure teachers' concerns profiles across the CBAM stages of concern. In this study, "Quantitative data was obtained through use of the Stages of Concern Questionnaire (SoCQ)", administered to the total teacher group (n=19) at the case-study school. Its scores were used to identify the four teachers with the most advanced concerns profiles, who then became informant interviewees for the qualitative portion of the research.

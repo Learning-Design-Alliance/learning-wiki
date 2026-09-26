@@ -16,6 +16,7 @@ sources:
 # Team-based discovery learning: a four-step cooperative sequence from motivating activity to concept generation
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article describes team-based discovery learning as an element of cooperative learning in which teams "socialize and share knowledge within the group or team" while following discovery learning steps. The sequence comprises a motivating activity phase collecting teams' curiosity about journal article writing patterns, problem identification and formulation, team opinion gathering and discovery, and concept generation from team discussion. The teacher acts mainly as facilitator guiding students to find hidden patterns from introduction to data analysis sections, following Mayer's finding that guided learning operates better than unguided learning.

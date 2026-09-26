@@ -16,6 +16,7 @@ sources:
 # MISE's nine-component systemic reform strategy
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 MISE's reform theory held that professional development alone would not change practice; the strategy "was systemic and was based on studies of previous efforts to improve teaching." It comprised nine components: making science teaching improvement a district priority; developing a leadership team sharing an inquiry-based vision; developing curriculum frameworks, selecting instructional materials, and building materials-management systems; supporting aligned assessments including formative, end-of-unit, and district-wide performance assessments; building district capacity to plan and deliver professional development; developing district and school instructional leaders; developing professional cultures promoting continuous improvement; aligning district policies for curriculum, professional development, resource allocation, and teacher evaluation; and promoting supportive state policies. MISE's leaders felt only such a systemic approach could stimulate, support, and sustain the reforms in classroom practice they sought.

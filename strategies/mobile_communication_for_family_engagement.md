@@ -12,6 +12,7 @@ generated:
 # Mobile Communication for Family Engagement
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 unmarked) · 4 studies, `q4` · 4 of 4 report an effect size
 
 ## Description
 Mobile communication for family engagement uses SMS text messaging (and similar low-friction channels) to send families timely information about their student's progress, attendance, and behavior, along with concrete tips for supporting learning at home. Because texts require no app, login, or broadband connection, they reach families that newsletters, portals, and conferences often miss. Effectiveness depends on message design: personalized, actionable, and translated messages outperform generic broadcasts.

@@ -12,6 +12,7 @@ generated:
 # Frustration and Stress Prevention/Reduction Techniques
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 This strategy treats instructor stress as a manageable instructional variable rather than a private problem. Teachers maintain a pre-planned repertoire of prevention and reduction techniques — environmental adjustments (soft music, calming displays), instructional choices (teaching lessons they enjoy, scheduling independent reading time), physical resets (a short walk, reorganizing the work area), and social supports (asking a neighboring teacher to take a difficult learner briefly). The goal is to interrupt the escalation from frustration to reactive behavior before it degrades teaching quality.

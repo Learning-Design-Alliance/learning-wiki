@@ -16,6 +16,7 @@ sources:
 # Polytomous-DFIT framework: IRT-based parametric DIF/DTF detection with compensatory (C-DIF) and non-compensatory (NC-DIF) indices
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The DFIT framework is an IRT-based, parametric procedure for detecting differential item and test functioning that "can be used withdichotomous, polytomous, ormultidimensional data." For polytomous data it computes expected item scores and true test scores under the graded response model for each Focal Group examinee treated as both Focal and Reference group members; DTF is the expected squared difference between the two true scores. DIF decomposes into C-DIF, which allows cancellation across items at the test level, and NC-DIF, which assumes all other items are DIF-free. The article demonstrates the framework with Samejima's graded response model in simulation.

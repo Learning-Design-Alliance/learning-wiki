@@ -16,6 +16,7 @@ sources:
 # Programmed instruction framework: six-element operant-conditioning lesson format
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The digest describes the behaviorist model derived from Skinner's operant conditioning as the dominant mid-twentieth-century framework for lesson design. It specifies six major elements: "an ordered sequence of stimulus items" to which the student responds, reinforced by "immediate knowledge of results", moving "by small steps" with few errors toward the learning goal. The digest reports that research and practical experience later brought the generality of many of these principles into question.

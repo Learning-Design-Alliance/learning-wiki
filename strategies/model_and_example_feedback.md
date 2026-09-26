@@ -12,6 +12,7 @@ generated:
 # Model and Example Feedback
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 5 studies, `q3`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Model and example feedback communicates the purpose and criteria of an assessment by showing learners concrete exemplars — a strong ("A-level") model, a weak ("C-level") contrast, and ideally intermediate cases — with annotation explaining *why* each exemplar earns its quality level. Rather than describing standards in the abstract, the instructor makes quality visible, turning evaluation criteria into observable features learners can compare against their own work.

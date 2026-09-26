@@ -16,6 +16,7 @@ sources:
 # Mean-Recall Approximation for the Leitner Queue Network
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The mean-recall approximation is the article's heuristic that treats each Leitner deck as an M/M/1 queue, replacing each item's true delay with an exponential draw so recall probability becomes a function of deck service and input rates. Under it, "the problem of choosing an optimal review schedule reduces to a low-dimensional deter- ministic optimization problem" that a nonlinear solver can solve.

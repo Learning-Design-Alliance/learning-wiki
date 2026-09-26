@@ -17,6 +17,7 @@ sources:
 # Use the Stokamer taxonomy of course and syllabus change to revise syllabi for civic competence integration
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A practical rubric adapted from Kitano (1997) for revising syllabi to catalyze civic competence. The article states the rubric "delineates integration of civic competence into elements of a course syllabus at three different levels: exclusive (not likely to enhance civic competence), inclusive (some opportunities for development of civic competence), and transformed (optimal integration of service for civic competence)." It is recommended for faculty professional development workshops, program assessment, or individual review of course syllabi.

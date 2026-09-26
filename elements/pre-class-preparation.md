@@ -17,6 +17,7 @@ sources:
 # Pre-Class Preparation
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Pre-class preparation is the element in which learners engage with readings, videos, prompts, or other materials before a live class session so that class time can focus on discussion, application, or problem solving.

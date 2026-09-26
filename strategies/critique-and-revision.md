@@ -12,6 +12,7 @@ generated:
 # Critique And Revision
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 2 of 3 report an effect size
 
 ## Description
 Critique and revision asks learners to evaluate a piece of work against explicit criteria, identify specific weaknesses, and then produce a revised version that addresses them. The critique may target peers' work, exemplars, or the learner's own draft; the revision closes the loop by requiring the critique to be acted on rather than merely stated.

@@ -17,6 +17,7 @@ sources:
 # Combining visual demonstrations, guided inquiry, computational-model manipulation, and group discussion to teach cutting-edge science concepts
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This instructional pattern sequences four modes of engagement around one scientific concept: a physical demonstration, a guided-inquiry worksheet, manipulation of a computational model, and group discussion. The authors state that "This combination of visual demonstrations, guided inquiry, comparison and manipulation of computational models, and group discussion throughout is essential for having the students develop an accurate understanding" of gravitational waves and overcoming misconceptions. Each mode addresses a different layer of understanding, with peer discussion resolving residual misconceptions the model alone did not.

@@ -12,6 +12,7 @@ generated:
 # Social Emotional Learning Integration
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 11 studies, `q3`–`q4` · 6 of 11 report an effect size
 
 ## Description
 Social Emotional Learning (SEL) Integration embeds the development of social-emotional competencies — self-awareness, self-management, social awareness, relationship skills, and responsible decision-making (CASEL's five domains) — into everyday academic instruction. Rather than delivering SEL as a stand-alone curriculum, teachers weave it into content teaching: structuring collaborative work to build relationship skills, framing tasks to support emotion regulation, and using academic discourse to practice perspective-taking.

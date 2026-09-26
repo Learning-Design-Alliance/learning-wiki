@@ -17,6 +17,7 @@ sources:
 # Deliver structured CT centring training and integrate automated positioning technology with retained professional expertise
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends structured training programmes and broader adoption of automated positioning technology to address persistent knowledge gaps and practice variability in CT patient centring. Respondents themselves reported that centring is "seldom covered in training" and requested accessible reference resources, while valuing automation's time savings but cautioning that "technology shouldn't replace professional expertise." The authors also propose future research quantifying the educational gap through pre- and post-intervention studies and evaluating simulation-based centring training.

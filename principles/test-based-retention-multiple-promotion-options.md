@@ -17,6 +17,7 @@ sources:
 # Use test-based 3rd-grade retention with multiple promotion options and good cause exemptions
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The toolkit's retention principle holds that students unable to demonstrate sufficient reading skills for promotion be retained and given "more intensive interventions and a highly effective teacher." To ensure "one test on one day is not the sole determining factor," students get multiple demonstration options (state test, alternative test, portfolio), and good cause exemptions cover specified students with disabilities, English Language Learners, and previously retained students.

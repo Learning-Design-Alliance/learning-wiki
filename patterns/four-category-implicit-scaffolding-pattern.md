@@ -17,6 +17,7 @@ sources:
 # Four-category design pattern for implicit scaffolding in simulations
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article organizes implicit scaffolding strategies into four categories that work together: scaffolding the general concept (scope, sequence, interactivity), scaffolding students' framing of sim use (opening screen, initial interaction), scaffolding to enable sense making (representations, feedback, layout, range of interactions, illuminating cases), and scaffolding for continued engagement (puzzles and challenges). The authors state: "We divide our description of implicit scaffolding strategies into four categories: Scaffolding 1) the general concept, 2) students’ framing of sim use, 3) to enable sense making, and 4) for continued engagement." Together these enable agency while affording and constraining productive actions.

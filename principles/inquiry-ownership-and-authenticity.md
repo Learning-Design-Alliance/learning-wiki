@@ -17,6 +17,7 @@ sources:
 # Design inquiry activities around student ownership and authenticity to real science and engineering practices
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article frames its inquiry design with two stated keys: "Keys to inquiry are ownership of students over their learning and authenticity of the activity to real-life science and engineering practices". The digital-images activity operationalizes this through open investigation, question generation, and an engineering design challenge tied to science goals such as mapping sunspots.

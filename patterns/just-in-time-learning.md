@@ -13,6 +13,7 @@ grain_size: lesson
 # Just-in-Time Learning
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Just-in-time learning is the short-form canonical pattern for providing support, information, or practice at the moment it is needed for performance.

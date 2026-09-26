@@ -16,6 +16,7 @@ sources:
 # Logistic knowledge tracing (LKT): a symbolic notation framework for specifying logistic regression learner models
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 LKT is a theoretically motivated framework for systematic specification and evaluation of student models for adaptive instructional environments, built on logistic regression. Its strength is a symbolic notation system in which models are composed of terms, each with a feature applied at a component level (student, item, KC), including intercept, linear, and nonlinear features such as recency, decay, and spacing. The framework subsumes extant models like AFM, PFA, and R-PFA as special cases and facilitates comparing their strengths and weaknesses.

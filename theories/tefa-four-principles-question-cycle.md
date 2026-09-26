@@ -16,6 +16,7 @@ sources:
 # TEFA: Technology-Enhanced Formative Assessment pedagogy built on four interlocking core principles enacted through the question cycle
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 TEFA is a pedagogy for teaching with classroom response technology, developed since 1993 beginning in university physics and expanding to secondary schools. "At the heart of TEFA, defining and directing it, are four core principles: question-driven instruction, dialogical discourse, formative assessment, and meta-level communication." The principles "interlock and reinforce each other in a highly synergistic way" and come together in the question cycle: pose a question, collect and display answers as a histogram, moderate whole-class discussion drawing out the range of thinking, then provide closure. TEFA is intended as a regular engine of learning, not an occasional quiz.

@@ -12,6 +12,7 @@ generated:
 # Micro Credentials
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 6 studies, `q2`–`q3` · 2 of 6 report an effect size
 
 ## Description
 Micro credentials are compact, assessable certifications of a specific competency — a skill, task, or body of knowledge — earned by demonstrating performance against defined criteria rather than by seat time. They are typically stacked (accumulating toward larger qualifications), digitally badgeable, and assessed through evidence such as portfolios, performance tasks, or proctored demonstrations.

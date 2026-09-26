@@ -12,6 +12,7 @@ generated:
 # Dual Color Highlighting
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
 Dual color highlighting is a feature within text-to-speech software that highlights the word currently being read aloud in one color (e.g., yellow) while highlighting the containing sentence in another color (e.g., blue). This creates a bimodal reading condition in which learners see and hear the text simultaneously, with the two-color scheme providing both word-level tracking and sentence-level context. It operationalizes multimedia learning principles by pairing spoken and written verbal input with visual attention cues [Combining spoken and written presentation affects recall and retention depending on modality conditions.](../claims/media-combinations-affect-recall-and-retention.md) [~M].

@@ -17,6 +17,7 @@ sources:
 # Use LoU data to monitor implementation, plan staff development, select research samples, and evaluate programs
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends LoU Interview data as a practical tool for change agents: administrators need degree of implementation "to make intelligent decisions about resources, support, and training", and evaluators need extent and quality of use to assess innovation effects. The article reports exploration of LoU "in selecting research samples, planning staff development activities, and evaluating programs for optimal effectiveness", plus monitoring a science curriculum implementation district-wide.

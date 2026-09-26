@@ -16,6 +16,7 @@ sources:
 # Fischer and Knight's skill theory of cognitive development in real children
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Fischer and Knight present skill theory as a tool for analyzing children's development, explaining how the same child can show both stagelike developmental levels and wide performance variations. The theory relates a child's capacity, motivation, and emotional state to the contexts in which behavior emerges, and distinguishes optimal from typical performance. The article states Fischer and Knight "draw adistinctionbetween students' optimal and more middling or real performance, calling on concepts of familiarity, practice, and conti.tual support as factors that influence the two tyi es of behavior."

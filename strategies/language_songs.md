@@ -12,6 +12,7 @@ generated:
 # Language Songs
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q1`–`q4` · 6 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Language songs embed target vocabulary, grammar structures, or phonological patterns in melody and rhythm so that linguistic content is rehearsed through singing rather than isolated drill. The strategy exploits the mnemonic properties of music — prosodic grouping, melody as a retrieval cue, and repeated pleasurable exposure — to increase the number of meaningful encounters learners have with target language forms.

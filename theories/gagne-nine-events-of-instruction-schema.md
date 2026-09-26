@@ -16,6 +16,7 @@ sources:
 # Gagne's nine Events of Instruction as a lesson-design schema
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The digest presents Robert Gagne's Events of Instruction as the dominant framework through the end of the twentieth century. Gagne combined the information-processing model with behaviorist concepts and deduced prescriptive theories about instruction methods from descriptive theories of information processing. His list of nine events became "a robust and influential conceptual schema for lesson design": "gaining attention; informing learners of the objective; stimulating recall of prior learning; presenting the content; providing 'learning guidance'; eliciting performance; providing feedback; assessing performance; enhancing retention and transfer".

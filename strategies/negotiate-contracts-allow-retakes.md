@@ -17,6 +17,7 @@ sources:
 # Negotiate learning contracts at the start of term and allow test retakes until mastery
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 This strategy combines the memo's two implementable moves: at the beginning of the term the teacher presents grading options and each student proposes specific work and criteria within those limits, and students are allowed to repeat a given test or short assessment until they meet the criterion. Together these make standards explicit, give students agency, and treat assessment as feedback on progress toward explicit standards rather than one-shot ranking.

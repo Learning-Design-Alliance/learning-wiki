@@ -17,6 +17,7 @@ sources:
 # Avoid fixed or random student intercepts in learner models intended to transfer to new student populations
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article argues that to be maximally applicable, a learner model needs to adapt to student differences without requiring student parameters estimated from prior data. The main-comparison models avoid student parameters as a partial solution to the cold start problem that occurs when models are transferred between different populations of students, instead using dynamic adaptive features like propdec at the student level.

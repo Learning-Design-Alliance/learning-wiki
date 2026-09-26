@@ -17,6 +17,7 @@ sources:
 # Teach vocabulary by varying contexts rather than repeating words within the same context
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Because the evidence favors contextual diversity over repetition as the driver of lexical organization, the chapter argues that instructional approaches to vocabulary should modulate context rather than simply repeat words. It states that "repeating a word should be of limited use if the repetition is not also accompanied by a modulation in context, and repetitions within the same context should be largely irrelevant to lexical organization." The chapter explicitly connects this to practice, noting the distinction has important consequences for how we teach children vocabulary and meaning.

@@ -17,6 +17,7 @@ sources:
 # Treat perceived giftedness as access to superior training resources, and define the giftedness construct explicitly before labeling
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article argues that perceived "giftedness" operates mainly by giving children "access to superior training resources, resulting in developmental advantages": parents who see talent arrange early instruction, teachers, and equipment, which accelerates development and reinforces the gifted label. Because talent-identification practice often "derives from practicality, judgment of questionable ‘experts,’ or tradition," educators should define the giftedness construct and its component traits explicitly before applying the label, and should not treat early rapid everyday-skill learning as evidence of immutable limits on later expert attainment.

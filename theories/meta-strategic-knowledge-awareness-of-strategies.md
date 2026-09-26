@@ -16,6 +16,7 @@ sources:
 # Meta-Strategic Knowledge (MSK): awareness of the thinking strategies used in certain environments, governing the cognitive system
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Drawing on Zohar and David (2009), the article presents Meta-Strategic Knowledge as a branch of metacognitive monitoring that includes knowledge of tasks and knowledge of strategies. MSK contributes the understanding that metacognition is the "higher order agent who is overlooking and governing the cognitive system". The thinker is not only able to reflect on their thinking for problem solving, but is aware of the type of thinking strategies being used in certain environments. The article uses MSK to interpret the teachers' articulated metacognitive theories.

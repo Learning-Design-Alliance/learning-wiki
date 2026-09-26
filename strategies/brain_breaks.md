@@ -12,6 +12,7 @@ generated:
 # Brain Breaks
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 mixed, 1 against) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size
 
 ## Description
 Brain breaks are brief (typically 1–5 minute) interruptions to instruction in which learners shift activity — standing, moving, playing a quick game, or doing a creative task — before returning to the lesson. The rationale is twofold: sustained attention depletes over time, and disengaging from a task allows unconscious incubation and consolidation of recently encountered material [~M].

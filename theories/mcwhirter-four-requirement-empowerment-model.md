@@ -16,6 +16,7 @@ sources:
 # McWhirter's four-requirement empowerment model as a framework for adventure therapy programs
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper adopts McWhirter's (1991) model, in which empowerment is broader than autonomy or efficacy and reaches outside the individual. It specifies four necessary requirements: awareness of power dynamics, developing skills and capacity for control, exercising control without infringing others' rights, and supporting the empowerment of others. The paper uses these four requirements as the transferable structure of an adventure therapy program.

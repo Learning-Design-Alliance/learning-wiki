@@ -12,6 +12,7 @@ generated:
 # Home Reading Programs
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q1`–`q2` · 2 of 2 report an effect size
 
 ## Description
 Home reading programs organize reading practice outside school by supplying children with appropriately leveled books, guidance to families on how to read with children, and routines for tracking and communicating progress between home and school. Common formats include take-home book bags with matched texts, structured dialogic reading guidance, and logging systems that prompt regular reading sessions.

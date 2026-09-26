@@ -16,6 +16,7 @@ sources:
 # Criterion-referenced versus norm-referenced grading as two competing conceptions of grading
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article frames grading as a choice between two conceptions: grading students in competition with one another (norm-referenced, on a curve) versus grading in terms of how well they achieve the explicit standards set by the teacher (criterion-referenced). This distinction organizes the whole memo and motivates contract grading, which anchors grades to absolute criteria rather than relative rank. The article presents it as the first 'choice point' a teacher faces in designing grading.

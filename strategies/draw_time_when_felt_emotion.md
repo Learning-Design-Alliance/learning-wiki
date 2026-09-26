@@ -12,6 +12,7 @@ generated:
 # Draw Time When Felt Emotion
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 6 studies, `q3`–`q4` · 3 of 6 report an effect size
 
 ## Description
 Learners are given an emotion prompt (e.g., "a time you felt proud," "a time you felt frustrated"), draw a picture depicting a personal episode when they experienced that emotion, and then share or discuss their drawings with classmates. Drawing externalizes an autobiographical emotional memory into a concrete, discussable artifact, lowering the verbal and social barriers that pure discussion of feelings can impose.

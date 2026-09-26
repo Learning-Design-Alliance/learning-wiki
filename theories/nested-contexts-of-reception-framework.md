@@ -16,6 +16,7 @@ sources:
 # Nested contexts of reception (NCOR) framework
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The NCOR framework, from Golash-Boza and Valdez (2018) building on Portes and Rumbaut, "conceptualizes educational institutions as one of several interrelated contexts which shape educational outcomes for immigrant youth." Contexts are not monolithic: an undocumented student may face exclusion at the federal level yet attend a welcoming campus in a state allowing scholarships. The article applies NCOR to school social workers' perceptions and argues local contexts like schools can attenuate hostile state or federal reception.

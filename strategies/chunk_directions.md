@@ -12,6 +12,7 @@ generated:
 # Chunk Directions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (1 for, 2 unmarked) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Chunk Directions means delivering instructions in small, sequenced units — one step or two at a time — rather than as a single long string of directions. Each chunk is presented, acted on, and checked before the next is introduced, so learners hold only a manageable amount of procedural information in working memory at once.

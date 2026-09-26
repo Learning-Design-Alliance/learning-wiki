@@ -16,6 +16,7 @@ sources:
 # Labov's monitor model: monitoring as attention paid to speech form on a continuum
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Labov's model, developed from observed variation in first language speech, treats monitoring as attention paid to the form of speech, which can be paid in greater or lesser degrees. The article argues it implies monitoring "is not like an on-off switch. Rather, it is like a rheostat that can be turned up or down," and that no clear demarcation exists between conscious problem-solving monitoring and an unconscious feel for correctness. The author judges it a more accurate representation of the monitoring process than Krashen's model.

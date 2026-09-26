@@ -15,6 +15,7 @@ sources:
 # The knowledge-creation metaphor as a third basic metaphor of learning alongside acquisition and participation
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper reports that the Trialogical Approach emerged in response to the distinction between acquisition and participation metaphors of learning, with the University of Helsinki group arguing that a third basic metaphor of learning should be defined to account for societal change, new technology, and the pressure to deliberately create new knowledge. This knowledge-creation metaphor aims to understand how people organise their collaborative learning processes and incorporates the means they use to create and develop a concrete entity together, which might be a process, a practice, an artefact or an idea made explicit. The Trialogical Approach builds on this metaphor, which in KP-Lab operates as an umbrella framework emphasising commonalities between different approaches.

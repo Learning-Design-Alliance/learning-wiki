@@ -16,6 +16,7 @@ sources:
 # Episodic Context Account of Retrieval-Based Learning
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Proposed by Karpicke et al. (2014b), this account rests on four assumptions: people encode items with their temporal context, reinstate that context during retrieval, and "when an item is successfully retrieved, the context representation associated with that item is updated" with study and test context features, aiding later recovery. It draws on the search of associative memory and temporal context models.

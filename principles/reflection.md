@@ -12,6 +12,7 @@ generated:
 # Reflection
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 2 of 2 report an effect size
 
 ## Description
 Reflection is the principle of deliberately examining one's experience, reasoning, performance, or progress in order to extract lessons and guide future action. It is most valuable when it is tied to decisions, evidence, or revision rather than open-ended rumination.

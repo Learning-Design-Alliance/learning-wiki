@@ -17,6 +17,7 @@ sources:
 # Grasha-Riechmann Learning Style Inventory (Turkish adaptation) as the study's learning style measure
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The study used the Grasha-Riechmann Learning Style Inventory, a 60-item five-point Likert scale adapted by Sarıtaş and Süral (2010) with six dimensions of ten items each, with a printed Cronbach Alpha of .802. The article describes it as "a social interaction scale" positioning styles as independent-dependent, avoidant-participant, and collaborative-competitive on three major lines, each representing two opposite directions. Styles are scored at low, medium, and high levels using printed cut-off ranges (Table 2).

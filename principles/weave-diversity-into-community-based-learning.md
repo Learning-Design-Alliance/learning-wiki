@@ -17,6 +17,7 @@ sources:
 # Weave exploration of diversity into all types of community-based learning, which was associated with higher civic competence outcomes
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because exploration of diversity was associated with all civic competence outcomes and showed one of the strongest correlations with the construct (r = .552) in this observational survey study, the article recommends that "diversity should be creatively woven into all types of community-based learning to enhance civic competence." It further argues critical pedagogy is necessary to create space for dialogue around issues of privilege and difference and to challenge systems of oppression.

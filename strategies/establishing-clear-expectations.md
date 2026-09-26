@@ -12,6 +12,7 @@ generated:
 # Establishing Clear Expectations
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 7 claims (3 for, 2 mixed, 2 against) · 17 studies, `q2`–`q4` · 7 of 17 report an effect size · 1 claim rests on one study
 
 ## Description
 Establishing clear expectations means making learning goals, performance criteria, procedural requirements, and behavioral norms explicit and visible to learners before and during instruction. It is carried out through tools such as rubrics, exemplars, advance organizers, stated objectives, and modeled norms — so that learners can direct their effort toward the intended outcomes rather than guessing at them.

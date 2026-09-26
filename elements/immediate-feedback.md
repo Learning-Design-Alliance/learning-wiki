@@ -17,6 +17,7 @@ sources:
 # Immediate Feedback
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Immediate feedback is the element in which response information is delivered close to the learner's action so it can still shape the next step. This page captures the element-level implementation of the broader immediate-feedback principle.

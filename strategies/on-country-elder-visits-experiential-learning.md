@@ -17,6 +17,7 @@ sources:
 # On-country visits where students interact with Aboriginal Elders as experiential learning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A specific teaching practice at Woolyungah takes students "out of the university domain and into Indigenous domains": on-country visits where students interact with Aboriginal Elders. The paper describes these as "powerful learning experiences" that acknowledge Elders' expertise, teach what cannot be taught in classrooms, and bring together theory and practice through direct interaction with members of another culture.

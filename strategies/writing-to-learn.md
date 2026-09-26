@@ -12,6 +12,7 @@ generated:
 # Writing To Learn
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 4 studies, `q2`–`q4` · 2 of 4 report an effect size
 
 ## Description
 Writing to learn (WTL) uses writing as a vehicle for sense-making rather than as an assessment product. Learners write short, exploratory, typically low-stakes pieces — summaries, micro-essays, reflective responses, concept explanations — that force them to retrieve, organize, and articulate course content in their own words. The genre emphasis is on thinking (explaining, questioning, connecting) rather than on prose quality, and the writing is usually informal, ungraded or lightly graded, and integrated into content instruction.

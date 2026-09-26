@@ -16,6 +16,7 @@ sources:
 # Architectonics: the philosophical tradition of building and relating meaning, knowledge, and experience
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Architectonics is presented as a concept permeating the Western philosophical tradition, defined by Holquist as "the science of relations" and by the article as "a means of contemplating the various ways that we build and relate meaning, knowledge, and experiences in all aspects of life, especially in education." The article uses it as the master framework within which constructivist learning theories, including connectivism, are rooted. Kant's system-building, Peirce's continuity, Bakhtin's dialogism, Kristeva's intertextuality, and Nelson's hypertextuality are all treated as iterations of this one architectonic system of ideas.

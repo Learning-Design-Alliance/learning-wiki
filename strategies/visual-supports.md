@@ -12,6 +12,7 @@ generated:
 # Visual Supports
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 12 studies, `q2`–`q4` · 8 of 12 report an effect size · 1 claim rests on one study
 
 ## Description
 Visual supports are images, diagrams, graphic organizers, illustrations, and spatial layouts used to represent information alongside or instead of verbal text. They work by leveraging the visual processing channel — pairing words with pictures so learners can distribute processing across two input channels rather than one.

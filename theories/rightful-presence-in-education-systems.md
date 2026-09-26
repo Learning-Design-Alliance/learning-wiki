@@ -15,6 +15,7 @@ sources:
 # Rightful presence in education systems: a framework for building equity and justice at the systems level
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The brief defines rightful presence as a systems-level extension of a concept from sanctuary-city scholarship, reimagined for classrooms by Calabrese Barton and Tan and extended to education systems by SWIFT Education Center as "a foundation for building equity and justice for students, families, and communities who often experience the inequities in the current system." It holds that rightful presence lives in schools when previously excluded students, families, and communities experience belonging while holding power to shape policy and practice decisions.

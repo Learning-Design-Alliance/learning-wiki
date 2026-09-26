@@ -12,6 +12,7 @@ generated:
 # Gestures
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
 
 ## Description
 Gestures are physical movements — typically of the hands or arms — used to communicate meaning, direct attention, or support learning. They include deictic (pointing) gestures that index referents, iconic gestures that depict concepts or actions, and conventionalized signals (hand signals, signs) used for classroom routines. Gesture complements speech by packaging meaning in a second, spatial-motor channel, and research shows learners are more accurate in counting when they point to each item [~S]. Because gesture is grounded in action, it often carries knowledge that learners cannot yet verbalize, making it both a teaching tool and a diagnostic window into emerging understanding.

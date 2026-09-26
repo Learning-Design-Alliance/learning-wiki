@@ -17,6 +17,7 @@ sources:
 # Fit change-score versus pretest-score data with α and γ process models to diagnose learning processes and distinguish student ability from instruction impact
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends fitting empirical pre-post change-score data with the theoretical learning curves (α-process straight lines and γ-process logistic curves, alone or combined via Eq. 21/22) to estimate parameters relevant to student learning. A linear change-score relation indicates a predominant α-process with constant α and zero gain–pretest correlation, while a curving-down pattern at low pretest scores suggests γ-type processes or non-constant α. Variable control using additional measures such as reasoning tests or GPA allows separating student ability from instructional effectiveness.

@@ -16,6 +16,7 @@ sources:
 # Stages of Concern About the Innovation: a seven-stage developmental taxonomy of individuals' concerns
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Stages of Concern (SoC) framework, one dimension of the Concerns-Based Adoption Model, classifies the concerns a person may have about involvement with an innovation into seven ordered stages. As the paper states, "Seven Stages of Concern (SoC) a person might have about his/her involvement with an innovation were identified (see Figure 1)": 0 Awareness, 1 Informational, 2 Personal, 3 Management, 4 Consequence, 5 Collaboration, and 6 Refocusing. The stages incorporate Fuller's three levels of self, task, and impact concerns, and cover the span "from little awareness of the innovation, to initial use, to experienced use, and on to consideration of replacement." Change facilitators use the taxonomy to diagnose where individuals stand and to time staff development accordingly.

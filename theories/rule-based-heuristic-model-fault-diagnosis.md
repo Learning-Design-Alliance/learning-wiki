@@ -16,6 +16,7 @@ sources:
 # Rule-based model of fault diagnosis as selection among ordered rules-of-thumb
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes that fault diagnosis involves "the use ofaset of rules-of-thumb (orheuristics)from which the human selects, using some type of priority structure." Based on Experiments Three, Five, and Six, an ordered set of twelve rules described Task One performance, matching subjects' tests 89% of the time, rising to 94% with a looser set of four rules; five rules gave a 38% match for Task Two. Rule rank ordering was affected by whether training was aided or unaided.

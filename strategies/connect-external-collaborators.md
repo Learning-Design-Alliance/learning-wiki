@@ -17,6 +17,7 @@ sources:
 # Connect learners with external collaborators
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Teachers make connections with keypals on the network or local volunteers in the school district, then act as learning supporters to encourage collaborative learning around those connections. The article recommends this to extend collaboration beyond the classroom in multimedia production projects.

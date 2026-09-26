@@ -17,6 +17,7 @@ sources:
 # Sequence concrete, observation-based content first and gradually increase hypothetical and theoretical content as reasoning develops
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors propose reordering the traditional conceptual physics sequence, which typically begins with mechanics (motion, force, energy) — the most theoretical and hardest content for this population. Instead, courses should start with content having directly observable exemplars, such as circuits and optics, paired with explicit reasoning instruction, then "Gradually increasing the amount of hypothetical and theoretical content as reasoning develops could build student confidence in handling physics while better preparing them for theoretical content."

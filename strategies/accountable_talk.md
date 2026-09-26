@@ -12,6 +12,7 @@ generated:
 # Accountable Talk
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q4` · 3 of 4 report an effect size
 
 ## Description
 Accountable Talk is a framework for academically productive classroom conversation developed at the University of Pittsburgh's Institute for Learning. It holds talk accountable to three things: the **learning community** (responding to and building on others' contributions), **accurate knowledge** (getting facts and reasoning right), and **rigorous thinking** (using evidence and valid reasoning). Teachers establish talk norms, model moves such as revoicing and probing, and press students to explain, justify, and challenge claims rather than simply answer.

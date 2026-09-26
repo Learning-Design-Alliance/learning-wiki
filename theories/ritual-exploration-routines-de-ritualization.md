@@ -16,6 +16,7 @@ sources:
 # Ritual versus exploration routines and the process of de-ritualization
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Drawing on Lavie et al. (2019), the paper describes routines as repetitive patterns operationalized as task-procedure pairs, classified into practical and discursive routines. Discursive routines split into ritual routines, which are process-oriented, performed for social approval or avoiding punishment, and exploration routines, which are outcome-oriented and aimed at producing and endorsing a narrative with intrinsic motivation. The transformation of ritual into exploration routines is defined as de-ritualization, which can proceed vertically or horizontally and can be "gradual and slow". The paper argues this dyad is underexplored at university level, where most prior work focused on school mathematics.

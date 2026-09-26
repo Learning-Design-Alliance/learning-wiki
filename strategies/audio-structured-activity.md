@@ -12,6 +12,7 @@ generated:
 # Audio + Structured Activity
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 mixed, 1 unmarked) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Students engage with audio resources — podcasts, voice-recorded lectures, music, or dramatized audio — paired with a structured activity that requires them to process, apply, or respond to what they hear. The activity converts passive listening into active engagement: note-taking against a prompt, answering embedded questions, annotating a transcript, or applying the content to a task. Audio is also a low-bandwidth, low-cost medium, making it more accessible than video for learners with limited connectivity.

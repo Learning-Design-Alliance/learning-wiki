@@ -12,6 +12,7 @@ generated:
 # Ongoing Feedback
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 5 studies, `q2`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Ongoing feedback delivers feedback at multiple points during the writing process — planning, drafting, and revising — rather than only on the final product. Teachers may focus feedback on specific sections or stages, students may proactively request comments using digital tools such as Google Docs or Kaizena, and self-guiding stations with prompting questions let students progress independently while the teacher confers with small groups. The defining feature is that feedback arrives while revision is still possible, so it functions as instruction rather than evaluation.

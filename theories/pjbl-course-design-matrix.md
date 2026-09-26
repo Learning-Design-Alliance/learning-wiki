@@ -15,6 +15,7 @@ sources:
 # Course design matrix for project-based pedagogies: two spectrums, four quadrants
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article proposes a 2x2 matrix for describing variations in project-based course design. One axis is the course structure spectrum, ranging from Fixed (faculty make most decisions about goals, assignments, tasks, timetables, and assessment criteria) to Flexible (students make many of these choices); the other is the interpersonal work style spectrum, ranging from Individualistic to Cooperative. As the authors state, "we named one axis the 'course structure spectrum,' with endpoints called 'Fixed' and 'Flexible,' and the other the 'interpersonal work style spectrum,' with endpoints called 'Individualistic' and 'Cooperative.'" The matrix was derived inductively via the constant comparative method from syllabi, faculty interviews, and student reflections, and resembles Mascolo's (2009) foursquare matrix of teaching and learning modes.

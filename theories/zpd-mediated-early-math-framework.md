@@ -16,6 +16,7 @@ sources:
 # Vygotskian social-constructivist framework: mediated learning within the zone of proximal development guides preschool mathematical learning
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article adopts Vygotsky's social-constructivist theory, in which "learning is more likely to occur if adults or older children mediate young children's learning experiences." Learning happens in the zone of proximal development, the distance between independent and "maximally assisted" problem-solving. The teacher provides scaffold assistance, continually modifying tasks to give appropriate challenge and adjusting support to fit the child's performance level. Laura applies this by planning materials and interactions within each child's ZPD for correspondence, classification, and seriation.

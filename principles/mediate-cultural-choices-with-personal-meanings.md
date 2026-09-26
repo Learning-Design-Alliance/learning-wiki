@@ -17,6 +17,7 @@ sources:
 # Mediate culturally established choices in mathematics education with preservice teachers' personal meanings to create a powerful context for examining mathematical philosophies
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article concludes that neither acknowledging choices among culturally established pedagogical perspectives nor experiencing alternative pedagogical practices alone suffices for preservice teachers to examine their mathematical philosophies. Instead, the mediation of both the culturally established choices in mathematics education and the personal meanings attributed to alternative perspectives through experience provides a powerful context for instructing preservice teachers. This follows Green's (1971) idea that instruction, unlike indoctrination, provides opportunities to radically examine belief systems through self-examination and reflection.

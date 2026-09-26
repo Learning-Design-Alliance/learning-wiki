@@ -16,6 +16,7 @@ sources:
 # Crucible courses: intermediate courses combining a large ADK jump with enculturation that accelerate trajectories toward central participation in a discipline's community of practice
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors introduce "crucible courses" as "the ﬁrst courses in which students work on diﬃcult physics problems surrounded primarily by other physics students, are treated by their professors as junior physicists, and take on identities as part of a community of physics students". These courses are typically intermediate level, have smaller enrollments, foster community, and carry substantially higher expectations and perceived stakes. The AdLab course is offered as a possible example, combining a jump in accountable disciplinary knowledge with enculturation elements that let students accelerate their trajectory toward central participation in the physicists' community of practice.

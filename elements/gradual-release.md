@@ -12,6 +12,7 @@ generated:
 # Gradual Release
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Gradual release is the element in which responsibility for performance shifts from teacher or system to learner across stages of modeling, guided practice, and independent work. It is useful when learners need structured support that is intentionally reduced.

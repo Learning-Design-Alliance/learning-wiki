@@ -16,6 +16,7 @@ sources:
 # Heuristic-based decision-making account of how stigmatizing labels shape public judgments
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article frames label effects through cognitive heuristics: "Stigmatizing labels are thought to lead to heuristically based decision-making. A heuristic is a cognitive shortcut that enables quick, intuitive judgments based on past associations." It names three mechanisms: the availability heuristic (media-driven associations between 'sex offender' and a violent, predatory stereotype), the representativeness heuristic (judgments based on resemblance to prior experiences, sustaining the myth of homogeneity), and the affect heuristic (fear or disgust elicited by the label). Person-first language is intended to obstruct these snap judgments and allow more informed, neutral decisions.

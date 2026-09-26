@@ -16,6 +16,7 @@ sources:
 # Fuzzy time series and its first-order time-invariant model
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article defines a fuzzy time series as a sequence of fuzzy sets F(t) defined on the universe of a conventional time series Y(t). A first-order model expresses the relation "F(t-1)-->F(t)" as F(t)=F(t-1)∘R(t,t-1), where R(t,t-1) is a fuzzy relationship; the series is time-invariant when R is independent of t. Theorem 2 gives a matrix formula for computing R from historical fuzzy-set transitions, which the authors use to build the enrollment forecasting model via fuzzy logical reasoning.

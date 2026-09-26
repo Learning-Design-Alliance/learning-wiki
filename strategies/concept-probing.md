@@ -12,6 +12,7 @@ generated:
 # Concept Probing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 9 studies, `q2`–`q4` · 4 of 9 report an effect size
 
 ## Description
 Concept probing is the deliberate use of targeted questions, prediction tasks, and short diagnostic items to elicit what learners currently believe about a concept — including partial understandings and misconceptions — before formal instruction begins or as new material is introduced. The instructor's goal is not to assess for grades but to make prior conceptions visible so instruction can build on, challenge, or restructure them.

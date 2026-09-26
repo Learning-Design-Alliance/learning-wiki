@@ -12,6 +12,7 @@ generated:
 # Pre-reading: Skim a Book Systematically
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Skimming or pre-reading a book is a structured survey of its surface features — title page, preface, table of contents, index, publisher's blurb — followed by selective dipping into pivotal chapters for summary statements and topic sentences. The goal is not comprehension of content but construction of a structural map: what the book covers, how it is organized, and whether it warrants a careful full reading. The procedure, codified for general readers by Adler and Van Doren (1972), typically takes minutes to an hour rather than the hours a full reading requires.

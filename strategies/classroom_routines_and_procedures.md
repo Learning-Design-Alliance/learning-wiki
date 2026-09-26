@@ -12,6 +12,7 @@ generated:
 # Classroom Routines and Procedures
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 against) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size
 
 ## Description
 Classroom routines and procedures are explicitly taught, repeatedly rehearsed patterns for recurring activities — entering the room, distributing materials, transitioning between tasks, seeking help, submitting work. Once automated, they run with minimal teacher direction, converting potential management moments into instructional time and reducing the working-memory and self-regulatory demands on students.

@@ -16,6 +16,7 @@ sources:
 # Hanvey's five-dimension framework for an attainable global perspective
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The essay organizes a global perspective into five dimensions: perspective consciousness, state-of-the-planet awareness, cross-cultural awareness, knowledge of global dynamics, and awareness of human choices. It defines the goal modestly, as capacities young people "might actually he able to acquire in the course of their for- mal and informal education." The framework treats global perspective as a blend of elements distributed across a population rather than a uniform individual attainment.

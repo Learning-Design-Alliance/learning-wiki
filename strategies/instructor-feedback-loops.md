@@ -12,6 +12,7 @@ generated:
 # Instructor Feedback Loops
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 6 studies, `q2`–`q3` · 2 of 6 report an effect size
 
 ## Description
 An instructor feedback loop is a recurring cycle: the instructor elicits evidence of learning (a check, draft, or performance), interprets it against learning goals, delivers feedback that specifies the gap and how to close it, and then adjusts instruction while learners revise or retry. The loop — not the feedback message alone — is the unit of design; feedback only improves achievement when learners have an opportunity to act on it and the instructor responds to what the evidence shows.

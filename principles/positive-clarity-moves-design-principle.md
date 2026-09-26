@@ -17,6 +17,7 @@ sources:
 # Design lessons with frequent positive clarity moves and avoid vagueness terms and mazes
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Instructional clarity is "a cluster of instructor behaviors that contains an appropriate use of keys, links, framing statements, focusing and examples... and avoids vagueness terms and mazes." The article recommends instructors "provide frequent (18 per page of script) keys, links, focusing, framing, and examples in their presentations" and avoid vague terms and mazes, because the frequency of these moves predicted achievement across defining, identifying, and applying concepts, and clarity accounted for roughly half of score variance.

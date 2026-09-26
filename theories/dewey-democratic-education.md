@@ -16,6 +16,7 @@ sources:
 # Dewey's democratic education
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article grounds its egalitarian program-design argument in Dewey's democratic education, quoting Democracy and Education on "that type of education which gives individuals a personal interest in social relationships and" shared inquiry. The framework holds that "An open exchange of information and ideas is both a hallmark of a democratic society" and a driver of institutional readjustment. The authors use it to justify permeating egalitarianism through graduate leadership program design.

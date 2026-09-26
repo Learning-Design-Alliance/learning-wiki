@@ -12,6 +12,7 @@ generated:
 # Goal Setting With Learners
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
 
 ## Description
 Goal setting with learners is the practice of jointly establishing specific, measurable, and appropriately challenging targets for learning, rather than imposing them unilaterally. Goals may be set for a lesson, unit, or longer arc, and are most effective when learners participate in defining them, monitor progress toward them, and revise them based on feedback. The strategy converts diffuse intentions ("get better at writing") into concrete commitments ("write a five-paragraph essay with a clear thesis by Friday").

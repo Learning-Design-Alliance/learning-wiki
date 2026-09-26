@@ -17,6 +17,7 @@ sources:
 # Mask the reinforcement learning policy's action space to a zone-of-proximal-development difficulty band (success probability 0.4–0.8)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The adaptive training component treats content sequencing as a sequential decision problem solved with Proximal Policy Optimization. To formalize the zone of proximal development, content whose estimated success probability falls outside 0.4–0.8 is excluded: "Content falling outside this range is masked from the policy’s action space during training and inference, ensuring that the RL agent can only recommend activities within a pedagogically meaningful difficulty band." The reward combines diagnostic score improvement, task completion rate, and time-on-task efficiency.

@@ -16,6 +16,7 @@ sources:
 # Between-student testing and the response curve as a method for revealing the dynamics of student understanding
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The between-student method, first used in physics by Sayre and Heckler, gives short conceptual quizzes to different sub-groups of the population in successive weeks, avoiding test-retest effects. Plotting average performance over weeks yields a "response curve" sensitive to the current topic of instruction and to exams or homework. The conventional pre/post test corresponds to only the first and last points on the curve and "can miss much of the dynamic evolution of understanding."

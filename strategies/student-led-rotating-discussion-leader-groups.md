@@ -17,6 +17,7 @@ sources:
 # Implement student-led weekly discussion groups in which rotating leaders choose topics, facilitate discussion, and post summaries, unmediated by teaching staff
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 In the redesigned unit, discussion groups of about 10 students met weekly; each week a nominated leader "explored relevant literature, posed questions for the group to explore, and provided their own initial response", then facilitated across the week and posted a summary and conclusion. Groups were not mediated by teaching staff; students managed their own processes. Leaders were assessed at week's end and each student assessed three times across 10 weeks, with formative feedback after each assessment.

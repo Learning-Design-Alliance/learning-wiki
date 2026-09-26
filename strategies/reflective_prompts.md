@@ -12,6 +12,7 @@ generated:
 # Reflective Prompts
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Reflective prompts are structured questions posed at the end of a lesson, upon submission of major work, or at milestones within a project. They direct learners to articulate what they learned, what strategies worked, what they would do differently, and what questions remain. By requiring learners to generate responses rather than select them, prompts trigger the self-explanation and self-monitoring processes that turn raw experience into transferable understanding.

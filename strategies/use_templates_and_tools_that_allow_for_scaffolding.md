@@ -12,6 +12,7 @@ generated:
 # Use Templates and Tools That Allow for Scaffolding
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 11 studies, `q3`–`q4` · 11 of 11 report an effect size
 
 ## Description
 This strategy provides learners with structured supports — planning templates, graphic organizers, sentence frames, and structured tools — that externalize the organization of a complex task such as writing. The supports reduce the cognitive demands of managing structure and content simultaneously, and are progressively faded as learners internalize the underlying organizational schema.

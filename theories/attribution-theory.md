@@ -11,6 +11,7 @@ generated:
 # Attribution Theory
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Attribution Theory (Weiner, 1986) holds that people try to explain the causes of their own successes and failures — attributing an outcome to ability, effort, luck, task difficulty, mood, fatigue, and so on — and that it is the *perceived* cause, whether or not it is the actual cause, that drives subsequent motivation and behavior (Park, 2018). Weiner (2010) classifies these attributions along three independent dimensions:

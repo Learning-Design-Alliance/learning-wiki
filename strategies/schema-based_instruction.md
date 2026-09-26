@@ -12,6 +12,7 @@ generated:
 # Schema-Based Instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies, `q3`–`q4` · 7 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Schema-based instruction teaches learners to recognize and reason about the underlying structure of problems — the relational schema (e.g., change, group, compare, restatement in arithmetic word problems) — rather than relying on surface features or isolated keywords. Learners are explicitly taught to classify a problem by its schema, represent its relationships in a diagram or equation, and then apply the solution strategy associated with that schema. The approach originated in special education and mathematics education research and is now used across domains where problems share identifiable deep structures.

@@ -16,6 +16,7 @@ sources:
 # Earth Science logical reasoning framework: logical inference, hermeneutics, and historical method
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article adopts a three-part framework of Earth Science methodology as an analytic tool for coding curriculum inquiry tasks. As the authors state, "The methodology of Earth Science study is divided into logical inference, hermeneutics, and historical method." Logical inference includes inductive, deductive, and abductive reasoning; hermeneutics includes recursive reasoning, forestructures of understanding, and the historical nature of human understanding; the historical method includes uniformitarianism, place substituting for time in stage theorizing, relic interpretation, constructing proper taxonomies, and evaluating independent lines of inquiry for convergence. The framework reflects the discipline's reliance on retrodiction and reasoning across deep time and abyssal space where direct experimentation is impossible.

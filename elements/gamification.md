@@ -12,6 +12,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.

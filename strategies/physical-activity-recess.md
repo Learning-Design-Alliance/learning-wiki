@@ -12,6 +12,7 @@ generated:
 # Physical Activity & Recess
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 Physical activity and recess strategies embed movement into the school day rather than treating it as time taken from instruction. Forms include scheduled recess, short classroom movement breaks (e.g., "Energizers"), physically active academic lessons, and active transitions. The rationale is bidirectional: activity supports the attentional and executive systems that learning depends on, and active formats can deliver academic content directly.

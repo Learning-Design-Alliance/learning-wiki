@@ -17,6 +17,7 @@ sources:
 # tf-idf term-weighting scheme from information retrieval
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 tf-idf is a composite weighting scheme from information retrieval that combines a term's frequency within a document with its inverse document frequency across the collection, formalized as tf(t,d) times idf(t,D). The chapter states that "tf-idf selects for terms that occur many times in a small number of documents, penalizing terms that occur only a few times in a document, or that occur in many documents." It is used to identify effective keywords and provides the feature space for distributional models such as latent semantic indexing and Bayesian topic models, illustrating that context-sensitive dispersion measures are useful for retrieval systems and, by analogy, for understanding human lexical organization.

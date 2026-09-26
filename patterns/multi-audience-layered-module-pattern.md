@@ -17,6 +17,7 @@ sources:
 # Multi-audience interactive module pattern: layered explanatory text plus parameter-adjustable simulation
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The student modules share a reusable design: an interactive simulation whose physical parameters users can adjust, accompanied by explanatory text layered for different audiences. In the Ting module, "two versions of the detailed explanatory text ... are available for diﬀerent audiences, 1) the general public and 2) undergraduate and graduate students in astronomy." This supports inquiry-based exploration by individuals, group classroom discussion, and use by researchers, with hyperlinks to more advanced material for higher-level learners.

@@ -17,6 +17,7 @@ sources:
 # Foster communities of practice for AI governance instead of rigid top-down policies
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that universities move away from rigid, top-down AI policies and instead foster "communities of practice," collaborative spaces where faculty, staff, and students navigate AI implementation together. Three actionable recommendations are given: centering pedagogy and care over punitive approaches, sustaining leadership through relational peer-support networks, and building equitable infrastructure and policy with living, iterative guidelines. The approach is framed as a decolonial shift from universalizing mandates to contextually situated ways of governing technology.

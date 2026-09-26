@@ -12,6 +12,7 @@ generated:
 # Calming Movement Breaks
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
 
 ## Description
 Calming movement breaks integrate repetitive, rhythmic vestibular input — rocking, swaying, gentle swinging, slow stretching — into the learning environment to help learners down-regulate when overstimulated, anxious, or emotionally dysregulated. They are typically implemented through dedicated equipment (rocking chairs, exercise balls, lycra swings) or brief structured movement routines embedded in the schedule, and are distinguished from energizing movement breaks by their slow, predictable, rhythmic quality.

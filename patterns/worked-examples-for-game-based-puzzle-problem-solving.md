@@ -17,6 +17,7 @@ sources:
 # Before-the-problem complete worked examples for a game-based puzzle task
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study, `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 A worked example intervention inserted between two rounds of a commercial computer puzzle game. The article argues "The design or structure of work ed examples plays an important role in their effectiveness" and lists six design dimensions; its own examples were "being given before the problem", "being complete", "not including fading procedure", "using integrated text and diagrams", "using visual-visual instruction", and "using steps". Players studied them after a first game session and before a second.

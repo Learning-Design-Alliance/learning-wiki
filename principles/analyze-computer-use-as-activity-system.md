@@ -17,6 +17,7 @@ sources:
 # Analyze computer use as a whole activity system, explicitly identifying contradictions to guide redesign
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper recommends using activity theory to analyze specific systems rather than only applying it abstractly: while activity theory is descriptive, not prescriptive, it has been used for both analysis and diagnosis, and the results of such an analysis can be used to consciously re-design the activity system. Explicitly identifying contradictions within a system can lead to positive changes, since tensions and disturbances are treated as the engine of change. The paper cautions that what constitutes a better activity system is always open to debate, involving individual and societal goals as much as capabilities of people and tools.

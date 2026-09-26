@@ -17,6 +17,7 @@ sources:
 # Organize schools into educational clusters where older students teach younger ones to break the linearity of the system
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 In her 1971 interview, Mead proposed educational clusters placing day-care centers, kindergartens, elementary schools, junior and senior high schools, and community colleges close together so different age groups can move back and forth and "the older students teach the young ones." The report notes Mead drew on Urie Bronfenbrenner's observations in the Soviet Union of paired classes in which older children look after younger ones, so that students being taught are also teaching, breaking the linearity of the system.

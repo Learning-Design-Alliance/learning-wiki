@@ -17,6 +17,7 @@ sources:
 # Use backward design: define process, attitudinal, and content goals before designing the inquiry activity
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends designing inquiry activities by specifying goals first and then building the activity to convey them. The authors state: "We approached the design of this inquiry using backward design (Wiggins & McTighe 2005) in which scientific process, attitudinal, and content goals are defined first." For their venues, process and attitudinal goals were prioritized over content goals, and the same materials could be reused for different content goals.

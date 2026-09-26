@@ -12,6 +12,7 @@ generated:
 # Express Confidence in Learners
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 0 of 2 report an effect size
 
 ## Description
 Expressing confidence in learners means directly telling them that they have the ability to do well — voicing belief in their capacity to handle difficult assignments, improve their performance, or change their behavior. It is the verbal counterpart of communicating positive expectations: the instructor's stated confidence becomes a signal learners internalize and often work to justify.

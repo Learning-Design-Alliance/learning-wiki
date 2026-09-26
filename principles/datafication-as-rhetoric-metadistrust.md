@@ -17,6 +17,7 @@ sources:
 # Treat datafication as one form of rhetoric and practice metadistrust toward data-based arguments
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article argues, citing McQuillan, that "Datafication itself is a rhetorical move, because it is saying that the important aspects of reality are ones that can be expressed as data." Reframing datafication as rhetoric among many pulls it away from the false trappings of scientism, since data benefits from argumentative injustice when wrapped in false objectivity. The recommended practice is Bondy's metadistrust: self-doubt regarding initial credibility judgements, which slows the temptation to assume a claim's infallibility because of its claimant and helps expose Big Data's tendency toward apophenia.

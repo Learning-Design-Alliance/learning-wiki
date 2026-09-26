@@ -14,6 +14,7 @@ grain_size: lesson
 # Game-Based Mastery Learning (Duolingo Pattern)
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 This page is the short-form canonical target for Duolingo-style game-based mastery learning, where frequent practice, progression gates, feedback, and motivational signals are combined in a mastery sequence.

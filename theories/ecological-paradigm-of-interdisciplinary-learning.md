@@ -16,6 +16,7 @@ sources:
 # Ecological Paradigm of Interdisciplinary Learning
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 unmarked) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The ecological paradigm contrasts with the field's dominant **cognitivist paradigm** of interdisciplinary learning (IDL) research, in which success is measured by an individual's cognitive integration of disciplinary insights (groundedness, integration, reflectiveness — Boix Mansilla & Duraisingh's three dimensions). The ecological paradigm instead studies IDL as a **group-level, socio-material process**: learners are treated as agents who interact with peers, artifacts, communities, institutions, and — depending on the activity — the natural environment, and success is measured by the interdisciplinary *practices* a group develops (epistemic practices, identity development, authentic research productivity), not only by what settles in an individual mind afterward.

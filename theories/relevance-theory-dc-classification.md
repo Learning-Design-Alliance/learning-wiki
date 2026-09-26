@@ -16,6 +16,7 @@ sources:
 # Relevance-theoretic three-type, eleven-subtype classification of discourse connectives by contextual effect
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article adopts a relevance-theory framework (Sperber & Wilson, 1995; Blakemore) in which DCs encode procedural meaning that constrains the reader's inferential context. Under this account, DCs "impose constraints on relevance by virtue of the inferential connections they express" and "encode instructions for processing propositional representations". The study operationalises this by classifying 80 selected DCs into three types based on contextual effect — strengthening an assumption, contradicting an assumption, and making contextual implication — and further into 11 semantic subtypes (additive, enumerating, apposition, adversative, concessive, alternative, corroborative, contrastive, causal, resultive, summation), which structure the corpus comparison.

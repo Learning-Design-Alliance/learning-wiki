@@ -17,6 +17,7 @@ sources:
 # State policy actions across the career continuum: attract, prepare, and develop/support/retain educators
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The document enumerates concrete state policy actions organized in three sections with numbered components and subcomponents describing practices used by states and districts. Attract strategies include grow-your-own programs, university-district partnerships, licensure reciprocity, and career path approaches; prepare strategies include aligned certification standards and program approval; develop/support/retain strategies include comprehensive induction, job-embedded professional learning, tiered licensure, competitive compensation, and working-conditions supports. Components were identified based on research summarized in the Educator Talent Management Framework (Meyer, Nelson, & Mann, 2019) and created with content experts.

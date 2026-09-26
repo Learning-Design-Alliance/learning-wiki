@@ -16,6 +16,7 @@ sources:
 # Digital learning: the integrated educational approach combining technology, connectivity, content and human resources
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report defines digital learning as "the educational approach that integrates technology, connectivity, content and human resources." It argues that addressing hardware, connectivity, content and people separately is less effective than seamless integration throughout the curriculum, and that when implemented correctly digital learning builds on the dynamic characteristics of digital content to create productive, engaging, student-centered learning environments. The report uses this framework to organize its recommendations, arguing schools must shift to digital learning environments to develop 21st century skills.

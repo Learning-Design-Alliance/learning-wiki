@@ -12,6 +12,7 @@ generated:
 # Home-Based Literacy Support
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 unmarked) · 7 studies, `q1`–`q4` · 6 of 7 report an effect size
 
 ## Description
 Home-based literacy support is a strategy in which schools equip families with the materials, routines, and instructional guidance needed to reinforce reading and writing development outside the classroom. It typically combines structured activities (shared book reading, word games, guided home reading), parent coaching on *how* to interact productively, and ongoing communication between teachers and families about the child's current reading level and goals.

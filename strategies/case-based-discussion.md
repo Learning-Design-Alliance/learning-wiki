@@ -12,6 +12,7 @@ generated:
 # Case Based Discussion
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q4` · 1 of 4 report an effect size
 
 ## Description
 Case based discussion places learners in front of a rich, authentic case — a patient history, a business dilemma, a legal dispute, an engineering failure — and asks them to analyze it aloud together, typically in a facilitated small-group or seminar format. The instructor acts as discussion leader rather than lecturer, probing reasoning, surfacing assumptions, and withholding the "answer" until learners have committed to and defended a position. It is the interactive core of [Case Studies](../elements/case-studies.md), distinct from merely reading or being told about a case.

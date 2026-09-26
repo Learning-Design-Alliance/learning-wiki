@@ -12,6 +12,7 @@ generated:
 # Critique Protocols
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 6 claims (5 for, 1 against) · 14 studies, `q2`–`q4` · 4 of 14 report an effect size · 1 claim rests on one study
 
 ## Description
 Critique protocols are structured routines — often with prescribed sentence stems, role assignments, and turn-taking rules — through which learners examine one another's drafts or performances and offer feedback. The protocol constrains the interaction so that critique targets the work rather than the person, is specific enough to act on, and follows a predictable sequence (e.g., warm observations, then questions, then suggestions).

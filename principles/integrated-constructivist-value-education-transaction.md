@@ -17,6 +17,7 @@ sources:
 # Integrate value education into regular subject teaching through a constructivist, facilitator role rather than separate lecture classes
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article argues that separate lecture-and-advice oriented value education classes are unnecessary in an integrated, process-based system. It states that "Values can be taught as a fact" (NCERT, 2005) and that "Teachers of any subject can plan transaction of values in the classroom by transacting them through the methods designed in accordance with the processes suggested in the Revised Bloom's Taxonomy." In the constructivist approach the teacher functions as facilitator while students themselves identify and work on values.

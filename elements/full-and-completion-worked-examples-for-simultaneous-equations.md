@@ -17,6 +17,7 @@ sources:
 # Full and completion worked examples for simultaneous-equation algebra
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Two versions of the same worked algebra problems used in the study. "The full- worked examples provided complete solution steps at every level; the completion -worked examples provided partial solution steps by withholding information in the problem solving process". The 12 problems were adapted from a middle school algebra textbook on systems of equations and studied on a computer before practice in a booklet.

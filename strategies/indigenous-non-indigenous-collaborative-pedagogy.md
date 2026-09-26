@@ -17,6 +17,7 @@ sources:
 # Indigenous–non-Indigenous academic collaboration grounded in trust, collegiality and un-learning of Western epistemic authority
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper presents collaboration between Indigenous and non-Indigenous academics as effective pedagogy in practice for reinstituting Indigenous knowledges. It holds that effective interchange requires "a fundamental re-thinking of the w ays in which Western knowledge is institutionally validated and hierarchised", that for non-Indigenous academics "un-learning is crucial", and that collaboration demands "trust and collegiality and respect for both Indigenous and non-Indigenous ways of knowing" — without wholesale deference to all Indigenous viewpoints.

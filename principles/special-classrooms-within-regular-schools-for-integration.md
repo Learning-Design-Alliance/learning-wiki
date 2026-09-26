@@ -17,6 +17,7 @@ sources:
 # Locate special classrooms within regular schools near support spaces to enable integration
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The booklet recommends that special classrooms not be isolated: "Classrooms for emotionally disturbed children belong in schools attended by normal children so that the emotionally disturbed child integrates with a regular class as his behaviour improves." Within the building, the special classroom should sit close to an outside entrance and near the gymnasium, nurse's room, and principal's office, reflecting the areas the children use frequently.

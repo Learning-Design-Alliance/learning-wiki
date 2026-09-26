@@ -12,6 +12,7 @@ generated:
 # Project Management Tools for Group Work
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q2`–`q4` · 6 of 8 report an effect size
 
 ## Description
 Project management tools for group work are shared digital workspaces — boards, task lists, timelines, and communication channels — that make a group's plan, progress, and resources visible to all members and to the instructor. In classrooms, tools such as [Trello](https://trello.com), [Asana](https://asana.com), [Project Pals](https://www.projectpals.com), and [Headrush](https://headrushlearning.com) externalize the coordination work of collaboration: who is doing what, by when, and with what materials.

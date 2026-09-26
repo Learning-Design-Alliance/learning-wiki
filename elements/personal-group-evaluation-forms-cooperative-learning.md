@@ -17,6 +17,7 @@ sources:
 # Personal and group evaluation forms for cooperative learning participation
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The handbook provides two ready-to-use evaluation instruments for cooperative learning activities: a Personal Evaluation Form and a Group Evaluation Form, each with Always/Occasionally/Never rating scales. The personal form covers items such as "I participated in each activity", critically listening to others, respecting others' viewpoints, coming prepared, helping others, remaining open-minded, and taking one's turn without dominating discussion. The group form covers understanding task objectives and procedures, assigning tasks, practicing cooperative social skills, reflecting on group behaviors, checking everyone's understanding, and confidence in completing the task.

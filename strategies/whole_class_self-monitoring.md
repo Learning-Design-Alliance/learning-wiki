@@ -12,6 +12,7 @@ generated:
 # Whole Class Self-Monitoring
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q2`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Whole class self-monitoring involves the entire class participating in self-monitoring techniques, adapted from individual self-monitoring methods. Rather than targeting a few at-risk students, all students periodically rate and record their own behavior (typically on-task behavior or a specific target conduct) in response to a cue, aiming to increase self-control and constructive introspection across the classroom. The approach draws on self-regulated learning theory, in which learners who observe and evaluate their own performance adjust it more effectively [Self-monitoring improves on-task behavior and academic engagement across a wide range of students.](../claims/assessment-for-learning-improves-achievement.md) [+M].

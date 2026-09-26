@@ -12,6 +12,7 @@ generated:
 # Reinforcement Theory
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (3 mixed, 1 against) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Reinforcement theory is the principle of shaping behavior by making desired responses more likely through contingent consequences such as feedback, reward, or progression. It is useful when the design goal is to stabilize specific performance patterns.

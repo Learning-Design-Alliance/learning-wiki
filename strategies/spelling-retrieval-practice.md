@@ -12,6 +12,7 @@ generated:
 # Spelling Retrieval Practice
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q1`–`q2` · 2 of 2 report an effect size
 
 ## Description
 Spelling retrieval practice asks learners to produce the correct spelling of a word from memory — through dictation, spelling tests, fill-from-memory tasks, or self-testing — instead of copying the word or studying it passively. The act of reconstructing the orthographic form strengthens the memory representation that fluent writing depends on. It is the spelling-specific application of the broader [retrieval practice](../principles/retrieval-practice.md) effect, in which attempting to recall information produces more durable learning than re-exposure.

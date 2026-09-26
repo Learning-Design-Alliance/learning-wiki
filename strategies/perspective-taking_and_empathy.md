@@ -12,6 +12,7 @@ generated:
 # Perspective-taking and Empathy
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 Perspective-taking and empathy involve the instructor deliberately considering each student's viewpoint, circumstances, and challenges, and communicating in ways that signal genuine understanding and non-judgment. In practice this means asking about students' interests and backgrounds, listening as if one might be wrong, modeling perspective-taking aloud, and using solution-focused rather than blame-focused problem-solving when difficulties arise.

@@ -16,6 +16,7 @@ sources:
 # Criterion-referenced testing, as defined by Glaser, measures mastery of defined abilities rather than relative standing among test takers
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article presents criterion-referenced testing as an approach to reading evaluation in which the measurement scale is anchored at mastery and absence of defined skills rather than at comparisons with other test takers. As the article states, "In criterion referenced measurement the scale is usually anchored at the extremes--one at the top indicating complete or perfect mastery of some defined abilities; one at the bottom indicating absence of some skills." The framework underpins all the article's recommendations about test construction and instructional use.

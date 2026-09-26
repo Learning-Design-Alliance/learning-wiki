@@ -16,6 +16,7 @@ sources:
 # Levels of Use of the Innovation: eight developmental levels with decision points
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Levels of Use (LoU) is a CBAM diagnostic dimension that "focuses on describing, in operational terms, the behaviors that innovation nonusers and users demonstrate relative to the innovation." Eight levels are operationally defined (0 Nonuse, I Orientation, II Preparation, III Mechanical Use, IVA Routine, IVB Refinement, V Integration, VI Renewal), each separated by a Decision Point, with seven behavior categories (Knowledge, Acquiring Information, Sharing, Assessing, Planning, Status Reporting, Performing) described at each level.

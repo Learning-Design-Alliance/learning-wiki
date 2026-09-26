@@ -12,6 +12,7 @@ generated:
 # Teach Kids to Choose Their Self-Talk
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 This strategy teaches students that self-talk — the silent inner commentary running during everyday life — is observable, classifiable, and choosable. The teacher leads a one-minute silent observation exercise, charts students' reported thoughts, and categorizes them as positive/neutral or negative. The class then contrasts unproductive negative self-talk (repeated self-berating over a mistake) with constructive self-talk (identifying how to address the problem, normalizing mistakes as part of learning), giving students a concrete model for reframing.

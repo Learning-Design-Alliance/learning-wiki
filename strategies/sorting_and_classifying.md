@@ -12,6 +12,7 @@ generated:
 # Sorting and Classifying
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 mixed) · 5 studies, `q3`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Sorting and classifying asks learners to organize a set of items — examples, cases, objects, statements, problems — into categories, either using categories supplied by the instructor or by generating their own categories and justifying them. The cognitive work lies in discriminating which features matter, comparing items against one another, and articulating the criteria that govern membership. It converts passive recognition of examples into active construction of category structure.

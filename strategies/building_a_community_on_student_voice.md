@@ -12,6 +12,7 @@ generated:
 # Building a Community on Student Voice
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
 
 ## Description
 Building a community on student voice involves creating structured, recurring opportunities for students to share and discuss their thoughts, feelings, and ideas, while establishing the psychological safety that makes sharing possible. Teachers use daily [check-ins](../principles/check-ins.md), reflection sheets, sentence stems and word banks, and student-led [class discussion](../elements/class-discussion.md) to surface students' needs and wants, build confidence to speak up, and develop self-advocacy for their own learning.

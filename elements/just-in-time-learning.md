@@ -17,6 +17,7 @@ sources:
 # Just-in-Time Learning
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Just-in-time learning is the element in which information, guidance, or resources are provided at the moment they are needed for the task at hand rather than front-loaded in advance. It is useful when the task context can make support more relevant, memorable, and easier to apply.

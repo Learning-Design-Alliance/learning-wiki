@@ -16,6 +16,7 @@ sources:
 # Dialectical thinking as the system for improving quality of thought
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article defines dialectical thinking as "a way of thinking characterized by a reciprocal interaction of information, precepts, and ideas struggling to be reconciled into clear patterns of thought". The tension between ideas striving to be reconciled is described as "at the core of all sound learning situations". Education's purpose is to let students internalize this intellectual tension and carry on a continuous dialectic within themselves.

@@ -17,6 +17,7 @@ sources:
 # Consider isolated cognitive flexibility practice and later-year timing instead of embedding flexibility practice within phonics activities
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Based on the null embedded-practice results, the authors recommend alternative designs for cognitive flexibility training in early reading intervention. They suggest "it may be more effective to provide isolated practice in cognitive flexibility tasks, such as sorting, as described in Cartwright's (2016, 2019, 2020) interventions, or in the isolated working memory practice described in the training studies mentioned earlier." They also suggest timing may matter: switching practice may work better later in the kindergarten year, once children have developed stable letter associations, and note a longer intervention with more time to consolidate skills may be needed to detect decoding effects.

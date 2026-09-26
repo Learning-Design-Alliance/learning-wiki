@@ -12,6 +12,7 @@ generated:
 # Writing Down Goals
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size
 
 ## Description
 Writing down goals converts vague intentions into explicit, reviewable commitments. The act of articulating a goal in writing forces clarification of what one wants to achieve and why, supports prioritization by making importance and feasibility comparable across goals, and creates a durable artifact that can be revisited, monitored, and revised. In learning contexts, written goals typically specify what will be learned, by when, and by what evidence of success.

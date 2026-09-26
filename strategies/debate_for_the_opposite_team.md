@@ -12,6 +12,7 @@ generated:
 # Debate for the Opposite Team
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3` · 1 of 3 report an effect size
 
 ## Description
 Learners are assigned to argue a position that is opposite to their own, requiring them to see things from a different perspective. Rather than choosing a side, learners must construct the strongest possible case for the view they reject — researching its best evidence, anticipating objections, and defending it against rebuttal. The strategy converts disagreement from a threat into a structured learning task.

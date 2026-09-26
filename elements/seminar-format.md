@@ -12,6 +12,7 @@ generated:
 # Seminar Format
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Seminar format is the element in which learning is organized around sustained discussion of a shared text, question, or issue with facilitator support but strong learner participation. It is useful when interpretation, reasoning, and dialogue are central.

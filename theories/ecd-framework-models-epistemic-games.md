@@ -16,6 +16,7 @@ sources:
 # Evidence-Centered Design framework structures assessment design through student, task, evidence, assembly, and presentation models
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 ECD is a principled assessment design framework that structures the rationales, choices, and consequences of assessment development. The article describes how the framework identifies layers and models: "These models are then glued together by (4) the assembly model and (5) the presentation model that make the assessment deliverable." Domain modeling drives the whole process, laying out the assessment argument in narrative terms before formal models are built. The authors adopt ECD as a natural bridge between the demand for high fidelity of epistemic games and the demand for rich assessment data.

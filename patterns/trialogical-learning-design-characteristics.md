@@ -16,6 +16,7 @@ sources:
 # Seven basic characteristics of trialogical learning processes
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper enumerates seven features that any learning or knowledge creation process following the trialogical approach shows: activities organised around developing shared objects aimed at re-usable artefacts or practices; participant access to information about the evolution of these objects; a collective zone of proximal development greater than the individual's; opportunities to re-produce ideas in texts, models and representations that others can build on; catering for collaboratively and iteratively solving ill-defined/complex problems; integration of face-to-face and virtual activities; and delegating high-level responsibility for knowledge creation to students rather than teachers. These characteristics shape the KP-Lab project, guide its empirical research and technology development, and inform guidelines for others.

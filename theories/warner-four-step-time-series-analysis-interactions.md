@@ -16,6 +16,7 @@ sources:
 # Warner's four-step time-series analysis of behavioral interaction data
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article applies and demonstrates a four-step framework for analyzing behavioral time-series of social interaction, attributed to Warner (1998). The steps describe "(1) the general level and overall coordination, (2) the presence of linear, quadratic and cubic trends in behavior, (3) the coherence and phase in cyclical trends that are superimposed on the linear, quadratic and cubic trends, and (4) the residual fluctuations". The article's aim was to show the added value of examining each step, since overall levels and coordination alone missed patterns such as turn-taking and deep troughs visible in visualizations.

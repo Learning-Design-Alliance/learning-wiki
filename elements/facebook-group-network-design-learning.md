@@ -17,6 +17,7 @@ sources:
 # Student-created Facebook group network as informal learning infrastructure in a design Master's program
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A network of five student-created and managed Facebook groups (three cohort-based, a current years group, and an all years group including alumni) that supported an interaction design Master's program. Groups contained 4,558 status updates, 15,273 comments, and 5,494 likes from 183 participants. The groups were "created and managed entirely by the student population" and later extended to alumni, supporting information sharing, critique, and community-building alongside formal instruction.

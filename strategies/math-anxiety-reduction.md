@@ -12,6 +12,7 @@ generated:
 # Math Anxiety Reduction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 1 of 4 report an effect size
 
 ## Description
 Math anxiety — feelings of tension and dread that interfere with manipulating numbers and solving mathematical problems — consumes working memory resources that would otherwise support reasoning [Math anxiety intrudes on the very working memory resources arithmetic depends on.](https://doi.org/10.1037/0096-3445.130.2.224) [+S]. Reduction strategies operate on two fronts: lowering the threat in the learning environment (timed tests, public error, fixed-ability messaging) and building learners' confidence and regulation skills (reappraisal, expressive writing, mastery-oriented practice). Anxiety and achievement are reciprocally related — poor performance breeds anxiety, and anxiety degrades performance — so instructional design must break the cycle from both directions [Math anxiety and math achievement are negatively correlated and mutually reinforcing over time.](https://doi.org/10.1037/0033-2909.108.1.80) [+S].

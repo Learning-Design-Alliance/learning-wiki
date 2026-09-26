@@ -12,6 +12,7 @@ generated:
 # Random Calling
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Random calling (also called cold calling or random nomination) is a questioning strategy in which the instructor selects respondents at random — by name cards, a spinner, an app, or a shuffled roster — rather than accepting volunteers. It is typically paired with wait time and often with think-pair-share so that learners have an opportunity to prepare an answer before being called on.

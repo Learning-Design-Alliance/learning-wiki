@@ -17,6 +17,7 @@ sources:
 # Integrated pathway programs employ streamlined curriculum, flexible delivery, strong industry links, program alignment, and intensive support services
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The CNMCC Breaking Through Construction Apprenticeship Program is described as employing "the elements of a streamlined curriculum, flexibility in delivery, strong industry links, program alignment and intensive support services to ensure student success." An advisory team of faculty from two schools meets regularly to make cross-department decisions about curriculum, textbooks, recruitment, and scheduling. This five-element design characterizes how the program organizes accelerated, contextualized basic-skills instruction connected to construction apprenticeships.

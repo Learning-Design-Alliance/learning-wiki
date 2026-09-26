@@ -12,6 +12,7 @@ generated:
 # Translanguaging
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
 
 ## Description
 Translanguaging treats a multilingual speaker's languages as one integrated repertoire rather than separate systems, and invites learners to draw on all of it — reading, discussing, drafting, and collaborating across languages and modalities. Crucially, it also makes language norms explicit: students learn to suppress certain features when a task demands performance according to the conventions of a named language, whether English or another. Teachers operationalize this through bilingual texts, dictionaries, translation tools, multilingual grouping, and assessments that separate content mastery from English language conventions.

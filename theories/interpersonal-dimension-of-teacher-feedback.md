@@ -16,6 +16,7 @@ sources:
 # Interpersonal dimension of teacher feedback on student writing
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article frames feedback on student writing as more than an instructional or informational phenomenon: each paper has a real human author, and the way feedback is received and processed may be influenced by interpersonal factors. Feedback both communicates beliefs about writing and expresses and negotiates human relationships, so adverse student reactions can undermine its instructional value. The article uses this framing to motivate five relational principles of responding to student writing.

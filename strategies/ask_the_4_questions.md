@@ -12,6 +12,7 @@ generated:
 # Ask the 4 Questions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 This strategy structures feedback around four questions: What can the student do? What can't the student do? How does the student's work compare with that of others? How can the student do better? Answering all four gives the learner an accurate picture of current performance and a concrete path forward. The same four answers also serve as a clear, jargon-free structure for communicating with parents and caregivers.

@@ -12,6 +12,7 @@ generated:
 # Calming Auditory Input
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 against) · 2 studies, `q3`–`q4` · 1 of 2 report an effect size
 
 ## Description
 Calming auditory input is the deliberate management of the sound environment to reduce overstimulation and support self-regulation. Techniques include speaking in a quiet, steady voice; monitoring ambient noise with a noise meter; introducing masking sound (white noise, rain or ocean recordings, a fan); playing quiet, slow-tempo music; and offering noise-reducing headphones. The goal is not silence but a predictable, low-arousal auditory backdrop that keeps learners within their optimal arousal range for attention and learning.

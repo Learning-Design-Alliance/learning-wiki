@@ -12,6 +12,7 @@ generated:
 # Spelling Instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q1`–`q2` · 2 of 2 report an effect size
 
 ## Description
 Spelling instruction teaches learners to encode words accurately by making the orthographic system explicit — phoneme–grapheme correspondences, morphological patterns, and etymological conventions — rather than relying on memorizing arbitrary word lists. Effective programs combine explicit explanation of patterns, analysis of word structure, immediate corrective feedback, and distributed practice with feedback until words are stored in long-term memory as unitized orthographic representations.

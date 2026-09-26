@@ -17,6 +17,7 @@ sources:
 # Student follow-up instruments: initial card, follow-up card, and work diary
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The TPI procedure includes three follow-up instruments developed "in the form of a 'card'" to support monitoring of the trainee researcher. The student's initial card provides the tutor basic information when tutoring starts; the follow-up card is used by the tutor during sessions and collects "all the agreements as well as the tasks performed with the student"; and the work diary is developed by the student and shared with the tutor, allowing trainee researchers to gradually describe their work and progress, and can serve as a portfolio "to show the student's achievements and learning (Le, 2012)".

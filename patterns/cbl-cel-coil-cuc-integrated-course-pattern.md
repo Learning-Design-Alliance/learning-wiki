@@ -17,6 +17,7 @@ sources:
 # Combining challenge-based learning, community-engaged learning, COIL, and cross-university collaboration in one course design
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article presents a course-level design pattern in which societal engagement (via CBL and CEL), a global challenge, and collaboration (via COIL and a cross-university collaboration) are combined. "Figure 1 shows a visual conceptualization of the similarities and differences between the different approaches to societal en - gagement used to design this course," and Figure 2 summarizes how these approaches were integrated within the course. CBL structures experiential learning through engage, investigate, and act stages, while CEL emphasizes long-term reciprocal partnerships.

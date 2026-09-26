@@ -12,6 +12,7 @@ generated:
 # Writing Process Portfolios
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (5 for) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size
 
 ## Description
 A writing process portfolio is a curated collection of a student's written work — drafts, revisions, peer comments, and reflective cover letters — assembled across a unit or term. Assessment and instruction focus on the trajectory of the writing (planning, drafting, revising, editing) rather than on a single polished product. Students typically write a reflective introduction that analyzes how and why their texts changed, converting the portfolio into a self-assessment artifact.

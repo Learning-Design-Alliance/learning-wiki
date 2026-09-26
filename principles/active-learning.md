@@ -21,6 +21,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies, `q2`–`q4` · 9 of 9 report an effect size
 
 ## Description
 Active learning is the principle that learners should do meaningful cognitive work with content rather than only receive it. The core move is not activity for its own sake, but requiring learners to explain, apply, compare, predict, generate, or revise so that understanding is constructed through use.

@@ -29,6 +29,7 @@ sources:
 # Use Worked Examples
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 4 studies, `q3` · 4 of 4 report an effect size · 3 claims rest on one study
 
 ## Description
 The instructor presents a fully solved problem — showing each step and explaining the reasoning behind it — and then asks learners to solve a similar problem independently or in pairs. The cycle of study-then-solve can repeat multiple times, with the level of detail in the example gradually reduced (faded) as learners gain confidence.

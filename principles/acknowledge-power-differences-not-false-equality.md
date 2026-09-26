@@ -17,6 +17,7 @@ sources:
 # Acknowledge real power differences between faculty and students rather than presuming equality
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Within the Collaboration component, the article argues that reducing hierarchy must not obscure real power differences between counsellor and client or faculty member and student. "Rather than assuming a false equality, power differences should be freely acknowledged", with the faculty member viewed as an expert holding grading and evaluative power who simultaneously treats students' self-knowledge, existing skills, and life experience as another source of expertise. Pretending differences do not exist perpetuates the "homogeneity of power" and protects faculty from critique.

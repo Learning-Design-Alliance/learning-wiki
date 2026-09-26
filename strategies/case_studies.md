@@ -12,6 +12,7 @@ generated:
 # Case Studies
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q2`–`q4` · 2 of 6 report an effect size
 
 ## Description
 A case study presents learners with a detailed account of a real or realistic situation — a business dilemma, patient history, engineering failure, or classroom conflict — which they must analyze, discuss, and resolve. Rather than receiving principles first and applying them later, learners work from the concrete situation toward the underlying concepts, making decisions under the same ambiguity and incomplete information the original actors faced.

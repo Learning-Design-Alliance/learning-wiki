@@ -29,6 +29,7 @@ sources:
 # Self-monitoring
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (1 for, 2 mixed) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Self-monitoring is the practice of checking one's current understanding, performance, strategy use, or progress against a goal, model, or success criterion. It turns learning from something that merely happens to the learner into something the learner actively observes and adjusts. In instruction, self-monitoring matters because learners rarely improve from effort alone; they improve when they notice what is working, what is not, and what to change next.

@@ -17,6 +17,7 @@ sources:
 # Estimate a skill's minimum BKT-BF RSS a priori from dim, n, and percent_correct before running the full grid search
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper's proposed approach: rather than finding the parameter values that provide the lowest RSS by exhaustive search, estimate the minimum RSS value from a priori known skill variables. Three variables are used — dim (number of questions tagged with the skill), n (total responses, the product of students and dim), and percent_correct (pc) — chosen because they are "pieces of information that one may have easy access to before computing BKT-BF." A linear model trained on these variables predicts any skill's minimum RSS, enabling quicker convergence of a modified BKT-BF and reduced computational cost.

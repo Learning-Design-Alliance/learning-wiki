@@ -16,6 +16,7 @@ sources:
 # Ernest's Mathematics-Related Belief Systems as a framework for characterizing preservice teachers' philosophies of mathematics
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article uses Ernest's (1991a) framework of mathematics-related belief systems, comprising five belief clusters concerning mathematics, to characterize and track a preservice teacher's philosophy. The framework guided categorization of statements and dialogue from interviews, journals, and field notes, with interpreted themes and changes within a theme characterizing the evolving philosophy. It treats beliefs about mathematics, teaching, learning, and assessing mathematics as interconnected clusters grounded in an underlying philosophy of mathematics, here labeled 'Dualistic Absolutist' (Ernest, 1991b).

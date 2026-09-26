@@ -17,6 +17,7 @@ sources:
 # Use freely available gravitational-wave education tools and resources, including Black Hole Hunter and Einstein's Messengers
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article points educators to a set of existing tools for teaching gravitational-wave science: the LIGO Science Education Center, which "hosts field trips and professional development workshops, as well as a Research Experience for Teachers program"; the Einstein's Messengers website with curricular resources tied to state and national standards; the gwoptics.org outreach material; and Black Hole Hunter, a game introducing gravitational-wave data analysis by having players search for gravitational-wave sounds in simulated noisy data.

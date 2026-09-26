@@ -17,6 +17,7 @@ sources:
 # Employ a non-coercive, facilitative organizational change strategy that lets teachers pursue individualized adoption at their own pace, supported by training aimed at informational and management concerns
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article reports that a non-coercive, facilitative organizational strategy for change allowed teachers to pursue highly individualized approaches to adoption at their own pace and under their own control. Training directed mainly at Informational and Management concerns set in motion change processes that teachers sustained and extended through voluntary investigative, experimental, and collegial activities. This pairs an organizational stance with concern-targeted training rather than purely technical skills training, which the article says has generally proven ineffective.

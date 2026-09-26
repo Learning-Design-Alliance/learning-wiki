@@ -12,6 +12,7 @@ generated:
 # Communicating High Expectations
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 0 of 2 report an effect size
 
 ## Description
 Communicating high expectations means explicitly telling learners that they are capable of succeeding at challenging work, holding them accountable to ambitious standards, and framing difficulty as normal and surmountable. It is carried out through direct verbal messages ("this is hard, and you can do it"), through assignment and feedback practices that treat all learners as capable of rigorous work, and through the instructor's own behavior — persistence, warmth, and refusal to lower standards. Crucially, high expectations are only effective when paired with high support; expectations without scaffolding read as indifference or threat.

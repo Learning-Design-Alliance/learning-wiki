@@ -17,6 +17,7 @@ sources:
 # Sustain framework implementation through ongoing teacher professional development and collaborative educator practices
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article identifies teacher development as a condition for sustained implementation of DL2F. It states that 'ongoing professional development for teachers and collaborative practices among educators contribute to the framework's successful implementation in the Philippine secondary school context', and repeats in the conclusion that these practices contribute significantly to the framework's sustained success.

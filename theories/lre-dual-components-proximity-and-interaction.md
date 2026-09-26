@@ -16,6 +16,7 @@ sources:
 # Least restrictive environment defined by two components: proximity to the regular educational environment and opportunity to interact with non-handicapped children
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report defines the LRE concept from P.L. 94-142 and its regulations as having two central components. It states that "the dual com- ponents central to the concept of "least restrictive environment" are (1) the proximity of an educational program to the regular educational environment; and (2) the degree of opportunity for handicapped children to interact with non-handicapped children." This framework underlies all the state and local policies the report analyzes, and it grounds the report's argument that placement decisions must weigh both physical setting and social contact.

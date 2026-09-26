@@ -17,6 +17,7 @@ sources:
 # Model causal mechanistic reasoning in class through observable phenomena rather than using phenomena merely as hooks
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that instructors center class time on explaining how and why observable events happen using molecular-level entities, behaviors, and interactions, because students who were modeled causal mechanistic reasoning in the context of an observable phenomenon more readily translated it to phenomenon-based tasks. It cautions that "Phenomenon-Based Learning goes beyond using the phenomenon as a context placer, but rather it places emphasis on figuring specific happenings and maintaining the focus on that happening." Instructors should use established standards and curricula to guide content alignment.

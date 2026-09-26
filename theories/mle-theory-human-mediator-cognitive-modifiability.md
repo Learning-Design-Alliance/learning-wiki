@@ -16,6 +16,7 @@ sources:
 # Feuerstein's Mediated Learning Experience (MLE) theory: a human mediator modifies the learner's interaction with stimuli to build cognitive modifiability
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 MLE theory holds that intelligence is modifiable and that learning proceeds most effectively when a human mediator interposes between stimuli and the learner. The article describes it as "an effective interaction of the human organism; that is, the learner, with the environment via a human mediator, which occurs through systematic, experiential and structural exposure to stimuli". The mediator selects and reshapes stimuli, adjusting to the learner's phase, difficulty and needs, so the learner internalizes experiences and becomes independent. The study applies this theory to meaningful foreign language instruction with disadvantaged learners.

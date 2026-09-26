@@ -12,6 +12,7 @@ generated:
 # Cover Copy Compare
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 5 of 5 report an effect size
 
 ## Description
 Cover Copy Compare (CCC) is a self-managed [practice](../elements/practice.md) procedure for building fluency on items with a single correct written form — spelling words, math facts, sight vocabulary, geography labels. The learner looks at a model (e.g., a correctly spelled word), covers it, writes the response from memory, uncovers the model, and immediately compares their attempt to the correct version, correcting errors before moving on. The cycle repeats until the learner can produce the item accurately without the model.

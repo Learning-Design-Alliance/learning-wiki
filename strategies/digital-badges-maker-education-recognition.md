@@ -17,6 +17,7 @@ sources:
 # Use digital badges to recognize skills, supplement report cards, and manage equipment training access in maker education
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper describes digital badges as serving to organize, communicate and display accomplishment and progress, with special application to maker-based classes. Badges recognize a skill learned or task accomplished, can supplement report cards, and can act like a credential system: displayed badges let teachers across a building and between grade levels know who is trained in what and who should be given access to what equipment.

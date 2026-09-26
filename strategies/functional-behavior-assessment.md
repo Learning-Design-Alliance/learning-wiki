@@ -12,6 +12,7 @@ generated:
 # Functional Behavior Assessment
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Functional Behavior Assessment (FBA) is a structured process for identifying the *function* a challenging behavior serves for a learner — typically obtaining attention, escaping a demand, accessing a tangible, or automatic/sensory reinforcement. It combines indirect methods (teacher interviews, rating scales), direct observation (ABC — antecedent–behavior–consequence — recording), and, in its most rigorous form, experimental functional analysis in which conditions are systematically manipulated to test hypotheses. The resulting hypothesis about behavioral function drives a function-based intervention, most often teaching a replacement behavior that serves the same function more appropriately.

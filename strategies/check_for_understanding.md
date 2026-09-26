@@ -12,6 +12,7 @@ generated:
 # Check for Understanding
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
 
 ## Description
 Checking for understanding is the deliberate verification that learners have correctly interpreted instructions, explanations, or concepts *before* they are asked to apply them independently. It is carried out through targeted questioning (e.g., "What are the first three steps?"), brief retrieval prompts, and observation of early task behavior — replacing the unreliable signal "Are there any questions?" with evidence of actual comprehension.

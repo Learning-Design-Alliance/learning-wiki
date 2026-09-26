@@ -12,6 +12,7 @@ generated:
 # Equitable Calling on Students
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Equitable calling on students is the deliberate practice of distributing response opportunities across all learners during discussion and questioning, rather than allowing a handful of eager volunteers to dominate. It is carried out through techniques such as random selection (name cards, popsicle sticks, digital pickers), tracking who has been called on, and using wait time so that every learner — not just the fastest hand-raisers — is expected to formulate an answer. The underlying premise is that learners who are never called on disengage, while those who are systematically overlooked internalize lowered expectations.

@@ -17,6 +17,7 @@ sources:
 # Participate in the creative reconstruction of a language that foregrounds human kinship with nature, using postmodern science fiction as a generative site
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors recommend that educators "participate in the creative teconstruction of language which foregrounds our kinship with naturn" (article's OCR spellings preserved), developing myths and metaphors that sing the earth into existence under urban and late industrial conditions. They identify postmodern science fiction — cyberpunk, feminist SF and graphic novels — as the discourse that may presently provide the most generative site for this reconstruction, rather than the literature of the academy.

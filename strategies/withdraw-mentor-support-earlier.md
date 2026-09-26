@@ -17,6 +17,7 @@ sources:
 # Withdraw mentor support earlier than currently thought, and calibrate how closely mentors work with mentees
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Based on the finding that unmentored teachers, especially reentry teachers, progressed furthest through Fuller's stages, the authors recommend studying how closely mentors should work with new teachers and when support should end. They write that "research is needed to determine the extent to which the mentor teacher should work closely with the first-year or reentry teacher and when that support should be withdrawn," adding that "the results of this study suggest that that support might well be withdrawn earlier than had been thought."

@@ -17,6 +17,7 @@ sources:
 # Data activism through intentional participation, student-centric learning analytics, and storytelling
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article advocates data activism, defined via Milan and Van der Velden as action that tangles with new forms of information and knowledge production and can be seen "as an exercise in creating alternative ways of seeing the world." Concretely, it endorses a student-centric approach to learning analytics merging the roles of data creator, collector, and analyzer, so students become co-interpreters of their data. It also endorses Ottinger's storytelling, which gives community groups a way to refuse dominant narratives and advance their own alternative understandings, addressing the narrative mismatch communities experience with researchers.

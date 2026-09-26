@@ -12,6 +12,7 @@ generated:
 # Explicit Strategy Instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies, `q2`–`q4` · 3 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Explicit strategy instruction names a specific procedure learners can use to accomplish a task (e.g., summarizing, self-questioning, drawing a diagram), demonstrates its use, and provides guided practice until learners can apply it independently. Crucially, it teaches not just the *how* but the *when* and *why* — conditional knowledge about which strategy fits which task — because strategies taught without conditions are rarely transferred [Strategy instruction that includes conditional knowledge produces better transfer than strategy instruction alone.](../claims/strategy-instruction-improves-learning.md) [+M]. The goal is not the strategy itself but self-regulated use: learners who select, monitor, and adjust strategies on their own.

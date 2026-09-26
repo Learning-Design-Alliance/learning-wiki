@@ -17,6 +17,7 @@ sources:
 # Incorporate relevant visual representations in lessons, but consider the resource demands of working with them
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article concludes that relevant visual information such as diagrams in texts can improve learning, though not under all instructional conditions: "diagrams fostered students' application of the lesson content relative to text alone only if students read the lesson twice, and not if they answered questions while reading". Visual representations may be beneficial only if students have adequate resources available to process them, so teachers should consider the resource demands of working with visuals.

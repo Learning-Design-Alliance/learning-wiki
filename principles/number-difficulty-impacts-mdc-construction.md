@@ -17,6 +17,7 @@ sources:
 # In multiplicative task design, deliberately vary number difficulty because harder numbers that exceed available figural counters challenge the dual anticipation
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article's practical implication is that task design and sequencing should attend to number choice: with easy numbers a student's units properly regulate the coordinated count, while harder numbers disrupt it. The authors write that "the more difficult (5+n) numbers impact construction of mDC can be demonstrated," and that operating on harder numbers, when composite units and/or 1s exceed the fingers on one hand, is a challenging feat. Teachers should therefore sequence tasks so number difficulty is increased purposefully to target the stop anticipation.

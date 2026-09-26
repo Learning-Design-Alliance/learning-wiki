@@ -16,6 +16,7 @@ sources:
 # The number sequence hierarchy (INS, TNS, aTNS, ENS, GNS) defined by units coordination and splitting
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article organizes students' concepts of number as a hierarchy — INS, TNS, aTNS, ENS, GNS — defined by the cognitive structures of units coordination and splitting. Drawing on the Steffe & Cobb (1988) number sequence framework and Ulrich's work on the aTNS, the framework distinguishes qualitative differences in students' algebraic reasoning. Interview-based attribution of number sequences predicted performance on splitting tasks and algebraic equation writing in the study.

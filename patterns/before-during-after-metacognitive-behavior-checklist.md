@@ -17,6 +17,7 @@ sources:
 # Before-during-after metacognitive behavior checklist for reading lessons
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article presents a table of metacognitive behaviors teachers exhibit before, during, and after a reading lesson. Before reading, teachers set goals, activate prior knowledge, skim to determine text structure, make predictions, model a Think Aloud, and determine key vocabulary. During reading, they check predictions, stop and summarize, take notice of word meaning, and note comprehension problems. After reading, they review the activity, summarize key ideas, think aloud what is needed to learn more, connect the topic with other information, re-read to clear up misconceptions, and recommend further reading.

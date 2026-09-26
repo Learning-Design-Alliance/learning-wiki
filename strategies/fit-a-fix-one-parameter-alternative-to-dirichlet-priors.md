@@ -17,6 +17,7 @@ sources:
 # Fit the combined parameter A and fix P(G) or P(L0) externally as an alternative to Dirichlet priors when fitting the BKT HMM
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Because the HMM form of BKT is a three-parameter exponential, the article recommends fitting only the combination A and then recovering the fourth parameter algebraically. If P(G) or P(L0) is needed as output, the article suggests finding A by the fitting process, fixing P(G) or P(L0) by some external constraint, and using Eqn. (6) to find the remaining variable. This is presented as an alternative to the Dirichlet priors approach that is much easier to implement and does not modify the model itself.

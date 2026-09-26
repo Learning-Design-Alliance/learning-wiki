@@ -29,6 +29,7 @@ sources:
 # Vocabulary In Context
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 5 studies, `q1`–`q4` · 3 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Vocabulary in context is a strategy in which learners acquire word meanings by encountering words embedded in meaningful sentences, passages, or discourse and inferring meaning from surrounding clues, rather than studying isolated definitions. It is carried out through wide reading of appropriately leveled texts, multiple varied encounters with target words, and instruction that models how to use contextual evidence to form and revise meaning hypotheses.

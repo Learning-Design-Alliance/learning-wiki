@@ -12,6 +12,7 @@ generated:
 # Flashcard Drill
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Flashcard drill is a self-testing strategy in which learners practice retrieval from cue–response pairs (a question on one side, an answer on the other). Cards answered correctly are reviewed less often; cards answered incorrectly are repeated sooner, either through learner-managed sorting (e.g., the Leitner box) or algorithmic scheduling (e.g., SM-2 in Anki). The strategy combines two of the most robust effects in learning science: retrieval practice and distributed practice [Distributed practice improves long-term retention compared with massed practice.](../claims/distributed-practice-improves-retention.md) [+S].

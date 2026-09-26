@@ -17,6 +17,7 @@ sources:
 # Improve emotional scaffolding by organising space for emotion training with game methods and creating conditions for discussing opposites
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article's recommendations section proposes two concrete teacher actions for improving emotional scaffolding: "1) organising a space in which a teacher can lead training in recognising emotions, using game methods; 2) creating conditions for discussions of opposites, including in emotional manifestations and emotions in the process of developing". These follow directly from the observed correlations between Space and Furnishings, dialectical thinking support, and emotional scaffolding.

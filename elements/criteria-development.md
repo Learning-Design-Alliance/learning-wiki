@@ -12,6 +12,7 @@ generated:
 # Criteria Development
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Criteria development asks learners to construct the rubrics, checklists, or evaluation frameworks against which work will be judged, rather than receiving criteria pre-defined by the instructor. By articulating what quality looks like and why, learners internalize the standards of the discipline and can later apply them to monitor and improve their own work.

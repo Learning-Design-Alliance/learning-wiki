@@ -17,6 +17,7 @@ sources:
 # How-it-works laboratory activities in which students discover underlying physics
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A recurring laboratory activity type is planned in every lab edition: "it was always planned in the lab at least an activity that we can call How it works." The authors report this activity type is very stimulating because students "literally discover the underlying physics, as expected in a context-based approach (Kortland 2005)". Examples include a spectroscope, a photovoltaic panel, and a Stirling machine.

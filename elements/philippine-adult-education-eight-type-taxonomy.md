@@ -17,6 +17,7 @@ sources:
 # Schematic taxonomy of eight types of adult education in the Philippines (Table 2)
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article constructs a schematic analysis (Table 2) dividing Philippine adult education into eight types across two streams: formal vocational/technical (items 1-2: vocational trade high schools and post-secondary vocational programs) and non-formal (items 3-8: DECS-BNFE literacy and livelihood programs, NMYC short-term training, private sector programs, industry apprenticeships, academic/religious sector programs, and NGO/PO counter-education with a political agenda). The author states "The table below (Table 2)is our construction of the present adult education system" and uses it to show that government funds concentrate on the voc-tech stream while the non-voc-tech adult education sector is neglected.

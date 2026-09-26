@@ -17,6 +17,7 @@ sources:
 # Design cross-curricular learning units around multimedia production
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Integrated learning units for multimedia production should follow a sequence: appreciation of multimedia products, investigation, image enrichment, creation of scenario and design blueprint, production of parts, assembly, and presentation/performance/appreciation. The article's learning unit model (Figure 2) was constructed from common features of two classroom implementations and links multiple subjects including language, social studies, science, art, and music.

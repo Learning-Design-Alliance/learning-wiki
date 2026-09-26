@@ -12,6 +12,7 @@ generated:
 # Pre-Shadowing Preparation Activities
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q2`–`q4` · 3 of 8 report an effect size
 
 ## Description
 Pre-shadowing preparation is a set of activities completed before an educator shadows a student for a day. It typically includes: (1) writing focused learning goals for the shadow day; (2) selecting a student whose experience can illuminate those goals; (3) coordinating consent and logistics with the student, family, and staff; and (4) explicitly listing one's assumptions so the day can be approached with "beginner's eyes." Preparation converts an unstructured visit into a purposeful observation.

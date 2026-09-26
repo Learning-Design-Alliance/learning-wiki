@@ -12,6 +12,7 @@ generated:
 # Optimize Classroom Size and Space
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 This strategy treats the physical conditions of learning — how many learners share a space and how that space is arranged — as design variables rather than fixed constraints. Smaller classes increase opportunities for individual attention and feedback, while deliberate layout choices (seating configuration, sightlines, circulation space, zones for different activity types) shape interaction patterns, attention, and behavior.

@@ -17,6 +17,7 @@ sources:
 # Plan instruction around SEP-dictated expected learnings (aprendizajes esperados), which the reform makes the backbone of all teaching activity and the performance indicators supporting competencies
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Under the RES, planning must center on the aprendizajes esperados dictated by the SEP for each subject; the article states that "los aprendizajes esperados son la columna vertebral de la planeación dado que son los indicadores de desempeño que sustentan a las competencias". Teachers may decide strategies and resources — the how and with what — but the expected learnings anchor every in-class and out-of-class teaching-learning activity. The reform pursues interdisciplinary project work and competency development through this planning structure.

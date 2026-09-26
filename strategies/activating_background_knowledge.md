@@ -12,6 +12,7 @@ generated:
 # Activating Background Knowledge
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Activating background knowledge involves prompting learners to recall and connect prior experiences, information, and understandings before engaging with new content. Prompts take the form of questions, brief discussions, analogies, or short activities that surface what learners already know and make it available for integration with new material. The strategy works because new information is encoded more durably when it can be assimilated into existing mental schemas rather than stored as isolated facts.

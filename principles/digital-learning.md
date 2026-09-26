@@ -17,6 +17,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (1 for, 2 mixed) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size
 
 ## Description
 Digital learning is the principle of using digital environments and tools to support access, interaction, practice, and feedback in instruction.

@@ -12,6 +12,7 @@ generated:
 # Assigned Positions
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 Learners are assigned a specific stance on an issue — often one they do not personally hold — and must construct and defend arguments from that perspective. Because the position is imposed rather than chosen, learners must actively search for, organize, and articulate justifications they would not otherwise generate, forcing engagement with the strongest reasoning available on "the other side."

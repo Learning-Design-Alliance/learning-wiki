@@ -12,6 +12,7 @@ generated:
 # Graphic Organizers
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Graphic organizers are visual structures that help learners sort, compare, and connect ideas.

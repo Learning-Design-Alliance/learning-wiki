@@ -17,6 +17,7 @@ sources:
 # Expert-panel item selection: statements drawn from real settings, winnowed by linguist votes to consensus items
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Inquiry's items were not invented: the attitudes tested were heard in methods classes, conventions, workshops, and printed sources such as newspaper editorials. Ten linguists first responded to 150 statements, then voted on 135 statements using Agree, Moderately agree, No opinion, and Disagree; the author generally kept items where at least seven out of ten linguists concurred, yielding 109 such items, of which 97 were used, with three added where Agree and Moderately agree totaled nine or ten for content balance.

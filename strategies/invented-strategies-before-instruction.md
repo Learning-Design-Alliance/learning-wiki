@@ -12,6 +12,7 @@ generated:
 # Invented Strategies Before Instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 6 studies, `q3`–`q4` · 2 of 6 report an effect size
 
 ## Description
 Learners first grapple with a novel problem type using whatever informal, self-generated strategies they can devise, before the teacher presents the standard or expert method. The invention phase is typically done in pairs or small groups, produces multiple (often incorrect) solutions, and is followed by explicit instruction that consolidates and extends what learners discovered.

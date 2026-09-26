@@ -17,6 +17,7 @@ sources:
 # Ontogenic analysis of knowledge organization systems
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Ontogenic analysis is the description of how a subject or a set of classes changes in a knowledge organization system over time. The paper identifies it as a research area applied to major systems like the DDC, UDC, and Wikipedia, and illustrates it with visualizations of UDC main-class distributions across editions and of eugenics changing position in the DDC by decade. It states: 'Ontogenic analysis is the description of how a subject changes or a set of classes change a knowledge organization system over time.' The paper observes that such analyses assume a geologic or archaeological time metaphor, treating each edition as a stratum.

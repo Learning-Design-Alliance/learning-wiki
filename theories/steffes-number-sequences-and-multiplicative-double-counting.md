@@ -16,6 +16,7 @@ sources:
 # Steffe's Number Sequences and Multiplicative Double Counting
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Steffe's constructivist model describes children's numerical reasoning as progressing through three number sequences, each defined by what a child can mentally do with composite units (groups of ones treated as a single countable unit):

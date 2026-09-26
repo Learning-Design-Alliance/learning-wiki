@@ -17,6 +17,7 @@ sources:
 # Present early space-science activities as inquiry-based learning integrated with play, informed by children's existing mental models
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that "early science learning activities targeting space science concepts, including the day and night cycle, should be inquiry-based and presented within the context of play." Science activities should be informed by children's existing mental models and present developmentally appropriate hands-on activities inviting children to be physically, mentally, and emotionally active participants. The author notes play is an endorsed pedagogical tool in the Turkish Preschool Education Program and cites studies linking integrated play and science instruction to engagement and conceptual understanding.

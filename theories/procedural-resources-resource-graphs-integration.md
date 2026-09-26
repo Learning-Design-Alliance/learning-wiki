@@ -16,6 +16,7 @@ sources:
 # Procedural resources and resource graphs: extending the resources framework to model epistemic actions in mathematical problem solving
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Within the Knowledge-in-Pieces resources framework, a resource is "an idea or a tool that one uses in problem solving" with no inherent correctness. The authors extend resource graphs, previously used for conceptual and epistemological resources, to include procedural resources representing epistemic actions such as "Find Value", "Choose Limits", and "Extract Boundary Condition". These procedural resources require certain conceptual resources to be used appropriately, and resource graphs visualize the pathways students take through epistemic games.

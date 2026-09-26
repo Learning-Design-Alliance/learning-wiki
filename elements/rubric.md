@@ -12,6 +12,7 @@ generated:
 # Rubric
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 6 studies, `q2`–`q3` · 2 of 6 report an effect size
 
 ## Description
 A rubric is an explicit scoring guide that breaks a complex task into criteria and describes what performance looks like at each quality level. It functions simultaneously as an assessment tool for evaluators and a transparency tool for learners, converting tacit quality standards into visible, actionable expectations.

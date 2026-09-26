@@ -16,6 +16,7 @@ sources:
 # Two-dimensional model of group growth (community problems and group problems, with growth, regression, and plateaus)
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The study defines group growth operationally as developing the capacity to solve increasingly complex problems, both the community problem a group attempts and problems of group operations. Growth is a continuing process requiring progressively more difficult problems; regression involves degeneration of existing capacities; plateaus are temporary pauses that may help consolidate capacities. The article states "The two-dimensions of group growth, then, corresponded to community problems and group problems," each examinable separately though interrelated.

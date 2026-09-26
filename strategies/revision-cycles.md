@@ -12,6 +12,7 @@ generated:
 # Revision Cycles
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q2`–`q4` · 3 of 5 report an effect size
 
 ## Description
 A revision cycle structures learning around iterative production: learners create a draft or attempt, receive feedback (from instructor, peers, or self-assessment), and revise the work before it is assessed or published. The cycle may repeat two or more times, with each iteration narrowing the gap between current and target performance. Revision is treated as part of the learning activity itself, not as error correction after learning has ended.

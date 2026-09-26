@@ -12,6 +12,7 @@ generated:
 # Analyzing Video Replays
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Video replay analysis involves reviewing recordings of one's own or others' performance — pausing, replaying key segments, annotating, and discussing them — to make performance visible in a way that real-time experience cannot. Because video separates the act of performing from the act of evaluating, it frees working memory for reflection and allows learners to examine their own behavior with something approaching an observer's perspective.

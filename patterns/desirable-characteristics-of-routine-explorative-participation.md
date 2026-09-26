@@ -17,6 +17,7 @@ sources:
 # Six desirable characteristics of routine marking movement toward explorative participation
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper presents, in Table 1, a list of observed changes in learners' performance that indicate a move toward explorative participation, drawn from Lavie et al. (2019) and earlier empirical works: flexibility (performing a task in more than one way), bondedness (each step of a procedure feeds the next), applicability (isolating a performance and applying it on different occasions), performer's agentivity (making more decisions during learning), objectification (increasing the level of abstraction of a mathematical object), and substantiability (establishing criteria to assess one's own outcome). These changes occur when the learner's attention shifts from the performance as such to its outcome.

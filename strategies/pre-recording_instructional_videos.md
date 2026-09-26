@@ -12,6 +12,7 @@ generated:
 # Pre-recording Instructional Videos
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 6 claims (3 for, 1 mixed, 2 against) · 16 studies, `q2`–`q4` · 9 of 16 report an effect size
 
 ## Description
 Pre-recording instructional videos means producing lecture, demonstration, or feedback content ahead of learner access rather than delivering it live. Learners can pause, rewind, and rewatch at their own pace, and instructors can reuse and revise recordings across terms. The strategy underpins flipped and blended designs, where asynchronous video carries the expository load and synchronous sessions are reserved for [Practice](../elements/practice.md), discussion, and feedback.

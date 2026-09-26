@@ -17,6 +17,7 @@ sources:
 # Future SCMD research should move from surface units and isolated elements to the deep structure of the whole activity system
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that educational research on SCMD shift in two ways: from surface-level unit identification in transcripts to the deep structure of activity, and from isolated elements to the interconnected system as a whole. It argues that unit-of-analysis discussions based only on "sentences, messages, paragraphs, and threads" lack theoretical rationale, and that researchers studying technology effectiveness should consider users' intentions, tasks, institutional culture, divisions of labor, and intervening sub- and meta-systems.

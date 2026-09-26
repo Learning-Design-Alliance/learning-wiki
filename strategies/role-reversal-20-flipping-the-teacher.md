@@ -12,6 +12,7 @@ generated:
 # Role-Reversal 2.0 (Flipping the Teacher)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Students create videos in which they explain concepts, demonstrate procedures, or teach material to an audience of peers — filming themselves, their group work, or screencasts. The act of producing an explanation forces learners to organize, articulate, and monitor their own understanding, and the resulting videos form a reusable repository for future classes. It is a technology-mediated form of learning-by-teaching in which the "tutee" is an imagined or actual peer audience.

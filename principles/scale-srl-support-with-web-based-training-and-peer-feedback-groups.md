@@ -17,6 +17,7 @@ sources:
 # Scale SRL Support With Web-Based Training Supplemented by Peer Feedback Groups
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study, `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The authors recommend web-based SRL training where many students need support: "we advocate its application in educational settings in which large groups of students require support in their self-regulated learning, particularly in distance learning environments that prevent face-to-face training." They add that peer feedback "appears to be a useful supplement to WBT, and its organizational costs are comparably low", and name future refinements such as teaching feedback criteria and rubrics.

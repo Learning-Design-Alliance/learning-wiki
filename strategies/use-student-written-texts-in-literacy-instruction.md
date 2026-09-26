@@ -17,6 +17,7 @@ sources:
 # Use Student-Written Texts in Literacy Instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 An implementable teaching recipe drawn from the documented classroom practice: form voluntary research groups, investigate a topic through discussion, have each student write individual findings, exchange texts with other groups, compare them with prior knowledge, build collective concept maps, respond across groups, and revise. Students must "substantiate their knowledge base with reference materials" rather than accept peer texts blindly.

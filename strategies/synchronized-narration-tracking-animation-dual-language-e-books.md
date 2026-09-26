@@ -17,6 +17,7 @@ sources:
 # Embed synchronized audio narration with finger-tracking animation in dual-language e-books to support independent bilingual reading
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors recommend designing dual-language e-books with "synchronized dual-channel (visual and audio) inputs and attention-guiding cues" so children reading independently attend to print in both their dominant and nondominant languages. This lets digital dual-language books deliver the print-referencing benefits of adult shared reading without an adult narrator, complementing traditional reading with explicit attention to print in bilingual education programs.

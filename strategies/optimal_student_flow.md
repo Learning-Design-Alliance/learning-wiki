@@ -12,6 +12,7 @@ generated:
 # Optimal Student Flow
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
 
 ## Description
 Optimal student flow is the deliberate design of the classroom's physical layout, material organization, and transition routines so that learners can move between activities, centers, and groupings with minimal lost time and minimal cognitive friction. It treats the classroom as an environment that either supports or competes with attention: clear pathways, defined centers, good sightlines, and predictable movement patterns reduce the executive-function demands of navigating the space and preserve time-on-task.

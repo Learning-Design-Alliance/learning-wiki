@@ -12,6 +12,7 @@ generated:
 # Concrete Modeling
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Concrete modeling is the element in which physical or tangible representations are used to make abstract relationships visible.

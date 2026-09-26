@@ -12,6 +12,7 @@ generated:
 # Student-Led IEPs
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
 
 ## Description
 A student-led IEP is an Individualized Education Program meeting in which the student — rather than the case manager or parents — leads the discussion: introducing attendees, explaining their disability and accommodations, presenting strengths and needs, reviewing progress on goals, and helping set new goals. It functions as both an instructional intervention (building self-determination skills) and an authentic assessment of self-advocacy. The student's role is scaffolded, not thrown in: preparation typically spans weeks and includes explicit instruction, rehearsal, and [Coaching](coaching.md).

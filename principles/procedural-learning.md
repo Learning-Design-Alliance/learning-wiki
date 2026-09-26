@@ -17,6 +17,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Procedural learning is the principle of helping learners acquire and refine sequences of action, routines, or task procedures until performance becomes more accurate, fluent, and reliable. It is useful when knowing how to do something matters as much as, or more than, declarative understanding alone.

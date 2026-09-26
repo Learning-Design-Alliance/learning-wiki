@@ -17,6 +17,7 @@ sources:
 # Use stochastic approximation for sequential parameter estimation when observations are noisy and each observation is costly
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article supports using the Robbins-Monro procedure in settings where a parameter must be estimated sequentially from noisy observations, as in adaptive measurement of learner ability. Because the procedure updates after each observation, it suits contexts where observations are costly and convergence must be guaranteed. The article's contribution is the condition the iteration coefficients must satisfy for such sequential estimation to converge.

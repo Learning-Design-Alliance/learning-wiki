@@ -12,6 +12,7 @@ generated:
 # Model Drawing Strategy
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
 
 ## Description
 The model drawing strategy teaches learners to solve word problems — particularly fraction and percentage problems — by drawing a schematic diagram (typically bar or part-whole models) that represents the qualitative relations described in the text, then using the diagram to plan and execute the arithmetic. The strategy is taught explicitly: the instructor demonstrates how to translate each sentence into a visual element, and learners practice the full read–draw–solve cycle until it becomes routine. It originates in Singapore's bar-model approach and in schema-based instruction research for students with learning disabilities.

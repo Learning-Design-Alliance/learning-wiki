@@ -17,6 +17,7 @@ sources:
 # Implement cooperative learning with real problems, slow growth, team building, a safe environment, teacher modeling, mixed academic levels, and a teacher shift from directing to facilitating
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The handbook lists eight aids to cooperative learning for adult classrooms. It works best when real problems are assigned to be solved and when participants have been involved in team building activities so they learn to think as a team that will sink or swim together. "The environment needsto be safe: students must be able to make mistakes and take risks." Teachers must model techniques, social skills, and learning strategies; students must be encouraged to take responsibility for their own learning; academic levels need to be mixed; and roles must change, with the teacher moving from directing to facilitating and students from passive to active participation.

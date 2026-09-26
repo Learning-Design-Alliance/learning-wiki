@@ -17,6 +17,7 @@ sources:
 # Scientific Reasoning
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Scientific reasoning is the element in which learners generate explanations, evaluate evidence, test claims, and revise models using disciplinary norms of inquiry. It is useful when understanding depends on explanation and evidence, not memorization alone.

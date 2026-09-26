@@ -12,6 +12,7 @@ generated:
 # Low Stakes Quizzing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Low stakes quizzing embeds frequent, brief tests into instruction with minimal or no consequences for grades. Learners actively retrieve information — via multiple choice, short answer, or free recall — rather than rereading it. The act of retrieval itself strengthens memory, and quiz results give both learner and instructor diagnostic information while the material can still be corrected.

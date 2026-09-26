@@ -17,6 +17,7 @@ sources:
 # Grade keypad answers so every answer earns points, encouraging students to record their best choice
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article describes a concrete grading recipe used in the authors' non-anonymous keypad questions: 'no answer receives 0 points, any answer receives 3 points; the correct answer receives 10 points; and when there is a partially correct answer, that answer would receive variable credit.' With this system a student is encouraged to record an answer expected to be his/her best choice. Accumulated semester scores can count toward the course grade at the teacher's discretion and give early information about weak, poorly prepared or non-attending students.

@@ -17,6 +17,7 @@ sources:
 # Make queue waiting time productive by offering LLM-based help tools such as CodeHelp to waiting students
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A forward-looking recommendation for addressing long office-hours queues: rather than changing scheduling alone, instructors can make waiting time productive for students. The article suggests that "tools like CodeHelp[17, 23] can utilize the LLM to automatically generate answers to students' coding questions without directly revealing solutions", so instructors could offer such a tool to assist students while they wait in the queue.

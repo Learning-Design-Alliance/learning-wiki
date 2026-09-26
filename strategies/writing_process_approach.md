@@ -25,6 +25,7 @@ sources:
 # Writing Process Approach
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 The writing process approach treats composing as a recursive cycle of planning, drafting, revising, and editing rather than a single-pass transcription task, grounded in the cognitive model of writing as goal-directed problem solving [Flower & Hayes, 1981](https://doi.org/10.2307/356600) [+S]. Instruction is typically organized as a writers' workshop: extended time for writing, [mini-lessons](../elements/advance-organizers.md), teacher–student conferences, and peer response, with writing framed around authentic audiences and purposes. The teacher acts as coach and fellow writer rather than sole evaluator.

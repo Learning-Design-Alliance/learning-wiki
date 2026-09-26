@@ -17,6 +17,7 @@ sources:
 # Strengthen ties between teachers and parents rather than pressing for remote sanctions behind teaching
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report describes Mead's 1942 analysis of the teacher's role, in which she observed the tremendous emotional and social significance of every teacher action within the community and that teacher deviations arouse terrible anxiety in parents. Mead framed two roads open to the teacher: to "seek to increase her ties of solidarity with the parents, sharing in their community life, continually interpreting to them," or to press for more powerful and remote sanctions behind her teaching, and asked how close or distant teacher-parent ties should be.

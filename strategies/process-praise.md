@@ -12,6 +12,7 @@ generated:
 # Process Praise
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 Process praise directs positive feedback at what a learner *did* — their effort, strategy choice, persistence, or improvement — rather than at who they *are* ("you're so smart") or at outcomes alone ("you got an A"). It is carried out in the moment of feedback, typically by naming the specific controllable behavior and linking it to the result: "You tried a new approach when the first one stalled, and that's what got you there."

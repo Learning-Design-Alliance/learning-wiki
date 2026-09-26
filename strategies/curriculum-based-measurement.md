@@ -12,6 +12,7 @@ generated:
 # Curriculum Based Measurement
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q4` · 6 of 7 report an effect size
 
 ## Description
 Curriculum Based Measurement (CBM) is a set of standardized, brief (1–5 minute) fluency-based probes sampled from the annual curriculum — oral reading, math computation, spelling, writing — administered repeatedly (weekly or biweekly) to index student growth over time. Scores are graphed against an aim line so teachers can judge whether current instruction is sufficient or needs adjustment, making CBM a progress-monitoring tool rather than a one-shot test.

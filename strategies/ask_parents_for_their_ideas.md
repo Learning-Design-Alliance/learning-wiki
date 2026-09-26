@@ -12,6 +12,7 @@ generated:
 # Ask Parents for Their Ideas
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 Schools can include parents by regularly asking for feedback regarding issues of concern. Teachers elicit questions and topic suggestions from parents before events such as Back-to-School Night, then visibly build the agenda around what parents actually asked. This positions parents as contributors rather than audiences, creating a culture of common understanding and involving them directly in their child's academic journey.

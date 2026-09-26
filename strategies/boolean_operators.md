@@ -12,6 +12,7 @@ generated:
 # Boolean Operators
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 unmarked) · 4 studies, `q3`–`q4` · 2 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 Boolean operators are the logical connectors (AND, OR, NOT, NEAR), grouping symbols (parentheses), and truncation symbols (*) that control how a search engine or database combines query terms. Teaching them means giving learners explicit instruction in what each operator does, followed by guided practice in which learners compare an unrefined search with an operator-refined search of the same question and reflect on how the result set changed. The strategy converts searching from keyword guessing into a deliberate, testable query formulation skill.

@@ -17,6 +17,7 @@ sources:
 # Evaluate apps against criteria relevant to their purpose and the learner's needs, not against a universal pass threshold
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article argues against evaluation schemes that require an app to meet a minimum score or all criteria, because apps serve different purposes for different learners. As it states, "insisting that all the criteria are determining factors for the generic evaluation of an app could be misleading." Instead, criteria should act as a reflection tool, with relevance depending on the app's function and the learner's level, preferences, and circumstances.

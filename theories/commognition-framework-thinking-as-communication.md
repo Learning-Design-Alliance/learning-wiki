@@ -16,6 +16,7 @@ sources:
 # Commognitive framework: thinking as communication and learning as participation in mathematical discourse
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Commognition, named from the combination of communication and cognition, conceptualizes thinking as self-communication and learning mathematics as participation in a discourse. The paper explains that each discourse is distinguishable by four characteristics: "community's word use, visual mediators, (endorsed) narratives, and routines". It distinguishes object-level rules (narratives about regularities in object behavior) from meta-discursive rules, and object-level learning (endogenous expansion of the discourse) from meta-level learning (exogenous transition to a new discourse). The authors propose this framework as both a theoretical lens and pedagogical approach for studying proof teaching in lectures.

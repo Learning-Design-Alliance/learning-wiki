@@ -12,6 +12,7 @@ generated:
 # Open Classroom Climate
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 unmarked) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 An open classroom climate is a discussion environment in which students perceive that they can voice opinions on controversial political and social issues without ridicule, that disagreement is treated as legitimate, and that multiple perspectives are genuinely welcomed. It is established through teacher modeling of impartial facilitation, explicit discussion norms, and repeated structured opportunities for [Class Discussion](../elements/class-discussion.md) on contested topics.

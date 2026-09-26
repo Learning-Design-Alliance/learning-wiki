@@ -17,6 +17,7 @@ sources:
 # Library-school collaboration must involve librarians working side-by-side with teachers on joint planning with mutual benefit
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The CLASP evaluation concluded that successful library-school collaboration requires librarians and teachers to work together in genuine partnership rather than parallel operation. The report recommends that "Collaboration must involve librarians working side-by-side with teachers to establish program goals that reflect joint planning, mutual benefit, and relevance to all audiences." This arose from findings that teachers were generally unaware of the project and there was little evidence of jointly planned programs.

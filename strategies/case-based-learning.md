@@ -12,6 +12,7 @@ generated:
 # Case Based Learning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (5 for) · 11 studies, `q2`–`q4` · 4 of 11 report an effect size
 
 ## Description
 Case Based Learning (CBL) places learners in the role of analyst or decision-maker confronting a realistic scenario — a patient history, a business dilemma, a legal dispute, an engineering failure. Learners examine the case's details, identify the central problem, apply relevant concepts, and defend a course of action, typically through structured [discussion](../elements/discussion.md) and [argumentation](../elements/argumentation.md). Unlike [Problem-Based Learning](../patterns/problem-based-learning.md), CBL usually supplies a fuller, pre-constructed narrative rather than an open problem statement.

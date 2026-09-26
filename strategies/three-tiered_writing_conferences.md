@@ -12,6 +12,7 @@ generated:
 # Three-Tiered Writing Conferences
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size
 
 ## Description
 The Three-Tiered Writing Conference is a structured protocol for brief (5–7 minute) one-to-one writing conferences. The teacher responds in three distinct layers: first as a *personal reader* sharing an authentic emotional response to the text; second as a *member of a writing community* offering suggestions a fellow writer might give; and third as a *teacher* providing one piece of direct instruction or a strategy matched to the student's need. The conference closes with the student articulating what they heard and naming a next step, reinforcing their identity as the author in charge of the piece.

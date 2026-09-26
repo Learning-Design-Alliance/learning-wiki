@@ -12,6 +12,7 @@ generated:
 # Lesson Plans
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
 
 ## Description
 A lesson plan is a structured planning document in which an educator specifies learning objectives, sequencing, activities, materials, and assessment for a single instructional session. Planning forces the instructor to work backward from intended outcomes to the activities and checks that will get learners there, converting broad curriculum goals into a concrete, time-bounded sequence. Plans range from detailed scripts (common for novice teachers) to outline-level sketches (common for experts), but the core functions — objective clarity, activity sequencing, and planned assessment — remain constant.

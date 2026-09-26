@@ -12,6 +12,7 @@ generated:
 # Seven Blind Mice
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q2`–`q4` · 4 of 8 report an effect size
 
 ## Description
 Learners hear Ed Young's *Seven Blind Mice* (1992), in which each mouse explores a different part of an unidentified object ("Something by the pond") and reports a different conclusion — a pillar, a snake, a spear. The facilitator stops after each mouse's account so learners can record notes, or assigns each small group one mouse's perspective in a jigsaw structure. Learners then pool evidence and speculate on what the object might be, experiencing how partial perspectives must be integrated to reach a fuller understanding.

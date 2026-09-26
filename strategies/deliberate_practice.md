@@ -12,6 +12,7 @@ generated:
 # Deliberate Practice
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 6 claims (5 for, 1 mixed) · 11 studies, `q3`–`q4` · 11 of 11 report an effect size · 2 claims rest on one study
 
 ## Description
 Deliberate practice is structured, effortful practice aimed at improving a specific, well-defined component of performance rather than merely repeating an activity. It requires an identified weakness, a targeted exercise just beyond current ability, immediate informative [feedback](../elements/feedback.md), and opportunities for repetition with refinement. The concept originates in Ericsson's research on expert performance, which found that accumulated deliberate practice — not general experience — distinguishes experts from non-experts [+M].

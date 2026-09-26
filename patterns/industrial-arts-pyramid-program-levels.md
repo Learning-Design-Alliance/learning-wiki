@@ -17,6 +17,7 @@ sources:
 # Industrial arts pyramid program across operational levels
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The guide recommends a pyramid program structure (Figure 4) in which elementary level activities introduce industrial technology in the world of work with emphasis on self-concepts, insights, and awareness; junior high core courses provide comprehensive exploration of industrial-technological clusters; and senior high cluster specialization courses enable exploration in depth and beginning specialization. The pyramid concept is "aimed at helping all students to become familiar with the values of an industrial-technological society, to integrate these values into their personal value system, and to implement these values."

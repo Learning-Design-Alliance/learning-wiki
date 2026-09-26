@@ -17,6 +17,7 @@ sources:
 # Embed puzzles and challenges in simulations for continued engagement and self-assessment
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 To sustain engagement after initial exploration, the article recommends designing conceptual puzzles and challenges into sims — implicit goals such as making sense of a behavior or representation, or explicit questions that promote exploration without directing how to answer. The authors write: "These puzzles and challenges provide students with motivation to explore and opportunities for built-in self-assessment". Puzzles are intrinsic to the sim context, letting students identify inconsistencies in their own knowledge.

@@ -12,6 +12,7 @@ generated:
 # Prompts & Questions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 Prompts and questions are pre-planned cues — distributed before, during, or after reading and discussion — that direct learner attention to key ideas, elicit reasoning, and structure productive dialogue. Well-designed questions do more than check comprehension: they ask learners to explain, connect, evaluate, and interrogate texts and each other, converting passive reception into active knowledge construction.

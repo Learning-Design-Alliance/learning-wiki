@@ -16,6 +16,7 @@ sources:
 # Foucauldian power/knowledge and episteme framework for situating Indigenous knowledges within Western universities
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper frames its pedagogy using Foucault's account of how institutions sanction knowledge, quoting that "power produces knowledge" and that the episteme separates "what may from what may not be characterised as scientific." This framework is used to explain how Indigenous knowledges have been subjugated within Western universities and to legitimise their reinstatement in the Indigenous Studies program, giving primacy to Indigenous ways of knowing while avoiding an essentialist binary between knowledge systems.

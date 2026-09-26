@@ -12,6 +12,7 @@ generated:
 # Screen Readers
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 5 of 5 report an effect size
 
 ## Description
 Screen readers are assistive software applications (e.g., JAWS, NVDA, VoiceOver) that convert on-screen text into synthesized speech or refreshable braille, navigating by headings, links, and landmarks. They are essential access technology for learners with visual impairments and are also used as text-to-speech support by learners with dyslexia or other reading difficulties. Effective use requires that source content be digitally accessible — properly structured headings, alt text, and semantic markup — or the screen reader output becomes unusable.

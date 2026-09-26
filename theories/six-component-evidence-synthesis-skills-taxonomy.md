@@ -16,6 +16,7 @@ sources:
 # Six-component taxonomy of evidence synthesis skills based on the JBI Manual
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The protocol defines the core evidence synthesis skills to be explored, identified based on the JBI Manual for Evidence Synthesis. The taxonomy has six branches: formulating an answerable research question (eg, using the PICO framework), developing a comprehensive search strategy, selecting and extracting information, critically evaluating information, analysing and interpreting scientific information, and writing a summarised report for effective communication. The review will map educational approaches onto these predefined components.

@@ -17,6 +17,7 @@ sources:
 # Data Analysis
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Data analysis is the element in which learners inspect, interpret, organize, or transform data in order to answer questions, identify patterns, or justify conclusions. It is useful when evidence comes in quantitative, qualitative, or observational form.

@@ -17,6 +17,7 @@ sources:
 # CoI Survey and metacognition questionnaire instruments for measuring presences and metacognition
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The study used two validated survey instruments: the 34-item CoI Survey (Arbaugh et al., 2008) measuring teaching, social, and cognitive presence on five-point Likert scales, and the 26-item metacognition questionnaire (Garrison & Akyol, 2015) measuring self-regulation and co-regulation. "The CoI survey was developed by Arbaugh et al. (2008) to measure students' perception of teaching presence (TP), social presence (SP), and cognitive presence (CP)." In this study the instruments showed generally satisfactory reliability, with Cronbach's alpha of .96 for the CoI survey and .93 for the metacognition questionnaire.

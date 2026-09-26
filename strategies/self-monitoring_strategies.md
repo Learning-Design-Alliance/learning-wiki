@@ -12,6 +12,7 @@ generated:
 # Self Monitoring Strategies
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies, `q2`–`q4` · 5 of 6 report an effect size
 
 ## Description
 Self monitoring strategies ask learners to systematically observe and record aspects of their own learning — attention, accuracy, strategy use, time on task, or comprehension — and compare what they observe against a standard or goal. Typical implementations include accuracy self-recording (tallying correct answers), comprehension checks ("Can I explain this paragraph?"), attention checks, and structured self-questioning during reading or problem solving. Monitoring is the bridge between goal-setting and strategy adjustment in self-regulated learning: without accurate monitoring, learners cannot tell when to persist, switch strategies, or seek help.

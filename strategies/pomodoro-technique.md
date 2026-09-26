@@ -12,6 +12,7 @@ generated:
 # Pomodoro Technique
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q3`–`q4` · 2 of 4 report an effect size
 
 ## Description
 The Pomodoro Technique, developed by Francesco Cirillo in the late 1980s, structures work into fixed intervals — traditionally 25 minutes of focused effort ("pomodoros") separated by 5-minute breaks, with a longer 15–30 minute break after every four intervals. The learner selects a task, commits to a single interval, records interruptions, and tracks completed pomodoros as a measure of effort. It functions as both an attention-management and a self-monitoring strategy.

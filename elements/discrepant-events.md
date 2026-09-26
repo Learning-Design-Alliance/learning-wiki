@@ -12,6 +12,7 @@ generated:
 # Discrepant Events
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Discrepant events are demonstrations, observations, or scenarios that violate learner expectations in a noticeable way. They are useful when the instructional goal is to provoke rethinking, explanation, and conceptual change.

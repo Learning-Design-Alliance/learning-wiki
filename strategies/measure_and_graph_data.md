@@ -12,6 +12,7 @@ generated:
 # Measure and Graph Data
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies, `q3`–`q4` · 9 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Learners gather quantitative data through direct measurement — timing, counting, weighing, sensing — and then represent the data in tables and graphs to reveal patterns, relationships, and anomalies. The strategy treats measurement and graphing not as reporting chores but as sense-making activities: deciding *what* to measure forces operationalization of concepts, and constructing a graph forces decisions about scale, axes, and relationships that surface underlying structure.

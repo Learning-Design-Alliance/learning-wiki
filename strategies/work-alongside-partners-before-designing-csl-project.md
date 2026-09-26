@@ -17,6 +17,7 @@ sources:
 # Faculty should work alongside community partners before developing a service-learning project to build trust and understand community considerations
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that faculty embed themselves in the community before designing a CSL project. As printed, "Finding ways to work alongside the community partner prior to developing a service-learning project will allow for faculty members to imbed themselves within the community and to gain an understanding of the ethical and logical considerations" needed for the project. The faculty author's own practice of three years of volunteering before the project exemplifies this strategy.

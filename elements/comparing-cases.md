@@ -17,6 +17,7 @@ sources:
 # Comparing Cases
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Comparing cases is the element in which learners inspect two or more examples, solutions, texts, or scenarios side by side in order to notice meaningful similarities, differences, and governing principles. It is useful when the goal is abstraction, discrimination, or transfer beyond a single instance.

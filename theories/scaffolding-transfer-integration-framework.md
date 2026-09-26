@@ -16,6 +16,7 @@ sources:
 # Scaffolding-Transfer Integration Framework for teacher observational skill development
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A two-phase framework integrating Cognitive Load Theory and Situated Learning Theory for sequencing technologies in teacher observation training. Phase 1 (Focus Foundation) uses virtual simulation to simplify contexts and build basic observation schemas under low cognitive load; Phase 2 (Deepening Transfer) uses authentic video sequences "ranging from simple to complex and typical to atypical" to refine skills in a real problem space. The article operationalized it via pre-structured VS prompts and progressively complex unscripted AV.

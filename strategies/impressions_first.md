@@ -12,6 +12,7 @@ generated:
 # Impressions First
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3` · 1 of 3 report an effect size
 
 ## Description
 Before diving into specifics, students record and share their initial impressions of a mentor text — what struck them, confused them, pleased them, or rang false. This activates prior knowledge and personal experience, connects the text to the reader's own interpretive frame, and gives the class a record of first readings to compare against later, more analytical ones. Because reading to learn is ultimately a solitary act, the strategy positions students' own responses — not the teacher's — as the starting point of interpretation.

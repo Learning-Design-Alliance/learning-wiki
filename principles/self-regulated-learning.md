@@ -17,6 +17,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 unmarked) · 2 studies, `q3` · 2 of 2 report an effect size
 
 ## Description
 Self-regulated learning is the principle of designing instruction so learners can plan, monitor, adjust, and reflect on their own learning processes. This page serves as the principle-level target for references that emphasize learner control and strategic regulation.

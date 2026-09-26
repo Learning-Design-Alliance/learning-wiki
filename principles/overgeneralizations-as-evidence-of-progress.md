@@ -17,6 +17,7 @@ sources:
 # Treat children's overgeneralized forms as evidence of progress rather than as errors or signs of weakness
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper draws an educational implication from the four-stage acquisition sequence: forms like 'corned,' 'goed' and 'taked' arise from overgeneralization of a rule and signal that the child has gained important understandings of how language works. It states educators should view such expressions 'not so much as "errors" or signs of weakness, as evidence that the child is progressing.' This reframing follows directly from the rule-governed account of acquisition.

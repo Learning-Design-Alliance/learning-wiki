@@ -17,6 +17,7 @@ sources:
 # Laboratory combining a fundamental-constant measurement, laser physics investigation, and nontrivial statistical analysis
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article's laboratory design integrates three strands in one experiment: an accurate measurement of a fundamental constant, investigation of the basic laser system's longitudinal modes, and nontrivial statistical analysis. The authors state the experiment "exposes students to a variety of experimental and mathematical techniques, demonstrates the importance of uncertainty in measurement, provides a meaningful context for using weighted regression". The weighted regression is motivated by data-dependent uncertainties in both variables, giving students an authentic reason for the technique.

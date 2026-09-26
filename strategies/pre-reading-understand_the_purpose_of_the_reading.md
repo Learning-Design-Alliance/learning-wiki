@@ -12,6 +12,7 @@ generated:
 # Pre-Reading — Understand the Purpose of the Reading
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 10 studies, `q2`–`q4` · 6 of 10 report an effect size
 
 ## Description
 Before reading, learners are given or generate an explicit purpose: a question to answer, a task the text will support, or a use for the information (e.g., "read to decide which proposal to fund"). The purpose is established through a short orientation — a framing question, a scenario, or a stated application — so that reading becomes goal-directed rather than passive decoding.

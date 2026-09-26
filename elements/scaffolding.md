@@ -12,6 +12,7 @@ generated:
 # Scaffolding
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 1 claim (1 against) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Scaffolding is the element in which support is added temporarily so learners can perform tasks they could not yet complete independently.

@@ -12,6 +12,7 @@ generated:
 # Brief Instruction Steps
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (3 for, 2 mixed) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size · 3 claims rest on one study
 
 ## Description
 Breaking up instructions into short, concrete steps allows learners to pay attention to and remember one instruction at a time. When there are multiple steps, providing written or visual instructions learners can refer back to supports [Working Memory](../theories/information-processing-theory.md) and processing speed. Combining audio and picture instructions engages both channels of working memory, increasing the likelihood that learners carry out all instructions [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M].

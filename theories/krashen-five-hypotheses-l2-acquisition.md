@@ -16,6 +16,7 @@ sources:
 # Krashen's five hypotheses of second language acquisition as principles for bilingual program design
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The packet operationalizes Cummins's and Canale & Swain's theories using Steve Krashen's (1981) five hypotheses: the acquisition-learning hypothesis (two separate processes, acquisition resembling L1 development and learning as explicit rule presentation with error correction), the natural order hypothesis, the monitor hypothesis, the input hypothesis, and the affective filter hypothesis. The monitor hypothesis is summarized as stating that "Acquisition is far more important and develops fluency, but conscipus learning can be used as an editor, a monitor". The packet derives three program requirements from these hypotheses: provide comprehensible input in the weaker language, maintain subject matter, and maintain and develop the child's first language.

@@ -17,6 +17,7 @@ sources:
 # E-CLASS survey for assessing student views of experiments in physics lab courses
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 E-CLASS is a pre/post epistemology and expectations survey for undergraduate physics lab courses. It uses 23 statements asked as paired questions about classroom and research contexts plus 7 affect statements, and a post-only question on what was important for earning a good grade. The article says it "assesses students views about their strategies, habits of mind, and attitudes when doing experiments in lab classes" and provides instructors with detailed feedback reports.

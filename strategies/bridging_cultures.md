@@ -12,6 +12,7 @@ generated:
 # Bridging Cultures
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 1 of 2 report an effect size
 
 ## Description
 The Bridging Cultures Project is a professional development strategy in which teachers study the contrast between individualistic and collectivistic cultural value systems, then examine how school routines — grading, praise, independence norms, classroom management — encode individualistic assumptions that may conflict with students' home values. Teachers then redesign practices to "bridge" the two systems rather than requiring students to assimilate. The approach originated with a seven-teacher research group working with Latino immigrant students in Southern California (Trumbull et al., 2001).

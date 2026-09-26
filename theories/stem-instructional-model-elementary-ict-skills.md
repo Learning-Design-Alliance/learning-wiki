@@ -16,6 +16,7 @@ sources:
 # STEM-based instructional model for elementary ICT skills with five main elements
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article proposes an instructional model based on the STEM education approach to enhance ICT skills for Thai elementary students. It consists of "five main elements—principles, purpose, content, teaching and learning process and measurement and evaluation of ICT skills". The teaching and learning process uses engineering design processes as the basis of operations, and the model was synthesized from documents, teacher interviews, and expert evaluation.

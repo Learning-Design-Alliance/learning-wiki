@@ -16,6 +16,7 @@ sources:
 # Engeström's activity system model as a lens for analyzing synchronous computer-mediated discussion
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The study applies Engeström's (1987) activity system model, which situates Vygotsky's tool-mediated action within Leont'ev's collective activity by adding rule, community, and division of labor. The author maps SCMD onto its six elements: "subject, object, tool, community, rule, and division of labor," with discourse topics as objects, SCMC technology and written text as material and semiotic tools, and utterances as outcomes. The model guided identification and description of the discourse activity system in a graduate seminar.

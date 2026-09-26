@@ -17,6 +17,7 @@ sources:
 # Intermediate Mechanics Tutorials
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Intermediate Mechanics Tutorials are a curriculum under ongoing development at the University of Maine for the second-year mechanics course, where students first solve differential equations in the physics curriculum. The authors state that "Our work underlies the ongoing development of the Intermediate Mechanics Tutorials", though the curriculum itself is not described in this paper. Materials are available at the printed project URL.

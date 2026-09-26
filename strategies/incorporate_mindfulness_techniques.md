@@ -12,6 +12,7 @@ generated:
 # Incorporate Mindfulness Techniques
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
 
 ## Description
 Mindfulness techniques — brief breathing exercises, body scans, focused-attention practice, and mindful reflection — are embedded in instruction to help students notice and regulate their emotional impulses before they disrupt learning. The strategy treats self-regulation as a trainable skill: short, structured practices (typically 3–10 minutes) are woven into routines such as lesson openings, transitions, and pre-assessment moments, rather than delivered as a standalone curriculum.

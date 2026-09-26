@@ -17,6 +17,7 @@ sources:
 # Match teacher education, mentoring, and evaluation to developmental stage: routines and scripts for novices, analytical mentors from the competent and proficient, and stage-appropriate evaluation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article's policy section recommends that early training concentrate on perceptual training and identifying instances of concepts, that novices be given 'standard lesson forms and scripts' and practice in routines, and that districts tell new teachers their assignments in advance. Mentors may be better drawn from competent or proficient teachers, who remain analytical enough to communicate their reasons, and research-based evaluation instruments suit novices but are irrelevant for proficient and expert teachers.

@@ -17,6 +17,7 @@ sources:
 # Match the form and content of staff development interventions to clients' assessed Stages of Concern
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 From a concerns-based perspective, staff development interventions should be designed and delivered to address assessed concerns. The paper states that "At different Stages of Concern different interventions will be more relevant" and that what facilitators do "should vary in form and content depending on their concerns profiles." All levels of intervention come into play at each stage; what varies across stages is the form and content of the interventions. The principle directs change facilitators to diagnose concerns first, then select interventions targeted to the stages that are most intense.

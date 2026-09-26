@@ -17,6 +17,7 @@ sources:
 # Design engagement into online units through tasks that are public, social, and student-directed, releasing responsibility and ownership of learning to students
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article found the discussion-group assessment effective because it "was public (meaning that students could access each other’s assessment work), social (directing students explicitly to engage with each other and to share their own experiences and beliefs), and student-directed". This provides evidence for releasing responsibility and ownership of learning to students, and supports Leong's proposal that engagement can be enhanced through greater student control. Unit designers should build these properties into tasks and assessment rather than blaming students for disengagement.

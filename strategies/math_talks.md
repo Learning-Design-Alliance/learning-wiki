@@ -12,6 +12,7 @@ generated:
 # Math Talks
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 13 studies, `q2`–`q4` · 10 of 13 report an effect size
 
 ## Description
 A math talk (also called a number talk or mathematical discourse routine) centers a single problem — often presented without paper or calculators — and asks learners to solve it mentally, then explain their reasoning aloud while the facilitator records and sequences the strategies offered. The facilitator's role is to elicit, revoice, and connect ideas rather than evaluate them, so that the class collectively compares multiple solution paths and evaluates their efficiency and validity. Over time, the routine builds norms of justification ("convince us"), precision in mathematical language, and a shared repertoire of strategies.

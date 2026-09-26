@@ -16,6 +16,7 @@ sources:
 # Distributed cognition: cognition as a function of a system of people and tools
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper describes distributed cognition as extending the unit of analysis beyond the individual to the context in which the individual operates, so that "cognition is seen as less a function of the individual as much as a function of an overall system that includes groups of individuals and their tools" (Hutchins, 1995). Cognition may be distributed socially across groups or across artifacts and tools, or both, and situational factors such as social processes can be treated as integral to the cognitive process. The paper notes criticisms that the account risks equating people and artifacts, and that proponents like Salomon and Pea introduced distinctions to avoid that equivalence.

@@ -12,6 +12,7 @@ generated:
 # Story Retelling
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 6 studies, `q3`–`q4` · 4 of 6 report an effect size
 
 ## Description
 Story retelling asks learners to reconstruct a narrative — orally, in writing, or through dramatization — after reading or hearing it. Unlike literal recall questions, retelling requires learners to reproduce the story's macrostructure (setting, characters, problem, events, resolution) in their own words, making their mental model of the text observable and assessable. It functions simultaneously as a comprehension check and as a generative learning activity.

@@ -16,6 +16,7 @@ sources:
 # Social learning theory expectancy framework (generalized and specific expectancies)
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Rotter's social learning theory, as applied in this article, conceptualizes behavior as determined by generalized expectancies, such as locus of control (internal versus external reinforcement), and by specific expectancies formed from experience in particular situations. The article uses this framework to interpret academic achievement in expectancy terms, measuring generalized expectancies with the Nowicki-Strickland CNS-IE and specific expectancies with the Rotter Level of Aspiration Board. The study's findings that internal locus of control and realistic specific expectancies both predicted achievement were taken as supportive of "conceptualizing achievement in expectancy terms".

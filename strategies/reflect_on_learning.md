@@ -12,6 +12,7 @@ generated:
 # Reflect on Learning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Reflection asks learners to deliberately revisit what they learned, how they learned it, and what remains unclear — through journaling, structured discussion, or self-assessment prompts. It converts experience into articulated knowledge: learners must retrieve, organize, and evaluate recent learning rather than simply moving on. When done collaboratively, learners also encounter peers' reasoning, exposing gaps and alternative strategies.

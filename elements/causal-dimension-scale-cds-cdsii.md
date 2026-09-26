@@ -17,6 +17,7 @@ sources:
 # Causal Dimension Scale (CDS) and revised CDSII as improved attribution measurement devices
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Causal Dimension Scale, developed by Russell (1982), is a measure of how individuals perceive attribution causes: athletes indicate a cause for an outcome and rate it on questions related to locus of control, stability, and controllability, yielding eight possible attribution categories for more accurate assessment. The 1992 CDSII revision by McAuley, Duncan, and Russell is a four-dimensional scale adding personal control and external control, which "helps distinguish between outcomes caused by the individual and outcomes caused by other people."

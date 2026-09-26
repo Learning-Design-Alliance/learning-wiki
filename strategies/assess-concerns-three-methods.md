@@ -17,6 +17,7 @@ sources:
 # Use three methods to assess concerns: questionnaire, open-ended statements, and informal conversation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper describes three practical ways to determine individuals' or groups' concerns about an innovation. The most accurate is administering the 35-item SoC Questionnaire, which yields a graphic profile showing which stages are highest and lowest. A second method solicits written responses to the prompt "WHEN YOU THINK ABOUT THE INNOVATION, WHAT ARE YOU CONCERNED ABOUT?" with statements then analyzed against the seven stages. A third is informal conversation by a perceptive individual familiar with Stages of Concern, suited to counselors and others with non-threatening peer relationships with staff.

@@ -17,6 +17,7 @@ sources:
 # Collaborative Autoethnography for Teacher PD
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 unmarked) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Standard professional development often positions research or expert frameworks as the primary content teachers absorb. Collaborative autoethnography (CAE) inverts this: teachers write short individual reflections on their own practice in response to an open-ended prompt, then collectively and silently read and annotate the full set of reflections before discussing them as a group — letting themes emerge from teachers' own accumulated experience, with research readings woven in afterward to extend (not replace) what the group surfaces. Across sessions, the group itself crafts the next prompt based on unresolved questions from the current one, so the arc of the professional-learning sequence is participant-driven.

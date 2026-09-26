@@ -17,6 +17,7 @@ sources:
 # Facilitate cognitive disequilibrium about ethnocentric views
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 This strategy directs program designers to build experiences that deliberately unsettle students' existing cultural assumptions. The article states that a "graduate program must facilitate a cognitive disequilibrium during which students identify and question their ethnocentric views" and consider the efficacy of other cultural perspectives. It is implemented through curriculum content that challenges students' taken-for-granted beliefs so they can move toward cultural competence.

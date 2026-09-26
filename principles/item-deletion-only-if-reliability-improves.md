@@ -17,6 +17,7 @@ sources:
 # Delete items only when test reliability improves upon deletion
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article proposes a data-driven item-deletion procedure: identify candidate items via the k0 intersection acceptance region (k0 ± 2SD of item scores, difficulty or discriminating values), skewness of the parameter distributions, or marginal point-biserial item reliability, but it states plainly that "Deletion of items is advisable only when reliability of the test improves upon deletion." Deletion changes both test difficulty and discriminating values, so impact must be checked before removing items.

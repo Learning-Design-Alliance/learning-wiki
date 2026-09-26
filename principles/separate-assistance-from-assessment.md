@@ -17,6 +17,7 @@ sources:
 # Separate assistance from assessment so beginning teachers trust their guides and take risks
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper reports that many induction programs deliberately locate the functions of assistance and assessment in different individuals, on the assumption that "beginning teachers will develop greater trust and be more willing to take risks and ask for help in non-evaluative relationships." The principle holds that a guide without formal evaluative responsibility fosters norms of inquiry and collegiality more readily. However, judgement cannot be eliminated entirely: judgements inevitably enter any effort to understand teaching, so the guide must still decide whether and how to act on the judgements formed.

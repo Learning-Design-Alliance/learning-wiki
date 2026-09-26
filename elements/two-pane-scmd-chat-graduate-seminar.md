@@ -17,6 +17,7 @@ sources:
 # Text-based synchronous chat with two-pane chronological display in a graduate seminar
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The studied SCMD environment was a Web-based chat system with a top pane displaying messages chronologically with ordinal numbers and authors' names, and a bottom pane for composing messages. Unlike instant messaging programs, it "did not provide any functionality of noticing if others were composing their message currently." Across 13 sessions the group produced 82 to 158 messages per session, averaging 129.4 utterances per session.

@@ -17,6 +17,7 @@ sources:
 # Require consistent advocacy in debate activities: bar or discourage conditional arguments
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 In debate activities, require students to commit to and defend a consistent set of claims through the round rather than allowing conditional or multiple hypothetical positions that can be dismissed at the last moment. Herbeck argues conditional claims should be discouraged because they "fail to satisfy minimum preconditions for meaningful argumentation," encourage shoddy advocacy, and cannot be evaluated meaningfully. He contends that barring them does not unfairly restrict negative options, using a legislator analogy in which an individual advocate can defend only one position at a time.

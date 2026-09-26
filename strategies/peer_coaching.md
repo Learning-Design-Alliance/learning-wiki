@@ -12,6 +12,7 @@ generated:
 # Peer Coaching
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q4` · 4 of 4 report an effect size
 
 ## Description
 Peer coaching is a reciprocal helping relationship between equals who support each other's learning through mutual trust and open discussion. Participants alternate between coach and client roles — observing one another's practice, offering feedback, sharing experiences, and holding each other accountable. Unlike hierarchical mentoring, peer coaching distributes expertise: each partner is both a source of support and a learner, which builds reflective practice alongside the target skill.

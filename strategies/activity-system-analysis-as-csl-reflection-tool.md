@@ -17,6 +17,7 @@ sources:
 # Use activity-system analysis (objectives, rules, norms, artifacts, division of labour) as a reflection tool for CSL participants
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper recommends that CSL students and other participants use CHAT's analytical tools to reflect on their experiences: analyzing differences in the objectives, rules, norms, mediating artifacts, and division of labour across different activity systems. This analysis is presented as an essential first step toward engaging in the creation, development, and transformation of their learning and working conditions.

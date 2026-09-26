@@ -12,6 +12,7 @@ generated:
 # The Frayer Model
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 6 of 7 report an effect size
 
 ## Description
 The Frayer Model is a four-quadrant graphic organizer used to teach a concept rather than an isolated fact. Learners complete quadrants for **Definition** (a precise statement of the concept's category and boundaries), **Essential Characteristics** (attributes every instance must have), **Examples**, and **Non-Examples** (near-misses that share surface features but fail the criteria). Developed by Frayer, Frederick, and Klausmeier (1969) at the Wisconsin Research and Development Center, it operationalizes a "concept of definition" procedure in which word knowledge means knowing boundaries, not just meanings.

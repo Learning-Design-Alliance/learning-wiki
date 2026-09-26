@@ -12,6 +12,7 @@ generated:
 # Self Monitoring Strategies
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 9 studies, `q2`–`q4` · 5 of 9 report an effect size
 
 ## Description
 Self monitoring strategies prompt learners to observe and evaluate their own comprehension, performance, or progress against explicit criteria while learning. Typical forms include comprehension checks ("Can I explain this in my own words?"), progress tracking against a rubric or checklist, error logging, and periodic self-questioning during reading or problem solving. Monitoring is the engine of [Self-Regulated Learning](../theories/self-regulated-learning.md): without accurate self-assessment, learners cannot adapt their study strategies or know when to seek help.

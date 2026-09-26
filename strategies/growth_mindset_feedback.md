@@ -12,6 +12,7 @@ generated:
 # Growth Mindset Feedback
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size
 
 ## Description
 Growth mindset feedback directs learners' attention to the processes that produce learning — effort, strategy selection, persistence, and revision — rather than to fixed traits like intelligence or talent. It treats errors as informative ("good mistakes") and frames grades as information about current performance, not judgments of ability. The approach operationalizes Dweck's mindset theory at the level of day-to-day feedback language, complementing broader [Self-Regulated Learning](../theories/self-regulated-learning.md) instruction.

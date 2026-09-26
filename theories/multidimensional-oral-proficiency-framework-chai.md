@@ -16,6 +16,7 @@ sources:
 # Multidimensional oral proficiency assessment framework grounded in communicative competence theory
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article operationalizes spoken competence as a set of distinct but interrelated component skills, building on communicative competence theory, which "identifies four components that sit beneath effective language use: grammatical competence for mastery of the linguistic code, sociolinguistic competence for contextual appropriateness, discourse competence for coherent text construction, and strategic competence for repairing communication when it breaks down." Dimension scores are combined through a weighted formula into an integrated proficiency score, enabling both holistic estimation and targeted diagnostic feedback on specific competence deficits.

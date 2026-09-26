@@ -12,6 +12,7 @@ generated:
 # Authentic Writing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q3` · 1 of 5 report an effect size
 
 ## Description
 Authentic writing assigns composition tasks with genuine communicative purpose — writing for real audiences, real decisions, or real publication rather than producing text solely to demonstrate competence to an instructor. The task mirrors how writing functions outside school: to persuade, inform, document, or connect with someone who will actually read and respond. It is carried out by specifying an audience, a purpose, and often a real or simulated genre (letter, proposal, op-ed, wiki article), and by arranging for the work to reach that audience.

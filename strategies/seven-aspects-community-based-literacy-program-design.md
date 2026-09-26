@@ -17,6 +17,7 @@ sources:
 # Seven aspects to consider in designing a context-specific community-based literacy and functional education program
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Drawing on the author's research under the ADB-DECS-BNFE-UP-ERP Literacy Research and Development Program, the article prescribes that designers of a context-specific, community-based literacy and functional non-formal education program must consider seven aspects: nature of community life, extent of literacy practice within the community, use of locally adapted and indigenous materials, development of a literate tradition in communities, incorporation of livelihood and development components, use of the interagency approach, and a system of equivalency and accreditation with a new role for the Bureau of Nonformal Education. The author states "Our research tells us that when we speak of a context-specific or community-based literacy and functional education program, we need to consider at least seven aspects."

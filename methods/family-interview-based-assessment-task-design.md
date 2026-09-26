@@ -17,6 +17,7 @@ sources:
 # Family-Interview-Based Assessment Task Design
 
 > **Design Method** · [All design methods](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Rather than designing generic "culturally relevant" assessment tasks in advance, this strategy has instructors (ideally the classroom teachers themselves, not only researchers) conduct family interviews to surface [funds of knowledge](../theories/funds-of-knowledge.md) — specific household and community practices — then extract vignettes that connect those practices to target disciplinary concepts, and co-design and iteratively test assessment tasks built around them (e.g., a "bus riding" task embedding sequencing and data reasoning, drawn from a family's actual daily commute practices).

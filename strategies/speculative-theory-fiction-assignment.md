@@ -17,6 +17,7 @@ sources:
 # Assign speculative theory-fiction writing to build students' capacity for ecologically just futurity
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 This performative writing assignment tasks students with composing speculative theory-fiction, fusing the speculative imagining of science fiction with theorizing as practical application of existing theories and deductive reasoning to communication situations. Students may organize their piece as science fiction, ecopoetry, or a political manifesto, but must employ self-reflexivity about the politics of the future readers are placed within, asking in what ways the world is more just and for whom, and whether solutions create new problems. Through this writing, students learn to think against contemporary structures of oppression while articulating steps to dismantling them.

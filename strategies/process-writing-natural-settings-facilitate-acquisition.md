@@ -17,6 +17,7 @@ sources:
 # Use process writing techniques in natural language settings to develop the push to communicate and facilitate acquisition
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends process writing techniques drawn from L1 writing research as implementable classroom practices for L1 and L2 writers. It states that "Process writing techniques utilize natural language settings which develop the push to communicate which in turn facilitates acquisition." The named techniques include free writing, extensive writing, teacher conferences, peer group work, drafting, daily journals, emphasis on purpose and audience, and supportive student-centered environments emphasizing trust.

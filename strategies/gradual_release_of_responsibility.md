@@ -12,6 +12,7 @@ generated:
 # Gradual Release of Responsibility
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 11 studies, `q2`–`q4` · 9 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 The Gradual Release of Responsibility (GRR) model structures instruction as a deliberate transfer of cognitive work from teacher to student. In the "I do" phase the teacher models the skill; in the "we do" phase teacher and students work jointly with prompts, cues, and feedback; in the "you do" phase students apply the skill independently while the teacher monitors and confers. The model originated in Pearson & Gallagher (1983), building on [Social Learning Theory](../theories/social-learning-theory.md) and early scaffolding research.

@@ -17,6 +17,7 @@ sources:
 # Summative Assessment
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q4` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Summative assessment is the principle of evaluating learner performance at the end of an instructional sequence in order to judge the level of competence, understanding, or achievement reached. Its value depends on whether the assessment samples the learning goals credibly rather than merely being comprehensive or difficult.

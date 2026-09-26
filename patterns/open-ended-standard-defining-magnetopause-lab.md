@@ -17,6 +17,7 @@ sources:
 # Open-ended data-interpretation task in which students define their own standards for locating a boundary in simulation results
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 In this lab pattern, students must determine the magnetopause location in simulation plots without a prescribed method. The lab materials explain the relevant physical processes, but "no prescription for finding the magnetopause is given". The authors state this requirement stimulates students to examine their graphs more closely and that the openness fairly reflects real lab work, where interpreting simulation results requires discretion. Students may ask their instructor for assistance while still owning the decision.

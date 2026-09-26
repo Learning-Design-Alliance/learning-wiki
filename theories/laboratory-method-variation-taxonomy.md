@@ -16,6 +16,7 @@ sources:
 # Eight laboratory method types from three classificatory adjectives
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper classifies laboratory instruction along three adjective groups, producing eight option types that differ in their space requirements. The author writes: "For science courses, laboratory variations can be described using three groups of adjectives: (1) wet-dry, (2) verifying-inquiring, and (3) directed-undirected." Wet laboratories require water and related services, verifying labs allow rigid scheduling away from the classroom, while undirected inquiry demands enlarged storage and after-class access. Printed examples of each type are provided in an appendix.

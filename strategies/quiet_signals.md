@@ -12,6 +12,7 @@ generated:
 # Quiet Signals
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 mixed) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
 
 ## Description
 Quiet signals are predetermined cues or actions — flicking the lights, ringing a chime, raising a hand and counting down, or call-and-response phrases — that a teacher uses to quickly and consistently quiet a noisy classroom. The signal functions as a conditioned stimulus: through repeated, predictable pairing with the expected student response (stop, look, listen), it comes to trigger attention automatically, replacing verbal commands that compete with the noise they are meant to end.

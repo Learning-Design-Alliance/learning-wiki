@@ -12,6 +12,7 @@ generated:
 # Separate Product, Process, and Progress Criteria
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 mixed) · 3 studies, `q2`–`q3` · 2 of 3 report an effect size
 
 ## Description
 Rather than collapsing achievement, effort, behavior, and growth into a single grade, this strategy grades each criterion separately: **product** (what students know and can do against standards), **process** (learning behaviors such as practice quality, revision, and collaboration), and **progress** (improvement over time). Each criterion is reported separately with its own rubric, so the achievement grade remains a clear signal of mastery while behaviors and growth are still acknowledged and incentivized.

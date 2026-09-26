@@ -17,6 +17,7 @@ sources:
 # Use autoethnography so community partners can articulate their lived experiences in their own voices within CSL
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes autoethnography as a method for centering community partner voice in CSL research. As printed, "Using an autoethnographic method allows for the community partners and faculty to articulate their lived experiences in their authentic voices." The authors argue that existing summative quantitative and qualitative methods leave the power of framing the narrative with the writer rather than the community partner, whereas autoethnography lets researchers become participants and produce individual narratives through self-observation.

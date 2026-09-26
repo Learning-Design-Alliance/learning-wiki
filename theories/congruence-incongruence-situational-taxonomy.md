@@ -16,6 +16,7 @@ sources:
 # Four-category taxonomy of adaptive and maladaptive congruence/incongruence
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article proposes that congruence and incongruence of communication must be analyzed situationally, yielding four categories: adaptive congruence (open honest communication in close intimate relationships), maladaptive congruence (communicating true feelings when socially inappropriate), maladaptive incongruence (not saying what one truly feels when genuine communication is warranted), and adaptive incongruence (withholding truth when truth-telling would be socially inappropriate, as in etiquette). The authors propose "that an analysis of interpersonal interactions will show that there arc four categories of congtuence/incongruence situational patterns."

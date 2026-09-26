@@ -17,6 +17,7 @@ sources:
 # CoMTA and MathDial Math Tutoring Dialogue Datasets
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article evaluates dialogueKT on two existing math tutoring dialogue datasets. "The CoMTA dataset [39] contains 188 dialogues between human students and Khanmigo, Khan Academy’s GPT-4- powered tutor"; after removing Calculus dialogues, 153 remain, with 623 labeled turn pairs and 164 unique KCs. MathDial contains 2,848 dialogues between GPT-3.5-simulated students and crowd workers role-playing tutors; the article uses 2,823 with 13,200 labels and 145 KCs.

@@ -12,6 +12,7 @@ generated:
 # Phonics Instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q1`–`q2` · 2 of 2 report an effect size
 
 ## Description
 Phonics instruction teaches the relationships between written letters (graphemes) and spoken sounds (phonemes), then trains learners to blend those correspondences into words and to segment words for spelling. It is carried out through explicit, sequenced teaching — typically introducing a small set of high-utility correspondences, modeling decoding aloud, and following immediately with decodable practice text. Systematic programs (e.g., synthetic phonics) teach correspondences in a planned order rather than incidentally as words arise in reading.

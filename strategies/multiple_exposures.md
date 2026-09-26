@@ -12,6 +12,7 @@ generated:
 # Multiple Exposures
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 6 of 7 report an effect size
 
 ## Description
 Multiple exposures arrange for learners to encounter the same target content several times, distributed across time and varied in form — a lecture, a reading, a worked example, a discussion, a practice problem. Each exposure should differ in context or task demands so that repetition produces elaboration and abstraction rather than rote familiarity.

@@ -12,6 +12,7 @@ generated:
 # Negotiation
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Negotiation is the element in which learners work through competing interests, priorities, or interpretations in order to reach a decision, compromise, or shared position. It is useful when learning involves tradeoffs, stakeholder reasoning, or collaborative resolution.

@@ -12,6 +12,7 @@ generated:
 # Skip Counting with Movement
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Make up a movement that comes in 2, 3, or more parts. Whisper the first parts, and call out the final move loudly. Example: Windmills. Whisper "1" and touch your right hand to your left foot. Whisper "2" and touch your left hand to your right foot. Call out "3" and do a jumping jack! Continue counting like this up to 30, calling out the multiples of 3 and whispering the numbers in between.

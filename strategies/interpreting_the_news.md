@@ -12,6 +12,7 @@ generated:
 # Interpreting the News
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 3 of 4 report an effect size
 
 ## Description
 Learners select a current news item and examine how it is reported across multiple outlets, comparing framing, sourcing, and emphasis to infer the assumptions and perspectives of each reporter. The activity treats news texts as constructed artifacts rather than transparent windows on events, building media literacy, critical evaluation skills, and perspective-taking through structured comparison and discussion.

@@ -12,6 +12,7 @@ generated:
 # Circle Time Emotions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 10 studies, `q3`–`q4` · 5 of 10 report an effect size
 
 ## Description
 End each week with a group circle where students discuss different topics and share their feelings. Students can use Circle Time to discuss conflict, repair fractured relationships, and connect with their emotions. Start with "What makes you happy?" and add other emotions as students become familiar with the format.

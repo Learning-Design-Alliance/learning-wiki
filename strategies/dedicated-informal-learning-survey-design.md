@@ -17,6 +17,7 @@ sources:
 # Survey research on informal learning should use dedicated framing questions that prompt reflection before asking about learning activities
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper recommends that future survey research on informal learning establish benchmarks of the general incidence, basic contents and modes, and differential patterns of intentional informal learning. It finds that surveys embedding informal learning questions after extensive course-participation questioning produce serious underestimates, because most people deny significant learning outside educational settings until given opportunity to reflect. Effective designs, following Tough and Penland, open with a framing question asking about "any sort of deliberate effort at all to learn something" on one's own initiative, followed by probes across multiple life domains.

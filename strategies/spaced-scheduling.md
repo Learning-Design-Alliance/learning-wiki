@@ -12,6 +12,7 @@ generated:
 # Spaced Scheduling
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 2 of 3 report an effect size
 
 ## Description
 Spaced scheduling distributes study, practice, or review sessions across time — separated by hours, days, or weeks — instead of concentrating them in a single block. It is typically implemented as a fixed schedule (e.g., review at 1 day, 1 week, 1 month) or an expanding schedule in which intervals lengthen as material becomes more secure (spaced repetition).

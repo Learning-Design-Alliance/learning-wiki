@@ -14,6 +14,7 @@ grain_size: course
 # Systematic Instructional Design
 
 > **Design Process** · [All design processes](index.md)
+> **Evidence** · 4 claims (3 for, 1 against) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 Systematic instructional design treats a course as a system whose parts must be derived from a stated goal and checked against it. The lineage runs from Gagné's analysis of learning conditions through the military and industrial training models of the 1970s to ADDIE — Analysis, Design, Development, Implementation, Evaluation — and to Dick & Carey's *systematic design of instruction*, which is the fullest published expression of it.

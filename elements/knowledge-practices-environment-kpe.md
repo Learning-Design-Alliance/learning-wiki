@@ -16,6 +16,7 @@ sources:
 # Knowledge Practices Environment (KPE): a platform for object-centred collaborative knowledge creation
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 KP-Lab technology provided a basic platform, the Knowledge Practices Environment (KPE), to support knowledge creation processes and to offer tools and functionalities for innovative, reflective and object-centered knowledge practices such as planning, versioning, commenting, annotating and semantic search. KPE integrates processes supporting collaborative knowledge creation in flexible ways, including planning epistemic processes, producing texts and notes, organising work on shared objects across communities, and reflecting on planning processes. It consists of shared space views, support tools, and optional tools that are loosely integrated applications selectable by the user.

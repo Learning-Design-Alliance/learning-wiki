@@ -17,6 +17,7 @@ sources:
 # Daily Before-and-After SRL Learning Diary
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A daily online learning diary with two sections per learning day. "Before learning, open-ended questions triggered goal-setting, planning, and self-motivation", asking which chapters, goals, strategies and time were planned. The evening section "triggered reflection and goal-setting for the following day", comparing goals to achievement and naming obstacles. Participants averaged 12.58 entries; used alone, it produced no significant gains in this study.

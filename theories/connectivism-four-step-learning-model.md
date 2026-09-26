@@ -16,6 +16,7 @@ sources:
 # The four-step connectivism learning model: aggregating, remixing, repurposing, feed forward
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The survey reports a connectivist methodology for learning described by Kultawanicha, Koraneekija, and Na-Songkhlaa (2015): "the model of connectivism learning consists of 4 steps including: (1) Aggregating, (2) Remixing, (3) Repurposing, and (4) Feed Forward". The author characterizes this as a model of network formation rather than a model of knowledge acquisition, in which students need to experience the continuous need to make new connections, whether to resources or to people. It operationalizes connectivism's view that learning lies in the external network rather than solely in internal knowledge construction.

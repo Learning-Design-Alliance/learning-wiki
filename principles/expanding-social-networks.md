@@ -17,6 +17,7 @@ sources:
 # Expanding Social Networks
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Networking and supporting adult learners in expanding their social networks provide access to additional resources and Social Supports, which can impact their trajectory and Motivation. Knowledge and utilization of existing informal and formal social networks to raise awareness of local learning opportunities can improve persistence and feelings of Safety. This can have a significant impact on vulnerable populations, especially adults who have been negatively impacted by Adverse Experiences, Socioeconomic Status, language barriers, and physical or cognitive limitations. When it comes to getting a job, networks are especially important to low-skilled workers and immigrants.​

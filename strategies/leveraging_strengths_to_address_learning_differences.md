@@ -12,6 +12,7 @@ generated:
 # Leveraging Strengths to Address Learning Differences
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size
 
 ## Description
 This strategy involves identifying each learner's specific strengths and challenges, then deliberately selecting instructional strategies that route learning *through* those strengths while scaffolding areas of difficulty. It treats learning differences (e.g., in working memory, processing speed, self-regulation, or language) as variations to be designed around rather than deficits to be remediated in isolation, and it builds learners' own awareness of their assets so they can self-advocate and self-regulate.

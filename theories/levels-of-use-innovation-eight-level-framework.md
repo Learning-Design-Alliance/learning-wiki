@@ -16,6 +16,7 @@ sources:
 # Levels of Use of the Innovation: an eight-level behavioral framework for individual innovation implementation
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Levels of Use of the Innovation (LoU) is a generic implementation variable describing the performance of an individual using any innovation, part of the Concerns-Based Adoption Model. Growth in use is viewed as following similar steps regardless of the innovation: "from before any knowledge of the innovation exists, through preparation to begin use, through development of skills and knowledges necessary for use to become routine, and finally through refinement, integration, and renewal". The eight levels are Nonuse, Orientation, Preparation, Mechanical Use, Routine, Refinement, Integration, and Renewal, each with printed behavioral indicators.

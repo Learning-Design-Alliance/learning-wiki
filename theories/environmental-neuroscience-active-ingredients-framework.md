@@ -16,6 +16,7 @@ sources:
 # Environmental neuroscience active-ingredients framework
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article frames environmental neuroscience as a field aiming to identify the "active ingredients" of the physical environment — specific features such as air quality, ambient noise levels, and light exposure that affect brain working mechanisms and mental well-being. It argues that studying these ingredients in isolation fails to reflect real-life exposure because factors are highly interrelated, so both their common and unique contributions to brain structure and function must be considered. The Day2Day Environment project operationalizes this framework by simultaneously measuring multiple exposures alongside brain measures over time.

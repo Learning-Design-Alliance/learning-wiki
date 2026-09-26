@@ -14,6 +14,7 @@ grain_size: lesson
 # Think-Pair-Share
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 4 claims (4 mixed) · 12 studies, `q3`–`q4` · 12 of 12 report an effect size
 
 ## Description
 Think-Pair-Share is a short discussion pattern in which learners first think individually, then discuss with a partner, and finally share outward to a larger group. The pattern slows down whole-class discussion by giving every learner time to formulate an idea before speaking publicly. Its value lies in the sequence: private thinking, low-stakes articulation, and then broader sharing.

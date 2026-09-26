@@ -12,6 +12,7 @@ generated:
 # Questioning Techniques
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 6 claims (5 for, 1 mixed) · 16 studies, `q2`–`q4` · 7 of 16 report an effect size
 
 ## Description
 Questioning techniques are deliberate patterns of asking — before, during, and after instruction — designed to elicit learner thinking rather than simply check recall. They range from activating questions posed before new content, to Socratic probing during discussion, to self-explanation prompts learners apply to their own work. The technique lies less in the questions themselves than in their timing, cognitive demand, and the response conditions (wait time, follow-up probes) that surround them.

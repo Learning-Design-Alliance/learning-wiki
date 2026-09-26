@@ -17,6 +17,7 @@ sources:
 # Iteration-coefficient sequences as the controllable design element of stochastic approximation
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 In the procedure analyzed by the article, the iteration coefficients are the designable component: they scale each update of the estimate, and their properties determine whether the sequence converges. The article's central result is "a necessary and sufficient condition on the iteration coefficients for convergence with probability one and in the quadratic mean," making coefficient selection the practical design decision for any application.

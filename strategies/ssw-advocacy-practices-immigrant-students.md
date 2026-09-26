@@ -17,6 +17,7 @@ sources:
 # SSW advocacy practices for immigrant students: support groups, rights education, safe spaces, and community referrals
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article documents concrete advocacy practices SSWs used to counteract racialized contexts: creating support groups for students with detained or deported parents, educating students and families about their rights, carving out safe spaces within schools, providing legal resources, directing families to community services, and forming networks of adult support for unaccompanied minors. These practices aim to thwart the impact of a hostile nested context of reception experienced by immigrant students.

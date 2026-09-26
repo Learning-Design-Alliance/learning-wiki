@@ -12,6 +12,7 @@ generated:
 # Mindfulness Practices
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 unmarked) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
 
 ## Description
 Mindfulness practices bring structured attention to present-moment experience — typically through breathing exercises, brief meditation, body scans, or mindful movement — with the aim of calming the nervous system and strengthening self-regulation. In learning environments they are used as short, repeated routines embedded in the schedule rather than as stand-alone lessons, helping learners manage stress and re-orient attention before and during demanding cognitive work.

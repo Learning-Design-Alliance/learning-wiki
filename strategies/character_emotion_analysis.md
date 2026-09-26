@@ -12,6 +12,7 @@ generated:
 # Character Emotion Analysis
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 This strategy involves having students analyze characters' feelings in literature to improve their self-awareness and emotional recognition. Students identify, label, or match facial expressions and feelings of characters, then connect those emotions to characters' actions, motivations, and outcomes. Literature functions as a low-stakes simulation of social situations: learners practice reading emotional cues and inferring mental states in a fictional context before applying the same skills to real peers.

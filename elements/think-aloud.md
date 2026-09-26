@@ -12,6 +12,7 @@ generated:
 # Think-Aloud
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Think-aloud is the element in which an instructor, peer, or learner verbalizes reasoning while performing a task. It makes otherwise hidden judgment, strategy, and error-checking processes visible so learners can observe not just what to do, but how to decide.

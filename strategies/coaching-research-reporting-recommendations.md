@@ -17,6 +17,7 @@ sources:
 # Describe coaching components, collect fidelity and maintenance data, and explore school-personnel and technology-based coaching in future coaching research
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The review's implications for future research recommend that researchers carefully describe components of the coaching package used, such as coaching dosage and location, to increase accurate replication and identify which components have the greatest effect. It further recommends collecting fidelity of implementation and follow-up or maintenance data, exploring coaching delivered by school personnel such as academic coaches, school psychologists, and administrators, expanding research into special education and secondary classrooms, and continuing to explore technology-based coaching, which may be cost effective and offer flexibility.

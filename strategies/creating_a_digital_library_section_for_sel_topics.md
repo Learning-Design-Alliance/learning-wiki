@@ -12,6 +12,7 @@ generated:
 # Creating a Digital Library Section for SEL Topics
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q3` · 1 of 5 report an effect size
 
 ## Description
 A digital library includes a dedicated section of books focused on social and emotional learning (SEL) topics — empathy, managing emotions, relationships, problem-solving, perseverance, and perspective-taking. Titles are organized by topic, skill, or grade level so educators can integrate SEL into the curriculum and students can locate resources matched to their needs. The curated section signals that SEL is a legitimate curricular priority and lowers the search cost of finding relevant literature.

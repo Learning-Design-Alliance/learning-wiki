@@ -17,6 +17,7 @@ sources:
 # Increase local responsibility for program compliance through self-review before state validation
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The guide's central design principle is devolving compliance assurance to the local level: districts perform a compliance self-review that the state agency later validates, with state technical and management assistance for preventing and resolving problems. Its stated goal is "To increase local responsibility For program compliance by encouraging school districts and schools tc perform a program compliance self-review prior to SDPI star validation of that review."

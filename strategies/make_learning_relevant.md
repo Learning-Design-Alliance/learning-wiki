@@ -12,6 +12,7 @@ generated:
 # Make Learning Relevant
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
 
 ## Description
 Making learning relevant means deliberately connecting instructional content to learners' interests, goals, communities, and prior experience so that the material carries personal value rather than relying solely on external incentives. In practice this ranges from contextualizing problems in familiar scenarios, to giving students authentic audiences and purposes for their work, to offering meaningful choices that build ownership of the learning process.

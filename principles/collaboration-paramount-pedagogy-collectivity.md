@@ -17,6 +17,7 @@ sources:
 # Make collaboration paramount in pedagogy because humanity is intrinsically collective
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article argues that because learning and freedom are socially mediated, collaborative creation should be central to transformative pedagogy. It states: "Given the intrinsic collectivity of humanity, collaboration is paramount pedagogy." Collaboration surfaces socialized schemes of oppression so contradictions are embraced as part of the learning process, and it counters power-over with power-with in creative work.

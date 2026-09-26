@@ -17,6 +17,7 @@ sources:
 # Use brain-friendly, multisensory and expressive approaches and a partner (not authority) stance in counseling adolescents
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The review argues traditional talk therapy may not work with adolescents, whose language production and insight are still developing. It recommends expressive therapies such as sand tray and art, quoting Martin (2003): "counselors must incorporate multisensory learning to incite areas of the developing brain that are prepared to aid in healing." Counselors working "as partners instead of authorities" meet teens' needs for control and freedom, and group counseling suits adolescents' social nature.

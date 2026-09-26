@@ -17,6 +17,7 @@ sources:
 # Use fuzzy forecasting when historical data are scarce but experience knowledge is available, because the method tolerates imperfect data
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends fuzzy time series forecasting where accurate historical data are hard to obtain, because experience knowledge can be used "from thevery beginning until theend of the whole forecasting process". The authors state that "the requirement for thehistorical data is not very strict": the same model could be built from gathered experience about enrollment development even without the data. This makes the method suitable for planning contexts with limited records.

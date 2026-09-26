@@ -16,6 +16,7 @@ sources:
 # Feuerstein's mediated learning: human mediation as prerequisite for direct learning
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper presents Feuerstein's theory of mediated learning as filling a gap in Vygotsky's account of the human mediator. It states that "Learning mediated by another human being is indispensable for a child, because it helps to create in him or her those cognitive pre-requisites that then make direct learning effective". The three most important criteria of mediated learning are intentionality, transcendence and meaning; the mediator turns the learning situation from incidental into intentional. Feuerstein insisted that retarded performance stems not from a primary defect of the child but from a secondary lack of mediated learning experience.

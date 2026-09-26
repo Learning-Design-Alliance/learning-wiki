@@ -16,6 +16,7 @@ sources:
 # Revised ICAP Framework embedding formative feedback in each engagement mode for asynchronous online learning
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This revision of Chi and Wylie's ICAP Framework adds formative feedback, or its absence, to each of the four engagement modes for asynchronous online learning. The authors state: "we add the element of feedback, or the lack of feedback, to each mode," ranging from Passive with no feedback to Interactive, where feedback on an external output is incorporated into a new output (double-loop learning). The most active mode is a student-produced output with evidence of reflection on feedback, which makes learning 'seen' without a physically present teacher.

@@ -12,6 +12,7 @@ generated:
 # Connect Math to Student Strengths
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q2`–`q4` · 5 of 6 report an effect size
 
 ## Description
 This strategy anchors mathematical content in contexts, tasks, and representations that align with what individual students already do well or care about — sports statistics, art and design, music, building and making, gaming, social data. Rather than teaching math as an isolated formal system, the instructor surfaces each learner's strengths and interests and uses them as entry points: contexts for problems, sources of analogies, and arenas for application. It is carried out through interest surveys, choice among problem contexts, and tasks that let students deploy a strength (visual, narrative, spatial, interpersonal) while learning the same underlying mathematics.

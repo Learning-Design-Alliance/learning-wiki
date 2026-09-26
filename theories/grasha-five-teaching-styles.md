@@ -16,6 +16,7 @@ sources:
 # Grasha's five teaching styles (expert, formal authority, personal, facilitator, delegator)
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Grasha's model classifies teaching styles as consistent, observable teacher behaviors rather than personal traits. The expert style focuses on knowledge transfer; formal authority relies on rules and feedback; the personal style teaches by example; the facilitator asks questions, presents alternatives and develops student initiative; the delegator has students work independently. The article uses this taxonomy, defining style as "how the teacher behaves with students while teaching, not who the teacher is," to classify teachers and test philosophy–style relationships.

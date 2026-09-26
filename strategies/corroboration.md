@@ -12,6 +12,7 @@ generated:
 # Corroboration
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 0 of 3 report an effect size
 
 ## Description
 Corroboration is a source-verification strategy in which learners treat a single source's claim as provisional until it is confirmed by at least one other independent source. Learners identify the claim, locate additional sources on the same question, and compare the accounts — attending to agreement, disagreement, and each source's evidence and incentives. It is one of the three core heuristics of civic online reasoning, alongside [lateral reading](../strategies/lateral_reading.md) and source evaluation.

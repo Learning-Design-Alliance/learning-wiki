@@ -17,6 +17,7 @@ sources:
 # Embed units of assistance and enrichment into the fabric of textual material so they are unobtrusive yet available for reader use
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Imbedded Aids are units of assistance and enrichment — line numbering locators, reading/study suggestions, precis summary notes, vocabulary assistance, in-process comprehension checks, independent study suggestions, indicators of high-calibre writing, deletion-attention devices, 'things to think about,' mini-enrichment notes, and elaborated informational/study-help notes — woven into text. The article defines them as "woven into the fabric of textual material so as to be unobtrusive and yet present and available for reader use," analogous to an annotated edition of the classics or a teacher's annotated edition of a textbook.

@@ -12,6 +12,7 @@ generated:
 # Guided Peer Response using PeerMark™
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q3` · 3 of 5 report an effect size
 
 ## Description
 Guided peer response using Turnitin PeerMark™ involves instructors pre-setting specific questions — scaled items, open prompts, and criteria-linked prompts — that learners answer when providing feedback on a peer's draft. The prompts act as a review rubric embedded in the workflow, directing attention to the qualities that matter for the assignment and producing feedback that is collatable and supervisable at scale.

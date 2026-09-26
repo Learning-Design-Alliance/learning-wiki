@@ -17,6 +17,7 @@ sources:
 # Scaffolded video ethnography project with peer assessment and self-reflection
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The video project is the key component of a cross-cultural communication course: students videotape a five- to seven-minute interview with a native or experienced speaker about cross-cultural experiences, then give a 15-minute class presentation including commentary and a self-assessment reflection. The project is broken into a series of smaller classroom activities and home assignments over five to six weeks, with planning questionnaires, peer assessment checklists on a 5-point Likert scale, and conferencing. The authors state that "The strength of the project lies in the power of video to enable the students in the classroom to relate the course material to the anecdotes and experiences of the people being interviewed."

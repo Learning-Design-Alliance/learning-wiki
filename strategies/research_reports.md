@@ -12,6 +12,7 @@ generated:
 # Research Reports
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 A research report communicates the purpose, methods, findings, and implications of an investigation to an audience that was not present for the work. Unlike a journal article, a learning-oriented research report is a designed artifact: it uses visual structure, plain language, and layered detail so readers can extract the headline finding quickly and drill into evidence as needed. Producing one is itself a learning activity — it requires learners to synthesize, prioritize, and translate findings for an audience.

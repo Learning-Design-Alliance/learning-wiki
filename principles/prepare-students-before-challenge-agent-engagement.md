@@ -17,6 +17,7 @@ sources:
 # Prepare students with the skills and competencies to effectively and ethically complete societal-engagement investigations before meeting the challenge agent
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Because CBL/CEL students tackle complex real-world problems and interact with societal stakeholders, educators should equip them with interdisciplinary and transdisciplinary collaboration, international teamwork, problem-definition, research methods and ethics competencies beforehand. The authors' experience showed "that it is essential that sufficient time and attention is paid to prepare stu - dents to navigate stakeholder engagement and transdisciplinary collaborations before meeting with their challenge agent for the first time."

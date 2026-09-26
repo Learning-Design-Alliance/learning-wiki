@@ -17,6 +17,7 @@ sources:
 # Select content from competencies, not the reverse
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The guide instructs curriculum developers to select content on the basis of the competencies to be developed, warning that "Too often in the past the reverse procedure has been practiced, often resulting in obsolete or irrelevant learning." Teachers should analyze each competency with respect to the knowledge and skills students need to attain, and those become the content. Unit objectives should be stated in measurable terms and presented to students before a unit begins.

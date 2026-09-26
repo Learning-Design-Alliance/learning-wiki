@@ -12,6 +12,7 @@ generated:
 # Co Constructing Classroom Norms
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
 
 ## Description
 Co-constructing classroom norms is a strategy in which the teacher facilitates a structured process — typically early in a course or year — through which students propose, discuss, refine, and formally adopt shared expectations for behavior, collaboration, and academic work. The teacher retains veto authority and adds non-negotiables (safety, legality), but the norms originate from and are ratified by the community. The product is a short, positively-phrased list displayed and revisited throughout the term.

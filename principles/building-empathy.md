@@ -21,6 +21,7 @@ sources:
 # Building Empathy
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 mixed) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Building empathy is the instructional principle of helping learners understand how other people perceive, feel, and interpret a situation. In learning environments, empathy matters because it improves listening, collaboration, conflict navigation, and the ability to respond thoughtfully across differences in experience or identity. It is usually cultivated through structured perspective-taking, dialogue, narrative exposure, reflection, and authentic interaction rather than through abstract exhortation alone.

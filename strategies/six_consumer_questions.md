@@ -12,6 +12,7 @@ generated:
 # Six Consumer Questions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 0 of 3 report an effect size
 
 ## Description
 A set of six questions designed to help evaluate the trustworthiness of a news story: **who** made it, **how** it was made, **why** it was made, **when** it was made, **what is missing**, and **where to go from here**. The questions convert an intuitive "does this feel credible?" judgment into a structured inquiry routine that directs attention to source, purpose, and evidence rather than surface features like professional design or confident tone.

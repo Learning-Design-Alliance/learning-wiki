@@ -17,6 +17,7 @@ sources:
 # Screen candidate educational improvement activities with eight pre-determined feasibility questions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 After identifying educational activities that could foster the behaviors named in specific objectives, planners screen them for practicality using eight pre-determined questions: compatibility, complexity, financial costs, time factors, space requirements, magnitude of innovation, support needed, and relative advantages. The workbook states that "it is necessary to subject the activities toa screening procedure.A set of pre-determined questions can help in designing the mostappropriate educational program." Activities are rated excellent/good/poor on each question, and those surviving screening are logically grouped into an educational improvement program.

@@ -17,6 +17,7 @@ sources:
 # Conduct second-generation active learning research using carefully constructed comparisons that isolate specific course features
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Building on the review's taxonomy, the authors recommend that researchers "conduct second-generation research that analyzes which types of active learning and instructor behaviors are the most effective for student learning, especially in particular contexts." This includes "devising carefully constructed comparisons of active learning conditions" and investigating whether effect sizes correlate with specific features present in the active learning conditions and how those correlations change across course contexts.

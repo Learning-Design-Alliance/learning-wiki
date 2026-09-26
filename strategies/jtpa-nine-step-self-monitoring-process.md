@@ -17,6 +17,7 @@ sources:
 # Nine-step self-monitoring review process for local job-training program compliance
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The guide recommends a sequenced procedure for districts reviewing their own JTPA programs: "The following steps are recommended for conducting self-monitoring reviews", beginning with consulting district administrators, notifying staff, deciding on an approach, selecting a team, scheduling, conducting the review, reporting findings, and submitting the report to the SDPI. It structures local compliance review before state validation.

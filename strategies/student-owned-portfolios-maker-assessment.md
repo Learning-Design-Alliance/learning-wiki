@@ -17,6 +17,7 @@ sources:
 # Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper recommends portfolio development as a way to accomplish a process-over-product approach. Portfolios allow students to document their thinking, give context to products, and provide evidence about growth as a maker over time; the portfolio belongs to the student. Chang's research emphasizes using both digital and non-digital practices for documenting work, with forms including notebooks, blogs, photos, posters, videos, and digital stories.

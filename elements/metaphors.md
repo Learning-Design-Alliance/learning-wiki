@@ -12,6 +12,7 @@ generated:
 # Metaphors
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Metaphors are explanatory comparisons that map a less familiar concept onto a more familiar image or experience. They are useful when learners need a concrete entry point into abstract or complex ideas.

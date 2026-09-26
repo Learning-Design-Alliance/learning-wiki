@@ -17,6 +17,7 @@ sources:
 # Teach style as attention to language choices with consequences, not as prescriptive rules
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article argues style should be taught as a viable element of writing instruction in which students understand that the decisions they make when using language directly affect the meaning they convey. Style should be reclaimed as a canon of rhetoric that asks students to realize their choices about words, sentences, and paragraphs have consequences for their audiences and for themselves. Taught merely as a prescriptive set of colonizing rules, the author grants, it can be destructive; taught as consequential choice, it fits within a classroom promoting critical awareness.

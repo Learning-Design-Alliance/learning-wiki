@@ -17,6 +17,7 @@ sources:
 # Prioritize research on app design quality, user behaviour, appsmashing, normalization, and attainment outcomes
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article closes by proposing a research agenda for mobile apps in language learning, noting that research on learning outside the classroom is much smaller than classroom research. It states "There is much potential for research in the field of mobile apps for language learning", listing app design and quality, user questions (who, why, where, how), appsmashing, normalization of device use, and learning outcomes as under-researched areas.

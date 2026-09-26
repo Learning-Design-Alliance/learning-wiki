@@ -17,6 +17,7 @@ sources:
 # Certificate fields differentiated by developmental level and subject
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The digest explains that the National Board rejected a single general certificate, noting that "its holder is proficient in teaching all subjects to all students of all ages is unwarranted" (NBPTS, 1991), and instead built "a certificate framework that included 31 certification fields" organized by age band and subject area. This element holds that advanced certification standards must be specific to subject matter and developmental level, because teaching expertise is treated as domain- and age-specific.

@@ -12,6 +12,7 @@ generated:
 # Constructive Decision-Making Process
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 unmarked) · 11 studies, `q2`–`q4` · 10 of 11 report an effect size
 
 ## Description
 The class brainstorms and codifies a step-by-step decision-making process — typically: stay calm and identify the problem, analyze the situation, consider choices and consequences, make a choice, then evaluate and reflect on the outcome — and displays it as a persistent visual reminder in the classroom. The display functions as an external [Scaffolding](../principles/scaffolding.md) structure that students reference during real decisions, converting an implicit skill into a rehearsed, observable procedure.

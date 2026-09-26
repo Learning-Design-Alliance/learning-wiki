@@ -12,6 +12,7 @@ generated:
 # Group-Based Flipped Classroom
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 The group-based flipped classroom moves first exposure to content — typically video lectures or readings — outside of class, and reserves face-to-face time for structured group work: collaborative problem solving, peer explanation, and joint application tasks. The defining feature distinguishing it from other flipped variants is that in-class activity is organized around small groups rather than individual practice or whole-class discussion. Learners consolidate understanding by explaining concepts to one another, which requires them to reconstruct and verbalize the material rather than merely re-encounter it.

@@ -14,6 +14,7 @@ grain_size: lesson
 # Jigsaw Learning
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Jigsaw Learning is the short-form canonical target for the jigsaw pattern in which learners develop expertise on one part of the material and then teach it to peers so the group can assemble a fuller understanding.

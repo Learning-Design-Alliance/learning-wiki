@@ -16,6 +16,7 @@ sources:
 # The bioecological model as a framework for integrating SoTL research
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes Bronfenbrenner's bioecological model as a theoretical framework for synthesizing SoTL findings in higher education. The model involves "four central components: Process, Person, Context, and Time", capturing proximal and distal influences on student learning while attending to individual variation and student-environment interactions. The author maps SoTL variables onto each dimension (e.g., teacher rapport, student characteristics, class size, developmental timing) to organize topics for a new-faculty teaching workshop.

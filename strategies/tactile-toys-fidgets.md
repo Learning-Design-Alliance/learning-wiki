@@ -12,6 +12,7 @@ generated:
 # Tactile Toys / Fidgets
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 2 of 2 report an effect size
 
 ## Description
 Tactile toys and fidgets — squeeze balls, tactile cubes, spinning toys, pop-its, squishies — are self-regulation tools that provide tactile and movement input to help learners manage attention, arousal, and sensory needs. They are used to calm down when overwhelmed or to sustain focus during demanding tasks, and are explicitly *not* toys: their value depends on being framed, introduced, and governed as regulation tools rather than play objects.

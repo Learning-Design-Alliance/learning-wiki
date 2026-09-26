@@ -12,6 +12,7 @@ generated:
 # Math Journaling
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size
 
 ## Description
 Math journaling asks students to write regularly about their mathematical thinking — explaining how they solved a problem, describing where they got stuck, or recording a conjecture they figured out. Putting reasoning into words forces students to externalize and examine the logic of their ideas, converting vague intuitions into explicit, inspectable statements.

@@ -12,6 +12,7 @@ generated:
 # Response To Intervention
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 2 of 3 report an effect size
 
 ## Description
 Response To Intervention (RTI) is a multi-tier framework for preventing and remediating academic and behavioral difficulties, most widely implemented in early reading and mathematics. All students receive universal screening and high-quality core instruction (Tier 1); students flagged as at-risk receive supplemental small-group intervention (Tier 2); students who fail to respond receive individualized, intensive intervention (Tier 3). Decisions about movement between tiers are driven by continuous progress monitoring rather than waiting for failure to accumulate.

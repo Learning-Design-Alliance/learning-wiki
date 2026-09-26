@@ -16,6 +16,7 @@ sources:
 # Feuerstein's Mediated Learning Experience theory with twelve criteria of mediation
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Feuerstein's Mediated Learning Experience (MLE) theory explains differential cognitive development through the quality of interaction between a learner and a human mediator, which the article defines as "the interaction of the organism with itsenvironment via a human mediator." Feuerstein distinguishes twelve criteria of MLE, of which three are universals required in every mediating exchange: mediation of intentionality and reciprocity, of transcendence, and of meaning; the remaining nine are situationally determined qualities such as mediation of competence, regulation, goal-setting, challenge, and belonging. MLE is held responsible for human modifiability and diversity, and the theory is incompatible with behavioristic principles that leave meaning beyond psychological analysis.

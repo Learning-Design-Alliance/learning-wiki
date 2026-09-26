@@ -12,6 +12,7 @@ generated:
 # Growth Mindset Framing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q3` · 2 of 5 report an effect size
 
 ## Description
 Growth mindset framing presents ability as malleable — built through effort, effective strategies, and help-seeking — rather than fixed. It is carried out through how instructors talk about difficulty ("this task is designed to stretch you"), how they deliver feedback (praising process and strategy rather than labeling ability), and how they normalize error and revision as part of learning. The framing targets learners' implicit theories of intelligence, which shape how they interpret setbacks.

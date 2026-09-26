@@ -12,6 +12,7 @@ generated:
 # Product Testing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies, `q2`–`q4` · 5 of 11 report an effect size
 
 ## Description
 Product Testing places learners' created work — a design, prototype, essay, app, experiment, or business plan — in front of actual users or representative audiences so its real-world performance can be observed. Learners collect structured feedback, diagnose where the product fails to meet user needs, and revise. It converts the end of a creation cycle into a new learning cycle: the product becomes evidence, and failure becomes data.

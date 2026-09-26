@@ -15,6 +15,7 @@ sources:
 # Pedagogical judgment as three interrelated components: action, reasoning, and responsibility
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Drawing on Horn (2020), the article treats teacher learning as the development of pedagogical judgment, defined as "three interrelated but analytically distinct components": pedagogical action (choices teachers make, intentional or not), pedagogical reasoning (interpretations and rationales supporting actions), and pedagogical responsibility (teachers' sense of ethical or situational obligations). The analysis looks for evidence of teachers' efforts toward aligning these components during collaborative sensemaking.

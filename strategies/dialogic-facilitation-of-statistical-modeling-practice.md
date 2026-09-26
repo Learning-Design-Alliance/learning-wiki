@@ -17,6 +17,7 @@ sources:
 # Dialogic Facilitation of Statistical Modeling Practice
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 unmarked) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Statistical modeling — mapping a real situation into a model, imagining it as one instance of a repeatable long-run process, judging how well a model fits, and using models to make inferences under uncertainty — is rarely taught as an integrated practice; more often, its component skills (running a simulation, computing an IQR) are taught as separate procedures. This strategy decomposes statistical modeling into four foundational aspects and pairs each with specific, recurring forms of dialogic teacher talk that push students from a single, static view of a phenomenon toward a coordinated modeling practice — for example, moving students from running a model once to systematically reasoning about a *collection* of runs, or from matching a single sample's shape to also weighing its variability.

@@ -17,6 +17,7 @@ sources:
 # Debate
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (4 for) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Debate structures learning around the preparation, presentation, and critique of competing arguments. When designed well, it pushes learners to research evidence, understand multiple perspectives, justify claims publicly, and respond under challenge. The value is not argument for its own sake; it is disciplined reasoning made visible through structured speaking and rebuttal.

@@ -12,6 +12,7 @@ generated:
 # Build Time for Self-Reflection
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size
 
 ## Description
 Build Time for Self-Reflection is a professional learning strategy in which educators are given dedicated, structured time to examine their own teaching attempts — what they did, what happened, and what they learned — before, during, and after trying a new practice. The emphasis falls on learning extracted from the process rather than on judging the attempt a success or failure, which shifts reflection from evaluation toward sense-making.

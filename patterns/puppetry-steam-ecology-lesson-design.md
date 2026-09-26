@@ -17,6 +17,7 @@ sources:
 # Puppetry-facilitated ecology lessons within a STE(A)M curriculum
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This pattern delivers ecology content through puppetry performances as an arts-integrated science lesson format. In the study, "Puppetry-based lessons were designed, implemented, and tailored to the STE(A)M curriculum", covering ecological concepts such as balance in the ecosystem, conservation of the ecosystem, and feeding relationships. The experimental group received these lessons through puppetry facilitated by professional puppeteers, while comparison learners studied the same concepts through traditional methods, with pre- and post-testing on the CLASS survey.

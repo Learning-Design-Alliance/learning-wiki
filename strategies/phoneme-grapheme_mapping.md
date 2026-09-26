@@ -12,6 +12,7 @@ generated:
 # Phoneme-Grapheme Mapping
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 11 studies, `q1`–`q4` · 10 of 11 report an effect size
 
 ## Description
 Phoneme-grapheme mapping is a strategy used to match the letters or letter combinations (graphemes) in a word to the speech sounds (phonemes) they represent. Learners use a grid in which each box represents one phoneme, segment the word into its constituent sounds, and write the corresponding grapheme in each box. The technique makes the sound-to-print structure of words visible, building the orthographic mapping that underpins accurate spelling and automatic word recognition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. It is particularly useful for learners who missed foundational instruction in earlier grades or struggle with explicit sound-to-print connections.

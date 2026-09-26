@@ -16,6 +16,7 @@ sources:
 # Activity theory: a mediated activity system framework for analyzing cognition in context
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper presents activity theory, originating with Leont'ev and extended by Cole, Engestrom, Nardi, Kuutti, and Kaptelinin, as a descriptive framework centered on a "mediated activity system" that "comprises the individual practitioner, the colleagues and co-workers of the workplace community, the conceptual and practical tools, and the shared objects as a unified dynamic whole" (Engestrom, 1992). Components continually influence and transform one another, and each system is a node in a network of related activity systems shaped by layers of historical development. The paper argues it offers a broader framework than distributed cognition for examining cognition distribution, and applies it to computers as cognitive tools.

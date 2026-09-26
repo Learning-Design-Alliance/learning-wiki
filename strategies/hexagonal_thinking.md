@@ -12,6 +12,7 @@ generated:
 # Hexagonal Thinking
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q3`–`q4` · 3 of 8 report an effect size
 
 ## Description
 Hexagonal thinking is a mixed retrieval and elaboration strategy in which learners write concepts, events, or forces on hexagonal cards (physical or digital) and arrange them edge-to-edge to represent relationships. Each junction is a claim — this causes that, this supports that — which learners must justify in discussion or writing. Because every hexagon has six sides, the format forces multiple connections per idea rather than a single linear chain, producing a web of relationships instead of a list.

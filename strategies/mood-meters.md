@@ -12,6 +12,7 @@ generated:
 # Mood Meters
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 3 studies, `q3` · 1 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 The Mood Meter is a 2×2 grid (developed as part of Yale's RULER approach) on which learners plot their current emotional state along two axes: energy (low–high) and pleasantness (unpleasant–pleasant). The four quadrants are color-coded — red (high energy, unpleasant), yellow (high energy, pleasant), blue (low energy, unpleasant), green (low energy, pleasant) — and learners place themselves in a quadrant, often with a specific emotion word. The routine takes 1–5 minutes and is typically used at the start of a session or day.

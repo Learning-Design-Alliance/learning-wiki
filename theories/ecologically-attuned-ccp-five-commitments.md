@@ -16,6 +16,7 @@ sources:
 # Five commitments for an ecologically attuned critical communication pedagogy for the Anthropocene
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes an approach to critical communication pedagogy contextualized by planetary ecological crisis, organized around five commitments: that "Anthropocentrism and speciesism participate in the maintenance of social hierarchy"; that environmental and social justice are entangled; that ecological crisis is made "concrete, embodied, proximal, and implicative"; that critique of language involves critique of humanism; and that "ecologically just speculative futurity is requisite to political praxis." The framework is explicitly positioned as elaborating upon, not replacing, Fassett and Warren's (2007) ten commitments for CCP, and is grounded in the author's experience teaching the course Communication at the End of the World across five semesters at three institutions.

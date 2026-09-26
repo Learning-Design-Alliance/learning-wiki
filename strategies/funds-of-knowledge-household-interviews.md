@@ -17,6 +17,7 @@ sources:
 # Funds of Knowledge Household Interviews
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Teachers visit students' homes as participant-observers "with the purpose of identifying and documenting existing knowledge", unlike traditional home visits about a student problem. In the Tucson project each teacher chose two or three students, conducted three two-hour interviews with each student and family about the household's origins and social and labor histories, and wrote field notes afterward.

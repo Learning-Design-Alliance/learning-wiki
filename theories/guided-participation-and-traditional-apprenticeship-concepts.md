@@ -16,6 +16,7 @@ sources:
 # Guided participation and traditional apprenticeship as core CA concepts
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Guided participation refers to the processes and systems of involvement between learners as they communicate and coordinate efforts in culturally valued activity; the article calls it the social element of cognitive apprenticeship, where the learner learns by doing with help along the way. Traditional apprenticeship contributes the master-apprentice structure: as the learner masters component skills, the master reduces participation, providing fewer hints and less feedback, and eventually fades away completely. Applying apprenticeship methods to cognitive skills requires externalizing usually internal processes, so thinking and reflection must be out loud.

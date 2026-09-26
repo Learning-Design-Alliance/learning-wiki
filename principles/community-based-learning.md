@@ -12,6 +12,7 @@ generated:
 # Community-Based Learning
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (1 for, 3 mixed) · 9 studies, `q1`–`q4` · 9 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 Community-based learning is the principle of connecting learning to shared participation, responsibility, and contribution within a classroom, local community, or broader social context. It matters when learning is strengthened by belonging, collective meaning-making, and contribution beyond the individual.

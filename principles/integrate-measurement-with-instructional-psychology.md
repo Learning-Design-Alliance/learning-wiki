@@ -17,6 +17,7 @@ sources:
 # Integrate measurement knowledge with knowledge about instructional psychology for instructional decision-making
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper concludes that "for purposes of instruction and instructional decision-making, there is a need for the integration of measurement knowledge with knowledge about instructional psychology". Test construction knowledge must be integrated with psychological knowledge and theory so that decisions about required performance levels rest on empirical findings rather than subjective judgment or poorly constructed tests.

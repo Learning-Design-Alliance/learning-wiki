@@ -12,6 +12,7 @@ generated:
 # Design Thinking
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 against) · 8 studies, `q3`–`q4` · 5 of 8 report an effect size · 1 claim rests on one study
 
 > **Not the design process.** This page is design thinking as a *learning* strategy —
 > students running the cycle on an authentic problem. The designer's process of the same

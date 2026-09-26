@@ -17,6 +17,7 @@ sources:
 # Use a decision template weighing assumption fit, DIF uniformity, simultaneity, significance testing, and ease of use when choosing a DIF method for polytomous performance assessments
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article offers its method comparison as "a useful template for test analysts to use when deciding which techniques to employ when conducting differential item functioning analyses." Analysts should check whether the assessment violates each method's assumptions, whether DIF is uniform or nonuniform, and weigh LDF's simultaneous multi-category determination, built-in significance measure, and ease of use against ICC's sample independence and model specificity. The authors argue this supports simultaneous estimation for polytomously scored items and may improve DIF detection in performance assessments.

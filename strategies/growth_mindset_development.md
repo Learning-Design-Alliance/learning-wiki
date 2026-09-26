@@ -12,6 +12,7 @@ generated:
 # Growth Mindset Development
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Growth mindset development cultivates the belief that abilities and intelligence are malleable — that they can be developed through effort, effective strategy use, and help-seeking — rather than fixed traits. It is carried out through process-focused feedback, explicit teaching about neuroplasticity, reframing errors as information, and designing tasks where improvement is visible. The canonical intervention teaches learners that the brain grows new connections with effortful practice, then links that belief to concrete study strategies.

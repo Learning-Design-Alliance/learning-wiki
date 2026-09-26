@@ -13,6 +13,7 @@ grain_size: lesson
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Direct instruction is the short-form canonical pattern for explicit explanation, modeling, guided practice, and feedback.

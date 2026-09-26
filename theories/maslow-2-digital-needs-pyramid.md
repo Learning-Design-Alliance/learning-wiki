@@ -16,6 +16,7 @@ sources:
 # Maslow 2.0 Digital Needs Pyramid: a digital-transformation revision of Maslow's hierarchy in which each need level is classified by Web 2.0 tools
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The Maslow 2.0 Digital Needs Pyramid rethinks Maslow's five-level hierarchy of needs for the postmodern, digitally transformed world: the need names are unchanged but their satisfaction is renewed, and each pyramid step is classified by relevant Web 2.0 tools. The article states that "In this digital transformation, a new structure called 'Maslow 2.0 Digital Needs Pyramid' was created" and that "the steps of each pyramid of need are classified by the relevant Web 2.0 tools." The study uses this pyramid as its organizing framework, asking academics which Web 2.0 tool they prefer for each need level and testing the validity of that classification.

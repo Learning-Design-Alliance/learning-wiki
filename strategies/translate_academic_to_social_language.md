@@ -12,6 +12,7 @@ generated:
 # Translate Academic to Social Language
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 This strategy makes the register shift between academic and everyday language explicit by modeling bidirectional translation: restating a learner's informal idea in academic phrasing, and paraphrasing dense academic text into conversational language. The teacher treats both registers as legitimate, positioning academic language as an add-on code for school purposes rather than a correction of how students already speak [~S].

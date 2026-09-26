@@ -17,6 +17,7 @@ sources:
 # Listening Palette
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Adapted from choreographer Liz Lerman's Critical Response Process, a listening palette is a low-stakes, multimodal reflection task: learners watch or listen to content, then individually record their noticings in whatever form feels natural — words, sketches, gesture, invented notation, movement. Small groups then share their individual reflections, build on one another's ideas, and create a collaborative representation before presenting to the whole class. The protocol treats multiple modes of expression as equally valid evidence of understanding, rather than privileging verbal/written response.

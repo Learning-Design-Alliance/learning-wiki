@@ -17,6 +17,7 @@ sources:
 # Design online courses with predictable structure, professionally relevant choice, and substantive instructor discussion facilitation to support learner presence
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Based on interview and survey findings, the authors recommend course designs that provide coherent, predictable structure (via templates), meaningful trigger assignments allowing choice in researching subjects of professional interest, and instructor facilitation that deepens thinking through probing, scaffolding, and contextualizing. They note students valued "feedback that provided clarity and validation" and that teaching presence "could be boosted in this environment through increased faculty participation in online course discussions."

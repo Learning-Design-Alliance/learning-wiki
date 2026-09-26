@@ -17,6 +17,7 @@ sources:
 # Web forum for peer feedback in a Spanish culture class
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Abraham, Stengel, and Welsh (2014) used a Web forum as a tool for facilitating peer feedback in a Spanish culture class, where students provided ongoing feedback to peers developing their final project. The forum reports that "The online comment system facilitated an extended discourse outside of the classroom, allowing students to approach issues from multiple perspectives and promoting cultural understanding." This technology-based, planned interaction proved just as valuable as unplanned, in-class interactions.

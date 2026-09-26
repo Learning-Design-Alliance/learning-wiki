@@ -16,6 +16,7 @@ sources:
 # Belief structure: sources, levels (zero-order, first-order, higher order), and the belief-value-attitude distinction
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Drawing on Daryl Bem, Apps describes the nature of beliefs: they come from two sources—experience and authority—and are held at levels. "Within primitive beliefs Bem differentiateszero-order and first-order beliefs." Zero-order beliefs are taken so much for granted that we do not know we have them; first-order beliefs are ones whose alternatives we can imagine; higher-order beliefs are derived from authority, induction from experience, or premises of prior syllogisms. Apps also distinguishes beliefs (what we assume true), values (what we regard as good), and attitudes (likes and dislikes).

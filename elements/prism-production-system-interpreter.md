@@ -17,6 +17,7 @@ sources:
 # PRISM: a production-system interpreter offering user-selectable options at key architecture choice points
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 PRISM (Program for Research Into Self-Modifying Systems), developed by Pat Langley and the author, is a production-system interpreter implemented by augmenting LISP, owing a major debt to Forgy's OPS4. Its design philosophy is that "thereare too many. Unresolvedquestionsabout the detailsofhow a production system. should work," so instead of fixing one architecture it identifies key choice points, offers plausible options, and lets sophisticated users implement alternatives. It expands the traditional data-memory/production-memory recognize-act cycle with user-controlled options such as three spreading-activation schemes (spread-to-depth, spread-to-limit, and directed activation) and split memory-modification operations (add-to-wm, add-to-net, add-connections).

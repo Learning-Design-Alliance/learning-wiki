@@ -12,6 +12,7 @@ generated:
 # Discussions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 Discussions engage learners in structured, text-based conversation about what they read, with the teacher establishing routines, norms, and facilitation moves that keep talk productive. Activating background knowledge, checking for understanding, and fostering student-to-student conversation are the core components. The goal is comprehension through oral language: learners articulate interpretations, respond to others' reasoning, and negotiate meaning from the text.

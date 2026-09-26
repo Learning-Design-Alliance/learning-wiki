@@ -16,6 +16,7 @@ sources:
 # Design learning for knowledge creation by delegating responsibility for developing shared, re-usable knowledge objects to learners
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper recommends organising learning so that learners, rather than teachers, carry high-level responsibility for knowledge creation, working collaboratively and iteratively on ill-defined problems and developing shared objects intended for re-use as artefacts or practices. This design recommendation follows directly from the trialogical characteristics and is operationalised in the project's pedagogical scenarios and in the Knowledge Practices Environment, which supports planning, versioning, commenting and annotating of shared objects. It integrates face-to-face and virtual activity and makes the evolution of shared objects visible to participants.

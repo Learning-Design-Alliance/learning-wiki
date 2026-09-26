@@ -17,6 +17,7 @@ sources:
 # Remedial reading instruction should build on strengths and support integration of information sources rather than concentrating on deficits
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper recommends that remedial programs focus on strengths and consciously support them, instead of the deficit-focused skills approach in which "the whole thrust is to identify weaknesses and concentrate on problems." Instruction should show readers how to integrate information sources, provide texts they can read fluently so they can elaborate content and strategies, and redefine reading as a strategic process rather than a fixed ability. This follows from the model's account of how compensatory overreliance becomes disabling.

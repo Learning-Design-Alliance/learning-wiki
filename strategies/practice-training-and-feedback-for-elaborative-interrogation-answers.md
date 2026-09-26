@@ -17,6 +17,7 @@ sources:
 # Improve elaborative interrogation answer quality through practice training with example answers and feedback
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 To raise the quality of students' answers to elaborative interrogation questions, the article proposes two approaches. The first is "practice training, in which students receive examples of what types of answers are expected of them", providing a model that could improve answer quality. The second is providing feedback on answers, directly, through peers working collaboratively after training, or through computer-based tutoring, which could also motivate students to construct high-quality answers.

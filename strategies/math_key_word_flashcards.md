@@ -12,6 +12,7 @@ generated:
 # Math Key Word Flashcards
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size
 
 ## Description
 Learners create flashcards for each of the four mathematical operations. On one side, they write the operation and symbol (+, −, ×, ÷); on the other, they list key words associated with that operation (e.g., "sum," "altogether" → addition; "how many more" → subtraction). Students use the flashcards as visual aids during word-problem practice and math coaching, adding new key words as they encounter them.

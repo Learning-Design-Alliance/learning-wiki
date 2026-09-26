@@ -17,6 +17,7 @@ sources:
 # Set aside off-topic student questions as QWWNDW ATTs and tell students in advance that many questions will fall in this category
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Because starter pictures elicit many questions that do not match the content goals or cannot be answered with the materials, the facilitators sort them into a named holding category. The article states: "We call these questions QWWNDW ATTs (questions we will not deal with at this time), and make it clear to the students before they start writing questions that a lot of their questions will fall into this category." Easily answered yes/no questions are quickly answered at the start of the next phase without giving away information needed for students' own investigations.

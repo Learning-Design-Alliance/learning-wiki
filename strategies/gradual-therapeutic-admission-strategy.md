@@ -17,6 +17,7 @@ sources:
 # Conduct admissions as a gradual therapeutic process examining needs, forming relationships, involving supports, and celebrating arrival
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 This strategy replaces the brief procedural intake with a phased, therapeutic admission. The article specifies what workers should attempt: "to examine youths' needs; to formrelationships with them; to involve their significant social supports; and to celebrate youths' arrival." It is implemented in the CMR model through distinct transitional gradual admission stages (preparation, initial meeting, follow-up meeting, pre-admission planning, separation, experimentation) and a separate transitional immediate admission sequence for urgent placements.

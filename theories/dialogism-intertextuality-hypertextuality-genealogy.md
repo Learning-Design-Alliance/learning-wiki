@@ -16,6 +16,7 @@ sources:
 # Dialogism, intertextuality, and hypertextuality: the language-centered genealogy leading to connectivism
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article describes a chain of language-centered theories within architectonic thought: Bakhtin's dialogism, in which "languages do not exclude each other, but rather intersect with each other in many different ways"; Kristeva's intertextuality, where "each word (text) is an intersection of word (text) where at least one other word (text) can be read"; and Nelson's hypertextuality, non-sequential electronic writing with branches and links. On this foundation, the article argues, the contemporary idea of connectivism emerges in architectonic thought, with dialogue and texts modeling the conceptual system of relations.

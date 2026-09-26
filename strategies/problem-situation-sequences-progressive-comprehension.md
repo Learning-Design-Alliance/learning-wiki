@@ -17,6 +17,7 @@ sources:
 # Use sequences of problem-situations to progressively contextualize and develop mathematical comprehension of calculus concepts
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors propose identifying a sequence of situations-problems whose resolution contextualizes knowledge and progressively develops students' mathematical comprehension and competence. They state the purpose is "to identify a sequence of situations-problems whose resolution allows them to contextualize the knowledge and to develop progressively the student's mathematical comprehension and competence." This applies OSA's view that problem-solving activity is the raison d'être of concepts.

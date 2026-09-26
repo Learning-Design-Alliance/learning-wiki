@@ -12,6 +12,7 @@ generated:
 # Flexible Seating
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q3`–`q4` · 5 of 7 report an effect size
 
 ## Description
 Flexible seating replaces rows of identical desks with a range of seating options — standing desks, wobble stools, floor cushions, soft seating, tables of varying heights — and gives learners choice over where they work. The pedagogical rationale is twofold: physical comfort and movement support attention and engagement, and choice itself builds learner autonomy and self-regulation. It is carried out by curating several distinct seating zones, establishing norms for choosing and rotating seats, and matching seating to task type.

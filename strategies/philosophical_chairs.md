@@ -12,6 +12,7 @@ generated:
 # Philosophical Chairs
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 4 of 6 report an effect size
 
 ## Description
 Philosophical Chairs is a structured discussion activity in which the teacher presents a provocative, debatable statement and learners physically position themselves along an agree–disagree continuum. Learners then take turns defending their positions with reasons and evidence — often drawn from an assigned text — and may move to a new position at any point if they are persuaded. The physical movement externalizes stance, makes the distribution of views visible, and lowers the social cost of changing one's mind, since switching positions is a normal, expected part of the activity.

@@ -17,6 +17,7 @@ sources:
 # Observe the classroom for dissonance between what students say and what teachers see
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Step 3 directs teachers to observe their own classroom and interactions during CS/CT activities, attending to seating, self-formed groups, and which voices are heard. The guide highlights contradictions: "Sometimes what you observe can contradict what you are told", and teachers should "identify these moments of dissonance to look for things that are going unsaid", since such moments "point out opportunities to create a more inclusive classroom". Observation prompts include describing the student who speaks least and most during CS/CT activities.

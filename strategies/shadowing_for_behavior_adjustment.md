@@ -12,6 +12,7 @@ generated:
 # Shadowing for Behavior Adjustment
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size
 
 ## Description
 Shadowing is a behavior-support strategy in which a dedicated adult stays within arm's reach of a child who has exhibited harmful behaviors (e.g., biting, hitting), intervening before the behavior occurs rather than reacting afterward. The adult quietly blocks, redirects, and coaches replacement behaviors without singling the child out or framing the presence as punishment. Shadowing is typically deployed after a couple of incidents and faded once the child has been incident-free for an extended period (commonly two weeks), with the ultimate aim of teaching self-regulation and prosocial alternatives.

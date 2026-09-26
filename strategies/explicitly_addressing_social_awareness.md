@@ -25,6 +25,7 @@ sources:
 # Explicitly Addressing Social Awareness
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 unmarked) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 This strategy treats social awareness — the ability to understand social norms, read others' perspectives, and empathize across differences — as a teachable component of learning rather than an assumed prerequisite. Educators first identify where individual students show strengths and challenges in social understanding, then deploy aligned moves: modeling empathic reasoning aloud, facilitating structured discussion of diverse perspectives, and using current events or fictional characters as safe objects for social analysis.

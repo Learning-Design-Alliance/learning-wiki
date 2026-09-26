@@ -12,6 +12,7 @@ generated:
 # Emotion Reflection Through Journaling
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (5 for) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Learners regularly write (or record) structured reflections on their experiences, naming emotions, identifying triggers, and tracking patterns in their behavior over time. Prompts guide attention to specific events and feelings, and periodic review of entries supports goal-setting and self-regulation. The strategy converts fleeting affect into an inspectable record, making emotional patterns visible to the learner.

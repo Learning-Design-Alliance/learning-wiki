@@ -17,6 +17,7 @@ sources:
 # New teachers should diagnose problem areas with reflection, mentoring, self-assessment, observation of experts, and video review
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The brief recommends a diagnostic routine for new teachers before implementing a management plan: "Reflect on classroom organization, lesson preparation, and classroom routines in order to recognize management areas that need refining". It pairs reflection with finding a daily-feedback mentor, taking a self-assessment for bias toward discipline styles, shadowing expert and special education teachers while journaling, and videotaping one's own instruction for mentor review. The brief also advises choosing one or two procedures from management resources and setting realistic implementation goals.

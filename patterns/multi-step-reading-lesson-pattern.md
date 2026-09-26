@@ -17,6 +17,7 @@ sources:
 # A multi-step reading lesson pattern: skimming and scanning, structured comprehension exercises, and teacher-read-aloud vocabulary clarification
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article describes a lesson pattern used with an upper-intermediate reading passage on legendary places. Before reading, students did skimming and scanning; then they read the text and completed matching, sorting and quote-completion exercises; finally the teacher read the passage aloud twice and explained new words. The article reports that "I asked my students to do skimming and scanning on the passage they would read" and that "I read the reading passage loudly twice to my students." The pattern spans a four-week teaching period with vocabulary, pronunciation and composition objectives.

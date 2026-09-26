@@ -13,6 +13,7 @@ grain_size: lesson
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Case-based learning is the short-form canonical pattern for learning through analysis of realistic cases.

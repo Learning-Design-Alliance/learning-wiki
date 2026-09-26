@@ -17,6 +17,7 @@ sources:
 # Pair person-first language with an explicit explanation of its rationale rather than expecting language change alone to shift attitudes
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that language initiatives be accompanied by education about why language matters. Drawing on Belisle et al. (2025), it reports that person-centred language alone did not change student perceptions, but "providing a clear and thorough explanation of its rationale – emphasizing the humane treatment of the individuals in this population and how labels can contribute to stigmatization and bias – appears necessary to bring about meaningful changes in perceptions" of sentencing and management. The strategy is therefore to embed language guidance within instruction that explains stigma and recidivism evidence.

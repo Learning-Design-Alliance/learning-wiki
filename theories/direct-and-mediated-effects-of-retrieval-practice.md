@@ -16,6 +16,7 @@ sources:
 # Direct versus Mediated Effects of Retrieval Practice
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (1 for, 1 unmarked) · 3 studies, `q2`–`q4` · 1 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 A distinction the chapter uses to organize retrieval research. Mediated effects arise when a test guides later study, informs teachers, or motivates effort; in contrast, "Any gains in learning from practicing retrieval, without restudy or feedback, represent direct effects of retrieval processes on learning". The chapter credits the mediated-effects idea to Roediger and Karpicke (2006a).

@@ -17,6 +17,7 @@ sources:
 # Recommendations for university leaders, professors, staff, and students to foster civic learning across the three levels
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article directs recommendations at four stakeholder groups. University leaders are encouraged to adopt "a holistic notion of education" that includes civic learning, promote curricular and extracurricular initiatives, and foster a civic campus environment by recognizing good citizenship and acting against academic dishonesty. Professors should use service-learning and take advantage of tutoring and mentoring to instill civic values; administrative and service staff can model good citizenship; students are encouraged to take personal responsibility for civic learning and to participate in university decisions and associations.

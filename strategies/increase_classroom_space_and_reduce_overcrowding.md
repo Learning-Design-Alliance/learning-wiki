@@ -12,6 +12,7 @@ generated:
 # Increase Classroom Space and Reduce Overcrowding
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 This strategy addresses the physical learning environment directly: ensuring classrooms have sufficient floor area per learner, flexible seating that can be reconfigured, and designated zones (small-group areas, private study corners) that reduce visual and auditory interference. Overcrowding is treated as an environmental constraint on engagement and behavior rather than a fixed given — space is reallocated, furniture reduced, and layouts redesigned even where walls cannot move.

@@ -14,6 +14,7 @@ grain_size: lesson, unit
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q4` · 6 of 7 report an effect size
 
 ## Description
 Cooperative learning organizes students into small groups with a shared goal, structured so that each member's success depends on the group's success (positive interdependence) while each member is individually accountable for their own learning. Unlike unstructured group work, cooperative learning deliberately teaches and enforces collaborative skills — turn-taking, explaining, challenging ideas respectfully — and includes processing time in which groups reflect on how well they worked together. The problem it solves is the chronic failure mode of group work: free-riding, status hierarchies, and division of labor that lets some students disengage.

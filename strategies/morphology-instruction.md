@@ -12,6 +12,7 @@ generated:
 # Morphology Instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies, `q1`–`q4` · 6 of 8 report an effect size
 
 ## Description
 Morphology instruction teaches learners that words are built from meaningful units — base words, roots, prefixes, and suffixes — and gives them procedures for decomposing unfamiliar words into those units. It is carried out through explicit teaching of common morphemes, guided word analysis (e.g., "un + predict + able"), and structured word inquiry that tests hypotheses about word origins and relationships (e.g., *sign* → *signal* → *signature*).

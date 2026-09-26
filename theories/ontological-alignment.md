@@ -16,6 +16,7 @@ sources:
 # Ontological Alignment
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Computational modeling tools such as agent-based modeling (ABM) environments structure a phenomenon in a specific way — for example, foregrounding individual agents' properties and interactions rather than aggregate-level events. Ontological alignment names the instructional work of coordinating between students' own existing ideas about a phenomenon and that specific representational structure, rather than treating any mismatch simply as a student misconception to correct. Because different tools foreground different ontologies (agent-based tools highlight micro-level mechanism; other representational systems might better suit macro-level phenomena), the alignment work is tool-specific: a teacher must help students recognize which of their existing ideas map onto the tool's building blocks, and where the tool's structure doesn't match their intuitive framing.

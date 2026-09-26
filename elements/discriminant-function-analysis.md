@@ -17,6 +17,7 @@ sources:
 # Discriminant function analysis (Wilks method)
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A multivariate statistical technique (Wilks method) used to identify variables that maximally discriminate among outcome groups and to determine the number and interpretation of discriminating dimensions, up to the number of groups minus one. In this study it was applied to 15 antecedent variables with the four identity statuses as outcome groups, yielding two significant discriminating dimensions.

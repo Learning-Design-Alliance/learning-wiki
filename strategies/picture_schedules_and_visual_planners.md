@@ -12,6 +12,7 @@ generated:
 # Picture Schedules and Visual Planners
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 against) · 11 studies, `q2`–`q4` · 6 of 11 report an effect size
 
 ## Description
 Picture schedules or visual planners use images to lay out the steps to do a task. For example, a morning routine might have pictures of getting out of bed, brushing teeth, getting dressed, and eating breakfast. These visual checklists reduce the reading burden, look a bit like comic strips, and can be posted discreetly in the location where the task occurs. The learner moves through the sequence — often removing or checking off each card — which externalizes both *what comes next* and *progress so far*.

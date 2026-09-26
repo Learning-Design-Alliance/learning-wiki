@@ -17,6 +17,7 @@ sources:
 # Seven-step cloud-supported innovation-creation sequence from problem specification to publication
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The model's instruction process is enacted as a seven-step sequence in which the teacher specifies a problem and learners progressively plan, create, test, present, improve, and publicize innovations using cloud technology. The article lists the steps: "(1) the teacher specifies the problem ; (2) learners plan and design a response by working together with the support of cloud technology while the teacher provides advice"; followed by creating, checking and testing, presenting to other learners, improving and evaluating, and publicizing the innovations. Presentation steps are intended to let learners exchange knowledge and gain creative inspiration from each other's innovations.

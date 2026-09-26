@@ -17,6 +17,7 @@ sources:
 # Purchase standardized compatible subassemblies in large quantities to cut equipment repair cost and time
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The study recommends designing a new combination phonograph-cassette machine from "standardized and compatible subassemblies" usable in both a Revised Talking Book Machine and a Revised Cassette Book Machine, with new designs for motor, amplifier, speaker, tone arm, turntable-cassette assembly and cases. Buying these subassemblies in large quantities "will provide a reduction in the cost and time utilized in the repair of malfunctioning equipment," and standardized components are expected to reduce Mean Time To Repair and improve Mean Time Between Failures.

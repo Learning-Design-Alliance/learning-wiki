@@ -12,6 +12,7 @@ generated:
 # Read Alouds With Accountable Talk
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Read Alouds With Accountable Talk combines teacher-led oral reading of a rich text with structured discussion norms ("accountable talk") that require students to ground their contributions in the text, in reasoning, or in prior turns from classmates. The teacher reads, then stops at planned junctures to pose questions and press students to elaborate, cite evidence, and respond to peers — turning a passive listening event into a dialogic comprehension activity.

@@ -16,6 +16,7 @@ sources:
 # Career cluster concept for organizing industrial arts study
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The guide adopts the career cluster concept, holding that careers may be classified into logically related groups on the basis of identical or similar elements, enabling core educational experiences to facilitate learning across all careers within a cluster. The guide lists advantages: students can "appraise interests and abilities in a wide variety of careers," see relationships among specialized skills, exercise flexibility in occupational choice, obtain job-entry skills in several related careers, and gain transferable skills that promote adaptation to technological change.

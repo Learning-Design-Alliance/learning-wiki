@@ -16,6 +16,7 @@ sources:
 # Empowerment theory with relational and cognitive dimensions frames the predicted benefits of peer discussion
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article draws on empowerment theory (Christens et al., 2016) to frame how peer-driven discussions in youth-led groups may foster positive development. It states that "Empowerment reflects a process by which individuals gain a greater sense of agency and control over the psychological and social factors which impact them" and that "Multiple dimensions of empowerment have been proposed, including relational, cognitive, emotional, and behavioral empowerment." The study operationalizes relational empowerment as perceived peer validation and cognitive empowerment as hope, applying these dimensions to extracurricular diversity-oriented settings.

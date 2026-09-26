@@ -17,6 +17,7 @@ sources:
 # Use instructionally focused networked improvement communities as professional development: connect work to teachers' classrooms, enable teacher collaboration, and build accountability through PDSA testing
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The report recommends that administrators, instructional leaders, and teachers designing professional development "might consider a NIC or incorporating features of NICs." Interview analysis indicated NICs may be useful PD because "the work was directly connected to their classrooms, included opportunities to share and brainstorm new ideas with other teachers, and created a sense of accountability for addressing challenges and making incremental improvements." The BMTN embodied long-identified effective PD features: content focused, job embedded, and collaborative. Teachers also valued choosing their own improvement projects, an opportunity rarely available in other professional learning structures.

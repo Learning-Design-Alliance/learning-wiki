@@ -17,6 +17,7 @@ sources:
 # Make teaching assistant tutorial training more explicit: provide checkpoint learning outcomes and suggested checkpoint questions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors propose reforming weekly one-hour tutorial training, in which teaching assistants work through worksheets and have reasoning checked but rarely see Socratic dialogue in action. They recommend "Providing teaching assistants with a list of the speciﬁc learning outcomes for each checkpoint" and "a set of suggested checkpoint questions similar to those found in the Physics by Inquiry Instructor's Guide" to improve the efficiency and effectiveness of even the best teaching assistants.

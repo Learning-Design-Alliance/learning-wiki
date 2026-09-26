@@ -17,6 +17,7 @@ sources:
 # Three steps to integrate digital content effectively: link content to educational goals, select performance standards, and measure and adjust against standards
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report prescribes an ordered procedure for schools integrating digital content: "Once schools and districts commit to the vision of digital learning, the CEO Forum offers three steps to help ensure greater success in integrat-ing digital content." The steps are to identify educational goals and link digital content to those objectives; select the student outcomes and performance standards that will be achieved by digital content; and measure and evaluate outcomes against standards and adjust accordingly. Two supporting recommendations accompany the steps: perform a digital content inventory and increase investment in digital content.

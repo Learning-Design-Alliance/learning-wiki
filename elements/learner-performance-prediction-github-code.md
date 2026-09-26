@@ -17,6 +17,7 @@ sources:
 # Released learner performance prediction code and public dataset links
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article releases its experimental code and links to the nine public benchmark datasets used in the comparison. The implementations include deep learning algorithms in PyTorch, the logistic regression implementation from scikit-learn, and the BKT+ implementation from Khajah et al. 2016 in C++; the authors state "Our code and links to public datasets we used are freely available on GitHub". This artifact supports replication of the cross-dataset comparison and ablation studies.

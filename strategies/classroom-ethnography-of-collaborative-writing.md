@@ -17,6 +17,7 @@ sources:
 # Classroom ethnography of social change in collaborative writing classrooms
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper closes with open problems and research opportunities for collaborative writing teachers. It proposes that teachers "can do more as classroom ethnographers" to determine what social changes occur and whether writing produces them or results from them, then articulate findings to bring opponents into the conversation.

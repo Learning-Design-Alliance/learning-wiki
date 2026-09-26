@@ -17,6 +17,7 @@ sources:
 # Teachers should act as interfaces between textbooks and learners, adapting strategies to individual learner variables
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that because learners within one educational level differ in proficiency and prior knowledge, teachers should select, adopt, and present instructional strategies relevant to individuals rather than follow the textbook uniformly. It suggests teachers "act as an interface between the textbooks and learners", considering learners' needs, fostering a climate for learning, and developing confidence and respect for learners' individuality. Engagement in action research is recommended so teachers gain in-depth knowledge of textbook strengths and weaknesses and provide supplementary material.

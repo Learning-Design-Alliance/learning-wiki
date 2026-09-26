@@ -12,6 +12,7 @@ generated:
 # Research
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Research as an instructional element places learners in the role of investigator: they pose or refine questions, gather and evaluate evidence, and construct defensible conclusions. It functions as an extended, learner-driven activity that develops both domain knowledge and the transferable practices of inquiry — searching, evaluating sources, analyzing data, and communicating findings.

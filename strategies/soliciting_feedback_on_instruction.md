@@ -12,6 +12,7 @@ generated:
 # Soliciting Feedback on Instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 2 of 3 report an effect size
 
 ## Description
 Soliciting feedback on instruction means deliberately creating channels — mid-semester surveys, anonymous forms, focus groups, quick [check-ins](../elements/check-in.md) — through which learners can tell instructors what is and is not working. The strategy treats teaching as a practice to be improved through evidence rather than assumption: feedback is gathered early and often, interpreted critically, and acted on visibly so learners see that their input changes the course.

@@ -17,6 +17,7 @@ sources:
 # Community partner voice in reporting CSL outcomes, including co-authorship, should be a normative aspect of critical service learning
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article argues that power redistribution in CSL must extend beyond the project itself to the reporting of findings and sharing of artifacts. As printed, "Allowing the community partner(s) to articulate their voice(s) within the reporting of the outcomes of the project should be seen as a normative aspect of CSL." The degree of partner participation in research output should be left open for partners to decide, and in some cases may include co-authoring research on the service-learning process.

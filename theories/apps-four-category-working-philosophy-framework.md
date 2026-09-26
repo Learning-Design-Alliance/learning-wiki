@@ -16,6 +16,7 @@ sources:
 # Apps's four-category framework for a working philosophy of adult education
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Apps proposes a framework adult educators can use to identify, analyze, judge, and evaluate their beliefs about adult education. He writes that "This framework includes four categories:" — the learner, the overall purpose of adult education, content or subject matter, and the learning process. The framework functions as "the skeleton on which we hang our ideas", organizing reflection on beliefs across the chapters that follow.

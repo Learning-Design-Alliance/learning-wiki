@@ -12,6 +12,7 @@ generated:
 # Reading and Writing for Real-World Math Applications
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 6 claims (6 for) · 12 studies, `q3`–`q4` · 10 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 Learners locate, read, and summarize published articles — news features, science reporting, consumer finance pieces — in which mathematics plays a visible role in a real-world context. They then produce short written summaries or annotations that identify the mathematical ideas at work, explain how they are used, and connect them to concepts from class. The strategy combines literacy practices with mathematics content, positioning learners as interpreters of quantitative information rather than only producers of calculations.

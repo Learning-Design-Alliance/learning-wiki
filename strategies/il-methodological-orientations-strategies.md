@@ -17,6 +17,7 @@ sources:
 # Methodological orientations and strategies for professors to promote integrated learning of civic competence
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article offers ten methodological orientations and twelve methodological strategies for professors promoting civic and social competence through integrated learning. Orientations include giving "a central role to the reﬂection and critical thinking of students", contextualizing learning, and implementing formative assessment. Strategies include reﬂective journals, reﬂective group dialog, interviewing experts, analysis of cases, self- and peer evaluation using rubrics, inquiry as research, and the didactic use of cognitive confrontation or conﬂict.

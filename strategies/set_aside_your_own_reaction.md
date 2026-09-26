@@ -12,6 +12,7 @@ generated:
 # Set Aside Your Own Reaction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 0 of 4 report an effect size
 
 ## Description
 Responding with empathy means letting students' reactions come first. You don't have to bury your own feelings, agree with the student, or accept their behavior — but you deliberately suspend your immediate evaluative response long enough to hear the student out and see the situation through their eyes. In practice this means listening fully before responding, naming the student's emotion or perspective, and postponing judgment, correction, or your own account of events until understanding is established.

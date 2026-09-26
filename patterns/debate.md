@@ -13,6 +13,7 @@ grain_size: lesson
 # Debate
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Debate is the short-form canonical pattern for structured instructional argumentation around a contested question.

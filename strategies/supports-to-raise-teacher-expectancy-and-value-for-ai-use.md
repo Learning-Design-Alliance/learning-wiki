@@ -17,6 +17,7 @@ sources:
 # Supports to Raise Teachers' Expectancy and Value and Lower Cost for AI Use
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A set of support measures the paper recommends for teachers adopting AI applications, repeated across its expectancy, value and cost sections. They include "providing teachers with sufficient training and support in using AI technologies, offering professional development opportunities, and recognizing their successes in using technology", showing benefits and successful examples, providing resources, and creating a community where teachers share experiences and learn from each other.

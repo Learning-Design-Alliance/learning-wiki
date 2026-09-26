@@ -12,6 +12,7 @@ generated:
 # Individualized "Highlighter Tool"
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (1 mixed, 1 against, 1 unmarked) · 7 studies, `q2`–`q4` · 5 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Students use an individualized "highlighter tool" (e.g., a Google Doc add-on such as Highlight Tool) to create custom highlighters in different colors. They label each color with a category (e.g., "Argument #1" in red, "Counterclaim" in blue) and use them to mark relevant text. The highlights can then be exported by color into a table, where students summarize each highlighted category in their own words.

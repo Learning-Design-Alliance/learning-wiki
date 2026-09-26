@@ -12,6 +12,7 @@ generated:
 # Revision_Cycles
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (2 for, 2 mixed) · 12 studies, `q2`–`q4` · 8 of 12 report an effect size
 
 ## Description
 A revision cycle structures learning around repeated produce–feedback–revise loops: learners create a draft or attempt, receive specific feedback (from instructor, peers, or self-assessment), and rework the product before final evaluation. The cycle treats the first attempt as raw material for learning rather than a summative judgment, making iteration an explicit expectation of the task design.

@@ -12,6 +12,7 @@ generated:
 # Thinking Tools with Graphic Organizers
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 9 studies, `q3`–`q4` · 8 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 When teachers deliver content through lectures, readings, or video, they can have students interact with the content by completing a graphic organizer in groups, pairs, or even on their own. The organizer — a concept map, comparison matrix, flowchart, or hierarchical outline — externalizes the structure of the material, requiring learners to select, relate, and arrange key ideas rather than passively receive them. The strategy pairs content delivery with an active processing task, converting a presentation into a [learning-by-doing](../principles/active-learning.md) episode.

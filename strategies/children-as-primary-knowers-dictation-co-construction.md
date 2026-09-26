@@ -17,6 +17,7 @@ sources:
 # Position children as primary knowers by having them dictate texts for a real purpose to a teacher acting as scribe
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 In the Modena project, five-year-olds work collaboratively to co-construct texts for social purposes by dictating to their teacher, who acts as scribe and "active recorder", reading back and posing questions that invite expansion. The teacher cedes the children the role of primary knower: they are the experts on the content and she is the novice. The children retain autonomy of composition and judgement, correcting each other and determining when the task is satisfactorily achieved.

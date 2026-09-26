@@ -17,6 +17,7 @@ sources:
 # Adjustable open-cavity HeNe laser apparatus with Fabry-Perot mode monitoring and RF spectrum analyzer beat detection
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 An undergraduate laboratory apparatus combining an adjustable open-cavity HeNe laser (28 cm plasma tube, Brewster window, sliding output coupler over roughly 38–54 cm), an intra-cavity iris forcing TEM00 operation, a scanning Fabry-Perot interferometer for monitoring mode structure, and a fast photodetector coupled to an RF spectrum analyzer for beat detection. The article states the "variable-length cavity system has been reported and widely used in undergraduate labs to explore laser cavity modes and stability". Students adjust cavity length and mode structure while measuring intermode beat frequencies.

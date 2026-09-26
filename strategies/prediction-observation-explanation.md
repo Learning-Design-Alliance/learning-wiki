@@ -12,6 +12,7 @@ generated:
 # Prediction Observation Explanation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q3`–`q4` · 4 of 8 report an effect size
 
 ## Description
 Prediction Observation Explanation (POE) is a three-phase strategy, originally developed by White and Gunstone for science education. Learners first commit to an explicit prediction about the outcome of a demonstration or event, then observe the actual outcome, and finally write an explanation that reconciles prediction and observation — especially when the two diverge. The commitment step is essential: a public or recorded prediction creates the cognitive stakes that make the observation meaningful.

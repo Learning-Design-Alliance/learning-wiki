@@ -12,6 +12,7 @@ generated:
 # Procedural Learning
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Procedural learning is the element in which learners acquire stepwise routines, methods, or operations through guided performance.

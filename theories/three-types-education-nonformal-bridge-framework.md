@@ -16,6 +16,7 @@ sources:
 # Three-type framework of informal, formal and non-formal education with non-formal education as bridge
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article defines informal education as the ongoing transmission of knowledge, skills, values and attitudes woven into day-to-day community life, and formal education as its systematized, specialized, professionally organized counterpart. Non-formal education is positioned as a third type that "involves a systematization of knowledge, but that kind of knowledge that has immediate and practical relevance and value to learners, mainly adult or out-of-school." The framework holds that non-formal education is "in a good position to bridge these discontinuities" between formal and informal education because it shares systematization with formal education and immediate community relevance with informal education.

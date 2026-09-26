@@ -17,6 +17,7 @@ sources:
 # Support credit transfer with direct credit for bidirectional transfers plus small bridging modules targeting missing outcomes
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors propose an alternative to conventional bridging programs that extend post-secondary education by a semester: a provincial prior assessment of learning outcomes identifying differences across institutions, followed by flexible online learning modules matched to the missing pieces of learning outcomes. They suggest "small bridging learning modules targeting missing outcomes may be able to support efficient transfer pathways" and that direct credit for bidirectional transfers may be warranted given the similarity of outcomes.

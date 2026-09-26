@@ -17,6 +17,7 @@ sources:
 # Sustain a faculty community of practice for creative problem-solving pedagogy
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends developing faculty capacity for creative problem-solving teaching through an ongoing faculty group. The monthly CID faculty meetings "served as continual professional development for these faculty in the strategies of creative problem-solving," where faculty discussed teaching challenges, shared successes and classroom strategies, and mentored newer instructors, following Irby's (1996) progression from awareness to general skills to advanced skills through mentoring. Instructors were sometimes invited to the student Innovation Boot Camp and visited programs such as the Stanford d.School.

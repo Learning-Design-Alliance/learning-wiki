@@ -16,6 +16,7 @@ sources:
 # Self-originated elaboration account of acceptance without comprehension
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article's preferred formulation is a cognitive response account in which acceptance rests on the recipient's own thoughts rather than on message meaning. It reports that "a meaningless message could Suffice to instigate sufficient own thoughts for confident reporting of differential message acceptance," and concludes that "the locus of meaning... was not anywhere in the message but in the self-otigin_ted elaborations of the message recipient." This account is offered against comprehension-based persuasion models.

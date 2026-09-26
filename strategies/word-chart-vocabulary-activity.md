@@ -17,6 +17,7 @@ sources:
 # Use a word chart combining descriptive words and a drawn picture to build vocabulary knowledge
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A vocabulary activity, adapted from Haley (2010), in which each student is assigned a word, records other words heard or read that help describe it, and draws a picture of what the word evokes. The article reports that "Students were assigned a different vocabulary word" and that "a picture of what the word reminded them of or looked like in their mind was drawn by the students." It is offered as a sample class activity for improving vocabulary knowledge in ELT classes.

@@ -17,6 +17,7 @@ sources:
 # Design Earth Science curriculum inquiry tasks that promote abductive reasoning and incorporate missing authentic inquiry features
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Based on the finding that the abductive method was most associated with authentic inquiry features, the authors recommend that curriculum developers include inquiry tasks promoting abductive reasoning and reflecting underused Earth Science methodologies. They suggest, for example, tasks that let students "generate their own research question, select their own variable, and consider methodological flaws" through recursive reasoning, and relic-interpretation tasks that also include studying expert research reports. They acknowledge it may be difficult to design one activity including all features.

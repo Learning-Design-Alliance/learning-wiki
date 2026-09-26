@@ -17,6 +17,7 @@ sources:
 # Maqueta de esferas de telgopor, alambres y linterna para representar los arcos solares diurnos en tres momentos del año
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Una maqueta de bajo costo construida con esferas de telgopor, alambres semirrígidos doblados en semicircunferencia, un gnomon de varilla y una linterna que emula al Sol. Los alumnos colocan "un arco corto" para el solsticio de invierno, "un arco largo" para el de verano y uno intermedio para los equinoccios, y exploran con la linterna las sombras a lo largo del día y del año.

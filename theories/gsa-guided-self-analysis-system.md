@@ -16,6 +16,7 @@ sources:
 # Guided Self-Analysis System (GSA): teacher self-analysis of videotaped lessons as professional development
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Guided Self-Analysis System for Professional Development is a set of materials through which teachers analyze recordings of their own classroom teaching. The document states that "The Guided Self-Analysis System consists of materials which guide the teacher in analyzing his own teaching behavior, so that he can gain an objective understanding of his strengths and weaknesses." Teachers make 15-20 minute videotapes, replay each tape three or four times with a different workbook each time, code observed behaviors on coding forms, and build profiles of their habitual techniques that can be compared across successive tapings. The system is described as an "open system" adaptable to varied teaching situations and grounded in a synthesis of learning theory.

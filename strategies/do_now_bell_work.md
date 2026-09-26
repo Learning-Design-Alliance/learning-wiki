@@ -12,6 +12,7 @@ generated:
 # Do Now / Bell Work
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 6 studies, `q3`–`q4` · 4 of 6 report an effect size
 
 ## Description
 A Do Now (also called bell work, bell ringer, or warm-up) is a brief task — typically 3–7 minutes — posted or distributed so students start working without teacher prompting as class begins. Common formats include retrieval questions on prior material, a problem to solve, a quick write responding to a prompt, or a prediction about the day's topic. The task is deliberately short, doable independently, and connected to the lesson that follows.

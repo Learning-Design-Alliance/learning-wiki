@@ -12,6 +12,7 @@ generated:
 # Socratic Questioning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (3 for, 2 mixed) · 13 studies, `q2`–`q4` · 5 of 13 report an effect size
 
 ## Description
 Socratic questioning teaches through inquiry: the instructor poses a structured sequence of open-ended, probing questions that push learners to state their assumptions, examine evidence, consider alternatives, and follow the implications of their own reasoning. Rather than correcting errors directly, the questioner exposes contradictions and gaps so learners discover and repair them themselves. The strategy is carried out through disciplined follow-up — each learner answer becomes the basis for the next question — rather than through a fixed script.

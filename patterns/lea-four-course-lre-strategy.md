@@ -17,6 +17,7 @@ sources:
 # Successful districts pursue LRE through four coordinated courses of action: explicit policy decisions, new less restrictive alternatives, improved placement decisions, and attitude change
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report identifies a reusable district-level design pattern for achieving LRE. It reports that LEAs with the most success pursued broad-based strategies and "have undertaken the following courses of action:(1) made the policy and political decisions necessary to achieve education in the least restrictive environment; (2) developeda wide range of less restrictive alternatives; (3) improved placement decisions and review procedures; and (4) attempted to change attitudes about the education of handicapped children in relation to non-handicapped children." Districts such as Tacoma and Riverside exemplify comprehensive versions of this pattern.

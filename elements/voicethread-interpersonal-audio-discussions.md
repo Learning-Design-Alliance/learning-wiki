@@ -17,6 +17,7 @@ sources:
 # VoiceThread interpersonal audio discussion activities for L2 pronunciation practice
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 VoiceThread is a web-based multimedia tool used in this study to deliver three collaborative interpersonal audio discussion activities in introductory French. Creators upload content as images, text, or video that operates as a point of departure for asynchronous discussions where users add their own content or comment on the existing conversation. Activities followed three phases (brainstorming, initial participation, interaction with classmates) and were paired with instructor pronunciation feedback and student self-assessment forms. The tool was selected for its multimedia criteria and its ability to accommodate communicatively based activities.

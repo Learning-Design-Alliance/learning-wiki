@@ -17,6 +17,7 @@ sources:
 # Schools should stake out a corrective niche that complements and balances event-centered media
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The essay recommends that schools select a niche complementing other educative agencies: correcting distortions, supplying missing detail, and asserting the value of long-term trends where media attend to short-term events. "The schools must stake out a niche that balances and corrects the media," looking beneath the apparent event at the phenomena really involved and revealing that other times and places believe differently. Every young person should have lasting school experiences demonstrating that there are substrata to the visible event and that culture affects the perception of human affairs.

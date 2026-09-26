@@ -12,6 +12,7 @@ generated:
 # Contextual Vocabulary Introduction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3` · 3 of 5 report an effect size
 
 ## Description
 Contextual Vocabulary Introduction presents new words embedded in the stories, passages, or texts learners are actually reading, rather than as isolated word lists. Learners encounter the word in use, infer and discuss its meaning from surrounding text, and analyze the author's word choice and its effect on meaning. The strategy treats vocabulary as inseparable from comprehension: words are learned as they function in discourse.

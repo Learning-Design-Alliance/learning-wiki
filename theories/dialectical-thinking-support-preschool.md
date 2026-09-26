@@ -16,6 +16,7 @@ sources:
 # Dialectical thinking and its support in preschool education (DTS scale)
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Following Veraksa (2006), the article defines dialectical thinking as "a system of mental actions aimed at performing three types of tasks: understanding the process of development, solving contradictions, and creating new ideas and objects". The DTS scale assesses teacher support of this thinking via five interaction types: opposites in speech, objects containing contradiction, transformation processes, cyclical events, and changing the object environment. The article positions DTS as complementing ECERS-R, which pays no attention to processes containing contradictions.

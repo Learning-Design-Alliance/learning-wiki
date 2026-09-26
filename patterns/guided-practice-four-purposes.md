@@ -17,6 +17,7 @@ sources:
 # Guided practice serves four broad, overlapping purposes for teacher learning
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 In their reading of the literature, the authors found that guided practice may serve four broad and overlapping purposes: "They include helping teachers (1) realize visions of teaching in their daily practice; (2) implement a new curriculum or teaching strategies; (3) study their practice in systematic ways; and (4) restructure teaching." Beyond these orienting purposes, guides also pursue emergent, immediate goals arising from practical realities and the teacher's concerns. The purposes a guide pursues interact with the participants' relationship and the context.

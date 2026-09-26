@@ -12,6 +12,7 @@ generated:
 # Restorative Practices
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 1 of 7 report an effect size
 
 ## Description
 Restorative practices build community and resolve conflict through structured dialogue in which all affected parties participate in understanding what happened, who was harmed, and how to repair the harm. The approach operates on two tiers: proactive community-building (circles, check-ins, affective language) that prevents conflict, and responsive facilitation (restorative conferences, mediation) that addresses harm when it occurs. It replaces exclusionary discipline — suspension and expulsion — with processes that keep students in community while holding them accountable.

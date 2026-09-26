@@ -12,6 +12,7 @@ generated:
 # Block Play
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 5 studies, `q2`–`q4` · 3 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Block play involves using blocks to create structures and designs, either independently or collaboratively. It is an open-ended construction activity in which learners plan, build, test, and revise physical structures, naturally engaging spatial reasoning, early engineering, mathematical thinking (symmetry, equivalence, counting, geometry), and negotiation with peers.

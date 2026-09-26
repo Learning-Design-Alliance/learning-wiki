@@ -12,6 +12,7 @@ generated:
 # Kagan Cooperative Learning Strategies
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size
 
 ## Description
 Kagan strategies are a set of highly structured cooperative learning "structures" developed by Spencer Kagan, each specifying who talks, when, and in what order so that every member of a small group participates. Common structures include Round Robin (verbal turn-taking), Simultaneous Round Table (parallel written contribution on a shared paper), Gallery Walk (rotating examination of displayed work), and Two Stray One Stay (cross-group sharing of findings). The defining feature is the *structure itself* — rather than asking students to "work in groups," the teacher prescribes an interaction pattern that makes free-riding and dominance difficult.

@@ -17,6 +17,7 @@ sources:
 # 32-item global citizenship perspectives questionnaire adapted from Morais and Ogden (2011) and Roberts and Wilson (2016)
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A questionnaire 'adapted from the validated questionnaire from Morais and Ogden (2011) and Roberts and Wilson (2016)' consisting of 32 items with modifications such as country names and political policies. Items cover demographic features, social responsibility (GJD, AE, GIPR), global competence (SA, IC, GK), and global civic engagement (ICO, PV, GCA), all rated on a 5-point Likert scale from 1 (totally disagree) to 5 (totally agree).

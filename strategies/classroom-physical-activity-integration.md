@@ -12,6 +12,7 @@ generated:
 # Classroom Physical Activity Integration
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 1 of 2 report an effect size
 
 ## Description
 Classroom physical activity integration embeds short bouts of movement — movement breaks, active transitions, kinesthetic responses, or physically active academic lessons — into regular instruction. Rather than treating movement as a competing demand on instructional time, it uses activity as a vehicle for or complement to learning, typically in bouts of 3–10 minutes.

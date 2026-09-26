@@ -17,6 +17,7 @@ sources:
 # Student-Authored Texts for Conceptual Change
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A literacy-instruction pattern in which students research a concept in voluntary groups, write individual interpretations, exchange and compare them with peers' texts and their prior knowledge, build collective concept maps, question each other's conceptions, and revise after peer and teacher feedback. The article documents this with 32 first-year EFL accounting majors, reporting that "peer texts revealed helpful insights and created a cooperative learning atmosphere."

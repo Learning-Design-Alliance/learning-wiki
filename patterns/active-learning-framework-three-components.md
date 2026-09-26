@@ -17,6 +17,7 @@ sources:
 # Active Learning Framework: pre-workshop, active workshop and post-workshop consolidation replacing lecture-tutorial format
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Active Learning Framework (ALF) is the delivery pattern that operationalises the model on the Moodle LMS for face-to-face and online students. As printed, "The ALF is divided into three components, namely, pre-workshop learning, active workshop learning and post workshop consolidation". Pre-workshop replaces the one-hour lecture with short videos plus case-based activities; workshops use varied case-based activities; post-workshop consolidation tests objectives or applies knowledge, closing the weekly iterative cycle.

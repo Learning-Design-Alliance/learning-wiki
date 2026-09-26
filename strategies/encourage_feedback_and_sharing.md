@@ -12,6 +12,7 @@ generated:
 # Encourage Feedback and Sharing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size
 
 ## Description
 Encouraging feedback and sharing means structuring regular opportunities for learners to publish or present work-in-progress to peers — in class, in workshops, or on public platforms — and to give and receive structured critique. The strategy treats writing (or any product-oriented work) as communication for a real audience rather than an exercise for the instructor alone, and uses feedback exchanges as the engine of revision and metacognitive reflection.

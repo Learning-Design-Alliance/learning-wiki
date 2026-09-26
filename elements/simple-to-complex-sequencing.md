@@ -12,6 +12,7 @@ generated:
 # Simple-to-complex sequencing
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size · 4 claims rest on one study
 
 ## Description
 Simple-to-complex sequencing orders instruction so that learners first master basic, prerequisite concepts and skills before encountering more detailed, complex, or integrated ones. It is the default sequencing logic for subjects with cumulative knowledge structures — mathematics, languages, programming — where later content presupposes earlier content. The approach is central to [Elaboration Theory](../patterns/elaboration-theory.md), which prescribes starting with the simplest, most general representation of a topic (an "epitome") and progressively elaborating toward complexity.

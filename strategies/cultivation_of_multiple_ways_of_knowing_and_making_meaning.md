@@ -12,6 +12,7 @@ generated:
 # Cultivation of Multiple Ways of Knowing and Making Meaning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (5 for) · 13 studies, `q2`–`q4` · 4 of 13 report an effect size
 
 ## Description
 This strategy designs learning so that knowledge can be built, expressed, and validated through multiple epistemic channels — narrative, demonstration, dialogue, embodied practice, visual representation, and cultural tradition — rather than through a single privileged mode. It draws on culturally responsive pedagogy and [Constructivism](../theories/constructivism.md): learners arrive with different funds of knowledge, and instruction treats those as assets to build on rather than deficits to overcome. Importantly, "multiple ways of knowing" refers to varied *sources and modes of knowledge construction*, not to the discredited notion that individuals have fixed learning styles that instruction should match [X].

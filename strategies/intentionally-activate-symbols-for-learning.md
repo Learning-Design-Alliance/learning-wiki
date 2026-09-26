@@ -17,6 +17,7 @@ sources:
 # Intentionally activate symbols so they assist transformative learning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Following Boyd and Myers's priority of identifying symbols critical to the learning undertaken, the article recommends deliberately activating symbols in embodied creative work. As printed: "A goal of Chormmunity would be to intentionally activate symbol(s), thus letting them help in our learning", while pursuing fuller conscious awareness and integration and accepting the multiply-languaged nature of our membership in life.

@@ -12,6 +12,7 @@ generated:
 # Knowledge Organization
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Knowledge organization is the principle of helping learners structure information into meaningful relationships, categories, sequences, or frameworks rather than leaving it as disconnected facts. It is useful when understanding depends on how ideas fit together.

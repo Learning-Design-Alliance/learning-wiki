@@ -17,6 +17,7 @@ sources:
 # Use audience-perception associations to set design priorities for digital lacquer-painting experiences, pending evaluation with real interfaces
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes audience-informed design priorities rather than evidence of technological effectiveness: because perceived immersive affordance tracked sensible scene, "museums could prioritize testable prototypes involving controllable viewpoints, close-up access, and clear presentation of material layers"; interactive affordance suggests narrative exploration and participatory interpretation as user-testing candidates; distributed affordance suggests transparent explanation of provenance, authorized sharing, and derivative participation. For educators, it suggests testing lesson designs that pair perceptual attention with contextual interpretation.

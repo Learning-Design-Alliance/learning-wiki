@@ -12,6 +12,7 @@ generated:
 # Integrating Movement into Daily Activities
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 6 studies, `q3`–`q4` · 3 of 6 report an effect size
 
 ## Description
 Integrating movement into daily activities means embedding physical activity into routines and tasks that would otherwise be sedentary — walking during discussions, standing at workstations, active transitions between tasks, or movement-based responses during instruction. In learning contexts, this includes physically active lessons where content is taught through movement rather than at a desk. The goal is to accumulate activity across the day rather than relying on a single dedicated exercise block.

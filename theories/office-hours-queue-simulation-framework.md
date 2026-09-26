@@ -16,6 +16,7 @@ sources:
 # Office-hours queue simulation framework combining survival-analysis patience modeling with Poisson arrivals
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A simulation framework for comparing office-hours queue scheduling strategies without live experimentation. It generates synthetic requests by sampling four features — request author, arrival time, tolerable wait time, and interaction time — independently: "we sampled and generated each feature independently". Tolerable wait time is drawn from a Kaplan-Meier survival function S(t) fitted to real cancellation data, arrivals follow a Poisson process with load-dependent rates, and interaction times are copied from real requests. Strategies are then compared on wait time, resolved requests, and helped students.

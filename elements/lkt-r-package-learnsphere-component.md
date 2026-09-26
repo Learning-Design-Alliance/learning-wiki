@@ -17,6 +17,7 @@ sources:
 # LKT R package and LearnSphere component for creating and comparing logistic regression learner models
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The LearnSphere LKT component implements the LKT framework as a unified system permitting easier creation and comparison of logistic regression models of correctness, and the authors released LKT as an easy-to-use R package. Table I summarizes 25 features currently supported in the LearnSphere and the R package, indicating whether each is adaptive and/or dynamic and how many nonlinear parameters it requires.

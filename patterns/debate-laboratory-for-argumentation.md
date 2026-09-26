@@ -17,6 +17,7 @@ sources:
 # Debate as a laboratory for argumentation theory, contingent on keeping debate practices accountable to argumentation principles
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 This pattern holds that academic debate can serve as a laboratory for studying argumentation theory — for example, testing standards for assessing arguments and decision-making — but only if debate practices remain accountable to argumentation principles. Herbeck notes that despite extensive competition, few insights into argumentation theory have resulted, and cites Goodnight's observation that "a significant gap seems to be developing between theories of argument and theories of debate." Permitting conditional arguments, he argues, turns debate into "a laboratory for perfecting itself" and severs debate from argumentation theory.

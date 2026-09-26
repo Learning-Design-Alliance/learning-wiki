@@ -17,6 +17,7 @@ sources:
 # Pair individual confidence-building with institutional supports, tools and co-design, since motivation alone is insufficient for food system change
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article concludes that individual agency must be complemented by structural supports: "motivation alone is not enough to enable dietitians to influence food systems, and other food system factors should be considered, including institutional supports and co‐design approaches". Participants likewise identified that "more tools and resources are required to support the workforce in achieving these changes". The principle directs capacity-building efforts toward organisational, educational and policy-level approaches alongside individual agency.

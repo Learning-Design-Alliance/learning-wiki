@@ -12,6 +12,7 @@ generated:
 # Five High Fives
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Students try to give a high-five to five different classmates; when they have collected five, they sit down. The game is partly a mystery: sometimes everyone succeeds, sometimes someone is left stranded. The hidden variable — known to the teacher but not the students — is parity. Each high-five involves two people, so the total number of high-fives given is always half the number of participants; with five high-fives each, an odd-sized group cannot complete the task, while an even-sized group can. Played repeatedly across different class sizes or groupings, the game becomes a concrete, embodied puzzle from which students can induce the underlying mathematical structure.

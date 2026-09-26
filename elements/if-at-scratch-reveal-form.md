@@ -17,6 +17,7 @@ sources:
 # IF-AT (Immediate Feedback Assessment Technique) scratch-and-reveal answer-until-correct form
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The IF-AT is a commercially-available "scratch-and-reveal"-type MC answer form: rows of boxes coated in opaque waxy covering, one keyed answer marked by a black star per question. Students scratch their chosen option; a star confirms correctness, while no star signals an incorrect choice and the student keeps scratching until the star is revealed — an answer-until-correct technique. This gives item-by-item feedback during the exam, enables self-tallying of scores, and supports partial-credit marking schemes without extra instructor resources.

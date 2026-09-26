@@ -16,6 +16,7 @@ sources:
 # Taxonomy of five educational philosophies for adult education
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Chapter 4 describes five educational philosophies that grow out of the general systems: essentialism, perennialism, progressivism, reconstructionism, and existentialism. Each is characterized by its stance on content, method, and purpose—essentialists emphasize subject matter and passing on culture, perennialists discipline the mind through great books, progressivists stress problem solving and the learning process, reconstructionists use the scientific method to pursue changing ends, and educational existentialism directs education toward individual self-fulfillment. Apps presents them as material against which educators take a personal stand.

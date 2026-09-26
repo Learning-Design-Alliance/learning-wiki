@@ -12,6 +12,7 @@ generated:
 # Text-Based Discussions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q4` · 3 of 4 report an effect size
 
 ## Description
 Text-based discussions are structured conversations in which a group of learners jointly interprets a shared text — an article, story, dataset, or document — and is expected to ground claims in evidence from the text itself. The teacher or facilitator acts primarily as a discussion leader who poses open questions, presses for textual evidence, and manages turn-taking, rather than as a lecturer. Well-known variants include [Reciprocal Teaching](../elements/reciprocal-teaching.md), Quality Talk, Collaborative Reasoning, and Socratic seminar.

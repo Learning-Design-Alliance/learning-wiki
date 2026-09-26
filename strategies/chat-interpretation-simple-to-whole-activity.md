@@ -17,6 +17,7 @@ sources:
 # Interpret CHAT study results by starting with simple start-to-finish change analysis, then working through relationships among activity elements
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 In Stage 7 of the research model, the article recommends an interpretation sequence for complex technology integration data: "it is suggested that interpretation begins in simple terms and eventually considers the wholeness of the activity and the interactions that occur among the different elements." Interpretation should begin with basic analysis of changes between start and finish states of the subject moving toward a goal, such as changes in attitudes or measures of learning, then continue by examining relationships between other activity elements, using quantitative or qualitative techniques.

@@ -17,6 +17,7 @@ sources:
 # Grade-span structure of program goals with illustrative, non-sequential level objectives
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The framework organizes objectives across four grade spans—K-3, 4-6, 7-8, and 9-12—stating program goals for the whole span and illustrative level objectives for each. It explains that 'Illustrative level objectives are presented for each of the grade spans. These objectives are not comprehensive as to objectives that might be specified for any particular program goal, nor are they sequential. They are, however, responsive to the changing maturity of students.' Districts are responsible for further delineation into behavioral objectives.

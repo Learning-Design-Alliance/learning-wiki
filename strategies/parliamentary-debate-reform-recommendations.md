@@ -17,6 +17,7 @@ sources:
 # Eight reforms for improving parliamentary debate as educational debate
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper closes with concrete proposals for improving parliamentary debate as "a viable exercise in educational debate": formalize topic writing, allow research in debate rounds, promote scholarship about parliamentary debate, evaluate criteria that emphasize substance over style, ban time/space cases, conduct judging workshops and provide judging guidelines, define the mission of parliamentary debate, and add cross examination. Each targets a shortfall documented earlier in the paper, such as frivolous resolutions, banned evidence, inexperienced judges, and the absence of cross examination.

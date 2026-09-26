@@ -12,6 +12,7 @@ generated:
 # Rebuttals
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 A rebuttal asks learners to directly counter an opposing viewpoint with evidence-based reasoning, rather than merely restating their own position. The element forces engagement with the strongest version of the other side — identifying its claims, evaluating its evidence, and articulating why it falls short — which builds counterargument skill and cognitive flexibility.

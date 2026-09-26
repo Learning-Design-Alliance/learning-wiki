@@ -17,6 +17,7 @@ sources:
 # Wolfram Computable Document Format as a module-development technology
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Computable Document Format (CDF), designed by Wolfram Research, "takes interactive code written in Wolfram’s Mathematica software and renders it graphically in either a standalone player or via a browser plugin." Interactivity relies on the Mathematica "manipulate" command, letting users customize plot inputs via sliders, radio buttons, and menus with dynamic updating. Student modules are described as ideally suited for submission to the Wolfram Demonstrations Project repository.

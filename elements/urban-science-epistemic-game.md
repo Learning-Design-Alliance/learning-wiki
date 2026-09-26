@@ -17,6 +17,7 @@ sources:
 # Urban Science epistemic game mimicking the professional practicum of urban planners
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Urban Science is an epistemic game developed at the University of Wisconsin at Madison that "mimics the professional practicum experiences of urban planners." Learners complete a redevelopment planning task that blends individual and collaborative work, producing planning notebooks, preference surveys, final redevelopment plans, final reports, and final presentations. The game serves as the leveraging environment for NSF-funded AutoMentor and Dynamic STEM Assessment grants and is continually updated based on empirical data from local implementations.

@@ -12,6 +12,7 @@ generated:
 # Room Positioning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies, `q2`–`q4` · 6 of 6 report an effect size
 
 ## Description
 Room positioning is the deliberate arrangement of seats, tables, and the instructor's location to shape sightlines, proximity, and interaction patterns. It is carried out by choosing a layout (rows, horseshoe, clusters, cabaret) and positioning the instructor relative to learners before and during a session, adjusting as activities change.

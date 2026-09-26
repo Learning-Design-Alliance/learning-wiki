@@ -12,6 +12,7 @@ generated:
 # Real World_Math_Connections
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 against) · 7 studies, `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Real World Math Connections is a strategy that anchors mathematical concepts in authentic contexts — money, measurement, data from students' lives, community problems — so that learners build meaning for procedures and symbols rather than executing them blindly. It is carried out by selecting or designing tasks where the context genuinely motivates the mathematics, and by explicitly surfacing the mapping between the real situation and the formal representation.

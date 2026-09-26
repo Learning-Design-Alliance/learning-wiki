@@ -12,6 +12,7 @@ generated:
 # Justification & Argumentation
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 Justification and argumentation require learners to support a claim with evidence and explicit reasoning, and often to respond to counterarguments and rebuttals. Rather than receiving conclusions, learners must construct, defend, and critique them — making the epistemic work of a discipline (what counts as evidence, what makes reasoning valid) visible and practiced.

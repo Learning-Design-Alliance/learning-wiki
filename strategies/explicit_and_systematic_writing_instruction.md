@@ -12,6 +12,7 @@ generated:
 # Explicit and Systematic Writing Instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 9 studies, `q1`–`q4` · 8 of 9 report an effect size
 
 ## Description
 Explicit and systematic writing instruction directly teaches the strategies, skills, and knowledge proficient writers use, rather than expecting them to be absorbed through exposure. The instructor models writing strategies — planning, drafting, revising, self-regulation — making decisions visible, then guides learners through supported practice toward independent application across purposes (recording, communicating, persuading, self-expression, reflection). Foundational skills such as spelling, handwriting, and keyboarding are taught to automaticity so working memory is freed for composing [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M] — the same logic applies to transcription fluency in writing. Skilled writing is heavily a planning-and-revising activity: accomplished writers spend roughly half their composing time planning and revising text, so instruction must treat these as teachable strategies, not afterthoughts.

@@ -17,6 +17,7 @@ sources:
 # Six recommendations for fostering reflective judgment in introductory college science
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article closes with six recommendations for introductory college science: engage students in authentic scientific thinking rather than teaching about science; teach less and spend time on thinking skills, possibly at the expense of content; intentionally structure a complex, collaborative social learning environment with decentralized authority; provide guiding and modeling by a variety of peers and teachers; personally mentor and lead highly reflective students with appropriately challenging situations; and respect, nurture, and listen to students of all levels of reflective functioning.

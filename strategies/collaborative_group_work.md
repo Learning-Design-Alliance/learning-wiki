@@ -12,6 +12,7 @@ generated:
 # Collaborative Group Work
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (2 for, 2 mixed) · 11 studies, `q2`–`q4` · 10 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Collaborative group work organizes learners into small groups that pursue a shared task requiring interdependent contribution — discussing, explaining, negotiating meaning, and producing a joint product. It is carried out through deliberately composed groups, structured roles or protocols, and tasks that cannot be completed by one person working alone. For multilingual learners in particular, it creates authentic opportunities to use academic vocabulary and language structures in low-stakes peer talk.

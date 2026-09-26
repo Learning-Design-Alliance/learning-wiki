@@ -25,6 +25,7 @@ sources:
 # Graphic Organizers
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
 
 ## Description
 Graphic organizers are visual structures that help learners sort, connect, sequence, compare, or hierarchize information. Their instructional value comes from making the structure of knowledge visible: instead of holding relationships only in working memory, learners can externalize categories, links, and patterns in a shared visual form. This makes graphic organizers especially useful for reading, writing, planning, problem solving, and any task where the arrangement of ideas matters as much as the ideas themselves.

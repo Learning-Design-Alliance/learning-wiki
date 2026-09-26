@@ -12,6 +12,7 @@ generated:
 # Pre Questioning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q3` · 2 of 5 report an effect size
 
 ## Description
 Pre questioning presents learners with questions about upcoming material before they study it or receive instruction. Learners typically answer incorrectly or guess, but the attempt itself prepares them to learn: it activates relevant prior knowledge, directs attention to the questioned content, and creates a curiosity gap that instruction then fills. The questions are usually closed-ended (multiple choice or short answer) and target the key concepts of the lesson.

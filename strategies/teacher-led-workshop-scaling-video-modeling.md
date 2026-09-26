@@ -17,6 +17,7 @@ sources:
 # Teacher-led workshops and freely downloadable materials to scale video analysis and modeling practice
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors scale the practice through a 75-minute hands-on workshop making teachers aware of Tracker's affordances, in a "teacher-lead approach towards scaling of practice" aligned with Singapore's ICT masterplans. All curriculum, professional development and ICT support materials are downloadable from the authors' blog "for mass adoption and adaptation". The workshop engages, enables and empowers teachers to be learners and leaders in their teaching practice.

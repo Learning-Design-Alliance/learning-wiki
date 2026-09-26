@@ -17,6 +17,7 @@ sources:
 # Teach students to make the best of their intellectual styles rather than forcing one mandated mode
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article argues that teachers should recognize students' style preferences and teach for flexible use of styles, since a bright individual forced to work in an unsuitable mode may perform below capability. Classrooms should allow learners to use preferred styles rather than constrain them to a singular form of approved expression. The article states "We need to teach students to make the best of their intellectual styles."

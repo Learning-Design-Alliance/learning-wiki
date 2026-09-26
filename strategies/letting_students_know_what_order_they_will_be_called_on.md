@@ -12,6 +12,7 @@ generated:
 # Letting students know what order they will be called on
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 2 of 2 report an effect size
 
 ## Description
 The instructor announces — or posts — the sequence in which students will be called on to respond during discussion, rather than selecting speakers unpredictably. This gives each student advance notice of when their turn will come, allowing them to rehearse a response, manage anxiety, and inhibit the impulse to call out or disengage. It converts an unpredictable social demand into a predictable, plannable one.

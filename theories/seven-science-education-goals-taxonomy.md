@@ -16,6 +16,7 @@ sources:
 # Seven goals for secondary science education with spatial consequences
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper organizes science education goals into seven reference words: power, social impact, product, process, enquiry, world view, and individual responsibility for learning. Each goal is argued as an alternative with direct consequences for space requirements, and composite goals are formed by merging others, e.g. enquiry merges process and product with emphasis on process. The paper notes that "teaching for all seven goals in any one year of the student's program is impractical and inefficient." The taxonomy establishes a concise vocabulary for later chapters on methods and facilities.

@@ -12,6 +12,7 @@ generated:
 # Reflective Journals
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (5 for) · 11 studies, `q3`–`q4` · 11 of 11 report an effect size
 
 ## Description
 A reflective journal is a recurring written record in which learners describe an experience or learning event, analyze it against concepts or goals, and derive implications for future action. Entries are typically prompted by structured frameworks (e.g., Gibbs' cycle: description → feelings → evaluation → analysis → conclusion → action plan) and may be private, shared with an instructor, or assessed. The strategy converts experience into articulated knowledge by forcing elaboration, self-monitoring, and planning into written form.

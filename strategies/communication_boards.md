@@ -12,6 +12,7 @@ generated:
 # Communication Boards
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q4` · 1 of 3 report an effect size
 
 ## Description
 Communication boards are visual displays — physical or electronic — that present symbols, photographs, words, or phrases a learner can point to, select, or activate to communicate. They are a low- or mid-tech form of [augmentative and alternative communication (AAC)](https://www.asha.org/public/speech/disorders/aac/) used when speech is absent, unreliable, or insufficient. Boards range from a single laminated core-word sheet to dynamic speech-generating apps with hundreds of vocabulary items.

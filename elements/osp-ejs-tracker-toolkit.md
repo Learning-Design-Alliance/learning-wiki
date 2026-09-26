@@ -17,6 +17,7 @@ sources:
 # Open Source Physics toolkit: Easy Java Simulations and Tracker for creating and customising free physics computer models
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Open Source Physics (OSP) focuses on the design of computer models, such as Easy Java Simulations (EJS) and video modeling and analysis (Tracker). The tools are free, run on Windows, MacOSX and Linux with Java Runtime, and carry intellectual property rights that let teachers and students customise models to suit their teaching and learning needs. Students use them to investigate, explore and analyse data which is either real or simulated.

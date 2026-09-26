@@ -12,6 +12,7 @@ generated:
 # Establishing Discussion Norms
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q4` · 4 of 7 report an effect size
 
 ## Description
 Establishing discussion norms means making the rules of classroom discourse explicit before discussion begins: how students enter the conversation, respond to peers, handle disagreement, and share airtime. Norms are typically co-constructed with learners, posted visibly, modeled by the instructor, and revisited periodically. The strategy treats productive discussion as a learned social practice rather than an emergent one.

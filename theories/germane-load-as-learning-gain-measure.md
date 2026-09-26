@@ -16,6 +16,7 @@ sources:
 # Germane load operationalized as learning effects measured by test-score increases
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article operationalizes germane load as learning effects: the portion of working memory resources devoted to schema construction during a learning phase, whose behavioral signature is improvement on post-test problems. As the article states, "germane load assigned in the learning phase was evaluated based on the increase of the test scores." This measurement approach treats pre- to post-test gains as the index of germane load, and the article uses it to distinguish two types of germane load related to intrinsic load.

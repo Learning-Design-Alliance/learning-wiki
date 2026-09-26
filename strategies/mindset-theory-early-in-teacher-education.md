@@ -17,6 +17,7 @@ sources:
 # Introduce student teachers to mindset theory early and foster a learning orientation through classroom language, feedback and attitude to challenge
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Based on the finding that Turkish student teachers lean toward entity beliefs and performance goals, the article recommends that "early in their course of study, student teachers should be introduced to Dweck's mindset theory" and encouraged to reflect on their own beliefs and learning behaviours. Teacher education programmes could identify students' beliefs at entry, offer enhanced support to those with fixed views, and train all student teachers to foster a learning orientation through classroom language, feedback and the attitude to challenge and effort promoted, including teaching pupils to think explicitly about their thinking.

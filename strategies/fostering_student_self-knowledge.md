@@ -12,6 +12,7 @@ generated:
 # Fostering Student Self-Knowledge
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies, `q2`–`q4` · 6 of 10 report an effect size
 
 ## Description
 Fostering student self-knowledge involves structured activities that help students understand themselves as learners: their current skill levels, what helps them learn, and what they still need. Typical measures include learning interest inventories, exit tickets, progress-monitoring conferences, and peer/self-assessment. The goal is not self-expression for its own sake but accurate self-appraisal that feeds into goal-setting, strategy selection, and self-advocacy.

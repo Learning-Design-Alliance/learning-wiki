@@ -17,6 +17,7 @@ sources:
 # University enrollment dataset 1971–1990 with fuzzylised universe (13000, 20000)
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article uses real enrollment data for a United States university from 1971 to 1990, with a maximum enrollment of 19328 and a minimum of 13055. The universe (13000, 20000) was selected and fuzzylised into seven even intervals u1–u7, each of length 1000, with seven fuzzy sets A1–A7 defined on it. Yearly memberships (Table 1), model outputs (Table 2), and FTM versus LRM residuals against actual values (Table 3) are reported.

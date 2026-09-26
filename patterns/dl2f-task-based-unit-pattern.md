@@ -17,6 +17,7 @@ sources:
 # Task-based learning units integrated into the curriculum structure with collaborative real-world communication activities
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 DL2F organizes instruction into task-based learning units embedded in the existing curriculum structure, with collaboration and communication as focal points through group activities mirroring real-world language use. The article states that 'task-based learning units are integrated into the curriculum, aligning seamlessly with the K -12 structure', exemplified by a collaborative podcast project integrating listening, speaking, and research skills, alongside collaborative writing projects and virtual debates.

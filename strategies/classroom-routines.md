@@ -12,6 +12,7 @@ generated:
 # Classroom Routines
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size
 
 ## Description
 Classroom routines are consistent, practiced procedures for recurring activities — entering the room, distributing materials, transitioning between tasks, starting work, seeking help, closing a lesson. By making the *how* of classroom life automatic, routines free working memory and instructional time for the *what* of learning. They are established through explicit teaching, rehearsal, and consistent reinforcement until they run without conscious negotiation.

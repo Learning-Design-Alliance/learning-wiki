@@ -17,6 +17,7 @@ sources:
 # Faculty as mentors and consultants guiding open-ended project work
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 In the studio courses, faculty served as mentors and consultants rather than traditional teachers, enacting three primary roles apparent in the data: guiding students through the design process (brainstorming, prototyping, testing), mentoring project groups, and pushing students to think critically about ideas and user needs, while also helping them navigate complicated contexts and obtain resources. Students rated "I felt the instructor was a mentor and a consultant more than a typical teacher" an average of 4.17 (SD = 0.92). Faculty described navigating a tension between supporting students and letting them explore and even fail.

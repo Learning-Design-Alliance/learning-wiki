@@ -16,6 +16,7 @@ sources:
 # Macro-, Micro- and Meso-Level Stations of Inequality Production
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A three-level account, drawn from Lamont, Beljean and Clair (2014), of "three essential stations to understand the production of inequalities": macro-level material, symbolic and location-based inequality; micro-level intra-individual cognitive processes and inter-subjectively shared meaning structures; and meso-level cultural processes of identification and rationalization. The article aims to reflect the interaction between these levels by analyzing a school-based ethnography.

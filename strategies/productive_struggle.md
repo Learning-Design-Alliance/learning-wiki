@@ -12,6 +12,7 @@ generated:
 # Productive Struggle
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 6 claims (6 for) · 11 studies, `q3`–`q4` · 9 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Productive struggle is the deliberate design of a phase in which learners attempt problems that are beyond their current independent competence, generating methods, errors, and questions before canonical instruction is provided. The struggle is "productive" when it activates relevant prior knowledge, surfaces misconceptions, and creates a need for the explanation that follows — not when it degenerates into unguided floundering.

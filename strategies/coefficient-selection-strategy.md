@@ -17,6 +17,7 @@ sources:
 # Select iteration coefficients according to the proved convergence condition when implementing stochastic approximation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article supports a concrete implementation strategy: when deploying the Robbins-Monro procedure, choose the iteration-coefficient sequence so that it satisfies the necessary and sufficient convergence condition proved in the bulletin. This turns an abstract theorem into an implementable rule for designers of sequential estimation or adaptive measurement procedures, ensuring the estimate sequence converges with probability one and in the quadratic mean.

@@ -12,6 +12,7 @@ generated:
 # Peer Revision
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q3` · 3 of 5 report an effect size
 
 ## Description
 Peer revision (also called peer review or peer feedback) asks learners to exchange drafts of their work, critique one another against explicit criteria, and revise in response. It operates in two directions at once: reviewers deepen their understanding by analyzing others' work against quality criteria, while authors receive multiple perspectives on their drafts before final submission.

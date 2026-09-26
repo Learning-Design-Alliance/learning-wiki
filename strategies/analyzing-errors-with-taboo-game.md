@@ -12,6 +12,7 @@ generated:
 # Analyzing Errors (with Taboo game)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
 
 ## Description
 Learners play Taboo — describing a target term without using its most obvious associated words — to practice choosing and deploying keywords, then the instructor leads a structured analysis of the errors and dead ends players encountered. The instructor names the underlying strategies (finding synonyms, giving precise descriptions, abandoning low-yield keywords) so learners connect their mistakes to generalizable search and vocabulary tactics rather than treating them as one-off failures.

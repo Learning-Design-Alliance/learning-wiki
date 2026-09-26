@@ -12,6 +12,7 @@ generated:
 # Set Clear Objectives
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Setting clear objectives means specifying, in advance and in learner-accessible language, what students should know or be able to do after instruction, then aligning activities and assessments to those objectives. Well-formed objectives name an observable performance, the conditions under it occurs, and the criterion for success — the classic Mager formulation. The strategy operates on two channels: it disciplines the instructor's design decisions (alignment), and it gives learners a goal structure that directs attention and effort.

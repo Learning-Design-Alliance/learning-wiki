@@ -16,6 +16,7 @@ sources:
 # Logistic discriminant function analysis for DIF detection in polytomously scored items
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 LDF is a DIF-detection method, drawn from Miller and Spray (1993), in which the probability of group membership is modeled from total score plus item score, and "the response variable, U, need not be restricted to only two categories...but can take on any one of the J values associated with each item." Nonuniform DIF is tested against a hierarchical model and uniform DIF against a null probability model, with Scheffe simultaneous confidence bands. It suits performance assessments whose items are scored on ordinal scales with more than two categories.

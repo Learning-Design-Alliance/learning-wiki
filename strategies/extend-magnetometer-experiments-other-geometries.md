@@ -17,6 +17,7 @@ sources:
 # Extend tablet magnetometer experiments to other current geometries
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A forward-looking recommendation from the authors for follow-up experiments with the tablet magnetometer setup. After establishing the coil and magnet results, they write: "For further experiments we suggest the study of the magnet dependence on distance for other geometries, like the long straight wire or the current on a plane sheet of steel." This extends the same measurement approach to new field-source configurations.

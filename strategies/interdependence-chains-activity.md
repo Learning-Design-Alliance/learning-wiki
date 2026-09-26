@@ -17,6 +17,7 @@ sources:
 # Use interdependence chains in which students link interdependent jobs and explain why each job needs the others
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A pre-intermediate level activity, adapted from Haley (2010), in which students complete a chain diagram of jobs that depend on one another. The article states that "Students filled each link with jobs that were interdependent and gave reasons why they needed each other." It is presented as a sample activity aligned with students' cognitive learning styles, encouraging relational thinking about vocabulary and concepts.

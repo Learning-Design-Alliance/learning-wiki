@@ -12,6 +12,7 @@ generated:
 # Fossil Analysis
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 Fossil analysis is a hands-on science strategy in which learners closely examine fossil specimens (or high-quality replicas and images), produce careful drawings, and write structured descriptions of each. The individual entries are compiled into a class "Fossil Guide," giving learners an authentic product and audience. The work mirrors what paleontologists actually do — observing, describing, comparing, and inferring from incomplete evidence.

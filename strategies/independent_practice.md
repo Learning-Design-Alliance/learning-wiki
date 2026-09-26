@@ -12,6 +12,7 @@ generated:
 # Independent Practice
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 9 studies, `q3`–`q4` · 6 of 9 report an effect size
 
 ## Description
 Independent practice is when learners practice skills and concepts on their own, after guided practice. It is crucial for moving knowledge into long-term memory and developing fluency with foundational skills and concepts. Interweaving reviews of older content and providing feedback can support retention of accurate material.

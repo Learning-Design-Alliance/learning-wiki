@@ -17,6 +17,7 @@ sources:
 # Select representative reduced portfolios with quality-control review and geographic-bias limits for standard setting
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 When full portfolios cannot be reviewed, select one entry per content strand whose subset performance most closely matches the whole-portfolio score, minimizing the z-score deviate difference. The report describes how samples were rank-ordered and "progressively reviewed to ensure that the samples did indeed exemplify an increasing level of student performance from the bottom to the top of the overall range," with problematic samples replaced after independent review by two reviewers.

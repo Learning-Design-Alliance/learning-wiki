@@ -12,6 +12,7 @@ generated:
 # Small Group Phonemic Awareness Intervention
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 10 studies, `q1`–`q4` · 8 of 10 report an effect size
 
 ## Description
 Small group phonemic awareness intervention delivers explicit, systematic instruction in oral sound manipulation — blending, segmenting, deleting, and substituting phonemes — to groups of 3–6 learners identified through screening as needing support. Sessions are short (10–20 minutes), frequent, and follow a developmental sequence from easier operations (blending) to harder ones (phoneme deletion and substitution), with the teacher modeling each task before learners perform it.

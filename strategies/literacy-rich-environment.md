@@ -12,6 +12,7 @@ generated:
 # Literacy Rich Environment
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 against) · 11 studies, `q1`–`q4` · 9 of 11 report an effect size
 
 ## Description
 A literacy rich environment saturates the learning space with meaningful, functional print — labeled objects, word walls, books at varied levels, writing tools, environmental text — and pairs it with social practices that make language use visible and valued (read-alouds, shared writing, conversation about text). The environment itself becomes an instructional agent: learners encounter print frequently, in context, and for real purposes, which builds print awareness, vocabulary, and motivation to read before and alongside formal instruction.

@@ -17,6 +17,7 @@ sources:
 # Prioritize leadership development, legal-framework refinement, and dialogue mechanisms to strengthen university governance
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article derives recommendations from its regression and ANOVA findings for policymakers and university leaders. Policymakers should improve the legal framework for autonomy and support smaller universities; leaders should invest in leadership development and establish dialogue mechanisms. The article states that since "leadership is the most influential factor, training and professional development programs in strategic governance, change management, decision-making, and communication should be implemented systematically and regularly."

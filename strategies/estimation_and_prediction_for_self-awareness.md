@@ -12,6 +12,7 @@ generated:
 # Estimation and Prediction for Self-Awareness
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q3` · 4 of 5 report an effect size
 
 ## Description
 Learners make explicit estimates or predictions before beginning a task — how long it will take, how difficult it will be, what score they expect, or what the outcome will be — and record them. After completing the task, they compare predictions against actual results and reflect on the sources of any miscalibration. The strategy converts self-assessment from a vague impression into a measurable, repeatable judgment, building accurate metacognitive monitoring over time.

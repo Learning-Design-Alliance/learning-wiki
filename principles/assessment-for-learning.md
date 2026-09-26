@@ -21,6 +21,7 @@ sources:
 # Assessment for Learning
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size
 
 ## Description
 Assessment for learning is the principle that assessment should be used during instruction to support learning, not only after instruction to certify it. The central question is not "What grade does this produce?" but "What does this evidence suggest we should do next?" It overlaps strongly with formative assessment, but highlights the instructional purpose of assessment evidence: clarifying goals, surfacing current understanding, and guiding revision.

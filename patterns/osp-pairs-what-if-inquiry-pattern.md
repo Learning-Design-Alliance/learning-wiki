@@ -17,6 +17,7 @@ sources:
 # OSP guided inquiry lesson pattern: pairs investigate with what-if scenarios, peer instruction, and class presentation
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 In the OSP how-to pattern, students typically work in pairs to investigate a physical phenomenon using the technology. They come up with their own 'what-if' scenarios and simulate them to discover and better understand the physics behind it. Peer instruction is another way students make sense of the data, and students may present their analysis and defend their interpretation before the entire class, supporting an inquiry nature that lets students work and think like scientists.

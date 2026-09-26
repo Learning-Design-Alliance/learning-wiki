@@ -16,6 +16,7 @@ sources:
 # Typology of limiting versus expansive problem-solving strategies in student reflections
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article develops a coding typology distinguishing four "limiting" strategies, which "may work well for well-structured, end-of-chapter exercises, but they begin to fail as the problems become more complex" (Rolodex equation matching, listing known quantities, listing unknowns, prior examples in text/lecture), from four "expansive" strategies that "can be readily applied to more ill-structured challenges" and are characteristic of expert problem-solving (diagram, concepts first, qualitative analysis, sub-problems). Reflections were double-coded blind to pre/post status with kappa values from 0.74 to 0.96, and each student's mix is summarized by pscale = (expansive-limiting)/(expansive+limiting).

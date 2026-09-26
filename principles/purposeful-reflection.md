@@ -29,6 +29,7 @@ sources:
 # Purposeful Reflection
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (1 for, 2 mixed) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size
 
 ## Description
 Purposeful reflection is structured time for learners to examine what they did, what they understood, where they struggled, and what they should do next. The key distinction is intention: reflection is tied to a learning goal, experience, product, or decision rather than being a generic request to "think about it." Well-designed reflection helps learners consolidate meaning, monitor progress, and connect present learning to future action.

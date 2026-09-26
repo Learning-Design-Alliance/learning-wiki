@@ -17,6 +17,7 @@ sources:
 # Life-science-contextualized redesign of an introductory physics course
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A course-level design pattern in which lecture questions, homework, hands-on sessions, and free-response exams are all rebuilt around life science contexts so students apply physical intuition to life-science-oriented problems. New LON-CAPA homework problems used physics principles to understand situations of interest to life science students while striving to ensure the problems are "authentic to the disciplines involved" and emphasize conceptual thinking useful in students' careers. Topic coverage was rebalanced toward thermodynamics and fluid dynamics and away from kinematics and rotational motion.

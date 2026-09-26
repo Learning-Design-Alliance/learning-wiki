@@ -37,6 +37,7 @@ sources:
 # Worked Examples
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 5 studies, `q2`–`q3` · 5 of 5 report an effect size · 3 claims rest on one study
 
 ## Description
 Worked examples present a partially or fully solved problem so learners can study task structure, decision points, and reasoning before attempting similar problems independently.

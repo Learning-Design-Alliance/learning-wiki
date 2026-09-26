@@ -17,6 +17,7 @@ sources:
 # Secuencia de cinco actividades que va del problema cotidiano a la construcción de un instrumento de medición
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 El patrón organiza la enseñanza en cinco actividades encadenadas: indagación introductoria sobre las sombras y la hora sin relojes; diseño de una maqueta de los arcos solares; debate histórico sobre modelos geocéntrico y heliocéntrico; sombras y latitud con modelos externos e internos; y construcción y orientación de un reloj de Sol horizontal. Cada actividad se apoya en los conocimientos adquiridos en la anterior y registra las respuestas de los alumnos en un cartel colectivo para revisarlas más adelante.

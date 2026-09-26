@@ -12,6 +12,7 @@ generated:
 # Expert Modeling
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Expert modeling is the element in which a skilled performer demonstrates not only what to do, but how an expert notices cues, makes decisions, and checks quality during performance. It is useful when learners need access to expert judgment that would otherwise remain tacit.

@@ -17,6 +17,7 @@ sources:
 # Strengthen school-based mental health services, special educators and early-detection awareness programmes for depression and learning disorders
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Based on 26 years of service data showing rising registrations for affective disorders and disorders of psychological development, the authors recommend that "Indian clinics may need to strengthen services for disorders like depression, specific learning disorders and hyperkinetic disorders". They call for more special educators and child psychologists, stronger school counseling, awareness and sensitization programmes for early detection, and preventive work strengthening school mental health programmes, reducing school and home stress, and building children's life skills to cope with day-to-day stress.

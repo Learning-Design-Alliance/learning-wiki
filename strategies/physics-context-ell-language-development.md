@@ -17,6 +17,7 @@ sources:
 # Use physics and other observable sciences as a context for ELLs to build conceptual understanding while developing English competence
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors recommend designing learning environments that depend on students' culturally mediated resources, stating that "our data suggests the design of learning environments that depend on students' culturally mediated resources can be very effective in including students, and in the process of sense-making." They highlight physics and other observable sciences as contexts for improving English language skills because shared experiments give all students common experiences to talk about.

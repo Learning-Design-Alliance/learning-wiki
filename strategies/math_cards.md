@@ -12,6 +12,7 @@ generated:
 # Math Cards
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q2`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Math Cards is a matching activity in which learners pair cards that represent the same quantity or product in different forms — a number sentence (9 × 4), an area model, a set of dominoes, an array of dots, or a word problem. Learners must judge equivalence across representations and explain *why* the cards match, shifting the goal from speeded recall of facts to flexible understanding of what multiplication means. The activity is typically played in pairs or small groups, with discussion of equivalences as the central learning event.

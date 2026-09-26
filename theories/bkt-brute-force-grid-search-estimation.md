@@ -16,6 +16,7 @@ sources:
 # BKT Brute Force (BKT-BF): grid-search parameter estimation minimizing Residual Sum of Squares
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 BKT-BF is an algorithm to estimate BKT parameter values by brute force: a grid of possible parameter values is set, and for each combination a Residual Sum of Squares (RSS) value is obtained; "the combination of values resulting in the lowest Residual Sum of Squares (RSS) value for a skill is the one that will be used in BKT." The RSS is computed from observed answers Oi,t and the BKT-derived likelihood of a correct answer Ci,j, normalized by students and dim. In this study, grids used values 0.05–0.95 (step 0.15) for L0 and T, and bounded 0.05–0.30 (step 0.05) for G and S to avoid model degeneracy, yielding 1764 RSS values per skill.

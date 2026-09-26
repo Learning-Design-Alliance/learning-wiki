@@ -17,6 +17,7 @@ sources:
 # Cueing strategy progressing from language models and closed cues to open cues to build independent language use
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Workbook C of the language unit presents a cueing strategy for developing pupils' independent language use. The document states "it is important that the teacher follow a cueing strategy which moves gradually from a pattern of models and closed cues, to one of open cues." Closed cues (including language models and one-word-answer questions) restrict the language a pupil can use, while open cues place no restriction and call for independent, creative language use. The strategy is depicted as an arrow diagram running from dependence to independence, first introducing new language with models and closed cues, then moving to open cues so pupils use the new language to talk about their own experiences.

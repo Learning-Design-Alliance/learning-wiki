@@ -17,6 +17,7 @@ sources:
 # Educational Belief Scale (40 items, five philosophy sub-dimensions)
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A self-report instrument the article uses to measure teachers' educational philosophy beliefs: "there are 40 items composed of five sub-dimensions that are scored as five-point Likert-type". Higher sub-dimension scores indicate that a teacher believes and adopts that philosophy more. In this survey of 789 physical education teachers, Cronbach alpha was .75-.87 in the sub-dimensions and .89 in total; the five-factor structure had been verified with confirmatory factor analysis.

@@ -17,6 +17,7 @@ sources:
 # Cognitive tools: technologies that enhance the cognitive powers of human beings
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper adopts Jonassen and Reeves' definition: "Cognitive tools refer to technologies, tangible or intangible, that enhance the cognitive powers of human beings during thinking, problem solving, and learning." Written language, mathematical notation, and the universal computer are given as examples. The paper distinguishes using the computer as a cognitive tool from using it as a delivery medium for instruction, often linking this to constructivist principles in which the learner designs with the tool, and notes the term spans a range from tools that intentionally develop human capability to tools that merely augment performance, including microworlds, intelligent tutoring systems, expert systems, and productivity programs.

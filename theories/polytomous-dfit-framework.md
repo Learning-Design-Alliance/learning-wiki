@@ -16,6 +16,7 @@ sources:
 # Polytomous DFIT framework for differential item and test functioning
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 An IRT-based parametric procedure proposed by Raju, van der Linden, and Fleer (1995) for detecting differential item functioning and differential test functioning in polytomously scored data. It computes expected item scores as weighted sums of item category response functions and sums them into true test scores; the article explains that "the difference between the dichotomous and polytomous DFIT framework is the calculation of the item true score," after which the framework is identical to the dichotomous case. It yields compensatory (CDIF) and noncompensatory (NCDIF) DIF indices, the latter assuming all other items are DIF-free.

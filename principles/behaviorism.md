@@ -12,6 +12,7 @@ generated:
 # Behaviorism
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 mixed) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Behaviorism, as an instructional principle, emphasizes observable performance, repeated practice, feedback, and reinforcement in shaping learning. It is useful when the target is consistent performance on clearly defined behaviors or skills.

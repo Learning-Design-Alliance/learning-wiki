@@ -12,6 +12,7 @@ generated:
 # Video Based Modeling
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Video based modeling presents learners with recorded demonstrations of expert performance — of a psychomotor skill, a procedure, a problem-solving sequence, or a social interaction — so they can observe, replay, and study the target behavior before practicing it. Unlike live demonstration, video allows pausing, slow motion, repeated viewing, and multiple camera angles, and can be delivered at scale. Effectiveness depends on making the reasoning behind the actions visible, not just the actions themselves.

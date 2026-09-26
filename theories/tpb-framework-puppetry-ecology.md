@@ -16,6 +16,7 @@ sources:
 # Ajzen's theory of planned behaviour as a framework for puppetry-based ecology teaching
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article uses Ajzen's theory of planned behaviour as its theoretical framework, holding that a learner's decision to participate in learning activities "is shaped by three main elements: their attitude towards learning, societal expectations related to the instruction, and their perceived control over the learning process". Within this framework, puppetry is positioned as a method that could challenge old beliefs and foster new cognitive, normative, and behavioural beliefs, thereby enhancing engagement with ecological concepts. The framework links perceived behavioural control to learners' engagement and motivation.

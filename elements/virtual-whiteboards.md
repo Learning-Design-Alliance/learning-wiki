@@ -12,6 +12,7 @@ generated:
 # Virtual Whiteboards
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Virtual whiteboards are the element in which learners sketch, annotate, and collaborate in a shared digital visual workspace.

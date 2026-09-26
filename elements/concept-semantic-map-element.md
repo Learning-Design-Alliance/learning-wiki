@@ -17,6 +17,7 @@ sources:
 # Concept/semantic map
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A graphic organizer in which concepts are represented as nodes and their relationships as labeled or positional links. In the article it appears as student frame maps and skeletal templates, and can be provided complete as an advance organizer or given partially completed for students to fill in during mapping exercises.

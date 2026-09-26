@@ -17,6 +17,7 @@ sources:
 # Use simulation as a non-threatening alternative to direct experimentation when testing office reorganizations
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report recommends that a manager facing congestion or budget pressure run the simulation rather than experiment on the live office. In the demonstration, the manager "chooses simulationas a non-threatening alternative to direct experimentation," first determining input parameter values describing his office configuration, then running the simulation and verifying it adequately represents his office's behavior before locating bottlenecks and testing remedies. This procedure lets alternative staff allocations be compared without risking worse real-world service.

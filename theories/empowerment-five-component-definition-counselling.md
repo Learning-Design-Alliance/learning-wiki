@@ -16,6 +16,7 @@ sources:
 # Empowerment in counselling defined as a five-part process of awareness, skill and capacity, exercise, non-infringement, and support for others' empowerment
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article defines empowerment in counselling by drawing on social work, community psychology, education, multicultural counselling, and feminist literatures. Empowerment is "the process by which people, organizations, or groups who are powerless or marginalized" become aware of power dynamics, develop skills and capacity for reasonable control, exercise that control without infringing others' rights, and support the empowerment of others in their community. The article elaborates each component and stresses the process is not linear and does not conclude with an "empowered" state.

@@ -16,6 +16,7 @@ sources:
 # Siegel's broad rationality: critical thinking as an educational and moral ideal grounding Constructivism
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Drawing on Siegel's (1996) Rationality Redeemed?, the paper presents a broad notion of rationality with both epistemological and moral dimensions as a cognitive tool supporting Constructivism. The main tenet is that the ideal of education is to promote rationality and critical thinking, with the critical thinker possessing a reason assessment component: understanding principles of reason assessment and the ability to use them to evaluate beliefs, actions, and judgements. Critical thinking as an educational ideal carries attributes including respect for students as persons, self-sufficiency, initiation into the rational tradition, and democratic living, making it also a moral ideal congruent with Constructivism's prescriptive component.

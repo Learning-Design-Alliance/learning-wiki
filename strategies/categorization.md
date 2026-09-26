@@ -12,6 +12,7 @@ generated:
 # Categorization
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 4 of 6 report an effect size
 
 ## Description
 Categorization asks learners to actively sort, group, or label cases — problems, examples, specimens, arguments — according to their deep structure rather than surface features. Instead of reading a taxonomy, learners construct it, deciding which items belong together and articulating why.

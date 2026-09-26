@@ -16,6 +16,7 @@ sources:
 # Critical Pedagogy Model of Civic Competence through Service-Learning
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A pedagogical model representing the relationship between community-based learning pedagogy and civic competence, with four components (knowledge, skills, attitudes, actions) comprising eight overlapping and interactive epistemological domains. The article states "this epistemological model incorporates service as the conceptual linchpin, recognizing that action is not just the culmination of competence, but an integral part of it." It is surrounded by a pedagogical ring of course design, teaching strategies, integration of service, and iterative teaching, and was empirically supported by correlational survey data from 10,974 students at one university.

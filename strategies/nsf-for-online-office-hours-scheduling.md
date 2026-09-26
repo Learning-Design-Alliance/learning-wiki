@@ -17,6 +17,7 @@ sources:
 # Use New Student First scheduling for online office hours queues and FCFS for in-person queues
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 An implementable queue-management recipe derived from the simulation findings: instructors hosting online office hours should prioritize students who have not yet received help that day (NSF), falling back to FCFS when no such student exists. The article states: "We recommend the instructors use NSF for online office hours queue scheduling." For in-person office hours, FCFS is more appropriate because students rarely return the same day and can see the queue order.

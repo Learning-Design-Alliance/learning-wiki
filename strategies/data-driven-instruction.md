@@ -12,6 +12,7 @@ generated:
 # Data Driven Instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Data driven instruction (DDI) is the systematic collection and analysis of student learning evidence — formative assessments, exit tickets, curriculum-based measures, work samples — and the use of that evidence to decide what to reteach, regroup, or accelerate. It replaces assumptions about what students know with direct measurement, typically on short cycles (weekly to unit-length) rather than end-of-year summative tests.

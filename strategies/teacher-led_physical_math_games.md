@@ -12,6 +12,7 @@ generated:
 # Teacher-Led Physical Math Games
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q2`–`q3` · 3 of 6 report an effect size
 
 ## Description
 Teacher-led physical games embed mathematical practice inside brief whole-body movement routines — typically 2–5 minutes — that require no materials beyond the teacher's voice and classroom floor. The teacher calls out numbers, conditions, or rhythms; students respond with gross-motor actions (forming groups, standing/sitting, expanding or shrinking their bodies, clapping, counting off). Because they are teacher-led, the games can be launched instantly at transitions or as station breaks and tuned on the fly to the group's current skill level. Canonical examples include:

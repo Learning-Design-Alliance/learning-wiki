@@ -12,6 +12,7 @@ generated:
 # Leveraging Strengths to Address Attention Challenges
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy begins with identifying what captures and holds an individual student's attention — interests, movement needs, visual processing strengths, social motivation — and what disrupts it. Instruction is then arranged so that environmental supports (seating, visual aids, reduced distraction) and task structures ([Chunking](../principles/chunking.md), clear sequencing) do the work of sustaining attention rather than relying on the student's willpower or sustained-effort capacity.

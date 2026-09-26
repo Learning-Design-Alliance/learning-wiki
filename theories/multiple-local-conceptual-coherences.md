@@ -16,6 +16,7 @@ sources:
 # Multiple local conceptual coherences: student understanding as locally stable patterns requiring stability explanations
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The framework holds that student understanding and behavior are variable yet exhibit stabilities local to moments and settings. The author introduces the term to "capture the notion that understanding and behavior are often quite variable, while still exhibiting stabilities that are local to moments and settings." Rather than treating change as the central problem, the framework explains locally coherent patterns of thinking through mechanisms that stabilize them, drawing on both knowledge-based (cuing and reliability of intuitive knowledge pieces) and participation-based (interactional behaviors, material affordances) accounts. It is applied to a case of college physics students' reasoning about tickertape representations of motion.

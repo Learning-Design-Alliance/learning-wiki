@@ -12,6 +12,7 @@ generated:
 # Recording Devices
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 1 of 2 report an effect size
 
 ## Description
 Recording devices let learners capture live instruction — lectures, demonstrations, peer explanations — as audio or video for later playback. The strategy works best when paired with active re-engagement: learners mark timestamps where they got lost, replay those segments, and convert what they hear into their own notes rather than passively re-listening.

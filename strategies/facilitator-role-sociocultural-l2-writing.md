@@ -17,6 +17,7 @@ sources:
 # Adopt a facilitator role and prepare students for active participation in sociocultural L2 writing instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 For the Sociocultural Model of L2 writing to work, the article recommends a role shift: "teachers must adopt the role of a facilitator rather than a content provider or authority figure". Implementing this requires training teachers for such role shifts and preparing students to move from passive learners to active actors in their own learning. The strategy operationalizes the model's emphasis on collaboration and reciprocal teaching.

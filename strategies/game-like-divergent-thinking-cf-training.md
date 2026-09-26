@@ -17,6 +17,7 @@ sources:
 # Use fun, game-like divergent-thinking problem-solving tasks with explicit teacher modeling as cognitive flexibility training before phonemic awareness instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article's cognitive flexibility training consisted of game-like problem-solving tasks: "the students and teachers in Group 1 (receiving cognitive flexibility training), participated in fun, game-like problem-solving tasks and activities that foster divergent thinking", with teachers providing "explicit modeling and instruction relative to the importance of using knowledge elements from divergent sources to think about and solve problems". Sessions ran three times weekly for 20 minutes over five weeks, followed by identical phonemic awareness training for all groups.

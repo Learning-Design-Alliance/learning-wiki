@@ -12,6 +12,7 @@ generated:
 # Classroom Space and Procedural Design
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 mixed) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
 
 ## Description
 The easiest management problems to solve are the ones that never happen. Before the school year begins, arranging classroom furniture and materials to focus attention on learning already reduces behavior problems; once school begins, procedures, rules, and paced instruction extend that prevention further.

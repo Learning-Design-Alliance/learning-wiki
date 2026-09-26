@@ -17,6 +17,7 @@ sources:
 # Conduct empathy interviews as story-based conversations in comfortable, student-chosen settings
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The guide distinguishes the empathy interview from a regular interview through six conduct practices. Teachers should "Create a comfortable environment that is familiar and safe to the student", focus on "storytelling and having a conversation with your student rather than following a strict question and answer format", tolerate silence rather than filling it, balance notetaking with presence, note the student's body language, and track their own emotional reactions. Questions are written to invite stories, with probes such as "Can you tell me more about that?"

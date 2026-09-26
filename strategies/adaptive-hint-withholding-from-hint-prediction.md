@@ -17,6 +17,7 @@ sources:
 # Use predicted hint-taking likelihood and hint effects to adaptively decide whether to withhold or provide hints
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes that a learning environment use a hint-taking prediction model to make adaptive decisions on showing hints, because learners misuse on-demand hints. It suggests the environment "can proactively suggest hints to students who are stuck with a concept and have a low likelihood of taking a hint themselves", while withholding hints from students prone to abusing them without attempting the problem.

@@ -12,6 +12,7 @@ generated:
 # Whole-Class Sharing
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Whole-class sharing brings individual or small-group thinking before the entire class for presentation, discussion, and synthesis. It functions as the public, collective phase of a learning sequence — consolidating private reasoning into shared knowledge and giving learners an authentic audience for their ideas.

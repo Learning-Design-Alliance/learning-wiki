@@ -29,6 +29,7 @@ sources:
 # Develop a Reliability Checklist
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Learners work together to generate a set of diagnostic questions for judging the reliability of online sources — e.g., *Who is behind this site? What evidence do they cite? What do other sources say about it?* — and then apply that checklist to real web pages. The strategy combines co-construction (which builds ownership and surfaces learners' naive criteria) with structured application (which turns criteria into habitual evaluation moves).

@@ -17,6 +17,7 @@ sources:
 # Mapping an online tutoring environment onto Bandura's four requirements
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper enumerates how eSylvan instantiated each of Bandura's four requirements in its design. Attention was encouraged by focusing on the individualized lesson with headsets and digital pencil; retention through one-on-one teacher work and repetitive problem sets; reproduction by showing and explaining work; and motivation via praise and digital tokens. This is the article's own worked example of theory-driven design.

@@ -12,6 +12,7 @@ generated:
 # Spaced Learning
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Spaced learning is the element in which practice or review is distributed over time rather than massed together.

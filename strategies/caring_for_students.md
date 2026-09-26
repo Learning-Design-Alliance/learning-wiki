@@ -12,6 +12,7 @@ generated:
 # Caring For Students
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
 
 ## Description
 Caring for students means establishing relationships in which learners feel known, respected, and supported by their teacher. It is carried out through concrete practices — learning names and backgrounds quickly, [check-ins](../principles/check-ins.md), active listening, responsiveness to individual circumstances, and communicating high expectations alongside personal support — rather than through warmth alone. In Noddings' terms, caring is relational: it is completed only when the student perceives and receives the care.

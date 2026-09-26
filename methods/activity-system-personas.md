@@ -12,6 +12,7 @@ generated:
 # Activity-System Personas and Scenarios
 
 > **Design Method** · [All design methods](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 An ordinary [learner persona](learner-personas.md) describes a person: age, background, prior knowledge, goals, a photograph and a name. It is a real improvement on designing for nobody, and it has a characteristic weakness — it locates every design-relevant fact *inside the learner*. Read back later, it invites explanations of the form "Maria struggles because she is not confident", and confidence is not something a course can be pointed at.

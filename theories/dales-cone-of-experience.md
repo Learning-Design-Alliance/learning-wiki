@@ -16,6 +16,7 @@ sources:
 # Dale's Cone of Experience as a framework classifying media experiences along concrete-abstract dimensions of learning
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Cone of Experience, introduced by Edgar Dale in 1946 in Audio-Visual Methods in Teaching, is a way to classify media experiences in relation to psychological dimensions of learning. The article describes it as "a way to classify media experiences in relation to psychological dimensions of learning, specifically concrete and abstract", presenting media on a continuum from direct, purposeful experiences to indirect, symbolic ones. Dale also described the cone as a metaphor for concept development, and believed the cone turned on its side illustrated a spiral curriculum.

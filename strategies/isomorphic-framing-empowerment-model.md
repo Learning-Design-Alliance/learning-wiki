@@ -17,6 +17,7 @@ sources:
 # Use isomorphic framing to draw parallels between the empowerment model and the program's primary therapeutic theme
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Isomorphic framing techniques create parallel relationships between McWhirter's empowerment model and the primary theme's therapeutic process. This therapeutic metaphor enables participants to reflect on their present therapeutic process and draw parallels with the model and other situations in their home life where they may apply it. The primary theme is normally determined by the participants, their caregivers, or a needs analysis.

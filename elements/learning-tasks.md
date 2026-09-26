@@ -12,6 +12,7 @@ generated:
 # Learning Tasks
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size · 2 claims rest on one study
 
 ## Description
 A learning task is the integrated unit of work around which instruction is organized: a problem to solve, a case to analyze, a project to complete, or a performance to produce. Rather than decomposing content into isolated topics presented before application, task-centered design places learners in a meaningful, whole task from the start, with supporting information and part-task practice organized around it [Merrill's first principles identify task-centeredness as the core condition for effective instruction.](https://doi.org/10.1109/MTS.2002.1024043) [+M].

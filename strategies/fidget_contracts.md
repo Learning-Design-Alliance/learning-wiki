@@ -12,6 +12,7 @@ generated:
 # Fidget Contracts
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 2 of 2 report an effect size
 
 ## Description
 Fidget contracts are negotiated agreements between a learner and an educator or caregiver that specify when, where, and how fidget tools may be used. The contract frames the fidget as a self-regulation tool rather than a toy, defining conditions of use (e.g., "during independent reading, kept under the desk, returned after the session") and consequences for misuse. The negotiation process itself is part of the intervention: the learner helps set the rules, building self-awareness and ownership of their own regulation strategy.

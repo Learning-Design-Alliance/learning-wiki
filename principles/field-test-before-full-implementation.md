@@ -17,6 +17,7 @@ sources:
 # Conduct and evaluate a field test before implementing a staff development plan at scale
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The workbook instructs planners to run a trial of the plan on a small sample of staff and students, and evaluate it, before large-scale implementation. It argues that although thorough planning precedes the field test, "if aeld test is not conducted and the results evaluated before the plan is implemented, valuable human and financial resource* may be wasted." Evaluation is structured as sequential go/no-go judgments on competencies attained, objectives attained, and program efficiency and economy.

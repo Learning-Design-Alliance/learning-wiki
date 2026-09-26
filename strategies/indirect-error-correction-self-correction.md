@@ -17,6 +17,7 @@ sources:
 # Use indirect correction and self-correction to avoid face-threatening error treatment
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends indirect correction: teachers "either encourage students to do self-correction in heuristic method or present the correct form, so students couldn't feel embarrassed". Following James (1998), correction techniques should enhance accuracy and should not be face-threatening. A remodeling example shows a teacher recasting "What means this word?" as a natural question rather than directly interrupting with "No, listen".

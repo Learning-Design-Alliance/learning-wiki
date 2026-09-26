@@ -16,6 +16,7 @@ sources:
 # Six-category question taxonomy for measuring curiosity in STEM contexts
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article devises a categorization scheme for student questions as a simple measurement tool for curiosity, since existing curiosity theories do not categorize question types. "Based on this theoretical framework, the question categories us ed in this study to assess curiosity are as follows." The six categories are INCONGRUOUS (violating a model or heuristic rule), CONGRUOUS (understanding or gathering information about how a model or rule is applied), MODIFYING (probing changed assumptions or parameters), GENERALIZING/ANALOGY (comparing models), CAUSAL/CREATIVE (generating or improving models), and INFORMATIONAL (intrinsic-interest information).

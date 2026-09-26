@@ -17,6 +17,7 @@ sources:
 # Make learning pleasurable and engaging, because anticipated pleasure releases dopamine that supports processing of new information
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Drawing on Willis (2007), the review argues that because dopamine is associated with attention, memory, learning, and executive function, "when the brain releases dopamine in expectation of pleasurable experience, this dopamine will be available to increase the processing of new information." It concludes that if curriculum does not induce pleasurable states, students' intrinsic interest may be diminished, and urges counselors to consult with school personnel on varied, engaging experiential activities.

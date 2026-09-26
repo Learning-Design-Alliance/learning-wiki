@@ -17,6 +17,7 @@ sources:
 # Scenario-based standardized assessments with simulated peer and teacher interaction
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 ETS researchers developed technology-based assessments that emulate real interactions. O'Reilly and Sabatini (2014) treat the social purpose of written language as central to reading comprehension task design, and "through simulated peer discussion around a theme, these elicitations provide an unconventional form of scaffolding and thus promote learning through virtual interaction." Wolf and Lopez (2014) demonstrated a proficiency assessment for English learners entering K-12 featuring animated characters and scaffolding based on individual learner needs.

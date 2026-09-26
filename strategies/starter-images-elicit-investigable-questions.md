@@ -17,6 +17,7 @@ sources:
 # Use carefully chosen starter images to elicit student questions that are investigable with the given materials
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Students view pictures of stars one at a time and write questions on large sentence strips; the questions are later sorted by category and students select one to investigate in pairs. The article explains: "The starters are pictures of stars in different astronomical situations which are meant to get the students to ask lots of questions, of which they will later choose one to investigate." Starter pictures are chosen to show stars of many colors and brightnesses, clusters of different colors, and blue young clusters with nebulosity, so the resulting questions address the content goals.

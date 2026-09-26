@@ -12,6 +12,7 @@ generated:
 # Debriefing
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Debriefing is the element in which learners reflect on an activity, simulation, or performance to consolidate what happened and why.
