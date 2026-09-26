@@ -128,8 +128,8 @@ def _check_study_record(report, sr, contributions) -> None:
 # name. Deliberately narrower than health_evidence.STAT_RE, which also accepts test
 # statistics and percentages; those do not license an i1-i3 (prompt v134).
 EFFECT_SIZE_RE = re.compile(
-    r"(?:\b(?:d|g|r|ρ|β|OR|SMD|ES)\s*[=≈]\s*[-−]?\s*\d*\.?\d)|(?:[dḡ]̄?\s*=\s*[-−]?\d*\.?\d)|"
-    r"(?:η\s*[²2p]?\s*[=≈]\s*\.?\d)|(?:eta[- ]squared[^.]{0,15}\d)|(?:odds ratio[^.]{0,15}\d)|"
+    r"(?:\b(?:d|g|r|ρ|β|OR|SMD|ES)\s*[=≈]\s*[-−]?\s*\d*\.?\d)|(?:(?<![A-Za-z])[dḡ]̄\s*=\s*[-−]?\d*\.?\d)|"
+    r"(?:η\s*[²2p]{0,2}\s*[=≈]\s*0?\.?\d)|(?:eta[- ]squared[^.]{0,15}\d)|(?:odds ratio[^.]{0,15}\d)|"
     r"(?:(?:Cohen'?s d|Hedges'?\s*g|effect[- ]size)[^.]{0,25}?[-−]?\d*\.\d)", re.I)
 
 
