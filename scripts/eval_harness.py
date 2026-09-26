@@ -179,6 +179,12 @@ def result_path(run_dir: Path, model: str, article_id: str) -> Path:
 MAX_RUNAWAY_RESAMPLES = 2
 
 
+def _sampled(article_id: str, fraction: float) -> bool:
+    import hashlib
+    h = int(hashlib.sha256(article_id.encode("utf-8")).hexdigest()[:8], 16)
+    return h / 0xFFFFFFFF < fraction
+
+
 def _judge_gate(record, entry, parsed, gate, model, system_prompt, original_user_prompt, article_text,
                 existing_slugs, api_key, max_tokens, gpt_judge_model, gemini_judge_model,
                 ground_truth, require_source_quotes):
@@ -263,7 +269,7 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
             prompt_version: str = None, max_correction_attempts: int = 0, ground_truth: bool = False,
             require_source_quotes: bool = False, consistency_samples: int = 1,
             subclaim_judging: bool = False, gemini_judge_model: str = "google/gemini-3.7-flash",
-            judge_gate: str = None) -> dict:
+            judge_gate: str = None, judge_sample: float = 0.0, judge_sample_with: str = "gpt") -> dict:
     """max_correction_attempts=0 (default) is exactly the original single-shot
     behavior — this matters for benchmark integrity: the whole point of
     `run`/`optimize`/`auto-optimize` is measuring how a model does on its
@@ -417,6 +423,23 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
                                   gemini_judge_model, ground_truth, require_source_quotes)
         parsed = record["parsed"]
 
+    # A sampled judgment is a spot check, never a gate: nothing reads it at ingest,
+    # so an unattended run stays at the extractor's cost (GLM alone was $0.0027 an
+    # article on batch 7; the gating judge was $0.0047 more). Which articles are
+    # sampled is a hash of the id, so a re-run samples the same ones.
+    if (parsed and judge_sample and not gate_result
+            and (record.get("validation") or {}).get("passed")
+            and _sampled(entry["id"], judge_sample)):
+        try:
+            sample = run_judges(article_text, parsed, [judge_sample_with], gpt_judge_model, api_key=api_key,
+                                gemini_judge_model=gemini_judge_model,
+                                source_url=entry.get("url")).get(judge_sample_with) or {}
+            record["judge_sample"] = {"judge": judge_sample_with, "verdict": sample.get("verdict"),
+                                      "score": sample.get("average_score"), "issues": sample.get("issues"),
+                                      "cost_usd": sample.get("cost_usd")}
+        except Exception as e:
+            record["judge_sample"] = {"judge": judge_sample_with, "error": f"{type(e).__name__}: {e}"}
+
     if parsed:
         try:
             others = [j for j in judges if not (gate_result and j == judge_gate)]
@@ -550,7 +573,8 @@ def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: 
               max_correction_attempts: int = 0, retry_errors_only: bool = False,
               ground_truth: bool = False, require_source_quotes: bool = False,
               consistency_samples: int = 1, subclaim_judging: bool = False,
-              gemini_judge_model: str = "google/gemini-3.7-flash", judge_gate: str = None) -> Path:
+              gemini_judge_model: str = "google/gemini-3.7-flash", judge_gate: str = None,
+              judge_sample: float = 0.0, judge_sample_with: str = "gpt") -> Path:
     """The actual (model x article) loop, shared by `run`, `optimize`, and
     `auto-optimize` — the latter two call this directly (not through
     argparse) to run each candidate prompt against the same articles as the
@@ -654,7 +678,8 @@ def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: 
                               max_correction_attempts=max_correction_attempts, ground_truth=ground_truth,
                               require_source_quotes=require_source_quotes,
                               consistency_samples=consistency_samples, subclaim_judging=subclaim_judging,
-                              gemini_judge_model=gemini_judge_model, judge_gate=judge_gate)
+                              gemini_judge_model=gemini_judge_model, judge_gate=judge_gate,
+                              judge_sample=judge_sample, judge_sample_with=judge_sample_with)
         except fetch_article.FetchError as e:
             with print_lock:
                 state["done"] += 1
@@ -766,7 +791,8 @@ def cmd_run(args: argparse.Namespace) -> None:
                   retry_errors_only=args.retry_errors_only, ground_truth=args.ground_truth,
                   require_source_quotes=args.require_source_quotes,
                   consistency_samples=args.consistency_samples, subclaim_judging=args.subclaim_judging,
-                  judge_gate=args.judge_gate)
+                  judge_gate=args.judge_gate, judge_sample=args.judge_sample,
+                  judge_sample_with=args.judge_sample_with)
     finally:
         sys.stdout, sys.stderr = orig_stdout, orig_stderr
         console_log_file.close()
@@ -2118,6 +2144,11 @@ def main() -> None:
                             "revision round with the judge's issues and keep it only if it validates and the "
                             "judge no longer fails it. ingest_extractions skips a record the gate still fails. "
                             "Recorded under record['judge_gate'].")
+    p_run.add_argument("--judge-sample", type=float, default=0.0,
+                       help="Judge this fraction of validated extractions as a spot check (0.05 = 5%%), "
+                            "chosen by a hash of the article id. Never gates ingest. Recorded under "
+                            "record['judge_sample'].")
+    p_run.add_argument("--judge-sample-with", default="gpt", choices=["gpt", "gemini", "opus"])
     p_run.add_argument("--ground-truth", action="store_true",
                         help="Live-verify each citation's DOI (Crossref) or arXiv id (arXiv API) instead of "
                              "only checking it LOOKS like a real citation (see scripts/eval/ground_truth.py) "
