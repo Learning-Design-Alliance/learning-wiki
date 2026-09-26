@@ -41,4 +41,4 @@ This is a procedural prescription from the workbook's field-testing section, pre
 
 
 ## Related Claims
--
+- [Simulation allows the expense and effect of a policy change to be evaluated before implementation](simulation-evaluates-policy-change-before-implementation.md) — related

@@ -41,4 +41,5 @@ The dissertation reports, citing Ericsson and Pool, a digit-recall experiment in
 
 
 ## Related Claims
--
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md) — related
+- [Amount of accumulated deliberate practice distinguishes more from less accomplished musicians](deliberate-practice-hours-differentiate-musicians.md) — related

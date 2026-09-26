@@ -73,3 +73,9 @@ This meta-analysis synthesised 65 independent evaluations of school tutoring pro
 - [Activation improves learning](activation-improves-learning.md) — teaching requires activating and organizing prior knowledge
 - [Collaborative learning improves outcomes](collaborative-learning-improves-outcomes.md) — peer teaching is often embedded in collaborative structures
 - [Self-explanation improves learning](self-explanation-improves-learning.md) — explaining to oneself is the intrapersonal analogue of explaining to others
+- [Drawing Improves Learning](drawing-improves-learning.md) — related
+- [The FTS proposes that fading distinguishes expert from non-expert peers via a game-progress threshold, and peer-tutoring collaboration is expected to improve non-expert game progress and knowledge gained](fts-fading-threshold-peer-tutoring-expected-gains.md) — related
+- [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — possibly the same claim (merge candidate)
+- [Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — a broader claim this one bears on
+- [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — related
+- [Tutoring benefits both tutors and tutees](tutoring-benefits-tutors-and-tutees.md) — related

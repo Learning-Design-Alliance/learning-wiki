@@ -41,4 +41,8 @@ Experiment 4 of the six-experiment series, with repetitions added as a between-s
 
 
 ## Related Claims
--
+- [Students high in Need for Cognition are more persuaded by unintelligible messages than students low in Need for Cognition](need-for-cognition-moderates-unintelligible-persuasion.md) — related
+- [Increased source credibility produces greater agreement to both intelligible and unintelligible messages](source-credibility-effect-holds-unintelligible-messages.md) — related
+- [Unintelligible messages elicit a higher proportion of idiosyncratic cognitive elaborations than intelligible messages](unintelligible-messages-increase-idiosyncratic-elaboration.md) — related
+- [Unintelligible messages produce more agreement and cognitive elaboration than a no-message control](unintelligible-beats-no-message-control.md) — related
+- [Students agree with and list cognitive responses to unintelligible communications](students-agree-with-unintelligible-messages.md) — related

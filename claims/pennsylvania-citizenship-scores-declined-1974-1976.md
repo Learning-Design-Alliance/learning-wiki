@@ -41,4 +41,4 @@ The bibliography attributes this to Guerriero's ARE COMMONWEALTH STUDENTS RESPON
 
 
 ## Related Claims
--
+- [Properly conducted LRE programs can reduce delinquent tendencies and improve citizenship attitudes](lre-reduces-delinquent-tendencies.md) — related

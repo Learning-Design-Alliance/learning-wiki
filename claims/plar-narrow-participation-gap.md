@@ -41,4 +41,7 @@ NALL 1998 survey data show planned course participation of 43% for industrial wo
 
 
 ## Related Claims
--
+- [Aging does not substantially reduce informal learning participation, though preference shifts from courses to self-directed learning](aging-does-not-reduce-informal-learning.md) — related
+- [Employee development and continuing education are presented as improving employee behavior, morale, and organizational performance](employee-education-improves-performance.md) — related
+- [Over 95% of Canadian adults are involved in some form of informal learning activities they identify as significant](over-95-percent-canadian-adults-informal-learning.md) — related
+- [Informal learning participation is unrelated to formal schooling level, unlike course participation](schooling-unrelated-to-informal-learning.md) — related

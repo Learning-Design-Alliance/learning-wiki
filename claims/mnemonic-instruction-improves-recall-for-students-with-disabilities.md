@@ -72,3 +72,6 @@ This systematic review looked at 20 studies of mnemonic interventions with 669 s
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — mnemonics work partly by chunking arbitrary associations into retrievable units
 - [Cognitive load management](cognitive-load-management.md) — students with disabilities are especially vulnerable to overload that mnemonics offset
 - [Advance organizers improve learning](advance-organizers-improve-learning.md) — like mnemonics, organizers provide a retrieval scaffold that reduces memory demands for unfamiliar content
+- [Self-determination instruction improves outcomes](self-determination-instruction-improves-outcomes.md) — related
+- [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — related
+- [Retrieval practice produces more learning than elaborative study techniques, including concept mapping and imagery-based strategies such as the keyword mnemonic](retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration.md) — related

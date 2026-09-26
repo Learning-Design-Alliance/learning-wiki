@@ -41,4 +41,7 @@ Descriptive engagement outcome from the Results section of the single-school rep
 
 
 ## Related Claims
--
+- [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
+- [Parent Involvement Improves Achievement](parent-involvement-improves-achievement.md) — a broader claim this one bears on
+- [Out-of-school suspensions decreased 41% at a middle school implementing PBIS under the TEAM Student framework](pbis-suspensions-decreased-41-percent.md) — related
+- [Student mastery increased modestly from 17.5% to 19.2% during TEAM Student implementation](student-mastery-increase-team-student.md) — related

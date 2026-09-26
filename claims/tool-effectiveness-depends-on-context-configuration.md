@@ -58,4 +58,6 @@ The paper cites prior Logo research (Jonassen & Reeves, 1996; Pea, Kurland, & Ha
 
 
 ## Related Claims
--
+- [Salomon distinguishes effects with the computer (system performance) from effects of the computer (cognitive residue on the solo performer)](effects-with-versus-effects-of-computer.md) — related
+- [Salomon and Perkins distinguish learning with a tool from learning of a tool, with tools triggering cognitive transformations](salomon-perkins-learning-with-versus-of-tools.md) — related
+- [Mead holds that the process of acquiring changes the thing acquired, making change of subject matter the rule](acquiring-changes-the-thing-acquired.md) — related

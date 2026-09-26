@@ -41,4 +41,6 @@ The framing paper attributes this categorization to Cochran-Smith's analysis of 
 
 
 ## Related Claims
--
+- [Talk-time analysis showed the mentor spoke more than the mentee in video-recorded dialogues, with classroom management talk ranging from 3% to 39% of total talk time](mentor-mentee-talk-time-classroom-management-dialogues.md) — related
+- [Organization-simulation knowledge practices support interdisciplinary learning](organization-simulation-knowledge-practices-support-interdisciplinary-learning.md) — related
+- [Boundary-crossing mechanisms unfold sequentially across levels, and broker centrality creates an involvement paradox](boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox.md) — related

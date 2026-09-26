@@ -58,4 +58,5 @@ The article argues algorithms may dismiss contradicting data if it is in the min
 
 
 ## Related Claims
--
+- [Big Data can amplify suppressed testimony because its sheer size lends it assumed authenticity](big-data-assumed-authenticity-amplifies-suppressed-testimony.md) — reports the opposite
+- [Big Data's variety can aid redress of hermeneutical injustice by letting buried experiences find themselves within the data](big-data-variety-aids-hermeneutical-injustice-redress.md) — related

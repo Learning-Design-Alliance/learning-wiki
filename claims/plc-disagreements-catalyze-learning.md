@@ -41,4 +41,6 @@ Interview data from Tracey, a middle-years PLC leader, who unlike Jacki believed
 
 
 ## Related Claims
--
+- [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](plc-norms-three-categories-trust-prerequisite.md) — related
+- [The professional learning community is an environment in which teacher metacognition can be nurtured](plc-nurtures-teacher-metacognition.md) — related
+- [Teacher metacognition in PLCs appears at both a lower level (reflecting on what one does) and a higher level (reflecting on how one reflects)](plc-metacognition-lower-and-higher-levels.md) — related

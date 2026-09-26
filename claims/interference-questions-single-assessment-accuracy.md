@@ -41,4 +41,6 @@ Authors' interpretive conclusion (type e) drawn from the response-curve findings
 
 
 ## Related Claims
--
+- [The interference dip disappears once instruction returns to vector-based topics such as magnetic fields](interference-disappears-when-vector-instruction-resumes.md) — a narrower finding that bears on this claim
+- [Instruction on scalar electric potential produces a pronounced dip in correct vector-based Newton's Third Law responses in E&M](scalar-instruction-interferes-with-vector-responses.md) — a narrower finding that bears on this claim
+- [Students enter E&M with a higher initial Newton's Third Law response (66%) than they exited Mechanics, most likely due to a winnowing effect](winnowing-effect-raises-em-entry-response.md) — related

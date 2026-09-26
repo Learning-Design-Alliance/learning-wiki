@@ -41,4 +41,7 @@ Instructor survey scoring of scaffolding on physics exam questions from Engineer
 
 
 ## Related Claims
--
+- [Technology programs examine discipline-related physics topics at higher cognitive levels within a disciplinary context](technology-programs-discipline-specific-physics-emphasis.md) — related
+- [Collected exam questions required no cognitive processes above apply and no originality in analysis or high-level interdependence](exam-questions-capped-at-apply-and-standardized-analysis.md) — related
+- [No significant differences between Engineering and Technology exam questions in novelty and level of communication](no-significant-difference-novelty-communication.md) — related
+- [Variation among Engineering programs is as large as variation between Engineering and Technology programs](within-sector-variability-rivals-between-sector.md) — related

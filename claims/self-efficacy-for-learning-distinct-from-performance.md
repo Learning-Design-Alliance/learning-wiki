@@ -41,4 +41,5 @@ Theoretical/analytical section of the paper arguing that Bandura's original cons
 
 
 ## Related Claims
--
+- [Posttest self-efficacy accounts for a significant increment in posttest skill variability, but its relation to persistence is mixed in learning settings](posttest-self-efficacy-predicts-skill-persistence-mixed.md) — related
+- [Web-based SRL training combined with a learning diary (Group TD) produced statistically significant pre-post gains in SRL knowledge, the SRL overall score and self-efficacy, but not in mathematics scores, among prospective university students in an online preparation course](web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) — related

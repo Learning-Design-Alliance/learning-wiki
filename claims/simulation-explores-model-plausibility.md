@@ -58,4 +58,6 @@ Section 3.2 argument that greater freedom to perform psycho-surgery on a program
 
 
 ## Related Claims
--
+- [Program experiments on the McClelland & Rumelhart interactive activation model turned thought experiments into real tests, revealing friends-enemies, rich-get-richer, and gang effects](interactive-activation-program-experiments-mask-effects.md) — a narrower finding that bears on this claim
+- [External empirical evidence can refute a computational model of particle interactions when the model's own simulation cannot](external-evidence-can-refute-computational-models-of-particle-interactions.md) — related
+- [Authors report that flexibility in sim access supports student agency while students tend to explore in a productive sequence](flexibility-supports-agency-productive-sequence.md) — related

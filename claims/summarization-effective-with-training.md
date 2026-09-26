@@ -73,3 +73,6 @@ McNamara, D. S., Watanabe, M., Huynh, L., McCarthy, K. S., Allen, L. K., & Magli
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — summarization works by reorganizing material into fewer, larger units
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — untrained summarization can add rather than reduce load
 - [Activation improves learning](activation-improves-learning.md) — prior knowledge supports identifying main ideas in a text
+- [Group-level scaffolding training increases teacher process support and student participation](group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md) — related
+- [Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels](higher-hierarchy-levels-recalled-better.md) — related
+- [Summarization Improves Learning](summarization-improves-learning.md) — possibly the same claim (merge candidate)

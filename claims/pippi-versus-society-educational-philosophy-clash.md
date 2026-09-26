@@ -41,4 +41,5 @@ Finding from the interpretive content analysis, summarized in Table 3 across boo
 
 
 ## Related Claims
--
+- [Pippi's specific behaviors in the series instantiate Pragmatism, Reconstructionism, and Existentialism, including rejecting imposed learning decisions and reconstructing assessment.](pippi-instantiates-contemporary-philosophies.md) — possibly the same claim (merge candidate)
+- [In the Pippi Longstocking series, 55 educational instances were coded, with ways of learning, functions of school, and decision making the dominant categories.](pippi-longstocking-55-educational-instances-dominant-categories.md) — related

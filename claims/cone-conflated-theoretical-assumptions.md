@@ -41,4 +41,7 @@ The article reports, citing DeVaney and Butler's historical analysis, that the c
 
 
 ## Related Claims
--
+- [A theoretical gap exists between delivery-system/media theory and instructional strategy theory and other ISD steps](gap-between-media-theory-and-isd-steps.md) — related
+- [Dale argued learning becomes more meaningful when abstract learning and concrete experience are related, not that more realism is better](dale-related-concrete-and-abstract-not-realism.md) — related
+- [The direct-to-vicarious and purely symbolic experience continuum remains valid while the cone's description of media is dated](cone-continuum-valid-media-description-dated.md) — related
+- [The validity of the cone approach to media selection was questioned by 1969 because instructional design, not media alone, shapes media characteristics](cone-media-selection-questioned-tosti-ball.md) — related

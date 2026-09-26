@@ -41,4 +41,5 @@ The digest reports, citing Hahn's 1985 national curriculum survey of state-level
 
 
 ## Related Claims
--
+- [Group growth in leadership positively influences additional group growth](leadership-growth-drives-additional-group-growth.md) — related
+- [Properly conducted LRE programs can reduce delinquent tendencies and improve citizenship attitudes](lre-reduces-delinquent-tendencies.md) — related

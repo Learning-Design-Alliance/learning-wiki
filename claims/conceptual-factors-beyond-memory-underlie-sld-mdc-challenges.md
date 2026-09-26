@@ -41,4 +41,7 @@ Authors' interpretation in the Discussion of the case study: Devin was able to r
 
 
 ## Related Claims
--
+- [A student with learning difficulties independently anticipated where to start a coordinated count but failed to anticipate where to stop the unit-rate count with harder numbers](sld-anticipates-start-but-not-stop-in-mdc-hard-numbers.md) — a narrower finding that bears on this claim
+- [A teacher's prompting that oriented a student's reflection on his own tracking methods fostered monitoring of his goal-directed counting activity](orienting-reflection-to-own-tracking-fosters-monitoring.md) — related
+- [The anticipation of where to stop the unit-rate count remained inconsistent and prompt-dependent across subsequent episodes with harder numbers](mdc-stop-anticipation-remains-prompt-dependent.md) — a narrower finding that bears on this claim
+- [Spontaneous break-apart-make-ten strategy use is associated with stronger multiplicative double-counting reasoning](spontaneous-additive-strategy-relates-to-multiplicative-reasoning.md) — related

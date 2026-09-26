@@ -41,4 +41,5 @@ Internal program review involving staff, students, industry collaborators and be
 
 
 ## Related Claims
--
+- [Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum](curricular-knowledge-enables-responsive-instructional-moves.md) — related
+- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related

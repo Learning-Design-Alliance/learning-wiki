@@ -58,4 +58,7 @@ Same symmetric SEM. The reverse-pathway interaction was only marginally signific
 
 
 ## Related Claims
--
+- [Exploratory analyses suggest the digital moderation of the EF–reappraisal link is concentrated in social media and short-form video, not gaming or educational use](category-specific-moderation-social-media-short-video.md) — a narrower finding that bears on this claim
+- [High-intensity digital users show lower EF and reappraisal than moderate and low users, suggesting a threshold rather than linear dose-response pattern](digital-use-threshold-pattern-ef-er.md) — related
+- [Emotion regulation is concurrently associated with executive performance in the reverse direction, with habitual suppression linked to diminished EF](reappraisal-and-suppression-reverse-linked-to-ef.md) — related
+- [The reciprocal EF–ER model fits only marginally better than a forward-only model, so model preference rests on theory as much as fit](reciprocal-versus-forward-only-model-fit.md) — related

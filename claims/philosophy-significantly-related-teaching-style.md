@@ -41,4 +41,8 @@ Relational survey model; correlation analysis across all five philosophies and f
 
 
 ## Related Claims
--
+- [Majority of classroom teachers adopt experimentalist philosophy](classroom-teachers-mostly-adopt-experimentalism.md) — related
+- [Teacher-centered philosophies correlate with formal-authority teaching styles](teacher-centered-philosophies-correlate-formal-authority.md) — a narrower finding that bears on this claim
+- [Student-centered philosophies correlate with personal, facilitator and delegator teaching styles](student-centered-philosophies-correlate-student-centered-styles.md) — a narrower finding that bears on this claim
+- [Prospective teachers' critical thinking dispositions show no significant relationship with traditional educational philosophy preference](critical-thinking-dispositions-not-related-traditional-philosophy.md) — related
+- [Prospective teachers' critical thinking dispositions are positively and moderately correlated with their preference for contemporary educational philosophy](critical-thinking-dispositions-correlate-contemporary-educational-philosophy.md) — related

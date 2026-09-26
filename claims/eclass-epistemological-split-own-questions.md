@@ -41,4 +41,4 @@ Results from a typical introductory calculus-based lab course at a large public 
 
 
 ## Related Claims
--
+- [Asking questions is a valued scientific practice: all 23 experts agreed it is a key aspect of scientific research](asking-questions-key-scientific-practice-expert-consensus.md) — related

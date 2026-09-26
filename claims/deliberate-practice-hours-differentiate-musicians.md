@@ -41,4 +41,7 @@ Retrospective-interview and diary study of musicians at the Berlin music academy
 
 
 ## Related Claims
--
+- [Deliberate practice research is largely correlational with large unexplained variability in accumulated practice hours](deliberate-practice-correlational-limits.md) — related
+- [Deliberate Practice Improves Performance](deliberate-practice-improves-performance.md) — related
+- [Historical increases in peak performance contradict fixed innate upper limits](historical-improvements-reject-immutable-limits.md) — related
+- [Deliberate practice can expand short-term memory capacity beyond the conventional seven-item limit](deliberate-practice-expands-memory-capacity.md) — related

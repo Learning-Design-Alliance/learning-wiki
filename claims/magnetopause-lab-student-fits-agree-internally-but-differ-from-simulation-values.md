@@ -58,4 +58,7 @@ Instructor-reported comparison in the same empirical-fit section between student
 
 
 ## Related Claims
--
+- [External empirical evidence can refute a computational model of particle interactions when the model's own simulation cannot](external-evidence-can-refute-computational-models-of-particle-interactions.md) — related
+- [Students achieve reasonable agreement between their magnetopause-crossing findings and model predictions, gaining exposure to the tools and techniques of space physics](magnetopause-lab-reasonable-agreement-with-model-predictions.md) — related
+- [Students find magnetopause crossings well in magnetic field data but have more difficulty with particle data, and some data sets contain no crossings at all](magnetopause-lab-crossing-search-field-versus-particle-data.md) — related
+- [Using a stair-step pattern of solar wind input conditions in the simulation portion of the lab led to much better student results than linearly varying conditions](stair-step-solar-wind-inputs-improve-lab-results.md) — related

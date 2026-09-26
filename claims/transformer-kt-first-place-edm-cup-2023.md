@@ -41,4 +41,5 @@ Contest evaluation on the held-out private ASSISTments evaluation set, with pred
 
 
 ## Related Claims
--
+- [The single-head base model (Model 1) outperformed the more complex Model 2, suggesting overfitting in the larger architecture](model1-outperforms-complex-model2.md) — related
+- [Rank-averaged ensembling stabilized predictions but did not outperform the single base model](ensemble-stabilizes-but-not-better-than-model1.md) — related

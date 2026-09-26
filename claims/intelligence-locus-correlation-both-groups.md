@@ -41,4 +41,9 @@ Correlational analysis reported in the Results and Table 1: intelligence correla
 
 
 ## Related Claims
--
+- [Academic achievement is significantly correlated with locus of control for normal adolescents but not for delinquent adolescents](achievement-locus-correlation-only-normal-adolescents.md) — related
+- [Embedded figures test performance differed by sex and correlated relatively highly with intelligence](embedded-figures-test-sex-difference-intelligence-correlation.md) — related
+- [The locus of control scale fails to discriminate delinquent from normal adolescents, casting doubt on its clinical screening utility](locus-of-control-fails-to-discriminate-delinquents.md) — related
+- [Prior evidence suggested locus of control relates to achievement independently of intelligence, which the present results contradict for delinquent adolescents](prior-claim-achievement-independent-of-intelligence-questioned.md) — related
+- [Locus of control scores show no significant main effects of behavioral condition (normal vs. delinquent) or sex](no-group-or-sex-effect-on-locus-of-control.md) — related
+- [IAR and CDR factor scores intercorrelate too weakly to confirm the two instruments measure the same locus of control construct](iar-cdr-factor-scores-low-intercorrelations.md) — related

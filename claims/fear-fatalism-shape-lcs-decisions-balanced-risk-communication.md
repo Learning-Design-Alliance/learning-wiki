@@ -41,4 +41,6 @@ Theme 3 from the focus-group analysis. Participants reacted negatively to judgme
 
 
 ## Related Claims
--
+- [Hispanic adults valued culturally relevant visual design — bright colors, Hispanic representation, and realistic imagery — in lung cancer screening educational materials](culturally-relevant-visual-design-lcs-materials.md) — related
+- [Hispanic adults preferred clear, friendly, direct, and nonjudgmental communication for lung cancer screening shared decision-making](hispanic-adults-prefer-clear-friendly-sdm-communication.md) — related
+- [Hispanic adults in LCS focus groups reported limited awareness and understanding of lung cancer screening, including eligibility, benefits, and harms](hispanic-adults-limited-lcs-awareness-focus-groups.md) — related

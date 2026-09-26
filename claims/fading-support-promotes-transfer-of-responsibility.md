@@ -61,3 +61,5 @@ This is sometimes called the "completion effect" in cognitive load literature. H
 ## Related Claims
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md)
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md)
+- [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on
+- [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — related

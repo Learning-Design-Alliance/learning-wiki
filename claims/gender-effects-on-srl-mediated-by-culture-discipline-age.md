@@ -58,4 +58,9 @@ The review reports the opposite-direction findings from other studies: "Female s
 
 
 ## Related Claims
--
+- [Korean immigrant sample scored significantly lower than the MPD normative group on identity, intimacy, and generativity resolution for both genders](korean-immigrants-lower-resolution-than-norm-group.md) — related
+- [Female Korean immigrants showed better psychosocial adjustment than males on diffusion, isolation, and intimacy resolution](female-korean-immigrants-better-adjustment-than-males.md) — related
+- [Cross-cultural measurement problems may bias psychosocial instruments translated across cultures](cross-cultural-measurement-bias-in-translated-psychosocial-instruments.md) — related
+- [In a game-based problem-solving study, trait self-regulation scores related significantly only to knowledge map scores, with higher planning, self-monitoring, effort and self-efficacy going with better knowledge map performance](trait-self-regulation-relates-only-to-knowledge-map-scores-in-a-puzzle-game.md) — related
+- [Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions](gender-performance-goal-orientation-females-higher.md) — related
+- [Intellectual styles are partly socialized and therefore modifiable to some degree](styles-socialized-and-modifiable.md) — related

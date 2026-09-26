@@ -41,4 +41,7 @@ Comparison of test RMSE on AST09, ALG08, AST12, and BRI08 (Table 2) for BKT, KT-
 
 
 ## Related Claims
--
+- [The AFM+S model, which explicitly models non-zero tail error, fits simulated student data better than the standard AFM](afm-plus-slip-fits-simulated-learning-curves.md) — related
+- [BKT-BF suffers high computational cost and does not resolve BKT's identifiability problem, while EM is cheaper but suffers local minima](bkt-bf-cost-identifiability-em-local-minima.md) — related
+- [The EM solver consistently outperformed stochastic gradient descent for fitting the models, though by a small margin](em-beats-sgd-fitting-spectral-bkt.md) — related
+- [OptimNN is insensitive to optimizer learning rate and network hyperparameters, unlike plain SGD on BKT](optimnn-hyperparameter-insensitivity.md) — related

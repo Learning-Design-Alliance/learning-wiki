@@ -41,4 +41,7 @@ The report's interpretive summary of Mead's 1943 article "Our Educational Emphas
 
 
 ## Related Claims
--
+- [Mead holds that the process of acquiring changes the thing acquired, making change of subject matter the rule](acquiring-changes-the-thing-acquired.md) — a narrower finding that bears on this claim
+- [Mead observed that rapid change makes yesterday's knowledge useless, requiring education to teach coping with change rather than fixed content](mead-rapid-change-obsoletes-knowledge.md) — a narrower finding that bears on this claim
+- [Mead argued that treating the mother tongue as inferior impedes movement between home and school language structures](mead-mother-tongue-status-affects-bilingual-learning.md) — related
+- [In Mead's lectures, meanings grow out of social intercourse and the child constructs meanings only in social process](meanings-grow-out-of-social-intercourse.md) — related

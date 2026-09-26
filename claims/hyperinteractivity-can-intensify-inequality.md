@@ -41,4 +41,8 @@ The review reports, citing Annesley (2001) and Cuban (2001), that "the hyperinte
 
 
 ## Related Claims
--
+- [The Republic's top-down education method contradicts Dewey's pedagogical principles and his understanding of democracy](top-down-education-method-contradicts-dewey.md) — related
+- [Turkish education increasingly became an exam- and success-focused selective system prioritizing elite formation, contrary to Dewey's objection to exclusion and supervision mechanisms](turkish-education-selective-elite-formation-contrary-dewey.md) — related
+- [Early self- and task-related concerns are maintained alongside later impact concerns as adoption of complex technologies advances, modifying the sequential CBAM conception](early-concerns-maintained-alongside-later-concerns.md) — related
+- [Hypertextuality extends intertextuality into the digital world, foreshadowing connectivism](hypertextuality-digitizes-intertextuality.md) — related
+- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related

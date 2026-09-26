@@ -57,4 +57,8 @@ Secondary analysis within the same seven-case study: exceptions on the directive
 
 
 ## Related Claims
--
+- [The congruence-change and symptom-reduction relation does not hold at six-month follow-up](congruence-symptom-relation-absent-at-six-months.md) — related
+- [Congruence of communication varies with situational importance and relationship closeness](congruence-varies-with-situation-importance-and-relationship.md) — related
+- [Response redundancy (relational congruence) is not related to working alliance ratings](redundancy-unrelated-to-working-alliance.md) — related
+- [Early-stage therapist complementarity does not differ by outcome group, and the predicted later-stage advantage for successful dyads was not supported](early-and-later-stage-complementarity-null-by-outcome.md) — related
+- [Overall therapist complementarity across the full therapeutic relationship does not differ significantly between successful and unsuccessful outcome groups](overall-therapist-complementarity-not-related-to-therapy-outcome.md) — related

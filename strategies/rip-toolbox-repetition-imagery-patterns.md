@@ -49,7 +49,7 @@ The toolbox packages three well-evidenced encoding mechanisms — distributed re
 
 ### Target Learning Goals
 - Retention of factual and vocabulary knowledge (dates, terms, formulas, sequences)
-- Organized knowledge structures: seeing relationships among items, not just the items [Concept maps improve learning.](../claims/concept-maps-improve-learning.md) [+M]
+- Organized knowledge structures: seeing relationships among items, not just the items [Concept maps improve learning.](../claims/concept-mapping-improves-learning.md) [+M]
 - Metacognitive strategy selection: planning, monitoring, and evaluating one's own memory approach
 
 ### Instructions

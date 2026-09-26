@@ -41,4 +41,8 @@ Confirmatory factor analysis with Mplus on data from the 1,545-student sample te
 
 
 ## Related Claims
--
+- [Criterion-referenced tests require empirically-based construct validation studies](criterion-referenced-tests-need-construct-validation.md) — a broader claim this one bears on
+- [Grade is related to sixth graders' thinking styles in the function, form, level and leaning dimensions](grade-related-to-thinking-styles-dimensions.md) — related
+- [The three-dimension instructional design competence model fits the empirical data acceptably in CFA](idc-model-acceptable-cfa-fit.md) — related
+- [Judicial and liberal are the most prevalent function and leaning styles among Thai sixth graders](sixth-graders-prevalent-thinking-styles.md) — related
+- [Reliability of the thinking styles scale ranges from .722 to .913 across its five dimensions](thinking-styles-scale-reliability-nrm.md) — related

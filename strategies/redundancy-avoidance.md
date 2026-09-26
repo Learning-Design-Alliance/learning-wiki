@@ -19,7 +19,7 @@ Redundancy avoidance removes simultaneous duplicate presentations of the same in
 
 ## Design Implications
 
-Redundant channels compete for limited working memory: when identical content arrives as both narration and text, learners split attention between them and process the slower stream [Redundant on-screen text with narration impairs learning compared with narration alone.](../claims/redundant-on-screen-text-hurts-learning.md) [+S]. This is a direct application of [Cognitive Load Theory](../theories/cognitive-load-theory.md): the coordination cost is extraneous load that yields no learning benefit [Cognitive overload degrades learning outcomes.](../claims/cognitive-overload-degrades-learning.md) [+S]. The remedy is not less content but non-duplicated content — narration plus a graphic, or text alone, rather than narration plus identical text.
+Redundant channels compete for limited working memory: when identical content arrives as both narration and text, learners split attention between them and process the slower stream [Redundant on-screen text with narration impairs learning compared with narration alone.](../claims/redundancy-effect-impairs-learning.md) [+S]. This is a direct application of [Cognitive Load Theory](../theories/cognitive-load-theory.md): the coordination cost is extraneous load that yields no learning benefit [Cognitive overload degrades learning outcomes.](../claims/cognitive-overload-degrades-learning.md) [+S]. The remedy is not less content but non-duplicated content — narration plus a graphic, or text alone, rather than narration plus identical text.
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Redundant channels compete for limited working memory: when identical content ar
 - **Print-first environments**: when audio is unavailable, text plus graphic is the non-redundant configuration
 
 ### Target Learners
-- Novices processing multimedia explanations, who lack the capacity to coordinate duplicate streams [Redundant on-screen text with narration impairs learning compared with narration alone.](../claims/redundant-on-screen-text-hurts-learning.md) [+S]
+- Novices processing multimedia explanations, who lack the capacity to coordinate duplicate streams [Redundant on-screen text with narration impairs learning compared with narration alone.](../claims/redundancy-effect-impairs-learning.md) [+S]
 - Less applicable to experts, who can selectively attend and may exploit redundancy [Guidance effectiveness reverses as learner expertise increases.](../claims/expertise-reversal-effect.md) [~M]
 - Second-language learners and learners with auditory processing difficulties need the opposite: deliberate redundancy as an accommodation [~M]
 

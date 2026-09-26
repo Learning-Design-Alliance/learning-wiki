@@ -75,4 +75,9 @@ Theoretical argument about risk and uncertainty in the cost section, with no dat
 
 
 ## Related Claims
--
+- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Teachers who believe AI use will contribute to their professional success and identity (attainment value) may be more motivated to use it (theoretical argument).](teacher-attainment-value-increases-motivation-to-use-ai.md) — related
+- [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — related
+- [Teachers who find using AI enjoyable, engaging and satisfying (intrinsic/interest value) may be more motivated to use it (theoretical argument).](teacher-intrinsic-interest-value-increases-motivation-to-use-ai.md) — related
+- [Teachers who believe AI will help them reach professional goals and improve students' learning outcomes (utility value) may be more motivated to use it (theoretical argument).](teacher-utility-value-increases-motivation-to-use-ai.md) — related
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on

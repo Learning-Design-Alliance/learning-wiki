@@ -41,4 +41,6 @@ Independent t-test comparing posttest scores of the two test-sequence groups (n=
 
 
 ## Related Claims
--
+- [Fourth-graders perform substantially better on computation tests than on word problems using the same numbers](computation-outperforms-word-problems-same-numbers.md) — related
+- [Females gained significantly when the formatted plan followed free exploration but scored lower when the plan was withheld](females-benefit-free-exploration-then-plan.md) — related
+- [No significant gender difference in word-problem performance on either formatted or unformatted test forms](no-gender-difference-either-test-form.md) — related

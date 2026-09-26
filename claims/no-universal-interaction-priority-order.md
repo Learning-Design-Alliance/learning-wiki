@@ -41,4 +41,7 @@ General-perception item of the ranking inventory administered to 236 students ac
 
 
 ## Related Claims
--
+- [Students prioritize teacher interaction for face-to-face learning but content interaction for online learning](interaction-priority-f2f-teacher-online-content.md) — related
+- [Students prioritize teacher interaction in skill-oriented language courses but show no unified preference in knowledge-oriented general education courses](interaction-priority-skill-vs-knowledge-orientation.md) — a narrower finding that bears on this claim
+- [Experience of blended course design shifts students' interaction priorities from teacher toward student interaction](blended-experience-shifts-priority-to-student-interaction.md) — related
+- [The study's results confirm both theses of the Interaction Equivalency Theorem in blended learning contexts](theorem-theses-confirmed-by-survey.md) — a narrower finding that bears on this claim

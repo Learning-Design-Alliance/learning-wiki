@@ -41,4 +41,7 @@ Observational analysis of a play episode in which Rachel placed plates for each 
 
 
 ## Related Claims
--
+- [Teacher-guided matching activities and peer scaffolding during grid and path games advanced preschool children's one-to-one correspondence and counting skills](guided-matching-and-peer-scaffolding-build-correspondence.md) — related
+- [Preschool children seriated pinecones by size largely by trial and error, and seriating in reverse order was more challenging and needed extensive verbal cueing](pinecone-seriation-reverse-order-harder.md) — related
+- [A prediction graphing activity revealed preschool children's classification thinking and misconceptions, which class discussion and pictures corrected](prediction-graphing-reveals-classification-thinking.md) — related
+- [Young children's video interpretation of their own mathematical play reveals both mathematical and social-affective sensemaking](childrens-video-interpretation-of-play-reveals-mathematical-and-social-sensemaking.md) — related

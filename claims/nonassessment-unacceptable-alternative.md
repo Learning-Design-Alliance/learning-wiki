@@ -41,4 +41,7 @@ Theoretical argument against the free-school extreme of no assessment: "sore ass
 
 
 ## Related Claims
--
+- [Competitive (norm-referenced) grading pits students against one another and discourages cooperation, according to the author's argument](competitive-grading-pits-students-against-each-other.md) — related
+- [Rank-ordering students is irrelevant to teaching because teaching is not claimed to have occurred unless each student learned, per the author's Dewey-inspired argument](rank-ordering-irrelevant-to-teaching.md) — a narrower finding that bears on this claim
+- [Grade cutoffs are arbitrary because adjacent scores receiving different grades are not significantly different, per the author's statistical argument](grade-cutoffs-arbitrary-adjacent-scores.md) — related
+- [Transcript grades are a blurred currency of performance information, partly due to grade inflation driven by student pressure](transcript-grades-blurred-currency.md) — related

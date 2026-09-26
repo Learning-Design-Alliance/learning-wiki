@@ -41,4 +41,4 @@ Theoretical argument in the article's Theory of Language section: the author pos
 
 
 ## Related Claims
--
+- [DL2F aligns with social and cognitive constructivist theories of learning](dl2f-constructivist-alignment.md) — related

@@ -41,4 +41,5 @@ The review reports Barik and Swain's (1976) longitudinal analysis of Ottawa and 
 
 
 ## Related Claims
--
+- [Promoting minority children's L1 raises L1 achievement at no cost to L2 achievement](l1-maintenance-supports-l2-without-cost.md) — related
+- [Immersion and submersion programs differ socioculturally, communicating success versus failure to children](immersion-submersion-sociocultural-contrast.md) — related

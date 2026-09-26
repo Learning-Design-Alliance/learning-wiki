@@ -58,4 +58,6 @@ Reflection stage of the same narrative inquiry. Both designers "were not very sa
 
 
 ## Related Claims
--
+- [In one narrative inquiry, boundary crossing collaboration between a mathematics education researcher and an informal educator created a space for a new understanding of mathematics as normal human practice](boundary-crossing-collaboration-with-informal-educators-reframes-mathematics-as-human-practice.md) — related
+- [Expanding the quilt task into an integrated STEM project was judged by its two designers to give students multiple entry points and to feel fun rather than too school-like](integrated-stem-quilt-project-judged-to-offer-multiple-entry-points.md) — reports the opposite
+- [A dynamic geometry model of the quilt problem helped an informal educator understand its spatial relations](geometry-software-model-helped-informal-educator-understand-spatial-relations.md) — related

@@ -41,4 +41,5 @@ Consultant study using system analysis, financial and cost/benefit modeling, and
 
 
 ## Related Claims
--
+- [The recommended conversion plan projects reader-population growth of 20 percent per year toward a goal of 2.25 million readers](conversion-plan-20-percent-annual-reader-growth.md) — related
+- [Equipment suppliers criticize DBPH procurement practices, including price-only awards and insufficient quality specifications](price-only-procurement-criticized-by-suppliers.md) — related

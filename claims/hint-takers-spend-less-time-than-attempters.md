@@ -41,4 +41,5 @@ Observational analysis of ASSISTments 2009-2010 logs shown in Figure 2, a box pl
 
 
 ## Related Claims
--
+- [The percentage of hints taken on a question is negatively correlated with the percentage of correct responses](hint-taking-negatively-correlated-with-correct-responses.md) — related
+- [A wrong response preceding a help request is associated with a higher predicted probability of a correct end-of-unit response than the request alone](wrong-then-request-joint-effect-higher.md) — related

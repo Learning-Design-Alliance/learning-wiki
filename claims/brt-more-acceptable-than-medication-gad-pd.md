@@ -41,4 +41,7 @@ Mixed factorial ANOVA (two age groups × two treatments) on AARP ratings from 79
 
 
 ## Related Claims
--
+- [Younger and older adults do not differ in treatment acceptability ratings for GAD with Parkinson's disease](no-age-cohort-difference-treatment-acceptability.md) — related
+- [No significant interaction between age group and treatment type in acceptability ratings](no-age-by-treatment-interaction-acceptability.md) — related
+- [Demographic and psychiatric-history variables are largely unrelated to treatment acceptability, with counseling history the exception](demographics-unrelated-to-acceptability-ratings.md) — related
+- [BRT-guided schedule raised revised course learning outcome degrees for six program learning outcomes](brt-schedule-raised-plo-degrees.md) — related

@@ -58,4 +58,7 @@ Supplementary analysis of TC effect sizes across prime times in Experiment 2. Th
 
 
 ## Related Claims
--
+- [Word frequency does not modulate the transposed-character effect in either experiment](frequency-does-not-modulate-tc-effect.md) — related
+- [In a masked-priming lexical decision task, both Chinese and Japanese speakers show a TC effect, with TC primes producing faster responses than control nonword primes](tc-effect-both-groups-masked-priming.md) — related
+- [A supplementary analysis restricted to TC and control nonword primes shows the TC effect is marginally larger for Chinese than Japanese speakers](tc-effect-larger-for-chinese-supplementary.md) — related
+- [In a single-word lexical decision task, Chinese speakers show a transposed-character effect in reaction times and error rates while Japanese speakers do not](tc-effect-exp1-chinese-only.md) — related

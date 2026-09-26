@@ -58,4 +58,7 @@ The paper's stated caveat: Sawchuk argues Engeström's expansive learning can ne
 
 
 ## Related Claims
--
+- [Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL](chat-contradictions-activity-systems-rationale-for-csl.md) — related
+- [Contradictions surrounding the OLR drove students to appropriate it, transforming it from an object of confusion into an instrument of critical reflection](contradictions-transform-olr-into-reflection-instrument.md) — a narrower finding that bears on this claim
+- [Some students expanded and generalized class tools and rhetorical concepts into their own activities beyond the course](expansion-generalization-beyond-classroom.md) — related
+- [Cultural mediation has four implications, including that artifacts fundamentally transform mental functioning and the mind is distributed in artifacts](cultural-mediation-four-implications-artifacts-transform-mind.md) — related

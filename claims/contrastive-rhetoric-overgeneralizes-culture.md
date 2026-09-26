@@ -41,4 +41,7 @@ Theoretical argument in the article's evaluation of the Contrastive Rhetoric Mod
 
 
 ## Related Claims
--
+- [The Cognitive Model does not address the social aspect of L2 writing and assumes uniform cognitive processes](cognitive-model-omits-social-aspect-of-writing.md) — related
+- [Learner errors arise from interlingual transfer, intralingual overgeneralization, cultural interference, and communicative strategies](error-sources-interlingual-intralingual-cultural.md) — related
+- [Class conflicts with the OLR led to course changes: sample OLRs from nonnative speakers were implemented and a simplified version and online interface are in progress](olr-conflicts-drive-course-changes.md) — related
+- [L1 and L2 writers share a core set of high-frequency connectives but with strikingly different frequencies, and is nearly three times more frequent in L1 essays](shared-top-dcs-different-frequencies.md) — related

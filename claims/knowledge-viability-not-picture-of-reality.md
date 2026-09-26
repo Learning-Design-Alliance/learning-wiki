@@ -41,4 +41,4 @@ Theoretical argument in Chapter 3, where the author interprets Piaget's statemen
 
 
 ## Related Claims
--
+- [DL2F aligns with social and cognitive constructivist theories of learning](dl2f-constructivist-alignment.md) — related

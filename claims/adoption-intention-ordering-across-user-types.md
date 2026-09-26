@@ -41,4 +41,7 @@ From the typology-only structural model (Table 3), standardised effects signific
 
 
 ## Related Claims
--
+- [Mobile user typology significantly predicts behavioural intention to adopt mobile learning, independently explaining approximately 11% of its variance](mobile-user-typology-predicts-adoption-intention.md) — related
+- [EFL university students report varied preferences for music, drawing, photography, acting, internet use, mobile-phone use, cooking and travelling while studying English](efl-students-report-varied-style-related-preferences.md) — related
+- [Latent class analysis of Caribbean higher-education students' mobile phone feature use yields four user types: eclectic, Internet, basic, and offline entertainment users](four-mobile-user-types-caribbean-higher-education.md) — related
+- [Adding mobile user typology to the UTAUT predictors renders effort expectancy non-significant, suggesting the typology accounts for ease of use](typology-renders-effort-expectancy-nonsignificant.md) — related

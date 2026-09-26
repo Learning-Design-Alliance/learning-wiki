@@ -58,4 +58,8 @@ Usage-pattern results for the whole cohort; only 15 respondents (4.7%) reported 
 
 
 ## Related Claims
--
+- [Routine post-acquisition verification of HU values is uncommon and knowledge of positioning effects on CT numbers is inconsistent](hu-verification-uncommon-ct-number-knowledge-gaps.md) — related
+- [Mean CT centring knowledge score indicates only moderate proficiency, with greater score variability among less experienced and lower-volume radiographers](moderate-knowledge-score-variability-early-career-radiographers.md) — related
+- [Vertical off-centring below the gantry isocentre is the most frequently reported CT positioning error among radiographers](vertical-below-isocentre-most-reported-ct-centring-error.md) — related
+- [Radiographers show substantial uncertainty about how localiser radiograph direction affects radiation dose and ATCM behaviour](localiser-direction-knowledge-gaps-radiographers.md) — related
+- [CT-specific qualification, experience and workload were not significantly associated with high CT centring knowledge scores in the international sample](no-significant-demographic-associations-ct-knowledge-score.md) — related

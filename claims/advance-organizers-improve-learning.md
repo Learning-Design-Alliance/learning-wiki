@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: advance-organizers-improve-learning
+aliases: [advance-organizers-improves-learning]
 evidence_strength: weak
 sources:
   - id: luiten-et-al-1980
@@ -91,6 +92,12 @@ Several boundary conditions are recognized in the literature:
 
 Open questions: most of the evidence base predates modern multimedia learning research, and it is unclear how organizers interact with [cognitive load management](../principles/cognitive-load-management.md) in rich multimedia environments. It is also unresolved whether organizers retain distinct value beyond the well-supported family of prior-knowledge activation techniques, or whether their benefits are fully absorbed by that broader category.
 
+*Merged from “Advance organizers improve learning” (advance-organizers-improves-learning):* **Mechanism.** Advance organizers are theorized to work by activating relevant prior knowledge and providing an anchoring structure into which new material can be subsumed — a form of [activation](activation-improves-learning.md) that reduces the load of integrating unfamiliar content (see [Cognitive Load Theory](../theories/cognitive-load-theory.md)). Comparative organizers (analogies to familiar material) and expository organizers (abstract previews) are the two classic varieties; the former depends on learners actually possessing the analogical base, as with [analogies and prior knowledge activation](../elements/analogies-and-prior-knowledge-activation.md).
+
+**Boundary conditions.** The classic literature suggests organizers help most when material is unfamiliar or poorly structured, and least when learners already have well-organized knowledge — a pattern consistent with an expertise-reversal dynamic. Organizers that merely preview content without connecting to prior knowledge risk acting as redundant text rather than an integrative scaffold. Whether a given organizer functions as a genuine organizer or as simple [activating prior knowledge](../strategies/activating-prior-knowledge.md) instruction is often unclear in studies, which complicates interpretation of the evidence base.
+
+**Open questions.** The meta-analyses recorded above find small effects, larger for high-ability than for low-ability learners; meta-analytic work on organizers is older and heterogeneous, so effect sizes vary widely by domain, organizer type, and outcome measure. Until studies are added, the strength of this claim cannot be rated. A sibling claim page exists at [Advance organizers improve learning](advance-organizers-improve-learning.md); the two pages should be reconciled.
+
 ## Related Claims
 
 - [Activation improves learning.](activation-improves-learning.md) — organizers are a designer-led way of activating relevant prior knowledge before instruction
@@ -102,3 +109,9 @@ Open questions: most of the evidence base predates modern multimedia learning re
 - [Analogies and prior knowledge activation](../elements/analogies-and-prior-knowledge-activation.md) — a common way of building the anchoring content an organizer requires
 - [Clear structure presentation](../principles/clear-structure-presentation.md) — organizers are one structural device among several for signaling discourse structure
 - [Cognitive load reduction](../principles/cognitive-load-reduction.md) — a well-designed organizer pre-loads schema structure, reducing load during instruction
+- [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related
+- [A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks](organization-task-match-determines-benefit.md) — related
+- [Structured Discussion Methods Improve Comprehension](structured-discussion-methods-improve-comprehension.md) — related
+- [Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels](higher-hierarchy-levels-recalled-better.md) — related
+- [Discussion Quality Drives Comprehension](discussion-quality-drives-comprehension.md) — related
+- [Learner Constructed Graphic Organizers Outperform Provided](learner-constructed-graphic-organizers-outperform-provided.md) — related

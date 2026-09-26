@@ -41,4 +41,6 @@ In Ciske's four-style elicitation from one Korean student, the edited written st
 
 
 ## Related Claims
--
+- [Each language entails a conceptually different world, so exact translation of conceptual structure between languages is impossible](language-entails-conceptually-different-world.md) — related
+- [Monitoring significantly improves a second language learner's accuracy on learnable rules (subject-verb agreement, regular past tense) in the most monitored style](monitoring-improves-learnable-rule-accuracy.md) — related
+- [Monitoring is a variable phenomenon, not all-or-nothing, and monitoring in formal styles may pull up accuracy in less formal styles](monitoring-variable-not-all-or-nothing.md) — related

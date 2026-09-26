@@ -41,4 +41,5 @@ Theoretical extension of Woodworth's 1947 reinforcement-of-perception argument: 
 
 
 ## Related Claims
--
+- [Rewards Undermine Intrinsic Motivation](rewards-undermine-intrinsic-motivation.md) — related
+- [Pure contiguity fails to explain cognitive learning: repeated contiguity between cognitions does not make one evoke the other](contiguity-alone-fails-in-cognitive-learning.md) — reports the opposite

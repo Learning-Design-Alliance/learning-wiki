@@ -41,4 +41,6 @@ Retention Test administered about two weeks after the lessons to the same 45 com
 
 
 ## Related Claims
--
+- [Graduate students can effectively develop interactive educational online software modules as a curriculum component of an advanced science course](graduate-students-develop-interactive-modules-as-course-project.md) — related
+- [The MLM group showed greater preference for the study materials over their current textbook than the two text-based groups](mlm-group-prefers-study-materials-over-textbook.md) — related
+- [MLM-script presentations fall between the other two groups: above the Textbook group but below the MLM group, as multimedia learning theory predicts](mlm-script-intermediate-between-mlm-and-textbook.md) — related

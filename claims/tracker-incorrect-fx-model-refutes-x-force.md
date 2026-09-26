@@ -41,4 +41,7 @@ Workshop activity addressing the misconception that projectiles experience x-dir
 
 
 ## Related Claims
--
+- [A Singapore teacher community has remixed 75 EJS models and lesson packages toward a national digital library](osp-community-remixed-75-ejs-models.md) — related
+- [Keying a constant-vx dynamic model against real video data helps students make sense of constant x-direction velocity in projectile motion](tracker-constant-vx-model-activity.md) — related
+- [Using video analysis data to set model parameters yields a more precise model than trial-and-error model building](data-driven-modeling-more-precise-than-trial-and-error.md) — related
+- [Initial findings suggest video modeling pedagogy is suitable for active and deep learning through predicting, observing and explaining](video-modeling-suits-active-deep-learning.md) — a broader claim this one bears on

@@ -41,4 +41,7 @@ Second-order CFA of questionnaire responses from 471 pre-service teachers. The a
 
 
 ## Related Claims
--
+- [Instructional design competence of pre-service teachers comprises knowledge, ability, and personal attributes dimensions](idc-competence-three-dimensions-validated.md) — a broader claim this one bears on
+- [The three-dimension instructional design competence model fits the empirical data acceptably in CFA](idc-model-acceptable-cfa-fit.md) — a broader claim this one bears on
+- [Design of learning activities and measurement/evaluation load highest among knowledge and ability components; systematic thinking highest among personal attributes](idc-subcomponent-highest-loadings.md) — related
+- [Pre-service teachers struggle with instructional design and lesson planning despite existing standards and coursework](pre-service-teachers-struggle-lesson-design.md) — related

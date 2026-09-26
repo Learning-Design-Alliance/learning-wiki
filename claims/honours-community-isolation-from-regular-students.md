@@ -41,4 +41,7 @@ Open-ended survey responses from 28 honours students were categorised into theme
 
 
 ## Related Claims
--
+- [A minority of honours community members feel the community is too closed, hindering knowledge growth](honours-community-closedness-hinders-knowledge-growth.md) — related
+- [Honours community members perceive a safe and supportive environment that facilitates exploring new ideas](honours-community-safe-supportive-learning-environment.md) — reports the opposite
+- [Attending to affect in co-design supports community formation and cross-scale transfer](attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) — related
+- [Extra honours workload causes stress, less free time and reported grade decreases in the main phase](honours-extra-workload-stress-and-grade-decreases.md) — related

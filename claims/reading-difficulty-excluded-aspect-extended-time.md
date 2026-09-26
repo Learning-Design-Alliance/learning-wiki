@@ -41,4 +41,4 @@ Theoretical framework paper applying the interactive model of reading to explain
 
 
 ## Related Claims
--
+- [BICS and CALP intersect developmentally but are not identical or reducible one to the other](bics-calp-intersect-not-identical.md) — related

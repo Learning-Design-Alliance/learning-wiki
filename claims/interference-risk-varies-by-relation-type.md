@@ -41,4 +41,7 @@ Analytical comparison of the four relation types in the paper's own classificati
 
 
 ## Related Claims
--
+- [Use of a deceptive word need not cause complete misunderstanding, but some semantic affinity in the pair is always necessary for such a translation to be correct](deceptive-word-use-not-always-complete-misunderstanding.md) — related
+- [In overlapping pairs, the danger of false identification of meanings is lower when the shared meaning is obvious in only one sense](overlap-degree-moderates-false-identification-risk.md) — related
+- [In contrast-type abstract-noun pairs, the Polish word's meaning is typically narrower, a generalization of the semantic element in the Polish word](polish-meanings-narrower-than-english-partners.md) — related
+- [Morphological and derivational interference in Polish-English deceptive pairs is unidirectional, operating only in translation from Polish into English](morphological-interference-unidirectional-polish-to-english.md) — related

@@ -19,7 +19,7 @@ Peer mediated instruction arranges for students to carry instructional functions
 
 ## Design Implications
 
-Peer mediation works because explaining material to another person forces retrieval, elaboration, and reorganization of one's own understanding, and because the tutor operates closer to the learner's zone of proximal development than the teacher can [Peer assessment and peer feedback can improve achievement when structured with criteria and training.](../claims/peer-feedback-improves-writing-outcomes.md) [+M]. Unstructured "work in groups" reliably fails; effective designs assign complementary roles, individual accountability, and a shared goal that cannot be met without every member's contribution [Cooperative learning with positive interdependence and individual accountability outperforms competitive and individualistic structures.](../claims/cooperative-learning-improves-achievement.md) [+S].
+Peer mediation works because explaining material to another person forces retrieval, elaboration, and reorganization of one's own understanding, and because the tutor operates closer to the learner's zone of proximal development than the teacher can [Peer assessment and peer feedback can improve achievement when structured with criteria and training.](../claims/peer-feedback-improves-writing.md) [+M]. Unstructured "work in groups" reliably fails; effective designs assign complementary roles, individual accountability, and a shared goal that cannot be met without every member's contribution [Cooperative learning with positive interdependence and individual accountability outperforms competitive and individualistic structures.](../claims/cooperative-learning-improves-achievement.md) [+S].
 
 ### Context
 #### Requirements

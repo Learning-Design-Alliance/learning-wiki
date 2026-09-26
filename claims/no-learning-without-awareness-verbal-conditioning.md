@@ -41,4 +41,8 @@ Aware subjects evidenced significant performance gains while unaware subjects an
 
 
 ## Related Claims
--
+- [Aware externals accounted for the conditioning effect, while aware internals, unaware subjects, and controls showed essentially no change](aware-externals-account-for-conditioning-effect.md) — related
+- [Experimenter locus-of-control status did not affect subjects' conditioning performance, contrary to the initial hypothesis](experimeter-ie-status-null-conditioning.md) — related
+- [I-E scale scores correlate with conditioning performance for aware subjects but not for unaware subjects](ie-scores-correlate-conditioning-aware-only.md) — related
+- [Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content](interactional-structures-shape-content-processing.md) — related
+- [Aware external subjects reported greater incentive value of the verbal reinforcer than aware internal subjects](aware-externals-greater-reinforcer-incentive.md) — related

@@ -41,4 +41,5 @@ Hierarchical regression predicting ER strategies from the three EF indices after
 
 
 ## Related Claims
--
+- [Stronger executive function is concurrently associated with greater cognitive reappraisal and less expressive suppression in adolescents](ef-associated-with-reappraisal-and-lower-suppression-adolescents.md) — a broader claim this one bears on
+- [Emotion regulation is concurrently associated with executive performance in the reverse direction, with habitual suppression linked to diminished EF](reappraisal-and-suppression-reverse-linked-to-ef.md) — related

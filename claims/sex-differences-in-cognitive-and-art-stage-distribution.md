@@ -41,4 +41,4 @@ A comparison of male and female students reported in Table 6 of the case study. 
 
 
 ## Related Claims
--
+- [Concrete-operational/schematic-stage students were reading chapter books while preoperational/preschematic students were not or were nonreaders](cognitive-art-stage-alignment-predicts-chapter-book-reading.md) — related

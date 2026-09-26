@@ -41,4 +41,6 @@ Pearson correlations among all study variables in the correlational study of 442
 
 
 ## Related Claims
--
+- [Self-disclosure, loyalty, and mild deviance significantly and positively predict reactive aggression among high school girls](self-disclosure-loyalty-mild-deviance-predict-reactive-aggression-girls.md) — related
+- [A two-factor (reactive–proactive) model of the Turkish RPQ fits adolescent data better than a one-factor general aggression model](rpq-two-factor-model-fits-better-turkish-adolescents.md) — related
+- [Reactive aggression is considerably more prevalent than proactive aggression among high school girls](reactive-more-prevalent-than-proactive-aggression-girls.md) — related

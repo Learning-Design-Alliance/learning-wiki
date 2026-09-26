@@ -41,4 +41,9 @@ Survey of 403 Iranian EFL teachers analyzed with MANOVA comparing BA, MA and PhD
 
 
 ## Related Claims
--
+- [Teaching experience is significantly and positively related to Iranian EFL teachers' awareness of all four critical pedagogy factors](experience-correlates-critical-pedagogy-awareness.md) — related
+- [Physical education teachers studying in a graduate program endorse progressivism, perennialism and essentialism more than teachers with an undergraduate degree](graduate-educated-pe-teachers-endorse-progressivism-perennialism-and-essentialism-more.md) — related
+- [BA, MA and PhD teachers do not differ significantly in awareness of a critical approach to EFL classroom content](no-degree-difference-critical-approach-content.md) — a narrower finding that bears on this claim
+- [PhD teachers show significantly higher awareness than BA teachers of decision making through negotiation](phd-higher-awareness-decision-making-negotiation.md) — a narrower finding that bears on this claim
+- [PhD teachers show significantly higher awareness than MA teachers of incorporating dialogue and learners' real life into second language instruction](phd-higher-awareness-dialogue-real-life-factor.md) — a narrower finding that bears on this claim
+- [PhD teachers show significantly higher awareness than both MA and BA teachers of liberatory autonomy](phd-higher-awareness-liberatory-autonomy.md) — a narrower finding that bears on this claim

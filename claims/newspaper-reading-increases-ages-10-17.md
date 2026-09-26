@@ -41,4 +41,9 @@ Two-wave statewide telephone survey of Wisconsin parent-child pairs; age-group A
 
 
 ## Related Claims
--
+- [Late-evening local television news viewing increases with age and its consistency and parent-child similarity also rise](late-evening-local-news-increases-with-age.md) — related
+- [Magazine article reading about politics shows no age-related increase, low stability, and low parent-child similarity](magazine-political-reading-no-developmental-pattern.md) — related
+- [Over-time consistency of newspaper reading rises to roughly adult levels by age 13](newspaper-consistency-adult-level-by-13.md) — related
+- [Television news specials viewing shows no substantial age increase in frequency but systematic increases in stability and parent-child similarity](news-specials-stability-similarity-increase.md) — related
+- [Parent-child similarity in newspaper exposure peaks during early adolescence (ages 12-14)](parent-child-newspaper-similarity-peaks-early-adolescence.md) — related
+- [Network television news exposure does not increase with age and shows little intergenerational similarity](network-news-exposure-no-age-increase.md) — related

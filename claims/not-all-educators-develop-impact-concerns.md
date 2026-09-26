@@ -41,4 +41,7 @@ The authors report an observational finding from their studies: "we have observe
 
 
 ## Related Claims
--
+- [Early self- and task-related concerns are maintained alongside later impact concerns as adoption of complex technologies advances, modifying the sequential CBAM conception](early-concerns-maintained-alongside-later-concerns.md) — related
+- [Reentry teachers without mentors made the greatest progress through Fuller's stages; reentry teachers with mentors developed very limitedly](reentry-without-mentors-greatest-fuller-progress.md) — related
+- [First-year teachers without mentors declined in self and impact concerns but task concerns stayed at 50%](unmentored-first-year-task-concerns-flat.md) — related
+- [First-year teachers with mentors declined in self and task concerns and increased impact concerns over the school year](mentored-first-year-teachers-follow-fuller-progression.md) — related

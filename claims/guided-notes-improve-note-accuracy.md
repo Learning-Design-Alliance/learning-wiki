@@ -73,4 +73,6 @@ Open questions: most support for guided notes comes from lecture-based higher-ed
 - [Advance organizers improve learning.](advance-organizers-improve-learning.md) — related structural scaffolding provided before instruction
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — the general principle underlying the guided-notes mechanism
 - [Clear structure improves learning.](clear-structure-improves-learning.md) — guided notes impose a clear external structure on lecture content
-- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md) — same expertise-reversal pattern may apply to note-taking scaffolds
+- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — same expertise-reversal pattern may apply to note-taking scaffolds
+- [Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking](laptop-notes-verbatim-shallower.md) — related
+- [Strong acquisition tasks explicating the organization produce better internalization than weak tasks asking only for a structured summary](strong-acquisition-tasks-improve-internalization.md) — related

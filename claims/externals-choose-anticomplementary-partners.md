@@ -41,4 +41,5 @@ The article reports a study (Thibodeau, 1979) focusing on the choice phase, asse
 
 
 ## Related Claims
--
+- [Internal experimenters were perceived as significantly more potent than external experimenters, and external subjects rated their experimenters higher on Activity](ie-experimenters-perceived-more-potent.md) — related
+- [The four-phase model predicts favored interpersonal styles appear early and style flexibility grows with accumulated specific experience](style-flexibility-grows-with-specific-experience.md) — related

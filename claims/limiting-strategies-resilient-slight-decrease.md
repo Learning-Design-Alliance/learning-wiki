@@ -41,4 +41,7 @@ Within-student pre/post change in coded limiting strategies (Rolodex, list known
 
 
 ## Related Claims
--
+- [Students describe on average half an additional expansive strategy by semester's end (effect size 0.6)](expansive-strategies-increase-half-per-student.md) — related
+- [Students' problem-solving preference shifts significantly toward expansive strategies over a semester of multifaceted problems](pscale-shifts-toward-expansive-strategies.md) — related
+- [Word-frequency changes in reflections suggest a shift away from given-information-based strategies](word-frequency-shifts-in-reflections.md) — related
+- [Over 50% of introductory physics students describe Rolodex equation matching at the start of the semester](rolodex-equation-matching-dominates-initial-beliefs.md) — related

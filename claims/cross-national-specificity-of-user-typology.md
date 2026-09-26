@@ -41,4 +41,7 @@ Multinomial regression results (Table 4) and Figure 2 campus-territory profiles:
 
 
 ## Related Claims
--
+- [Age, sex, faculty, programme level and campus-territory are each significantly related to mobile user type membership, though the model's pseudo R-squared is low](demographics-relate-to-mobile-user-type.md) — related
+- [Latent class analysis of Caribbean higher-education students' mobile phone feature use yields four user types: eclectic, Internet, basic, and offline entertainment users](four-mobile-user-types-caribbean-higher-education.md) — related
+- [Conceptions of how children learn literacy are cultural and political as much as scientific, shaping different classroom practices across countries](literacy-learning-conceptions-culturally-shaped.md) — related
+- [Mobile user typology significantly predicts behavioural intention to adopt mobile learning, independently explaining approximately 11% of its variance](mobile-user-typology-predicts-adoption-intention.md) — related

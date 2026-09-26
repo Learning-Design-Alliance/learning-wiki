@@ -41,4 +41,8 @@ Empirical verification on a 50-item Selection Test administered to 911 candidate
 
 
 ## Related Claims
--
+- [Theoretically defined test reliability computable from a single administration via parallel-half vector lengths and angle exceeds split-half reliability but falls below Cronbach alpha](single-administration-theoretical-reliability-vectors.md) — related
+- [Test discriminating value equals the coefficient of variation of test scores (tan∅ = SD/mean)](test-discriminating-value-cv.md) — related
+- [Item discriminating value as coefficient of variation decreases monotonically as number of correct answers increases, giving a negative difficulty–discrimination relationship](item-discrimination-cv-negative-difficulty-relation.md) — related
+- [Point-biserial item-total correlation is negatively related to test discriminating value and can be expressed via item and test difficulty and discrimination parameters](point-biserial-negative-test-discrimination-relation.md) — related
+- [Intersection point k0 of item difficulty and discriminating curves provides a data-driven item-deletion criterion](k0-intersection-item-deletion-criterion.md) — related

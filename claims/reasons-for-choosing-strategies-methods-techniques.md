@@ -41,4 +41,8 @@ Qualitative content analysis (Table 5) of answers to why pre-service teachers ch
 
 
 ## Related Claims
--
+- [Pre-service teachers choose science objectives mainly for ease of teaching, material support, and perceived professional knowledge, with grade-level differences](reasons-for-choosing-science-objectives.md) — related
+- [Pre-service primary teachers' science teaching self-efficacy beliefs correlate weakly but positively with their ability to determine suitable taxonomy, strategy, and method-techniques](self-efficacy-weakly-correlates-objective-aligned-instructional-planning.md) — related
+- [Pre-service teachers' self-efficacy and instructional-planning levels were relatively high, but Bloom taxonomy classification was low](preservice-planning-high-taxonomy-low.md) — related
+- [Seniors outperformed juniors in determining taxonomy and method-technique, but not in self-efficacy or strategy determination](seniors-better-taxonomy-method-technique.md) — related
+- [Pre-service teachers struggle with instructional design and lesson planning despite existing standards and coursework](pre-service-teachers-struggle-lesson-design.md) — related

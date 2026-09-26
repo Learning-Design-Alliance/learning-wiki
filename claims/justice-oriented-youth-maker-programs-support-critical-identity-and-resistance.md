@@ -48,3 +48,6 @@ This is a rich, well-triangulated single-program qualitative study, not a compar
 
 ## Related Claims
 - (none yet linked)
+- [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related
+- [Critical speculative design pedagogy supports critical consciousness and justice-oriented sensemaking in science](critical-speculative-design-supports-critical-consciousness-in-science.md) — related
+- [Restorying supports Black girls' identification of and resistance to dominant narratives in computing](restorying-supports-computing-identity-reconstruction.md) — related

@@ -34,9 +34,9 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 
 ## Claims
 - [Distributed practice improves retention](../claims/distributed-practice-improves-retention.md) [+S] — the core finding
-- [Spacing improves long term retention](../claims/spacing-improves-long-term-retention.md) [+S] — the same effect stated over the interval that matters
+- [Spacing improves long term retention](../claims/spaced-practice-improves-retention.md) [+S] — the same effect stated over the interval that matters
 - [Interleaving improves learning](../claims/interleaving-improves-learning.md) [+M] — mixing problem types builds the discrimination that blocking hides
-- [Desirable difficulties improve retention](../claims/desirable-difficulties-improve-retention.md) [~M] — the frame that explains why the better schedule feels worse
+- [Desirable difficulties improve retention](../claims/desirable-difficulties-enhance-learning.md) [~M] — the frame that explains why the better schedule feels worse
 - [Learners misjudge spacing benefits](../claims/learners-misjudge-spacing-benefits.md) [-M] — why this cannot be left to learner preference
 
 ## Related Learner Variables

@@ -41,4 +41,6 @@ The review reports Schwantes' (1991) study using "third grade, sixth grade, and 
 
 
 ## Related Claims
--
+- [Combined semantic and syntactic contextual information expedites word recognition compared with syntactic information alone](combined-semantic-syntactic-context-expedites-word-recognition.md) — related
+- [Children use content words before function words, and semantics in general appears to precede syntax](content-words-before-function-words-semantics-precedes-syntax.md) — related
+- [Poorly fluent readers use context clues more heavily than fluent readers, as a compensatory device](struggling-readers-use-context-clues-compensatorily.md) — related

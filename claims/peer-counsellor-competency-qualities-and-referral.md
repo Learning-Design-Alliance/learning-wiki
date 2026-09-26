@@ -58,4 +58,4 @@ The author's training recommendation in the competency section: peer counsellors
 
 
 ## Related Claims
--
+- [The author argues that dual relationships with clients are unethical and impair peer counsellors' judgement, though role blending calls for vigilance rather than absolute prohibition](dual-relationships-impair-peer-counsellor-judgement.md) — related

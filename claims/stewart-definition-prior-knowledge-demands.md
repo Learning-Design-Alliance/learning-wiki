@@ -41,4 +41,6 @@ Onto-semiotic analysis (type d) of the general definition in Stewart's section 5
 
 
 ## Related Claims
--
+- [Students can apply procedural knowledge to solve integration problems but show limited understanding of basic integration concepts](procedural-strong-conceptual-limited-integral.md) — related
+- [Onto-semiotic analysis of Starbird's intuitive integral presentation identifies five epistemic configurations of practices, objects and processes](starbird-intuitive-integral-five-configurations.md) — related
+- [Abusive generalization processes in the intuitive presentation are a source of potential semiotic conflicts](abusive-generalization-semiotic-conflicts.md) — related

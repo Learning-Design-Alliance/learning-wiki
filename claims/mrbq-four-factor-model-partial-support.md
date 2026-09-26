@@ -41,4 +41,8 @@ Exploratory principal component analysis of all MRBQ items from 365 Flemish juni
 
 
 ## Related Claims
--
+- [Belief factors are positively intercorrelated: a social-dynamic view of mathematics co-occurs with higher task value and confidence (r = .48) and more positive teacher beliefs (r = .41)](mrbq-factor-correlations-positive.md) — a narrower finding that bears on this claim
+- [Students' beliefs about the cognitive, motivational and affective dimensions of their teacher's functioning load on a single factor](teacher-belief-dimensions-single-factor.md) — a narrower finding that bears on this claim
+- [Socio-constructivist and absolutist views of mathematics are only mildly related (r = .21) and cannot be treated as opposite poles of one dimension](socio-constructivist-absolutist-views-not-opposite-poles.md) — a narrower finding that bears on this claim
+- [Teacher-belief and competence/value scales show high internal consistency (alphas .92 and .89), while the social-activity and excellence scales are weaker (.65 and .69)](mrbq-scale-reliability-mixed.md) — a narrower finding that bears on this claim
+- [Students confident about their mathematical ability are mostly also convinced of the relevance of mathematics, forming a motivational basis; low-confidence students are hard to motivate](self-confidence-and-value-clustering-motivational-basis.md) — a narrower finding that bears on this claim

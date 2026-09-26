@@ -81,3 +81,4 @@ Thirty-eight children aged 6–11 with handwriting dysfunction were randomly ass
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — the working-memory mechanism that automatic letter production is meant to serve
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — the broader claim that reducing extraneous load, including transcription effort, benefits learning
 - [Clear structure improves learning.](clear-structure-improves-learning.md) — structured, explicit instruction is a common ingredient across handwriting intervention types
+- [Explicit Handwriting Instruction Improves Legibility](explicit-handwriting-instruction-improves-legibility.md) — related

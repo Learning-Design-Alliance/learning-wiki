@@ -9,7 +9,7 @@
 #     claim <- evidence <- analysis <- dataset <- release <- protocol
 #
 # is traversable from either end. `scripts/check_research.py --why
-# spaced-practice-improves-long-term-retention` walks it.
+# spaced-practice-improves-retention` walks it.
 
 schema_version: 2
 
@@ -40,7 +40,7 @@ provenance:
 # has been added to the claim page, and adding one is an editorial act that
 # stays editorial. The edge exists and is directional; the claim is unchanged.
 appears_in:
-  - claim: spaced-practice-improves-long-term-retention
+  - claim: spaced-practice-improves-retention
     bearing: supports
     note: >-
       SYNTHETIC. Recorded to demonstrate the edge, and deliberately carrying no
@@ -116,7 +116,7 @@ observations:
       role: capability-evidence
       role_basis: stated
       anchors:
-        - claims/spaced-practice-improves-long-term-retention
+        - claims/spaced-practice-improves-retention
     time:
       label: Four weeks after the final unit
       offset:

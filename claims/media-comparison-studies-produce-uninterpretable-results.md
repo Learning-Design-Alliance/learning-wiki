@@ -78,3 +78,7 @@ This claim is methodological rather than an effect-size finding: it does not ass
 A live tension worth flagging: the claim that "media do not influence learning, only method does" (the strong form of Clark's position) has itself been contested by media researchers such as Kozma (1994), who argued some media genuinely afford instructional methods that would be impractical or impossible in others — the confound Clark identifies is real, but does not necessarily prove media are inert.
 
 ## Related Claims
+- [A theoretical gap exists between delivery-system/media theory and instructional strategy theory and other ISD steps](gap-between-media-theory-and-isd-steps.md) — related
+- [Technology-supported learning gains depend on the technology being used within student-centered, active-engagement pedagogy](lab-technology-gains-depend-on-active-engagement-pedagogy.md) — related
+- [Bilingual education evaluations have produced uninterpretable data by failing to model child-input by treatment interactions](bilingual-evaluations-ignore-interactions.md) — a narrower finding that bears on this claim
+- [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — related

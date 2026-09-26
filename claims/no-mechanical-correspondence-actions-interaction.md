@@ -58,4 +58,11 @@ Despite the parallel movement, the article reports "there was no mechanical corr
 
 
 ## Related Claims
--
+- [In the meeting, coordination was the most common type of interaction and communication the rarest, indicating reconceptualizing the script was very challenging](coordination-dominates-communication-rare.md) — related
+- [Academic historians' epistemic processes extend well beyond source analysis and writing](historians-epistemic-processes-extend-beyond-source-analysis.md) — related
+- [Transitions and disturbances were crucial for the dynamics of expansive learning in the meeting](disturbances-crucial-expansive-learning-dynamics.md) — related
+- [Expansive learning actions in the meeting followed by and large the theory-predicted order, forming a mini-cycle of two main parts with iterations](learning-actions-follow-predicted-order-two-parts.md) — related
+- [A single meeting of self-regulating pre-service teachers contained an almost complete expansive mini-cycle of learning actions, with all expansive actions except consolidating the new practice](single-meeting-almost-complete-expansive-mini-cycle.md) — related
+- [Object formation in the meeting was iterative and non-linear: the proposed germ cell of 'making a choice' was encapsulated, not elaborated and expanded](object-formation-iterative-germ-cell-encapsulated.md) — related
+- [A full assessment of a potentially expansive mini-cycle of learning calls for extending the time scale of the analysis beyond a single session](assessing-minicycle-requires-extended-time-scale.md) — related
+- [Writing is presented as uniquely corresponding to the features of successful learning](writing-uniquely-corresponds-features-successful-learning.md) — related

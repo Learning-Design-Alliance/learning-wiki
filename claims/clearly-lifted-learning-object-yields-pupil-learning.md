@@ -41,4 +41,6 @@ The author's reflection on the learning study results: lessons where the learnin
 
 
 ## Related Claims
--
+- [Material arrangement of artifacts (strips centered and ordered by length, worksheets held close) affords and stabilizes the initial pattern of activity; later decentralization enables new patterns](material-arrangement-affords-stability.md) — related
+- [Teachers integrated general teacher knowledge and subject knowledge during learning study analyses and reflections](learning-study-integrates-general-and-subject-knowledge.md) — related
+- [Reading researcher field-notes acted as wake-up calls that made unreflective value-laden practices visible to teachers](field-notes-wake-up-calls.md) — related

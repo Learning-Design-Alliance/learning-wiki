@@ -41,4 +41,10 @@ Authors' interpretive argument from the case-study audit, addressing their third
 
 
 ## Related Claims
--
+- [Expert teachers' well-practiced routines make their performance fluid, as seen in homework-review and lesson-teaching comparisons](expert-teachers-use-routines-for-fluid-performance.md) — related
+- [In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need beyond what surveys would have produced](lvn-generator-feedback-loop-case.md) — related
+- [Khanmigo fully supports the language learning potential criterion through abundant input, extended output, adaptive feedback, and negotiation of meaning](khanmigo-language-learning-potential-fully-supported.md) — related
+- [Peer Assessment Benefits Assessor](peer-assessment-benefits-assessor.md) — related
+- [The change in tools caused the most disruption in e-teachers' activity system, replacing body language and visual cues with text and voice mediation](tool-change-most-disruption-online-teaching.md) — related
+- [In the Maker Learning @ Home cohort, feedback loops with cohort members redefined the initiative's outputs and goals](maker-cohort-amplifier-case.md) — related
+- [The ICAP Framework was found effective for assessing potential for active learning in an asynchronous online environment and identifying where design improvements are needed](icap-effective-audit-tool-asynchronous-online.md) — related

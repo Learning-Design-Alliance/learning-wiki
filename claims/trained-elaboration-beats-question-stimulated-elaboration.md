@@ -41,4 +41,5 @@ In the training study, some seventh graders were trained in elaborative processi
 
 
 ## Related Claims
--
+- [Low reading-group first graders read far fewer words than high-group peers, limiting elaboration](low-group-first-graders-read-few-words.md) — related
+- [Elaborative processing of prose enhances later retrievability, accounting for roughly 30% of variance in one-month recall when original learning is controlled](elaborative-processing-enhances-retrieval.md) — related

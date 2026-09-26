@@ -12,7 +12,7 @@ generated:
 # Videos
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Videos are dynamic resources for supporting curricula, engaging students through sight and sound. They can bring abstract or inaccessible phenomena into the classroom — historical footage, scientific processes, diverse cultural perspectives — making concepts concrete and memorable. When enhanced with subtitles and embedded questions, video becomes an interactive medium rather than a passive one, allowing students to watch, listen, and read simultaneously.

@@ -41,4 +41,6 @@ The report's section on ACE provision of General Adult Education states that fir
 
 
 ## Related Claims
--
+- [ACE providers are increasingly delivering recognised outcomes in the national VET system, with around 180 registered providers and 1.5-2% of national VET course activity](ace-providers-delivering-recognised-vet-outcomes.md) — related
+- [ACE's main VET contribution is General Education and Training (around 20% of provision), with around 10% in non-industry-specific occupational training and little in industry-specific training](ace-vet-contribution-concentration-general-education.md) — related
+- [ACE providers deliver VET to equity target groups and to rural and remote communities where other VET provision is limited or non-existent](ace-vet-equity-groups-rural-remote-delivery.md) — related

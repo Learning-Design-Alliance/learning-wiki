@@ -41,4 +41,4 @@ Authors' program-evaluation recommendation from the program-design discussion. T
 
 
 ## Related Claims
--
+- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — related

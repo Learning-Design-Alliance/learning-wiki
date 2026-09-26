@@ -56,3 +56,5 @@ Open questions this page should eventually resolve with cited evidence: (1) the 
 
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — feedback answering the three questions is the core mechanism of assessment-for-learning cycles.
 - [Checklist evaluation ineffective online.](checklist-evaluation-ineffective-online.md) — a boundary case where automated feedback answers "how am I going?" but fails to direct the learner's next step.
+- [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — possibly the same claim (merge candidate)
+- [Feedback Improves Learning When It Addresses Task Goals](feedback-improves-learning-when-it-addresses-task-goals.md) — related

@@ -73,3 +73,13 @@ A meta-analysis of 50 independent studies of peer-tutoring programs in mathemati
 - [Teaching as learning](../strategies/teaching-as-learning.md) — the "protégé effect": preparing to teach improves the teacher's own learning.
 - [Active learning improves exam performance](active-learning-improves-exam-performance.md) — tutoring is an active-learning format; effects should be interpreted against that baseline.
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — explains why explaining to a peer can benefit the tutor through germane elaboration, and why overloaded tutors may fail.
+- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — related
+- [Direct instruction improves learning outcomes](direct-instruction-improves-outcomes.md) — a broader claim this one bears on
+- [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — related
+- [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — related
+- [Peer Assessment Benefits Assessor](peer-assessment-benefits-assessor.md) — related
+- [Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — a broader claim this one bears on
+- [Tutoring benefits both tutors and tutees](tutoring-benefits-tutors-and-tutees.md) — possibly the same claim (merge candidate)
+- [Teaching Others Generative Strategy](teaching-others-generative-strategy.md) — related
+- [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) — related
+- [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — related

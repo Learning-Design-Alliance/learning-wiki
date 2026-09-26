@@ -41,4 +41,4 @@ Observational analysis of progression statistics: 50% of the 2007-08 level 1 cla
 
 
 ## Related Claims
--
+- [Enrollment in the reformed physics sequence rose 61% year-over-year, though the article treats alternative explanations as equally possible](enrollment-increase-after-reform.md) — related

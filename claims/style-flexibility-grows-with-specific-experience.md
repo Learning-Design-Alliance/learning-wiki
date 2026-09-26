@@ -41,4 +41,5 @@ This is a theoretical prediction derived from the article's social learning theo
 
 
 ## Related Claims
--
+- [Externals choose anticomplementary partners more frequently than internals in the choice phase](externals-choose-anticomplementary-partners.md) — related
+- [The teacher with the more desirable interpersonal style showed overall coordination consistent with the complementarity principle, while the less desirable teacher's coordination did not](desirable-interpersonal-style-overall-coordination-complementarity.md) — related

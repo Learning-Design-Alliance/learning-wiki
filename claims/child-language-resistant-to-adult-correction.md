@@ -41,4 +41,4 @@ The paper cites reported conversations as evidence: a four-year-old repeatedly s
 
 
 ## Related Claims
--
+- [Children produce overgeneralized forms they have not heard, indicating they use rules rather than imitation](overgeneralization-errors-indicate-rule-use.md) — possibly the same claim (merge candidate)

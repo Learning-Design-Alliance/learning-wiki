@@ -50,3 +50,7 @@ This is a genuine, well-instrumented quasi-experiment with interrater reliabilit
 
 ## Related Claims
 - (none yet linked)
+- [Peer Assessment Benefits Assessor](peer-assessment-benefits-assessor.md) — related
+- [Summarization Effective With Training](summarization-effective-with-training.md) — related
+- [Contrasting workshop practices (random vs. purposeful grouping) framed the problem of labeling students around local context and teacher agency](grouping-practices-framed-labeling-problem.md) — related
+- [Teachers receiving 11 or more hours of training on integrating digital content report roughly double the reliance on software and the Internet compared with untrained teachers](pd-integration-training-doubles-reliance.md) — related

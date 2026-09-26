@@ -41,4 +41,6 @@ Author's interpretation of observation episodes in the unequal opportunities sec
 
 
 ## Related Claims
--
+- [Two gendered classroom cultures coexisted: rule-following vocal girls and disruptive boys receiving disproportionate time and space](two-gendered-classroom-cultures.md) — related
+- [Reading researcher field-notes acted as wake-up calls that made unreflective value-laden practices visible to teachers](field-notes-wake-up-calls.md) — related
+- [Teachers' spontaneous in-the-moment reactions draw on internalised earlier values rather than the curriculum's constitutive values](spontaneous-reactions-draw-on-internalised-values.md) — related

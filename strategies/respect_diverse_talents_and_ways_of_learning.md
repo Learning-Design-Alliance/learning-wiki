@@ -19,7 +19,7 @@ One of Chickering and Gamson's (1987) Seven Principles: learners bring different
 
 ## Design Implications
 
-Offering multiple representations and modes of expression broadens access and gives learners more retrieval routes into the same material [~M]. The benefit comes from *multiple and varied encounters* with content — dual coding, varied practice contexts, and multiple examples — not from diagnosing individual styles and tailoring instruction to them [Learning styles matching yields no measurable learning benefit.](../claims/learning-styles-matching-yields-no-benefit.md) [X]. Varied formats also manage cognitive load when each representation is integrated rather than redundant [Multiple representations improve learning when integrated and explained.](../claims/multiple-representations-improve-learning.md) [+M].
+Offering multiple representations and modes of expression broadens access and gives learners more retrieval routes into the same material [~M]. The benefit comes from *multiple and varied encounters* with content — dual coding, varied practice contexts, and multiple examples — not from diagnosing individual styles and tailoring instruction to them [Learning styles matching yields no measurable learning benefit.](../claims/learning-styles-matching-does-not-improve-learning.md) [X]. Varied formats also manage cognitive load when each representation is integrated rather than redundant [Multiple representations improve learning when integrated and explained.](../claims/multiple-representations-improve-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -28,9 +28,9 @@ Offering multiple representations and modes of expression broadens access and gi
 - Tutor or instructor flexibility: diagnosing where a learner struggles and switching strategy rather than repeating the same explanation louder
 
 #### Constraints
-- Matching instruction to self-reported learning styles does not improve outcomes and wastes design effort [Learning styles matching yields no measurable learning benefit.](../claims/learning-styles-matching-yields-no-benefit.md) [X]
+- Matching instruction to self-reported learning styles does not improve outcomes and wastes design effort [Learning styles matching yields no measurable learning benefit.](../claims/learning-styles-matching-does-not-improve-learning.md) [X]
 - Excessive format variety can fragment attention or add extraneous load for novices [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-M]
-- Learners often prefer formats in which they feel fluent but learn less from them; preference is a poor guide to effectiveness [Learning styles matching yields no measurable learning benefit.](../claims/learning-styles-matching-yields-no-benefit.md) [-S]
+- Learners often prefer formats in which they feel fluent but learn less from them; preference is a poor guide to effectiveness [Learning styles matching yields no measurable learning benefit.](../claims/learning-styles-matching-does-not-improve-learning.md) [-S]
 - Full multi-pathway design is costly; prioritize variety at high-stakes or high-difficulty points rather than everywhere
 
 #### Implementation Variability

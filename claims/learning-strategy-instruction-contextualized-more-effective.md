@@ -58,3 +58,5 @@ A meta-analysis of 52 studies (125 effects) of whole-classroom reading-strategy 
 - [Situated learning](../theories/situated-learning.md) — theoretical basis for context-dependent skill acquisition.
 - [Cognitive apprenticeship](../theories/cognitive-apprenticeship.md) — modeling and coaching strategies within domain work.
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — optimal scaffolding, including contextualization, shifts with expertise.
+- [Reading Strategy Instruction Improves Comprehension](reading-strategy-instruction-improves-comprehension.md) — related
+- [Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content](synthesis-evaluation-measure-general-ability-lower-grades.md) — related

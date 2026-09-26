@@ -41,4 +41,7 @@ Follow-up session conducted 1 year after treatment, after caregivers were traine
 
 
 ## Related Claims
--
+- [Spoon-to-cup fading increased acceptance and mouth clean during cup drinking in a child with intestinal failure](spoon-to-cup-fading-increases-cup-drinking.md) — related
+- [Extinction increased spoon acceptance but cup mouth clean remained low before fading](extinction-utensil-differential-mouth-clean.md) — related
+- [Cup-drinking performance was poor during early fading steps and improved only near the terminal step](early-fading-steps-poor-cup-probes.md) — related
+- [Inappropriate mealtime behavior was maintained by escape and attention](inappropriate-behavior-maintained-by-escape-and-attention.md) — related

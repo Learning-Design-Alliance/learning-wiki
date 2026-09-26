@@ -25,7 +25,7 @@ sources:
 # Demonstration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies, `q3` · 4 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies, `q3` · 4 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 A demonstration presents a complete or partial model of a skill, process, or solution so learners can observe expert performance before attempting it themselves. The instructor or system makes thinking visible — articulating what is being done and why — rather than simply showing the end result.

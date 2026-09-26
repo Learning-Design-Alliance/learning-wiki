@@ -41,4 +41,9 @@ First-person case reflection from the author's adult education classroom experie
 
 
 ## Related Claims
--
+- [Blended teaching shifted the teacher's self-identity from facilitator to co-facilitator and co-designer with students](blended-teaching-shifts-identity-to-co-facilitator.md) — related
+- [Narrative and storying genres in educational inquiry risk disempowering the very people they claim to empower](narrative-genres-may-disempower-while-claiming-empowerment.md) — reports the opposite
+- [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
+- [Anonymous real-time sharing of student responses mitigates evaluation apprehension while preserving individual accountability (authors' account)](anonymity-mitigates-evaluation-apprehension.md) — related
+- [Peer coaching has been proved a highly effective way of teacher professional development since the 1980s in the UK, US, and other countries](peer-coaching-supports-teacher-professional-development.md) — related
+- [Collectively mourning extinct or near-extinct more-than-human entities facilitates recognition of the more-than-human as co-participants in shared reality](species-eulogy-fosters-more-than-human-recognition.md) — related

@@ -57,4 +57,8 @@ The review reports, citing Jenkins and Astington, a longitudinal study in which 
 
 
 ## Related Claims
--
+- [False-belief training improves preschoolers' theory of mind scores but the review reports it has no effect on language skills](false-belief-training-no-language-effect.md) — related
+- [In pretend play the child behaves beyond her average age and daily behaviour](pretend-play-child-head-taller.md) — related
+- [Pretend play and divergent problem solving show a reciprocal relationship, with cooperative play broadly and thematic play specifically influential](pretend-play-divergent-problem-solving-reciprocal.md) — related
+- [Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall](pretend-play-enactment-narrative-recall-short-term.md) — related
+- [Title I preschool classrooms showed no typical increase in social pretense and verbal interaction over time, most evident in lowest-SES classrooms](title-i-preschools-no-increase-social-pretense.md) — related

@@ -75,4 +75,5 @@ Narrative review attributing to Li, Kizilcec, Bailenson, and Ju (2016) an examin
 
 
 ## Related Claims
--
+- [Meta-analytic evidence indicates anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations](anthropomorphism-benefits-vary-by-context.md) — related
+- [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](guo-video-style-engagement-findings.md) — related

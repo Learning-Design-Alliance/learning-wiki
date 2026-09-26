@@ -41,4 +41,5 @@ The review synthesizes Weber's (2004) observational and interview study of one l
 
 
 ## Related Claims
--
+- [Commognitive analysis of lecturing offers micro-level insights into lecturer-student communication that non-commognitive approaches miss](commognition-offers-micro-level-insights-into-lecturing.md) — a broader claim this one bears on
+- [Review reports lecturers' discourse contains endorsed and enacted meta-rules about doing mathematics that can model mathematical behavior](lecturer-meta-rules-endorsed-and-enacted.md) — related

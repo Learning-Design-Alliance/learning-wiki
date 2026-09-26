@@ -41,4 +41,6 @@ Analysis of LCTSR sub-pattern scores (Fig. 2) for the non-STEM population: signi
 
 
 ## Related Claims
--
+- [Non-STEM majors in conceptual physics and astronomy courses score significantly lower pre-instruction on the LCTSR than STEM majors](non-stem-lower-lctsr-pre-scores-than-stem.md) — related
+- [A majority (56%) of non-STEM students are classified as transitional reasoners, while formal operational reasoners predominate among STEM majors](non-stem-majority-transitional-reasoners.md) — related
+- [Research-verified active-engagement pedagogy yields significant content gains (g ≈ 0.38–0.42) but essentially zero gains on the LCTSR (g = 0.06) without explicit reasoning instruction](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) — related

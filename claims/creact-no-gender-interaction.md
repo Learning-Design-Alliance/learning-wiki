@@ -41,4 +41,5 @@ Internal-validity check in the same one-group pretest-posttest study: gender-by-
 
 
 ## Related Claims
--
+- [Prior research found CREACT significantly improved creative performance on poem and story tasks but had a low effect on a paradox task](creact-previous-language-arts-evidence.md) — related
+- [Boys and girls do not differ in the type of mental models of the day and night cycle they hold](no-gender-difference-day-night-mental-models.md) — related

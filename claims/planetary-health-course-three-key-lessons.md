@@ -41,4 +41,4 @@ Educators' reflective commentary on two editions of the course Planetary Health 
 
 
 ## Related Claims
--
+- [In the course's COIL component, the intercultural environment did not create significantly larger problems than those typically observed in standard group work](coil-intercultural-environment-no-larger-problems-than-standard-group-work.md) — related

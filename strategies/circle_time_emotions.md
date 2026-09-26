@@ -19,7 +19,7 @@ End each week with a group circle where students discuss different topics and sh
 
 ## Design Implications
 
-Structured social-emotional discussion builds emotional vocabulary and peer relationships, and well-implemented social-emotional learning programs produce measurable gains in both behavior and academic achievement [Social-emotional learning programs improve achievement and prosocial behavior.](../claims/social-emotional-learning-programs-improve-achievement.md) [+S]. The circle format matters: equal participation, a talking object, and clear norms create the psychological safety that makes self-disclosure productive rather than risky [Belonging interventions improve outcomes for marginalized students.](../claims/belonging-interventions-improve-outcomes.md) [+M].
+Structured social-emotional discussion builds emotional vocabulary and peer relationships, and well-implemented social-emotional learning programs produce measurable gains in both behavior and academic achievement [Social-emotional learning programs improve achievement and prosocial behavior.](../claims/sel-programs-improve-behavior-and-achievement.md) [+S]. The circle format matters: equal participation, a talking object, and clear norms create the psychological safety that makes self-disclosure productive rather than risky [Belonging interventions improve outcomes for marginalized students.](../claims/belonging-interventions-improve-outcomes.md) [+M].
 
 ### Context
 #### Requirements

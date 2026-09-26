@@ -71,3 +71,9 @@ Following an earlier successful large-scale replication in the same Midwestern s
 
 - [Belonging interventions improve outcomes](belonging-interventions-improve-outcomes.md) — a sibling brief social-psychological intervention targeting threat and belonging rather than self-integrity
 - [Autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md) — a complementary motivational pathway; affirming values and supporting autonomy both address learners' sense of self rather than instruction per se
+- [District achievement data showed performance dropping off substantially in the middle grades relative to national norms](achievement-drops-in-middle-grades.md) — related
+- [Black students are more likely to complete the apprenticeship component of LC101 when accounting for all other factors, suggesting alternative STEM programs may represent vehicles for racial equity in STEM](black-students-more-likely-complete-apprenticeship.md) — related
+- [Expressive Writing Improves Exam Performance](expressive-writing-improves-exam-performance.md) — related
+- [Expressive Writing Improves Health Outcomes](expressive-writing-improves-health-outcomes.md) — related
+- [Growth mindset improves achievement](growth-mindset-improves-achievement.md) — related
+- [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — related

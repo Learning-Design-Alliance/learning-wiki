@@ -41,4 +41,5 @@ Experiment 1 text-type analysis: significant text-type main effects on free and 
 
 
 ## Related Claims
--
+- [Students recognize more belief-consistent science facts than belief-inconsistent facts, an effect appearing on recognition but not recall tests](belief-consistent-facts-better-recognized.md) — related
+- [External empirical evidence can refute a computational model of particle interactions when the model's own simulation cannot](external-evidence-can-refute-computational-models-of-particle-interactions.md) — related

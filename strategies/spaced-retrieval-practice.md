@@ -19,7 +19,7 @@ Spaced retrieval practice combines two of the most robust findings in learning s
 
 ## Design Implications
 
-Retrieval attempts strengthen memory more than restudying, and spacing those attempts multiplies the benefit by forcing effortful reconstruction each time [Testing effect improves long-term retention.](../claims/testing-improves-retention.md) [+S]. The combination outperforms either technique alone: spaced *rereading* is weaker than spaced *retrieval*, because the difficulty of successful recall is what drives durable learning. Optimal spacing expands as retention intervals lengthen — the gap between sessions should be roughly 10–20% of the desired retention period.
+Retrieval attempts strengthen memory more than restudying, and spacing those attempts multiplies the benefit by forcing effortful reconstruction each time [Testing effect improves long-term retention.](../claims/retrieval-practice-improves-retention.md) [+S]. The combination outperforms either technique alone: spaced *rereading* is weaker than spaced *retrieval*, because the difficulty of successful recall is what drives durable learning. Optimal spacing expands as retention intervals lengthen — the gap between sessions should be roughly 10–20% of the desired retention period.
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Retrieval attempts strengthen memory more than restudying, and spacing those att
 
 #### Constraints
 - Retrieval attempts that consistently fail (success rate well below ~80%) can encode errors and frustrate learners [Retrieval practice benefits diminish when retrieval repeatedly fails.](../claims/retrieval-failure-reduces-benefit.md) [-M] — calibrate difficulty or provide partial cues
-- Learners judge spaced retrieval as harder and less effective than massed rereading, and disengage if the design does not explain why difficulty is desirable [Learners misjudge spaced practice as less effective than massed practice.](../claims/learners-misjudge-spacing.md) [-M]
+- Learners judge spaced retrieval as harder and less effective than massed rereading, and disengage if the design does not explain why difficulty is desirable [Learners misjudge spaced practice as less effective than massed practice.](../claims/learners-misjudge-spacing-benefits.md) [-M]
 - Spacing gains shrink for highly complex, integrated skills where "forgetting" between sessions costs more than the spacing buys [~W]
 - Requires sustained engagement over days or weeks; single-session implementations cannot realize the spacing effect
 

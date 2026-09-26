@@ -41,4 +41,7 @@ The report quotes Mead's 1971 article "Early Childhood Experience and Later Educ
 
 
 ## Related Claims
--
+- [Preservation of the mother tongue predicts second-language achievement among migrant children](mother-tongue-preservation-predicts-l2-achievement.md) — related
+- [Morpheme difficulty orders were similar across first-language backgrounds, suggesting universals in language acquisition](morpheme-order-similarity-across-l1-backgrounds.md) — related
+- [Mead argued education functions as a mechanism of social and cultural change, not only cultural transmission](mead-education-as-mechanism-of-social-change.md) — related
+- [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related

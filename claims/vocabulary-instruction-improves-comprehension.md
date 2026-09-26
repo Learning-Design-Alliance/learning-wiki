@@ -74,3 +74,5 @@ A systematic review of 36 vocabulary interventions with comprehension outcomes, 
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — theoretical account of why unknown words impair comprehension
 - [Accessible vocabulary and syntax](../principles/accessible-vocabulary-syntax.md) — text-level design principle that pairs with vocabulary instruction
 - [Cognitive load management](../principles/cognitive-load-management.md) — instructional-time trade-offs against reading load sit under this broader principle
+- [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — related
+- [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — related

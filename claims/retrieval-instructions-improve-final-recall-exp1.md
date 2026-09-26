@@ -41,4 +41,9 @@ Randomized experiment with 60 undergraduates assigned to retrieval practice inst
 
 
 ## Related Claims
--
+- [Students given retrieval practice instructions spontaneously used a repeated retrieval strategy on new materials one week later without further instructions](spontaneous-strategy-transfer-one-week-delay.md) — related
+- [Retrieval practice enhances final-test recollection of contextual details and speeds final retrieval, as shown by list discrimination, response time, and cumulative recall measures](retrieval-practice-enhances-final-context-memory-and-memory-search-efficiency.md) — a broader claim this one bears on
+- [The benefits of retrieval practice do not depend on an exact match between initial retrieval practice conditions and the final test format](retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats.md) — a broader claim this one bears on
+- [Repeated successful retrieval during learning predicted final recall in both experiments](repeated-retrieval-success-predicts-final-recall.md) — related
+- [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
+- [Retrieval practice instructions led students to recall items to a criterion of about three correct retrievals before dropping them](instructions-promote-three-recall-criterion.md) — related

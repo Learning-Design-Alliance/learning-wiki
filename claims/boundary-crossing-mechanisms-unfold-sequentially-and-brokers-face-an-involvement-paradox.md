@@ -49,3 +49,10 @@ This is a rigorous single-case study, not a comparative or experimental design �
 
 ## Related Claims
 - (none yet linked)
+- [In one narrative inquiry, boundary crossing collaboration between a mathematics education researcher and an informal educator created a space for a new understanding of mathematics as normal human practice](boundary-crossing-collaboration-with-informal-educators-reframes-mathematics-as-human-practice.md) — related
+- [Teachers typically encounter the first three TEFA skill areas in order: technology operation, question design, then discourse orchestration](tefa-skill-areas-sequential-order.md) — related
+- [Serious talk about teaching in school-based meetings spans five types of intellectual work beyond classroom management](cochran-smith-five-types-intellectual-work.md) — related
+- [Course-based research experience boundary objects support disciplinary integration and authentic research networks](course-based-research-experience-boundary-objects-support-disciplinary-integration-and-authentic-research-networks.md) — related
+- [Multivoiced boundary crossing supports holistic nature connection and ethical reflection](multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection.md) — related
+- [PD support type and salience depends on a teacher team's current phase in the adaptive learning cycle](pd-support-salience-depends-on-adaptive-cycle-phase.md) — related
+- [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](rpp-adaptive-practices-sustain-partnerships-during-disruption.md) — related

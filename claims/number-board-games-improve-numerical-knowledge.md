@@ -54,3 +54,8 @@ Boundary conditions and open questions remain. Gains are expected to be largest 
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — board games group number words with positions and quantities, easing working-memory demands for young learners
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — overly complex game rules can consume the resources the number content requires
 - [Collaborative learning improves outcomes.](collaborative-learning-improves-outcomes.md) — the adult or peer facilitating play may be a critical ingredient in board game interventions
+- [Constructivist teaching experiments in elementary arithmetic, continued for at least two years, produced results exceeding the authors' expectations](constructivist-arithmetic-teaching-experiments.md) — related
+- [Game-based vocabulary practice produced larger gains than traditional instruction for newly arrived migrant children.](game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md) — related
+- [Teacher-guided matching activities and peer scaffolding during grid and path games advanced preschool children's one-to-one correspondence and counting skills](guided-matching-and-peer-scaffolding-build-correspondence.md) — related
+- [Modeling training improved imaginative play in disadvantaged kindergartners, with gains in imaginativeness, verbal communication, spontaneity, and attention span persisting two months](modeling-training-improves-imaginative-play.md) — related
+- [Numerical routines individualize through a three-stage sequence of vertical and horizontal bonding](numerical-routines-individualize-through-bonding.md) — related

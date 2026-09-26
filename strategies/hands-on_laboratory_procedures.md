@@ -12,7 +12,7 @@ generated:
 # Hands-On Laboratory Procedures
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 6 studies, `q3`–`q4` · 5 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 7 studies, `q3`–`q4` · 6 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Hands-on laboratory procedures place learners in direct contact with the materials, instruments, and phenomena of a discipline — pipetting, wiring circuits, dissecting, titrating — under structured protocols. The strategy pairs physical execution with observation and interpretation, so that procedural actions and conceptual reasoning develop together rather than as separate tracks.

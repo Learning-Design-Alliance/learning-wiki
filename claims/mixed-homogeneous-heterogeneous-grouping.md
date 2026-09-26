@@ -41,4 +41,8 @@ The author's position paper argues against all-day heterogeneous grouping, conte
 
 
 ## Related Claims
--
+- [Cooperative learning has drawbacks including slow learners depending on fast achievers, so teachers should stress both cooperative and individual work](cooperative-learning-versus-individual-endeavors.md) — related
+- [Homogeneous problem perceptions predict better regulation outcomes in collaborative groups](homogeneous-problem-perceptions-predict-regulation-success.md) — related
+- [Awareness of heterogeneous problem perceptions does not by itself predict successful regulation](awareness-of-heterogeneity-does-not-predict-regulation-success.md) — related
+- [Whole language and phonics approaches each have limits, and the teacher should observe the individual pupil to balance whole-word and phonics instruction](balance-whole-language-and-phonics.md) — related
+- [Story Mapping Improves Comprehension](story-mapping-improves-comprehension.md) — related

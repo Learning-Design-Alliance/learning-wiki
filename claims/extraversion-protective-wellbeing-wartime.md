@@ -41,4 +41,8 @@ Pearson correlation in the 147-student wartime sample (Table 2). The authors rep
 
 
 ## Related Claims
--
+- [Extraversion's protective effect on well-being declines with age, significant only for younger students](age-moderates-extraversion-wellbeing-effect.md) — related
+- [Agreeableness is unexpectedly a weak risk factor for well-being decline in wartime students](agreeableness-risk-factor-wartime-wellbeing.md) — related
+- [Emotional stability shows the strongest negative association with decline in students' subjective well-being under martial law](emotional-stability-strongest-protective-wellbeing-wartime.md) — related
+- [Openness partially mediates effects of extraversion and novelty tolerance, and fully mediates general uncertainty tolerance, on well-being decline](openness-mediates-personality-wellbeing-pathways.md) — related
+- [Openness protects against well-being decline only when emotional stability is average or high](openness-protects-only-with-emotional-stability.md) — related

@@ -41,4 +41,7 @@ Classification of non-STEM students (N = 109) into concrete operational, transit
 
 
 ## Related Claims
--
+- [Non-STEM majors in conceptual physics and astronomy courses score significantly lower pre-instruction on the LCTSR than STEM majors](non-stem-lower-lctsr-pre-scores-than-stem.md) — related
+- [Non-STEM students show the poorest performance on proportional reasoning (25%) and score 30% on hypothetico-deductive reasoning items](non-stem-weak-proportional-hypothetico-deductive-reasoning.md) — related
+- [Kolb's inventory successfully differentiated group learning styles by students' subject majors](kolb-inventory-group-styles-by-subject-major.md) — related
+- [Research-verified active-engagement pedagogy yields significant content gains (g ≈ 0.38–0.42) but essentially zero gains on the LCTSR (g = 0.06) without explicit reasoning instruction](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) — related

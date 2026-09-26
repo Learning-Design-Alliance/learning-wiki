@@ -61,3 +61,5 @@ This suggests that instructional design for novices should prioritize "how-to" g
 ## Related Claims
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](specific-difficult-goals-lead-to-higher-performance.md)
 - [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md)
+- [A constructivist, process-oriented syllabus was suggested to be more effective than a knowledge-based approach for cross-cultural learning (Wright, 2000, as reported)](constructivist-syllabus-beats-knowledge-based-culture-teaching.md) — a narrower finding that bears on this claim
+- [Goal setting improves performance](goal-setting-improves-performance.md) — related

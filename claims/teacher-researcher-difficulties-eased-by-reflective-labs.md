@@ -76,3 +76,6 @@ The digest reports the study groups offered "a safe, non-judgmental environment 
 
 ## Related Claims
 - [Teachers Have Readier Household Entree Than Anthropologists](teachers-have-readier-household-entree-than-anthropologists.md)
+- [Funds-of-knowledge-grounded tasks reveal computational thinking that decontextualized assessment misses](funds-of-knowledge-tasks-reveal-computational-thinking.md) — related
+- [The OSP approach helps users overcome barriers in creating, using and scaling up meaningful ICT use in education](osp-overcomes-ict-barriers.md) — related
+- [Teachers who took part in funds of knowledge household research came to view their minority students as competent and raised their expectations of them.](funds-of-knowledge-research-raises-teacher-expectations.md) — related

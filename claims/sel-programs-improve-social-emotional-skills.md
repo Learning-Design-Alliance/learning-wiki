@@ -73,3 +73,7 @@ A systematic review of experimental and quasi-experimental studies of universal 
 - [Building empathy improves intergroup attitudes](building-empathy-improves-intergroup-attitudes.md) — empathy-focused interventions overlap with the social-awareness strand of SEL
 - [Autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md) — autonomy-supportive delivery is consistent with the self-management and responsible decision-making strands of SEL
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — formative feedback loops parallel the rehearsal-and-feedback structure of effective SEL programs
+- [The different elements of the Engagement Framework are interrelated in practice, with gains in one dimension reinforcing others](framework-elements-interrelated-in-practice.md) — related
+- [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
+- [SEL Programs Improve Academic Achievement](sel-programs-improve-academic-achievement.md) — related
+- [SEL Programs Improve Behavior And Achievement](sel-programs-improve-behavior-and-achievement.md) — related

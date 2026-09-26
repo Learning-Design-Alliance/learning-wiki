@@ -41,4 +41,8 @@ Mantel-Haenszel DIF procedure (items with p<0.05 flagged) applied to the boys-ve
 
 
 ## Related Claims
--
+- [Boys responded faster than girls on the test, but the response-time difference did not affect achievement](boys-faster-than-girls-no-achievement-difference.md) — related
+- [Mean response likelihood does not differ significantly between boys and girls, but its variance is 1.46 times greater for girls](likelihood-variance-greater-for-girls.md) — related
+- [Boys and girls do not differ in the type of mental models of the day and night cycle they hold](no-gender-difference-day-night-mental-models.md) — related
+- [The negative response time–likelihood trend holds for boys (R=-0.22) but not for girls (R=+0.04)](rt-likelihood-trend-boys-not-girls.md) — related
+- [Differential item functioning was found in four items across the function, form and level dimensions](thinking-styles-scale-dif-items.md) — related

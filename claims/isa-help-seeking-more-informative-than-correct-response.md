@@ -41,4 +41,6 @@ Interpretation analysis of attention weights from the single-head Transformer En
 
 
 ## Related Claims
--
+- [In artificial action logs, \"answer requested\" yields the lowest average predicted probability of a correct end-of-unit response, below even \"wrong response\"](answer-requested-lowest-main-effect.md) — related
+- [A wrong response preceding a help request is associated with a higher predicted probability of a correct end-of-unit response than the request alone](wrong-then-request-joint-effect-higher.md) — related
+- [NCA scores of IIU input vectors order action types identically to the main-effects ordering (Spearman's ρ = 1)](nca-scores-align-with-main-effects.md) — related

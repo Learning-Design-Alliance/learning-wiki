@@ -41,4 +41,7 @@ Extinction phase of the same single-participant study, alternating spoon and cup
 
 
 ## Related Claims
--
+- [Cup-drinking gains were maintained at a 1-year caregiver-conducted follow-up](cup-drinking-gains-maintained-one-year-follow-up.md) — related
+- [Spoon-to-cup fading increased acceptance and mouth clean during cup drinking in a child with intestinal failure](spoon-to-cup-fading-increases-cup-drinking.md) — related
+- [Cup-drinking performance was poor during early fading steps and improved only near the terminal step](early-fading-steps-poor-cup-probes.md) — related
+- [Inappropriate mealtime behavior was maintained by escape and attention](inappropriate-behavior-maintained-by-escape-and-attention.md) — related

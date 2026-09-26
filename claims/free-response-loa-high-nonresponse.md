@@ -41,4 +41,6 @@ Reported drawback of the NORC-based free-response technique used in previously u
 
 
 ## Related Claims
--
+- [Direct LOA techniques are more effective in practice than indirect techniques because they derive explicitly from the occupational hierarchy](direct-loa-techniques-more-effective-than-indirect.md) — related
+- [Predicted correlates of LOA are borne out about half the time and predicted noncorrelates about 70 percent of the time](loa-correlates-predictions-borne-out.md) — related
+- [Respondent feedback prompted a revised ten-level LoA scale splitting non-use and adding a replacement level, plus a more cyclic adoption model](loa-revised-ten-level-scale-from-respondent-feedback.md) — related

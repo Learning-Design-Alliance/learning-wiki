@@ -41,4 +41,7 @@ Qualitative thematic analysis of one teacher's written reflection and interviews
 
 
 ## Related Claims
--
+- [The teacher's agency system reached dynamic stability at the edge of chaos in the final period](agency-reaches-edge-of-chaos-stability.md) — related
+- [A teacher's positive initial response to blended delivery was shaped by experience, TELL beliefs and personality](experience-belief-personality-shape-initial-agency-response.md) — related
+- [A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life](teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md) — related
+- [Challenges of blended delivery catalyse opportunities for teacher agency growth](blended-challenges-catalyse-agency-growth.md) — a narrower finding that bears on this claim

@@ -46,3 +46,6 @@ This is a single, small, intensive case (6 students, one week, one school) with 
 
 ## Related Claims
 - (none yet linked)
+- [CHAT's rejection of the theory/practice divide frames CSL as boundary crossing that develops connective skills](chat-rejects-theory-practice-divide-csl-boundary-crossing.md) — related
+- [Boundary-crossing mechanisms unfold sequentially across levels, and broker centrality creates an involvement paradox](boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox.md) — related
+- [Contact between societies does not by itself produce cross-cultural understanding](contact-does-not-yield-understanding.md) — related

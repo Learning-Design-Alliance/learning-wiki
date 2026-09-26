@@ -41,4 +41,7 @@ Documentary analysis of the new Ciencias II plan of studies: the article reports
 
 
 ## Related Claims
--
+- [The new Ciencias II curriculum shifts the entry point to physics from measurement of physical properties (1993 plan) to the perception of movement, integrating light and sound from the start of the course](ciencias-ii-entry-shift-measurement-to-movement.md) — related
+- [The SEP Ciencias II work guide packs many expected learnings into few class hours (e.g., 5 learnings in 6 hours for Block 1 and 8 in 5 hours for Block 2), which teachers find hard to cover](ciencias-ii-guide-overloaded-sequences.md) — related
+- [SEP national monitoring reports indicate insufficient teacher training for the reform: 35% of surveyed teachers requested training in planning and design of didactic activities, and about 30% of directors rated induction-workshop information as poorly adequate or inadequate](reform-teacher-training-insufficient.md) — related
+- [The RES planning formats increase planning activity compared with the 1993 plan's four-question format, and some teachers view the added documentation as bureaucratic work](res-formats-increase-planning-activity.md) — related

@@ -44,3 +44,8 @@ This is a single-institution, single-curriculum case study without a control gro
 
 ## Related Claims
 - (none yet linked)
+- [Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances](course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances.md) — related
+- [PD support type and salience depends on a teacher team's current phase in the adaptive learning cycle](pd-support-salience-depends-on-adaptive-cycle-phase.md) — related
+- [Embedding gravitational-wave science across a year-long astronomy curriculum gave coherence to previously disconnected units and motivated students](grav-wave-theme-coheres-curriculum.md) — related
+- [An internal program review found absence of a consistent pedagogical framework and need for active case-based materials](program-review-five-design-findings.md) — related
+- [Review reports TAs sharing the same agenda provided different meta-level learning opportunities through object-level adaptations](ta-agenda-object-meta-level-opportunities.md) — related

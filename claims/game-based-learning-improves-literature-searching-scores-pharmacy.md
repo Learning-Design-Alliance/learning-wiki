@@ -41,4 +41,6 @@ This is a second-hand report: the protocol's introduction attributes the finding
 
 
 ## Related Claims
--
+- [Studying worked examples between two rounds of a computer puzzle game produced significantly greater knowledge map improvement than no worked examples for adult players](worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game.md) — related
+- [Most active learning comparison studies differ on more than one course feature, limiting attribution of effects to single features](most-comparisons-differ-on-multiple-features.md) — related
+- [Inadequate evidence synthesis skills left nearly 70% of pharmacy students and practitioners reporting lack of confidence in applying evidence in patient care](inadequate-evidence-synthesis-skills-lack-confidence-applying-evidence.md) — related

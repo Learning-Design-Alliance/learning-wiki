@@ -41,4 +41,6 @@ From the wake-up calls section: two teachers who had repeated conflicts with dis
 
 
 ## Related Claims
--
+- [Learning objects clearly lifted forward during a lesson resulted in pupils' learning, even when not the intended learning object](clearly-lifted-learning-object-yields-pupil-learning.md) — related
+- [Teachers' spontaneous in-the-moment reactions draw on internalised earlier values rather than the curriculum's constitutive values](spontaneous-reactions-draw-on-internalised-values.md) — related
+- [Pragmatic values of keeping order counteracted the democratic values teachers were mandated to realise](pragmatic-values-counteract-democratic-values.md) — related

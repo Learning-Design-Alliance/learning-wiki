@@ -57,4 +57,7 @@ The same study's null findings: no difference in recall at a later unprompted ti
 
 
 ## Related Claims
--
+- [High-quality pretend play is an important facilitator of perspective taking and later abstract thought](pretend-play-facilitates-perspective-taking-abstract-thought.md) — related
+- [Story Mapping Improves Comprehension](story-mapping-improves-comprehension.md) — related
+- [Question prompts improve learning](question-prompts-improve-learning.md) — related
+- [No macrostructure measure differs significantly between bilingual and monolingual children, while age improves story structure, internal state terms, comprehension, and aggregate scores but not structural complexity](macrostructure-stable-across-language-groups.md) — related

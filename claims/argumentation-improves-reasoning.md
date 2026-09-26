@@ -68,7 +68,11 @@ Over several years, two cohorts of young adolescents argued about social issues 
 ## Related Claims
 
 - [Cognitive disequilibrium motivates conceptual change.](cognitive-disequilibrium-motivates-conceptual-change.md) — argumentation creates the cognitive conflict that drives conceptual change
-- [Comparing contrasting cases improve learning.](comparing-contrasting-cases-improve-learning.md) — comparing cases supports the discriminative reasoning that argumentation exercises
+- [Comparing contrasting cases improve learning.](comparing-contrasting-cases-improves-learning.md) — comparing cases supports the discriminative reasoning that argumentation exercises
 - [Case-based learning improves exam performance.](case-based-learning-improves-exam-performance.md) — cases provide the situated evidence base learners argue from
 - [Collaborative learning improves outcomes.](collaborative-learning-improves-outcomes.md) — dialogic argumentation is a core mechanism in collaborative learning
 - [Analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md) — analogical comparison is a reasoning process argumentation can strengthen
+- [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) — related
+- [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
+- [Considering The Opposite Reduces Bias](considering-the-opposite-reduces-bias.md) — related
+- [Preliminary explicit instruction in scientific reasoning patterns (e.g., IAT statement construction) produced much larger LCTSR gains (g = 0.68) than courses without such intervention (g = 0.11)](explicit-reasoning-instruction-preliminary-large-gains.md) — a narrower finding that bears on this claim

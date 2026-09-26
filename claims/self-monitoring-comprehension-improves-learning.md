@@ -74,3 +74,15 @@ Open questions for future evidence passes: whether the benefit of monitoring lie
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — low-stakes checks provide external calibration for self-monitoring
 - [Retrieval practice improves retention.](retrieval-practice-improves-retention.md) — retrieval exposes comprehension gaps that fluency-based self-judgments miss
 - [Self-regulated learning](../theories/self-regulated-learning.md) — the theoretical framework in which comprehension monitoring is a core phase
+- [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — related
+- [Mnemonic Instruction Improves Recall For Students With Disabilities](mnemonic-instruction-improves-recall-for-students-with-disabilities.md) — related
+- [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — related
+- [Reading Strategy Instruction Improves Comprehension](reading-strategy-instruction-improves-comprehension.md) — a narrower finding that bears on this claim
+- [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
+- [Self Talk Improves Learning And Performance](self-talk-improves-learning-and-performance.md) — related
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — a broader claim this one bears on
+- [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — a broader claim this one bears on
+- [Self-regulation strategy instruction improves achievement](self-regulation-strategy-instruction-improves-achievement.md) — a broader claim this one bears on
+- [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — a broader claim this one bears on
+- [Self-questioning improves comprehension](self-questioning-improves-comprehension.md) — a narrower finding that bears on this claim
+- [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) — related

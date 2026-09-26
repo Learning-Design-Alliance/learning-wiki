@@ -41,4 +41,4 @@ Narrative review of Jung et al.: "the language proficiency information is demons
 
 
 ## Related Claims
--
+- [The survey reports, citing Mongkhonvanit et al., that DKT achieved better performance when binarized MOOC video-engagement covariates were incorporated.](engagement-covariates-improve-deep-knowledge-tracing.md) — related

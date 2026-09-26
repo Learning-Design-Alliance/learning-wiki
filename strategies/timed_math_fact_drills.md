@@ -19,7 +19,7 @@ Timed math fact drills are short, frequent practice sessions in which learners a
 
 ## Design Implications
 
-Fluency in basic facts is a well-documented predictor of later mathematics achievement, and drill-to-fluency interventions show consistent positive effects when they emphasize *retrieval* rather than counting strategies [Codding et al., 2011 meta-analysis of basic-fact fluency interventions](https://doi.org/10.1111/j.1540-5826.2010.00323.x) [+S]. The mechanism is retrieval practice: actively recalling an answer strengthens memory more than re-reading or re-seeing it [Testing strengthens retention relative to restudy.](../claims/testing-effect-improves-retention.md) [+S]. Timing serves two functions — it pushes learners from effortful counting to direct recall, and it provides a measurable fluency metric for progress monitoring.
+Fluency in basic facts is a well-documented predictor of later mathematics achievement, and drill-to-fluency interventions show consistent positive effects when they emphasize *retrieval* rather than counting strategies [Codding et al., 2011 meta-analysis of basic-fact fluency interventions](https://doi.org/10.1111/j.1540-5826.2010.00323.x) [+S]. The mechanism is retrieval practice: actively recalling an answer strengthens memory more than re-reading or re-seeing it [Testing strengthens retention relative to restudy.](../claims/retrieval-practice-improves-retention.md) [+S]. Timing serves two functions — it pushes learners from effortful counting to direct recall, and it provides a measurable fluency metric for progress monitoring.
 
 ### Context
 #### Requirements

@@ -41,4 +41,4 @@ The digest reports, citing Rogers (1995), that "change is a specialized instance
 
 
 ## Related Claims
--
+- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related

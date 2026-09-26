@@ -40,4 +40,6 @@ Qualitative discourse analysis of two comparative case-study debrief episodes (N
 
 
 ## Related Claims
--
+- [Contrasting workshop practices (random vs. purposeful grouping) framed the problem of labeling students around local context and teacher agency](grouping-practices-framed-labeling-problem.md) — a narrower finding that bears on this claim
+- [Teachers actively synthesize professional-development practices with their own context rather than transferring them intact](teachers-synthesize-pd-practices-with-context-not-just-transfer-them.md) — related
+- [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related

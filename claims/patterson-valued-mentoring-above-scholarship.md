@@ -41,4 +41,5 @@ The author reports, citing Jackson (1999), that Patterson valued his personal in
 
 
 ## Related Claims
--
+- [Patterson's views on person-centered counseling and psychotherapy, based on Rogers' philosophy, remain widely debated](patterson-person-centered-views-widely-debated.md) — related
+- [Patterson attributes his major career turning points to serendipitous events](patterson-serendipitous-career-events.md) — related

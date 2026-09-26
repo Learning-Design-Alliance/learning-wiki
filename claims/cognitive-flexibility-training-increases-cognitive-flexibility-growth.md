@@ -41,4 +41,9 @@ Repeated-measures ANOVA in a randomized two-condition intervention with 280 kind
 
 
 ## Related Claims
--
+- [Among children with initially low cognitive flexibility, growth in cognitive flexibility correlates with post phonemic awareness, reading comprehension growth, and spelling scores; these correlations are not significant among high-flexibility children](cf-literacy-correlations-limited-to-low-flexibility-children.md) — related
+- [Increased cognitive flexibility may strengthen the effectiveness of phonemic awareness, reading, and spelling instruction for kindergarten and first-grade students with low cognitive flexibility](cf-training-may-strengthen-early-literacy-instruction.md) — related
+- [Cognitive flexibility is significantly correlated with phonemic awareness, growth in reading comprehension, and spelling ability, especially among children with low cognitive flexibility scores](cognitive-flexibility-correlates-with-early-literacy.md) — related
+- [Embedded cognitive flexibility practice showed no overall advantage over phonics alone on growth in decoding, encoding, or cognitive flexibility](embedded-cognitive-flexibility-no-overall-advantage-winter-kindergarten.md) — reports the opposite
+- [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related
+- [Higher pretest cognitive flexibility predicted greater decoding gains and compensated for lower pretest alphabet knowledge](pretest-cognitive-flexibility-predicts-decoding-gains-compensates-alphabet.md) — related

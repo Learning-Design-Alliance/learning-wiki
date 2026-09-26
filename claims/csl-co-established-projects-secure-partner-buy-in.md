@@ -41,4 +41,6 @@ Authors' interpretive conclusion in the Conclusion section, drawing on both part
 
 
 ## Related Claims
--
+- [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related
+- [Community partners report that co-planning under the CSL model gives them a voice in what the service project will be and how it is implemented](csl-co-planning-gives-community-partners-voice-in-project.md) — related
+- [Direct one-on-one interaction with community partners is reported to help students see community members as people rather than stereotypes](csl-one-on-one-partner-contact-disrupts-stereotypes.md) — related

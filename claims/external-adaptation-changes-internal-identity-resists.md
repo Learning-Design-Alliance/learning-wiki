@@ -41,4 +41,6 @@ Authors' interpretation offered in the discussion to reconcile their null length
 
 
 ## Related Claims
--
+- [Cross-cultural measurement problems may bias psychosocial instruments translated across cultures](cross-cultural-measurement-bias-in-translated-psychosocial-instruments.md) — related
+- [Length of residence in the United States does not predict psychosocial development of adult Korean immigrants](length-of-residence-does-not-predict-immigrant-psychosocial-development.md) — related
+- [The immigrant sample's low return rate limits generalizability to Korean adult immigrants as a whole](low-mail-survey-return-rate-limits-generalizability.md) — related

@@ -44,3 +44,5 @@ This is a single exploratory study (q2: systematic coding, but not an experiment
 
 ## Related Claims
 - (none yet linked)
+- [Inquiry-based physics discussion supported peer co-construction of mechanistic explanations, distributing authority of knowledge and language among students](third-space-distributes-authority-among-students.md) — related
+- [AI-mediated feedback in hands-on exhibits improves learning and engagement](ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement.md) — related

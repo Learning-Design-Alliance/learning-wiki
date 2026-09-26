@@ -49,7 +49,7 @@ provenance:
 # quality, with H3 limiting which additions help. No anchor: the claim page has no
 # evidence entries yet, and writing this study into its argument is an editorial act.
 appears_in:
-  - claim: writing-strategy-instruction-improves-writing-quality
+  - claim: strategy-instruction-improves-writing-quality
     bearing: supports
 
 evidence_base:

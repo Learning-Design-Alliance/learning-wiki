@@ -59,3 +59,9 @@ Narrative inquiry, author's concluding account of her collaboration with the GEM
 
 ## Related Claims
 - [Boundary Crossing Mechanisms Unfold Sequentially And Brokers Face An Involvement Paradox](boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox.md)
+- [After the IDEAS academy, both studied teachers' classrooms moved toward more student-centered methods, with inquiry and collaborative learning emerging](academy-shift-toward-student-centered-methods.md) — related
+- [An informal STEM club founder saw a dilemma between raising girls' interest in mathematics and keeping the club different from school, and mathematics went unemphasized in its activities](informal-stem-club-mathematics-tension-between-interest-and-not-like-school.md) — related
+- [When a real-life quilt problem was turned into a contextualized mathematics task, its context dropped out during solving and both designers judged it too school-like](contextualized-real-life-task-reverted-to-pure-mathematics-and-felt-too-school.md) — related
+- [A dynamic geometry model of the quilt problem helped an informal educator understand its spatial relations](geometry-software-model-helped-informal-educator-understand-spatial-relations.md) — related
+- [Expanding the quilt task into an integrated STEM project was judged by its two designers to give students multiple entry points and to feel fun rather than too school-like](integrated-stem-quilt-project-judged-to-offer-multiple-entry-points.md) — related
+- [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](plc-norms-three-categories-trust-prerequisite.md) — related

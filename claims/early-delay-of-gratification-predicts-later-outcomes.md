@@ -59,3 +59,6 @@ The Watts, Duncan, and Quan (2018) replication is an important corrective to the
 
 ## Related Claims
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md)
+- [During early and mid-adolescence, brain reward and emotion systems are more developed than cognitive control systems, leaving self-regulation developmentally out of balance](adolescent-brain-imbalance-reward-versus-control.md) — related
+- [Baseline performance differed by later treatment group for two tasks, with the delayed-reward group giving fewer baseline responses, while no sex or order effects emerged](baseline-group-effect-no-sex-order-effects.md) — related
+- [Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content](synthesis-evaluation-measure-general-ability-lower-grades.md) — related

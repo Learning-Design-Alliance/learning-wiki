@@ -41,4 +41,5 @@ Score decomposition of the IF-AT final exam: the mean was 67% but "without parti
 
 
 ## Related Claims
--
+- [IF-AT exam scores correlate with constructed-response quiz scores (r = 0.67), supporting validity](if-at-exam-scores-correlate-with-cr-quiz-scores.md) — related
+- [Partial credit under the IF-AT is granted in a discriminating manner: top final-exam scorers earned 65% ± 23% of available partial credit versus 39% ± 10% for bottom scorers](if-at-partial-credit-discriminating.md) — related

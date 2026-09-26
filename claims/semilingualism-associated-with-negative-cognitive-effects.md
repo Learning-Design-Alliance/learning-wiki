@@ -41,4 +41,5 @@ The review cites Skutnabb-Kangas and Toukomaa (1976) on semilingualism among min
 
 
 ## Related Claims
--
+- [Preservation of the mother tongue predicts second-language achievement among migrant children](mother-tongue-preservation-predicts-l2-achievement.md) — related
+- [Promoting minority children's L1 raises L1 achievement at no cost to L2 achievement](l1-maintenance-supports-l2-without-cost.md) — reports the opposite

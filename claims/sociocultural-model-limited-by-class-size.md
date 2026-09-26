@@ -41,4 +41,4 @@ Theoretical argument in the article's evaluation of the Sociocultural Model. The
 
 
 ## Related Claims
--
+- [Investigating L2 writing from a single theoretical frame is limited; combining frameworks is needed](single-theoretical-frame-limits-l2-writing-research.md) — related

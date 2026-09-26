@@ -41,4 +41,9 @@ Judgment in Table 1 of the qualitative evaluation, assessed against Pica et al.'
 
 
 ## Related Claims
--
+- [Most language-learning apps focus on cognitive processes and receptive skills, lacking sociocognitive and collaborative activities](apps-focus-cognitive-receptive-skills-lack-collaboration.md) — related
+- [Khanmigo fully supports the authenticity criterion: nearly all activities except Chat can engage learners in authentic tasks](khanmigo-authenticity-fully-supported.md) — related
+- [Khanmigo fully supports the language learning potential criterion through abundant input, extended output, adaptive feedback, and negotiation of meaning](khanmigo-language-learning-potential-fully-supported.md) — related
+- [Khanmigo does not support learner fit: its language and topics may be too advanced for beginner-level learners](khanmigo-learner-fit-not-supported.md) — related
+- [Khanmigo does not support the positive impact criterion: metacognitive scaffolding is tacit and pragmatic competence is not addressed unless learners ask](khanmigo-positive-impact-not-supported.md) — related
+- [Khanmigo partially supports the practicality criterion: affordable subscription, user-friendly interface, portability, and teacher monitoring, but paid access limits some learners](khanmigo-practicality-partially-supported.md) — related

@@ -41,4 +41,7 @@ Conceptual argument (type e) drawing on Akkerman & Bakker, Guile, and Guile & Gr
 
 
 ## Related Claims
--
+- [CHAT references are noticeably absent from commonly cited CSL literature despite shared commitments with Dewey and Freire](chat-absent-from-csl-literature.md) — related
+- [Knowledge development as social collaboration: ZPD and collective activity systems support CSL learning networks](chat-knowledge-development-social-collaborative-csl.md) — related
+- [Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL](chat-contradictions-activity-systems-rationale-for-csl.md) — related
+- [Multivoiced boundary crossing supports holistic nature connection and ethical reflection](multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection.md) — related

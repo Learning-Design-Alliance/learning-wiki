@@ -41,4 +41,8 @@ Item analysis of one case-study course's IF-AT-scored midterm (20 items, 51 stud
 
 
 ## Related Claims
--
+- [IF-AT exam scores correlate with constructed-response quiz scores (r = 0.67), supporting validity](if-at-exam-scores-correlate-with-cr-quiz-scores.md) — related
+- [IF-AT-scored physics midterm and final exams yield good test reliability (α = 0.71 and 0.82; α50 = 0.86 and 0.90)](if-at-exams-good-reliability.md) — related
+- [Point-biserial item-total correlation is negatively related to test discriminating value and can be expressed via item and test difficulty and discrimination parameters](point-biserial-negative-test-discrimination-relation.md) — related
+- [Partial credit under the IF-AT is granted in a discriminating manner: top final-exam scorers earned 65% ± 23% of available partial credit versus 39% ± 10% for bottom scorers](if-at-partial-credit-discriminating.md) — related
+- [Undergraduate physics students react highly positively to the IF-AT format](students-highly-positive-reaction-to-if-at.md) — related

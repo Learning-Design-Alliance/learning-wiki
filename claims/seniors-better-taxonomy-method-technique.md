@@ -41,4 +41,7 @@ Independent samples t-tests comparing 69 juniors and 32 seniors (Table 2). Signi
 
 
 ## Related Claims
--
+- [Pre-service teachers' self-efficacy and instructional-planning levels were relatively high, but Bloom taxonomy classification was low](preservice-planning-high-taxonomy-low.md) — related
+- [Pre-service teachers choose strategies, methods, and techniques mainly for fit with objective content and for promoting active student participation](reasons-for-choosing-strategies-methods-techniques.md) — related
+- [Pre-service primary teachers' science teaching self-efficacy beliefs correlate weakly but positively with their ability to determine suitable taxonomy, strategy, and method-techniques](self-efficacy-weakly-correlates-objective-aligned-instructional-planning.md) — related
+- [Pre-service teachers choose science objectives mainly for ease of teaching, material support, and perceived professional knowledge, with grade-level differences](reasons-for-choosing-science-objectives.md) — related

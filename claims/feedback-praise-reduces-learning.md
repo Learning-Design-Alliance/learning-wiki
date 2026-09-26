@@ -74,3 +74,10 @@ A narrative review and synthesis of the experimental literature on praise and ch
 - [Self-determination theory](../theories/self-determination-theory.md) — controlling praise undermines autonomy and intrinsic motivation.
 - Feedback that is specific and actionable improves learning — the informational alternative to praise (page not yet created).
 - Person-directed praise fosters fixed mindsets and challenge avoidance (page not yet created).
+- [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](extrinsic-rewards-undermine-intrinsic-motivation-argument.md) — related
+- [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — related
+- [Rewards Undermine Intrinsic Motivation](rewards-undermine-intrinsic-motivation.md) — related
+- [Proximal goals, ability attributional feedback, and peer models raise self-efficacy for learning more than distant goals, effort feedback, and teacher models](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — related
+- [Prolonged reading failure leads students to attribute failure to fixed low ability and define reading as a failure situation](reading-failure-fixed-ability-attribution.md) — related
+- [Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content](synthesis-evaluation-measure-general-ability-lower-grades.md) — related
+- [Appropriately used technology can support practices that improve achievement, but inappropriate use can harm student performance](technology-use-right-tool-right-objective.md) — a broader claim this one bears on

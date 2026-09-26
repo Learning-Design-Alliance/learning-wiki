@@ -59,3 +59,8 @@ This systematic review searched for studies (1977–2020) comparing guided play 
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — adult scaffolding in guided play functions as load management for young novices
 - [Constructivism](../theories/constructivism.md) — the theoretical tradition in which guided play is usually grounded
 - [Direct instruction](../patterns/direct-instruction.md) — the comparison condition on the play–instruction continuum
+- [Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy](cl-early-childhood-education-improves-school-readiness.md) — related
+- [Play Based Learning Improves Outcomes](play-based-learning-improves-outcomes.md) — possibly the same claim (merge candidate)
+- [Embedding literacy materials in play settings increases children's literacy engagement and environmental print reading](literacy-embedded-play-increases-literacy-engagement.md) — related
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
+- [Middle-school students progress through zones of mathematical play in a designed digital game, taking varied conceptual paths to the same goal](students-progress-through-zones-of-mathematical-play.md) — a narrower finding that bears on this claim

@@ -42,4 +42,6 @@ One-sample t-tests on identical-problem score increases in the Reversi experimen
 
 
 ## Related Claims
--
+- [Under high extraneous load (hint presentation and L and rL condition), no test-score increases were observed on identical or near-transfer problems](extraneous-load-eliminates-germane-load-learning-gains.md) — related
+- [Test-score increases occurred only for identical and near-transfer problems; no increases were found for far-transfer problems in any of the three conditions](germane-load-gains-limited-to-identical-and-near-transfer-problems.md) — related
+- [Task difficulty (easy vs difficult simultaneous-equation problems) has significant main effects on intrinsic and extraneous cognitive load, but not on germane load](task-difficulty-raises-intrinsic-and-extraneous-but-not-germane-load-in-algebra.md) — related

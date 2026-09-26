@@ -41,4 +41,6 @@ Philosophical interpretation of Dewey's Theory of the Moral Life offered in the 
 
 
 ## Related Claims
--
+- [Character education is criticized for didacticism and de-emphasizing reflection and moral judgment, and Dewey's deliberation is proposed as a bridge between it and Kohlberg's approach](character-education-didacticism-critique-dewey-bridge.md) — related
+- [Dewey rejects Kohlberg's fixed stage hierarchy: moral inquiry happens only in problematic situations where no single action seems morally justified, and must be repeated as concrete situations arise](dewey-rejects-fixed-moral-stages.md) — related
+- [For Dewey, moral knowledge is a product of moral inquiry, so character education should add moral problem solving rather than teach fixed principles through example, reward, or punishment](moral-knowledge-product-of-moral-inquiry.md) — related

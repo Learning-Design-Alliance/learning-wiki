@@ -41,4 +41,8 @@ Comparative feature coding across the 88 active learning and 52 lecture conditio
 
 
 ## Related Claims
--
+- [Time-on-task is frequently unequal across compared conditions, with active learning conditions typically requiring more home time](time-on-task-unequal-in-active-learning-comparisons.md) — related
+- [Post-2014 comparison studies still most commonly contrast one active learning condition with one lecture condition](studies-still-compare-active-learning-versus-lecture.md) — related
+- [Most active learning college science conditions contain a substantial lecture component despite the active-learning-versus-lecture dichotomy](active-learning-courses-retain-lecture-component.md) — related
+- [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — related
+- [Most active learning comparison studies differ on more than one course feature, limiting attribution of effects to single features](most-comparisons-differ-on-multiple-features.md) — a broader claim this one bears on

@@ -48,3 +48,5 @@ This is a qualitative case study of a single, well-resourced co-design partnersh
 
 ## Related Claims
 - (none yet linked)
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
+- [Teachers who find using AI enjoyable, engaging and satisfying (intrinsic/interest value) may be more motivated to use it (theoretical argument).](teacher-intrinsic-interest-value-increases-motivation-to-use-ai.md) — related

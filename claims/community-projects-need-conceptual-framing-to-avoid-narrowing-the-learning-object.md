@@ -42,3 +42,11 @@ This is a single interpretive case study (evidence tier q1) with no comparison c
 
 ## Related Claims
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — both claims point to the same design risk: unstructured real-world activity needs responsive support or framing to reach its intended learning goal
+- [Justice-oriented youth maker programs support redefinition of entrepreneurialism and resistance to structural misrecognition](justice-oriented-youth-maker-programs-support-critical-identity-and-resistance.md) — related
+- [Community partners report that co-planning under the CSL model gives them a voice in what the service project will be and how it is implemented](csl-co-planning-gives-community-partners-voice-in-project.md) — related
+- [The authors argue that co-establishing the service-learning project with the community partner secures partner buy-in and lasting community value](csl-co-established-projects-secure-partner-buy-in.md) — related
+- [External conceptual resources support teachers' pedagogical judgment by affording richer representations and more productive problem frames](external-resources-support-pedagogical-judgment-alignment.md) — related
+- [Research on value education in India reports that lecturing on values does not transact values effectively to children](lecturing-on-values-does-not-transact-values-effectively.md) — related
+- [Conceptions of how children learn literacy are cultural and political as much as scientific, shaping different classroom practices across countries](literacy-learning-conceptions-culturally-shaped.md) — related
+- [The authors' research indicates strong student interest in local Indigenous culture, which supports locally-based teaching of cultural knowledge](local-indigenous-culture-student-interest.md) — related
+- [Online learning communities do not simply emerge; they must be designed for and scaffolded through teaching and assessment activities](online-communities-must-be-designed-and-scaffolded.md) — related

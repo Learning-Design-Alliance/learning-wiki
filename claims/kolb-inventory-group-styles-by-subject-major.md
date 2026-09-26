@@ -41,4 +41,8 @@ The review reports Kolb's 1971 analysis of learning style by students' subject m
 
 
 ## Related Claims
--
+- [Kolb's inventory showed no association with medical career choices, and its personality-type predictions were contradicted](kolb-inventory-limited-validity-career-and-personality.md) — related
+- [Learning styles measured by Kolb's inventory showed no significant change over one year of varied instruction](kolb-learning-style-stable-over-one-year.md) — related
+- [MOOC video styles cluster by discipline: humanities/arts favor speaker-centric, science/engineering favor board-centric](mooc-video-styles-discipline-clusters.md) — related
+- [A majority (56%) of non-STEM students are classified as transitional reasoners, while formal operational reasoners predominate among STEM majors](non-stem-majority-transitional-reasoners.md) — related
+- [The 96 thinking styles profiles cluster into three groups, with Achievement Motivation Thinking the most common](thinking-style-profiles-three-clusters.md) — related

@@ -72,3 +72,11 @@ This meta-analysis isolates the "added value" of dialogic (interactive) shared r
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — home reading volume supports the fluency that makes comprehension possible
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — feedback-rich interactions, including parent–child dialogic questioning, mirror formative-assessment mechanisms
 - [Activation improves learning](activation-improves-learning.md) — dialogic reading activates and builds on the child's prior knowledge during shared reading
+- [In teacher-led big-book reading, children exercise cognitive autonomy by making their own connections between spoken and written words within the activity's boundaries](big-book-reading-cognitive-autonomy.md) — related
+- [Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy](cl-early-childhood-education-improves-school-readiness.md) — related
+- [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — related
+- [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
+- [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
+- [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — related
+- [Parent Involvement Improves Achievement](parent-involvement-improves-achievement.md) — related
+- [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-expressive-language.md) — related

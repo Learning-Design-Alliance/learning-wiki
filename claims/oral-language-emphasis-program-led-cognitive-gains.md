@@ -41,4 +41,7 @@ Secondhand finding: the document reports, citing Di Lorenzo's 1969 study of pre-
 
 
 ## Related Claims
--
+- [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
+- [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — related
+- [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-expressive-language.md) — related
+- [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — related

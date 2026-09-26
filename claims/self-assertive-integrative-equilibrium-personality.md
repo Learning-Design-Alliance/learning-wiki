@@ -41,4 +41,8 @@ Theoretical argument applying Koestler's analysis of hierarchically organized co
 
 
 ## Related Claims
--
+- [Agency develops only within an intensely communal (attachment) relationship](agency-evolves-within-communal-relationship.md) — related
+- [The teacher's agency system reached dynamic stability at the edge of chaos in the final period](agency-reaches-edge-of-chaos-stability.md) — a narrower finding that bears on this claim
+- [Attachment (communion) contains the fear and anxiety associated with individual action (agency)](communion-contains-agentic-distress.md) — related
+- [In attachment theory, the child's exploration is the direct outcome of security from an effective attachment relationship](secure-base-enables-exploration.md) — a narrower finding that bears on this claim
+- [Viewing agency/communion as a polarity risks underestimating agency in the lives of women](polarity-view-obscures-womens-agency.md) — related

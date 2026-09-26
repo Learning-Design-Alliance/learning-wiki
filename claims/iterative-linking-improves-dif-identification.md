@@ -41,4 +41,4 @@ Methodological claim attributed by the article to prior researchers (Lord; Drasg
 
 
 ## Related Claims
--
+- [Item purification made both DIF methods more sensitive, flagging more items](item-purification-increases-dif-detection-sensitivity.md) — related

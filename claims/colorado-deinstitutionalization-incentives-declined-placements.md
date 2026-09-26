@@ -41,4 +41,5 @@ Descriptive policy case study of Colorado's deinstitutionalization effort in Sec
 
 
 ## Related Claims
--
+- [Recovery from decline was linked to the presence of paradoxical strategies, while linearity was not](paradoxical-strategies-linked-to-recovery-from-decline.md) — related
+- [Tacoma's progressive inclusion program pervaded district operations and limited out-of-district placements to two over twenty years](progressive-inclusion-limited-out-of-district-placements.md) — related

@@ -41,4 +41,6 @@ Narrative review synthesis: the authors state that research on minority group te
 
 
 ## Related Claims
--
+- [Minority female test-takers are doubly penalized, scoring below the males of their own ethnic group and below white males](minority-females-doubly-penalized-on-tests.md) — related
+- [Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding](verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) — related
+- [Test items with male-oriented content are a source of bias: females tend to do better on items with female or neutral figures](male-oriented-item-content-biases-test-scores.md) — related

@@ -59,7 +59,7 @@ Three experiments with trainees learning to read electrical/circuit diagrams com
 
 The expertise reversal effect is the dynamic counterpart to guidance benefits for novices. Under [cognitive load theory](../theories/cognitive-load-theory.md), guidance reduces the search burden that overwhelms novices; but once learners have automated domain schemas, that same guidance duplicates information they can generate internally, imposing extraneous load and interfering with schema construction. The effect is therefore inherently conditional: the *same* instructional treatment produces opposite effects at different levels of expertise, and no fixed level of guidance is optimal across a learning trajectory.
 
-Practical consequences follow. Guidance should be faded as competence grows rather than held constant — see [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md). Adaptive designs that tailor guidance to measured learner expertise outperform one-size-fits-all sequences. Assessment of prior knowledge is thus a prerequisite for applying any guidance-heavy pattern such as [worked examples](../elements/demonstration.md) or [scaffolding](../elements/scaffolding.md), and supports [adaptive difficulty](../elements/adaptive-difficulty.md) designs that adjust support to current competence.
+Practical consequences follow. Guidance should be faded as competence grows rather than held constant — see [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md). Adaptive designs that tailor guidance to measured learner expertise outperform one-size-fits-all sequences. Assessment of prior knowledge is thus a prerequisite for applying any guidance-heavy pattern such as [worked examples](../elements/demonstration.md) or [scaffolding](../elements/scaffolding.md), and supports [adaptive difficulty](../elements/adaptive-difficulty.md) designs that adjust support to current competence.
 
 Boundary conditions matter. The effect is documented primarily for guidance that duplicates what experts can already derive — full worked steps, redundant explanations, high-support scaffolds. Guidance that adds genuinely new information (e.g., feedback on errors, novel problem constraints) does not automatically reverse; the mechanism is redundancy, not the mere presence of support. Expertise is also domain-specific: a learner expert in one topic of a course may still be a novice in the next, so reversal must be assessed per topic, not per student.
 
@@ -67,7 +67,16 @@ Open questions include how finely expertise must be measured (domain-specific vs
 
 ## Related Claims
 
-- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md) — the best-documented instance of expertise reversal
+- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — the best-documented instance of expertise reversal
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — the theoretical account in cognitive load theory
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — the load mechanism by which redundant guidance harms experts
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — experts' chunked schemas are what make guidance redundant for them
+- [Instructional support suited to novices can have negative effects for more expert learners (expertise-reversal effect), so instructional design should be tailored to learner experience](expertise-reversal-effect-redundant-support-harms-experts.md) — a narrower finding that bears on this claim
+- [Multimedia Principles Benefit Novices](multimedia-principles-benefit-novices.md) — possibly the same claim (merge candidate)
+- [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
+- [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related
+- [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — related
+- [Redundant on-screen text duplicates of narration or graphics impair learning](redundancy-principle.md) — related
+- [Redundancy Hurts Learning](redundancy-hurts-learning.md) — related
+- [Expert performers counteract automaticity by building increasingly complex mental representations, unlike everyday skill learning](experts-counteract-automaticity-mental-representations.md) — related
+- [Redundant text in the diagram did not affect posttest accuracy or difficulty ratings](redundant-text-no-effect-posterior-probability-lesson.md) — related

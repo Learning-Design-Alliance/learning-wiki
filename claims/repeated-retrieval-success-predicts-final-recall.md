@@ -58,4 +58,9 @@ Separate multilevel logistic regression models for each Experiment 2 session; th
 
 
 ## Related Claims
--
+- [Instructed students allocated more total time to learning, and time was correlated with successful retrieval attempts](instructions-increase-learning-time-allocation.md) — related
+- [Retrieval practice instructions led students to recall items to a criterion of about three correct retrievals before dropping them](instructions-promote-three-recall-criterion.md) — related
+- [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
+- [Retrieval Practice Improves Long Term Retention](retrieval-practice-improves-long-term-retention.md) — related
+- [Students given retrieval practice instructions spontaneously used a repeated retrieval strategy on new materials one week later without further instructions](spontaneous-strategy-transfer-one-week-delay.md) — related
+- [Retrieval practice instructions improved final recall of translations in Experiment 1](retrieval-instructions-improve-final-recall-exp1.md) — related

@@ -41,4 +41,6 @@ The two episodes are the morning assembly underwear incident, where the teacher 
 
 
 ## Related Claims
--
+- [In the analyzed school setting, black girls experience testimonial injustice as direct discrimination and hermeneutical injustice as indirect, structural discrimination that personal effort cannot erode](black-girls-face-testimonial-and-structural-hermeneutical-injustice-in-school.md) — related
+- [In the ethnography the article analyzes, black girls bussed to an affluent suburban school were unpopular and socially excluded for being seen as loud and ghetto, while black boys were classified as incapable of academic achievement](gender-performance-grounds-exclusion-of-bussed-black-students-in-suburban-school.md) — related
+- [Eradicating hermeneutical injustice requires sufficient social equality in general, not only slight interpersonal hermeneutical empowerments](eradicating-hermeneutical-injustice-requires-social-equality.md) — a broader claim this one bears on

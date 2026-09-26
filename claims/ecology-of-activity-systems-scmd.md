@@ -41,4 +41,7 @@ Theoretical interpretation of the case data: the instructor's design activity de
 
 
 ## Related Claims
--
+- [A collective unit of subjects emerges when two utterances form a dialogical pair in SCMD](collective-subject-emergence-dialogical-pair.md) — related
+- [SCMD activity systems exhibit three categories of rules and four types of participant roles](scmd-rules-and-division-of-labor.md) — related
+- [The dialogical pair of responding and responded utterances, not a single utterance, is the minimum unit of analysis for SCMD research](topical-pair-minimum-unit-analysis-scmd.md) — related
+- [Social media tools plugged into learning management systems are presented as \"social learning\" solutions without being designed around social learning theory](social-media-tools-misappropriated-as-social-learning.md) — related

@@ -41,4 +41,6 @@ Footnote describing a final-task condition in which reward was contingent on "go
 
 
 ## Related Claims
--
+- [Concrete reward increases children's mean ideational fluency on creativity tasks relative to control conditions](concrete-reward-increases-mean-ideational-fluency.md) — related
+- [Rewards Undermine Intrinsic Motivation](rewards-undermine-intrinsic-motivation.md) — related
+- [Reward effects hold across individual creativity tasks, with immediate reward significant on all four tasks and delayed reward on three](reward-effects-hold-across-individual-tasks.md) — related

@@ -41,4 +41,4 @@ Philosophical argument paraphrasing Dewey: "if any student has not learned, the 
 
 
 ## Related Claims
--
+- [Abandoning assessment entirely is not an acceptable alternative to competitive grading, per the author's argument](nonassessment-unacceptable-alternative.md) — a broader claim this one bears on

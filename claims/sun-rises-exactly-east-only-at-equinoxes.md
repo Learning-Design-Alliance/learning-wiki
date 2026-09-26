@@ -41,4 +41,5 @@ Exposición conceptual de los autores al describir la maqueta de la actividad 2,
 
 
 ## Related Claims
--
+- [Las longitudes de las sombras al mediodía muestran una simetría en torno a los solsticios y los equinoccios que impide distinguir fechas solo midiendo sombras](shadow-length-symmetry-around-solstices.md) — related
+- [Los estudiantes de secundaria tienen dificultades persistentes para reconocer los cambios observables en el movimiento aparente del Sol y los momentos singulares del año](students-difficulties-solar-movement-observable-changes.md) — related

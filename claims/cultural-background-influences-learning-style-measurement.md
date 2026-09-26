@@ -58,4 +58,7 @@ The review reports Kaulback's review of studies using the Illinois Test of Psych
 
 
 ## Related Claims
--
+- [Teachers underrefer culturally and linguistically diverse students for gifted identification](teacher-underreferral-diverse-gifted.md) — related
+- [Grade is related to sixth graders' thinking styles in the function, form, level and leaning dimensions](grade-related-to-thinking-styles-dimensions.md) — related
+- [Gender is related to sixth graders' thinking styles in the function, form and scope dimensions](gender-related-to-thinking-styles-dimensions.md) — related
+- [Cross-cultural measurement problems may bias psychosocial instruments translated across cultures](cross-cultural-measurement-bias-in-translated-psychosocial-instruments.md) — related

@@ -41,4 +41,10 @@ Section 6 of this conceptual paper reports the expertise reversal effect as attr
 
 
 ## Related Claims
--
+- [Current serious games give all learners the same unregulated scaffolding, which the authors argue contradicts the notion of scaffolding](blanket-scaffolding-in-serious-games-contradicts-scaffolding-notion.md) — a narrower finding that bears on this claim
+- [Expertise Reversal Guidance Hurts Experts](expertise-reversal-guidance-hurts-experts.md) — a broader claim this one bears on
+- [Multimedia Principles Benefit Novices](multimedia-principles-benefit-novices.md) — a broader claim this one bears on
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — a broader claim this one bears on
+- [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — related
+- [Redundancy Hurts Learning](redundancy-hurts-learning.md) — related
+- [The FTS proposes that fading distinguishes expert from non-expert peers via a game-progress threshold, and peer-tutoring collaboration is expected to improve non-expert game progress and knowledge gained](fts-fading-threshold-peer-tutoring-expected-gains.md) — related

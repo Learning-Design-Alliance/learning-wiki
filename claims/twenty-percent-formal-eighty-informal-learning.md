@@ -41,4 +41,4 @@ The article reports this as a belief held by some practitioners, citing no study
 
 
 ## Related Claims
--
+- [Practitioners agree that the 11 listed tasks form the core of the ID process](consensus-eleven-core-id-tasks.md) — related

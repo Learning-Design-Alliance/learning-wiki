@@ -59,3 +59,8 @@ Transformation stage; the two designers' own evaluation. They "see this project 
 
 ## Related Claims
 - [Contextualized Real Life Task Reverted To Pure Mathematics And Felt Too School](contextualized-real-life-task-reverted-to-pure-mathematics-and-felt-too-school.md)
+- [In one narrative inquiry, boundary crossing collaboration between a mathematics education researcher and an informal educator created a space for a new understanding of mathematics as normal human practice](boundary-crossing-collaboration-with-informal-educators-reframes-mathematics-as-human-practice.md) — related
+- [Developing instructional programs that incorporate students' life experiences, language, and skills improves students' academic performance](incorporating-home-culture-improves-academic-performance.md) — related
+- [An informal STEM club founder saw a dilemma between raising girls' interest in mathematics and keeping the club different from school, and mathematics went unemphasized in its activities](informal-stem-club-mathematics-tension-between-interest-and-not-like-school.md) — related
+- [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
+- [Mixed-disciplinary teacher making supports transdisciplinary epistemic liberation](mixed-disciplinary-teacher-making-supports-transdisciplinary-epistemic-liberation.md) — related

@@ -41,4 +41,7 @@ The review reports that, unlike the three orientation tests, "a relatively high 
 
 
 ## Related Claims
--
+- [Academic achievement is significantly correlated with locus of control for normal adolescents but not for delinquent adolescents](achievement-locus-correlation-only-normal-adolescents.md) — related
+- [A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for](intellectual-test-performances-correlated.md) — a broader claim this one bears on
+- [Intelligence test scores are significantly correlated with locus of control for both normal and delinquent adolescents](intelligence-locus-correlation-both-groups.md) — related
+- [Intellectual style is a way of directing intelligence, not a level of it](style-distinct-from-intelligence-level.md) — related

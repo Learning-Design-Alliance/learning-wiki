@@ -76,7 +76,7 @@ The pattern is especially useful when material is conceptually dense or when nov
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]
 #### Contradicting
-- [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-expertise-reversal.md) [+M]
+- [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-less-effective-with-expertise.md) [+M]
 
 ## Design
 

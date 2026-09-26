@@ -41,4 +41,5 @@ Ranking analysis of the Montreal survey compared how often steps are performed w
 
 
 ## Related Claims
--
+- [Steps perceived as most necessary are performed most frequently](parallel-perceived-necessity-and-frequency.md) — related
+- [Only a small number of model designers follow all steps all of the time](minority-of-designers-follow-all-steps.md) — related

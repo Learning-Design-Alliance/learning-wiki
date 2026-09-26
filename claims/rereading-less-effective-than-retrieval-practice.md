@@ -85,3 +85,6 @@ A systematic review evaluating ten learning techniques against generalisability,
 - [Annotating improves learning](annotating-improves-learning.md) — another generative alternative to passive restudy
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — relevant to why retrieval demands are manageable when material is well-organized
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — the load-management backdrop for choosing between study strategies
+- [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
+- [Repeatedly recalling a text without feedback or rereading produces the best one-week retention, while repeated studying leads on a final test at the end of the session](repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes.md) — related
+- [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related

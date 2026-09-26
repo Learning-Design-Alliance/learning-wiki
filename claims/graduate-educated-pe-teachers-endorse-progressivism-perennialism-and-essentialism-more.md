@@ -59,3 +59,8 @@ Direction from Table 5 mean ranks in the same survey: teachers "studying in a gr
 
 ## Related Claims
 - [Pe Teacher Essentialism Rises And Progressivism Falls With Seniority](pe-teacher-essentialism-rises-and-progressivism-falls-with-seniority.md)
+- [BA, MA and PhD teachers do not differ significantly in awareness of a critical approach to EFL classroom content](no-degree-difference-critical-approach-content.md) — related
+- [Iranian EFL teachers' awareness of critical pedagogy differs significantly across academic degrees, with PhD holders most aware](phd-holders-most-aware-of-critical-pedagogy.md) — related
+- [Graduates differ from undergraduates across all five philosophical beliefs at the .20 level](graduates-vs-undergraduates-philosophical-profile.md) — related
+- [Physical education teachers working in high school endorse perennialism more than those in secondary school, with no significant school-type difference in the other four philosophies](high-school-pe-teachers-endorse-perennialism-more-than-secondary-school-teachers.md) — related
+- [In a survey of physical education and sports teachers, existentialist education is the most endorsed and essentialism the least endorsed of five educational philosophies](pe-teachers-endorse-existentialist-education-most-and-essentialism-least.md) — related

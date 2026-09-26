@@ -41,4 +41,6 @@ The article's review of the K-12 engagement literature concludes that "cognitive
 
 
 ## Related Claims
--
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
+- [In an online case-based course, students perceive cognitive presence as highest and least variable, and teaching presence as the most variable, among the CoI presences and metacognition dimensions](cognitive-presence-highest-least-variable-online-cbi.md) — related
+- [Self-regulated learning is domain specific, with greater cognitive strategy use in social studies and English than in mathematics](srl-is-domain-specific-strategy-use-varies-by-subject.md) — related

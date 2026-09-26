@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: teacher-expectation-effects-on-achievement
+aliases: [teacher-expectancy-effects-influence-student-achievement]
 evidence_strength:
 sources:
   - id: de-boer-et-al-2010
@@ -48,10 +49,21 @@ A Dutch cohort of roughly 11,000 students entering secondary school in 1999 was 
 
 **Open questions.** Most evidence comes from classroom-correlational designs and a small number of field experiments; the durability of expectation effects beyond one school year, and whether expectation-focused teacher interventions (e.g., brief messaging about malleable ability) produce lasting achievement gains, remain contested. The one study recorded above is a large Dutch longitudinal study in which teacher expectation bias predicted performance five years later after controls, but it is correlational and reports no standardized effect size.
 
+*Merged from “Teacher Expectancy Effects Influence Student Achievement” (teacher-expectancy-effects-influence-student-achievement):* The expectancy effect operates as a self-fulfilling prophecy: when teachers believe a student is capable, they may unconsciously provide more wait time, more challenging material, richer feedback, and warmer interaction, and students respond in kind. Classic and subsequent reviews suggest the average classroom-level effect is small [~W], but effects can be consequential for individual students, particularly when expectations are systematically patterned by demographic group rather than by individual performance [-M].
+
+Boundary conditions matter. Expectancy effects are strongest early in the teacher–student relationship, before teachers have accumulated direct evidence of performance [~M], and strongest for students whose prior achievement is ambiguous or low [~M]. Effects also depend on whether expectations translate into differential treatment that students can perceive; if teachers deliberately hold uniformly high expectations and use [assessment for learning](../principles/assessment-for-learning.md) to ground judgments in evidence, the differential-treatment channel is narrowed [-W].
+
+A critical open question is the direction and durability of effects: most evidence concerns short-term experimental inductions of expectations, and the persistence of effects across school years remains contested [~W]. Effects may also interact with student self-beliefs — students who internalize low expectations show downstream motivational costs, a mechanism adjacent to [belonging](../elements/belonging.md) concerns [~W].
+
+For learning designers, the practical implication is risk management, not exploitation. Expectancy effects cannot be prescribed as a technique because they arise from uncontrolled teacher cognition; instead, design should reduce the channels through which biased expectations become differential treatment: bias-aware grading practices, structured feedback protocols with explicit criteria, and evidence-grounded judgment via [assessment for learning](../principles/assessment-for-learning.md). Framing ability as malleable (growth mindset in teacher beliefs) is one documented lever for shifting the expectations themselves, though the student-facing mindset literature carries its own replication caveats and should not be treated as settled [~W].
+
 ## Related Claims
 
 - [Belonging interventions improve outcomes.](belonging-interventions-improve-outcomes.md) — students' sense of belonging mediates how expectation climates translate into engagement
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — evidence-based calibration of instruction counters impression-driven expectations
 - [Autonomy supports intrinsic motivation.](autonomy-supports-intrinsic-motivation.md) — high-expectation teaching that supports autonomy sustains motivation better than controlling pressure
-- [Growth mindset interventions improve achievement for at-risk students.](growth-mindset-interventions-improve-achievement.md) — teacher beliefs about malleable ability parallel student beliefs
+- [Growth mindset interventions improve achievement for at-risk students.](growth-mindset-improves-achievement.md) — teacher beliefs about malleable ability parallel student beliefs
 - [Social learning theory](../theories/social-learning-theory.md) — social modeling and interaction quality are the proposed channels through which expectations act
+- [Brief empathic discipline intervention cuts suspensions.](brief-intervention-empathic-discipline-cuts-suspensions.md) — shifting teacher mindsets changes student-facing behavior and outcomes
+- [Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction](scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states.md) — related
+- [Effective teachers compound their advantage over consecutive years, and low-achieving students are disproportionately assigned to ineffective ones](teacher-effectiveness-compounds-over-consecutive-years.md) — related

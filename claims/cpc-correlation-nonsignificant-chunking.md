@@ -41,4 +41,4 @@ Correlational analysis across both studies comparing CPC scores with immediate a
 
 
 ## Related Claims
--
+- [High CPC students outperform low CPC students only on the delayed posttest under the chunking method](cpc-difference-delayed-posttest-only.md) — reports the opposite

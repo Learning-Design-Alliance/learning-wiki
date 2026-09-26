@@ -41,4 +41,7 @@ The paper's 'Need for a Data Base' section argues, as a theoretical position, th
 
 
 ## Related Claims
--
+- [Criterion-referenced test items should represent skills essential to learning to read and be arranged in the hierarchy used for teaching](criterion-referenced-items-should-represent-essential-skills-in-a-teaching-hierarchy.md) — related
+- [Criterion-referenced tests indicate whether a particular skill or objective has been achieved rather than comparing performance to other test takers](criterion-referenced-tests-measure-mastery-not-relative-standing.md) — related
+- [Statistical item selection that maximizes norm-referenced discrimination undermines criterion-referenced test definitions](statistical-item-selection-conflicts-criterion-referenced-definition.md) — related
+- [The five dimensions of the developed thinking styles scale show structural validity via confirmatory factor analysis](thinking-styles-scale-cfa-structural-validity.md) — a narrower finding that bears on this claim

@@ -42,4 +42,5 @@ A single-class case narrative: during a first-year composition course at Miami U
 
 
 ## Related Claims
--
+- [Teaching style can be reclaimed as an effective tool for socially responsible rhetorical communication](style-teaching-reclaimed-for-critical-pedagogy.md) — a broader claim this one bears on
+- [More stylistic information processing makes individuals' viewpoints narrower and more rigid, reducing ability to adopt opposite styles](stylistic-cognitive-rigidity-reduces-adoption-of-opposites.md) — related

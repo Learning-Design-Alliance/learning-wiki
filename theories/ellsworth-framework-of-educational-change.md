@@ -11,7 +11,7 @@ generated:
 # Ellsworth's Framework of Educational Change
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2` · 0 of 2 report an effect size
 
 ## Description
 Ellsworth surveys the research on educational change and groups it into a small set of perspectives, or "models", each represented by one author or group. Following Rogers's observation that change is a special case of communication, Ellsworth arranges them into one framework. A **change agent** wishes to communicate an **innovation** to an **intended adopter**. This is done through a **change process**, which opens a channel through the **change environment**. The environment also contains **resistance**, which can disrupt the process or distort how the innovation appears to the adopter. Each model addresses one part of that picture:

@@ -41,4 +41,8 @@ A moderator analysis reported from Experiments 3 and 4 of the series. The articl
 
 
 ## Related Claims
--
+- [Increased repetitions of both intelligible and unintelligible communications produce increased acceptance](repetitions-increase-acceptance-both-message-types.md) — related
+- [Unintelligible messages produce more agreement and cognitive elaboration than a no-message control](unintelligible-beats-no-message-control.md) — related
+- [Unintelligible messages elicit a higher proportion of idiosyncratic cognitive elaborations than intelligible messages](unintelligible-messages-increase-idiosyncratic-elaboration.md) — related
+- [Increased source credibility produces greater agreement to both intelligible and unintelligible messages](source-credibility-effect-holds-unintelligible-messages.md) — related
+- [Students agree with and list cognitive responses to unintelligible communications](students-agree-with-unintelligible-messages.md) — related

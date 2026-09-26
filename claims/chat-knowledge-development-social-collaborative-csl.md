@@ -41,4 +41,10 @@ Conceptual exposition of the second CHAT assumption: learning happens through in
 
 
 ## Related Claims
--
+- [CHAT references are noticeably absent from commonly cited CSL literature despite shared commitments with Dewey and Freire](chat-absent-from-csl-literature.md) — related
+- [Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL](chat-contradictions-activity-systems-rationale-for-csl.md) — related
+- [CHAT's rejection of the theory/practice divide frames CSL as boundary crossing that develops connective skills](chat-rejects-theory-practice-divide-csl-boundary-crossing.md) — related
+- [Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue](dialogue-underpins-networked-learning.md) — related
+- [Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies](static-assessment-misses-emerging-functions.md) — a narrower finding that bears on this claim
+- [Language and dialogue operationalize the networking capacities that connectivism values](language-operationalizes-network-learning.md) — related
+- [Social media tools plugged into learning management systems are presented as \"social learning\" solutions without being designed around social learning theory](social-media-tools-misappropriated-as-social-learning.md) — related

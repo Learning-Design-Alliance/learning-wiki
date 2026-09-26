@@ -74,3 +74,8 @@ A meta-analysis of 51 quantitative studies comparing students' self-assessed mar
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — feedback-rich assessment cycles are the context in which self-assessment accuracy develops
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — accurate self-monitoring is a core component of self-regulation
 - [Expertise Reversal Effect](../theories/expertise-reversal-effect.md) — self-assessment supports needed by novices should be faded as expertise grows
+- [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — related
+- [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — a broader claim this one bears on
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — a broader claim this one bears on
+- [Learners who could decide after a trial whether to receive knowledge of results estimated their own movement outcomes more accurately in retention than Self-Before learners and their yoked counterparts.](self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy.md) — related
+- [Sequencing worked examples with practice problems improves learning for novices](worked-example-problem-sequences.md) — related

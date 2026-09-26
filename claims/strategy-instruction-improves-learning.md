@@ -70,5 +70,13 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Self-regulated learning improves academic achievement.](self-regulated-learning-improves-achievement.md) — strategy instruction is a primary lever for building SRL skills
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — strategies offload working memory during complex tasks
 - [Annotating improves learning.](annotating-improves-learning.md) — a concrete, teachable reading strategy
-- [Advance organizers improve learning.](advance-organizers-improves-learning.md) — an orienting strategy that structures incoming information
+- [Advance organizers improve learning.](advance-organizers-improve-learning.md) — an orienting strategy that structures incoming information
 - [Cognitive load theory.](../theories/cognitive-load-theory.md) — explains why strategy scaffolds help novices but burden experts
+- [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — possibly the same claim (merge candidate)
+- [Self-explanation improves learning](self-explanation-improves-learning.md) — related
+- [Self Explanation Prompts Improve Learning From Worked Examples](self-explanation-prompts-improve-learning-from-worked-examples.md) — related
+- [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — a narrower finding that bears on this claim
+- [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — possibly the same claim (merge candidate)
+- [Self-regulation strategy instruction improves achievement](self-regulation-strategy-instruction-improves-achievement.md) — possibly the same claim (merge candidate)
+- [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — possibly the same claim (merge candidate)
+- [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) — a narrower finding that bears on this claim

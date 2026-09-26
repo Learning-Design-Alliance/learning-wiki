@@ -41,4 +41,8 @@ Experiment with 191 fifth-grade children randomly assigned to Control, Immediate
 
 
 ## Related Claims
--
+- [Rewarding only 'good' ideas in a final task produced no incentive effect, but this condition was confounded and excluded from the main analysis](good-idea-reward-no-incentive-effect.md) — related
+- [Reward effects hold across individual creativity tasks, with immediate reward significant on all four tasks and delayed reward on three](reward-effects-hold-across-individual-tasks.md) — a narrower finding that bears on this claim
+- [Reward does not reduce the relation between baseline and rewarded creativity performance, supporting a capacity rather than motivational interpretation of individual differences](reward-leaves-creativity-individual-differences-unchanged.md) — related
+- [Baseline performance differed by later treatment group for two tasks, with the delayed-reward group giving fewer baseline responses, while no sex or order effects emerged](baseline-group-effect-no-sex-order-effects.md) — related
+- [The creativity dimension appears strongly in lower-SES urban black fifth-grade children and shows little relation to IQ](creativity-dimension-present-in-lower-ses-children.md) — related

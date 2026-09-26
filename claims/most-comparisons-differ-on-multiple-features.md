@@ -41,4 +41,8 @@ Feature-difference analysis across the 59 studies, examining the 14 course featu
 
 
 ## Related Claims
--
+- [Only a minority of active learning comparison studies include treatment fidelity checks](few-active-learning-studies-check-treatment-fidelity.md) — related
+- [Game-based learning improved pharmacy students' literature searching course scores in one reported study](game-based-learning-improves-literature-searching-scores-pharmacy.md) — related
+- [Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions](active-learning-conditions-more-other-pedagogical-features.md) — a narrower finding that bears on this claim
+- [Time-on-task is frequently unequal across compared conditions, with active learning conditions typically requiring more home time](time-on-task-unequal-in-active-learning-comparisons.md) — a narrower finding that bears on this claim
+- [Post-2014 comparison studies still most commonly contrast one active learning condition with one lecture condition](studies-still-compare-active-learning-versus-lecture.md) — related

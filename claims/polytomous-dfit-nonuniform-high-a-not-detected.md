@@ -41,4 +41,7 @@ Simulation results across 20- and 40-item conditions (Tables 3-6): uniform DIF a
 
 
 ## Related Claims
--
+- [The polytomous-DFIT framework effectively identified DTF and DIF in polytomously scored data under the simulated conditions](polytomous-dfit-effective-dif-detection-simulation.md) — related
+- [Item discrimination moderates detection differently by index: NCDIF benefits from high a-parameters only at large DIF magnitude](a-parameter-moderates-dif-detection-by-index.md) — related
+- [DIF detection rates for all indices are higher with larger samples, equivalent distributions, fewer DIF items, greater DIF magnitude, and larger a-parameters](polytomous-dif-detection-rate-factors.md) — related
+- [C-DIF was less stable than NC-DIF across simulated conditions](polytomous-c-dif-less-stable-than-nc-dif.md) — related

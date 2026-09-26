@@ -58,4 +58,8 @@ Survey item asking whether HU values change when patients are not aligned with t
 
 
 ## Related Claims
--
+- [Access to and consistent use of automated centring technology remain limited among CT radiographers](limited-access-use-auto-centring-technology.md) — related
+- [Mean CT centring knowledge score indicates only moderate proficiency, with greater score variability among less experienced and lower-volume radiographers](moderate-knowledge-score-variability-early-career-radiographers.md) — related
+- [Radiographers show substantial uncertainty about how localiser radiograph direction affects radiation dose and ATCM behaviour](localiser-direction-knowledge-gaps-radiographers.md) — related
+- [Vertical off-centring below the gantry isocentre is the most frequently reported CT positioning error among radiographers](vertical-below-isocentre-most-reported-ct-centring-error.md) — related
+- [CT-specific qualification, experience and workload were not significantly associated with high CT centring knowledge scores in the international sample](no-significant-demographic-associations-ct-knowledge-score.md) — related

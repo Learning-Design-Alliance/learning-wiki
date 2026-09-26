@@ -41,4 +41,6 @@ Comparison of individual writing-test scores between the first and second cycles
 
 
 ## Related Claims
--
+- [Team-based discovery learning improved EFL students' research proposal writing across two action-research cycles, with cycle-two average score 85.8 above the success criterion](team-based-discovery-learning-improves-research-proposal-writing.md) — related
+- [First-cycle underperformance was attributed to low-quality student-generated questions that failed to represent journal article patterns](question-quality-limited-first-cycle-outcomes.md) — related
+- [Simplifying journal articles and providing glossaries of unfamiliar terms preceded the second-cycle improvement in proposal writing](simplification-and-glossary-supported-second-cycle-gains.md) — related

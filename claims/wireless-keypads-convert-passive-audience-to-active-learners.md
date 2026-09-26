@@ -41,4 +41,6 @@ The authors' account of keypad use in their introductory college physics lecture
 
 
 ## Related Claims
--
+- [Computer-based keypad systems permit up to ten alternatives per question and per-answer scoring, unlike optical scanners](keypad-systems-allow-ten-alternatives-and-per-answer-scoring.md) — related
+- [The review reports that formative assessment produces significant and often substantial learning gains, citing Black and Wiliam](formative-assessment-produces-substantial-learning-gains-cited.md) — a broader claim this one bears on
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related

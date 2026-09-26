@@ -75,4 +75,8 @@ Same total-sample correlational analysis: "the participants with higher effort p
 
 
 ## Related Claims
--
+- [Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples](gender-effects-on-srl-mediated-by-culture-discipline-age.md) — related
+- [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — related
+- [Worked-example gains in a puzzle game remained small relative to expert performance, with the worked example group learning only 2.7% of experts' knowledge-map knowledge](worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps.md) — related
+- [Studying worked examples between two rounds of a computer puzzle game produced significantly greater knowledge map improvement than no worked examples for adult players](worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game.md) — related
+- [Adult players who studied worked examples scored significantly higher on a game-based problem-solving transfer question than a control group](worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game.md) — related

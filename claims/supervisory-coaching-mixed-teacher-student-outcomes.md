@@ -41,4 +41,7 @@ Systematic review of 16 studies identified through EBSCO, ProQuest, and Google S
 
 
 ## Related Claims
--
+- [Research quality and outcome durability were highest when coaching targeted fidelity of specific academic tasks rather than teacher-specific behaviors](coaching-academic-task-fidelity-higher-quality.md) — related
+- [Most reviewed coaching studies did not collect maintenance data, so sustained use of coached practices cannot be confirmed](coaching-maintenance-rarely-measured.md) — a narrower finding that bears on this claim
+- [Teacher praise increased in every reviewed study that coached teachers to increase praise](coaching-increases-teacher-praise.md) — a narrower finding that bears on this claim
+- [Coaching components are inconsistently reported: face-to-face feedback appeared in 94% of studies but coaching fidelity was collected in only 50%](coaching-components-inconsistently-reported.md) — related

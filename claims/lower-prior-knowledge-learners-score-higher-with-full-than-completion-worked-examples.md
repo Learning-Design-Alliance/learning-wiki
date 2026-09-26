@@ -58,7 +58,9 @@ Same factorial experiment, follow-up within the higher-prior-knowledge group: th
 
 
 ## Related Claims
-- [Worked Examples Expertise Reversal](worked-examples-expertise-reversal.md)
+- [Worked Examples Expertise Reversal](worked-examples-less-effective-with-expertise.md)
 - [Expertise Reversal Effect](expertise-reversal-effect.md)
-- [Worked Examples Less Effective With Expertise](worked-examples-less-effective-with-expertise.md)
 - [Expertise Reversal Guidance Hurts Experts](expertise-reversal-guidance-hurts-experts.md)
+- [High- and low-prior-knowledge learners differ significantly on an algebra posttest and on intrinsic and germane cognitive load, but not on extraneous load](high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load.md) — related
+- [Prior knowledge, worked-example type (full vs completion) and task difficulty show a significant three-way interaction on an algebra posttest, but not on self-reported cognitive load](prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) — related
+- [Worked examples improve mathematics performance, especially for novices.](worked-examples-improve-math-performance.md) — related

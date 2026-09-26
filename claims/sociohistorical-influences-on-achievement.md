@@ -41,4 +41,5 @@ Comparative case analysis of two students. Maria, influenced by family expectati
 
 
 ## Related Claims
--
+- [Students' appropriation of class interaction practices was mediated by prior sociohistorical educational experiences](prior-practices-mediate-class-interaction-appropriation.md) — related
+- [Previous knowledge and management experiences can inhibit new teachers' learning of new classroom management models](prior-experience-barriers-to-new-management-models.md) — related

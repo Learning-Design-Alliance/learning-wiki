@@ -41,4 +41,7 @@ Qualitative case study coding of 68 PSMTs' questionnaire responses in NVivo. M t
 
 
 ## Related Claims
--
+- [Attributing outcomes to Allah's will among some PSMTs functioned as probabilistic reasoning, not mere personalist belief](allahs-will-as-probabilistic-reasoning.md) — related
+- [Subjectively oriented reasoning emerged in the giving-birth context but disappeared in the die-rolling task](subjective-reasoning-context-dependent.md) — related
+- [Outcome-oriented PSMTs conflate causality with conditionality and predict single-trial outcomes](outcome-oriented-causal-conception.md) — related
+- [A bias-free experimental-probability subcategory (o**) emerged only in the die-rolling task](o-star-star-law-of-large-numbers.md) — related

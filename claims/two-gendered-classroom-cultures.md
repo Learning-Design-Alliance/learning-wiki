@@ -58,4 +58,6 @@ From the strong girls section: in the one group where boys did not dominate the 
 
 
 ## Related Claims
--
+- [Pragmatic values of keeping order counteracted the democratic values teachers were mandated to realise](pragmatic-values-counteract-democratic-values.md) — related
+- [In the ethnography the article analyzes, black girls bussed to an affluent suburban school were unpopular and socially excluded for being seen as loud and ghetto, while black boys were classified as incapable of academic achievement](gender-performance-grounds-exclusion-of-bussed-black-students-in-suburban-school.md) — related
+- [More than 60% of clinic attendees were boys in every period, with no significant gender time trend](cap-clinic-male-predominance-constant.md) — related

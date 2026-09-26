@@ -41,4 +41,8 @@ Experiment 2 two-way ANOVA (input version x acquisition tasks) on the sum of com
 
 
 ## Related Claims
--
+- [A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge](hierarchical-organization-improves-complex-task-performance.md) — related
+- [A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks](organization-task-match-determines-benefit.md) — related
+- [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](less-initial-retrieval-support-produces-better-retention.md) — related
+- [Annotating improves learning](annotating-improves-learning.md) — related
+- [Guided Notes Improve Note Accuracy](guided-notes-improve-note-accuracy.md) — related

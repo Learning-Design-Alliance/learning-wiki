@@ -41,4 +41,6 @@ Additional moderation analysis treating age as covariate in the 147-student samp
 
 
 ## Related Claims
--
+- [Extraversion correlates negatively with well-being decline in wartime students, though less strongly than emotional stability](extraversion-protective-wellbeing-wartime.md) — related
+- [Openness partially mediates effects of extraversion and novelty tolerance, and fully mediates general uncertainty tolerance, on well-being decline](openness-mediates-personality-wellbeing-pathways.md) — related
+- [Emotional stability shows the strongest negative association with decline in students' subjective well-being under martial law](emotional-stability-strongest-protective-wellbeing-wartime.md) — related

@@ -42,4 +42,9 @@ Hayes, R. L., and Kan, P. F. (2026). Shared and divergent patterns in narrative 
 
 
 ## Related Claims
--
+- [Language × Age interactions show bilingual preschoolers had the lowest MLUm, NDW, and SI scores, while bilingual school-age children produced the most fragments](bilingual-preschoolers-lowest-microstructure-interactions.md) — related
+- [All children retold MAIN episode one with the most complexity and episode two with the least, regardless of age or language group](episode-one-most-complex-retell-pattern.md) — related
+- [All narrative microstructure measures increase with age group, but only lexical diversity (NDW) differs between Japanese–English bilingual and English monolingual children](ndw-only-language-group-difference-narrative-microstructure.md) — related
+- [Bilingual children showed a nonsignificant advantage on the hardest theory-of-mind comprehension question, and MAIN comprehension questions may be too easy for the age range](tom2-bilingual-advantage-nonsignificant-comprehension-ceiling.md) — related
+- [Bilingual school-age children's microstructure converged with monolinguals', consistent with bilinguals exceeding the ~60% input benchmark for typical development](sufficient-input-convergence-school-age-microstructure.md) — related
+- [Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall](pretend-play-enactment-narrative-recall-short-term.md) — related

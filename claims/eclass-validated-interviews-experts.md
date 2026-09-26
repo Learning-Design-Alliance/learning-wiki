@@ -41,4 +41,6 @@ Validation study for the E-CLASS survey described in the design and validation s
 
 
 ## Related Claims
--
+- [Asking questions is a valued scientific practice: all 23 experts agreed it is a key aspect of scientific research](asking-questions-key-scientific-practice-expert-consensus.md) — related
+- [Descriptive expert-like response percentages on the CLASS survey were lower for the experimental group than the control group at post-test, despite the significant ANCOVA result](class-descriptive-scores-favour-control-post-test.md) — related
+- [Distinguishing classroom and research contexts in survey questions was a key outcome of student validation interviews](context-clarification-validation-interviews.md) — related

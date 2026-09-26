@@ -58,4 +58,7 @@ Among the 63 subjects, "All subjects advancingin.Modal Level after treatmentdid 
 
 
 ## Related Claims
--
+- [Training with maps one or two levels above the child's current level produces greater map drawing advance than training with maps at the child's own level](discrepant-training-facilitates-map-drawing-advance.md) — related
+- [External disequilibrium level systematically influences subsequent changes in internal disequilibrium: discrepant conditions increase mixture among low mix subjects and decrease it among high mix subjects](external-disequilibrium-shapes-internal-mixture-changes.md) — related
+- [Higher internal disequilibrium (Level Mixture) predicts Modal Level advance but not Map Drawing Mean improvement](level-mixture-predicts-modal-level-advance.md) — related
+- [Discrepant training conditions (+1/+2) provided limited evidence of greater transfer to related spatial reasoning tasks than own-level training](limited-transfer-from-discrepant-training.md) — related

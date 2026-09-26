@@ -12,7 +12,7 @@ generated:
 # Advance Organizers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
 
 ## Description
 An advance organizer is introductory material presented *before* the main learning content, written at a higher level of abstraction and inclusivity than the content itself. Introduced by Ausubel, the organizer provides an "ideational scaffold" — anchoring concepts to which new, more detailed material can be meaningfully related during [Assimilation Theory](../theories/information-processing-theory.md) of meaningful learning. Organizers take two forms: *expository* organizers (for unfamiliar material) supply new anchoring concepts, while *comparative* organizers (for familiar material) explicitly link new content to what learners already know.

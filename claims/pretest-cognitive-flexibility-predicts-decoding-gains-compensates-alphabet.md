@@ -58,4 +58,7 @@ The models included treatment-by-covariate and covariate interactions; the artic
 
 
 ## Related Claims
--
+- [Pretest, attendance, and EB status showed distinct covariate effects on specific literacy outcomes](covariate-effects-pretest-attendance-eb-gains.md) — related
+- [Embedded cognitive flexibility practice showed no overall advantage over phonics alone on growth in decoding, encoding, or cognitive flexibility](embedded-cognitive-flexibility-no-overall-advantage-winter-kindergarten.md) — related
+- [For students with full week-6 attendance, Flex showed significantly greater gains than Plain on taught-letter alphabetics, decoding, and word reading](week6-attendance-interaction-favors-flex.md) — related
+- [Cognitive flexibility training added to phonemic awareness training produces significantly greater growth in cognitive flexibility than phonemic awareness training alone in kindergarten and first-grade students](cognitive-flexibility-training-increases-cognitive-flexibility-growth.md) — related

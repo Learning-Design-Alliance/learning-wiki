@@ -74,3 +74,12 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md) — autonomy is a motivational precondition for self-regulated effort
 - [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — adaptive systems can offload regulation decisions learners cannot yet make
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — explains why novices need external scaffolding before self-regulation is effective
+- [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) — a narrower finding that bears on this claim
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — possibly the same claim (merge candidate)
+- [Self-regulation strategy instruction improves achievement](self-regulation-strategy-instruction-improves-achievement.md) — possibly the same claim (merge candidate)
+- [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — possibly the same claim (merge candidate)
+- [Logged time investment on an online mathematics preparation platform differed significantly across SRL intervention groups, rising from control through diary and training + diary to training + diary + peer feedback groups](srl-interventions-increase-logged-time-investment-online-math-prep-course.md) — a narrower finding that bears on this claim
+- [Self-regulated learning is domain specific, with greater cognitive strategy use in social studies and English than in mathematics](srl-is-domain-specific-strategy-use-varies-by-subject.md) — related
+- [Self-regulated learning strategies account for up to 51% of the variance in academic performance, with metacognitive regulation strategies the strongest predictors](srl-strategies-account-up-to-51-percent-variance-academic-performance.md) — related
+- [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) — related
+- [Teacher Student Relationships Improve Engagement And Achievement](teacher-student-relationships-improve-engagement-and-achievement.md) — related

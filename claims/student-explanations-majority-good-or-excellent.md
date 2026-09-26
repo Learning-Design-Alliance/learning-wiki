@@ -41,4 +41,5 @@ Rating of explanations accompanying sampled Physics 1A questions (N=150 and N=20
 
 
 ## Related Claims
--
+- [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — related
+- [Explanation-quality distributions differed significantly between years for Physics 1A (2011 slightly lower) but not Physics 1B](explanation-quality-differs-by-year-1a-only.md) — related

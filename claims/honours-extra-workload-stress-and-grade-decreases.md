@@ -41,4 +41,4 @@ Open-ended survey responses on disadvantages of membership; honours activities c
 
 
 ## Related Claims
--
+- [Honours community members report isolation and negative bias from regular students and lecturers](honours-community-isolation-from-regular-students.md) — related

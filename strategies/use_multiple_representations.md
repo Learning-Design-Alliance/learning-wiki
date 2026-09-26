@@ -19,7 +19,7 @@ Presenting a concept in multiple representations means offering the same underly
 
 ## Design Implications
 
-Multiple representations support learning when learners actively integrate them: pairing verbal and visual explanations consistently outperforms words alone for transfer, provided the two are presented contiguously rather than separated [Multimedia learning is more effective when words and pictures are combined than words alone.](../claims/multimedia-learning-more-effective-with-words-and-pictures.md) [+S]. Integration is not automatic — learners must map correspondences between representations, and poorly designed combinations add extraneous load instead of insight [Cognitive overload degrades learning when demands exceed working memory capacity.](../claims/cognitive-overload-degrades-learning.md) [+M]. Design should therefore limit the number of simultaneous representations, sequence them deliberately, and prompt explicit cross-referencing.
+Multiple representations support learning when learners actively integrate them: pairing verbal and visual explanations consistently outperforms words alone for transfer, provided the two are presented contiguously rather than separated [Multimedia learning is more effective when words and pictures are combined than words alone.](../claims/multimedia-principle-improves-learning.md) [+S]. Integration is not automatic — learners must map correspondences between representations, and poorly designed combinations add extraneous load instead of insight [Cognitive overload degrades learning when demands exceed working memory capacity.](../claims/cognitive-overload-degrades-learning.md) [+M]. Design should therefore limit the number of simultaneous representations, sequence them deliberately, and prompt explicit cross-referencing.
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Multiple representations support learning when learners actively integrate them:
 
 #### Constraints
 - Multiple representations can *harm* learning when learners lack the skill to translate between them; novices given several simultaneous formats often split attention across them without integrating [Cognitive overload degrades learning when demands exceed working memory capacity.](../claims/cognitive-overload-degrades-learning.md) [-M]
-- Redundant representations (identical text read aloud on screen) can depress learning relative to a single well-chosen format [Redundancy principle.](../claims/redundancy-principle-hurts-learning.md) [~M]
+- Redundant representations (identical text read aloud on screen) can depress learning relative to a single well-chosen format [Redundancy principle.](../claims/redundancy-effect-impairs-learning.md) [~M]
 - Benefits reverse with expertise: advanced learners integrating a second redundant representation show the expertise-reversal effect, performing worse than with a single compact format [~M]
 
 #### Implementation Variability

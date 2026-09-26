@@ -41,4 +41,7 @@ The evaluation's executive summary states that while Goal 1 was largely achieved
 
 
 ## Related Claims
--
+- [Communication, cooperation, and coordination were the most critical factors in successful CLASP programming](clasp-critical-success-factors-communication.md) — related
+- [CLASP succeeded in bringing ethnically diverse and underserved users into the library but programs often failed to create links to books, reading, or library services](clasp-diverse-users-missing-library-links.md) — related
+- [CLASP's impact centered on the number of programs offered rather than program type, with few differences between CLASP and non-CLASP library programs](clasp-impact-number-over-type.md) — related
+- [CLASP successfully established library use among children, reaching thousands of new users who were highly satisfied with programs](clasp-successful-library-use-children.md) — related

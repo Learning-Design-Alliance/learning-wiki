@@ -41,4 +41,6 @@ The article argues, in its theoretical discussion, that "Online peer assisted le
 
 
 ## Related Claims
--
+- [A blended online peer assisted learning community in a Distance Education course at Zhejiang Normal University was effective in promoting interpersonal interactions and informal learning](blended-peer-assisted-learning-experiment-effective-at-zjnu.md) — a narrower finding that bears on this claim
+- [Creating community and interacting with students online required deliberate, planned effort unlike spontaneous face-to-face co-presence](online-community-requires-conscious-effort.md) — reports the opposite
+- [Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — a broader claim this one bears on

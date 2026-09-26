@@ -41,4 +41,5 @@ Narrative review of Long and Aleven's classroom experiment comparing the equatio
 
 
 ## Related Claims
--
+- [The survey reports, citing Desmarais and Baker, that students using the BKT-sequence recommendation algorithm solved more difficult exercises, obtained higher performance and spent more time in the system than students using the traditional approach.](bkt-sequence-recommendation-students-solved-harder-exercises.md) — related
+- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — related

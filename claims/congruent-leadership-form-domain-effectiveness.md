@@ -41,4 +41,5 @@ The author's research on 335 four-year colleges and universities found domain-sp
 
 
 ## Related Claims
--
+- [Institutions that improved effectiveness over time possessed paradoxical characteristics, tending to be both clans and markets or both hierarchies and adhocracies](paradoxical-institutional-characteristics-improve-effectiveness-over-time.md) — related
+- [Organizational climate can influence people's behavior and may be linked to teaching practices (attributed to Milem)](organizational-climate-influences-teaching-behavior.md) — related

@@ -41,4 +41,8 @@ The authors' own classroom experience using Tracker with their students, framed 
 
 
 ## Related Claims
--
+- [A Singapore teacher community has remixed 75 EJS models and lesson packages toward a national digital library](osp-community-remixed-75-ejs-models.md) — related
+- [Keying a constant-vx dynamic model against real video data helps students make sense of constant x-direction velocity in projectile motion](tracker-constant-vx-model-activity.md) — a narrower finding that bears on this claim
+- [Comparing an incorrect applied-force model (fx = 10 N) with real data shows students why projectile motion has no x-direction acceleration](tracker-incorrect-fx-model-refutes-x-force.md) — a narrower finding that bears on this claim
+- [Students can derive an accurate gravitational acceleration value from Tracker's parabola fit of a falling-ball video](tracker-parabola-fit-derives-gravitational-acceleration.md) — a narrower finding that bears on this claim
+- [Authentic video outperformed virtual simulation on the higher-order analysis and support dimensions of observation assignments](av-advantage-analysis-support-dimensions.md) — related

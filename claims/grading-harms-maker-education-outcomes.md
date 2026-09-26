@@ -41,4 +41,4 @@ A literature-based argument in the paper's section on foundational principles. T
 
 
 ## Related Claims
--
+- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related

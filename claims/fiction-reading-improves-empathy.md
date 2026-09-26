@@ -88,3 +88,4 @@ In five experiments, adults read a short passage and then took tests of affectiv
 - [Brief intervention improves empathic discipline and cuts suspensions.](brief-intervention-empathic-discipline-cuts-suspensions.md) — empathy can be shifted by brief interventions in educational settings
 - [Analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md) — narrative simulation may work by analogical mapping onto social situations
 - [Case-based learning improves exam performance.](case-based-learning-improves-exam-performance.md) — narrative cases as a vehicle for perspective-taking and situated understanding
+- [Reading Literary Fiction Improves Theory Of Mind](reading-literary-fiction-improves-theory-of-mind.md) — possibly the same claim (merge candidate)

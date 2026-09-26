@@ -92,4 +92,8 @@ The chapter reports Lindsey et al. (2014), whose personalized review system impl
 
 
 ## Related Claims
--
+- [Most middle and high school students surveyed after classroom retrieval practice programs viewed them positively and said frequent retrieval practice helped them feel less nervous about exams](students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness.md) — related
+- [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
+- [Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions](active-learning-conditions-more-other-pedagogical-features.md) — related
+- [Retrieval practice benefits have been observed in children, healthy older adults, and memory-impaired patient groups, not only college students](retrieval-practice-benefits-generalize-to-children-older-adults-and-memory-impaired-patients.md) — related
+- [Benefits of retrieval practice have persisted for 6 months in medical students and 9 months in middle-school students](retrieval-practice-benefits-persist-six-to-nine-months.md) — related

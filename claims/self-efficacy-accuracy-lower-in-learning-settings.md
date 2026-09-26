@@ -41,4 +41,7 @@ Accuracy of self-appraisal section comparing Bandura's phobic research (84-92 pe
 
 
 ## Related Claims
--
+- [Self-efficacy measures show high reliability and domain-specific validity](self-efficacy-measures-reliable-domain-specific.md) — related
+- [Posttest self-efficacy accounts for a significant increment in posttest skill variability, but its relation to persistence is mixed in learning settings](posttest-self-efficacy-predicts-skill-persistence-mixed.md) — related
+- [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — related
+- [Writing is presented as uniquely corresponding to the features of successful learning](writing-uniquely-corresponds-features-successful-learning.md) — related

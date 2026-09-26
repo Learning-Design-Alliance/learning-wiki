@@ -58,4 +58,7 @@ The same subgroup analysis found the correlations between cognitive flexibility 
 
 
 ## Related Claims
--
+- [Cognitive flexibility is significantly correlated with phonemic awareness, growth in reading comprehension, and spelling ability, especially among children with low cognitive flexibility scores](cognitive-flexibility-correlates-with-early-literacy.md) — possibly the same claim (merge candidate)
+- [Cognitive flexibility training added to phonemic awareness training produces significantly greater growth in cognitive flexibility than phonemic awareness training alone in kindergarten and first-grade students](cognitive-flexibility-training-increases-cognitive-flexibility-growth.md) — related
+- [Increased cognitive flexibility may strengthen the effectiveness of phonemic awareness, reading, and spelling instruction for kindergarten and first-grade students with low cognitive flexibility](cf-training-may-strengthen-early-literacy-instruction.md) — related
+- [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related

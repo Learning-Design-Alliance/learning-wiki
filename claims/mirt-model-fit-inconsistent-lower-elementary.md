@@ -41,4 +41,7 @@ Comparison of four calibrations (one UIRT, three two-dimensional MIRT models wit
 
 
 ## Related Claims
--
+- [In an empirical comparison on a testlet-based English assessment test, the bifactor model is preferred over the second-order and unidimensional 2PL models by both AIC and BIC](bifactor-model-preferred-aic-bic-testlet-test.md) — related
+- [The three composite scoring methods yield differently related ability estimates, with the UIRT oral composite correlating far more with Speaking than Listening estimates](composite-score-estimates-correlation-patterns.md) — related
+- [Exploratory factor analysis indicates the Oral composite domain is possibly two-dimensional while each single subtest appears one-dimensional, with mixed MIRT model-fit evidence on the two-dimensional structure](oral-composite-domain-two-dimensional-english-proficiency.md) — related
+- [In concurrent unidimensional calibration the Speaking subtest dominates the Oral scale score while Listening and Speaking correlate only moderately](speaking-dominates-concurrent-oral-scale.md) — related

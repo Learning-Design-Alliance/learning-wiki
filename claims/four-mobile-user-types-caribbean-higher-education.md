@@ -41,4 +41,9 @@ Latent class cluster analysis (Latent Gold 5.0) of survey-reported frequency of 
 
 
 ## Related Claims
--
+- [Mobile user typology shows cross-national specificity: class distributions differ across campus-territory groups, challenging the assumption of a fixed set of user segments across countries](cross-national-specificity-of-user-typology.md) — related
+- [Age, sex, faculty, programme level and campus-territory are each significantly related to mobile user type membership, though the model's pseudo R-squared is low](demographics-relate-to-mobile-user-type.md) — related
+- [EFL university students report varied preferences for music, drawing, photography, acting, internet use, mobile-phone use, cooking and travelling while studying English](efl-students-report-varied-style-related-preferences.md) — related
+- [Behavioural intention to adopt mobile learning is highest among eclectic users, followed by Internet users, then offline entertainment users, and lowest among basic users](adoption-intention-ordering-across-user-types.md) — related
+- [Mobile user typology significantly predicts behavioural intention to adopt mobile learning, independently explaining approximately 11% of its variance](mobile-user-typology-predicts-adoption-intention.md) — related
+- [Adding mobile user typology to the UTAUT predictors renders effort expectancy non-significant, suggesting the typology accounts for ease of use](typology-renders-effort-expectancy-nonsignificant.md) — related

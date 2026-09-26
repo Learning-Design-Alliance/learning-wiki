@@ -42,3 +42,4 @@ Same randomized two-group SafeCracker experiment with 72 students. The worked ex
 
 ## Related Claims
 - [Worked Examples Improve Problem Solving Strategy Transfer In A Puzzle Game](worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game.md)
+- [Studying worked examples between two rounds of a computer puzzle game produced significantly greater knowledge map improvement than no worked examples for adult players](worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game.md) — related

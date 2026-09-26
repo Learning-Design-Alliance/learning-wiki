@@ -41,4 +41,6 @@ Synthesis of outcome descriptions across the reviewed studies. Teachers were des
 
 
 ## Related Claims
--
+- [PLC in mathematics in prior research pursue three distinct objects, with developing teachers' repertoire of teaching actions the most common](plc-mathematics-three-objects-repertoire-most-common.md) — related
+- [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](plc-norms-three-categories-trust-prerequisite.md) — related
+- [Reported PLC outcomes frequently do not correspond with the stated object; complete object–outcome correspondence appeared in only three studies](plc-object-outcome-mismatch.md) — related

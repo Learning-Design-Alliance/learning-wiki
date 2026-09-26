@@ -64,3 +64,8 @@ Self-monitoring is not mere self-report. It is strongest when learners have expl
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](specific-difficult-goals-lead-to-higher-performance.md)
 - [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md)
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md)
+- [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — a broader claim this one bears on
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — a broader claim this one bears on
+- [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
+- [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — related
+- [Strategy-control in interactive instruction divides into four tactic categories: survey, learning, evaluation, and review](strategy-control-four-tactic-categories.md) — related

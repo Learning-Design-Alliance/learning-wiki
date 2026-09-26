@@ -58,4 +58,5 @@ Cross-environment observational trend reported in Results comparing instructiona
 
 
 ## Related Claims
--
+- [Learning environment had a less significant impact on causal mechanistic reasoning on the boiling point task, with a small effect size of 0.168](boiling-task-environment-effect.md) — related
+- [Learning environment significantly affected students' use of causal mechanistic reasoning on the dissolution task, with the core ideas environment highest at 40%](dissolution-task-environment-effect.md) — related

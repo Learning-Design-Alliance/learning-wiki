@@ -41,4 +41,4 @@ The author's own observational report of student perceptions in her classes, wit
 
 
 ## Related Claims
--
+- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related

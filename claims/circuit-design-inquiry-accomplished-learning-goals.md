@@ -41,4 +41,6 @@ Authors' overall evaluation in the Conclusions of a single implementation of the
 
 
 ## Related Claims
--
+- [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
+- [Rubric scoring showed low inter-assessor reliability (mean class standard deviation 1.2 of 9 points)](engineering-rubric-low-scoring-reliability.md) — related
+- [Inquiry-first teaching stimulates interest, sharpens reading, and helps organize course work](inquiry-first-stimulates-interest-and-organizes-course.md) — a broader claim this one bears on

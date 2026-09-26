@@ -41,4 +41,7 @@ Theoretical synthesis, drawing on Modell's account of the private self, in which
 
 
 ## Related Claims
--
+- [Attachment (communion) contains the fear and anxiety associated with individual action (agency)](communion-contains-agentic-distress.md) — related
+- [In attachment theory, the child's exploration is the direct outcome of security from an effective attachment relationship](secure-base-enables-exploration.md) — a narrower finding that bears on this claim
+- [Viewing agency/communion as a polarity risks underestimating agency in the lives of women](polarity-view-obscures-womens-agency.md) — related
+- [Complex systems function properly only when self-assertive and integrative tendencies are in equilibrium](self-assertive-integrative-equilibrium-personality.md) — related

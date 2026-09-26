@@ -41,4 +41,5 @@ Paired-sample t-test on critical thinking ability rubric scores of the same eigh
 
 
 ## Related Claims
--
+- [Participants reported a strong level of agreement and high satisfaction with ideation discussion activities in Design Thinking](high-survey-agreement-ideation-discussion.md) — related
+- [Critical thinking gains were significant for creative critical thought but not for logic and reasoning](ideation-discussion-creative-thought-gains-not-logic.md) — a narrower finding that bears on this claim

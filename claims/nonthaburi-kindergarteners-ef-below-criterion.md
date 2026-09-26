@@ -41,4 +41,5 @@ One-sample t-test comparison of MU.EF-101 T-scores against the criterion for 328
 
 
 ## Related Claims
--
+- [No assessed children reached the good or excellent levels for cognitive flexibility](cognitive-flexibility-no-good-excellent-levels.md) — related
+- [Teachers rank parents not providing opportunities for independent task performance as the top cause of working-memory need](parent-independence-opportunity-top-working-memory-cause.md) — related

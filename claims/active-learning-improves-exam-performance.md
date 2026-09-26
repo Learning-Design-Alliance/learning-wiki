@@ -68,6 +68,10 @@ A meta-analysis of published and unpublished STEM course comparisons in which th
 ## Related Claims
 
 - [Case-based learning improves exam performance.](case-based-learning-improves-exam-performance.md) — a specific active format with direct exam-performance evidence
-- [Comparing contrasting cases improve learning.](comparing-contrasting-cases-improve-learning.md) — structured comparison activity as an active-learning mechanism
+- [Comparing contrasting cases improve learning.](comparing-contrasting-cases-improves-learning.md) — structured comparison activity as an active-learning mechanism
 - [Activation improves learning.](activation-improves-learning.md) — activating prior knowledge during active tasks supports encoding
 - [Cognitive disequilibrium motivates conceptual change.](cognitive-disequilibrium-motivates-conceptual-change.md) — productive struggle as a driver of active-learning gains
+- [Small Group Learning Improves STEM Achievement](small-group-learning-improves-stem-achievement.md) — related
+- [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) — a narrower finding that bears on this claim
+- [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — a narrower finding that bears on this claim
+- [Technology-supported learning gains depend on the technology being used within student-centered, active-engagement pedagogy](lab-technology-gains-depend-on-active-engagement-pedagogy.md) — a narrower finding that bears on this claim

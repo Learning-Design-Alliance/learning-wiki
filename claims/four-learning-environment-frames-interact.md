@@ -41,4 +41,6 @@ Theoretical synthesis section reporting Bransford et al.'s learning-science acco
 
 
 ## Related Claims
--
+- [Review identifies gaps: CDST studies isolate learner from environment and define what constitutes a system vaguely](cdst-research-gaps-learner-environment-system-definition.md) — related
+- [Traditional cognitive and CHAT paradigms differ on six dimensions of learning research (definition of learning, technology's role, assessment focus, context, evaluator role, data collection)](chat-versus-cognitive-paradigm-comparison.md) — related
+- [The scholarship of integration is the least examined frame in Boyer's model of scholarship](scholarship-of-integration-least-examined.md) — related

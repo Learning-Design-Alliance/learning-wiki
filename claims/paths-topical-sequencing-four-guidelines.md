@@ -41,4 +41,6 @@ The author's lesson-ordering analysis of the Feelings and Relationships Unit ide
 
 
 ## Related Claims
--
+- [PATHS spiral sequencing treats basic emotions as prerequisites for complex emotions across four levels of complexity](paths-basic-to-complex-hierarchical-spiral-sequencing.md) — related
+- [PATHS macro-level sequencing combines spiral and topical sequencing patterns](paths-macro-sequencing-spiral-topical-combination.md) — related
+- [Within-lesson sequencing in the PATHS Feelings and Relationships Unit proceeds from cognitive to behavioral to affective and from external to internal](paths-within-lesson-cognitive-to-affective-sequencing.md) — related

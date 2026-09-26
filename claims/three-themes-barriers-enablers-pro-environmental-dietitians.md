@@ -41,4 +41,5 @@ Qualitative thematic analysis (Braun and Clarke's six steps) of free-text barrie
 
 
 ## Related Claims
--
+- [A half-day workshop featuring the PPH framework significantly increased dietitians' confidence to undertake pro-environmental change in their personal and professional lives](pph-workshop-increases-dietitians-pro-environmental-confidence.md) — related
+- [Belief that a global environmental problem needs addressing was already high before the workshop and did not significantly change](pph-workshop-no-significant-belief-change.md) — related

@@ -41,4 +41,5 @@ The author's reflective judgment from applying her heuristic perspectives to her
 
 
 ## Related Claims
--
+- [Writing Program Administrators' responses to conflict are frequently somatic, with conflict becoming a physical trope expressed as illness](wpa-conflict-responses-somatic-physical-trope.md) — related
+- [Composition studies and the WPA position are feminized, and male WPAs remain in a feminized position within the academic hierarchy](wpa-position-feminized-including-male-wpas.md) — related

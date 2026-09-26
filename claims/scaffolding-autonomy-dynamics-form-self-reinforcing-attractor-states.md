@@ -47,3 +47,5 @@ This is an intensive microgenetic case study of three purposively-selected extre
 
 ## Related Claims
 - (none yet linked)
+- [Quadratic and cubic trends significantly improved the linear model of teacher and student behavior, showing the importance of studying nonlinearity](quadratic-cubic-trends-improve-linear-model-teacher-behavior.md) — related
+- [Teacher expectation effects on achievement](teacher-expectation-effects-on-achievement.md) — related

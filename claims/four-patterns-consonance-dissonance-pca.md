@@ -41,4 +41,8 @@ Principal Components Analysis on the Phi correlation matrix of 15 binary RCI var
 
 
 ## Related Claims
--
+- [A minority of prospective teachers show consonance, believing each conception dimension is both valuable and applicable](consonance-both-valuable-and-applicable-minority.md) — related
+- [Constructivist learning environments are built on four system attributes: context, construction, collaboration, and conversation](constructivist-environments-four-system-attributes.md) — related
+- [Most prospective teachers see constructivist conceptions as highly valuable but not very applicable, and traditional conceptions as not valuable but highly applicable](constructivist-valued-but-not-applicable-person-level.md) — related
+- [Demographic variables (gender, year of study, fields of study, age) have trivial effects on prospective teachers' conception values and practices](demographics-trivial-effects-conceptions.md) — related
+- [Prospective teachers value constructivist teaching/learning and assessment for learning more than they practise, and practise traditional teaching and performance orientation more than they value](prospective-teachers-value-constructivist-more-than-practised.md) — related

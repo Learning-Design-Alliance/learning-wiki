@@ -41,4 +41,5 @@ The review reports, citing McAuley and Gross (1983), that skilled consistently s
 
 
 ## Related Claims
--
+- [Attributing repeated failure to lack of ability fosters learned helplessness, while external, unstable, specific attributions are adaptive](ability-attributions-foster-learned-helplessness-in-sport.md) — related
+- [Outcome-consistent task performances are attributed to stable factors and outcome-conflicting performances to unstable factors](outcome-consistency-drives-stable-versus-unstable-attributions.md) — related

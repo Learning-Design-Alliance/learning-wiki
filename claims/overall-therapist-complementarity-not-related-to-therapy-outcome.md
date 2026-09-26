@@ -41,4 +41,9 @@ Behavioral analysis of 120 rated tape segments from 20 late-adolescent clients (
 
 
 ## Related Claims
--
+- [Early-stage therapist complementarity does not differ by outcome group, and the predicted later-stage advantage for successful dyads was not supported](early-and-later-stage-complementarity-null-by-outcome.md) — related
+- [During the early stage of therapy, more severely maladjusted clients elicit higher levels of therapist complementarity](early-stage-maladjustment-elicits-complementarity.md) — related
+- [Observed interaction frequencies support the Interaction Matrix cell weightings, with the most interactions in the highest-weighted cells](interaction-frequencies-support-matrix-weightings.md) — related
+- [During the middle stage of therapy, successful therapists respond at a significantly lower level of complementarity than unsuccessful therapists](middle-stage-lower-complementarity-successful-therapists.md) — reports the opposite
+- [Therapy relationships do not show a transition from relational incongruence to congruence across sessions](no-incongruence-to-congruence-transition-across-therapy-sessions.md) — related
+- [Response redundancy (relational congruence) is not related to working alliance ratings](redundancy-unrelated-to-working-alliance.md) — related

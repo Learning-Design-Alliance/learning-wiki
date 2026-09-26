@@ -41,4 +41,9 @@ Factorial ANOVA of the individual-learner WD variant across 21 four-way ANOVAs (
 
 
 ## Related Claims
--
+- [Deliberate Practice Improves Performance](deliberate-practice-improves-performance.md) — related
+- [Easy, highly specific simulated tasks compress the range of the WD statistic across learner types, while well-designed tasks widen it](easy-highly-specific-tasks-shrink-wd-range.md) — related
+- [Segmentation boundary choices differentially affect statistics computed on epistemic-game process data](segmentation-boundaries-differentially-affect-statistics.md) — related
+- [In simulated epistemic games, the weighted density statistic distinguishes simulated learner types with distinct mastery trajectories, with the expert trajectory showing the largest WD values](wd-detects-simulated-learner-trajectory-differences.md) — related
+- [In pairwise WD analyses, learner trajectory similarity dominates variation in percentage-overlap values (57.90% of variation) while remaining design factors are essentially zero](trajectory-similarity-dominates-wd-pair-overlap.md) — related
+- [The WD statistic is more useful for differentiating between simulated learner types when games are played longer](longer-games-sharpen-wd-learner-differentiation.md) — related

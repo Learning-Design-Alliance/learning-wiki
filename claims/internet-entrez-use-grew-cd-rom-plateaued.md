@@ -58,4 +58,5 @@ The article reports a "more detailed study" calibrating the two usage metrics, f
 
 
 ## Related Claims
--
+- [Some users prefer a single-form Boolean query interface to the original Entrez interface](single-form-boolean-query-preferred-by-some-users.md) — related
+- [Browsing term lists (selection mode) helps searchers who do not know the exact query term](selection-mode-browsing-helps-uncertain-searchers.md) — related

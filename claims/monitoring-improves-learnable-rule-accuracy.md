@@ -41,4 +41,6 @@ A pilot study by Mary Ciske elicited four contextual styles (free writing, readi
 
 
 ## Related Claims
--
+- [Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — reports the opposite
+- [Monitoring lowers accuracy for unlearnable rules: preposition usage was significantly less accurate in the more monitored style](monitoring-lowers-preposition-accuracy.md) — related
+- [Monitoring is a variable phenomenon, not all-or-nothing, and monitoring in formal styles may pull up accuracy in less formal styles](monitoring-variable-not-all-or-nothing.md) — related

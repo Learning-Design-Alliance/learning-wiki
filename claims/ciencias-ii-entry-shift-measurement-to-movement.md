@@ -41,4 +41,7 @@ Documentary comparison of the 1993 and 2006 physics curricula (Figure 2 and Tabl
 
 
 ## Related Claims
--
+- [The 2006 reform concentrated physics, previously taught across three secondary years, into a single second-grade course (Ciencias II) with 6 hours per week, raising teacher concern about fostering interest in one school cycle](res-concentrates-physics-into-single-second-grade-course.md) — related
+- [The SEP Ciencias II work guide packs many expected learnings into few class hours (e.g., 5 learnings in 6 hours for Block 1 and 8 in 5 hours for Block 2), which teachers find hard to cover](ciencias-ii-guide-overloaded-sequences.md) — related
+- [The RES planning formats increase planning activity compared with the 1993 plan's four-question format, and some teachers view the added documentation as bureaucratic work](res-formats-increase-planning-activity.md) — related
+- [Los estudiantes de secundaria tienen dificultades persistentes para reconocer los cambios observables en el movimiento aparente del Sol y los momentos singulares del año](students-difficulties-solar-movement-observable-changes.md) — related

@@ -41,4 +41,5 @@ Simulation results summarized in Table 8 across conditions violating both condit
 
 
 ## Related Claims
--
+- [Rank ANCOVA tends to a liberal test when the covariate and errors are non-normal, sample sizes are small, alpha = .01, and the covariate-posttest relationship is weak](rank-ancova-liberal-nonnormal-covariate-small-n.md) — related
+- [Parametric ANCOVA is robust to violation of either conditional normality or homoscedasticity alone](parametric-ancova-robust-single-assumption-violation.md) — related

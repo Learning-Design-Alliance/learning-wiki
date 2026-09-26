@@ -42,4 +42,4 @@ Narrative review's synthesis of motivational-factor studies; it reports that "Ma
 
 
 ## Related Claims
--
+- [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related

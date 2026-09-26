@@ -41,4 +41,4 @@ Classroom graphing activity (Figure 2, "How Do Pumpkins Grow?") in which childre
 
 
 ## Related Claims
--
+- [Preschool children demonstrate behavioral knowledge of classification, one-to-one correspondence, and seriation during everyday free play with everyday materials](free-play-reveals-behavioral-math-knowledge.md) — related

@@ -41,4 +41,7 @@ Case-comparison evidence: the groups ranking first and second on growth demonstr
 
 
 ## Related Claims
--
+- [Educator functions of encouraging, linking with knowledge, and linking with human resources positively influence group growth, while enlisting support negatively influences it](educator-functions-influence-community-group-growth.md) — related
+- [Group growth in leadership positively influences additional group growth](leadership-growth-drives-additional-group-growth.md) — related
+- [Strong feelings about a community problem positively influence group growth](strong-feelings-about-problem-influence-group-growth.md) — related
+- [Educator activity style should match the group's leadership capacity: low activity style with well-developed leadership, high activity style without it](educator-style-matches-leadership-capacity.md) — related

@@ -55,3 +55,5 @@ In an extended student-class experiment comparing text-only, voice, diagram, and
 - [Cognitive overload degrades learning](../claims/cognitive-overload-degrades-learning.md) — overload explains why text-only formats disadvantage sensing learners
 - [Chunking reduces working memory load](../claims/chunking-reduces-working-memory-load.md) — a design lever that can offset learner differences in media presentations
 - [Dual coding theory](../theories/dual-coding-theory.md) — the theoretical framework underlying Alty's media experiments
+- [Multimedia Principles Benefit Novices](multimedia-principles-benefit-novices.md) — related
+- [MLM-script presentations fall between the other two groups: above the Textbook group but below the MLM group, as multimedia learning theory predicts](mlm-script-intermediate-between-mlm-and-textbook.md) — related

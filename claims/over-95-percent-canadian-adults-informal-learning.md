@@ -41,4 +41,8 @@ A representative telephone survey of 1562 Canadian adults conducted for NALL bet
 
 
 ## Related Claims
--
+- [Employed Canadian adults report about 6 hours per week of employment-related informal learning](employment-related-informal-learning-hours.md) — a narrower finding that bears on this claim
+- [Over 70% of job training received by employees is informal, according to U.S. and Canadian national surveys](over-70-percent-job-training-informal.md) — related
+- [Informal learning participation is unrelated to formal schooling level, unlike course participation](schooling-unrelated-to-informal-learning.md) — related
+- [Recognition of prior informal learning (PLAR) would substantially narrow the course-participation gap between occupational classes](plar-narrow-participation-gap.md) — related
+- [Aging does not substantially reduce informal learning participation, though preference shifts from courses to self-directed learning](aging-does-not-reduce-informal-learning.md) — related

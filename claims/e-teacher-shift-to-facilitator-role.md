@@ -41,4 +41,7 @@ In the Findings (Object section), one e-teacher's interview statement describes 
 
 
 ## Related Claims
--
+- [Blended teaching shifted the teacher's self-identity from facilitator to co-facilitator and co-designer with students](blended-teaching-shifts-identity-to-co-facilitator.md) — related
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
+- [In web-based high-school distance education, e-teachers widened the object of their teaching activity toward more independent and engaged forms of learning](e-teachers-widen-object-toward-independent-learning.md) — possibly the same claim (merge candidate)
+- [Online peer assessment shifts instructional assessment from teacher-controlled to a combination of teacher assessment and student peer assessment](online-peer-assessment-shifts-assessment-control-to-students.md) — related

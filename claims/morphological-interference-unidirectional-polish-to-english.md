@@ -41,4 +41,8 @@ The author's contrastive analysis of suffix and prefix interference (sections 1.
 
 
 ## Related Claims
--
+- [Learner errors arise from interlingual transfer, intralingual overgeneralization, cultural interference, and communicative strategies](error-sources-interlingual-intralingual-cultural.md) — a broader claim this one bears on
+- [Use of a deceptive word need not cause complete misunderstanding, but some semantic affinity in the pair is always necessary for such a translation to be correct](deceptive-word-use-not-always-complete-misunderstanding.md) — related
+- [Risk of semantic interference varies systematically across the four relation types, with full contrast always producing faulty translation when a formal replica is used](interference-risk-varies-by-relation-type.md) — related
+- [In overlapping pairs, the danger of false identification of meanings is lower when the shared meaning is obvious in only one sense](overlap-degree-moderates-false-identification-risk.md) — related
+- [In contrast-type abstract-noun pairs, the Polish word's meaning is typically narrower, a generalization of the semantic element in the Polish word](polish-meanings-narrower-than-english-partners.md) — related

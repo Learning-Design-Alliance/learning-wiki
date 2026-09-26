@@ -41,4 +41,8 @@ The article attributes the sensitivity finding to Fleer (1993). In this study, 2
 
 
 ## Related Claims
--
+- [Grade cutoffs are arbitrary because adjacent scores receiving different grades are not significantly different, per the author's statistical argument](grade-cutoffs-arbitrary-adjacent-scores.md) — related
+- [Item discrimination moderates detection differently by index: NCDIF benefits from high a-parameters only at large DIF magnitude](a-parameter-moderates-dif-detection-by-index.md) — related
+- [Lord's chi-square identified more DIF items than Raju's unsigned area in the without-purification condition](lords-chi-square-flags-more-dif-items-than-raju-ua.md) — related
+- [C-DIF was less stable than NC-DIF across simulated conditions](polytomous-c-dif-less-stable-than-nc-dif.md) — related
+- [The polytomous-DFIT framework effectively identified DTF and DIF in polytomously scored data under the simulated conditions](polytomous-dfit-effective-dif-detection-simulation.md) — related

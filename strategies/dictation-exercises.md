@@ -19,7 +19,7 @@ Dictation exercises ask learners to listen to spoken language and transcribe it 
 
 ## Design Implications
 
-Dictation is a form of retrieval practice applied to the sound–spelling system: each word must be reconstructed from a degraded acoustic trace rather than copied [Spaced retrieval practice produces durable retention.](../claims/spaced-retrieval-practice-improves-retention.md) [+S]. Because transcription requires simultaneous listening, segmenting, and writing, the task is working-memory intensive; texts must be short and delivered in manageable chunks [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. For beginning readers, accurate transcription practice strengthens automatic word recognition, which in turn frees cognitive resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
+Dictation is a form of retrieval practice applied to the sound–spelling system: each word must be reconstructed from a degraded acoustic trace rather than copied [Spaced retrieval practice produces durable retention.](../claims/spaced-retrieval-improves-retention.md) [+S]. Because transcription requires simultaneous listening, segmenting, and writing, the task is working-memory intensive; texts must be short and delivered in manageable chunks [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. For beginning readers, accurate transcription practice strengthens automatic word recognition, which in turn frees cognitive resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
 
 ### Context
 #### Requirements
@@ -56,7 +56,7 @@ Dictation is a form of retrieval practice applied to the sound–spelling system
 2. Read or play the text once at natural speed for gist, then in [chunked](../principles/chunking.md) phrases with pauses for writing.
 3. Have learners transcribe, using partial transcripts for lower-memory-load variants.
 4. Reveal the source text and have learners self-correct immediately, marking the specific sound–spelling mismatch rather than just the wrong word ([Feedback](../elements/feedback.md)).
-5. Re-test misspelled items in a later session, spaced across days ([Spaced retrieval practice produces durable retention.](../claims/spaced-retrieval-practice-improves-retention.md) [+S]).
+5. Re-test misspelled items in a later session, spaced across days ([Spaced retrieval practice produces durable retention.](../claims/spaced-retrieval-improves-retention.md) [+S]).
 
 ## Related Strategies
 - [Spelling practice through retrieval](spelling_retrieval_practice.md) — dictation is the listening-based form of spelling retrieval

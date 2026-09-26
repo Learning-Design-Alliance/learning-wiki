@@ -42,4 +42,6 @@ Observational analysis of classroom video from the first project site, comparing
 
 
 ## Related Claims
--
+- [Teachers adapt TEFA to their own terms and contexts, with learning trajectories that are personal and idiosyncratic](teachers-adapt-tefa-to-own-terms.md) — related
+- [Teachers reported that CRS-and-TEFA use gave them more information about student thinking and that they changed lessons in response to that formative information](tefa-formative-information-changed-lessons.md) — related
+- [Teachers typically encounter the first three TEFA skill areas in order: technology operation, question design, then discourse orchestration](tefa-skill-areas-sequential-order.md) — related

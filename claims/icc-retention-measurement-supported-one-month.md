@@ -41,4 +41,6 @@ Test-posttest retention analysis (Research Report 79-4) in the same biology-cour
 
 
 ## Related Claims
--
+- [Achievement dimensionality appears to change from pretest to end-of-course testing, questioning unidimensional ICC measurement of individual growth during instruction](achievement-dimensionality-changes-during-instruction.md) — reports the opposite
+- [One- and two-parameter ICC scoring yields highly similar achievement estimates, while the three-parameter model reduces similarity, especially for adaptive test data](icc-scoring-methods-estimate-similarity.md) — related
+- [Immediate knowledge of results during computerized achievement testing produces essentially no systematic differences in achievement estimates or response dimensionality](knowledge-of-results-no-effect-achievement-test-dimensionality.md) — related

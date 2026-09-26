@@ -44,3 +44,9 @@ This is a single, deeply documented case study (Portraiture methodology, which p
 
 ## Related Claims
 - [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — both claims describe how enacted, in-the-moment group dynamics can diverge from a curriculum's designed intent, in opposite directions (narrowing vs. deepening)
+- [Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope](choice-rich-infrastructure-supports-productive-deviation-and-learning.md) — related
+- [Embedding gravitational-wave science across a year-long astronomy curriculum gave coherence to previously disconnected units and motivated students](grav-wave-theme-coheres-curriculum.md) — related
+- [Student-created Facebook groups support self-directed design learning and sharing of expertise outside the formal curriculum](sns-groups-support-informal-design-learning.md) — related
+- [Project-based learning improves achievement](project-based-learning-improves-achievement.md) — a broader claim this one bears on
+- [Teachers' spontaneous in-the-moment reactions draw on internalised earlier values rather than the curriculum's constitutive values](spontaneous-reactions-draw-on-internalised-values.md) — related
+- [Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content](interactional-structures-shape-content-processing.md) — related

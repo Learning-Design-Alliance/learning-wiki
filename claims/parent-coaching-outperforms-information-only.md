@@ -72,3 +72,13 @@ Sanders, M. R., Markie-Dadds, C., Tully, L. A., & Bor, W. (2000). The triple P-p
 - [Cognitive apprenticeship](../theories/cognitive-apprenticeship.md) — the modeling–coaching–fading sequence describes exactly how coached parent training scaffolds complex interaction skills.
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — instructional support that helps novice parents can become inefficient for those who already possess the component skills.
 - [Feedback improves learning](../elements/feedback.md) — feedback at the point of performance is the ingredient information-only formats structurally lack.
+- [Coaching components are inconsistently reported: face-to-face feedback appeared in 94% of studies but coaching fidelity was collected in only 50%](coaching-components-inconsistently-reported.md) — related
+- [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-expressive-language.md) — related
+- [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — related
+- [Disruptive student behavior is associated with less academic engaged time and lower achievement](disruptive-behavior-lowers-engagement-and-achievement.md) — related
+- [Research on value education in India reports that lecturing on values does not transact values effectively to children](lecturing-on-values-does-not-transact-values-effectively.md) — related
+- [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — related
+- [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
+- [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
+- [Evaluations of parent education initiatives using experiential methods found positive results for parents](parent-education-experiential-evaluations-positive.md) — related
+- [Video-based self-observation of teaching was among the most powerful parts of the coaching process for teachers](video-self-observation-powerful-coaching-component.md) — related

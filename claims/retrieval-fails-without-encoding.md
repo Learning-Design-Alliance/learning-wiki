@@ -73,3 +73,7 @@ Across five experiments, participants read an expository essay about vision. In 
 - [Activation improves learning.](activation-improves-learning.md) — activating prior knowledge supports initial encoding before retrieval is attempted
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md) — an encoding-first alternative to premature problem-solving or retrieval
 - [Advance organizers improve learning.](advance-organizers-improve-learning.md) — a structure-building device that supports the encoding retrieval depends on
+- [Retrieval practice effects on mediator-cued final tests have been positive, but Coppens et al. (2016) concluded the true effect may be only about 0.10 to 0.20](mediator-cued-final-test-effects-of-retrieval-practice-may-be-small.md) — related
+- [Pretesting Can Harm Motivation](pretesting-can-harm-motivation.md) — related
+- [Pretesting enhances learning](pretesting-enhances-learning.md) — related
+- [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related

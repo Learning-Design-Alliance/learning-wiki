@@ -56,3 +56,5 @@ RAND matched students in NGLC schools implementing PL practices (adaptive softwa
 - [Blended learning improves outcomes](blended-learning-improves-outcomes.md) — another multi-component model whose effects hinge on how the blend is actually enacted
 - [Competency-based learning](../patterns/competency-based-learning.md) — a personalization approach that requires substantial restructuring of pacing and assessment to implement faithfully
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — a design lens for judging whether a personalized sequence is well-formed, independent of delivery fidelity
+- [Coaching components are inconsistently reported: face-to-face feedback appeared in 94% of studies but coaching fidelity was collected in only 50%](coaching-components-inconsistently-reported.md) — a narrower finding that bears on this claim
+- [Teacher buy-in and willingness to engage are viewed as strong mediators of coaching benefits](teacher-buy-in-mediates-coaching-benefit.md) — a narrower finding that bears on this claim

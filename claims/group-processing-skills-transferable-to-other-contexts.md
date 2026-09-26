@@ -41,4 +41,7 @@ Survey of 46 former enquiry-based learning students: 70.3% reported post-course 
 
 
 ## Related Claims
--
+- [Participants reported that group processing affected their broader university experience and their experiences after university](group-processing-affects-broader-university-and-post-university-experience.md) — related
+- [Students' evaluation of group processing as a positive contribution to learning increased significantly from the beginning to the end of the course and again to the time of survey](group-processing-perceived-value-increases-over-time.md) — related
+- [Students retrospectively evaluated group processing as time well spent and vividly remembered it years later](group-processing-retrospectively-valued-time-well-spent.md) — related
+- [Participants reported significant improvement in their ability to deliver, receive, and implement feedback between the seminar and the time of survey](group-processing-improves-feedback-delivery-reception-implementation.md) — related

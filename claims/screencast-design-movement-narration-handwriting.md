@@ -58,4 +58,5 @@ Narrative review attributing to Cross, Bayyapunedi, Cutrell, Agarwal, and Thies 
 
 
 ## Related Claims
--
+- [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
+- [Previous instructional-video research lacks a consistent taxonomy, hindering comparison and meta-analysis](video-style-research-lacks-consistent-taxonomy.md) — related

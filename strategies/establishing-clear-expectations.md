@@ -32,7 +32,7 @@ Clear expectations reduce uncertainty about what counts as success, freeing work
 - Overly detailed or numerous expectations increase extraneous load and can fragment attention [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-M] — prioritize the few criteria that matter most
 - Rigid, teacher-imposed expectations can undermine ownership and intrinsic motivation, particularly for experienced or autonomous learners [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [~M] — co-constructing criteria or offering choice mitigates this
 - Expectations that are stated but not enacted (assessed criteria differ from announced ones) erode trust and produce worse compliance than saying little [Checklist-style evaluation is ineffective in online settings when not tied to meaningful criteria.](../claims/checklist-evaluation-ineffective-online.md) [-W]
-- Low or ambiguous teacher expectations become self-fulfilling: learners tend to perform at the level implicitly signaled [Teacher expectancy effects influence student achievement.](../claims/teacher-expectancy-effects-influence-student-achievement.md) [~S]
+- Low or ambiguous teacher expectations become self-fulfilling: learners tend to perform at the level implicitly signaled [Teacher expectancy effects influence student achievement.](../claims/teacher-expectation-effects-on-achievement.md) [~S]
 
 #### Implementation Variability
 - **Rubric-based**: analytic rubrics shared before an assignment, used by learners for self- and peer-assessment

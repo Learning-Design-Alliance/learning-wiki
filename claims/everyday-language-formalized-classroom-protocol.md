@@ -41,4 +41,5 @@ Qualitative analysis of the third Sound unit session shows labels invented by Ga
 
 
 ## Related Claims
--
+- [Third-grade ELLs recruit familiar everyday language, including onomatopoeic labels, to talk productively about the sounds produced by strings](ells-recruit-everyday-language-sound-discussion.md) — related
+- [Inquiry-based physics discussion supported peer co-construction of mechanistic explanations, distributing authority of knowledge and language among students](third-space-distributes-authority-among-students.md) — related

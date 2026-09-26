@@ -19,7 +19,7 @@ Prep activities for shadowing are short, structured tasks completed before a lea
 
 ## Design Implications
 
-Unprepared observers lack the schemas to know where to look, so much of an expert's performance is invisible or misinterpreted; prep activities supply the missing frame in advance [Advance organizers that bridge new material to existing knowledge improve retention and transfer.](../claims/activation.md) [+M]. They also reduce extraneous load during observation by pre-teaching vocabulary and task structure, freeing attention for the expert's decision-making [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Prep must be followed by debriefing and [Practice](../elements/practice.md); preparation alone does not produce skill.
+Unprepared observers lack the schemas to know where to look, so much of an expert's performance is invisible or misinterpreted; prep activities supply the missing frame in advance [Advance organizers that bridge new material to existing knowledge improve retention and transfer.](../claims/activation-improves-learning.md) [+M]. They also reduce extraneous load during observation by pre-teaching vocabulary and task structure, freeing attention for the expert's decision-making [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Prep must be followed by debriefing and [Practice](../elements/practice.md); preparation alone does not produce skill.
 
 ### Context
 #### Requirements
@@ -40,14 +40,14 @@ Unprepared observers lack the schemas to know where to look, so much of an exper
 - **Predict-then-observe**: learners predict what the expert will do at key junctures, then check against reality — a variation of [Anchored Instruction](../elements/anchored-instruction.md)
 
 ### Target Learners
-- Novices with limited prior knowledge of the domain, who otherwise cannot parse expert performance [Advance organizers that bridge new material to existing knowledge improve retention and transfer.](../claims/activation.md) [+M]
+- Novices with limited prior knowledge of the domain, who otherwise cannot parse expert performance [Advance organizers that bridge new material to existing knowledge improve retention and transfer.](../claims/activation-improves-learning.md) [+M]
 - Students in clinical, teaching, or workplace placements where observation precedes supervised practice
 - Less necessary for advanced learners, who can self-direct their observation and may find structured guides constraining [~M]
 
 ### Target Learning Goals
 - Schema formation: building a mental model of how a complex task unfolds over time
 - Procedural knowledge: recognizing the phases and decision points of professional practice
-- Observational learning: acquiring strategies and standards from a model [Social learning theory holds that observational learning requires attention, retention, reproduction, and motivation — prep activities target the attention and retention prerequisites.](../claims/activation.md) [+M]
+- Observational learning: acquiring strategies and standards from a model [Social learning theory holds that observational learning requires attention, retention, reproduction, and motivation — prep activities target the attention and retention prerequisites.](../claims/activation-improves-learning.md) [+M]
 
 ### Instructions
 1. Brief learners on the task structure and key vocabulary using an [Advance Organizer](../elements/advance-organizers.md) before the observation.

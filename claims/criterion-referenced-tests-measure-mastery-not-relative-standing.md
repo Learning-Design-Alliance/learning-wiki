@@ -41,4 +41,6 @@ The article's conceptual discussion of criterion-referenced measurement explains
 
 
 ## Related Claims
--
+- [Criterion-referenced test items should represent skills essential to learning to read and be arranged in the hierarchy used for teaching](criterion-referenced-items-should-represent-essential-skills-in-a-teaching-hierarchy.md) — a narrower finding that bears on this claim
+- [Criterion-referenced tests require empirically-based construct validation studies](criterion-referenced-tests-need-construct-validation.md) — related
+- [Statistical item selection that maximizes norm-referenced discrimination undermines criterion-referenced test definitions](statistical-item-selection-conflicts-criterion-referenced-definition.md) — related

@@ -19,7 +19,7 @@ Systematic phonics instruction teaches grapheme–phoneme correspondences (GPCs)
 
 ## Design Implications
 
-Systematic phonics is one of the most strongly supported findings in reading research: meta-analyses show reliable positive effects on word reading, decoding, and text comprehension, with the largest gains for children in kindergarten and first grade [Ehri et al. meta-analysis of phonics instruction.](../claims/phonics-instruction-improves-word-reading.md) [+S]. The mechanism is automaticity: when decoding becomes effortless, working memory resources are freed for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Sequence matters — instruction should follow a scope and sequence that introduces high-utility correspondences first and cumulatively reviews prior learning, consistent with [Cognitive Load Management](../principles/cognitive-load-management.md) and [Chunking](../principles/chunking.md) of letter patterns into reusable units.
+Systematic phonics is one of the most strongly supported findings in reading research: meta-analyses show reliable positive effects on word reading, decoding, and text comprehension, with the largest gains for children in kindergarten and first grade [Ehri et al. meta-analysis of phonics instruction.](../claims/systematic-phonics-improves-word-reading.md) [+S]. The mechanism is automaticity: when decoding becomes effortless, working memory resources are freed for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Sequence matters — instruction should follow a scope and sequence that introduces high-utility correspondences first and cumulatively reviews prior learning, consistent with [Cognitive Load Management](../principles/cognitive-load-management.md) and [Chunking](../principles/chunking.md) of letter patterns into reusable units.
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Systematic phonics is one of the most strongly supported findings in reading res
 - Delivery in small groups or one-to-one; both work, with intensity and fidelity mattering more than grouping format [~M]
 
 ### Target Learners
-- Beginning readers in kindergarten through grade 1, who show the largest gains [Ehri et al. meta-analysis of phonics instruction.](../claims/phonics-instruction-improves-word-reading.md) [+S]
+- Beginning readers in kindergarten through grade 1, who show the largest gains [Ehri et al. meta-analysis of phonics instruction.](../claims/systematic-phonics-improves-word-reading.md) [+S]
 - Struggling readers and students at risk of reading difficulty, including those with dyslexia, for whom structured literacy approaches are the best-evidenced intervention [Galuschka et al. meta-analysis of reading interventions.](../claims/structured-literacy-interventions-help-struggling-readers.md) [+S]
 - Less effective as a standalone for learners who already decode accurately — instruction should shift to vocabulary, morphology, and comprehension [~M]
 

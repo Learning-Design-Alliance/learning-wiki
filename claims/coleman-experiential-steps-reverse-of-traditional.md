@@ -41,4 +41,5 @@ Theoretical exposition in the paper's historical overview: Coleman's (1976) comp
 
 
 ## Related Claims
--
+- [The taxonomy's most significant functional value is proposed to be providing structure for designing evaluation of action learning](taxonomy-structure-for-action-learning-evaluation.md) — related
+- [Relational-domain conceptualization and evaluation objectives suit traditional testing, while leadership, followership and role-exchange objectives require new non-traditional evaluation formats](relational-measurement-format-implications.md) — related

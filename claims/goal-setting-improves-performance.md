@@ -69,3 +69,8 @@ A systematic review and random-effects meta-analysis of randomized controlled tr
 - [Autonomy Supports Intrinsic Motivation](autonomy-supports-intrinsic-motivation.md) — self-set goals may be more motivating than assigned ones.
 - [Adaptive Learning Improves Outcomes](adaptive-learning-improves-outcomes.md) — adaptive systems operationalize "appropriately difficult" goals by tuning challenge to the learner.
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — goal setting is the first phase of the SRL cycle; effects may run through monitoring and strategy adjustment.
+- [Specific, difficult goals lead to higher performance than easy or vague \"do your best\" goals.](specific-difficult-goals-lead-to-higher-performance.md) — possibly the same claim (merge candidate)
+- [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md) — related
+- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
+- [Task difficulty (easy vs difficult simultaneous-equation problems) has significant main effects on intrinsic and extraneous cognitive load, but not on germane load](task-difficulty-raises-intrinsic-and-extraneous-but-not-germane-load-in-algebra.md) — related
+- [Proximal goals, ability attributional feedback, and peer models raise self-efficacy for learning more than distant goals, effort feedback, and teacher models](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — related

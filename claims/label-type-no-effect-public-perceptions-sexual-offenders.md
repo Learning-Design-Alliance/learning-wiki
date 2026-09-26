@@ -41,4 +41,9 @@ Crowdsourced experiment in which 297 community adults read one of eight vignette
 
 
 ## Related Claims
--
+- [The interaction of label type and victim age did not significantly affect public perceptions of individuals who sexually offend](label-by-victim-age-interaction-null.md) — related
+- [Prior evidence on whether labels change public perceptions of people with sexual offences is mixed, with some studies finding label effects and others finding none](mixed-prior-evidence-label-effects-forensic.md) — a broader claim this one bears on
+- [Victim age (adult vs. child) did not significantly affect public perceptions in this vignette experiment, contrary to prior findings](victim-age-no-effect-perceptions-vignette.md) — related
+- [Label type, victim age, and their interaction showed no significant effects on treatment amenability subscales (capacity to change, treatment ineffectiveness, incapacitation)](treatment-amenability-subscales-null-manova.md) — a narrower finding that bears on this claim
+- [Perception measures of social distance, treatment amenability, perceived recidivism, and sentencing severity are mostly significantly intercorrelated](perception-measures-intercorrelations.md) — related
+- [Counselors exposed to 'sex trafficking' labels reported more victimization-oriented attitudes than counselors exposed to 'prostitute' labels](trafficking-labels-shift-counselor-attitudes-toward-victimization.md) — related

@@ -41,4 +41,9 @@ Qualitative transcript analysis of the tutorial discussion. The author identifie
 
 
 ## Related Claims
--
+- [The colloquial ambiguity of the words short and long in a worksheet question sustains the intuition that less distance implies less time](worksheet-wording-sustains-less-distance-less-time.md) — a narrower finding that bears on this claim
+- [A network of three mutually overlapping intuitive ideas (less distance implies less time, bunched up means faster, faster implies less time) stabilizes students' initial thinking](network-of-intuitive-ideas-stabilizes-thinking.md) — a broader claim this one bears on
+- [Coordinating attention between whole-strip length and dot spacing does not disrupt and may stabilize the idea that shorter strips take less time](part-whole-coordination-preserves-initial-idea.md) — a narrower finding that bears on this claim
+- [The physical stability of material artifacts such as stacked tickertape strips and worksheets stabilizes students' attention, action, and knowledge use](material-artifact-stability-stabilizes-thinking.md) — a broader claim this one bears on
+- [Material arrangement of artifacts (strips centered and ordered by length, worksheets held close) affords and stabilizes the initial pattern of activity; later decentralization enables new patterns](material-arrangement-affords-stability.md) — a broader claim this one bears on
+- [Students' collective understanding during a physics tutorial alternates repeatedly between two distinct interpretations of tickertape distance rather than changing once](student-understanding-alternates-between-local-coherences-tickertape.md) — related

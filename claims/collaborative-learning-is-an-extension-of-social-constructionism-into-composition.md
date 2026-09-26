@@ -42,3 +42,6 @@ Theoretical argument in a conference paper, reporting no data. It reasons from t
 
 ## Related Claims
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md)
+- [Reacculturation into a new community is argued to be virtually impossible alone and to require collaboration](reacculturation-into-a-new-community-requires-collaboration.md) — related
+- [Students' writing is argued, citing Bruffee, to be only as good as their conversation about writing](student-writing-only-as-good-as-conversation-about-writing.md) — related
+- [Collaborative writing methods such as peer criticism and group revision were in use before the collaborative learning movement](collaborative-writing-methods-predate-the-collaborative-learning-movement.md) — related

@@ -41,4 +41,4 @@ Teacher-completed inservice evaluation forms (43 respondents) from the four Sept
 
 
 ## Related Claims
--
+- [Process evaluation found no major recordkeeping or pupil-selection problems in ADK classrooms](adk-process-evaluation-no-major-problems.md) — related

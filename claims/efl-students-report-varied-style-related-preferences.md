@@ -41,4 +41,7 @@ Descriptive survey of preference questions asked during the 1st and 2nd weeks of
 
 
 ## Related Claims
--
+- [Latent class analysis of Caribbean higher-education students' mobile phone feature use yields four user types: eclectic, Internet, basic, and offline entertainment users](four-mobile-user-types-caribbean-higher-education.md) — related
+- [Age, sex, faculty, programme level and campus-territory are each significantly related to mobile user type membership, though the model's pseudo R-squared is low](demographics-relate-to-mobile-user-type.md) — related
+- [Behavioural intention to adopt mobile learning is highest among eclectic users, followed by Internet users, then offline entertainment users, and lowest among basic users](adoption-intention-ordering-across-user-types.md) — related
+- [Students respond positively to e-mail exchanges, guest speaker interviews, and video projects aimed at cross-cultural awareness](positive-student-response-cross-cultural-activities.md) — related

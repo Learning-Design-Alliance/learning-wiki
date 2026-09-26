@@ -58,3 +58,5 @@ A further measurement caveat: self-determination is typically assessed via self-
 - [Self-regulated learning improves achievement.](self-regulated-learning-improves-achievement.md) — the SDLMI's goal-setting and self-monitoring phases mirror SRL cycles
 - [Goal setting improves performance.](goal-setting-improves-performance.md) — the SDLMI's first phase centers on student-set goals
 - [Belonging interventions improve outcomes.](belonging-interventions-improve-outcomes.md) — like SDLMI, a brief structured intervention whose effects depend on fidelity and population fit
+- [Self-determination instruction improves outcomes](self-determination-instruction-improves-outcomes.md) — a broader claim this one bears on
+- [Self Directed IEP Increases Student Participation](self-directed-iep-increases-student-participation.md) — related

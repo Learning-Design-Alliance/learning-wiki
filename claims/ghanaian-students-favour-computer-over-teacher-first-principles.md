@@ -41,4 +41,6 @@ Survey of 300 third-year Senior High School students in Ghana using a 15-item, 5
 
 
 ## Related Claims
--
+- [Ghanaian education officers show no significant differences in their responses on computer versus teacher implementation of the first five principles](ghanaian-education-officers-no-significant-response-differences.md) — related
+- [Ghanaian teachers show no significant agreement on whether the computer outperforms the teacher in implementing the first five principles](ghanaian-teachers-no-significant-agreement-computer-versus-teacher.md) — related
+- [More students than teachers and education officers recommend training students to use the computer to learn without the teacher](students-favour-training-students-computer-without-teacher.md) — related

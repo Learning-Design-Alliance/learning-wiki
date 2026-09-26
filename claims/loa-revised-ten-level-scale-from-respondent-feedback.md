@@ -41,4 +41,6 @@ Instrument-development response to pilot feedback: the most common respondent co
 
 
 ## Related Claims
--
+- [Learning management system adoption rose from mostly non-use/orientation to routine-through-integration levels by December](loa-lms-adoption-growth.md) — related
+- [Self-reported levels of adoption increased for all 20 surveyed educational technologies across three administrations of the LoA survey](loa-pilot-self-reported-increase-all-20-technologies.md) — related
+- [Free-response LOA techniques produce high non-response rates because many respondents answer in non-hierarchical or uncodable terms](free-response-loa-high-nonresponse.md) — related

@@ -44,3 +44,7 @@ This is a single case study of four graduate students already trained in embodie
 
 ## Related Claims
 - (none yet linked)
+- [Constructivist learning environments are built on four system attributes: context, construction, collaboration, and conversation](constructivist-environments-four-system-attributes.md) — related
+- [Embodied dance improvisation supports physics engagement and sense-making](embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) — related
+- [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related
+- [Witkin's orientation tests showed marked individual differences and self-consistency in perceiving the upright, with only a tendency toward two distinguishable groups](witkin-orientation-tests-individual-differences-self-consistency.md) — related

@@ -90,3 +90,4 @@ First-term nursing students in 12 lab sections had one 110-minute library sessio
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — checklists add procedural overhead without adding evaluative power, a load cost with no payoff
 - [Coherence principle: irrelevant material hurts learning](coherence-principle-irrelevant-material-hurts-learning.md) — surface features like professional design are irrelevant cues that checklists mistakenly treat as diagnostic
 - [Authentic audiences improve student work](authentic-audiences-improve-student-work.md) — evaluation instruction works best grounded in authentic open-web tasks rather than decontextualized rubrics
+- [Lateral Reading Improves Source Evaluation](lateral-reading-improves-source-evaluation.md) — related

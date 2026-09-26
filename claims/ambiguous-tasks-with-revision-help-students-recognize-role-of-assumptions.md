@@ -48,3 +48,6 @@ This is design-based research across a small number of intensively-analyzed clas
 
 ## Related Claims
 - (none yet linked)
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
+- [Before the intervention, most students could not write assumptions and conclusions, and only one student achieved the maximum pre-test score](pretest-assumption-conclusion-difficulties.md) — related
+- [Guided Inquiry Outperforms Pure Discovery](guided-inquiry-outperforms-pure-discovery.md) — related

@@ -44,11 +44,13 @@ Invention tasks (also studied as "productive failure" and "invention with contra
 
 Two boundary conditions are widely discussed in the literature. First, the benefit concerns *later* learning and transfer; invention tasks typically produce *worse* performance during the invention phase itself, so designers must not interpret struggle during invention as evidence the activity failed. Second, the subsequent instruction must be well-structured — pairing invention with contrasting cases that make the deep features visible is the standard design, and invention followed by poor or absent instruction yields little benefit. The activity also depends on learners having enough prior knowledge to generate meaningful candidate solutions; complete novices may flounder without productive engagement.
 
-Open questions include how much scaffolding invention tasks should provide, how long the preparatory benefit persists, and how the effect interacts with learner expertise — as with other exploration-before-instruction methods, benefits may shrink or reverse for advanced learners, consistent with the expertise reversal pattern documented for [worked examples](worked-examples-expertise-reversal.md).
+Open questions include how much scaffolding invention tasks should provide, how long the preparatory benefit persists, and how the effect interacts with learner expertise — as with other exploration-before-instruction methods, benefits may shrink or reverse for advanced learners, consistent with the expertise reversal pattern documented for [worked examples](worked-examples-less-effective-with-expertise.md).
 
 ## Related Claims
 
 - [Analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md) — contrasting cases in invention tasks work by supporting analogical comparison of deep structure.
 - [Activation improves learning.](activation-improves-learning.md) — invention attempts activate prior knowledge that subsequent instruction can build on.
 - [Cognitive disequilibrium motivates conceptual change.](cognitive-disequilibrium-motivates-conceptual-change.md) — failed invention creates the disequilibrium that makes canonical solutions feel necessary.
-- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md) — expertise reversal may similarly moderate the benefit of exploration-before-instruction for advanced learners.
+- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — expertise reversal may similarly moderate the benefit of exploration-before-instruction for advanced learners.
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — a broader claim this one bears on
+- [Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early.](rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions.md) — related

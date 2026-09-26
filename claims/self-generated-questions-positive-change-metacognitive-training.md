@@ -41,4 +41,5 @@ The authors' discussion of the present study of 136 bilingual sixth graders stat
 
 
 ## Related Claims
--
+- [The authors conclude that bilingual students can benefit from instruction in metacognitive strategy use](bilingual-students-benefit-metacognitive-strategy-instruction.md) — related
+- [Teachers typically encounter the first three TEFA skill areas in order: technology operation, question design, then discourse orchestration](tefa-skill-areas-sequential-order.md) — related

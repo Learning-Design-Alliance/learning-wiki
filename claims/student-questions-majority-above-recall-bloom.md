@@ -41,4 +41,8 @@ Categorization of sampled Physics 1A questions (N=150 in 2010, N=200 in 2011) on
 
 
 ## Related Claims
--
+- [University examination questions concentrate at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge](exam-questions-concentrate-lower-bloom-levels.md) — reports the opposite
+- [Students answer lower-taxonomy-category questions more frequently, but only by a factor of about 2](lower-taxonomy-questions-answered-more.md) — related
+- [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — related
+- [Question cognitive-level distributions differed significantly between years for Physics 1B but not Physics 1A](question-cognitive-level-differs-by-course-year.md) — related
+- [Adult teachers' questions concentrate at low Bloom's levels, and cooperative learning's dialogue and questioning support critical thinking across Bloom's taxonomy](teacher-questions-low-bloom-levels-cooperative-dialogue.md) — related

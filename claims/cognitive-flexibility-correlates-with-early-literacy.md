@@ -41,4 +41,7 @@ Correlational analysis of pre- and posttest measures (phonemic awareness, cognit
 
 
 ## Related Claims
--
+- [Among children with initially low cognitive flexibility, growth in cognitive flexibility correlates with post phonemic awareness, reading comprehension growth, and spelling scores; these correlations are not significant among high-flexibility children](cf-literacy-correlations-limited-to-low-flexibility-children.md) — possibly the same claim (merge candidate)
+- [Increased cognitive flexibility may strengthen the effectiveness of phonemic awareness, reading, and spelling instruction for kindergarten and first-grade students with low cognitive flexibility](cf-training-may-strengthen-early-literacy-instruction.md) — related
+- [Cognitive flexibility training added to phonemic awareness training produces significantly greater growth in cognitive flexibility than phonemic awareness training alone in kindergarten and first-grade students](cognitive-flexibility-training-increases-cognitive-flexibility-growth.md) — related
+- [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related

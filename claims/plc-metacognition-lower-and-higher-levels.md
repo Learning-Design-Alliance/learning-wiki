@@ -41,4 +41,7 @@ The findings apply Von Wright's (1992) situated-metacognition distinction to the
 
 
 ## Related Claims
--
+- [Teachers integrated general teacher knowledge and subject knowledge during learning study analyses and reflections](learning-study-integrates-general-and-subject-knowledge.md) — related
+- [Disagreements within a PLC can catalyze teacher learning rather than impede it](plc-disagreements-catalyze-learning.md) — related
+- [PLC leaders' recognition of their own metacognition impacted the type of work they led in the PLC](plc-leader-metacognition-shapes-led-work.md) — related
+- [The professional learning community is an environment in which teacher metacognition can be nurtured](plc-nurtures-teacher-metacognition.md) — related

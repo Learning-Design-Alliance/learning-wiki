@@ -41,4 +41,4 @@ Teacher reports from the learning study course: the shift from varying teaching 
 
 
 ## Related Claims
--
+- [Teachers integrated general teacher knowledge and subject knowledge during learning study analyses and reflections](learning-study-integrates-general-and-subject-knowledge.md) — related

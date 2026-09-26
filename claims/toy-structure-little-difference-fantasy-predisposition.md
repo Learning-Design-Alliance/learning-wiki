@@ -41,4 +41,6 @@ Pulaski's study, as summarized in her conference paper, used kindergarten, first
 
 
 ## Related Claims
--
+- [High-fantasy boys wait significantly longer than low-fantasy boys in enforced waiting situations](high-fantasy-boys-wait-longer-than-low-fantasy.md) — related
+- [Modeling training improved imaginative play in disadvantaged kindergartners, with gains in imaginativeness, verbal communication, spontaneity, and attention span persisting two months](modeling-training-improves-imaginative-play.md) — related
+- [Symbolic play declines after age seven or eight and disappears or transforms by eleven or twelve](symbolic-play-declines-after-age-seven.md) — related

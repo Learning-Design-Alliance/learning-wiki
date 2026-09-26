@@ -73,3 +73,7 @@ A year-long study of 35 fourth-graders across two classrooms implementing Qualit
 - [Cognitive disequilibrium motivates conceptual change](cognitive-disequilibrium-motivates-conceptual-change.md) — peer disagreement in discussion may trigger the disequilibrium that drives conceptual change.
 - [Discussion-based learning](../patterns/discussion-based-learning.md) — the instructional pattern that operationalizes this claim in course design.
 - [Accountable Talk](../strategies/accountable_talk.md) — a widely used structured discussion strategy with explicit talk moves.
+- [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) — related
+- [Discussion Quality Drives Comprehension](discussion-quality-drives-comprehension.md) — possibly the same claim (merge candidate)
+- [Reading Strategy Instruction Improves Comprehension](reading-strategy-instruction-improves-comprehension.md) — related
+- [Structured Discussion Methods Improve Comprehension](structured-discussion-methods-improve-comprehension.md) — possibly the same claim (merge candidate)

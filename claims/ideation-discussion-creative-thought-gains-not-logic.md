@@ -41,4 +41,7 @@ Analysis of the two critical thinking criteria in Table 5 for the eight particip
 
 
 ## Related Claims
--
+- [Prior research found CREACT significantly improved creative performance on poem and story tasks but had a low effect on a paradox task](creact-previous-language-arts-evidence.md) — related
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
+- [Ideation discussion activities in Design Thinking significantly improved EFL students' overall critical thinking test scores from pre-test to post-test](ideation-discussion-improves-efl-critical-thinking-scores.md) — a broader claim this one bears on
+- [Speaking gains were significant for fluency, pronunciation and vocabulary but not for grammar](ideation-discussion-speaking-gains-not-grammar.md) — related

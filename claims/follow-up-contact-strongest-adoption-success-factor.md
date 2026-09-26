@@ -41,4 +41,5 @@ Finding from the SRI National Diffusion Network evaluation (Emrick et al., 1977a
 
 
 ## Related Claims
--
+- [Two independent research efforts identified the same three pre-use phases of the adoption process](three-pre-use-phases-independently-identified.md) — related
+- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related

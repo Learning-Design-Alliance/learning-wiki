@@ -58,4 +58,6 @@ Dunn-Sidak tests on the application measure among unclear-lesson groups. The art
 
 
 ## Related Claims
--
+- [Instructional clarity is a significant main effect on concept achievement, accounting for roughly half of score variance across measures](instructional-clarity-main-effect-concept-achievement.md) — related
+- [Students accurately perceive differences between clear and unclear lessons regardless of concept structure](students-perceive-lesson-clarity.md) — related
+- [A clear variable coordinate lesson produced higher achievement than an unclear lesson with the same concept structure on all five measures](clear-variable-coordinate-beats-unclear.md) — related

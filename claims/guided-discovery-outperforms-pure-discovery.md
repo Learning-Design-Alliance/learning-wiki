@@ -92,3 +92,10 @@ This claim does not imply that pure discovery is useless or that direct telling 
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md) — worked examples are one of the most studied forms of guidance in this comparison
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — reducing extraneous load is the design lever that makes guided discovery work
 - [Scaffolding](../elements/scaffolding.md) — the most common structural form guidance takes inside discovery activities
+- [Guided Inquiry Outperforms Pure Discovery](guided-inquiry-outperforms-pure-discovery.md) — possibly the same claim (merge candidate)
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — possibly the same claim (merge candidate)
+- [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related
+- [Play Based Learning Improves Outcomes](play-based-learning-improves-outcomes.md) — related
+- [Kindergartners struggle to give verbal causal explanations, but model-based tasks let most of them express causal ideas](model-tasks-overcome-verbal-explanation-limits.md) — related
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
+- [Taiwan's constructivist mathematics reform, introduced in 1993, was stopped in 2003 after students taught under it underperformed traditionally educated peers in high school](taiwan-constructivist-math-reform-stopped-2003.md) — a narrower finding that bears on this claim

@@ -41,4 +41,7 @@ The framing paper attributes this finding to Roth, Rosaen and Lanier's study in 
 
 
 ## Related Claims
--
+- [Mentors' roles and practices differ by program context: local guides versus educational companions](mentor-context-shapes-local-guide-or-educational-companion.md) — related
+- [Mentor modelling and a school-wide behaviour program's strategies transferred to the mentee's classroom management practices](mentor-modelling-strategies-transfer-mentee-behaviour-management.md) — a narrower finding that bears on this claim
+- [Most attributes and practices of the five-factor mentoring model (30 of 34) provided input into a first-practicum mentee's classroom management, with no overt evidence on aims, curriculum, timetabling or assessment](five-factor-mentoring-30-of-34-practices-classroom-management.md) — a narrower finding that bears on this claim
+- [Mentee participation in a school-wide positive behaviour support program (Program Achieve) enabled confident implementation of learned strategies in other lessons](program-achieve-participation-builds-mentee-behaviour-management-confidence.md) — a narrower finding that bears on this claim

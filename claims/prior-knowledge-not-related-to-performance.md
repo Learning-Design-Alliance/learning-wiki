@@ -41,14 +41,17 @@ In an analysis of correlations, the authors found that "prior knowledge was not 
 
 ## Discussion
 
-**Scope of the null.** This claim is deliberately restricted to "this sample." A single non-significant correlation in one underlining study cannot overturn the extensive literature showing that prior knowledge is among the strongest predictors of learning — see [Prior knowledge activation improves learning.](activation-improves-learning.md) and [Activation.](activation.md). The null may reflect restricted variance in prior knowledge within the sample, a test that did not depend heavily on domain knowledge, or the dominant effect of the underlining strategy itself.
+**Scope of the null.** This claim is deliberately restricted to "this sample." A single non-significant correlation in one underlining study cannot overturn the extensive literature showing that prior knowledge is among the strongest predictors of learning — see [Prior knowledge activation improves learning.](activation-improves-learning.md) and [Activation.](activation-improves-learning.md). The null may reflect restricted variance in prior knowledge within the sample, a test that did not depend heavily on domain knowledge, or the dominant effect of the underlining strategy itself.
 
-**Interaction with strategy use.** The broader literature suggests prior knowledge often *moderates* strategy effects rather than predicting outcomes directly: novices benefit from structure and examples, while knowledgeable learners may find the same supports redundant — the expertise reversal pattern described in [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md) and the [Expertise reversal effect.](../theories/expertise-reversal-effect.md). A null main effect of prior knowledge is consistent with such an interaction, where strategy quality overwhelms the knowledge main effect.
+**Interaction with strategy use.** The broader literature suggests prior knowledge often *moderates* strategy effects rather than predicting outcomes directly: novices benefit from structure and examples, while knowledgeable learners may find the same supports redundant — the expertise reversal pattern described in [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) and the [Expertise reversal effect.](../theories/expertise-reversal-effect.md). A null main effect of prior knowledge is consistent with such an interaction, where strategy quality overwhelms the knowledge main effect.
 
 **Open questions.** Replication with larger samples, measures of prior knowledge matched to the test content, and designs testing prior knowledge × strategy interactions would clarify whether the null is sample-specific or reflects a genuine boundary condition.
 
 ## Related Claims
 
 - [Prior knowledge activation improves learning.](activation-improves-learning.md) — the positive general finding this null result must be read against
-- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md) — prior knowledge as a moderator of strategy effectiveness
+- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — prior knowledge as a moderator of strategy effectiveness
 - [Analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md) — transfer depends on relevant prior knowledge being available
+- [Peer Feedback Accuracy Depends On Expertise](peer-feedback-accuracy-depends-on-expertise.md) — related
+- [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — related
+- [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) — related

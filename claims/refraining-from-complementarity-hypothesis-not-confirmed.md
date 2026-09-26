@@ -41,4 +41,8 @@ Based on visual inspection of the time-series and the Communion phase result, th
 
 
 ## Related Claims
--
+- [The teacher with the more desirable interpersonal style showed overall coordination consistent with the complementarity principle, while the less desirable teacher's coordination did not](desirable-interpersonal-style-overall-coordination-complementarity.md) — related
+- [Phase analysis showed Ethan leading the interaction with sameness in Communion and oppositeness in Agency, while Sam led in Communion but followed in Agency](phase-lead-lag-differs-between-teachers.md) — related
+- [Teacher-student cyclical entrainment was considerably higher in the desirable-style teacher's classroom than in the struggling-style teacher's classroom](coherence-entrainment-higher-desirable-style-classroom.md) — related
+- [Quadratic and cubic trends significantly improved the linear model of teacher and student behavior, showing the importance of studying nonlinearity](quadratic-cubic-trends-improve-linear-model-teacher-behavior.md) — related
+- [During the middle stage of therapy, successful therapists respond at a significantly lower level of complementarity than unsuccessful therapists](middle-stage-lower-complementarity-successful-therapists.md) — related

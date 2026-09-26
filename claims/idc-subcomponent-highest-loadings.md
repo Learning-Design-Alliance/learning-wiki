@@ -41,4 +41,6 @@ First-order CFA of 17 variables from the questionnaire of 471 pre-service teache
 
 
 ## Related Claims
--
+- [Ability in instructional design carries the highest second-order factor loading, followed by knowledge and personal attributes](idc-ability-dimension-highest-loading.md) — related
+- [Instructional design competence of pre-service teachers comprises knowledge, ability, and personal attributes dimensions](idc-competence-three-dimensions-validated.md) — a broader claim this one bears on
+- [The three-dimension instructional design competence model fits the empirical data acceptably in CFA](idc-model-acceptable-cfa-fit.md) — related

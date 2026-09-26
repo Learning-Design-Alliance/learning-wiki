@@ -41,4 +41,6 @@ Figures 4 and 5 display item intercept and loading estimates with 95% confidence
 
 
 ## Related Claims
--
+- [In an empirical comparison on a testlet-based English assessment test, the bifactor model is preferred over the second-order and unidimensional 2PL models by both AIC and BIC](bifactor-model-preferred-aic-bic-testlet-test.md) — related
+- [The second-order multidimensional IRT model for testlets is formally equivalent to the testlet model, and both are restricted bifactor models](second-order-model-equivalent-to-testlet-model.md) — related
+- [The assessment violates IRT assumptions of unidimensionality and local independence, which the authors identify as a likely cause of the method discrepancy](irt-assumption-violations-cause-dif-method-discrepancy.md) — related

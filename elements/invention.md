@@ -19,7 +19,7 @@ An invention task presents learners with a novel problem and asks them to create
 
 ## Design Implications
 
-Invention tasks work by activating relevant prior knowledge and making learners aware of the deep features of a problem — the *reason* a canonical method exists — rather than just its surface procedure [Invention tasks before instruction improve later learning from that instruction.](../claims/invention-tasks-prepare-future-learning.md) [+S]. Learners should be given contrasting cases that make the critical features visible, and the task must be followed by explicit instruction that connects their invented methods to the canonical one. The value lies in the preparation, not the invention itself: learners who invent poorly but then receive instruction often outperform those who received instruction alone [Struggling before instruction improves subsequent learning.](../claims/productive-failure-improves-learning.md) [+S].
+Invention tasks work by activating relevant prior knowledge and making learners aware of the deep features of a problem — the *reason* a canonical method exists — rather than just its surface procedure [Invention tasks before instruction improve later learning from that instruction.](../claims/invention-tasks-prepare-future-learning.md) [+S]. Learners should be given contrasting cases that make the critical features visible, and the task must be followed by explicit instruction that connects their invented methods to the canonical one. The value lies in the preparation, not the invention itself: learners who invent poorly but then receive instruction often outperform those who received instruction alone [Struggling before instruction improves subsequent learning.](../claims/productive-failure-improves-conceptual-learning.md) [+S].
 
 ### Context
 #### Requirements
@@ -29,14 +29,14 @@ Invention tasks work by activating relevant prior knowledge and making learners 
 - Sufficient time and low-stakes framing, since learners are expected to struggle
 
 #### Constraints
-- Invention without subsequent instruction produces little durable learning — the task alone does not teach the canonical method [Struggling before instruction improves subsequent learning.](../claims/productive-failure-improves-learning.md) [~S]
-- Ineffective when learners lack the prerequisite knowledge to engage meaningfully, producing frustration rather than preparation [Struggling before instruction improves subsequent learning.](../claims/productive-failure-improves-learning.md) [-M]
+- Invention without subsequent instruction produces little durable learning — the task alone does not teach the canonical method [Struggling before instruction improves subsequent learning.](../claims/productive-failure-improves-conceptual-learning.md) [~S]
+- Ineffective when learners lack the prerequisite knowledge to engage meaningfully, producing frustration rather than preparation [Struggling before instruction improves subsequent learning.](../claims/productive-failure-improves-conceptual-learning.md) [-M]
 - Time-intensive; less efficient than direct instruction for simple procedural goals where no deep structure needs to be discovered
 - Can entrench misconceptions if the follow-up instruction does not explicitly confront and resolve learners' invented methods
 
 ### Target Learners
 - Learners with moderate prior knowledge who can partially engage with the problem [Invention tasks before instruction improve later learning from that instruction.](../claims/invention-tasks-prepare-future-learning.md) [+S]
-- Novices benefit from the contrasting-case structure more than from open invention; pure unguided invention suits them poorly [Struggling before instruction improves subsequent learning.](../claims/productive-failure-improves-learning.md) [~M]
+- Novices benefit from the contrasting-case structure more than from open invention; pure unguided invention suits them poorly [Struggling before instruction improves subsequent learning.](../claims/productive-failure-improves-conceptual-learning.md) [~M]
 - Less effective for complete novices with no relevant knowledge to activate
 
 ### Target Learning Goals

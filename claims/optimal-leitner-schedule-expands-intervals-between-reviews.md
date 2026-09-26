@@ -41,4 +41,8 @@ Optimization result under the mean-recall approximation (Fig. 8, n = 20, U = 1, 
 
 
 ## Related Claims
-- [Spaced Practice Improves Long Term Retention](spaced-practice-improves-long-term-retention.md)
+- [Spaced Practice Improves Long Term Retention](spaced-practice-improves-retention.md)
+- [Under the mean-recall approximation, the maximum achievable learning rate is convex in the learner's review frequency budget, suggesting increasing returns at lower budgets.](leitner-learning-rate-shows-increasing-returns-to-review-budget.md) — related
+- [Under the Leitner Queue Network optimization, easy items call for roughly uniform time across decks, while more difficult items call for more time on lower decks.](optimal-leitner-deck-allocation-depends-on-item-difficulty.md) — related
+- [Under the mean-recall approximation, the optimal Leitner Queue Network review schedule spends more time on lower decks than on higher decks.](optimal-leitner-schedule-reviews-lower-decks-more-often.md) — related
+- [Over eight weeks, university learners receiving reinforcement learning-optimized oral practice sequencing attained normalized learning gains approximately 2.2 times higher than learners following fixed curricula](rl-sequencing-beats-fixed-oral-curriculum.md) — related

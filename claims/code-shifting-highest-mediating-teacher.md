@@ -41,4 +41,6 @@ From the results on children's verbal coding in the three observed classrooms: "
 
 
 ## Related Claims
--
+- [High teacher mediation is associated with more children talking and higher frequency of both elaborated and restricted talk](high-mediation-more-child-talk-both-codes.md) — possibly the same claim (merge candidate)
+- [Teacher mediation interacts with SES: the SES gap in elaborated utterances appears only in the low-mediating classroom](mediation-ses-interaction-elaborated-utterances.md) — related
+- [Elaborated coding was associated with higher reading scores among the observed children](elaborated-coding-higher-reading-scores.md) — related

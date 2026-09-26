@@ -41,4 +41,5 @@ The Goal I section enumerates six program goals, including helping students 'bec
 
 
 ## Related Claims
--
+- [The framework directs social sciences programs toward five stated student outcomes including understandings, skills, respect for diversity, values clarification, and participation](five-social-science-program-goals.md) — related
+- [Social sciences instruction is drawn from seven disciplines: anthropology, economics, geography, history, political science, psychology, and sociology](seven-disciplines-social-sciences-instruction.md) — related

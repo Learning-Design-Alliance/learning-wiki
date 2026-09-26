@@ -75,4 +75,8 @@ Spearman rank-order correlation in the embedded-questioning condition (mean 3.08
 
 
 ## Related Claims
--
+- [The quality of elaborative-interrogation answers had little effect on retention; even failed or inadequate why-answers facilitated learning relative to reading](response-quality-little-effect-on-elaborative-interrogation-retention.md) — reports the opposite
+- [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) — a broader claim this one bears on
+- [Elaborative interrogation produced greater pretest-to-posttest gains on items about common misbeliefs than reading control in Experiment 2](elaborative-interrogation-improves-misbelief-items-pretest-posttest.md) — related
+- [Elaborative interrogation increased perceived difficulty and time spent with the lesson](elaborative-interrogation-increases-difficulty-and-time-on-lesson.md) — related
+- [Elaborative interrogation produced lower posttest accuracy than reading the lesson twice in a written lesson on posterior probability](elaborative-interrogation-lower-posttest-than-read-twice-posterior-probability.md) — related

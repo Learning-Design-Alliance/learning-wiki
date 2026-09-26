@@ -41,4 +41,5 @@ Authors' interpretive conclusion from their course experience, offered without s
 
 
 ## Related Claims
--
+- [Embodied dance improvisation supports physics engagement and sense-making](embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) — a narrower finding that bears on this claim
+- [Two-force-plate recording revealed individual left-right impulse asymmetries in student jumps while total takeoff and landing impulses remained comparable](two-force-plate-impulse-asymmetry-student-project.md) — a narrower finding that bears on this claim

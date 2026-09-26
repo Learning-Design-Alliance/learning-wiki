@@ -41,4 +41,7 @@ Program-description section of a conference paper reporting the authors' experie
 
 
 ## Related Claims
--
+- [Applications to the summer school increased up to double the available positions, which the authors attribute to its active and cooperative learning](pigelleto-applications-doubled-positions.md) — related
+- [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — related
+- [Questions referring to direct, concrete experiences are the most effective stimulators of pupil thinking](direct-experience-questions-stimulate-thinking.md) — related
+- [Inquiry-first teaching stimulates interest, sharpens reading, and helps organize course work](inquiry-first-stimulates-interest-and-organizes-course.md) — related

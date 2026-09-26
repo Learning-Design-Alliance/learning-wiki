@@ -41,4 +41,5 @@ Observational enrollment data: 74 of 77 Fall 2011 students (96%) continued to Ph
 
 
 ## Related Claims
--
+- [Direct progression from level 1 to level 2 physics rose to 47% in 2008-09, about 10% above previous years](progression-rate-increase-level1-physics.md) — related
+- [CLASP students' expert-like epistemologies (MPEX-II) were statistically unchanged over the quarter, unlike the declines reported for most standard and many reformed physics classes](clasp-mpex-epistemologies-unchanged.md) — related

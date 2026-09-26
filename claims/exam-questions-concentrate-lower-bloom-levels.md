@@ -41,4 +41,8 @@ Manual content analysis of 115 question papers from University of Agriculture Fa
 
 
 ## Related Claims
--
+- [Question-level emphasis varied by academic designation, with professors omitting synthesis and lecturers omitting evaluation entirely](designation-wise-bloom-question-differences.md) — a narrower finding that bears on this claim
+- [Higher-order questions (synthesis and evaluation) were rarely present in the examined question papers](higher-order-bloom-questions-rare.md) — a narrower finding that bears on this claim
+- [Adult teachers' questions concentrate at low Bloom's levels, and cooperative learning's dialogue and questioning support critical thinking across Bloom's taxonomy](teacher-questions-low-bloom-levels-cooperative-dialogue.md) — related
+- [Student-authored physics questions mostly require application or analysis, with under 5% at the lowest recall level](student-questions-majority-above-recall-bloom.md) — reports the opposite
+- [Pre-service teachers' self-efficacy and instructional-planning levels were relatively high, but Bloom taxonomy classification was low](preservice-planning-high-taxonomy-low.md) — related

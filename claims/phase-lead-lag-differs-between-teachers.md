@@ -57,4 +57,8 @@ Same phase analysis for Sam's classroom: oppositeness in both dimensions; the ar
 
 
 ## Related Claims
--
+- [Teacher-student cyclical entrainment was considerably higher in the desirable-style teacher's classroom than in the struggling-style teacher's classroom](coherence-entrainment-higher-desirable-style-classroom.md) — related
+- [The teacher with the more desirable interpersonal style showed overall coordination consistent with the complementarity principle, while the less desirable teacher's coordination did not](desirable-interpersonal-style-overall-coordination-complementarity.md) — related
+- [Quadratic and cubic trends significantly improved the linear model of teacher and student behavior, showing the importance of studying nonlinearity](quadratic-cubic-trends-improve-linear-model-teacher-behavior.md) — related
+- [Viewing agency/communion as a polarity risks underestimating agency in the lives of women](polarity-view-obscures-womens-agency.md) — related
+- [The hypothesis that both teachers can refrain from complementarity when facing hostile student behavior could not be confirmed](refraining-from-complementarity-hypothesis-not-confirmed.md) — related

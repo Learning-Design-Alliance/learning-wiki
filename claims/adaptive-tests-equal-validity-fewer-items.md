@@ -41,4 +41,6 @@ Construct validation study (Research Report 78-4) with two independent groups of
 
 
 ## Related Claims
--
+- [An adaptive mastery testing strategy reduces test length by 30% to 81% while reaching the same mastery decision as the conventional test for 96% of trainees](adaptive-mastery-testing-reduces-length-preserves-decisions.md) — related
+- [Adaptive testing yields more precise achievement-level estimates than conventional classroom tests while using fewer items](adaptive-testing-more-precise-achievement-measurement.md) — related
+- [One- and two-parameter ICC scoring yields highly similar achievement estimates, while the three-parameter model reduces similarity, especially for adaptive test data](icc-scoring-methods-estimate-similarity.md) — related

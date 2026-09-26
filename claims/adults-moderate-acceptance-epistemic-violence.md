@@ -41,4 +41,6 @@ Descriptive analysis of survey responses from 129 adults who had finished formal
 
 
 ## Related Claims
--
+- [Adults' perpetration of education-related epistemic violence on their own or relatives' children is low](adults-low-perpetration-epistemic-violence.md) — related
+- [Adults' resorting to epistemic violence correlates negatively with past enjoyment of and tendency toward education-related epistemic freedom](epistemic-violence-negatively-correlated-epistemic-freedom.md) — related
+- [Adults' past enjoyment of education-related epistemic freedom is between moderate and high, and their tendency toward it is high](adults-past-freedom-moderate-high-tendency-high.md) — related

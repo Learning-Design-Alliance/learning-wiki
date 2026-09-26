@@ -12,7 +12,7 @@ generated:
 # Peer Editing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q2`–`q3` · 4 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q2`–`q3` · 5 of 7 report an effect size
 
 ## Description
 Peer editing (a form of peer review or peer assessment) has learners exchange drafts and critique one another's work against explicit criteria before revising. It is carried out through structured protocols — rubrics, comment prompts, or review forms — that direct reviewers' attention to specific qualities of the work rather than general impressions.

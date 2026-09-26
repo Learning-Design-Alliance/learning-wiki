@@ -41,4 +41,6 @@ Second demonstration-set experiment: the coil (current up to I∼ 0.9A) and the 
 
 
 ## Related Claims
--
+- [The magnet data cannot determine air permeability; only the magnet's dipole moment can be estimated](magnet-case-cannot-determine-air-permeability.md) — related
+- [Magnetic field measured by a tablet magnetometer depends linearly on the coil current](tablet-magnetometer-linear-b-current-coil.md) — related
+- [The demonstration set yields a fair estimate of air permeability µair from coil data](tablet-demo-set-estimates-air-permeability.md) — a narrower finding that bears on this claim

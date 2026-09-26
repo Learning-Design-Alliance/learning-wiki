@@ -58,4 +58,5 @@ Computer simulation study of estimated actual alpha levels under heteroscedastic
 
 
 ## Related Claims
--
+- [When both normality and homoscedasticity are violated and the covariate is non-normal, parametric ANCOVA tends to be conservative at small sample sizes and alpha = .05](parametric-ancova-conservative-both-violations-small-n.md) — related
+- [Rank ANCOVA tends to a liberal test when the covariate and errors are non-normal, sample sizes are small, alpha = .01, and the covariate-posttest relationship is weak](rank-ancova-liberal-nonnormal-covariate-small-n.md) — related

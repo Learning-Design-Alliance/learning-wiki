@@ -73,7 +73,7 @@ The usable design rule comes from Hattie and Timperley: effective feedback answe
 
 ### Target Learning Goals
 - Improved performance on the specific task and on structurally similar later ones
-- Understanding of quality criteria — what "good" consists of in this domain [Self Assessment Against Criteria Supports Self Regulated Learning](../claims/self-assessment-against-criteria-supports-self-regulated-learning.md) [+M]
+- Understanding of quality criteria — what "good" consists of in this domain [Self Assessment Against Criteria Supports Self Regulated Learning](../claims/self-assessment-improves-self-regulated-learning.md) [+M]
 - Self-regulation: internalizing the feedback question set so learners eventually ask it of their own work
 - Correction of specific misconceptions, particularly confidently held ones [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+M]
 

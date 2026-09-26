@@ -41,4 +41,5 @@ A null result across all three conditions of the Reversi experiment: "In the far
 
 
 ## Related Claims
--
+- [Under high extraneous load (hint presentation and L and rL condition), no test-score increases were observed on identical or near-transfer problems](extraneous-load-eliminates-germane-load-learning-gains.md) — related
+- [There are two types of germane load: one that increases with an increase in intrinsic load and one that increases as intrinsic load decreases](two-types-of-germane-load-related-to-intrinsic-load.md) — related

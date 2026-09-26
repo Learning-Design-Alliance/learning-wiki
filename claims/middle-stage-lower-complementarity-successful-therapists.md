@@ -41,4 +41,8 @@ Stage-wise comparison of Complementarity Index values for the two outcome groups
 
 
 ## Related Claims
--
+- [Early-stage therapist complementarity does not differ by outcome group, and the predicted later-stage advantage for successful dyads was not supported](early-and-later-stage-complementarity-null-by-outcome.md) — related
+- [During the early stage of therapy, more severely maladjusted clients elicit higher levels of therapist complementarity](early-stage-maladjustment-elicits-complementarity.md) — related
+- [Observed interaction frequencies support the Interaction Matrix cell weightings, with the most interactions in the highest-weighted cells](interaction-frequencies-support-matrix-weightings.md) — related
+- [Overall therapist complementarity across the full therapeutic relationship does not differ significantly between successful and unsuccessful outcome groups](overall-therapist-complementarity-not-related-to-therapy-outcome.md) — reports the opposite
+- [The hypothesis that both teachers can refrain from complementarity when facing hostile student behavior could not be confirmed](refraining-from-complementarity-hypothesis-not-confirmed.md) — related

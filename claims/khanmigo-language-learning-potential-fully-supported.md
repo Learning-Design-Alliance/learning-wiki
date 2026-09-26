@@ -41,4 +41,9 @@ Qualitative case-study evaluation based on the author's 17.5 hours of interactio
 
 
 ## Related Claims
--
+- [The authors argue formative feedback is critical for making student behaviour 'seen' in asynchronous online learning where the teacher is not physically present](feedback-makes-behaviour-seen-asynchronous.md) — related
+- [Khanmigo fully supports the authenticity criterion: nearly all activities except Chat can engage learners in authentic tasks](khanmigo-authenticity-fully-supported.md) — related
+- [Khanmigo partially supports the meaning focus criterion: two-way meaning-oriented interactions exist, but cognitive complexity can be problematic for beginners](khanmigo-meaning-focus-partially-supported.md) — related
+- [Khanmigo does not support the positive impact criterion: metacognitive scaffolding is tacit and pragmatic competence is not addressed unless learners ask](khanmigo-positive-impact-not-supported.md) — related
+- [Khanmigo partially supports the practicality criterion: affordable subscription, user-friendly interface, portability, and teacher monitoring, but paid access limits some learners](khanmigo-practicality-partially-supported.md) — related
+- [Khanmigo does not support learner fit: its language and topics may be too advanced for beginner-level learners](khanmigo-learner-fit-not-supported.md) — related

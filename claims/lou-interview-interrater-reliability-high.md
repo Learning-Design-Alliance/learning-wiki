@@ -41,4 +41,5 @@ Second-year (Fall 1975-Spring 1976) rating procedure in which the interviewer's 
 
 
 ## Related Claims
--
+- [The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions](framework-scoring-high-consistency-physics.md) — related
+- [LoU Interview ratings correlate strongly with ethnographers' full-day observations, supporting interview validity](lou-interview-validated-against-ethnography.md) — related

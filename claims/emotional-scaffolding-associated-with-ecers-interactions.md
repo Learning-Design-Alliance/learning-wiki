@@ -41,4 +41,7 @@ Spearman rank correlation across 22 observed kindergarten groups during morning 
 
 
 ## Related Claims
--
+- [Higher overall ECERS-R classroom quality is positively correlated with Modeling of Emotional Expressiveness and total ESOS score](classroom-quality-correlates-modeling-expressiveness.md) — related
+- [In observed groups, Reactions to Children's Emotions was the most common scaffolding subscale, and ECERS-R Interactions rated high while Activities rated low](descriptive-profile-esos-ecers-groups.md) — related
+- [Dialectical thinking support is positively associated with teachers' emotional scaffolding, reported for the first time](dts-associated-with-emotional-scaffolding.md) — related
+- [Teaching about Emotions is positively associated with ECERS-R Space and Furnishings quality in kindergarten groups](teaching-about-emotions-associated-with-space-and-furnishings.md) — related

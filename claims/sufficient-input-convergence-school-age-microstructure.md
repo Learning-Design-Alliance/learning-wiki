@@ -41,4 +41,6 @@ Authors' interpretation (type e) in the Discussion: bilinguals received about 43
 
 
 ## Related Claims
--
+- [No macrostructure measure differs significantly between bilingual and monolingual children, while age improves story structure, internal state terms, comprehension, and aggregate scores but not structural complexity](macrostructure-stable-across-language-groups.md) — related
+- [All narrative microstructure measures increase with age group, but only lexical diversity (NDW) differs between Japanese–English bilingual and English monolingual children](ndw-only-language-group-difference-narrative-microstructure.md) — related
+- [Language × Age interactions show bilingual preschoolers had the lowest MLUm, NDW, and SI scores, while bilingual school-age children produced the most fragments](bilingual-preschoolers-lowest-microstructure-interactions.md) — related

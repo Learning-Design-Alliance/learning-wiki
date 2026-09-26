@@ -24,7 +24,7 @@ Video's power comes from combining spoken narration with dynamic visuals, exploi
 ### Context
 #### Requirements
 - Short, single-concept segments (ideally under 6 minutes) [Guo et al. found engagement drops sharply beyond six minutes.](https://doi.org/10.1145/2556288.2557205) [+M]
-- Narration aligned with visuals, avoiding redundant on-screen text that duplicates the narration [Redundant on-screen text duplicating narration impairs learning.](../claims/redundancy-principle-on-screen-text-hurts-learning.md) [+S]
+- Narration aligned with visuals, avoiding redundant on-screen text that duplicates the narration [Redundant on-screen text duplicating narration impairs learning.](../claims/redundancy-effect-impairs-learning.md) [+S]
 - Coherent visuals free of irrelevant decorative content [Irrelevant seductive details in multimedia materials reduce learning.](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [+S]
 - A follow-on activity requiring application ([Practice](../elements/practice.md), [Annotating](../principles/annotating.md), or embedded questions)
 
@@ -51,7 +51,7 @@ Video's power comes from combining spoken narration with dynamic visuals, exploi
 
 ### Instructions
 1. Identify the single concept or procedure each segment will cover; script narration to align with visuals ([Chunking](../principles/chunking.md))
-2. Record or curate the video applying multimedia principles: signaling, coherence, no redundant on-screen text [Redundant on-screen text duplicating narration impairs learning.](../claims/redundancy-principle-on-screen-text-hurts-learning.md) [+S]
+2. Record or curate the video applying multimedia principles: signaling, coherence, no redundant on-screen text [Redundant on-screen text duplicating narration impairs learning.](../claims/redundancy-effect-impairs-learning.md) [+S]
 3. Segment into short units with clear titles and advance organizers ([Advance Organizers](../elements/advance-organizers.md))
 4. Embed generative activities: embedded questions, note-taking prompts, or immediate [Practice](../elements/practice.md) [Video without generative processing yields weaker learning than video plus prompts or practice.](https://doi.org/10.1007/s10648-021-09650-1) [+S]
 5. Provide a mechanism for questions and feedback ([Check-In](../elements/check-in.md), discussion, or [Assessment for Learning](../principles/assessment-for-learning.md))

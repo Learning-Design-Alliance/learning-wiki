@@ -25,7 +25,7 @@ sources:
 # Worked Examples First
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 11 studies, `q2`–`q4` · 7 of 11 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 11 studies, `q2`–`q4` · 7 of 11 report an effect size · 2 claims rest on one study
 
 ## Description
 Worked Examples First is a sequencing strategy: before learners attempt problems on their own, they study one or more fully solved, step-annotated examples of the same problem type. The example substitutes for early problem solving, showing both the procedure and the reasoning behind each step, and is typically followed by a similar problem the learner solves independently.

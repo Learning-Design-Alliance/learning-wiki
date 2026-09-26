@@ -41,4 +41,7 @@ Classroom action research with two cycles of seven meetings each; pretest-postte
 
 
 ## Related Claims
--
+- [Individual writing-test scores improved for all thirty students between cycles, with gains ranging from 6.3% to 30.8% and no student declining](individual-score-gains-range-6-3-to-30-8-percent.md) — related
+- [Simplifying journal articles and providing glossaries of unfamiliar terms preceded the second-cycle improvement in proposal writing](simplification-and-glossary-supported-second-cycle-gains.md) — related
+- [First-cycle underperformance was attributed to low-quality student-generated questions that failed to represent journal article patterns](question-quality-limited-first-cycle-outcomes.md) — related
+- [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related

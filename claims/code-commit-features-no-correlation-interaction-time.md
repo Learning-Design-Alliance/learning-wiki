@@ -58,4 +58,6 @@ Normal-load simulation repeated with three commit-feature strategies (highest co
 
 
 ## Related Claims
--
+- [The NSF advantage over FCFS appears only above an arrival-rate threshold (λ > 0.06); under relaxed queues no strategy makes a difference](arrival-rate-threshold-nsf-advantage.md) — related
+- [Under busy or normal queue load, the New Student First (NSF) strategy significantly increases the percentage of students who receive help compared with FCFS, LWF, and VLWF](nsf-strategy-increases-helped-students-busy-normal-queues.md) — related
+- [Choice of scheduling strategy does not significantly affect the number of resolved requests or students' overall wait time](scheduling-strategy-no-effect-resolved-requests-wait-time.md) — related

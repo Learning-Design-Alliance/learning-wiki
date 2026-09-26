@@ -41,4 +41,6 @@ Descriptive statistics on a 21-item, 5-point Likert questionnaire adapted from Z
 
 
 ## Related Claims
--
+- [Ideation discussion activities in Design Thinking significantly improved EFL students' overall critical thinking test scores from pre-test to post-test](ideation-discussion-improves-efl-critical-thinking-scores.md) — related
+- [Ideation discussion activities in Design Thinking significantly improved EFL students' overall English-speaking test scores from pre-test to post-test](ideation-discussion-improves-efl-speaking-scores.md) — related
+- [Undergraduates report very high overall satisfaction with instruction management in the cloud-based constructivism and connectivism learning model](high-satisfaction-cloud-constructivism-connectivism-model.md) — related

@@ -41,4 +41,5 @@ The review reports Henshaw's (1992) study, which "calls for eleven year-old reme
 
 
 ## Related Claims
--
+- [Poor beginning readers overrely on a single information source rather than integrating all available cues](poor-readers-overrely-single-information-source.md) — related
+- [Young developing readers rely more heavily on semantic and syntactic information for word-level analysis than adult readers, per Schwantes' study](young-readers-rely-on-semantic-syntactic-context-for-word-analysis.md) — related

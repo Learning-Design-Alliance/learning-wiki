@@ -41,4 +41,5 @@ Instructor feedback on student homework reports in the Fall 2008 offering, repor
 
 
 ## Related Claims
--
+- [Students rated the image decoding, poster sharing, and synthesis lecture components of a digital-images inquiry highest on a five-point feedback scale](digital-images-inquiry-student-feedback-ratings.md) — related
+- [Pre-service teachers struggle with instructional design and lesson planning despite existing standards and coursework](pre-service-teachers-struggle-lesson-design.md) — related

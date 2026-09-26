@@ -41,4 +41,4 @@ Narrative survey of reinforcement studies (Baer and Wolf; Martin et al.; Staats 
 
 
 ## Related Claims
--
+- [Over eight weeks, university learners receiving reinforcement learning-optimized oral practice sequencing attained normalized learning gains approximately 2.2 times higher than learners following fixed curricula](rl-sequencing-beats-fixed-oral-curriculum.md) — related

@@ -41,4 +41,4 @@ Observational finding from the 14-week studio trial with 113 students. The artic
 
 
 ## Related Claims
--
+- [Four types of designerly talk manifest in student-managed social network spaces: tool selection, professional identity, skill-sharing coordination, and ethical design discussion](four-types-designerly-talk-sns.md) — related

@@ -41,4 +41,6 @@ SEM with n = 1253 (Figure 6) tested the structural path between the two superfac
 
 
 ## Related Claims
--
+- [The ACE-HE measurement model of affective, behavioral, and cognitive engagement fits online/blended survey data well](ace-he-engagement-three-dimension-model-good-fit.md) — related
+- [The ACE-HE measurement model of institutional support for ABC engagement also fits the data well](ace-he-institutional-support-model-good-fit.md) — related
+- [Only support for affective engagement predicts its matching engagement dimension; behavioral and cognitive support do not, contradicting the ACE framework's alignment](affective-support-predicts-all-engagement-dimensions.md) — a narrower finding that bears on this claim

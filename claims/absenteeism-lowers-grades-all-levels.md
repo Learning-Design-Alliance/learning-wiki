@@ -41,4 +41,6 @@ Analysis of 2007-08 Physics 1Y data: a scatter-graph of assessment attempted ver
 
 
 ## Related Claims
--
+- [Support measures introduced in 2007-08 raised the level 1 physics passrate by approximately 8%](learning-support-raises-level1-physics-passrate.md) — related
+- [A hard core of non-attending students remained unresponsive to all offered support](hard-core-unresponsive-non-attenders.md) — related
+- [Transcript grades are a blurred currency of performance information, partly due to grade inflation driven by student pressure](transcript-grades-blurred-currency.md) — related

@@ -41,4 +41,11 @@ The article reports (Introduction) Hake's large multi-course survey as backgroun
 
 
 ## Related Claims
--
+- [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — a broader claim this one bears on
+- [CLASP students achieved an average normalized FCI gain of 0.39, above the traditional-course range and in the middle of the interactive-engagement range, despite only about a third of one quarter on mechanics](clasp-fci-normalized-gain.md) — a narrower finding that bears on this claim
+- [The review reports that formative assessment produces significant and often substantial learning gains, citing Black and Wiliam](formative-assessment-produces-substantial-learning-gains-cited.md) — related
+- [When the γ-process (associative interaction of correct and incorrect knowledge) is considered, the normalized gain correlates positively with pretest score](gamma-process-positive-gain-pretest-correlation.md) — related
+- [High-ability students' learning behaves as a dominant α-process even at low pretest scores, while average-ability students show more γ-process behavior](high-ability-alpha-dominant-low-pretest.md) — related
+- [FCI change-score versus pretest-score data from three classes show linear relations at high pretest scores and curving-down at low scores, diagnosable as α- versus γ-process dominance](fci-change-score-curves-diagnose-processes.md) — related
+- [Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for theoretical content (TUG-K r=0.59) and more weakly for descriptive content (DIRECT r=0.50)](lctsr-prescore-correlates-content-gains-theoretical-strongest.md) — related
+- [Random measurement noise in pretest scores produces a negative contribution to the correlation between normalized gain and pretest score](measurement-noise-negative-gain-pretest-correlation.md) — related

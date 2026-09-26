@@ -41,4 +41,4 @@ The paper's own argument, attributed to prior research (Goswami and Bryant 1990;
 
 
 ## Related Claims
--
+- [Exercise of autonomy at one level may inhibit its development at another in early literacy learning](autonomy-at-one-level-may-inhibit-another.md) — related

@@ -58,4 +58,7 @@ Secondary correlational analysis for the 52 subjects with Kuhlman-Anderson IQ sc
 
 
 ## Related Claims
--
+- [Subtask creativity scores correlate significantly with the main task total, supporting summed scoring](creact-subtask-main-task-correlations.md) — related
+- [Concrete reward increases children's mean ideational fluency on creativity tasks relative to control conditions](concrete-reward-increases-mean-ideational-fluency.md) — related
+- [The capacity interpretation of creativity-score differences rests on the finding that results were obtained only with fluency scores, and may not generalize to originality scoring](fluency-only-scoring-limits-generalization.md) — related
+- [The five passage attributes are significantly intercorrelated, with imagery, interest, and linkage highly correlated](passage-attributes-intercorrelated.md) — related

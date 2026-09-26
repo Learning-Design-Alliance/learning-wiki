@@ -41,4 +41,7 @@ Results section of the classroom observation study: "high mediation was associat
 
 
 ## Related Claims
--
+- [More children who could shift codes were found in the classroom of the highest mediating teacher](code-shifting-highest-mediating-teacher.md) — possibly the same claim (merge candidate)
+- [Elaborated coding was associated with higher reading scores among the observed children](elaborated-coding-higher-reading-scores.md) — related
+- [Teacher mediation interacts with SES: the SES gap in elaborated utterances appears only in the low-mediating classroom](mediation-ses-interaction-elaborated-utterances.md) — related
+- [Findings on teacher mediation patterns differ from the Gahagans' conclusion of no difference in teacher verbal mediation](findings-differ-from-gahagans-no-difference.md) — related

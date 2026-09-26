@@ -19,7 +19,7 @@ Culturally competent family engagement involves training school staff in behavio
 
 ## Design Implications
 
-Family engagement interventions show consistent but modest academic benefits overall, and the strongest effects occur when engagement is relational and culturally responsive rather than compliance-oriented [Parental involvement meta-analyses find positive but heterogeneous effects on achievement.](../claims/parental-involvement-improves-achievement.md) [+M]. The mechanism is trust: families engage when staff demonstrate genuine interest in their funds of knowledge, and students engage when they experience belonging at school [Belonging interventions improve outcomes for marginalized students.](../claims/belonging-interventions-improve-outcomes.md) [+M]. Training must therefore target staff beliefs and interaction patterns, not just communication logistics.
+Family engagement interventions show consistent but modest academic benefits overall, and the strongest effects occur when engagement is relational and culturally responsive rather than compliance-oriented [Parental involvement meta-analyses find positive but heterogeneous effects on achievement.](../claims/parent-involvement-improves-achievement.md) [+M]. The mechanism is trust: families engage when staff demonstrate genuine interest in their funds of knowledge, and students engage when they experience belonging at school [Belonging interventions improve outcomes for marginalized students.](../claims/belonging-interventions-improve-outcomes.md) [+M]. Training must therefore target staff beliefs and interaction patterns, not just communication logistics.
 
 ### Context
 #### Requirements

@@ -41,4 +41,9 @@ Post-hoc coding of a representative sample of 602 questions from four introducto
 
 
 ## Related Claims
--
+- [Students answer lower-taxonomy-category questions more frequently, but only by a factor of about 2](lower-taxonomy-questions-answered-more.md) — related
+- [Student-authored physics questions mostly require application or analysis, with under 5% at the lowest recall level](student-questions-majority-above-recall-bloom.md) — related
+- [Explanation-quality distributions differed significantly between years for Physics 1A (2011 slightly lower) but not Physics 1B](explanation-quality-differs-by-year-1a-only.md) — related
+- [Over 95% of student-authored questions included an explanation, mostly of good or excellent quality](student-explanations-majority-good-or-excellent.md) — related
+- [Question cognitive-level distributions differed significantly between years for Physics 1B but not Physics 1A](question-cognitive-level-differs-by-course-year.md) — related
+- [Adult teachers' questions concentrate at low Bloom's levels, and cooperative learning's dialogue and questioning support critical thinking across Bloom's taxonomy](teacher-questions-low-bloom-levels-cooperative-dialogue.md) — related

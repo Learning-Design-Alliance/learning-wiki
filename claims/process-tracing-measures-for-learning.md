@@ -41,4 +41,5 @@ This is the review's argumentative claim in Section 3.2, drawing on Processing E
 
 
 ## Related Claims
--
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
+- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related

@@ -41,4 +41,5 @@ Authors' comparison of FTM predicted values with nonlinear regression models for
 
 
 ## Related Claims
--
+- [A first-order time-invariant fuzzy time series model produces more precise university enrollment forecasts than linear regression with time as predictor](fuzzy-time-series-more-precise-than-linear-regression-enrollment.md) — related
+- [Quadratic and cubic trends significantly improved the linear model of teacher and student behavior, showing the importance of studying nonlinearity](quadratic-cubic-trends-improve-linear-model-teacher-behavior.md) — related

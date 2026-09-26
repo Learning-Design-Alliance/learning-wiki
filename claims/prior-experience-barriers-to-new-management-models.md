@@ -41,4 +41,8 @@ The brief reports, citing Woolfolk (1995), that "past learning might create barr
 
 
 ## Related Claims
--
+- [Adults learn better when learning content and methods link to their previous experience](adult-learning-linked-to-previous-experience.md) — reports the opposite
+- [Teachers without mentors reached the impact level more often than mentored teachers, raising the question that mentoring may inhibit development](mentors-may-inhibit-concern-development.md) — related
+- [Exercise of autonomy at one level may inhibit its development at another in early literacy learning](autonomy-at-one-level-may-inhibit-another.md) — related
+- [Interesting but irrelevant details impair learning](seductive-details-effect.md) — related
+- [Past and present sociohistorical influences led two similar students in the same class to work toward different grades](sociohistorical-influences-on-achievement.md) — related

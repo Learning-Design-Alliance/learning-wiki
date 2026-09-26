@@ -41,4 +41,10 @@ The review attributes this to Stahl (1999), a reading researcher, and notes Will
 
 
 ## Related Claims
--
+- [Gardner holds intelligences are not interchangeable, so one intelligence cannot substitute for another in learning a domain](intelligences-not-interchangeable.md) — a narrower finding that bears on this claim
+- [Larger class size linked to poorer student and teacher performance (review attribution)](larger-class-size-poorer-performance.md) — related
+- [A large psychometric data review supports a hierarchical model of intelligence headed by g, which MI theory does not fit](carroll-data-support-hierarchical-g-model.md) — related
+- [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — possibly the same claim (merge candidate)
+- [Intellectual style is a way of directing intelligence, not a level of it](style-distinct-from-intelligence-level.md) — related
+- [A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for](intellectual-test-performances-correlated.md) — related
+- [MI theory lacks empirical theory-testing research supporting its intelligences as autonomous faculties](mi-lacks-empirical-theory-testing.md) — related

@@ -41,4 +41,10 @@ Goodness-of-fit evaluation of the second-order CFA model from questionnaire data
 
 
 ## Related Claims
--
+- [Ability in instructional design carries the highest second-order factor loading, followed by knowledge and personal attributes](idc-ability-dimension-highest-loading.md) — a narrower finding that bears on this claim
+- [Instructional design competence of pre-service teachers comprises knowledge, ability, and personal attributes dimensions](idc-competence-three-dimensions-validated.md) — a broader claim this one bears on
+- [The five dimensions of the developed thinking styles scale show structural validity via confirmatory factor analysis](thinking-styles-scale-cfa-structural-validity.md) — related
+- [The ACE-HE measurement model of institutional support for ABC engagement also fits the data well](ace-he-institutional-support-model-good-fit.md) — related
+- [The ACE-HE measurement model of affective, behavioral, and cognitive engagement fits online/blended survey data well](ace-he-engagement-three-dimension-model-good-fit.md) — related
+- [Design of learning activities and measurement/evaluation load highest among knowledge and ability components; systematic thinking highest among personal attributes](idc-subcomponent-highest-loadings.md) — related
+- [Pre-service teachers struggle with instructional design and lesson planning despite existing standards and coursework](pre-service-teachers-struggle-lesson-design.md) — related

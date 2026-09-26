@@ -41,4 +41,6 @@ Identification stage of the narrative inquiry; the informal educator's own repor
 
 
 ## Related Claims
--
+- [In one narrative inquiry, boundary crossing collaboration between a mathematics education researcher and an informal educator created a space for a new understanding of mathematics as normal human practice](boundary-crossing-collaboration-with-informal-educators-reframes-mathematics-as-human-practice.md) — related
+- [When a real-life quilt problem was turned into a contextualized mathematics task, its context dropped out during solving and both designers judged it too school-like](contextualized-real-life-task-reverted-to-pure-mathematics-and-felt-too-school.md) — related
+- [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — a broader claim this one bears on

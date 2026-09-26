@@ -58,4 +58,8 @@ Secondary outcome measure from the same study: all students took the Learning En
 
 
 ## Related Claims
--
+- [Conceptual change strategies in cooperative groups reduced misconceptions in community college chemistry, but poor group leadership undermined discussion](cooperative-conceptual-change-chemistry-misconceptions.md) — related
+- [Science-classroom studies of cooperative learning show mixed results, with several null or negative comparisons](cooperative-learning-science-studies-mixed.md) — reports the opposite
+- [Cooperative learning without individual accountability produces free-riding that reduces learning outcomes](cooperative-learning-free-rider-without-accountability.md) — related
+- [In secondary-school research, cooperative learning beat frontal teaching in 68% of comparisons, with STAD most and Jigsaw least successful](secondary-cooperative-learning-newmann-thompson.md) — a broader claim this one bears on
+- [Small Group Learning Improves STEM Achievement](small-group-learning-improves-stem-achievement.md) — related

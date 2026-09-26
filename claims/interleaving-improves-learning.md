@@ -48,13 +48,18 @@ A multilevel meta-analysis of 59 studies comparing interleaved to blocked presen
 
 **Design implication.** A practical sequence is often blocked-then-interleaved: introduce each category in a blocked segment until it is minimally learnable, then mix categories so learners must practice identifying which procedure applies. Expect lower practice scores and higher delayed-test scores than blocked-only designs, and warn learners explicitly that the harder-feeling schedule is the more effective one. Because learners' metacognitive judgments favor blocking [-W], explicit framing of the discriminative-practice rationale is not optional garnish but a condition of persistence with the schedule.
 
-**Relation to example-based instruction.** Interleaving composes naturally with [worked examples](../claims/worked-examples-reduce-novice-search.md): an interleaved sequence can mix example study, faded examples, and problem solving across categories, so learners both discriminate problem types and avoid unguided search during early acquisition [+M]. The same expertise-reversal caution applies to both — see [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md).
+**Relation to example-based instruction.** Interleaving composes naturally with [worked examples](../claims/worked-examples-reduce-novice-search.md): an interleaved sequence can mix example study, faded examples, and problem solving across categories, so learners both discriminate problem types and avoid unguided search during early acquisition [+M]. The same expertise-reversal caution applies to both — see [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md).
 
 ## Related Claims
 
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — interleaving raises in-the-moment load; chunking and sequencing choices interact
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — desirable difficulties like interleaving must be managed against total load
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md) — interleaving pairs naturally with example-based sequences across categories
-- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md) — same expertise-reversal boundary applies to interleaving schedules
+- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — same expertise-reversal boundary applies to interleaving schedules
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — supports that fade with expertise may reverse; interleaving benefits likely depend on learner skill level
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — the theoretical framework within which interleaving's costs and benefits are usually analyzed
+- [Interleaved Practice Improves Retention](interleaved-practice-improves-retention.md) — possibly the same claim (merge candidate)
+- [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — a narrower finding that bears on this claim
+- [Interleaving Improves Inductive Learning](interleaving-improves-inductive-learning.md) — possibly the same claim (merge candidate)
+- [Interleaving Improves Transfer](interleaving-improves-transfer.md) — related
+- [Sequencing worked examples with practice problems improves learning for novices](worked-example-problem-sequences.md) — related

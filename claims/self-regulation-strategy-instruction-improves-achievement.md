@@ -71,3 +71,10 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Autonomy supports intrinsic motivation](../claims/autonomy-supports-intrinsic-motivation.md) — self-regulated strategy use depends on learner ownership of goals
 - [Goal setting improves performance](../claims/goal-setting-improves-performance.md) — goal-setting is the planning phase of self-regulation
 - [Clear structure improves learning](../claims/clear-structure-improves-learning.md) — external structure scaffolds learners before self-regulation takes over
+- [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — possibly the same claim (merge candidate)
+- [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
+- [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — a narrower finding that bears on this claim
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — possibly the same claim (merge candidate)
+- [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — possibly the same claim (merge candidate)
+- [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — possibly the same claim (merge candidate)
+- [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — possibly the same claim (merge candidate)

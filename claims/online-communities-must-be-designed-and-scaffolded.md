@@ -41,4 +41,6 @@ Authors' interpretive conclusion (type e) from the case study, in the Emerging U
 
 
 ## Related Claims
--
+- [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related
+- [A collective unit of subjects emerges when two utterances form a dialogical pair in SCMD](collective-subject-emergence-dialogical-pair.md) — related
+- [The redesigned unit promoted engagement across all five elements of the Engagement Framework, including professional relevance rated 4.86 on SETL](redesigned-unit-engaged-all-framework-elements.md) — possibly the same claim (merge candidate)

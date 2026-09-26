@@ -41,4 +41,8 @@ The author's interpretive survey of 44 openly accessible papers referencing conn
 
 
 ## Related Claims
--
+- [Autonomy, diversity, interactivity, openness and Web 2.0 showed a positive significant effect on students' achievement in a structural model](connectivist-principles-positive-effect-achievement.md) — a narrower finding that bears on this claim
+- [Critics argue connectivism cannot explain concept formation or development, invoking the learning paradox](connectivism-cannot-explain-concept-development.md) — related
+- [A connectivism instructional method was significantly more effective than the grammar-translation method for EFL academic engagement](connectivism-method-beats-grammar-translation.md) — a narrower finding that bears on this claim
+- [Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated](connectivist-courses-student-agency-problems.md) — reports the opposite
+- [Connectivism-based training produced higher academic self-efficacy and task value than CLT in an EFL experiment](connectivism-raises-motivational-beliefs-vs-clt.md) — a narrower finding that bears on this claim

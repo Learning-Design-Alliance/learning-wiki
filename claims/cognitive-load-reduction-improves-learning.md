@@ -78,7 +78,7 @@ This claim is the central practical prediction of [Cognitive Load Theory](../the
 
 Key moderators and boundary conditions:
 
-- **Expertise reversal.** Load-reduction techniques that help novices (e.g., worked examples, integrated sources of information) can become redundant and even harmful for advanced learners, who benefit from practice and problem-solving instead — see the [expertise reversal effect](../theories/expertise-reversal-effect.md) and [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md) [~M] Load-reduction designs should include fading mechanisms that restore challenge as competence grows.
+- **Expertise reversal.** Load-reduction techniques that help novices (e.g., worked examples, integrated sources of information) can become redundant and even harmful for advanced learners, who benefit from practice and problem-solving instead — see the [expertise reversal effect](../theories/expertise-reversal-effect.md) and [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) [~M] Load-reduction designs should include fading mechanisms that restore challenge as competence grows.
 - **Over-fragmentation.** Excessive segmentation or scaffolding can prevent learners from integrating information into coherent schemas; some desirable difficulty supports long-term retention [~W]. Load reduction targets *extraneous* processing, not the effortful *germane* processing that builds schemas — conflating the two produces designs that feel easy but teach little.
 - **Motivation interaction.** Reducing load does not guarantee engagement; designs must also [activate](activation-improves-learning.md) learners and sustain effort. An instruction that is low-load but passive may underperform a higher-load design that elicits active processing [~W].
 - **Measurement dependence.** Whether a design change genuinely reduces extraneous load is an empirical question; subjective load ratings and performance measures can dissociate, so load-reduction claims should be validated against learning outcomes, not perceived ease alone [~W].
@@ -93,5 +93,12 @@ Concrete load-reduction levers documented elsewhere in this wiki include [chunki
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — a primary lever for managing intrinsic load
 - [Coherence principle: irrelevant material hurts learning.](coherence-principle-irrelevant-material-hurts-learning.md) — removing extraneous material improves outcomes
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md) — a canonical load-reduction technique
-- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md) — key boundary condition on load reduction
+- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — key boundary condition on load reduction
 - [Clear structure improves learning.](clear-structure-improves-learning.md) — structural signaling is a low-cost extraneous-load reduction
+- [Cognitive Load Management](cognitive-load-management.md) — related
+- [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — possibly the same claim (merge candidate)
+- [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — related
+- [Pure contiguity fails to explain cognitive learning: repeated contiguity between cognitions does not make one evoke the other](contiguity-alone-fails-in-cognitive-learning.md) — related
+- [Placing heavier cognitive demands on learners can be counterproductive in mapping tasks](heavy-cognitive-demands-of-mapping-can-be-counterproductive.md) — related
+- [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
+- [Despite ignorance of CLT, surveyed teachers report using some of its principles when designing instructions](teachers-use-clt-principles-despite-ignorance.md) — related

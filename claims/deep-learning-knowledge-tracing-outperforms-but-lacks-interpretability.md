@@ -42,3 +42,4 @@ Narrative review summary of the fundamental models section, with no pooled compa
 
 ## Related Claims
 - [No Single Knowledge Tracing Model Is Always Best](no-single-knowledge-tracing-model-is-always-best.md)
+- [The survey reports, citing Lu et al., that xAI-based interpretations of deep knowledge tracing were demonstrated to aid in enhancing the trust of students and teachers.](xai-interpretation-of-dkt-enhances-trust.md) — related

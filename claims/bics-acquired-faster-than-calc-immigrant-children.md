@@ -41,4 +41,6 @@ Cummins cites prior research (Collier, 1987; Cummins, 1984) on second language a
 
 
 ## Related Claims
--
+- [Assuming conversational fluency indicates English proficiency has led to bilingual children being misdiagnosed as learning disabled or retarded and to premature exit from support programs](conversational-fluency-misleading-proficiency-indicator.md) — related
+- [BICS and CALP intersect developmentally but are not identical or reducible one to the other](bics-calp-intersect-not-identical.md) — related
+- [The BICS-before-CALP sequence is typical for immigrant children but not universal: high L2 CALP can precede fluent L2 BICS in certain situations](calp-can-precede-bics-in-certain-situations.md) — related

@@ -41,4 +41,6 @@ The review reports, citing Yurgelun-Todd et al. (2002), an fMRI study scanning t
 
 
 ## Related Claims
--
+- [During early and mid-adolescence, brain reward and emotion systems are more developed than cognitive control systems, leaving self-regulation developmentally out of balance](adolescent-brain-imbalance-reward-versus-control.md) — related
+- [A second wave of brain development, including experience-dependent synaptic pruning, occurs during adolescence from roughly age 11 or 12 through approximately 24](adolescent-second-wave-brain-development-pruning.md) — related
+- [Emotion Labeling Improves Regulation](emotion-labeling-improves-regulation.md) — related

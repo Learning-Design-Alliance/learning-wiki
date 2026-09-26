@@ -56,3 +56,9 @@ This meta-analysis pooled 29 controlled pre-post studies (N = 3,765, k = 89 effe
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — a candidate mechanism: spatial training may improve how mathematical information is chunked and represented.
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — spatial skills may reduce intrinsic load in spatially demanding math tasks.
 - [Analogical reasoning improves transfer](analogical-reasoning-improves-transfer.md) — transfer from spatial training to math depends on structural alignment between the trained skill and the target content.
+- [A dynamic geometry model of the quilt problem helped an informal educator understand its spatial relations](geometry-software-model-helped-informal-educator-understand-spatial-relations.md) — a narrower finding that bears on this claim
+- [Hands-on learning improves achievement](hands-on-learning-improves-achievement.md) — related
+- [Discrepant training conditions (+1/+2) provided limited evidence of greater transfer to related spatial reasoning tasks than own-level training](limited-transfer-from-discrepant-training.md) — a narrower finding that bears on this claim
+- [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — related
+- [Spatial Skills Improve Through Block Building](spatial-skills-improve-through-block-building.md) — related
+- [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — related

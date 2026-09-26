@@ -59,3 +59,4 @@ Qualitative error analysis of KC labels: the "primary error is not assigning suf
 
 ## Related Claims
 - [Expert Teachers Rate Gpt 4O Dialogue Annotations As Largely Accurate](expert-teachers-rate-gpt-4o-dialogue-annotations-as-largely-accurate.md)
+- [GPT-4o's final-turn correctness labeling on CoMTA is only slightly less accurate than expert human annotators, which the authors read as close to human-level performance on a challenging task.](gpt-4o-final-turn-correctness-labeling-is-close-to-human-level.md) — related

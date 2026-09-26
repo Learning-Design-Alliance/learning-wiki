@@ -79,3 +79,10 @@ A meta-analysis of verbal redundancy that found the effect depends on conditions
 - [Chunking reduces working memory load](../claims/chunking-reduces-working-memory-load.md) — the complementary strategy when multiple information sources must be retained.
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — the theoretical framework in which the redundancy principle is defined.
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — explains why redundant formats can stop hurting, or even help, as learner expertise increases.
+- [Instructional support suited to novices can have negative effects for more expert learners (expertise-reversal effect), so instructional design should be tailored to learner experience](expertise-reversal-effect-redundant-support-harms-experts.md) — related
+- [Expertise Reversal Guidance Hurts Experts](expertise-reversal-guidance-hurts-experts.md) — related
+- [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
+- [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — a broader claim this one bears on
+- [Redundant on-screen text duplicates of narration or graphics impair learning](redundancy-principle.md) — a broader claim this one bears on
+- [Multimedia Principles Benefit Novices](multimedia-principles-benefit-novices.md) — related
+- [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related

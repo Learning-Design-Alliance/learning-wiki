@@ -41,4 +41,5 @@ The brief reports, citing Kagan's (1992) analysis of forty studies on profession
 
 
 ## Related Claims
--
+- [Misconceptions Interfere With New Learning](misconceptions-interfere-with-new-learning.md) — related
+- [Cognitive disequilibrium motivates conceptual change](cognitive-disequilibrium-motivates-conceptual-change.md) — related

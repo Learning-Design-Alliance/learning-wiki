@@ -58,4 +58,6 @@ In the quarry problem, the group's metric (simultaneity, use of existing infrast
 
 
 ## Related Claims
--
+- [Classifying and combining group ideas generated new ideas in the quarry problem, including acoustic volume measurement](idea-classification-generated-new-ideas.md) — related
+- [A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life](teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md) — related
+- [Scripted personally meaningful inquiry is associated with gains in inquiry-decision accuracy, with mixed evidence on attitude and behavior change](scripted-personal-inquiry-associated-with-inquiry-knowledge-gains.md) — related

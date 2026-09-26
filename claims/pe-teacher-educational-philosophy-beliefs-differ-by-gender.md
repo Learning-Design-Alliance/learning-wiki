@@ -76,3 +76,6 @@ Direction read from Table 3 mean ranks in the same survey: "female physical educ
 
 ## Related Claims
 - [Pe Teachers Endorse Existentialist Education Most And Essentialism Least](pe-teachers-endorse-existentialist-education-most-and-essentialism-least.md)
+- [Physical education teachers working in high school endorse perennialism more than those in secondary school, with no significant school-type difference in the other four philosophies](high-school-pe-teachers-endorse-perennialism-more-than-secondary-school-teachers.md) — related
+- [Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions](gender-performance-goal-orientation-females-higher.md) — related
+- [Physical education teachers with more professional seniority hold weaker progressivism, existentialist education and reconstructivism beliefs and stronger essentialism beliefs, with no significant seniority difference for perennialism](pe-teacher-essentialism-rises-and-progressivism-falls-with-seniority.md) — related

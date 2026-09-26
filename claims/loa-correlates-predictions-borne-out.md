@@ -41,4 +41,5 @@ Summary statement of the monograph's empirical tests of hypotheses about LOA's c
 
 
 ## Related Claims
--
+- [Direct LOA techniques are more effective in practice than indirect techniques because they derive explicitly from the occupational hierarchy](direct-loa-techniques-more-effective-than-indirect.md) — related
+- [Free-response LOA techniques produce high non-response rates because many respondents answer in non-hierarchical or uncodable terms](free-response-loa-high-nonresponse.md) — related

@@ -41,4 +41,4 @@ Outcome analysis reported only for Period III (2000-2005) of the clinic audit. T
 
 
 ## Related Claims
--
+- [Affective, developmental and emotional disorder registrations rose while mental retardation registrations fell over 26 years; pervasive developmental disorder registrations fell between Periods II and III](cap-clinic-diagnostic-profile-time-trends.md) — related

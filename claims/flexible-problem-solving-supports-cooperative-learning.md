@@ -40,4 +40,7 @@ Qualitative finding from Course C's syllabus and student reflections; one studen
 
 
 ## Related Claims
--
+- [The most Flexible-Cooperative course demanded the most tolerance of uncertainty and the most time](flexible-cooperative-courses-demand-uncertainty-tolerance.md) — related
+- [PjBL courses in the studied program spanned multiple matrix quadrants, with no Fixed-Individualistic courses](pjbl-courses-span-multiple-quadrants.md) — related
+- [PjBL assessment research should evaluate outcomes across all four quadrants, not only Flexible-Cooperative designs](assess-pjbl-outcomes-across-quadrants.md) — related
+- [Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.](functional-fixedness-limits-problem-solving.md) — related

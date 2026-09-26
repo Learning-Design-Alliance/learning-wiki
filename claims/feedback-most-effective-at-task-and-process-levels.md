@@ -74,3 +74,8 @@ Open questions: how the four levels interact in real classrooms (e.g., whether p
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — effective feedback must be interpretable within the learner's working-memory limits.
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — the optimal feedback level shifts as learner expertise grows.
 - [Action-oriented feedback](../strategies/action-oriented_feedback.md) — a practical strategy for making task- and process-level feedback usable by learners.
+- [Errors serve as valuable feedback for teachers and learners, but unhandled errors risk fossilization](errors-as-feedback-fossilization-risk.md) — a narrower finding that bears on this claim
+- [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — possibly the same claim (merge candidate)
+- [Feedback Improves Learning](feedback-improves-learning.md) — related
+- [Feedback Improves Learning When It Addresses Task Goals](feedback-improves-learning-when-it-addresses-task-goals.md) — possibly the same claim (merge candidate)
+- [Feedback Use Improves Learning](feedback-use-improves-learning.md) — a broader claim this one bears on

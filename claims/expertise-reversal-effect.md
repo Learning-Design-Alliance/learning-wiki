@@ -47,5 +47,9 @@ The claim does not mean experts need no support. It means support should change 
 
 ## Related Claims
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md)
-- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md)
+- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md)
 - [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md)
+- [Expertise Reversal Guidance Hurts Experts](expertise-reversal-guidance-hurts-experts.md) — possibly the same claim (merge candidate)
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
+- [Multimedia Principles Benefit Novices](multimedia-principles-benefit-novices.md) — related
+- [Instructional support suited to novices can have negative effects for more expert learners (expertise-reversal effect), so instructional design should be tailored to learner experience](expertise-reversal-effect-redundant-support-harms-experts.md) — a narrower finding that bears on this claim

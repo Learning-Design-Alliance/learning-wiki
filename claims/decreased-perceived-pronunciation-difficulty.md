@@ -42,4 +42,6 @@ Wilcoxon signed-rank tests on Part 3 of the self-assessment form comparing perce
 
 
 ## Related Claims
--
+- [Interpersonal audio discussions with feedback and self-assessment elicit a statistically significant increase in introductory L2 learners' perceived pronunciation ability](audio-discussions-increase-perceived-pronunciation-ability.md) — related
+- [Participation in interpersonal audio discussions produced no statistically significant changes in overall willingness to communicate, though most students reported unchanged or increased WTC](audio-discussions-no-significant-wtc-change.md) — related
+- [Self-reported strength and weakness rankings shifted over the semester: comprehensibility remained the most-cited strength, fluency declined as a weakness, and accuracy weakness rankings stayed unchanged](strength-weakness-rankings-shift-over-semester.md) — related

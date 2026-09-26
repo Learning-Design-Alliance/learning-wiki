@@ -72,7 +72,7 @@ Its practical strength is that it balances authenticity with structured support.
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+M]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 #### Contradicting
-- [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-expertise-reversal.md) [~M]
+- [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 
 ## Design
 

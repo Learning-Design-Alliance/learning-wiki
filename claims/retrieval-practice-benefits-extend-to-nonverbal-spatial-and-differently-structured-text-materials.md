@@ -75,4 +75,6 @@ The chapter reports Karpicke and Blunt (2011, Experiment 2), which compared enum
 
 
 ## Related Claims
--
+- [Retrieval practice produces more learning than elaborative study techniques, including concept mapping and imagery-based strategies such as the keyword mnemonic](retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration.md) — related
+- [Concept mapping improves learning](concept-mapping-improves-learning.md) — related
+- [Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not](retrieval-practice-improves-final-inference-and-transfer-questions.md) — related

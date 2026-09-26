@@ -77,3 +77,7 @@ Citing Gonzalez and Amanti (1992) and Moll et al. (1992), the digest reports tha
 ## Related Claims
 - [Deficit View Of Minority Households Lowers Academic Expectations](deficit-view-of-minority-households-lowers-academic-expectations.md)
 - [Teacher Expectation Effects On Achievement](teacher-expectation-effects-on-achievement.md)
+- [In the Tucson funds of knowledge project, teachers visiting language minority households found funds of knowledge to be abundant and diverse.](home-visits-reveal-abundant-diverse-household-funds-of-knowledge.md) — related
+- [Home visits in funds of knowledge research led teachers to see culture as a dynamic process rather than only dances, food and folklore.](home-visits-shift-teacher-views-of-culture-to-dynamic-process.md) — related
+- [In the Tucson household ethnography, exchanges within households' social networks were often reciprocal and built mutual trust through shared practical activities.](household-exchange-networks-are-reciprocal-and-build-trust.md) — related
+- [Teacher-researchers in funds of knowledge work face difficulties, including helpless pessimism and heavy time demands, which reflective after-school labs helped them overcome; they judged the process worthwhile.](teacher-researcher-difficulties-eased-by-reflective-labs.md) — related

@@ -41,4 +41,5 @@ Cost and capability comparison in the intelligent videodisc systems section, wit
 
 
 ## Related Claims
--
+- [The interactive videodisc combines the capabilities of books, movies, and computer-assisted instruction in one delivery medium](videodisc-combines-books-movies-cai-capabilities.md) — related
+- [A single videodisc side can hold the equivalent of large volumes of Army printed and audiovisual training materials](videodisc-storage-packs-army-training-materials.md) — related

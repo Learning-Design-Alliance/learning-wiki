@@ -41,4 +41,5 @@ The review attributes this to Buckland (2012), quoting his account of the Janus-
 
 
 ## Related Claims
--
+- [Reflexive noticing shifts teacher discourse from stabilization to possibility, while surprises alone often re-stabilize it](reflexive-noticing-shifts-stabilization-to-possibility-discourse.md) — related
+- [A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life](teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md) — related

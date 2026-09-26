@@ -58,4 +58,5 @@ In Experiment 3 of the prior-knowledge article, familiarity and rated imageabili
 
 
 ## Related Claims
--
+- [Passage cohesion showed no effect on delayed recall; means showed greater recall from less cohesive passages](cohesion-no-effect-delayed-recall.md) — related
+- [The five passage attributes are significantly intercorrelated, with imagery, interest, and linkage highly correlated](passage-attributes-intercorrelated.md) — related

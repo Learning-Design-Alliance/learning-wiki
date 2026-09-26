@@ -41,4 +41,4 @@ This is the document resume's abstract summary of Chapter 9, which the table of 
 
 
 ## Related Claims
--
+- [Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.](functional-fixedness-limits-problem-solving.md) — related

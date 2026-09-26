@@ -41,4 +41,7 @@ Theoretical argument in the article's evaluation of the Cognitive Model. The aut
 
 
 ## Related Claims
--
+- [Investigating L2 writing from a single theoretical frame is limited; combining frameworks is needed](single-theoretical-frame-limits-l2-writing-research.md) — a broader claim this one bears on
+- [BICS and CALP intersect developmentally but are not identical or reducible one to the other](bics-calp-intersect-not-identical.md) — related
+- [Contrastive rhetoric overgeneralizes shared culture and ignores individual differences among L2 writers](contrastive-rhetoric-overgeneralizes-culture.md) — related
+- [Learners of Italian report ideal-self motivation rather than instrumental motivation, while their teachers assume the reverse.](italian-l2-motivation-is-ideal-self-not-instrumental.md) — related

@@ -41,4 +41,7 @@ Single-participant ABB 9AB and multielement study of a 4-year-old with short gut
 
 
 ## Related Claims
--
+- [Cup-drinking gains were maintained at a 1-year caregiver-conducted follow-up](cup-drinking-gains-maintained-one-year-follow-up.md) — related
+- [Cup-drinking performance was poor during early fading steps and improved only near the terminal step](early-fading-steps-poor-cup-probes.md) — related
+- [Extinction increased spoon acceptance but cup mouth clean remained low before fading](extinction-utensil-differential-mouth-clean.md) — related
+- [Inappropriate mealtime behavior was maintained by escape and attention](inappropriate-behavior-maintained-by-escape-and-attention.md) — related

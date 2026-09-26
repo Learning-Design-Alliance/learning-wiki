@@ -58,4 +58,8 @@ The article identifies education as a principal distinguishing feature: Turkish 
 
 
 ## Related Claims
--
+- [Deweyan principles of democratic localization of the education system and school autonomy were never implemented in any period of Turkish education history](dewey-localization-autonomy-unimplemented-turkish-education.md) — related
+- [The article concludes there is an irreconcilable conflict between the values of Turkish modernization and the libertarian and democratic values Dewey advocates](irreconcilable-conflict-turkish-modernization-dewey-values.md) — related
+- [The Republic's top-down education method contradicts Dewey's pedagogical principles and his understanding of democracy](top-down-education-method-contradicts-dewey.md) — related
+- [Turkish education increasingly became an exam- and success-focused selective system prioritizing elite formation, contrary to Dewey's objection to exclusion and supervision mechanisms](turkish-education-selective-elite-formation-contrary-dewey.md) — related
+- [The Republic's education project espoused equality of opportunity and coeducation as discourse, but in practice a mentality turning these principles into their opposites prevailed](equality-discourse-versus-practice-turkish-education.md) — related

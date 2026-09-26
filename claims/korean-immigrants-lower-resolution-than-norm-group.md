@@ -41,4 +41,8 @@ T-tests comparing the immigrant sample's MPD resolution scores with the manual's
 
 
 ## Related Claims
--
+- [Cross-cultural measurement problems may bias psychosocial instruments translated across cultures](cross-cultural-measurement-bias-in-translated-psychosocial-instruments.md) — related
+- [Female Korean immigrants showed better psychosocial adjustment than males on diffusion, isolation, and intimacy resolution](female-korean-immigrants-better-adjustment-than-males.md) — related
+- [Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples](gender-effects-on-srl-mediated-by-culture-discipline-age.md) — related
+- [Length of residence in the United States does not predict psychosocial development of adult Korean immigrants](length-of-residence-does-not-predict-immigrant-psychosocial-development.md) — related
+- [Montreal sample differs significantly from the 1992 sample in pilot testing and assessing trainees](montreal-difference-pilot-testing-assess-trainees.md) — related

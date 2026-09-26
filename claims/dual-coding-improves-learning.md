@@ -88,3 +88,11 @@ The experiments tested whether pictures are remembered better than words because
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — a complementary strategy for managing representational demands
 - [Advance organizers improve learning](advance-organizers-improve-learning.md) — visual organizers are a common dual-coding implementation
 - [Analogical reasoning improves transfer](analogical-reasoning-improves-transfer.md) — visual analogies pair verbal and pictorial codes to support transfer
+- [Hispanic adults valued culturally relevant visual design — bright colors, Hispanic representation, and realistic imagery — in lung cancer screening educational materials](culturally-relevant-visual-design-lcs-materials.md) — a narrower finding that bears on this claim
+- [Decorative Illustrations Do Not Improve Learning](decorative-illustrations-do-not-improve-learning.md) — related
+- [Dual Coding Improves Recall](dual-coding-improves-recall.md) — possibly the same claim (merge candidate)
+- [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — a broader claim this one bears on
+- [Learner Constructed Graphic Organizers Outperform Provided](learner-constructed-graphic-organizers-outperform-provided.md) — related
+- [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) — related
+- [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
+- [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md) — related

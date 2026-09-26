@@ -41,4 +41,7 @@ The framing paper reports this comparative study of mentors in two assistance pr
 
 
 ## Related Claims
--
+- [Classrooms where mentors understand and model program concepts are more fruitful contexts for student teachers' learning](mentor-program-concepts-support-student-teacher-learning.md) — related
+- [Mentor modelling and a school-wide behaviour program's strategies transferred to the mentee's classroom management practices](mentor-modelling-strategies-transfer-mentee-behaviour-management.md) — related
+- [Teachers without mentors reached the impact level more often than mentored teachers, raising the question that mentoring may inhibit development](mentors-may-inhibit-concern-development.md) — related
+- [A survey at Halmstad University found communication between teacher education and practice supervisors about syllabuses needed improvement](practice-supervisor-communication-about-syllabuses-needed-improvement.md) — related

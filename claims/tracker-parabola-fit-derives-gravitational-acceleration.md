@@ -41,4 +41,7 @@ Workshop demonstration of video analysis of a free-falling ball: Tracker's parab
 
 
 ## Related Claims
--
+- [Using video analysis data to set model parameters yields a more precise model than trial-and-error model building](data-driven-modeling-more-precise-than-trial-and-error.md) — related
+- [A Singapore teacher community has remixed 75 EJS models and lesson packages toward a national digital library](osp-community-remixed-75-ejs-models.md) — related
+- [Student video analysis of vertical jumps yields a free-fall acceleration estimate close to the local value of g](video-jump-analysis-estimates-g-near-local-value.md) — related
+- [Initial findings suggest video modeling pedagogy is suitable for active and deep learning through predicting, observing and explaining](video-modeling-suits-active-deep-learning.md) — a broader claim this one bears on

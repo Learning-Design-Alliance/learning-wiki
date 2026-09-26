@@ -41,4 +41,7 @@ Posttest means from the same six-version experiment: the three single-deletion t
 
 
 ## Related Claims
--
+- [Students may be unaware of the absence of objectives: the no-objectives group gave the highest ratings on objective-related attitude items](no-objectives-group-most-positive-attitudes.md) — related
+- [Including practice with feedback in computer-based instruction significantly raises posttest achievement](practice-presence-raises-cbi-posttest-achievement.md) — related
+- [Studying worked examples between two rounds of a computer puzzle game produced significantly greater knowledge map improvement than no worked examples for adult players](worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game.md) — related
+- [Students notice the absence of practice and examples: attitude items about those events are rated lower when the events are missing](students-notice-missing-practice-and-examples.md) — related

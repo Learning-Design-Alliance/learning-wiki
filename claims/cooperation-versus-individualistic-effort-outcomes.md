@@ -41,4 +41,8 @@ The project report's rationale section asserts this as established by research o
 
 
 ## Related Claims
--
+- [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — related
+- [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — a narrower finding that bears on this claim
+- [Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons](cooperative-learning-achievement-synthesis-slavin.md) — a narrower finding that bears on this claim
+- [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](service-learning-improves-civic-and-personal-outcomes.md) — related
+- [Small Group Learning Improves STEM Achievement](small-group-learning-improves-stem-achievement.md) — a narrower finding that bears on this claim

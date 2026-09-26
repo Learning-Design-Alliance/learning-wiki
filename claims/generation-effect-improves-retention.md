@@ -79,3 +79,4 @@ rather than by adding citations.
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — unguided generation can overload novices and reverse the benefit.
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — chunked material lowers the generation burden, preserving the effect for weaker learners.
 - [Expertise reversal effect.](../theories/expertise-reversal-effect.md) — the generation benefit shrinks or reverses as learner expertise and task demands interact.
+- [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](less-initial-retrieval-support-produces-better-retention.md) — related

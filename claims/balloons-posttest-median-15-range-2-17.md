@@ -41,4 +41,5 @@ Descriptive analysis of Balloons posttest data (raw score, minimum, maximum, med
 
 
 ## Related Claims
--
+- [78.9% of ADK pupils attending at least 80% of sessions met the print-concepts objective of 12 or more of 17 items on the Balloons test](adk-78-9-percent-met-balloons-objective.md) — related
+- [Process evaluation found no major recordkeeping or pupil-selection problems in ADK classrooms](adk-process-evaluation-no-major-problems.md) — related

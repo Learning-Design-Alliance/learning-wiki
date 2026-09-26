@@ -41,4 +41,5 @@ Section 4.1: HPM, a production-system model of learning through incremental proc
 
 
 ## Related Claims
--
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
+- [The claim that computer simulation necessarily enforces clearer, more rigorous psychological theory specification does not hold up](simulation-rigor-enforcement-claim-overstated.md) — related

@@ -76,3 +76,8 @@ Reviews roughly twenty years of research (since the mid-1980s) on refutation tex
 - [Analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md) — analogy can remap intuitive models onto correct scientific ones
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — misconceptions act as entrenched chunks that compete with newly formed ones
 - [Advance organizers improve learning.](advance-organizers-improve-learning.md) — organizers can pre-empt misassimilation by framing new content against learners' existing schemas
+- [The learning cycle is reported as an effective means for learning science concepts and processes](learning-cycle-effective-science-learning.md) — related
+- [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
+- [A network of three mutually overlapping intuitive ideas (less distance implies less time, bunched up means faster, faster implies less time) stabilizes students' initial thinking](network-of-intuitive-ideas-stabilizes-thinking.md) — related
+- [Change in new teachers requires a restructuring of their prior beliefs](new-teacher-change-requires-restructuring-prior-beliefs.md) — related
+- [Perceived discrepancy between actual teaching performance and goals motivates teachers to change their teaching](performance-goal-discrepancy-motivates-teacher-change.md) — related

@@ -41,4 +41,6 @@ Course-project case report: each of the ﬁfteen enrolled students in the Spring
 
 
 ## Related Claims
--
+- [A four-quadrant FEA-supported experiential module was implemented across three heat transfer topics without formal assessment](elt-fea-module-implemented-three-topics-unassessed.md) — related
+- [Student-developed specialized modules attract substantial online use and are slated for cMOOC reuse with data-based evaluation](student-modules-online-use-cmooc-reuse.md) — related
+- [The multimedia learning module advantage over the textbook persists on a retention test administered two weeks after the lessons](mlm-retention-advantage-two-weeks.md) — related

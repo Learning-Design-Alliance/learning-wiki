@@ -41,4 +41,4 @@ The review reports, citing Takahashi and McDougal (2016), that PLC with no appoi
 
 
 ## Related Claims
--
+- [Educator activity style should match the group's leadership capacity: low activity style with well-developed leadership, high activity style without it](educator-style-matches-leadership-capacity.md) — related

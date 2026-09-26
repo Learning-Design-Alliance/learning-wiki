@@ -12,7 +12,7 @@ generated:
 # Faded Guidance
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 4 studies, `q3` · 4 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 4 studies, `q3` · 4 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 Faded guidance sequences instruction so that support is high at the start and is systematically withdrawn as competence grows. The canonical form is the faded worked-example sequence: a fully worked problem, then a completion problem where the learner fills in the final steps, then one with more steps missing, until the learner solves problems unaided [Renkl & Atkinson, 2003]. Fading can apply to any support structure — worked steps, prompts, checklists, sentence frames — not just worked examples.

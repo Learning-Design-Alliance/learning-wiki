@@ -41,4 +41,5 @@ Narrative review of MRI and post-mortem studies of adolescent brain structure. T
 
 
 ## Related Claims
--
+- [During early and mid-adolescence, brain reward and emotion systems are more developed than cognitive control systems, leaving self-regulation developmentally out of balance](adolescent-brain-imbalance-reward-versus-control.md) — related
+- [Adolescents rely more on the amygdala and less on frontal regions than adults when processing emotional stimuli, and younger teens often misread facial expressions](adolescents-amygdala-driven-emotion-processing.md) — related

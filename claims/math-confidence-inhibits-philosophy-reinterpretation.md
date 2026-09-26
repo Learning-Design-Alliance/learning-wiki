@@ -41,4 +41,8 @@ Case-study interpretation contrasting Ken's response with Ball's (1990) elementa
 
 
 ## Related Claims
--
+- [Four contexts of mathematics teacher education described the experiences most influential to the preservice teacher's evolving philosophy of mathematics](four-contexts-influential-preservice-philosophy.md) — related
+- [Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.](functional-fixedness-limits-problem-solving.md) — related
+- [The preservice teacher's philosophical evolution was so subtle that he did not recognize alternative philosophical views of mathematics or perceive his student teaching would have differed without the program](subtle-philosophy-evolution-unrecognized-by-teacher.md) — related
+- [Perturbation or dissatisfaction with current beliefs, stimulated by reflecting on experiences through the NCTM Standards, was an important stimulus for change in a preservice teacher's philosophy](perturbation-stimulates-philosophy-change.md) — related
+- [A preservice secondary mathematics teacher's philosophy evolved subtly over a year, appending a 'deeper understanding' view to his original absolutist theory of mathematics](preservice-philosophy-evolved-by-appending-deeper-understanding.md) — related

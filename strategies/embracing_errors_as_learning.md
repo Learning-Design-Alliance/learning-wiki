@@ -29,7 +29,7 @@ Errors carry diagnostic information that correct answers do not: they expose the
 - Feedback that is actionable and forward-looking rather than evaluative [Feedback that answers where am I going, how am I doing, and where to next improves learning.](../claims/feedback-answers-three-questions-improves-learning.md) [+S]
 
 #### Constraints
-- Learners with strong entity (fixed) beliefs about ability may interpret public error analysis as exposure; mindset framing must precede error-focused routines [Growth mindset interventions improve achievement for at-risk students.](../claims/growth-mindset-interventions-improve-achievement.md) [~M]
+- Learners with strong entity (fixed) beliefs about ability may interpret public error analysis as exposure; mindset framing must precede error-focused routines [Growth mindset interventions improve achievement for at-risk students.](../claims/growth-mindset-improves-achievement.md) [~M]
 - Public error discussion can backfire in low-trust classrooms or with anxious learners; anonymous error collection (exit tickets, clickers) is a safer entry point
 - Analyzing errors consumes instructional time; overuse on trivial slips rather than conceptual errors yields little return
 - If errors are celebrated but never resolved, learners may encode the misconception itself [-M]
@@ -47,7 +47,7 @@ Errors carry diagnostic information that correct answers do not: they expose the
 
 ### Target Learning Goals
 - Conceptual change: replacing misconceptions with accurate models [Cognitive disequilibrium motivates conceptual change.](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M]
-- Growth-oriented beliefs about ability and persistence on challenging tasks [Growth mindset interventions improve achievement for at-risk students.](../claims/growth-mindset-interventions-improve-achievement.md) [~M]
+- Growth-oriented beliefs about ability and persistence on challenging tasks [Growth mindset interventions improve achievement for at-risk students.](../claims/growth-mindset-improves-achievement.md) [~M]
 - Metacognitive monitoring: learning to detect and diagnose one's own errors
 
 ### Instructions

@@ -41,4 +41,7 @@ Analysis of five Facebook groups in an HCI/d Master's program found student-crea
 
 
 ## Related Claims
--
+- [Student-created Facebook groups support self-directed design learning and sharing of expertise outside the formal curriculum](sns-groups-support-informal-design-learning.md) — possibly the same claim (merge candidate)
+- [Social network site participation enables design learning that breaks the confines of space and time, including pre-enrollment learning and asynchronous ethical discussion](sns-learning-unbounded-space-time.md) — related
+- [Four types of designerly talk manifest in student-managed social network spaces: tool selection, professional identity, skill-sharing coordination, and ethical design discussion](four-types-designerly-talk-sns.md) — a narrower finding that bears on this claim
+- [Students transition between student and proto-professional roles in informal SNS discourse, bridging learning and design practice](student-proto-professional-role-transition.md) — related

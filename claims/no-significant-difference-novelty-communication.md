@@ -41,4 +41,7 @@ Instructor survey scoring of novelty and communication on physics exam questions
 
 
 ## Related Claims
--
+- [Engineering physics exam questions demand more approach selection or synthesis while Technology questions often prescribe a specific approach](engineering-physics-questions-higher-scaffolding-autonomy.md) — related
+- [Variation among Engineering programs is as large as variation between Engineering and Technology programs](within-sector-variability-rivals-between-sector.md) — related
+- [Collected exam questions required no cognitive processes above apply and no originality in analysis or high-level interdependence](exam-questions-capped-at-apply-and-standardized-analysis.md) — related
+- [Technology programs examine discipline-related physics topics at higher cognitive levels within a disciplinary context](technology-programs-discipline-specific-physics-emphasis.md) — related

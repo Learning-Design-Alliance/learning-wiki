@@ -41,4 +41,7 @@ The protocol asserts, citing prior studies, that "measures of brain structure an
 
 
 ## Related Claims
--
+- [Exercise Increases Hippocampal Volume](exercise-increases-hippocampal-volume.md) — a narrower finding that bears on this claim
+- [Classroom Physical Activity Improves Attention](classroom-physical-activity-improves-attention.md) — related
+- [Early training produces neural and physiological adaptations that can be misattributed to innate talent](early-training-adaptations-misread-as-talent.md) — related
+- [Time of day and days since the first scan are robust predictors of within-person variance in grey matter and total cortex volume](time-of-day-and-scan-interval-predict-within-person-brain-volume-variance.md) — a narrower finding that bears on this claim

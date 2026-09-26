@@ -41,4 +41,7 @@ The packet's Rationale section asserts, citing Krashen (1981a), that "repetitive
 
 
 ## Related Claims
--
+- [Comprehensible input in natural language contexts is presented as essential to second language acquisition](comprehensible-input-essential-l2-acquisition.md) — related
+- [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — related
+- [Monitoring significantly improves a second language learner's accuracy on learnable rules (subject-verb agreement, regular past tense) in the most monitored style](monitoring-improves-learnable-rule-accuracy.md) — reports the opposite
+- [Error analysis has stated limitations: overattention to errors, overstressing production data, failure to account for avoidance, and language-specific focus](error-analysis-limitations.md) — related

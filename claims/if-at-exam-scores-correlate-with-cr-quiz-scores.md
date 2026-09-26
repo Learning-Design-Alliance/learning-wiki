@@ -41,4 +41,5 @@ Correlational validity check comparing cumulative IF-AT exam scores against five
 
 
 ## Related Claims
--
+- [Polychotomously scored IF-AT physics exam items show excellent discrimination, with a mean item-total correlation of r′ = 0.41 ± 0.13 across 45 items](if-at-integrated-testlet-items-excellent-discrimination.md) — related
+- [Partial credit accounts for only a small proportion of IF-AT exam scores, though weaker students depend on it more](if-at-partial-credit-small-proportion-of-score.md) — related

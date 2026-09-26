@@ -70,3 +70,6 @@ Systematic review of 22 peer-reviewed studies of morphological intervention with
 - [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) — fluent decoding is the prerequisite that lets morphological analysis operate on real text
 - [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) — morphemes function as meaningful chunks, reducing the load of processing long words
 - [Accessible vocabulary and syntax.](../principles/accessible-vocabulary-syntax.md) — accessible texts provide the authentic word material learners apply morphological analysis to
+- [Disciplinary Literacy Instruction Improves Comprehension](disciplinary-literacy-instruction-improves-comprehension.md) — related
+- [Morphological Instruction Improves Literacy](morphological-instruction-improves-literacy.md) — related
+- [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — related

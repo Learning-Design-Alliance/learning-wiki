@@ -74,3 +74,6 @@ The meta-analysis covers 99 studies of students from preschool to high school an
 - [Brief intervention: empathic discipline cuts suspensions](brief-intervention-empathic-discipline-cuts-suspensions.md) — relationship-oriented teacher practice improves behavioral outcomes
 - [Check-ins](../principles/check-ins.md) — a practical routine for building relationship quality
 - [Belonging](../elements/belonging.md) — the design element most directly supported by strong relationships
+- [The study's correlational, cross-sectional design limits internal validity and causal interpretation](correlational-design-limits-epistemic-freedom-study.md) — related
+- [Learner-centered teacher–student relationships improve student outcomes](learner-centered-teacher-student-relationships-are-effective.md) — related
+- [Teacher Student Relationships Improve Engagement And Achievement](teacher-student-relationships-improve-engagement-and-achievement.md) — possibly the same claim (merge candidate)

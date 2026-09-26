@@ -41,4 +41,8 @@ In the discussion of the interview study, the author reports "almost half of the
 
 
 ## Related Claims
--
+- [Few kindergartners hold synthetic (18%) or scientific (13%) models of the day and night cycle despite no formal instruction](few-kindergartners-synthetic-scientific-models.md) — related
+- [The majority (63%) of kindergartners hold naïve mental models of the day and night cycle, with the distance model the most common](kindergartners-majority-naive-day-night-models.md) — related
+- [Guided Discovery Outperforms Pure Discovery](guided-discovery-outperforms-pure-discovery.md) — related
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
+- [Modeling training improved imaginative play in disadvantaged kindergartners, with gains in imaginativeness, verbal communication, spontaneity, and attention span persisting two months](modeling-training-improves-imaginative-play.md) — related

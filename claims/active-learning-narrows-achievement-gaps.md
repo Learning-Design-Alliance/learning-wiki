@@ -61,3 +61,7 @@ Both studies share a structure worth noting for design purposes: the achievement
 
 ## Related Claims
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — a related body of evidence on why moving away from pure lecture format changes learning outcomes
+- [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — a broader claim this one bears on
+- [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — related
+- [A disadvantaged-child program with heavy oral language emphasis led all compared programs in cognitive gains](oral-language-emphasis-program-led-cognitive-gains.md) — related
+- [Self-affirmation improves outcomes](self-affirmation-improves-outcomes.md) — related

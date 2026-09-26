@@ -42,4 +42,5 @@ Analysis of a low-stakes computer-based physics trial test (352 grade-8 students
 
 
 ## Related Claims
--
+- [The negative response time–likelihood trend holds for boys (R=-0.22) but not for girls (R=+0.04)](rt-likelihood-trend-boys-not-girls.md) — related
+- [In Mnemosyne log data, item-specific difficulty parameters outperform a global difficulty for lower and higher Leitner decks, while global difficulty performs better for intermediate decks.](item-specific-difficulty-helps-only-at-low-and-high-leitner-decks.md) — related

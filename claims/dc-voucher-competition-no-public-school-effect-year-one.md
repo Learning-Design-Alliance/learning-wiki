@@ -41,4 +41,7 @@ Observational school-level analysis of 151 DC public schools using OLS regressio
 
 
 ## Related Claims
--
+- [The authors infer the DC voucher program is likely reducing racial segregation in schooling, since 94% of voucher users are African American](dc-voucher-program-likely-reducing-segregation.md) — related
+- [Voucher-participating private schools in DC have racial compositions closer to the surrounding metro area than public schools](dc-voucher-schools-closer-to-metro-racial-mix.md) — related
+- [Far fewer voucher-participating private schools than DC public schools are racially homogeneous (90% or 95%+ one race)](dc-voucher-schools-less-racially-homogeneous.md) — related
+- [85.1% of DC public school students attend schools at least 91% non-White, versus 42.8% of voucher private school students](dc-public-students-in-highly-minority-schools.md) — related

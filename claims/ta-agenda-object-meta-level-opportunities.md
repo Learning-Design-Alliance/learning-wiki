@@ -41,4 +41,7 @@ The review reports, citing Pinto (2019), a study of two TAs' tutorial discourse 
 
 
 ## Related Claims
--
+- [Commognitive analysis of lecturing offers micro-level insights into lecturer-student communication that non-commognitive approaches miss](commognition-offers-micro-level-insights-into-lecturing.md) — a broader claim this one bears on
+- [Communication problems between university and school regarding epistemological and ontological questions affect teaching and learning of subject knowledge](epistemological-communication-problems-between-organizations.md) — related
+- [Review reports lecturers' discourse contains endorsed and enacted meta-rules about doing mathematics that can model mathematical behavior](lecturer-meta-rules-endorsed-and-enacted.md) — related
+- [Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum](curricular-knowledge-enables-responsive-instructional-moves.md) — related

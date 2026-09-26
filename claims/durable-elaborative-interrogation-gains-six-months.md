@@ -41,4 +41,5 @@ Experiment 2 follow-up: students completed 75-day and 180-day recognition tests 
 
 
 ## Related Claims
--
+- [Elaborative-interrogation students are less confident in their incorrect recognition selections than reading controls, who express great confidence in erroneous answers](elaborative-interrogation-reduces-confidence-in-errors.md) — related
+- [Elaborative interrogation instructions produce better recall and recognition of science facts than reading-for-understanding instructions](elaborative-interrogation-improves-science-fact-learning.md) — related

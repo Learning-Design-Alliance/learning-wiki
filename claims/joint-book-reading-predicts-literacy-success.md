@@ -90,3 +90,12 @@ This research synthesis meta-analysed 99 studies (N = 7,669) of leisure-time rea
 - [Activation improves learning.](activation-improves-learning.md) — dialogic reading works partly by activating the child's prior knowledge during the interaction
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — well-chosen books manage the language load a young child must process in the moment
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — shared reading lets an adult carry the decoding load so the child can attend to meaning
+- [In teacher-led big-book reading, children exercise cognitive autonomy by making their own connections between spoken and written words within the activity's boundaries](big-book-reading-cognitive-autonomy.md) — related
+- [Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy](cl-early-childhood-education-improves-school-readiness.md) — related
+- [Conversational turn-taking predicts language development better than raw word count or socioeconomic status.](conversational-turns-predict-language-development.md) — related
+- [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-expressive-language.md) — related
+- [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — related
+- [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
+- [Parent Involvement Improves Achievement](parent-involvement-improves-achievement.md) — related
+- [A disadvantaged-child program with heavy oral language emphasis led all compared programs in cognitive gains](oral-language-emphasis-program-led-cognitive-gains.md) — related
+- [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related

@@ -41,4 +41,9 @@ Authors' diagnostic discussion (type e): five items assess science and reading c
 
 
 ## Related Claims
--
+- [Achievement dimensionality appears to change from pretest to end-of-course testing, questioning unidimensional ICC measurement of individual growth during instruction](achievement-dimensionality-changes-during-instruction.md) — related
+- [In an empirical comparison on a testlet-based English assessment test, the bifactor model is preferred over the second-order and unidimensional 2PL models by both AIC and BIC](bifactor-model-preferred-aic-bic-testlet-test.md) — related
+- [The ICC and LDF methods identify substantially different sets of items as exhibiting DIF on a state science performance assessment](icc-and-ldf-methods-identify-different-dif-items.md) — related
+- [ICC method flags seven items with the largest DIF indices, two of which show slight nonuniform DIF that the unsigned-area measure understates](icc-identifies-seven-largest-dif-items.md) — related
+- [Ignoring testlet effects by fitting a unidimensional 2PL model produced mild shrinkage of item intercept and loading estimates toward zero relative to the bifactor model](ignoring-testlet-effects-shrinks-parameter-estimates.md) — related
+- [Given assumption violations and the uniformity factor, the authors judge the LDF method more likely accurate and superior to ICC for this performance assessment](ldf-superior-to-icc-for-this-performance-assessment.md) — related

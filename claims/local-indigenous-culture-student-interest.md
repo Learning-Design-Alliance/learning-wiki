@@ -41,4 +41,4 @@ Observational finding reported from the Leading the Way research into teaching a
 
 
 ## Related Claims
--
+- [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related

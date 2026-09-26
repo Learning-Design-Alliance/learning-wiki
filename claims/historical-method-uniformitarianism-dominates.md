@@ -41,4 +41,6 @@ Coding of historical-method elements in the sampled Holt Earth Science inquiry t
 
 
 ## Related Claims
--
+- [Pre-service teachers' self-efficacy and instructional-planning levels were relatively high, but Bloom taxonomy classification was low](preservice-planning-high-taxonomy-low.md) — related
+- [Holt Earth Science inquiry tasks emphasize making multiple observations and developing theories about mechanisms but omit several authentic scientific inquiry features](holt-earth-science-missing-authentic-inquiry-features.md) — related
+- [Evaluating knowledge organization systems by correctness alone is atemporal and must account for change over time](kos-evaluation-must-account-for-change-over-time.md) — related

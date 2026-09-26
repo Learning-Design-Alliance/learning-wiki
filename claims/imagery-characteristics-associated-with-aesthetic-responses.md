@@ -43,4 +43,6 @@ Regression models on the formal sample of 425 respondents with gender and educat
 
 
 ## Related Claims
--
+- [Perceived immersive, interactive, and distributed affordances are each positively associated with a distinct lacquer-painting imagery characteristic in cross-sectional survey data](perceived-digital-affordances-associated-with-lacquer-imagery-characteristics.md) — related
+- [Sensible scene shows a statistically distinguishable serial indirect association with behavioral intention through emotional resonance and cognitive evaluation in a constrained bootstrap model](serial-indirect-association-sensible-scene-to-behavioral-intention.md) — a narrower finding that bears on this claim
+- [Technology acceptance conditions the virtual-real-imagination–behavioral-intention association, which is stronger at higher reported technology acceptance](technology-acceptance-moderates-vr-imagination-behavioral-intention.md) — related

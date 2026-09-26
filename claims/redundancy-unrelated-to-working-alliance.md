@@ -41,4 +41,7 @@ Within the seven-case analysis, session-level redundancy indices on three VRM ro
 
 
 ## Related Claims
--
+- [The congruence-change and symptom-reduction relation does not hold at six-month follow-up](congruence-symptom-relation-absent-at-six-months.md) — related
+- [Congruence of communication varies with situational importance and relationship closeness](congruence-varies-with-situation-importance-and-relationship.md) — related
+- [Therapy relationships do not show a transition from relational incongruence to congruence across sessions](no-incongruence-to-congruence-transition-across-therapy-sessions.md) — related
+- [Overall therapist complementarity across the full therapeutic relationship does not differ significantly between successful and unsuccessful outcome groups](overall-therapist-complementarity-not-related-to-therapy-outcome.md) — related

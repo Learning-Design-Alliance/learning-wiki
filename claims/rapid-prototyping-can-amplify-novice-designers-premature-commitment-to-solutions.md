@@ -49,3 +49,7 @@ A chapter situating design thinking in the design research field, from which it 
 
 ## Related Claims
 - [Guidance becomes more necessary as task complexity and learner inexperience increase.](expertise-reversal-effect.md) — the same novice-versus-expert pattern, observed in learners rather than designers
+- [Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.](functional-fixedness-limits-problem-solving.md) — related
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
+- [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — related

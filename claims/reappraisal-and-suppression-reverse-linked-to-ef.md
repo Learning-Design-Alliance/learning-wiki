@@ -41,4 +41,6 @@ Structural equation model testing symmetric bidirectional paths in the same 368-
 
 
 ## Related Claims
--
+- [Digital use intensity attenuates the positive EF–reappraisal association, more pronouncedly on the EF→ER pathway than the reverse](digital-intensity-attenuates-ef-reappraisal-link.md) — related
+- [Stronger executive function is concurrently associated with greater cognitive reappraisal and less expressive suppression in adolescents](ef-associated-with-reappraisal-and-lower-suppression-adolescents.md) — related
+- [Inhibitory control is the strongest concurrent correlate of cognitive reappraisal among EF components](inhibitory-control-strongest-reappraisal-correlate.md) — related

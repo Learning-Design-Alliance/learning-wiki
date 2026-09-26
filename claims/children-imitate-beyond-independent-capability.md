@@ -41,4 +41,5 @@ Theoretical argument reported in this review paper, attributed to Vygotsky via v
 
 
 ## Related Claims
--
+- [Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope](choice-rich-infrastructure-supports-productive-deviation-and-learning.md) — related
+- [In pretend play the child behaves beyond her average age and daily behaviour](pretend-play-child-head-taller.md) — related

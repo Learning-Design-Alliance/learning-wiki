@@ -50,3 +50,6 @@ This is a genuine, informative null result on the paper's primary target and sho
 
 ## Related Claims
 - (none yet linked)
+- [Both procedural and descriptive writing scores improved significantly after GBSRI](gbsri-improves-procedural-and-descriptive-genres.md) — related
+- [Interdisciplinary humanities units improve students' interdisciplinary competences](interdisciplinary-humanities-units-improve-interdisciplinary-competences.md) — related
+- [Rubrics improve student work](rubrics-improve-student-work.md) — related

@@ -41,4 +41,8 @@ Experiment 1: 36 paid volunteers from an introductory college physics course, bl
 
 
 ## Related Claims
--
+- [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related
+- [Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels](higher-hierarchy-levels-recalled-better.md) — a narrower finding that bears on this claim
+- [Hierarchical versus single-level organization does not significantly affect performance on local tasks relying only on individual detailed steps](no-organization-effect-on-local-tasks.md) — related
+- [A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks](organization-task-match-determines-benefit.md) — related
+- [Strong acquisition tasks explicating the organization produce better internalization than weak tasks asking only for a structured summary](strong-acquisition-tasks-improve-internalization.md) — related

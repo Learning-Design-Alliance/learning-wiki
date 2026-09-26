@@ -75,3 +75,9 @@ This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing t
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — guidance benefits shrink and can reverse as learner expertise grows.
 - [5E learning cycle](../patterns/5e-learning-cycle.md) — a structured inquiry pattern that operationalizes teacher-guided inquiry.
 - [Direct instruction](../patterns/direct-instruction.md) — the strongly guided contrast case in guided-vs-discovery comparisons.
+- [Guided Discovery Outperforms Pure Discovery](guided-discovery-outperforms-pure-discovery.md) — related
+- [Guided Inquiry Outperforms Pure Discovery](guided-inquiry-outperforms-pure-discovery.md) — related
+- [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — possibly the same claim (merge candidate)
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
+- [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — a narrower finding that bears on this claim
+- [Some students found the guided-inquiry worksheet activities insufficiently thought-provoking and the data exchange troublesome](students-criticize-inquiry-worksheets-low-thinking.md) — related

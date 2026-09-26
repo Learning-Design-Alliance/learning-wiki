@@ -41,4 +41,6 @@ Textual analysis (type d/e) of Starbird's (2006) presentation in section 4, usin
 
 
 ## Related Claims
--
+- [Abusive generalization processes in the intuitive presentation are a source of potential semiotic conflicts](abusive-generalization-semiotic-conflicts.md) — related
+- [Students can apply procedural knowledge to solve integration problems but show limited understanding of basic integration concepts](procedural-strong-conceptual-limited-integral.md) — related
+- [Understanding Stewart's formal definition of the definite integral demands mobilizing a system of prior knowledge across a network of semiotic functions](stewart-definition-prior-knowledge-demands.md) — related

@@ -41,4 +41,6 @@ Posttest-only program evaluation of the ADK language development component in Co
 
 
 ## Related Claims
--
+- [Balloons posttest scores in the ADK evaluation sample had a median of 15 items correct, ranging from 2 to 17](balloons-posttest-median-15-range-2-17.md) — related
+- [Process evaluation found no major recordkeeping or pupil-selection problems in ADK classrooms](adk-process-evaluation-no-major-problems.md) — related
+- [Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy](cl-early-childhood-education-improves-school-readiness.md) — related

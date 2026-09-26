@@ -41,4 +41,5 @@ Observational analysis of ASSISTments 2009-2010 data shown in Figure 1, which pl
 
 
 ## Related Claims
--
+- [Hint takers spend less time on a question than learners who attempt it, regardless of attempt outcome](hint-takers-spend-less-time-than-attempters.md) — related
+- [The very high adjusted R² of the RSS-estimation model may indicate BKT works better when percent correct is very high, leaving little room for T and G](high-pc-bkt-little-room-t-g.md) — related

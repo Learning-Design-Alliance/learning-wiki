@@ -41,4 +41,8 @@ Correlational analysis of characteristic response time versus mean response like
 
 
 ## Related Claims
--
+- [Boys responded faster than girls on the test, but the response-time difference did not affect achievement](boys-faster-than-girls-no-achievement-difference.md) — related
+- [Mean response likelihood does not differ significantly between boys and girls, but its variance is 1.46 times greater for girls](likelihood-variance-greater-for-girls.md) — related
+- [Correlation between log response time and response likelihood is negative for almost all items, and its magnitude depends on the item difficulty parameter](log-rt-likelihood-correlation-negative-depends-on-difficulty.md) — related
+- [Boys and girls do not differ in the type of mental models of the day and night cycle they hold](no-gender-difference-day-night-mental-models.md) — related
+- [DIF was found for four items but could not be anticipated from differential response times between boys and girls alone](dif-not-predictable-from-differential-response-times.md) — related

@@ -41,4 +41,6 @@ Revisión narrativa de investigaciones locales y extranjeras sobre las dificulta
 
 
 ## Related Claims
--
+- [Las longitudes de las sombras al mediodía muestran una simetría en torno a los solsticios y los equinoccios que impide distinguir fechas solo midiendo sombras](shadow-length-symmetry-around-solstices.md) — related
+- [El Sol solo sale exactamente por el este y se pone exactamente por el oeste durante los equinoccios](sun-rises-exactly-east-only-at-equinoxes.md) — related
+- [The new Ciencias II curriculum shifts the entry point to physics from measurement of physical properties (1993 plan) to the perception of movement, integrating light and sound from the start of the course](ciencias-ii-entry-shift-measurement-to-movement.md) — related

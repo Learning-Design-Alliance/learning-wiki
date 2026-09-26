@@ -41,4 +41,6 @@ The paper quotes this criticism from Green and Tabor (1978), management-training
 
 
 ## Related Claims
--
+- [Conscientization, grounded in Freire's consciousness-raising, is argued to fit adventure therapy's experiential learning methodology as the first empowerment level](conscientization-fits-adventure-therapy.md) — related
+- [A scholar identifies children's acquisition of appropriate critical thinking skills as the determining element of MLE quality in elementary schools](critical-thinking-quality-mle.md) — related
+- [The paper argues experiential training of early childhood workers is likely to produce reflective, creative caregivers and children who learn better](experiential-training-ecd-workers-better-child-outcomes.md) — related

@@ -41,4 +41,8 @@ Historical-comparison evidence reviewed by the authors, described as the best si
 
 
 ## Related Claims
--
+- [Amount of accumulated deliberate practice distinguishes more from less accomplished musicians](deliberate-practice-hours-differentiate-musicians.md) — related
+- [Deliberate Practice Improves Performance](deliberate-practice-improves-performance.md) — related
+- [Early training produces neural and physiological adaptations that can be misattributed to innate talent](early-training-adaptations-misread-as-talent.md) — related
+- [Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge](reflective-thinking-correlates-epistemological-beliefs.md) — related
+- [Relative-age effects, not innate talent, bias selection into elite youth sports](relative-age-effect-talent-selection-bias.md) — related

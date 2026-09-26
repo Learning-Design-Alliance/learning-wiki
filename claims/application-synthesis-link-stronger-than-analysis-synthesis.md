@@ -41,4 +41,5 @@ Comparison of causal link averages for the total 16 replications summarized in F
 
 
 ## Related Claims
--
+- [Causal model analysis of taxonomy test data suggests a Y-shaped structure rather than Bloom's cumulative hierarchy](y-shaped-structure-challenges-bloom-cumulative-hierarchy.md) — a broader claim this one bears on
+- [Partial correlations between Analysis and Synthesis nearly vanish in most replications when lower levels and g are partialed out](analysis-synthesis-partial-correlation-near-vanishing.md) — related

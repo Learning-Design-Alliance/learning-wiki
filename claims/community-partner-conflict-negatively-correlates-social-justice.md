@@ -41,4 +41,8 @@ Correlational analyses of community partner-student NRI-SPV variables against CA
 
 
 ## Related Claims
--
+- [Professor-student relationship quality correlates with multiple civic engagement outcomes in both directions](professor-relationship-quality-civic-engagement-bidirectional.md) — possibly the same claim (merge candidate)
+- [Positive SLAM-student relationship qualities correlate with civic action](slam-relationship-quality-correlates-civic-action.md) — related
+- [Exploration of diversity is associated with all civic competence outcomes in community-based learning courses](diversity-enhances-all-civic-competence-outcomes.md) — related
+- [Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged](positive-relationships-increase-civic-engagement-intention.md) — related
+- [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](service-learning-improves-civic-and-personal-outcomes.md) — related

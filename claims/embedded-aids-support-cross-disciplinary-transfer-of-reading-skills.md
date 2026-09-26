@@ -41,4 +41,9 @@ The article offers this as the author's rationale for how embedded aids address 
 
 
 ## Related Claims
--
+- [Textual material treated with embedded aids produced 10-15% higher reading comprehension scores than conventional text, statistically significant at the .01 level, in a science-material study with approximately 200 tenth graders across three schools.](embedded-aids-improve-reading-comprehension.md) — related
+- [Using embedded aids required students to take about 7% longer, on average, to complete an assigned chapter, and comprehension scores reflected this additional effort.](embedded-aids-increase-reading-time-modestly.md) — related
+- [Students and teachers respond favorably to embedded aids: approximately 90% of students reported no difficulty understanding or using the aids, and over 75% wanted similar aids throughout the book.](embedded-aids-are-acceptable-to-students-and-teachers.md) — related
+- [Self-explanation improves learning](self-explanation-improves-learning.md) — a broader claim this one bears on
+- [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — a broader claim this one bears on
+- [Students do not appear to have great difficulty adjusting to a more 'busy' page when assistance and enrichment units are woven into textual material.](students-adjust-easily-to-busier-text-pages.md) — related

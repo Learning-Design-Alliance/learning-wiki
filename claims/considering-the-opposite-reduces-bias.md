@@ -54,3 +54,6 @@ This PRISMA-based systematic review screened 86 articles down to 12 studies (17 
 - [Civic online reasoning instruction improves evaluation.](civic-online-reasoning-instruction-improves-evaluation.md) — evaluating online sources is a judgment task where confirmation bias is prominent
 - [Cognitive disequilibrium motivates conceptual change.](cognitive-disequilibrium-motivates-conceptual-change.md) — encountering contradictory evidence creates the disequilibrium that opposite-considering exploits
 - [Cognitive flexibility theory: multiple cases.](cognitive-flexibility-theory-multiple-cases.md) — multiple representations and cases reduce premature fixation on a single interpretation
+- [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
+- [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
+- [Critical science education requires explicit attention to philosophy of science and rival theories](critical-science-education-philosophy-of-science.md) — related

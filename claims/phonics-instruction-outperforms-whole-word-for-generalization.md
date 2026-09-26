@@ -89,3 +89,8 @@ This systematic review re-examines 12 meta-analyses of systematic phonics and th
 - [Cognitive load reduction improves learning.](../claims/cognitive-load-reduction-improves-learning.md) — a generative decoding strategy reduces the memory burden of whole-word memorization.
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — the theoretical frame explaining why a small generative rule set outperforms item-by-item memorization.
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — explains why phonics' advantage fades once decoding is established.
+- [Whole language and phonics approaches each have limits, and the teacher should observe the individual pupil to balance whole-word and phonics instruction](balance-whole-language-and-phonics.md) — reports the opposite
+- [Systematic Phonics Improves Word Reading](systematic-phonics-improves-word-reading.md) — possibly the same claim (merge candidate)
+- [Structured Literacy Interventions Help Struggling Readers](structured-literacy-interventions-help-struggling-readers.md) — related
+- [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — related
+- [Phonological Awareness Training Improves Reading](phonological-awareness-training-improves-reading.md) — related

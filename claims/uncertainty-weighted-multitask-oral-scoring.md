@@ -41,4 +41,4 @@ Design description of the multi-task training objective following the homoscedas
 
 
 ## Related Claims
--
+- [A multi-task CNN-LSTM diagnostic model with attention-based fusion achieves correlations of 0.887, 0.862, 0.824, and 0.793 with human expert ratings across four oral proficiency dimensions under speaker-independent testing](cnn-lstm-multitask-oral-diagnostic-accuracy.md) — related

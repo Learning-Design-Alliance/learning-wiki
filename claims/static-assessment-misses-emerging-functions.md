@@ -41,4 +41,6 @@ Theoretical argument in this review paper, attributed to Vygotsky, that static i
 
 
 ## Related Claims
--
+- [A full assessment of a potentially expansive mini-cycle of learning calls for extending the time scale of the analysis beyond a single session](assessing-minicycle-requires-extended-time-scale.md) — related
+- [Knowledge development as social collaboration: ZPD and collective activity systems support CSL learning networks](chat-knowledge-development-social-collaborative-csl.md) — a broader claim this one bears on
+- [Funds-of-knowledge-grounded tasks reveal computational thinking that decontextualized assessment misses](funds-of-knowledge-tasks-reveal-computational-thinking.md) — related

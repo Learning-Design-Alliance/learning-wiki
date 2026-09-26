@@ -41,4 +41,6 @@ A MANOVA compared posttest CASQ scores between mentored (n = 60) and non-mentore
 
 
 ## Related Claims
--
+- [Peer mentoring shows a trend toward higher posttest social justice attitudes](peer-mentoring-trend-social-justice-attitudes.md) — related
+- [Positive SLAM-student relationship qualities correlate with civic action](slam-relationship-quality-correlates-civic-action.md) — related
+- [Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged](positive-relationships-increase-civic-engagement-intention.md) — a broader claim this one bears on

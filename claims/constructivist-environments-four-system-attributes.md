@@ -41,4 +41,6 @@ Definitional statement quoted from Jonassen (1995) as cited in the paper, descri
 
 
 ## Related Claims
--
+- [DL2F aligns with social and cognitive constructivist theories of learning](dl2f-constructivist-alignment.md) — related
+- [Consonance and dissonance patterns form four components, including a dominant pattern linking valuing constructivist teaching/assessment for learning with dissonance](four-patterns-consonance-dissonance-pca.md) — related
+- [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — related

@@ -41,4 +41,5 @@ Structural equation modeling in a cross-sectional study of 368 adolescents aged 
 
 
 ## Related Claims
--
+- [Emotion regulation is concurrently associated with executive performance in the reverse direction, with habitual suppression linked to diminished EF](reappraisal-and-suppression-reverse-linked-to-ef.md) — related
+- [Inhibitory control is the strongest concurrent correlate of cognitive reappraisal among EF components](inhibitory-control-strongest-reappraisal-correlate.md) — a narrower finding that bears on this claim

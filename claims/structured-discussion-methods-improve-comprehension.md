@@ -76,3 +76,9 @@ A year-long study of 35 fourth-graders across two classrooms implementing Qualit
 - [Activation improves learning](activation-improves-learning.md) — discussion benefits depend on learners having relevant prior knowledge activated beforehand.
 - [Discussion-based learning](../patterns/discussion-based-learning.md) — the pattern-level page describing how to implement discussion formats in course design.
 - [Accountable Talk](../strategies/accountable_talk.md) — a specific structured discussion framework with explicit talk norms and moves.
+- [Advance Organizers Improve Learning](advance-organizers-improve-learning.md) — related
+- [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) — related
+- [Discussion Quality Drives Comprehension](discussion-quality-drives-comprehension.md) — possibly the same claim (merge candidate)
+- [Iterative redesign of a peer-feedback task increased class engagement across three rounds](iterative-task-redesign-increased-engagement.md) — related
+- [Reading Strategy Instruction Improves Comprehension](reading-strategy-instruction-improves-comprehension.md) — related
+- [Structured Discussion Approaches Improve Comprehension](structured-discussion-approaches-improve-comprehension.md) — possibly the same claim (merge candidate)

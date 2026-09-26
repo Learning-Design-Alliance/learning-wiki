@@ -41,4 +41,8 @@ Conclusion drawn from the semester-long case trajectory of one teacher handling 
 
 
 ## Related Claims
--
+- [Switching to an updated synchronous platform catalysed the teacher's ongoing teaching innovation](platform-switch-catalyses-teaching-innovation.md) — a narrower finding that bears on this claim
+- [A teacher's positive initial response to blended delivery was shaped by experience, TELL beliefs and personality](experience-belief-personality-shape-initial-agency-response.md) — related
+- [The teacher's agency system reached dynamic stability at the edge of chaos in the final period](agency-reaches-edge-of-chaos-stability.md) — related
+- [Blended teaching shifted the teacher's self-identity from facilitator to co-facilitator and co-designer with students](blended-teaching-shifts-identity-to-co-facilitator.md) — related
+- [Teacher agency development proceeds through temporal phases in which different subsystems dominate](agency-subsystems-dominate-temporally.md) — a broader claim this one bears on

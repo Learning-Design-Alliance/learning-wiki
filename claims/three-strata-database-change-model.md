@@ -41,4 +41,5 @@ The review reports, citing Boydens and van Hooland (2011), a three-strata metaph
 
 
 ## Related Claims
--
+- [Scholarship on teaching style at the collegiate level has nearly disappeared since the social turn](style-teaching-disappeared-collegiate-level.md) — related
+- [Program experiments on the McClelland & Rumelhart interactive activation model turned thought experiments into real tests, revealing friends-enemies, rich-get-richer, and gang effects](interactive-activation-program-experiments-mask-effects.md) — related

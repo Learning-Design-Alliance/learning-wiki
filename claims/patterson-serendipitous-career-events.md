@@ -41,4 +41,6 @@ In the interview Patterson names serendipity as a recurring pattern in his caree
 
 
 ## Related Claims
--
+- [Patterson's views on person-centered counseling and psychotherapy, based on Rogers' philosophy, remain widely debated](patterson-person-centered-views-widely-debated.md) — related
+- [Patterson held that psychology, not education, is the basic science of both counseling and education](patterson-psychology-basic-science-counseling-education.md) — related
+- [Patterson valued his personal mentoring of students and mentees above his scholarly works](patterson-valued-mentoring-above-scholarship.md) — related

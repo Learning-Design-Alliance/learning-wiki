@@ -41,4 +41,5 @@ The article's introductory historical account reports that constructivism entere
 
 
 ## Related Claims
--
+- [Guided Discovery Outperforms Pure Discovery](guided-discovery-outperforms-pure-discovery.md) — a broader claim this one bears on
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on

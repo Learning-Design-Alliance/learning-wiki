@@ -19,7 +19,7 @@ Probing questions are follow-up questions that press learners to justify, elabor
 
 ## Design Implications
 
-Probing questions work because they elicit elaboration and self-explanation, which force learners to integrate new material with prior knowledge instead of leaving it as isolated recall [Eliciting self-explanations improves understanding.](../claims/eliciting-self-explanations-improves-understanding.md) [+S]. They also introduce productive intellectual discomfort: a well-aimed probe exposes a gap or contradiction that motivates conceptual change [Cognitive disequilibrium motivates conceptual change.](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M]. The effect depends on the facilitator treating learner responses as material to build on — contingent follow-up, not a scripted sequence of questions [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M].
+Probing questions work because they elicit elaboration and self-explanation, which force learners to integrate new material with prior knowledge instead of leaving it as isolated recall [Eliciting self-explanations improves understanding.](../claims/self-explanation-improves-learning.md) [+S]. They also introduce productive intellectual discomfort: a well-aimed probe exposes a gap or contradiction that motivates conceptual change [Cognitive disequilibrium motivates conceptual change.](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M]. The effect depends on the facilitator treating learner responses as material to build on — contingent follow-up, not a scripted sequence of questions [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Probing questions work because they elicit elaboration and self-explanation, whi
 - One-to-one conferring: probes during individual work, where follow-up can be tightly contingent on the learner's actual reasoning
 
 ### Target Learners
-- Learners with moderate prior knowledge who have something to articulate and refine [Eliciting self-explanations improves understanding.](../claims/eliciting-self-explanations-improves-understanding.md) [+S]
+- Learners with moderate prior knowledge who have something to articulate and refine [Eliciting self-explanations improves understanding.](../claims/self-explanation-improves-learning.md) [+S]
 - Most effective in higher education and professional development, where discussion norms and knowledge bases are established
 - Less suitable for complete novices, who need [explicit teaching](../patterns/explicit-teaching.md) before their reasoning is worth probing [~M]
 

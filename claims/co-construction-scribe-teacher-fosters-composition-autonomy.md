@@ -58,4 +58,6 @@ The authors' interpretation of the same Modena transcript: although the teacher 
 
 
 ## Related Claims
--
+- [Collaborative Writing Improves Text Quality](collaborative-writing-improves-text-quality.md) — related
+- [Generative (Constructive) engagement by young children produces better learning than attentive (Passive) engagement](constructive-beats-passive-young-children.md) — related
+- [Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope](choice-rich-infrastructure-supports-productive-deviation-and-learning.md) — related

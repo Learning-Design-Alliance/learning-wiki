@@ -41,4 +41,6 @@ The paper's evidence-model section reports, citing Haberman (2008) and Sinharay,
 
 
 ## Related Claims
--
+- [The second-order multidimensional IRT model for testlets is formally equivalent to the testlet model, and both are restricted bifactor models](second-order-model-equivalent-to-testlet-model.md) — related
+- [The three composite scoring methods yield differently related ability estimates, with the UIRT oral composite correlating far more with Speaking than Listening estimates](composite-score-estimates-correlation-patterns.md) — related
+- [Defining and quantifying reliability and measurement error is particularly challenging in epistemic games for three principal reasons](reliability-challenges-epistemic-games.md) — related

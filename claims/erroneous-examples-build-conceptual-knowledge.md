@@ -61,3 +61,7 @@ Erroneous examples are most effective for learners with at least some prior know
 ## Related Claims
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](high-confidence-errors-improve-retention.md)
 - [Self-explanation improves conceptual understanding and problem-solving performance.](self-explanation-improves-conceptual-understanding.md)
+- [Worked examples improve mathematics performance, especially for novices.](worked-examples-improve-math-performance.md) — related
+- [Self-explanation improves learning](self-explanation-improves-learning.md) — related
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
+- [Self Explanation Prompts Improve Learning From Worked Examples](self-explanation-prompts-improve-learning-from-worked-examples.md) — related

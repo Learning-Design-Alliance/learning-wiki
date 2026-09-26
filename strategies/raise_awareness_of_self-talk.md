@@ -49,7 +49,7 @@ Making self-talk visible is a metacognitive move: learners cannot regulate an in
 
 ### Target Learning Goals
 - Metacognitive awareness: recognizing one's own internal dialogue as an object of reflection
-- Self-regulation: building the foundation for instructional self-talk and self-regulated learning [Self-regulated learning strategies improve achievement.](../claims/self-regulated-learning-strategies-improve-achievement.md) [+S]
+- Self-regulation: building the foundation for instructional self-talk and self-regulated learning [Self-regulated learning strategies improve achievement.](../claims/self-regulated-learning-improves-achievement.md) [+S]
 - Affective goals: understanding the connection between thoughts, confidence, and persistence
 
 ### Instructions

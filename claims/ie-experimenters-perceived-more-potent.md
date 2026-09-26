@@ -41,4 +41,7 @@ Activity, Potency, and Evaluative dimension ratings were submitted to separate t
 
 
 ## Related Claims
--
+- [Experimenter locus-of-control status did not affect subjects' conditioning performance, contrary to the initial hypothesis](experimeter-ie-status-null-conditioning.md) — related
+- [Externals choose anticomplementary partners more frequently than internals in the choice phase](externals-choose-anticomplementary-partners.md) — related
+- [Aware external subjects reported greater incentive value of the verbal reinforcer than aware internal subjects](aware-externals-greater-reinforcer-incentive.md) — related
+- [Aware externals accounted for the conditioning effect, while aware internals, unaware subjects, and controls showed essentially no change](aware-externals-account-for-conditioning-effect.md) — related

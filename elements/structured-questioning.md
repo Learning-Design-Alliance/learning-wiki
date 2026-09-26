@@ -25,7 +25,7 @@ sources:
 # Structured Questioning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 11 studies, `q3`–`q4` · 11 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Structured questioning is an instructional element in which the instructor sequences purposeful questions — moving from factual retrieval toward explanation, application, and evaluation — to guide learners through inquiry without giving answers directly. The questions function as scaffolds: each one directs attention, elicits reasoning, and prompts learners to construct and articulate understanding themselves.

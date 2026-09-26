@@ -41,4 +41,7 @@ Case narrative of Gina, a second-year middle school math teacher in the project,
 
 
 ## Related Claims
--
+- [Fiber crafting develops proportional reasoning through nested, personally-defined units](fiber-crafting-develops-proportional-reasoning-through-unitizing.md) — related
+- [Teachers reported that CRS-and-TEFA use gave them more information about student thinking and that they changed lessons in response to that formative information](tefa-formative-information-changed-lessons.md) — related
+- [Teachers typically encounter the first three TEFA skill areas in order: technology operation, question design, then discourse orchestration](tefa-skill-areas-sequential-order.md) — related
+- [After one year of TEFA professional development, videotaped lessons showed increased discussion time, more student-student interactions, less IRE interaction, and more varied discussion formats](tefa-pd-year-one-observable-practice-changes.md) — related

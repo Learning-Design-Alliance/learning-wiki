@@ -41,4 +41,7 @@ Null results from Model 1 of the multilevel SEM of the two-wave GSA survey. The 
 
 
 ## Related Claims
--
+- [Collective GSA-level immigration discussion frequency is not associated with group-level gains in any empowerment or critical consciousness outcome](gsa-collective-discussion-null-group-level.md) — related
+- [Youth lost to attrition had discussed immigration more frequently and reported lower hope and peer validation at baseline](gsa-study-attrition-differences.md) — related
+- [More frequent immigration discussion predicts increased hope for immigrant-origin GSA members but not non-immigrant-origin members](immigration-discussion-hope-immigrant-origin-only.md) — related
+- [Discussing immigration more frequently than fellow GSA members predicts increased perceived peer validation by year's end](immigration-discussion-in-gsas-predicts-peer-validation.md) — related

@@ -41,4 +41,7 @@ Qualitative analysis of the SCMD activity system found rules of tool use, instit
 
 
 ## Related Claims
--
+- [SCMD discourse activity is best understood as an ecology of nested activity systems within and beyond the classroom](ecology-of-activity-systems-scmd.md) — related
+- [A collective unit of subjects emerges when two utterances form a dialogical pair in SCMD](collective-subject-emergence-dialogical-pair.md) — related
+- [Some students expanded and generalized class tools and rhetorical concepts into their own activities beyond the course](expansion-generalization-beyond-classroom.md) — related
+- [The change in tools caused the most disruption in e-teachers' activity system, replacing body language and visual cues with text and voice mediation](tool-change-most-disruption-online-teaching.md) — related

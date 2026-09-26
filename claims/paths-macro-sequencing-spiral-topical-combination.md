@@ -41,4 +41,6 @@ The author's flowchart analysis of lesson ordering across the fifty-six lessons 
 
 
 ## Related Claims
--
+- [PATHS spiral sequencing treats basic emotions as prerequisites for complex emotions across four levels of complexity](paths-basic-to-complex-hierarchical-spiral-sequencing.md) — related
+- [PATHS topical sequencing follows a general-to-detailed continuum, the Simplifying Conditions Method, and synonymous and antonymous relationships](paths-topical-sequencing-four-guidelines.md) — related
+- [Within-lesson sequencing in the PATHS Feelings and Relationships Unit proceeds from cognitive to behavioral to affective and from external to internal](paths-within-lesson-cognitive-to-affective-sequencing.md) — related

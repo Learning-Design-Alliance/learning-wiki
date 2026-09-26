@@ -24,7 +24,7 @@ Visual aids exploit the separation of visual and auditory processing channels in
 ### Context
 #### Requirements
 - Visuals that correspond directly to the verbal content (same referents, same sequence), not generic decoration
-- Spatial or temporal contiguity: the image appears next to, or simultaneously with, the relevant words [Separating related words and pictures in time or space impairs learning.](../claims/contiguity-principle-improves-learning.md) [+S]
+- Spatial or temporal contiguity: the image appears next to, or simultaneously with, the relevant words [Separating related words and pictures in time or space impairs learning.](../claims/split-attention-effect-degrades-learning.md) [+S]
 - Legible, uncluttered design — one idea per visual, labeled parts, minimal text embedded in the image
 - A way for learners to connect visual to verbal: narration, labels, or an [Advance Organizer](../elements/advance-organizers.md) that frames the structure
 
@@ -53,7 +53,7 @@ Visual aids exploit the separation of visual and auditory processing channels in
 ### Instructions
 1. Identify the core structure of the content (sequence, hierarchy, cause-effect, part-whole) and choose a visual form that matches it — a flowchart for a process, a map for spatial content, a table for comparisons.
 2. Draft the visual first, then write the verbal explanation to align with it; keep both free of extraneous detail [Irrelevant graphics and text reduce learning by imposing extraneous cognitive load.](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [+S].
-3. Present words and picture contiguously — same screen, same moment — and narrate rather than duplicating on-screen text [Separating related words and pictures in time or space impairs learning.](../claims/contiguity-principle-improves-learning.md) [+S].
+3. Present words and picture contiguously — same screen, same moment — and narrate rather than duplicating on-screen text [Separating related words and pictures in time or space impairs learning.](../claims/split-attention-effect-degrades-learning.md) [+S].
 4. Support integration with labels, arrows, or a brief [Advance Organizer](../elements/advance-organizers.md) telling learners what to look for.
 5. Follow with an activity that requires learners to use or reproduce the visual — labeling a blank diagram, drawing their own version, or explaining the visual to a peer.
 

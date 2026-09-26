@@ -41,4 +41,5 @@ Montreal replication survey comparison with the 1992 sample: "Pilot testing is r
 
 
 ## Related Claims
--
+- [Korean immigrant sample scored significantly lower than the MPD normative group on identity, intimacy, and generativity resolution for both genders](korean-immigrants-lower-resolution-than-norm-group.md) — related
+- [No significant differences in step performance across job title, position, duties, introduction to ID, or experience](no-demographic-differences-id-step-performance.md) — related

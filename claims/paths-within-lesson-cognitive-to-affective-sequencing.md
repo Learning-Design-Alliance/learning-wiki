@@ -41,4 +41,6 @@ The author's document analysis of the seven-step lesson structure in the PATHS F
 
 
 ## Related Claims
--
+- [PATHS topical sequencing follows a general-to-detailed continuum, the Simplifying Conditions Method, and synonymous and antonymous relationships](paths-topical-sequencing-four-guidelines.md) — related
+- [PATHS macro-level sequencing combines spiral and topical sequencing patterns](paths-macro-sequencing-spiral-topical-combination.md) — related
+- [PATHS spiral sequencing treats basic emotions as prerequisites for complex emotions across four levels of complexity](paths-basic-to-complex-hierarchical-spiral-sequencing.md) — related

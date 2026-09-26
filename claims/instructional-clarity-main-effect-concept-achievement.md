@@ -58,4 +58,9 @@ ANOVA on identifying key words in examples, same experiment. The article reports
 
 
 ## Related Claims
--
+- [Clarity and concept structure interact for defining and applying concepts, each accounting for about 40-44% of variance](clarity-concept-structure-interaction.md) — related
+- [Clarity matters less as concept structure becomes simpler: no significant clear-vs-unclear difference for constant successive lessons](clarity-less-relevant-simpler-structures.md) — reports the opposite
+- [A clear variable coordinate lesson produced higher achievement than an unclear lesson with the same concept structure on all five measures](clear-variable-coordinate-beats-unclear.md) — a narrower finding that bears on this claim
+- [Under unclear presentation, a more complex concept structure lessens students' ability to identify concepts](unclear-presentation-complex-structure-penalty.md) — related
+- [Students accurately perceive differences between clear and unclear lessons regardless of concept structure](students-perceive-lesson-clarity.md) — related
+- [Each positive clarity move (keys, links, framing, focusing, examples) correlates positively with every concept achievement measure](positive-clarity-moves-correlate-achievement.md) — related

@@ -41,4 +41,7 @@ Moderator analysis (Table 2) comparing offices high versus low on the workgroup-
 
 
 ## Related Claims
--
+- [Design-based research asks one person to be researcher, designer, project manager and theorist, and those roles compete.](design-based-research-roles-compete-and-threaten-credible-claims.md) — related
+- [Modes of interdependence are weakly or negligibly intercorrelated across brokerage offices](interdependence-modes-weakly-negatively-correlated.md) — related
+- [Social interdependence, not role interdependence or specialization, correlates with performance and well-being](social-interdependence-predicts-performance.md) — related
+- [Emphasis on specialization for advancement moderates the specialization–role interdependence relationship](specialization-emphasis-moderates-collaboration.md) — related

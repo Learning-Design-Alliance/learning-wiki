@@ -41,4 +41,8 @@ Theoretical synthesis of Bowlby's attachment account: the internalized attachmen
 
 
 ## Related Claims
--
+- [Agency develops only within an intensely communal (attachment) relationship](agency-evolves-within-communal-relationship.md) — a broader claim this one bears on
+- [Attachment (communion) contains the fear and anxiety associated with individual action (agency)](communion-contains-agentic-distress.md) — a broader claim this one bears on
+- [Viewing agency/communion as a polarity risks underestimating agency in the lives of women](polarity-view-obscures-womens-agency.md) — related
+- [Complex systems function properly only when self-assertive and integrative tendencies are in equilibrium](self-assertive-integrative-equilibrium-personality.md) — a broader claim this one bears on
+- [Smartphone attachment is associated with impatience and impulsive behavior in young children, per cited literature](smartphone-attachment-impatience-impulsivity.md) — related

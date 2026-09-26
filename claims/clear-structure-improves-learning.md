@@ -70,3 +70,7 @@ Two experiments had college students read expository text with or without organi
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — the broader family of extraneous-load reductions
 - [Clear structure and presentation](../principles/clear-structure-presentation.md) — the design principle this claim underwrites
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — the theoretical framework explaining why structure reduces extraneous load
+- [Signaling Improves Learning](signaling-improves-learning.md) — possibly the same claim (merge candidate)
+- [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related
+- [Learner Paced Beats System Paced Complex Material](learner-paced-beats-system-paced-complex-material.md) — related
+- [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — related

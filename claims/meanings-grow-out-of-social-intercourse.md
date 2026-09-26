@@ -41,4 +41,7 @@ Reconstruction from the typescript of Mead's Course 50 on Philosophy of Educatio
 
 
 ## Related Claims
--
+- [Mead holds that the process of acquiring changes the thing acquired, making change of subject matter the rule](acquiring-changes-the-thing-acquired.md) — related
+- [Mead holds that a method of thought cannot be transferred but must be gained through the learner's own abstractions](method-of-thought-cannot-be-transferred.md) — related
+- [Mead holds that social interaction precedes and produces reflective self-consciousness](social-interaction-precedes-self-consciousness.md) — related
+- [Mead argued education functions as a mechanism of social and cultural change, not only cultural transmission](mead-education-as-mechanism-of-social-change.md) — related

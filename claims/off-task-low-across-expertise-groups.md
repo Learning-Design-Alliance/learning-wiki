@@ -41,4 +41,6 @@ Interval-recording observational data from the same study; Table 3 reports off-t
 
 
 ## Related Claims
--
+- [Teacher expertise level shows no statistically significant difference on any of five selected indicators of effective teaching in elementary physical education](expertise-levels-no-difference-teaching-indicators.md) — a broader claim this one bears on
+- [Negative feedback was low across all expertise groups with a small increase for proficient/expert teachers](negative-feedback-low-small-expert-increase.md) — related
+- [The ratio of SMM time to ALT-PE decreased gradually with increasing expertise level](smm-alt-pe-ratio-decreases-with-expertise.md) — related

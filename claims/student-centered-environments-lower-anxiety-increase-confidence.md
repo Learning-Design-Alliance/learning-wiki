@@ -41,4 +41,10 @@ The article's concluding synthesis, an authors' interpretation connecting proces
 
 
 ## Related Claims
--
+- [Low anxiety, high self-confidence, and motivation are presented as affective variables facilitating L2 acquisition](affective-variables-facilitate-l2-acquisition.md) — related
+- [Comprehensible input in natural language contexts is presented as essential to second language acquisition](comprehensible-input-essential-l2-acquisition.md) — related
+- [Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — related
+- [The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety](learning-is-natural-enjoyable-process-argument.md) — related
+- [Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed](effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) — related
+- [Authentic Audiences Improve Student Work](authentic-audiences-improve-student-work.md) — related
+- [Students' writing is argued, citing Bruffee, to be only as good as their conversation about writing](student-writing-only-as-good-as-conversation-about-writing.md) — related

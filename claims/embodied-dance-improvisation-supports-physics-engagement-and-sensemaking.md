@@ -48,3 +48,8 @@ This is exploratory, proof-of-concept research (the authors' own characterizatio
 
 ## Related Claims
 - [Funds-of-knowledge-grounded tasks reveal computational thinking that decontextualized assessment misses](funds-of-knowledge-tasks-reveal-computational-thinking.md) — both claims document a fund-of-knowledge mechanism revealing or supporting disciplinary competence that a decontextualized approach would miss
+- [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — related
+- [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related
+- [The authors report that the kinesthetic experience enhances student understanding and that a student project provides evidence of the approach's effectiveness](kinesthetic-experience-enhances-understanding-physics-of-dance.md) — a broader claim this one bears on
+- [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related
+- [A playful embodied pedagogy tends to make transformative learning affirming and may promote less catastrophic responses to disorientation](playful-pedagogy-less-catastrophic-responses.md) — related

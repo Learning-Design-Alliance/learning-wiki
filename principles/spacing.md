@@ -29,7 +29,7 @@ sources:
 # Spacing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 5 studies, `q3`–`q4` · 4 of 5 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 5 studies, `q3`–`q4` · 4 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
 Spacing (distributed practice) distributes study or practice of a given content across multiple sessions separated in time, rather than concentrating it in one massed session. The recommendation is to schedule review and practice so that some forgetting has occurred between encounters, then re-engage the material through retrieval or application. Spacing is one of the most robust findings in learning science, with large, durable effects on long-term retention across ages, materials, and settings.
@@ -75,8 +75,8 @@ Spacing works because the partial forgetting that occurs between sessions makes 
 - Desirable difficulties research qualifies spacing: it is beneficial only when the difficulty is *productive* — if the gap exceeds what retrieval can bridge, the difficulty becomes undesirable
 
 ### Claims
-- [Spaced Practice Improves Long Term Retention](../claims/spaced-practice-improves-long-term-retention.md) [+S] — Cepeda et al. (2006) meta-analysis; the advantage grows with the retention interval
-- [Spacing Improves Retention](../claims/spacing-improves-retention.md) [+S] — distributed practice rated among the highest-utility techniques by Dunlosky et al. (2013)
+- [Spaced Practice Improves Long Term Retention](../claims/spaced-practice-improves-retention.md) [+S] — Cepeda et al. (2006) meta-analysis; the advantage grows with the retention interval
+- [Spacing Improves Retention](../claims/spaced-practice-improves-retention.md) [+S] — distributed practice rated among the highest-utility techniques by Dunlosky et al. (2013)
 - [Spaced Retrieval Outperforms Restudy](../claims/spaced-retrieval-outperforms-restudy.md) [+S] — a spaced *retest* is far more powerful than a spaced *reread*
 - [Interleaving Improves Retention](../claims/interleaved-practice-improves-retention.md) [+M] — shuffling problem types across sessions, the mathematics case (Rohrer & Taylor, 2007)
 

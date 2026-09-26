@@ -41,4 +41,6 @@ Controlled eight-week training experiment comparing RL-optimized sequencing agai
 
 
 ## Related Claims
--
+- [Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children](contingency-reinforcement-raises-achievement.md) — related
+- [Under the mean-recall approximation, the optimal Leitner Queue Network review schedule spends more time on lower decks than on higher decks.](optimal-leitner-schedule-reviews-lower-decks-more-often.md) — related
+- [Under the mean-recall approximation, the optimal Leitner Queue Network schedule increases the expected delay between reviews as an item moves up through the decks.](optimal-leitner-schedule-expands-intervals-between-reviews.md) — related

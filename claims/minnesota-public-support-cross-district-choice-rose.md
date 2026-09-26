@@ -41,4 +41,4 @@ Report's synthesis of published public opinion surveys (citing Dornfield 1985, H
 
 
 ## Related Claims
--
+- [Participation in Minnesota's statewide public school choice options rose from about 1% of students in 1988-89 to about 17% in 2000-01](minnesota-choice-participation-grew-1-to-17-percent.md) — related

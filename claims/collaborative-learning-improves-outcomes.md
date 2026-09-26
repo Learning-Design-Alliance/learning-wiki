@@ -74,3 +74,13 @@ This meta-analysis covered 39 classroom (not laboratory) studies from 1980 onwar
 - [Case-based learning improves exam performance.](case-based-learning-improves-exam-performance.md) — case discussions are typically collaborative
 - [Belonging interventions improve outcomes.](belonging-interventions-improve-outcomes.md) — collaborative structures can support students' sense of belonging
 - [Argumentation improves reasoning.](argumentation-improves-reasoning.md) — peer discussion elicits the argumentation that drives collaborative gains
+- [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — possibly the same claim (merge candidate)
+- [Cooperation compared with individualistic efforts typically results in higher achievement, greater retention, and greater social competence and self-esteem](cooperation-versus-individualistic-effort-outcomes.md) — related
+- [Small Group Learning Improves STEM Achievement](small-group-learning-improves-stem-achievement.md) — related
+- [Meta-analyses by Johnson and Johnson find cooperative learning promotes higher achievement than competition or individual work across ages, subjects, and tasks](johnson-meta-analysis-cooperative-achievement.md) — related
+- [Group rewards combined with individual accountability make cooperative learning effective](cooperative-learning-group-rewards-and-individual-accountability.md) — related
+- [Competitive (norm-referenced) grading pits students against one another and discourages cooperation, according to the author's argument](competitive-grading-pits-students-against-each-other.md) — related
+- [Cooperative learning shows benefits for gifted and high-ability students, though long-term evidence is lacking](cooperative-learning-gifted-students.md) — a narrower finding that bears on this claim
+- [Peer coaching has been proved a highly effective way of teacher professional development since the 1980s in the UK, US, and other countries](peer-coaching-supports-teacher-professional-development.md) — related
+- [Project-based learning improves achievement](project-based-learning-improves-achievement.md) — related
+- [Student oral presentations of laboratory results became the central activity stimulating active and cooperative learning](student-lab-presentations-central-activity.md) — related

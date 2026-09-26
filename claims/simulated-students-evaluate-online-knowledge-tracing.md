@@ -39,4 +39,7 @@ Simulation study with 30 Apprentice agents per condition in a fraction arithmeti
 
 
 ## Related Claims
--
+- [BKT is the most efficient knowledge tracing approach overall in simulated online mastery learning, though DKT is more efficient for AS and M problems](bkt-most-efficient-online-mastery-learning.md) — a narrower finding that bears on this claim
+- [In simulated online mastery learning, BKT gave the fewest problems, Streak the second fewest, Random the most, and DKT gave almost as many as Random in one problem type and the least in the other two](problem-counts-by-knowledge-tracing-condition.md) — a narrower finding that bears on this claim
+- [BKT learning-rate parameters estimated from simulated student data correlate positively with those estimated from human data](simulated-data-initializes-bkt-parameters.md) — related
+- [The AFM+S model, which explicitly models non-zero tail error, fits simulated student data better than the standard AFM](afm-plus-slip-fits-simulated-learning-curves.md) — related

@@ -41,4 +41,7 @@ Reliability analysis of the two case-study examinations, whose unadjusted Cronba
 
 
 ## Related Claims
--
+- [Polychotomously scored IF-AT physics exam items show excellent discrimination, with a mean item-total correlation of r′ = 0.41 ± 0.13 across 45 items](if-at-integrated-testlet-items-excellent-discrimination.md) — related
+- [Intra-testlet items were slightly more difficult than stand-alone questions (p′ = 0.69 ± 0.15 vs 0.75 ± 0.15)](intra-testlet-items-slightly-more-difficult.md) — related
+- [Teacher-belief and competence/value scales show high internal consistency (alphas .92 and .89), while the social-activity and excellence scales are weaker (.65 and .69)](mrbq-scale-reliability-mixed.md) — related
+- [Undergraduate physics students react highly positively to the IF-AT format](students-highly-positive-reaction-to-if-at.md) — related

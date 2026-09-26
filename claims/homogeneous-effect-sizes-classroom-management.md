@@ -41,4 +41,6 @@ Homogeneity testing within the same random-effects meta-analysis of 12 effect si
 
 
 ## Related Claims
--
+- [Manualized COMP programs and other classroom management approaches do not differ significantly in effectiveness](comp-no-different-from-other-classroom-management.md) — related
+- [Teachers' universal classroom management practices significantly reduce problem classroom behavior (mean classroom ES = 0.80, ICC=.05)](universal-classroom-management-reduces-problem-behavior.md) — related
+- [Students in treatment classrooms showed less disruptive behavior than control classrooms in all 12 studies](treatment-classrooms-less-disruptive-than-control.md) — related

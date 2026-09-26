@@ -41,4 +41,7 @@ The review reports Johnson and Johnson's meta-analysis of 122 studies done betwe
 
 
 ## Related Claims
--
+- [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — related
+- [Competitive (norm-referenced) grading pits students against one another and discourages cooperation, according to the author's argument](competitive-grading-pits-students-against-each-other.md) — related
+- [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — a narrower finding that bears on this claim
+- [Cooperative learning shows benefits for gifted and high-ability students, though long-term evidence is lacking](cooperative-learning-gifted-students.md) — a narrower finding that bears on this claim

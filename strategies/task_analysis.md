@@ -48,7 +48,7 @@ Task analysis reduces extraneous cognitive load by externalizing the structure o
 ### Target Learning Goals
 - Task comprehension: knowing exactly what the assignment asks
 - Procedural planning: sequencing sub-goals toward a finished product
-- Self-regulation: monitoring progress against an explicit plan [Self-regulated learning improves academic outcomes.](../claims/self-regulated-learning-improves-outcomes.md) [+M]
+- Self-regulation: monitoring progress against an explicit plan [Self-regulated learning improves academic outcomes.](../claims/self-regulated-learning-improves-achievement.md) [+M]
 
 ### Instructions
 1. Present the assignment and state its purpose and final product ([State Objectives](../elements/advance-organizers.md) as an advance organizer for the whole task)

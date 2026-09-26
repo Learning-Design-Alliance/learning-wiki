@@ -13,21 +13,34 @@ sources:
     q: 3
     i: 2
     n: multiple studies
+  - id: renkl-atkinson-2003
+    resource: "https://doi.org/10.1207/S15326985EP3801_3"
+    title: "Renkl, A., & Atkinson, R. K. (2003). Structuring the transition from example study to problem solving in cognitive skill acquisition: A cognitive load perspective. *Educational Psychologist, 38*(1), 15-22. [https://doi.org/10.1207/S15326985EP3801_3](https://doi.org/10.1207/S15326985EP3801_3)"
+    author: "Renkl, A., & Atkinson, R. K."
+    q: 3
+    i: 2
+    n: multiple studies
 id: worked-examples-less-effective-with-expertise
+aliases: [worked-examples-expertise-reversal]
 evidence_strength: moderate
 ---
 
 # Worked-example guidance becomes less effective as learner expertise increases.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=multiple studies
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
 
 The supports that help novices during initial acquisition can become redundant for more experienced learners, reducing efficiency and sometimes depressing performance.
 
 ## Subclaims
+
 `q3 i2` Guidance benefits novices more than knowledgeable learners. [→ Kalyuga et al. 2003](#kalyuga-et-al-2003)
 
 `q3 i2` Previously helpful explanations can impose redundancy load once schemas are established. [→ Kalyuga et al. 2003](#kalyuga-et-al-2003)
+
+`q3 i2` Advanced learners often benefit less from full worked examples than novices do. [→ Kalyuga et al. 2003](#kalyuga-et-al-2003)
+
+`q3 i2` Example-heavy guidance should be reduced as learners move toward independent problem solving. [→ Renkl & Atkinson 2003](#renkl-atkinson-2003)
 
 ## Evidence
 
@@ -41,11 +54,23 @@ Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise revers
 
 The paper reviews evidence that instructional guidance must be calibrated to prior knowledge. Worked examples, integrated explanations, and other high-guidance supports are useful for novices but can become redundant as expertise develops.
 
+### Renkl & Atkinson 2003
+
+Renkl, A., & Atkinson, R. K. (2003). Structuring the transition from example study to problem solving in cognitive skill acquisition: A cognitive load perspective. *Educational Psychologist, 38*(1), 15-22. [https://doi.org/10.1207/S15326985EP3801_3](https://doi.org/10.1207/S15326985EP3801_3)
+
+`q3 · peer-reviewed synthesis` · `i2 · medium impact` · `n=multiple studies`
+
+The paper argues that effective instruction must manage the transition away from examples, because maintaining full guidance after competence develops weakens transfer and independent performance.
+
 ## Discussion
 
 The design implication is not to remove structure abruptly. It is to fade it as competence grows so learners are not trapped in support they no longer need.
 
+*Merged from “Worked examples can become redundant or counterproductive for advanced learners.” (worked-examples-expertise-reversal):* This is the worked-example-specific form of the broader [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) claim.
+
 ## Related Claims
+
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md)
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md)
 - [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md)
+- [Expertise Reversal Guidance Hurts Experts](expertise-reversal-guidance-hurts-experts.md) — a broader claim this one bears on

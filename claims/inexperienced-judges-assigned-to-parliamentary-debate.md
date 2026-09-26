@@ -41,4 +41,7 @@ This is the author's observational claim from tournament administration practice
 
 
 ## Related Claims
--
+- [Judges surveyed perceive CEDA/NDT debaters as devoting more weekly work than parliamentary debaters](judges-perceive-ceda-ndt-work-exceeds-parliamentary-work.md) — related
+- [Coaches and students perceive distinct strengths and weaknesses of parliamentary debate relative to other formats](survey-identifies-perceived-strengths-weaknesses-of-parliamentary-debate.md) — related
+- [Parliamentary rules ban published evidence and omit cross examination, which the author argues undermines argumentation training](parliamentary-rules-ban-evidence-and-omit-cross-examination.md) — related
+- [Unconstrained topic writing produces frivolous resolutions that perpetuate non-argumentative practices](unconstrained-topic-writing-yields-frivolous-resolutions.md) — related

@@ -90,3 +90,8 @@ The authors review 418 prejudice-reduction experiments published 2007–2019, es
 - [Belonging interventions improve outcomes](belonging-interventions-improve-outcomes.md) — targets learners' own belonging rather than outgroup attitudes
 - [Building Empathy](../principles/building-empathy.md) — the underlying design principle this claim supports
 - [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — case-based engagement is one operationalization of narrative empathy-building, though its evidence targets cognitive rather than attitudinal outcomes
+- [Counselors without prior training on prostitution/sex trafficking endorsed more stigmatizing beliefs and more rape myths](lack-of-trafficking-training-linked-stigma-rape-myths.md) — related
+- [Fiction Reading Improves Empathy](fiction-reading-improves-empathy.md) — related
+- [Reading Literary Fiction Improves Theory Of Mind](reading-literary-fiction-improves-theory-of-mind.md) — related
+- [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related
+- [Sharing experiences in class discussion modifies learners' attitudes and interpretations](sharing-experiences-modifies-attitudes.md) — related

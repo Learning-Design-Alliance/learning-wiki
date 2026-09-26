@@ -41,4 +41,8 @@ Between-subjects ANOVA on Factor 1 among the 403 validated respondents. Descript
 
 
 ## Related Claims
--
+- [Teaching experience is significantly and positively related to Iranian EFL teachers' awareness of all four critical pedagogy factors](experience-correlates-critical-pedagogy-awareness.md) — related
+- [BA, MA and PhD teachers do not differ significantly in awareness of a critical approach to EFL classroom content](no-degree-difference-critical-approach-content.md) — related
+- [PhD teachers show significantly higher awareness than BA teachers of decision making through negotiation](phd-higher-awareness-decision-making-negotiation.md) — related
+- [Iranian EFL teachers' awareness of critical pedagogy differs significantly across academic degrees, with PhD holders most aware](phd-holders-most-aware-of-critical-pedagogy.md) — a broader claim this one bears on
+- [PhD teachers show significantly higher awareness than both MA and BA teachers of liberatory autonomy](phd-higher-awareness-liberatory-autonomy.md) — related

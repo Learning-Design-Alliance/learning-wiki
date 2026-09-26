@@ -30,7 +30,7 @@ Genius Hour operationalizes [Autonomy](../principles/autonomy.md), one of the th
 - Reflection routines that make learning visible and transferable
 
 #### Constraints
-- Pure free choice without scaffolds disadvantages novices and learners with weak self-regulation; open-ended inquiry with minimal guidance underperforms guided approaches for less knowledgeable learners [Unguided or minimally guided inquiry is less effective than guided instruction, especially for novices.](../claims/minimal-guidance-instruction-less-effective.md) [-S]
+- Pure free choice without scaffolds disadvantages novices and learners with weak self-regulation; open-ended inquiry with minimal guidance underperforms guided approaches for less knowledgeable learners [Unguided or minimally guided inquiry is less effective than guided instruction, especially for novices.](../claims/minimal-guidance-less-effective-for-novices.md) [-S]
 - Learners with low [Self-Regulated Learning](../theories/self-regulated-learning.md) skills often stall in the planning phase; without check-ins, projects collapse into passive browsing or decoration
 - Autonomy can backfire when choice is overwhelming — too many options without decision support increases [cognitive load](../claims/cognitive-overload-degrades-learning.md) [~M]; structured choice (e.g., [Choice Boards](../elements/choice-boards.md)) mitigates this
 - Weekly cadence with long gaps between sessions causes forgetting of project context; brief reactivation at session start helps ([Activation](../principles/activation.md))

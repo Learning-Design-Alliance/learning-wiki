@@ -41,4 +41,5 @@ Narrative literature review section 2.1. The review attributes this criticism to
 
 
 ## Related Claims
--
+- [Learners use apps mostly for vocabulary development, translation, and grammar practice, often informally and in short sessions](learners-use-apps-vocabulary-translation-grammar-informally.md) — related
+- [Most language-learning apps focus on cognitive processes and receptive skills, lacking sociocognitive and collaborative activities](apps-focus-cognitive-receptive-skills-lack-collaboration.md) — related

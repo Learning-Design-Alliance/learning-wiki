@@ -58,3 +58,7 @@ A systematic search identified 55 studies comparing mathematics instruction usin
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — why unscaffolded hands-on tasks can backfire
 - [Cognitive disequilibrium motivates conceptual change](cognitive-disequilibrium-motivates-conceptual-change.md) — a proposed mechanism linking manipulation to conceptual learning
 - [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — an alternative contextualized, activity-based format
+- [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — possibly the same claim (merge candidate)
+- [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — related
+- [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — related
+- [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — related

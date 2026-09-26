@@ -58,4 +58,5 @@ Section 3.2: because programs can be modified at any point, code can be inserted
 
 
 ## Related Claims
--
+- [Simulation usefully explores the plausibility of models where empirical testing lags, and permits psycho-surgery experiments impossible with human subjects](simulation-explores-model-plausibility.md) — a broader claim this one bears on
+- [Boydens and van Hooland's three-strata model of change recommends matching database update rhythm to layered timescales](three-strata-database-change-model.md) — related

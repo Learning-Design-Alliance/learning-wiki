@@ -37,7 +37,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Self-monitoring improves self-regulation and supports better learning decisions](../claims/self-monitoring-improves-self-regulation.md) [+M] — the mechanism the strategies target
 - [Metacognitive prompts improve learning](../claims/metacognitive-prompts-improve-learning.md) [+M] — prompting beats expecting — the structure has to come from somewhere
 - [Goal setting improves performance](../claims/goal-setting-improves-performance.md) [+M] — specific and proximal goals rather than exhortation
-- [Fluency judgments mislead learners](../claims/fluency-judgments-mislead-learners.md) [-M] — why unaided self-assessment is not a signal to design around
+- [Fluency judgments mislead learners](../claims/fluent-illusions-mislead-self-assessment.md) [-M] — why unaided self-assessment is not a signal to design around
 - [Self assessment accuracy is low without training](../claims/self-assessment-accuracy-is-low-without-training.md) [-M] — the same finding stated as a design constraint
 - [Adolescents who use more language learning strategies are the more proficient ones, and strategy adoption varies with cultural background](../claims/strategy-use-correlates-with-l2-proficiency-in-adolescents.md) [~M] — correlational, and a caution: the learners using fewest strategies are least likely to seek help placed behind an optional control
 

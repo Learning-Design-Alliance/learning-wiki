@@ -41,4 +41,7 @@ Correlational analysis of questionnaire and profile data from 40 brokerage offic
 
 
 ## Related Claims
--
+- [Integration–performance link fails in specialized offices, contradicting the differentiation–integration paradigm](integration-performance-link-fails-in-specialized-offices.md) — related
+- [Negative specialization–role interdependence relationship holds only in offices low on workgroup process](specialization-role-interdependence-moderated-by-social-climate.md) — related
+- [Social interdependence, not role interdependence or specialization, correlates with performance and well-being](social-interdependence-predicts-performance.md) — related
+- [Emphasis on specialization for advancement moderates the specialization–role interdependence relationship](specialization-emphasis-moderates-collaboration.md) — related

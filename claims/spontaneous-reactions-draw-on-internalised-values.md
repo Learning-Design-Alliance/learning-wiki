@@ -41,4 +41,6 @@ In the wake-up calls section, a teacher (Teacher 12) reflects after reading fiel
 
 
 ## Related Claims
--
+- [Reading researcher field-notes acted as wake-up calls that made unreflective value-laden practices visible to teachers](field-notes-wake-up-calls.md) — related
+- [Pragmatic values of keeping order counteracted the democratic values teachers were mandated to realise](pragmatic-values-counteract-democratic-values.md) — related
+- [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related

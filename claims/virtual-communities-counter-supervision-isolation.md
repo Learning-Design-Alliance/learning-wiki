@@ -41,4 +41,7 @@ Conclusion drawn from the study's consultations and implementation case study; t
 
 
 ## Related Claims
--
+- [Active participation in a community has a more significant impact on learning than mere membership](active-participation-beats-mere-membership-for-learning.md) — related
+- [Tutors and trainee researchers most value supportive attitude, mastery of the research field, and accessibility in a research project supervisor](supervisor-desirable-characteristics-survey.md) — related
+- [Implementation of the TPI procedure reached only one tutor-trainee pair out of nine potential tutors, though participants assessed it positively](tpi-implementation-low-participation-positive-assessment.md) — related
+- [Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — a broader claim this one bears on

@@ -41,4 +41,5 @@ Results section comparison on two log datasets (ASSISTments and Junyi). Table 3 
 
 
 ## Related Claims
--
+- [Adding hint-taking as an auxiliary task slightly improves knowledge tracing performance on both datasets](auxiliary-hint-task-improves-knowledge-tracing.md) — related
+- [Jointly modeling hint-taking with knowledge tracing adds a small consistent improvement to hint-taking prediction](joint-modeling-improves-hint-prediction-small-margin.md) — related

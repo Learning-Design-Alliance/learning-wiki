@@ -56,7 +56,10 @@ Spanjers, I. A. E., Wouters, P., van Gog, T., & van Merriënboer, J. J. G. (2011
 
 ## Related Claims
 
-- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md) — the same expertise reversal pattern for a closely related load-reducing scaffold
+- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — the same expertise reversal pattern for a closely related load-reducing scaffold
 - [Coherence principle: irrelevant material hurts learning.](coherence-principle-irrelevant-material-hurts-learning.md) — another load-reduction principle whose benefits are strongest for novices
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — segmentation is a dynamic-media application of chunking, with the same novice-dependence
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — the overload that segmentation prevents occurs mainly under high element interactivity, typical of novice learning
+- [Cognitive Load Management](cognitive-load-management.md) — related
+- [Learner Paced Beats System Paced Complex Material](learner-paced-beats-system-paced-complex-material.md) — related
+- [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — a broader claim this one bears on

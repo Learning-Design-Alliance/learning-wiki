@@ -41,4 +41,6 @@ ICCs were examined for items flagged as DIF in all method-by-purification condit
 
 
 ## Related Claims
--
+- [ICC method flags seven items with the largest DIF indices, two of which show slight nonuniform DIF that the unsigned-area measure understates](icc-identifies-seven-largest-dif-items.md) — reports the opposite
+- [The ICC and LDF methods identify substantially different sets of items as exhibiting DIF on a state science performance assessment](icc-and-ldf-methods-identify-different-dif-items.md) — related
+- [Given assumption violations and the uniformity factor, the authors judge the LDF method more likely accurate and superior to ICC for this performance assessment](ldf-superior-to-icc-for-this-performance-assessment.md) — related

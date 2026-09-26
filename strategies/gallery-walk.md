@@ -12,7 +12,7 @@ generated:
 # Gallery Walk
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q2`–`q4` · 5 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q2`–`q4` · 6 of 7 report an effect size
 
 ## Description
 A gallery walk sets up stations, posters, or displayed work around a room; small groups travel from station to station, performing a task or responding to a prompt at each stop and typically recording or building on others' contributions (e.g., with sticky notes). Variations include groups producing posters and acting as tour guides, peer critique of drafted work, and stations featuring learner-created video tutorials. The instructor designs the prompts or tasks, sets rotation logistics, and monitors and debriefs.

@@ -41,4 +41,6 @@ Model comparison on six skill datasets (three ASSISTments, three Mindspark), wit
 
 
 ## Related Claims
--
+- [MS-BKT mastery estimates fluctuate less than classic BKT and avoid over-high estimates after long incorrect runs, in fictitious-student comparisons](ms-bkt-estimates-fluctuate-less-than-bkt.md) — related
+- [Recency weights let MS-BKT capture learning and forgetting from response patterns without a fixed learning rate, in a hypothetical example](recency-weights-capture-learning-and-forgetting-from-data.md) — related
+- [No single learner model was best across the six datasets, justifying a broad multi-model approach](no-single-learner-model-best-across-datasets.md) — related

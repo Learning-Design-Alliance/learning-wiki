@@ -41,4 +41,8 @@ Theoretical argument in the article's review of MLE theory: direct exposure base
 
 
 ## Related Claims
--
+- [MLE mediation is reported as applicable and beneficial even when learners receive it late or face environmental, socio-economic or mental barriers](mle-beneficial-despite-barriers-or-late-mediation.md) — related
+- [Sharing experiences in class discussion modifies learners' attitudes and interpretations](sharing-experiences-modifies-attitudes.md) — related
+- [Reacculturation into a new community is argued to be virtually impossible alone and to require collaboration](reacculturation-into-a-new-community-requires-collaboration.md) — related
+- [Knowledge gained by self-analysis is more likely to produce constructive change in teaching than insights given by an observer](self-analysis-knowledge-drives-teacher-change.md) — related
+- [Students reported greater engagement, motivation and language use after MLE-mediated English lessons](students-report-engagement-after-mle-lessons.md) — a narrower finding that bears on this claim

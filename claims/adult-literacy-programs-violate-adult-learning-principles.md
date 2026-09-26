@@ -41,4 +41,7 @@ This is the handbook's research-review section on problems of adult literacy pro
 
 
 ## Related Claims
--
+- [Adults learn better when learning content and methods link to their previous experience](adult-learning-linked-to-previous-experience.md) — related
+- [Philippine basic literacy is 89.8% and functional literacy 73.2%, yet BNFE serves only 1.07% of estimated adult education clientele](philippine-literacy-rates-bnfe-inadequate-coverage.md) — related
+- [ACE's main VET contribution is General Education and Training (around 20% of provision), with around 10% in non-industry-specific occupational training and little in industry-specific training](ace-vet-contribution-concentration-general-education.md) — related
+- [Being placed in a group does not by itself produce cooperation; structure must be present to make learners work toward a common purpose](group-membership-alone-does-not-produce-cooperation.md) — related

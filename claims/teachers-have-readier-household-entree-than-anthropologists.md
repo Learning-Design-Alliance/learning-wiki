@@ -58,4 +58,5 @@ Tucson project report: teachers "were welcomed into the households with respect 
 
 
 ## Related Claims
--
+- [Funds-of-knowledge-grounded tasks reveal computational thinking that decontextualized assessment misses](funds-of-knowledge-tasks-reveal-computational-thinking.md) — related
+- [In the Tucson household ethnography, exchanges within households' social networks were often reciprocal and built mutual trust through shared practical activities.](household-exchange-networks-are-reciprocal-and-build-trust.md) — related

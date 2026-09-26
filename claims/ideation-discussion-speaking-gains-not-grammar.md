@@ -41,4 +41,6 @@ Analysis of the four speaking-test criteria (fluency, pronunciation, vocabulary,
 
 
 ## Related Claims
--
+- [Ideation discussion activities in Design Thinking significantly improved EFL students' overall English-speaking test scores from pre-test to post-test](ideation-discussion-improves-efl-speaking-scores.md) — a broader claim this one bears on
+- [Critical thinking gains were significant for creative critical thought but not for logic and reasoning](ideation-discussion-creative-thought-gains-not-logic.md) — related
+- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related

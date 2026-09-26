@@ -41,4 +41,7 @@ Enrollment trend analysis using Department of Children, Families and Learning co
 
 
 ## Related Claims
--
+- [Area Learning Center students most often cite individualized education, smaller schools, less restrictive environments, and flexible schedules as enrollment reasons](alc-students-enroll-for-individualized-flexible-settings.md) — related
+- [Participants in Minnesota's choice options express a high degree of satisfaction, and preliminary studies suggest positive academic outcomes](choice-participants-high-satisfaction-preliminary-positive-outcomes.md) — related
+- [Participation in Minnesota's statewide public school choice options rose from about 1% of students in 1988-89 to about 17% in 2000-01](minnesota-choice-participation-grew-1-to-17-percent.md) — related
+- [Charter school students in Minnesota are disproportionately students of color, low-income, special needs, and non-English speakers](minnesota-charter-students-disproportionately-underserved.md) — related

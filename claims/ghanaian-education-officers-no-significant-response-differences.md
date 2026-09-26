@@ -41,4 +41,8 @@ Survey of 24 education officers/policy makers from Regional Education offices in
 
 
 ## Related Claims
--
+- [Ghanaian teachers show no significant agreement on whether the computer outperforms the teacher in implementing the first five principles](ghanaian-teachers-no-significant-agreement-computer-versus-teacher.md) — related
+- [Ghanaian students significantly favour the computer over the teacher for implementing the first five principles of instruction](ghanaian-students-favour-computer-over-teacher-first-principles.md) — related
+- [More students than teachers and education officers recommend training students to use the computer to learn without the teacher](students-favour-training-students-computer-without-teacher.md) — related
+- [All three participant groups commonly recommend training teachers to use the computer to support their teaching](all-groups-recommend-teacher-computer-training.md) — related
+- [Teachers, rather than students, want teachers trained to design instruction for effective teaching](teachers-rather-than-students-want-instructional-design-training.md) — related

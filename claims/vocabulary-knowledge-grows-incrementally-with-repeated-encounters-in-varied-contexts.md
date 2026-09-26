@@ -73,3 +73,7 @@ This meta-analysis synthesised 45 correlations from 26 second-language studies (
 - [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) — repeated encounters build the automaticity that makes varied-context reading productive
 - [Activation improves learning.](../claims/activation-improves-learning.md) — prior knowledge determines how much a learner extracts from each contextual encounter
 - [Cognitive flexibility theory: multiple cases.](../patterns/cognitive-flexibility-theory.md) — varied contexts supporting flexible knowledge is the same principle applied to concepts rather than words
+- [Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks](cd-semantic-richness-improves-lexical-processing.md) — related
+- [Encoding variability across varied example contexts produces decontextualization supporting transfer (review reports DiVesta and Peverly)](encoding-variability-decontextualization-transfer.md) — related
+- [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — related
+- [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — related

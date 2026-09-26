@@ -59,3 +59,6 @@ Theoretical argument in the same paper, with no data. It describes collaborative
 
 ## Related Claims
 - [Collaborative Learning Is An Extension Of Social Constructionism Into Composition](collaborative-learning-is-an-extension-of-social-constructionism-into-composition.md)
+- [Students' writing is argued, citing Bruffee, to be only as good as their conversation about writing](student-writing-only-as-good-as-conversation-about-writing.md) — related
+- [Feuerstein argues learning through direct, unmediated experience cannot yield meaningful learning or full modifiability](direct-experience-insufficient-for-meaningful-learning.md) — related
+- [It is unknown whether community residents and providers recognize the lifelong learning opportunities community-based education offers](recognition-of-community-lifelong-learning-opportunities-unknown.md) — related

@@ -50,7 +50,7 @@ A meta-analytic review of group-comparison-design studies evaluating peer-assist
 
 **Mechanism.** Novices solving problems unaided tend to engage in means–ends search — repeatedly comparing the current problem state to the goal and hunting for operators that reduce the difference. This search consumes working-memory resources without contributing to schema construction. A worked example removes the search entirely, freeing capacity to attend to the solution steps and the conditions under which they apply. This is a direct application of [cognitive load theory](../theories/cognitive-load-theory.md): the example acts as a form of [cognitive load reduction](../principles/cognitive-load-reduction.md) that channels effort toward learning-relevant processing.
 
-**Boundary with expertise.** The mechanism predicts the expertise-reversal boundary. Once a learner has sufficient schemas, means–ends search is no longer the bottleneck, and studying fully worked solutions becomes redundant processing — the learner re-derives what they already know. See [expertise reversal effect](../theories/expertise-reversal-effect.md) and [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md). This is why the claim is explicitly limited to novices rather than stated as a general rule.
+**Boundary with expertise.** The mechanism predicts the expertise-reversal boundary. Once a learner has sufficient schemas, means–ends search is no longer the bottleneck, and studying fully worked solutions becomes redundant processing — the learner re-derives what they already know. See [expertise reversal effect](../theories/expertise-reversal-effect.md) and [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md). This is why the claim is explicitly limited to novices rather than stated as a general rule.
 
 **Relation to practice.** Reduced search is not the same as improved transfer. Examples alone can leave learners able to follow a solution but unable to generate one; pairing or fading examples with [practice](../elements/practice.md) is what converts the load benefit into durable performance gains — see [Pairing worked examples with practice or fading supports transfer better than examples alone.](worked-examples-with-practice-improve-transfer.md). Sequencing matters less than the presence of examples themselves: example-based conditions outperform problem-only practice regardless of whether examples precede or follow problems (see [Example–problem sequences reduce cognitive load and improve learning outcomes.](example-problem-sequences-reduce-cognitive-load.md)).
 
@@ -61,7 +61,7 @@ A meta-analytic review of group-comparison-design studies evaluating peer-assist
 Earlier Related Claims:
 - [Example–problem sequences reduce cognitive load and improve learning outcomes.](example-problem-sequences-reduce-cognitive-load.md) — the sequencing claim this mechanism claim underpins
 - [Pairing worked examples with practice or fading supports transfer better than examples alone.](worked-examples-with-practice-improve-transfer.md) — examples alone are not sufficient for transfer
-- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md) — the expertise-reversal boundary of this claim
+- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — the expertise-reversal boundary of this claim
 - [Worked examples improve mathematics performance, especially for novices.](worked-examples-improve-math-performance.md) — domain-specific meta-analytic support
 -->
 
@@ -71,3 +71,7 @@ Earlier Related Claims:
 - [Structured peer tutoring outperforms unstructured.](structured-peer-tutoring-outperforms-unstructured.md) — the role of structure, which the recorded moderators also point to
 - [Tutoring benefits tutors and tutees.](tutoring-benefits-tutors-and-tutees.md) — gains on both sides of the interaction
 - [Cooperative learning improves achievement.](cooperative-learning-improves-achievement.md) — interdependent group work, a close relative of PAL
+- [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — related
+- [Cooperative learning without individual accountability produces free-riding that reduces learning outcomes](cooperative-learning-free-rider-without-accountability.md) — related
+- [Group rewards combined with individual accountability make cooperative learning effective](cooperative-learning-group-rewards-and-individual-accountability.md) — related
+- [Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — a broader claim this one bears on

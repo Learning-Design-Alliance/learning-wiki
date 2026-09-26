@@ -41,4 +41,5 @@ Simulation conclusions section: under the stated combination of non-normal covar
 
 
 ## Related Claims
--
+- [When both normality and homoscedasticity are violated and the covariate is non-normal, parametric ANCOVA tends to be conservative at small sample sizes and alpha = .05](parametric-ancova-conservative-both-violations-small-n.md) — related
+- [Parametric ANCOVA is robust to violation of either conditional normality or homoscedasticity alone](parametric-ancova-robust-single-assumption-violation.md) — related

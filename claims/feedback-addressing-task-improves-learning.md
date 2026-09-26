@@ -72,3 +72,10 @@ The task-level (sometimes called "task process" or "information") focus of feedb
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — feedback is a core mechanism through which assessment for learning operates.
 - [Action-oriented feedback](../strategies/action-oriented_feedback.md) — feedback that specifies what to do next operationalizes the task-level focus of this claim.
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — task-focused feedback works by reducing unproductive search and load during revision.
+- [Errors serve as valuable feedback for teachers and learners, but unhandled errors risk fossilization](errors-as-feedback-fossilization-risk.md) — a narrower finding that bears on this claim
+- [Feedback Improves Learning When It Addresses Task Goals](feedback-improves-learning-when-it-addresses-task-goals.md) — possibly the same claim (merge candidate)
+- [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md) — possibly the same claim (merge candidate)
+- [Feedback Improves Learning](feedback-improves-learning.md) — a broader claim this one bears on
+- [Feedback Use Improves Learning](feedback-use-improves-learning.md) — a broader claim this one bears on
+- [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — related
+- [Feedback Praise Reduces Learning](feedback-praise-reduces-learning.md) — related

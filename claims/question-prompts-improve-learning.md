@@ -71,3 +71,7 @@ This paper synthesizes meta-analytic evidence on learning strategies into a mode
 - [Active learning improves exam performance](active-learning-improves-exam-performance.md) — question prompts are one of the cheapest ways to make instruction active.
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — poorly timed or overly demanding prompts can add load for novices.
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — prompt benefits may shrink or reverse as learner expertise grows.
+- [Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall](pretend-play-enactment-narrative-recall-short-term.md) — related
+- [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
+- [Practicing retrieval of some portions of an educational text can enhance retention of related nontested portions (retrieval-induced facilitation), but not when relational encoding is disrupted](retrieval-induced-facilitation-of-nontested-text-material-requires-relational-encoding.md) — related
+- [Pretesting enhances learning](pretesting-enhances-learning.md) — related

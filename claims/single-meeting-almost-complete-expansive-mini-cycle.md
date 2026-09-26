@@ -58,4 +58,8 @@ Frequency analysis of learning actions in the meeting (Table 4, 31 actions over 
 
 
 ## Related Claims
--
+- [A full assessment of a potentially expansive mini-cycle of learning calls for extending the time scale of the analysis beyond a single session](assessing-minicycle-requires-extended-time-scale.md) — related
+- [Transitions and disturbances were crucial for the dynamics of expansive learning in the meeting](disturbances-crucial-expansive-learning-dynamics.md) — related
+- [Expansive learning actions in the meeting followed by and large the theory-predicted order, forming a mini-cycle of two main parts with iterations](learning-actions-follow-predicted-order-two-parts.md) — related
+- [Expansive learning moved epistemically from questioning to analysis, modeling and implementation while interactionally moving from coordination to cooperation and communication, but with no mechanical correspondence between specific actions and interaction types](no-mechanical-correspondence-actions-interaction.md) — related
+- [Object formation in the meeting was iterative and non-linear: the proposed germ cell of 'making a choice' was encapsulated, not elaborated and expanded](object-formation-iterative-germ-cell-encapsulated.md) — related

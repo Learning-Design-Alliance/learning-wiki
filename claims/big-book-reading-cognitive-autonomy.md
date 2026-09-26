@@ -41,4 +41,8 @@ Teachers' self-reports within the Brighton project, not a controlled comparison;
 
 
 ## Related Claims
--
+- [Exercise of autonomy at one level may inhibit its development at another in early literacy learning](autonomy-at-one-level-may-inhibit-another.md) — related
+- [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
+- [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — related
+- [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
+- [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-expressive-language.md) — related

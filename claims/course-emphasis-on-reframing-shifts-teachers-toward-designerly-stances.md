@@ -44,3 +44,7 @@ This is a quasi-experimental, within-course comparison (not a randomized trial) 
 
 ## Related Claims
 - (none yet linked)
+- [Collaborative critique-and-redesign instruction shifts students from a value-free view of objectivity toward a procedural one](collaborative-evidence-critique-shifts-students-toward-procedural-objectivity.md) — related
+- [A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life](teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md) — related
+- [Word-frequency changes in reflections suggest a shift away from given-information-based strategies](word-frequency-shifts-in-reflections.md) — related
+- [Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum](curricular-knowledge-enables-responsive-instructional-moves.md) — related

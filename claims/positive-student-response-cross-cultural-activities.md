@@ -41,4 +41,4 @@ The authors' evaluation in the Conclusion section is based on informal feedback 
 
 
 ## Related Claims
--
+- [EFL university students report varied preferences for music, drawing, photography, acting, internet use, mobile-phone use, cooking and travelling while studying English](efl-students-report-varied-style-related-preferences.md) — related

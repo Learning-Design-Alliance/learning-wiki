@@ -41,4 +41,5 @@ The brief summarizes its OPRE comprehensive review of self-regulation interventi
 
 
 ## Related Claims
--
+- [Mindfulness programs show substantial benefits across cognitive and emotional regulation as well as stress and mental health in adolescents and young adults](mindfulness-programs-benefit-adolescent-regulation.md) — a narrower finding that bears on this claim
+- [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — a broader claim this one bears on

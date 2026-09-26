@@ -41,4 +41,5 @@ The Goals of Social Sciences Education section enumerates the five goals as poli
 
 
 ## Related Claims
--
+- [The framework's first Goal I program goal is helping students understand interdisciplinary concepts through studies of human experience, with the remaining goals implicit in the illustrative objectives](goal-i-program-goals-explication.md) — related
+- [Social sciences instruction is drawn from seven disciplines: anthropology, economics, geography, history, political science, psychology, and sociology](seven-disciplines-social-sciences-instruction.md) — related

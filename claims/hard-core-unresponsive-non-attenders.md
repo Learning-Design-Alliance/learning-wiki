@@ -41,4 +41,5 @@ Staff observation from the 2007-08 support programme: Group 3 students (~5% of t
 
 
 ## Related Claims
--
+- [Low engagement with assessment lowered grades at all levels of the 2007-08 Physics 1Y grade distribution](absenteeism-lowers-grades-all-levels.md) — related
+- [Scaffolded Close Reading Improves Comprehension For Struggling Readers](scaffolded-close-reading-improves-comprehension-for-struggling-readers.md) — related

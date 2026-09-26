@@ -41,4 +41,9 @@ This is a conceptual argument in an opinion paper: Cummins reasons that all chil
 
 
 ## Related Claims
--
+- [Assuming conversational fluency indicates English proficiency has led to bilingual children being misdiagnosed as learning disabled or retarded and to premature exit from support programs](conversational-fluency-misleading-proficiency-indicator.md) — related
+- [The BICS-before-CALP sequence is typical for immigrant children but not universal: high L2 CALP can precede fluent L2 BICS in certain situations](calp-can-precede-bics-in-certain-situations.md) — related
+- [L1 and L2 CALP are interdependent: strong promotion of L1 literacy in the early grades entails no adverse consequences for English](l1-l2-calp-interdependence-no-adverse-consequences.md) — related
+- [Immigrant children acquire peer-appropriate conversational fluency in English within about 2 years but require considerably longer (5-10 years) to catch up academically in English](bics-acquired-faster-than-calc-immigrant-children.md) — related
+- [The Cognitive Model does not address the social aspect of L2 writing and assumes uniform cognitive processes](cognitive-model-omits-social-aspect-of-writing.md) — related
+- [Reading difficulty occurs when one aspect of the interactive reading process is excluded for an extended period of time](reading-difficulty-excluded-aspect-extended-time.md) — related

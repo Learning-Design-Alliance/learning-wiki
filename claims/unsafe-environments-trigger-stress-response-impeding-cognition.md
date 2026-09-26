@@ -41,4 +41,5 @@ Narrative review section on the limbic region, citing Greenleaf (2003). The revi
 
 
 ## Related Claims
--
+- [Prolonged or overwhelming stress disrupts self-regulation development by physically changing brain wiring toward emotional reactivity](toxic-stress-disrupts-self-regulation-development.md) — related
+- [Urban living is associated with higher activity in stress-related brain regions and reduced grey matter in dorsolateral prefrontal and pregenual anterior cingulate cortex after urban exposure during upbringing](urban-living-linked-to-stress-brain-activity-and-grey-matter-deficits.md) — related

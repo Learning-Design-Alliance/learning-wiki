@@ -94,3 +94,11 @@ This narrative review builds its case on human cognitive architecture, expert–
 - [Collaborative learning improves outcomes](collaborative-learning-improves-outcomes.md) — collaboration is another form of support that can structure inquiry
 - [Cognitive disequilibrium motivates conceptual change](cognitive-disequilibrium-motivates-conceptual-change.md) — the motivational rationale for inquiry, which guidance must balance against load
 - [Advance organizers improve learning](advance-organizers-improve-learning.md) — a low-cost guidance structure that orients inquiry before exploration begins
+- [Ambiguous tasks with a revision step help students recognize the role of assumptions in mathematical activity](ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions.md) — related
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
+- [Guided Discovery Outperforms Pure Discovery](guided-discovery-outperforms-pure-discovery.md) — possibly the same claim (merge candidate)
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — possibly the same claim (merge candidate)
+- [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related
+- [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
+- [Teacher-guided matching activities and peer scaffolding during grid and path games advanced preschool children's one-to-one correspondence and counting skills](guided-matching-and-peer-scaffolding-build-correspondence.md) — related
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related

@@ -41,4 +41,7 @@ Cross-case interpretive observation from the project's case studies and longitud
 
 
 ## Related Claims
--
+- [Boundary-crossing mechanisms unfold sequentially across levels, and broker centrality creates an involvement paradox](boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox.md) — related
+- [The authors report that an area of positive change in their study was students' use of self-generated questions](self-generated-questions-positive-change-metacognitive-training.md) — related
+- [Teachers adapt TEFA to their own terms and contexts, with learning trajectories that are personal and idiosyncratic](teachers-adapt-tefa-to-own-terms.md) — related
+- [After one year of TEFA professional development, videotaped lessons showed increased discussion time, more student-student interactions, less IRE interaction, and more varied discussion formats](tefa-pd-year-one-observable-practice-changes.md) — related

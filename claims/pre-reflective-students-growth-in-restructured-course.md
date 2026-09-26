@@ -57,4 +57,4 @@ The author's interpretation of case data: activities were stressful but "well su
 
 
 ## Related Claims
--
+- [Highly reflective students often viewed the lecture-free restructured course negatively, as unchallenging and lacking in content](highly-reflective-students-found-restructured-course-unchallenging.md) — related

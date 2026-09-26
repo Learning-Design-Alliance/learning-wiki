@@ -59,3 +59,9 @@ The chapter's own methodological argument: because restudy reexposes the whole s
 
 ## Related Claims
 - [Retrieval Practice Improves Retention](retrieval-practice-improves-retention.md)
+- [Retrieval practice effects on mediator-cued final tests have been positive, but Coppens et al. (2016) concluded the true effect may be only about 0.10 to 0.20](mediator-cued-final-test-effects-of-retrieval-practice-may-be-small.md) — a narrower finding that bears on this claim
+- [Repeated retrieval practice alters the rate at which learned items are forgotten, according to learn-to-criterion studies and forgetting-curve analyses the chapter reviews](repeated-retrieval-alters-the-rate-of-forgetting.md) — related
+- [Retrieval practice enhances retention relative to repeated study, with an overall effect of g = 0.50 across 159 studies in Rowland's (2014) meta-analysis](retrieval-practice-outperforms-repeated-study-rowland-meta-analysis.md) — a broader claim this one bears on
+- [Retrieval practice effects are larger at retention intervals greater than 1 day (g = 0.69) than at intervals less than 1 day (g = 0.41) in Rowland's (2014) meta-analysis](retrieval-practice-effects-larger-at-retention-intervals-over-one-day.md) — related
+- [Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects](retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) — related
+- [The argument that retrieval practice effects do not occur with materials high in element interactivity is contested, and the chapter judges its research base not convincing](whether-element-interactivity-limits-retrieval-practice-effects-is-contested.md) — related

@@ -46,3 +46,6 @@ This is a small, purposive case study (3 focal youth from a 17-participant camp)
 
 ## Related Claims
 - (none yet linked)
+- [Teachers adapt TEFA to their own terms and contexts, with learning trajectories that are personal and idiosyncratic](teachers-adapt-tefa-to-own-terms.md) — related
+- [Well-defined tasks and accessible materials support shared creative influence in group work](well-defined-tasks-and-accessible-materials-support-shared-creative-influence.md) — related
+- [Material choice shapes conceptual learning and who feels invited to learn](material-choice-shapes-conceptual-learning-and-participation.md) — related

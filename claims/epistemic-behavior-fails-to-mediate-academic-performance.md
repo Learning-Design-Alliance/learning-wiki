@@ -41,4 +41,8 @@ Hierarchical latent change score mediation model with robust maximum likelihood,
 
 
 ## Related Claims
--
+- [Cognitive ability and curiosity are positively correlated in young adults](cognitive-ability-curiosity-positive-correlation.md) — related
+- [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) — related
+- [Epistemic behavior relates to curiosity but not to cognitive ability](epistemic-behavior-relates-curiosity-not-cognitive-ability.md) — related
+- [Exploratory: leisure epistemic behavior mediates the relation of cognitive ability with tertiary academic performance, with a very small effect](leisure-epistemic-behavior-exploratory-mediation-tertiary.md) — reports the opposite
+- [Neither cognitive ability, curiosity, nor epistemic behavior significantly predicts tertiary academic performance in the heterogeneous sample](no-significant-predictors-tertiary-gpa.md) — related

@@ -41,4 +41,5 @@ The review reports West's 1982 study relating Kolb's styles to seven personality
 
 
 ## Related Claims
--
+- [Kolb's inventory successfully differentiated group learning styles by students' subject majors](kolb-inventory-group-styles-by-subject-major.md) — related
+- [Learning styles measured by Kolb's inventory showed no significant change over one year of varied instruction](kolb-learning-style-stable-over-one-year.md) — related

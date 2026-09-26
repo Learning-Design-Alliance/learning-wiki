@@ -41,4 +41,7 @@ Observational classroom study in a junior-level electromagnetics engineering phy
 
 
 ## Related Claims
--
+- [Every student present submitted at least one question response for each simulation, without external incentives](full-participation-question-submission.md) — related
+- [Multiple representations improve learning](multiple-representations-improve-learning.md) — related
+- [The category distribution of student questions varies substantially across different simulations](simulation-content-shifts-curiosity-categories.md) — related
+- [Anonymous real-time sharing of student responses mitigates evaluation apprehension while preserving individual accountability (authors' account)](anonymity-mitigates-evaluation-apprehension.md) — related

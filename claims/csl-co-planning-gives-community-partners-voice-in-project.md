@@ -41,4 +41,6 @@ Autoethnographic first-person narrative by the community partner (Frank Scott) w
 
 
 ## Related Claims
--
+- [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related
+- [The authors argue that co-establishing the service-learning project with the community partner secures partner buy-in and lasting community value](csl-co-established-projects-secure-partner-buy-in.md) — related
+- [Direct one-on-one interaction with community partners is reported to help students see community members as people rather than stereotypes](csl-one-on-one-partner-contact-disrupts-stereotypes.md) — related

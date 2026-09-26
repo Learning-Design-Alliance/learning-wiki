@@ -41,4 +41,9 @@ Causal model analyses of Kropp and Stoker's four taxonomy tests across 16 replic
 
 
 ## Related Claims
--
+- [Partial correlations between Analysis and Synthesis nearly vanish in most replications when lower levels and g are partialed out](analysis-synthesis-partial-correlation-near-vanishing.md) — possibly the same claim (merge candidate)
+- [The direct link between Application and Synthesis is stronger than the link between Analysis and Synthesis](application-synthesis-link-stronger-than-analysis-synthesis.md) — a narrower finding that bears on this claim
+- [Proportions of variance explained follow a curvilinear pattern across the six taxonomy levels](curvilinear-variance-pattern-across-taxonomy-levels.md) — related
+- [Adult teachers' questions concentrate at low Bloom's levels, and cooperative learning's dialogue and questioning support critical thinking across Bloom's taxonomy](teacher-questions-low-bloom-levels-cooperative-dialogue.md) — related
+- [Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content](synthesis-evaluation-measure-general-ability-lower-grades.md) — related
+- [The g-factor's relationship to the higher taxonomy levels declines across grade levels](g-factor-relationship-declines-with-grade-level.md) — related

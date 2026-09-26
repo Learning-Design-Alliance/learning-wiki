@@ -41,4 +41,5 @@ The article's concluding argument, offered as the author's opinion with no empir
 
 
 ## Related Claims
--
+- [The Cognitive Model does not address the social aspect of L2 writing and assumes uniform cognitive processes](cognitive-model-omits-social-aspect-of-writing.md) — a narrower finding that bears on this claim
+- [Class size limits the Sociocultural Model's benefits in L2 writing](sociocultural-model-limited-by-class-size.md) — related

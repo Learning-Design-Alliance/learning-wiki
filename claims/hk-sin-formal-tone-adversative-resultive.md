@@ -41,4 +41,8 @@ Frequency comparison of formal versus informal adversative and resultive DCs acr
 
 
 ## Related Claims
--
+- [Hong Kong students overuse enumerating, resultive and summative discourse connectives relative to L1, Singaporean and Thai writers](hk-overuse-enumerating-resultive-summative.md) — related
+- [Thai students overuse the causal connective because, a pattern the article attributes to L1 influence](thai-overuse-because-l1-influence.md) — related
+- [L1 and L2 writers share a core set of high-frequency connectives but with strikingly different frequencies, and is nearly three times more frequent in L1 essays](shared-top-dcs-different-frequencies.md) — related
+- [L2 writers tend to overuse more discourse connectives than they underuse, and both L1 and L2 students have a limited range of DCs at their disposal](l2-overuse-tendency-limited-dc-range.md) — related
+- [Hong Kong and Singaporean L2 students underuse discourse connectives overall compared with L1 writers, while Thai students do not differ significantly](hk-sin-l2-underuse-dcs-overall.md) — related

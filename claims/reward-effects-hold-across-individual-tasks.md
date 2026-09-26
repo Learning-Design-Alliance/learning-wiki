@@ -41,4 +41,7 @@ Per-task analyses of covariance replicate the combined-task pattern: nonsignific
 
 
 ## Related Claims
--
+- [Baseline performance differed by later treatment group for two tasks, with the delayed-reward group giving fewer baseline responses, while no sex or order effects emerged](baseline-group-effect-no-sex-order-effects.md) — related
+- [Concrete reward increases children's mean ideational fluency on creativity tasks relative to control conditions](concrete-reward-increases-mean-ideational-fluency.md) — a broader claim this one bears on
+- [Reward does not reduce the relation between baseline and rewarded creativity performance, supporting a capacity rather than motivational interpretation of individual differences](reward-leaves-creativity-individual-differences-unchanged.md) — related
+- [Rewarding only 'good' ideas in a final task produced no incentive effect, but this condition was confounded and excluded from the main analysis](good-idea-reward-no-incentive-effect.md) — related

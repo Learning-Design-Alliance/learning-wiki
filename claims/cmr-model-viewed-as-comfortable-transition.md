@@ -41,4 +41,4 @@ Evaluation of the presented CMR model at the Youth Center: staff and administrat
 
 
 ## Related Claims
--
+- [Youth workers at the treatment program treated admissions as a sudden procedural event rather than a gradual therapeutic process](workers-treat-admissions-as-sudden-procedural-event.md) — related

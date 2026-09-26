@@ -41,4 +41,4 @@ The paper states this general precedence citing Cazden (1972), but immediately q
 
 
 ## Related Claims
--
+- [Young developing readers rely more heavily on semantic and syntactic information for word-level analysis than adult readers, per Schwantes' study](young-readers-rely-on-semantic-syntactic-context-for-word-analysis.md) — related

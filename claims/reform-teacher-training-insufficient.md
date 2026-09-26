@@ -58,4 +58,9 @@ Drawing on the fourth national report (cycle 2006-2007), the article states that
 
 
 ## Related Claims
--
+- [The SEP Ciencias II work guide packs many expected learnings into few class hours (e.g., 5 learnings in 6 hours for Block 1 and 8 in 5 hours for Block 2), which teachers find hard to cover](ciencias-ii-guide-overloaded-sequences.md) — related
+- [Inexperienced teachers report having an insufficient repertoire of classroom management strategies for misbehaving students](inexperienced-teachers-insufficient-management-repertoire.md) — related
+- [All three participant groups commonly recommend training teachers to use the computer to support their teaching](all-groups-recommend-teacher-computer-training.md) — related
+- [Unannounced SEP supervision visits led teachers and students to simulate reform-consistent classroom behavior, as documented in the fifth national report's observation records](supervision-visits-produce-simulated-compliance.md) — related
+- [The 2006 reform concentrated physics, previously taught across three secondary years, into a single second-grade course (Ciencias II) with 6 hours per week, raising teacher concern about fostering interest in one school cycle](res-concentrates-physics-into-single-second-grade-course.md) — related
+- [A threefold staff development plan of immersion, peer monitoring and review, and manual contribution supported instructors' implementation of cooperative learning structures](threefold-cooperative-learning-staff-development-plan.md) — related

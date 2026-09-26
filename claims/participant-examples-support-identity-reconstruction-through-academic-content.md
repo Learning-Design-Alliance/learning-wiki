@@ -44,3 +44,5 @@ This is a single, deeply analyzed case (q1), not a claim about typical or averag
 
 ## Related Claims
 - (none yet linked)
+- [A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life](teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md) — related
+- [Restorying supports Black girls' identification of and resistance to dominant narratives in computing](restorying-supports-computing-identity-reconstruction.md) — related

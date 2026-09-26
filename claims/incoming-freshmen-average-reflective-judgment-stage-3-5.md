@@ -41,4 +41,4 @@ The article reports, citing King and Kitchener (1994), that reassessment of coll
 
 
 ## Related Claims
--
+- [Highly reflective students often viewed the lecture-free restructured course negatively, as unchallenging and lacking in content](highly-reflective-students-found-restructured-course-unchallenging.md) — related

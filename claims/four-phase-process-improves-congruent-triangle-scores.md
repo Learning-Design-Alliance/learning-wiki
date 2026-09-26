@@ -41,4 +41,6 @@ Single-group pre-test/post-test experiment with 40 grade 8 students in Vietnam, 
 
 
 ## Related Claims
--
+- [GBSRI significantly improved Thai undergraduates' overall English paragraph writing scores after eight weeks](gbsri-improves-thai-undergraduate-writing-scores.md) — related
+- [SRL interventions in a four-week online mathematics preparation course did not significantly change the mathematics overall score (interaction marginal), while the mathematics focus score on self-chosen chapters showed a statistically significant group by time interaction](srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course.md) — related
+- [Both procedural and descriptive writing scores improved significantly after GBSRI](gbsri-improves-procedural-and-descriptive-genres.md) — related

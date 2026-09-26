@@ -41,4 +41,4 @@ Rubric-based scoring of the 40 students' pre- and post-tests on the math vocabul
 
 
 ## Related Claims
--
+- [Students' explanation (argument, presentation) levels improved after the intervention, though gains were smaller than in vocabulary](explanation-levels-improve-post-test.md) — related

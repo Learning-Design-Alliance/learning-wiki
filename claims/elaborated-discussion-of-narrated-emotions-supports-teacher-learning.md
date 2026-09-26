@@ -46,3 +46,5 @@ The frequency and mitigation findings (subclaims 1-2) are descriptive patterns f
 
 ## Related Claims
 - (none yet linked)
+- [Expressive Writing Improves Health Outcomes](expressive-writing-improves-health-outcomes.md) — related
+- [Attending to affect in co-design supports community formation and cross-scale transfer](attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) — related

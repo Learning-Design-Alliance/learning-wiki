@@ -58,4 +58,7 @@ Table III of the Results section prints effect sizes and p-values for all pairwi
 
 
 ## Related Claims
--
+- [The MLM group showed greater preference for the study materials over their current textbook than the two text-based groups](mlm-group-prefers-study-materials-over-textbook.md) — related
+- [The multimedia learning module advantage over the textbook persists on a retention test administered two weeks after the lessons](mlm-retention-advantage-two-weeks.md) — related
+- [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — a broader claim this one bears on
+- [Intuitive learners tend to outperform sensing learners in media-based presentations](intuitive-learners-outperform-sensing-learners.md) — related

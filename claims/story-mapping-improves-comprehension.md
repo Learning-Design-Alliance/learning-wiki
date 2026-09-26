@@ -74,3 +74,6 @@ Open questions include how much fading the scaffold requires over time, whether 
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — story maps chunk narrative elements into a manageable structural frame
 - [Activation improves learning.](activation-improves-learning.md) — completing a story map activates relevant prior knowledge of story grammar during reading
 - [Expertise reversal effect.](../theories/expertise-reversal-effect.md) — the scaffold that helps novice readers can become redundant for skilled ones
+- [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) — related
+- [Homogeneous grouping for reading instruction and heterogeneous grouping for discussion groups each serve distinct purposes](mixed-homogeneous-heterogeneous-grouping.md) — related
+- [Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall](pretend-play-enactment-narrative-recall-short-term.md) — related

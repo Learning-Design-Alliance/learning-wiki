@@ -41,4 +41,6 @@ Authors' evaluation of the three-day process, in which portfolios were presented
 
 
 ## Related Claims
--
+- [Performance classifications varied considerably across grades in both literacy and mathematics for the alternate portfolio assessment](alternate-portfolio-classification-varies-across-grades.md) — related
+- [A body of work standard setting process produced classification agreement rates ranging from 71% to 97% for an alternate portfolio assessment](body-of-work-agreement-rates-71-97.md) — related
+- [A mean-classification cut-score method outperformed a contrasting-groups-style mean method because it was more robust to outliers](mean-classification-cut-score-method-robust.md) — related

@@ -41,4 +41,4 @@ The essay's extended ozone illustration, including aerosol propellant chemistry 
 
 
 ## Related Claims
--
+- [Event-centered news media limit and distort public perception of long-term world phenomena](event-centered-media-distort-perception.md) — related

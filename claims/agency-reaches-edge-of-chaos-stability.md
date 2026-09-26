@@ -41,4 +41,7 @@ Authors' interpretation of the final five weeks of the semester, in which self-r
 
 
 ## Related Claims
--
+- [Teacher agency development proceeds through temporal phases in which different subsystems dominate](agency-subsystems-dominate-temporally.md) — related
+- [Complex systems function properly only when self-assertive and integrative tendencies are in equilibrium](self-assertive-integrative-equilibrium-personality.md) — a broader claim this one bears on
+- [Challenges of blended delivery catalyse opportunities for teacher agency growth](blended-challenges-catalyse-agency-growth.md) — related
+- [Reflexive noticing shifts teacher discourse from stabilization to possibility, while surprises alone often re-stabilize it](reflexive-noticing-shifts-stabilization-to-possibility-discourse.md) — related

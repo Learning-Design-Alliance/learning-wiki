@@ -44,3 +44,7 @@ This is a two-case comparative study with no control condition and no standardiz
 
 ## Related Claims
 - (none yet linked)
+- [Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum](curricular-knowledge-enables-responsive-instructional-moves.md) — related
+- [Non-participation in intensive professional development reflected enjoyment, preparation, and conceptions of professional development, not experience or science background](nonparticipant-barriers-professional-development.md) — related
+- [Boundary-crossing mechanisms unfold sequentially across levels, and broker centrality creates an involvement paradox](boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox.md) — related
+- [PDSA testing of instructional routines provided a durable structure for teachers to reflect on and improve instruction over time](pdsa-testing-routines-structure-teacher-reflection.md) — related

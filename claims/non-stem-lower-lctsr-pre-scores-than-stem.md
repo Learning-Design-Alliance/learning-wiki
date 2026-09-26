@@ -41,4 +41,5 @@ Observational comparison of pre-instruction LCTSR scores: the authors' non-STEM 
 
 
 ## Related Claims
--
+- [A majority (56%) of non-STEM students are classified as transitional reasoners, while formal operational reasoners predominate among STEM majors](non-stem-majority-transitional-reasoners.md) — related
+- [Non-STEM students show the poorest performance on proportional reasoning (25%) and score 30% on hypothetico-deductive reasoning items](non-stem-weak-proportional-hypothetico-deductive-reasoning.md) — related

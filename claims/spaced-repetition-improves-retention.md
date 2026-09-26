@@ -90,3 +90,9 @@ A meta-analysis of distribution-of-practice effects across task types, reporting
 - [Chunking Reduces Working Memory Load](chunking-reduces-working-memory-load.md) — within-session organization of material that spacing complements across sessions
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — the theoretical frame for why effortful spaced processing strengthens encoding
 - [Adaptive Learning Improves Outcomes](adaptive-learning-improves-outcomes.md) — adaptive platforms operationalize spacing by scheduling reviews at expanding intervals
+- [Distributed Practice Improves Retention](distributed-practice-improves-retention.md) — possibly the same claim (merge candidate)
+- [Interleaved Practice Improves Retention](interleaved-practice-improves-retention.md) — related
+- [Interleaving Improves Transfer](interleaving-improves-transfer.md) — related
+- [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — related
+- [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — possibly the same claim (merge candidate)
+- [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related

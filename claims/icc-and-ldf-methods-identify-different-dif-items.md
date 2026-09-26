@@ -41,4 +41,8 @@ Applied comparison on a state-level performance-based assessment with approximat
 
 
 ## Related Claims
--
+- [Items flagged as DIF in booklet comparisons displayed non-uniform DIF in their item characteristic curves](flagged-dif-items-displayed-non-uniform-dif.md) — related
+- [Seven items exhibit absolute gender DIF by the LDF method, flagged when the total-score line falls outside .95 confidence bands](ldf-identifies-seven-absolute-dif-items.md) — related
+- [Given assumption violations and the uniformity factor, the authors judge the LDF method more likely accurate and superior to ICC for this performance assessment](ldf-superior-to-icc-for-this-performance-assessment.md) — related
+- [ICC method flags seven items with the largest DIF indices, two of which show slight nonuniform DIF that the unsigned-area measure understates](icc-identifies-seven-largest-dif-items.md) — related
+- [The assessment violates IRT assumptions of unidimensionality and local independence, which the authors identify as a likely cause of the method discrepancy](irt-assumption-violations-cause-dif-method-discrepancy.md) — related

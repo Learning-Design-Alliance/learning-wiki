@@ -43,3 +43,8 @@ Randomized two-group experiment (72 undergraduate or graduate students) with the
 ## Related Claims
 - [Worked Example Gains In A Puzzle Game Remain Small Relative To Expert Knowledge Maps](worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps.md)
 - [Worked Examples Reduce Novice Search](worked-examples-reduce-novice-search.md)
+- [Game-based learning improved pharmacy students' literature searching course scores in one reported study](game-based-learning-improves-literature-searching-scores-pharmacy.md) — related
+- [Individually removing objectives, examples, or review from a well-designed computer-based lesson did not significantly reduce achievement](single-event-removal-no-achievement-effect.md) — related
+- [Adult players who studied worked examples scored significantly higher on a game-based problem-solving retention question than a control group](worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game.md) — related
+- [Adult players who studied worked examples scored significantly higher on a game-based problem-solving transfer question than a control group](worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game.md) — related
+- [In a game-based problem-solving study, trait self-regulation scores related significantly only to knowledge map scores, with higher planning, self-monitoring, effort and self-efficacy going with better knowledge map performance](trait-self-regulation-relates-only-to-knowledge-map-scores-in-a-puzzle-game.md) — related

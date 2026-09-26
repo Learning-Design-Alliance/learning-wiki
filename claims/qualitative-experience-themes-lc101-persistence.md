@@ -41,4 +41,9 @@ Semi-structured interviews with 22 students and 8 instructors, analyzed via open
 
 
 ## Related Claims
--
+- [Half of reported developmental barriers stem from academic-related challenges (50.39%)](academic-challenges-half-of-development-barriers.md) — related
+- [Educational attainment is not significantly associated with persistence in either the coursework or apprenticeship phase of the LC101 program](educational-attainment-not-associated-lc101-persistence.md) — related
+- [Interpersonal relationships are the most prominent student concern in qualitative interviews (30.61% of coded responses)](interpersonal-relationships-top-student-concern-30-61.md) — related
+- [Finding another job (29.1%) and low apprenticeship pay (13.9%) are the largest barriers to completing the LC101 apprenticeship phase](job-and-pay-largest-apprenticeship-barriers.md) — related
+- [Time constraints (47.3%) and course difficulty (27.7%) are the two largest barriers to completing the LC101 coursework phase](time-and-difficulty-largest-coursework-barriers.md) — related
+- [HackerRank test scores and prior coding experience are significantly associated with increased odds of persistence across both the coursework and apprenticeship phases of the LC101 program](test-scores-prior-coding-experience-predict-lc101-persistence.md) — related

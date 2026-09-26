@@ -41,4 +41,5 @@ Experiment One with Task One networks of 9, 25, and 49 components, eight subject
 
 
 ## Related Claims
--
+- [Increased redundancy significantly decreases tests and time to solution, while feedback level shows no significant effect due to divergent subject strategies](redundancy-decreases-tests-feedback-null-fault-diagnosis.md) — related
+- [Context-free diagnostic training transfers to context-specific performance: aided Task One training reduced cost to solution on two of three FAULT powerplants](context-free-training-transfers-to-context-specific-fault-diagnosis.md) — related

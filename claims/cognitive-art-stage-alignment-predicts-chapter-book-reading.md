@@ -41,4 +41,6 @@ Findings from the case-study classification (Table 5) of 15 students: four concr
 
 
 ## Related Claims
--
+- [Reading scores ranged 90-100 for chapter book readers and 75-90 for non-chapter-book readers, based on informal teacher assessment](reading-scores-range-by-chapter-book-status.md) — related
+- [Sex differences appeared in stage distribution: 63% of males were concrete operational versus 57% of females preoperational](sex-differences-in-cognitive-and-art-stage-distribution.md) — related
+- [For 10 of 15 first-graders, literacy development was determined by cognitive development, with artistic responses paralleling the classification](literacy-development-parallels-cognitive-stage-in-first-graders.md) — a broader claim this one bears on

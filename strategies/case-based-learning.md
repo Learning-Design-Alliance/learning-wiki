@@ -56,7 +56,7 @@ CBL works because it situates abstract concepts in the messy, contextualized con
 2. Activate relevant prior knowledge with a short pre-brief or framing question ([Activation](../elements/activation.md))
 3. Have learners analyze the case in small groups using an explicit framework, producing a position with justification ([Application of Knowledge](../elements/application-of-knowledge.md))
 4. Debrief in whole class, contrasting groups' reasoning and surfacing the underlying principles ([Comparing Cases](../elements/comparing-cases.md))
-5. Follow with a second, structurally different case so learners must adapt rather than repeat their first solution [Comparing and contrasting cases improves learning.](../claims/comparing-contrasting-cases-improve-learning.md) [+M]
+5. Follow with a second, structurally different case so learners must adapt rather than repeat their first solution [Comparing and contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ## Related Strategies
 - [Problem-Based Learning](problem-based-learning.md) — sibling strategy; PBL starts from an open problem, CBL from a narrated situation

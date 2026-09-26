@@ -41,4 +41,4 @@ The review cites prior empirical work by Zhao et al. (2019) showing that facial 
 
 
 ## Related Claims
--
+- [Meta-analytic evidence indicates anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations](anthropomorphism-benefits-vary-by-context.md) — related

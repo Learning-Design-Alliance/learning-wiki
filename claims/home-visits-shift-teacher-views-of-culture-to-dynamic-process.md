@@ -58,4 +58,5 @@ The digest reports that "teachers begin to view culture as a dynamic process" as
 
 
 ## Related Claims
--
+- [Teachers who took part in funds of knowledge household research came to view their minority students as competent and raised their expectations of them.](funds-of-knowledge-research-raises-teacher-expectations.md) — related
+- [In the Tucson funds of knowledge project, teachers visiting language minority households found funds of knowledge to be abundant and diverse.](home-visits-reveal-abundant-diverse-household-funds-of-knowledge.md) — related

@@ -58,4 +58,8 @@ Case-comparison evidence: in the second-ranked group, where everyone shied away 
 
 
 ## Related Claims
--
+- [Educator functions of encouraging, linking with knowledge, and linking with human resources positively influence group growth, while enlisting support negatively influences it](educator-functions-influence-community-group-growth.md) — related
+- [Trust between the adult educator and the group positively influences group growth](educator-group-trust-influences-group-growth.md) — related
+- [Group growth in leadership positively influences additional group growth](leadership-growth-drives-additional-group-growth.md) — related
+- [The relational taxonomy rests on value orientations that task-oriented group activity requires rotating leadership exercised through sanctions, persuasion, or expertise](rotating-leadership-three-agencies-claim.md) — related
+- [PLC with an appointed teacher leader were more productive than groups with no appointed leader](teacher-leader-more-productive-plc.md) — related

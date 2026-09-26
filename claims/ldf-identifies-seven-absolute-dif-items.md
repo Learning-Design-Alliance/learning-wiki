@@ -41,4 +41,7 @@ LDF analysis of the state assessment data: an item has DIF if group membership i
 
 
 ## Related Claims
--
+- [The ICC and LDF methods identify substantially different sets of items as exhibiting DIF on a state science performance assessment](icc-and-ldf-methods-identify-different-dif-items.md) — related
+- [ICC method flags seven items with the largest DIF indices, two of which show slight nonuniform DIF that the unsigned-area measure understates](icc-identifies-seven-largest-dif-items.md) — related
+- [Given assumption violations and the uniformity factor, the authors judge the LDF method more likely accurate and superior to ICC for this performance assessment](ldf-superior-to-icc-for-this-performance-assessment.md) — related
+- [Differential item functioning was found in four items across the function, form and level dimensions](thinking-styles-scale-dif-items.md) — related

@@ -41,4 +41,8 @@ In-depth micro-case evaluations of individual CLASP programs identified communic
 
 
 ## Related Claims
--
+- [CLASP made limited progress on cooperative activities and little progress on developing replicable collaboration models](clasp-limited-collaboration-models.md) — related
+- [In the meeting, coordination was the most common type of interaction and communication the rarest, indicating reconceptualizing the script was very challenging](coordination-dominates-communication-rare.md) — related
+- [CLASP succeeded in bringing ethnically diverse and underserved users into the library but programs often failed to create links to books, reading, or library services](clasp-diverse-users-missing-library-links.md) — related
+- [CLASP's impact centered on the number of programs offered rather than program type, with few differences between CLASP and non-CLASP library programs](clasp-impact-number-over-type.md) — related
+- [Literature review identifies 182 candidate coaching components organized into coach, teacher, and interaction factors](literature-review-182-coaching-components-three-categories.md) — related

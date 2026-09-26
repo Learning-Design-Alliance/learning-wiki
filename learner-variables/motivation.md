@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 9 studies, `q2`–`q4` · 6 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 9 studies, `q2`–`q4` · 6 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -35,7 +35,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 ## Claims
 - [Autonomy support increases intrinsic motivation, engagement, and persistence](../claims/autonomy-supports-intrinsic-motivation.md) [+M] — the best-supported design lever here
 - [Growth mindset improves achievement](../claims/growth-mindset-improves-achievement.md) [+W] — stated positively, and worth reading beside the next line
-- [Growth mindset interventions produce small positive effects](../claims/growth-mindset-interventions-small-effects.md) [~M] — the meta-analytic correction — real but modest, and subgroup-specific
+- [Growth mindset interventions produce small positive effects](../claims/growth-mindset-improves-achievement.md) [~M] — the meta-analytic correction — real but modest, and subgroup-specific
 - [Material choice shapes conceptual learning and who feels invited to learn](../claims/material-choice-shapes-conceptual-learning-and-participation.md) [~M] — choice is not neutral: what is offered decides who takes it up
 - [Choice-rich infrastructure enables self-sustained student projects](../claims/choice-rich-infrastructure-supports-productive-deviation-and-learning.md) [+W] — qualitative — indicative of what sustained autonomy looks like in place
 - [Learners of Italian report ideal-self motivation rather than instrumental motivation, while their teachers assume the reverse](../claims/italian-l2-motivation-is-ideal-self-not-instrumental.md) [~M] — a worked case of designers assuming the wrong motive, and of motive composition being domain-specific rather than general

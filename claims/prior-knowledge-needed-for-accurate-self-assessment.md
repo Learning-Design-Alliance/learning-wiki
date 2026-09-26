@@ -73,3 +73,9 @@ Open questions: how much prior knowledge is "enough" for calibration in a given 
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — overloaded learners have fewer resources available for accurate self-monitoring
 - [Self-regulated learning](../theories/self-regulated-learning.md) — the theoretical frame in which accurate monitoring drives effective study decisions
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — the competence-dependent meaning of self-assessment cues explains why calibration fails for novices
+- [Only a minority of self-reported CLT-familiar teachers could identify the three types of cognitive load](minority-identify-three-load-types.md) — a narrower finding that bears on this claim
+- [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — related
+- [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — related
+- [Self-efficacy judgments correspond less well to behavior in learning settings than in performance settings](self-efficacy-accuracy-lower-in-learning-settings.md) — related
+- [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) — related
+- [Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content](synthesis-evaluation-measure-general-ability-lower-grades.md) — related

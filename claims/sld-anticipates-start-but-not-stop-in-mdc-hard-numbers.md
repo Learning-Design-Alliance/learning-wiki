@@ -41,4 +41,7 @@ Case-study analysis of a video-recorded teaching episode (task 5T6, October 15, 
 
 
 ## Related Claims
--
+- [Challenges of students with learning difficulties in constructing multiplicative double counting may stem from conceptually born factors beyond memory issues](conceptual-factors-beyond-memory-underlie-sld-mdc-challenges.md) — a broader claim this one bears on
+- [The anticipation of where to stop the unit-rate count remained inconsistent and prompt-dependent across subsequent episodes with harder numbers](mdc-stop-anticipation-remains-prompt-dependent.md) — related
+- [A teacher's prompting that oriented a student's reflection on his own tracking methods fostered monitoring of his goal-directed counting activity](orienting-reflection-to-own-tracking-fosters-monitoring.md) — related
+- [Spontaneous break-apart-make-ten strategy use is associated with stronger multiplicative double-counting reasoning](spontaneous-additive-strategy-relates-to-multiplicative-reasoning.md) — related

@@ -41,4 +41,8 @@ Classroom experiment with 100 first-year Cognitive Psychology undergraduates in 
 
 
 ## Related Claims
--
+- [Short-answer (production) and multiple-choice (recognition) retrieval practice produce no statistically significant difference in undergraduates' reading comprehension on a final MCQ test](production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension.md) — related
+- [The effect of retention interval on reading comprehension after retrieval practice does not differ significantly between lower-order and higher-order thinking questions](retention-interval-by-levels-of-thinking-interaction-not-significant.md) — related
+- [The effect of retrieval practice format on reading comprehension does not differ significantly between an immediate and a three-week-delayed final test](retrieval-format-by-retention-interval-interaction-not-significant.md) — related
+- [Retrieval practice format, levels of thinking and retention interval show no significant three-way interaction on undergraduates' reading comprehension](retrieval-format-levels-of-thinking-retention-interval-three-way-interaction-not-significant.md) — related
+- [After retrieval practice, undergraduates score significantly higher on lower-order thinking questions than on higher-order thinking questions about a studied passage](retrieval-practice-lower-order-questions-outscore-higher-order-questions.md) — related

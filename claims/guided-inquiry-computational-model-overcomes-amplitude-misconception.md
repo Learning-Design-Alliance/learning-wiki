@@ -41,4 +41,4 @@ Classroom implementation across 8 mixed junior/senior, honors and non-honors cla
 
 
 ## Related Claims
--
+- [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related

@@ -41,4 +41,5 @@ Secondary analysis from the Experiment 2 LME model on log-transformed reaction t
 
 
 ## Related Claims
--
+- [Word frequency does not modulate the transposed-character effect in either experiment](frequency-does-not-modulate-tc-effect.md) — related
+- [A supplementary analysis restricted to TC and control nonword primes shows the TC effect is marginally larger for Chinese than Japanese speakers](tc-effect-larger-for-chinese-supplementary.md) — related

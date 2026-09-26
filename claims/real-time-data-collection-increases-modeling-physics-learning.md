@@ -41,4 +41,9 @@ Quasi-experimental comparison of two intact Fall sections (2004 no-tech, 2005 te
 
 
 ## Related Claims
--
+- [The two compared classes started with equivalent understanding of Newtonian mechanics](equivalent-fci-pretest-tech-comparison.md) — related
+- [FCI change-score versus pretest-score data from three classes show linear relations at high pretest scores and curving-down at low scores, diagnosable as α- versus γ-process dominance](fci-change-score-curves-diagnose-processes.md) — related
+- [Real-time data collection made the momentum lab substantially more efficient, cutting lab duration from two hours to one](real-time-data-collection-increases-lab-efficiency.md) — related
+- [CLASP students achieved an average normalized FCI gain of 0.39, above the traditional-course range and in the middle of the interactive-engagement range, despite only about a third of one quarter on mechanics](clasp-fci-normalized-gain.md) — related
+- [High-ability students' learning behaves as a dominant α-process even at low pretest scores, while average-ability students show more γ-process behavior](high-ability-alpha-dominant-low-pretest.md) — related
+- [Students who experienced the technology-enhanced class were far more favorable toward technology (76.0%) than no-technology students (20.4%)](student-survey-favorable-toward-lab-technology.md) — related

@@ -41,4 +41,9 @@ Expert assessment of the model's individual elements on a five-level rating scal
 
 
 ## Related Claims
--
+- [Experts rate the implemented constructionism imagineering learning model via metaverse as appropriate at the highest level overall (Mean = 4.67, S.D. = 0.08)](cilm-implemented-assessment-highest.md) — related
+- [Experts rate the constructionism imagineering learning process via metaverse as appropriate at the highest level (Mean = 4.82, S.D. = 0.40)](cilm-process-expert-assessment-highest.md) — related
+- [Experts rate the constructionism imagineering learning model via metaverse as appropriate at the highest level (Mean = 4.74, S.D. = 0.05)](cilm-metaverse-expert-assessment-highest.md) — related
+- [Undergraduates report very high overall satisfaction with instruction management in the cloud-based constructivism and connectivism learning model](high-satisfaction-cloud-constructivism-connectivism-model.md) — related
+- [Eleven experts rated the tentative STEM-ICT instructional model as appropriate at a high level](stem-ict-model-expert-evaluation-high.md) — related
+- [Five professionals approved the model as appropriate at a high level](stem-ict-model-professional-approval-high.md) — related

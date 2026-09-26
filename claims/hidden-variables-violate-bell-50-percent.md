@@ -41,4 +41,6 @@ Numerical result shown in Supplemental Material Fig. 4: hidden variables that se
 
 
 ## Related Claims
--
+- [Demanding anti-correlation is argued to be didactically superior to employing the CHSH inequality in the QRC](anti-correlation-superior-to-chsh-didactically.md) — related
+- [Cheating hidden variables can violate Bell about 85% of the time only by sacrificing anti-correlation](cheating-hidden-variables-85-percent-lose-anticorrelation.md) — related
+- [A simulation of quantum behavior violates the Bell inequality with about 99% probability using only 800 photon pairs](qrc-simulation-violates-bell-99-percent-800-pairs.md) — related

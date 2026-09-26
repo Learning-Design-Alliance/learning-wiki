@@ -41,4 +41,6 @@ The conclusions report that support for creating single-gender middle schools de
 
 
 ## Related Claims
--
+- [Parents supported having a single-gender option available but were less supportive when choosing it for their own child](moderate-option-support-lower-personal-choice-support.md) — related
+- [Parental support for a neighborhood single-gender middle school varied across elementary attendance zones](parental-support-single-gender-middle-school-varies-by-attendance-zone.md) — related
+- [Neighborhood-based desegregation plans are short-term and eventually defeated by shifting residential patterns](neighborhood-based-desegregation-plans-short-term.md) — related

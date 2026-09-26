@@ -41,4 +41,7 @@ Authors' report of changes to the course activity system following student sugge
 
 
 ## Related Claims
--
+- [Contradictions surrounding the OLR drove students to appropriate it, transforming it from an object of confusion into an instrument of critical reflection](contradictions-transform-olr-into-reflection-instrument.md) — related
+- [Contrastive rhetoric overgeneralizes shared culture and ignores individual differences among L2 writers](contrastive-rhetoric-overgeneralizes-culture.md) — related
+- [Native versus non-native instructor status was a minor factor in students' perceived quality interaction](native-instructor-status-minor-factor.md) — related
+- [Participation in composing the Midterm OLR moved students from appropriating labels and surface features toward conceptual underpinnings](participation-appropriates-olr-conceptual-underpinnings.md) — related

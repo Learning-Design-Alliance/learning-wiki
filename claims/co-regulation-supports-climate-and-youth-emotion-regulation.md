@@ -58,4 +58,10 @@ Youth focus group accounts in Section II.C; one student said breath to focus hel
 
 
 ## Related Claims
--
+- [Behaviorist reinforcement methods are reported to be effective in creating positive behavior across learning environments](behaviorist-reinforcement-effective-positive-behavior.md) — related
+- [Using co-regulation strategies helped facilitators and youth build warm, trusting relationships](co-regulation-builds-warm-trusting-relationships.md) — related
+- [Implementation of co-regulation strategies was shaped by classroom context, facilitator experience and mindset, and varied in ease across strategies](co-regulation-implementation-factors-context-experience-strategy-ease.md) — related
+- [Facilitators reported that co-regulation strategies strengthened their facilitation and made their interactions with youth more intentional](co-regulation-strategies-strengthen-facilitation-intentionality.md) — related
+- [Honours community members perceive a safe and supportive environment that facilitates exploring new ideas](honours-community-safe-supportive-learning-environment.md) — related
+- [Attending to affect in co-design supports community formation and cross-scale transfer](attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) — related
+- [SEL Programs Improve Behavior And Achievement](sel-programs-improve-behavior-and-achievement.md) — a broader claim this one bears on

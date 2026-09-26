@@ -41,4 +41,7 @@ Attrition analysis comparing retained versus lost participants in the two-wave G
 
 
 ## Related Claims
--
+- [Collective GSA-level immigration discussion frequency is not associated with group-level gains in any empowerment or critical consciousness outcome](gsa-collective-discussion-null-group-level.md) — related
+- [Immigration discussion frequency shows no significant association with critical reflection or sociopolitical efficacy](immigration-discussion-null-critical-consciousness.md) — related
+- [More frequent immigration discussion predicts increased hope for immigrant-origin GSA members but not non-immigrant-origin members](immigration-discussion-hope-immigrant-origin-only.md) — related
+- [Discussing immigration more frequently than fellow GSA members predicts increased perceived peer validation by year's end](immigration-discussion-in-gsas-predicts-peer-validation.md) — related

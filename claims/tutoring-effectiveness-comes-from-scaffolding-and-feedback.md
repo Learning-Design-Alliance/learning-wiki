@@ -77,3 +77,6 @@ A review of experiments comparing human tutoring, several classes of computer tu
 - [Cognitive load theory.](../theories/cognitive-load-theory.md) — scaffolding manages working-memory load during guided practice
 - [Cognitive apprenticeship.](../patterns/cognitive-apprenticeship.md) — a broader instructional pattern built on modeling, coaching (scaffolding), and fading
 - [Expertise reversal effect.](../theories/expertise-reversal-effect.md) — sustained tutor support can become counterproductive as competence grows
+- [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — related
+- [The FTS proposes that fading distinguishes expert from non-expert peers via a game-progress threshold, and peer-tutoring collaboration is expected to improve non-expert game progress and knowledge gained](fts-fading-threshold-peer-tutoring-expected-gains.md) — related
+- [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related

@@ -41,4 +41,5 @@ Knowledge tracing results (Table 4: Colearn 81.48±0.04% vs DKVMN 81.23±0.02% o
 
 
 ## Related Claims
--
+- [A memory-augmented deep learning model improves hint-taking prediction by 12-15 AUC points over a fixed-length history baseline on two datasets](memory-augmented-model-improves-hint-prediction.md) — related
+- [Jointly modeling hint-taking with knowledge tracing adds a small consistent improvement to hint-taking prediction](joint-modeling-improves-hint-prediction-small-margin.md) — related

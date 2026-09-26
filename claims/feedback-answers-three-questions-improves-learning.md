@@ -55,3 +55,7 @@ This is the paper's origin: Hattie and Timperley propose a model in which effect
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — detailed feedback may lose value as proficiency grows
 - [Self-regulated learning](../theories/self-regulated-learning.md) — the three questions map onto goal setting, self-monitoring, and strategy adjustment
 - [Action-oriented feedback](../strategies/action-oriented-feedback.md) — a strategy built around the "where to next" step
+- [Feedback Answers Three Questions](feedback-answers-three-questions.md) — possibly the same claim (merge candidate)
+- [Feedback Improves Learning When It Addresses Task Goals](feedback-improves-learning-when-it-addresses-task-goals.md) — related
+- [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — related
+- [Feedback Use Improves Learning](feedback-use-improves-learning.md) — a broader claim this one bears on

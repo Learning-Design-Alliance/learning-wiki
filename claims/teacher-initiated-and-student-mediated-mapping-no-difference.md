@@ -41,4 +41,7 @@ Posttest t-test in the same randomized experiment comparing the teacher-initiate
 
 
 ## Related Claims
--
+- [Findings on teacher mediation patterns differ from the Gahagans' conclusion of no difference in teacher verbal mediation](findings-differ-from-gahagans-no-difference.md) — related
+- [Teacher-student interactive semantic mapping produced higher EFL reading comprehension posttest scores than teacher-initiated and student-mediated semantic mapping](interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated.md) — related
+- [Posttest reading comprehension differed significantly across the three semantic mapping conditions overall](posttest-omnibus-anova-semantic-mapping-conditions.md) — related
+- [The three treatment groups were equivalent in reading comprehension at pretest](semantic-mapping-groups-equivalent-at-pretest.md) — related

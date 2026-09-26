@@ -58,4 +58,9 @@ Experiment 2 response-quality analysis: adequate responses 46.40%, inadequate 43
 
 
 ## Related Claims
--
+- [Answers to elaborative interrogation questions were mostly poor in quality, and answer quality correlated positively with posttest scores](elaborative-interrogation-answer-quality-poor-correlates-with-posttest.md) — reports the opposite
+- [Elaborative interrogation produced greater pretest-to-posttest gains on items about common misbeliefs than reading control in Experiment 2](elaborative-interrogation-improves-misbelief-items-pretest-posttest.md) — related
+- [Elaborative interrogation instructions produce better recall and recognition of science facts than reading-for-understanding instructions](elaborative-interrogation-improves-science-fact-learning.md) — related
+- [Elaborative interrogation increased perceived difficulty and time spent with the lesson](elaborative-interrogation-increases-difficulty-and-time-on-lesson.md) — related
+- [Elaborative interrogation produced lower posttest accuracy than reading the lesson twice in a written lesson on posterior probability](elaborative-interrogation-lower-posttest-than-read-twice-posterior-probability.md) — reports the opposite
+- [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) — a broader claim this one bears on

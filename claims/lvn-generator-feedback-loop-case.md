@@ -39,4 +39,5 @@ Case study analysis of the Learner Variability Navigator learner model refresh, 
 
 
 ## Related Claims
--
+- [The authors argue formative feedback is critical for making student behaviour 'seen' in asynchronous online learning where the teacher is not physically present](feedback-makes-behaviour-seen-asynchronous.md) — related
+- [In the Maker Learning @ Home cohort, feedback loops with cohort members redefined the initiative's outputs and goals](maker-cohort-amplifier-case.md) — related

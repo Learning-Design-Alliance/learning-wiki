@@ -41,4 +41,7 @@ Observational study (Sabers, Cushing, & Berliner, 1988) in which expert, novice,
 
 
 ## Related Claims
--
+- [Experts discern instructional significance in classroom scenes while novices and postulants treat all visual stimuli as equally important](experts-discern-importance-of-classroom-events.md) — related
+- [Experts attend selectively to atypical events, merging typical student information into a group picture, while novices and postulants study all student details](experts-attend-to-atypical-events.md) — related
+- [Experts predict classroom phenomena and student errors far more than novices, who rarely anticipate misalgorithms](experts-predict-student-errors-and-classroom-events.md) — related
+- [Expert teachers show intense emotionality and sense of responsibility for their performance, unlike affectless novices and postulants](experts-show-emotionality-and-responsibility.md) — related

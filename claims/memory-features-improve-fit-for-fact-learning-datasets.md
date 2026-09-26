@@ -58,4 +58,8 @@ Analysis of the McGraw Hill dataset (124,387 observations, 1047 college students
 
 
 ## Related Claims
--
+- [For Chinese tone learning, simpler models insensitive to memory decay fit as well as or better than memory-feature models](simpler-models-sufficient-for-tone-learning.md) — reports the opposite
+- [Models able to weight performance by recency fit better on the Assistments and KDD datasets, without explicit memory-decay terms being necessary](recency-weighting-models-better-assistments-kdd.md) — related
+- [No single learner model was best across the six datasets, justifying a broad multi-model approach](no-single-learner-model-best-across-datasets.md) — a broader claim this one bears on
+- [The PPE memory model was the best-fitting model for the Andes physics dataset, with the recency feature also beneficial](ppe-best-fitting-andes-physics.md) — related
+- [The survey reports, citing Pavlik et al., that no single knowledge tracing model was always the best, and that a better model must consider multiple student features and the learning context.](no-single-knowledge-tracing-model-is-always-best.md) — related

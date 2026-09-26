@@ -41,4 +41,7 @@ Numerical analysis of videotaped vertical jump data shown in figure 2, with velo
 
 
 ## Related Claims
--
+- [Using video analysis data to set model parameters yields a more precise model than trial-and-error model building](data-driven-modeling-more-precise-than-trial-and-error.md) — related
+- [Overlaying mass times calculated acceleration with net force from force plates provides a compelling visual connection to Newton's Second Law](ma-overlay-net-force-visual-connection-second-law.md) — related
+- [Students can derive an accurate gravitational acceleration value from Tracker's parabola fit of a falling-ball video](tracker-parabola-fit-derives-gravitational-acceleration.md) — related
+- [Two-force-plate recording revealed individual left-right impulse asymmetries in student jumps while total takeoff and landing impulses remained comparable](two-force-plate-impulse-asymmetry-student-project.md) — related

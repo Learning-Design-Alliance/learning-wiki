@@ -41,4 +41,7 @@ Within-student pre/post change in coded expansive strategies (diagram, concepts 
 
 
 ## Related Claims
--
+- [Students' problem-solving preference shifts significantly toward expansive strategies over a semester of multifaceted problems](pscale-shifts-toward-expansive-strategies.md) — related
+- [Limiting strategies decrease only slightly and remain resilient despite multifaceted-problem instruction](limiting-strategies-resilient-slight-decrease.md) — related
+- [Post-course expansive preference is slightly positively correlated with course grade, but causation is not established](post-pscale-slight-positive-grade-correlation.md) — related
+- [Over 50% of introductory physics students describe Rolodex equation matching at the start of the semester](rolodex-equation-matching-dominates-initial-beliefs.md) — related

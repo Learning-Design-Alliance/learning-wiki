@@ -87,3 +87,5 @@ Earlier Related Claims:
 - [The Self-Determined Learning Model of Instruction improves self-determination.](self-determined-learning-model-of-instruction-improves-self-determination.md) — one specific self-determination instructional model
 - [The Self-Directed IEP increases student participation.](self-directed-iep-increases-student-participation.md) — one of the curricula used in the trial recorded above
 - [Autonomy supports intrinsic motivation.](autonomy-supports-intrinsic-motivation.md) — the motivational construct of the same name, distinct from this skills-instruction claim
+- [Mnemonic Instruction Improves Recall For Students With Disabilities](mnemonic-instruction-improves-recall-for-students-with-disabilities.md) — related
+- [Self Monitoring Improves On Task Behavior](self-monitoring-improves-on-task-behavior.md) — related

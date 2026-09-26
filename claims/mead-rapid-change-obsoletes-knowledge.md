@@ -41,4 +41,5 @@ The report's summary of Mead's 1950 Inglis Lecture at Harvard, in which she argu
 
 
 ## Related Claims
--
+- [Mead holds that the process of acquiring changes the thing acquired, making change of subject matter the rule](acquiring-changes-the-thing-acquired.md) — related
+- [Mead argued education functions as a mechanism of social and cultural change, not only cultural transmission](mead-education-as-mechanism-of-social-change.md) — a broader claim this one bears on

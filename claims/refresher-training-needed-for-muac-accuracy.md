@@ -41,4 +41,8 @@ Healthcare worker in-depth interviews from the qualitative study. One counselor 
 
 
 ## Related Claims
--
+- [Equipping caregivers with MUAC tapes empowered them to track child nutrition and become community health advocates](family-muac-empowers-caregivers-as-health-advocates.md) — related
+- [Caregiver uptake of the Family MUAC two-way SMS intervention was high](family-muac-sms-high-uptake.md) — related
+- [Caregivers and healthcare workers perceived Family MUAC with two-way SMS as acceptable, cost-saving, appropriate, and feasible](family-muac-sms-perceived-acceptable-feasible.md) — related
+- [Inconsistent MUAC measurements, negative social influences, and phone sharing compromised uptake, especially among low interactors](family-muac-uptake-barriers.md) — related
+- [Direct SMS communication with healthcare workers strengthened patient-provider relationships and trust](sms-communication-strengthens-patient-provider-relationships.md) — related

@@ -88,3 +88,6 @@ A meta-analysis of 22 studies (17 universal, 5 targeted programs; 2011–2021) o
 - [Autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md) — motivational climate is a moderator of whether SEL gains transfer to achievement
 - [Collaborative learning improves outcomes](collaborative-learning-improves-outcomes.md) — relationship skills taught by SEL programs underpin effective collaboration
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — an alternative instructional route to the same achievement outcome
+- [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
+- [SEL Programs Improve Behavior And Achievement](sel-programs-improve-behavior-and-achievement.md) — possibly the same claim (merge candidate)
+- [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related

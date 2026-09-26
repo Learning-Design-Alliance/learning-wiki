@@ -41,4 +41,6 @@ Real-data simulation (Research Report 77-6) using test results for 365 fire-cont
 
 
 ## Related Claims
--
+- [An adaptive mastery testing strategy reduces test length by 30% to 81% while reaching the same mastery decision as the conventional test for 96% of trainees](adaptive-mastery-testing-reduces-length-preserves-decisions.md) — related
+- [Adaptive testing yields more precise achievement-level estimates than conventional classroom tests while using fewer items](adaptive-testing-more-precise-achievement-measurement.md) — related
+- [Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content](synthesis-evaluation-measure-general-ability-lower-grades.md) — related

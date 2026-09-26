@@ -41,4 +41,4 @@ Conclusions section reporting program demand: applications "increased up to doub
 
 
 ## Related Claims
--
+- [Student oral presentations of laboratory results became the central activity stimulating active and cooperative learning](student-lab-presentations-central-activity.md) — related

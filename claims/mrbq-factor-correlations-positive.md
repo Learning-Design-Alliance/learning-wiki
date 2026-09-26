@@ -41,4 +41,7 @@ Correlational analysis of the four PCA factors from the survey of 365 Flemish ju
 
 
 ## Related Claims
--
+- [Socio-constructivist and absolutist views of mathematics are only mildly related (r = .21) and cannot be treated as opposite poles of one dimension](socio-constructivist-absolutist-views-not-opposite-poles.md) — related
+- [Students confident about their mathematical ability are mostly also convinced of the relevance of mathematics, forming a motivational basis; low-confidence students are hard to motivate](self-confidence-and-value-clustering-motivational-basis.md) — related
+- [A four-factor principal component model of the MRBQ provides some empirical ground for the proposed structure of students' mathematics-related beliefs](mrbq-four-factor-model-partial-support.md) — a broader claim this one bears on
+- [Students' beliefs about the cognitive, motivational and affective dimensions of their teacher's functioning load on a single factor](teacher-belief-dimensions-single-factor.md) — related

@@ -75,3 +75,6 @@ The evidence recorded above comes from single-case designs with students with or
 - [Check-ins](../elements/check-in.md) — structured check-ins externalize the monitoring step that self-monitoring trains learners to perform internally.
 - [Behaviorism](../theories/behaviorism.md) — self-monitoring interventions derive from behavioral self-control techniques in which recording and feedback function as contingent consequences.
 - [Achievable micro-goals](../strategies/achievable_micro-goals.md) — monitoring on-task behavior pairs naturally with setting short, concrete work goals.
+- [Disruptive student behavior is associated with less academic engaged time and lower achievement](disruptive-behavior-lowers-engagement-and-achievement.md) — related
+- [Classroom Physical Activity Improves Attention](classroom-physical-activity-improves-attention.md) — related
+- [Self-determination instruction improves outcomes](self-determination-instruction-improves-outcomes.md) — related

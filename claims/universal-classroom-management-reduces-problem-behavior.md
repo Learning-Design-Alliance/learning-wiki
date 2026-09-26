@@ -41,4 +41,7 @@ Random-effects meta-analysis of 12 studies of universal, whole-classroom managem
 
 
 ## Related Claims
--
+- [Manualized COMP programs and other classroom management approaches do not differ significantly in effectiveness](comp-no-different-from-other-classroom-management.md) — a narrower finding that bears on this claim
+- [Effect sizes across classroom management studies are homogeneous, with no significant moderator variability](homogeneous-effect-sizes-classroom-management.md) — related
+- [Students in treatment classrooms showed less disruptive behavior than control classrooms in all 12 studies](treatment-classrooms-less-disruptive-than-control.md) — a narrower finding that bears on this claim
+- [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) — a narrower finding that bears on this claim

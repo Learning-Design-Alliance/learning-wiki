@@ -59,3 +59,5 @@ The author's interpretation within the rationalization analysis: the ghetto labe
 
 ## Related Claims
 - [Gender Performance Grounds Exclusion Of Bussed Black Students In Suburban School](gender-performance-grounds-exclusion-of-bussed-black-students-in-suburban-school.md)
+- [In the analyzed school setting, black girls experience testimonial injustice as direct discrimination and hermeneutical injustice as indirect, structural discrimination that personal effort cannot erode](black-girls-face-testimonial-and-structural-hermeneutical-injustice-in-school.md) — related
+- [Cultural processes and forms of epistemic injustice should be taken into account in understanding how inequalities in education are produced and maintained](cultural-processes-and-epistemic-injustice-explain-educational-inequality.md) — a broader claim this one bears on

@@ -41,4 +41,6 @@ Review of behavior-genetic evidence, including Bouchard and Lykken's acknowledgm
 
 
 ## Related Claims
--
+- [Expert performers counteract automaticity by building increasingly complex mental representations, unlike everyday skill learning](experts-counteract-automaticity-mental-representations.md) — related
+- [Relative-age effects, not innate talent, bias selection into elite youth sports](relative-age-effect-talent-selection-bias.md) — related
+- [Even the most talented performers need around 10 years of intense involvement to reach international level](ten-year-rule-expert-performance.md) — related

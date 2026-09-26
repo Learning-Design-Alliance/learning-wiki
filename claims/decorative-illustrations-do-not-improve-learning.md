@@ -91,3 +91,9 @@ In Study 1, 126 first-year undergraduates in a Moodle course read texts with and
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — managing capacity is the design goal decoration works against
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — the theoretical framework predicting no benefit from non-instructional visuals
 - [Dual Coding Theory](../theories/dual-coding-theory.md) — explains why *relevant* visuals help, sharpening the contrast with decorative ones
+- [Hispanic adults valued culturally relevant visual design — bright colors, Hispanic representation, and realistic imagery — in lung cancer screening educational materials](culturally-relevant-visual-design-lcs-materials.md) — related
+- [Interesting but irrelevant details impair learning](seductive-details-effect.md) — possibly the same claim (merge candidate)
+- [Interesting but irrelevant details added to a lesson can distract from learning the material they were meant to enliven](seductive-details-distract-from-learning.md) — a narrower finding that bears on this claim
+- [Drawing Improves Learning](drawing-improves-learning.md) — related
+- [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
+- [Dual Coding Improves Learning](dual-coding-improves-learning.md) — related

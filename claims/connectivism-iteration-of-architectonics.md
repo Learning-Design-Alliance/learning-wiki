@@ -41,4 +41,7 @@ Theoretical argument in the article's conclusion: tracing connectivism's genealo
 
 
 ## Related Claims
--
+- [Kantian architectonics is an early articulation of constructivism, with knowledge constructed into a system](kantian-architectonics-early-constructivism.md) — a narrower finding that bears on this claim
+- [Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue](dialogue-underpins-networked-learning.md) — related
+- [Hypertextuality extends intertextuality into the digital world, foreshadowing connectivism](hypertextuality-digitizes-intertextuality.md) — related
+- [Language and dialogue operationalize the networking capacities that connectivism values](language-operationalizes-network-learning.md) — related

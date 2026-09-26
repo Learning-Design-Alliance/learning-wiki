@@ -12,14 +12,14 @@ generated:
 # Modality
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 10 studies, `q3`–`q4` · 5 of 10 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 11 studies, `q3`–`q4` · 6 of 11 report an effect size · 2 claims rest on one study
 
 ## Description
 The modality strategy presents verbal information as spoken audio (narration) rather than written on-screen text when the same screen also displays graphics, animation, or video. It is grounded in the assumption that working memory has partially separate visual and auditory channels; distributing words and pictures across these channels increases effective capacity [Cognitive overload degrades learning when channels are overloaded.](../claims/cognitive-overload-degrades-learning.md) [+S].
 
 ## Design Implications
 
-When learners must read text and simultaneously view an animation, both compete for the visual channel; converting the text to narration frees visual resources for the graphic [Pairing graphics with spoken narration improves learning over graphics with on-screen text.](../claims/modality-principle-spoken-narration-beats-on-screen-text.md) [+S]. This is one of the most consistently supported effects in multimedia learning research, with meta-analytic support across lab and classroom studies [Ginns, 2005]. The strategy is a core application of [Cognitive Load Management](../principles/cognitive-load-management.md) within [Cognitive Load Theory](../theories/cognitive-load-theory.md) and Mayer's Cognitive Theory of Multimedia Learning.
+When learners must read text and simultaneously view an animation, both compete for the visual channel; converting the text to narration frees visual resources for the graphic [Pairing graphics with spoken narration improves learning over graphics with on-screen text.](../claims/modality-effect-narration-over-text.md) [+S]. This is one of the most consistently supported effects in multimedia learning research, with meta-analytic support across lab and classroom studies [Ginns, 2005]. The strategy is a core application of [Cognitive Load Management](../principles/cognitive-load-management.md) within [Cognitive Load Theory](../theories/cognitive-load-theory.md) and Mayer's Cognitive Theory of Multimedia Learning.
 
 ### Context
 #### Requirements
@@ -37,7 +37,7 @@ When learners must read text and simultaneously view an animation, both compete 
 - Narrated animation (classic case): voice-over explains an animated process
 - Agent-delivered narration: on-screen pedagogical agent speaks the explanation; benefits come from the audio, not the agent's presence [Coherence principle — irrelevant material hurts learning.](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [+M]
 - Audio-plus-persistent-keywords: narration supplemented by minimal on-screen labels for terms that must be retained
-- Learner-paced audio: segmenting the narration into user-controlled chunks mitigates transience [Segmenting reduces overload for complex multimedia.](../claims/segmenting-principle-improves-multimedia-learning.md) [+M]
+- Learner-paced audio: segmenting the narration into user-controlled chunks mitigates transience [Segmenting reduces overload for complex multimedia.](../claims/segmenting-improves-multimedia-learning.md) [+M]
 
 ### Target Learners
 - Novices with low prior knowledge, who lack schemas to compensate for split attention [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — the modality effect shrinks or reverses for experts
@@ -51,7 +51,7 @@ When learners must read text and simultaneously view an animation, both compete 
 
 ### Instructions
 1. Identify the essential graphic or animation and the words that explain it.
-2. Convert explanatory text to concise, conversational narration; avoid verbatim duplication of on-screen text (redundancy harms learning) [Redundant on-screen text with narration hurts learning.](../claims/redundancy-principle-hurts-learning.md) [+S].
+2. Convert explanatory text to concise, conversational narration; avoid verbatim duplication of on-screen text (redundancy harms learning) [Redundant on-screen text with narration hurts learning.](../claims/redundancy-effect-impairs-learning.md) [+S].
 3. Synchronize narration with the corresponding visual events.
 4. Segment the presentation so learners can pause or replay ([Chunking](../principles/chunking.md)).
 5. Provide captions or a transcript for accessibility and noisy contexts.

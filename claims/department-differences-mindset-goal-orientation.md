@@ -41,4 +41,7 @@ MANOVA across seven departments (N=1409; omnibus Wilks' Lambda F= 3,084 for inte
 
 
 ## Related Claims
--
+- [Intelligence-perception scores differ by class year, with fourth-year students more incremental and second-year students more entity-oriented](class-level-mindset-differences.md) — related
+- [Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions](gender-performance-goal-orientation-females-higher.md) — related
+- [Entity theory correlates positively with performance goal orientation and incremental theory with learning goal orientation among student teachers](mindset-goal-orientation-correlation-student-teachers.md) — related
+- [Turkish student teachers score higher on entity theory than incremental theory and on performance goal orientation than learning goal orientation](turkish-student-teachers-entity-performance-higher.md) — related

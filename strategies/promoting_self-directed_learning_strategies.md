@@ -19,7 +19,7 @@ Promoting self-directed learning involves explicitly teaching students strategie
 
 ## Design Implications
 
-Self-directed learning is not discovery learning: the strategies that make independence possible must be taught directly and practiced under feedback before they can be deployed independently [Teaching self-regulation strategies improves academic performance, especially when embedded in subject matter.](../claims/self-regulated-learning-strategy-instruction-improves-achievement.md) [+S]. Strategy instruction works best when it is integrated into authentic content tasks rather than delivered as a standalone study-skills unit [Learning-skills interventions produce stronger, more durable effects when contextualized in subject areas.](../claims/learning-strategy-instruction-contextualized-more-effective.md) [+M]. Teachers should model the strategies themselves — narrating decisions aloud — before expecting students to use them ([Think-Aloud](../elements/think-aloud.md)), then fade support as competence grows ([Fading](../elements/fading.md)).
+Self-directed learning is not discovery learning: the strategies that make independence possible must be taught directly and practiced under feedback before they can be deployed independently [Teaching self-regulation strategies improves academic performance, especially when embedded in subject matter.](../claims/self-regulated-learning-improves-achievement.md) [+S]. Strategy instruction works best when it is integrated into authentic content tasks rather than delivered as a standalone study-skills unit [Learning-skills interventions produce stronger, more durable effects when contextualized in subject areas.](../claims/learning-strategy-instruction-contextualized-more-effective.md) [+M]. Teachers should model the strategies themselves — narrating decisions aloud — before expecting students to use them ([Think-Aloud](../elements/think-aloud.md)), then fade support as competence grows ([Fading](../elements/fading.md)).
 
 ### Context
 #### Requirements
@@ -43,13 +43,13 @@ Self-directed learning is not discovery learning: the strategies that make indep
 - **Goal-setting cycles:** students set specific short-term goals, monitor progress, and revise approach at [Check-Ins](../elements/check-in.md)
 
 ### Target Learners
-- Students from upper primary onward; meta-analytic evidence shows strategy instruction benefits learners across ages, with larger effects when training is extended and embedded [Self-regulation strategy training improves achievement in both primary and secondary students.](../claims/self-regulated-learning-strategy-instruction-improves-achievement.md) [+S]
+- Students from upper primary onward; meta-analytic evidence shows strategy instruction benefits learners across ages, with larger effects when training is extended and embedded [Self-regulation strategy training improves achievement in both primary and secondary students.](../claims/self-regulated-learning-improves-achievement.md) [+S]
 - Struggling learners who lack a repertoire of approaches — provided strategies are taught explicitly rather than assumed
 - Less effective for novices in a domain asked to self-direct too early; they lack the knowledge to evaluate their own understanding [Learners with low prior knowledge judge their comprehension poorly and benefit less from self-directed study decisions.](../claims/prior-knowledge-needed-for-accurate-self-assessment.md) [-M]
 
 ### Target Learning Goals
 - Metacognitive awareness: knowing which strategies exist, when to use them, and how to evaluate their effectiveness
-- Self-regulation: planning, monitoring, and evaluating one's own learning cycle [Self-regulation strategy training improves achievement in both primary and secondary students.](../claims/self-regulated-learning-strategy-instruction-improves-achievement.md) [+S]
+- Self-regulation: planning, monitoring, and evaluating one's own learning cycle [Self-regulation strategy training improves achievement in both primary and secondary students.](../claims/self-regulated-learning-improves-achievement.md) [+S]
 - Problem-solving persistence: having named procedures for getting "unstuck"
 - Lifelong-learning dispositions: independence and ownership of learning
 

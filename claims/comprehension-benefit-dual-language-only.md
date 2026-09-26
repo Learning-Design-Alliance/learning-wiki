@@ -58,4 +58,8 @@ Study 2 comprehension analysis of single-language books found "no significant ma
 
 
 ## Related Claims
--
+- [Audio narration with finger-tracking animation directs bilingual preschoolers' attention to the target-language print in dual-language e-books, including the nondominant language](enhancing-features-direct-attention-dual-language-e-books.md) — related
+- [Multimedia enhancing features increase attention to print in single-language e-books in both English and Mandarin](enhancing-features-increase-attention-single-language-e-books.md) — related
+- [The attention-guiding effect of narration-plus-animation is phase-dependent: target-language attention drops significantly after the animation ends](animation-phase-dependent-attention-to-print.md) — related
+- [Without a competing language, bilingual preschoolers show no preference between English-only and Mandarin-only books during silent reading](no-language-preference-single-language-silent-reading.md) — related
+- [Bilingual preschoolers silently reading dual-language e-books attend more to their dominant language (English) than the nondominant language (Mandarin)](dominant-language-attention-bias-dual-language-e-books.md) — related

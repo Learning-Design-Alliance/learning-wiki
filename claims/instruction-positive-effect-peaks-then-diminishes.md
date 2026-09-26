@@ -41,4 +41,6 @@ Between-student response curve for Mechanics (Fig. 3), averaged across fall and 
 
 
 ## Related Claims
--
+- [Instruction on scalar electric potential produces a pronounced dip in correct vector-based Newton's Third Law responses in E&M](scalar-instruction-interferes-with-vector-responses.md) — related
+- [Students enter E&M with a higher initial Newton's Third Law response (66%) than they exited Mechanics, most likely due to a winnowing effect](winnowing-effect-raises-em-entry-response.md) — related
+- [The interference dip disappears once instruction returns to vector-based topics such as magnetic fields](interference-disappears-when-vector-instruction-resumes.md) — related

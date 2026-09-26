@@ -41,4 +41,9 @@ Naturalistic observation of five student-created Facebook groups in an HCI desig
 
 
 ## Related Claims
--
+- [Four types of designerly talk manifest in student-managed social network spaces: tool selection, professional identity, skill-sharing coordination, and ethical design discussion](four-types-designerly-talk-sns.md) — related
+- [Student-generated Facebook groups constitute a hidden curriculum that supports learning outside the formal design studio](student-generated-hidden-curriculum-sns.md) — possibly the same claim (merge candidate)
+- [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
+- [Social network site participation enables design learning that breaks the confines of space and time, including pre-enrollment learning and asynchronous ethical discussion](sns-learning-unbounded-space-time.md) — a narrower finding that bears on this claim
+- [Students transition between student and proto-professional roles in informal SNS discourse, bridging learning and design practice](student-proto-professional-role-transition.md) — related

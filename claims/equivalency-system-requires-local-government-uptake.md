@@ -41,4 +41,5 @@ Analytical conclusion in the Analysis of Trends subsection of Part II. The autho
 
 
 ## Related Claims
--
+- [Adult education development in the Philippines resulted from dynamic interaction among social problems, popular demands, state response and external constraints](adult-education-dynamic-interaction-social-problems-state.md) — related
+- [Philippine basic literacy is 89.8% and functional literacy 73.2%, yet BNFE serves only 1.07% of estimated adult education clientele](philippine-literacy-rates-bnfe-inadequate-coverage.md) — related

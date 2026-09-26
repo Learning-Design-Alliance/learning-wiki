@@ -41,4 +41,4 @@ Response-time analysis of the 32-item computer-based physics trial test. The aut
 
 
 ## Related Claims
--
+- [Boys responded faster than girls on the test, but the response-time difference did not affect achievement](boys-faster-than-girls-no-achievement-difference.md) — related

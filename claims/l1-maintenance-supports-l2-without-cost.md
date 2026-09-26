@@ -58,4 +58,6 @@ The review reports Ramírez and Politzer's (1976) finding on home language use a
 
 
 ## Related Claims
--
+- [High L2 achievers in immersion programs show IQ gains, consistent with a higher threshold of bilingual competence](high-l2-achievers-show-iq-gains-in-immersion.md) — related
+- [L1 and L2 CALP are interdependent: strong promotion of L1 literacy in the early grades entails no adverse consequences for English](l1-l2-calp-interdependence-no-adverse-consequences.md) — possibly the same claim (merge candidate)
+- [Semilingualism — less than native-like skill in both languages — is associated with detrimental cognitive and academic consequences](semilingualism-associated-with-negative-cognitive-effects.md) — reports the opposite

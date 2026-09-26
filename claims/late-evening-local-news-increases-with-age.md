@@ -41,4 +41,10 @@ Age-group ANOVAs of late-evening local news viewing frequency at both waves; unl
 
 
 ## Related Claims
--
+- [Event-centered news media limit and distort public perception of long-term world phenomena](event-centered-media-distort-perception.md) — related
+- [Television news specials viewing shows no substantial age increase in frequency but systematic increases in stability and parent-child similarity](news-specials-stability-similarity-increase.md) — related
+- [Network television news exposure does not increase with age and shows little intergenerational similarity](network-news-exposure-no-age-increase.md) — related
+- [Newspaper reading frequency increases systematically between ages 10 and 17 but remains below adult levels](newspaper-reading-increases-ages-10-17.md) — related
+- [Magazine article reading about politics shows no age-related increase, low stability, and low parent-child similarity](magazine-political-reading-no-developmental-pattern.md) — related
+- [Over-time consistency of newspaper reading rises to roughly adult levels by age 13](newspaper-consistency-adult-level-by-13.md) — related
+- [Parent-child similarity in newspaper exposure peaks during early adolescence (ages 12-14)](parent-child-newspaper-similarity-peaks-early-adolescence.md) — related

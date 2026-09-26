@@ -45,4 +45,6 @@ Theoretical argument in the section "Dealing with Values Conflicts", defining an
 
 
 ## Related Claims
--
+- [Female principals enacted care through a 'listening then deciding' pattern of situational decision making](listening-then-deciding-situational-decision-making.md) — related
+- [The author argues that dual relationships with clients are unethical and impair peer counsellors' judgement, though role blending calls for vigilance rather than absolute prohibition](dual-relationships-impair-peer-counsellor-judgement.md) — related
+- [An informal STEM club founder saw a dilemma between raising girls' interest in mathematics and keeping the club different from school, and mathematics went unemphasized in its activities](informal-stem-club-mathematics-tension-between-interest-and-not-like-school.md) — a narrower finding that bears on this claim

@@ -41,4 +41,6 @@ Theoretical argument from the paper's program-design discussion, not a tested re
 
 
 ## Related Claims
--
+- [Programs should facilitate cognitive disequilibrium so students question ethnocentric views and consider other cultural perspectives](programs-facilitate-cognitive-disequilibrium-ethnocentric-views.md) — related
+- [Interracial interaction is a key component of program design for developing culturally responsive leaders](interracial-interaction-key-to-program-design.md) — related
+- [Organizational climate can influence people's behavior and may be linked to teaching practices (attributed to Milem)](organizational-climate-influences-teaching-behavior.md) — related

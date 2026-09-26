@@ -12,7 +12,7 @@ generated:
 # Modeling
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Modeling is the principle of making successful performance visible so learners can study processes, standards, and reasoning before attempting work themselves.

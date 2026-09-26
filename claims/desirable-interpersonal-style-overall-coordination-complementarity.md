@@ -57,4 +57,8 @@ Same case-study analysis for Sam's classroom: the cross-correlations were "not c
 
 
 ## Related Claims
--
+- [Teacher-student cyclical entrainment was considerably higher in the desirable-style teacher's classroom than in the struggling-style teacher's classroom](coherence-entrainment-higher-desirable-style-classroom.md) — related
+- [Phase analysis showed Ethan leading the interaction with sameness in Communion and oppositeness in Agency, while Sam led in Communion but followed in Agency](phase-lead-lag-differs-between-teachers.md) — related
+- [The hypothesis that both teachers can refrain from complementarity when facing hostile student behavior could not be confirmed](refraining-from-complementarity-hypothesis-not-confirmed.md) — related
+- [During the early stage of therapy, more severely maladjusted clients elicit higher levels of therapist complementarity](early-stage-maladjustment-elicits-complementarity.md) — related
+- [The four-phase model predicts favored interpersonal styles appear early and style flexibility grows with accumulated specific experience](style-flexibility-grows-with-specific-experience.md) — related

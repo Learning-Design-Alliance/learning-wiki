@@ -41,4 +41,5 @@ Distance-metric analysis comparing low-equity (LE) participants' topic distribut
 
 
 ## Related Claims
--
+- [Simulation-response convergence was corroborated by survey-based changes in mindsets and practices and by human rater ratings for Roster Justice](convergence-corroborated-by-surveys-and-human-raters.md) — related
+- [Structural topic modeling identifies simulation decision points indicative of different equity mindsets across four digital teaching simulations](stm-identifies-equity-mindset-decision-points-in-simulations.md) — a broader claim this one bears on

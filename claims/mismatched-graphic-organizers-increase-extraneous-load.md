@@ -61,3 +61,5 @@ Well-aligned organizers and advance organizers can support learning — see [Adv
 - [Chunking reduces working-memory load](../claims/chunking-reduces-working-memory-load.md) — matched organizers work by chunking related content; mismatches defeat that chunking.
 - [Coherence principle: irrelevant material hurts learning](../claims/coherence-principle-irrelevant-material-hurts-learning.md) — both claims describe design features that add extraneous processing.
 - [Cognitive overload degrades learning](../claims/cognitive-overload-degrades-learning.md) — the consequence when mismatched organizers push learners past working-memory capacity.
+- [Task difficulty (easy vs difficult simultaneous-equation problems) has significant main effects on intrinsic and extraneous cognitive load, but not on germane load](task-difficulty-raises-intrinsic-and-extraneous-but-not-germane-load-in-algebra.md) — related
+- [Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding](verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) — related

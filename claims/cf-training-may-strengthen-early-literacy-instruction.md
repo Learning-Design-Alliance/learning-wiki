@@ -41,4 +41,9 @@ The authors' stated educational importance of the study: they argue increased co
 
 
 ## Related Claims
--
+- [Cognitive flexibility training added to phonemic awareness training produces significantly greater growth in cognitive flexibility than phonemic awareness training alone in kindergarten and first-grade students](cognitive-flexibility-training-increases-cognitive-flexibility-growth.md) — related
+- [Among children with initially low cognitive flexibility, growth in cognitive flexibility correlates with post phonemic awareness, reading comprehension growth, and spelling scores; these correlations are not significant among high-flexibility children](cf-literacy-correlations-limited-to-low-flexibility-children.md) — related
+- [Cognitive flexibility is significantly correlated with phonemic awareness, growth in reading comprehension, and spelling ability, especially among children with low cognitive flexibility scores](cognitive-flexibility-correlates-with-early-literacy.md) — related
+- [Phonological Awareness Training Improves Reading](phonological-awareness-training-improves-reading.md) — a broader claim this one bears on
+- [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — a broader claim this one bears on
+- [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related

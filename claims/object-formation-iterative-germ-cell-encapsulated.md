@@ -58,4 +58,7 @@ The article's summary of Figure 3 states the steps "testify to the iterative and
 
 
 ## Related Claims
--
+- [Transitions and disturbances were crucial for the dynamics of expansive learning in the meeting](disturbances-crucial-expansive-learning-dynamics.md) — related
+- [Expansive learning actions in the meeting followed by and large the theory-predicted order, forming a mini-cycle of two main parts with iterations](learning-actions-follow-predicted-order-two-parts.md) — related
+- [Expansive learning moved epistemically from questioning to analysis, modeling and implementation while interactionally moving from coordination to cooperation and communication, but with no mechanical correspondence between specific actions and interaction types](no-mechanical-correspondence-actions-interaction.md) — related
+- [A single meeting of self-regulating pre-service teachers contained an almost complete expansive mini-cycle of learning actions, with all expansive actions except consolidating the new practice](single-meeting-almost-complete-expansive-mini-cycle.md) — related

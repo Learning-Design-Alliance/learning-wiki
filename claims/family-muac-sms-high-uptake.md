@@ -41,4 +41,8 @@ Uptake statistics reported from the Mama Aweza trial intervention arm: "94% resp
 
 
 ## Related Claims
--
+- [Equipping caregivers with MUAC tapes empowered them to track child nutrition and become community health advocates](family-muac-empowers-caregivers-as-health-advocates.md) — related
+- [Caregivers and healthcare workers perceived Family MUAC with two-way SMS as acceptable, cost-saving, appropriate, and feasible](family-muac-sms-perceived-acceptable-feasible.md) — related
+- [Inconsistent MUAC measurements, negative social influences, and phone sharing compromised uptake, especially among low interactors](family-muac-uptake-barriers.md) — related
+- [Baseline-only training was insufficient for sustained measurement accuracy; healthcare workers recommended refresher training](refresher-training-needed-for-muac-accuracy.md) — related
+- [Direct SMS communication with healthcare workers strengthened patient-provider relationships and trust](sms-communication-strengthens-patient-provider-relationships.md) — related

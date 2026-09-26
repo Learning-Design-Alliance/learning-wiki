@@ -41,4 +41,4 @@ Preliminary analysis comparing the high school (n=64) and college (n=68) samples
 
 
 ## Related Claims
--
+- [Verbal ability predicts spatial recall only for the less verbal, more heterogeneous high school sample, not for college students](verbal-ability-predicts-spatial-recall-only-heterogeneous-sample.md) — related

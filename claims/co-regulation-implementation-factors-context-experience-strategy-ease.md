@@ -75,4 +75,6 @@ Section II.C facilitator reports; in contrast, "Most facilitators reported that 
 
 
 ## Related Claims
--
+- [Using co-regulation strategies helped facilitators and youth build warm, trusting relationships](co-regulation-builds-warm-trusting-relationships.md) — related
+- [Facilitators reported that co-regulation strategies strengthened their facilitation and made their interactions with youth more intentional](co-regulation-strategies-strengthen-facilitation-intentionality.md) — related
+- [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — related

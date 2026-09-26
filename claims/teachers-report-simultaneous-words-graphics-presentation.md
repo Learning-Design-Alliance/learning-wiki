@@ -41,4 +41,6 @@ Results of the Modality category in Table 3. The article reports "Most teachers 
 
 
 ## Related Claims
--
+- [Algerian university teachers of English lack sufficient knowledge of cognitive load theory](algerian-efl-teachers-lack-clt-knowledge.md) — related
+- [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
+- [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related

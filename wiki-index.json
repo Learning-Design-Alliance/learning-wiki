@@ -1,6 +1,6 @@
 {
  "counts": {
-  "claim": 2248,
+  "claim": 2164,
   "element": 569,
   "learner-variable": 12,
   "method": 17,
@@ -277,14 +277,9 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "id": "activation",
-   "path": "claims/activation.md",
-   "status": "draft",
-   "title": "Activation",
-   "type": "claim"
-  },
-  {
+   "aliases": [
+    "activation"
+   ],
    "description": "",
    "id": "activation-improves-learning",
    "path": "claims/activation-improves-learning.md",
@@ -587,20 +582,15 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "advance-organizers-improves-learning"
+   ],
    "description": "",
    "evidence_strength": "weak",
    "id": "advance-organizers-improve-learning",
    "path": "claims/advance-organizers-improve-learning.md",
    "status": "draft",
    "title": "Advance Organizers Improve Learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "advance-organizers-improves-learning",
-   "path": "claims/advance-organizers-improves-learning.md",
-   "status": "draft",
-   "title": "Advance organizers improve learning",
    "type": "claim"
   },
   {
@@ -3101,14 +3091,9 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "id": "comparing-contrasting-cases-improve-learning",
-   "path": "claims/comparing-contrasting-cases-improve-learning.md",
-   "status": "draft",
-   "title": "Comparing contrasting cases improves learning",
-   "type": "claim"
-  },
-  {
+   "aliases": [
+    "comparing-contrasting-cases-improve-learning"
+   ],
    "description": "",
    "id": "comparing-contrasting-cases-improves-learning",
    "path": "claims/comparing-contrasting-cases-improves-learning.md",
@@ -3198,19 +3183,14 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "concept-maps-improve-learning"
+   ],
    "description": "",
    "id": "concept-mapping-improves-learning",
    "path": "claims/concept-mapping-improves-learning.md",
    "status": "draft",
    "title": "Concept mapping improves learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "concept-maps-improve-learning",
-   "path": "claims/concept-maps-improve-learning.md",
-   "status": "draft",
-   "title": "Concept mapping improves learning outcomes",
    "type": "claim"
   },
   {
@@ -3573,15 +3553,6 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "contiguity-principle-improves-learning",
-   "path": "claims/contiguity-principle-improves-learning.md",
-   "status": "draft",
-   "title": "Contiguity Principle Improves Learning",
-   "type": "claim"
-  },
-  {
    "description": "Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children",
    "evidence_strength": "weak",
    "id": "contingency-reinforcement-raises-achievement",
@@ -3708,21 +3679,15 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "cooperative-learning-outperforms-competitive-individualistic"
+   ],
    "description": "",
    "evidence_strength": "moderate",
    "id": "cooperative-learning-improves-achievement",
    "path": "claims/cooperative-learning-improves-achievement.md",
    "status": "draft",
    "title": "Cooperative Learning Improves Achievement",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "cooperative-learning-outperforms-competitive-individualistic",
-   "path": "claims/cooperative-learning-outperforms-competitive-individualistic.md",
-   "status": "draft",
-   "title": "Cooperative learning outperforms competitive and individualistic goal structures",
    "type": "claim"
   },
   {
@@ -4363,19 +4328,14 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "desirable-difficulties-improve-retention"
+   ],
    "description": "",
    "id": "desirable-difficulties-enhance-learning",
    "path": "claims/desirable-difficulties-enhance-learning.md",
    "status": "draft",
    "title": "Desirable Difficulties Enhance Learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "desirable-difficulties-improve-retention",
-   "path": "claims/desirable-difficulties-improve-retention.md",
-   "status": "draft",
-   "title": "Desirable Difficulties Improve Retention",
    "type": "claim"
   },
   {
@@ -5309,14 +5269,6 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "id": "eliciting-self-explanations-improves-understanding",
-   "path": "claims/eliciting-self-explanations-improves-understanding.md",
-   "status": "draft",
-   "title": "Eliciting Self Explanations Improves Understanding",
-   "type": "claim"
-  },
-  {
    "description": "Third-grade ELLs recruit familiar everyday language, including onomatopoeic labels, to talk productively about the sounds produced by strings",
    "evidence_strength": "moderate",
    "id": "ells-recruit-everyday-language-sound-discussion",
@@ -5758,15 +5710,6 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes",
-   "path": "claims/example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes.md",
-   "status": "review",
-   "title": "Example\u2013problem sequences reduce cognitive load and improve learning outcomes",
-   "type": "claim"
-  },
-  {
    "description": "In a Mechanical Turk flashcard experiment, raising the new-item arrival rate first increases mastered items, but past the optimum fewer items are mastered and more get stuck in deck 1.",
    "evidence_strength": "moderate",
    "id": "excess-new-item-rate-leaves-items-stuck-in-first-leitner-deck",
@@ -6063,14 +6006,6 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "id": "explicit-writing-strategy-instruction-improves-writing",
-   "path": "claims/explicit-writing-strategy-instruction-improves-writing.md",
-   "status": "draft",
-   "title": "Explicit Writing Strategy Instruction Improves Writing",
-   "type": "claim"
-  },
-  {
    "description": "In Mnemosyne log data, exponential forgetting curve models that include a delay term perform comparably to 1PL-IRT, the best-performing benchmark model.",
    "evidence_strength": "moderate",
    "id": "exponential-forgetting-models-with-delay-perform-comparably-to-1pl-irt",
@@ -6193,15 +6128,6 @@
    "path": "claims/extraversion-protective-wellbeing-wartime.md",
    "status": "draft",
    "title": "Extraversion correlates negatively with well-being decline in wartime students, though less strongly than emotional stability",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "weak",
-   "id": "extrinsic-rewards-undermine-intrinsic-motivation",
-   "path": "claims/extrinsic-rewards-undermine-intrinsic-motivation.md",
-   "status": "draft",
-   "title": "Extrinsic Rewards Undermine Intrinsic Motivation",
    "type": "claim"
   },
   {
@@ -6383,20 +6309,15 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "feedback-improves-learning-outcomes"
+   ],
    "description": "",
    "evidence_strength": "moderate",
    "id": "feedback-improves-learning",
    "path": "claims/feedback-improves-learning.md",
    "status": "draft",
    "title": "Feedback Improves Learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "feedback-improves-learning-outcomes",
-   "path": "claims/feedback-improves-learning-outcomes.md",
-   "status": "draft",
-   "title": "Feedback improves learning outcomes",
    "type": "claim"
   },
   {
@@ -6631,14 +6552,6 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "id": "fluency-judgments-mislead-learners",
-   "path": "claims/fluency-judgments-mislead-learners.md",
-   "status": "draft",
-   "title": "Fluency Judgments Mislead Learners",
-   "type": "claim"
-  },
-  {
    "description": "The capacity interpretation of creativity-score differences rests on the finding that results were obtained only with fluency scores, and may not generalize to originality scoring",
    "evidence_strength": "weak",
    "id": "fluency-only-scoring-limits-generalization",
@@ -6648,15 +6561,11 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "fluency-poor-cue-learning",
-   "path": "claims/fluency-poor-cue-learning.md",
-   "status": "draft",
-   "title": "Fluency is a poor cue for actual learning",
-   "type": "claim"
-  },
-  {
+   "aliases": [
+    "fluency-judgments-mislead-learners",
+    "fluency-poor-cue-learning",
+    "illusion-of-knowing"
+   ],
    "description": "",
    "id": "fluent-illusions-mislead-self-assessment",
    "path": "claims/fluent-illusions-mislead-self-assessment.md",
@@ -7426,30 +7335,16 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "growth-mindset-interventions-improve-achievement",
+    "growth-mindset-interventions-small-effects"
+   ],
    "description": "",
    "evidence_strength": "weak",
    "id": "growth-mindset-improves-achievement",
    "path": "claims/growth-mindset-improves-achievement.md",
    "status": "draft",
    "title": "Growth mindset improves achievement",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "weak",
-   "id": "growth-mindset-interventions-improve-achievement",
-   "path": "claims/growth-mindset-interventions-improve-achievement.md",
-   "status": "draft",
-   "title": "Growth Mindset Interventions Improve Achievement",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "weak",
-   "id": "growth-mindset-interventions-small-effects",
-   "path": "claims/growth-mindset-interventions-small-effects.md",
-   "status": "draft",
-   "title": "Growth mindset interventions produce small positive effects on academic outcomes",
    "type": "claim"
   },
   {
@@ -7555,15 +7450,6 @@
    "path": "claims/hands-on-learning-improves-achievement.md",
    "status": "draft",
    "title": "Hands-on learning improves achievement",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "hands-on-without-conceptual-integration-insufficient",
-   "path": "claims/hands-on-without-conceptual-integration-insufficient.md",
-   "status": "draft",
-   "title": "Hands On Without Conceptual Integration Insufficient",
    "type": "claim"
   },
   {
@@ -7801,24 +7687,10 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "highlighting-alone-is-ineffective",
-   "path": "claims/highlighting-alone-is-ineffective.md",
-   "status": "draft",
-   "title": "Highlighting Alone Is Ineffective",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "weak",
-   "id": "highlighting-alone-low-utility",
-   "path": "claims/highlighting-alone-low-utility.md",
-   "status": "draft",
-   "title": "Highlighting Alone Low Utility",
-   "type": "claim"
-  },
-  {
+   "aliases": [
+    "highlighting-alone-is-ineffective",
+    "highlighting-alone-low-utility"
+   ],
    "description": "",
    "evidence_strength": "moderate",
    "id": "highlighting-low-utility",
@@ -8333,15 +8205,6 @@
   },
   {
    "description": "",
-   "evidence_strength": "pending",
-   "id": "illusion-of-knowing",
-   "path": "claims/illusion-of-knowing.md",
-   "status": "draft",
-   "title": "Learners mistake fluency and familiarity for actual knowledge, producing an illusion of knowing",
-   "type": "claim"
-  },
-  {
-   "description": "",
    "evidence_strength": "strong",
    "id": "illusory-correlations-persist-through-confirmation-bias",
    "path": "claims/illusory-correlations-persist-through-confirmation-bias.md",
@@ -8422,21 +8285,15 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure"
+   ],
    "description": "",
    "evidence_strength": "moderate",
    "id": "incidental-vocabulary-exposure-limited",
    "path": "claims/incidental-vocabulary-exposure-limited.md",
    "status": "draft",
    "title": "Incidental Vocabulary Exposure Limited",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure",
-   "path": "claims/incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure.md",
-   "status": "draft",
-   "title": "Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure",
    "type": "claim"
   },
   {
@@ -8554,15 +8411,6 @@
    "path": "claims/inhibitory-control-strongest-reappraisal-correlate.md",
    "status": "draft",
    "title": "Inhibitory control is the strongest concurrent correlate of cognitive reappraisal among EF components",
-   "type": "claim"
-  },
-  {
-   "description": "A single innovation foreign to the rest of the system may be rejected; success depends on a coordinated bundle of innovations",
-   "evidence_strength": "weak",
-   "id": "innovation-bundle-coherence-beats-single-innovation",
-   "path": "claims/innovation-bundle-coherence-beats-single-innovation.md",
-   "status": "draft",
-   "title": "A single innovation foreign to the rest of the system may be rejected; success depends on a coordinated bundle of innovations",
    "type": "claim"
   },
   {
@@ -9078,6 +8926,9 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "innovation-bundle-coherence-beats-single-innovation"
+   ],
    "description": "Ellsworth's survey of educational change models concludes that a single innovation incompatible with the system it enters may be rejected, and that success depends on a coordinated bundle of innovations, usually affecting several stakeholder groups, that leaves a coherent system.",
    "evidence_strength": "weak",
    "id": "isolated-innovations-are-rejected-by-the-system-they-enter",
@@ -9789,20 +9640,15 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "learner-generated-organizers-beat-provided-organizers"
+   ],
    "description": "",
    "evidence_strength": "weak",
    "id": "learner-constructed-graphic-organizers-outperform-provided",
    "path": "claims/learner-constructed-graphic-organizers-outperform-provided.md",
    "status": "draft",
    "title": "Learner Constructed Graphic Organizers Outperform Provided",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "learner-generated-organizers-beat-provided-organizers",
-   "path": "claims/learner-generated-organizers-beat-provided-organizers.md",
-   "status": "draft",
-   "title": "Learner Generated Organizers Beat Provided Organizers",
    "type": "claim"
   },
   {
@@ -9842,19 +9688,14 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "learners-misjudge-effective-study-strategies"
+   ],
    "description": "",
    "id": "learners-misjudge-effective-learning-strategies",
    "path": "claims/learners-misjudge-effective-learning-strategies.md",
    "status": "draft",
    "title": "Learners misjudge which learning strategies are effective",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "learners-misjudge-effective-study-strategies",
-   "path": "claims/learners-misjudge-effective-study-strategies.md",
-   "status": "draft",
-   "title": "Learners Misjudge Effective Study Strategies",
    "type": "claim"
   },
   {
@@ -9867,14 +9708,9 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "id": "learners-misjudge-spacing",
-   "path": "claims/learners-misjudge-spacing.md",
-   "status": "draft",
-   "title": "Learners misjudge the benefits of spaced practice",
-   "type": "claim"
-  },
-  {
+   "aliases": [
+    "learners-misjudge-spacing"
+   ],
    "description": "",
    "id": "learners-misjudge-spacing-benefits",
    "path": "claims/learners-misjudge-spacing-benefits.md",
@@ -9901,23 +9737,10 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "id": "learning-by-teaching-improves-learning",
-   "path": "claims/learning-by-teaching-improves-learning.md",
-   "status": "draft",
-   "title": "Learning By Teaching Improves Learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "emerging",
-   "id": "learning-by-teaching-improves-mastery",
-   "path": "claims/learning-by-teaching-improves-mastery.md",
-   "status": "draft",
-   "title": "Learning By Teaching Improves Mastery",
-   "type": "claim"
-  },
-  {
+   "aliases": [
+    "learning-by-teaching-improves-learning",
+    "learning-by-teaching-improves-mastery"
+   ],
    "description": "",
    "id": "learning-by-teaching-improves-tutor-learning",
    "path": "claims/learning-by-teaching-improves-tutor-learning.md",
@@ -10007,21 +9830,15 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "learning-styles-matching-yields-no-benefit"
+   ],
    "description": "",
    "evidence_strength": "strong",
    "id": "learning-styles-matching-does-not-improve-learning",
    "path": "claims/learning-styles-matching-does-not-improve-learning.md",
    "status": "draft",
    "title": "Learning Styles Matching Does Not Improve Learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "strong",
-   "id": "learning-styles-matching-yields-no-benefit",
-   "path": "claims/learning-styles-matching-yields-no-benefit.md",
-   "status": "draft",
-   "title": "Learning Styles Matching Yields No Benefit",
    "type": "claim"
   },
   {
@@ -10681,6 +10498,9 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "hands-on-without-conceptual-integration-insufficient"
+   ],
    "description": "",
    "id": "manipulatives-require-connection-to-concept",
    "path": "claims/manipulatives-require-connection-to-concept.md",
@@ -11129,39 +10949,18 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "minimal-guidance-ineffective-for-novices",
-   "path": "claims/minimal-guidance-ineffective-for-novices.md",
-   "status": "draft",
-   "title": "Minimal guidance is ineffective for novices",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "strong",
-   "id": "minimal-guidance-instruction-less-effective",
-   "path": "claims/minimal-guidance-instruction-less-effective.md",
-   "status": "draft",
-   "title": "Minimal Guidance Instruction Less Effective",
-   "type": "claim"
-  },
-  {
+   "aliases": [
+    "minimal-guidance-ineffective-for-novices",
+    "minimal-guidance-instruction-less-effective",
+    "minimally-guided-instruction-less-effective-for-novices",
+    "unguided-discovery-less-effective-than-guided-instruction"
+   ],
    "description": "",
    "evidence_strength": "moderate",
    "id": "minimal-guidance-less-effective-for-novices",
    "path": "claims/minimal-guidance-less-effective-for-novices.md",
    "status": "draft",
    "title": "Minimal guidance is less effective for novices than explicit instruction",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "strong",
-   "id": "minimally-guided-instruction-less-effective-for-novices",
-   "path": "claims/minimally-guided-instruction-less-effective-for-novices.md",
-   "status": "draft",
-   "title": "Minimally Guided Instruction Less Effective For Novices",
    "type": "claim"
   },
   {
@@ -11372,29 +11171,16 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "modality-principle-narration-beats-on-screen-text",
+    "modality-principle-spoken-narration-beats-on-screen-text"
+   ],
    "description": "",
    "evidence_strength": "unrated",
    "id": "modality-effect-narration-over-text",
    "path": "claims/modality-effect-narration-over-text.md",
    "status": "draft",
    "title": "Presenting words as spoken narration rather than on-screen text alongside graphics improves learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "modality-principle-narration-beats-on-screen-text",
-   "path": "claims/modality-principle-narration-beats-on-screen-text.md",
-   "status": "draft",
-   "title": "Modality Principle Narration Beats On Screen Text",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "weak",
-   "id": "modality-principle-spoken-narration-beats-on-screen-text",
-   "path": "claims/modality-principle-spoken-narration-beats-on-screen-text.md",
-   "status": "draft",
-   "title": "Modality Principle Spoken Narration Beats On Screen Text",
    "type": "claim"
   },
   {
@@ -11649,23 +11435,12 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "evidence_strength": "low",
-   "id": "multimedia-learning-more-effective-with-words-and-pictures",
-   "path": "claims/multimedia-learning-more-effective-with-words-and-pictures.md",
-   "status": "draft",
-   "title": "Multimedia Learning More Effective With Words And Pictures",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "multimedia-principle",
-   "path": "claims/multimedia-principle.md",
-   "status": "draft",
-   "title": "People learn better from words and pictures than from words alone",
-   "type": "claim"
-  },
-  {
+   "aliases": [
+    "multimedia-learning-more-effective-with-words-and-pictures",
+    "multimedia-principle",
+    "multimedia-words-plus-images-beat-words-alone",
+    "words-and-pictures-better-than-words-alone"
+   ],
    "description": "",
    "evidence_strength": "moderate",
    "id": "multimedia-principle-improves-learning",
@@ -11681,15 +11456,6 @@
    "path": "claims/multimedia-principles-benefit-novices.md",
    "status": "draft",
    "title": "Multimedia Principles Benefit Novices",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "multimedia-words-plus-images-beat-words-alone",
-   "path": "claims/multimedia-words-plus-images-beat-words-alone.md",
-   "status": "draft",
-   "title": "Multimedia Words Plus Images Beat Words Alone",
    "type": "claim"
   },
   {
@@ -12753,6 +12519,9 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "parental-involvement-improves-achievement"
+   ],
    "description": "",
    "evidence_strength": "weak",
    "id": "parent-involvement-improves-achievement",
@@ -12786,15 +12555,6 @@
    "path": "claims/parental-financial-investment-grades-graduation.md",
    "status": "draft",
    "title": "Greater parental financial investment associated with lower grades but higher graduation likelihood (review attribution)",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "parental-involvement-improves-achievement",
-   "path": "claims/parental-involvement-improves-achievement.md",
-   "status": "draft",
-   "title": "Parental Involvement Improves Achievement",
    "type": "claim"
   },
   {
@@ -13067,24 +12827,10 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "evidence_strength": "insufficient",
-   "id": "peer-assessment-improves-academic-performance",
-   "path": "claims/peer-assessment-improves-academic-performance.md",
-   "status": "draft",
-   "title": "Peer Assessment Improves Academic Performance",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "unrated",
-   "id": "peer-assessment-improves-achievement",
-   "path": "claims/peer-assessment-improves-achievement.md",
-   "status": "draft",
-   "title": "Peer Assessment Improves Achievement",
-   "type": "claim"
-  },
-  {
+   "aliases": [
+    "peer-assessment-improves-academic-performance",
+    "peer-assessment-improves-achievement"
+   ],
    "description": "",
    "evidence_strength": "unverified",
    "id": "peer-assessment-improves-performance",
@@ -13184,20 +12930,14 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "peer-feedback-improves-writing-outcomes"
+   ],
    "description": "",
    "id": "peer-feedback-improves-writing",
    "path": "claims/peer-feedback-improves-writing.md",
    "status": "draft",
    "title": "Peer Feedback Improves Writing",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "peer-feedback-improves-writing-outcomes",
-   "path": "claims/peer-feedback-improves-writing-outcomes.md",
-   "status": "draft",
-   "title": "Peer Feedback Improves Writing Outcomes",
    "type": "claim"
   },
   {
@@ -13422,14 +13162,6 @@
    "path": "claims/phonemic-awareness-training-improves-reading.md",
    "status": "draft",
    "title": "Phonemic Awareness Training Improves Reading",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "phonics-instruction-improves-word-reading",
-   "path": "claims/phonics-instruction-improves-word-reading.md",
-   "status": "draft",
-   "title": "Phonics Instruction Improves Word Reading",
    "type": "claim"
   },
   {
@@ -13792,19 +13524,14 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "positive-greetings-at-the-door-improve-engagement-and-behavior"
+   ],
    "description": "",
    "id": "positive-greetings-at-the-door-improve-engagement",
    "path": "claims/positive-greetings-at-the-door-improve-engagement.md",
    "status": "draft",
    "title": "Positive Greetings At The Door Improve Engagement",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "positive-greetings-at-the-door-improve-engagement-and-behavior",
-   "path": "claims/positive-greetings-at-the-door-improve-engagement-and-behavior.md",
-   "status": "draft",
-   "title": "Positive Greetings At The Door Improve Engagement And Behavior",
    "type": "claim"
   },
   {
@@ -14033,21 +13760,15 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "pretesting-improves-retention"
+   ],
    "description": "",
    "evidence_strength": "weak",
    "id": "pretesting-enhances-learning",
    "path": "claims/pretesting-enhances-learning.md",
    "status": "draft",
    "title": "Pretesting enhances learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "emerging",
-   "id": "pretesting-improves-retention",
-   "path": "claims/pretesting-improves-retention.md",
-   "status": "draft",
-   "title": "Pretesting Improves Retention",
    "type": "claim"
   },
   {
@@ -14212,21 +13933,15 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "process-writing-instruction-improves-writing-quality"
+   ],
    "description": "",
    "evidence_strength": "low",
    "id": "process-writing-improves-writing-quality",
    "path": "claims/process-writing-improves-writing-quality.md",
    "status": "draft",
    "title": "Process Writing Improves Writing Quality",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "process-writing-instruction-improves-writing-quality",
-   "path": "claims/process-writing-instruction-improves-writing-quality.md",
-   "status": "draft",
-   "title": "Process Writing Instruction Improves Writing Quality",
    "type": "claim"
   },
   {
@@ -14239,20 +13954,15 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "productive-failure-improves-learning"
+   ],
    "description": "",
    "evidence_strength": "unrated",
    "id": "productive-failure-improves-conceptual-learning",
    "path": "claims/productive-failure-improves-conceptual-learning.md",
    "status": "draft",
    "title": "Productive Failure Improves Conceptual Learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "productive-failure-improves-learning",
-   "path": "claims/productive-failure-improves-learning.md",
-   "status": "draft",
-   "title": "Productive Failure Improves Learning",
    "type": "claim"
   },
   {
@@ -14730,21 +14440,19 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "redundancy-harms-learning",
+    "redundancy-hurts-multimedia-learning",
+    "redundancy-principle-hurts-learning",
+    "redundancy-principle-on-screen-text-hurts-learning",
+    "redundant-on-screen-text-hurts-learning"
+   ],
    "description": "",
    "evidence_strength": "weak",
    "id": "redundancy-effect-impairs-learning",
    "path": "claims/redundancy-effect-impairs-learning.md",
    "status": "draft",
    "title": "Redundancy Effect Impairs Learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "redundancy-harms-learning",
-   "path": "claims/redundancy-harms-learning.md",
-   "status": "draft",
-   "title": "Redundancy Harms Learning",
    "type": "claim"
   },
   {
@@ -14758,36 +14466,11 @@
   },
   {
    "description": "",
-   "id": "redundancy-hurts-multimedia-learning",
-   "path": "claims/redundancy-hurts-multimedia-learning.md",
-   "status": "draft",
-   "title": "Redundancy Hurts Multimedia Learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
    "evidence_strength": "moderate",
    "id": "redundancy-principle",
    "path": "claims/redundancy-principle.md",
    "status": "draft",
    "title": "Redundant on-screen text duplicates of narration or graphics impair learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "low",
-   "id": "redundancy-principle-hurts-learning",
-   "path": "claims/redundancy-principle-hurts-learning.md",
-   "status": "draft",
-   "title": "Redundancy Principle Hurts Learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "redundancy-principle-on-screen-text-hurts-learning",
-   "path": "claims/redundancy-principle-on-screen-text-hurts-learning.md",
-   "status": "draft",
-   "title": "Redundancy Principle On Screen Text Hurts Learning",
    "type": "claim"
   },
   {
@@ -14797,15 +14480,6 @@
    "path": "claims/redundancy-unrelated-to-working-alliance.md",
    "status": "draft",
    "title": "Response redundancy (relational congruence) is not related to working alliance ratings",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "redundant-on-screen-text-hurts-learning",
-   "path": "claims/redundant-on-screen-text-hurts-learning.md",
-   "status": "draft",
-   "title": "Redundant On Screen Text Hurts Learning",
    "type": "claim"
   },
   {
@@ -15328,30 +15002,12 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "evidence_strength": "strong",
-   "id": "retrieval-practice-enhances-long-term-retention",
-   "path": "claims/retrieval-practice-enhances-long-term-retention.md",
-   "status": "draft",
-   "title": "Retrieval Practice Enhances Long Term Retention",
-   "type": "claim"
-  },
-  {
    "description": "Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not",
    "evidence_strength": "mixed",
    "id": "retrieval-practice-improves-final-inference-and-transfer-questions",
    "path": "claims/retrieval-practice-improves-final-inference-and-transfer-questions.md",
    "status": "draft",
    "title": "Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "strong",
-   "id": "retrieval-practice-improves-learning",
-   "path": "claims/retrieval-practice-improves-learning.md",
-   "status": "draft",
-   "title": "Retrieval Practice Improves Learning",
    "type": "claim"
   },
   {
@@ -15364,6 +15020,14 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "retrieval-practice-enhances-long-term-retention",
+    "retrieval-practice-improves-learning",
+    "testing-effect-improves-learning",
+    "testing-effect-improves-retention",
+    "testing-effect-retrieval-practice-improves-retention",
+    "testing-improves-retention"
+   ],
    "description": "",
    "evidence_strength": "strong",
    "id": "retrieval-practice-improves-retention",
@@ -15436,6 +15100,9 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "extrinsic-rewards-undermine-intrinsic-motivation"
+   ],
    "description": "",
    "id": "rewards-undermine-intrinsic-motivation",
    "path": "claims/rewards-undermine-intrinsic-motivation.md",
@@ -15534,20 +15201,14 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "rubrics-improve-student-work-quality"
+   ],
    "description": "",
    "id": "rubrics-improve-student-work",
    "path": "claims/rubrics-improve-student-work.md",
    "status": "draft",
    "title": "Rubrics improve student work",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "unverified",
-   "id": "rubrics-improve-student-work-quality",
-   "path": "claims/rubrics-improve-student-work-quality.md",
-   "status": "draft",
-   "title": "Rubrics Improve Student Work Quality",
    "type": "claim"
   },
   {
@@ -15596,21 +15257,15 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "scaffolding-improves-learning-outcomes"
+   ],
    "description": "",
    "evidence_strength": "moderate",
    "id": "scaffolding-improves-learning",
    "path": "claims/scaffolding-improves-learning.md",
    "status": "draft",
    "title": "Scaffolding improves learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "scaffolding-improves-learning-outcomes",
-   "path": "claims/scaffolding-improves-learning-outcomes.md",
-   "status": "draft",
-   "title": "Scaffolding improves learning outcomes",
    "type": "claim"
   },
   {
@@ -15785,21 +15440,15 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "seductive-details-harm-learning"
+   ],
    "description": "",
    "evidence_strength": "moderate",
    "id": "seductive-details-effect",
    "path": "claims/seductive-details-effect.md",
    "status": "draft",
    "title": "Interesting but irrelevant details impair learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "weak",
-   "id": "seductive-details-harm-learning",
-   "path": "claims/seductive-details-harm-learning.md",
-   "status": "draft",
-   "title": "Seductive Details Harm Learning",
    "type": "claim"
   },
   {
@@ -15821,19 +15470,14 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "segmenting-principle-improves-multimedia-learning"
+   ],
    "description": "",
    "id": "segmenting-improves-multimedia-learning",
    "path": "claims/segmenting-improves-multimedia-learning.md",
    "status": "draft",
    "title": "Segmenting Improves Multimedia Learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "segmenting-principle-improves-multimedia-learning",
-   "path": "claims/segmenting-principle-improves-multimedia-learning.md",
-   "status": "draft",
-   "title": "Segmenting Principle Improves Multimedia Learning",
    "type": "claim"
   },
   {
@@ -15853,6 +15497,10 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "social-emotional-learning-improves-achievement",
+    "social-emotional-learning-programs-improve-achievement"
+   ],
    "description": "",
    "evidence_strength": "pending",
    "id": "sel-programs-improve-behavior-and-achievement",
@@ -15916,15 +15564,9 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "self-assessment-against-criteria-supports-self-regulated-learning",
-   "path": "claims/self-assessment-against-criteria-supports-self-regulated-learning.md",
-   "status": "draft",
-   "title": "Self Assessment Against Criteria Supports Self Regulated Learning",
-   "type": "claim"
-  },
-  {
+   "aliases": [
+    "self-assessment-against-criteria-supports-self-regulated-learning"
+   ],
    "description": "",
    "evidence_strength": "unrated",
    "id": "self-assessment-improves-self-regulated-learning",
@@ -16122,20 +15764,16 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "eliciting-self-explanations-improves-understanding",
+    "self-explanation-prompts-improve-learning"
+   ],
    "description": "",
    "evidence_strength": "moderate",
    "id": "self-explanation-improves-learning",
    "path": "claims/self-explanation-improves-learning.md",
    "status": "draft",
    "title": "Self-explanation improves learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "self-explanation-prompts-improve-learning",
-   "path": "claims/self-explanation-prompts-improve-learning.md",
-   "status": "draft",
-   "title": "Self Explanation Prompts Improve Learning",
    "type": "claim"
   },
   {
@@ -16192,29 +15830,19 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "self-regulated-learning-improves-academic-outcomes",
-   "path": "claims/self-regulated-learning-improves-academic-outcomes.md",
-   "status": "draft",
-   "title": "Self Regulated Learning Improves Academic Outcomes",
-   "type": "claim"
-  },
-  {
+   "aliases": [
+    "self-regulated-learning-improves-academic-outcomes",
+    "self-regulated-learning-improves-outcomes",
+    "self-regulated-learning-strategies-improve-achievement",
+    "self-regulated-learning-strategies-improve-performance",
+    "self-regulated-learning-strategy-instruction-improves-achievement",
+    "self-regulation-strategy-instruction-improves-academic-performance"
+   ],
    "description": "",
    "id": "self-regulated-learning-improves-achievement",
    "path": "claims/self-regulated-learning-improves-achievement.md",
    "status": "draft",
    "title": "Self-regulated learning improves achievement",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "self-regulated-learning-improves-outcomes",
-   "path": "claims/self-regulated-learning-improves-outcomes.md",
-   "status": "draft",
-   "title": "Self-regulated learning improves outcomes",
    "type": "claim"
   },
   {
@@ -16228,46 +15856,10 @@
   },
   {
    "description": "",
-   "evidence_strength": "moderate",
-   "id": "self-regulated-learning-strategies-improve-achievement",
-   "path": "claims/self-regulated-learning-strategies-improve-achievement.md",
-   "status": "draft",
-   "title": "Self Regulated Learning Strategies Improve Achievement",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "self-regulated-learning-strategies-improve-performance",
-   "path": "claims/self-regulated-learning-strategies-improve-performance.md",
-   "status": "draft",
-   "title": "Self Regulated Learning Strategies Improve Performance",
-   "type": "claim"
-  },
-  {
-   "description": "",
    "id": "self-regulated-learning-strategies-improve-writing",
    "path": "claims/self-regulated-learning-strategies-improve-writing.md",
    "status": "draft",
    "title": "Self-regulated learning strategy instruction improves writing outcomes",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "pending",
-   "id": "self-regulated-learning-strategy-instruction-improves-achievement",
-   "path": "claims/self-regulated-learning-strategy-instruction-improves-achievement.md",
-   "status": "draft",
-   "title": "Self Regulated Learning Strategy Instruction Improves Achievement",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "self-regulation-strategy-instruction-improves-academic-performance",
-   "path": "claims/self-regulation-strategy-instruction-improves-academic-performance.md",
-   "status": "draft",
-   "title": "Self Regulation Strategy Instruction Improves Academic Performance",
    "type": "claim"
   },
   {
@@ -16737,22 +16329,6 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "id": "social-emotional-learning-improves-achievement",
-   "path": "claims/social-emotional-learning-improves-achievement.md",
-   "status": "draft",
-   "title": "Social Emotional Learning Improves Achievement",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "social-emotional-learning-programs-improve-achievement",
-   "path": "claims/social-emotional-learning-programs-improve-achievement.md",
-   "status": "draft",
-   "title": "Social Emotional Learning Programs Improve Achievement",
-   "type": "claim"
-  },
-  {
    "description": "Mead holds that social interaction precedes and produces reflective self-consciousness",
    "evidence_strength": "weak",
    "id": "social-interaction-precedes-self-consciousness",
@@ -16852,15 +16428,11 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "evidence_strength": "pending",
-   "id": "spaced-practice-improves-long-term-retention",
-   "path": "claims/spaced-practice-improves-long-term-retention.md",
-   "status": "draft",
-   "title": "Spaced Practice Improves Long Term Retention",
-   "type": "claim"
-  },
-  {
+   "aliases": [
+    "spaced-practice-improves-long-term-retention",
+    "spacing-improves-long-term-retention",
+    "spacing-improves-retention"
+   ],
    "description": "",
    "id": "spaced-practice-improves-retention",
    "path": "claims/spaced-practice-improves-retention.md",
@@ -16878,6 +16450,9 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "spaced-retrieval-practice-improves-retention"
+   ],
    "description": "",
    "evidence_strength": "moderate",
    "id": "spaced-retrieval-improves-retention",
@@ -16902,39 +16477,6 @@
    "path": "claims/spaced-retrieval-outperforms-restudy.md",
    "status": "draft",
    "title": "Spaced Retrieval Outperforms Restudy",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "spaced-retrieval-practice-improves-retention",
-   "path": "claims/spaced-retrieval-practice-improves-retention.md",
-   "status": "draft",
-   "title": "Spaced Retrieval Practice Improves Retention",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "spacing-improves-long-term-retention",
-   "path": "claims/spacing-improves-long-term-retention.md",
-   "status": "draft",
-   "title": "Spacing Improves Long Term Retention",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "strong",
-   "id": "spacing-improves-retention",
-   "path": "claims/spacing-improves-retention.md",
-   "status": "draft",
-   "title": "Spacing Improves Retention",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "spatial-contiguity-improves-learning",
-   "path": "claims/spatial-contiguity-improves-learning.md",
-   "status": "draft",
-   "title": "Spatial Contiguity Improves Learning",
    "type": "claim"
   },
   {
@@ -17037,30 +16579,18 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "contiguity-principle-improves-learning",
+    "spatial-contiguity-improves-learning",
+    "split-attention-effect-impairs-learning",
+    "split-attention-effect-integration-improves-learning"
+   ],
    "description": "",
    "evidence_strength": "none",
    "id": "split-attention-effect-degrades-learning",
    "path": "claims/split-attention-effect-degrades-learning.md",
    "status": "draft",
    "title": "Split Attention Effect Degrades Learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "split-attention-effect-impairs-learning",
-   "path": "claims/split-attention-effect-impairs-learning.md",
-   "status": "draft",
-   "title": "Split attention between mutually referring sources of information impairs learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "split-attention-effect-integration-improves-learning",
-   "path": "claims/split-attention-effect-integration-improves-learning.md",
-   "status": "draft",
-   "title": "Split Attention Effect Integration Improves Learning",
    "type": "claim"
   },
   {
@@ -17360,6 +16890,10 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "explicit-writing-strategy-instruction-improves-writing",
+    "writing-strategy-instruction-improves-writing-quality"
+   ],
    "description": "",
    "id": "strategy-instruction-improves-writing-quality",
    "path": "claims/strategy-instruction-improves-writing-quality.md",
@@ -17609,6 +17143,9 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "students-shift-multiple-times-between-distance-meanings"
+   ],
    "description": "Students' collective understanding during a physics tutorial alternates repeatedly between two distinct interpretations of tickertape distance rather than changing once",
    "evidence_strength": "moderate",
    "id": "student-understanding-alternates-between-local-coherences-tickertape",
@@ -17849,15 +17386,6 @@
    "path": "claims/students-report-simulation-lesson-fun-and-concept-figuring.md",
    "status": "draft",
    "title": "Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists",
-   "type": "claim"
-  },
-  {
-   "description": "In a collaborative physics tutorial, students' interpretation of tickertape distance shifts back and forth multiple times between time and speed meanings without full resolution",
-   "evidence_strength": "moderate",
-   "id": "students-shift-multiple-times-between-distance-meanings",
-   "path": "claims/students-shift-multiple-times-between-distance-meanings.md",
-   "status": "draft",
-   "title": "In a collaborative physics tutorial, students' interpretation of tickertape distance shifts back and forth multiple times between time and speed meanings without full resolution",
    "type": "claim"
   },
   {
@@ -18156,6 +17684,9 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "phonics-instruction-improves-word-reading"
+   ],
    "description": "",
    "evidence_strength": "strong",
    "id": "systematic-phonics-improves-word-reading",
@@ -18381,15 +17912,9 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "evidence_strength": "weak",
-   "id": "teacher-expectancy-effects-influence-student-achievement",
-   "path": "claims/teacher-expectancy-effects-influence-student-achievement.md",
-   "status": "draft",
-   "title": "Teacher Expectancy Effects Influence Student Achievement",
-   "type": "claim"
-  },
-  {
+   "aliases": [
+    "teacher-expectancy-effects-influence-student-achievement"
+   ],
    "description": "",
    "id": "teacher-expectation-effects-on-achievement",
    "path": "claims/teacher-expectation-effects-on-achievement.md",
@@ -18790,39 +18315,6 @@
    "path": "claims/test-scores-prior-coding-experience-predict-lc101-persistence.md",
    "status": "draft",
    "title": "HackerRank test scores and prior coding experience are significantly associated with increased odds of persistence across both the coursework and apprenticeship phases of the LC101 program",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "strong",
-   "id": "testing-effect-improves-learning",
-   "path": "claims/testing-effect-improves-learning.md",
-   "status": "draft",
-   "title": "Testing Effect Improves Learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "testing-effect-improves-retention",
-   "path": "claims/testing-effect-improves-retention.md",
-   "status": "draft",
-   "title": "Testing Effect Improves Retention",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "testing-effect-retrieval-practice-improves-retention",
-   "path": "claims/testing-effect-retrieval-practice-improves-retention.md",
-   "status": "draft",
-   "title": "Retrieval practice improves long-term retention more than restudying",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "testing-improves-retention",
-   "path": "claims/testing-improves-retention.md",
-   "status": "draft",
-   "title": "Testing Improves Retention",
    "type": "claim"
   },
   {
@@ -19400,14 +18892,6 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "id": "unguided-discovery-less-effective-than-guided-instruction",
-   "path": "claims/unguided-discovery-less-effective-than-guided-instruction.md",
-   "status": "draft",
-   "title": "Unguided discovery is less effective than guided instruction for novices",
-   "type": "claim"
-  },
-  {
    "description": "Disconnected educator data systems are a common implementation challenge; a unified talent data system can generate prioritization insights",
    "evidence_strength": "weak",
    "id": "unified-talent-data-system-generates-prioritization-insights",
@@ -19893,15 +19377,6 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "evidence_strength": "strong",
-   "id": "words-and-pictures-better-than-words-alone",
-   "path": "claims/words-and-pictures-better-than-words-alone.md",
-   "status": "draft",
-   "title": "Words and pictures are better than words alone",
-   "type": "claim"
-  },
-  {
    "description": "Worked-example gains in a puzzle game remained small relative to expert performance, with the worked example group learning only 2.7% of experts' knowledge-map knowledge",
    "evidence_strength": "moderate",
    "id": "worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps",
@@ -19920,21 +19395,15 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes"
+   ],
    "description": "",
    "evidence_strength": "moderate",
    "id": "worked-examples-example-problem-sequences",
    "path": "claims/worked-examples-example-problem-sequences.md",
    "status": "review",
    "title": "Example\u2013problem sequences reduce cognitive load and improve learning outcomes",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "worked-examples-expertise-reversal",
-   "path": "claims/worked-examples-expertise-reversal.md",
-   "status": "review",
-   "title": "Worked examples can become redundant or counterproductive for advanced learners.",
    "type": "claim"
   },
   {
@@ -19974,6 +19443,9 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "worked-examples-expertise-reversal"
+   ],
    "description": "",
    "evidence_strength": "moderate",
    "id": "worked-examples-less-effective-with-expertise",
@@ -20064,22 +19536,9 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "id": "writing-strategy-instruction-improves-writing-quality",
-   "path": "claims/writing-strategy-instruction-improves-writing-quality.md",
-   "status": "draft",
-   "title": "Writing Strategy Instruction Improves Writing Quality",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "writing-to-learn-improves-content-learning",
-   "path": "claims/writing-to-learn-improves-content-learning.md",
-   "status": "draft",
-   "title": "Writing To Learn Improves Content Learning",
-   "type": "claim"
-  },
-  {
+   "aliases": [
+    "writing-to-learn-improves-content-learning"
+   ],
    "description": "",
    "evidence_strength": "pending",
    "id": "writing-to-learn-improves-understanding",
@@ -58540,7 +57999,7 @@
    "achievement-drops-in-middle-grades": "achievement-drops-in-middle-grades",
    "achievement-locus-correlation-only-normal-adolescents": "achievement-locus-correlation-only-normal-adolescents",
    "acquiring-changes-the-thing-acquired": "acquiring-changes-the-thing-acquired",
-   "activation": "activation",
+   "activation": "activation-improves-learning",
    "activation-improves-learning": "activation-improves-learning",
    "active-collaborative-approaches-higher-order-thinking": "active-collaborative-approaches-higher-order-thinking",
    "active-learning-conditions-more-other-pedagogical-features": "active-learning-conditions-more-other-pedagogical-features",
@@ -58576,7 +58035,7 @@
    "adults-moderate-acceptance-epistemic-violence": "adults-moderate-acceptance-epistemic-violence",
    "adults-past-freedom-moderate-high-tendency-high": "adults-past-freedom-moderate-high-tendency-high",
    "advance-organizers-improve-learning": "advance-organizers-improve-learning",
-   "advance-organizers-improves-learning": "advance-organizers-improves-learning",
+   "advance-organizers-improves-learning": "advance-organizers-improve-learning",
    "adventure-programs-teach-empowerment-process": "adventure-programs-teach-empowerment-process",
    "affective-support-predicts-all-engagement-dimensions": "affective-support-predicts-all-engagement-dimensions",
    "affective-variables-facilitate-l2-acquisition": "affective-variables-facilitate-l2-acquisition",
@@ -58855,7 +58314,7 @@
    "community-partner-conflict-negatively-correlates-social-justice": "community-partner-conflict-negatively-correlates-social-justice",
    "community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object": "community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object",
    "comp-no-different-from-other-classroom-management": "comp-no-different-from-other-classroom-management",
-   "comparing-contrasting-cases-improve-learning": "comparing-contrasting-cases-improve-learning",
+   "comparing-contrasting-cases-improve-learning": "comparing-contrasting-cases-improves-learning",
    "comparing-contrasting-cases-improves-learning": "comparing-contrasting-cases-improves-learning",
    "competitive-grading-pits-students-against-each-other": "competitive-grading-pits-students-against-each-other",
    "competitive-multiple-choice-alternatives-benefit-related-untested-questions": "competitive-multiple-choice-alternatives-benefit-related-untested-questions",
@@ -58867,7 +58326,7 @@
    "computer-based-no-better-than-individual-paper": "computer-based-no-better-than-individual-paper",
    "computer-based-tutorial-implementation-lowest-posttest": "computer-based-tutorial-implementation-lowest-posttest",
    "concept-mapping-improves-learning": "concept-mapping-improves-learning",
-   "concept-maps-improve-learning": "concept-maps-improve-learning",
+   "concept-maps-improve-learning": "concept-mapping-improves-learning",
    "conceptual-factors-beyond-memory-underlie-sld-mdc-challenges": "conceptual-factors-beyond-memory-underlie-sld-mdc-challenges",
    "concrete-reward-increases-mean-ideational-fluency": "concrete-reward-increases-mean-ideational-fluency",
    "cone-conflated-theoretical-assumptions": "cone-conflated-theoretical-assumptions",
@@ -58908,7 +58367,7 @@
    "contextual-features-stabilize-distance-time-inference": "contextual-features-stabilize-distance-time-inference",
    "contextualized-real-life-task-reverted-to-pure-mathematics-and-felt-too-school": "contextualized-real-life-task-reverted-to-pure-mathematics-and-felt-too-school",
    "contiguity-alone-fails-in-cognitive-learning": "contiguity-alone-fails-in-cognitive-learning",
-   "contiguity-principle-improves-learning": "contiguity-principle-improves-learning",
+   "contiguity-principle-improves-learning": "split-attention-effect-degrades-learning",
    "contingency-reinforcement-raises-achievement": "contingency-reinforcement-raises-achievement",
    "contingent-scaffolding-improves-learning": "contingent-scaffolding-improves-learning",
    "contradictions-transform-olr-into-reflection-instrument": "contradictions-transform-olr-into-reflection-instrument",
@@ -58924,7 +58383,7 @@
    "cooperative-learning-gifted-students": "cooperative-learning-gifted-students",
    "cooperative-learning-group-rewards-and-individual-accountability": "cooperative-learning-group-rewards-and-individual-accountability",
    "cooperative-learning-improves-achievement": "cooperative-learning-improves-achievement",
-   "cooperative-learning-outperforms-competitive-individualistic": "cooperative-learning-outperforms-competitive-individualistic",
+   "cooperative-learning-outperforms-competitive-individualistic": "cooperative-learning-improves-achievement",
    "cooperative-learning-science-studies-mixed": "cooperative-learning-science-studies-mixed",
    "cooperative-learning-versus-individual-endeavors": "cooperative-learning-versus-individual-endeavors",
    "coordination-dominates-communication-rare": "coordination-dominates-communication-rare",
@@ -58997,7 +58456,7 @@
    "design-dimensions-cue-distinct-attribution-classes": "design-dimensions-cue-distinct-attribution-classes",
    "designation-wise-bloom-question-differences": "designation-wise-bloom-question-differences",
    "desirable-difficulties-enhance-learning": "desirable-difficulties-enhance-learning",
-   "desirable-difficulties-improve-retention": "desirable-difficulties-improve-retention",
+   "desirable-difficulties-improve-retention": "desirable-difficulties-enhance-learning",
    "desirable-interpersonal-style-overall-coordination-complementarity": "desirable-interpersonal-style-overall-coordination-complementarity",
    "detailed-answer-keys-improve-momentum-only": "detailed-answer-keys-improve-momentum-only",
    "detection-tools-disproportionately-flag-multilingual-writers": "detection-tools-disproportionately-flag-multilingual-writers",
@@ -59102,7 +58561,7 @@
    "elementary-students-prefer-mechanistic-explanations": "elementary-students-prefer-mechanistic-explanations",
    "elementary-undergrads-higher-existentialism": "elementary-undergrads-higher-existentialism",
    "eleven-components-iar-cdr": "eleven-components-iar-cdr",
-   "eliciting-self-explanations-improves-understanding": "eliciting-self-explanations-improves-understanding",
+   "eliciting-self-explanations-improves-understanding": "self-explanation-improves-learning",
    "ells-recruit-everyday-language-sound-discussion": "ells-recruit-everyday-language-sound-discussion",
    "elt-fea-module-implemented-three-topics-unassessed": "elt-fea-module-implemented-three-topics-unassessed",
    "em-beats-sgd-fitting-spectral-bkt": "em-beats-sgd-fitting-spectral-bkt",
@@ -59152,7 +58611,7 @@
    "exam-questions-capped-at-apply-and-standardized-analysis": "exam-questions-capped-at-apply-and-standardized-analysis",
    "exam-questions-concentrate-lower-bloom-levels": "exam-questions-concentrate-lower-bloom-levels",
    "example-problem-sequences-reduce-cognitive-load": "example-problem-sequences-reduce-cognitive-load",
-   "example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes": "example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes",
+   "example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes": "worked-examples-example-problem-sequences",
    "excess-new-item-rate-leaves-items-stuck-in-first-leitner-deck": "excess-new-item-rate-leaves-items-stuck-in-first-leitner-deck",
    "exercise-increases-hippocampal-volume": "exercise-increases-hippocampal-volume",
    "existing-kt-methods-fail-on-small-comta-but-improve-with-more-data-on-mathdial": "existing-kt-methods-fail-on-small-comta-but-improve-with-more-data-on-mathdial",
@@ -59186,7 +58645,7 @@
    "explicit-handwriting-instruction-improves-legibility": "explicit-handwriting-instruction-improves-legibility",
    "explicit-reasoning-instruction-preliminary-large-gains": "explicit-reasoning-instruction-preliminary-large-gains",
    "explicit-strategy-instruction-no-significant-gain": "explicit-strategy-instruction-no-significant-gain",
-   "explicit-writing-strategy-instruction-improves-writing": "explicit-writing-strategy-instruction-improves-writing",
+   "explicit-writing-strategy-instruction-improves-writing": "strategy-instruction-improves-writing-quality",
    "exponential-forgetting-models-with-delay-perform-comparably-to-1pl-irt": "exponential-forgetting-models-with-delay-perform-comparably-to-1pl-irt",
    "exposure-time-primacy-effect-not-significant": "exposure-time-primacy-effect-not-significant",
    "expressive-writing-improves-exam-performance": "expressive-writing-improves-exam-performance",
@@ -59201,7 +58660,7 @@
    "extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success": "extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success",
    "extraneous-load-eliminates-germane-load-learning-gains": "extraneous-load-eliminates-germane-load-learning-gains",
    "extraversion-protective-wellbeing-wartime": "extraversion-protective-wellbeing-wartime",
-   "extrinsic-rewards-undermine-intrinsic-motivation": "extrinsic-rewards-undermine-intrinsic-motivation",
+   "extrinsic-rewards-undermine-intrinsic-motivation": "rewards-undermine-intrinsic-motivation",
    "extrinsic-rewards-undermine-intrinsic-motivation-argument": "extrinsic-rewards-undermine-intrinsic-motivation-argument",
    "facilitated-self-directed-learning-empowers-adults": "facilitated-self-directed-learning-empowers-adults",
    "facilities-ratings-rise-with-enrollment-size": "facilities-ratings-rise-with-enrollment-size",
@@ -59223,7 +58682,7 @@
    "feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice": "feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice",
    "feedback-enhances-retrieval-practice": "feedback-enhances-retrieval-practice",
    "feedback-improves-learning": "feedback-improves-learning",
-   "feedback-improves-learning-outcomes": "feedback-improves-learning-outcomes",
+   "feedback-improves-learning-outcomes": "feedback-improves-learning",
    "feedback-improves-learning-when-it-addresses-task-goals": "feedback-improves-learning-when-it-addresses-task-goals",
    "feedback-makes-behaviour-seen-asynchronous": "feedback-makes-behaviour-seen-asynchronous",
    "feedback-most-effective-at-task-and-process-levels": "feedback-most-effective-at-task-and-process-levels",
@@ -59250,9 +58709,9 @@
    "flexibility-supports-agency-productive-sequence": "flexibility-supports-agency-productive-sequence",
    "flexible-cooperative-courses-demand-uncertainty-tolerance": "flexible-cooperative-courses-demand-uncertainty-tolerance",
    "flexible-problem-solving-supports-cooperative-learning": "flexible-problem-solving-supports-cooperative-learning",
-   "fluency-judgments-mislead-learners": "fluency-judgments-mislead-learners",
+   "fluency-judgments-mislead-learners": "fluent-illusions-mislead-self-assessment",
    "fluency-only-scoring-limits-generalization": "fluency-only-scoring-limits-generalization",
-   "fluency-poor-cue-learning": "fluency-poor-cue-learning",
+   "fluency-poor-cue-learning": "fluent-illusions-mislead-self-assessment",
    "fluent-illusions-mislead-self-assessment": "fluent-illusions-mislead-self-assessment",
    "flynn-effect-rising-iq-scores-over-generations": "flynn-effect-rising-iq-scores-over-generations",
    "follow-up-contact-strongest-adoption-success-factor": "follow-up-contact-strongest-adoption-success-factor",
@@ -59340,8 +58799,8 @@
    "group-tasks-most-frequent-active-learning-activity": "group-tasks-most-frequent-active-learning-activity",
    "grouping-practices-framed-labeling-problem": "grouping-practices-framed-labeling-problem",
    "growth-mindset-improves-achievement": "growth-mindset-improves-achievement",
-   "growth-mindset-interventions-improve-achievement": "growth-mindset-interventions-improve-achievement",
-   "growth-mindset-interventions-small-effects": "growth-mindset-interventions-small-effects",
+   "growth-mindset-interventions-improve-achievement": "growth-mindset-improves-achievement",
+   "growth-mindset-interventions-small-effects": "growth-mindset-improves-achievement",
    "gsa-collective-discussion-null-group-level": "gsa-collective-discussion-null-group-level",
    "gsa-study-attrition-differences": "gsa-study-attrition-differences",
    "gsides-gesture-most-frequent-teacher-code-in-kindergarten-equal-sign-lessons": "gsides-gesture-most-frequent-teacher-code-in-kindergarten-equal-sign-lessons",
@@ -59354,7 +58813,7 @@
    "guo-video-style-engagement-findings": "guo-video-style-engagement-findings",
    "hake-ie-gains-two-sd-greater": "hake-ie-gains-two-sd-greater",
    "hands-on-learning-improves-achievement": "hands-on-learning-improves-achievement",
-   "hands-on-without-conceptual-integration-insufficient": "hands-on-without-conceptual-integration-insufficient",
+   "hands-on-without-conceptual-integration-insufficient": "manipulatives-require-connection-to-concept",
    "handwriting-intervention-type-equivalence": "handwriting-intervention-type-equivalence",
    "hard-core-unresponsive-non-attenders": "hard-core-unresponsive-non-attenders",
    "heavy-cognitive-demands-of-mapping-can-be-counterproductive": "heavy-cognitive-demands-of-mapping-can-be-counterproductive",
@@ -59381,8 +58840,8 @@
    "higher-anxiety-is-associated-with-smaller-testing-effects": "higher-anxiety-is-associated-with-smaller-testing-effects",
    "higher-hierarchy-levels-recalled-better": "higher-hierarchy-levels-recalled-better",
    "higher-order-bloom-questions-rare": "higher-order-bloom-questions-rare",
-   "highlighting-alone-is-ineffective": "highlighting-alone-is-ineffective",
-   "highlighting-alone-low-utility": "highlighting-alone-low-utility",
+   "highlighting-alone-is-ineffective": "highlighting-low-utility",
+   "highlighting-alone-low-utility": "highlighting-low-utility",
    "highlighting-low-utility": "highlighting-low-utility",
    "highly-reflective-students-found-restructured-course-unchallenging": "highly-reflective-students-found-restructured-course-unchallenging",
    "hint-takers-spend-less-time-than-attempters": "hint-takers-spend-less-time-than-attempters",
@@ -59440,7 +58899,7 @@
    "if-at-partial-credit-discriminating": "if-at-partial-credit-discriminating",
    "if-at-partial-credit-small-proportion-of-score": "if-at-partial-credit-small-proportion-of-score",
    "ignoring-testlet-effects-shrinks-parameter-estimates": "ignoring-testlet-effects-shrinks-parameter-estimates",
-   "illusion-of-knowing": "illusion-of-knowing",
+   "illusion-of-knowing": "fluent-illusions-mislead-self-assessment",
    "illusory-correlations-persist-through-confirmation-bias": "illusory-correlations-persist-through-confirmation-bias",
    "imagery-characteristics-associated-with-aesthetic-responses": "imagery-characteristics-associated-with-aesthetic-responses",
    "immersion-submersion-sociocultural-contrast": "immersion-submersion-sociocultural-contrast",
@@ -59451,7 +58910,7 @@
    "inadequate-evidence-synthesis-skills-lack-confidence-applying-evidence": "inadequate-evidence-synthesis-skills-lack-confidence-applying-evidence",
    "inappropriate-behavior-maintained-by-escape-and-attention": "inappropriate-behavior-maintained-by-escape-and-attention",
    "incidental-vocabulary-exposure-limited": "incidental-vocabulary-exposure-limited",
-   "incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure": "incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure",
+   "incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure": "incidental-vocabulary-exposure-limited",
    "incoming-freshmen-average-reflective-judgment-stage-3-5": "incoming-freshmen-average-reflective-judgment-stage-3-5",
    "incorporating-home-culture-improves-academic-performance": "incorporating-home-culture-improves-academic-performance",
    "increased-web-technology-use-over-project": "increased-web-technology-use-over-project",
@@ -59465,7 +58924,7 @@
    "inexperienced-teachers-insufficient-management-repertoire": "inexperienced-teachers-insufficient-management-repertoire",
    "informal-stem-club-mathematics-tension-between-interest-and-not-like-school": "informal-stem-club-mathematics-tension-between-interest-and-not-like-school",
    "inhibitory-control-strongest-reappraisal-correlate": "inhibitory-control-strongest-reappraisal-correlate",
-   "innovation-bundle-coherence-beats-single-innovation": "innovation-bundle-coherence-beats-single-innovation",
+   "innovation-bundle-coherence-beats-single-innovation": "isolated-innovations-are-rejected-by-the-system-they-enter",
    "innovation-skills-by-program-outcomes": "innovation-skills-by-program-outcomes",
    "inquiry-based-teaching-improves-science-achievement": "inquiry-based-teaching-improves-science-achievement",
    "inquiry-first-stimulates-interest-and-organizes-course": "inquiry-first-stimulates-interest-and-organizes-course",
@@ -59603,20 +59062,20 @@
    "leadership-strongest-predictor-vietnamese-governance": "leadership-strongest-predictor-vietnamese-governance",
    "learner-centered-teacher-student-relationships-are-effective": "learner-centered-teacher-student-relationships-are-effective",
    "learner-constructed-graphic-organizers-outperform-provided": "learner-constructed-graphic-organizers-outperform-provided",
-   "learner-generated-organizers-beat-provided-organizers": "learner-generated-organizers-beat-provided-organizers",
+   "learner-generated-organizers-beat-provided-organizers": "learner-constructed-graphic-organizers-outperform-provided",
    "learner-models-miscalibrated-outside-data-interval": "learner-models-miscalibrated-outside-data-interval",
    "learner-paced-beats-system-paced-complex-material": "learner-paced-beats-system-paced-complex-material",
    "learner-presence-three-qualities-mba": "learner-presence-three-qualities-mba",
    "learners-given-two-kr-decisions-mostly-keep-their-first-choice": "learners-given-two-kr-decisions-mostly-keep-their-first-choice",
    "learners-misjudge-effective-learning-strategies": "learners-misjudge-effective-learning-strategies",
-   "learners-misjudge-effective-study-strategies": "learners-misjudge-effective-study-strategies",
+   "learners-misjudge-effective-study-strategies": "learners-misjudge-effective-learning-strategies",
    "learners-misjudge-retrieval-benefit": "learners-misjudge-retrieval-benefit",
-   "learners-misjudge-spacing": "learners-misjudge-spacing",
+   "learners-misjudge-spacing": "learners-misjudge-spacing-benefits",
    "learners-misjudge-spacing-benefits": "learners-misjudge-spacing-benefits",
    "learners-use-apps-vocabulary-translation-grammar-informally": "learners-use-apps-vocabulary-translation-grammar-informally",
    "learning-actions-follow-predicted-order-two-parts": "learning-actions-follow-predicted-order-two-parts",
-   "learning-by-teaching-improves-learning": "learning-by-teaching-improves-learning",
-   "learning-by-teaching-improves-mastery": "learning-by-teaching-improves-mastery",
+   "learning-by-teaching-improves-learning": "learning-by-teaching-improves-tutor-learning",
+   "learning-by-teaching-improves-mastery": "learning-by-teaching-improves-tutor-learning",
    "learning-by-teaching-improves-tutor-learning": "learning-by-teaching-improves-tutor-learning",
    "learning-cycle-effective-science-learning": "learning-cycle-effective-science-learning",
    "learning-diary-alone-no-significant-srl-gains-online-math-prep-course": "learning-diary-alone-no-significant-srl-gains-online-math-prep-course",
@@ -59628,7 +59087,7 @@
    "learning-study-class-gains-11-and-10-percent-units": "learning-study-class-gains-11-and-10-percent-units",
    "learning-study-integrates-general-and-subject-knowledge": "learning-study-integrates-general-and-subject-knowledge",
    "learning-styles-matching-does-not-improve-learning": "learning-styles-matching-does-not-improve-learning",
-   "learning-styles-matching-yields-no-benefit": "learning-styles-matching-yields-no-benefit",
+   "learning-styles-matching-yields-no-benefit": "learning-styles-matching-does-not-improve-learning",
    "learning-support-raises-level1-physics-passrate": "learning-support-raises-level1-physics-passrate",
    "least-performed-steps-least-necessary": "least-performed-steps-least-necessary",
    "lecturer-discourse-variability-in-styles-and-routines": "lecturer-discourse-variability-in-styles-and-routines",
@@ -59752,10 +59211,10 @@
    "middle-stage-lower-complementarity-successful-therapists": "middle-stage-lower-complementarity-successful-therapists",
    "mindfulness-programs-benefit-adolescent-regulation": "mindfulness-programs-benefit-adolescent-regulation",
    "mindset-goal-orientation-correlation-student-teachers": "mindset-goal-orientation-correlation-student-teachers",
-   "minimal-guidance-ineffective-for-novices": "minimal-guidance-ineffective-for-novices",
-   "minimal-guidance-instruction-less-effective": "minimal-guidance-instruction-less-effective",
+   "minimal-guidance-ineffective-for-novices": "minimal-guidance-less-effective-for-novices",
+   "minimal-guidance-instruction-less-effective": "minimal-guidance-less-effective-for-novices",
    "minimal-guidance-less-effective-for-novices": "minimal-guidance-less-effective-for-novices",
-   "minimally-guided-instruction-less-effective-for-novices": "minimally-guided-instruction-less-effective-for-novices",
+   "minimally-guided-instruction-less-effective-for-novices": "minimal-guidance-less-effective-for-novices",
    "minnesota-alternative-schools-greatest-choice-growth": "minnesota-alternative-schools-greatest-choice-growth",
    "minnesota-charter-students-disproportionately-underserved": "minnesota-charter-students-disproportionately-underserved",
    "minnesota-choice-participation-grew-1-to-17-percent": "minnesota-choice-participation-grew-1-to-17-percent",
@@ -59780,8 +59239,8 @@
    "mnemonic-instruction-improves-recall-for-students-with-disabilities": "mnemonic-instruction-improves-recall-for-students-with-disabilities",
    "mobile-user-typology-predicts-adoption-intention": "mobile-user-typology-predicts-adoption-intention",
    "modality-effect-narration-over-text": "modality-effect-narration-over-text",
-   "modality-principle-narration-beats-on-screen-text": "modality-principle-narration-beats-on-screen-text",
-   "modality-principle-spoken-narration-beats-on-screen-text": "modality-principle-spoken-narration-beats-on-screen-text",
+   "modality-principle-narration-beats-on-screen-text": "modality-effect-narration-over-text",
+   "modality-principle-spoken-narration-beats-on-screen-text": "modality-effect-narration-over-text",
    "model-tasks-overcome-verbal-explanation-limits": "model-tasks-overcome-verbal-explanation-limits",
    "model1-outperforms-complex-model2": "model1-outperforms-complex-model2",
    "modeling-training-improves-imaginative-play": "modeling-training-improves-imaginative-play",
@@ -59810,11 +59269,11 @@
    "ms-bkt-estimates-fluctuate-less-than-bkt": "ms-bkt-estimates-fluctuate-less-than-bkt",
    "ms-bkt-performs-similarly-to-classic-bkt-on-holdout-data": "ms-bkt-performs-similarly-to-classic-bkt-on-holdout-data",
    "multicultural-approach-sensitivity-stressors": "multicultural-approach-sensitivity-stressors",
-   "multimedia-learning-more-effective-with-words-and-pictures": "multimedia-learning-more-effective-with-words-and-pictures",
-   "multimedia-principle": "multimedia-principle",
+   "multimedia-learning-more-effective-with-words-and-pictures": "multimedia-principle-improves-learning",
+   "multimedia-principle": "multimedia-principle-improves-learning",
    "multimedia-principle-improves-learning": "multimedia-principle-improves-learning",
    "multimedia-principles-benefit-novices": "multimedia-principles-benefit-novices",
-   "multimedia-words-plus-images-beat-words-alone": "multimedia-words-plus-images-beat-words-alone",
+   "multimedia-words-plus-images-beat-words-alone": "multimedia-principle-improves-learning",
    "multimodal-culturally-grounded-assessment-supports-engagement-and-agency": "multimodal-culturally-grounded-assessment-supports-engagement-and-agency",
    "multiple-choice-lures-can-be-learned-as-false-knowledge": "multiple-choice-lures-can-be-learned-as-false-knowledge",
    "multiple-contrasting-cases-support-abstraction": "multiple-contrasting-cases-support-abstraction",
@@ -59937,7 +59396,7 @@
    "parent-involvement-improves-early-reading": "parent-involvement-improves-early-reading",
    "parent-involvement-increased-three-years": "parent-involvement-increased-three-years",
    "parental-financial-investment-grades-graduation": "parental-financial-investment-grades-graduation",
-   "parental-involvement-improves-achievement": "parental-involvement-improves-achievement",
+   "parental-involvement-improves-achievement": "parent-involvement-improves-achievement",
    "parental-support-single-gender-middle-school-varies-by-attendance-zone": "parental-support-single-gender-middle-school-varies-by-attendance-zone",
    "parents-report-high-perceived-aac-benefits-nablus": "parents-report-high-perceived-aac-benefits-nablus",
    "parliamentary-rules-ban-evidence-and-omit-cross-examination": "parliamentary-rules-ban-evidence-and-omit-cross-examination",
@@ -59968,8 +59427,8 @@
    "pe-teacher-essentialism-rises-and-progressivism-falls-with-seniority": "pe-teacher-essentialism-rises-and-progressivism-falls-with-seniority",
    "pe-teachers-endorse-existentialist-education-most-and-essentialism-least": "pe-teachers-endorse-existentialist-education-most-and-essentialism-least",
    "peer-assessment-benefits-assessor": "peer-assessment-benefits-assessor",
-   "peer-assessment-improves-academic-performance": "peer-assessment-improves-academic-performance",
-   "peer-assessment-improves-achievement": "peer-assessment-improves-achievement",
+   "peer-assessment-improves-academic-performance": "peer-assessment-improves-performance",
+   "peer-assessment-improves-achievement": "peer-assessment-improves-performance",
    "peer-assessment-improves-performance": "peer-assessment-improves-performance",
    "peer-assessment-structured-criteria-improve-learning": "peer-assessment-structured-criteria-improve-learning",
    "peer-assisted-learning-improves-achievement": "peer-assisted-learning-improves-achievement",
@@ -59982,7 +59441,7 @@
    "peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score": "peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score",
    "peer-feedback-improves-work-quality": "peer-feedback-improves-work-quality",
    "peer-feedback-improves-writing": "peer-feedback-improves-writing",
-   "peer-feedback-improves-writing-outcomes": "peer-feedback-improves-writing-outcomes",
+   "peer-feedback-improves-writing-outcomes": "peer-feedback-improves-writing",
    "peer-mentoring-increases-civic-action-service-learning": "peer-mentoring-increases-civic-action-service-learning",
    "peer-mentoring-trend-social-justice-attitudes": "peer-mentoring-trend-social-justice-attitudes",
    "peer-monitoring-exceeds-social-presence": "peer-monitoring-exceeds-social-presence",
@@ -60008,7 +59467,7 @@
    "philosophy-significantly-related-teaching-style": "philosophy-significantly-related-teaching-style",
    "phoneme-awareness-stronger-predictor-than-rhyme": "phoneme-awareness-stronger-predictor-than-rhyme",
    "phonemic-awareness-training-improves-reading": "phonemic-awareness-training-improves-reading",
-   "phonics-instruction-improves-word-reading": "phonics-instruction-improves-word-reading",
+   "phonics-instruction-improves-word-reading": "systematic-phonics-improves-word-reading",
    "phonics-instruction-outperforms-whole-word-for-generalization": "phonics-instruction-outperforms-whole-word-for-generalization",
    "phonological-awareness-training-improves-reading": "phonological-awareness-training-improves-reading",
    "physical-experience-enhances-science-learning": "physical-experience-enhances-science-learning",
@@ -60050,7 +59509,7 @@
    "positive-bias-predicts-modal-level-advance": "positive-bias-predicts-modal-level-advance",
    "positive-clarity-moves-correlate-achievement": "positive-clarity-moves-correlate-achievement",
    "positive-greetings-at-the-door-improve-engagement": "positive-greetings-at-the-door-improve-engagement",
-   "positive-greetings-at-the-door-improve-engagement-and-behavior": "positive-greetings-at-the-door-improve-engagement-and-behavior",
+   "positive-greetings-at-the-door-improve-engagement-and-behavior": "positive-greetings-at-the-door-improve-engagement",
    "positive-relationships-increase-civic-engagement-intention": "positive-relationships-increase-civic-engagement-intention",
    "positive-student-response-cross-cultural-activities": "positive-student-response-cross-cultural-activities",
    "post-pscale-slight-positive-grade-correlation": "post-pscale-slight-positive-grade-correlation",
@@ -60077,7 +59536,7 @@
    "pretest-cognitive-flexibility-predicts-decoding-gains-compensates-alphabet": "pretest-cognitive-flexibility-predicts-decoding-gains-compensates-alphabet",
    "pretesting-can-harm-motivation": "pretesting-can-harm-motivation",
    "pretesting-enhances-learning": "pretesting-enhances-learning",
-   "pretesting-improves-retention": "pretesting-improves-retention",
+   "pretesting-improves-retention": "pretesting-enhances-learning",
    "pretraining-improves-transfer": "pretraining-improves-transfer",
    "price-only-procurement-criticized-by-suppliers": "price-only-procurement-criticized-by-suppliers",
    "primacy-exceeds-recency-one-trial-free-recall": "primacy-exceeds-recency-one-trial-free-recall",
@@ -60097,10 +59556,10 @@
    "process-goals-outperform-outcome-goals-for-novices": "process-goals-outperform-outcome-goals-for-novices",
    "process-tracing-measures-for-learning": "process-tracing-measures-for-learning",
    "process-writing-improves-writing-quality": "process-writing-improves-writing-quality",
-   "process-writing-instruction-improves-writing-quality": "process-writing-instruction-improves-writing-quality",
+   "process-writing-instruction-improves-writing-quality": "process-writing-improves-writing-quality",
    "production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension": "production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension",
    "productive-failure-improves-conceptual-learning": "productive-failure-improves-conceptual-learning",
-   "productive-failure-improves-learning": "productive-failure-improves-learning",
+   "productive-failure-improves-learning": "productive-failure-improves-conceptual-learning",
    "professional-dialog-reproduces-knowledge-context-logic": "professional-dialog-reproduces-knowledge-context-logic",
    "professor-relationship-quality-civic-engagement-bidirectional": "professor-relationship-quality-civic-engagement-bidirectional",
    "program-achieve-participation-builds-mentee-behaviour-management-confidence": "program-achieve-participation-builds-mentee-behaviour-management-confidence",
@@ -60155,14 +59614,14 @@
    "redesigned-unit-engaged-all-framework-elements": "redesigned-unit-engaged-all-framework-elements",
    "redundancy-decreases-tests-feedback-null-fault-diagnosis": "redundancy-decreases-tests-feedback-null-fault-diagnosis",
    "redundancy-effect-impairs-learning": "redundancy-effect-impairs-learning",
-   "redundancy-harms-learning": "redundancy-harms-learning",
+   "redundancy-harms-learning": "redundancy-effect-impairs-learning",
    "redundancy-hurts-learning": "redundancy-hurts-learning",
-   "redundancy-hurts-multimedia-learning": "redundancy-hurts-multimedia-learning",
+   "redundancy-hurts-multimedia-learning": "redundancy-effect-impairs-learning",
    "redundancy-principle": "redundancy-principle",
-   "redundancy-principle-hurts-learning": "redundancy-principle-hurts-learning",
-   "redundancy-principle-on-screen-text-hurts-learning": "redundancy-principle-on-screen-text-hurts-learning",
+   "redundancy-principle-hurts-learning": "redundancy-effect-impairs-learning",
+   "redundancy-principle-on-screen-text-hurts-learning": "redundancy-effect-impairs-learning",
    "redundancy-unrelated-to-working-alliance": "redundancy-unrelated-to-working-alliance",
-   "redundant-on-screen-text-hurts-learning": "redundant-on-screen-text-hurts-learning",
+   "redundant-on-screen-text-hurts-learning": "redundancy-effect-impairs-learning",
    "redundant-text-no-effect-posterior-probability-lesson": "redundant-text-no-effect-posterior-probability-lesson",
    "reentry-without-mentors-greatest-fuller-progress": "reentry-without-mentors-greatest-fuller-progress",
    "reflective-practice-evidence-mixed-in-professional-education": "reflective-practice-evidence-mixed-in-professional-education",
@@ -60221,9 +59680,9 @@
    "retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent": "retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent",
    "retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling": "retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling",
    "retrieval-practice-enhances-final-context-memory-and-memory-search-efficiency": "retrieval-practice-enhances-final-context-memory-and-memory-search-efficiency",
-   "retrieval-practice-enhances-long-term-retention": "retrieval-practice-enhances-long-term-retention",
+   "retrieval-practice-enhances-long-term-retention": "retrieval-practice-improves-retention",
    "retrieval-practice-improves-final-inference-and-transfer-questions": "retrieval-practice-improves-final-inference-and-transfer-questions",
-   "retrieval-practice-improves-learning": "retrieval-practice-improves-learning",
+   "retrieval-practice-improves-learning": "retrieval-practice-improves-retention",
    "retrieval-practice-improves-long-term-retention": "retrieval-practice-improves-long-term-retention",
    "retrieval-practice-improves-retention": "retrieval-practice-improves-retention",
    "retrieval-practice-improves-transfer": "retrieval-practice-improves-transfer",
@@ -60245,14 +59704,14 @@
    "rt-likelihood-trend-boys-not-girls": "rt-likelihood-trend-boys-not-girls",
    "rubrics-improve-peer-feedback-quality": "rubrics-improve-peer-feedback-quality",
    "rubrics-improve-student-work": "rubrics-improve-student-work",
-   "rubrics-improve-student-work-quality": "rubrics-improve-student-work-quality",
+   "rubrics-improve-student-work-quality": "rubrics-improve-student-work",
    "sakt-underperforms-dkt-all-datasets": "sakt-underperforms-dkt-all-datasets",
    "salomon-perkins-learning-with-versus-of-tools": "salomon-perkins-learning-with-versus-of-tools",
    "sat-underpredicts-girls-performance": "sat-underpredicts-girls-performance",
    "scaffolded-close-reading-improves-comprehension-for-struggling-readers": "scaffolded-close-reading-improves-comprehension-for-struggling-readers",
    "scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states": "scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states",
    "scaffolding-improves-learning": "scaffolding-improves-learning",
-   "scaffolding-improves-learning-outcomes": "scaffolding-improves-learning-outcomes",
+   "scaffolding-improves-learning-outcomes": "scaffolding-improves-learning",
    "scalar-instruction-interferes-with-vector-responses": "scalar-instruction-interferes-with-vector-responses",
    "scheduling-strategy-no-effect-resolved-requests-wait-time": "scheduling-strategy-no-effect-resolved-requests-wait-time",
    "scholarship-of-integration-least-examined": "scholarship-of-integration-least-examined",
@@ -60273,11 +59732,11 @@
    "secure-base-enables-exploration": "secure-base-enables-exploration",
    "seductive-details-distract-from-learning": "seductive-details-distract-from-learning",
    "seductive-details-effect": "seductive-details-effect",
-   "seductive-details-harm-learning": "seductive-details-harm-learning",
+   "seductive-details-harm-learning": "seductive-details-effect",
    "segmentation-benefits-shrink-with-expertise": "segmentation-benefits-shrink-with-expertise",
    "segmentation-boundaries-differentially-affect-statistics": "segmentation-boundaries-differentially-affect-statistics",
    "segmenting-improves-multimedia-learning": "segmenting-improves-multimedia-learning",
-   "segmenting-principle-improves-multimedia-learning": "segmenting-principle-improves-multimedia-learning",
+   "segmenting-principle-improves-multimedia-learning": "segmenting-improves-multimedia-learning",
    "sel-benefits-persist-follow-up": "sel-benefits-persist-follow-up",
    "sel-programs-improve-academic-achievement": "sel-programs-improve-academic-achievement",
    "sel-programs-improve-behavior-and-achievement": "sel-programs-improve-behavior-and-achievement",
@@ -60287,7 +59746,7 @@
    "self-analysis-knowledge-drives-teacher-change": "self-analysis-knowledge-drives-teacher-change",
    "self-assertive-integrative-equilibrium-personality": "self-assertive-integrative-equilibrium-personality",
    "self-assessment-accuracy-is-low-without-training": "self-assessment-accuracy-is-low-without-training",
-   "self-assessment-against-criteria-supports-self-regulated-learning": "self-assessment-against-criteria-supports-self-regulated-learning",
+   "self-assessment-against-criteria-supports-self-regulated-learning": "self-assessment-improves-self-regulated-learning",
    "self-assessment-improves-self-regulated-learning": "self-assessment-improves-self-regulated-learning",
    "self-both-kr-decision-shows-no-additive-motivational-informational-benefit": "self-both-kr-decision-shows-no-additive-motivational-informational-benefit",
    "self-co-regulation-highly-correlated-online-cbi": "self-co-regulation-highly-correlated-online-cbi",
@@ -60311,22 +59770,22 @@
    "self-efficacy-weakly-correlates-objective-aligned-instructional-planning": "self-efficacy-weakly-correlates-objective-aligned-instructional-planning",
    "self-explanation-improves-conceptual-understanding": "self-explanation-improves-conceptual-understanding",
    "self-explanation-improves-learning": "self-explanation-improves-learning",
-   "self-explanation-prompts-improve-learning": "self-explanation-prompts-improve-learning",
+   "self-explanation-prompts-improve-learning": "self-explanation-improves-learning",
    "self-explanation-prompts-improve-learning-from-worked-examples": "self-explanation-prompts-improve-learning-from-worked-examples",
    "self-generated-questions-positive-change-metacognitive-training": "self-generated-questions-positive-change-metacognitive-training",
    "self-monitoring-comprehension-improves-learning": "self-monitoring-comprehension-improves-learning",
    "self-monitoring-improves-on-task-behavior": "self-monitoring-improves-on-task-behavior",
    "self-monitoring-improves-self-regulation": "self-monitoring-improves-self-regulation",
    "self-questioning-improves-comprehension": "self-questioning-improves-comprehension",
-   "self-regulated-learning-improves-academic-outcomes": "self-regulated-learning-improves-academic-outcomes",
+   "self-regulated-learning-improves-academic-outcomes": "self-regulated-learning-improves-achievement",
    "self-regulated-learning-improves-achievement": "self-regulated-learning-improves-achievement",
-   "self-regulated-learning-improves-outcomes": "self-regulated-learning-improves-outcomes",
+   "self-regulated-learning-improves-outcomes": "self-regulated-learning-improves-achievement",
    "self-regulated-learning-predicts-achievement": "self-regulated-learning-predicts-achievement",
-   "self-regulated-learning-strategies-improve-achievement": "self-regulated-learning-strategies-improve-achievement",
-   "self-regulated-learning-strategies-improve-performance": "self-regulated-learning-strategies-improve-performance",
+   "self-regulated-learning-strategies-improve-achievement": "self-regulated-learning-improves-achievement",
+   "self-regulated-learning-strategies-improve-performance": "self-regulated-learning-improves-achievement",
    "self-regulated-learning-strategies-improve-writing": "self-regulated-learning-strategies-improve-writing",
-   "self-regulated-learning-strategy-instruction-improves-achievement": "self-regulated-learning-strategy-instruction-improves-achievement",
-   "self-regulation-strategy-instruction-improves-academic-performance": "self-regulation-strategy-instruction-improves-academic-performance",
+   "self-regulated-learning-strategy-instruction-improves-achievement": "self-regulated-learning-improves-achievement",
+   "self-regulation-strategy-instruction-improves-academic-performance": "self-regulated-learning-improves-achievement",
    "self-regulation-strategy-instruction-improves-achievement": "self-regulation-strategy-instruction-improves-achievement",
    "self-serving-attribution-bias-skilled-athletes": "self-serving-attribution-bias-skilled-athletes",
    "self-talk-improves-learning-and-performance": "self-talk-improves-learning-and-performance",
@@ -60379,8 +59838,8 @@
    "sms-communication-strengthens-patient-provider-relationships": "sms-communication-strengthens-patient-provider-relationships",
    "sns-groups-support-informal-design-learning": "sns-groups-support-informal-design-learning",
    "sns-learning-unbounded-space-time": "sns-learning-unbounded-space-time",
-   "social-emotional-learning-improves-achievement": "social-emotional-learning-improves-achievement",
-   "social-emotional-learning-programs-improve-achievement": "social-emotional-learning-programs-improve-achievement",
+   "social-emotional-learning-improves-achievement": "sel-programs-improve-behavior-and-achievement",
+   "social-emotional-learning-programs-improve-achievement": "sel-programs-improve-behavior-and-achievement",
    "social-interaction-precedes-self-consciousness": "social-interaction-precedes-self-consciousness",
    "social-interdependence-predicts-performance": "social-interdependence-predicts-performance",
    "social-media-tools-misappropriated-as-social-learning": "social-media-tools-misappropriated-as-social-learning",
@@ -60392,16 +59851,16 @@
    "socratic-dialogue-needs-efficiency-and-summaries": "socratic-dialogue-needs-efficiency-and-summaries",
    "somatic-return-revisions-thinking": "somatic-return-revisions-thinking",
    "source-credibility-effect-holds-unintelligible-messages": "source-credibility-effect-holds-unintelligible-messages",
-   "spaced-practice-improves-long-term-retention": "spaced-practice-improves-long-term-retention",
+   "spaced-practice-improves-long-term-retention": "spaced-practice-improves-retention",
    "spaced-practice-improves-retention": "spaced-practice-improves-retention",
    "spaced-repetition-improves-retention": "spaced-repetition-improves-retention",
    "spaced-retrieval-improves-retention": "spaced-retrieval-improves-retention",
    "spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall": "spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall",
    "spaced-retrieval-outperforms-restudy": "spaced-retrieval-outperforms-restudy",
-   "spaced-retrieval-practice-improves-retention": "spaced-retrieval-practice-improves-retention",
-   "spacing-improves-long-term-retention": "spacing-improves-long-term-retention",
-   "spacing-improves-retention": "spacing-improves-retention",
-   "spatial-contiguity-improves-learning": "spatial-contiguity-improves-learning",
+   "spaced-retrieval-practice-improves-retention": "spaced-retrieval-improves-retention",
+   "spacing-improves-long-term-retention": "spaced-practice-improves-retention",
+   "spacing-improves-retention": "spaced-practice-improves-retention",
+   "spatial-contiguity-improves-learning": "split-attention-effect-degrades-learning",
    "spatial-skills-improve-through-block-building": "spatial-skills-improve-through-block-building",
    "spatial-training-improves-math-performance": "spatial-training-improves-math-performance",
    "speaking-dominates-concurrent-oral-scale": "speaking-dominates-concurrent-oral-scale",
@@ -60414,8 +59873,8 @@
    "spectral-bkt-alternative-configurations-no-improvement": "spectral-bkt-alternative-configurations-no-improvement",
    "spectral-bkt-beats-standard-bkt-accuracy-kdd2010": "spectral-bkt-beats-standard-bkt-accuracy-kdd2010",
    "split-attention-effect-degrades-learning": "split-attention-effect-degrades-learning",
-   "split-attention-effect-impairs-learning": "split-attention-effect-impairs-learning",
-   "split-attention-effect-integration-improves-learning": "split-attention-effect-integration-improves-learning",
+   "split-attention-effect-impairs-learning": "split-attention-effect-degrades-learning",
+   "split-attention-effect-integration-improves-learning": "split-attention-effect-degrades-learning",
    "spontaneous-additive-strategy-relates-to-multiplicative-reasoning": "spontaneous-additive-strategy-relates-to-multiplicative-reasoning",
    "spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry": "spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry",
    "spontaneous-contradiction-discovery-higher-american-than-soviet": "spontaneous-contradiction-discovery-higher-american-than-soviet",
@@ -60504,7 +59963,7 @@
    "students-report-engagement-after-mle-lessons": "students-report-engagement-after-mle-lessons",
    "students-report-increased-motivation-style-informed-elt": "students-report-increased-motivation-style-informed-elt",
    "students-report-simulation-lesson-fun-and-concept-figuring": "students-report-simulation-lesson-fun-and-concept-figuring",
-   "students-shift-multiple-times-between-distance-meanings": "students-shift-multiple-times-between-distance-meanings",
+   "students-shift-multiple-times-between-distance-meanings": "student-understanding-alternates-between-local-coherences-tickertape",
    "students-start-semester-more-familiar-with-integration-constants-method-than-limits-method": "students-start-semester-more-familiar-with-integration-constants-method-than-limits-method",
    "studies-still-compare-active-learning-versus-lecture": "studies-still-compare-active-learning-versus-lecture",
    "studio-authentic-motivation-beyond-grades": "studio-authentic-motivation-beyond-grades",
@@ -60563,7 +60022,7 @@
    "teacher-concern-progression-and-retreat": "teacher-concern-progression-and-retreat",
    "teacher-effectiveness-compounds-over-consecutive-years": "teacher-effectiveness-compounds-over-consecutive-years",
    "teacher-expectancy-beliefs-shape-motivation-to-use-ai": "teacher-expectancy-beliefs-shape-motivation-to-use-ai",
-   "teacher-expectancy-effects-influence-student-achievement": "teacher-expectancy-effects-influence-student-achievement",
+   "teacher-expectancy-effects-influence-student-achievement": "teacher-expectation-effects-on-achievement",
    "teacher-expectation-effects-on-achievement": "teacher-expectation-effects-on-achievement",
    "teacher-explicitly-discusses-equation-forms-to-widen-kindergarten-acceptance": "teacher-explicitly-discusses-equation-forms-to-widen-kindergarten-acceptance",
    "teacher-growth-three-areas-guiding-preschool-math": "teacher-growth-three-areas-guiding-preschool-math",
@@ -60609,10 +60068,10 @@
    "test-discriminating-value-cv": "test-discriminating-value-cv",
    "test-scores-gate-gifted-program-entry": "test-scores-gate-gifted-program-entry",
    "test-scores-prior-coding-experience-predict-lc101-persistence": "test-scores-prior-coding-experience-predict-lc101-persistence",
-   "testing-effect-improves-learning": "testing-effect-improves-learning",
-   "testing-effect-improves-retention": "testing-effect-improves-retention",
-   "testing-effect-retrieval-practice-improves-retention": "testing-effect-retrieval-practice-improves-retention",
-   "testing-improves-retention": "testing-improves-retention",
+   "testing-effect-improves-learning": "retrieval-practice-improves-retention",
+   "testing-effect-improves-retention": "retrieval-practice-improves-retention",
+   "testing-effect-retrieval-practice-improves-retention": "retrieval-practice-improves-retention",
+   "testing-improves-retention": "retrieval-practice-improves-retention",
    "testlet-proportionality-restrictions-implausible": "testlet-proportionality-restrictions-implausible",
    "textbook-dissatisfaction-practice-problems-not-focus": "textbook-dissatisfaction-practice-problems-not-focus",
    "thai-overuse-because-l1-influence": "thai-overuse-because-l1-influence",
@@ -60677,7 +60136,7 @@
    "uneven-icap-mode-distribution-across-units": "uneven-icap-mode-distribution-across-units",
    "uneven-unit-ai-adoption-shaped-by-industry-alignment": "uneven-unit-ai-adoption-shaped-by-industry-alignment",
    "unfolding-knowledge-elements-produces-deeper-conceptual-learning-opportunities": "unfolding-knowledge-elements-produces-deeper-conceptual-learning-opportunities",
-   "unguided-discovery-less-effective-than-guided-instruction": "unguided-discovery-less-effective-than-guided-instruction",
+   "unguided-discovery-less-effective-than-guided-instruction": "minimal-guidance-less-effective-for-novices",
    "unified-talent-data-system-generates-prioritization-insights": "unified-talent-data-system-generates-prioritization-insights",
    "unintelligible-beats-no-message-control": "unintelligible-beats-no-message-control",
    "unintelligible-messages-increase-idiosyncratic-elaboration": "unintelligible-messages-increase-idiosyncratic-elaboration",
@@ -60732,11 +60191,11 @@
    "witkin-orientation-tests-individual-differences-self-consistency": "witkin-orientation-tests-individual-differences-self-consistency",
    "word-frequency-shifts-in-reflections": "word-frequency-shifts-in-reflections",
    "word-noun-complexity-connected-sentence-noun-competitive-finnish": "word-noun-complexity-connected-sentence-noun-competitive-finnish",
-   "words-and-pictures-better-than-words-alone": "words-and-pictures-better-than-words-alone",
+   "words-and-pictures-better-than-words-alone": "multimedia-principle-improves-learning",
    "worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps": "worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps",
    "worked-example-problem-sequences": "worked-example-problem-sequences",
    "worked-examples-example-problem-sequences": "worked-examples-example-problem-sequences",
-   "worked-examples-expertise-reversal": "worked-examples-expertise-reversal",
+   "worked-examples-expertise-reversal": "worked-examples-less-effective-with-expertise",
    "worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game": "worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game",
    "worked-examples-improve-math-performance": "worked-examples-improve-math-performance",
    "worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game": "worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game",
@@ -60751,8 +60210,8 @@
    "wpa-conflict-responses-somatic-physical-trope": "wpa-conflict-responses-somatic-physical-trope",
    "wpa-position-feminized-including-male-wpas": "wpa-position-feminized-including-male-wpas",
    "writing-improves-mathematical-understanding": "writing-improves-mathematical-understanding",
-   "writing-strategy-instruction-improves-writing-quality": "writing-strategy-instruction-improves-writing-quality",
-   "writing-to-learn-improves-content-learning": "writing-to-learn-improves-content-learning",
+   "writing-strategy-instruction-improves-writing-quality": "strategy-instruction-improves-writing-quality",
+   "writing-to-learn-improves-content-learning": "writing-to-learn-improves-understanding",
    "writing-to-learn-improves-understanding": "writing-to-learn-improves-understanding",
    "writing-uniquely-corresponds-features-successful-learning": "writing-uniquely-corresponds-features-successful-learning",
    "wrong-then-request-joint-effect-higher": "wrong-then-request-joint-effect-higher",

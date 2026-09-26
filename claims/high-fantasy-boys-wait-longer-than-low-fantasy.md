@@ -41,4 +41,4 @@ Singer's experiment, as summarized in the proceedings, divided 40 boys aged 6 to
 
 
 ## Related Claims
--
+- [Toy structure made little difference to imaginative play; fantasy predisposition may be already pretty well formed by age five](toy-structure-little-difference-fantasy-predisposition.md) — related

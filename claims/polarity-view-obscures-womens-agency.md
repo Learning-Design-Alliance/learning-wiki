@@ -41,4 +41,8 @@ Authors' interpretive argument about the practical consequence of the polarity f
 
 
 ## Related Claims
--
+- [Agency develops only within an intensely communal (attachment) relationship](agency-evolves-within-communal-relationship.md) — related
+- [Phase analysis showed Ethan leading the interaction with sameness in Communion and oppositeness in Agency, while Sam led in Communion but followed in Agency](phase-lead-lag-differs-between-teachers.md) — related
+- [Attachment (communion) contains the fear and anxiety associated with individual action (agency)](communion-contains-agentic-distress.md) — related
+- [In attachment theory, the child's exploration is the direct outcome of security from an effective attachment relationship](secure-base-enables-exploration.md) — related
+- [Complex systems function properly only when self-assertive and integrative tendencies are in equilibrium](self-assertive-integrative-equilibrium-personality.md) — related

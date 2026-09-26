@@ -41,4 +41,4 @@ Theoretical argument in the paper's conclusion: correctness-based evaluation is 
 
 
 ## Related Claims
--
+- [Historical-method inquiry tasks center on uniformitarianism and taxonomy construction, and evaluating independent lines of inquiry for convergence is entirely absent](historical-method-uniformitarianism-dominates.md) — related

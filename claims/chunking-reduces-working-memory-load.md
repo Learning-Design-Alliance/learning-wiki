@@ -80,3 +80,6 @@ This has a direct design consequence: chunking imposed from outside only helps w
 
 ## Related Claims
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md)
+- [Clear Structure Improves Learning](clear-structure-improves-learning.md) — related
+- [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related
+- [Deliberate practice can expand short-term memory capacity beyond the conventional seven-item limit](deliberate-practice-expands-memory-capacity.md) — related

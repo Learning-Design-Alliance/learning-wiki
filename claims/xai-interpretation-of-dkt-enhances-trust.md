@@ -42,3 +42,4 @@ Narrative review of Lu et al.'s use of explainable AI to interpret deep learning
 
 ## Related Claims
 - [Deep Learning Knowledge Tracing Outperforms But Lacks Interpretability](deep-learning-knowledge-tracing-outperforms-but-lacks-interpretability.md)
+- [The review reports that AI detection tools disproportionately flag multilingual writers, which the authors frame as digital structural violence](detection-tools-disproportionately-flag-multilingual-writers.md) — related

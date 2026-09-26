@@ -56,3 +56,8 @@ A meta-analysis of STEM-learning studies published 2005–2020 (35 articles, 160
 - [Self-explanation improves learning.](../claims/self-explanation-improves-learning.md) — a competing generative strategy; comparisons with drawing are a key open question
 - [Annotating improves learning.](../claims/annotating-improves-learning.md) — a lower-cost generative alternative that pairs naturally with drawing
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) — model illustrations paired with drawing scaffold accurate pictorial representation, paralleling example-based support
+- [Generative (Constructive) engagement by young children produces better learning than attentive (Passive) engagement](constructive-beats-passive-young-children.md) — related
+- [Decorative Illustrations Do Not Improve Learning](decorative-illustrations-do-not-improve-learning.md) — related
+- [Teaching Others Generative Strategy](teaching-others-generative-strategy.md) — related
+- [Concept mapping improves learning](concept-mapping-improves-learning.md) — related
+- [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — related

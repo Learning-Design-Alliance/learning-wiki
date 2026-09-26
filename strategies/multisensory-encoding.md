@@ -12,7 +12,7 @@ generated:
 # Multisensory Encoding
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (2 for, 1 mixed, 4 against) · 13 studies, `q2`–`q4` · 5 of 13 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (2 for, 1 mixed, 4 against) · 14 studies, `q2`–`q4` · 6 of 14 report an effect size · 2 claims rest on one study
 
 ## Description
 Multisensory encoding presents the same core content through more than one sensory modality — most commonly combining visual and auditory channels, but also including gesture, movement, and tactile experience. The goal is not decoration or redundancy but complementary representations: each channel carries part of the load or reinforces the same structure in a different format.
@@ -29,7 +29,7 @@ Multisensory presentation works because separate processing channels for visual 
 
 #### Constraints
 - Redundant presentation — identical text spoken and displayed — hurts learning compared with narration alone [Redundant on-screen text with narration impairs learning.](../claims/redundancy-effect-impairs-learning.md) [-S]
-- Splitting attention between two visual sources (diagram plus text describing it) forces costly integration [Split attention between sources impairs learning.](../claims/split-attention-effect-impairs-learning.md) [-S]
+- Splitting attention between two visual sources (diagram plus text describing it) forces costly integration [Split attention between sources impairs learning.](../claims/split-attention-effect-degrades-learning.md) [-S]
 - Benefits shrink for learners with strong prior knowledge, who can integrate representations on their own [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 - For learners with sensory processing differences, added modalities can distract rather than support; modality choice must be adjustable
 

@@ -41,4 +41,5 @@ Descriptive comparison of four competing structural specifications (reciprocal, 
 
 
 ## Related Claims
--
+- [In an empirical comparison on a testlet-based English assessment test, the bifactor model is preferred over the second-order and unidimensional 2PL models by both AIC and BIC](bifactor-model-preferred-aic-bic-testlet-test.md) — related
+- [Digital use intensity attenuates the positive EF–reappraisal association, more pronouncedly on the EF→ER pathway than the reverse](digital-intensity-attenuates-ef-reappraisal-link.md) — related

@@ -59,3 +59,7 @@ The Conclusion restates the direction of the survey's school-type result, based 
 
 ## Related Claims
 - [Pe Teachers Endorse Existentialist Education Most And Essentialism Least](pe-teachers-endorse-existentialist-education-most-and-essentialism-least.md)
+- [Female physical education teachers endorse progressivism and existentialist education more, and male teachers endorse perennialism and essentialism more, with no significant gender difference for reconstructivism](pe-teacher-educational-philosophy-beliefs-differ-by-gender.md) — related
+- [Physical education teachers studying in a graduate program endorse progressivism, perennialism and essentialism more than teachers with an undergraduate degree](graduate-educated-pe-teachers-endorse-progressivism-perennialism-and-essentialism-more.md) — related
+- [Physical education teachers with more professional seniority hold weaker progressivism, existentialist education and reconstructivism beliefs and stronger essentialism beliefs, with no significant seniority difference for perennialism](pe-teacher-essentialism-rises-and-progressivism-falls-with-seniority.md) — related
+- [Teacher-centered philosophies correlate with formal-authority teaching styles](teacher-centered-philosophies-correlate-formal-authority.md) — related

@@ -41,4 +41,7 @@ Observational videotape study of 18 certified elementary physical education teac
 
 
 ## Related Claims
--
+- [Successful motor engagement (ALT-PE) increased gradually across expertise groups while remaining statistically non-significant](alt-pe-increases-across-expertise-groups.md) — a narrower finding that bears on this claim
+- [Negative feedback was low across all expertise groups with a small increase for proficient/expert teachers](negative-feedback-low-small-expert-increase.md) — a narrower finding that bears on this claim
+- [Students' off-task behavior was very low in every expertise group with little change across groups](off-task-low-across-expertise-groups.md) — a narrower finding that bears on this claim
+- [The ratio of SMM time to ALT-PE decreased gradually with increasing expertise level](smm-alt-pe-ratio-decreases-with-expertise.md) — related

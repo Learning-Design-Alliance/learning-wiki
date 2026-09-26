@@ -42,3 +42,4 @@ Narrative review attributing this to Pu and Becker: attentive knowledge tracing 
 
 ## Related Claims
 - [Deep Learning Knowledge Tracing Outperforms But Lacks Interpretability](deep-learning-knowledge-tracing-outperforms-but-lacks-interpretability.md)
+- [Replacing concept/skill tags with question identifiers significantly degrades DKT and DKVMN performance, while DynEmb tracks knowledge using pretrained question embeddings instead of tags](dynemb-tracks-knowledge-without-skill-tags.md) — related

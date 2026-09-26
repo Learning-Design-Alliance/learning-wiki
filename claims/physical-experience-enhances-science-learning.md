@@ -72,3 +72,5 @@ Undergraduates studying heat and temperature were assigned to physical manipulat
 - [Active learning improves exam performance](../claims/active-learning-improves-exam-performance.md) — physical experience is most effective as one structured form of active learning.
 - [Analogical reasoning improves transfer](../claims/analogical-reasoning-improves-transfer.md) — concrete physical experiences support transfer when explicitly mapped to abstract principles.
 - [Cognitive overload degrades learning](../claims/cognitive-overload-degrades-learning.md) — poorly designed hands-on tasks can add extraneous load and undermine the intended benefit.
+- [Hands-on learning improves achievement](hands-on-learning-improves-achievement.md) — related
+- [The timing of acute exercise relative to learning modulates memory consolidation](acute-exercise-timing-memory.md) — related

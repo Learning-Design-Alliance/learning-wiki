@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: peer-feedback-improves-writing
+aliases: [peer-feedback-improves-writing-outcomes]
 evidence_strength:
 sources:
   - id: huisman-et-al-2019
@@ -50,6 +51,14 @@ This meta-analysis synthesized 24 quantitative studies of higher-education stude
 
 **Open questions.** Whether giving feedback benefits the giver as much as receiving benefits the receiver, and how feedback quality mediates writing gains, remain active areas of study. This page needs primary evidence entries before its strength can be rated.
 
+*Merged from “Peer Feedback Improves Writing Outcomes” (peer-feedback-improves-writing-outcomes):* **Mechanism.** Peer feedback is hypothesized to work through two routes: receiving feedback prompts revision, and *giving* feedback develops the ability to evaluate writing against criteria — a form of assessment literacy that transfers to self-regulation of one's own drafting [+W]. The giving side is often the more durable benefit and is easily lost when peer review is treated as a free substitute for instructor feedback rather than as a learning activity in its own right. In this sense peer review functions as a form of [assessment for learning](../principles/assessment-for-learning.md): the evaluative act itself, not just the comments received, drives learning. It also engages students in [argumentation](../elements/argumentation.md) — justifying evaluative claims about a peer's text with reasons and evidence — which may explain why trained reviewers show gains in their own drafting [+W].
+
+**Moderators.** Effects depend heavily on implementation quality. Peer feedback tends to help when reviewers are trained with rubrics or exemplars, when feedback is specific and actionable rather than evaluative ("add a topic sentence here" vs. "good job"), and when writers are required to act on it through revision [+M]. Unstructured or purely social peer commenting frequently produces vague praise that has little effect on revision quality [-M]. Trust and psychological safety matter: students discount feedback from peers they perceive as unqualified, and anonymous or low-stakes formats can mitigate this [~W]. Scaffolding reviewers with structured [rubrics](../strategies/rubrics.md) or [checklists](../strategies/checklists.md) is the single most reliable quality lever.
+
+**Boundary conditions.** Peer feedback is weakest for high-stakes correctness issues (grammar, disciplinary conventions) where peers lack authority [-M], and strongest for audience awareness, clarity, and global structure [+M]. It complements rather than replaces instructor feedback, and its workload trade-off — many reviewers per class instead of one — is only a gain if review quality is scaffolded. Where reviewers are untrained and criteria are absent, the practice risks consuming class time without improving drafts [-M]. Because reviewing others' texts imposes significant demands on limited working memory, untrained reviewers may experience [cognitive overload](../claims/cognitive-overload-degrades-learning.md) that degrades comment quality; training and criteria reduce this load [~W].
+
+**Open questions.** Most studies measure immediate revision quality rather than long-term writing development, and the relative contribution of giving versus receiving feedback remains under-quantified. Evidence entries for this claim still need to be added; until then, treat the claim as provisionally supported by the formative-assessment literature rather than by a specific peer-feedback trial.
+
 ## Related Claims
 
 - [Assessment for Learning improves achievement](assessment-for-learning-improves-achievement.md) — peer feedback is a core formative-assessment practice
@@ -57,3 +66,12 @@ This meta-analysis synthesized 24 quantitative studies of higher-education stude
 - [Authentic audiences improve student work](authentic-audiences-improve-student-work.md) — a real peer audience gives writing genuine communicative purpose
 - [Self-regulated learning](../theories/self-regulated-learning.md) — acting on feedback requires self-regulatory monitoring and revision
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — rubrics and exemplars manage the load of evaluating unfamiliar texts
+- [Active learning improves exam performance](active-learning-improves-exam-performance.md) — peer feedback replaces passive receipt of comments with active evaluative work
+- [Argumentation improves reasoning](argumentation-improves-reasoning.md) — giving feedback requires justified evaluative arguments about a text
+- [Acting on the collaborative writing recommendations is argued to produce active student writers who attend to what their peers say](collaborative-writing-recommendations-argued-to-produce-active-student-writers.md) — related
+- [Online peer assessment shifts instructional assessment from teacher-controlled to a combination of teacher assessment and student peer assessment](online-peer-assessment-shifts-assessment-control-to-students.md) — related
+- [Peer Assessment Improves Performance](peer-assessment-improves-performance.md) — a broader claim this one bears on
+- [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — related
+- [Peer Feedback Improves Work Quality](peer-feedback-improves-work-quality.md) — a broader claim this one bears on
+- [Personalized Normative Feedback Corrects Misperceived Norms](personalized-normative-feedback-corrects-misperceived-norms.md) — related
+- [Summarization Improves Learning](summarization-improves-learning.md) — related

@@ -41,4 +41,8 @@ Private ratings to the question of how much subjects wanted the experimenter to 
 
 
 ## Related Claims
--
+- [Aware externals accounted for the conditioning effect, while aware internals, unaware subjects, and controls showed essentially no change](aware-externals-account-for-conditioning-effect.md) — related
+- [Experimenter locus-of-control status did not affect subjects' conditioning performance, contrary to the initial hypothesis](experimeter-ie-status-null-conditioning.md) — related
+- [I-E scale scores correlate with conditioning performance for aware subjects but not for unaware subjects](ie-scores-correlate-conditioning-aware-only.md) — related
+- [Internal experimenters were perceived as significantly more potent than external experimenters, and external subjects rated their experimenters higher on Activity](ie-experimenters-perceived-more-potent.md) — related
+- [The study found no evidence that learning without awareness is a demonstrable phenomenon in verbal conditioning](no-learning-without-awareness-verbal-conditioning.md) — related

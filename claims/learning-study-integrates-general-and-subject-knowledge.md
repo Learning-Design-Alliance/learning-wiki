@@ -41,4 +41,7 @@ Author's interpretation of the learning study with five secondary teachers: teac
 
 
 ## Related Claims
--
+- [Learning objects clearly lifted forward during a lesson resulted in pupils' learning, even when not the intended learning object](clearly-lifted-learning-object-yields-pupil-learning.md) — related
+- [Communication problems between university and school regarding epistemological and ontological questions affect teaching and learning of subject knowledge](epistemological-communication-problems-between-organizations.md) — related
+- [Teacher metacognition in PLCs appears at both a lower level (reflecting on what one does) and a higher level (reflecting on how one reflects)](plc-metacognition-lower-and-higher-levels.md) — related
+- [Teachers experienced the theory of variation as a new way of thinking compared to variation in methods](theory-of-variation-new-way-of-thinking-for-teachers.md) — related

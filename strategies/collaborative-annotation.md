@@ -29,7 +29,7 @@ Collaborative annotation combines the generative processing of [Annotating](../p
 - A follow-up structure that uses the annotations — class discussion, synthesis writing, or peer reply requirements ([Class Discussion](../elements/class-discussion.md))
 
 #### Constraints
-- Annotation volume is not quality: unstructured tasks produce shallow highlighting and "me too" comments [Highlighting and underlining are among the least effective study techniques when used alone.](../claims/highlighting-alone-is-ineffective.md) [-M]
+- Annotation volume is not quality: unstructured tasks produce shallow highlighting and "me too" comments [Highlighting and underlining are among the least effective study techniques when used alone.](../claims/highlighting-low-utility.md) [-M]
 - Social loafing emerges in large groups when individual contributions are not identifiable [-M]
 - Heavy annotation load on a dense text can fragment attention and degrade comprehension of the whole [Cognitive overload degrades learning outcomes.](../claims/cognitive-overload-degrades-learning.md) [~M]
 - Asynchronous annotation without instructor synthesis can leave misconceptions uncorrected [-M]

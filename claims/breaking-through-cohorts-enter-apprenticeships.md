@@ -41,4 +41,5 @@ Program-leader report on outcomes of the first two cohorts of the CNMCC Breaking
 
 
 ## Related Claims
--
+- [HackerRank test scores and prior coding experience are significantly associated with increased odds of persistence across both the coursework and apprenticeship phases of the LC101 program](test-scores-prior-coding-experience-predict-lc101-persistence.md) — related
+- [Educational attainment is not significantly associated with persistence in either the coursework or apprenticeship phase of the LC101 program](educational-attainment-not-associated-lc101-persistence.md) — related

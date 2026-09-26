@@ -76,3 +76,6 @@ Summary of Bonferroni-corrected Mann-Whitney U follow-ups in the same survey: as
 
 ## Related Claims
 - [Graduate Educated Pe Teachers Endorse Progressivism Perennialism And Essentialism More](graduate-educated-pe-teachers-endorse-progressivism-perennialism-and-essentialism-more.md)
+- [Physical education teachers working in high school endorse perennialism more than those in secondary school, with no significant school-type difference in the other four philosophies](high-school-pe-teachers-endorse-perennialism-more-than-secondary-school-teachers.md) — related
+- [Female physical education teachers endorse progressivism and existentialist education more, and male teachers endorse perennialism and essentialism more, with no significant gender difference for reconstructivism](pe-teacher-educational-philosophy-beliefs-differ-by-gender.md) — related
+- [In a survey of physical education and sports teachers, existentialist education is the most endorsed and essentialism the least endorsed of five educational philosophies](pe-teachers-endorse-existentialist-education-most-and-essentialism-least.md) — related

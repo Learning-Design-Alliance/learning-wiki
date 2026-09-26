@@ -41,4 +41,8 @@ Exploratory factor analysis of polychoric correlation matrices in Stata, with sc
 
 
 ## Related Claims
--
+- [The three composite scoring methods yield differently related ability estimates, with the UIRT oral composite correlating far more with Speaking than Listening estimates](composite-score-estimates-correlation-patterns.md) — related
+- [Model-fit statistics disagree on the best calibration for the Oral scale in the lower elementary population but agree on a two-dimensional model for the upper elementary population](mirt-model-fit-inconsistent-lower-elementary.md) — related
+- [In concurrent unidimensional calibration the Speaking subtest dominates the Oral scale score while Listening and Speaking correlate only moderately](speaking-dominates-concurrent-oral-scale.md) — related
+- [Achievement dimensionality appears to change from pretest to end-of-course testing, questioning unidimensional ICC measurement of individual growth during instruction](achievement-dimensionality-changes-during-instruction.md) — related
+- [Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content](synthesis-evaluation-measure-general-ability-lower-grades.md) — related

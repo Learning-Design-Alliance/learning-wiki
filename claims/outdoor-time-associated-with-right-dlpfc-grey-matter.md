@@ -41,4 +41,6 @@ The protocol attributes this finding to a secondary study of the earlier Day2Day
 
 
 ## Related Claims
--
+- [Urban living is associated with higher activity in stress-related brain regions and reduced grey matter in dorsolateral prefrontal and pregenual anterior cingulate cortex after urban exposure during upbringing](urban-living-linked-to-stress-brain-activity-and-grey-matter-deficits.md) — related
+- [Time of day and days since the first scan are robust predictors of within-person variance in grey matter and total cortex volume](time-of-day-and-scan-interval-predict-within-person-brain-volume-variance.md) — related
+- [Intensive navigational practice is associated with larger posterior hippocampus gray matter in taxi drivers](intensive-practice-associated-with-hippocampus-gray-matter.md) — related

@@ -46,3 +46,10 @@ This is a single-case ethnography; every finding here describes one student's tr
 
 ## Related Claims
 - (none yet linked)
+- [A demonstration-plus-guided-inquiry-plus-computational-model sequence helped most students predict increasing gravitational-wave frequency, but only about half predicted increasing amplitude](guided-inquiry-computational-model-overcomes-amplitude-misconception.md) — related
+- [Repeating one short lesson six times with small groups gave the mentee repeated opportunities to review and modify her classroom management strategies and build confidence](repeated-short-lessons-scaffold-mentee-behaviour-management.md) — related
+- [A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development](structured-feedback-reflection-cycle-mentoring.md) — related
+- [Embodied dance improvisation supports physics engagement and sense-making](embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) — related
+- [Over 50% of introductory physics students describe Rolodex equation matching at the start of the semester](rolodex-equation-matching-dominates-initial-beliefs.md) — related
+- [Physics students can execute Legendre-transform rules but express discomfort with the transform as a general mathematical tool](students-discomfort-legendre-transform-general-tool.md) — related
+- [Inquiry-based physics discussion supported peer co-construction of mechanistic explanations, distributing authority of knowledge and language among students](third-space-distributes-authority-among-students.md) — related

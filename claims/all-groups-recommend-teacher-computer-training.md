@@ -41,4 +41,9 @@ Recommendation question in the same Ghana survey of 395 participants: 39% of stu
 
 
 ## Related Claims
--
+- [More students than teachers and education officers recommend training students to use the computer to learn without the teacher](students-favour-training-students-computer-without-teacher.md) — related
+- [Teachers, rather than students, want teachers trained to design instruction for effective teaching](teachers-rather-than-students-want-instructional-design-training.md) — related
+- [Schools spend far less per student on teacher technology training than on hardware, software, and connectivity, below the recommended 30 percent share](technology-training-spending-inadequate.md) — related
+- [Ghanaian education officers show no significant differences in their responses on computer versus teacher implementation of the first five principles](ghanaian-education-officers-no-significant-response-differences.md) — related
+- [Ghanaian teachers show no significant agreement on whether the computer outperforms the teacher in implementing the first five principles](ghanaian-teachers-no-significant-agreement-computer-versus-teacher.md) — related
+- [SEP national monitoring reports indicate insufficient teacher training for the reform: 35% of surveyed teachers requested training in planning and design of didactic activities, and about 30% of directors rated induction-workshop information as poorly adequate or inadequate](reform-teacher-training-insufficient.md) — related

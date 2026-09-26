@@ -41,4 +41,7 @@ Scoring-method comparison (Research Report 79-3) scoring achievement test data a
 
 
 ## Related Claims
--
+- [Adaptive testing yields more precise achievement-level estimates than conventional classroom tests while using fewer items](adaptive-testing-more-precise-achievement-measurement.md) — related
+- [Adaptive achievement tests achieve effectively higher validity than conventional tests by reaching equal validity with 25% to 35% fewer items](adaptive-tests-equal-validity-fewer-items.md) — related
+- [The same achievement variable is measurable up to one month after instruction, supporting ICC-based retention measurement](icc-retention-measurement-supported-one-month.md) — related
+- [Immediate knowledge of results during computerized achievement testing produces essentially no systematic differences in achievement estimates or response dimensionality](knowledge-of-results-no-effect-achievement-test-dimensionality.md) — related

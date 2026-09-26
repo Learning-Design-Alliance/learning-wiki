@@ -41,4 +41,8 @@ Exploratory factor analysis (Table 7) of the 455-respondent survey. The article 
 
 
 ## Related Claims
--
+- [Financial governance shows no statistically significant direct effect on governance effectiveness when modeled with other factors](finance-no-significant-direct-effect-governance.md) — related
+- [The original global citizenship scale is employable in a developing-country university context after adjustments to social responsibility and global competence](global-citizenship-scale-employable-developing-context.md) — related
+- [The policy-legal framework is the second strongest predictor of governance effectiveness in Vietnamese universities](policy-legal-second-predictor-governance.md) — related
+- [Leadership competence is the strongest predictor of governance effectiveness in Vietnamese universities](leadership-strongest-predictor-vietnamese-governance.md) — related
+- [The social responsibility measurement model required the most item removals, with global justice and personal responsibility items dropped in the Vietnamese context](social-responsibility-model-items-removed-vietnam.md) — related

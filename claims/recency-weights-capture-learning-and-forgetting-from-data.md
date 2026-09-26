@@ -41,4 +41,6 @@ A hypothetical worked example (Section 3) tracking three fictitious students ove
 
 
 ## Related Claims
--
+- [MS-BKT mastery estimates fluctuate less than classic BKT and avoid over-high estimates after long incorrect runs, in fictitious-student comparisons](ms-bkt-estimates-fluctuate-less-than-bkt.md) — related
+- [MS-BKT performs similarly to classic BKT on held-out data, with classic BKT better on most of six datasets but differences not very large](ms-bkt-performs-similarly-to-classic-bkt-on-holdout-data.md) — related
+- [Models able to weight performance by recency fit better on the Assistments and KDD datasets, without explicit memory-decay terms being necessary](recency-weighting-models-better-assistments-kdd.md) — a broader claim this one bears on

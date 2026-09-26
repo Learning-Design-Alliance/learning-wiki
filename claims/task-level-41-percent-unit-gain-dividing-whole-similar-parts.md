@@ -41,4 +41,4 @@ Task-level analysis of the pre/post tests in class 6B showed a 41 percent-unit i
 
 
 ## Related Claims
--
+- [In the learning study, class post-test scores increased 11 and 10 percent units in the first and last lessons but not in the middle class](learning-study-class-gains-11-and-10-percent-units.md) — a broader claim this one bears on

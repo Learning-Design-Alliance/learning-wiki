@@ -40,7 +40,7 @@ Ninety-three participants were randomly assigned to a pretraining group (who wat
 
 ## Discussion
 
-**Mechanism.** Pretraining is one of the classic cognitive load management techniques: by naming key concepts and their characteristics before the main lesson, it reduces the extraneous processing learners would otherwise spend simultaneously building a mental model of the system and deciphering new terminology. This aligns with [Cognitive Load Theory](../theories/cognitive-load-theory.md) and with the broader claim that [cognitive overload degrades learning](cognitive-overload-degrades-learning.md). Pretraining is closely related to [advance organizers](../elements/advance-organizers.md) and to [activation](activation.md) of prior knowledge, but is narrower: it front-loads specific conceptual vocabulary needed to understand the upcoming instruction, rather than providing a general organizing structure.
+**Mechanism.** Pretraining is one of the classic cognitive load management techniques: by naming key concepts and their characteristics before the main lesson, it reduces the extraneous processing learners would otherwise spend simultaneously building a mental model of the system and deciphering new terminology. This aligns with [Cognitive Load Theory](../theories/cognitive-load-theory.md) and with the broader claim that [cognitive overload degrades learning](cognitive-overload-degrades-learning.md). Pretraining is closely related to [advance organizers](../elements/advance-organizers.md) and to [activation](activation-improves-learning.md) of prior knowledge, but is narrower: it front-loads specific conceptual vocabulary needed to understand the upcoming instruction, rather than providing a general organizing structure.
 
 **Moderators and boundary conditions.** Pretraining is expected to benefit learners who lack familiarity with the domain's key concepts — the same novice population for which [worked examples](../elements/demonstration.md) and [chunking](chunking-reduces-working-memory-load.md) help most. For learners who already know the pretraining content, it risks redundancy and wasted time, consistent with the expertise-reversal pattern described in [Expertise Reversal Effect](../theories/expertise-reversal-effect.md). Pretraining is most plausible when the main instruction is complex, interactive, or multimedia-based (e.g., simulations, animations), where simultaneous processing of new names and new dynamics is most likely to overload working memory.
 
@@ -51,7 +51,9 @@ Ninety-three participants were randomly assigned to a pretraining group (who wat
 ## Related Claims
 
 - [Advance organizers improve learning](advance-organizers-improve-learning.md) — front-loading structure before instruction, a close cousin of pretraining
-- [Activation improves learning](activation.md) — prior-knowledge activation as a precondition for new learning
+- [Activation improves learning](activation-improves-learning.md) — prior-knowledge activation as a precondition for new learning
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — the working-memory constraint pretraining addresses
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — the failure mode pretraining is designed to prevent
 - [Analogical reasoning improves transfer](analogical-reasoning-improves-transfer.md) — another route to transfer via well-structured prior knowledge
+- [Embedding pretraining outperforms end-to-end training in DynEmb, avoiding the overfitting that end-to-end training exhibits](embedding-pretraining-beats-end-to-end-training-dynemb.md) — related
+- [Whole-task performance improves transfer of complex skills to real-world settings.](whole-task-performance-improves-transfer.md) — related

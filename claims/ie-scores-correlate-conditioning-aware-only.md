@@ -41,4 +41,8 @@ Correlations between I-E Scale scores and performance on the last block of acqui
 
 
 ## Related Claims
--
+- [Aware externals accounted for the conditioning effect, while aware internals, unaware subjects, and controls showed essentially no change](aware-externals-account-for-conditioning-effect.md) — related
+- [Aware external subjects reported greater incentive value of the verbal reinforcer than aware internal subjects](aware-externals-greater-reinforcer-incentive.md) — related
+- [Experimenter locus-of-control status did not affect subjects' conditioning performance, contrary to the initial hypothesis](experimeter-ie-status-null-conditioning.md) — related
+- [The study found no evidence that learning without awareness is a demonstrable phenomenon in verbal conditioning](no-learning-without-awareness-verbal-conditioning.md) — related
+- [Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content](interactional-structures-shape-content-processing.md) — related

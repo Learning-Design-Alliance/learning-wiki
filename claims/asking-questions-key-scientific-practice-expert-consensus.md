@@ -41,4 +41,5 @@ The article's argument that E-CLASS measures something instructors care about, c
 
 
 ## Related Claims
--
+- [Students show a large epistemological split between classroom and research contexts on thinking up their own questions](eclass-epistemological-split-own-questions.md) — related
+- [E-CLASS statements were validated through 42 student interviews and expert responses from 23 faculty and instructors](eclass-validated-interviews-experts.md) — related

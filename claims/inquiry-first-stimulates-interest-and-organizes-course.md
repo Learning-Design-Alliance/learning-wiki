@@ -41,4 +41,9 @@ This is the author's experiential claim in the WHAT NEXT? section, offered witho
 
 
 ## Related Claims
--
+- [A Wheatstone bridge inquiry lab accomplished many of its learning goals and students seemed to enjoy it](circuit-design-inquiry-accomplished-learning-goals.md) — a narrower finding that bears on this claim
+- [Activation Improves Learning](activation-improves-learning.md) — related
+- [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
+- [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
+- [Student oral presentations of laboratory results became the central activity stimulating active and cooperative learning](student-lab-presentations-central-activity.md) — related

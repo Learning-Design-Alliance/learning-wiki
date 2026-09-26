@@ -58,4 +58,7 @@ Omnibus ANOVA on the application measure. The article reports the interaction ac
 
 
 ## Related Claims
--
+- [Instructional clarity is a significant main effect on concept achievement, accounting for roughly half of score variance across measures](instructional-clarity-main-effect-concept-achievement.md) — related
+- [Each positive clarity move (keys, links, framing, focusing, examples) correlates positively with every concept achievement measure](positive-clarity-moves-correlate-achievement.md) — related
+- [Students accurately perceive differences between clear and unclear lessons regardless of concept structure](students-perceive-lesson-clarity.md) — related
+- [Clarity matters less as concept structure becomes simpler: no significant clear-vs-unclear difference for constant successive lessons](clarity-less-relevant-simpler-structures.md) — related

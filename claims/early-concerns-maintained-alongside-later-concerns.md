@@ -41,4 +41,10 @@ Discussion of the case study's interview and SoCQ findings: teachers developed C
 
 
 ## Related Claims
--
+- [Teachers' voluntary individual adoption activities fall into two categories — investigating new computer resources and experimenting with altered teaching methods and classroom arrangements — associated with informational through consequence stages of concern](voluntary-investigation-and-experimentation-adoption-activities.md) — related
+- [Collegial interaction among adopting teachers increased over time, spanning informational, personal, management, consequence, and collaboration concerns](increasing-collegial-interaction-across-concern-stages.md) — related
+- [Not all educators develop impact concerns even when colleagues do; concern change cannot be forced by an outside agent](not-all-educators-develop-impact-concerns.md) — related
+- [Advanced technology's hyperinteractivity can intensify social inequality in education](hyperinteractivity-can-intensify-inequality.md) — related
+- [Switching to an updated synchronous platform catalysed the teacher's ongoing teaching innovation](platform-switch-catalyses-teaching-innovation.md) — related
+- [Sharing experiences in class discussion modifies learners' attitudes and interpretations](sharing-experiences-modifies-attitudes.md) — related
+- [Two independent research efforts identified the same three pre-use phases of the adoption process](three-pre-use-phases-independently-identified.md) — related

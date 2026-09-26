@@ -41,4 +41,6 @@ ANCOVAs with TKSS scores as covariates on TRF Internalizing and Externalizing t-
 
 
 ## Related Claims
--
+- [The percentage of students with ED meeting clinically significant problem-behavior criteria declined significantly from pre- to post-test](pbis-reduces-clinically-significant-behavior-problems.md) — related
+- [PBIS implementation is associated with significant pre-to-post reductions in externalizing and total problem behaviors of students with ED in self-contained settings](pbis-reduces-externalizing-total-problems-ed-self-contained.md) — related
+- [PBIS is associated with significant reductions on the Thought Problems, Attention Problems, and Aggressive Behavior syndrome scores](pbis-reduces-syndrome-scores-ed-students.md) — related

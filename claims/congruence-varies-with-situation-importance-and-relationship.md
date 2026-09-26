@@ -41,4 +41,7 @@ In a study (Ladd, Nowicki, & Duke, 1979), sixty female college students responde
 
 
 ## Related Claims
--
+- [Therapy relationships do not show a transition from relational incongruence to congruence across sessions](no-incongruence-to-congruence-transition-across-therapy-sessions.md) — related
+- [The category distribution of student questions varies substantially across different simulations](simulation-content-shifts-curiosity-categories.md) — related
+- [Response redundancy (relational congruence) is not related to working alliance ratings](redundancy-unrelated-to-working-alliance.md) — related
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on

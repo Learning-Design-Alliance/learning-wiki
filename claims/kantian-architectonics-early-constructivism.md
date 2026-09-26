@@ -41,4 +41,5 @@ Historical-philosophical analysis of Kant's Critique of Pure Reason: Kant argued
 
 
 ## Related Claims
--
+- [Connectivism is an iteration of architectonic/constructivist thought rather than a new theory of learning](connectivism-iteration-of-architectonics.md) — a broader claim this one bears on
+- [Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue](dialogue-underpins-networked-learning.md) — related

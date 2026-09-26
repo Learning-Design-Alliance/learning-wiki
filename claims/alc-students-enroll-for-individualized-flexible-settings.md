@@ -41,4 +41,7 @@ Center for School Change 2001 survey of Area Learning Center students at five re
 
 
 ## Related Claims
--
+- [Alternative schools and Area Learning Centers showed the greatest growth of any choice option, from 4,050 students in 1988-89 to over 100,000 in 2000-01](minnesota-alternative-schools-greatest-choice-growth.md) — related
+- [Inclusion of students with disabilities often falls short because efforts start from a place of exclusion, making students guests who must earn access](disability-inclusion-starts-from-exclusion.md) — related
+- [Participation in Minnesota's statewide public school choice options rose from about 1% of students in 1988-89 to about 17% in 2000-01](minnesota-choice-participation-grew-1-to-17-percent.md) — related
+- [PSEO students most often cite access to courses unavailable at their high school as their reason for participating](pseo-students-participate-for-unavailable-courses.md) — related

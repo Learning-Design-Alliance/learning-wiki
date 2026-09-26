@@ -19,7 +19,7 @@ Dual coding pairs verbal information (words, narration, text) with a complementa
 
 ## Design Implications
 
-Combining words and pictures consistently outperforms words alone for transfer and retention, provided the two are integrated rather than split [Words and pictures presented together produce better learning than words alone.](../claims/words-and-pictures-better-than-words-alone.md) [+S]. The visual must be *relevant* to the verbal message: decorative images that do not carry meaning add load without adding learning [Irrelevant graphics and text reduce learning by consuming working memory.](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [+S]. Integration is not automatic — learners need cues, proximity, and sometimes explicit prompts to connect the verbal and visual channels, and overloaded visuals can degrade learning just as overloaded text can [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S].
+Combining words and pictures consistently outperforms words alone for transfer and retention, provided the two are integrated rather than split [Words and pictures presented together produce better learning than words alone.](../claims/multimedia-principle-improves-learning.md) [+S]. The visual must be *relevant* to the verbal message: decorative images that do not carry meaning add load without adding learning [Irrelevant graphics and text reduce learning by consuming working memory.](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [+S]. Integration is not automatic — learners need cues, proximity, and sometimes explicit prompts to connect the verbal and visual channels, and overloaded visuals can degrade learning just as overloaded text can [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S].
 
 ### Context
 #### Requirements
@@ -31,7 +31,7 @@ Combining words and pictures consistently outperforms words alone for transfer a
 #### Constraints
 - Redundant presentation — identical text spoken aloud and shown on screen — impairs learning compared with narration plus image [Redundant on-screen text with narration impairs learning.](../claims/redundancy-hurts-learning.md) [-S]
 - Decorative or seductive visuals unrelated to the learning goal reduce retention and transfer [Irrelevant graphics and text reduce learning by consuming working memory.](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [-S]
-- Splitting related information across space or time (e.g., a legend far from a chart) forces costly visual search and reduces learning [Integrated presentation beats split-attention presentation.](../claims/split-attention-effect-integration-improves-learning.md) [+S]
+- Splitting related information across space or time (e.g., a legend far from a chart) forces costly visual search and reduces learning [Integrated presentation beats split-attention presentation.](../claims/split-attention-effect-degrades-learning.md) [+S]
 - Complex, high-element-interactivity content can overload the visual channel; [Chunking](../principles/chunking.md) and segmenting the visual into steps is required [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]
 
 #### Implementation Variability
@@ -40,7 +40,7 @@ Combining words and pictures consistently outperforms words alone for transfer a
 - Text-first vs. image-first sequencing: for unfamiliar learners, a brief advance visual organizer before the verbal explanation helps ([Advance Organizers](../elements/advance-organizers.md))
 
 ### Target Learners
-- Novices benefit most, because pictures supply a missing mental model that words alone cannot build quickly [Words and pictures presented together produce better learning than words alone.](../claims/words-and-pictures-better-than-words-alone.md) [+S]
+- Novices benefit most, because pictures supply a missing mental model that words alone cannot build quickly [Words and pictures presented together produce better learning than words alone.](../claims/multimedia-principle-improves-learning.md) [+S]
 - Low prior-knowledge learners gain more from well-designed multimedia; high-knowledge learners may not need the picture and can find it redundant [~M]
 - Learners with strong spatial ability extract more from visuals; those with weak spatial ability need simpler, segmented graphics
 

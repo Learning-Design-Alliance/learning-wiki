@@ -41,4 +41,8 @@ Concern-pattern analysis across the three interviews (Table 7), where only two t
 
 
 ## Related Claims
--
+- [Discipline concerns declined for all four teacher groups over the school year](discipline-concern-declines-all-groups.md) — a narrower finding that bears on this claim
+- [First-year teachers with mentors declined in self and task concerns and increased impact concerns over the school year](mentored-first-year-teachers-follow-fuller-progression.md) — a narrower finding that bears on this claim
+- [Teachers without mentors reached the impact level more often than mentored teachers, raising the question that mentoring may inhibit development](mentors-may-inhibit-concern-development.md) — related
+- [Reentry teachers without mentors made the greatest progress through Fuller's stages; reentry teachers with mentors developed very limitedly](reentry-without-mentors-greatest-fuller-progress.md) — related
+- [First-year teachers without mentors declined in self and impact concerns but task concerns stayed at 50%](unmentored-first-year-task-concerns-flat.md) — related

@@ -70,3 +70,5 @@ Participants were randomly assigned to one of three groups, and all of them lear
 - [Classroom physical activity improves attention.](classroom-physical-activity-improves-attention.md) — exercise during instruction affects attention and engagement in the moment, complementing post-encoding consolidation effects
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — any exercise benefit must be weighed against added load or fatigue competing with encoding
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — encoding quality sets the ceiling on what consolidation can strengthen, so exercise timing interacts with how material is structured
+- [Exercise Increases Hippocampal Volume](exercise-increases-hippocampal-volume.md) — related
+- [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — related

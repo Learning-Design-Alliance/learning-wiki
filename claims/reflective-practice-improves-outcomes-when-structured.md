@@ -74,3 +74,12 @@ Using a quasi-experimental design across two sections of a required first-year e
 - [Chunking reduces working memory load](../claims/chunking-reduces-working-memory-load.md) — structured prompts manage the working-memory demands that unstructured reflection can impose.
 - [Cognitive overload degrades learning](../claims/cognitive-overload-degrades-learning.md) — reflection layered onto overloaded learners is a key failure condition for this claim.
 - [3-2-1 reflection](../strategies/3-2-1_reflection.md) — a concrete structured-reflection strategy operationalizing this claim.
+- [Mastery-approach goals predict metacognitive strategies while fear of failure is negatively associated with metacognitive self-regulation](mastery-goals-predict-metacognitive-strategies-fear-of-failure-negative.md) — related
+- [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — related
+- [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
+- [Reflective practice shows mixed evidence of effectiveness in professional education](reflective-practice-evidence-mixed-in-professional-education.md) — related
+- [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) — related
+- [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — related
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
+- [Self-regulation strategy instruction improves achievement](self-regulation-strategy-instruction-improves-achievement.md) — related
+- [Team-based discovery learning improved EFL students' research proposal writing across two action-research cycles, with cycle-two average score 85.8 above the success criterion](team-based-discovery-learning-improves-research-proposal-writing.md) — related

@@ -41,4 +41,6 @@ Analysis of the magnet variant of the demonstration-set experiment; the authors 
 
 
 ## Related Claims
--
+- [The demonstration set yields a fair estimate of air permeability µair from coil data](tablet-demo-set-estimates-air-permeability.md) — reports the opposite
+- [Magnetic field falls off as the inverse cube of axial distance for both a coil and a magnet](magnetic-field-inverse-cube-axial-distance-coil-magnet.md) — related
+- [Magnetic field measured by a tablet magnetometer depends linearly on the coil current](tablet-magnetometer-linear-b-current-coil.md) — related

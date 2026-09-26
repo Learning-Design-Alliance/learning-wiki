@@ -55,3 +55,5 @@ Open questions include how much teacher modeling is optimal before handover, how
 - [Collaborative learning improves outcomes.](collaborative-learning-improves-outcomes.md) — the dialogue structure of reciprocal teaching is a form of structured collaboration
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — strategy routines manage the working-memory demands of comprehension
 - [Cognitive Apprenticeship](../theories/cognitive-apprenticeship.md) — the modeling-to-fading sequence mirrors the apprenticeship cycle of modeling, coaching, and fading
+- [Self-questioning improves comprehension](self-questioning-improves-comprehension.md) — related
+- [The review reports reciprocal teaching of reading, an approach exemplifying cognitive apprenticeship, was remarkably effective in raising reading comprehension scores, especially for poor readers](reciprocal-teaching-raises-reading-comprehension-poor-readers.md) — possibly the same claim (merge candidate)

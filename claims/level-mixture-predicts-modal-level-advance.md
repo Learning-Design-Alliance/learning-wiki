@@ -41,4 +41,8 @@ Analysis of variance on posttest Modal Level revealed a significant main effect 
 
 
 ## Related Claims
--
+- [External disequilibrium level systematically influences subsequent changes in internal disequilibrium: discrepant conditions increase mixture among low mix subjects and decrease it among high mix subjects](external-disequilibrium-shapes-internal-mixture-changes.md) — related
+- [Higher internal disequilibrium is associated with more regressive (minus) changes as well as more progressive changes](high-mixture-increases-regressive-changes.md) — related
+- [One-level and two-level external disequilibrium conditions did not differ significantly, and all Modal Level advances occurred to exactly one level above the subject's mode](one-step-advance-regardless-of-discrepancy-size.md) — related
+- [Positive Bias (more non-modal responses above than below the mode) distinguishes subjects likely to advance in Modal Level from those likely to consolidate](positive-bias-predicts-modal-level-advance.md) — related
+- [Cognitive disequilibrium motivates conceptual change](cognitive-disequilibrium-motivates-conceptual-change.md) — a broader claim this one bears on

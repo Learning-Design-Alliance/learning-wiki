@@ -41,4 +41,6 @@ Correlation matrices from the ECLS-K: 2010 at waves 1, 2, and 4 (Table 3); all c
 
 
 ## Related Claims
--
+- [In the ECLS-K: 2010 dataset, a single latent EF factor model fits EF–math associations better than a specific-components model at all three time points](latent-ef-factor-preferred-ecls-k-math.md) — related
+- [Under the components model in ECLS-K, working memory is the most closely associated EF component with math, but only at time point 1 does it show a positive residual correlation beyond latent EF](working-memory-strongest-component-association-ecls-k.md) — related
+- [In a meta-analytic database of ten studies, the latent EF factor model was preferred in seven samples, with two favoring the components model and one equal](meta-analytic-replication-latent-ef-model.md) — related

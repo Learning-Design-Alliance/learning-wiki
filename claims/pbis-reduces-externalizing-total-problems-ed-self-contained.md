@@ -41,4 +41,7 @@ Pre-post naturalistic study of 37 students with ED in self-contained classrooms;
 
 
 ## Related Claims
--
+- [Teachers implementing PBIS with low fidelity tended not to experience large student behavior improvements commensurate with high-fidelity colleagues](low-fidelity-pbis-smaller-student-improvements.md) — related
+- [The percentage of students with ED meeting clinically significant problem-behavior criteria declined significantly from pre- to post-test](pbis-reduces-clinically-significant-behavior-problems.md) — possibly the same claim (merge candidate)
+- [PBIS is associated with significant reductions on the Thought Problems, Attention Problems, and Aggressive Behavior syndrome scores](pbis-reduces-syndrome-scores-ed-students.md) — a narrower finding that bears on this claim
+- [Teacher fidelity (TKSS total score) shows a statistically significant interaction effect on pre-to-post changes in student problem behavior (F = 10.43, p = .003)](tkss-fidelity-ancova-interaction-problem-behavior.md) — related

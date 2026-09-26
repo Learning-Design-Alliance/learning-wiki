@@ -41,4 +41,7 @@ Mail survey of 300 randomly selected Korean-Americans yielded 101 returns (16.8%
 
 
 ## Related Claims
--
+- [External sociocultural adaptation may change with time while internal psychosocial identity resists change, per the authors' conjecture](external-adaptation-changes-internal-identity-resists.md) — related
+- [Length of residence in the United States does not predict psychosocial development of adult Korean immigrants](length-of-residence-does-not-predict-immigrant-psychosocial-development.md) — related
+- [Cross-cultural measurement problems may bias psychosocial instruments translated across cultures](cross-cultural-measurement-bias-in-translated-psychosocial-instruments.md) — related
+- [Short-term Instrumental Enrichment training improves analytic, exploratory, and contradiction-identification strategies in poorly performing adult learners, limited by reliance on everyday content knowledge](short-term-ie-training-improves-contradiction-identification-in-poor-performers.md) — related

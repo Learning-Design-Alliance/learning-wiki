@@ -41,4 +41,9 @@ Post-experimental Spielberger awareness interviews were scored by two judges (in
 
 
 ## Related Claims
--
+- [The study found no evidence that learning without awareness is a demonstrable phenomenon in verbal conditioning](no-learning-without-awareness-verbal-conditioning.md) — related
+- [Aware external subjects reported greater incentive value of the verbal reinforcer than aware internal subjects](aware-externals-greater-reinforcer-incentive.md) — related
+- [I-E scale scores correlate with conditioning performance for aware subjects but not for unaware subjects](ie-scores-correlate-conditioning-aware-only.md) — related
+- [Experimenter locus-of-control status did not affect subjects' conditioning performance, contrary to the initial hypothesis](experimeter-ie-status-null-conditioning.md) — related
+- [Internal experimenters were perceived as significantly more potent than external experimenters, and external subjects rated their experimenters higher on Activity](ie-experimenters-perceived-more-potent.md) — related
+- [Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content](interactional-structures-shape-content-processing.md) — related

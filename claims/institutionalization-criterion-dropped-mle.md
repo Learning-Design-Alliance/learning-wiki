@@ -41,4 +41,5 @@ Interview comment by Manuela Valenti (July 2012) during the teacher interviews o
 
 
 ## Related Claims
--
+- [A scholar identifies children's acquisition of appropriate critical thinking skills as the determining element of MLE quality in elementary schools](critical-thinking-quality-mle.md) — related
+- [Students reported greater engagement, motivation and language use after MLE-mediated English lessons](students-report-engagement-after-mle-lessons.md) — related

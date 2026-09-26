@@ -58,4 +58,6 @@ Descriptive percentages of causal mechanistic responses on the dissolution task 
 
 
 ## Related Claims
--
+- [Learning environment had a less significant impact on causal mechanistic reasoning on the boiling point task, with a small effect size of 0.168](boiling-task-environment-effect.md) — related
+- [More instructional time spent on causal mechanistic reasoning correlated with a higher percentage of student responses using causal mechanistic reasoning on phenomenon-based tasks](instructional-cmr-time-correlates-student-cmr.md) — related
+- [Inquiry-based physics discussion supported peer co-construction of mechanistic explanations, distributing authority of knowledge and language among students](third-space-distributes-authority-among-students.md) — related

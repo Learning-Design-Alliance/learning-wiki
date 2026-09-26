@@ -82,3 +82,15 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — task value and autonomy often compound: learners who see a task as valuable are more likely to experience autonomous motivation toward it
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — competence (one of SDT's three needs) links autonomy to efficacy: learners need to believe they can succeed before autonomy feels enabling rather than threatening
 - [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) — self-monitoring is a key mechanism through which autonomous learners regulate their own progress
+- [Rewards Undermine Intrinsic Motivation](rewards-undermine-intrinsic-motivation.md) — related
+- [Pretesting Can Harm Motivation](pretesting-can-harm-motivation.md) — related
+- [Self-determination instruction improves outcomes](self-determination-instruction-improves-outcomes.md) — related
+- [Learner-centered teacher–student relationships improve student outcomes](learner-centered-teacher-student-relationships-are-effective.md) — related
+- [Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated](connectivist-courses-student-agency-problems.md) — related
+- [Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed](effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) — related
+- [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](extrinsic-rewards-undermine-intrinsic-motivation-argument.md) — related
+- [Teachers feel more in control and more competent when they have a formal plan for discipline and procedures](formal-discipline-plan-increases-teacher-control-and-competence.md) — related
+- [The different elements of the Engagement Framework are interrelated in practice, with gains in one dimension reinforcing others](framework-elements-interrelated-in-practice.md) — related
+- [Grading practices can diminish interest, encourage easier paths, and reduce quality of thinking in maker education](grading-harms-maker-education-outcomes.md) — related
+- [The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety](learning-is-natural-enjoyable-process-argument.md) — related
+- [Students in the style-informed EFL classes reported that the teaching procedure was useful and that their interests and motivation increased](students-report-increased-motivation-style-informed-elt.md) — related

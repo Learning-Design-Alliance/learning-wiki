@@ -41,4 +41,6 @@ Synthesis of reported outcomes across the 32 studies. The review found "only thr
 
 
 ## Related Claims
--
+- [PLC in mathematics in prior research pursue three distinct objects, with developing teachers' repertoire of teaching actions the most common](plc-mathematics-three-objects-repertoire-most-common.md) — related
+- [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](plc-norms-three-categories-trust-prerequisite.md) — related
+- [Participation in mathematics PLC changed teachers' collaboration norms, understanding of mathematics and its teaching, and ability to design and carry out teaching](plc-participation-changes-teacher-norms-understanding-practice.md) — related

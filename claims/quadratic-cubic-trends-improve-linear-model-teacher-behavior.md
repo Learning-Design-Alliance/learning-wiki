@@ -41,4 +41,8 @@ Ordinary least squares regression trend analysis of the two classrooms' time-ser
 
 
 ## Related Claims
--
+- [Fuzzy time series forecasting beats nonlinear regression when only a quadratic term is included, but loses when a cubic term is included](ftm-versus-nonlinear-regression-quadratic-cubic.md) — related
+- [A first-order time-invariant fuzzy time series model produces more precise university enrollment forecasts than linear regression with time as predictor](fuzzy-time-series-more-precise-than-linear-regression-enrollment.md) — related
+- [Phase analysis showed Ethan leading the interaction with sameness in Communion and oppositeness in Agency, while Sam led in Communion but followed in Agency](phase-lead-lag-differs-between-teachers.md) — related
+- [Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction](scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states.md) — related
+- [The hypothesis that both teachers can refrain from complementarity when facing hostile student behavior could not be confirmed](refraining-from-complementarity-hypothesis-not-confirmed.md) — related

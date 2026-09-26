@@ -41,4 +41,5 @@ The report's conclusions contrast general support for the availability of single
 
 
 ## Related Claims
--
+- [Support for single-gender middle schools dropped when traditional-school attendance required travel outside the neighborhood](travel-outside-neighborhood-reduces-single-gender-support.md) — related
+- [Parental support for a neighborhood single-gender middle school varied across elementary attendance zones](parental-support-single-gender-middle-school-varies-by-attendance-zone.md) — related

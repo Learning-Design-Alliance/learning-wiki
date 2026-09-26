@@ -41,4 +41,6 @@ Authors' interpretation in the findings: the norms on transmission, validation, 
 
 
 ## Related Claims
--
+- [Five socio-didactic-mathematical norms can be inferred from pre-service secondary mathematics teachers' discourse while solving a didactic-mathematical task](five-sdmns-inferred-preservice-teacher-discourse.md) — related
+- [Three of the inferred norms relate to the mathematical content and its learning, including privileging the table of values and devaluing explanation](sdmns-related-to-mathematical-content-and-learning.md) — related
+- [Two inferred norms concern teachers' role, with the teacher-validation norm appearing in all participating groups](sdmns-teacher-role-validation-all-groups.md) — related

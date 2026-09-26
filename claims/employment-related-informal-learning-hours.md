@@ -41,4 +41,7 @@ In the NALL 1998 survey, employed respondents were asked about informal learning
 
 
 ## Related Claims
--
+- [Over 95% of Canadian adults are involved in some form of informal learning activities they identify as significant](over-95-percent-canadian-adults-informal-learning.md) — a broader claim this one bears on
+- [Over 70% of job training received by employees is informal, according to U.S. and Canadian national surveys](over-70-percent-job-training-informal.md) — related
+- [Informal learning participation is unrelated to formal schooling level, unlike course participation](schooling-unrelated-to-informal-learning.md) — related
+- [Aging does not substantially reduce informal learning participation, though preference shifts from courses to self-directed learning](aging-does-not-reduce-informal-learning.md) — related

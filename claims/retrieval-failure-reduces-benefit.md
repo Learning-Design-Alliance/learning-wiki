@@ -56,3 +56,10 @@ This meta-analysis pooled 159 effect sizes from 61 published and unpublished stu
 - [Activation improves learning.](activation-improves-learning.md) — activating relevant prior knowledge raises the odds that a retrieval attempt succeeds
 - [Adaptive learning improves outcomes.](adaptive-learning-improves-outcomes.md) — adjusting difficulty to the learner helps keep retrieval attempts in the productive, challenging-but-achievable zone
 - [Cognitive load management.](../principles/cognitive-load-management.md) — the theoretical framework for calibrating task difficulty to learner capacity
+- [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — related
+- [Pretesting Can Harm Motivation](pretesting-can-harm-motivation.md) — related
+- [Pretesting enhances learning](pretesting-enhances-learning.md) — related
+- [Repeated successful retrieval during learning predicted final recall in both experiments](repeated-retrieval-success-predicts-final-recall.md) — related
+- [Retrieval Fails Without Encoding](retrieval-fails-without-encoding.md) — related
+- [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
+- [Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects](retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) — possibly the same claim (merge candidate)

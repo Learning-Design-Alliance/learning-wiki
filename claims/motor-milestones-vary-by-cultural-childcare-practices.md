@@ -41,3 +41,4 @@ The Aché, a forest-dwelling group in eastern Paraguay, carry infants for extend
 This finding cautions against treating standard developmental-milestone charts as fixed biological law rather than population averages shaped partly by childcare practice. For educators and caregivers, the practical implication is that a child's motor development "falling behind" a chart derived from a different cultural context is not automatically evidence of a developmental problem — though this single ethnographic comparison is not sufficient on its own to rule out genuine delays in an individual case, and the evidence base here (one comparative study, secondarily cited) is thin relative to the strength of the claim.
 
 ## Related Claims
+- [Teacher mediation interacts with SES: the SES gap in elaborated utterances appears only in the low-mediating classroom](mediation-ses-interaction-elaborated-utterances.md) — related

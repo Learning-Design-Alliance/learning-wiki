@@ -72,3 +72,12 @@ An open question is how much of the benefit comes from the discussion itself ver
 - [Cognitive disequilibrium motivates conceptual change.](cognitive-disequilibrium-motivates-conceptual-change.md) — the proposed mechanism linking disagreement to conceptual restructuring
 - [Discussion-based learning](../patterns/discussion-based-learning.md) — the pattern-level design that operationalizes this claim
 - [Accountable talk](../strategies/accountable_talk.md) — a discourse protocol for keeping peer talk reasoning-focused
+- [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](active-collaborative-approaches-higher-order-thinking.md) — related
+- [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — related
+- [Group tasks are the most frequent active learning activity in college science active learning conditions, followed by activity sheets](group-tasks-most-frequent-active-learning-activity.md) — related
+- [Inquiry-first teaching stimulates interest, sharpens reading, and helps organize course work](inquiry-first-stimulates-interest-and-organizes-course.md) — related
+- [Misconceptions Interfere With New Learning](misconceptions-interfere-with-new-learning.md) — related
+- [In this inquiry, student pairs work better than groups of three because larger groups risk disengaging members](pairs-better-than-triads-in-stellar-inquiry.md) — related
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
+- [Discussion Quality Drives Comprehension](discussion-quality-drives-comprehension.md) — related
+- [Positioning students as sources increases productive participation in science discourse](positioning-students-as-sources-increases-productive-participation-in-science-discourse.md) — related

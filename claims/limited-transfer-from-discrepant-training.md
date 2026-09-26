@@ -41,4 +41,7 @@ Individual transfer measures showed nonsignificant treatment contrasts. When sam
 
 
 ## Related Claims
--
+- [Training with maps one or two levels above the child's current level produces greater map drawing advance than training with maps at the child's own level](discrepant-training-facilitates-map-drawing-advance.md) — related
+- [One-level and two-level external disequilibrium conditions did not differ significantly, and all Modal Level advances occurred to exactly one level above the subject's mode](one-step-advance-regardless-of-discrepancy-size.md) — related
+- [External disequilibrium level systematically influences subsequent changes in internal disequilibrium: discrepant conditions increase mixture among low mix subjects and decrease it among high mix subjects](external-disequilibrium-shapes-internal-mixture-changes.md) — related
+- [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — a broader claim this one bears on

@@ -41,4 +41,7 @@ Comparison of Style 2 (N=45, detailed written answer keys, no verbal TA interact
 
 
 ## Related Claims
--
+- [The computer-based implementation showed no significant difference from individual paper-based work with brief written answers](computer-based-no-better-than-individual-paper.md) — related
+- [For material students have prior knowledge of (work-energy theorem), tutorial effectiveness depends significantly on teaching quality, with the ideal Socratic implementation best](instructor-quality-matters-with-prior-knowledge.md) — related
+- [For novel material (impulse-momentum theorem), no statistical difference emerges among group-based styles with verbal TA interaction; the tutorial material itself dominates](novel-material-instructor-support-less-important.md) — related
+- [Socratic dialogue by a skilled but inefficient teaching assistant underperformed: lengthy, unsummarized checkpoints may leave students without clear understanding](socratic-dialogue-needs-efficiency-and-summaries.md) — related

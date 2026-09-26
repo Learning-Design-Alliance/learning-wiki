@@ -41,4 +41,8 @@ ANOVA comparing six Grasha-Riechmann learning style groups (n=410) on the seven-
 
 
 ## Related Claims
--
+- [Collaborative-style preservice teachers score higher on continuous and intentional thinking than avoidant and dependent styles](collaborative-style-higher-continuous-thinking.md) — a narrower finding that bears on this claim
+- [Preservice teachers' epistemological beliefs differ significantly by learning style in all four dimensions](epistemological-beliefs-differ-by-learning-style.md) — related
+- [Independent-style preservice teachers score higher on open-mindedness than avoidant, collaborative, and competitive styles](independent-style-higher-open-mindedness.md) — a narrower finding that bears on this claim
+- [Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge](reflective-thinking-correlates-epistemological-beliefs.md) — related
+- [Reflective coaching and technical coaching rest on different relationships, goals and epistemologies of practice despite sharing the coaching label](reflective-versus-technical-coaching-comparison.md) — related

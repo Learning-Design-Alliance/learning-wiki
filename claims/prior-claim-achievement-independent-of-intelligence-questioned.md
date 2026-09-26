@@ -41,4 +41,8 @@ The article reports, citing Nowicki (1971), the prior position that locus of con
 
 
 ## Related Claims
--
+- [Academic achievement is significantly correlated with locus of control for normal adolescents but not for delinquent adolescents](achievement-locus-correlation-only-normal-adolescents.md) — related
+- [Intelligence test scores are significantly correlated with locus of control for both normal and delinquent adolescents](intelligence-locus-correlation-both-groups.md) — related
+- [The locus of control scale fails to discriminate delinquent from normal adolescents, casting doubt on its clinical screening utility](locus-of-control-fails-to-discriminate-delinquents.md) — related
+- [Locus of control scores show no significant main effects of behavioral condition (normal vs. delinquent) or sex](no-group-or-sex-effect-on-locus-of-control.md) — related
+- [Locus of control instruments measuring domains beyond academic achievement increase the number of dimensions obtained](nonacademic-domains-increase-dimensions.md) — related

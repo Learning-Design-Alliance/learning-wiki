@@ -56,9 +56,12 @@ Quantitative mixed models pooled literature from 1966–2016 on curricula built 
 
 - [Active learning improves exam performance](active-learning-improves-exam-performance.md) — the main contrast case; active formats can outperform pure lecture when well designed
 - [Worked examples reduce unnecessary search for novices](worked-examples-reduce-novice-search.md) — a core mechanism within direct instruction's modeling phase
-- [Worked examples can become redundant or counterproductive for advanced learners](worked-examples-expertise-reversal.md) — the expertise-reversal dynamic applied to a specific direct-instruction element
+- [Worked examples can become redundant or counterproductive for advanced learners](worked-examples-less-effective-with-expertise.md) — the expertise-reversal dynamic applied to a specific direct-instruction element
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — explicit guidance manages working-memory load for novices
 - [Clear structure improves learning](clear-structure-improves-learning.md) — explicit objectives and organized presentation are direct instruction's structural backbone
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — the theoretical account for why novices need explicit guidance
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — why direct instruction's advantage fades with learner expertise
 - [Direct instruction](../patterns/direct-instruction.md) — the pattern page describing the instructional model itself
+- [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — a narrower finding that bears on this claim
+- [Tutoring benefits both tutors and tutees](tutoring-benefits-tutors-and-tutees.md) — a narrower finding that bears on this claim
+- [Structured Literacy Interventions Help Struggling Readers](structured-literacy-interventions-help-struggling-readers.md) — related

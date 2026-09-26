@@ -41,4 +41,6 @@ Consultation with 14 experienced online supervisors (from 23 invited across 16 P
 
 
 ## Related Claims
--
+- [Research project supervision styles can be differentiated by degree of supervisory control and degree of support, yielding five distinct styles](supervision-styles-control-support-axes.md) — related
+- [The student-tutor relationship alone is judged insufficient: peer mixing and virtual communities are needed to counter isolation in online research supervision](virtual-communities-counter-supervision-isolation.md) — related
+- [Implementation of the TPI procedure reached only one tutor-trainee pair out of nine potential tutors, though participants assessed it positively](tpi-implementation-low-participation-positive-assessment.md) — related

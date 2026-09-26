@@ -41,4 +41,5 @@ Comparison of the hermeneutic method with authentic inquiry features (Table I). 
 
 
 ## Related Claims
--
+- [The abductive method is the logical reasoning method most associated with features of authentic scientific inquiry in the curriculum](abductive-method-associated-authentic-inquiry.md) — related
+- [Holt Earth Science inquiry tasks emphasize making multiple observations and developing theories about mechanisms but omit several authentic scientific inquiry features](holt-earth-science-missing-authentic-inquiry-features.md) — related

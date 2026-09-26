@@ -19,7 +19,7 @@ Graphic organizers are visual frameworks — concept maps, timelines, comparison
 
 ## Design Implications
 
-Both tools reduce extraneous load during lecture by shifting the burden of selection and organization from the learner to the instructor [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+M]. Guided notes reliably increase the accuracy and completeness of student notes and modestly improve quiz and exam performance [Guided notes improve note accuracy and quiz performance.](../claims/guided-notes-improve-note-accuracy.md) [+M]. Graphic organizers show stronger effects when learners actively construct or complete them rather than passively view a finished organizer [Concept and knowledge maps improve learning.](../claims/concept-maps-improve-learning.md) [+M]. Because they impose an organization on content, they work best when that organization matches the actual structure of the material — a mismatched organizer can mislead.
+Both tools reduce extraneous load during lecture by shifting the burden of selection and organization from the learner to the instructor [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+M]. Guided notes reliably increase the accuracy and completeness of student notes and modestly improve quiz and exam performance [Guided notes improve note accuracy and quiz performance.](../claims/guided-notes-improve-note-accuracy.md) [+M]. Graphic organizers show stronger effects when learners actively construct or complete them rather than passively view a finished organizer [Concept and knowledge maps improve learning.](../claims/concept-mapping-improves-learning.md) [+M]. Because they impose an organization on content, they work best when that organization matches the actual structure of the material — a mismatched organizer can mislead.
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Both tools reduce extraneous load during lecture by shifting the burden of selec
 - An accessible format: text alternatives for visually impaired learners, and vocabulary at an appropriate level ([Accessible Vocabulary & Syntax](../principles/accessible-vocabulary-syntax.md))
 
 #### Constraints
-- Pre-filled, complete organizers viewed passively produce weaker learning than ones students complete themselves [Concept and knowledge maps improve learning.](../claims/concept-maps-improve-learning.md) [~M]
+- Pre-filled, complete organizers viewed passively produce weaker learning than ones students complete themselves [Concept and knowledge maps improve learning.](../claims/concept-mapping-improves-learning.md) [~M]
 - Overly detailed guided notes can reduce engagement — students copy mechanically without processing [Guided notes improve note accuracy and quiz performance.](../claims/guided-notes-improve-note-accuracy.md) [~M]
 - A single organizer format will not fit all content types; forcing a timeline onto non-sequential content distorts it
 - Visual formats may be inaccessible without accommodation ([Accommodations](../elements/accommodations.md))
@@ -47,7 +47,7 @@ Both tools reduce extraneous load during lecture by shifting the burden of selec
 - Less necessary for experts, who already organize content effectively and may find imposed structures constraining
 
 ### Target Learning Goals
-- Comprehension of relationships: hierarchies, sequences, causal chains, comparisons [Concept and knowledge maps improve learning.](../claims/concept-maps-improve-learning.md) [+M]
+- Comprehension of relationships: hierarchies, sequences, causal chains, comparisons [Concept and knowledge maps improve learning.](../claims/concept-mapping-improves-learning.md) [+M]
 - Retention of key facts and definitions from lecture [Guided notes improve note accuracy and quiz performance.](../claims/guided-notes-improve-note-accuracy.md) [+M]
 - Dual coding of verbal and visual representations [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]
 

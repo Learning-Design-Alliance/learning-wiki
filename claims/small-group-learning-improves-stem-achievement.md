@@ -62,3 +62,9 @@ A meta-analysis of research on undergraduate science, mathematics, engineering, 
 - [Collaborative learning](../patterns/collaborative-learning.md) — design pattern covering group formation and task structuring
 - [Accountable talk](../strategies/accountable_talk.md) — discourse norms that make group talk academically productive
 - [Cognitive load management](../claims/cognitive-load-management.md) — group work redistributes but does not eliminate working-memory demands; task design still matters
+- [Cooperation compared with individualistic efforts typically results in higher achievement, greater retention, and greater social competence and self-esteem](cooperation-versus-individualistic-effort-outcomes.md) — a broader claim this one bears on
+- [Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons](cooperative-learning-achievement-synthesis-slavin.md) — related
+- [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — related
+- [Cooperative learning without individual accountability produces free-riding that reduces learning outcomes](cooperative-learning-free-rider-without-accountability.md) — related
+- [Group rewards combined with individual accountability make cooperative learning effective](cooperative-learning-group-rewards-and-individual-accountability.md) — related
+- [Cooperative biology instruction raised achievement and improved perceived classroom atmosphere in Israeli junior high studies](lazarowitz-cooperative-biology-achievement.md) — related

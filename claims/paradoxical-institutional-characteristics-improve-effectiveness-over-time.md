@@ -41,4 +41,5 @@ The author's research on 335 four-year colleges and universities found that inst
 
 
 ## Related Claims
--
+- [Each of the four organizational forms is effective in distinct domains when leadership and information processing styles are congruent with the form](congruent-leadership-form-domain-effectiveness.md) — related
+- [Recovery from decline was linked to the presence of paradoxical strategies, while linearity was not](paradoxical-strategies-linked-to-recovery-from-decline.md) — related

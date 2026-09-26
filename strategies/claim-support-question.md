@@ -28,7 +28,7 @@ CSQ operationalizes argumentation by requiring learners to commit to a position 
 - Time and norms for learners to share claims publicly and respond to one another's questions
 
 #### Constraints
-- With weak prior knowledge, learners generate claims they cannot support, producing fluency illusions rather than learning [Learners with low prior knowledge benefit less from minimally guided inquiry.](../claims/minimally-guided-instruction-less-effective-for-novices.md) [-S] — pair with [Advance Organizers](../elements/advance-organizers.md) or source material to anchor claims
+- With weak prior knowledge, learners generate claims they cannot support, producing fluency illusions rather than learning [Learners with low prior knowledge benefit less from minimally guided inquiry.](../claims/minimal-guidance-less-effective-for-novices.md) [-S] — pair with [Advance Organizers](../elements/advance-organizers.md) or source material to anchor claims
 - If the question step is skipped or treated as an afterthought, the routine collapses into assertion-and-justification and loses its inquiry function
 - In large classes without discussion structures, claims go unchallenged; combine with [Think-Pair-Share](../patterns/think-pair-share.md) or [Discussion Groups](../patterns/discussion-group.md)
 
@@ -40,7 +40,7 @@ CSQ operationalizes argumentation by requiring learners to commit to a position 
 ### Target Learners
 - Middle school through adult learners; the routine scales in sophistication with the material
 - Learners developing disciplinary habits of evidence-based reasoning in humanities, science, and civic education
-- Novices need scaffolded source material or modeled claims; more expert learners can apply the routine to primary sources and data [Minimally guided approaches favor learners with sufficient prior knowledge.](../claims/minimally-guided-instruction-less-effective-for-novices.md) [~M]
+- Novices need scaffolded source material or modeled claims; more expert learners can apply the routine to primary sources and data [Minimally guided approaches favor learners with sufficient prior knowledge.](../claims/minimal-guidance-less-effective-for-novices.md) [~M]
 
 ### Target Learning Goals
 - Argumentation: constructing and justifying claims with evidence [Argumentation improves reasoning and conceptual learning.](../claims/argumentation-improves-reasoning.md) [+M]

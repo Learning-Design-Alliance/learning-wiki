@@ -41,4 +41,7 @@ Systematic review of 57 comparison studies (88 active learning conditions) from 
 
 
 ## Related Claims
--
+- [Time-on-task is frequently unequal across compared conditions, with active learning conditions typically requiring more home time](time-on-task-unequal-in-active-learning-comparisons.md) — related
+- [Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions](active-learning-conditions-more-other-pedagogical-features.md) — related
+- [Post-2014 comparison studies still most commonly contrast one active learning condition with one lecture condition](studies-still-compare-active-learning-versus-lecture.md) — related
+- [Group tasks are the most frequent active learning activity in college science active learning conditions, followed by activity sheets](group-tasks-most-frequent-active-learning-activity.md) — related

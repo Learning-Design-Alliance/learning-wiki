@@ -41,4 +41,6 @@ The guide asserts, citing a 4-H SERIES curriculum introduction, that the learnin
 
 
 ## Related Claims
--
+- [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — a broader claim this one bears on
+- [Conceptual change strategies in cooperative groups reduced misconceptions in community college chemistry, but poor group leadership undermined discussion](cooperative-conceptual-change-chemistry-misconceptions.md) — related
+- [Misconceptions Interfere With New Learning](misconceptions-interfere-with-new-learning.md) — related

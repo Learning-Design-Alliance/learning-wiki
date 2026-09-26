@@ -60,3 +60,6 @@ MathDial results from the same benchmark comparison, where existing methods impr
 ## Related Claims
 - [Dkt Sem Outperforms Existing Kt Methods Most With Little Training Data](dkt-sem-outperforms-existing-kt-methods-most-with-little-training-data.md)
 - [Dialogue Kt Performance Is Relatively Low Compared To Standard Kt](dialogue-kt-performance-is-relatively-low-compared-to-standard-kt.md)
+- [Existing KT methods fail to beat a majority-class baseline on the small CoMTA dialogue dataset but perform significantly better on the larger MathDial dataset.](existing-kt-methods-fail-on-small-comta-but-improve-with-more-data-on-mathdial.md) — related
+- [In a qualitative case study, LLMKT adjusts KC mastery estimates using the dialogue's textual content, such as the difficulty of the tutor's question, rather than only prior correctness labels.](llmkt-uses-dialogue-text-to-adjust-kc-mastery-estimates.md) — related
+- [LLMKT's predicted knowledge change curves on CoMTA are mixed across the 15 most frequent KCs, though overall they mostly resemble the power law of practice when dialogues have sufficient turns.](llmkt-knowledge-change-curves-show-mixed-trends-resembling-power-law-of-practice.md) — related

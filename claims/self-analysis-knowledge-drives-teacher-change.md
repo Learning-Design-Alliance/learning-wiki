@@ -41,4 +41,6 @@ Theoretical argument in the document's conclusion chapter: teachers can improve 
 
 
 ## Related Claims
--
+- [The paper argues experiential training of early childhood workers is likely to produce reflective, creative caregivers and children who learn better](experiential-training-ecd-workers-better-child-outcomes.md) — related
+- [Generative Learning Improves Comprehension](generative-learning-improves-comprehension.md) — related
+- [Feuerstein argues learning through direct, unmediated experience cannot yield meaningful learning or full modifiability](direct-experience-insufficient-for-meaningful-learning.md) — related

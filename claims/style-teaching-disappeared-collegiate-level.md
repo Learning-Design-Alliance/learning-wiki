@@ -41,4 +41,4 @@ The author reports preliminary ERIC and Dissertation Abstracts searches showing 
 
 
 ## Related Claims
--
+- [Boydens and van Hooland's three-strata model of change recommends matching database update rhythm to layered timescales](three-strata-database-change-model.md) — related

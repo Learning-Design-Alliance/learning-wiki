@@ -41,4 +41,11 @@ Monte Carlo simulation study generating graded-response data (five categories, 1
 
 
 ## Related Claims
--
+- [The polytomous DFIT framework shows Type I error rates close to nominal alpha except when the number of DIF items and DIF magnitude are highest](polytomous-dfit-type-i-error-near-alpha.md) — related
+- [Type of DIF affected detection: nonuniform DIF items with higher a-parameters were not detected whereas lower a-parameter items were](polytomous-dfit-nonuniform-high-a-not-detected.md) — related
+- [Test length, focal group distribution, number of DIF items, and direction of DIF had little effect on detection rates](polytomous-dfit-factors-little-effect.md) — related
+- [C-DIF was less stable than NC-DIF across simulated conditions](polytomous-c-dif-less-stable-than-nc-dif.md) — related
+- [Type I error rates of all three polytomous DIF indices increase as the number of DIF items and DIF magnitude increase](dif-type-i-error-increases-with-dif-items-and-magnitude.md) — related
+- [DIF detection rates for all indices are higher with larger samples, equivalent distributions, fewer DIF items, greater DIF magnitude, and larger a-parameters](polytomous-dif-detection-rate-factors.md) — related
+- [The chi-square significance test for NC-DIF is overly sensitive at large sample sizes, requiring an empirical cutoff value](nc-dif-chi-square-overly-sensitive-large-samples.md) — related
+- [NCDIF Type I error rates are unaffected by focal group distribution, unlike SIBTEST and Lord's chi-square](ncdif-type-i-error-robust-to-focal-distribution.md) — related

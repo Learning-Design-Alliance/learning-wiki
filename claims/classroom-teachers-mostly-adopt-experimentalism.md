@@ -41,4 +41,7 @@ General survey of 301 volunteered classroom teachers teaching 1st–4th classes 
 
 
 ## Related Claims
--
+- [Student-centered philosophies correlate with personal, facilitator and delegator teaching styles](student-centered-philosophies-correlate-student-centered-styles.md) — related
+- [In a survey of physical education and sports teachers, existentialist education is the most endorsed and essentialism the least endorsed of five educational philosophies](pe-teachers-endorse-existentialist-education-most-and-essentialism-least.md) — related
+- [Adopted educational philosophy is significantly positively related to teaching style](philosophy-significantly-related-teaching-style.md) — related
+- [Majority of classroom teachers have a facilitator teaching style](classroom-teachers-mostly-facilitator-style.md) — related

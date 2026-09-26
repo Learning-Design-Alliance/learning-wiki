@@ -41,4 +41,7 @@ Theoretical argument in the 'Environmental education: the story so far' section 
 
 
 ## Related Claims
--
+- [Deconstructing the modern metaphors of nature cultivated by modern science and industrialism is a first step toward reconstructing relationships with the earth](deconstructing-modern-nature-metaphors-first-step.md) — related
+- [Premodern cultures' narratives assimilate language to the world rather than vice versa, offering environmental educators place-bound narrative strategies](premodern-narratives-assimilate-language-to-world.md) — related
+- [The narratives of premodern mythologies and postmodern physics accept that the creation of meaning in the world is a human and communal responsibility, which modern science fails to do](meaning-creation-human-communal-responsibility.md) — related
+- [Narrative and storying genres in educational inquiry risk disempowering the very people they claim to empower](narrative-genres-may-disempower-while-claiming-empowerment.md) — related

@@ -41,4 +41,8 @@ Rhetorical analysis of six papers in this context dealing with Kuhn's paradigm c
 
 
 ## Related Claims
--
+- [Fully constitutive exchanges are rare and proceed by collective integrity](collective-integrity-constitutive-exchanges-rare.md) — related
+- [Critics argue connectivism cannot explain concept formation or development, invoking the learning paradox](connectivism-cannot-explain-concept-development.md) — related
+- [In the fully regulative context, critique proceeds by methodological correctness or paradigmatic positioning](regulative-context-critique-methodological-or-paradigmatic.md) — related
+- [In the constitutive knowledge/regulative community context, critique targets interpretive appropriateness rather than execution](interpretive-appropriateness-context-critique.md) — related
+- [Constructivist responses to Objectivist criticism have redirected rather than addressed the specific questions raised](constructivist-responses-redirect-objectivist-criticisms.md) — related

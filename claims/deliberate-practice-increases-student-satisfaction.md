@@ -41,4 +41,4 @@ Post-training survey of the experimental group measured satisfaction with the de
 
 
 ## Related Claims
--
+- [Deliberate practice interventions produce higher real estate licensing exam pass rates than traditional study methods](deliberate-practice-raises-licensing-pass-rate.md) — related

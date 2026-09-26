@@ -68,3 +68,4 @@ Rowe's review distinguishes wait time 1 (the pause after asking a question) and 
 - [Active learning improves exam performance.](active-learning-improves-exam-performance.md) — wait time is a low-cost lever for making questioning genuinely active rather than performative.
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — quality responses during questioning are formative-assessment data; wait time improves that data.
 - [Cognitive disequilibrium motivates conceptual change.](cognitive-disequilibrium-motivates-conceptual-change.md) — pauses give learners time to work through the uncertainty that disequilibrium creates.
+- [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related

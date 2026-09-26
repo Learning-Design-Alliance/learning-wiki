@@ -58,4 +58,6 @@ Secondary qualitative finding from the Coach Wright topic analysis: responses in
 
 
 ## Related Claims
--
+- [In the Jeremy's Journal simulation, Equality-mindset participants more often cited school policy while Equity-mindset participants prioritized the student's health](jeremy-journal-topics-track-equality-equity-mindsets.md) — related
+- [In Layers, Context-Centered-mindset participants drew on students' communities and home lives while Context-Neutral-mindset participants adapted content without students' out-of-school experiences](layers-topics-track-context-centered-mindsets.md) — related
+- [Structural topic modeling identifies simulation decision points indicative of different equity mindsets across four digital teaching simulations](stm-identifies-equity-mindset-decision-points-in-simulations.md) — a broader claim this one bears on

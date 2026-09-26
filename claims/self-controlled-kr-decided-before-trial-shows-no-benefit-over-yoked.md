@@ -60,3 +60,6 @@ Post hoc comparison on transfer absolute error in the same experiment: "the Self
 ## Related Claims
 - [Self Controlled Kr Decided After Trial Improves Motor Retention](self-controlled-kr-decided-after-trial-improves-motor-retention.md)
 - [Self Controlled Kr Decided After Trial Improves Motor Transfer](self-controlled-kr-decided-after-trial-improves-motor-transfer.md)
+- [During motor practice with knowledge of results, all groups reduced absolute error across blocks, and groups whose KR decision fell after the trial were more accurate during practice than groups whose decision fell before it, independent of choice.](motor-practice-accuracy-improves-across-blocks-and-favors-after-decision-groups.md) — related
+- [Learners who could decide after a trial whether to receive knowledge of results estimated their own movement outcomes more accurately in retention than Self-Before learners and their yoked counterparts.](self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy.md) — related
+- [On a motor transfer test, self-controlled knowledge-of-results groups estimated their outcomes more accurately than yoked groups, and among self-controlled groups Self-After and Self-Both were more accurate than Self-Before.](self-controlled-kr-groups-estimate-transfer-outcomes-more-accurately-than-yoked.md) — related

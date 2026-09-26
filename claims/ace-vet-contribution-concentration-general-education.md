@@ -41,4 +41,7 @@ The Executive Summary estimates the distribution of ACE VET provision across are
 
 
 ## Related Claims
--
+- [ACE providers are increasingly delivering recognised outcomes in the national VET system, with around 180 registered providers and 1.5-2% of national VET course activity](ace-providers-delivering-recognised-vet-outcomes.md) — related
+- [General Adult Education remains the heartland of the ACE sector, forming no less than 70% of ACE provision](general-adult-education-heartland-ace-sector.md) — related
+- [ACE providers deliver VET to equity target groups and to rural and remote communities where other VET provision is limited or non-existent](ace-vet-equity-groups-rural-remote-delivery.md) — related
+- [Many practices in adult literacy programs violate principles of learning for adults, including short-timeframe funding, isolated individualized learning, ignored learner experience, and non-meaningful materials](adult-literacy-programs-violate-adult-learning-principles.md) — related

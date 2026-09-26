@@ -70,7 +70,10 @@ Participants studied prose passages and then either repeatedly restudied them or
 ## Related Claims
 
 - [Spaced practice improves long-term retention](spaced-practice-improves-retention.md) — spacing and retrieval interact; spaced retrieval is the strongest durable-learning combination
-- [Testing improves retention of learned material](testing-effect-improves-retention.md) — the core testing effect on retention, of which transfer is an extension
+- [Testing improves retention of learned material](retrieval-practice-improves-retention.md) — the core testing effect on retention, of which transfer is an extension
 - [Feedback improves learning outcomes](feedback-improves-learning.md) — feedback after retrieval attempts is a key moderator of retrieval benefits
 - [Desirable difficulties enhance learning](desirable-difficulties-enhance-learning.md) — retrieval practice is the canonical desirable difficulty
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — successful retrieval depends on material being within working-memory limits
+- [The benefits of retrieval practice do not depend on an exact match between initial retrieval practice conditions and the final test format](retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats.md) — related
+- [Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not](retrieval-practice-improves-final-inference-and-transfer-questions.md) — a narrower finding that bears on this claim
+- [Students given retrieval practice instructions spontaneously used a repeated retrieval strategy on new materials one week later without further instructions](spontaneous-strategy-transfer-one-week-delay.md) — related

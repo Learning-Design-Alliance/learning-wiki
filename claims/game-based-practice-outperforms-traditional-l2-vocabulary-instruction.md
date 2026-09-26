@@ -69,3 +69,5 @@ either alone](pairing-contextual-encounters-with-explicit-instruction-produces-s
 - [A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does](l1-predicts-l2-phoneme-perception-more-than-proficiency.md) — the same first-language-gap effect, measured
 - [Pairing contextual encounters with explicit instruction produces stronger vocabulary outcomes than either alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — the stronger general claim about vocabulary instruction
 - [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — the limit on exposure alone, which an immersion context makes easy to overestimate
+- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
+- [Number Board Games Improve Numerical Knowledge](number-board-games-improve-numerical-knowledge.md) — related

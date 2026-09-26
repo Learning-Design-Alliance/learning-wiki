@@ -41,4 +41,8 @@ Content analysis of open-ended questionnaire responses from 20 academicians at o
 
 
 ## Related Claims
--
+- [Academics most often name Facebook as the Web 2.0 tool they use to realise belonging and love needs](academics-prefer-facebook-belonging-love.md) — related
+- [Academics most often name Gmail and Google Drive as the Web 2.0 tools they use to realise safety needs](academics-prefer-gmail-google-drive-safety.md) — related
+- [Academics most often name Instagram and LinkedIn as the Web 2.0 tools they use to realise esteem needs](academics-prefer-instagram-linkedin-esteem.md) — related
+- [Academics most often name smartphones and personal computers as the tools they use to realise physiological needs](academics-prefer-smartphones-pcs-physiological.md) — related
+- [Academics hold both positive and negative views of Web 2.0 tools for self-actualisation, with creativity skills the most frequent positive and time loss the most frequent negative](web20-self-actualisation-views-mixed.md) — related

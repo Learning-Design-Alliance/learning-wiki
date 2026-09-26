@@ -41,4 +41,7 @@ Questionnaire item asking teachers to identify cognitive load's types. The artic
 
 
 ## Related Claims
--
+- [Algerian university teachers of English lack sufficient knowledge of cognitive load theory](algerian-efl-teachers-lack-clt-knowledge.md) — related
+- [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — a broader claim this one bears on
+- [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — a broader claim this one bears on
+- [Despite ignorance of CLT, surveyed teachers report using some of its principles when designing instructions](teachers-use-clt-principles-despite-ignorance.md) — related

@@ -19,7 +19,7 @@ Multimedia design is the deliberate arrangement of words (spoken or printed) and
 
 ## Design Implications
 
-Multimedia design is grounded in Cognitive Theory of Multimedia Learning: learners process visual and auditory information through separate channels of limited working-memory capacity, so design choices determine whether capacity is spent on essential processing or wasted on extraneous load [Cognitive overload degrades learning outcomes.](../claims/cognitive-overload-degrades-learning.md) [+S]. The strongest-supported moves are removing decorative but irrelevant material [Irrelevant seductive details hurt learning.](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [+S], breaking continuous media into learner-paced segments, and highlighting essential content with cues. Combining words with relevant images reliably outperforms words alone [Pairing words with relevant images improves learning over words alone.](../claims/multimedia-words-plus-images-beat-words-alone.md) [+S], consistent with [Dual Coding Theory](../theories/dual-coding-theory.md).
+Multimedia design is grounded in Cognitive Theory of Multimedia Learning: learners process visual and auditory information through separate channels of limited working-memory capacity, so design choices determine whether capacity is spent on essential processing or wasted on extraneous load [Cognitive overload degrades learning outcomes.](../claims/cognitive-overload-degrades-learning.md) [+S]. The strongest-supported moves are removing decorative but irrelevant material [Irrelevant seductive details hurt learning.](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [+S], breaking continuous media into learner-paced segments, and highlighting essential content with cues. Combining words with relevant images reliably outperforms words alone [Pairing words with relevant images improves learning over words alone.](../claims/multimedia-principle-improves-learning.md) [+S], consistent with [Dual Coding Theory](../theories/dual-coding-theory.md).
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Multimedia design is grounded in Cognitive Theory of Multimedia Learning: learne
 - Segmentation controls (pause, next) or pre-segmented chunks for complex material
 
 #### Constraints
-- Redundant on-screen text read aloud verbatim from narration hurts learning [Redundant on-screen text with narration hurts learning.](../claims/redundancy-principle-on-screen-text-hurts-learning.md) [~S] — the effect reverses when learners are non-native speakers or the text is short
+- Redundant on-screen text read aloud verbatim from narration hurts learning [Redundant on-screen text with narration hurts learning.](../claims/redundancy-effect-impairs-learning.md) [~S] — the effect reverses when learners are non-native speakers or the text is short
 - Over-signaling (cuing everything) eliminates the benefit of signaling [~M]
 - Learner-paced segmentation helps novices but can be unnecessary overhead for experts [~M]
 - Decorative graphics and background music consume capacity without aiding learning [Irrelevant seductive details hurt learning.](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [-S]

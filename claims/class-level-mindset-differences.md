@@ -41,4 +41,6 @@ MANOVA across four class levels (N=1409). Tukey tests showed second-year student
 
 
 ## Related Claims
--
+- [Incremental theory and performance goal orientation differ across university departments, but entity and learning goal orientation do not](department-differences-mindset-goal-orientation.md) — related
+- [Entity theory correlates positively with performance goal orientation and incremental theory with learning goal orientation among student teachers](mindset-goal-orientation-correlation-student-teachers.md) — related
+- [Turkish student teachers score higher on entity theory than incremental theory and on performance goal orientation than learning goal orientation](turkish-student-teachers-entity-performance-higher.md) — related

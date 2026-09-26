@@ -52,7 +52,7 @@ streak or a rebuilt queue misrepresents their position — and, for learners who
 rather than daily use, may be the moment they stop.
 
 **This is not an argument against spacing.** [Spacing Improves Long Term
-Retention](spacing-improves-long-term-retention.md) [+S] is about how to schedule practice that
+Retention](spaced-practice-improves-retention.md) [+S] is about how to schedule practice that
 happens; this is about what to assume when practice did not happen. A system can hold both: schedule
 for spacing, and do not treat an unplanned gap as loss until it is measured.
 
@@ -68,6 +68,11 @@ Nothing here says where retention falls off.
 
 ## Related Claims
 
-- [Spacing Improves Long Term Retention](spacing-improves-long-term-retention.md) — how to schedule practice, as against what to assume when it lapses
+- [Spacing Improves Long Term Retention](spaced-practice-improves-retention.md) — how to schedule practice, as against what to assume when it lapses
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — the practice mechanism whose absence this claim is about
 - [A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does](l1-predicts-l2-phoneme-perception-more-than-proficiency.md) — also finds a nominal level to be a poor description of an individual
+- [Three weeks of explicit language-focused strategy instruction produced no significant word-problem gain in this study](explicit-strategy-instruction-no-significant-gain.md) — related
+- [Game-based vocabulary practice produced larger gains than traditional instruction for newly arrived migrant children.](game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md) — related
+- [Speaking gains were significant for fluency, pronunciation and vocabulary but not for grammar](ideation-discussion-speaking-gains-not-grammar.md) — related
+- [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
+- [Final-test reading comprehension after retrieval practice does not differ significantly between an immediate test and a test delayed by three weeks](retrieval-practice-reading-comprehension-no-significant-retention-interval-difference.md) — related

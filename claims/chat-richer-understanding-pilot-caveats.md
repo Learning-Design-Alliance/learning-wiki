@@ -42,4 +42,6 @@ Authors' assessment in the Limitations section: the CHAT approach gave richer un
 
 
 ## Related Claims
--
+- [Traditional cognitive and CHAT paradigms differ on six dimensions of learning research (definition of learning, technology's role, assessment focus, context, evaluator role, data collection)](chat-versus-cognitive-paradigm-comparison.md) — a broader claim this one bears on
+- [After the IDEAS academy, both studied teachers' classrooms moved toward more student-centered methods, with inquiry and collaborative learning emerging](academy-shift-toward-student-centered-methods.md) — related
+- [Both case-study teachers increased web and technology use for lesson preparation, presentation, and classroom exploration over the project](increased-web-technology-use-over-project.md) — related

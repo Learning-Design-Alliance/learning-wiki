@@ -75,4 +75,5 @@ The chapter reports Chan (2009), where randomizing sentence order disrupted rela
 
 
 ## Related Claims
--
+- [Question prompts improve learning](question-prompts-improve-learning.md) — related
+- [Retrieval practice enhances final-test recollection of contextual details and speeds final retrieval, as shown by list discrimination, response time, and cumulative recall measures](retrieval-practice-enhances-final-context-memory-and-memory-search-efficiency.md) — related

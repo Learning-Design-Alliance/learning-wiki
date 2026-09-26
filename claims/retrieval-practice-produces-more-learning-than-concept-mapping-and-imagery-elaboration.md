@@ -59,4 +59,8 @@ The chapter reports a series of vocabulary-learning experiments by Karpicke and 
 
 ## Related Claims
 - [Concept Mapping Improves Learning](concept-mapping-improves-learning.md)
-- [Retrieval Practice Improves Learning](retrieval-practice-improves-learning.md)
+- [Retrieval Practice Improves Learning](retrieval-practice-improves-retention.md)
+- [The same quizzing or concept-mapping activity produces more learning when done without viewing the material, as retrieval, than while viewing it](closed-book-versions-of-quizzes-and-concept-maps-outperform-open-book-versions.md) — related
+- [Retrieval practice benefits extend to nonverbal visual materials, spatial map learning, and educational texts with different structures](retrieval-practice-benefits-extend-to-nonverbal-spatial-and-differently-structured-text-materials.md) — related
+- [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](less-initial-retrieval-support-produces-better-retention.md) — related
+- [Mnemonic Instruction Improves Recall For Students With Disabilities](mnemonic-instruction-improves-recall-for-students-with-disabilities.md) — related

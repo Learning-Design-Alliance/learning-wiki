@@ -41,4 +41,7 @@ Study 1 within-subjects eye-tracking experiment with 32 English-Mandarin bilingu
 
 
 ## Related Claims
--
+- [Multimedia features improved story comprehension in dual-language e-books (marginal trend) but not in single-language e-books](comprehension-benefit-dual-language-only.md) — related
+- [Audio narration with finger-tracking animation directs bilingual preschoolers' attention to the target-language print in dual-language e-books, including the nondominant language](enhancing-features-direct-attention-dual-language-e-books.md) — related
+- [Without a competing language, bilingual preschoolers show no preference between English-only and Mandarin-only books during silent reading](no-language-preference-single-language-silent-reading.md) — related
+- [The attention-guiding effect of narration-plus-animation is phase-dependent: target-language attention drops significantly after the animation ends](animation-phase-dependent-attention-to-print.md) — related

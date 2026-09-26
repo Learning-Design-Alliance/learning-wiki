@@ -41,4 +41,6 @@ Content analysis of informant interviews with four teachers with the most advanc
 
 
 ## Related Claims
--
+- [Early self- and task-related concerns are maintained alongside later impact concerns as adoption of complex technologies advances, modifying the sequential CBAM conception](early-concerns-maintained-alongside-later-concerns.md) — related
+- [Collegial interaction among adopting teachers increased over time, spanning informational, personal, management, consequence, and collaboration concerns](increasing-collegial-interaction-across-concern-stages.md) — related
+- [Switching to an updated synchronous platform catalysed the teacher's ongoing teaching innovation](platform-switch-catalyses-teaching-innovation.md) — related

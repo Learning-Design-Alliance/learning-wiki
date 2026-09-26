@@ -41,4 +41,5 @@ The review reports Robinson and Mervis's (1998) longitudinal study of one child'
 
 
 ## Related Claims
--
+- [Language subsystems may show supportive, competitive, or precursor relationships depending on available cognitive resources](subsystems-show-supportive-competitive-precursor-relationships.md) — a broader claim this one bears on
+- [Review reports syntactic complexity and accuracy shift from competitive to connected growers over time in Chinese learners of English](syntactic-complexity-accuracy-competitive-then-connected-growers.md) — related

@@ -32,7 +32,7 @@ Scenario-based learning works because it situates knowledge in the context of us
 - High-fidelity scenarios are expensive to build; low-fidelity versions with trivial decisions produce no better learning than direct instruction [~M]
 - Overly complex scenarios can overwhelm novices — extraneous narrative detail competes with to-be-learned content for working memory [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-S]
 - Learners can learn to "game" branching scenarios by trial-and-error clicking if consequences are not meaningful and feedback is not explanatory [-M]
-- A single scenario teaches the case, not the principle; transfer requires multiple contrasting scenarios [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improve-learning.md) [+M]
+- A single scenario teaches the case, not the principle; transfer requires multiple contrasting scenarios [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 #### Implementation Variability
 - **Branching simulations** — choices alter the story path; strongest for decision-making skills (e.g., medical triage, conflict management)
@@ -55,7 +55,7 @@ Scenario-based learning works because it situates knowledge in the context of us
 2. Write a scenario frame with a realistic trigger event and stakes.
 3. Design 2–4 consequential decision points with plausible distractors based on documented misconceptions.
 4. Author explanatory feedback for each option, linking outcomes to principles ([Feedback](../elements/feedback.md)).
-5. Sequence multiple varied scenarios so learners compare cases and abstract the underlying rule [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improve-learning.md) [+M].
+5. Sequence multiple varied scenarios so learners compare cases and abstract the underlying rule [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 6. Debrief: have learners articulate the principles before the system states them ([Self-Explanation](../elements/self-explanation.md)).
 
 ## Related Strategies

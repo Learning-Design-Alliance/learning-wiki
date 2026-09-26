@@ -41,4 +41,7 @@ Observational comparison of upper-division GPA (intro-physics grades removed) fo
 
 
 ## Related Claims
--
+- [Only bioscience graduates who took CLASP (2000-2001) had significantly higher UDGPA than transfer students in their majors, unlike 1993-1994 graduates and non-bioscience majors](clasp-bio-freshmen-beat-transfers-udgpa.md) — related
+- [Students who took the first quarter of CLASP before general chemistry earned significantly higher chemistry grades in all three quarters of the chemistry sequence](clasp-first-quarter-boosts-chemistry-grades.md) — related
+- [CLASP students' MCAT Physical Science scores were slightly higher than Physics 5 students', but the difference was not statistically significant; Biological Science scores were identical on average](clasp-mcat-no-significant-difference.md) — related
+- [CLASP students achieved an average normalized FCI gain of 0.39, above the traditional-course range and in the middle of the interactive-engagement range, despite only about a third of one quarter on mechanics](clasp-fci-normalized-gain.md) — related

@@ -54,3 +54,8 @@ A meta-analysis of studies that induced self-explanation — a generative strate
 - [Annotating improves learning](annotating-improves-learning.md) — annotation is a common generative strategy, effective when it transforms meaning rather than copies it
 - [Activation improves learning](activation-improves-learning.md) — generation works by connecting new material to activated prior knowledge
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — generative tasks add load; managing that load determines whether the effort is germane
+- [Elaborative Encoding Improves Retention](elaborative-encoding-improves-retention.md) — possibly the same claim (merge candidate)
+- [Self-explanation improves learning](self-explanation-improves-learning.md) — related
+- [Generative Learning Improves Comprehension](generative-learning-improves-comprehension.md) — related
+- [Generative processing improves learning](generative-processing-improves-learning.md) — possibly the same claim (merge candidate)
+- [Self Explanation Prompts Improve Learning From Worked Examples](self-explanation-prompts-improve-learning-from-worked-examples.md) — a narrower finding that bears on this claim

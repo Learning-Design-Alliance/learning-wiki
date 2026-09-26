@@ -48,3 +48,6 @@ This is one of the stronger-evidence sources in this ingestion round: a randomiz
 
 ## Related Claims
 - (none yet linked)
+- [Including practice with feedback in computer-based instruction significantly raises posttest achievement](practice-presence-raises-cbi-posttest-achievement.md) — a broader claim this one bears on
+- [Generative (Constructive) engagement by young children produces better learning than attentive (Passive) engagement](constructive-beats-passive-young-children.md) — related
+- [Elementary students prefer and can evaluate mechanistic explanations using explanatory power and accuracy criteria](elementary-students-prefer-mechanistic-explanations.md) — related

@@ -41,4 +41,7 @@ The article's conceptual argument at the formal education level states that a de
 
 
 ## Related Claims
--
+- [Class discussion is widely used among students attaining knowledge outcomes, while race and political topics are underused despite association with civic competence](discussion-common-race-political-topics-underused.md) — related
+- [Civic competence items cluster into four epistemological components (knowledge, skills, attitudes, actions) in community-based learning course surveys](civic-competence-four-epistemological-components.md) — related
+- [Exploration of diversity is associated with all civic competence outcomes in community-based learning courses](diversity-enhances-all-civic-competence-outcomes.md) — related
+- [A syllabus that clearly connects service work to course content shows the strongest relationship with civic competence outcomes](syllabus-service-content-connection-strongest-pedagogical-relationship.md) — related

@@ -25,7 +25,7 @@ sources:
 # Ongoing Feedback and Reflection
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 10 claims (5 for, 2 mixed, 3 against) · 14 studies, `q2`–`q4` · 9 of 14 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (4 for, 2 mixed, 3 against) · 14 studies, `q2`–`q4` · 9 of 14 report an effect size · 3 claims rest on one study
 
 ## Description
 Ongoing feedback and reflection is a sustained arrangement rather than an event: feedback arrives at regular, predictable points, and each time it does, the learner is required to do something deliberate with it — record what it said, judge their own work against the same criteria first, decide what to change, and later check whether the change worked. Run over a term rather than a task, the pattern shifts responsibility: early cycles are dominated by the instructor's judgement, later ones by the learner's, with the instructor's role reducing to confirming or correcting a judgement the learner has already made.
@@ -34,7 +34,7 @@ Ongoing feedback and reflection is a sustained arrangement rather than an event:
 
 The strategy's justification is Nicol and Macfarlane-Dick's argument that the point of feedback is not to correct the current work but to build the learner's capacity to evaluate their own — feedback that produces a better draft and no better self-assessment has spent the instructor's time to buy a one-off improvement. Structured reflection is the mechanism that converts one into the other, and its effectiveness depends heavily on the structure [Reflective Practice Improves Outcomes When Structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+M]. Unstructured reflection — "write about how the project went" — has a notably weaker and more inconsistent evidence base [Reflective practice shows mixed evidence of effectiveness in professional education](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [~M].
 
-Self-assessment against explicit criteria is the specific form that works, because it gives the reflection something external to check against rather than leaving learners to introspect on their own competence [Self Assessment Against Criteria Supports Self Regulated Learning](../claims/self-assessment-against-criteria-supports-self-regulated-learning.md) [+M]. Without criteria, learners' self-judgements are poorly calibrated [Self Assessment Accuracy Is Low Without Training](../claims/self-assessment-accuracy-is-low-without-training.md) [-M], and confident fluency is systematically mistaken for understanding [Fluent Illusions Mislead Self Assessment](../claims/fluent-illusions-mislead-self-assessment.md) [-M].
+Self-assessment against explicit criteria is the specific form that works, because it gives the reflection something external to check against rather than leaving learners to introspect on their own competence [Self Assessment Against Criteria Supports Self Regulated Learning](../claims/self-assessment-improves-self-regulated-learning.md) [+M]. Without criteria, learners' self-judgements are poorly calibrated [Self Assessment Accuracy Is Low Without Training](../claims/self-assessment-accuracy-is-low-without-training.md) [-M], and confident fluency is systematically mistaken for understanding [Fluent Illusions Mislead Self Assessment](../claims/fluent-illusions-mislead-self-assessment.md) [-M].
 
 ### Context
 #### Requirements

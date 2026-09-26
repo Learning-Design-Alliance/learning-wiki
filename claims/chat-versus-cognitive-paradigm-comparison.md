@@ -41,4 +41,5 @@ A conceptual comparison (Table 1, adapted from Matheson et al., 1999) contrastin
 
 
 ## Related Claims
--
+- [The CHAT approach yielded richer understanding of technology integration than a cognitive paradigm, but pilot findings must be interpreted cautiously (two subjects only)](chat-richer-understanding-pilot-caveats.md) — a narrower finding that bears on this claim
+- [Effective learning environments depend on the interaction of four overlapping frames rather than their compartmentalization](four-learning-environment-frames-interact.md) — related

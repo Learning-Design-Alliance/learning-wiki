@@ -41,4 +41,8 @@ In the Discussion, the authors state "the change in tools that caused the most d
 
 
 ## Related Claims
--
+- [In web-based high-school distance education, e-teachers widened the object of their teaching activity toward more independent and engaged forms of learning](e-teachers-widen-object-toward-independent-learning.md) — related
+- [The authors argue formative feedback is critical for making student behaviour 'seen' in asynchronous online learning where the teacher is not physically present](feedback-makes-behaviour-seen-asynchronous.md) — related
+- [Creating community and interacting with students online required deliberate, planned effort unlike spontaneous face-to-face co-presence](online-community-requires-conscious-effort.md) — related
+- [SCMD activity systems exhibit three categories of rules and four types of participant roles](scmd-rules-and-division-of-labor.md) — related
+- [Cultural mediation has four implications, including that artifacts fundamentally transform mental functioning and the mind is distributed in artifacts](cultural-mediation-four-implications-artifacts-transform-mind.md) — a broader claim this one bears on

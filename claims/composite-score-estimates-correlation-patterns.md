@@ -58,4 +58,7 @@ Same correlation analysis (Table 3.2), which prints UIRT Speaking correlations o
 
 
 ## Related Claims
--
+- [Model-fit statistics disagree on the best calibration for the Oral scale in the lower elementary population but agree on a two-dimensional model for the upper elementary population](mirt-model-fit-inconsistent-lower-elementary.md) — related
+- [Exploratory factor analysis indicates the Oral composite domain is possibly two-dimensional while each single subtest appears one-dimensional, with mixed MIRT model-fit evidence on the two-dimensional structure](oral-composite-domain-two-dimensional-english-proficiency.md) — related
+- [In concurrent unidimensional calibration the Speaking subtest dominates the Oral scale score while Listening and Speaking correlate only moderately](speaking-dominates-concurrent-oral-scale.md) — related
+- [Multidimensional latent variable models rarely support more than about four to six latent variables, limiting fine-grained SKIVE modeling](latent-variable-models-limit-grain-size.md) — related

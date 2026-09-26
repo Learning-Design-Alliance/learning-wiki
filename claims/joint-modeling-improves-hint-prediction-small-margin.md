@@ -41,4 +41,5 @@ Comparison of Colearn against DKVMN-hints in the results (Table 3: 91.75 vs 91.1
 
 
 ## Related Claims
--
+- [Adding hint-taking as an auxiliary task slightly improves knowledge tracing performance on both datasets](auxiliary-hint-task-improves-knowledge-tracing.md) — related
+- [A memory-augmented deep learning model improves hint-taking prediction by 12-15 AUC points over a fixed-length history baseline on two datasets](memory-augmented-model-improves-hint-prediction.md) — related

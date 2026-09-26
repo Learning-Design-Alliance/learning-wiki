@@ -41,4 +41,6 @@ Findings section of the qualitative discourse analysis: endorsed narratives in G
 
 
 ## Related Claims
--
+- [Five socio-didactic-mathematical norms can be inferred from pre-service secondary mathematics teachers' discourse while solving a didactic-mathematical task](five-sdmns-inferred-preservice-teacher-discourse.md) — a broader claim this one bears on
+- [The inferred norms show features of a traditional teacher perspective, while SDMN 4 shows features of a perception-based perspective](sdmns-relate-to-traditional-and-perception-based-perspectives.md) — related
+- [Two inferred norms concern teachers' role, with the teacher-validation norm appearing in all participating groups](sdmns-teacher-role-validation-all-groups.md) — related

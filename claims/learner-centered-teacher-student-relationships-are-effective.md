@@ -74,3 +74,8 @@ The meta-analysis covers 99 studies of students from preschool to high school an
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — learner-centered practice includes responsive, formative feedback
 - [Active learning improves exam performance](active-learning-improves-exam-performance.md) — relational climate may moderate the effectiveness of active formats
 - [Check-ins](../elements/check-in.md) — a concrete classroom element for building relational awareness
+- [Attending to affect in co-design supports community formation and cross-scale transfer](attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) — a narrower finding that bears on this claim
+- [The study's correlational, cross-sectional design limits internal validity and causal interpretation](correlational-design-limits-epistemic-freedom-study.md) — related
+- [Teacher Student Relationships Improve Engagement](teacher-student-relationships-improve-engagement.md) — related
+- [Teacher Student Relationships Improve Engagement And Achievement](teacher-student-relationships-improve-engagement-and-achievement.md) — related
+- [Positive SLAM-student relationship qualities correlate with civic action](slam-relationship-quality-correlates-civic-action.md) — related

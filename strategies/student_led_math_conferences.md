@@ -19,7 +19,7 @@ Throughout the year, teachers hold brief personal math conferences with individu
 
 ## Design Implications
 
-Student-led conferences operationalize [Assessment for Learning](../principles/assessment-for-learning.md): the conference turns assessment data into a conversation the student participates in rather than a judgment delivered to them [Formative assessment and feedback practices improve achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S]. Because students must articulate what they understand, where they struggled, and what they will do next, the conference builds self-regulatory skills — self-monitoring, goal setting, and strategy adjustment — that generalize beyond mathematics [Self-regulated learning processes improve academic outcomes.](../claims/self-regulated-learning-strategies-improve-achievement.md) [+M]. Goal setting is most effective when goals are specific and proximal rather than vague or distant [Specific, challenging goals improve performance.](../claims/goal-setting-improves-performance.md) [+S].
+Student-led conferences operationalize [Assessment for Learning](../principles/assessment-for-learning.md): the conference turns assessment data into a conversation the student participates in rather than a judgment delivered to them [Formative assessment and feedback practices improve achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S]. Because students must articulate what they understand, where they struggled, and what they will do next, the conference builds self-regulatory skills — self-monitoring, goal setting, and strategy adjustment — that generalize beyond mathematics [Self-regulated learning processes improve academic outcomes.](../claims/self-regulated-learning-improves-achievement.md) [+M]. Goal setting is most effective when goals are specific and proximal rather than vague or distant [Specific, challenging goals improve performance.](../claims/goal-setting-improves-performance.md) [+S].
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ Student-led conferences operationalize [Assessment for Learning](../principles/a
 
 ### Target Learning Goals
 - Metacognitive: self-assessment, monitoring one's own understanding, evaluating evidence of learning
-- Self-regulation: setting specific goals and selecting strategies to reach them [Self-regulated learning processes improve academic outcomes.](../claims/self-regulated-learning-strategies-improve-achievement.md) [+M]
+- Self-regulation: setting specific goals and selecting strategies to reach them [Self-regulated learning processes improve academic outcomes.](../claims/self-regulated-learning-improves-achievement.md) [+M]
 - Mathematical communication: articulating reasoning and misconceptions in one's own words
 - Conceptual: identifying and naming specific gaps (e.g., regrouping in subtraction, unit fractions)
 

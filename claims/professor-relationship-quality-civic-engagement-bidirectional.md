@@ -41,4 +41,9 @@ Correlational analyses across all 125 participants examined professor-student NR
 
 
 ## Related Claims
--
+- [Conflict and antagonism with community partners negatively correlate with social justice and diversity attitudes](community-partner-conflict-negatively-correlates-social-justice.md) — possibly the same claim (merge candidate)
+- [Exploration of diversity is associated with all civic competence outcomes in community-based learning courses](diversity-enhances-all-civic-competence-outcomes.md) — related
+- [Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged](positive-relationships-increase-civic-engagement-intention.md) — related
+- [Positive SLAM-student relationship qualities correlate with civic action](slam-relationship-quality-correlates-civic-action.md) — a narrower finding that bears on this claim
+- [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](service-learning-improves-civic-and-personal-outcomes.md) — related
+- [Traditional student participation mechanisms in Spain have been shown to be inefficient for promoting civic commitment](traditional-student-participation-inefficient-spain.md) — related

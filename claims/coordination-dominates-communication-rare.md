@@ -41,4 +41,6 @@ Interaction-type analysis of the meeting (Table 6, 15 phases over 389 coded turn
 
 
 ## Related Claims
--
+- [Communication, cooperation, and coordination were the most critical factors in successful CLASP programming](clasp-critical-success-factors-communication.md) — related
+- [Expansive learning moved epistemically from questioning to analysis, modeling and implementation while interactionally moving from coordination to cooperation and communication, but with no mechanical correspondence between specific actions and interaction types](no-mechanical-correspondence-actions-interaction.md) — related
+- [Transitions and disturbances were crucial for the dynamics of expansive learning in the meeting](disturbances-crucial-expansive-learning-dynamics.md) — related

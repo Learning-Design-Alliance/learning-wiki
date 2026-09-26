@@ -41,4 +41,8 @@ Multiple linear regression (Table 8) on a 455-respondent survey of Vietnamese un
 
 
 ## Related Claims
--
+- [Financial governance shows no statistically significant direct effect on governance effectiveness when modeled with other factors](finance-no-significant-direct-effect-governance.md) — related
+- [The original global citizenship scale is employable in a developing-country university context after adjustments to social responsibility and global competence](global-citizenship-scale-employable-developing-context.md) — related
+- [Evaluations of leadership competency increase with hierarchical position in Vietnamese universities](leadership-perception-gap-by-position.md) — related
+- [The policy-legal framework is the second strongest predictor of governance effectiveness in Vietnamese universities](policy-legal-second-predictor-governance.md) — related
+- [A six-factor measurement model of university governance shows convergent validity in the Vietnamese context](six-factor-governance-model-convergent-validity.md) — related

@@ -12,7 +12,7 @@ generated:
 # Think Aloud Modeling
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 12 studies, `q3`–`q4` · 9 of 12 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 12 studies, `q3`–`q4` · 9 of 12 report an effect size · 1 claim rests on one study
 
 ## Description
 Think-aloud modeling is a strategy in which an instructor performs a task — solving a problem, reading a text, debugging code, evaluating a source — while verbalizing the reasoning, self-monitoring, and decision points that normally remain tacit. It goes beyond showing *what* experts do to expose *how* and *why* they do it, including moments of confusion, revision, and self-correction. It is the narration method that makes [Demonstration](../elements/demonstration.md) effective.

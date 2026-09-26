@@ -41,4 +41,8 @@ Conclusions from the two-wave survey's analyses of news specials viewing (e.g., 
 
 
 ## Related Claims
--
+- [Late-evening local television news viewing increases with age and its consistency and parent-child similarity also rise](late-evening-local-news-increases-with-age.md) — related
+- [Magazine article reading about politics shows no age-related increase, low stability, and low parent-child similarity](magazine-political-reading-no-developmental-pattern.md) — related
+- [Network television news exposure does not increase with age and shows little intergenerational similarity](network-news-exposure-no-age-increase.md) — related
+- [Newspaper reading frequency increases systematically between ages 10 and 17 but remains below adult levels](newspaper-reading-increases-ages-10-17.md) — related
+- [Parent-child similarity in newspaper exposure peaks during early adolescence (ages 12-14)](parent-child-newspaper-similarity-peaks-early-adolescence.md) — related
