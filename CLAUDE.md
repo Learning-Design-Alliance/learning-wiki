@@ -110,6 +110,28 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-27 (night) — one health report covers evidence and links; the DOI check's 61 problems were 3
+
+- **`python3 scripts/wiki_health_check.py` is the general health report.** Beside lint, citation
+  conflicts, DOIs, duplicates and the TODO backlog (now naming the TODO pages), it carries
+  `scripts/health_evidence.py`'s section: load-bearing claims (3+ design pages) by what the judge
+  has on them at their current text (checked / an abstract could not settle it / not checkable /
+  never judged / open failure), how many rest on one study, abstract-only entries, `i1`–`i3` codes
+  with no effect size or test statistic in the entry, unmarked claim citations, and pages with no
+  link in or out. Offline and model-free (it reads only cached abstracts); every run appends to
+  `eval/health/history.ndjson`. Run on its own: `python3 scripts/health_evidence.py`.
+- **"DOI resolution problems: 61" was 3.** `doi_resolver.check_all` compared the registry title
+  with `check_citations`' 160-character excerpt, which a long author list ends before the title:
+  58 "resolves to a different paper" findings, 0 real. It reads `full_line` now, and accepts a
+  title that is the other's prefix (Crossref's "Two Strikes" for the page's full title), never
+  containment elsewhere, so the Bandura case is still refused. Of the other three, two were
+  parser bugs: `check_citations.DOI_RE` stopped at `[` in a SICI DOI, and `resolve_doi` put an
+  unencoded `#` into the Crossref URL. One was real: `10.1123/jpah.2017-0457` has no doi.org
+  handle; the Brusseau citation now carries Crossref's record, `10.1123/jpah.2016-0028`.
+- **The count of `i` codes with nothing behind them is 455, not 250**: the first figure matched
+  any stray letter. Raw means with no SD, "significant" with no number and a model's
+  "substantially" are what the rule means by an impact with no printed magnitude.
+
 ### 2026-09-27 (evening) — the load-bearing check has a runbook and runs in every batch
 
 - **`eval/load-bearing/README.md` is the procedure**: when to run `check_load_bearing.py`, how to
@@ -126,8 +148,8 @@ finds out.
   technologies", the LVN and STRP cases, the C/I-cycle classes and the BRT course-schedule
   proposal. One `link_claims.py` link joined that proposal to Behavioral Relaxation Training on the
   acronym "BRT" alone and was removed. Acronym collisions are a known risk of BM25 candidates.
-- **An open problem, found by this check and not fixed: 250 evidence entries code `i1`–`i3` with
-  no statistic anywhere in the entry**, and 621 carry a bare `q2 · i1` codes line. Most come from
+- **An open problem, found by this check and not fixed: 455 evidence entries code `i1`–`i3` with
+  no effect size or test statistic in the entry** (first counted as 250 with a looser match), and 621 carry a bare `q2 · i1` codes line. Most come from
   batches. The extraction prompt contradicts itself: v133 says `null` when no effect size is
   printed, and its code table two sections later still reads "0 = negligible/unclear/null/marginal".
   Recoding needs each source read, not a regex, and the prompt fix needs a benchmark run.

@@ -38,6 +38,7 @@ import argparse
 import html
 import json
 import re
+import urllib.parse
 import os
 import sys
 import time
@@ -120,7 +121,10 @@ def resolve_doi(doi: str) -> dict:
     "title": str|None, "checked_at": iso-date}. A 404 is a real, useful
     "this DOI does not exist" result, not an error — only a genuine
     network/transport failure raises (after MAX_RETRIES on 429/5xx)."""
-    url = f"{CROSSREF_BASE}{doi}"
+    # Encoded: a SICI-form DOI carries "#", "<" and ">", and an unencoded "#" is
+    # read as a URL fragment, so Crossref was asked for a DOI cut short there and
+    # answered 404 (Kuhlthau 1991, 2026-09-27). Characters DOIs commonly carry stay.
+    url = CROSSREF_BASE + urllib.parse.quote(doi, safe="/():;[],")
     contact = os.environ.get("EVAL_HARNESS_CONTACT_EMAIL", "")
     params = {"mailto": contact} if contact else {}
     compliance.guard(url)
@@ -288,6 +292,30 @@ def search_crossref(title_text: str, author_surname: str = None) -> list:
     return results
 
 
+_TITLE_AFTER_YEAR = re.compile(r"\((\d{4})[^)]*\)\.\s*(.+?)(?:\.\s*[\*\[]|\.\s*https?:|\*|$)")
+
+
+def _title_prefix(line: str, year: str, registry_title: str) -> bool:
+    """One title is the other with its end cut off: Crossref's "Two Strikes" for the
+    page's "Two strikes: Race and the disciplining of young students", or a page's
+    "The power of debate" for the registry's full title with its subtitle. A
+    truncated record is not a different paper (CLAUDE.md, known open work). Only a
+    PREFIX counts, never containment elsewhere, which is the trap that put a chapter
+    ABOUT social learning theory on 69 pages as Bandura (cc.titles_align)."""
+    m = _TITLE_AFTER_YEAR.search(line)
+    if not m:
+        return False
+    words = lambda t: re.findall(r"[a-z0-9]+", t.lower())
+    cited, reg = words(m.group(2)), words(registry_title)
+    short, long_ = (cited, reg) if len(cited) <= len(reg) else (reg, cited)
+    if len(short) >= 2 and long_[:len(short)] == short:
+        return True
+    # A one-word registry title is only a truncation when it is the page title's
+    # whole first segment before a colon (Haidet et al. 2012, "Perspective: ...").
+    head = words(m.group(2).split(":", 1)[0])
+    return ":" in m.group(2) and reg == head
+
+
 def check_all(page_types=None, force: bool = False, errors: list = None) -> list:
     """Returns flagged issues: [{"doi", "file", "line", "issue": "not_found"
     or "title_mismatch", "resolved_title"}]. Uses/updates the on-disk cache.
@@ -332,9 +360,13 @@ def check_all(page_types=None, force: bool = False, errors: list = None) -> list
                             "issue": "not_found", "resolved_title": None})
         elif result["title"]:
             year = entry["key"].rsplit("-", 1)[-1]
-            cited_words = cc._title_words(entry["line"], year)
+            # The full citation line, not the 160-character excerpt: with a long
+            # author list the excerpt ends before the title does, and 58 of 58
+            # "resolves to a different paper" findings on 2026-09-27 were that.
+            line = entry.get("full_line") or entry["line"]
+            cited_words = cc._title_words(line, year)
             resolved_words = cc._words_from_text(result["title"])
-            if not cc._same_paper(cited_words, resolved_words):
+            if not cc._same_paper(cited_words, resolved_words) and not _title_prefix(line, year, result["title"]):
                 issues.append({"doi": doi, "file": entry["source"], "line": entry["line"],
                                 "issue": "title_mismatch", "resolved_title": result["title"]})
 
