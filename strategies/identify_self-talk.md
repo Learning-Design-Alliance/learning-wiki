@@ -68,6 +68,6 @@ Identifying self-talk is the awareness-building first step in self-instructional
 
 ## Key Sources
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.
-- Meichenbaum, D. (1977). *Cognitive-behavior modification: An integrative approach*. Plenum Press. [doi:10.1007/978-1-4757-9739-8_10](https://doi.org/10.1007/978-1-4757-9739-8_10)
+- Meichenbaum, D. (1977). *Cognitive-behavior modification: An integrative approach*. Plenum Press. [doi:10.1007/978-1-4757-9739-8](https://doi.org/10.1007/978-1-4757-9739-8)
 - Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry. *American Psychologist, 34*(10), 906–911. [doi:10.1037/0003-066X.34.10.906](https://doi.org/10.1037/0003-066X.34.10.906)
 - Winsler, A., & Naglieri, J. (2003). Overt and covert verbal problem-solving strategies: Developmental trends in use, awareness, and relations with task performance in children aged 5 to 17. *Child Development, 74*(3), 659–677. [doi:10.1111/1467-8624.00561](https://doi.org/10.1111/1467-8624.00561)

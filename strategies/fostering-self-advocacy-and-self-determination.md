@@ -71,7 +71,7 @@ Self-determination instruction is grounded in [Self-Determination Theory](../the
 - **Capstone requirements** — states adopting longer-duration, student-directed capstone projects with public presentation and defense.
 
 ## Key Sources
-- Test, D. W., Fowler, C. H., Richter, S. M., White, J., Mazzotti, V., Walker, A. R., Kohler, P., & Kortering, L. (2009). Evidence-based practices in secondary transition. *Career Development for Exceptional Individuals, 32*(2), 115–128.
+- Test, D. W., Fowler, C. H., Richter, S. M., White, J., Mazzotti, V., Walker, A. R., Kohler, P., & Kortering, L. (2009). Evidence-based practices in secondary transition. *Career Development for Exceptional Individuals, 32*(2), 115–128. [doi:10.1177/0885728809336859](https://doi.org/10.1177/0885728809336859)
 - Wehmeyer, M. L., & Palmer, S. B. (2003). Adult outcomes for students with cognitive disabilities three-years after high school: The impact of self-determination. *Education and Training in Developmental Disabilities, 38*(2), 131–144.
 - Shogren, K. A., Wehmeyer, M. L., Palmer, S. B., Rifenbark, G. G., & Little, T. D. (2015). Relationships between self-determination and postschool outcomes for youth with disabilities. *The Journal of Special Education, 48*(4), 256–265. [doi:10.1177/0022466913489733](https://doi.org/10.1177/0022466913489733)
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

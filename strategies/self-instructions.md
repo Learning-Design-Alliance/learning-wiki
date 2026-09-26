@@ -74,7 +74,7 @@ Self-instructions build metacognitive awareness by converting tacit problem-solv
 - **Reciprocal teaching in reading** — students rotate leading a small group through predicting, questioning, clarifying, and summarizing, effectively performing the teacher's self-instruction role.
 
 ## Key Sources
-- Meichenbaum, D. (1977). *Cognitive-behavior modification: An integrative approach*. Plenum Press. [doi:10.1007/978-1-4757-9739-8_10](https://doi.org/10.1007/978-1-4757-9739-8_10)
+- Meichenbaum, D. (1977). *Cognitive-behavior modification: An integrative approach*. Plenum Press. [doi:10.1007/978-1-4757-9739-8](https://doi.org/10.1007/978-1-4757-9739-8)
 - Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477. [doi:10.1207/s15516709cog1803_3](https://doi.org/10.1207/s15516709cog1803_3)
 - Graham, S., & Harris, K. R. (1989). Components analysis of cognitive strategy instruction: Effects on learning disabled students' compositions and self-efficacy. *Journal of Educational Psychology, 81*(3), 353–361. [doi:10.1037/0022-0663.81.3.353](https://doi.org/10.1037/0022-0663.81.3.353)
 - Schraw, G., & Moshman, D. (1995). Metacognitive theories. *Educational Psychology Review, 7*(4), 351–371. [doi:10.1007/BF02212307](https://doi.org/10.1007/BF02212307)

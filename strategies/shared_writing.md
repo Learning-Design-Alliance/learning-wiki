@@ -69,7 +69,7 @@ Shared writing is a form of collaborative modeling: the teacher makes expert com
 - Teachers using the [Talk for Writing](https://www.talk4writing.com) approach (Pie Corbett) jointly innovate on a "model text," rewriting a familiar story as a class before children write their own versions.
 
 ## Key Sources
-- Fisher, D., & Frey, N. (2013). *Better learning through structured teaching: A framework for the gradual release of responsibility* (2nd ed.). ASCD. [doi:10.1108/s2048-045820190000010006](https://doi.org/10.1108/s2048-045820190000010006)
+- Fisher, D., & Frey, N. (2013). *Better learning through structured teaching: A framework for the gradual release of responsibility* (2nd ed.). ASCD.
 - Graham, S., & Perin, D. (2007). Writing next: Effective strategies to improve writing of adolescents in middle and high schools. *Alliance for Excellent Education.*
 - Tompkins, G. E., & Collom, S. (2003). *Sharing writing: Interactive writing and shared writing in the classroom.* In G. E. Tompkins, *Literacy for the 21st century* (pp. 144–168). Merrill/Prentice Hall.
 - Pearson, P. D., & Gallagher, M. C. (1983). The instruction of reading comprehension. *Contemporary Educational Psychology, 8*(3), 317–344. [https://doi.org/10.1016/0361-476x(83)90019-x](https://doi.org/10.1016/0361-476x(83)90019-x)

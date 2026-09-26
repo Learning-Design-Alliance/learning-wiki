@@ -73,7 +73,7 @@ Language-sensitive instruction reduces the extraneous cognitive load of processi
 
 ## Key Sources
 - Cummins, J. (1979). Linguistic interdependence and the educational development of bilingual children. *Review of Educational Research, 49*(2), 222–251. [doi:10.3102/00346543049002222](https://doi.org/10.3102/00346543049002222)
-- August, D., & Shanahan, T. (Eds.). (2006). *Developing literacy in second-language learners: Report of the National Literacy Panel on Language-Minority Children and Youth.* Lawrence Erlbaum Associates. [doi:10.1080/10862960903340165](https://doi.org/10.1080/10862960903340165)
+- August, D., & Shanahan, T. (Eds.). (2006). *Developing literacy in second-language learners: Report of the National Literacy Panel on Language-Minority Children and Youth.* Lawrence Erlbaum Associates. [doi:10.4324/9781315094922](https://doi.org/10.4324/9781315094922)
 - Echevarría, J., Vogt, M., & Short, D. (2017). *Making content comprehensible for English learners: The SIOP model* (5th ed.). Pearson.
 - Gay, G. (2010). *Culturally responsive teaching: Theory, research, and practice* (2nd ed.). Teachers College Press.
 - Genesee, F., Lindholm-Leary, K., Saunders, W., & Christian, D. (2005). English language learners in U.S. schools: An overview of research findings. *Journal of Education for Students Placed at Risk (JESPAR), 10*(4), 363-385. [doi:10.1207/s15327671espr1004_2](https://doi.org/10.1207/s15327671espr1004_2)

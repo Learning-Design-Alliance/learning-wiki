@@ -69,7 +69,7 @@ Self-talk brainstorming is a form of guided rehearsal for metacognitive and emot
 
 ## Key Sources
 - Hatzigeorgiadis, A., Zourbanos, N., Galanis, E., & Theodorakis, Y. (2011). Self-talk and sports performance: A meta-analysis. *Perspectives on Psychological Science, 6*(4), 348–356. [doi:10.1177/1745691611413136](https://doi.org/10.1177/1745691611413136)
-- Meichenbaum, D. (1977). *Cognitive-behavior modification: An integrative approach.* Plenum Press. [doi:10.1007/978-1-4757-9739-8_10](https://doi.org/10.1007/978-1-4757-9739-8_10)
+- Meichenbaum, D. (1977). *Cognitive-behavior modification: An integrative approach.* Plenum Press. [doi:10.1007/978-1-4757-9739-8](https://doi.org/10.1007/978-1-4757-9739-8)
 - Wood, J. V., Perunovic, W. Q. E., & Lee, J. W. (2009). Positive self-statements: Power for some, peril for others. *Psychological Science, 20*(7), 860–866. [doi:10.1111/j.1467-9280.2009.02370.x](https://doi.org/10.1111/j.1467-9280.2009.02370.x)
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes.* Harvard University Press.
 - Dweck, C. S. (2006). *Mindset: The new psychology of success.* Random House.

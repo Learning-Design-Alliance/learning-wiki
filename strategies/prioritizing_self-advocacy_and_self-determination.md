@@ -70,6 +70,6 @@ Self-determination theory identifies autonomy, competence, and relatedness as ba
 
 ## Key Sources
 - Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78. [doi:10.1037/0003-066X.55.1.68](https://doi.org/10.1037/0003-066X.55.1.68)
-- Test, D. W., Fowler, C. H., Richter, S. M., White, J., Mazzotti, V., Walker, A. R., Kohler, P., & Kortering, L. (2009). Evidence-based practices in secondary transition. *Career Development for Exceptional Individuals, 32*(2), 115–128.
+- Test, D. W., Fowler, C. H., Richter, S. M., White, J., Mazzotti, V., Walker, A. R., Kohler, P., & Kortering, L. (2009). Evidence-based practices in secondary transition. *Career Development for Exceptional Individuals, 32*(2), 115–128. [doi:10.1177/0885728809336859](https://doi.org/10.1177/0885728809336859)
 - Wehmeyer, M. L. (2005). Self-determination and individuals with severe disabilities: Re-examining meanings and misinterpretations. *Research and Practice for Persons with Severe Disabilities, 30*(3), 113–120. [doi:10.2511/rpsd.30.3.113](https://doi.org/10.2511/rpsd.30.3.113)
 - Shogren, K. A., Wehmeyer, M. L., Palmer, S. B., Rifenbark, G. G., & Little, T. D. (2015). Relationships between self-determination and postschool outcomes for youth with disabilities. *The Journal of Special Education, 48*(4), 256–269. [doi:10.1177/0022466913489733](https://doi.org/10.1177/0022466913489733)

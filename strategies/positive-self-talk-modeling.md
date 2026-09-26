@@ -71,7 +71,7 @@ Modeling self-talk converts an invisible self-regulatory process into observable
 
 ## Key Sources
 - Meichenbaum, D., & Goodman, J. (1971). Training impulsive children to talk to themselves: A means of developing self-control. *Journal of Abnormal Psychology, 77*(2), 115–126. [doi:10.1037/h0030773](https://doi.org/10.1037/h0030773)
-- Meichenbaum, D. (1977). *Cognitive-Behavior Modification: An Integrative Approach*. Plenum Press. [doi:10.1007/978-1-4757-9739-8_10](https://doi.org/10.1007/978-1-4757-9739-8_10)
+- Meichenbaum, D. (1977). *Cognitive-Behavior Modification: An Integrative Approach*. Plenum Press. [doi:10.1007/978-1-4757-9739-8](https://doi.org/10.1007/978-1-4757-9739-8)
 - Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review, 84*(2), 191–215. [doi:10.1037/0033-295X.84.2.191](https://doi.org/10.1037/0033-295X.84.2.191)
 - Schunk, D. H., & Hanson, A. R. (1985). Peer models: Influence on children's self-efficacy and achievement. *Journal of Educational Psychology, 77*(3), 313–322. [doi:10.1037/0022-0663.77.3.313](https://doi.org/10.1037/0022-0663.77.3.313)
 - Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 13–39). Academic Press. [doi:10.1016/B978-012109890-2/50031-7](https://doi.org/10.1016/B978-012109890-2/50031-7)

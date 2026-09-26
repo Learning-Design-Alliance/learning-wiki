@@ -8,8 +8,7 @@ generated:
   at: 2026-09-26
 sources:
   - id: son-2022
-    resource: "https://doi.org/10.5278/ojs.jpblhe.v10i1.6821"
-    title: "Son, E. H., & Penry, T. (2022). Variations in Project-Based Course Design. Journal of Problem Based Learning in Higher Education, Vol. 10, No. 1. https://doi.org/10.5278/ojs.jpblhe.v10i1.6821"
+    title: "Son, E. H., & Penry, T. (2022). Variations in Project-Based Course Design. Journal of Problem Based Learning in Higher Education, Vol. 10, No. 1."
     author: "Son, E. H., & Penry, T"
 ---
 
@@ -45,4 +44,4 @@ The article proposes a 2x2 matrix for describing variations in project-based cou
 -
 
 ## Key Sources
-- Son, E. H., & Penry, T. (2022). Variations in Project-Based Course Design. Journal of Problem Based Learning in Higher Education, Vol. 10, No. 1. https://doi.org/10.5278/ojs.jpblhe.v10i1.6821
+- Son, E. H., & Penry, T. (2022). Variations in Project-Based Course Design. Journal of Problem Based Learning in Higher Education, Vol. 10, No. 1.

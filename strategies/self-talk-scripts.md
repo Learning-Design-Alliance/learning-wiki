@@ -70,7 +70,7 @@ Self talk scripts convert tacit self-regulation into explicit, rehearsed languag
 - **Test-anxiety coping scripts** — students rehearse "I've prepared for this; one question at a time" before and during exams, paired with brief relaxation cues.
 
 ## Key Sources
-- Meichenbaum, D. (1977). *Cognitive-Behavior Modification: An Integrative Approach*. Plenum Press. [doi:10.1007/978-1-4757-9739-8_10](https://doi.org/10.1007/978-1-4757-9739-8_10)
+- Meichenbaum, D. (1977). *Cognitive-Behavior Modification: An Integrative Approach*. Plenum Press. [doi:10.1007/978-1-4757-9739-8](https://doi.org/10.1007/978-1-4757-9739-8)
 - Meichenbaum, D., & Goodman, J. (1971). Training impulsive children to talk to themselves: A means of developing self-control. *Journal of Abnormal Psychology, 77*(2), 115–126. [doi:10.1037/h0030773](https://doi.org/10.1037/h0030773)
 - Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 13–39). Academic Press. [doi:10.1016/B978-012109890-2/50031-7](https://doi.org/10.1016/B978-012109890-2/50031-7)
 - Vygotsky, L. S. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press.

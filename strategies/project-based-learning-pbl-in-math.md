@@ -75,7 +75,7 @@ PBL enacts [Active Learning](../principles/active-learning.md) by placing learne
 - **Community-partnered projects** — students remedy a local food desert by planning a healthy restaurant, requiring cost modeling, unit rates, and nutritional data analysis.
 
 ## Key Sources
-- Boaler, J. (1998). Open and closed mathematics: Student approaches and understandings. *British Educational Research Journal, 24*(1), 41–62. [doi:10.5951/jresematheduc.29.1.0041](https://doi.org/10.5951/jresematheduc.29.1.0041)
+- Boaler, J. (1998). Open and closed mathematics: Student experiences and understandings. *Journal for Research in Mathematics Education, 29*(1), 41–62. [doi:10.5951/jresematheduc.29.1.0041](https://doi.org/10.5951/jresematheduc.29.1.0041)
 - Blumenfeld, P. C., Soloway, E., Marx, R. W., Krajcik, J. S., Guzdial, M., & Palincsar, A. (1991). Motivating project-based learning: Sustaining the doing, supporting the learning. *Educational Psychologist, 26*(3–4), 369–398. [doi:10.1080/00461520.1991.9653139](https://doi.org/10.1080/00461520.1991.9653139)
 - Krajcik, J. S., & Blumenfeld, P. C. (2006). Project-based learning. In R. K. Sawyer (Ed.), *The Cambridge Handbook of the Learning Sciences* (pp. 317–334). Cambridge University Press.
 - Thomas, J. W. (2000). *A review of research on project-based learning*. Autodesk Foundation.

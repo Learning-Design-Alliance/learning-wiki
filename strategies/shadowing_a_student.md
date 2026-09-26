@@ -67,6 +67,6 @@ Shadowing is a professional-learning strategy for educators rather than a direct
 
 ## Key Sources
 - Cook-Sather, A. (2002). Authorizing students' perspectives: Toward trust, dialogue, and change in education. *Educational Researcher, 31*(4), 3-14. [doi:10.3102/0013189x031004003](https://doi.org/10.3102/0013189x031004003)
-- Mitra, D. L. (2004). The significance of students: Can increasing "student voice" lead to gains in youth development? *Teachers College Record, 106*(4), 651–688.
+- Mitra, D. L. (2004). The significance of students: Can increasing "student voice" lead to gains in youth development? *Teachers College Record, 106*(4), 651–688. [doi:10.1111/j.1467-9620.2004.00354.x](https://doi.org/10.1111/j.1467-9620.2004.00354.x)
 - Patton, M. Q. (2002). *Qualitative research and evaluation methods* (3rd ed.). Sage.
 - School Retool. *Shadow a Student Challenge*. [https://www.shadowastudent.org](https://www.shadowastudent.org)

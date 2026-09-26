@@ -71,6 +71,6 @@ VR's value here comes from situational realism combined with safe, repeatable fa
 
 ## Key Sources
 - Makransky, G., & Petersen, G. B. (2021). The Cognitive Affective Model of Immersive Learning (CAMIL): A theoretical research-based model of learning in immersive virtual reality. *Educational Psychology Review, 33*, 937–959. [doi:10.1007/s10648-020-09586-2](https://doi.org/10.1007/s10648-020-09586-2)
-- Makransky, G., Terkildsen, T. S., & Mayer, R. E. (2019). Adding immersive virtual reality to a science lab simulation causes more presence but less learning. *Learning and Instruction, 60*, 225–236. [doi:10.1111/jcal.12335](https://doi.org/10.1111/jcal.12335)
+- Makransky, G., Terkildsen, T. S., & Mayer, R. E. (2019). Adding immersive virtual reality to a science lab simulation causes more presence but less learning. *Learning and Instruction, 60*, 225–236. [doi:10.1016/j.learninstruc.2017.12.007](https://doi.org/10.1016/j.learninstruc.2017.12.007)
 - Bailenson, J. (2018). *Experience on demand: What virtual reality is, how it works, and what it can do*. W. W. Norton.
 - Kirkley, S. E., & Kirkley, J. R. (2005). Creating next generation blended learning environments using mixed reality, Video Game and SIMLOO designs. *Journal of Technology, Learning, and Assessment, 3*(3).

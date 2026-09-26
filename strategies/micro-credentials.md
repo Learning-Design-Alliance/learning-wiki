@@ -69,6 +69,6 @@ Micro credentials operationalize [Competency-Based Assessment](../principles/com
 
 ## Key Sources
 - Oliver, B. (2019). Making micro-credentials work for learners, employers and providers. *Deakin University*. https://dteach.deakin.edu.au/2019/07/31/microcredentials-report/
-- Carey, K. (2016). The end of college-level credentialing? *Change: The Magazine of Higher Learning, 48*(1), 6–11. [doi:10.1080/00091383.2016.1121080](https://doi.org/10.1080/00091383.2016.1121080)
+- Carey, K. (2016). The end of college-level credentialing? *Change: The Magazine of Higher Learning, 48*(1), 6–11.
 - Wheelahan, L., & Moodie, G. (2021). Analysing micro-credentials in higher education: A Bernsteinian analysis. *Journal of Curriculum Studies, 53*(2), 212–228. [doi:10.1080/00220272.2021.1887358](https://doi.org/10.1080/00220272.2021.1887358)
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)

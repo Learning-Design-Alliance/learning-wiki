@@ -72,5 +72,5 @@ Think-alouds are a form of cognitive modeling: they convert tacit comprehension 
 - Bereiter, C., & Bird, M. (1985). Use of thinking aloud in identification and teaching of reading comprehension strategies. *Cognition and Instruction, 2*(2), 131–156. [doi:10.1207/s1532690xci0202_2](https://doi.org/10.1207/s1532690xci0202_2)
 - Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 1*(2), 117–175. [doi:10.1207/s1532690xci0102_1](https://doi.org/10.1207/s1532690xci0102_1)
 - Pressley, M., & Afflerbach, P. (1995). *Verbal protocols of reading: The nature of constructively responsive reading*. Lawrence Erlbaum Associates.
-- Ericsson, K. A., & Simon, H. A. (1993). *Protocol analysis: Verbal reports as data* (Rev. ed.). MIT Press. [doi:10.2307/2070501](https://doi.org/10.2307/2070501)
+- Ericsson, K. A., & Simon, H. A. (1993). *Protocol analysis: Verbal reports as data* (Rev. ed.). MIT Press. [doi:10.7551/mitpress/5657.001.0001](https://doi.org/10.7551/mitpress/5657.001.0001)
 

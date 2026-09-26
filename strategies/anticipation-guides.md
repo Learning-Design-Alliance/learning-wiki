@@ -71,5 +71,5 @@ Anticipation guides work by activating relevant prior knowledge before new mater
 - Duffelmeyer, F. A. (1994). Effective anticipation guide statements for learning from expository prose. *Journal of Reading, 37*(7), 539–543.
 - Head, M. H., Readence, J. E., & Buss, R. R. (1989). An examination of the effects of anticipation guides on second-grade students' comprehension. *Reading Psychology, 10*(4), 335–346.
 - Conley, M. W. (2008). Cognitive strategy instruction for adolescents: What we know about the promise of reading strategy instruction. *Adolescent Literacy Research and Practice.*
-- Vosniadou, S. (2013). Conceptual change in learning and instruction: From framework frames to theory building. *Proceedings of the European Science Education Research Association.* [doi:10.4324/9780203154472.ch1](https://doi.org/10.4324/9780203154472.ch1)
+- Vosniadou, S. (2013). Conceptual change in learning and instruction: From framework frames to theory building. *Proceedings of the European Science Education Research Association.*
 - Readence, J. E., Bean, T. W., & Baldwin, R. S. (2012). *Content area literacy: An integrated approach* (10th ed.). Kendall Hunt.

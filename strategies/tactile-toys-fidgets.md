@@ -69,7 +69,7 @@ Fidgets operate on the premise that some learners regulate attention through mov
 - Individualized regulation plans in which a student keeps a squeeze ball at a designated desk spot for use during independent reading, with weekly teacher–student review of whether it helps.
 
 ## Key Sources
-- Graziano, P. A., Garcia, A. M., & Landis, T. D. (2018). To fidget or not to fidget, that is the question: A classroom classroom study of fidget spinners, self-regulation, and students with ADHD. *Journal of Attention Disorders, 24*(1), 163–171. [doi:10.1177/1087054718770009](https://doi.org/10.1177/1087054718770009)
+- Graziano, P. A., Garcia, A. M., & Landis, T. D. (2018). To fidget or not to fidget, that is the question: A systematic classroom evaluation of fidget spinners among young children with ADHD. *Journal of Attention Disorders, 24*(1), 163–171. [doi:10.1177/1087054718770009](https://doi.org/10.1177/1087054718770009)
 - Pfeiffer, B., Clark, G. F., & Arbesman, M. (2011). Effectiveness of sensory integration interventions in children with autism spectrum disorders: A pilot study. *American Journal of Occupational Therapy, 65*(1), 76–85. [doi:10.5014/ajot.2011.09205](https://doi.org/10.5014/ajot.2011.09205)
 - Kercood, S., Grskovic, J. A., Banda, D., & Begeske, J. (2014). The effects of fidgets on fine motor skills of students with disabilities. *Journal of Occupational Therapy, Schools, & Early Intervention, 7*(2), 121–128.
 - Stalvey, S., & Brasell, H. (2006). Using stress balls to focus the attention of sixth-grade learners. *Journal of At-Risk Issues, 12*(2), 7–16.

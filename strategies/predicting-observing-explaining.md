@@ -72,4 +72,4 @@ POE works because the prediction phase activates prior conceptions and exposes t
 - Gunstone, R. F., & White, R. T. (1981). Understanding of gravity. *Science Education, 65*(3), 291–299. [doi:10.1002/sce.3730650308](https://doi.org/10.1002/sce.3730650308)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Freeman, S., et al. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
-- Vosniadou, S. (2013). Conceptual change in learning and instruction: From framework frameworks to productive conceptual change thinking. *Advances in Learning Environments Research.* [doi:10.4324/9780203154472.ch1](https://doi.org/10.4324/9780203154472.ch1)
+- Vosniadou, S. (2013). Conceptual change in learning and instruction: From framework frameworks to productive conceptual change thinking. *Advances in Learning Environments Research.*

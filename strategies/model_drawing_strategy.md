@@ -71,7 +71,7 @@ Model drawing externalizes the problem structure, offloading quantitative relati
 - **Xin's PGBM-COMPS intervention** — research-based program teaching students with learning disabilities to represent word problems with diagrams before formulating equations
 
 ## Key Sources
-- Xin, Y. P., & Jitendra, A. K. (1999). The effects of instruction in solving mathematical word problems for students with learning disabilities: A meta-analysis. *The Journal of Special Education, 32*(4), 207–225. [doi:10.1177/002246699903200402](https://doi.org/10.1177/002246699903200402)
+- Xin, Y. P., & Jitendra, A. K. (1999). The effects of instruction in solving mathematical word problems for students with learning problems: A meta-analysis. *The Journal of Special Education, 32*(4), 207–225. [doi:10.1177/002246699903200402](https://doi.org/10.1177/002246699903200402)
 - Hegarty, M., & Kozhevnikov, M. (1999). Types of visual–spatial representations and mathematical problem solving. *Journal of Educational Psychology, 91*(4), 684–689. [doi:10.1037/0022-0663.91.4.684](https://doi.org/10.1037/0022-0663.91.4.684)
 - van Garderen, D., & Montague, M. (2003). Visual–spatial representation, mathematical problem solving, and students of varying abilities. *Learning Disabilities Research & Practice, 18*(4), 246–254. [doi:10.1111/1540-5826.00079](https://doi.org/10.1111/1540-5826.00079)
 - Jitendra, A. K., Griffin, C. C., Haria, P., Leh, J., Adams, A., & Kaduvettoor, A. (2007). A comparison of single and multiple strategy instruction on third-grade students' mathematical problem solving. *Journal of Educational Psychology, 99*(1), 115–127. [doi:10.1037/0022-0663.99.1.115](https://doi.org/10.1037/0022-0663.99.1.115)
