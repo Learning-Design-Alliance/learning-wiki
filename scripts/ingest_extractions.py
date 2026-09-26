@@ -767,6 +767,23 @@ def main() -> None:
         record = json.loads(path.read_text(encoding="utf-8"))
         article_id = record["article_id"]
         validation = record.get("validation") or {}
+        gate = record.get("judge_gate") or {}
+        if validation.get("passed") and gate.get("final_verdict") == "fail":
+            # eval_harness --judge-gate: valid in form, misstated in substance, and one
+            # revision did not fix it. Not ingested; the article stays eligible.
+            n_skipped_validation += 1
+            print(f"  [SKIP] {article_id}: the {gate.get('judge')} judge failed this extraction "
+                  f"(score {gate.get('final_score')}) and one revision did not fix it", file=sys.stderr)
+            if not args.dry_run:
+                ok.append_manifest_entry(source_id=article_id, title=record.get("article_title", ""),
+                                         status="rejected", reason_code="judge-failed",
+                                         reason=f"{gate.get('judge')} judge verdict fail after one revision "
+                                                f"(score {gate.get('final_score')})")
+            article_registry_entries[article_id] = {
+                "outcome": "validation_failed", "run_id": args.run_id, "model": args.model,
+                "pages": [], "reason": "judge-failed",
+            }
+            continue
         if not validation.get("passed"):
             n_skipped_validation += 1
             print(f"  [SKIP] {article_id}: structural validation did not pass "

@@ -422,6 +422,7 @@ REJECTION_CODES = {
     "already-covered": (False, "E4: this source's contribution is already in the wiki from the same source"),
     "parse-error": (True, "the extraction model's output did not parse"),
     "validation-error": (True, "the extraction failed structural validation"),
+    "judge-failed": (True, "the extraction passed validation but the quality judge failed it, before and after one revision; a model outcome, not a judgment about the source"),
     "no-contributions-extracted": (True, "the extraction model returned nothing; a model outcome, not a judgment about the source"),
 }
 

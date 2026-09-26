@@ -181,6 +181,11 @@ def judge_with_openai(article_text: str, extraction_json_text: str,
 
 def judge_with_gemini(article_text: str, extraction_json_text: str, api_key: str,
                        model: str = "google/gemini-3.7-flash") -> JudgeResult:
+    return judge_via_openrouter(article_text, extraction_json_text, api_key, model)
+
+
+def judge_via_openrouter(article_text: str, extraction_json_text: str, api_key: str,
+                          model: str) -> JudgeResult:
     """Via OpenRouter, reusing the same credential the harness already uses
     for generation — no new API key to provision. Exists specifically so a
     model under test that shares a lineage with another judge (e.g. an
