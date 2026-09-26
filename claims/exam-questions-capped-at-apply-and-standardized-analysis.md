@@ -1,0 +1,44 @@
+---
+type: claim
+title: Collected exam questions required no cognitive processes above apply and no originality in analysis or high-level interdependence
+description: Collected exam questions required no cognitive processes above apply and no originality in analysis or high-level interdependence
+id: exam-questions-capped-at-apply-and-standardized-analysis
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-09-26
+evidence_strength: weak
+sources:
+  - id: zakani-2019
+    resource: "https://doi.org/10.5206/cjsotl-rcacea.2019.1.7994"
+    title: "Zakani, S., Kaupp, J., Turner, R. D., & Frank, B. (2019). Analyzing implicit science and math outcomes in engineering and technology programs. The Canadian Journal for the Scholarship of Teaching and Learning, 10(1). https://doi.org/10.5206/cjsotl-rcacea.2019.1.7994"
+    author: "Zakani, S., Kaupp, J., Turner, R. D., & Frank, B."
+    q: 2
+    i: "?"
+---
+
+# Collected exam questions required no cognitive processes above apply and no originality in analysis or high-level interdependence
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
+
+## Subclaims
+`q2 i?` None of the collected physics and calculus exam questions required the analyze, evaluate, or create cognitive processes, nor the last levels of depth of analysis or interdependence. [→ Zakani 2019](#zakani-2019)
+
+## Evidence
+
+### Zakani 2019
+
+Zakani, S., Kaupp, J., Turner, R. D., & Frank, B. (2019). Analyzing implicit science and math outcomes in engineering and technology programs. The Canadian Journal for the Scholarship of Teaching and Learning, 10(1). https://doi.org/10.5206/cjsotl-rcacea.2019.1.7994
+
+`q2 · i?`
+
+Content-specialist coding of all 319 calculus and 205 physics exam questions on the first four framework dimensions found no questions at the highest levels. The article notes this is "consistent with the findings of a previous study on post-secondary calculus in the United States" (Tallman et al.).
+
+> "Of the material collected we did not find any questions that would require the last three levels of cognitive process (analyze, evaluate, or create), or the last levels in depth of analysis or interdependence, which are consistent with the findings of a previous study on post-secondary calculus in the United States"
+
+## Discussion
+
+
+## Related Claims
+-
