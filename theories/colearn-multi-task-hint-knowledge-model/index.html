@@ -533,6 +533,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../evidence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    State of the Evidence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../log/" class="md-nav__link">
         
   
@@ -766,7 +793,8 @@
 
 <h1 id="colearn-a-multi-task-memory-augmented-deep-learning-model-jointly-predicting-knowledge-state-and-hint-taking">Colearn: a multi-task memory-augmented deep learning model jointly predicting knowledge state and hint-taking<a class="headerlink" href="#colearn-a-multi-task-memory-augmented-deep-learning-model-jointly-predicting-knowledge-state-and-hint-taking" title="Permanent link">&para;</a></h1>
 <blockquote>
-<p><strong>Theory</strong> · <a href="../">All theories</a></p>
+<p><strong>Theory</strong> · <a href="../">All theories</a>
+<strong>Evidence</strong> · 2 claims (2 for) · 1 study, <code>q2</code> · 1 of 1 report an effect size · 2 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>Colearn extends the DKVMN memory-augmented knowledge tracing model by encoding each interaction as a tuple (qt, rt, ht) of question, response, and hint usage, and by adding hint-taking prediction as an auxiliary task sharing network weights. The input encoding uses a vector of length 2|Q|+1 whose "last dimension of the vector is a binary value indicating whether a hint is taken". The loss is a weighted sum of cross-entropy losses for the two tasks with equal weights, and the network weights except the final output layer are shared between tasks.</p>
