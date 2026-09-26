@@ -634,6 +634,17 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#2026-09-26-evening-the-extractor-benchmark-is-1010-and-a-judge-now-gates-the-batch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-26 (evening) — the extractor benchmark is 10/10, and a judge now gates the batch
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-09-26-later-a-citation-pass-checked-against-author-and-year" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1318,6 +1329,17 @@
   
     <nav class="md-nav" aria-label="Working alongside other sessions — read this before starting">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2026-09-26-evening-the-extractor-benchmark-is-1010-and-a-judge-now-gates-the-batch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-26 (evening) — the extractor benchmark is 10/10, and a judge now gates the batch
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#2026-09-26-later-a-citation-pass-checked-against-author-and-year" class="md-nav__link">
@@ -2090,6 +2112,35 @@ work is done, not that the check is broken.</p>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
+<h3 id="2026-09-26-evening-the-extractor-benchmark-is-1010-and-a-judge-now-gates-the-batch">2026-09-26 (evening) — the extractor benchmark is 10/10, and a judge now gates the batch<a class="headerlink" href="#2026-09-26-evening-the-extractor-benchmark-is-1010-and-a-judge-now-gates-the-batch" title="Permanent link">&para;</a></h3>
+<p>GLM on v133 through the full new chain (<code>bench-gate</code>): <strong>10/10 pass validation, 10/10 pass the GPT
+judge</strong>; strict audit: 7/7 DOIs right paper (author and year included), 68/68 quotes verbatim, 192/192
+decimal statistics present in the article (one, 76.71, printed "76 .71" by the PDF). About $0.008 per
+article with the judge. What changed, and why:</p>
+<ul>
+<li><strong><code>pmc-5932263</code> left the benchmark</strong>: PMC no longer marks it open access, so it could never pass.
+  Replaced by <code>pmc-11473304</code> (Huang et al. 2024). Do not scrape the HTML page to get it back.</li>
+<li><strong>The source's own citation gets its link from the pipeline</strong> (<code>scripts/eval/source_citation.py</code>):
+  a citation naming the article with no link gets the catalogue URL it was fetched from, and a bare
+  homepage standing in for one (GLM wrote <code>https://www.aera.net</code>) is replaced. Validator demands for a
+  "DOI/URL" on reports with none were 23 of v133's 25 citation errors, and each retry asked for an
+  invented DOI.</li>
+<li><strong>A failed quote's retry is shown the closest article passage</strong> (<code>ground_truth.nearest_passage</code>), or
+  told none resembles it.</li>
+<li><strong>A reply that hits max_tokens and does not parse is resampled</strong>, up to twice. All 12 of GLM's
+  unusable outputs to date stopped exactly at the cap; one recurred in this benchmark and the
+  resample recovered it. <code>generation.finish_reason</code> and <code>runaway_resamples</code> are recorded.</li>
+<li><strong>The Gemini judge scored every extraction 5/5 and is not a signal.</strong> The GPT judge, now routed
+  through OpenRouter when no OpenAI key is set, found real misstatements the validator cannot see:
+  non-significance reported as "no effect", an ANOVA's df read as n, correlations worded as causes.</li>
+<li><strong><code>--judge-gate gpt</code></strong>: a validated extraction the judge fails gets one revision with the judge's
+  issues, kept only if it re-validates and the judge no longer fails it. 3 of 10 failed; all 3 were
+  fixed. Ingest skips a record the gate still fails, as <code>judge-failed</code> (a failed run: the article
+  stays eligible).</li>
+<li><strong><code>run_scrape_batch.py</code> now runs generation with <code>--require-source-quotes --ground-truth
+  --judge-gate gpt</code>.</strong> Before, quotes were checked only at ingest, where a bad one could only be
+  dropped (80 entries in batch 2); now the retry fixes it from the article.</li>
+</ul>
 <h3 id="2026-09-26-later-a-citation-pass-checked-against-author-and-year">2026-09-26 (later) — a citation pass checked against author and year<a class="headerlink" href="#2026-09-26-later-a-citation-pass-checked-against-author-and-year" title="Permanent link">&para;</a></h3>
 <p>Every DOI-bearing citation was compared with its full Crossref record, <strong>first author and year
 included</strong>. The existing tools compare title and journal coordinates only, and that is not enough:
