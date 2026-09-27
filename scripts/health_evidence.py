@@ -48,6 +48,10 @@ STAT_RE = re.compile(
 ABSTRACT_RE = re.compile(r"abstract only|only the abstract|abstract (?:was |could be )?read|"
                          r"abstract was available|from the abstract|full text (?:is|was) paywalled", re.I)
 CODES_RE = re.compile(r"^`q[^\n]*`\s*$", re.M)
+# The extraction validator's own pattern, which also reads d̄, ḡ and "η2-values of", so an
+# entry the pipeline accepts is not reported here as lacking a statistic.
+sys.path.insert(0, str(WIKI_ROOT))
+from scripts.eval.validator import EFFECT_SIZE_RE as _EFFECT_SIZE_RE  # noqa: E402
 
 
 def _entries(path: Path):
@@ -138,7 +142,7 @@ def evidence(pages: dict) -> dict:
                 abstract_entries += 1
                 abstract_here += 1
             m = re.search(r"\bi([1-3])\b", codes.group(0)) if codes else None
-            if m and not STAT_RE.search(block):
+            if m and not STAT_RE.search(block) and not _EFFECT_SIZE_RE.search(block):
                 impact_no_stat.append(f"{slug}#{anchor}")
         if units and abstract_here == len(units):
             abstract_only_claims.append(slug)

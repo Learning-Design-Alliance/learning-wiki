@@ -31,9 +31,9 @@ sources:
 
 Carr, K. M. (1997). A Constructivist Approach To Reflective Judgment and Science Literacy in Introductory College Science Instruction. https://eric.ed.gov/?id=ED414179
 
-`q2 · i?`
+`q2 · case study of a course, reporting these figures second-hand` · `i? · no effect size`
 
-The article reports, citing King and Kitchener (1994), that reassessment of college seniors suggests an average gain of approximately one-half stage, and advanced graduate students averaged stage 5.8. The review reports these figures second-hand.
+A naturalistic case study of a restructured introductory astronomy course. In its background it reports, citing King and Kitchener (1994), that reassessment of college seniors suggests an average gain of approximately one-half stage, and advanced graduate students averaged stage 5.8. These figures come from that earlier work, not from this study's own data.
 
 > "Studies involving incoming university freshmensuggest an average optimal reflective judgment capacity of about stage 3.5 (SD.5), on the boundary between pre- reflective and quasi-reflective functioning"
 

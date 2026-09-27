@@ -9,9 +9,9 @@ generated:
   at: 2026-09-27
 evidence_strength: moderate
 sources:
-  - id: bautsta-2015
-    title: Bautsta, R.G. (2015). Students’ afordance of teleologic explanatons and anthropomorphic language in elicitng concepts in physics. Journal of Technology and Science Educaton (JOTSE), 5(1), 31-40.
-    author: Bautsta, R.G.
+  - id: bautista-2015
+    title: "Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40."
+    author: Bautista, R. G.
     q: 2
     i: "?"
 ---
@@ -22,13 +22,13 @@ sources:
 > **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
-`q2 i?` Dependent t-tests on 15 concept stems show students' anthropomorphic explanations differ significantly before and after classroom pedagogical interventions at the .05 level. [→ Bautsta 2015](#bautsta-2015)
+`q2 i?` Dependent t-tests on 15 concept stems show students' anthropomorphic explanations differ significantly before and after classroom pedagogical interventions at the .05 level. [→ Bautista 2015](#bautista-2015)
 
 ## Evidence
 
-### Bautsta 2015
+### Bautista 2015
 
-Bautsta, R.G. (2015). Students’ afordance of teleologic explanatons and anthropomorphic language in elicitng concepts in physics. Journal of Technology and Science Educaton (JOTSE), 5(1), 31-40.
+Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40.
 
 `q2 · i?`
 

@@ -7,9 +7,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 sources:
-  - id: bautsta-2015
-    title: "Bautsta, R.G. (2015). Students’ afordance of teleologic explanatons and anthropomorphic language in elicitng concepts in physics. Journal of Technology and Science Educaton (JOTSE), 5(1), 31-40. https://doi.org/10.3926/jotse.137"
-    author: Bautsta, R.G
+  - id: bautista-2015
+    title: "Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40. https://doi.org/10.3926/jotse.137"
+    author: Bautista, R. G.
 ---
 
 # Van Fraassen pragmatic theory of explanation as a theory of why-questions
@@ -44,4 +44,4 @@ The article presents Van Fraassen's (VF) pragmatic theory of explanation as "ess
 -
 
 ## Key Sources
-- Bautsta, R.G. (2015). Students’ afordance of teleologic explanatons and anthropomorphic language in elicitng concepts in physics. Journal of Technology and Science Educaton (JOTSE), 5(1), 31-40.
+- Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40.

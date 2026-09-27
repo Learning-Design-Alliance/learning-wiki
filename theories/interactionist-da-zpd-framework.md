@@ -7,9 +7,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 sources:
-  - id: ebadi-2014
+  - id: ebadi-2016
     resource: "http://www.tewtjournal.org"
-    title: "Ebadi, S. (2014). Exploring DIALANG's Diagnostic Feedback in Online L2 Dynamic Assessment. Teaching English with Technology, 16(1), 41-58. http://www.tewtjournal.org"
+    title: "Ebadi, S. (2016). Exploring DIALANG's Diagnostic Feedback in Online L2 Dynamic Assessment. Teaching English with Technology, 16(1), 41-58. https://eric.ed.gov/?id=EJ1135925"
     author: Ebadi, S
 ---
 
@@ -54,4 +54,4 @@ Dynamic assessment is presented as a Vygotskian alternative to psychometric test
 - [Mediation typology of implicit-to-explicit moves in SCMC DA](../patterns/scmc-da-mediation-typology.md)
 
 ## Key Sources
-- Ebadi, S. (2014). Exploring DIALANG's Diagnostic Feedback in Online L2 Dynamic Assessment. Teaching English with Technology, 16(1), 41-58. http://www.tewtjournal.org
+- Ebadi, S. (2016). Exploring DIALANG's Diagnostic Feedback in Online L2 Dynamic Assessment. Teaching English with Technology, 16(1), 41-58. https://eric.ed.gov/?id=EJ1135925

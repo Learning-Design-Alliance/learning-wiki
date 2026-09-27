@@ -9,9 +9,9 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 sources:
-  - id: ebadi-2014
-    resource: "http://www.tewtjournal.org"
-    title: "Ebadi, S. (2014). Exploring DIALANG's Diagnostic Feedback in Online L2 Dynamic Assessment. Teaching English with Technology, 16(1), 41-58. http://www.tewtjournal.org"
+  - id: ebadi-2016
+    resource: "https://eric.ed.gov/?id=EJ1135925"
+    title: "Ebadi, S. (2016). Exploring DIALANG's Diagnostic Feedback in Online L2 Dynamic Assessment. Teaching English with Technology, 16(1), 41-58. https://eric.ed.gov/?id=EJ1135925"
     author: Ebadi, S.
     q: 2
     i: "?"
@@ -23,13 +23,13 @@ sources:
 > **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
-`q2 i?` Across DA and transcendence sessions, learners progressed to higher levels of internalization of assistance, responding to less explicit mediation over time. [→ Ebadi 2014](#ebadi-2014)
+`q2 i?` In illustrative episodes across DA and transcendence sessions, each of the two learners moved toward higher levels of internalization of assistance and responded to less explicit mediation, though the article also reports backsliding and regression and says the target structure was not fully internalized. [→ Ebadi 2016](#ebadi-2016)
 
 ## Evidence
 
-### Ebadi 2014
+### Ebadi 2016
 
-Ebadi, S. (2014). Exploring DIALANG's Diagnostic Feedback in Online L2 Dynamic Assessment. Teaching English with Technology, 16(1), 41-58. http://www.tewtjournal.org
+Ebadi, S. (2016). Exploring DIALANG's Diagnostic Feedback in Online L2 Dynamic Assessment. Teaching English with Technology, 16(1), 41-58. https://eric.ed.gov/?id=EJ1135925
 
 `q2 · i?`
 

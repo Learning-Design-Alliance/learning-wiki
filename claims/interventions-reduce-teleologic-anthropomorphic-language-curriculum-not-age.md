@@ -9,14 +9,14 @@ generated:
   at: 2026-09-27
 evidence_strength: moderate
 sources:
-  - id: bautsta-2015
-    title: Bautsta, R.G. (2015). Students’ afordance of teleologic explanatons and anthropomorphic language in elicitng concepts in physics. Journal of Technology and Science Educaton (JOTSE), 5(1), 31-40.
-    author: Bautsta, R.G.
+  - id: bautista-2015
+    title: "Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40."
+    author: Bautista, R. G.
     q: 2
     i: "?"
-  - id: bautsta-2015-2
-    title: Bautsta, R.G. (2015). Students’ afordance of teleologic explanatons and anthropomorphic language in elicitng concepts in physics. Journal of Technology and Science Educaton (JOTSE), 5(1), 31-40.
-    author: Bautsta, R.G.
+  - id: bautista-2015-2
+    title: "Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40."
+    author: Bautista, R. G.
     q: 2
     i: "?"
 ---
@@ -27,14 +27,14 @@ sources:
 > **Evidence** · 2 studies · `q2` quasi-experiment
 
 ## Subclaims
-`q2 i?` ANCOVA shows a significant difference in students' affordance of teleologic and anthropomorphic languages after various classroom pedagogical interventions (F = 9.407, p = .004). [→ Bautsta 2015](#bautsta-2015)
-`q2 i?` When respondents are grouped by age and curricular undertaking, curriculum is significant (F = 5.087, p = .030) but age is not (F = .395, p = .676), so anthropomorphism is not reduced as one ages but depends on the nature of the curriculum attended. [→ Bautsta 2015 (2)](#bautsta-2015-2)
+`q2 i?` ANCOVA shows a significant difference in students' affordance of teleologic and anthropomorphic languages after various classroom pedagogical interventions (F = 9.407, p = .004). [→ Bautista 2015](#bautista-2015)
+`q2 i?` When respondents are grouped by age and curricular undertaking, curriculum is significant (F = 5.087, p = .030) but age is not (F = .395, p = .676), so anthropomorphism is not reduced as one ages but depends on the nature of the curriculum attended. [→ Bautista 2015 (2)](#bautista-2015-2)
 
 ## Evidence
 
-### Bautsta 2015
+### Bautista 2015
 
-Bautsta, R.G. (2015). Students’ afordance of teleologic explanatons and anthropomorphic language in elicitng concepts in physics. Journal of Technology and Science Educaton (JOTSE), 5(1), 31-40.
+Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40.
 
 `q2 · i?`
 
@@ -42,9 +42,9 @@ ANCOVA of between-subjects effects of classroom pedagogical interventions on 48 
 
 > "It was found out that there is a signifcant diference on the students’ afordance of teleologic and anthropomorphic languages afer various classroom pedagogical interventons had been introduced: F-value of 9.407 and a p-value of .004, at .05 level of signifcance."
 
-### Bautsta 2015 (2)
+### Bautista 2015 (2)
 
-Bautsta, R.G. (2015). Students’ afordance of teleologic explanatons and anthropomorphic language in elicitng concepts in physics. Journal of Technology and Science Educaton (JOTSE), 5(1), 31-40.
+Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40.
 
 `q2 · i?`
 

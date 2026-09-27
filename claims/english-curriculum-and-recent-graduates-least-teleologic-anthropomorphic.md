@@ -9,14 +9,14 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 sources:
-  - id: bautsta-2015
-    title: Bautsta, R.G. (2015). Students’ afordance of teleologic explanatons and anthropomorphic language in elicitng concepts in physics. Journal of Technology and Science Educaton (JOTSE), 5(1), 31-40.
-    author: Bautsta, R.G.
+  - id: bautista-2015
+    title: "Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40."
+    author: Bautista, R. G.
     q: 2
     i: "?"
-  - id: bautsta-2015-2
-    title: Bautsta, R.G. (2015). Students’ afordance of teleologic explanatons and anthropomorphic language in elicitng concepts in physics. Journal of Technology and Science Educaton (JOTSE), 5(1), 31-40.
-    author: Bautsta, R.G.
+  - id: bautista-2015-2
+    title: "Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40."
+    author: Bautista, R. G.
     q: 2
     i: "?"
 ---
@@ -27,14 +27,14 @@ sources:
 > **Evidence** · 2 studies · `q2` quasi-experiment
 
 ## Subclaims
-`q2 i?` Students who had just completed their secondary education had the least affordance of teleologic-anthropomorphic reasoning compared to their counterparts. [→ Bautsta 2015](#bautsta-2015)
-`q2 i?` Students who completed the English curriculum in their Secondary Science Program had the least affordance of teleologic-anthropomorphic reasoning compared to counterparts from the Arabic curriculum. [→ Bautsta 2015 (2)](#bautsta-2015-2)
+`q2 i?` Students who had just completed their secondary education had the least affordance of teleologic-anthropomorphic reasoning compared to their counterparts. [→ Bautista 2015](#bautista-2015)
+`q2 i?` Students who completed the English curriculum in their Secondary Science Program had the least affordance of teleologic-anthropomorphic reasoning compared to counterparts from the Arabic curriculum. [→ Bautista 2015 (2)](#bautista-2015-2)
 
 ## Evidence
 
-### Bautsta 2015
+### Bautista 2015
 
-Bautsta, R.G. (2015). Students’ afordance of teleologic explanatons and anthropomorphic language in elicitng concepts in physics. Journal of Technology and Science Educaton (JOTSE), 5(1), 31-40.
+Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40.
 
 `q2 · i?`
 
@@ -42,9 +42,9 @@ Descriptive analysis of general preconceptions (Table 1) across Kinematics, Dyna
 
 > "It can be said that the students’ who had just completed their secondary educaton had the least afordance of teleologic-anthropomorphic reasoning when compared to their counterparts."
 
-### Bautsta 2015 (2)
+### Bautista 2015 (2)
 
-Bautsta, R.G. (2015). Students’ afordance of teleologic explanatons and anthropomorphic language in elicitng concepts in physics. Journal of Technology and Science Educaton (JOTSE), 5(1), 31-40.
+Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40.
 
 `q2 · i?`
 
