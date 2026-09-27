@@ -25,7 +25,7 @@ evidence_strength: strong
 Engaging in authentic, integrated tasks during training better prepares learners for the complexity and coordination required in professional practice compared to isolated part-task practice.
 
 ## Subclaims
-`q4 i3` Whole-task practice leads to superior transfer of learning for complex cognitive skills. [→ van Merriënboer et al. 2006](#van-merrienboer-et-al-2006)
+`q2 i?` A design argument, not an experiment, holds that whole-task practice leads to better transfer for complex cognitive skills. [→ van Merriënboer et al. 2006](#van-merrienboer-et-al-2006)
 
 ## Evidence
 

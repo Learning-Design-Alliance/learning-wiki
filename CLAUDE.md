@@ -134,11 +134,24 @@ finds out.
   claims.
 - **Claim evidence lines count distinct studies**, with evidence_rollup's key, and show `(N entries)`
   when one study backs several entries: 398 pages said "2 studies" or more for one article.
-- **Usage simulation** (six invented scenarios, wiki-only agents against a no-wiki baseline, graded;
-  scratch files, not committed): see the note's companion summary in the PR. Agents rated the wiki 3/5
-  on course builds, literature review and research gaps and 4/5 for a funder question, where
-  `evidence.md`'s citation-load and contested-claims tables carried the answer; about half of all
-  searches found something useful.
+- **Usage simulation** (six invented scenarios; wiki-only agents, a no-wiki baseline, a grader who
+  fetched 18 cited statements; scratch files, not committed). Overall usefulness, wiki against
+  baseline: Italian A1 3/3.5, nurse onboarding 3/3.5, algebra 3.5/3.5, retrieval lit review 4/4,
+  funder priorities **4.5/3**, feedback-timing gap 3.5/4. The wiki wins traceability everywhere by 2–3
+  points and honesty about gaps; the baseline wins relevance except for the funder, because it brings
+  domain literature the wiki lacks (medication safety, adult mobile language learning, EAL maths).
+  17 of 18 checked statements matched their page, so **where the wiki fails, the pages are why**.
+  Ready: evidence audits of practice (`evidence.md`'s citation load against studies), checking a design
+  rationale, stating gaps, a first pass at a core-topic lit review. Not ready: domain course builds,
+  pattern and element pages as evidence (canonical ones are stubs citing no claims), effect-size
+  comparison (most entries `i?`). About half of all searches found something useful. The grader's
+  ranked fixes: (1) design-page links that point at the wrong claim — `strategy/timely_feedback`,
+  `strategy/comparing_multiple_solution_methods`, `principle/gamification` (x3), `element/debrief`,
+  all open, since choosing the right claim is a reading, and a check that link text matches its target;
+  (2) study counts (done) and q4 codes on theoretical reviews, a book and Chi 1989 (n=10), open;
+  (3) merge duplicate families (expertise reversal x3, spacing x6, `timely_feedback`/`timely-feedback`
+  giving different advice) and let search favour claims. A subclaim coded `q4 i3` over its `q2 i?`
+  entry and four pages still saying they had no evidence were corrected.
 
 ### 2026-09-28 (night) — batch 9, the droplet dress rehearsal
 

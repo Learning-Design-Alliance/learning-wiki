@@ -29,7 +29,8 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i0` negligible
 
-Self-affirmation — briefly reflecting on personally important values before an evaluative or threatening task — reduces defensiveness and stress, which in turn can improve performance and persistence. This page currently has no verified evidence entries; the sections below are placeholders pending ingestion of the underlying studies.
+Self-affirmation — briefly reflecting on personally important values before an evaluative or threatening task — reduces defensiveness and stress, which in turn can improve performance and persistence.
+<!-- deprecated (2026-09-29): This page currently has no verified evidence entries; the sections below are placeholders pending ingestion of the underlying studies. -->
 
 ## Subclaims
 

@@ -84,7 +84,9 @@ Meta-analysis of practice testing across education levels, comparing it against 
 
 **Design implications pending evidence.** Until evidence entries are verified, practitioners should treat the strong rating as provisional. The most defensible design heuristics consistent with the claim's scope are: require learners to generate answers before re-exposing them to material; schedule retrieval attempts after a delay rather than immediately after study; and keep retrieval tasks low-stakes so errors carry diagnostic rather than evaluative weight. These follow from the claim's stated mechanism and boundary conditions, not from cited experiments on this page.
 
+<!-- deprecated (2026-09-29): written before this page had evidence entries; it now has them.
 **Open questions.** This page currently has no verified evidence entries. Key moderators to document once evidence is added include: the role of feedback after retrieval, whether initial retrieval success is required for benefits to emerge, how benefits scale with material complexity, and whether the effect reverses for very complex tasks.
+-->
 
 ## Related Claims
 

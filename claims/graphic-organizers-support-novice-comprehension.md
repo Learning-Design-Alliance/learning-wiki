@@ -63,7 +63,9 @@ The mechanism most often proposed is a reduction in extraneous and intrinsic loa
 
 Several moderators are plausible from general reasoning about scope. Benefits should be largest for learners with low prior knowledge; for experts, an imposed organizer may be redundant and could interfere with a preferred, better-organized schema — the expertise reversal pattern documented for worked examples (see [expertise reversal effect](../theories/expertise-reversal-effect.md)). Organizers that merely decorate rather than depict relational structure, or that are so dense they themselves overload working memory, would be expected to lose their advantage — the same coherence concerns captured in [irrelevant material hurts learning](coherence-principle-irrelevant-material-hurts-learning.md). Finally, an organizer is likely most effective when learners actively engage with it (completing, revising, or generating it) rather than passively viewing it, paralleling findings on [annotating](../principles/annotating.md) and [chunking](chunking-reduces-working-memory-load.md).
 
+<!-- deprecated (2026-09-29): written before this page had evidence entries; it now has them.
 **Evidence gap.** This page currently has no verified evidence entries. Well-known meta-analytic work on graphic organizers and advance organizers needs to be added before any strength rating can be assigned. Until then, the claim should be treated as theoretically motivated but empirically unverified on this wiki.
+-->
 
 ## Related Claims
 
