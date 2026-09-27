@@ -46,6 +46,7 @@ The article presents person-centered counseling and psychotherapy as the framewo
 ## Related Theories
 
 - [Person-Centered Psychology](person-centered-psychology.md)
+- [Learner-centred facilitation of adult language learning](learner-centred-facilitation-adult-language.md)
 
 ## Examples
 -

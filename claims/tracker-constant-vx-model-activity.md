@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Keying a constant-vx dynamic model against real video data helps students make sense of constant x-direction velocity in projectile motion
-description: Keying a constant-vx dynamic model against real video data helps students make sense of constant x-direction velocity in projectile motion
+title: A proposed Tracker activity has students key a constant-vx dynamic model against real video data so they can see for themselves that x-direction velocity is constant in projectile motion
+description: A proposed Tracker activity has students key a constant-vx dynamic model against real video data so they can see for themselves that x-direction velocity is constant in projectile motion
 id: tracker-constant-vx-model-activity
 status: draft
 generated:
@@ -13,17 +13,17 @@ sources:
     resource: "http://weelookang.blogspot.com/2011/05/video-analysis-and-modeling-tool-for.html"
     title: "Wee, L. K., & Lee, T. L. (2011). Video Analysis and Modeling Tool for Physics Education. Paper presented at the 4th Redesigning Pedagogy International Conference, Singapore. http://weelookang.blogspot.com/2011/05/video-analysis-and-modeling-tool-for.html"
     author: "Wee, L. K., & Lee, T. L."
-    q: 2
+    q: 1
     i: "?"
 ---
 
-# Keying a constant-vx dynamic model against real video data helps students make sense of constant x-direction velocity in projectile motion
+# A proposed Tracker activity has students key a constant-vx dynamic model against real video data so they can see for themselves that x-direction velocity is constant in projectile motion
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
-`q2 i?` In the suggested activity, students key in initial vx values in the dynamic model and compare real data (red) with the constant vx model (pink), making sense that instantaneous velocity equals 1.77 m/s at all times. [→ Wee 2011](#wee-2011)
+`q1 i?` In an activity the authors suggest for a teacher workshop, not one they tested with students, students key in initial vx values in the dynamic model and compare real data (red) with the constant vx model (pink), making sense that instantaneous velocity equals 1.77 m/s at all times. [→ Wee 2011](#wee-2011)
 
 ## Evidence
 
@@ -31,9 +31,9 @@ sources:
 
 Wee, L. K., & Lee, T. L. (2011). Video Analysis and Modeling Tool for Physics Education. Paper presented at the 4th Redesigning Pedagogy International Conference, Singapore. http://weelookang.blogspot.com/2011/05/video-analysis-and-modeling-tool-for.html
 
-`q2 · i? · the article prints no effect size for this finding`
+`q1 · design proposal in a workshop paper (no participants or outcomes)` · `i? · the article prints no effect size for this finding`
 
-Suggested workshop activity for novice students who may not appreciate constant x-direction velocity: comparing the real video data with a constant-vx model in Tracker's world view (Figure 2). Described as a suggestion, not a tested study.
+Suggested workshop activity for novice students who may not appreciate constant x-direction velocity: comparing the real video data with a constant-vx model in Tracker's world view (Figure 2). Described as a suggestion, not a tested study: the paper reports no participants, intervention or learning outcome for it, so it shows what the activity is meant to let students see, not that it helps them.
 
 > "We suggest an activity where student key in values for the initial velocity vx in the dynamic model and observe the real data (red) versus the constant vx  model (pink), and make sense for themselves that instantaneous velocity is equal to 1.77 m/s"
 

@@ -40,7 +40,7 @@ Ren, X., Chano, J., & Saihong, P. (2025). Developing a TPACK-based Course to Pro
 
 `q3 · i?`
 
-Quasi-experimental comparison of 41 pre-service preschool teachers (experimental n=21, control n=20) assigned by cluster sampling; groups were homogeneous at pre-test (3.7950 vs 3.8090, non-significant). Post-test means were "4. 2950 and 3. 9350" with p = 0.018. No effect size is printed.
+Experimental-control comparison of 41 pre-service preschool teachers from the 2022 cohort at Putian University, China, recruited by cluster sampling; the article says the experimental (n=21) and control (n=20) groups were "selected through random sampling" but does not describe the assignment procedure, and calls the design experimental; groups were homogeneous at pre-test (3.7950 vs 3.8090, non-significant). Post-test means were "4. 2950 and 3. 9350" with p = 0.018. No effect size is printed.
 
 > "the post-test of both classes were 4. 2950 and 3. 9350 separately, and a P value of 0. 018 of the independent T-test."
 

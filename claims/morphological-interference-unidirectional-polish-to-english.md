@@ -46,3 +46,4 @@ The author's contrastive analysis of suffix and prefix interference (sections 1.
 - [Risk of semantic interference varies systematically across the four relation types, with full contrast always producing faulty translation when a formal replica is used](interference-risk-varies-by-relation-type.md) — related
 - [In overlapping pairs, the danger of false identification of meanings is lower when the shared meaning is obvious in only one sense](overlap-degree-moderates-false-identification-risk.md) — related
 - [In contrast-type abstract-noun pairs, the Polish word's meaning is typically narrower, a generalization of the semantic element in the Polish word](polish-meanings-narrower-than-english-partners.md) — related
+- [L1-induced errors persist in advanced learners and risk fossilization if learners rely on compensatory communication strategies](l1-interference-errors-fossilization-risk.md) — related

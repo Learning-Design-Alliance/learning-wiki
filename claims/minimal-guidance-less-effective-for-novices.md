@@ -153,3 +153,4 @@ The claim is bounded by learner expertise. Guidance that benefits novices can be
 - [Play Based Learning Improves Outcomes](play-based-learning-improves-outcomes.md) — related
 - [Rule-example expository sequences appeared highly efficient for introducing a new rule in early programmed-instruction work](rule-example-sequence-efficient-rule-introduction.md) — a narrower finding that bears on this claim
 - [Self-discovery through errorful exploration is basically incompatible with error minimization in instruction](self-discovery-incompatible-with-error-minimization.md) — reports the opposite
+- [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](explicit-instruction-context-dependent-synthesis.md) — related

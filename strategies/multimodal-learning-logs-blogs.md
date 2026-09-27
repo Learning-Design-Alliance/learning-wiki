@@ -59,9 +59,11 @@ Reflection logs work because they prompt learners to reconstruct and evaluate th
 5. **Review and synthesize** — at unit end, students reread their own log and produce a synthesis post identifying patterns in their learning, supporting [Assessment for Learning](../principles/assessment-for-learning.md) as both self- and teacher-assessed evidence.
 
 ## Related Strategies
+
 - Reflective journaling — the single-mode ancestor; multimodal logs add representation choice and hyperlinking
 - Portfolio assessment — logs can serve as process evidence within a portfolio
 - Peer feedback routines — the response mechanism that makes logs communicative rather than private
+- [Diary recording with recall, reflection and delayed verification as a self-directed learning strategy](diary-recall-reflection-verification-strategy.md)
 
 ## Examples
 - **CSILE/Knowledge Forum** ([https://www.knowledgeforum.com](https://www.knowledgeforum.com)) — Scardamalia and Bereiter's computer-supported communal database where students post, link, and build on each other's notes; the original research platform for community knowledge building.

@@ -93,7 +93,7 @@ Open questions include how the effect interacts with learner control over pacing
 - [Dual Coding Improves Recall](dual-coding-improves-recall.md) — related
 - [Audio narration with finger-tracking animation directs bilingual preschoolers' attention to the target-language print in dual-language e-books, including the nondominant language](enhancing-features-direct-attention-dual-language-e-books.md) — related
 - [Expertise Reversal Guidance Hurts Experts](expertise-reversal-guidance-hurts-experts.md) — related
-- [Redundant on-screen text duplicates of narration or graphics impair learning](redundancy-principle.md) — related
+- [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — related
 - [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — related
 - [Redundancy Hurts Learning](redundancy-hurts-learning.md) — related
 - [Screencast design findings: static vs. dynamic screen movement, explicit vs. implicit narration, and handwriting preferred though typefaces judged more legible](screencast-design-movement-narration-handwriting.md) — related

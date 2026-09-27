@@ -45,6 +45,7 @@ The paper presents a conceptual framework, illustrated in Figure 1, that links l
 - [Typology of community-based education as formal, nonformal, and informal processes](formal-nonformal-informal-community-based-education.md)
 - [Three dimensions of lifelong education: vertical integration, horizontal integration, and learning to learn](three-dimensions-of-lifelong-education.md)
 - [Three-type framework of informal, formal and non-formal education with non-formal education as bridge](three-types-education-nonformal-bridge-framework.md)
+- [Coombs' three-category typology of formal, informal and non-formal education, with informal learning as an overarching concept including incidental learning](coombs-three-categories-learning-methods.md)
 
 ## Examples
 -

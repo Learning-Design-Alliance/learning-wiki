@@ -39,7 +39,10 @@ The article uses the WTC model (MacIntyre et al., 1998) as its organizing framew
 - [Wtc Variables Positively Correlated Overall Wtc](../claims/wtc-variables-positively-correlated-overall-wtc.md) [+M]
 
 ## Related Theories
-- 
+
+- [Communicative-cognitive framework for teaching pronunciation: description and analysis, listening discrimination, controlled practice, guided practice, communicative practice](communicative-cognitive-pronunciation-teaching-framework.md)
+- [MacIntyre et al.'s (1998) heuristic pyramid model of willingness to communicate in L2](macintyre-heuristic-pyramid-model-l2-wtc.md)
+- [MacIntyre et al.'s situational model of willingness to communicate in L2](macintyre-situational-wtc-model.md)
 
 ## Examples
 

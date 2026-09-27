@@ -47,3 +47,4 @@ Null result from the between-subjects ANOVA on Factor 3 among the 403 respondent
 - [PhD teachers show significantly higher awareness than MA teachers of incorporating dialogue and learners' real life into second language instruction](phd-higher-awareness-dialogue-real-life-factor.md) — related
 - [PhD teachers show significantly higher awareness than both MA and BA teachers of liberatory autonomy](phd-higher-awareness-liberatory-autonomy.md) — related
 - [PhD teachers show significantly higher awareness than BA teachers of decision making through negotiation](phd-higher-awareness-decision-making-negotiation.md) — related
+- [Secondary school teachers in 1980s China had low formal English qualifications](china-1980s-secondary-teachers-low-qualifications.md) — related

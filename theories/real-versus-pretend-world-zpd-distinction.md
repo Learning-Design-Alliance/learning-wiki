@@ -46,6 +46,7 @@ The paper's central organising distinction is between two activity types dominat
 - [Zone of Proximal Development: the gap between independent and assisted problem solving](zpd-gap-independent-versus-assisted-problem-solving.md)
 - [Sociocultural Theory](sociocultural-theory.md)
 - [Play and Cognitive Development](play-and-cognitive-development.md)
+- [Sociocultural theory as the lens through which SLA views learners and learning](sociocultural-theory-lens-sla-learners.md)
 
 ## Examples
 -

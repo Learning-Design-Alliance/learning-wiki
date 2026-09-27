@@ -43,3 +43,4 @@ Cross-case conclusion drawn from interviews: principals described dealing with s
 ## Related Claims
 - [The ethic of care was found in all three female principals studied, expressed in teaching, learning, dedication to students, and child-centered schools](ethic-of-care-found-in-three-female-principals.md) — related
 - [Female principals enacted care through a 'listening then deciding' pattern of situational decision making](listening-then-deciding-situational-decision-making.md) — related
+- [Women report child-related language motivation regardless of parental status, suggesting a gendered pattern](gendered-parental-motivation-maori-hl2.md) — related

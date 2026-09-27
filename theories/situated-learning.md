@@ -35,6 +35,7 @@ Situated learning holds that knowledge is inseparable from the social, material,
 - [Connectivism](connectivism.md) — also locates learning outside the individual mind, but in digital networks rather than embodied social practice
 - [Situated cognition: context, authenticity, and activity as key dimensions](situated-cognition-context-authenticity-activity.md)
 - [Situated Learning theory (legitimate peripheral participation in communities of practice)](situated-learning-theory-review-account.md)
+- [Sociocultural theory as the lens through which SLA views learners and learning](sociocultural-theory-lens-sla-learners.md)
 
 ## Examples
 - [Epistemic Games](../patterns/epistemic-games.md)

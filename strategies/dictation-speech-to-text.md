@@ -64,9 +64,11 @@ Speech-to-text removes the transcription bottleneck — handwriting mechanics, s
 6. Fade support as transcription-independent skills develop, per [Fading](../elements/fading.md) principles [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - Word prediction and spell-check supports — complementary transcription accommodations that address spelling rather than motor demands
 - Keyboarding instruction — the alternative transcription bypass; often taught alongside dictation so learners have two routes
 - Pre-writing and oral rehearsal strategies — dictation pairs naturally with talking out ideas before (or as) drafting
+- [ASR read-aloud compare-and-repeat self-study strategy for pronunciation practice](asr-read-aloud-compare-repeat-strategy.md)
 
 ## Related Elements
 - [Accommodations](../elements/accommodations.md) — dictation is a canonical assessment and instructional accommodation

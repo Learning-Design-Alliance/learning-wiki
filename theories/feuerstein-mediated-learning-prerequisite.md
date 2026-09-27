@@ -48,6 +48,7 @@ The paper presents Feuerstein's theory of mediated learning as filling a gap in 
 - [Feuerstein's Mediated Learning Experience (MLE) theory: a human mediator modifies the learner's interaction with stimuli to build cognitive modifiability](mle-theory-human-mediator-cognitive-modifiability.md)
 - [Feuerstein's theory of structural cognitive modifiability and Mediated Learning Experience](structural-cognitive-modifiability-mle.md)
 - [Three universal MLE criteria: intentionality and reciprocity, mediation of meaning, and transcendence](mle-three-universal-criteria.md)
+- [Zone of Proximal Development as learners' responsiveness to culturally appropriate mediation](zpd-responsiveness-to-mediation.md)
 
 ## Examples
 

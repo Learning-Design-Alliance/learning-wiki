@@ -48,6 +48,7 @@ The current consensus among researchers is that no single account is sufficient 
 - [Bruner's account: language acquisition as necessity for thinking and the highest levels of cognitive development](bruner-language-acquisition-cognitive-development.md)
 - [Cognitive theory: children are born with processing abilities and learn language by forming and testing hypotheses and rules](cognitive-hypothesis-testing-language-theory.md)
 - [Nativistic theory: language development is determined from within the child; language is innate](nativistic-innate-language-theory.md)
+- [Similarity account: first and adult second language acquisition are neither wholly identical nor wholly different, but similar](first-second-language-acquisition-similarity.md)
 
 ## Examples
 

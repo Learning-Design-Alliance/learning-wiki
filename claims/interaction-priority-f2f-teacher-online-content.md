@@ -44,4 +44,4 @@ Survey of 236 students across four universities using the Interaction Equivalenc
 - [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — related
 - [Students prioritize teacher interaction in skill-oriented language courses but show no unified preference in knowledge-oriented general education courses](interaction-priority-skill-vs-knowledge-orientation.md) — related
 - [Students' general expectations of interaction for learning quality show no single priority order common to all](no-universal-interaction-priority-order.md) — related
-- [The study's results confirm both theses of the Interaction Equivalency Theorem in blended learning contexts](theorem-theses-confirmed-by-survey.md) — a broader claim this one bears on
+- [In a survey of 236 blended-learning students, learners readily ranked teacher, student and content interaction, which the authors read as supporting both theses of the Interaction Equivalency Theorem](theorem-theses-confirmed-by-survey.md) — a broader claim this one bears on

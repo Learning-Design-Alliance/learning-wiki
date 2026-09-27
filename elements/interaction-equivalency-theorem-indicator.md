@@ -46,7 +46,7 @@ An author-developed inventory that tests the priority order of interaction eleme
 - [Students prioritize teacher interaction in skill-oriented language courses but show no unified preference in knowledge-oriented general education courses](../claims/interaction-priority-skill-vs-knowledge-orientation.md) [+W]
 - [Students prioritize teacher interaction for face-to-face learning but content interaction for online learning](../claims/interaction-priority-f2f-teacher-online-content.md) [+W]
 - [In online learning, the perceived importance of teacher and student interaction decreases with student age](../claims/online-interaction-priority-decreases-with-age.md) [+W]
-- [The study's results confirm both theses of the Interaction Equivalency Theorem in blended learning contexts](../claims/theorem-theses-confirmed-by-survey.md) [+W]
+- [In a survey of 236 blended-learning students, learners readily ranked teacher, student and content interaction, which the authors read as supporting both theses of the Interaction Equivalency Theorem](../claims/theorem-theses-confirmed-by-survey.md) [+W]
 
 ## Related Elements
 - 

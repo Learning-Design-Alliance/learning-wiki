@@ -50,6 +50,11 @@ The article presents Vygotsky's core theoretical position: unlike Piaget's focus
 - [Zone of Proximal Development: the gap between independent and assisted problem solving](zpd-gap-independent-versus-assisted-problem-solving.md)
 - [Co-constructionism requires an active individual, an active environment, and culture](co-constructionism-active-individual-environment-culture.md)
 - [Activity theory models learning as participation in a collective activity system whose elements dynamically interact](activity-system-model-l2-writing.md)
+- [Language socialization perspective on combined language and occupational skills training](language-socialization-perspective-vocational-esl.md)
+- [Dialectical monism: culture restructures natural mind, and applied research is basic research](sct-dialectical-monism-culture-restructures-nature.md)
+- [Sociocultural account of CALL feedback as scaffolding toward desired performance](sociocultural-feedback-scaffolding-account.md)
+- [Vygotsky's genetic method: studying higher psychological functions across four time scales](vygotsky-genetic-method-four-time-scales.md)
+- [Zone of Proximal Development as learners' responsiveness to culturally appropriate mediation](zpd-responsiveness-to-mediation.md)
 
 ## Examples
 

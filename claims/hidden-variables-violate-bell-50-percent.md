@@ -9,10 +9,10 @@ generated:
   at: 2026-09-26
 evidence_strength: moderate
 sources:
-  - id: sascha-vongehr-2011
-    resource: "https://www.science20.com/alpha_meme/official_quantum_randi_challenge-80168"
-    title: "Sascha Vongehr. (2011). Quantum Randi Challenge. https://www.science20.com/alpha_meme/official_quantum_randi_challenge-80168"
-    author: Sascha Vongehr
+  - id: vongehr-2012
+    resource: "https://doi.org/10.48550/arXiv.1207.5294"
+    title: "Vongehr, S. (2012). Quantum Randi Challenge. arXiv:1207.5294. [doi:10.48550/arXiv.1207.5294](https://doi.org/10.48550/arXiv.1207.5294)"
+    author: Vongehr, S.
     q: 2
     i: "?"
 ---
@@ -23,13 +23,13 @@ sources:
 > **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
-`q2 i?` Simply not preparing i = 2 or i = 5 pairs makes hidden variables violate the Bell (and CHSH) inequality in half of all runs on average, showing that 'often' violation is uninteresting. [→ Sascha Vongehr 2011](#sascha-vongehr-2011)
+`q2 i?` Simply not preparing i = 2 or i = 5 pairs makes hidden variables violate the Bell (and CHSH) inequality in half of all runs on average, showing that 'often' violation is uninteresting. [→ Vongehr 2012](#vongehr-2012)
 
 ## Evidence
 
-### Sascha Vongehr 2011
+### Vongehr 2012
 
-Sascha Vongehr. (2011). Quantum Randi Challenge. https://www.science20.com/alpha_meme/official_quantum_randi_challenge-80168
+Vongehr, S. (2012). Quantum Randi Challenge. arXiv:1207.5294. [doi:10.48550/arXiv.1207.5294](https://doi.org/10.48550/arXiv.1207.5294)
 
 `q2 · i?`
 

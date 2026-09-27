@@ -45,3 +45,4 @@ The effect is strongest when tasks are sequenced from simple-to-complex and incl
 ## Related Claims
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](part-task-practice-reduces-load-for-novices.md)
 - [Pretraining Improves Transfer](pretraining-improves-transfer.md) — related
+- [Skill develops through engaging in the target activity itself, not through mechanistic drill of isolated components](skill-develops-through-engagement-not-drill.md) — related

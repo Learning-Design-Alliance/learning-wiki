@@ -41,7 +41,8 @@ The article proposes that "teachers should employ different and flexible error t
 - [Errors As Feedback Fossilization Risk](../claims/errors-as-feedback-fossilization-risk.md) [+M]
 
 ## Related Principles
-- 
+
+- [Integrate explicit error correction with meaningful activities when developing both accuracy and fluency](integrate-explicit-correction-with-meaningful-activities.md)
 
 ## Examples
 -

@@ -37,7 +37,8 @@ The article closes by proposing a research agenda for mobile apps in language le
 - building the evidence base on app-supported language learning outcomes
 
 ## Related Strategies
-- 
+
+- [Investigate teachers' and learners' 'emic' perspectives on MALL to identify obstacles to integration](research-emic-views-of-mall-users.md)
 
 ## Examples
 -

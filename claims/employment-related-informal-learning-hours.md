@@ -45,3 +45,4 @@ In the NALL 1998 survey, employed respondents were asked about informal learning
 - [Over 70% of job training received by employees is informal, according to U.S. and Canadian national surveys](over-70-percent-job-training-informal.md) — related
 - [Informal learning participation is unrelated to formal schooling level, unlike course participation](schooling-unrelated-to-informal-learning.md) — related
 - [Aging does not substantially reduce informal learning participation, though preference shifts from courses to self-directed learning](aging-does-not-reduce-informal-learning.md) — related
+- [Tough's 1971 study found nearly all adults had undertaken a learning project in the past year, 68% self-planned and under 1% for credit, with women's categories logging fewer hours](tough-1971-learning-projects-prevalence-self-planned.md) — related

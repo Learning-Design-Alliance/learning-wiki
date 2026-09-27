@@ -46,7 +46,8 @@ The essay discriminates four levels of cross-cultural awareness: Level I, awaren
 - [Transspection: imagining oneself in a role within a foreign culture, a step beyond empathy](transspection-beyond-empathy.md)
 
 ## Examples
--
+
+- [Use stereotype-awareness and cross-cultural activities to surface assumptions about NESB staff](../strategies/stereotype-awareness-cultural-activities.md)
 
 ## Key Sources
 - Hanvey, Robert G. (1975). An Attainable Global Perspective. Center for War/Peace Studies. https://eric.ed.gov/?id=ED116993

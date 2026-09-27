@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Redundant on-screen text duplicates of narration or graphics impair learning
+title: Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help
 status: draft
 generated:
   by: claude/unspecified
@@ -17,16 +17,18 @@ sources:
     n: "63 studies (44 in the narration+on-screen-text \"scenario 4\")"
 ---
 
-# Redundant on-screen text duplicates of narration or graphics impair learning
+# Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · n=63 studies (44 in the narration+on-screen-text "scenario 4")
 
-Presenting the same information simultaneously as narration and verbatim on-screen text, or adding redundant text to an already comprehensible graphic, overloads working memory and typically lowers learning outcomes relative to narration-plus-graphics alone.
+Adding on-screen text that duplicates narration to a narrated animation or diagram, or adding redundant text to an already comprehensible graphic, is thought to overload working memory and has typically lowered learning outcomes relative to narration-plus-graphics alone. Without a visualization, written text added to narration is the opposite case: the review below reports positive effects there.
 
 ## Subclaims
 
-`q3 i?` A literature review of 63 studies finds that adding written text which duplicates narration (verbal/"working-memory-channel" redundancy) most often impairs learning, though the direction reverses for some moderators (older learners, learner-paced delivery, non-identical/abridged text). [→ Trypke et al. 2023](#trypke-et-al-2023)
+`q3 i?` A literature review of 63 studies finds that adding written text which duplicates the narration of a narrated visualization most often impairs learning, though the direction reverses for some moderators (older learners, learner-paced delivery, non-identical/abridged text). Adding written text to narration with no visualization is the opposite case: the review reports positive effects there. [→ Trypke et al. 2023](#trypke-et-al-2023)
+
+`q3 i?` The review classifies the harm as working-memory-channel redundancy between visualizations and written text, and reports positive effects of content redundancy that depend on learners' prior knowledge. [→ Trypke et al. 2023](#trypke-et-al-2023)
 
 ## Evidence
 
@@ -36,7 +38,7 @@ Trypke, M., Stebner, F., & Wirth, J. (2023). Two types of redundancy in multimed
 
 `q3 · systematic literature review (63 studies)` · `i? · no pooled effect size reported` · `n=63 studies (44 in the narration+on-screen-text "scenario 4")`
 
-This review classifies redundancy effects across 63 multimedia-learning experiments into "content redundancy" (duplicated information, independent of channel) and "working-memory channel redundancy" (two sources competing for the same processing channel). For the case closest to the classic redundancy principle — narration duplicated by identical on-screen text — the authors report that among the 44 studies adding written text to narrated visualizations, several classic experiments (e.g., [Kalyuga et al. 1999](https://doi.org/10.1002/(SICI)1099-0720(199912)13:4%3C351::AID-ACP589%3E3.0.CO;2-6), Mayer et al. 2001, Yue et al. 2013) found that "the animation, narration, and identical written text group performed worse on retention and transfer tests," and note the finding "aligns with the findings of the meta-analysis on the verbal redundancy effect, which shows that narrations accompanied by identical written text impaired learning (e.g., Adesope and Nesbit, 2012)." The review also identifies moderators — degree of overlap (abridged/keyword text is less harmful than verbatim duplication), learner age, prior knowledge, and pacing — that shift or reverse the direction of the effect, which is why the overall pattern is reported as heterogeneous rather than as one pooled effect.
+This review classifies redundancy effects across 63 multimedia-learning experiments into "content redundancy" (duplicated information, independent of channel) and "working-memory channel redundancy" (two sources competing for the same processing channel). For the case closest to the classic redundancy principle — narration duplicated by identical on-screen text — the authors report that among the 44 studies adding written text to narrated visualizations, several classic experiments (e.g., [Kalyuga et al. 1999](https://doi.org/10.1002/(SICI)1099-0720(199912)13:4%3C351::AID-ACP589%3E3.0.CO;2-6), Mayer et al. 2001, Yue et al. 2013) found that "the animation, narration, and identical written text group performed worse on retention and transfer tests," and note the finding "aligns with the findings of the meta-analysis on the verbal redundancy effect, which shows that narrations accompanied by identical written text impaired learning (e.g., Adesope and Nesbit, 2012)." The review also identifies moderators — degree of overlap (abridged/keyword text is less harmful than verbatim duplication), learner age, prior knowledge, and pacing — that shift or reverse the direction of the effect, which is why the overall pattern is reported as heterogeneous rather than as one pooled effect. The abstract's summary is scenario by scenario: positive effects of content redundancy (depending on prior knowledge), negative effects of working-memory-channel redundancy between visualizations and written text, and positive effects of working-memory-channel redundancy between narration and written text, so the harm is specific to text competing with a visualization.
 
 ## Discussion
 
@@ -58,3 +60,5 @@ This review classifies redundancy effects across 63 multimedia-learning experime
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — possibly the same claim (merge candidate)
 - [Redundancy Hurts Learning](redundancy-hurts-learning.md) — a narrower finding that bears on this claim
+- [Bimodal captioned input improved L2 listening skills, generalizing to unfamiliar sentences and speakers (attributed to Charles & Trenkic, 2015)](bimodal-captioned-input-improves-segmentation.md) — related
+- [Common language teaching methods such as oral drills, memorization, and fast-paced competitive activities disadvantage older learners](rote-drills-disadvantage-older-learners.md) — related

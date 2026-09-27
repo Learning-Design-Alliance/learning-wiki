@@ -45,6 +45,7 @@ The Unified Theory of Acceptance and Use of Technology (UTAUT) explains individu
 ## Related Theories
 
 - [Mobile user typology as a candidate predictor in mobile learning adoption models, substituting for effort expectancy](mobile-user-typology-adoption-predictor-framework.md)
+- [Extended TAM with perceived contextual value (PCV) for mobile learning acceptance](tam-pcv-extension-mobile-learning.md)
 
 ## Examples
 

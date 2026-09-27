@@ -59,8 +59,10 @@ Representation is not decorative: who appears in examples, whose knowledge is tr
 5. Assess with varied contexts and allow multiple valid framings of problems ([Assessment](../elements/assessment.md)), checking that performance gaps do not track representation of identity in task contexts
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — representation works by connecting content to the knowledge and experience learners already hold
 - [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md) — the language-level complement to content-level representation
+- [Incorporate culturally responsive strategies into adult immigrant instruction](culturally-responsive-strategies-adult-immigrant-instruction.md)
 
 ## Related Elements
 - [Case Studies](../elements/case-studies.md) — the primary vehicle for embedding multiple perspectives in authentic problems

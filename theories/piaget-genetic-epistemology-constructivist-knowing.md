@@ -48,6 +48,7 @@ The book presents Piaget's genetic epistemology as the developmental backbone of
 - [Vico's principle that we can rationally know only what we ourselves have made as an early formulation of constructivism](vico-constructivist-epistemology.md)
 - [Trial constructivism as the root of constructivism (Piaget's personal constructivism)](trial-constructivism-root-of-constructivism.md)
 - [Constructivism learning theory: knowledge as assumption, learning as active construction, students as subjects, teachers as helpers](constructivism-learning-theory-jia-2010.md)
+- [Vygotsky's genetic method: studying higher psychological functions across four time scales](vygotsky-genetic-method-four-time-scales.md)
 
 ## Examples
 

@@ -65,3 +65,4 @@ to justify such a type of motivation, at least in this group of students."
 - [Chinese college ESP learners show high amotivation-subscale, external-regulation, identified-regulation and intrinsic (knowledge, accomplishment) item means](esp-learners-mixed-motivational-propensities.md) — related
 - [Introjected regulation was low among Chinese ESP learners except for an identity-maintenance item](low-introjected-regulation-esp-learners.md) — related
 - [An SDT-based questionnaire yields seven distinct, reliable motivation subtypes for Chinese college ESP learners](sdt-seven-factor-esp-motivation-structure.md) — related
+- [Turkish EFL learners in this sample were generally extrinsically motivated, indicating moderate self-determination](turkish-efl-learners-generally-extrinsically-motivated.md) — related

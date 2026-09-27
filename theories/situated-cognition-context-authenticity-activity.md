@@ -48,11 +48,13 @@ Situated cognition holds that cognitive processes are located in physical and so
 - [Situated Learning](situated-learning.md)
 - [Communities-of-Practice theory as a framework for understanding community membership and learning](cop-theory-community-membership-learning.md)
 - [Situated Learning theory (legitimate peripheral participation in communities of practice)](situated-learning-theory-review-account.md)
+- [Sociocultural theory as the lens through which SLA views learners and learning](sociocultural-theory-lens-sla-learners.md)
 
 ## Examples
 
 - [Situated Learning](../principles/situated-learning.md)
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md)
+- [Embed situated, context-triggered language learning activities in learners' everyday environments](../strategies/situated-context-triggered-language-learning.md)
 
 ## Key Sources
 - Emmanuel Imiere. (2019). An Application of Cognitive Apprenticeship to Philosophy Instruction. https://eric.ed.gov/?id=ED613714

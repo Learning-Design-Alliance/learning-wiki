@@ -49,6 +49,8 @@ The ZPD is defined by Vygotsky as "the distance between the actual developmental
 - [Sociocultural Theory](sociocultural-theory.md)
 - [Vygotskian social-constructivist framework: mediated learning within the zone of proximal development guides preschool mathematical learning](zpd-mediated-early-math-framework.md)
 - [Cognitive apprenticeship framework with four learning-environment dimensions](cognitive-apprenticeship-four-dimensions-framework.md)
+- [Sociocultural account of CALL feedback as scaffolding toward desired performance](sociocultural-feedback-scaffolding-account.md)
+- [Sociocultural theory as the lens through which SLA views learners and learning](sociocultural-theory-lens-sla-learners.md)
 
 ## Examples
 

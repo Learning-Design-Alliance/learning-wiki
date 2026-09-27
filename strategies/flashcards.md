@@ -59,9 +59,12 @@ Flashcards work because retrieval is a learning event, not merely an assessment:
 6. **Revise the deck** — reword, split, or delete cards that repeatedly cause errors or confusion.
 
 ## Related Strategies
+
 - [Spaced Repetition](../elements/spaced-repetition.md) — the scheduling principle that makes flashcards durable rather than cram-dependent
 - [Retrieval Practice](retrieval-practice.md) — the underlying learning mechanism each card enacts
 - [Self-Testing](../elements/self-testing.md) — the broader family of techniques flashcards operationalize
+- [Allocate revision time economically by concentrating self-testing on the box of not-yet-known items](concentrate-revision-on-unknown-box.md)
+- [Diary recording with recall, reflection and delayed verification as a self-directed learning strategy](diary-recall-reflection-verification-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — each card review is a micro practice trial with retrieval as the task

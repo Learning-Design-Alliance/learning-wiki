@@ -61,9 +61,11 @@ Scenario based training works because it forces retrieval and application under 
 7. Fade scaffolds across the scenario sequence until learners handle full-complexity cases independently.
 
 ## Related Strategies
+
 - [Case-Based Learning strategies and pages](../elements/case-based-learning.md) — the discussion-based, lower-fidelity variant of the same idea
 - [Acting-Role-Play](acting-role-play.md) — human-performed scenarios emphasizing interpersonal skills
 - [Simulation-based practice](../elements/practice.md) — repeated scenario execution builds automaticity
+- [Teach workplace problem solving through case studies and role plays with a structured procedure](workplace-problem-solving-role-plays.md)
 
 ## Examples
 - **Harvard Business School case method** ([Case-Based Learning (Harvard Method)](../patterns/case-based-learning-harvard-method.md)) — written business scenarios discussed under instructor facilitation; a scalable, low-fidelity form of scenario training.

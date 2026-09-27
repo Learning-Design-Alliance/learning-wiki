@@ -43,7 +43,7 @@ A large U.S. Department of Education meta-analysis of K-12 and higher-education 
 ## Claims
 - [Blended Learning Improves Outcomes](../claims/blended-learning-improves-outcomes.md) [+W]
 - [Blended teaching shifted the teacher's self-identity from facilitator to co-facilitator and co-designer with students](../claims/blended-teaching-shifts-identity-to-co-facilitator.md) [+W]
-- [The study's results confirm both theses of the Interaction Equivalency Theorem in blended learning contexts](../claims/theorem-theses-confirmed-by-survey.md) [+W]
+- [In a survey of 236 blended-learning students, learners readily ranked teacher, student and content interaction, which the authors read as supporting both theses of the Interaction Equivalency Theorem](../claims/theorem-theses-confirmed-by-survey.md) [+W]
 
 ## Key Sources
 - Graham, C. R. (2006). Blended learning systems. In C. J. Bonk & C. R. Graham (Eds.), *The handbook of blended learning*. Pfeiffer.

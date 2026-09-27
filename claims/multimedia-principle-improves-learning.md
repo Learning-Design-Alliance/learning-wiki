@@ -123,3 +123,4 @@ Open questions include how the effect scales across media formats (static illust
 - [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — related
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — a narrower finding that bears on this claim
 - [Interesting but irrelevant details impair learning](seductive-details-effect.md) — related
+- [Combining textual and pictorial glosses improves incidental vocabulary learning more than single-mode glosses](multimodal-glosses-improve-incidental-vocabulary-learning.md) — a narrower finding that bears on this claim

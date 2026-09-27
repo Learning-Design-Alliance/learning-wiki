@@ -37,7 +37,7 @@ Iterative learning is the element in which learners improve through repeated cyc
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Structured, iterative support aligned to rubric competencies improves teacher candidates' pedagogical judgment over a clinical semester](../claims/structured-iterative-support-improves-pedagogical-judgment.md) [+W]
+- [In a qualitative case study of three social-studies teacher candidates, pedagogical judgment appeared to grow over a clinical semester of structured, iterative support aligned to rubric competencies](../claims/structured-iterative-support-improves-pedagogical-judgment.md) [+W]
 - [Lesson-plan quality grows steadily across three iterative design rounds, but no product reaches the excellent grade](../claims/iterative-design-steady-growth-no-excellent.md) [+W]
 - [Probing instructor feedback with required revise-and-resubmit moved candidates toward evidence-based descriptions of student understanding](../claims/probing-feedback-revise-resubmit-evidence.md) [+W]
 - [Feedback Use Improves Learning](../claims/feedback-use-improves-learning.md) [+M]

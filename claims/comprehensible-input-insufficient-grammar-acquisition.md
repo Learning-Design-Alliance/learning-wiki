@@ -1,0 +1,47 @@
+---
+type: claim
+title: Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency
+description: Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency
+id: comprehensible-input-insufficient-grammar-acquisition
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-09-27
+evidence_strength: weak
+sources:
+  - id: ellis-1991
+    resource: "https://eric.ed.gov/?id=ED338037"
+    title: "Ellis, Rod. (1991). The Interaction Hypothesis; A Critical Evaluation. ERIC Document ED 338 037. https://eric.ed.gov/?id=ED338037"
+    author: Ellis, Rod
+    q: 2
+    i: "?"
+---
+
+# Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
+
+## Subclaims
+`q2 i?` Immersion and intensive communicative programs supplying plentiful comprehensible input produced good listening/reading skills but low grammatical competence, indicating comprehensible input is not by itself sufficient for grammatical acquisition. [→ Ellis 1991](#ellis-1991)
+
+## Evidence
+
+### Ellis 1991
+
+Ellis, Rod. (1991). The Interaction Hypothesis; A Critical Evaluation. ERIC Document ED 338 037. https://eric.ed.gov/?id=ED338037
+
+`q2 · i?`
+
+The review reports, citing Hammerly (1987), Swain (1985), and Spada and Lightbown (1989), that communicative programs yielded fluency and confidence but low grammatical accuracy (e.g. low accuracy on plural-s). The review attributes the pattern to learners not noticing grammatical features in comprehended input.
+
+> "Hammerly (1987) reviewed six studies of French immersion,all of which showed that although the learners developed good listening and reading skills,they remained far from 'linguistically competent'."
+
+## Discussion
+
+
+## Related Claims
+- [Adult ESL learners in a planned informal total-immersion program made significantly greater communication-skill progress than a control group, with structural-skill progress not significantly different](immersion-esl-greater-communication-progress.md) — a narrower finding that bears on this claim
+- [Extensive reading improves grammatical knowledge and writing style](extensive-reading-improves-grammar-and-writing-style.md) — reports the opposite
+- [Grammatical skill is not the focus of Second Language Acquisition, per the study's synthesis of SLA theories and methods](grammar-not-focus-of-sla-synthesis.md) — reports the opposite
+- [There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested](no-direct-evidence-input-hypothesis.md) — related

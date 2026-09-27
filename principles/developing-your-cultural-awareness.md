@@ -80,10 +80,12 @@ Developing cultural awareness improves instruction when it changes how educators
 - [Prioritize reciprocal bidirectional knowledge exchange so both parties from different cultural backgrounds contribute and learn equally in international courses](reciprocal-bidirectional-knowledge-exchange-international-courses.md)
 
 ## Examples
+
 - **Bias review of materials**: Instructors audit examples, language, images, and case studies for hidden assumptions or exclusions.
 - **Reflective teaching journals**: Educators document patterns in participation, response, and expectation, then review them for bias or mismatch.
 - **Peer observation for equity cues**: Colleagues observe who is invited to speak, corrected, praised, or overlooked.
 - **Curriculum revision cycles**: Teams revise readings, scenarios, and discussion prompts to widen representation and reduce stereotype activation.
+- [Use stereotype-awareness and cross-cultural activities to surface assumptions about NESB staff](../strategies/stereotype-awareness-cultural-activities.md)
 
 ## Key Sources
 - Rhodes, C. M. (2018). Culturally responsive teaching with adult learners: A review of the literature. *International Journal of Adult Vocational Education and Technology, 9*(4), 33-41. [https://doi.org/10.4018/IJAVET.2018100103](https://doi.org/10.4018/IJAVET.2018100103)

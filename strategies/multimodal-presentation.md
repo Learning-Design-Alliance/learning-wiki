@@ -59,8 +59,10 @@ Multimodal presentation rests on dual coding: information presented simultaneous
 6. Follow with [Practice](../elements/practice.md) or retrieval to consolidate the integrated representation
 
 ## Related Strategies
+
 - [Chunking](../principles/chunking.md) — reduces within-modality load so the multimodal benefit is not swamped
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — primes the schema that the visual and verbal channels will jointly update
+- [Select authentic texts with highly informative contextual cues matched to learner proficiency, and add multimodal glosses when context is insufficient](select-informative-texts-and-multimodal-glosses.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — narrated diagrams and worked visuals synchronized with spoken explanation, applying modality and contiguity principles.

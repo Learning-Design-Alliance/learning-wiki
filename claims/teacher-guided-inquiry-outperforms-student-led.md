@@ -81,3 +81,4 @@ This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing t
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — a narrower finding that bears on this claim
 - [Some students found the guided-inquiry worksheet activities insufficiently thought-provoking and the data exchange troublesome](students-criticize-inquiry-worksheets-low-thinking.md) — related
+- [Review reports a controlled comparison favoring teacher-led instruction over student-centered instruction for grammar learning](teacher-led-outperformed-student-centered-grammar.md) — related

@@ -59,9 +59,11 @@ Selective attention to a stated purpose reduces the processing burden of full co
 6. Repeat with progressively longer, faster, or less scaffolded material
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — pre-reading knowledge activation makes selective search more efficient
 - [Skimming and Scanning](skimming-and-scanning.md) — the complementary rapid-processing techniques for gist and location
 - [Note-Taking](note-taking.md) — the common downstream use of extracted information
+- [Teach IELTS listening through explicit strategies and tips alongside task-based materials](ielts-listening-strategies-tips-instruction.md)
 
 ## Related Elements
 - [Advance Organizers](../elements/advance-organizers.md) — frame the purpose before exposure

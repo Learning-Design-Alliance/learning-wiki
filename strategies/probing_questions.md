@@ -59,9 +59,11 @@ Probing questions work because they elicit elaboration and self-explanation, whi
 5. Close by having learners articulate what changed in their thinking ([Individual Response](../elements/individual-response.md) or written synthesis).
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — probing builds on what learners already hold; activation supplies the raw material the probes work on
 - [Active Listening](../strategies/active-listening.md) — the facilitator skill that makes probes contingent rather than scripted
 - [Case-Based Learning](../patterns/case-based-learning.md) — cases give probes a concrete, shared object of analysis
+- [Apply six questioning techniques in whole-class discussion: simplify, moderate, provoke thought, challenge, follow up, and relate to students](six-teacher-questioning-techniques-reading-discussion.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the primary setting where probing questions operate

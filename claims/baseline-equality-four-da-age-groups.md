@@ -61,3 +61,5 @@ One-way ANOVA on writing accuracy pre-test scores (Table 5), scored as error-fre
 - [Learners' age (young under 22 vs. adult over 22) has no significant effect on IELTS writing accuracy under either DA treatment](age-no-significant-effect-ielts-writing-accuracy.md) — related
 - [No interaction between treatment type (interactionist vs. interventionist DA) and learners' age on writing accuracy](no-da-age-interaction-writing-accuracy.md) — related
 - [Interactionist Dynamic Assessment produces significantly higher IELTS writing accuracy than interventionist Dynamic Assessment](interactionist-da-higher-ielts-writing-accuracy.md) — related
+- [Experimental and control groups were equivalent in vocabulary before the glossing treatment](gloss-study-groups-equivalent-at-pretest.md) — related
+- [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related

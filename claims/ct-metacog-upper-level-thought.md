@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Students showed gains in upper-level thought, including transfer of reflective skills to other disciplines
-description: Students showed gains in upper-level thought, including transfer of reflective skills to other disciplines
+title: In a qualitative study of 32 EFL teacher-education students, participants described deeper, more reflective thinking after metacognitive and critical-thinking instruction, and one reported applying it in other disciplines
+description: In a qualitative study of 32 EFL teacher-education students, participants described deeper, more reflective thinking after metacognitive and critical-thinking instruction, and one reported applying it in other disciplines
 id: ct-metacog-upper-level-thought
 status: draft
 generated:
@@ -13,17 +13,18 @@ sources:
     resource: "https://eric.ed.gov/?id=EJ1301134"
     title: "Șchiopu, L. (2018). Integrating metacognition and critical thinking skills in the exploration of culture in EFL classroom. Journal of Pedagogical Research, 2(3), 181-191. https://eric.ed.gov/?id=EJ1301134"
     author: Șchiopu, L.
-    q: 2
+    q: 1
     i: "?"
+    n: 32
 ---
 
-# Students showed gains in upper-level thought, including transfer of reflective skills to other disciplines
+# In a qualitative study of 32 EFL teacher-education students, participants described deeper, more reflective thinking after metacognitive and critical-thinking instruction, and one reported applying it in other disciplines
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · `q1` argument or single case · n=32
 
 ## Subclaims
-`q2 i?` Participants became deeper, more skeptical and insightful about their professional development, and some reported applying what they learned to other disciplines. [→ Șchiopu 2018](#schiopu-2018)
+`q1 i?` In the author's qualitative account of 32 teacher-education students at one Moldovan university, participants were described as understanding their professional development more deeply and becoming more skeptical and insightful; one student reported applying what they learned to other disciplines. There was no comparison group or outcome measure. [→ Șchiopu 2018](#schiopu-2018)
 
 ## Evidence
 
@@ -31,9 +32,9 @@ sources:
 
 Șchiopu, L. (2018). Integrating metacognition and critical thinking skills in the exploration of culture in EFL classroom. Journal of Pedagogical Research, 2(3), 181-191. https://eric.ed.gov/?id=EJ1301134
 
-`q2 · i?`
+`q1 · qualitative study (student self-reports and instructor observation, no comparison group)` · `i? · no effect size reported` · `n=32`
 
-Results section 3.3 of the qualitative study: "The participants understand deeper their professional development, they become skeptical and insightful"; verbatim quotes include a student expanding English-class learning to philosophy, Romanian Literature and Economics, and one describing the reflective journal habit persisting.
+A qualitative study of 32 second- and third-year students in the teacher education program at Ion Creangă Pedagogical State University, Moldova, who received metacognitive and critical-thinking training (reflective journals, think-aloud protocols, reflective reading and discussion) alongside their EFL course. Results section 3.3 states that "The participants understand deeper their professional development, they become skeptical and insightful", supported by participant quotes: one student (R. D.) says they can expand what they learnt in the English class to philosophy, Romanian Literature and Economics, and another describes the reflective-journal habit persisting. Transfer to other disciplines is one participant's self-report, not a measured outcome, and the study has no comparison group.
 
 > "The participants understand deeper their professional development, they become skeptical and insightful, curious and eager to learn."
 

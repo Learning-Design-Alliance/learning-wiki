@@ -48,3 +48,4 @@ Conceptual exposition of the second CHAT assumption: learning happens through in
 - [Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies](static-assessment-misses-emerging-functions.md) — a narrower finding that bears on this claim
 - [Language and dialogue operationalize the networking capacities that connectivism values](language-operationalizes-network-learning.md) — related
 - [Social media tools plugged into learning management systems are presented as \"social learning\" solutions without being designed around social learning theory](social-media-tools-misappropriated-as-social-learning.md) — related
+- [The ZPD is falsely equated with Krashen's i+1 and with scaffolding in second language studies](zpd-not-equivalent-i-plus-one-or-scaffolding.md) — related

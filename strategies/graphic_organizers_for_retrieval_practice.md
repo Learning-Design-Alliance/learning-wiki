@@ -63,6 +63,7 @@ The strategy combines two complementary mechanisms: retrieval strengthens memory
 - Concept Mapping — the organizer-construction skill this strategy applies to recalled content
 - Two-Things Strategy — a quick retrieval variant that can precede full organizing
 - [Retrieval Practice With Graphic Organizers](retrieval_practice_with_graphic_organizers.md)
+- [Diary recording with recall, reflection and delayed verification as a self-directed learning strategy](diary-recall-reflection-verification-strategy.md)
 
 ## Examples
 - After a Civil War chapter, students brain-dump, then sort their recalled items onto a timeline and a causes/effects organizer, then verify against the text (see [Cult of Pedagogy's retrieval practice resources](https://www.cultofpedagogy.com/retrieval-practice/)).

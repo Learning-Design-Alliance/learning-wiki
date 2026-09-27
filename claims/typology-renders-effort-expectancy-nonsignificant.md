@@ -44,3 +44,5 @@ Combined structural model (RMSEA = 0.05, CFI = 0.95, SRMR = 0.07) explains "43%"
 - [Latent class analysis of Caribbean higher-education students' mobile phone feature use yields four user types: eclectic, Internet, basic, and offline entertainment users](four-mobile-user-types-caribbean-higher-education.md) — related
 - [Mobile user typology significantly predicts behavioural intention to adopt mobile learning, independently explaining approximately 11% of its variance](mobile-user-typology-predicts-adoption-intention.md) — related
 - [Behavioural intention to adopt mobile learning is highest among eclectic users, followed by Internet users, then offline entertainment users, and lowest among basic users](adoption-intention-ordering-across-user-types.md) — related
+- [Perceived contextual value significantly predicts behavioral intention to use a context-aware mobile language learning app](pcv-significantly-predicts-bi-contextual-language-app.md) — related
+- [Perceived ease of use does not significantly predict intention to use the contextual mobile language learning app](peou-non-significant-bi-contextual-app.md) — related

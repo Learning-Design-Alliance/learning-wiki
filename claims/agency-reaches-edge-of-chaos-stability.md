@@ -47,3 +47,4 @@ Authors' interpretation of the final five weeks of the semester, in which self-r
 - [Reflexive noticing shifts teacher discourse from stabilization to possibility, while surprises alone often re-stabilize it](reflexive-noticing-shifts-stabilization-to-possibility-discourse.md) — related
 - [The better the five foundations are integrated, the greater the probability of success in the designed setting](foundation-integration-predicts-environment-success.md) — related
 - [Dynamic self-regulation of brain subsystems enables simultaneous multisource learning beyond conscious attention](dynamic-self-regulation-multisource-learning.md) — related
+- [Dynamic systems theory and sociocultural theory are incommensurable because language is a complex adaptable, not adaptive, system](dst-sct-incommensurable-language-adaptable-system.md) — related

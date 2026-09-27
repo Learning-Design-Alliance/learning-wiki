@@ -9,10 +9,10 @@ generated:
   at: 2026-09-25
 evidence_strength: weak
 sources:
-  - id: richard-p-barber-2006
-    resource: "https://scholar.google.com"
-    title: "Richard P. Barber, Jr., David J. Popalisky, Rose Hacking and Kristina Chiapella. (2006). Newton's 2nd Law and the Physics of Dance. https://scholar.google.com"
-    author: Richard P. Barber, Jr., David J. Popalisky, Rose Hacking and Kristina Chiapella
+  - id: barber-et-al-2007
+    resource: "https://doi.org/10.48550/arXiv.0706.2717"
+    title: "Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K. (2007). Newton's 2nd Law and the Physics of Dance. arXiv:0706.2717. [doi:10.48550/arXiv.0706.2717](https://doi.org/10.48550/arXiv.0706.2717)"
+    author: "Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K."
     q: 1
     i: "?"
 ---
@@ -23,13 +23,13 @@ sources:
 > **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
-`q1 i?` The authors are convinced that the kinesthetic experience enhances student understanding and makes encountering the scientific process more fruitful, citing a student-conceived project as evidence. [→ Richard P. Barber 2006](#richard-p-barber-2006)
+`q1 i?` The authors are convinced that the kinesthetic experience enhances student understanding and makes encountering the scientific process more fruitful, citing a student-conceived project as evidence. [→ Barber et al. 2007](#barber-et-al-2007)
 
 ## Evidence
 
-### Richard P. Barber 2006
+### Barber et al. 2007
 
-Richard P. Barber, Jr., David J. Popalisky, Rose Hacking and Kristina Chiapella. (2006). Newton's 2nd Law and the Physics of Dance. https://scholar.google.com
+Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K. (2007). Newton's 2nd Law and the Physics of Dance. arXiv:0706.2717. [doi:10.48550/arXiv.0706.2717](https://doi.org/10.48550/arXiv.0706.2717)
 
 `q1 · i?`
 

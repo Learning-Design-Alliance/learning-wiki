@@ -54,6 +54,7 @@ Krashen's Monitor Model divides classroom activities into acquisition activities
 ## Examples
 
 - [Learning activities have a legitimate place in the language syllabus, but remain secondary to acquisition activities](../principles/learning-activities-legitimate-place-syllabus.md)
+- [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](../principles/comprehensible-input-communicative-reading-activities.md)
 
 ## Key Sources
 - Adamson, Douglas. (1983). Monitoring and the Monitor Model: Labov Versus Krashen. WATESOL Working Papers. https://eric.ed.gov/?id=ED242194

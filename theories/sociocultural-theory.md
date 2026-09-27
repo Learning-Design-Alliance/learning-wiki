@@ -76,6 +76,12 @@ A related developmental mechanism is **private speech**: children's habit of tal
 - [Vygotsky's sociocultural theory: development is historically situated, culturally determined, and proceeds through internalization of social interaction](vygotsky-sociocultural-theory-overview.md)
 - [Zone of Proximal Development: tasks a child cannot yet do alone but can do with help](vygotsky-zone-of-proximal-development.md)
 - [Zone of Proximal Development as an assessment and instruction tool](zpd-assessment-instruction-tool-gifted.md)
+- [Language socialization perspective on combined language and occupational skills training](language-socialization-perspective-vocational-esl.md)
+- [Dialectical monism: culture restructures natural mind, and applied research is basic research](sct-dialectical-monism-culture-restructures-nature.md)
+- [Sociocultural account of CALL feedback as scaffolding toward desired performance](sociocultural-feedback-scaffolding-account.md)
+- [Sociocultural theory as the lens through which SLA views learners and learning](sociocultural-theory-lens-sla-learners.md)
+- [Vygotsky's genetic method: studying higher psychological functions across four time scales](vygotsky-genetic-method-four-time-scales.md)
+- [Zone of Proximal Development as learners' responsiveness to culturally appropriate mediation](zpd-responsiveness-to-mediation.md)
 
 ## Examples
 

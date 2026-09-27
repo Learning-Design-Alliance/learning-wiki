@@ -44,4 +44,4 @@ Discussion-section synthesis of the qualitative case data comparing candidates' 
 - [Probing instructor feedback with required revise-and-resubmit moved candidates toward evidence-based descriptions of student understanding](probing-feedback-revise-resubmit-evidence.md) — related
 - [Continuous guided reflection and dialogue about ill-defined dilemmas contributed to increased reflective judgment sophistication in several preservice teachers](guided-reflection-increases-reflective-judgment-sophistication.md) — related
 - [Elaborative Encoding Improves Retention](elaborative-encoding-improves-retention.md) — a broader claim this one bears on
-- [Structured, iterative support aligned to rubric competencies improves teacher candidates' pedagogical judgment over a clinical semester](structured-iterative-support-improves-pedagogical-judgment.md) — related
+- [In a qualitative case study of three social-studies teacher candidates, pedagogical judgment appeared to grow over a clinical semester of structured, iterative support aligned to rubric competencies](structured-iterative-support-improves-pedagogical-judgment.md) — related

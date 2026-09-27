@@ -46,6 +46,7 @@ The article defines informal education as the ongoing transmission of knowledge,
 
 - [Typology of community-based education as formal, nonformal, and informal processes](formal-nonformal-informal-community-based-education.md)
 - [Framework connecting lifelong education and community through formal, nonformal, and informal providers](framework-connecting-lifelong-education-and-community.md)
+- [Coombs' three-category typology of formal, informal and non-formal education, with informal learning as an overarching concept including incidental learning](coombs-three-categories-learning-methods.md)
 
 ## Examples
 

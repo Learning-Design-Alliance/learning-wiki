@@ -78,3 +78,6 @@ Nothing here says where retention falls off.
 - [Final-test reading comprehension after retrieval practice does not differ significantly between an immediate test and a test delayed by three weeks](retrieval-practice-reading-comprehension-no-significant-retention-interval-difference.md) — related
 - [Retention trajectories diverged by centre: Centre 1 retained gains at 30 days while Centre 2 showed significant post-to-delayed decay](podcast-retention-divergence-massed-vs-distributed.md) — a narrower finding that bears on this claim
 - [Participants in an intensive competency-based mastery workshop mastered more than 98% of their workshop enabling objectives](mastery-workshop-98-percent-objective-completion.md) — related
+- [The GoldList Notebook Method increases long-term retention of L2 idioms compared with a vocabulary lesson alone](goldlist-method-improves-l2-vocabulary-retention.md) — related
+- [Delaying oral production and emphasizing aural comprehension in initial EFL instruction produces better results than intensive oral practice](listening-first-outperforms-intensive-oral-practice.md) — related
+- [Task rehearsal improves fluency and complexity on the repeated task but does not transfer to a new task of the same type](task-repetition-fluency-complexity-same-task-only.md) — related

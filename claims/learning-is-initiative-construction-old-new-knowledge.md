@@ -45,3 +45,4 @@ Theoretical exposition in the article's section on learning, arguing that constr
 - [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) — a narrower finding that bears on this claim
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — a narrower finding that bears on this claim
 - [The paper argues experiential training of early childhood workers is likely to produce reflective, creative caregivers and children who learn better](experiential-training-ecd-workers-better-child-outcomes.md) — related
+- [Equating one lexical item with one English counterpart is theoretically objectionable; entries should capture collocational restrictions and register](one-to-one-lexical-equation-objectionable.md) — related

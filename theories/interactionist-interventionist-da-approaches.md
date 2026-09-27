@@ -46,6 +46,7 @@ The article organizes Dynamic Assessment — a Vygotskian approach integrating a
 - [Interactionist dynamic assessment grounded in Vygotsky's ZPD](interactionist-da-zpd-framework.md)
 - [Vygotsky's account of mediated activity: three classes of mediators and the Zone of Proximal Development](vygotsky-three-classes-of-mediators-zpd.md)
 - [Dynamic assessment and the zone of proximal development as a framework for mediator-learner interaction](dynamic-assessment-zpd-mediator-interaction.md)
+- [Zone of Proximal Development as learners' responsiveness to culturally appropriate mediation](zpd-responsiveness-to-mediation.md)
 
 ## Examples
 

@@ -43,7 +43,7 @@ Simucase is a computer-based simulation platform that "allows students to comple
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Students report increased confidence in selecting, administering, scoring, and interpreting assessments after a simulated clinical course](../claims/simucase-increases-assessment-confidence.md) [+W]
 - [Students find computer-based simulation feedback insufficient because incorrect responses are marked without explanation](../claims/simucase-feedback-insufficient.md) [-W]
-- [Students perceive computer-based simulation cases as lacking authenticity because behavioral modifications for young clients are absent](../claims/simucase-lacks-behavioral-authenticity.md) [-W]
+- [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications](../claims/simucase-lacks-behavioral-authenticity.md) [-W]
 - [Students recommend integrating computer-based simulation cases into each course to make learning more concrete](../claims/students-recommend-simulation-in-each-course.md) [+W]
 - [Graduate SLP students perceive the learning mode of computer-based simulation as highly beneficial because it allows unlimited attempts without grade penalty](../claims/simucase-learning-mode-perceived-beneficial.md) [+W]
 - [Simulation Based Education Improves Outcomes](../claims/simulation-based-education-improves-outcomes.md) [+M]

@@ -96,3 +96,4 @@ A meta-analysis of distribution-of-practice effects across task types, reporting
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — possibly the same claim (merge candidate)
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
+- [Supplemental computer-based spaced repetition activities nearly triple long-term vocabulary retention in EFL students compared with conventional instruction alone](spaced-repetition-supplement-triples-vocabulary-retention.md) — a narrower finding that bears on this claim

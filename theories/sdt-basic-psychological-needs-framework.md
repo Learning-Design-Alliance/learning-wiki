@@ -55,6 +55,8 @@ Self-determination theory is described in the article as "a comprehensive theory
 - [SDT motivational spectrum from amotivation through four extrinsic regulations to intrinsic motivation](sdt-motivational-spectrum-regulations.md)
 - [SDT motivation continuum: four forms of extrinsic motivation varying in autonomy](sdt-motivation-continuum-four-extrinsic-regulations.md)
 - [Self-determination theory: three basic psychological needs underpin intrinsic motivation](sdt-three-basic-needs-intrinsic-motivation.md)
+- [Internalization-based mapping between SDT motivation types and L2MSS self constructs](sdt-l2mss-internalization-mapping.md)
+- [Social-psychological construct framework for Foreign Language Classroom Anxiety](social-psychological-constructs-flca-framework.md)
 
 ## Examples
 -

@@ -48,6 +48,7 @@ In his four-volume Thought and Things, Baldwin differentiated three types of log
 
 - [Baldwin's four successive modes of consciousness embedded in the growth of logical thought](baldwin-four-modes-consciousness.md)
 - [Stages of Cognitive Development](stages-of-cognitive-development.md)
+- [Vygotsky's genetic method: studying higher psychological functions across four time scales](vygotsky-genetic-method-four-time-scales.md)
 
 ## Examples
 -

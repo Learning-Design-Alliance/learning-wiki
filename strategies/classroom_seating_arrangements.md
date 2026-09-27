@@ -74,9 +74,11 @@ Seating arrangement acts as an environmental scaffold for the intended interacti
 6. Reconfigure between activity types within a lesson where feasible; a brief transition routine keeps the cost low.
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a discussion structure that requires adjacent seating to work efficiently
 - [Flexible Seating](../strategies/flexible-seating.md) — the student-choice variant of this strategy
 - [Room Positioning](../strategies/room-positioning.md) — the teacher's location as a complement to student seating
+- [Employ more communicative tasks and strategies in large classes to encourage participation](communicative-strategies-large-classes-participation.md)
 
 ## Related Elements
 - [Assigned Positions](../elements/assigned-positions.md) — deliberate seat assignment counters the participation penalty of peripheral seats

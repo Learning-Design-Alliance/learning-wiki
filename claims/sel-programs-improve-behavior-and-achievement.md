@@ -115,3 +115,4 @@ Open questions include the durability of achievement effects after programs end,
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
 - [SEL Programs Improve Academic Achievement](sel-programs-improve-academic-achievement.md) — possibly the same claim (merge candidate)
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related
+- [The affective component is suggested to contribute at least as much to language learning as cognitive skills](affective-component-contributes-as-much-as-cognitive.md) — related

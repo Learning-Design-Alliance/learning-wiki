@@ -60,3 +60,4 @@ Multilevel meta-analysis of 223 studies published 1992–2018, modeling 747 corr
 - [Test-enhanced learning](retrieval-practice-improves-retention.md) — testing benefits must be weighed against the evaluative pressure that can trigger anxiety-based impairment
 - [Expressive Writing Improves Exam Performance](expressive-writing-improves-exam-performance.md) — related
 - [Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content](synthesis-evaluation-measure-general-ability-lower-grades.md) — related
+- [Drop-out from adult language classes is slightly higher than from other courses, with anxiety and feelings of inadequacy a contributing reason](language-class-dropout-anxiety.md) — related

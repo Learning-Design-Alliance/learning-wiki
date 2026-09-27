@@ -40,6 +40,7 @@ The article recommends deploying online technologies within experiential pedagog
 ## Related Strategies
 
 - [Collaborative Learning Space Design](collaborative_learning_space_design.md)
+- [Deploy spaced-repetition vocabulary practice as a low-burden daily supplement of a few minutes without changing existing pedagogy](low-burden-daily-supplemental-vocabulary-practice.md)
 
 ## Examples
 -

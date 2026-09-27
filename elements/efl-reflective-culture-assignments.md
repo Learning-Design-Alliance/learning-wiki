@@ -43,7 +43,7 @@ The study's data-collection and instructional toolkit comprised four named assig
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Metacognitive and reflective instruction through culture exploration was followed by considerable development of English communication competencies and a positive emotional group culture](../claims/ct-metacog-communication-competencies.md) [+W]
-- [Students showed gains in upper-level thought, including transfer of reflective skills to other disciplines](../claims/ct-metacog-upper-level-thought.md) [+W]
+- [In a qualitative study of 32 EFL teacher-education students, participants described deeper, more reflective thinking after metacognitive and critical-thinking instruction, and one reported applying it in other disciplines](../claims/ct-metacog-upper-level-thought.md) [+W]
 - [Metacognitive and reflective instruction through culture exploration is associated with increased student engagement in the EFL classroom](../claims/ct-metacog-culture-engagement.md) [+W]
 
 ## Related Elements

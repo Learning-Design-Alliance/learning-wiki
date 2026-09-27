@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/gamification-raises-motivation-satisfaction.md
+---
+
+# Revision history: [claims/gamification-raises-motivation-satisfaction](../claims/gamification-raises-motivation-satisfaction.md)
+
+### 2026-09-27 · ingest · process:wiki-ingest
+Ingested from eric-ej1472423 (The Role of Language Games in Enhancing Vocabulary Acquisition: A Meta-Analysis) via eval_harness.py + ingest_extractions.py

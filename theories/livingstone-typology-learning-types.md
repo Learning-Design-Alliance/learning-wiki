@@ -44,6 +44,7 @@ The paper proposes a typology distinguishing four basic types of learning along 
 
 - [Three-axis typology of open educational practices](oep-three-axis-typology-bali-2020.md)
 - [An anatomy of autonomy in early literacy learning distinguishing autonomy of outcome from autonomy in the learning process](anatomy-of-autonomy-in-early-literacy.md)
+- [Coombs' three-category typology of formal, informal and non-formal education, with informal learning as an overarching concept including incidental learning](coombs-three-categories-learning-methods.md)
 
 ## Examples
 -

@@ -76,6 +76,7 @@ Real-world math improves engagement and transfer when the mathematical structure
 - [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — relevance grows when math supports meaningful tasks and decisions.
 - [Problem-based Learning](problem-based-learning.md) — real-world math often works through applied, open-ended problems.
 - [Involve students in real-world problem solving to deepen engagement, retention, and understanding](real-world-problem-solving-maker-context.md)
+- [Make adult language materials relevant, immediately useful, and grounded in real-life experiences](relevant-immediately-useful-adult-materials.md)
 
 ## Examples
 - **Budget comparison task**: Learners compare phone plans, wages, or household expenses using proportional reasoning and estimation.

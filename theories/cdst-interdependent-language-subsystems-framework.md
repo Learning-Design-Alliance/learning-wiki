@@ -46,6 +46,7 @@ The article presents Complex Dynamic Systems Theory (CDST) as an explanatory fra
 ## Related Theories
 
 - [Framework of the teacher agency system: agency as multi-layered interacting subsystems](teacher-agency-system-framework-cdst.md)
+- [Cognitive Linguistics as a usage-based model of language in which meaning motivates form](cognitive-linguistics-usage-based-meaning-motivates-form.md)
 
 ## Examples
 -

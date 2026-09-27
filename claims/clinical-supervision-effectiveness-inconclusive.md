@@ -62,4 +62,4 @@ The monograph reports Graybeal's (1984) finding of dilution in practice: "the to
 - [Mentoring strongly influences new teachers' decisions to stay in or leave teaching (review attribution)](mentoring-influences-new-teacher-retention.md) — related
 - [The student-tutor relationship alone is judged insufficient: peer mixing and virtual communities are needed to counter isolation in online research supervision](virtual-communities-counter-supervision-isolation.md) — related
 - [Probing instructor feedback with required revise-and-resubmit moved candidates toward evidence-based descriptions of student understanding](probing-feedback-revise-resubmit-evidence.md) — related
-- [Structured, iterative support aligned to rubric competencies improves teacher candidates' pedagogical judgment over a clinical semester](structured-iterative-support-improves-pedagogical-judgment.md) — related
+- [In a qualitative case study of three social-studies teacher candidates, pedagogical judgment appeared to grow over a clinical semester of structured, iterative support aligned to rubric competencies](structured-iterative-support-improves-pedagogical-judgment.md) — related

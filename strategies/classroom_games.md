@@ -58,9 +58,11 @@ Games work when the winning actions *are* the learning actions — when answerin
 5. Debrief: review missed items, have teams explain reasoning, and connect the content back to the unit's goals ([Assess Performance](../elements/assess-performance.md))
 
 ## Related Strategies
+
 - [Spaced retrieval practice](../strategies/spaced_retrieval_practice.md) — games are one delivery vehicle; scheduling game reviews across weeks multiplies retention benefit
 - [Peer tutoring](../strategies/peer_tutoring.md) — team games create natural peer-teaching moments when stronger students explain answers
 - [Formative assessment](../patterns/formative-assessment.md) — game performance data reveals which content needs reteaching
+- [Select games that maximize participation and match proficiency, and use games as complementary activities](select-games-participation-proficiency-complementary.md)
 
 ## Examples
 - **Kahoot!** ([kahoot.com](https://kahoot.com)) — multiple-choice quiz races with instant feedback; use team mode or pacing modes to reduce speed pressure

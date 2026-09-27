@@ -44,4 +44,4 @@ Qualitative results section reporting participant perceptions in the metacogniti
 - [Students perceived that critical thinking and metacognition training increased their achievement and learning efficiency](ct-metacog-achievement-perceptions.md) — related
 - [Metacognitive and reflective instruction through culture exploration was followed by considerable development of English communication competencies and a positive emotional group culture](ct-metacog-communication-competencies.md) — related
 - [The author reports a highly significant performance increase for the metacognitively prepared EFL classroom relative to the traditional classroom](culture-performance-vs-traditional-efl.md) — related
-- [Students showed gains in upper-level thought, including transfer of reflective skills to other disciplines](ct-metacog-upper-level-thought.md) — related
+- [In a qualitative study of 32 EFL teacher-education students, participants described deeper, more reflective thinking after metacognitive and critical-thinking instruction, and one reported applying it in other disciplines](ct-metacog-upper-level-thought.md) — related

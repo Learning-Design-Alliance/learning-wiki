@@ -75,6 +75,7 @@ Continuous review counters the steep forgetting curve by re-exposing learners to
 **[Khan Academy](https://www.khanacademy.org)** — Mastery-based math practice that resurfaces earlier skills in "mastery challenges," mixing review items with new content.
 
 **Cumulative quizzing (Roediger & Karpicke's classroom studies)** — Low-stakes quizzes that include items from all prior units produce substantially better end-of-course retention than quizzes covering only recent material [+S].
+- [Build regular reiteration of previously covered vocabulary topics into the EFL curriculum](../strategies/curriculum-reiteration-one-step-forward-two-steps-back.md)
 
 ## Key Sources
 - Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380. [doi:10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)

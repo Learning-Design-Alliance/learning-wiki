@@ -64,9 +64,11 @@ Anxiety consumes working memory and attention that would otherwise support learn
 7. **Fade the support.** As confidence grows, shift from guided orientation to self-service resources, so learners attribute success to their own competence rather than to the scaffolding [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - [Accommodate Varying Technology Experience](accommodate_varying_technology_experience.md) — the broader design response to heterogeneous digital skills; this strategy targets the affective subset
 - [Activate Background Knowledge](activate_background_knowledge.md) — connecting new tools to familiar analogies (folders, filing cabinets) reduces perceived strangeness
 - [Achievable Micro-Goals](achievable_micro-goals.md) — small early wins are the mechanism by which this strategy builds self-efficacy
+- [Reduce anxiety and build self-confidence in older language learners](reduce-anxiety-build-confidence-older-learners.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — vicarious mastery: watching an expert make and recover from errors lowers perceived risk
