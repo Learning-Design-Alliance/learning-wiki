@@ -49,6 +49,10 @@ Integrating text with corresponding graphics reduces extraneous cognitive load i
 - [Clear Structure](../principles/clear-structure-presentation.md) — proximity is a layout-level expression of structure: the physical arrangement signals which elements belong together
 - [Signaling](../strategies/signaling.md) — works in concert with proximity; cues direct attention to the correspondences that integrated placement makes physically adjacent
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Modality](../strategies/modality.md) — the temporal companion: narrating graphics rather than separating text from them
 - [Segmenting](../strategies/segmenting.md) — controls pacing of integrated multimedia so learners can process each unit

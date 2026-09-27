@@ -12,7 +12,7 @@ generated:
 # Assigned Readings
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 0 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q3` · 0 of 5 report an effect size
 
 ## Description
 Assigned readings place curated texts — textbook chapters, articles, cases, or primary sources — in learners' hands so they build conceptual foundations at their own pace. The element shifts first exposure to content outside of group time, freeing synchronous sessions for application, discussion, and clarification.
@@ -49,6 +49,10 @@ Assigned readings support self-paced encoding and allow learners to revisit diff
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — self-paced text lets learners pause, reread, and segment material, controlling the pace of information intake in a way lectures cannot
 - [Active Learning](../principles/active-learning.md) — paired with annotation, self-explanation prompts, or social annotation, reading becomes a generative activity rather than passive exposure
 - [Activation](../principles/activation.md) — pre-reading questions and advance organizers activate relevant prior knowledge before learners encounter the text
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Lecture](lecture.md) — readings front-load content so lecture time can focus on elaboration and application

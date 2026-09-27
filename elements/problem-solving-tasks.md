@@ -50,6 +50,10 @@ Well-designed problem-solving tasks sit at the right point on the guidance spect
 - [Collaborative Learning](../principles/collaborative-learning.md) — group problem solving exposes learners to alternative solution paths and distributes the reasoning load, provided roles and accountability are structured
 - Situated Learning — embedding problems in authentic professional contexts connects the task to the conditions under which the skill will actually be used
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Case-Based Learning](case-based-learning.md) — a problem-solving task anchored in a rich, realistic case narrative
 - [Case Studies](case-studies.md) — published cases that supply the problem context and constraints

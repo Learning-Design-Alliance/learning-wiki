@@ -12,7 +12,7 @@ generated:
 # Position Development
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q3` · 0 of 4 report an effect size
 
 ## Description
 Position development asks learners to form, articulate, and defend a stance on a genuinely contested issue, then refine that stance in response to evidence and counterargument. The stance is treated as provisional: the learning happens in the cycle of claiming, justifying, and revising rather than in arriving at a "correct" answer.
@@ -50,6 +50,10 @@ Position development works because it forces learners to retrieve, organize, and
 - [Constructivism](../principles/constructivism.md) — the stance is not transmitted but constructed; learners build understanding through the disequilibrium of encountering counterargument and revising
 - [Collaborative Learning](../principles/collaborative-learning.md) — paired or opposed positions create genuine communicative purpose: persuasion of a real interlocutor, not a performance for a grader
 - [Assessment for Learning](../principles/assessment-for-learning.md) — peer and instructor critique of a draft position provides actionable feedback at the point where the argument can still be revised
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Argumentation](argumentation.md) — the skill component; position development is argumentation applied to a contested issue the learner owns

@@ -17,7 +17,7 @@ sources:
 # Balloons: A Concepts About Print Assessment, a criterion-referenced 17-item measure from the Kindergarten Assessment Portfolio
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The Balloons test, locally constructed in 1991, is "a criterion-referenced measure from the Kindergarten Assessment Portfolio" used to assess kindergarten pupils' concepts about print. Its 17 scored objectives include knowing the front of the book, that print rather than pictures carries the message, left-to-right movement, one-to-one word match, and concepts of letter, word, and capital letter. Program teachers administered it the week of March 29, 1993; successful completion of at least 12 of 17 items was considered appropriate for promotion to grade 1.
@@ -35,6 +35,11 @@ The Balloons test, locally constructed in 1991, is "a criterion-referenced measu
 
 ### Target Learning Goals
 - Concepts about print, including book orientation, directionality, one-to-one matching, and letter/word concepts
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Balloons posttest scores in the ADK evaluation sample had a median of 15 items correct, ranging from 2 to 17](../claims/balloons-posttest-median-15-range-2-17.md) [+W]
+- [78.9% of ADK pupils attending at least 80% of sessions met the print-concepts objective of 12 or more of 17 items on the Balloons test](../claims/adk-78-9-percent-met-balloons-objective.md) [+W]
 
 ## Related Elements
 

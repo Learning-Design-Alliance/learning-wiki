@@ -42,6 +42,10 @@ Learners are given several plausible explanations for a biological (or other cau
 ### Affordances
 - [Epistemic Cognition](../principles/epistemic-cognition.md) — this task operationalizes epistemic cognition into two concrete, applicable criteria (explanatory power, information accuracy) within one domain
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Justification](justification.md)
 

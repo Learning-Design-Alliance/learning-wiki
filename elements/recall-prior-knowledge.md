@@ -12,7 +12,7 @@ generated:
 # Recall prior knowledge
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies, `q3`–`q4` · 1 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies, `q2`–`q3` · 1 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Recall prior knowledge is an instructional element that prompts learners to retrieve and surface what they already know before encountering new material. By activating existing schemas, it gives new information points of attachment, making it easier to encode, organize, and later retrieve. It typically appears early in a learning sequence — as opening questions, brainstorming, concept mapping, or analogy — and functions as the "activation" phase in several canonical instructional models.
@@ -48,6 +48,10 @@ Activating prior knowledge improves comprehension and retention because new info
 - [Activation](../principles/activation.md) — this element *is* the enactment of the activation principle: it operationalizes the claim that learning is facilitated when existing knowledge is retrieved and made available before new instruction
 - [Scaffolding](../principles/scaffolding.md) — recall prompts provide temporary structure that bridges what learners know to what they are about to learn, and can be faded as learners internalize the habit of self-activating
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — [Analogies](analogies.md) are a special case of prior-knowledge recall in which a familiar domain is deliberately mapped onto an unfamiliar one
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Concept Mapping](concept-mapping.md) — a structured format for externalizing and organizing recalled knowledge

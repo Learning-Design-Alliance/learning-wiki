@@ -17,7 +17,7 @@ sources:
 # Pedagogical Judgment Rubric (PJR/FPJR)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A faculty-designed rubric that "makes visible the components of sound instructional reasoning." The final version (FPJR) has four criteria — A: rich descriptions of students and how they responded to the lesson; B: rich descriptions of how students understood the concepts, ideas and/or skills; C: recognizing how choices impacted the learning experience; D: recognizing how pedagogical decisions shape student understanding — each rated sophisticated (3), semi-sophisticated (2), or less sophisticated (1). It was used in coursework and field-based reflections to help candidates "articulate their rationales, consider alternatives, and refine their instructional decisions," and served as "a shared language for analysis and interpretation of data."
@@ -35,6 +35,10 @@ A faculty-designed rubric that "makes visible the components of sound instructio
 
 ### Target Learning Goals
 - pedagogical judgment: interpreting classroom interactions and making responsive instructional decisions
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Structured, iterative support aligned to rubric competencies improves teacher candidates' pedagogical judgment over a clinical semester](../claims/structured-iterative-support-improves-pedagogical-judgment.md) [+W]
 
 ## Related Elements
 - 

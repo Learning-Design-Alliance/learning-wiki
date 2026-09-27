@@ -33,6 +33,10 @@ Learning outcomes are explicit statements of what learners should know, understa
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
 - [Competency-Based Assessment](../principles/competency-based-assessment.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [State Objectives](state-objectives.md)
 - [Assessment](assessment.md)

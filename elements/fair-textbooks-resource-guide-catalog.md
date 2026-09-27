@@ -36,6 +36,10 @@ Fair Textbooks: A Resource Guide is a U.S. Commission on Civil Rights clearingho
 ### Target Learning Goals
 - Fair and accurate representation of minority and female groups in curriculum and textbook materials
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Publisher Directory listing publishers sensitive to treatment of minorities and females](publisher-directory-bias-sensitive-publishers.md)

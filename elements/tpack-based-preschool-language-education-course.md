@@ -17,7 +17,7 @@ sources:
 # TPACK-based Preschool Language Education course (objectives, content, learning organization, assessment)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A 13-week course integrating the TPACK framework into Preschool Language Education for pre-service preschool teachers. "The TPACK-based course includes the course objective, course content, learning organization, and course assessment." Content spans basic theory of preschool children's language education plus design practice for conversation, narrative, and literary activities, with theoretical units delivered online via the Chaoxing Platform and practical units built on TPACK analysis of teaching video cases. Expert IOC evaluation yielded a total average of 0.9, and participant satisfaction was 95%.
@@ -35,6 +35,12 @@ A 13-week course integrating the TPACK framework into Preschool Language Educati
 
 ### Target Learning Goals
 - instructional design competence for preschool language education activities, including TPACK-based technology integration
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [A 13-week TPACK-based course significantly improves pre-service preschool teachers' instructional design competence compared with traditional instruction](../claims/tpack-course-improves-preservice-preschool-idc.md) [+M]
+- [Early-stage IDC growth shows simplification, linearity, and dogmatism, with focal points shifting from format to content to technology across rounds](../claims/novice-idc-growth-simplification-linearity-dogmatism.md) [+W]
+- [Lesson-plan quality grows steadily across three iterative design rounds, but no product reaches the excellent grade](../claims/iterative-design-steady-growth-no-excellent.md) [+W]
 
 ## Related Elements
 - 

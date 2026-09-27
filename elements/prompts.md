@@ -50,6 +50,10 @@ Prompts work by triggering self-explanations and strategic processing that learn
 - [Active Learning](../principles/active-learning.md) — prompts convert passive reading or watching into response by demanding an answer, prediction, or revision at the moment of encounter
 - [Clear Structure](../principles/clear-structure.md) — procedural prompts make the expected sequence of work explicit, reducing aimless search
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Think-Aloud](think-aloud.md) — prompts can elicit think-aloud behavior; the two together make reasoning visible and rehearsed
 - [Fading](fading.md) — the mechanism for withdrawing prompts as strategies become internalized

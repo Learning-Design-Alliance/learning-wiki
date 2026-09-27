@@ -52,6 +52,10 @@ Argument construction supports learning because generating and defending a posit
 - [Collaborative Learning](../principles/collaborative-learning.md) — paired or small-group argumentation exposes learners to opposing reasoning and requires articulation of warrants to peers
 - [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) — well-designed opposing arguments create the conceptual conflict that drives knowledge revision
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Research](research.md) — supplies the evidence base; arguments without sourced grounds collapse into opinion
 - [Rebuttals](rebuttals.md) — the component learners most often omit; explicit rebuttal tasks build the strongest reasoning gains

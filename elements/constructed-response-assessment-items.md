@@ -44,6 +44,10 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [Rubrics](../strategies/rubrics.md) — the recommended scoring structure for extended-response items when higher-order thinking, not just factual coverage, is the target
 - [Validity, Reliability, and Bias in Classroom Assessment](../principles/validity-reliability-and-bias-in-classroom-assessment.md) — the scoring-reliability problem this page describes is a direct instance of that principle's reliability concerns
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Selected-Response Assessment Items](selected-response-assessment-items.md) — the complementary item family for recognition-level goals

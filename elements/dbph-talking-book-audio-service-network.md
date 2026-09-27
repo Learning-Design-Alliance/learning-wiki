@@ -17,7 +17,7 @@ sources:
 # Library of Congress DBPH talking-book audio service network
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 against) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A national free reading service for blind and physically handicapped readers, authorized by Public Law 89-522, in which "Books and magazines are selected and put into recorded formats by the Division for the Blind and Physically Handicapped, for distribution through a network of state and locally-supported libraries." The network includes regional and subregional libraries and machine-lending agencies, postage-free mail service, and volunteer organizations that repair equipment and train readers. The study evaluated converting its media from rigid discs to cassettes and flexible discs.
@@ -35,6 +35,12 @@ A national free reading service for blind and physically handicapped readers, au
 
 ### Target Learning Goals
 - Access to recreational and informational reading through recorded books and magazines
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [The recommended conversion plan projects reader-population growth of 20 percent per year toward a goal of 2.25 million readers](../claims/conversion-plan-20-percent-annual-reader-growth.md) [+W]
+- [Plan 2 is the most cost-effective of twelve delineated conversion plans for recorded-book media conversion](../claims/plan2-most-cost-effective-disc-to-cassette-conversion.md) [+W]
+- [Equipment suppliers criticize DBPH procurement practices, including price-only awards and insufficient quality specifications](../claims/price-only-procurement-criticized-by-suppliers.md) [-W]
 
 ## Related Elements
 - 

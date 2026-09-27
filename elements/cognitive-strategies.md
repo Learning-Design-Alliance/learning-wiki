@@ -64,6 +64,10 @@ Strategy instruction improves learning most when strategies are taught explicitl
 - [Advance Organizers](advance-organizers.md) — an organizational scaffold presented before instruction that gives learners a structure into which new material can be integrated
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — cognitive strategies supply the "what to do" component; monitoring strategies supply the "when and whether it's working" component
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Think-Aloud](think-aloud.md) — the primary method for making strategies visible during instruction
 - [Advance Organizers](advance-organizers.md) — organizational support delivered before content

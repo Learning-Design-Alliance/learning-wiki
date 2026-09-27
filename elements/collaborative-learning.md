@@ -12,7 +12,7 @@ generated:
 # Collaborative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies, `q2`–`q4` · 0 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 3 studies, `q2`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Collaborative learning organizes learners into structured teams that jointly solve problems, complete tasks, and construct shared understanding. The structure matters as much as the grouping: effective designs assign roles, interdependence, and individual accountability rather than simply seating learners together.
@@ -51,6 +51,10 @@ Collaboration supports learning when it forces learners to articulate, defend, a
 - [Community of Inquiry](../principles/community-of-inquiry.md) — structured teams operationalize this principle's social presence dimension: sustained discourse among members with a shared purpose is the mechanism through which cognitive conflict and consensus-building occur
 - [Constructivism](../principles/constructivism.md) — knowledge is built through negotiation of meaning; disagreement between peers creates the [Cognitive Conflict](cognitive-conflict.md) that prompts reorganization of understanding
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — dividing a complex task across members lets the group hold and process more than any individual could, provided the division of labor is well designed [~M]
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 

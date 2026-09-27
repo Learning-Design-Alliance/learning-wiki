@@ -12,7 +12,7 @@ generated:
 # Continuous Review
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q2`–`q4` · 0 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q2`–`q3` · 0 of 7 report an effect size
 
 ## Description
 Continuous review is the systematic revisiting of previously taught material at expanding intervals throughout a course, rather than treating each topic as "covered" once and moving on. It functions as a structural commitment: earlier content is deliberately woven into later tasks, assessments, and warm-ups so that retention is maintained by design rather than left to chance.
@@ -49,6 +49,10 @@ Continuous review counters the steep forgetting curve by re-exposing learners to
 - Spaced Learning — continuous review is the operational mechanism of spacing: it converts the spacing effect from a research finding into a course-level schedule
 - Memory Consolidation — each spaced retrieval reactivates and stabilizes memory traces during consolidation, which is why distributed review outperforms equivalent massed study time [+S]
 - [Active Learning](../principles/active-learning.md) — effective review is retrieval, not re-exposure; it enacts active learning by making learners reconstruct knowledge from memory
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Spaced Repetition](spaced-repetition.md) — the scheduling algorithm that determines *when* review occurs

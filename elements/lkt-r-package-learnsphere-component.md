@@ -39,6 +39,10 @@ The LearnSphere LKT component implements the LKT framework as a unified system p
 ### Affordances
 - [Lkt Logistic Knowledge Tracing Framework](../theories/lkt-logistic-knowledge-tracing-framework.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

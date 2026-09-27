@@ -17,7 +17,7 @@ sources:
 # Uzgiris-Hunt ordinal scales of infant psychological development: six series of behavioral landmarks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The Uzgiris-Hunt Scales are sequential ordinal assessment instruments for infants, inspired by Piaget's observations, containing six series based on behavioral landmarks of development. Hunt reports the object permanence scale "has 14 steps rather than Piaget's six," means for obtaining environmental events has 13 steps, gestural and vocal imitation 9 steps each, operational causality 7, object relations in space 11, and schemes for relating to objects 10. Their meaning comes from "its place in a universal developmental order" rather than norms or criteria.
@@ -35,6 +35,11 @@ The Uzgiris-Hunt Scales are sequential ordinal assessment instruments for infant
 
 ### Target Learning Goals
 - sensorimotor and cognitive development, including object permanence, imitation, causality, spatial relations
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Advances in object construction lead advances in other developmental lines when steps anchor the comparison](../claims/object-construction-leads-other-lines.md) [+W]
+- [Scale scores for object construction and imitation intercorrelate highly in the Greek sample](../claims/greek-scale-intercorrelations-high.md) [+W]
 
 ## Related Elements
 - 

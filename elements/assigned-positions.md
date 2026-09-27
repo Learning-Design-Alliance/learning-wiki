@@ -12,7 +12,7 @@ generated:
 # Assigned Positions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 Learners are assigned a specific stance on an issue — often one they do not personally hold — and must construct and defend arguments from that perspective. Because the position is imposed rather than chosen, learners must actively search for, organize, and articulate justifications they would not otherwise generate, forcing engagement with the strongest reasoning available on "the other side."
@@ -49,6 +49,10 @@ Assigned positions work because arguing a case requires deeper processing than r
 - [Perspective-Taking](../principles/perspective-taking.md) — the assignment operationalizes perspective-taking behaviorally: learners must inhabit a stance, not merely acknowledge it
 - [Social Learning](../principles/social-learning.md) — learners observe peers constructing arguments for other positions, providing models of reasoning they can appropriate
 - [Argumentation](argumentation.md) — assigned positions give argumentation a concrete task structure: claim, evidence, warrant, rebuttal
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Debate](debate.md) — the most common delivery format; assigned positions are the role structure within it

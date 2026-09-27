@@ -36,6 +36,10 @@ A training pack produced by the Bernard van Leer Foundation, co-published with U
 ### Target Learning Goals
 - experiential participatory training methods for ECD
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

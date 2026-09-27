@@ -36,6 +36,10 @@ The article describes Google Cardboard-style headsets, which resemble goggles an
 ### Target Learning Goals
 - Experiential exposure to places and concepts related to literacy content
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Google Expeditions Pioneer Program: free virtual field trip kits for schools](google-expeditions-pioneer-program.md)

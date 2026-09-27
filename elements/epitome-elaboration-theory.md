@@ -12,7 +12,7 @@ generated:
 # Epitome (Elaboration Theory)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q2`–`q4` · 0 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q2`–`q3` · 0 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 An epitome is a deliberately simplified, holistic version of the full content — the most fundamental ideas and a representative whole task — presented before any detailed elaboration. In [Elaboration Theory](../patterns/elaboration-theory.md), successive passes then add complexity layer by layer, so learners always hold a complete (if coarse) picture of the subject rather than accumulating isolated parts.
@@ -49,6 +49,10 @@ Epitomes give learners an organizing structure into which subsequent detail can 
 - [Scaffolding](../principles/scaffolding.md) — the simplified version is temporary support; each elaboration layer fades the simplification until learners handle full complexity
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — by front-loading structure, the epitome prevents learners from holding unorganized detail in working memory while simultaneously trying to infer how it fits together
 - [Advance Organizers](advance-organizers.md) — the epitome serves as a rich, content-embedded organizer that anchors new detail to an existing framework
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — a leaner sibling; the epitome is a fuller, content-based version of the same function

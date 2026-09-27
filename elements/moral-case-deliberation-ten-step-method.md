@@ -38,6 +38,10 @@ Moral case deliberation is a structured method of ethical conversation developed
 - Developing moral competencies
 - Improving moral decision-making and dialogical understanding
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

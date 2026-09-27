@@ -40,6 +40,10 @@ The learner log is a proposed component of the FTS implementation that should co
 ### Affordances
 - [Fine Tuning System Fts Serious Games](../theories/fine-tuning-system-fts-serious-games.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

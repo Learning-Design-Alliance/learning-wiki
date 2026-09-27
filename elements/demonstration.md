@@ -61,6 +61,10 @@ Demonstrations reduce the cognitive burden of initial skill acquisition by givin
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — by externalizing each step of a task, demonstration lets learners attend to *understanding* the structure rather than holding intermediate states in working memory while simultaneously figuring out what to do next
 - [Scaffolding](../principles/scaffolding.md) — a demonstration functions as temporary external structure; the key design decision is when and how to fade it — moving from full worked examples to partial examples to problem-only as competence grows
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Practice](practice.md) — the necessary follow-on; demonstration without practice rarely transfers
 - [Think-Aloud](think-aloud.md) — the narration method that makes demonstration effective

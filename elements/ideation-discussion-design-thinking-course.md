@@ -17,7 +17,7 @@ sources:
 # Ideation discussion activities in Design Thinking course
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 An instructional component patterned from the Singapore Polytechnic Design Thinking toolkit in which EFL learners brainstorm ideas on post-it paper (with sketching allowed), select 3-5 ideas using a 2×2 matrix and weighing scale rubrics, and discuss them in English to reach one final concept. The article states the activities "consist of three parts: idea brainstorming, 2×2 matrix, and weighing scale rubrics for practicing and testing the learners' speaking and critical thinking abilities." It was delivered as 12 seven-hour sessions totaling 84 hours within the YMAC 2020 program.
@@ -37,6 +37,13 @@ An instructional component patterned from the Singapore Polytechnic Design Think
 - English speaking ability
 - critical thinking ability
 - teamwork and collaboration
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Critical thinking gains were significant for creative critical thought but not for logic and reasoning](../claims/ideation-discussion-creative-thought-gains-not-logic.md) [+W]
+- [Speaking gains were significant for fluency, pronunciation and vocabulary but not for grammar](../claims/ideation-discussion-speaking-gains-not-grammar.md) [+W]
+- [Ideation discussion activities in Design Thinking significantly improved EFL students' overall English-speaking test scores from pre-test to post-test](../claims/ideation-discussion-improves-efl-speaking-scores.md) [+W]
+- [Ideation discussion activities in Design Thinking significantly improved EFL students' overall critical thinking test scores from pre-test to post-test](../claims/ideation-discussion-improves-efl-critical-thinking-scores.md) [+W]
 
 ## Related Elements
 - 

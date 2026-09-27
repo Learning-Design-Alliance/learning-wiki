@@ -25,7 +25,7 @@ sources:
 # Solution Development
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 6 studies, `q2`–`q4` · 0 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 6 studies, `q2`–`q3` · 0 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 Solution development asks learners to synthesize information from multiple sources into a proposed solution to an authentic problem, then test, evaluate, and revise that solution against evidence or feedback. It functions as the productive phase of problem-centered instruction — the point where analysis converts into a concrete, defensible artifact or decision.
@@ -63,6 +63,10 @@ Solution development strengthens analytical reasoning by requiring learners to i
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — the propose–test–revise cycle mirrors the expert practice of articulation and reflection; instructors can [Coach](coaching.md) and fade support as solutions mature
 - [Active Learning](../principles/active-learning.md) — learners produce an artifact and defend it, converting passive exposure into generative work
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — solutions gain meaning when presented to real or realistic stakeholders who evaluate them
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Case-Based Learning](case-based-learning.md) — cases supply the authentic problem context from which solutions are developed

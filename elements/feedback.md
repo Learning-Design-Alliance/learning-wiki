@@ -12,7 +12,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 8 studies, `q3`–`q4` · 0 of 8 report an effect size
+> **Evidence** · 4 claims (4 for) · 8 studies, `q2`–`q3` · 0 of 8 report an effect size
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -49,6 +49,10 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Mastery Learning](../principles/mastery-learning.md) — mastery models are unworkable without feedback; learners must know what remains unmastered and receive targeted input before re-attempting
 - [Assessment for Learning](../principles/assessment-for-learning.md) — feedback converts assessment from measurement into instruction; the assessment itself becomes the feedback event
 - [Scaffolding](../principles/scaffolding.md) — feedback is a responsive scaffold that fades as learners internalize evaluative criteria [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Formative Assessment](formative-assessment.md) — the assessment structure that generates feedback while learning is still underway

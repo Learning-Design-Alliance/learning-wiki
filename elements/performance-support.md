@@ -50,6 +50,10 @@ Performance support shifts the instructional goal from "train everything in adva
 - [Coaching](coaching.md) — embedded hints and contextual prompts function as automated coaching, delivering process-level guidance at the moment of need [Feedback is most effective when delivered at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 - [Procedural Information](procedural-information.md) — performance support is procedural information delivered just-in-time rather than just-in-case, per the [Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) distinction between supportive and procedural information
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Procedural Information](procedural-information.md) — the content type performance support delivers, just-in-time instead of up front
 - [Scaffolding](scaffolding.md) — performance support is a self-service scaffold; fading applies here too

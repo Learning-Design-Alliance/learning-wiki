@@ -12,7 +12,7 @@ generated:
 # Submission
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q3` · 0 of 4 report an effect size
 
 ## Description
 Submission is the act of learners delivering completed or in-progress work for evaluation, feedback, or peer review. It functions as a structured checkpoint that makes learning visible to instructors and to learners themselves, converting private effort into an assessable artifact.
@@ -49,6 +49,10 @@ Submission creates the accountability structure that makes practice productive: 
 - [Competency-Based Assessment](../principles/competency-based-assessment.md) — submissions serve as the evidence base for competency decisions; learners submit when ready rather than on a fixed schedule, and resubmit until the standard is met
 - [Active Learning](../principles/active-learning.md) — a submission requirement converts passive consumption into production; learners must generate an artifact, not just attend or read
 - [Mastery Learning](../principles/mastery-learning.md) — paired with resubmission policies, submission enables the mastery cycle of attempt, feedback, correction, and re-attempt until proficiency is demonstrated
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Assessment](assessment.md) — the evaluative frame that gives submission its criteria and stakes

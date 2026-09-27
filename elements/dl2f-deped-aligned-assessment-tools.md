@@ -39,6 +39,10 @@ A component of DL2F implementation is a set of assessment and evaluation tools d
 - effective communication
 - collaborative skills
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

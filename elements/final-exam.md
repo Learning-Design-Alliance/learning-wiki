@@ -12,7 +12,7 @@ generated:
 # Final Exam
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q3`–`q4` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q2`–`q3` · 0 of 4 report an effect size
 
 ## Description
 A final exam is a high-stakes, cumulative assessment administered at the end of a course or program, covering material from the entire instructional period. It functions primarily as a [Summative Assessment](summative-assessment.md) — certifying proficiency rather than guiding ongoing instruction — though its cumulative design also gives it a powerful secondary learning function.
@@ -48,6 +48,10 @@ Cumulative final exams leverage the testing effect: retrieving knowledge from ea
 - [Competency-Based Assessment](../principles/competency-based-assessment.md) — a well-constructed final exam enacts this principle when items are criterion-referenced to explicit outcomes, allowing a defensible judgment of whether each competency has been attained rather than a norm-referenced ranking
 - [Assessment for Learning](../principles/assessment-for-learning.md) — although summative in purpose, a final exam can be preceded by cumulative practice tests and post-exam item analysis, converting it from a pure judgment event into part of a feedback loop
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — distributing cumulative review across the term (via the exam's forward announcement) encourages spaced retrieval, which manages load better than massed pre-exam cramming
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Summative Assessment](summative-assessment.md) — the assessment category the final exam instantiates

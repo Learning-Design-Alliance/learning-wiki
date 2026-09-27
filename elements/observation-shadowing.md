@@ -49,6 +49,10 @@ Shadowing converts passive observation into an active reproduction attempt, whic
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — the model externalizes the solution structure, freeing working memory to attend to matching one's own execution to the observed one instead of planning from scratch
 - [Scaffolding](../principles/scaffolding.md) — shadowing is a temporary support that should fade: full imitation → partial imitation with learner decisions → independent performance
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Practice](practice.md) — the shadow attempt is itself practice; without it, observation yields illusion of competence
 - [Think-Aloud](think-aloud.md) — narration that makes the model's invisible decisions observable

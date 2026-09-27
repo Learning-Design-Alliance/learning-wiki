@@ -12,7 +12,7 @@ generated:
 # Least Restrictive Environment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The U.S. IDEA legislation requires placing students with disabilities in the **least restrictive environment (LRE)** — the combination of settings that involves the student with regular classrooms and school programs as much as possible. The exact combination is determined by the circumstances of the particular school and student, not fixed by disability label alone: a kindergartner with a mild cognitive disability might spend most of the day in a regular kindergarten classroom with a teacher assistant's help, while an adolescent with a similar disability might be assigned mainly to specially designed classes but still join some school-wide activities with non-disabled peers. This variation partly reflects a real (and debatable) pattern in teacher perception — curriculum modification is generally seen as more difficult to manage at higher grade levels — rather than being dictated purely by the disability's nature. A student whose disability is strictly physical, by contrast, might spend virtually the entire school career in regular classes, since curriculum adjustment may not be an issue at all.
@@ -40,6 +40,9 @@ LRE placement typically comes with a formal **individual educational plan (IEP)*
 - Documented, team-developed goals and progress criteria specific to the student
 
 ## Claims
+
+- [Tacoma's progressive inclusion program pervaded district operations and limited out-of-district placements to two over twenty years](../claims/progressive-inclusion-limited-out-of-district-placements.md) [+M]
+- [Inclusion of students with disabilities often falls short because efforts start from a place of exclusion, making students guests who must earn access](../claims/disability-inclusion-starts-from-exclusion.md) [~W]
 
 ## Related Principles
 - [Functional Behavior Assessment](functional-behavior-assessment.md) — IEP due-process requirements directly constrain how discipline plans can be changed for a student under a behavior-related IEP

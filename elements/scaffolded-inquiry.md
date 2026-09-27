@@ -12,7 +12,7 @@ generated:
 # Scaffolded Inquiry
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 10 studies, `q3`–`q4` · 0 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 10 studies, `q2`–`q4` · 0 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Scaffolded inquiry sequences learning tasks so that learners begin with heavily structured investigation — embedded prompts, worked models, and instructor-framed questions — and progressively take over the questioning, reasoning, and design decisions themselves. The instructor's role shifts from directing the inquiry to coaching and eventually observing as learners independently formulate questions, gather evidence, and draw conclusions.
@@ -50,6 +50,10 @@ Scaffolded inquiry resolves the central tension of inquiry learning: open explor
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md) — scaffolded inquiry is the guided variant of this principle, addressing its documented failure modes for novices
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — the progression from modeling through coaching to independent exploration mirrors the apprenticeship sequence
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — early scaffolds offload task-structuring demands so working memory is spent on the science or reasoning itself
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Guided Discovery](guided-discovery.md) — the intermediate phase; scaffolded inquiry extends guided discovery toward full independence

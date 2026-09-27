@@ -50,6 +50,10 @@ Transfer tasks are the primary way to verify and build far transfer, since perfo
 - [Active Learning](../principles/active-learning.md) — transfer tasks require generative application rather than recognition or recall, producing the retrieval and elaboration that strengthen schemas
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — transfer tasks set in realistic contexts give learners a purpose for applying knowledge beyond "the teacher asked"
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Practice](practice.md) — transfer tasks are the most demanding form of practice; they follow, not replace, skill-building practice
 - [Case Studies](case-studies.md) — multiple cases with shared structure are the raw material for building transferable schemas

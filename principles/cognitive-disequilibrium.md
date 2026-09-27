@@ -17,7 +17,7 @@ sources:
 # Cognitive Disequilibrium
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 9 studies, `q3`–`q4` · 0 of 9 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 9 studies, `q2`–`q4` · 0 of 9 report an effect size
 
 ## Description
 Cognitive disequilibrium is the principle of using mismatch, surprise, or contradiction to unsettle an existing mental model and create readiness for revision. It is useful when conceptual change requires learners to notice that their current explanation no longer fits the evidence.

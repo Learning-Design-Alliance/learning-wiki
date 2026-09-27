@@ -36,6 +36,10 @@ The Goldman-Fristoe Test of Articulation, published by American Guidance Service
 ### Target Learning Goals
 - Identifying and recording consonant sound articulation errors for speech correction screening
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

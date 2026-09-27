@@ -12,7 +12,7 @@ generated:
 # Collaborative Problem-Solving
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies, `q2`–`q4` · 0 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 3 studies, `q2`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Collaborative problem-solving (CPS) places a small group of learners around a problem that no single member can solve alone, requiring them to pool knowledge, divide cognitive labor, negotiate approaches, and converge on a shared solution. It functions simultaneously as a content-learning activity and as practice in the social-cognitive skills — perspective-taking, task regulation, and joint reasoning — that the OECD treats as a distinct competency domain.
@@ -52,6 +52,10 @@ CPS improves learning when the group's discussion forces learners to externalize
 - [Constructivism](../principles/constructivism.md) — learners actively construct solutions through negotiation and consensus-building rather than receiving expert solutions
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — peer [Articulation](articulation.md) and [Reflection](reflection.md) during group work make reasoning visible in the same way expert modeling does, but from near-peers
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — dividing the coordination of a complex task across members reduces individual working-memory burden on high-element-interactivity problems
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Collaboration](collaboration.md) — the general group-work element; CPS is its problem-anchored form

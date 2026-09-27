@@ -17,7 +17,7 @@ sources:
 # Fading
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 5 studies, `q3` · 0 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Fading is the element in which instructional support is deliberately reduced as learner competence grows. It is useful when the design goal is to transition from supported performance to independence without either over-supporting or abandoning learners too early.
@@ -40,6 +40,13 @@ Fading is the element in which instructional support is deliberately reduced as 
 - [Scaffolding](../principles/scaffolding.md)
 - [Scaffolding and Fading](../principles/scaffolding-and-fading.md)
 - [Mastery Learning](../principles/mastery-learning.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [+M]
+- [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
+- [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [+M]
+- [Expertise Reversal Guidance Hurts Experts](../claims/expertise-reversal-guidance-hurts-experts.md) [+M]
 
 ## Related Elements
 - [Demonstration](demonstration.md)

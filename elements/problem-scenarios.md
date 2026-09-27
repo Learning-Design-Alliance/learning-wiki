@@ -17,7 +17,7 @@ sources:
 # Problem Scenarios
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Problem scenarios are concrete situations presented to learners as the context for inquiry, analysis, or solution development. They are useful when learners need a realistic frame that makes a problem meaningful and actionable.
@@ -37,6 +37,11 @@ Problem scenarios are concrete situations presented to learners as the context f
 ### Affordances
 - [Problem-based Learning](../principles/problem-based-learning.md)
 - [Situated Learning](../principles/situated-learning.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](../claims/contextualized-teaching-facilitates-transfer.md) [+W]
+- [Dewey rejects Kohlberg's fixed stage hierarchy: moral inquiry happens only in problematic situations where no single action seems morally justified, and must be repeated as concrete situations arise](../claims/dewey-rejects-fixed-moral-stages.md) [+W]
 
 ## Related Elements
 - [Problem Scenario](problem-scenario.md)

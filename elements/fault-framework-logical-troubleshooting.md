@@ -36,6 +36,10 @@ FAULT is the article's context-specific fault diagnosis simulation, named becaus
 ### Target Learning Goals
 - context-specific equipment fault diagnosis under cost constraints
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [CRESST Integrated Assessment System: a computer-based suite of performance assessment tasks](cresst-integrated-assessment-system.md)

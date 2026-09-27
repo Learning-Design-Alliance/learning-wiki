@@ -12,7 +12,7 @@ generated:
 # Addressing Student Misconceptions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 1 of 4 report an effect size
 
 ## Description
 Activating students' prior knowledge is usually beneficial, but it is a mixed blessing when that prior knowledge is itself misleading or wrong — a common situation at any grade level, not just among young children. A kindergartner may think the sun literally "rises" (echoing adult speech) or that the earth is flat because it looks flat from the ground; a high school student may believe a boulder falls faster than a pebble, or that an object dropped from a moving car falls straight down rather than continuing to travel alongside the car as it falls.
@@ -41,6 +41,11 @@ Second, and just as important: **treat students' existing beliefs with respect**
 
 ### Affordances
 - [Constructivism](../theories/constructivism.md) — misconceptions are a direct consequence of learners actively constructing understanding from incomplete or misleading everyday experience, rather than passively absorbing correct information
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Misconceptions Interfere With New Learning](../claims/misconceptions-interfere-with-new-learning.md) [+M]
+- [Cognitive disequilibrium motivates conceptual change](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M]
 
 ## Related Elements
 - [Prior Knowledge Activation](prior-knowledge-activation.md)

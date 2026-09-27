@@ -36,6 +36,10 @@ The article reports that all directed-acyclic-graph to moral-graph, triangulated
 ### Target Learning Goals
 - Automated determination of conditionally independent latent variable subsets for efficient model estimation
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [BNL (Bayesian networks with logistic regression nodes)](bnl-bayesian-networks-logistic-regression-nodes.md)

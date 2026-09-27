@@ -52,6 +52,10 @@ Emotions are not noise around learning — they shape attention, working memory 
 - [Belonging](../elements/belonging.md) — social-belonging framing is itself a regulation strategy: normalizing worry as common and temporary reduces its interpretation as evidence of inadequacy
 - [Attention](../elements/attention.md) — attention-deployment strategies (redirecting focus away from threat cues) are a core regulation mechanism that designers can scaffold through task structure
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Check-In](check-in.md) — a routine that surfaces emotional states so regulation strategies can be matched to them
 - [Belonging](../elements/belonging.md) — addresses the social-evaluative concerns that drive much academic anxiety

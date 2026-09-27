@@ -12,7 +12,7 @@ generated:
 # Class Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 Class discussion is a structured conversational format in which learners collectively analyze, question, and reflect on content, guided by an instructor or discussion protocol. It functions as a social processing mechanism: learners articulate interpretations, encounter alternative perspectives, and negotiate shared understanding rather than receiving conclusions directly.
@@ -51,6 +51,10 @@ Discussion supports learning primarily when learners are doing generative cognit
 - [Community of Inquiry](../principles/community-of-inquiry.md) — sustained discussion develops the social and cognitive presence that this framework identifies as necessary for deep learning
 - [Constructivism](../principles/constructivism.md) — learners confront their interpretations against alternatives, creating the [Cognitive Conflict](cognitive-conflict.md) that drives conceptual revision
 - [Cognitive Activation](../principles/cognitive-activation.md) — well-facilitated discussion uses authentic questions and follow-ups that push learners beyond recall toward reasoning
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Socratic Questioning](socratic-questioning.md) — the questioning technique that drives productive discussion

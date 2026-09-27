@@ -12,7 +12,7 @@ generated:
 # Modeling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 6 studies, `q3`–`q4` · 0 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 6 studies, `q2`–`q3` · 0 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Modeling is the instructional element in which an instructor, expert, or advanced peer demonstrates expert thinking and behavior — making both the actions and the reasoning behind them visible. It functions as the observational entry point to skill acquisition: learners study a competent performance, including its decision points and self-monitoring, before producing their own attempts.
@@ -50,6 +50,10 @@ Modeling provides structured exposure to expert-level reasoning, reducing the un
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — modeling is the first phase of the sequence (modeling → coaching → fading), making expert processes visible before learners take over
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — a worked model externalizes intermediate steps so learners attend to understanding structure rather than generating solutions from scratch
 - [Worked Examples](../principles/worked-examples.md) — a worked example is modeling applied to problem solving: the expert solution, annotated with reasoning, studied before independent attempt
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Practice](practice.md) — the necessary follow-on; modeling without practice rarely transfers

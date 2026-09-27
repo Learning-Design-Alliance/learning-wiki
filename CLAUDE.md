@@ -110,6 +110,43 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-29 (later) — v136 is `CURRENT`; q4 errors fixed; design pages linked to claims; a kind-and-rigour pilot
+
+- **`CURRENT` is v136** (maintainer's decision). No quantisation filter and no provider pin: 8-bit
+  hosts are not used yet.
+- **Ten evidence entries coded q4 were not preregistered trials or well-powered meta-analyses** and are
+  recoded: seven narrative reviews and a book (Ryan & Deci 2000, Cowan 2001, Metcalfe 2017, Bandura
+  1997, Pajares 1996, Locke & Latham 2002, Eccles & Wigfield 2002) to q2 narrative review; Watts,
+  Duncan & Quan 2018 and Chi et al. 1989 (n=10) to q2 observational; Bierman et al. 2026 to q3 (an RCT
+  not stated as preregistered). Across the claims, 33 subclaim q codes now equal their entry's, and 18
+  subclaim i codes that exceeded their entry's were lowered to it.
+- **Every element page has a `### Claims` section** (the template above has it too), and
+  **`link_pages.py --claims-for elements patterns principles --verify`** fills them: GLM proposes up
+  to 12 BM25 claim candidates for each page that cites no claim, and GPT keeps only links where the
+  claim tests or bears directly on the page's own construct (`eval/runs/page-links/verified.ndjson`
+  records each decision and its reason). GLM alone proposed 1,700; GPT kept 866 ($0.51), on 314
+  pages. Rejections read right: "Cognitive Styles" was refused a Kolb learning-styles claim as a
+  different construct. Design pages citing no claim: **671 → 357**. Markers are capped by the claim's
+  recorded evidence (`strength_cap`), so most are `[+W]`. A page without a Claims heading gets one
+  before its Related/Examples/Key Sources tail.
+- **Four wrong-claim links from the usage simulation fixed**: `elements/debrief` →
+  simulation-based deliberate practice, `principles/gamification`'s extrinsic-rewards line →
+  `rewards-undermine-intrinsic-motivation`, `strategies/comparing_multiple_solution_methods` →
+  `comparing-contrasting-cases-improves-learning`, and four timing lines on `strategies/timely_feedback`
+  no longer cite the task/process-level feedback claim. A check that link text matches its target is
+  still open.
+- **Kind and rigour, a pilot, not adopted.** `q` ranks quantitative design, so a rigorous qualitative
+  study is q1 or q2 however well done. `eval/kind-rigor/RUBRIC.md` codes an evidence KIND (causal,
+  quant-synthesis, review, associational, qualitative, design, theoretical) and a rigour 1–3 judged
+  within it; `scripts/kind_rigor_pilot.py` coded 38 stratified entries twice ($0.09): kind agreed
+  37/38, rigour 33/38, and the judge said q misrepresents the study's value for 24 of 38 (Beittel
+  1972, rigorous qualitative work, sits at q1 with bare design descriptions; Liang 2026's interviews
+  score r3 at q2; Guzzetti 1993 is a q4 meta-analysis scoring r1 on its abstract). The whole wiki
+  would cost about $4. **The scale is unchanged until the maintainer decides**; do not recode.
+- **`--topics-file`** on `discover_articles.py` and `run_scrape_batch.py` replaces the built-in topic
+  list. `eval/deep-dive/adult-language-learning/topics.txt` is the first: a deep dive testing whether
+  depth in one area makes the wiki useful for a course build (usage simulation S1, Italian A1).
+
 ### 2026-09-29 — cost: write the citation once (v136); an output-price ceiling backfires; search and study counts fixed
 
 - **Prompt v136 writes the source's citation once**, as `article.citation`; every `evidence[].citation`
@@ -2637,6 +2674,10 @@ generated:
 
 ### Affordances
 <!-- Link to principles applied: [Principle Name](../principles/principle-slug.md) -->
+- 
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - 
 
 ## Related Elements

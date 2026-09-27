@@ -19,7 +19,7 @@ Timely feedback is delivered while the learning task is still active in the lear
 
 ## Design Implications
 
-Feedback is among the most powerful influences on achievement, but its effects are highly variable, and timing is one of the conditions that determines whether it helps or hinders [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. Immediate feedback supports in-the-moment error correction and prevents learners from practicing and consolidating incorrect procedures [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+M]. However, delayed feedback can outperform immediate feedback when the goal is durable retention, because a delay gives learners a retrieval opportunity before correction [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [~M]. Timing decisions should therefore follow from the learning goal, not from a blanket "faster is better" rule.
+Feedback is among the most powerful influences on achievement, but its effects are highly variable, and timing is one of the conditions that determines whether it helps or hinders. Immediate feedback supports in-the-moment error correction and prevents learners from practicing and consolidating incorrect procedures. However, delayed feedback can outperform immediate feedback when the goal is durable retention, because a delay gives learners a retrieval opportunity before correction. Timing decisions should therefore follow from the learning goal, not from a blanket "faster is better" rule.
 
 ### Context
 #### Requirements
@@ -28,7 +28,7 @@ Feedback is among the most powerful influences on achievement, but its effects a
 - An opportunity for learners to use the feedback — revise, retry, or apply it to the next task ([Practice](../elements/practice.md), [Revision](../elements/revision.md))
 
 #### Constraints
-- Immediate feedback on every attempt can create dependence and disrupt the retrieval effort that builds long-term retention [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [~M] — learners never practice resolving uncertainty on their own
+- Immediate feedback on every attempt can create dependence and disrupt the retrieval effort that builds long-term retention — learners never practice resolving uncertainty on their own
 - Feedback delivered after learners have moved on is often ignored or misattributed; effort spent grading late work yields little learning gain
 - Immediate feedback during complex problem solving can interrupt productive struggle and increase extraneous load ([Cognitive Load Management](../principles/cognitive-load-management.md)) [~M]
 - Feedback that arrives too quickly for learners to self-assess removes the self-monitoring step central to [Self-Regulated Learning](../theories/self-regulated-learning.md) [-M]
@@ -40,9 +40,9 @@ Feedback is among the most powerful influences on achievement, but its effects a
 - **Strategic delay** — withholding answers briefly to force a retrieval attempt, then confirming; suited to retention goals
 
 ### Target Learners
-- Novices benefit most from immediate correction, since early errors can become entrenched [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+M]
+- Novices benefit most from immediate correction, since early errors can become entrenched
 - Learners with weak self-regulation need timely external feedback because they cannot yet generate their own [Self-Regulated Learning](../theories/self-regulated-learning.md) [+M]
-- More capable learners may benefit from delayed feedback that preserves retrieval practice and self-evaluation [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [~M]
+- More capable learners may benefit from delayed feedback that preserves retrieval practice and self-evaluation
 
 ### Target Learning Goals
 - Procedural accuracy: catching errors before they are practiced and consolidated

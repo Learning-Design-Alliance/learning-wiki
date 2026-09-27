@@ -36,6 +36,10 @@ The studied SCMD environment was a Web-based chat system with a top pane display
 ### Target Learning Goals
 - discussion of weekly readings on writing and composition theory
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

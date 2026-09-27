@@ -21,6 +21,10 @@ Procedural learning is the element in which learners acquire stepwise routines, 
 - [Procedural Learning](../principles/procedural-learning.md)
 - [Explicit Instruction](../principles/explicit-instruction.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Procedural Information](procedural-information.md)
 - [Guided Practice](guided-practice.md)

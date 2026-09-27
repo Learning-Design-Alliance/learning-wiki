@@ -14,7 +14,7 @@ grain_size: lesson
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 7 claims (4 for, 3 mixed) · 10 studies, `q2`–`q4` · 3 of 10 report an effect size · 3 claims rest on one study
 
 ## Description
 Multimedia Learning is the short-form canonical target for patterns that combine verbal and visual media in intentionally coordinated ways to support understanding.
@@ -35,14 +35,24 @@ Multimedia Learning is the short-form canonical target for patterns that combine
 
 ### Theory
 #### Supporting
+
 - [Dual Coding](../principles/dual-coding.md)
 - [Cognitive Load Management](../principles/cognitive-load-management.md)
+- [Different media combinations significantly affect the recall and retention of information](../claims/media-combinations-affect-recall-and-retention.md) [+W]
+- [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]
+- [Multiple representations improve learning](../claims/multiple-representations-improve-learning.md) [+M]
+- [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](../claims/modality-effect-narration-over-text.md) [+M]
 
 ## Design
 
 ### Elements Used
 - [Multimedia Learning](../elements/multimedia-learning.md)
 - [Digital Learning](../elements/digital-learning.md)
+
+## Claims
+- [Redundant on-screen text duplicates of narration or graphics impair learning](../claims/redundancy-principle.md) [~W]
+- [Redundancy Effect Impairs Learning](../claims/redundancy-effect-impairs-learning.md) [~M]
+- [Redundancy Hurts Learning](../claims/redundancy-hurts-learning.md) [~S]
 
 ## Key Sources
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)

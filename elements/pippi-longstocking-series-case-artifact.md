@@ -17,7 +17,7 @@ sources:
 # The Pippi Longstocking book series as a case artifact for analyzing educational philosophies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The three classic Pippi Longstocking books by Astrid Lindgren (written in Swedish in 1945, translated into many languages and countries) serve as the data source for the study's document analysis. The author examined "the book chapters where Pippi engages or decides to engage in any form of educational practices", coding episodes such as Pippi's first school day (Book 1, Chp. 4) where she questions arithmetic, reading, and drawing lessons. The series portrays a protagonist who is self-regulated and challenges authority while still being able to "live and thrive in relation with others", making it usable material for philosophy-of-education analysis.
@@ -37,6 +37,12 @@ The three classic Pippi Longstocking books by Astrid Lindgren (written in Swedis
 
 ### Target Learning Goals
 - understanding how educational philosophies manifest in practices and stakeholder roles
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Pippi Longstocking portrays a clash between contemporary educational philosophies (embodied by Pippi) and an Essentialist understanding (embodied by the other social agents).](../claims/pippi-versus-society-educational-philosophy-clash.md) [+W]
+- [In the Pippi Longstocking series, 55 educational instances were coded, with ways of learning, functions of school, and decision making the dominant categories.](../claims/pippi-longstocking-55-educational-instances-dominant-categories.md) [+W]
+- [Pippi's specific behaviors in the series instantiate Pragmatism, Reconstructionism, and Existentialism, including rejecting imposed learning decisions and reconstructing assessment.](../claims/pippi-instantiates-contemporary-philosophies.md) [+W]
 
 ## Related Elements
 - 

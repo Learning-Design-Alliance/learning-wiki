@@ -17,7 +17,7 @@ sources:
 # Day2Day Environment multimodal longitudinal dataset
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The Day2Day Environment dataset is a dense longitudinal, multimodal dataset collecting neuroimaging together with physiological, behavioral, cognitive, affective, and environmental data across 25 timepoints per participant from 30 adults aged 18–50. Each testing session pairs a 24-hour pre-scan period of wearable sensing, GPS tracking, air-quality monitoring, and geographic ecological momentary assessment with a lab visit including structural and functional MRI. The authors state the dataset "offers a unique opportunity to study short-term neuroplasticity in response to the dynamic interplay between multiple environmental exposures" and may support questions beyond environmental neuroscience, including public health and urban planning.
@@ -39,6 +39,11 @@ The Day2Day Environment dataset is a dense longitudinal, multimodal dataset coll
 ### Target Learning Goals
 - Understanding how day-to-day environmental variability relates to brain structure, function, cognition, and affect
 - Estimating baseline within-person variability and reliability of MRI measures
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Time of day and days since the first scan are robust predictors of within-person variance in grey matter and total cortex volume](../claims/time-of-day-and-scan-interval-predict-within-person-brain-volume-variance.md) [+W]
+- [Time spent outdoors in the 24 hours before scanning is positively associated with grey matter volume in the right dorsolateral prefrontal cortex](../claims/outdoor-time-associated-with-right-dlpfc-grey-matter.md) [+W]
 
 ## Related Elements
 - 

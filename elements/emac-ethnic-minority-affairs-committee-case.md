@@ -38,6 +38,10 @@ The Ethnic Minority Affairs Committee (EMAC) of an educational psychology depart
 - recruitment, retention, support, and advocacy for ethnic minority students and faculty
 - critical consciousness about racism
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

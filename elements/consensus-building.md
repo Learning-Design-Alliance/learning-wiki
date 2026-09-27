@@ -12,7 +12,7 @@ generated:
 # Consensus Building
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 Consensus building is a structured collaborative activity in which learners with differing positions or interpretations must negotiate toward a shared conclusion that all members can accept and articulate. Unlike debate, the goal is not victory but synthesis: participants must integrate opposing arguments into a joint position, which forces them to evaluate evidence, acknowledge partial merit in rival views, and construct a defensible rationale together.
@@ -51,6 +51,10 @@ Consensus building supports learning because articulating and defending a positi
 - [Constructivism](../principles/constructivism.md) — learners actively reconstruct their understanding when confronted with peer perspectives that their current model cannot accommodate; the negotiation is the mechanism of conceptual change
 - [Cognitive Conflict](cognitive-conflict.md) — structured exposure to a peer's contradictory reasoning creates the disequilibrium that motivates re-examination of one's own position
 - [Argumentation](../elements/argumentation.md) — consensus building gives argumentation a purpose beyond winning: arguments must be good enough to be *incorporated*, which raises the standard of justification
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Collaborative Decision-Making](collaborative-decision-making.md) — the decision-oriented variant; consensus building adds the requirement of a jointly reasoned rationale

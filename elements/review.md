@@ -12,7 +12,7 @@ generated:
 # Review
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q3` · 0 of 4 report an effect size
 
 ## Description
 Review places learners in the role of evaluator: they examine their own or peers' work against criteria before a final version is produced. The act of judging work — identifying strengths, diagnosing weaknesses, and articulating improvements — converts evaluation from an instructor-only function into a learning activity in its own right.
@@ -49,6 +49,10 @@ Review supports learning because evaluating work requires comparing it against a
 - [Formative Assessment](../principles/formative-assessment.md) — review is formative assessment enacted by learners: feedback arrives while revision is still possible, closing the loop between assessment and learning
 - [Assessment for Learning](../principles/assessment-for-learning.md) — learners internalize the criteria by which they will be judged, making assessment transparent rather than a black box
 - [Active Learning](../principles/active-learning.md) — reviewing is an generative act; learners construct judgments rather than passively receiving them
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - Peer Review — the social form of review; peers exchange work and apply criteria to each other's drafts

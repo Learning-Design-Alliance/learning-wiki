@@ -12,7 +12,7 @@ generated:
 # Pre-Class Video/Lecture
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 11 studies, `q2`–`q4` · 0 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 11 studies, `q2`–`q3` · 0 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Instructional content — exposition, worked demonstrations, or recorded lectures — is delivered via video before class, so that synchronous time can be spent on application, discussion, and feedback rather than first exposure. The video functions as the initial-instruction component of a [Flipped Classroom](../patterns/flipped-classroom.md), shifting information transmission outside the group learning space.
@@ -51,6 +51,10 @@ Pre-class video works only when paired with accountability and application: stud
 - [Active Learning](../principles/active-learning.md) — the entire rationale is to convert contact time from transmission to active learning; the video is the enabling condition, not the intervention itself
 - [Chunking](../principles/chunking.md) — short, single-objective videos enact chunking by presenting one concept per segment
 - [Clear Structure](../principles/clear-structure-presentation.md) — a video with explicit objectives, signaling, and a predictable format reduces extraneous processing
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Assigned Readings](assigned-readings.md) — the text-based alternative for pre-class first exposure; video offers better control of pace and tone, text offers faster skimming and search

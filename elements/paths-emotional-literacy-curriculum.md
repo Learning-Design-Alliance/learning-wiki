@@ -17,7 +17,7 @@ sources:
 # PATHS (Promoting Alternative THinking Strategies) emotional literacy curriculum
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 PATHS is an experimental-based emotional literacy curriculum initially designed for deaf children, developed by Greenberg, Kusché, and associates, and designed for kindergarten through grade 6. The article quotes its purpose: "to enhance social and emotional competence and understanding in children, as well as to develop a caring, prosocial context that facilitates educational processes in the classroom." It serves as both an intervention program for children with problems and a prevention program for regular children, employing methods such as dialoguing, role-playing, story-telling, simulation, modeling, and verbal mediation.
@@ -41,6 +41,13 @@ PATHS is an experimental-based emotional literacy curriculum initially designed 
 
 ### Affordances
 - [Abcd Model Paths Foundation](../theories/abcd-model-paths-foundation.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [PATHS spiral sequencing treats basic emotions as prerequisites for complex emotions across four levels of complexity](../claims/paths-basic-to-complex-hierarchical-spiral-sequencing.md) [+W]
+- [Within-lesson sequencing in the PATHS Feelings and Relationships Unit proceeds from cognitive to behavioral to affective and from external to internal](../claims/paths-within-lesson-cognitive-to-affective-sequencing.md) [+W]
+- [PATHS topical sequencing follows a general-to-detailed continuum, the Simplifying Conditions Method, and synonymous and antonymous relationships](../claims/paths-topical-sequencing-four-guidelines.md) [+W]
+- [PATHS macro-level sequencing combines spiral and topical sequencing patterns](../claims/paths-macro-sequencing-spiral-topical-combination.md) [+W]
 
 ## Related Elements
 - 

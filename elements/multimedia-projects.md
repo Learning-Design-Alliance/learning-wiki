@@ -21,6 +21,10 @@ Multimedia projects are the element in which learners create artifacts that comb
 - [Multimedia Projects](../principles/multimedia-projects.md)
 - [Multimodal Instruction](../principles/multimodal-instruction.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Multimedia Learning](multimedia-learning.md)
 - [Public Product](public-product.md)

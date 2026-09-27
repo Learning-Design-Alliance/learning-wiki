@@ -17,7 +17,7 @@ sources:
 # Use accelerated, contextualized basic-skills instruction with cohort support to re-engage adults with low skill levels
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article presents accelerated contextualized learning as the mechanism that lets low-skilled adults achieve success quickly and see a purpose for core skills. Turkheimer states, "What makes the program so special is the accelerated contextualized nature of the curriculum. Students can achieve something quickly, and the link to construction allows students to see a purpose for core skills, such as math." A cohort approach places students who have had little success with education inside a support system that builds friendships and self-esteem.
@@ -40,7 +40,9 @@ The article presents accelerated contextualized learning as the mechanism that l
 - informed career choice
 
 ### Claims
+
 - [Integrated Pathway Five Element Design](../patterns/integrated-pathway-five-element-design.md) [+M]
+- [In one NVCC summer bridge cohort, 100 percent of students continued to the next semester, described as much higher than normal retention rates](../claims/nvcc-bridge-program-full-retention.md) [+W]
 
 ## Related Principles
 - 

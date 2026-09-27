@@ -17,7 +17,7 @@ sources:
 # Developmental checklists for one-to-one correspondence, classification, and seriation as teacher assessment and curriculum-planning tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Three appended checklists (Appendices I–III) trace staged development of matching and one-to-one correspondence, sets and classification, and order and seriation, with dated observation columns (Sept.–Oct., Dec.–Jan., April–May) and a key coding behavioral versus representational knowledge. "Laura used these checklists not to evaluate or determine mastery but to gather information that could be used for curriculum development," identifying each child's stage and planning experiences in the child's zone of proximal development.
@@ -39,6 +39,11 @@ Three appended checklists (Appendices I–III) trace staged development of match
 
 ### Affordances
 - Zpd Social Constructivist Framework
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Preschool children demonstrate behavioral knowledge of classification, one-to-one correspondence, and seriation during everyday free play with everyday materials](../claims/free-play-reveals-behavioral-math-knowledge.md) [+W]
+- [Preschool children seriated pinecones by size largely by trial and error, and seriating in reverse order was more challenging and needed extensive verbal cueing](../claims/pinecone-seriation-reverse-order-harder.md) [+W]
 
 ## Related Elements
 

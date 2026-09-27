@@ -12,7 +12,7 @@ generated:
 # Adaptive Mastery Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q3`–`q4` · 1 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q2`–`q4` · 1 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Adaptive mastery learning combines Bloom's mastery learning model — requiring demonstrated proficiency before advancing — with adaptive systems that adjust task difficulty, sequencing, and feedback to individual performance. The system continuously estimates what each learner knows and serves the next challenge at the frontier of their competence, advancing only when mastery criteria are met.
@@ -51,6 +51,10 @@ Adaptive mastery systems ensure that foundational gaps are closed before higher-
 - [Cognitive Load Theory](../principles/cognitive-load-theory.md) — adaptive difficulty keeps tasks within working memory limits, serving challenges that are neither overwhelming nor trivially easy
 - [Self-Determination Theory](../principles/self-determination-theory.md) — learner-paced progression and visible mastery support competence; systems that offer path choice also support autonomy
 - [Assessment for Learning](../principles/assessment-for-learning.md) — the continuous performance data that drives adaptation doubles as formative assessment, making each item a diagnostic event
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Mastery Learning](mastery-learning.md) — the underlying model; adaptive systems automate its pacing and remediation decisions

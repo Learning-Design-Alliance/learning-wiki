@@ -38,6 +38,10 @@ WorldWide Telescope (WWT) is described as "an interactive scientiﬁc data visua
 - astronomy and astrophysics concepts
 - science outreach
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [JavaScript with the d3.js library as a web-native module-development technology](javascript-d3-module-development-technology.md)

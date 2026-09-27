@@ -41,6 +41,10 @@ Non-examples are intentionally chosen instances that do not meet the target conc
 - [Error Analysis](../principles/error-analysis.md)
 - [Worked Examples](../principles/worked-examples.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Erroneous Examples](erroneous-examples.md)
 - [Demonstration](demonstration.md)

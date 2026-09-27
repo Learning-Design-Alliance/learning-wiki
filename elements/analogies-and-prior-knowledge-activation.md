@@ -12,7 +12,7 @@ generated:
 # Analogies and prior knowledge activation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q2`–`q4` · 0 of 5 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q2`–`q3` · 0 of 5 report an effect size
 
 ## Description
 This element uses comparisons to familiar concepts to support understanding of new, often abstract material, and deliberately activates relevant prior knowledge before new content is introduced. The analogy supplies a source structure the learner already possesses; activation ensures that structure is actually retrieved and available for mapping onto the target concept.
@@ -49,6 +49,10 @@ Analogies support comprehension by letting learners import a known relational st
 - [Constructivist Learning](../principles/constructivist-learning.md) — new knowledge is built by connecting to what learners already know rather than transmitted as isolated facts; activation makes those connections available for construction
 - [Cognitive Load Reduction](../principles/cognitive-load-reduction.md) — a well-chosen analogy compresses a complex system into a familiar schema, freeing working memory for the genuinely new relations [Chunking familiar structure reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 - [Cognitive Activation](../principles/cognitive-activation.md) — activation prompts require learners to retrieve and examine what they know, engaging deep processing before new content arrives
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Analogies](analogies.md) — the comparison mechanism itself, without the activation component

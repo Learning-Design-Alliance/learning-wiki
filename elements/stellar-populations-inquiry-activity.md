@@ -17,7 +17,7 @@ sources:
 # Stellar Populations inquiry activity in which students construct their own Hertzsprung-Russell diagram from stellar images and spectra
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A two-day, paper-based inquiry for advanced high-school to senior college students in which students analyze pictures and spectra of stars, organize data via tables and plots, and build their own version of the Hertzsprung-Russell diagram to understand stellar evolution. The article states the inquiry is "designed to have students come up with their own version of the Hertzsprung-Russell diagram as a tool to understand how stars evolve based on their color, mass, and luminosity." All materials are printed on paper and available on a public website, so it can be adapted to large introductory astronomy classes.
@@ -42,6 +42,10 @@ A two-day, paper-based inquiry for advanced high-school to senior college studen
 - stellar populations basics
 - scientific process skills
 - attitudes toward science
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [In this inquiry, student pairs work better than groups of three because larger groups risk disengaging members](../claims/pairs-better-than-triads-in-stellar-inquiry.md) [+W]
 
 ## Related Elements
 - 

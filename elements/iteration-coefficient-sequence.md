@@ -39,6 +39,10 @@ In the procedure analyzed by the article, the iteration coefficients are the des
 ### Affordances
 - [Robbins Monro Stochastic Approximation](../theories/robbins-monro-stochastic-approximation.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

@@ -50,6 +50,10 @@ Delivering information at the point of need reduces the burden of holding unappl
 - [Scaffolding](../principles/scaffolding.md) — just-in-time information is scaffolding in its most literal form: temporary, task-contingent support that should fade as competence grows ([Fading](fading.md))
 - [Worked Examples](../principles/worked-examples.md) — worked examples with embedded completion steps deliver explanatory information exactly where the learner's own attempt begins [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Scaffolding](scaffolding.md) — just-in-time information is the informational form of scaffolding; both require fading
 - [Procedural Information](procedural-information.md) — the content type most suited to just-in-time delivery

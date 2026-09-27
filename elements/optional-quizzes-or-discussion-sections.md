@@ -12,7 +12,7 @@ generated:
 # Optional Quizzes or Discussion Sections
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies, `q3`–`q4` · 1 of 9 report an effect size
+> **Evidence** · 4 claims (4 for) · 9 studies, `q2`–`q4` · 1 of 9 report an effect size
 
 ## Description
 Optional quizzes and discussion sections are supplementary, typically ungraded or low-stakes activities that let learners rehearse and consolidate course content outside required assessments. Quizzes enact [retrieval practice](../principles/retrieval-practice.md); discussion sections add social elaboration and instructor feedback. Because they are optional, their effectiveness depends heavily on whether learners actually choose to use them.
@@ -49,6 +49,10 @@ Low-stakes retrieval opportunities strengthen retention more than rereading or p
 - [Formative Assessment](../principles/formative-assessment.md) — low-stakes format makes errors safe and informative, letting both learner and instructor adjust before graded assessment
 - [Active Learning](../principles/active-learning.md) — discussion sections convert lecture content into generative activity (arguing, explaining, applying) rather than re-exposure
 - [Spaced Practice](../principles/spaced-practice.md) — scheduling optional quizzes across the term, rather than clustering them before exams, converts them into spaced retrieval events
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Formative Assessment](formative-assessment.md) — the feedback function these activities serve; without feedback they are practice without correction

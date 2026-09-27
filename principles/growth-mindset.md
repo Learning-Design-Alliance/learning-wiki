@@ -12,7 +12,7 @@ generated:
 # Growth Mindset
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (2 for, 2 against) · 6 studies, `q2`–`q4` · 1 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 Growth mindset is the belief that intellectual and performance abilities are malleable and can be developed through effort, effective strategies, and help-seeking. As a design principle, it recommends (a) explicitly teaching learners about the malleability of ability and how the brain changes with learning, and (b) aligning feedback, task design, and grading practices so that effort, strategy use, and progress — not innate talent — are what get noticed and rewarded.
@@ -57,10 +57,15 @@ Mindset interventions are best understood as small motivational levers, not stan
 - [Behaviorism](../theories/behaviorism.md) — praise functions as a reinforcer; indiscriminate trait or effort praise can reinforce the wrong contingencies
 
 ### Claims
+
 - Growth mindset interventions produce small average achievement effects, strongest for at-risk and low-SES students [+M]
 - Mindset interventions reliably change beliefs and goal orientations; achievement effects depend on contextual support [~M]
 - Process-focused feedback supports motivation and persistence more than trait-focused praise [~M]
 - Large-scale trial effects concentrate among lower-achieving students [~M]
+- [Feedback Praise Reduces Learning](../claims/feedback-praise-reduces-learning.md) [-M]
+- [Growth mindset improves achievement](../claims/growth-mindset-improves-achievement.md) [+M]
+- [Historical increases in peak performance contradict fixed innate upper limits](../claims/historical-improvements-reject-immutable-limits.md) [+W]
+- [Prolonged reading failure leads students to attribute failure to fixed low ability and define reading as a failure situation](../claims/reading-failure-fixed-ability-attribution.md) [-W]
 
 ## Related Principles
 - [Assessment for Learning](assessment-for-learning.md) — formative assessment frames errors as information, the structural condition under which growth framing works

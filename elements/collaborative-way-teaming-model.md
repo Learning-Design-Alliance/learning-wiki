@@ -40,6 +40,10 @@ The Collaborative Way is the teamwork model used by the Team Learning Foundation
 ### Affordances
 - [360 Team Learning Foundation Platform](../theories/360-team-learning-foundation-platform.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Servant leadership component of the Team Learning Foundation](servant-leadership-team-foundation-component.md)

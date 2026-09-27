@@ -52,6 +52,10 @@ Open-ended discussion supports learning by requiring learners to articulate, def
 - [Active Learning](../principles/active-learning.md) — discussion makes every participant a producer of reasoning rather than a receiver of content, consistent with the ICAP finding that interactive engagement outperforms passive modes [+S]
 - [Community of Inquiry](../principles/community-of-inquiry.md) — open discussion builds the social presence and cognitive tension that sustain an inquiry community
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Class Discussion](class-discussion.md) — the broader element; open-ended discussion is its most learner-directed form
 - [Peer Discussion](peer-discussion.md) — the small-group variant that distributes participation before whole-group synthesis

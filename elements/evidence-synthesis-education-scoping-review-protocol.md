@@ -37,6 +37,10 @@ A protocol for a scoping review registered in the Open Science Framework (regist
 ### Target Learning Goals
 - evidence synthesis skills development
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

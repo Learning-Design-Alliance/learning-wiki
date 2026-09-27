@@ -37,6 +37,10 @@ Cloud technology is a core component of the model, serving a dual role in the in
 - searching and collecting data
 - creating educational innovations with cloud tools
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Knowledge Practices Environment (KPE): a platform for object-centred collaborative knowledge creation](knowledge-practices-environment-kpe.md)

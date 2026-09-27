@@ -17,7 +17,7 @@ sources:
 # Classroom response system (CRS) technology as the hook and tool of the TEFA intervention
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The classroom response system is the technology component of the project's intervention, used to capture teachers' initial interest. "In essence, a CRS is nothing more than a set of simple transmitters that students use to send in their answers to some question; a receiver and software that runs on the teacher's computer, collecting and instantly aggregating answers from the whole class" and displaying the answer distribution, typically as a histogram. The article stresses that a CRS is just a tool usable for many purposes, and that the TEFA pedagogy specifies what to use it for. CRSs were described as increasingly common in universities but still rare in K-12 schools.
@@ -39,6 +39,10 @@ The classroom response system is the technology component of the project's inter
 
 ### Affordances
 - [Tefa Four Principles Question Cycle](../theories/tefa-four-principles-question-cycle.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Teachers reported that CRS-and-TEFA use gave them more information about student thinking and that they changed lessons in response to that formative information](../claims/tefa-formative-information-changed-lessons.md) [+W]
 
 ## Related Elements
 - 

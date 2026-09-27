@@ -34,6 +34,10 @@ Discrepant events are demonstrations, observations, or scenarios that violate le
 - [Cognitive Flexibility](../principles/cognitive-flexibility.md)
 - [Error Analysis](../principles/error-analysis.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Cognitive Conflict](cognitive-conflict.md)
 - [Demonstration](demonstration.md)

@@ -17,7 +17,7 @@ sources:
 # Classroom Organization and Management Program (COMP)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Classroom Organization and Management Program (COMP) is a manualized classroom management program that appeared in 7 of the 12 included studies (58%), making it the most frequently used intervention in the review. It involves teacher training in classroom management, with the teacher as implementer of the strategies targeting student problem behavior as the outcome. COMP studies produced a statistically significant effect size ES=.75 (p =.00).
@@ -35,6 +35,10 @@ The Classroom Organization and Management Program (COMP) is a manualized classro
 
 ### Target Learning Goals
 - Reducing problem classroom behavior
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Manualized COMP programs and other classroom management approaches do not differ significantly in effectiveness](../claims/comp-no-different-from-other-classroom-management.md) [~M]
 
 ## Related Elements
 - 

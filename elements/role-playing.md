@@ -33,6 +33,10 @@ Role-playing is the element in which learners adopt roles and act through a scen
 - [Perspective-Taking](../principles/perspective-taking.md)
 - [Experiential Learning](../principles/experiential-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Decision-Making](decision-making.md)
 - [Scenario-Based Learning](scenario-based-learning.md)

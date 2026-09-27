@@ -40,6 +40,10 @@ Simba Wachanga (Kiswahili for young lions) is a rites-of-passage program for Afr
 ### Affordances
 - [Threefold Ritual Pattern Separation Transition Reincorporation](../theories/threefold-ritual-pattern-separation-transition-reincorporation.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

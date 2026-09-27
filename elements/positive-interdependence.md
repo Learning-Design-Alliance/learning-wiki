@@ -50,6 +50,10 @@ Positive interdependence is the mechanism through which cooperative structures o
 - [Active Learning](../principles/active-learning.md) — linked outcomes force every member into verbal, participatory engagement rather than passive presence in a group
 - [Self-Determination Theory](../principles/self-determination-theory.md) — shared goals support the need for relatedness, and well-designed role structures preserve autonomy within the team
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Assigned Positions](assigned-positions.md) — role interdependence is the most common way to operationalize it
 - [Check-In](check-in.md) — brief structured monitoring that supports group processing

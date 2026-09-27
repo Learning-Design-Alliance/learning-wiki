@@ -12,7 +12,7 @@ generated:
 # Worked Examples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 3 studies, `q2`–`q3` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 Worked examples are the element in which learners study complete or partial solutions before attempting similar problems independently.
@@ -32,6 +32,14 @@ Worked examples are the element in which learners study complete or partial solu
 ### Affordances
 - [Worked Examples](../principles/worked-examples.md)
 - [Scaffolding](../principles/scaffolding.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Sequencing worked examples with practice problems improves learning for novices](../claims/worked-example-problem-sequences.md) [+W]
+- [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+W]
+- [Example-problem sequences reduce cognitive load and improve learning outcomes.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+W]
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+W]
+- [Worked examples improve mathematics performance, especially for novices.](../claims/worked-examples-improve-math-performance.md) [+M]
 
 ## Related Elements
 - [Demonstration](demonstration.md)

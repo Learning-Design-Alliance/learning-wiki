@@ -17,7 +17,7 @@ sources:
 # CRESST Integrated Assessment System: a computer-based suite of performance assessment tasks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Integrated Assessment System is CRESST's collective name for a suite of software products measuring various types of learning. "The integrated simulation we have developed includes both collaborative and individual concept mapping tasks, a problem-solving search task, an explanation task, and a metacognition questionnaire." Administration is computer-based; the software controls and documents progress while permitting real-time scoring and reporting, and is designed for students of different ages, understanding levels, and content areas.
@@ -41,6 +41,10 @@ The Integrated Assessment System is CRESST's collective name for a suite of soft
 
 ### Affordances
 - [Cresst Model Of Learning Five Families](../theories/cresst-model-of-learning-five-families.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [CRESST assessment tools show feasibility in evaluation data, but reliability and validity information is limited](../claims/cresst-tools-feasible-limited-validity.md) [+W]
 
 ## Related Elements
 

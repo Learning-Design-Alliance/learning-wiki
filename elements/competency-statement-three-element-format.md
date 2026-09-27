@@ -37,6 +37,10 @@ A competency statement is the outcome objective for staff development: it specif
 ### Target Learning Goals
 - specify professional competencies needed to achieve student objectives
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Objective](objective.md)

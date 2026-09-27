@@ -17,7 +17,7 @@ sources:
 # CAI-Structured: a computer assisted instruction program designed with spaced practice and spaced review
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 CAI-Structured is the dissertation's experimental treatment: a computer assisted instruction program "designed with the spacing effects of spaced practice and spaced review". It was built so the learner could stop and resume practice sessions without returning to the beginning of a tutorial, and could review previously learned items based on the time elapsed since the learner last responded to that item. It was compared against an unstructured CAI program on recall and retention.
@@ -35,6 +35,11 @@ CAI-Structured is the dissertation's experimental treatment: a computer assisted
 
 ### Target Learning Goals
 - recall and retention of instructional content
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Learners using structured CAI maintained their level of memory from recall to retention, while unstructured CAI learners did not](../claims/structured-cai-maintains-memory-recall-to-retention.md) [+W]
+- [Structured CAI with spaced practice and spaced review produced better recall and retention than unstructured CAI](../claims/structured-cai-spacing-improves-recall-and-retention.md) [+W]
 
 ## Related Elements
 - 

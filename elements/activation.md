@@ -49,6 +49,10 @@ Activation works because new knowledge is encoded in terms of what is already kn
 - [Metacognition](../principles/metacognition.md) — activation prompts learners to monitor their own knowledge state, making gaps visible before instruction rather than after assessment
 - [Analogies and Prior Knowledge Activation](analogies-and-prior-knowledge-activation.md) — analogies are a structured form of activation that maps a familiar domain onto an unfamiliar one
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — provides relevant subsuming concepts when learners cannot retrieve them independently
 - [Analogies](analogies.md) — activates a source domain deliberately to structure a target domain

@@ -23,7 +23,7 @@ sources:
 > **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
-`q2 i?` In the authors' classroom examples, seven-year-olds produced animistic explanations, such as a child treating a candle flame as breathing and alive because it flickers and grows. [→ Watts 1991](#watts-1991)
+`q1 i?` In the authors' classroom examples, seven-year-olds produced animistic explanations, such as a child treating a candle flame as breathing and alive because it flickers and grows. [→ Watts 1991](#watts-1991)
 
 ## Evidence
 

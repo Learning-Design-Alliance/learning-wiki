@@ -12,7 +12,7 @@ generated:
 # Metacognitive Reflection
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies, `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Metacognitive reflection is the element in which learners examine how they thought, what strategies they used, where they were confused, and what they should do next. It is useful when the goal is to make reflection more explicitly about thinking and strategy, not just about feelings or outcomes.
@@ -33,6 +33,11 @@ Metacognitive reflection is the element in which learners examine how they thoug
 - [Metacognition](../principles/metacognition.md)
 - [Self-Regulation](../principles/self-regulation.md)
 - [Reflection](../principles/reflection.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Students showed gains in upper-level thought, including transfer of reflective skills to other disciplines](../claims/ct-metacog-upper-level-thought.md) [+W]
+- [Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition](../claims/students-deficient-monitoring-maintaining-plan.md) [+W]
 
 ## Related Elements
 - [Reflection Activities](reflection-activities.md)

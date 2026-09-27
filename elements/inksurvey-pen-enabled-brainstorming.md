@@ -17,7 +17,7 @@ sources:
 # InkSurvey with pen-enabled mobile devices for anonymous real-time electronic brainstorming
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 InkSurvey is "free, web-based software that allows students to use keyed input or digital ink to construct open-format responses, which are received by the facilitator or instructor instantaneously" and can then be anonymously displayed to the entire class. Students use pen-enabled mobile devices (tablet PCs, iPads, Android devices) to sketch, graph, or diagram responses to open-format questions. The article reports it "works well with large numbers of respondents, is designed to transfer digital ink responses, is web-based and platform independent, and is free." Its role is to facilitate exchange of ideas in a real-time, anonymous environment supporting electronic brainstorming.
@@ -37,6 +37,10 @@ InkSurvey is "free, web-based software that allows students to use keyed input o
 - real-time formative assessment
 - electronic brainstorming and group ideation
 - metacognition through open-format writing
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Anonymous real-time sharing of student responses mitigates evaluation apprehension while preserving individual accountability (authors' account)](../claims/anonymity-mitigates-evaluation-apprehension.md) [+W]
 
 ## Related Elements
 

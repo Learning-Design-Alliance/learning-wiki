@@ -62,6 +62,10 @@ Whole-task performance accelerates skill acquisition and transfer by embedding l
 - [Authentic Audiences and Purposes](../principles/authentic-audiences-purposes.md) — increases learner investment by anchoring performance in real-world consequences and professional standards.
 - [Explaining Their Thinking](../principles/explaining-their-thinking.md) — requires learners to articulate the rationale behind their integrative decisions, fostering metacognitive monitoring and deeper schema formation.
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Problem-Based Learning](problem-based-learning.md) — drives inquiry through the structure of an authentic, ill-structured problem.
 - [Simulations](simulations.md) — provides the high-fidelity environment necessary for safe, repeated whole-task performance.

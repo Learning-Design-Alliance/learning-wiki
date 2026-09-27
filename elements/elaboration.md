@@ -50,6 +50,10 @@ Elaboration improves retention and comprehension because deeper processing at en
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — by connecting new content to existing schemas, elaboration moves information from effortful working-memory processing into well-organized long-term memory structures
 - [Activation](../principles/activation.md) — elaboration prompts double as activation tasks, surfacing prior knowledge at the moment it is needed for integration [Activating prior knowledge improves learning.](../claims/activation-improves-learning.md) [+M]
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Analogies](analogies.md) — a specific elaboration form connecting new content to familiar domains
 - [Advance Organizers](advance-organizers.md) — provide the prior-knowledge scaffold that elaboration then builds on

@@ -12,7 +12,7 @@ generated:
 # Inquiry-Based Exploration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies, `q2`–`q4` · 0 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies, `q2`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Inquiry-based exploration places learners in front of an open-ended problem, question, or phenomenon and asks them to investigate it — gathering information, forming hypotheses, testing ideas, and generating solutions — rather than first receiving a fully worked explanation. The instructor's role shifts from transmitter to designer of the problem and facilitator of the investigation.
@@ -51,6 +51,10 @@ Inquiry can build deep conceptual understanding and durable engagement because l
 - [Cognitive Activation](../principles/cognitive-activation.md) — open problems demand elaboration, hypothesis generation, and reasoning, producing the deep cognitive engagement this principle targets
 - [Collaborative Learning](../principles/collaborative-learning.md) — investigation is naturally social; group inquiry exposes learners to alternative hypotheses and requires articulation and negotiation of ideas
 - [Scaffolding](../principles/scaffolding.md) — the central design problem of inquiry is calibrating guidance: enough structure to prevent unproductive search, faded progressively as learners develop investigative competence
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Problem Scenario](problem-scenario.md) — the designed problem that anchors and bounds the investigation

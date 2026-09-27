@@ -33,7 +33,7 @@ When writers plan only a single overall goal before drafting (rather than a deta
 
 `q3 i2` In the minimal-planning, structurally-revised condition, more controlled (less spontaneous) sentence production significantly predicted higher text quality (b=1.65, se=0.47, t(68)=3.48, p=.009), indicating that the same spontaneous production that increased understanding reduced initial text quality. [→ Baaijen & Galbraith 2018](#baaijen-galbraith-2018)
 
-`q3 i3` Text quality and change in understanding were not simply positively related as the problem-solving account of writing predicts: the bivariate correlation was non-significant and slightly negative (r=-.14, ns), and in a multiple regression the relationship between text quality and understanding reversed sign depending on planning condition (synthetic planning: b=0.12, p=.01; outline planning: b=-0.10, p=.03). [→ Baaijen & Galbraith 2018](#baaijen-galbraith-2018)
+`q3 i2` Text quality and change in understanding were not simply positively related as the problem-solving account of writing predicts: the bivariate correlation was non-significant and slightly negative (r=-.14, ns), and in a multiple regression the relationship between text quality and understanding reversed sign depending on planning condition (synthetic planning: b=0.12, p=.01; outline planning: b=-0.10, p=.03). [→ Baaijen & Galbraith 2018](#baaijen-galbraith-2018)
 
 ## Evidence
 

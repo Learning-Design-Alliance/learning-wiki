@@ -17,7 +17,7 @@ sources:
 # Energy Skate Park: Basics simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Energy Skate Park: Basics (ESPB) is a PhET interactive simulation aimed at middle school student learning of energy concepts, available at the PhET website. The authors write: "The sim is sequenced through the use of three tabs, Introduction, Friction and Track Playground, shown in Figure 3." Each tab supports specific learning goals (conservation of energy, energy-speed-position relationships, mass effects, friction effects), with pedagogically appropriate simplifications such as friction fixed at zero in the Introduction tab, faded in later tabs.
@@ -40,6 +40,13 @@ Energy Skate Park: Basics (ESPB) is a PhET interactive simulation aimed at middl
 
 ### Affordances
 - [Implicit Scaffolding Framework](../theories/implicit-scaffolding-framework.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [A student began interacting with the sim within 10 seconds and verbalized sense-making without explicit guidance](../claims/implicit-scaffolding-supports-immediate-exploration.md) [+W]
+- [Authors report that flexibility in sim access supports student agency while students tend to explore in a productive sequence](../claims/flexibility-supports-agency-productive-sequence.md) [+W]
+- [A student used slider extremes to make qualitative comparisons of skater mass effects](../claims/slider-extremes-support-qualitative-comparisons.md) [+W]
+- [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](../claims/students-report-simulation-lesson-fun-and-concept-figuring.md) [+W]
 
 ## Related Elements
 - 

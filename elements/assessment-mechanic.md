@@ -77,6 +77,10 @@ The source's central warning is that instantiating an assessment mechanic as a g
 - [Game-based Learning](../principles/game-based-learning.md) — the measurement half of designing a game that teaches
 - [Learning Embedded in the Core Mechanic](../principles/learning-embedded-in-the-core-mechanic.md) — the same bolt-on failure, and the same remedy, applied to assessment
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Learning Mechanic](learning-mechanic.md) — the teaching counterpart; the two are designed together, and a design move that helps one can confound the other
 - [Formative Assessment](formative-assessment.md) — the in-flight assessment tradition an assessment mechanic belongs to

@@ -39,6 +39,10 @@ The article identifies five ICT skills the model targets for elementary students
 ### Affordances
 - [Stem Instructional Model Elementary Ict Skills](../theories/stem-instructional-model-elementary-ict-skills.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

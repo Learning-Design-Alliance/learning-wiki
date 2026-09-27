@@ -17,7 +17,7 @@ sources:
 # KDD Cup 2010 Bridge to Algebra dataset and the hmmsclbl fitting tool
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The KDD Cup 2010 Bridge to Algebra dataset, donated by Carnegie Learning and downloadable from the PSLC DataShop, is the validation corpus for Spectral BKT. It "contains about 20 million transactions belonging to over 6 thousand students working on nearly 150 sections of mathematics curriculum practicing around 1650 skills", including curriculum and problem context, cognitive skill labels, timing, first-attempt correctness, and assistance information. The authors describe it as the largest freely available collection of learner data. Models were fit and cross-validated with hmmsclbl, a C/C++ utility available at the standard-bkt GitHub repository.
@@ -35,6 +35,10 @@ The KDD Cup 2010 Bridge to Algebra dataset, donated by Carnegie Learning and dow
 
 ### Target Learning Goals
 - predicting student correctness on math problem steps and modeling skill mastery
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Spectral BKT achieves higher prediction accuracy than standard BKT on the KDD Cup 2010 Bridge to Algebra data, reaching 92% accuracy](../claims/spectral-bkt-beats-standard-bkt-accuracy-kdd2010.md) [+M]
 
 ## Related Elements
 

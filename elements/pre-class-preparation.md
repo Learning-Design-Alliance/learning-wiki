@@ -38,6 +38,10 @@ Pre-class preparation is the element in which learners engage with readings, vid
 - [Active Learning](../principles/active-learning.md)
 - [Metacognition](../principles/metacognition.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Assigned Readings](assigned-readings.md)
 - [Pre-Reading Activities](pre-reading-activities.md)

@@ -36,6 +36,10 @@ The Evaluation Toolkit is a work-in-progress set of instruments developed by the
 ### Target Learning Goals
 - Skills development, student learning, and media literacy in technology-rich activities
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Evaluation Sample: a worked model applying the Checklist to real student work](evaluation-sample-worked-student-work-model.md)

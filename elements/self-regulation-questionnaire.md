@@ -37,6 +37,10 @@ Because the instrument's items map onto the seven-step model's stages (receiving
 ### Affordances
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — the SRQ operationalizes the Miller & Brown seven-step self-regulation model into a scorable instrument
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 ## Examples

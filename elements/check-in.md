@@ -49,6 +49,10 @@ Check ins make learner status visible early enough to act on, converting assumpt
 - [Community of Inquiry](../principles/community-of-inquiry.md) — regular check ins sustain social and teaching presence, the relational substrate of online learning communities
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — well-designed check ins model the monitoring phase of self-regulation, prompting learners to ask of themselves what the instructor asks of them
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Assessment](assessment.md) — check ins are ungraded, low-stakes cousins of assessment; both gather evidence of learner state
 - [Coaching](coaching.md) — one-on-one check ins are the entry point of a coaching cycle

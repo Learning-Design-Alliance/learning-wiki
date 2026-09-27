@@ -50,6 +50,10 @@ Concept mapping supports meaningful learning by forcing learners to identify rel
 - [Clear Structure](../principles/clear-structure.md) — a completed map gives learners an explicit overview of a domain's organization, functioning as a spatial [advance organizer](advance-organizers.md)
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — cross-links between distant branches of a map are where analogies surface; prompting learners to add cross-links directly exercises relational mapping across domains
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Advance Organizers](advance-organizers.md) — a completed concept map is a graphic form of organizer presented before instruction

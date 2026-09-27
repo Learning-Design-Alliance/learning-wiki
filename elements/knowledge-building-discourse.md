@@ -12,7 +12,7 @@ generated:
 # Knowledge-Building Discourse
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies, `q3`–`q4` · 0 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 3 studies, `q2`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Knowledge-building discourse is structured, sustained discussion in which learners collectively work to improve ideas rather than merely exchange opinions. Talk is treated as a medium for advancing community understanding — questioning, elaborating, and revising explanations — in the tradition of Scardamalia and Bereiter's knowledge-building pedagogy.
@@ -49,6 +49,10 @@ Structured discourse deepens conceptual understanding because articulating and d
 - [Cognitive Apprenticeship](../theories/cognitive-apprenticeship.md) — discussion serves as the articulation and reflection phases, where learners externalize and refine their thinking against expert and peer norms
 - [Collaborative Learning](../principles/collaborative-learning.md) — knowledge-building discourse is the talk-based engine of collaboration: the group's product is an improved explanation, not just a completed task
 - [Constructivism](../theories/constructivism.md) — learners actively construct understanding by reconciling their ideas with evidence and peers' counterarguments
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Socratic Seminar](socratic-seminar.md) — a formalized discourse structure built on questioning

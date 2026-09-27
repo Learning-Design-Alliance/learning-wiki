@@ -12,7 +12,7 @@ generated:
 # Hypertext Navigation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 7 studies, `q2`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 7 studies, `q2`–`q3` · 1 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Hypertext navigation presents content as a network of linked nodes — pages, sections, or media objects — that learners traverse in an order they choose, rather than as a fixed linear sequence. The learner controls both the path and the pace, constructing their own route through the material.
@@ -49,6 +49,10 @@ Hypertext supports flexible, non-linear exploration and can help learners build 
 - [Cognitive Flexibility](../principles/cognitive-flexibility.md) — multiple linked routes through the same content let learners revisit concepts from different contexts, enacting the "criss-crossing the landscape" idea of Cognitive Flexibility Theory
 - [Self-Paced Learning](self-paced-learning.md) — learners control traversal speed and can revisit nodes as needed, aligning study time with individual needs
 - [Constructivism](../principles/constructivism.md) — learners actively assemble their own knowledge path rather than receiving a pre-sequenced presentation
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — provide the structural overview that prevents disorientation in a hypertext network

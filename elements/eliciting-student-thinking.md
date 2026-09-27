@@ -12,7 +12,7 @@ generated:
 # Eliciting Student Thinking
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 7 studies, `q3`–`q4` · 0 of 7 report an effect size
+> **Evidence** · 2 claims (1 for, 1 unmarked) · 7 studies, `q2`–`q4` · 0 of 7 report an effect size
 
 ## Description
 Eliciting student thinking is the practice of prompting learners to externalize their ideas, reasoning, and problem-solving approaches — through questioning, discussion, or explanation — so that both instructor and learner can examine them. It functions as a diagnostic and generative move: the instructor gains access to partial or faulty conceptions, and the learner deepens understanding by articulating it.
@@ -51,6 +51,10 @@ Eliciting thinking converts passive reception into generative processing; verbal
 - [Metacognition](../principles/metacognition.md) — articulating reasoning makes monitoring visible; learners notice gaps in their own explanations as they produce them
 - [Cognitive Activation](../principles/cognitive-activation.md) — open reasoning prompts push learners beyond recall toward elaboration, comparison, and justification
 - [Active Learning](../principles/active-learning.md) — elicitation is a low-cost active-learning move; productive engagement (generating, explaining) predicts stronger outcomes than passive reception [~S]
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Self-Explanation](self-explanation.md) — the individual, prompted form of eliciting one's own thinking

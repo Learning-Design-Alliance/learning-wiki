@@ -12,7 +12,7 @@ generated:
 # Moderation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 Moderation is the active facilitation of discussion by an instructor or trained facilitator who shapes participation, keeps dialogue on task, and pushes learners toward deeper reasoning. The moderator does not lecture or supply answers but structures turn-taking, probes claims, surfaces disagreement, and ensures that conversational norms support knowledge building rather than social drift.
@@ -49,6 +49,10 @@ Well-moderated discussion converts unstructured peer talk into productive [Knowl
 - [Collaborative Learning](../principles/collaborative-learning.md) — the moderator structures interdependence, ensuring group talk builds on individual contributions rather than fragmenting
 - [Community of Inquiry](../principles/community-of-inquiry.md) — moderation supplies the "teaching presence" that the framework identifies as necessary to sustain social and cognitive presence
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — by summarizing, redirecting, and pruning tangents, the moderator keeps working memory focused on the core question
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Discussion Prompt](discussion-prompt.md) — the task that moderation operates on; prompt quality bounds what moderation can achieve

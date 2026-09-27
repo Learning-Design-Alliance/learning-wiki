@@ -39,6 +39,10 @@ Grammaticalization is the segment that takes over after orientation and lexicali
 ### Affordances
 - [Labov Style As Function Of Grammar Theory](../theories/labov-style-as-function-of-grammar-theory.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Oriented semantic network: linear ordering of the semantic network treated as psychological rather than grammatical](labov-oriented-semantic-network.md)

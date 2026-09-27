@@ -20,6 +20,10 @@ Competency-based learning is the element in which progression is organized aroun
 ## Affordances
 - [Competency-Based Learning/Assessment](../principles/competency-based-learning-assessment.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Mastery Learning](mastery-learning.md)
 - [Performance-Based Assessment](performance-based-assessment.md)

@@ -36,6 +36,10 @@ The instructional tool of the model is the well-constructed problem case, built 
 ### Target Learning Goals
 - analysing, evaluating and developing solutions for complex real-world practice situations
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Federation University Case Based Experiential Model](../theories/federation-university-case-based-experiential-model.md)

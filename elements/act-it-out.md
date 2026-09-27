@@ -50,6 +50,10 @@ Enactment leverages the self-performed, embodied encoding of content: motor enga
 - [Building Empathy](../principles/building-empathy.md) — role enactment requires adopting another's goals, constraints, and emotions, which is the mechanism by which perspective-taking interventions work
 - [Collaborative Learning](../principles/collaborative-learning.md) — most enactments are inherently joint productions requiring coordination, negotiation, and shared attention
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Role-Play](../strategies/role-play.md) — the sustained, scripted or semi-scripted form of enactment with assigned roles
 - [Simulation](simulation.md) — system-level enactment where learners act as components or agents within a model

@@ -77,6 +77,10 @@ The worked example in the source is *Noobs vs. Leets*, a middle-school geometry 
 - [Learning Embedded in the Core Mechanic](../principles/learning-embedded-in-the-core-mechanic.md) — the principle that governs instantiation, with the three requirements a game mechanic has to meet
 - [Immediate Feedback](../principles/immediate-feedback.md) — feedback mechanisms are how a mechanic guides behaviour, and how the designer communicates what actions should and should not be taken
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Assessment Mechanic](assessment-mechanic.md) — the same construction applied to diagnosis rather than to learning; the two are designed together and constrain each other
 - [Simulation](simulation.md) — a rule-based system the learner acts within, which is the substrate a learning mechanic usually runs on

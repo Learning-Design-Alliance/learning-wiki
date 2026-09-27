@@ -52,6 +52,10 @@ Student-led IEPs convert a compliance meeting into a learning event, giving stud
 - [Scaffolding](../principles/scaffolding.md) — preparation scripts, rehearsals, and adult prompting are temporary supports to be faded across years as the student takes on more of the meeting
 - [Assessment for Learning](../principles/assessment-for-learning.md) — the meeting itself surfaces what the student does and does not understand about their own learning profile, informing next year's instruction
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Coaching](coaching.md) — the preparation method; adults coach presentation and self-advocacy skills before the meeting
 - [Accommodations](accommodations.md) — the content students must learn to explain and negotiate for themselves

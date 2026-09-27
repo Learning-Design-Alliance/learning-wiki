@@ -19,7 +19,7 @@ grain_size: unit
 # Research-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (3 for, 3 mixed) · 8 studies, `q1`–`q4` · 2 of 8 report an effect size · 3 claims rest on one study
 
 ## Description
 Research-Based Learning is a pattern in which learners investigate questions, gather and evaluate evidence, and build explanations or products from that inquiry. It is useful when learning goals include information literacy, inquiry, and evidence-based reasoning.
@@ -46,8 +46,12 @@ Research-Based Learning is a pattern in which learners investigate questions, ga
 
 ### Theory
 #### Supporting
+
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 - [Constructivism](../principles/constructivism.md)
+- [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+M]
+- [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](../claims/mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) [+W]
+- [Inquiry-based physics discussion supported peer co-construction of mechanistic explanations, distributing authority of knowledge and language among students](../claims/third-space-distributes-authority-among-students.md) [+W]
 
 ## Design
 
@@ -59,6 +63,11 @@ Research-Based Learning is a pattern in which learners investigate questions, ga
 ### Affordances
 - [Evaluating Sources](../principles/evaluating-sources.md)
 - [Explicit Instruction in Internet Search](../principles/explicit-instruction-internet-search.md)
+
+## Claims
+- [Guided Inquiry Outperforms Pure Discovery](../claims/guided-inquiry-outperforms-pure-discovery.md) [~M]
+- [Scripted personally meaningful inquiry is associated with gains in inquiry-decision accuracy, with mixed evidence on attitude and behavior change](../claims/scripted-personal-inquiry-associated-with-inquiry-knowledge-gains.md) [~W]
+- [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~M]
 
 ## Examples
 - Students research a local issue and build a recommendation supported by sources.

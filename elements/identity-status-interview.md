@@ -36,6 +36,10 @@ A modified version of Marcia's identity status interview, used in this study to 
 ### Target Learning Goals
 - Classification of ego identity status (achievement, moratorium, foreclosure, diffusion)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

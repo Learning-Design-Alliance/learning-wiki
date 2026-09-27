@@ -39,6 +39,10 @@ Drill and practice is the element in which learners repeatedly perform a focused
 - [Behaviorism](../principles/behaviorism.md)
 - [Retrieval Practice](../principles/retrieval-practice.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Part-Task Practice](part-task-practice.md)
 - [Spaced Repetition](spaced-repetition.md)

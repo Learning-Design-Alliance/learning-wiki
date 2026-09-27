@@ -48,6 +48,10 @@ Well-formed objectives improve alignment between instruction and assessment, whi
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — stating the goal up front reduces aimless search by defining what counts as success
 - [Constructive Alignment](../patterns/constructive-alignment.md) — objectives are the first vertex of the alignment triangle connecting outcomes, activities, and assessment
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Assessment](assessment.md) — objectives are only meaningful if assessment actually measures them

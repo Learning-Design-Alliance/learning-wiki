@@ -12,7 +12,7 @@ generated:
 # Peer Collaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies, `q2`–`q4` · 0 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 3 studies, `q2`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Peer collaboration places two or more learners in joint work on a shared task, requiring them to explain, question, negotiate, and build on each other's thinking. It functions as a social engine for learning: the value comes not from proximity but from the elaboration, conflict, and mutual regulation that genuine joint work provokes.
@@ -50,6 +50,10 @@ Collaboration supports learning when it forces learners to articulate reasoning 
 - [Constructivism](../principles/constructivism.md) — negotiation with peers surfaces and challenges naive conceptions, forcing reconstruction of understanding that solo work leaves unexamined
 - [Community of Inquiry](../principles/community-of-inquiry.md) — sustained peer dialogue builds the cognitive and social presence needed for deep, sustained inquiry
 - [Active Learning](../principles/active-learning.md) — collaboration converts passive reception into generative activity: explaining, questioning, and deciding together
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Collaboration](collaboration.md) — the broader element; peer collaboration specifies the peer-to-peer (rather than learner–instructor) configuration

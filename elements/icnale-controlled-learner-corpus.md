@@ -37,6 +37,10 @@ The International Corpus Network of Asian Learners of English (ICNALE) is a lear
 ### Target Learning Goals
 - contrastive interlanguage analysis of L2 English writing, specifically discourse connective use in argumentative essays
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

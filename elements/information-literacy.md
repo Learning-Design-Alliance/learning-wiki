@@ -12,7 +12,7 @@ generated:
 # Information Literacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 3 studies, `q2`–`q3` · 0 of 3 report an effect size
 
 ## Description
 Information literacy is the element in which learners identify information needs, locate sources, evaluate credibility, and use information responsibly. It is useful when tasks require judgment about evidence rather than mere retrieval.
@@ -33,6 +33,11 @@ Information literacy is the element in which learners identify information needs
 ### Affordances
 - [Evaluating Sources](../principles/evaluating-sources.md)
 - [Explicit Instruction in Internet Search](../principles/explicit-instruction-internet-search.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Lateral Reading Improves Source Evaluation](../claims/lateral-reading-improves-source-evaluation.md) [+S]
+- [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]
 
 ## Related Elements
 - [Resource Evaluation](resource-evaluation.md)

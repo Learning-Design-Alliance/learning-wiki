@@ -12,7 +12,7 @@ generated:
 # Quizzes
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q3`–`q4` · 1 of 5 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q2`–`q4` · 1 of 5 report an effect size
 
 ## Description
 Quizzes are short, low-stakes assessments used during learning rather than at its end. Their primary function is not measurement but learning: answering questions forces retrieval from memory, and the feedback that follows corrects and consolidates what was retrieved.
@@ -50,6 +50,10 @@ Quizzes are one of the most robustly supported instructional elements: testing i
 - [Cognitive Load Theory](../principles/cognitive-load-theory.md) — successful retrieval of prerequisite knowledge automates it, reducing working-memory load during subsequent complex learning
 - [Mastery Learning](../principles/mastery-learning.md) — quizzes provide the checkpoint mechanism: learners advance only after demonstrating criterion performance
 - [Spaced Repetition](spaced-repetition.md) — quiz scheduling is the delivery vehicle for spacing; systems resurface items at expanding intervals
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Retrieval Practice](retrieval-practice.md) — the underlying mechanism; a quiz is retrieval practice with assessment structure

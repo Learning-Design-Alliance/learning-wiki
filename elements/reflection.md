@@ -29,7 +29,7 @@ sources:
 # Reflection
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 6 studies, `q3`–`q4` · 0 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 6 studies, `q2`–`q3` · 0 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Reflection is the deliberate act of analyzing one's own experiences, actions, or decisions after (or during) a learning task in order to extract lessons and adjust future behavior. It converts raw experience into usable knowledge by prompting learners to examine what happened, why it happened, and what they would do differently. Schön (1983) distinguished *reflection-on-action* (after the fact) from *reflection-in-action* (during performance), and both forms are designable instructional elements.
@@ -67,6 +67,10 @@ Reflection deepens learning by engaging learners in self-explanation and self-mo
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — reflection supplies the self-evaluation loop (forethought → performance → self-reflection) that drives strategy adjustment across study cycles
 - [Assessment for Learning](../principles/assessment-for-learning.md) — reflective self-assessment lets learners locate gaps themselves, making subsequent feedback actionable rather than merely received
 - [Situated Learning](../theories/situated-learning.md) — reflection-on-action is how lessons from authentic, situated experience become portable knowledge rather than context-bound habit
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - Journaling — the most common written vehicle for structured reflection over time

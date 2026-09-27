@@ -12,7 +12,7 @@ generated:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q4` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Ben Goldacre (2013) argues that teaching should be an evidence-based profession, which would require a cultural shift: recognizing that we don't necessarily "know" what works best and need evidence that something works; giving teachers better access to research outcomes; helping teachers understand how research works so they can become critical consumers of it; and giving teachers access to networks of others interested in research. This isn't only research done by academics — research by teachers on their own practice is itself part of the same evidence base, and is increasingly embedded in schools as a contributor to school improvement.
@@ -40,6 +40,9 @@ Philosopher Karl Popper proposed the criterion that separates scientific from un
 ### Theory
 #### Supporting
 - [Educational Psychology as Both Art and Science](educational-psychology-as-art-and-science.md) — this principle is the epistemic half of that same art/science relationship: what makes the "science" side trustworthy in the first place
+
+## Claims
+- [Illusory correlations, like the belief that a full moon affects behavior, persist through confirmation bias despite having no basis in evidence](../claims/illusory-correlations-persist-through-confirmation-bias.md) [+M]
 
 ## Related Principles
 - [Educational Psychology as Both Art and Science](educational-psychology-as-art-and-science.md)

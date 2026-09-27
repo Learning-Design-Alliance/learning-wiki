@@ -33,6 +33,10 @@ Public speaking is the element in which learners present ideas aloud to an audie
 - [Rhetorical Skill Development](../principles/rhetorical-skill-development.md)
 - [Engagement](../principles/engagement.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Persuasion](persuasion.md)
 - [Rebuttals](rebuttals.md)

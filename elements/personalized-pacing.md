@@ -12,7 +12,7 @@ generated:
 # Personalized Pacing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 2 studies, `q4` · 1 of 2 report an effect size
 
 ## Description
 Personalized pacing is the element in which learners move through content or practice at different rates based on need and progress.
@@ -20,6 +20,10 @@ Personalized pacing is the element in which learners move through content or pra
 ## Affordances
 - [Learner Choice](../principles/learner-choice.md)
 - [Mastery Learning](../principles/mastery-learning.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Cognitive Load Management](../claims/cognitive-load-management.md) [+S]
 
 ## Related Elements
 - [Adaptive Learning](adaptive-learning.md)

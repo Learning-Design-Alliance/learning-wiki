@@ -14,7 +14,7 @@ grain_size: lesson
 # Five "E" Model
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q4` · 1 of 3 report an effect size
 
 ## Description
 The Five "E" Model is a popular pattern for implementing [constructivism](../theories/constructivism.md) in the classroom, defined by the Biological Science Curriculum Study (BSCS). It sequences a constructivist lesson through five stages: students **Engage** with the topic, **Explore** it directly, **Explain** their experience, **Elaborate** on the concept, and undergo **Evaluate**ion — with evaluation feeding back into the next cycle of lessons rather than only closing the current one.
@@ -38,8 +38,10 @@ lesson
 
 ### Theory
 #### Supporting
+
 - [Constructivism](../theories/constructivism.md) — the model operationalizes both psychological constructivism (individual discovery during Explore) and social constructivism (peer/teacher dialogue during Explain and Elaborate)
 - [Sociocultural Theory](../theories/sociocultural-theory.md) — the Explain stage's introduction of formal terminology by the teacher-as-expert, after the student already has an experiential referent, mirrors scaffolded vocabulary acquisition within a zone of proximal development
+- [Guided Inquiry Outperforms Pure Discovery](../claims/guided-inquiry-outperforms-pure-discovery.md) [+M]
 
 ### Claims
 #### Supporting

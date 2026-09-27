@@ -50,6 +50,10 @@ Performance assessment is most effective when criteria are transparent and feedb
 - [Active Learning](../principles/active-learning.md) — requiring a performance forces retrieval and production, which strengthen memory more than recognition or review
 - [Scaffolding](../principles/scaffolding.md) — assessment results determine where scaffolds should be added or faded
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Formative Assessment](formative-assessment.md) — the low-stakes, feedback-oriented counterpart; performance assessment without formative predecessors measures failure rather than preventing it
 - [Summative Assessment](summative-assessment.md) — the certification-oriented use of the same event

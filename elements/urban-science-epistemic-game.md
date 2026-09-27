@@ -39,6 +39,10 @@ Urban Science is an epistemic game developed at the University of Wisconsin at M
 ### Affordances
 - [Epistemic Frame Hypothesis Skive](../theories/epistemic-frame-hypothesis-skive.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

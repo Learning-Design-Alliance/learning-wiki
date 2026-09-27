@@ -12,7 +12,7 @@ generated:
 # Simple-to-complex sequencing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 8 studies, `q2`–`q4` · 0 of 8 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 8 studies, `q2`–`q3` · 0 of 8 report an effect size · 3 claims rest on one study
 
 ## Description
 Simple-to-complex sequencing orders instruction so that learners first master basic, prerequisite concepts and skills before encountering more detailed, complex, or integrated ones. It is the default sequencing logic for subjects with cumulative knowledge structures — mathematics, languages, programming — where later content presupposes earlier content. The approach is central to [Elaboration Theory](../patterns/elaboration-theory.md), which prescribes starting with the simplest, most general representation of a topic (an "epitome") and progressively elaborating toward complexity.
@@ -48,6 +48,10 @@ Sequencing from simple to complex manages intrinsic cognitive load by ensuring t
 - [Scaffolding](../principles/scaffolding.md) — the simple-to-complex progression is a macro-level scaffold; early simplified tasks are temporary structure that is faded as full complexity is restored
 - [Chunking](../principles/chunking.md) — sequencing determines chunk boundaries, grouping material into learnable units whose order respects prerequisite dependencies
 - [Mastery Learning](../principles/mastery-learning.md) — in cumulative domains, sequencing only works if each level is actually mastered; the two elements are mutually dependent
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Mastery Learning](mastery-learning.md) — provides the gate that keeps sequencing sound; progression without mastery accumulates gaps

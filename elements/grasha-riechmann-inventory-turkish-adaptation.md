@@ -36,6 +36,10 @@ The study used the Grasha-Riechmann Learning Style Inventory, a 60-item five-poi
 ### Target Learning Goals
 - identifying individual differences in how learners interact with teachers, classmates, and lesson content
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

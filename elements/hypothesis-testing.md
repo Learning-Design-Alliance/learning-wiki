@@ -50,6 +50,10 @@ Committing to a prediction before instruction activates prior conceptions and cr
 - [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) — disconfirmed hypotheses create a targeted knowledge gap that motivates resolution, making the subsequent explanation more deeply processed
 - [Scaffolding](../principles/scaffolding.md) — hypothesis prompts can be faded from structured templates (predict, observe, explain) toward independent question generation as learners develop inquiry competence
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Prediction](prediction.md) — the commitment step that makes prior conceptions explicit
 - [Experimentation](experimentation.md) — the evidence-generating activity most naturally paired with hypothesis testing

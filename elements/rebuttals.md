@@ -12,7 +12,7 @@ generated:
 # Rebuttals
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 A rebuttal asks learners to directly counter an opposing viewpoint with evidence-based reasoning, rather than merely restating their own position. The element forces engagement with the strongest version of the other side — identifying its claims, evaluating its evidence, and articulating why it falls short — which builds counterargument skill and cognitive flexibility.
@@ -52,6 +52,10 @@ Rebuttals deepen argumentation quality because constructing a counterargument re
 - [Cognitive Flexibility](../principles/cognitive-flexibility.md) — by requiring learners to inhabit and then dismantle an opposing frame, rebuttals exercise exactly the multiple-representation switching this principle targets
 - [Collaborative Learning](../principles/collaborative-learning.md) — rebuttals are inherently dialogic; preparing and delivering them within teams distributes evidence-gathering and exposes learners to peers' reasoning
 - [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) — a well-formed rebuttal destabilizes a learner's current position, creating the conceptual conflict that drives accommodation
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Argumentation](argumentation.md) — the foundational skill; rebuttal is argumentation under opposition

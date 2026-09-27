@@ -36,6 +36,10 @@ CAPS (Collaborative Activation-based Production System) is the LISP interpreter 
 ### Target Learning Goals
 - modeling hypothesis activation, control processes, and focus of attention in cognitive simulation
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [PRISM: a production-system interpreter offering user-selectable options at key architecture choice points](prism-production-system-interpreter.md)

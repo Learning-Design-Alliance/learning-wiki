@@ -14,7 +14,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 3 studies, `q2`–`q3` · 1 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Blended Learning is the pattern-level target for instruction that intentionally combines in-person and digital learning experiences so each mode does some work the other does not. **Blended (or hybrid) instruction** is conventionally defined as delivering 30-80% of course content online with some face-to-face interaction; a course delivering 80% or more online is instead considered fully **online**, not blended.
@@ -39,6 +39,11 @@ A large U.S. Department of Education meta-analysis of K-12 and higher-education 
 
 ### Related Patterns
 - [Flipped Learning](flipped-learning.md)
+
+## Claims
+- [Blended Learning Improves Outcomes](../claims/blended-learning-improves-outcomes.md) [+W]
+- [Blended teaching shifted the teacher's self-identity from facilitator to co-facilitator and co-designer with students](../claims/blended-teaching-shifts-identity-to-co-facilitator.md) [+W]
+- [The study's results confirm both theses of the Interaction Equivalency Theorem in blended learning contexts](../claims/theorem-theses-confirmed-by-survey.md) [+W]
 
 ## Key Sources
 - Graham, C. R. (2006). Blended learning systems. In C. J. Bonk & C. R. Graham (Eds.), *The handbook of blended learning*. Pfeiffer.

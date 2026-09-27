@@ -17,7 +17,7 @@ sources:
 # Collaborative Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 5 studies, `q2`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Collaborative discussion is the element in which learners build understanding together through shared talk, comparison of ideas, and negotiated meaning. It is useful when the task requires collective reasoning rather than isolated response.
@@ -38,6 +38,13 @@ Collaborative discussion is the element in which learners build understanding to
 ### Affordances
 - [Social Constructivism](../principles/social-constructivism.md)
 - [Social Learning](../principles/social-learning.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [The quality of inter-group interactions shifted from brief, superficial exchanges to long, detailed, collaborative discussions as community norms were negotiated](../claims/adlab-interaction-quality-shifted-from-superficial-to-collaborative.md) [+W]
+- [Peer Discussion Improves Conceptual Understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]
+- [Structured Discussion Methods Improve Comprehension](../claims/structured-discussion-methods-improve-comprehension.md) [+S]
+- [Discussion Quality Drives Comprehension](../claims/discussion-quality-drives-comprehension.md) [+S]
 
 ## Related Elements
 - [Peer Discussion](peer-discussion.md)

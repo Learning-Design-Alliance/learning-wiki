@@ -50,6 +50,10 @@ Case-based learning improves exam performance and supports transfer by forcing l
 - [Active Learning](../principles/active-learning.md) — learners must generate analyses, decisions, and justifications rather than receive explanations, producing the retrieval and elaboration that drive retention
 - [Cognitive Flexibility](../principles/cognitive-flexibility.md) — multiple cases illustrating the same concept from different angles prepare learners to apply it flexibly across varied situations
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Case Study](case-study.md) — the written artifact that carries the scenario; case quality determines analysis quality

@@ -33,6 +33,10 @@ Fading scaffolding is the element in which supports such as hints, prompts, or m
 - [Scaffolding & Fading](../principles/scaffolding-fading.md)
 - [Procedural Learning](../principles/procedural-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Fading](fading.md)
 - [Procedural Information](procedural-information.md)

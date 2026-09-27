@@ -37,6 +37,10 @@ This edited book is presented as an exemplar of narrative inquiry applied to mul
 ### Target Learning Goals
 - transforming understanding of individual multicultural lives into social and educational implications
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

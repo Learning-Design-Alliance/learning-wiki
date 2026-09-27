@@ -12,7 +12,7 @@ generated:
 # Character Education
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Character education goes beyond teaching a list of rules ("always tell the truth," "obey the teacher"). Effective programs integrate three components: cognitive understanding of ethical concepts, emotional/caring responsiveness to others, and concrete moral action — recognizing that mature moral behavior requires both conscious reasoning and embodied, intuitive response in the moment a choice actually arises. Programs that work well tend to operate at the schoolwide level, not just within individual classrooms: all staff — teachers, administrators, and support staff alike — orient around positive relationships, with cooperation and mutual care as the explicit theme rather than competition. Discipline in these settings is framed around conflict resolution rather than obedience or punishment, and democratic practices (class meetings where students help set rules and resolve disagreements) are a significant, recurring mechanism rather than an occasional activity.
@@ -41,6 +41,9 @@ Character education goes beyond teaching a list of rules ("always tell the truth
 - [Kohlberg's Stages of Moral Development](../theories/kohlberg-moral-development.md) — provides the reasoning-development backdrop character education programs aim to move students through
 - [Gilligan's Ethic of Care](../theories/gilligans-ethic-of-care.md) — the emphasis on relationships, responsiveness, and reconciling self/other needs is a direct application of the care orientation
 - [Turiel's Social Domain Theory](../theories/turiels-social-domain-theory.md) — effective programs distinguish genuinely moral concerns (fairness, harm) from conventional classroom norms, rather than treating every rule with equal moral weight
+
+## Claims
+- [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](../claims/service-learning-improves-civic-and-personal-outcomes.md) [+W]
 
 ## Related Principles
 

@@ -17,7 +17,7 @@ sources:
 # Epistemic network analysis and its weighted density statistic for analyzing SKIVE element co-occurrence in epistemic games
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (6 for) · 2 studies, `q2` · 1 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 Epistemic network analysis (ENA) is a non-parametric analytic method developed for epistemic game data; the article focuses on its social-network based variant. Chat utterances are automatically scored into binary indicators of SKIVE element use, aggregated into adjacency and cumulative adjacency matrices across evidentiary segments. The weighted density (WD) statistic summarizes, for each learner, "the total number of unique pair-wise associations / connections between SKIVE elements", and the article evaluates its utility via a simulation study in Land Science.
@@ -38,6 +38,15 @@ Epistemic network analysis (ENA) is a non-parametric analytic method developed f
 ### Target Learning Goals
 - characterizing emerging expertise as connections among skills, knowledge, identity, values, and epistemological reasoning elements
 - summarizing accumulated evidence of mastery across evidentiary segments
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [In the simulation, task complexity and task difficulty explain the majority of variance in the individual-learner WD statistic, with some effect of task specificity](../claims/task-complexity-and-difficulty-dominate-wd-variance.md) [+W]
+- [In simulated epistemic games, the weighted density statistic distinguishes simulated learner types with distinct mastery trajectories, with the expert trajectory showing the largest WD values](../claims/wd-detects-simulated-learner-trajectory-differences.md) [+W]
+- [The WD statistic is more useful for differentiating between simulated learner types when games are played longer](../claims/longer-games-sharpen-wd-learner-differentiation.md) [+W]
+- [In pairwise WD analyses, learner trajectory similarity dominates variation in percentage-overlap values (57.90% of variation) while remaining design factors are essentially zero](../claims/trajectory-similarity-dominates-wd-pair-overlap.md) [+W]
+- [Easy, highly specific simulated tasks compress the range of the WD statistic across learner types, while well-designed tasks widen it](../claims/easy-highly-specific-tasks-shrink-wd-range.md) [+W]
+- [Segmentation boundary choices differentially affect statistics computed on epistemic-game process data](../claims/segmentation-boundaries-differentially-affect-statistics.md) [+W]
 
 ## Related Elements
 - 

@@ -37,6 +37,10 @@ The bibliography annotates Alice Ann Cleaveland's UNIVERSALS OF CULTURE (Global 
 - Cross-cultural understanding
 - Cultural analysis
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Annotated bibliography of K-8 cultural and global awareness materials organized in 11 categories](arizona-project-global-awareness-bibliography.md)

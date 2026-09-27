@@ -31,7 +31,7 @@ Both grade 5 and grade 9 students, given a task with a deliberately unspecified 
 
 `q3 i?` In both episodes, a follow-up sub-task asking students to revise the task's wording so only one answer remained correct led students to propose and evaluate increasingly precise formulations (e.g., moving from "divide into triangles" to "divide into four congruent triangles"), and to state explicitly, in their own words, that specifying an assumption is what makes a unique answer possible. [→ Komatsu et al. 2024](#komatsu-et-al-2024)
 
-`q1 i?` One teacher's informal follow-up observation (not part of the systematic data collection) suggested the effect might persist beyond the single lesson: students from the study's class, given an unrelated ambiguous problem later in the year, spontaneously identified the missing assumption, whereas a comparison class not in the study did not. [→ Komatsu et al. 2024](#komatsu-et-al-2024)
+`q3 i?` One teacher's informal follow-up observation (not part of the systematic data collection) suggested the effect might persist beyond the single lesson: students from the study's class, given an unrelated ambiguous problem later in the year, spontaneously identified the missing assumption, whereas a comparison class not in the study did not. [→ Komatsu et al. 2024](#komatsu-et-al-2024)
 
 ## Evidence
 

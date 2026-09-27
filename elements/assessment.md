@@ -17,7 +17,7 @@ sources:
 # Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 5 studies, `q2`–`q4` · 2 of 5 report an effect size · 3 claims rest on one study
 
 ## Description
 Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
@@ -49,6 +49,13 @@ Assessment is the structured collection of evidence about learner understanding,
 - Makes learning visible
 - Supports both formative and summative decision making
 - Creates opportunities for self-assessment, peer review, and revision
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Probing instructor feedback with required revise-and-resubmit moved candidates toward evidence-based descriptions of student understanding](../claims/probing-feedback-revise-resubmit-evidence.md) [+M]
+- [Rubrics improve student work](../claims/rubrics-improve-student-work.md) [+M]
+- [Peer Feedback Improves Work Quality](../claims/peer-feedback-improves-work-quality.md) [+M]
+- [Peer Feedback Improves Writing](../claims/peer-feedback-improves-writing.md) [+M]
 
 ## Related Elements
 - [Formative Assessment](formative-assessment.md)

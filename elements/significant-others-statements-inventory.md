@@ -36,6 +36,10 @@ The SOSI is an eight-subscale instrument measuring children's perceived frequenc
 ### Target Learning Goals
 - perceived teacher praise and negative feedback
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Self Talk Mediating Construct](self-talk-mediating-construct.md)

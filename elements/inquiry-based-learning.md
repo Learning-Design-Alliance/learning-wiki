@@ -12,7 +12,7 @@ generated:
 # Inquiry-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 7 studies, `q1`–`q4` · 2 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Inquiry-based learning is the element in which learners investigate questions, evidence, or problems in order to build understanding through guided exploration.
@@ -32,6 +32,14 @@ Inquiry-based learning is the element in which learners investigate questions, e
 ### Affordances
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 - [Active Learning](../principles/active-learning.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+M]
+- [Teacher Guided Inquiry Outperforms Student Led](../claims/teacher-guided-inquiry-outperforms-student-led.md) [+M]
+- [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](../claims/mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) [+W]
+- [Guided Inquiry Outperforms Pure Discovery](../claims/guided-inquiry-outperforms-pure-discovery.md) [+M]
+- [Scripted personally meaningful inquiry is associated with gains in inquiry-decision accuracy, with mixed evidence on attitude and behavior change](../claims/scripted-personal-inquiry-associated-with-inquiry-knowledge-gains.md) [+W]
 
 ## Related Elements
 - [Guided Inquiry](guided-inquiry.md)

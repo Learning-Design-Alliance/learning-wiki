@@ -12,7 +12,7 @@ generated:
 # Retrieval Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 7 claims (7 for) · 8 studies, `q2`–`q4` · 6 of 8 report an effect size · 3 claims rest on one study
 
 ## Description
 Retrieval practice is the element in which learners recall information from memory rather than only re-exposing themselves to it.
@@ -32,6 +32,16 @@ Retrieval practice is the element in which learners recall information from memo
 ### Affordances
 - [Retrieval Practice](../principles/retrieval-practice.md)
 - [Memory Consolidation](../principles/memory-consolidation.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
+- [Retrieval Practice Improves Long Term Retention](../claims/retrieval-practice-improves-long-term-retention.md) [+S]
+- [Retrieval Failure Reduces Benefit](../claims/retrieval-failure-reduces-benefit.md) [+M]
+- [Retrieval Fails Without Encoding](../claims/retrieval-fails-without-encoding.md) [+M]
+- [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [+M]
+- [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](../claims/less-initial-retrieval-support-produces-better-retention.md) [+W]
+- [Retrieval practice enhances final-test recollection of contextual details and speeds final retrieval, as shown by list discrimination, response time, and cumulative recall measures](../claims/retrieval-practice-enhances-final-context-memory-and-memory-search-efficiency.md) [+W]
 
 ## Related Elements
 - [Self-Testing](self-testing.md)

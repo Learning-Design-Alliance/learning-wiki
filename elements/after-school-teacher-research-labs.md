@@ -17,7 +17,7 @@ sources:
 # After-School Teacher Research Labs
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Study groups in which teacher-researchers and university-based researchers "discuss research findings, and to plan, develop, and support innovations in instruction". In the Tucson project they met every two weeks to analyze ethnographic field methods, share household observations, and mentor each other; classroom applications emerged from these sessions as ways to weave family knowledge into academic content.
@@ -41,6 +41,10 @@ Study groups in which teacher-researchers and university-based researchers "disc
 
 ### Affordances
 - [Funds Of Knowledge](../theories/funds-of-knowledge.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Teacher-researchers in funds of knowledge work face difficulties, including helpless pessimism and heavy time demands, which reflective after-school labs helped them overcome; they judged the process worthwhile.](../claims/teacher-researcher-difficulties-eased-by-reflective-labs.md) [+W]
 
 ## Related Elements
 - [Funds Of Knowledge Teacher Research Model](../patterns/funds-of-knowledge-teacher-research-model.md)

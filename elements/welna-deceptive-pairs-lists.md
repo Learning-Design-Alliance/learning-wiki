@@ -17,7 +17,7 @@ sources:
 # Compiled lists of Polish-English deceptive word pairs extracted from popular monolingual and bilingual dictionaries
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article's core artifact is a representative selection of deceptive pairs organized by relation type: full-contrast pairs (e.g. E lecture : P lektura 'reading-list'), overlapping pairs (E platform : P platforma), and partial-correlation pairs. The lists were "extracted from recent editions of popular English and Polish dictionaries, monolingual and bilingual", with a more comprehensive presentation attempted only for the contrast class.
@@ -36,6 +36,12 @@ The article's core artifact is a representative selection of deceptive pairs org
 
 ### Target Learning Goals
 - Recognizing and avoiding deceptive cognates in translation and vocabulary use
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Risk of semantic interference varies systematically across the four relation types, with full contrast always producing faulty translation when a formal replica is used](../claims/interference-risk-varies-by-relation-type.md) [+W]
+- [In contrast-type abstract-noun pairs, the Polish word's meaning is typically narrower, a generalization of the semantic element in the Polish word](../claims/polish-meanings-narrower-than-english-partners.md) [+W]
+- [In overlapping pairs, the danger of false identification of meanings is lower when the shared meaning is obvious in only one sense](../claims/overlap-degree-moderates-false-identification-risk.md) [+W]
 
 ## Related Elements
 - 

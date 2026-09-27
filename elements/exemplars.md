@@ -50,6 +50,10 @@ Exemplars make quality criteria concrete: learners calibrate their own standards
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — exemplars make expert products visible, the artifact-level counterpart to modeling expert process
 - [Scaffolding](../principles/scaffolding.md) — an exemplar is temporary support; it should be faded as learners internalize criteria and can self-evaluate
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Demonstration](demonstration.md) — the process-level counterpart; exemplars show the product, demonstrations show how it was made
 - [Non-Examples](non-examples.md) — weak or flawed models whose contrast with exemplars sharpens discrimination

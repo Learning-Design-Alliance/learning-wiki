@@ -41,6 +41,10 @@ Metaphor anchors are objects and tasks workers use to anchor experiences for rec
 ### Affordances
 - [Cmr Context Metaphor Relationship Model](../theories/cmr-context-metaphor-relationship-model.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Care-Giver Primacy as a worker stance for meeting new youths' needs](care-giver-primacy.md)

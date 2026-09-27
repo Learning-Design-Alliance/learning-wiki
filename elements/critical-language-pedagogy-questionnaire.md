@@ -17,7 +17,7 @@ sources:
 # Validated 17-item, four-factor Critical Language Pedagogy questionnaire for EFL teachers
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study, `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The researchers developed a Critical Language Pedagogy questionnaire from a review of 89 articles and book chapters and prior instruments, using a six-point Likert scale. After piloting with 47 teachers and item analysis, the final validated version contained 17 items in a 4-factor solution: incorporating dialogue and learners' real life, liberatory autonomy, a critical approach to EFL classroom content, and decision making through negotiation. Cronbach's Alpha demonstrated "a reliability of .825", and factor loadings "ranged from .317 to .699".
@@ -35,6 +35,13 @@ The researchers developed a Critical Language Pedagogy questionnaire from a revi
 
 ### Target Learning Goals
 - Measuring teachers' beliefs and awareness of critical language pedagogy principles and practices
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [PhD teachers show significantly higher awareness than BA teachers of decision making through negotiation](../claims/phd-higher-awareness-decision-making-negotiation.md) [+W]
+- [PhD teachers show significantly higher awareness than MA teachers of incorporating dialogue and learners' real life into second language instruction](../claims/phd-higher-awareness-dialogue-real-life-factor.md) [+W]
+- [PhD teachers show significantly higher awareness than both MA and BA teachers of liberatory autonomy](../claims/phd-higher-awareness-liberatory-autonomy.md) [+W]
+- [Teaching experience is significantly and positively related to Iranian EFL teachers' awareness of all four critical pedagogy factors](../claims/experience-correlates-critical-pedagogy-awareness.md) [+W]
 
 ## Related Elements
 

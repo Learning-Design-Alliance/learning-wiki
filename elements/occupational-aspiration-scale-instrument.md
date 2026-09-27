@@ -36,6 +36,10 @@ The OAS is a self-report instrument measuring secondary students' level of occup
 ### Target Learning Goals
 - predicting future occupational choice; vocational counseling
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

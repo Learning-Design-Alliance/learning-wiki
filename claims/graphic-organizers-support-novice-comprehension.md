@@ -35,7 +35,7 @@ Graphic organizers — visual displays such as concept maps, advance organizers,
 
 `q4 i2` Across 67 effect sizes from 55 experimental and quasi-experimental studies (Grade 4 to postsecondary), learning with concept maps was associated with better knowledge retention (g = 0.60), but studying a preconstructed map instead of text, lists or outlines gave a smaller benefit (g = 0.37), and effects were highly heterogeneous. [→ Nesbit & Adesope 2006](#nesbit-adesope-2006)
 
-`q3 i2` In the few studies that presented maps to learners split by a median on prior knowledge or verbal ability, low-ability learners benefited (g = 0.40, k = 5) and high-ability learners did not (g = −0.13). The subsets are small and underpowered, so this supports the novice framing only weakly. [→ Nesbit & Adesope 2006](#nesbit-adesope-2006)
+`q4 i2` In the few studies that presented maps to learners split by a median on prior knowledge or verbal ability, low-ability learners benefited (g = 0.40, k = 5) and high-ability learners did not (g = −0.13). The subsets are small and underpowered, so this supports the novice framing only weakly. [→ Nesbit & Adesope 2006](#nesbit-adesope-2006)
 
 `q4 i2` A later meta-analysis of 142 effect sizes (n = 11,814) found a moderate overall benefit of concept and knowledge maps (g = 0.58). Creating maps (g = 0.72) helped more than studying them (g = 0.43), and the effect held in both STEM and non-STEM domains. [→ Schroeder et al. 2018](#schroeder-et-al-2018)
 

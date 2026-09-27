@@ -12,7 +12,7 @@ generated:
 # Gain attention
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies, `q3`–`q4` · 1 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies, `q2`–`q3` · 1 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Gaining attention is the opening move of instruction: an unexpected event, provocative question, vivid scenario, or perceptual cue that orients learners toward the material before content delivery begins. It functions by activating curiosity and directing working-memory resources to the upcoming task, rather than by transmitting content itself.
@@ -49,6 +49,10 @@ Attention-gaining events increase readiness to learn by creating an information 
 - [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) — hooks that present a contradiction or unexpected outcome create the disequilibrium that motivates resolution through learning
 - [Clear Structure](../principles/clear-structure.md) — an attention event that previews the coming task doubles as an advance organizer, signaling what learners should attend to
 - [Active Learning](../principles/active-learning.md) — question- and scenario-based hooks pull learners into responding from the first minutes rather than receiving passively
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Activation](activation.md) — the natural follow-on; attention capture should lead into activating prior knowledge

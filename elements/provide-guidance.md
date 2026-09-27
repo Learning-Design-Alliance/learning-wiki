@@ -12,7 +12,7 @@ generated:
 # Provide guidance
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 12 studies, `q3`–`q4` · 0 of 12 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 12 studies, `q2`–`q4` · 0 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 Providing guidance means supplying learners with scaffolding, models, worked examples, or coaching support while they acquire new knowledge or skills. The instructor or system structures the task enough to prevent unproductive search and error, then progressively withdraws support as competence develops.
@@ -49,6 +49,10 @@ Guidance reduces the working-memory burden of early learning by narrowing the sp
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — worked examples and models externalize intermediate steps so novices attend to task structure rather than means-ends search [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
 - [Metacognition](../principles/metacognition.md) — guidance can model self-monitoring (via [Think-Aloud](think-aloud.md)) and prompt learners to explain and evaluate their own reasoning
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md) — guidance makes inquiry productive: prompts, hints, and [Coaching](coaching.md) keep exploration oriented without eliminating the learner's own reasoning work
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Worked Examples](worked-examples.md) — the most heavily researched form of guidance; complete solution models for study

@@ -12,7 +12,7 @@ generated:
 # Justification & Argumentation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 Justification and argumentation require learners to support a claim with evidence and explicit reasoning, and often to respond to counterarguments and rebuttals. Rather than receiving conclusions, learners must construct, defend, and critique them — making the epistemic work of a discipline (what counts as evidence, what makes reasoning valid) visible and practiced.
@@ -51,6 +51,10 @@ Argumentation improves conceptual understanding and scientific reasoning because
 - [Active Learning](../principles/active-learning.md) — argumentation is inherently generative: learners produce claims, select evidence, and reason aloud rather than passively receiving content
 - [Collaborative Learning](../principles/collaborative-learning.md) — argumentation gains force from social interaction; peer critique and disagreement expose gaps that solo justification hides
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — defending a recommendation to a real or simulated audience (a client, a review panel) gives justification an authentic purpose and raises the stakes for evidence quality
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Argument Construction](argument-construction.md) — the compositional skill this element depends on; learners must build arguments before defending them

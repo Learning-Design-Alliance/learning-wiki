@@ -12,7 +12,7 @@ generated:
 # Consensus Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 A consensus discussion asks a group of learners to move beyond stating positions toward agreeing on a shared judgment, decision, or jointly worded answer. Unlike [Debate](debate.md), the goal is not to win but to integrate perspectives into a single defensible position that all participants can endorse.
@@ -49,6 +49,10 @@ Consensus discussions force learners to articulate, defend, and revise their rea
 - [Constructivism](../principles/constructivism.md) — learners must actively reconcile conflicting interpretations and build a shared conceptual position rather than receive one, enacting knowledge-as-constructed rather than knowledge-as-transmitted
 - [Community of Inquiry](../principles/community-of-inquiry.md) — consensus tasks generate genuine cognitive disequilibrium and social negotiation, the teaching and social presence conditions this framework identifies as necessary for deep learning
 - [Argumentation](argumentation.md) — reaching consensus requires claims, evidence, warrants, and rebuttals; the discussion format gives argumentation an authentic purpose beyond display
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Debate](debate.md) — the adversarial counterpart; debate sharpens positions that consensus discussion then integrates

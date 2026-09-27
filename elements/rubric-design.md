@@ -17,7 +17,7 @@ sources:
 # Rubric Design
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2` · 0 of 2 report an effect size
 
 ## Description
 Rubric design is the element in which criteria and performance levels are made explicit through a structured evaluative framework. It is useful when learners or instructors need a shared standard for judging quality.
@@ -37,6 +37,10 @@ Rubric design is the element in which criteria and performance levels are made e
 ### Affordances
 - [Competency-Based Assessment](../principles/competency-based-assessment.md)
 - [Metacognition](../principles/metacognition.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Rubrics improve student work](../claims/rubrics-improve-student-work.md) [+M]
 
 ## Related Elements
 - [Criteria Development](criteria-development.md)

@@ -50,6 +50,10 @@ Probes work because learners cannot revise a belief they do not realize they hol
 - [Active Learning](../principles/active-learning.md) — every learner commits to an answer rather than passively receiving correction; commitment is what makes the subsequent discussion consequential
 - [Assessment for Learning](../principles/assessment-for-learning.md) — probes are formative instruments: the distribution of answers tells the instructor what to teach next, and tells learners what they don't yet know
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — the complementary move: probes surface faulty structure, organizers supply correct structure
 - [Analogies](analogies.md) — a common corrective move after a probe reveals a misconception; the analogy provides the replacement model

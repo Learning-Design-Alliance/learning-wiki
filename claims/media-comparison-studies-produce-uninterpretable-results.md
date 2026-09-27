@@ -41,9 +41,9 @@ A "media comparison study" treats an entire delivery medium (e.g., distance vs. 
 
 `q3 i?` Media comparison studies are fundamentally confounded because they fail to isolate specific media attributes (type of information representation, sensory modality, level of realism, feedback timing) as separate variables, instead treating the whole delivery medium as one functional unit. [→ Clark 1983](#clark-1983)
 
-`q2 i1` Media attributes — not whole media categories — are the level at which a taxonomy of instructionally relevant properties can be meaningfully defined and tested. [→ Levie and Dickie 1973](#levie-and-dickie-1973)
+`q2 i0` Media attributes — not whole media categories — are the level at which a taxonomy of instructionally relevant properties can be meaningfully defined and tested. [→ Levie and Dickie 1973](#levie-and-dickie-1973)
 
-`q1 i?` A "no significant difference" result is an inconclusive null finding, not evidence of equivalence — much as a "not guilty" verdict does not mean "innocent" — yet researchers and administrators have repeatedly misinterpreted decades of such findings (collected in Russell's widely cited "No Significant Difference" compilation) as proof that delivery medium does not matter for learning. [→ Lockee, Moore, and Burton 2001](#lockee-moore-and-burton-2001)
+`q2 i?` A "no significant difference" result is an inconclusive null finding, not evidence of equivalence — much as a "not guilty" verdict does not mean "innocent" — yet researchers and administrators have repeatedly misinterpreted decades of such findings (collected in Russell's widely cited "No Significant Difference" compilation) as proof that delivery medium does not matter for learning. [→ Lockee, Moore, and Burton 2001](#lockee-moore-and-burton-2001)
 
 ## Evidence
 

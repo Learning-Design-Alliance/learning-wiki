@@ -38,6 +38,10 @@ The brief points readers to the "Rightful Presence Implementation Guide (swiftsc
 ### Affordances
 - [Rightful Presence In Education Systems](../theories/rightful-presence-in-education-systems.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

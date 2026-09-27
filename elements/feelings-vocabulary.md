@@ -12,7 +12,7 @@ generated:
 # Feelings Vocabulary
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies, `q2`–`q4` · 0 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies, `q2`–`q3` · 0 of 6 report an effect size
 
 ## Description
 A feelings vocabulary is an explicitly taught lexicon of emotion terms — ranging from basic labels (happy, sad, angry) to granular distinctions (frustrated, disappointed, anxious, relieved) — that learners use to identify, differentiate, and communicate their internal states. It functions as a prerequisite component for emotional regulation, help-seeking, and social collaboration: learners who cannot name a state cannot strategically manage or report it.
@@ -51,6 +51,10 @@ Emotion labeling supports self-regulation and communication, and affective granu
 - [Chunking](../principles/chunking.md) — organizing emotions into families (e.g., anger-family: irritated, frustrated, furious) reduces the memory burden of a long list and supports discrimination [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]
 - [Accessible Vocabulary & Syntax](../principles/accessible-vocabulary-syntax.md) — feelings vocabulary instruction is a direct application: deliberately teaching the words learners need before requiring them to use them
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — a stable, shared lexicon removes the need to improvise descriptions of internal states during emotionally charged moments, freeing attention for the situation itself
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Check-In](check-in.md) — the routine that gives feelings vocabulary recurring, authentic use

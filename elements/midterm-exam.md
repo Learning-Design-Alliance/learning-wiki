@@ -12,7 +12,7 @@ generated:
 # Midterm Exam
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q3`–`q4` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q2`–`q3` · 0 of 4 report an effect size
 
 ## Description
 A midterm exam is a formal, summative assessment administered at the midpoint of a course to measure student understanding and retention of material covered so far. Beyond certification of progress, it functions as a high-stakes retrieval event: preparing for and taking the exam forces learners to reconstruct and consolidate course content.
@@ -49,6 +49,10 @@ Midterms leverage the testing effect — the act of retrieving information stren
 - [Competency-Based Assessment](../principles/competency-based-assessment.md) — in mastery-oriented courses, the midterm serves as a formal demonstration of proficiency on the first block of competencies, with retakes or revision pathways
 - [Clear Structure](../principles/clear-structure.md) — a predictable midterm schedule gives learners a milestone around which to organize review and self-regulation
 - [Active Learning](../principles/active-learning.md) — exam preparation itself is massed retrieval practice; cumulative item design extends this benefit across the whole course
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Assessment](assessment.md) — the parent element; a midterm is a summative instance positioned mid-course

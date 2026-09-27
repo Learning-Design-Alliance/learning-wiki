@@ -17,7 +17,7 @@ sources:
 # The Levels of Use Interview: a 20-minute focused branching interview assigning a LoU level to any individual
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The LoU Interview is a focused interview procedure that measures Levels of Use. "The interviewer does not ask a specific list of redetermined, presequenced questions, but rather uses a branching technique derived from the defined decision points which separate each level." Interviews take approximately 20 minutes, are tape-recorded, and yield ratings of overall LoU plus LoU in each of the seven categories, with provisions for Not Doing (ND) and No Information (NI) ratings.
@@ -38,6 +38,11 @@ The LoU Interview is a focused interview procedure that measures Levels of Use. 
 
 ### Affordances
 - [Levels Of Use Innovation Eight Level Framework](../theories/levels-of-use-innovation-eight-level-framework.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [LoU Interview ratings correlate strongly with ethnographers' full-day observations, supporting interview validity](../claims/lou-interview-validated-against-ethnography.md) [+W]
+- [The LoU Interview shows high interrater reliability, and the rating procedure was streamlined over two years without loss of agreement](../claims/lou-interview-interrater-reliability-high.md) [+W]
 
 ## Related Elements
 

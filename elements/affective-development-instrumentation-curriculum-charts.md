@@ -39,6 +39,10 @@ The report supplies two appendix charts cataloguing existing resources: Appendix
 ### Affordances
 - [Five Dimensions Affective Development Framework](../theories/five-dimensions-affective-development-framework.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Annotated bibliography of 27 instruments for assessing preschool affective development](affective-development-assessment-instrument-bibliography.md)

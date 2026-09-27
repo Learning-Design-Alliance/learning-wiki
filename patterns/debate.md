@@ -13,7 +13,7 @@ grain_size: lesson
 # Debate
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 mixed, 1 against) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Debate is the short-form canonical pattern for structured instructional argumentation around a contested question.
@@ -24,6 +24,11 @@ Debate is the short-form canonical pattern for structured instructional argument
 - [Debate](../elements/debate.md)
 - [Structured Debate](../elements/structured-debate.md)
 - [Justification](../elements/justification.md)
+
+## Claims
+- [Coaches and students perceive distinct strengths and weaknesses of parliamentary debate relative to other formats](../claims/survey-identifies-perceived-strengths-weaknesses-of-parliamentary-debate.md) [~W]
+- [Parliamentary rules ban published evidence and omit cross examination, which the author argues undermines argumentation training](../claims/parliamentary-rules-ban-evidence-and-omit-cross-examination.md) [-W]
+- [Unconstrained topic writing produces frivolous resolutions that perpetuate non-argumentative practices](../claims/unconstrained-topic-writing-yields-frivolous-resolutions.md) [~W]
 
 ## Related Patterns
 - [Debate Format](debate-format.md)

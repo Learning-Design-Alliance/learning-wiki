@@ -44,6 +44,10 @@ Immediate feedback is the element in which response information is delivered clo
 - [Formative Assessment](../principles/formative-assessment.md)
 - [Feedback Loops](../principles/feedback-loops.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Feedback](feedback.md)
 - [Hints](hints.md)

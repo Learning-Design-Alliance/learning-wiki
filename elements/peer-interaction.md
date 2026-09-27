@@ -12,7 +12,7 @@ generated:
 # Peer Interaction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 Peer interaction places learners in direct engagement with one another through discussion, debate, peer teaching, or collaborative task work. It functions as a social engine for learning: learners articulate ideas, encounter alternative perspectives, and negotiate shared understanding rather than receiving instruction passively.
@@ -49,6 +49,10 @@ Peer interaction supports learning when it requires learners to actively constru
 - [Community of Inquiry](../principles/community-of-inquiry.md) — peer discussion supplies the social presence and cognitive conflict needed to sustain a community of inquiry, where ideas are tested against others' perspectives
 - [Active Learning](../principles/active-learning.md) — peer formats (think-pair-share, peer instruction) convert passive listening into generative activity, with consistent positive effects on achievement [~S]
 - [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) — exposure to peers' conflicting ideas creates the conceptual conflict that drives accommodation and deeper processing
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Peer Teaching](peer-teaching.md) — the strongest form of peer interaction; explaining to a peer forces the elaboration that produces learning

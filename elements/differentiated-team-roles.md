@@ -12,7 +12,7 @@ generated:
 # Differentiated Team Roles
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 Differentiated team roles assign each member of a collaborative group a distinct function — such as facilitator, recorder, skeptic, or resource manager — so that participation is structured rather than optional. Roles create positive interdependence: the group cannot succeed unless each member performs their function, which raises individual accountability and distributes cognitive labor across the team.
@@ -50,6 +50,10 @@ Structured roles counteract the well-documented failure modes of unstructured gr
 - [Community of Inquiry](../principles/community-of-inquiry.md) — roles map onto the framework's presences: a facilitator supports social presence, a skeptic drives cognitive conflict, a recorder sustains teaching presence among peers
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — role rotation lets learners practice the articulation and [coaching](coaching.md) functions that experts perform, making tacit collaborative moves explicit
 - [Social Learning Theory](../theories/social-learning-theory.md) — observing peers competently enacting a role provides a model learners can later adopt when roles rotate
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Assigned Positions](assigned-positions.md) — the more general mechanism of assigning seats or functions within group work

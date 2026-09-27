@@ -12,7 +12,7 @@ generated:
 # Persuasion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q4` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q3` · 0 of 4 report an effect size
 
 ## Description
 Persuasion tasks ask learners to construct and deliver arguments designed to change an audience's beliefs or actions, using logic, evidence, and rhetorical technique. Unlike [Argumentation](argumentation.md), which emphasizes reasoned justification, persuasion foregrounds audience awareness — tailoring claims, credibility, and emotional appeal to the listeners being addressed.
@@ -50,6 +50,10 @@ Persuasion tasks integrate knowledge by requiring learners to select, organize, 
 - [Collaborative Learning](../principles/collaborative-learning.md) — structured persuasion formats assign roles and require responsive exchange, creating positive interdependence around a contested question
 - [Constructivism](../principles/constructivism.md) — defending a position against live counterargument forces learners to reconstruct and test their understanding rather than retrieve it verbatim
 - [Argumentation](argumentation.md) — persuasion is argumentation with an added audience dimension; strong persuasive tasks inherit the claim–evidence–warrant structure of argumentation frameworks
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Argumentation](argumentation.md) — the reasoning backbone; persuasion without argumentation is mere assertion

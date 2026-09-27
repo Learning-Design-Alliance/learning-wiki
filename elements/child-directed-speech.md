@@ -42,6 +42,10 @@ Infants begin life able to discriminate the phonemes of any human language, but 
 ### Affordances
 - [Support Early Language Development](../principles/supporting-early-language-development.md) — child-directed speech is one concrete practice within this broader principle
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 ## Examples

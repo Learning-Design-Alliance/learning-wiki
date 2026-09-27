@@ -20,3 +20,7 @@ Virtual whiteboards are the element in which learners sketch, annotate, and coll
 ## Affordances
 - [Digital Learning](../principles/digital-learning.md)
 - [Creating Visual Representations](../principles/creating-visual-representations.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 

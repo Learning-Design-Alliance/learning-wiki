@@ -14,7 +14,7 @@ grain_size: lesson
 # Jigsaw Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 1 of 2 report an effect size
 
 ## Description
 Jigsaw Learning is the short-form canonical target for the jigsaw pattern in which learners develop expertise on one part of the material and then teach it to peers so the group can assemble a fuller understanding.
@@ -33,6 +33,9 @@ Jigsaw Learning is the short-form canonical target for the jigsaw pattern in whi
 
 ### Related Patterns
 - [Jigsaw Method](jigsaw-method.md)
+
+## Claims
+- [Learning By Teaching Improves Tutor Learning](../claims/learning-by-teaching-improves-tutor-learning.md) [+M]
 
 ## Key Sources
 - Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom* (3rd ed.). Pinter & Martin.

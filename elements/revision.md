@@ -12,7 +12,7 @@ generated:
 # Revision
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q3` · 0 of 4 report an effect size
 
 ## Description
 Revision is the process by which learners rework a product — a text, design, solution, or argument — in response to [Feedback](feedback.md) and their own [Self-Assessment](self-assessment.md). It treats the first attempt as a draft rather than a final answer, making improvement itself the object of learning.
@@ -49,6 +49,10 @@ Revision converts feedback into measurable learning gains only when learners act
 - [Mastery Learning](../principles/mastery-learning.md) — revision enacts mastery learning by allowing resubmission until criteria are met, replacing one-shot assessment with iterative improvement toward a standard
 - [Assessment for Learning](../principles/assessment-for-learning.md) — feedback used for revision makes assessment formative rather than merely evaluative
 - [Scaffolding](../principles/scaffolding.md) — instructor feedback functions as temporary external regulation that should fade as learners internalize criteria through [Self-Assessment](self-assessment.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Feedback](feedback.md) — the input that drives revision; without it, revision is guesswork

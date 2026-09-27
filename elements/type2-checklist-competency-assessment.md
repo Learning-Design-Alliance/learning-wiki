@@ -36,6 +36,10 @@ The Type 2 instrument is a checklist-format assessment going beyond multiple cho
 ### Target Learning Goals
 - The first-grade critical objectives, including symbolizing problem statements, addition/subtraction strategies, and estimation
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Type 1 model competency test: a largely traditional paper-and-pencil assessment with scoring guide and teacher notes](type1-traditional-competency-test.md)

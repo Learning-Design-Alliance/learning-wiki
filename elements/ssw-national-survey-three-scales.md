@@ -17,7 +17,7 @@ sources:
 # National survey of school social workers with three reliability-tested scales
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 An anonymous online Qualtrics survey administered to a national sample of school social workers between November 2019 and June 2020 (N = 517), with 11 open-ended questions yielding 1,738 comments. The instrument included three scales: Social Workers' Extent of Action Scale (16 items, Cronbach's α of .878), Social Workers' Perception of the Impact of Immigration Enforcement Scale (nine items, α of .901), and Social Workers' Perception of Local Support Scale (six items, α of .839). Sampling targeted 67 districts where immigrants represented at least 40% of residents.
@@ -35,6 +35,12 @@ An anonymous online Qualtrics survey administered to a national sample of school
 
 ### Target Learning Goals
 - Understanding SSW perceptions and actions supporting immigrant students
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [School social workers perceive immigration enforcement as a daily macro-level force producing fear and trauma among immigrant students and families](../claims/ssws-perceive-enforcement-daily-macro-force.md) [+W]
+- [SSWs perceive meso-level community and school contexts, including 287g programs and ICE activity, as shaping immigrant families' fear and access](../claims/ssws-perceive-meso-community-school-contexts.md) [+W]
+- [Some SSWs hold deficit-based racial attitudes, conflating structural constraints with immigrant cultural values and misreading trauma responses](../claims/ssws-deficit-racial-attitudes.md) [+W]
 
 ## Related Elements
 - 

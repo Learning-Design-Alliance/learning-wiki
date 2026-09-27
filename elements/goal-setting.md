@@ -17,7 +17,7 @@ sources:
 # Goal Setting
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Goal setting is the element in which learners or instructors establish clear targets for performance, progress, or improvement. It is useful when visible goals help focus effort, strategy choice, and persistence.
@@ -37,6 +37,10 @@ Goal setting is the element in which learners or instructors establish clear tar
 ### Affordances
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
 - [Self-Regulation](../principles/self-regulation.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Specific, difficult goals lead to higher performance than easy or vague \"do your best\" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+W]
 
 ## Related Elements
 - [Learning Outcomes](learning-outcomes.md)

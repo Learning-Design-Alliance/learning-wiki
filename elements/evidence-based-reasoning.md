@@ -12,7 +12,7 @@ generated:
 # Evidence-Based Reasoning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 Evidence-based reasoning asks learners to evaluate two or more competing models or explanations against real-world data, deciding which model best accounts for the evidence and articulating why. Rather than receiving a canonical explanation, learners weigh alternative claims, coordinate evidence with theory, and revise their understanding — a process that targets epistemic cognition as much as domain content.
@@ -49,6 +49,10 @@ Evidence-based reasoning supports conceptual change by requiring learners to con
 - [Cognitive Load Theory](../principles/cognitive-load-theory.md) — competing-model tasks must be designed so data interpretation is manageable; chunking evidence and providing interpretive schemas preserves working memory for the reasoning that matters
 - [Active Learning](../principles/active-learning.md) — learners generate judgments and justifications rather than receiving conclusions, producing deeper processing than passive presentation of the correct model
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — making expert evidential reasoning visible (how a scientist weighs conflicting data) lets learners appropriate disciplinary norms of justification
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Argumentation](argumentation.md) — the discourse structure through which evidence-based reasoning is expressed and refined

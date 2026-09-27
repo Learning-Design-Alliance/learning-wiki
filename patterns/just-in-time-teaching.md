@@ -14,7 +14,7 @@ grain_size: lesson
 # Just-In-Time Teaching (JiTT)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 1 of 3 report an effect size
 
 ## Description
 Just-In-Time Teaching (JiTT), developed by Gregor Novak and colleagues (Novak et al., 1999), relies on a feedback loop between web-based pre-class materials and the classroom. Students prepare by reading assigned material and completing short web-based assignments; their responses reach the instructor a few hours before class, letting the instructor adapt that day's lesson to exactly what students are struggling with. This shifts class time from content transfer toward active learning and cooperative problem-solving.
@@ -44,8 +44,10 @@ Marrs and Novak (2004) identify three theoretical elements JiTT combines: (1) it
 
 ### Theory
 #### Supporting
+
 - [Constructivism](../theories/constructivism.md) [+M] — WarmUps structure opportunities for students to build new understanding on existing knowledge, and specifically surface misconceptions that would otherwise block that construction
 - [Active Learning](../principles/active-learning.md) [+M] — moving content transfer outside class is precisely what frees class time for active, cooperative work
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [+M]
 
 ## Design
 

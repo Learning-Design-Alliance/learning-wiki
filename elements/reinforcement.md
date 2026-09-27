@@ -50,6 +50,10 @@ Reinforcement reliably increases the frequency and persistence of the behaviors 
 - [Self-Determination Theory](../theories/self-determination-theory.md) — explains the boundary condition of reinforcement: consequences that support competence and autonomy (informational praise) sustain motivation, while controlling, tangible rewards erode it
 - [Direct Instruction](../patterns/direct-instruction.md) — reinforcement supplies the contingent praise and immediate confirmation that direct instruction uses to maintain rapid, high-success pacing
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Feedback](feedback.md) — informational counterpart; reinforcement changes probability, feedback changes understanding, and the two are most powerful combined
 - [Automaticity](automaticity.md) — the fluency goal that reinforcement-driven practice volume serves

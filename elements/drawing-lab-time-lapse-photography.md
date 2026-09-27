@@ -36,6 +36,10 @@ A purpose-built laboratory for collecting in-process records of drawing: a neutr
 ### Target Learning Goals
 - recording and understanding individual drawing processes
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Research Data Collection Methods](research-data-collection-methods.md)

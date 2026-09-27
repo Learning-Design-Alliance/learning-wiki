@@ -40,6 +40,10 @@ A self-report instrument the article uses to measure teachers' educational philo
 ### Affordances
 - [Five Basic Educational Philosophies Traditional Vs Contemporary](../theories/five-basic-educational-philosophies-traditional-vs-contemporary.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

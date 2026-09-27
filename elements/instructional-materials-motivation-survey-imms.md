@@ -41,6 +41,10 @@ The IMMS is one of several instruments the digest says were developed for assess
 - [Arcs Model](../theories/arcs-model.md)
 - [Arcs Strategy Subcomponent Taxonomy](../theories/arcs-strategy-subcomponent-taxonomy.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Arcs Model](../theories/arcs-model.md)
 

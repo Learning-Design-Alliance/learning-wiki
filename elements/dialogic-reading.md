@@ -50,6 +50,10 @@ Dialogic reading reliably improves expressive vocabulary and oral language in yo
 - [Coaching](coaching.md) — the prompt–expand–feedback cycle is in-the-moment coaching of oral language, with the adult adjusting support to each response
 - [Class Discussion](class-discussion.md) — dialogic reading is a developmentally early form of structured discussion; the same turn-taking and elaboration norms scale up to text-based discussion in later grades
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Coaching](coaching.md) — the in-the-moment prompting and feedback that constitutes the adult role
 - [Articulation](articulation.md) — the child's prompted retellings are structured articulation of developing knowledge

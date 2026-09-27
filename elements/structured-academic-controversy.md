@@ -23,6 +23,10 @@ Structured academic controversy is the element in which learners argue multiple 
 - [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
 - [Debate](../principles/debate.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Structured Debate](structured-debate.md)
 - [Collaborative Decision-Making](collaborative-decision-making.md)

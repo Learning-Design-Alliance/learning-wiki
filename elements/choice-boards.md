@@ -63,6 +63,10 @@ Choice boards support learning primarily through motivation: perceived autonomy 
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — the grid format presents a bounded, scannable option set, keeping the choice decision itself from consuming working memory
 - [Assessment for Learning](../principles/assessment-for-learning.md) — when all options map to shared criteria, the board lets learners choose their demonstration mode while keeping evidence of learning comparable
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Accommodations](accommodations.md) — choice boards operationalize "multiple means of action and expression" for learners with processing or expression differences
 - [Adaptive Difficulty](adaptive-difficulty.md) — tiered boards (columns by complexity) let learners self-calibrate challenge

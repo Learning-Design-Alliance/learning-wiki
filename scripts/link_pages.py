@@ -66,7 +66,7 @@ RELATED_HEAD = {"principles": "Related Principles", "elements": "Related Element
 # except that a strategy or method may use an element.
 RANK = {"theories": 4, "learner-variables": 4, "principles": 3, "patterns": 2, "processes": 2,
         "elements": 1, "strategies": 1, "methods": 1, "claims": 0}
-CLAIMS_ON = {"theories", "principles", "patterns", "processes", "learner-variables"}
+CLAIMS_ON = {"theories", "principles", "patterns", "processes", "learner-variables", "elements"}
 MARKER_RE = re.compile(r"^[+~-][SMW]$")
 LINK_RE = re.compile(r"\]\(<?([^)>\s#]+\.md)")
 HEAD_RE = re.compile(r"^(#{2,4}) +(.+?)\s*$")
@@ -149,8 +149,13 @@ def new_pages() -> list:
                    and p.split("/")[0] != "claims"})
 
 
-def candidates(db, rec: dict, sibs: set, k: int = 10) -> list:
-    rows = search_index.query(db, rec["title"] + " " + rec["description"], limit=k + 1, mode="OR")
+def candidates(db, rec: dict, sibs: set, k: int = 10, folder: str = None) -> list:
+    """The page's own source's other pages first, then its BM25 neighbours. With
+    `folder`, only pages of that folder: `--claims-for` asks for claims alone, so a
+    page citing no evidence is shown twelve claims rather than ten mixed pages."""
+    rows = search_index.query(db, rec["title"] + " " + rec["description"], folder=folder, limit=k + 1, mode="OR")
+    if folder:
+        sibs = {s for s in sibs if s.startswith(folder + "/")}
     found = [f"{r[1]}/{r[2]}" for r in rows]
     out = sorted(sibs)[:6]                     # the pages its own source wrote, first
     out += [x for x in found if x != rec["key"] and x not in out][:k]
@@ -232,7 +237,7 @@ Reply: {{"links": [{{"n": <number>, "relation": "<relation>", "marker": "<only f
             "model": model, "cost_usd": gen.cost_usd, "provider": gen.provider}
 
 
-def run(keys: list, out: Path, model: str, concurrency: int) -> list:
+def run(keys: list, out: Path, model: str, concurrency: int, folder: str = None) -> list:
     api_key = os.environ.get("OPENROUTER_API_KEY")
     if not api_key:
         raise SystemExit("OPENROUTER_API_KEY is not set")
@@ -253,7 +258,8 @@ def run(keys: list, out: Path, model: str, concurrency: int) -> list:
             local = sqlite3.connect(search_index.DB_PATH)
             try:
                 r = rec(k)
-                cands = [rec(c) for c in candidates(local, r, {s for s in sibs.get(k, ()) if s in pages})
+                cands = [rec(c) for c in candidates(local, r, {s for s in sibs.get(k, ()) if s in pages},
+                                                    k=12 if folder else 10, folder=folder)
                          if c in pages]
                 return classify(r, cands, api_key, model) if cands else {"page": k, "candidates": [], "links": []}
             except Exception as e:
@@ -274,7 +280,8 @@ def href(src: str, dst: str) -> str:
 
 def insert(path: Path, heads: list, bullet: str, fallback: str) -> None:
     """Append `bullet` to the first of `heads` present on the page (any level),
-    replacing an empty template placeholder; else add `## fallback` at the end."""
+    replacing an empty template placeholder; else add `## fallback` before the
+    page's Related/Examples/Key Sources tail, or at the end when it has none."""
     lines = path.read_text(encoding="utf-8").split("\n")
     at = None
     for want in heads:
@@ -282,9 +289,14 @@ def insert(path: Path, heads: list, bullet: str, fallback: str) -> None:
         if at is not None:
             break
     if at is None:
-        while lines and not lines[-1].strip():
-            lines.pop()
-        lines += ["", f"## {fallback}", "", bullet, ""]
+        tail = next((i for i, l in enumerate(lines) if (m := HEAD_RE.match(l)) and len(m.group(1)) == 2
+                     and (m.group(2).startswith("Related ") or m.group(2) in ("Examples", "Key Sources"))), None)
+        if tail is None:
+            while lines and not lines[-1].strip():
+                lines.pop()
+            lines += ["", f"## {fallback}", "", bullet, ""]
+        else:
+            lines[tail:tail] = [f"## {fallback}", "", bullet, ""]
     else:
         end = next((i for i in range(at + 1, len(lines)) if HEAD_RE.match(lines[i])), len(lines))
         body = [l for l in lines[at + 1:end] if l.strip() not in ("-",)]
@@ -292,8 +304,16 @@ def insert(path: Path, heads: list, bullet: str, fallback: str) -> None:
             body.pop()
         while body and not body[0].strip():
             body.pop(0)
-        lines[at + 1:end] = [""] + body + [bullet, ""]
+        lead = [] if body and body[0].lstrip().startswith("<!--") else [""]
+        lines[at + 1:end] = lead + body + [bullet, ""]
     path.write_text("\n".join(lines), encoding="utf-8")
+
+
+_CLAIM_LINK = re.compile(r"\]\(\.\./claims/[^)#\s]+\.md")
+
+
+def cites_claim(path: Path) -> bool:
+    return bool(_CLAIM_LINK.search(path.read_text(encoding="utf-8")))
 
 
 def links_to(path: Path, dst: str) -> bool:
@@ -326,6 +346,80 @@ def write(src: str, dst: str, rel: str, marker: str, pages: dict, titles: dict) 
     return True
 
 
+VERIFY_PROMPT = """A learning-design wiki links design pages to claims as their evidence. A second
+model proposed this link; decide whether it should be written.
+
+DESIGN PAGE [{kind}]: {ptitle}
+{pdesc}
+
+CLAIM: {ctitle}
+{cevidence}
+{csub}
+
+PROPOSED: marker "{marker}" ({direction}).
+
+Keep it only if the claim is DIRECTLY about this page's practice, component or idea, so that a designer
+citing it for this page would be justified, and the direction is right. Reject a claim that merely shares
+a topic, a population or a word with the page, or that would need an extra inferential step.
+Reply: {{"keep": true/false, "direction_ok": true/false, "why": "one clause"}}"""
+
+
+def _desc_section(path: Path) -> str:
+    body = path.read_text(encoding="utf-8").split("\n---\n", 1)[-1]
+    m = re.search(r"^## Description\s*\n(.+?)(?=^## |\Z)", body, re.M | re.S)
+    return re.sub(r"\s+", " ", m.group(1)).strip()[:700] if m else ""
+
+
+def verify(results: list, model: str, concurrency: int, out: Path) -> list:
+    """A second model's read of every proposed evidence link (see VERIFY_PROMPT). GLM
+    proposed links at about 30% tenuous on a 14-link spot check (a Flynn-effect claim
+    for gifted education, wait time for culturally responsive norms), too loose to write
+    unread; only links the verifier keeps, with the direction confirmed, survive."""
+    from scripts.eval import openrouter_client as oc
+    from scripts.eval.jsonutil import extract_json
+    key = os.environ.get("OPENROUTER_API_KEY") or sys.exit("OPENROUTER_API_KEY is not set")
+    pages = all_pages()
+    recs = {}
+
+    def rec(k):
+        if k not in recs:
+            recs[k] = record(k, pages[k])
+        return recs[k]
+
+    def one(page, link):
+        p, c = rec(page), rec(link["target"])
+        sub = next((l for l in pages[link["target"]].read_text(encoding="utf-8").split("\n")
+                    if re.match(r"^`q[\d?]", l)), "")
+        prompt = VERIFY_PROMPT.format(kind=KIND[p["folder"]], ptitle=p["title"],
+                                      pdesc=(p["description"] + " " + _desc_section(pages[page]))[:900],
+                                      ctitle=c["title"], cevidence="Evidence: " + (c["evidence"] or "none recorded"),
+                                      csub=("Subclaim: " + sub[:300]) if sub else "", marker=link["marker"],
+                                      direction={"+": "supports the page", "~": "depends on conditions",
+                                                 "-": "counts against the page"}[link["marker"][0]])
+        gen = oc.generate(model, SYSTEM, prompt, key, max_tokens=800)
+        d = extract_json(gen.raw_text)
+        return {"page": page, **link, "keep": bool(d.get("keep")) and bool(d.get("direction_ok")),
+                "why": d.get("why"), "cost_usd": gen.cost_usd}
+
+    todo = [(r["page"], l) for r in results for l in r.get("links") or [] if l["relation"] == "evidence"]
+    kept, cost = collections.defaultdict(list), 0.0
+    out.parent.mkdir(parents=True, exist_ok=True)
+    with out.open("w", encoding="utf-8") as fh, concurrent.futures.ThreadPoolExecutor(concurrency) as ex:
+        for f in concurrent.futures.as_completed([ex.submit(one, p, l) for p, l in todo]):
+            try:
+                v = f.result()
+            except Exception as e:
+                print("  verify error:", str(e)[:120])
+                continue
+            fh.write(json.dumps(v) + "\n")
+            cost += v.get("cost_usd") or 0
+            if v["keep"]:
+                kept[v["page"]].append({k: v[k] for k in ("target", "relation", "marker")})
+    print(f"verified {len(todo)} proposed evidence links: kept {sum(len(v) for v in kept.values())}, "
+          f"cost ${cost:.4f}; decisions -> {out}")
+    return [{"page": p, "links": ls} for p, ls in kept.items()]
+
+
 def apply(results: list) -> dict:
     pages = all_pages()
     titles = {}
@@ -356,8 +450,13 @@ def main() -> None:
     src.add_argument("--new", action="store_true", help="non-claim pages added in the working tree")
     src.add_argument("--pages", nargs="+", help="these <folder>/<slug> keys")
     src.add_argument("--from", dest="from_file", help="apply a previous run's decisions without re-asking")
+    src.add_argument("--claims-for", nargs="+", metavar="FOLDER",
+                     help="pages in these folders that cite no claim, shown claims only (evidence links)")
     ap.add_argument("--out", default=None)
     ap.add_argument("--apply", action="store_true")
+    ap.add_argument("--verify", action="store_true",
+                    help="have a second model confirm each evidence link before --apply writes it")
+    ap.add_argument("--verify-model", default="openai/gpt-5.6-luna")
     ap.add_argument("--model", default="z-ai/glm-5.3-flash")
     ap.add_argument("--concurrency", type=int, default=16)
     args = ap.parse_args()
@@ -365,7 +464,12 @@ def main() -> None:
     if args.from_file:
         results = [json.loads(l) for l in Path(args.from_file).read_text(encoding="utf-8").splitlines() if l.strip()]
     else:
-        if args.unlinked:
+        folder = None
+        if args.claims_for:
+            pages = all_pages()
+            keys = [k for k in pages if k.split("/")[0] in args.claims_for and not cites_claim(pages[k])]
+            folder = "claims"
+        elif args.unlinked:
             pages = all_pages()
             keys = outside_main(pages, link_graph(pages))
         else:
@@ -373,14 +477,17 @@ def main() -> None:
         if not keys:
             print("no pages to link")
             return
-        mode = "unlinked" if args.unlinked else "new" if args.new else "pages"
+        mode = "claims-for" if args.claims_for else "unlinked" if args.unlinked else "new" if args.new else "pages"
         out = Path(args.out) if args.out else WIKI_ROOT / "eval" / "runs" / "page-links" / f"{mode}.ndjson"
         print(f"linking {len(keys)} page(s) with {args.model}; decisions -> {out}", flush=True)
-        results = run(keys, out, args.model, args.concurrency)
+        results = run(keys, out, args.model, args.concurrency, folder=folder)
         print(f"asked {len(results)}, errors {sum(1 for r in results if r.get('error'))}, "
               f"cost ${sum(r.get('cost_usd') or 0 for r in results):.4f}")
     rels = collections.Counter(l["relation"] for r in results for l in r.get("links") or [])
     print("proposed:", dict(rels) or "nothing")
+    if args.verify:
+        vout = WIKI_ROOT / "eval" / "runs" / "page-links" / "verified.ndjson"
+        results = verify(results, args.verify_model, args.concurrency, vout)
     if args.apply:
         print("applied:", apply(results))
 

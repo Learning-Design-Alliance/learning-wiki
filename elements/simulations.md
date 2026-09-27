@@ -12,7 +12,7 @@ generated:
 # Simulations
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (4 for, 1 against) · 4 studies, `q2`–`q4` · 2 of 4 report an effect size · 5 claims rest on one study
 
 ## Description
 Simulations are the element in which learners engage with realistic, model-based scenarios that approximate authentic systems or environments.
@@ -22,6 +22,14 @@ Simulations are the element in which learners engage with realistic, model-based
 ### Affordances
 - [Simulations/Immersive Virtual Environments](../principles/simulations-immersive-virtual-environments.md)
 - [Experiential Learning](../principles/experiential-learning.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Simulation Based Education Improves Outcomes](../claims/simulation-based-education-improves-outcomes.md) [+M]
+- [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](../claims/contextualized-teaching-facilitates-transfer.md) [+W]
+- [Students recommend integrating computer-based simulation cases into each course to make learning more concrete](../claims/students-recommend-simulation-in-each-course.md) [+W]
+- [Students perceive computer-based simulation cases as lacking authenticity because behavioral modifications for young clients are absent](../claims/simucase-lacks-behavioral-authenticity.md) [-W]
+- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+W]
 
 ## Related Elements
 - [Scenario-Based Learning](scenario-based-learning.md)

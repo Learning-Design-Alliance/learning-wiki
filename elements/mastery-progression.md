@@ -51,6 +51,10 @@ Mastery gating strengthens retention and skill acquisition by ensuring learners 
 - [Assessment for Learning](../principles/assessment-for-learning.md) — gates function as frequent formative checkpoints that diagnose gaps rather than merely rank learners
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — by verifying automaticity of prerequisites, gating frees working memory for new material instead of forcing learners to juggle half-learned foundations with novel content
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Mastery Learning](mastery-learning.md) — the parent model; mastery progression is its sequencing mechanism
 - [Competency-Based Learning](competency-based-learning.md) — the broader framework in which advancement is tied to demonstrated competencies rather than credit hours

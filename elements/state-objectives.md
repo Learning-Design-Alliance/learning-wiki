@@ -12,7 +12,7 @@ generated:
 # State objectives
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 8 studies, `q3`–`q4` · 1 of 8 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 8 studies, `q2`–`q3` · 1 of 8 report an effect size · 2 claims rest on one study
 
 ## Description
 Stating objectives means explicitly communicating what learners should know or be able to do by the end of an instructional episode, before instruction begins. It functions as an advance signal of relevance and direction, orienting attention toward the features of the task that matter and setting a standard against which learners can monitor their own progress. Goal statements, though written for the teacher's own planning, are properly expressed from the learner's point of view: "learners will acquire the ability to construct a convincing argument" is a goal statement, while "the teacher will show students examples of logical arguments" is not, since it describes teacher action rather than what students will learn.
@@ -61,6 +61,10 @@ Stated objectives improve learning primarily by directing attention and supporti
 - [Advance Organizers](advance-organizers.md) — an objective statement acts as a minimal advance organizer, providing a structure into which upcoming content can be assimilated
 - [Clear Structure](../principles/clear-structure.md) — objectives are the opening move in making the shape of a lesson or course visible
 - [Understanding by Design](../processes/understanding-by-design.md) — UbD's Stage One prioritization is a structured way to decide which goals warrant the cognitive approach's enduring understandings versus more specific, behaviourally-stated objectives
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 

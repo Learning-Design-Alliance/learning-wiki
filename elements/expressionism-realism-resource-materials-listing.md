@@ -36,6 +36,10 @@ The guide includes an extensive compilation of resource materials supporting bot
 ### Target Learning Goals
 - supporting independent exploration of Realism, Expressionism, and related movements
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Annotated resource list of books, videos and websites on cognitive learning styles for ELT](cognitive-learning-styles-resource-list.md)

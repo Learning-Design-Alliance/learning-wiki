@@ -17,7 +17,7 @@ sources:
 # Peer Teacher Workshops (PTWs)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Peer Teacher Workshops were week-long, module-based professional development sessions, each "based on one of the curriculum modules used in the districts," designed to deepen teachers' science content understanding, knowledge of student misconceptions, and ability to use inquiry. Attendance in grade-level teams, school-year follow-up sessions, and district resource support made PTWs vehicles for building professional learning communities. Table 1 shows total enrollment of 2,598 across 141 PTWs from summer 1996 to 2001, with 1,921 individuals, and by 2002 over 80% of the roughly 800 K-8 teachers had participated.
@@ -38,6 +38,10 @@ Peer Teacher Workshops were week-long, module-based professional development ses
 - Deepen science and mathematics content knowledge
 - Use inquiry-centered curriculum modules effectively
 - Understand common student misconceptions
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Content familiarity, not teaching experience, predicted reform-based science teaching practice](../claims/content-familiarity-predicts-reform-practice-experience-does-not.md) [+W]
 
 ## Related Elements
 - 

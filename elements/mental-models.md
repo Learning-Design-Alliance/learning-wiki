@@ -50,6 +50,10 @@ Instruction is more durable when it helps learners construct a coherent causal m
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — external models (diagrams, simulations) hold the system's structure outside working memory so learners can attend to relationships rather than storage
 - [Cognitive Flexibility](../principles/cognitive-flexibility.md) — presenting the same model across multiple cases and representations prevents the model from being welded to a single context
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — provide the skeletal model before detailed content fills it in
 - [Analogies](analogies.md) — the mapping mechanism by which new models are built from known ones

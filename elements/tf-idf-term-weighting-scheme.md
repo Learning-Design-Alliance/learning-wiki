@@ -38,6 +38,10 @@ tf-idf is a composite weighting scheme from information retrieval that combines 
 - information retrieval
 - keyword selection
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

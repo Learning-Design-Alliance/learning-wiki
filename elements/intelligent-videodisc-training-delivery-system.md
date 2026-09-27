@@ -36,6 +36,10 @@ An intelligent videodisc system is a configuration in which a computer drives th
 ### Target Learning Goals
 - Interactive practice with feedback, scoring, record-keeping, simulations, and learner-controlled sequencing
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Videodisc authoring and production system (VAPS)](videodisc-authoring-production-system-vaps.md)

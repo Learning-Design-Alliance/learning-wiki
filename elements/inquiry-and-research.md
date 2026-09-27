@@ -12,7 +12,7 @@ generated:
 # Inquiry and Research
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 5 studies, `q3`–`q4` · 0 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 5 studies, `q2`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Inquiry and research place learners in the role of investigator: they pose or refine questions, gather and evaluate evidence, and build explanations from what they find. The element shifts the locus of knowledge construction from instructor to learner, with the instructor designing the question space, providing tools and [Scaffolding](scaffolding.md), and [Coaching](coaching.md) during the investigation.
@@ -49,6 +49,10 @@ Inquiry supports deep conceptual understanding and transfer when learners have e
 - [Constructivism](../principles/constructivism.md) — learners actively construct explanations from evidence rather than receiving them, enacting the constructivist account of knowledge building
 - [Active Learning](../principles/active-learning.md) — investigation requires learners to generate, evaluate, and revise ideas rather than passively receive them
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — research processes can be made visible through expert modeling of how investigators formulate and refine questions
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Inquiry-Based Exploration](inquiry-based-exploration.md) — the exploratory phase; inquiry and research adds systematic evidence gathering and evaluation

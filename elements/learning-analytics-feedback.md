@@ -46,6 +46,10 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Immediate Feedback](../principles/immediate-feedback.md)
 - [Mastery Learning](../principles/mastery-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Feedback](feedback.md)
 - [Immediate Feedback](immediate-feedback.md)

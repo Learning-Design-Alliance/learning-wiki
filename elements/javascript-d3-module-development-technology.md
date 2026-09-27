@@ -37,6 +37,10 @@ JavaScript is an interpreted scripting language whose functionality "will be fam
 ### Target Learning Goals
 - interactive visualization of astrophysical concepts
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Python with matplotlib as a module-development technology leveraging existing graduate research skills](python-matplotlib-module-development-technology.md)

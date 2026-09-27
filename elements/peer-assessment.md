@@ -17,7 +17,7 @@ sources:
 # Peer Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (5 for, 1 mixed) · 8 studies, `q2`–`q4` · 3 of 8 report an effect size · 3 claims rest on one study
 
 ## Description
 Peer assessment is the element in which learners evaluate the work or reasoning of peers against shared criteria. It is useful when the goal is both better feedback for the work and stronger learner judgment about quality.
@@ -37,6 +37,15 @@ Peer assessment is the element in which learners evaluate the work or reasoning 
 ### Affordances
 - [Peer Feedback/Peer Review](../principles/peer-feedbackpeer-review.md)
 - [Metacognition](../principles/metacognition.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Peer Feedback Improves Writing](../claims/peer-feedback-improves-writing.md) [+M]
+- [Peer Feedback Improves Work Quality](../claims/peer-feedback-improves-work-quality.md) [+M]
+- [Peer Assessment Improves Performance](../claims/peer-assessment-improves-performance.md) [+M]
+- [Rubrics Improve Peer Feedback Quality](../claims/rubrics-improve-peer-feedback-quality.md) [+M]
+- [Peer Assessment Benefits Assessor](../claims/peer-assessment-benefits-assessor.md) [+M]
+- [Peer Feedback Accuracy Depends On Expertise](../claims/peer-feedback-accuracy-depends-on-expertise.md) [~M]
 
 ## Related Elements
 - [Peer Review](peer-review.md)

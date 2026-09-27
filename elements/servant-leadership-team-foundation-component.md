@@ -17,7 +17,7 @@ sources:
 # Servant leadership component of the Team Learning Foundation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Servant leadership is the final component of the Team Learning Foundation, introduced through principles drawn from Hunter (2004). The article states: "Principles of servant leadership involve building community, commitment to the growth of their team members, stewardship, foresight, listening, empathy and healing, and foresight are introduced and discussed." The component helps students in leadership roles see themselves as responsible for teammates' growth rather than directing activities in an authoritarian way.
@@ -39,6 +39,12 @@ Servant leadership is the final component of the Team Learning Foundation, intro
 
 ### Affordances
 - [360 Team Learning Foundation Platform](../theories/360-team-learning-foundation-platform.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Servant leadership exhibits complementary partial mediation via self-efficacy, whereas transformational leadership shows a small indirect-only effect](../claims/servant-leadership-partial-mediation-transformational-indirect-only.md) [+W]
+- [Both transformational and servant leadership are negatively associated with workplace harassment among university teachers](../claims/transformational-servant-leadership-negatively-associated-workplace-harassment.md) [+W]
+- [Servant leadership shows the strongest effect on teacher self-efficacy, which in turn predicts life satisfaction](../claims/servant-leadership-strongest-effect-self-efficacy-predicts-satisfaction.md) [+W]
 
 ## Related Elements
 

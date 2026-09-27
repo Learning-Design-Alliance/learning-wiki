@@ -17,7 +17,7 @@ sources:
 # Vocabulary assistance embedded directly in the text
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Vocabulary help, such as pronunciation and glossing of difficult terms, embedded directly in the text as one of the enumerated aid types. The article reports that students "gave very high marks to the precis summaries, vocabulary helpers, mini-notes, and Reader Helper notes," so vocabulary helpers were among the most favorably rated aids by students in the study.
@@ -35,6 +35,10 @@ Vocabulary help, such as pronunciation and glossing of difficult terms, embedded
 
 ### Target Learning Goals
 - understanding of difficult vocabulary in content-area text
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Students do not appear to have great difficulty adjusting to a more 'busy' page when assistance and enrichment units are woven into textual material.](../claims/students-adjust-easily-to-busier-text-pages.md) [+W]
 
 ## Related Elements
 

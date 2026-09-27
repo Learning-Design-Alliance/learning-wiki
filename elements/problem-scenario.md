@@ -12,7 +12,7 @@ generated:
 # Problem Scenario
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 5 studies, `q2`–`q4` · 0 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 5 studies, `q2`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 A problem scenario places learners inside a structured, realistic situation — a business decision, a patient case, a design brief — that cannot be resolved without applying target knowledge. Unlike a [Case Study](case-study.md), which typically presents how a situation unfolded, a problem scenario is deliberately incomplete: learners must define the problem, gather or request information, and commit to decisions with consequences.
@@ -50,6 +50,10 @@ Problem scenarios support learning by giving knowledge a purpose and a context o
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — a *structured* scenario controls what information is available and when, letting designers release complexity gradually instead of exposing learners to the full messiness of reality at once
 - [Constructivism](../principles/constructivism.md) — scenarios create the conditions for learners to construct workable models through experience and feedback rather than transmission
 - [Collaborative Learning](../principles/collaborative-learning.md) — realistic problems are naturally too large for one perspective, making team roles and negotiated decisions authentic rather than artificial
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Case Study](case-study.md) — the retrospective sibling; cases show how a situation resolved, while problem scenarios ask learners to resolve it themselves

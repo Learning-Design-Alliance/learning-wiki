@@ -31,7 +31,7 @@ Validating culturally specific movement (e.g., krumping, stepping) as legitimate
 
 `q2 i1` During an improvisation in which each student embodied a sodium atom, students identified for themselves that their shared model could not represent a sodium-water reaction (since no one was embodying water) and collaboratively proposed a workaround, indicating the embodied model prompted genuine critical interrogation of its own limits rather than passive enactment. [→ Solomon et al. 2022](#solomon-et-al-2022)
 
-`q3 i3` Black girls received only 0.8% of physics bachelor's degrees nationally versus an 11% average across other subjects (CEOSE Report, 2017–2018), the systemic disparity motivating the intervention. [→ Solomon et al. 2022](#solomon-et-al-2022)
+`q2 i2` Black girls received only 0.8% of physics bachelor's degrees nationally versus an 11% average across other subjects (CEOSE Report, 2017–2018), the systemic disparity motivating the intervention. [→ Solomon et al. 2022](#solomon-et-al-2022)
 
 ## Evidence
 

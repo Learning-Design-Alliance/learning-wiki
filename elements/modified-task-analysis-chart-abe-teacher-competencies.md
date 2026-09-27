@@ -36,6 +36,10 @@ The project produced modified task analysis charts (Figure 2) detailing activiti
 ### Target Learning Goals
 - identifying the competencies ABE teachers need in testing, diagnosis, curriculum development, instruction, and counseling
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

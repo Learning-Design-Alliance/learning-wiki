@@ -36,6 +36,10 @@ The chapter describes two applied uses of the framework as tools. As an institut
 ### Target Learning Goals
 - aligning educational outcomes with industry AI and data literacy needs and tracking programmatic progress
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Talent Development Framework Excel-based data tool](tdf-excel-data-tool.md)

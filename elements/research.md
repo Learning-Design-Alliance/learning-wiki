@@ -12,7 +12,7 @@ generated:
 # Research
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies, `q2`–`q4` · 0 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies, `q2`–`q3` · 0 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Research as an instructional element places learners in the role of investigator: they pose or refine questions, gather and evaluate evidence, and construct defensible conclusions. It functions as an extended, learner-driven activity that develops both domain knowledge and the transferable practices of inquiry — searching, evaluating sources, analyzing data, and communicating findings.
@@ -50,6 +50,10 @@ Research tasks build analytical and information literacy skills by requiring lea
 - [Constructivism](../principles/constructivism.md) — learners actively construct knowledge from evidence they have gathered themselves, producing more durable and better-organized schemas than transmission alone
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — research tasks position learners in authentic disciplinary practice, with instructor coaching and articulation mirroring the apprenticeship cycle
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — framing research for a real audience (a report, poster, or proposal) raises task value and quality of effort
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Inquiry-Based Learning](inquiry-based-learning.md) — the broader pedagogical approach; research is its evidence-gathering core

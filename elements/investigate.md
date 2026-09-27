@@ -20,6 +20,10 @@ Investigate is the element in which learners collect information, examine eviden
 ## Affordances
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Guided Inquiry](guided-inquiry.md)
 - [Data Analysis](data-analysis.md)

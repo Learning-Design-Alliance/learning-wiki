@@ -17,7 +17,7 @@ sources:
 # Analogies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 1 of 2 report an effect size
 
 ## Description
 Analogies connect a new idea to a more familiar situation, structure, or experience so learners can reason about the unfamiliar in terms they already understand.
@@ -49,6 +49,10 @@ Analogies connect a new idea to a more familiar situation, structure, or experie
 - Makes abstraction more approachable
 - Supports comprehension and retention through meaningful comparison
 - Helps instructors expose structure, not just vocabulary
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Analogical Reasoning Improves Transfer](../claims/analogical-reasoning-improves-transfer.md) [+M]
 
 ## Related Elements
 - [Analogies and Prior Knowledge Activation](analogies-and-prior-knowledge-activation.md)

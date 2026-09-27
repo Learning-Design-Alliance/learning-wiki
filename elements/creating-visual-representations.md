@@ -12,7 +12,7 @@ generated:
 # Creating Visual Representations
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2` · 1 of 2 report an effect size
 
 ## Description
 Creating visual representations is the element in which learners externalize understanding through diagrams, sketches, models, or other visuals.
@@ -22,6 +22,10 @@ Creating visual representations is the element in which learners externalize und
 ### Affordances
 - [Creating Visual Representations](../principles/creating-visual-representations.md)
 - [Dual Coding](../principles/dual-coding.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Multiple representations improve learning](../claims/multiple-representations-improve-learning.md) [+M]
 
 ## Related Elements
 - [Graphic Organizers](graphic-organizers.md)

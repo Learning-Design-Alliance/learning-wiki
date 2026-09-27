@@ -50,6 +50,10 @@ Well-specified goals improve achievement by directing learner attention to what 
 - [Advance Organizers](../elements/advance-organizers.md) — a goal statement functions as a minimalist organizer, giving learners a schema for incoming content [Advance organizers improve learning.](../claims/advance-organizers-improve-learning.md) [+M]
 - [Activation](../principles/activation.md) — presenting goals before instruction primes learners to notice goal-relevant information and connect it to prior knowledge [Activation improves learning.](../claims/activation-improves-learning.md) [+M]
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Assessment](assessment.md) — the instrument that verifies whether goals were met; misalignment here invalidates the goal structure

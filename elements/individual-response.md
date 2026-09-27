@@ -12,7 +12,7 @@ generated:
 # Individual Response
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 9 studies, `q3`–`q4` · 1 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 9 studies, `q2`–`q4` · 1 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 Individual Response asks learners to commit to an answer or solution on their own before any group discussion or peer comparison occurs. It functions as the private, first-draft phase of interactive instruction — the moment when each learner must retrieve, reason, and take a position without being able to defer to others.
@@ -47,6 +47,10 @@ Requiring an independent answer before discussion converts passive listening int
 - [Active Learning](../principles/active-learning.md) — individual response is the minimal unit of active learning: every learner produces an answer rather than observing one
 - [Cognitive Load Theory](../principles/cognitive-load-theory.md) — a single well-scoped question focuses working memory on one retrieval or reasoning operation, unlike open-ended tasks
 - [Assessment for Learning](../principles/assessment-for-learning.md) — the response distribution gives the instructor real-time evidence of understanding to adapt instruction
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Peer Instruction](peer-instruction.md) — individual response is the mandatory first phase; without it, peer discussion degenerates into answer-sharing

@@ -17,7 +17,7 @@ sources:
 # Pigelleto's Summer School of Physics: a full-immersion orientation program for high-school students
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The Pigelleto's Summer School of Physics is a four-day full-immersion residential school held in a natural reserve since 2006, oriented toward physics. About forty students "selected by their teachers in a wide network of schools" engage in lectures, laboratories and presentations on topics "rarely pursued in high school, i.e. quantum mechanics, new materials, energy resources". It also serves as a training opportunity for younger teachers.
@@ -36,6 +36,11 @@ The Pigelleto's Summer School of Physics is a four-day full-immersion residentia
 ### Target Learning Goals
 - orientation toward physics degrees
 - scientific method and laboratory experience
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Applications to the summer school increased up to double the available positions, which the authors attribute to its active and cooperative learning](../claims/pigelleto-applications-doubled-positions.md) [+W]
+- [Student oral presentations of laboratory results became the central activity stimulating active and cooperative learning](../claims/student-lab-presentations-central-activity.md) [+W]
 
 ## Related Elements
 

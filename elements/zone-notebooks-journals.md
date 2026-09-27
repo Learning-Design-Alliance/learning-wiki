@@ -38,6 +38,10 @@ Zone Notebooks are learner-maintained journals built into the curriculum. "Scatt
 - reflection on inquiry experiences
 - communication of learning to others
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Holding onto the GREEN Zone curriculum: an Earth Science riparian education program for grades 5-8](holding-onto-green-zone-curriculum.md)

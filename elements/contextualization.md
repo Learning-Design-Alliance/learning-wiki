@@ -12,7 +12,7 @@ generated:
 # Contextualization
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Contextualization is the element in which new ideas, texts, or tasks are framed within a meaningful situation, purpose, domain, or prior experience. It is useful when learners need to understand why something matters before they can engage with it deeply.
@@ -33,6 +33,10 @@ Contextualization is the element in which new ideas, texts, or tasks are framed 
 - [Activation](../principles/activation.md)
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)
 - [Constructivist Learning](../principles/constructivist-learning.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](../claims/pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) [+W]
 
 ## Related Elements
 - [Prior Knowledge Activation](prior-knowledge-activation.md)

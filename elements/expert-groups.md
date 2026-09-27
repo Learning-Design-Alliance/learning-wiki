@@ -12,7 +12,7 @@ generated:
 # Expert Groups
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies, `q3`–`q4` · 0 of 9 report an effect size
+> **Evidence** · 3 claims (3 for) · 9 studies, `q2`–`q4` · 0 of 9 report an effect size
 
 ## Description
 Expert groups are a cooperative structure in which learners first work in same-topic groups to master one segment of a topic, then return to heterogeneous groups to teach their segment to peers. Each learner becomes the sole source of a piece of knowledge, making the group's success depend on every member's contribution. The structure is the core mechanism of the Jigsaw classroom and related collaborative inquiry formats.
@@ -48,6 +48,10 @@ Expert groups promote deep processing because preparing to teach forces learners
 - [Collaborative Learning](../principles/collaborative-learning.md) — expert groups enact this principle by structuring positive interdependence: no learner can complete the task alone, so cooperation is built into the task rather than requested
 - [Constructivism](../principles/constructivism.md) — learners actively construct understanding by reorganizing source material into teachable form, consistent with social constructivist accounts of knowledge building through explanation
 - Distributed cognition — the structure distributes a knowledge domain across group members, so the group collectively knows more than any individual, and learning requires integrating distributed pieces
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Collaboration](collaboration.md) — the general element expert groups formalize with role-based expertise

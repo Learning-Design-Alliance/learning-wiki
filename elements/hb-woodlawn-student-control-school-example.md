@@ -36,6 +36,10 @@ The article presents H-B Woodlawn Secondary School in Arlington, Virginia, start
 ### Target Learning Goals
 - Student self-direction and shared governance of the learning environment
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [The League for Innovation's Learning College movement as community-college reform toward learning-centeredness](learning-college-league-innovation-reform.md)

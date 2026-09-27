@@ -12,7 +12,7 @@ generated:
 # Automaticity
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 0 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q3` · 0 of 5 report an effect size
 
 ## Description
 Automaticity is the state in which a component skill — decoding words, retrieving math facts, typing, parsing syntax — executes quickly, accurately, and with little conscious effort. It develops through repeated, spaced, and increasingly varied practice after initial accuracy is achieved. Its instructional significance lies in what it *releases*: when lower-level processes run without deliberate attention, working memory is available for comprehension, problem-solving, and composition.
@@ -49,6 +49,10 @@ Automaticity of component skills is a precondition for complex performance: read
 - [Chunking](../principles/chunking.md) — automaticity develops as sequences of actions or symbols become consolidated into single retrievable chunks, which is the mechanism by which practice reduces processing cost
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — CLT treats automation of schemas as one of the two primary ways (alongside schema construction) to reduce working-memory burden
 - [Information Processing Theory](../theories/information-processing-theory.md) — automaticity corresponds to the shift from controlled to automatic processing, the theoretical basis for why practiced skills no longer compete for attention
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Practice](practice.md) — the mechanism by which automaticity develops; automaticity is the *goal state* of well-designed practice

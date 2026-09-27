@@ -39,6 +39,10 @@ Ontogenic analysis is the description of how a subject or a set of classes chang
 ### Affordances
 - [Three Time Metaphors Knowledge Organization Systems](../theories/three-time-metaphors-knowledge-organization-systems.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

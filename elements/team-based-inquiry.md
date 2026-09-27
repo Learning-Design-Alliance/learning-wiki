@@ -54,6 +54,10 @@ Structured team inquiry improves achievement and peer interaction quality compar
 - [Active Learning](../principles/active-learning.md) — students generate, argue, and revise ideas rather than receiving them, which is the mechanism behind the achievement gains documented for active learning [+S]
 - [Assessment for Learning](../principles/assessment-for-learning.md) — team reporting and reflection cycles give frequent low-stakes feedback on both content and process
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Collaborative Learning](collaborative-learning.md) — the broader category; team-based inquiry adds the inquiry task structure

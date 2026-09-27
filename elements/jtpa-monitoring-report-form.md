@@ -36,6 +36,10 @@ A summary reporting form mirroring the 28 instrument items, with spaces for the 
 ### Target Learning Goals
 - Documenting and communicating program compliance findings to the state office
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [JTPA self-monitoring instrument with 28 rated compliance indicators](jtpa-self-monitoring-instrument.md)

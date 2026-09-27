@@ -51,6 +51,10 @@ Listening comprehension and reading comprehension draw on shared language proces
 - [Dual Coding Theory](../theories/dual-coding-theory.md) — pairing audio narration with text or images creates two memory traces; audio-plus-text ("ear reading" with "eye reading") can outperform either alone for struggling readers [+W]
 - [Accessible Vocabulary & Syntax](../principles/accessible-vocabulary-syntax.md) — professional narration supplies pronunciation and prosodic cues that clarify syntax for learners below the text's independent reading level
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Assigned Readings](assigned-readings.md) — audiobooks are an alternative delivery format for the same content
 - [Annotating](../principles/annotating.md) — requires a text layer; audio-plus-text editions enable both

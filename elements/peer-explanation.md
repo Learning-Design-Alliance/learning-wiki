@@ -25,7 +25,7 @@ sources:
 # Peer Explanation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 Peer explanation asks learners to verbalize their reasoning, solution methods, or conceptual understanding to a classmate. The act of articulating forces learners to reconstruct, organize, and monitor their own understanding, while the listener's questions expose gaps the explainer did not know they had.
@@ -62,6 +62,10 @@ Peer explanation converts passive comprehension into generative processing: expl
 - [Active Learning](../principles/active-learning.md) — explanation is a generative activity that requires constructing output rather than receiving input, replacing listening time with meaning-making time
 - [Constructivism](../principles/constructivism.md) — verbalizing forces learners to rebuild knowledge in their own words, revealing and resolving inconsistencies between their mental model and the target concept
 - [Metacognition](../principles/metacognition.md) — the anticipation of explaining to a peer prompts self-monitoring during initial study, not just afterward
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Articulation](articulation.md) — the broader element of making thinking explicit; peer explanation is its social form

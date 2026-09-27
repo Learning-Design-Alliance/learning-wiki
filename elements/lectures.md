@@ -12,7 +12,7 @@ generated:
 # Lectures
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q4` · 1 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q3` · 1 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 A lecture is an instructor-led presentation that delivers content in a structured, sequenced format to a group of learners. It functions as an efficient means of transmitting foundational knowledge — explaining concepts, modeling reasoning, and organizing material — but its effectiveness depends on how attention is managed and how actively learners process the presented content.
@@ -50,6 +50,10 @@ Lectures can efficiently build foundational knowledge when content is well-organ
 - [Cognitive Load Theory](../principles/cognitive-load-theory.md) — a well-designed lecture manages load by sequencing content, segmenting delivery, and coordinating narration with visuals
 - [Clear Structure](../principles/clear-structure-presentation.md) — lectures impose an expert-authored organization on material, giving learners a coherent schema for otherwise disconnected facts
 - [Advance Organizers](../principles/clear-structure-presentation.md) — the opening of a lecture can supply the framework into which subsequent detail is assimilated
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Assigned Readings](assigned-readings.md) — pre-lecture readings free lecture time for explanation and application rather than first exposure

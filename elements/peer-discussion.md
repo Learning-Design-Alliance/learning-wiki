@@ -29,7 +29,7 @@ sources:
 # Peer Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 Peer discussion places learners in structured conversation with classmates to articulate, defend, and revise their understanding of ideas. It converts passive reception into generative processing: learners must externalize reasoning, encounter alternative interpretations, and resolve discrepancies between their thinking and others'.
@@ -67,6 +67,10 @@ Peer discussion improves conceptual understanding because verbalizing reasoning 
 - [Active Learning](../principles/active-learning.md) — discussion replaces listening with generating, predicting, and defending, which produces deeper processing than reception
 - [Cognitive Activation](../principles/cognitive-activation.md) — well-designed discussion prompts ask learners to justify, contrast, and evaluate rather than recall, triggering elaborative processing
 - [Constructivism](../principles/constructivism.md) — learners actively build understanding by reconciling their existing conceptions with peers' alternative framings rather than receiving expert knowledge wholesale
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Class Discussion](class-discussion.md) — the whole-group variant; peer discussion is typically nested inside it as a think stage

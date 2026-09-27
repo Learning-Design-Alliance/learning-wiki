@@ -50,6 +50,10 @@ Progressive disclosure manages intrinsic load by preventing the simultaneous pre
 - [Clear Structure](../principles/clear-structure.md) — a staged reveal gives the material an explicit, predictable shape, which learners can use to orient themselves and anticipate what comes next
 - [Scaffolding](../principles/scaffolding.md) — hidden detail is temporary support; the design question is when to fade it, mirroring the fading of worked-example steps
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — provide the overview that staged disclosure otherwise hides, preventing disorientation
 - [Fading](fading.md) — the mechanism for removing staged support as competence grows

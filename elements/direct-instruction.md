@@ -12,7 +12,7 @@ generated:
 # Direct instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies, `q2`–`q4` · 0 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies, `q2`–`q3` · 0 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Direct instruction presents new content through explicit explanations, lectures, or demonstrations, with the instructor structuring the sequence of examples, practice, and feedback. It makes the target knowledge and procedures overt rather than leaving learners to discover them, and typically follows a model–guide–test progression from full support to independent performance.
@@ -49,6 +49,10 @@ Direct instruction reduces unguided search during initial learning, which is whe
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — by sequencing and segmenting content, direct instruction prevents learners from expending working memory on unguided search and on integrating scattered information
 - [Clear Structure](../principles/clear-structure.md) — explicit signaling of goals, steps, and success criteria orients attention and supports schema formation
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — the evidence base for direct instruction's advantage over minimal guidance for novices
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Explicit Teaching](explicit-teaching.md) — the closely aligned element emphasizing teacher-led explanation and modeling

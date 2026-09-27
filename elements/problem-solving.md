@@ -12,7 +12,7 @@ generated:
 # Problem Solving
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 6 studies, `q1`–`q4` · 2 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 Problem solving is the element in which learners identify, analyze, and respond to a challenge by generating and evaluating possible solutions. It is useful when the instructional goal is not only recall, but reasoned action in the face of constraints.
@@ -32,6 +32,13 @@ Problem solving is the element in which learners identify, analyze, and respond 
 ### Affordances
 - [Problem-based Learning](../principles/problem-based-learning.md)
 - [Cognitive Activation](../principles/cognitive-activation.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.](../claims/functional-fixedness-limits-problem-solving.md) [+M]
+- [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [+W]
+- [A Flexible problem-solving approach within a Fixed-Cooperative course appeared to support cooperative learning](../claims/flexible-problem-solving-supports-cooperative-learning.md) [+W]
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+W]
 
 ## Related Elements
 - [Solution Development](solution-development.md)

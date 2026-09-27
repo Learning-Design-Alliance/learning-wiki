@@ -37,6 +37,10 @@ The article curates existing measurement instruments (Table 2) organized by what
 ### Target Learning Goals
 - Measuring humanlikeness, trait and state anthropomorphism, and related constructs in empirical studies
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

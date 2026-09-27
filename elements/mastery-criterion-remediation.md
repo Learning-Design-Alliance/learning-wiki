@@ -36,6 +36,10 @@ A mastery criterion is a single criterion — such as a specified number of corr
 ### Target Learning Goals
 - demonstrating mastery of defined objectives
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Grading By Contract Fricke](../patterns/grading-by-contract-fricke.md)
 

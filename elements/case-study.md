@@ -52,6 +52,10 @@ Case studies situate abstract concepts in a concrete, messy context, which suppo
 - [Active Learning](../principles/active-learning.md) — case analysis requires decision-making and justification, not reception
 - [Collaborative Learning](../principles/collaborative-learning.md) — cases are naturally discussed in groups, where divergent readings of the same facts surface assumptions and sharpen argumentation
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Scenario-Based Learning](scenario-based-learning.md) — broader family of simulated contexts; a case study is a text- or narrative-based scenario with analysis as the task
 - [Problem-Based Learning](problem-based-learning.md) — cases drive the entire curriculum and learners identify what they need to learn, rather than applying already-taught concepts

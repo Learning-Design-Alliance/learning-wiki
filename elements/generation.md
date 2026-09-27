@@ -12,7 +12,7 @@ generated:
 # Generation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 3 studies, `q3`–`q4` · 1 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Generation asks learners to actively produce content — completing a missing word, stating a rule, drawing a diagram, or answering a question before seeing the answer — instead of passively reading the same material. The act of constructing the response, even an incorrect one, creates richer encoding than reception. It is the constructive counterpart to [Practice](practice.md): where practice strengthens retrieval of already-taught material, generation forces the learner to build the response before instruction confirms it.
@@ -48,6 +48,11 @@ Generation reliably improves retention of the generated material relative to rea
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — completion and cloze formats manage load by giving part of the structure and asking learners to generate only the remainder, fading toward full generation
 - [Annotating](../principles/annotating.md) — self-generated annotations, summaries, and margin notes are generation applied to text processing
 - [Activation](../principles/activation.md) — pretesting and prediction tasks are generation forms that activate prior knowledge and create readiness for corrective instruction
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Generation Effect Improves Retention](../claims/generation-effect-improves-retention.md) [+S]
+- [Generative processing improves learning](../claims/generative-processing-improves-learning.md) [+M]
 
 ## Related Elements
 - [Practice](practice.md) — generation often precedes practice; practice then consolidates what generation constructed

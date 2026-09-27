@@ -29,7 +29,7 @@ Organizing an interdisciplinary Course-Based Research Experience around a shared
 
 `q2 i2` Course participation connected students to authentic external research networks: of the 95 students who completed a paper, 37 listed a coauthor, and 85 of the resulting 95 coauthor relationships (89%) were with people outside the course, including practicing scientists. [→ Papendieck & Clarke 2024](#papendieck-clarke-2024)
 
-`q1-q2 i2` Students facing unresolved disciplinary disagreements about what a "good paper" looks like used distinct coping tactics rather than converging on one shared norm — e.g., writing separate papers for the class versus for an external disciplinary advisor ("separation"), or reframing disciplinary differences as minor, quantifiable rubric variations ("domestication"). [→ Papendieck & Clarke 2024](#papendieck-clarke-2024)
+`q2-q2 i2` Students facing unresolved disciplinary disagreements about what a "good paper" looks like used distinct coping tactics rather than converging on one shared norm — e.g., writing separate papers for the class versus for an external disciplinary advisor ("separation"), or reframing disciplinary differences as minor, quantifiable rubric variations ("domestication"). [→ Papendieck & Clarke 2024](#papendieck-clarke-2024)
 
 ## Evidence
 

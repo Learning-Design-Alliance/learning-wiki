@@ -36,6 +36,10 @@ Part III's Publisher Directory (Section 11) opens with the Association of Americ
 ### Target Learning Goals
 - Identifying publishers and materials sensitive to the treatment of minorities and females
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Fair Textbooks: A Resource Guide, a centralized catalog of bias-free education resources](fair-textbooks-resource-guide-catalog.md)

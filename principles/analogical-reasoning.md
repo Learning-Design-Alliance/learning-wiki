@@ -21,7 +21,7 @@ sources:
 # Analogical Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 7 studies, `q2`–`q4` · 0 of 7 report an effect size
+> **Evidence** · 3 claims (1 for, 2 mixed) · 7 studies, `q2`–`q3` · 0 of 7 report an effect size
 
 ## Description
 Analogical reasoning is the principle of using relational similarity between a familiar case and a new case to support understanding, inference, and transfer. It is useful when the surface details differ but the underlying structure is similar enough to guide thinking.

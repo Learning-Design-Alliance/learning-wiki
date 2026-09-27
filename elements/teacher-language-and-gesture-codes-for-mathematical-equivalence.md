@@ -39,6 +39,10 @@ A coding scheme with four language codes (ISA, "is the same as"; DEF, definition
 - A relational understanding of the equal sign as indicating the equivalence of two amounts
 - Acceptance of equations in forms other than a + b = c
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Gestures](../strategies/gestures.md)
 - [Multimodal Instruction](../principles/multimodal-instruction.md)

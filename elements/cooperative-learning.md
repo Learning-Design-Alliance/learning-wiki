@@ -51,6 +51,10 @@ Cooperative learning reliably improves achievement when group goals and individu
 - [Assessment for Learning](../principles/assessment-for-learning.md) — individual accountability checks make each learner's mastery visible to the group and teacher, feeding back into team support
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — distributing subtasks across members lets the group tackle problems no individual could hold in working memory alone, provided the task is genuinely divisible and interdependent
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Coaching](coaching.md) — the teacher's role shifts to monitoring groups and intervening at the process level
 - [Class Discussion](class-discussion.md) — whole-class debrief after group work consolidates and corrects group conclusions

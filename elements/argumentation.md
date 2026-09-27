@@ -12,7 +12,7 @@ generated:
 # Argumentation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 Argumentation asks learners to construct, defend, and critique claims using evidence and reasoning, rather than simply stating conclusions. It functions both as a learning activity and as a target skill: engaging in argument makes disciplinary norms of justification visible while deepening conceptual understanding through the need to justify and rebut [Engaging in argumentation improves conceptual understanding by requiring learners to articulate and defend reasoning.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
@@ -49,6 +49,10 @@ Argumentation supports learning by requiring learners to coordinate evidence wit
 - [Cognitive Activation](../principles/cognitive-activation.md) — contestable questions and required rebuttals provoke elaboration and deep processing beyond recall
 - [Collaborative Learning](../principles/collaborative-learning.md) — structured argumentation with peers exposes learners to alternative reasoning they must engage with, not merely tolerate
 - [Perspective-Taking](../principles/perspective-taking.md) — constructing a rebuttal requires genuinely modeling the opposing position, which supports more nuanced understanding of the issue space
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Debate](debate.md) — a formalized, adversarial format for argumentation with assigned positions and timed turns

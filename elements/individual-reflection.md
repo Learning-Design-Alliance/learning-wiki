@@ -12,7 +12,7 @@ generated:
 # Individual Reflection
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q3`–`q4` · 0 of 6 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q2`–`q3` · 0 of 6 report an effect size
 
 ## Description
 Individual reflection asks learners to step back from a task or experience and deliberately analyze their own thinking, decisions, and learning progress. It converts experience into articulated insight — learners examine *what* they did, *why* it worked or failed, and *what* to change next time — rather than simply moving on to the next activity.
@@ -50,6 +50,10 @@ Reflection works because it forces self-explanation: articulating one's reasonin
 - [Metacognition](../principles/metacognition.md) — structured reflection makes learners' own thinking the object of analysis, developing the monitoring and evaluation skills this principle targets
 - [Self-Regulated Learning](../principles/self-regulated-learning.md) — the reflect-then-adjust cycle is the self-regulation loop in miniature; reflection supplies the monitoring and evaluation phases
 - [Assessment for Learning](../principles/assessment-for-learning.md) — reflection gives learners evidence about their own progress, feeding self-assessment and goal-setting rather than external judgment
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Journaling](journaling.md) — the most common vehicle for individual reflection; sustained written reflection over time

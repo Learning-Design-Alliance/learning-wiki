@@ -33,6 +33,10 @@ Literature review is the element in which learners gather, evaluate, and synthes
 - [Evaluating Sources](../principles/evaluating-sources.md)
 - [Epistemic Cognition](../principles/epistemic-cognition.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Research](research.md)
 - [Information Literacy](information-literacy.md)

@@ -49,6 +49,10 @@ Portfolios support learning primarily by requiring learners to review, evaluate,
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — a portfolio is assembled *for someone* (a committee, employer, exhibition), which gives curation and polish an authentic rhetorical purpose beyond the grade
 - [Competency-Based Assessment](../principles/competency-based-assessment.md) — portfolios allow demonstration of competence through multiple, varied artifacts over time rather than a single snapshot, accommodating different pathways to the same standard
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Assessment](assessment.md) — portfolios are one assessment format; they need rubrics and scoring procedures to function as evaluation
 - [Coaching](coaching.md) — instructor or mentor feedback on portfolio drafts sustains the iterative improvement the format is designed to capture

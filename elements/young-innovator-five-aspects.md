@@ -39,6 +39,10 @@ The article synthesizes desired characteristics of young innovators from seven p
 ### Affordances
 - [Constructionism Imagineering Learning Model Metaverse](../theories/constructionism-imagineering-learning-model-metaverse.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

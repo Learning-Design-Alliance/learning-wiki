@@ -17,7 +17,7 @@ sources:
 # Scientific Reasoning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 7 claims (6 for, 1 mixed) · 6 studies, `q1`–`q3` · 3 of 6 report an effect size · 6 claims rest on one study
 
 ## Description
 Scientific reasoning is the element in which learners generate explanations, evaluate evidence, test claims, and revise models using disciplinary norms of inquiry. It is useful when understanding depends on explanation and evidence, not memorization alone.
@@ -38,6 +38,16 @@ Scientific reasoning is the element in which learners generate explanations, eva
 ### Affordances
 - [Epistemic Cognition](../principles/epistemic-cognition.md)
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Critical science education requires explicit attention to philosophy of science and rival theories](../claims/critical-science-education-philosophy-of-science.md) [+W]
+- [Argumentation Improves Reasoning](../claims/argumentation-improves-reasoning.md) [+M]
+- [Preliminary explicit instruction in scientific reasoning patterns (e.g., IAT statement construction) produced much larger LCTSR gains (g = 0.68) than courses without such intervention (g = 0.11)](../claims/explicit-reasoning-instruction-preliminary-large-gains.md) [+W]
+- [Forestructures of understanding are associated with the majority of several key authentic inquiry features, up to 100% for complex transformation of observation and developing theories about mechanisms](../claims/forestructures-associated-authentic-features.md) [+W]
+- [The abductive method is the logical reasoning method most associated with features of authentic scientific inquiry in the curriculum](../claims/abductive-method-associated-authentic-inquiry.md) [+W]
+- [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](../claims/argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) [+W]
+- [Holt Earth Science inquiry tasks emphasize making multiple observations and developing theories about mechanisms but omit several authentic scientific inquiry features](../claims/holt-earth-science-missing-authentic-inquiry-features.md) [~W]
 
 ## Related Elements
 - [Model Revision](model-revision.md)

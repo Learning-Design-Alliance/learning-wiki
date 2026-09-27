@@ -25,7 +25,7 @@ sources:
 # Procedural Information
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 10 studies, `q2`–`q4` · 0 of 10 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (5 for, 2 mixed) · 10 studies, `q2`–`q3` · 0 of 10 report an effect size · 3 claims rest on one study
 
 ## Description
 Procedural information provides step-by-step instructions — "how-to" guidance — that supports learners in performing the recurrent, algorithmic components of a task. In [Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) it is one of two forms of supportive information, presented *just in time* during task performance rather than up front, so that learners can act while consulting the steps rather than memorizing them first.
@@ -61,6 +61,10 @@ Procedural information reduces the working-memory burden of executing routine ta
 - [Scaffolding](../principles/scaffolding.md) — procedural information is a scaffold by design: it supports performance the learner cannot yet sustain alone and must be faded as steps automate
 - [Worked Examples](../principles/worked-examples.md) — a worked example embeds procedural information in a demonstration; the annotated steps of the example *are* the procedure made visible [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]
 - [Chunking](../principles/chunking.md) — effective procedural information groups steps into meaningful, ordered chunks matching the learner's processing capacity [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Worked Examples](worked-examples.md) — procedural information instantiated in a fully worked demonstration

@@ -12,7 +12,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 7 studies, `q2`–`q4` · 4 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
@@ -49,6 +49,14 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — successful retrieval consolidates information so it no longer competes for working memory, freeing capacity for harder material
 - [Spacing and Distributed Practice](../principles/spaced-practice.md) — tests are natural spacing events; scheduling retrieval at expanding intervals compounds the testing effect
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — self-testing gives learners accurate feedback on their own state of knowledge, driving better study decisions
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
+- [Retrieval Practice Improves Long Term Retention](../claims/retrieval-practice-improves-long-term-retention.md) [+S]
+- [Repeatedly recalling a text without feedback or rereading produces the best one-week retention, while repeated studying leads on a final test at the end of the session](../claims/repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes.md) [+M]
+- [Learners Misjudge Retrieval Benefit](../claims/learners-misjudge-retrieval-benefit.md) [+M]
+- [Spaced Retrieval Improves Retention](../claims/spaced-retrieval-improves-retention.md) [+M]
 
 ## Related Elements
 - [Practice](practice.md) — practice testing is the memory-focused subset of practice; both depend on active production rather than review

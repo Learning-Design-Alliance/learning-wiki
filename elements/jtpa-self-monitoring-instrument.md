@@ -36,6 +36,10 @@ A rating instrument accompanying the guide on which each compliance item is scor
 ### Target Learning Goals
 - Determining regulatory compliance of local JTPA programs
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Monitoring Report form for submitting self-monitoring results to the state JTPA office](jtpa-monitoring-report-form.md)

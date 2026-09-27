@@ -17,7 +17,7 @@ sources:
 # Environmental Education Efficacy Belief Instrument (EEEBI)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The EEEBI is a 5-choice Likert-type instrument ranging from strongly agree to strongly disagree, developed patterned after the Science Teaching Efficacy Belief Instrument Form B (STEBI-B) of Enochs and Riggs (1990). It "contains 23 statements, 13 positively-written and 10 negatively-written," organized into a Personal EE Teaching Efficacy Belief Scale (13 items) and an EE Teaching Outcome Expectancy Scale (10 items). A full copy is included in the article, and four tables display results from administration to 40 preservice elementary teachers.
@@ -38,6 +38,10 @@ The EEEBI is a 5-choice Likert-type instrument ranging from strongly agree to st
 
 ### Affordances
 - [Belief Efficacy Self Efficacy Outcome Expectancy Ee](../theories/belief-efficacy-self-efficacy-outcome-expectancy-ee.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [The EEEBI shows promise in assessing preservice teachers' EE belief efficacy, though its reliability and validity are not yet established](../claims/eeebi-instrument-preliminary-promise.md) [+W]
 
 ## Related Elements
 - 

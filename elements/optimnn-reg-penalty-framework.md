@@ -39,6 +39,10 @@ OptimNN-Reg extends OptimNN by adding regularizing penalty terms to the binary c
 ### Affordances
 - [Optimnn Hypernetwork Parameter Generation](../theories/optimnn-hypernetwork-parameter-generation.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

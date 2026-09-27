@@ -13,7 +13,7 @@ grain_size: course
 # Adaptive Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Adaptive learning is the short-form canonical pattern for adjusting pacing, difficulty, or support based on learner performance.
@@ -23,6 +23,9 @@ Adaptive learning is the short-form canonical pattern for adjusting pacing, diff
 ### Elements Used
 - [Adaptive Learning](../elements/adaptive-learning.md)
 - [Immediate Feedback](../elements/immediate-feedback.md)
+
+## Claims
+- [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](../claims/learning-rate-retention-tradeoff.md) [~W]
 
 ## Related Patterns
 - [Mastery Learning](mastery-learning.md)

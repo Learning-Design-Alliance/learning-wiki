@@ -36,6 +36,10 @@ The zone of intervention is a service concept the author introduced to make conc
 ### Target Learning Goals
 - effective and efficient library and information services tailored to users' specific needs
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

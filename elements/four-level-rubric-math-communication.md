@@ -17,7 +17,7 @@ sources:
 # Four-level rubric for evaluating mathematical communication skills
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 An assessment instrument (Table 1) that scores students' mathematical communication on three criteria — math vocabulary (words, terms), mathematical representation (symbols, number axis, models, drawings, graphs, charts), and explain (argument, presentation) — each at four levels. For example, Level 1 vocabulary means "Using incorrect or not using mathematical language", while Level 4 explanation requires "Clear, logical, and coherent explanations include all details with correct answers and generalizations and extensions". The study used it to score pre- and post-test worksheets.
@@ -38,6 +38,11 @@ An assessment instrument (Table 1) that scores students' mathematical communicat
 - mathematical vocabulary use
 - mathematical representation
 - explanation and argumentation
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Students' explanation (argument, presentation) levels improved after the intervention, though gains were smaller than in vocabulary](../claims/explanation-levels-improve-post-test.md) [+W]
+- [Students' mathematical vocabulary use shifted from lower to higher rubric levels after the intervention](../claims/math-vocabulary-levels-improve-post-test.md) [+W]
 
 ## Related Elements
 - 

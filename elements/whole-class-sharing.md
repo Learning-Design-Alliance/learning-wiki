@@ -12,7 +12,7 @@ generated:
 # Whole-Class Sharing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q3` · 0 of 4 report an effect size
 
 ## Description
 Whole-class sharing brings individual or small-group thinking before the entire class for presentation, discussion, and synthesis. It functions as the public, collective phase of a learning sequence — consolidating private reasoning into shared knowledge and giving learners an authentic audience for their ideas.
@@ -51,6 +51,10 @@ Whole-class sharing supports learning by requiring learners to articulate and or
 - [Active Learning](../principles/active-learning.md) — presenting and responding keeps learners producing ideas rather than receiving them, though only if protocols ensure broad participation
 - [Assessment for Learning](../principles/assessment-for-learning.md) — public sharing gives the instructor a real-time window into class-wide understanding and misconceptions to guide next moves
 - [Communities of Practice](../principles/communities-of-practice.md) — regular sharing rituals socialize learners into norms of public reasoning and mutual critique
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Peer Discussion](peer-discussion.md) — the small-group phase that generates the ideas sharing makes public

@@ -51,6 +51,10 @@ Learning tasks drive learning because they force learners to *use* knowledge rat
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — tasks designed around real audiences and consequential products increase engagement and make quality standards meaningful
 - [Assessment for Learning](../principles/assessment-for-learning.md) — well-specified tasks make performance criteria visible, so the task itself becomes the vehicle for formative assessment and self-evaluation
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Practice](practice.md) — tasks provide the meaningful context; distributed practice within and across tasks builds fluency
 - [Demonstration](demonstration.md) — models expert performance of the task type before learners attempt it

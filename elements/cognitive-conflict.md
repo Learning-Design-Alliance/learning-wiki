@@ -12,7 +12,7 @@ generated:
 # Cognitive Conflict
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies, `q3`–`q4` · 0 of 3 report an effect size
+> **Evidence** · 2 claims (2 for) · 3 studies, `q2`–`q3` · 0 of 3 report an effect size
 
 ## Description
 Cognitive conflict is the deliberate introduction of evidence, questions, or situations that contradict learners' existing conceptions, creating a state of [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) that motivates accommodation. Rooted in Piaget's equilibration model, it functions as the trigger for conceptual change: learners must notice the conflict, experience dissatisfaction with their current conception, and construct a replacement that resolves it.
@@ -49,6 +49,10 @@ Cognitive conflict supports learning by making naive or partial conceptions visi
 - [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) — the element is the operationalization of this principle: it manufactures the disequilibrium state that Piagetian theory identifies as the engine of development
 - [Cognitive Flexibility](../principles/cognitive-flexibility.md) — confronting multiple contradictory framings of the same phenomenon trains learners to represent knowledge from more than one perspective, the core goal of [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md)
 - [Active Learning](../principles/active-learning.md) — conflict demands a response (prediction, argument, revision), making it a reliable generator of the engagement active learning requires
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Discrepant Events](discrepant-events.md) — the demonstration-based form: an observed outcome that violates prediction

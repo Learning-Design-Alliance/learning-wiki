@@ -36,6 +36,10 @@ The article synthesizes Sealey's (2014) framework characterizing students' under
 ### Target Learning Goals
 - understanding the structure of the Riemann integral
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

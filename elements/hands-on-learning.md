@@ -38,6 +38,10 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 - [Sociomaterial Agency of Tools](../theories/sociomaterial-agency-of-tools.md) — explains why material selection itself is a substantive design decision, not a neutral choice
 - [Broker-Facilitated Cross-Domain Integration](../strategies/broker-facilitated-cross-domain-integration.md) — for hands-on activities that require access to a specialized outside institution (a lab, a museum)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Application](application.md)
 - [Simulations](simulations.md)

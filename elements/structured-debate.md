@@ -35,6 +35,10 @@ Structured debate is the element in which learners examine opposing claims using
 - [Perspective-Taking](../principles/perspective-taking.md)
 - [Social Learning](../principles/social-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Rebuttals](rebuttals.md)
 - [Argumentation](argumentation.md)

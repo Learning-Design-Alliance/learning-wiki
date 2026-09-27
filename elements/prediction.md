@@ -12,7 +12,7 @@ generated:
 # Prediction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 1 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q3` · 1 of 5 report an effect size
 
 ## Description
 A prediction asks learners to commit to an answer, outcome, or explanation *before* receiving instruction — guessing the result of an experiment, the next step in a demonstration, or the answer to a question about material not yet taught. The act of committing, even incorrectly, prepares learners to encode the corrective information that follows.
@@ -49,6 +49,10 @@ Predictions leverage the pretesting effect: attempting to answer before instruct
 - [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) — a committed-but-wrong prediction creates a knowledge gap that motivates and focuses the resolution that follows
 - [Active Learning](../principles/active-learning.md) — prediction converts passive reception (watching, reading) into a generative act, even within a lecture or video format
 - [Assessment for Learning](../principles/assessment-for-learning.md) — aggregated predictions give instructors a real-time map of misconceptions to address in the lesson
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Activation](activation.md) — prediction is a specific, commitment-forcing form of prior-knowledge activation

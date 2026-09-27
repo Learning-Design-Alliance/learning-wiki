@@ -25,7 +25,7 @@ sources:
 # Discussion Sections
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 5 studies, `q3`–`q4` · 0 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 5 studies, `q2`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Discussion sections are smaller, instructor- or TA-led sessions in which learners analyze, question, and debate course material in depth, typically complementing lectures. They function as the interactive component of a course: learners articulate and defend interpretations, surface misconceptions, and co-construct understanding through structured dialogue.
@@ -63,6 +63,10 @@ Discussion sections convert passive exposure into generative engagement; learner
 - [Constructivism](../principles/constructivism.md) — learners build understanding by negotiating meaning rather than receiving it; the facilitator probes rather than transmits
 - [Community of Inquiry](../principles/community-of-inquiry.md) — sustained dialogue builds the social and cognitive presence needed for deep inquiry
 - [Collaborative Learning](../principles/collaborative-learning.md) — peer-to-peer exchange during discussion lets learners encounter diverse perspectives and co-construct explanations
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Socratic Questioning](socratic-questioning.md) — the facilitation method that keeps discussion probing rather than presentational

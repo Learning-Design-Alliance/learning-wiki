@@ -12,7 +12,7 @@ generated:
 # Peer Teaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 Peer teaching places learners in the role of instructor: they explain, question, and elaborate material for classmates, then receive questions that probe their understanding. Preparing to teach and teaching itself force learners to reorganize knowledge, fill gaps, and articulate reasoning — a form of generative processing that benefits the teacher as much as the taught.
@@ -49,6 +49,10 @@ Peer teaching works because explaining to another person demands deeper processi
 - [Active Learning](../principles/active-learning.md) — preparing and delivering an explanation is generative activity; the learner produces and organizes content rather than receiving it
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — explaining in one's own words forces chunking and reorganization of material into a coherent schema before delivery
 - [Assessment for Learning](../principles/assessment-for-learning.md) — peer questions function as formative assessment for the teacher, surfacing misconceptions in real time
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Collaboration](collaboration.md) — the broader interaction structure peer teaching sits within

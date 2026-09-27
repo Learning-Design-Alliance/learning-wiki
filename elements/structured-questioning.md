@@ -25,7 +25,7 @@ sources:
 # Structured Questioning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 11 studies, `q3`–`q4` · 0 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 11 studies, `q2`–`q4` · 0 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Structured questioning is an instructional element in which the instructor sequences purposeful questions — moving from factual retrieval toward explanation, application, and evaluation — to guide learners through inquiry without giving answers directly. The questions function as scaffolds: each one directs attention, elicits reasoning, and prompts learners to construct and articulate understanding themselves.
@@ -62,6 +62,10 @@ Structured questioning promotes deeper processing by requiring learners to gener
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — questioning serves the coaching and articulation phases: the instructor elicits and shapes learner reasoning the way a master probes an apprentice's decisions
 - [Scaffolding](../principles/scaffolding.md) — a question sequence is scaffolding in dialogue form; the design decision is when to fade prompts toward learner-generated questions
 - [Active Learning](../principles/active-learning.md) — every learner response is generative cognitive work; questioning structures that work into a predictable routine
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Socratic Questioning](socratic-questioning.md) — the disciplined, assumption-probing variant; structured questioning is the broader, more scaffolded family

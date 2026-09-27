@@ -36,6 +36,10 @@ A prepared open classroom space equipped with multimedia tools and learning aids
 ### Target Learning Goals
 - multimedia production skills
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

@@ -17,7 +17,7 @@ sources:
 # Khanmigo: a GPT-4-based GenAI tutoring app with six activity formats, adaptable to French learning through text-based interaction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (2 for, 2 mixed, 2 against) · 1 study, `q1` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 Khanmigo is a GenAI-based educational app launched in 2022 by Khan Academy, powered by GPT-4 via an API and built into the Khan Academy content library. Its main activity categories are "Tutor Me, Refresh, Write, Debate, Chat, Play", plus an Extra section for open-ended conversation. It is designed to guide learners to find answers as a teacher would rather than give away answers, and supports speech-to-text and text-to-speech recognition, though these were not available for French at the time of evaluation, making it more suitable for developing writing and reading skills.
@@ -42,6 +42,15 @@ Khanmigo is a GenAI-based educational app launched in 2022 by Khan Academy, powe
 
 ### Affordances
 - [Chapelle 2001 Call Evaluation Framework Applied To Genai](../theories/chapelle-2001-call-evaluation-framework-applied-to-genai.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Khanmigo fully supports the authenticity criterion: nearly all activities except Chat can engage learners in authentic tasks](../claims/khanmigo-authenticity-fully-supported.md) [+W]
+- [Khanmigo partially supports the meaning focus criterion: two-way meaning-oriented interactions exist, but cognitive complexity can be problematic for beginners](../claims/khanmigo-meaning-focus-partially-supported.md) [~W]
+- [Khanmigo does not support learner fit: its language and topics may be too advanced for beginner-level learners](../claims/khanmigo-learner-fit-not-supported.md) [-W]
+- [Khanmigo fully supports the language learning potential criterion through abundant input, extended output, adaptive feedback, and negotiation of meaning](../claims/khanmigo-language-learning-potential-fully-supported.md) [+W]
+- [Khanmigo does not support the positive impact criterion: metacognitive scaffolding is tacit and pragmatic competence is not addressed unless learners ask](../claims/khanmigo-positive-impact-not-supported.md) [-W]
+- [Khanmigo partially supports the practicality criterion: affordable subscription, user-friendly interface, portability, and teacher monitoring, but paid access limits some learners](../claims/khanmigo-practicality-partially-supported.md) [~W]
 
 ## Related Elements
 - 

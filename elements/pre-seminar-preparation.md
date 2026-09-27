@@ -50,6 +50,10 @@ Preparation before discussion raises the quality of seminar talk because learner
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — distributing first exposure across time and letting learners pace themselves reduces the load of processing new material in a live group setting
 - [Activation](../principles/activation.md) — preparation prompts can surface prior knowledge and predictions that the seminar then tests
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Assigned Readings](assigned-readings.md) — the most common preparation artifact
 - [Reflection](reflection.md) — reflective prompts convert reading into readiness for discussion

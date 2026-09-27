@@ -52,6 +52,10 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — a well-designed simulation strips away irrelevant real-world complexity, letting learners attend to the variables that matter
 - [Feedback](feedback.md) — the simulation's response to learner actions is immediate, task-level feedback; effectiveness rises when debriefing elevates it to the process level [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Practice](practice.md) — simulation is a structured environment for deliberate practice with built-in consequences
 - [Case Studies](case-studies.md) — a case presents a snapshot of a system; a simulation lets learners intervene in it

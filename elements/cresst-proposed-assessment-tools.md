@@ -17,7 +17,7 @@ sources:
 # Eight proposed CRESST assessment tools with specifications and scalability outlooks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report specifies eight proposed tools: Collaborative Concept Mapper, Flowcharter, Idea Generator and Evaluator, Model Simulator, Networked Team Simulator, Multimedia Concept Mapper, Outliner, and Problem Solver. Each specification lists its CRESST learning families, task, performance and process measures, scoring, development cycle, and scalability. Most are rated "Completely scalable", while the Model Simulator and Networked Team Simulator are "Scalable but use is limited by simulation content" and the Multimedia Concept Mapper is "Dependent upon user hardware".
@@ -42,6 +42,10 @@ The report specifies eight proposed tools: Collaborative Concept Mapper, Flowcha
 
 ### Affordances
 - [Cresst Model Of Learning Five Families](../theories/cresst-model-of-learning-five-families.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [CRESST assessment tools show feasibility in evaluation data, but reliability and validity information is limited](../claims/cresst-tools-feasible-limited-validity.md) [+W]
 
 ## Related Elements
 

@@ -38,6 +38,10 @@ A learning activity in which pupils design and produce a multimedia product, suc
 - expression skills
 - collaboration
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

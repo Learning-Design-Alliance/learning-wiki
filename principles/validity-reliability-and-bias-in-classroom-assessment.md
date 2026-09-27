@@ -12,7 +12,7 @@ generated:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (4 for, 1 against) · 5 studies, `q2`–`q3` · 1 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 **Validity** is "the evaluation of the adequacy and appropriateness of the interpretations and uses of assessment results" for a given group (Linn & Miller, 2005, p. 68) — crucially, validity describes the *interpretation and use* of a result, not the assessment procedure itself. A mathematics test on fractions given to recent immigrants might validly assess a fluent-English student's understanding of fractions while invalidly assessing a limited-English student's (whose low score may just as easily reflect English proficiency as math skill). Validity is a matter of degree, not an all-or-nothing property, and rests on three kinds of evidence: **content validity** (does the assessment actually cover the content and tasks it's supposed to, in the right proportions?) — a **Table of Specifications**, cross-tabulating content areas against instructional objectives with a planned item count in each cell, is the standard tool for checking this before writing a test, since it makes over-sampled and under-sampled content visible in advance; **construct validity** (is performance actually explained by the intended underlying construct — e.g., mathematical reasoning or reading comprehension — rather than by an irrelevant factor like test anxiety, English proficiency, or reading speed that happens to be entangled with it?); and **criterion-related (predictive) validity** (does the assessment actually predict the outcome it's meant to predict — e.g., do fall-semester reading scores actually predict which students will need help passing the spring state test?). Effective assessment design in general depends on aligning the assessment technique to the actual learning goal: if the goal is for students to conduct an experiment, the assessment should have them conduct one, not answer questions about conducting one.
@@ -40,6 +40,13 @@ Validity and reliability apply beyond classroom assessment to measurement genera
 
 ### Target Learning Objectives
 - Assessment results that support the specific instructional or accountability conclusion being drawn from them, rather than results that are merely consistent or merely convenient to score
+
+## Claims
+- [The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions](../claims/framework-scoring-high-consistency-physics.md) [+W]
+- [Self-efficacy measures show high reliability and domain-specific validity](../claims/self-efficacy-measures-reliable-domain-specific.md) [+W]
+- [Raters differed significantly in severity/leniency in the MFRM analysis](../claims/raters-differed-severity-mfrm.md) [-W]
+- [The LoU Interview shows high interrater reliability, and the rating procedure was streamlined over two years without loss of agreement](../claims/lou-interview-interrater-reliability-high.md) [+W]
+- [Cross-cultural measurement problems may bias psychosocial instruments translated across cultures](../claims/cross-cultural-measurement-bias-in-translated-psychosocial-instruments.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

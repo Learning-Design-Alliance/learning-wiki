@@ -36,6 +36,10 @@ The Type 1 instrument is a paper-and-pencil test of the grade's critical objecti
 ### Target Learning Goals
 - Sorting on multiple attributes, number operations and symbolization, measurement, coin values, estimation, and probability concepts
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Type 2 checklist assessment: tasks coded to each first-grade critical objective for teacher judgment of progress](type2-checklist-competency-assessment.md)

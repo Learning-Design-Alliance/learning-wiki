@@ -17,7 +17,7 @@ sources:
 # Progress Tracking
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Progress tracking is the element in which learners or instructors monitor advancement through goals, tasks, competencies, or milestones over time. It is useful when visibility into progress supports planning, motivation, and coordination.
@@ -37,6 +37,10 @@ Progress tracking is the element in which learners or instructors monitor advanc
 ### Affordances
 - [Self-Regulation](../principles/self-regulation.md)
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [A teacher's prompting that oriented a student's reflection on his own tracking methods fostered monitoring of his goal-directed counting activity](../claims/orienting-reflection-to-own-tracking-fosters-monitoring.md) [+W]
 
 ## Related Elements
 - [Task Management](task-management.md)

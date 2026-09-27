@@ -50,6 +50,10 @@ Processing improves both achievement and the durability of cooperative groups by
 - [Self-Regulated Learning](../principles/self-regulated-learning.md) — the reflect-and-set-goal cycle enacts the self-regulation loop (forethought → performance → self-reflection) at the group level
 - [Scaffolding](../principles/scaffolding.md) — teacher-structured processing prompts (checklists, stems) can be faded as groups internalize the reflection routine
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Positive Interdependence](positive-interdependence.md) — processing evaluates whether the group is actually relying on one another
 - [Individual Accountability](individual-accountability.md) — the counterweight that keeps processing honest about contribution

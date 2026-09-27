@@ -12,7 +12,7 @@ generated:
 # Application
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (6 for) · 9 studies, `q2`–`q4` · 0 of 9 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 9 studies, `q2`–`q3` · 0 of 9 report an effect size · 3 claims rest on one study
 
 ## Description
 Application asks learners to use newly acquired knowledge and skills to perform meaningful tasks — solving problems, producing artifacts, or working through realistic scenarios — rather than merely recalling or recognizing content. It converts declarative knowledge into procedural competence by requiring learners to act on what they know under conditions that approximate real use.
@@ -51,6 +51,10 @@ Application is where learning consolidates: retrieval and use of knowledge in co
 - [Scaffolding](../principles/scaffolding.md) — application tasks are the vehicle on which scaffolding operates; support is calibrated to task difficulty and faded as performance improves
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — well-designed application sequences (worked example → completion → independent problem) manage intrinsic load while preserving the generative effort that builds schemas
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — application tasks gain motivational force and transfer value when they serve a real purpose for a real audience
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Practice](practice.md) — application at scale; repeated, spaced, and varied application constitutes practice

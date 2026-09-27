@@ -25,7 +25,7 @@ sources:
 # Model Revision
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies, `q3`–`q4` · 0 of 5 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies, `q2`–`q3` · 0 of 5 report an effect size
 
 ## Description
 Model revision asks learners to articulate a working conceptual model, confront it with evidence and feedback, and deliberately revise it. The element treats the learner's initial understanding as a draft to be evaluated and improved rather than a fixed starting point, making the *process* of conceptual change visible and iterative.
@@ -62,6 +62,10 @@ Model revision supports conceptual change by forcing learners to compare their p
 - [Cognitive Load Theory](../principles/cognitive-load-theory.md) — externalizing the model offloads working memory, freeing capacity for comparing model and evidence rather than juggling both internally
 - [Active Learning](../principles/active-learning.md) — revision requires learners to do evaluative work on their own output, not merely receive corrections
 - [Scaffolding](../principles/scaffolding.md) — the model–evidence link structure is a temporary frame that can be faded as learners internalize the evaluate-and-revise habit
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Scientific Reasoning](scientific-reasoning.md) — supplies the evaluative standards learners apply when judging their model against evidence

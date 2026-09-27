@@ -12,7 +12,7 @@ generated:
 # Criteria Development
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q3` · 0 of 4 report an effect size
 
 ## Description
 Criteria development asks learners to construct the rubrics, checklists, or evaluation frameworks against which work will be judged, rather than receiving criteria pre-defined by the instructor. By articulating what quality looks like and why, learners internalize the standards of the discipline and can later apply them to monitor and improve their own work.
@@ -49,6 +49,10 @@ Involving learners in defining quality criteria converts assessment from an exte
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — owning the criteria gives learners the standards they need for self-monitoring and self-directed revision cycles
 - [Assessment for Learning](../principles/assessment-for-learning.md) — criteria development makes learners participants in the assessment process rather than its objects, aligning with formative use of evaluation
 - [Active Learning](../principles/active-learning.md) — learners construct the evaluative framework rather than receiving it, producing deeper processing of quality dimensions
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Rubric Design](rubric-design.md) — the instructor-facing counterpart; criteria development is learners doing it themselves

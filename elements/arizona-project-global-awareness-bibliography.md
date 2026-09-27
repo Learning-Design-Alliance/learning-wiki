@@ -37,6 +37,10 @@ The article is a guide that provides, in one integrated document, a listing and 
 - Cultural understanding
 - Global awareness
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Culture universals as conceptual tools for studying cultures](culture-universals-conceptual-tools.md)

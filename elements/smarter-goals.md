@@ -54,6 +54,10 @@ SMARTER goals are a structured goal-setting element that asks learners to define
 - Supports monitoring, feedback, and persistence
 - Helps instructors and learners align on the next step
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Assessment](assessment.md)
 - [Feedback](feedback.md)

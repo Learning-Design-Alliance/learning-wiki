@@ -36,6 +36,10 @@ Table 1 of the article compiles VR websites and apps with addresses and descript
 ### Target Learning Goals
 - Exploring locations, cultures, and science content (e.g., a virtual tour inside a cell during a viral attack) to support comprehension
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Google Cardboard and smartphone-based VR as an inexpensive classroom VR setup](google-cardboard-low-cost-vr-setup.md)

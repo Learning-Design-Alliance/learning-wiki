@@ -36,6 +36,10 @@ The article describes the League for Innovation in the Community College's effor
 ### Target Learning Goals
 - Improved student learning, performance and success through learner partnership and responsibility
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [H-B Woodlawn Secondary School as an existing learning-centered learning environment](hb-woodlawn-student-control-school-example.md)

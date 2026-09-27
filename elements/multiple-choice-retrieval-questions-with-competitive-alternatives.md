@@ -41,6 +41,10 @@ A recognition-format retrieval practice item: a multiple-choice question whose i
 ### Affordances
 - [Blooms Taxonomy](../theories/blooms-taxonomy.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Retrieval Practice](retrieval-practice.md)
 - [Retrieval Practice Improves Learning](../claims/retrieval-practice-improves-retention.md)

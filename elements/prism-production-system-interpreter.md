@@ -36,6 +36,10 @@ PRISM (Program for Research Into Self-Modifying Systems), developed by Pat Langl
 ### Target Learning Goals
 - implementing and exploring alternative production-system architectures for psychological simulation
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Caps Production System Language](caps-production-system-language.md)
 

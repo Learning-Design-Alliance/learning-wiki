@@ -23,7 +23,7 @@ sources:
 > **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
-`q1 i?` Discriminating value of a test is defined as tan∅, which equals the ratio of SD to mean of test scores, i.e. the coefficient of variation, bounded 0 ≤ DiscT ≤ 1. [→ Chakrabartty 2021](#chakrabartty-2021)
+`q2 i?` Discriminating value of a test is defined as tan∅, which equals the ratio of SD to mean of test scores, i.e. the coefficient of variation, bounded 0 ≤ DiscT ≤ 1. [→ Chakrabartty 2021](#chakrabartty-2021)
 
 ## Evidence
 

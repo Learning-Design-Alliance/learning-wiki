@@ -17,7 +17,7 @@ sources:
 # TSMTDF: form for determining objective-oriented taxonomy, strategy, and method-techniques with scoring rubric
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The TSMTDF is a researcher-developed form with six open-ended tasks: choose at least two objectives from the primary science curriculum, classify them according to Bloom's Taxonomy, determine a suitable strategy, determine suitable methods and techniques, and explain both choices. A rubric scored answers 2 for true, 1 for partly true, and 0 for wrong, with a maximum of 6 and minimum of 0. Content and linguistic suitability were checked by two science educators and a linguist, and scores correlated weakly but significantly with Science Teaching I passing grades (r = 0.242, ρ < 0.05).
@@ -35,6 +35,13 @@ The TSMTDF is a researcher-developed form with six open-ended tasks: choose at l
 
 ### Target Learning Goals
 - classifying science objectives by Bloom's taxonomy and matching strategies, methods, and techniques to objectives
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Pre-service primary teachers' science teaching self-efficacy beliefs correlate weakly but positively with their ability to determine suitable taxonomy, strategy, and method-techniques](../claims/self-efficacy-weakly-correlates-objective-aligned-instructional-planning.md) [+W]
+- [Pre-service teachers' self-efficacy and instructional-planning levels were relatively high, but Bloom taxonomy classification was low](../claims/preservice-planning-high-taxonomy-low.md) [+W]
+- [Seniors outperformed juniors in determining taxonomy and method-technique, but not in self-efficacy or strategy determination](../claims/seniors-better-taxonomy-method-technique.md) [+W]
+- [Pre-service teachers choose strategies, methods, and techniques mainly for fit with objective content and for promoting active student participation](../claims/reasons-for-choosing-strategies-methods-techniques.md) [+W]
 
 ## Related Elements
 - 

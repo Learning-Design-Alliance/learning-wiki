@@ -36,6 +36,10 @@ A validated 34-item survey instrument developed to assess the three CoI presence
 ### Target Learning Goals
 - assessment of teaching, social, and cognitive presence perceptions
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [CoI Survey and metacognition questionnaire instruments for measuring presences and metacognition](coi-survey-and-metacognition-questionnaire-instruments.md)

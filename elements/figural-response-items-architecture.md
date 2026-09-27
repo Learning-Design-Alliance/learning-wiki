@@ -17,7 +17,7 @@ sources:
 # Computer-delivered figural response test items for architecture
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Figural response items are constructed-response items in which "examinees must construct their answers and the responses consist of the generation or manipulation of figural material (e.g., graphs, pictures)." In this study the 22 items were computer delivered, each consisting of a verbal stem, a diagram, and drawing tools; for example, one item required moving library, parking lot, and playground structures onto a site subject to explicit and implicit constraints. The authors argue the format suits graphical domains and may tap skills inaccessible to multiple choice.
@@ -38,6 +38,11 @@ Figural response items are constructed-response items in which "examinees must c
 
 ### Affordances
 - [Rule Space Model Cognitive Diagnosis](../theories/rule-space-model-cognitive-diagnosis.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Rule Space successfully classified most examinees in architecture, with solve attributes the most powerful and check attributes the least powerful](../claims/rule-space-classifies-architecture-examinees-solve-strongest.md) [+W]
+- [Solve attributes differ in discrimination: the environment attribute strongly separated proficiency groups while the learned-procedure attribute did not](../claims/solve-attributes-vary-in-discrimination.md) [+W]
 
 ## Related Elements
 

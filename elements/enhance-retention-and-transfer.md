@@ -12,7 +12,7 @@ generated:
 # Enhance retention and transfer
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies, `q2`–`q4` · 0 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies, `q2`–`q3` · 0 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 "Enhance retention and transfer" is the culminating phase of instruction (Gagné's final event; Merrill's Integration principle) in which learners consolidate what they have learned and apply it to novel contexts. Rather than ending a lesson at recall, this element deliberately designs activities — reflection, extension problems, far-transfer tasks — that require learners to restructure and redeploy knowledge beyond the conditions in which it was acquired.
@@ -51,6 +51,10 @@ Transfer does not happen spontaneously; it must be prompted by tasks that differ
 - [Active Learning](../principles/active-learning.md) — extension and application tasks position learners as producers of solutions rather than reviewers of content
 - [Cognitive Flexibility](../principles/cognitive-flexibility.md) — presenting the same concept across varied cases and contexts prepares learners to restructure knowledge for novel situations
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — sequencing transfer tasks after consolidation, and fading support as competence grows [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M], keeps extension activities within working-memory limits
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Analogies](analogies.md) — explicit mapping between domains is a primary mechanism for cross-context transfer

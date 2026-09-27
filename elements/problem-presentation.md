@@ -12,7 +12,7 @@ generated:
 # Problem Presentation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies, `q2`–`q4` · 0 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies, `q2`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Problem presentation is the instructional element in which learners are confronted with an authentic, ill-structured problem before receiving instruction on how to solve it. The problem functions as the organizing stimulus for inquiry: it activates prior knowledge, creates a need to know, and situates subsequent learning in a meaningful context. It is the opening move of [Problem-Based Learning](../patterns/problem-based-learning.md) and [Goal-Based Scenarios](../patterns/goal-based-scenarios.md), where the quality of the problem largely determines the quality of the learning that follows.
@@ -50,6 +50,10 @@ A well-presented problem engages learners in authentic problem-solving by making
 - [Situated Learning](../principles/situated-learning.md) — presenting a problem embedded in a realistic context grounds knowledge in the situations of its use, supporting transfer to professional practice
 - [Activation](../principles/activation.md) — a well-chosen problem forces learners to retrieve and mobilize prior knowledge before new instruction begins
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — the presenter controls complexity, scaffolds, and resource availability, shaping how much of the problem's load learners must carry unaided
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Case Study](case-study.md) — a related element that presents an already-analyzed situation; problem presentation differs in that the resolution is unknown and learner-driven

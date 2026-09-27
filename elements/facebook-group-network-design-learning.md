@@ -17,7 +17,7 @@ sources:
 # Student-created Facebook group network as informal learning infrastructure in a design Master's program
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (6 for) · 1 study, `q2` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 A network of five student-created and managed Facebook groups (three cohort-based, a current years group, and an all years group including alumni) that supported an interaction design Master's program. Groups contained 4,558 status updates, 15,273 comments, and 5,494 likes from 183 participants. The groups were "created and managed entirely by the student population" and later extended to alumni, supporting information sharing, critique, and community-building alongside formal instruction.
@@ -39,6 +39,15 @@ A network of five student-created and managed Facebook groups (three cohort-base
 - design learning
 - professional community building
 - peer critique and advice
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Social network site participation enables design learning that breaks the confines of space and time, including pre-enrollment learning and asynchronous ethical discussion](../claims/sns-learning-unbounded-space-time.md) [+W]
+- [Student-created Facebook groups support self-directed design learning and sharing of expertise outside the formal curriculum](../claims/sns-groups-support-informal-design-learning.md) [+W]
+- [Student-generated Facebook groups constitute a hidden curriculum that supports learning outside the formal design studio](../claims/student-generated-hidden-curriculum-sns.md) [+W]
+- [Four types of designerly talk manifest in student-managed social network spaces: tool selection, professional identity, skill-sharing coordination, and ethical design discussion](../claims/four-types-designerly-talk-sns.md) [+W]
+- [Students transition between student and proto-professional roles in informal SNS discourse, bridging learning and design practice](../claims/student-proto-professional-role-transition.md) [+W]
+- [Longer Facebook threads with more interlocutors show distinct structural characteristics compared to the broader corpus](../claims/thread-structure-designerly-talk-corpus.md) [+W]
 
 ## Related Elements
 - 

@@ -39,6 +39,10 @@ Sternberg describes an inventory under validation designed to measure intellectu
 ### Affordances
 - [Mental Self Government Intellectual Styles](../theories/mental-self-government-intellectual-styles.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

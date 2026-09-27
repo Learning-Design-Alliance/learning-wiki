@@ -13,7 +13,7 @@ grain_size: lesson
 # Emergent Curriculum
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Instructional planning is normally described as if goals and objectives are chosen by educators rather than students — but this places a real burden on everyone involved: curriculum writers must be confident their specified goals genuinely matter, teachers must motivate students toward goals the students didn't choose, and students must master objectives regardless of personal interest. Critics argue this can be a serious impediment to learning (Kohn, 2004), especially for the youngest students, who may have little patience for an agenda set entirely by others (Kohn, 1999; Seitz, 2006), and in culturally diverse classrooms, where students and families may hold legitimate but unconventional expectations about what matters to learn (Banks & Banks, 2005).
@@ -46,7 +46,9 @@ Emergent curriculum can seem, to skeptics, like a formula for curricular and man
 
 ### Theory
 #### Supporting
+
 - [Constructivism](../theories/constructivism.md) [+M] — building instruction from students' own developing interests and questions is a direct application of constructivist, learner-centered planning
+- [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](../claims/spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) [+W]
 
 ## Design
 

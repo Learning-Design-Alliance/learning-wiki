@@ -41,6 +41,10 @@ An embodied pedagogical agent already central to the learning task (e.g., a teac
 ### Affordances
 - [Critical Constructive Feedback Processing](../theories/critical-constructive-feedback-processing.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Feedback](feedback.md)
 - [Immediate Feedback](immediate-feedback.md)

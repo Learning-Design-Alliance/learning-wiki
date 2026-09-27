@@ -12,7 +12,7 @@ generated:
 # Conceptual Questioning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 Conceptual questioning poses open, "why" and "what-if" questions that target learners' underlying conceptions rather than recall of facts. The goal is to surface assumptions, create productive cognitive conflict, and prompt learners to explain, justify, and revise their mental models.
@@ -49,6 +49,10 @@ Conceptual questions work because generating an answer requires learners to elab
 - [Constructivism](../principles/constructivism.md) — by requiring learners to articulate their own conceptions, questioning forces knowledge to be actively built rather than transmitted
 - [Active Learning](../principles/active-learning.md) — every learner must generate an answer, not merely receive one; the question converts passive listening into retrieval and elaboration
 - [Cognitive Activation](../principles/cognitive-activation.md) — well-placed questions create the productive struggle and cognitive conflict that predict deep learning outcomes
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Socratic Questioning](socratic-questioning.md) — the disciplined, sequential form of conceptual questioning that probes assumptions and implications

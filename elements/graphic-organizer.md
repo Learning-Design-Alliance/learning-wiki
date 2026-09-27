@@ -17,7 +17,7 @@ sources:
 # Graphic Organizer
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 A graphic organizer is a visual-spatial instructional tool that presents key concepts and the relationships between them in a hierarchical, spatially configured display, using different shapes for descriptions, examples, and other information with labeled connectors. Key features include hierarchical structure reflecting the passage's organization, spatial rather than linear arrangement, identification of important concepts, and explicit depiction of relationships. Variants include the advance organizer and the structured overview, in which key vocabulary illustrates concept relationships before reading. The document grounds the tool in schema theory: organizers enable learners to connect prior knowledge with new information, adding it to existing schemata.
@@ -37,6 +37,10 @@ A graphic organizer is a visual-spatial instructional tool that presents key con
 ### Target Learning Goals
 - Comprehension of expository text
 - Recall of key concepts and their relationships
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Graphic Organizers Support Novice Comprehension](../claims/graphic-organizers-support-novice-comprehension.md) [+S]
 
 ## Related Elements
 - 

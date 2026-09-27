@@ -29,7 +29,7 @@ Interdisciplinary student teams in a multi-week organization simulation engaged 
 
 `q2 i2` Video analysis of two teams (11 hours 22 minutes total across 9 meetings) showed episodes where a team member's proposal to ground the group's work in research evidence was initially ignored during unfocused discussion, then successfully integrated once another member externalized a process outline on a flip chart — illustrating material representations as a mechanism for shifting from unfocused talk to structured collaboration. [→ Muukkonen & Kajamaa 2024](#muukkonen-kajamaa-2024)
 
-`q1-q2 i1` Students' diary entries frequently identified unclear or contested leadership, and time pressure preventing "the common tone" of the interdisciplinary group from being reached, as the primary sources of early-stage team dissonance and disagreement. [→ Muukkonen & Kajamaa 2024](#muukkonen-kajamaa-2024)
+`q2-q2 i1` Students' diary entries frequently identified unclear or contested leadership, and time pressure preventing "the common tone" of the interdisciplinary group from being reached, as the primary sources of early-stage team dissonance and disagreement. [→ Muukkonen & Kajamaa 2024](#muukkonen-kajamaa-2024)
 
 ## Evidence
 

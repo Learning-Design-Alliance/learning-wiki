@@ -12,7 +12,7 @@ generated:
 # Perspective-Taking
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q4` · 1 of 4 report an effect size
 
 ## Description
 Perspective-taking asks learners to adopt, articulate, and reason from viewpoints other than their own — historical actors, stakeholders in a policy dispute, or holders of opposing positions on a controversy. It functions both as a social-affective goal (empathy, reduced stereotyping) and a cognitive one (flexible, multi-angle understanding of contested content).
@@ -50,6 +50,10 @@ Perspective-taking deepens learning when learners must actively construct the ot
 - [Cognitive Flexibility](../principles/cognitive-flexibility.md) — by requiring learners to re-represent the same content from multiple stances, perspective-taking enacts the multiple-perspectives approach central to this principle
 - [Constructivism](../principles/constructivism.md) — learners actively construct and defend a position rather than receive a canonical account, forcing knowledge to be rebuilt from a different starting point
 - [Cognitive Conflict](cognitive-conflict.md) — encountering a defensible opposing view creates the conceptual disequilibrium that drives restructuring of prior beliefs
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Debate](debate.md) — the formalized contest format that operationalizes perspective-taking under time and role constraints

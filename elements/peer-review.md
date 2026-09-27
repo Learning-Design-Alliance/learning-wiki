@@ -21,7 +21,7 @@ sources:
 # Peer Review
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 5 studies, `q2`–`q4` · 2 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Peer review is the element in which learners examine and respond to one another's work using shared criteria, prompts, or examples. It can improve drafts directly, but it is also valuable because evaluating peer work often sharpens learners' own judgment about quality.
@@ -48,6 +48,12 @@ Peer review is the element in which learners examine and respond to one another'
 - [Peer Feedback/Peer Review](../principles/peer-feedbackpeer-review.md)
 - [Formative Assessment](../principles/formative-assessment.md)
 - [Feedback Loops](../principles/feedback-loops.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Peer Assessment Benefits Assessor](../claims/peer-assessment-benefits-assessor.md) [+W]
+- [Peer Assessment Improves Performance](../claims/peer-assessment-improves-performance.md) [+M]
+- [Peer Feedback Accuracy Depends On Expertise](../claims/peer-feedback-accuracy-depends-on-expertise.md) [+M]
 
 ## Related Elements
 - [Feedback](feedback.md)

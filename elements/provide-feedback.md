@@ -12,7 +12,7 @@ generated:
 # Provide Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 9 studies, `q3`–`q4` · 1 of 9 report an effect size
+> **Evidence** · 4 claims (3 for, 1 unmarked) · 9 studies, `q2`–`q4` · 1 of 9 report an effect size
 
 ## Description
 Providing feedback gives learners information about the gap between their current and desired performance, so they can correct errors and refine understanding. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective loop that makes [Practice](practice.md) productive rather than merely repetitive.
@@ -48,6 +48,10 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Assessment for Learning](../principles/assessment-for-learning.md) — feedback is the core mechanism by which assessment becomes formative rather than merely evaluative; the assessment itself is only useful if its results are translated into actionable feedback
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — well-targeted feedback reduces unproductive search by telling learners exactly where their model diverges from the target, rather than leaving them to diagnose errors unaided
 - [Active Learning](../principles/active-learning.md) — feedback closes the loop on practice; it converts output into a new learning event by prompting revision, self-explanation, or retry
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Assess Performance](assess-performance.md) — assessment generates the information that feedback translates into guidance

@@ -17,7 +17,7 @@ sources:
 # Stages of Concern Questionnaire (SoCQ): a 35-item diagnostic instrument
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The SoC Questionnaire is a 35-item self-report instrument for assessing individuals' concerns about any educational innovation. The paper notes "This 35-item questionnaire can be used with any educational innovation and requires only 10-15 minutes to complete." It can be scored by hand or computer to produce a graphic concerns profile for individuals or groups, showing which stages are most and least intense. The authors state it is "the most appropriate procedure for assessing concerns in research and evaluation studies."
@@ -38,6 +38,11 @@ The SoC Questionnaire is a 35-item self-report instrument for assessing individu
 
 ### Affordances
 - [Stages Of Concern Seven Stage Taxonomy](../theories/stages-of-concern-seven-stage-taxonomy.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Individual teachers' concern profiles vary widely and can diverge from group trends during implementation](../claims/individual-concern-profiles-vary-widely.md) [+W]
+- [The two-week SCIS workshop shifted participants' concerns from lower-stage nonuser patterns toward higher-stage user patterns](../claims/workshop-shifts-concerns-toward-user-profile.md) [+W]
 
 ## Related Elements
 

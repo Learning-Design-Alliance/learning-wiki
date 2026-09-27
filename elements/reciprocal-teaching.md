@@ -12,7 +12,7 @@ generated:
 # Reciprocal Teaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q3`–`q4` · 0 of 6 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q2`–`q3` · 0 of 6 report an effect size
 
 ## Description
 Reciprocal Teaching is a structured small-group procedure in which learners take turns acting as the discussion leader, applying four comprehension strategies — predicting, questioning, clarifying, and summarizing — to shared text or content. The teacher initially models the strategies, then gradually hands the "teacher" role to students, who guide the dialogue while peers respond and contribute.
@@ -49,6 +49,10 @@ Reciprocal Teaching improves comprehension by making strategic reading processes
 - [Social Learning Theory](../theories/social-learning-theory.md) — students observe peers modeling strategic dialogue before enacting it themselves, and the rotating leader role makes every student both observer and model
 - [Collaborative Learning](../principles/collaborative-learning.md) — comprehension is negotiated through dialogue; peers' questions and clarifications surface misunderstandings an individual reader would leave hidden
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the instructor's modeling phase makes invisible comprehension processes overt, then coaches students as they attempt the role
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Peer Teaching](peer-teaching.md) — the rotating leader role is a structured form of peer teaching with built-in expert modeling

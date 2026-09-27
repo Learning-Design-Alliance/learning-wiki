@@ -17,7 +17,7 @@ sources:
 # Imbedded Aids: textbook redesign placing teacher-like assistance in the text
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 A proposed major modification summarized as "to put a teacher in every textbook who is willing and able to provide assistance as the need arises", achieved through textbook redesign containing "'Imbedded Aids' (Manzo, 1974) to readers". The article reports research is still underway and that "current prototypes and early data suggest that 'Imbedded Aids' are feasible and practicable", with fuller description deferred to a tandem article in preparation.
@@ -38,6 +38,14 @@ A proposed major modification summarized as "to put a teacher in every textbook 
 
 ### Affordances
 - [Languaging In Content Areas Thesis](../theories/languaging-in-content-areas-thesis.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Students do not appear to have great difficulty adjusting to a more 'busy' page when assistance and enrichment units are woven into textual material.](../claims/students-adjust-easily-to-busier-text-pages.md) [+W]
+- [Students and teachers respond favorably to embedded aids: approximately 90% of students reported no difficulty understanding or using the aids, and over 75% wanted similar aids throughout the book.](../claims/embedded-aids-are-acceptable-to-students-and-teachers.md) [+W]
+- [Embedded aids address the content-area reading problem by helping weak readers read textual material and helping effective readers transfer training across disciplines, via a running commentary explaining key concepts, terminology, and questions.](../claims/embedded-aids-support-cross-disciplinary-transfer-of-reading-skills.md) [+W]
+- [Textual material treated with embedded aids produced 10-15% higher reading comprehension scores than conventional text, statistically significant at the .01 level, in a science-material study with approximately 200 tenth graders across three schools.](../claims/embedded-aids-improve-reading-comprehension.md) [+W]
+- [Using embedded aids required students to take about 7% longer, on average, to complete an assigned chapter, and comprehension scores reflected this additional effort.](../claims/embedded-aids-increase-reading-time-modestly.md) [+W]
 
 ## Related Elements
 

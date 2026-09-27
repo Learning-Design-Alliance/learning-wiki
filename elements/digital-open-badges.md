@@ -43,6 +43,10 @@ Farmer and West (2016) identify open badges as solving two persistent credential
 - [Mastery Learning](../principles/mastery-learning.md)
 - [Self-Determination Theory](../theories/self-determination-theory.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Immediate Feedback](immediate-feedback.md)
 

@@ -12,7 +12,7 @@ generated:
 # Scenario-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Scenario-based learning is the element in which instruction is organized around a realistic situation, case, or mission that requires learners to interpret information and make decisions in context. It is useful when the goal is application, transfer, and judgment under conditions that resemble real use.
@@ -38,6 +38,10 @@ Scenario-based learning is the element in which instruction is organized around 
 - [Experiential Learning](../principles/experiential-learning.md)
 - [Active Learning](../principles/active-learning.md)
 - [Problem-Based Learning](../principles/problem-based-learning.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](../claims/contextualized-teaching-facilitates-transfer.md) [+M]
 
 ## Related Elements
 - [Problem Scenario](problem-scenario.md)

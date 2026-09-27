@@ -52,6 +52,10 @@ Inquiry can produce deep, transferable understanding when learners have enough s
 - [Active Learning](../principles/active-learning.md) — inquiry enacts active learning at the deepest level: learners generate, test, and revise ideas rather than respond to prompts
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — the investigation-explanation cycle mirrors expert practice in the discipline, especially when paired with [Coaching](coaching.md) and [Articulation](articulation.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Scaffolding](scaffolding.md) — the guidance structure that separates effective guided inquiry from ineffective discovery
 - [Coaching](coaching.md) — instructor moves during investigation that redirect unproductive exploration
