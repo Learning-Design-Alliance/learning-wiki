@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Structured, iterative support aligned to rubric competencies improves teacher candidates' pedagogical judgment over a clinical semester"
-description: "Structured, iterative support aligned to rubric competencies improves teacher candidates' pedagogical judgment over a clinical semester"
+title: In a qualitative case study of three social-studies teacher candidates, pedagogical judgment appeared to grow over a clinical semester of structured, iterative support aligned to rubric competencies
+description: In a qualitative case study of three social-studies teacher candidates, pedagogical judgment appeared to grow over a clinical semester of structured, iterative support aligned to rubric competencies
 id: structured-iterative-support-improves-pedagogical-judgment
 status: draft
 generated:
@@ -13,17 +13,18 @@ sources:
     resource: "https://doi.org/10.69772/jes.8.3.1"
     title: "Janis, S., Schmeichel, M., Grace, C., Wegrzyn, K., & Lee, J. (2025). Making Learning Visible: Shaping Teacher Candidates' Pedagogical Judgment in Clinical Experiences. Journal of Educational Supervision 8(3). https://doi.org/10.69772/jes.8.3.1"
     author: "Janis, S., Schmeichel, M., Grace, C., Wegrzyn, K., & Lee, J."
-    q: 2
+    q: 1
     i: "?"
+    n: 3
 ---
 
-# Structured, iterative support aligned to rubric competencies improves teacher candidates' pedagogical judgment over a clinical semester
+# In a qualitative case study of three social-studies teacher candidates, pedagogical judgment appeared to grow over a clinical semester of structured, iterative support aligned to rubric competencies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · `q1` argument or single case · n=3
 
 ## Subclaims
-`q2 i?` Across three case candidates, structured prompts, aligned feedback, and repeated reflection supported growth in describing student learning and connecting instructional decisions to student understanding. [→ Janis 2025](#janis-2025)
+`q1 i?` Across three bachelor's-level secondary social-studies teacher candidates at one US university, followed through a twelve-week clinical, the authors observed growth in describing student learning, analyzing teaching moves and connecting instructional decisions to student understanding, which they suggest structured prompts, aligned feedback and repeated reflection contributed to; there was no comparison condition. [→ Janis 2025](#janis-2025)
 
 ## Evidence
 
@@ -31,9 +32,9 @@ sources:
 
 Janis, S., Schmeichel, M., Grace, C., Wegrzyn, K., & Lee, J. (2025). Making Learning Visible: Shaping Teacher Candidates' Pedagogical Judgment in Clinical Experiences. Journal of Educational Supervision 8(3). https://doi.org/10.69772/jes.8.3.1
 
-`q2 · i?`
+`q1 · qualitative design-based case study (three candidates, no comparison)` · `i? · no effect size reported` · `n=3`
 
-Qualitative design-based case analysis of three teacher candidates' weekly written post-teaching analyses during a fall 2019 twelve-week clinical, rated with the final pedagogical judgment rubric. The authors report that "Across all three cases, teacher candidates demonstrated growth" in describing student learning and analyzing their teaching moves. No effect sizes are reported.
+Qualitative design-based case analysis of three teacher candidates' weekly written post-teaching analyses during a fall 2019 twelve-week clinical, rated with the final pedagogical judgment rubric. The three were bachelor's candidates in one secondary social-studies program at a research university in the American South. The authors report that "Across all three cases, teacher candidates demonstrated growth" in describing student learning and analyzing their teaching moves. With no comparison condition, the study describes growth and the authors' reading of what contributed to it (the prompts and feedback "seemed to" influence candidates), not an effect of the support. No effect sizes are reported.
 
 > "Across all three cases, teacher candidates demonstrated growth in their ability to describe student learning, analyze their own teaching moves, and identify connections between instructional decisions and student understanding."
 

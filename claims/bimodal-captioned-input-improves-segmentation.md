@@ -41,5 +41,5 @@ The article attributes this finding to Charles and Trenkic (2015), saying the im
 
 
 ## Related Claims
-- [Redundant on-screen text duplicates of narration or graphics impair learning](redundancy-principle.md) — related
+- [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — related
 - [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — related

@@ -41,7 +41,7 @@ Open Source Physics (OSP) focuses on the design of computer models, such as Easy
 - [A Singapore teacher community has remixed 75 EJS models and lesson packages toward a national digital library](../claims/osp-community-remixed-75-ejs-models.md) [+W]
 - [The OSP approach helps users overcome barriers in creating, using and scaling up meaningful ICT use in education](../claims/osp-overcomes-ict-barriers.md) [+W]
 - [Comparing an incorrect applied-force model (fx = 10 N) with real data shows students why projectile motion has no x-direction acceleration](../claims/tracker-incorrect-fx-model-refutes-x-force.md) [+W]
-- [Keying a constant-vx dynamic model against real video data helps students make sense of constant x-direction velocity in projectile motion](../claims/tracker-constant-vx-model-activity.md) [+W]
+- [A proposed Tracker activity has students key a constant-vx dynamic model against real video data so they can see for themselves that x-direction velocity is constant in projectile motion](../claims/tracker-constant-vx-model-activity.md) [+W]
 - [Students can derive an accurate gravitational acceleration value from Tracker's parabola fit of a falling-ball video](../claims/tracker-parabola-fit-derives-gravitational-acceleration.md) [+W]
 - [After a guided-inquiry lesson with the collision-carts simulation, students' self-reported knowledge of the physics increased and most rated the lesson enjoyable and valuable](../claims/collision-carts-simulation-lesson-positive-student-feedback.md) [+W]
 - [Initial findings suggest video modeling pedagogy is suitable for active and deep learning through predicting, observing and explaining](../claims/video-modeling-suits-active-deep-learning.md) [+W]

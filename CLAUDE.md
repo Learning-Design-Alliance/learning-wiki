@@ -110,6 +110,26 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-29 (evening) — batch 10, the adult language-learning deep dive
+
+- **75 ERIC articles from `eval/deep-dive/adult-language-learning/topics.txt`, all ingested** (541 pages,
+  0 rejected), 55 of 75 first time, about $0.27 billed ($0.0037 an article on v136, Sail Research for
+  71). Every source quote passes the grounding rule; 212 of 215 decimal statistics appear in their
+  articles. The batch brought SLA theory pages the wiki lacked (output hypothesis, noticing, L2
+  motivational self system, usage-based development, willingness to communicate), several in two or
+  three near-duplicate versions; Long's interaction hypothesis and skill-acquisition theory are still
+  missing. Next: consolidate those, link the design pages, and re-run usage scenario S1 (Italian A1).
+- **The claim links of #132 made 434 claims load-bearing** (3+ design pages), so the batch's check
+  judged older claims it had never read, and 15 failed. All are settled: 11 corrected (Adesope &
+  Nesbit 2012 and Trypke et al. 2023 had been worded as the opposite of their abstracts on the
+  redundancy pages; Kulik 1990's "requires added time"; five qualitative, survey or proposal studies
+  titled as causal findings, retitled to what was observed with their scope, and recoded q1; two
+  citations, Barber et al. (2007, not 2006) and Vongehr (2012, the arXiv paper, not the 2011 blog
+  post), corrected on all 19 pages from those sources with DataCite DOIs), 4 dismissed (Alfieri's
+  wrong OpenAlex abstract, twice; Furtak's and Williams's titles, which Crossref confirms). Link text
+  on 49 pages now matches the retitled claims. A link's marker was not changed with its claim's title:
+  one page cites the narrowed `redundancy-principle` `[+S]`, and whether that still fits is a reading.
+
 ### 2026-09-29 (later) — v136 is `CURRENT`; q4 errors fixed; design pages linked to claims; a kind-and-rigour pilot
 
 - **`CURRENT` is v136** (maintainer's decision). No quantisation filter and no provider pin: 8-bit

@@ -42,7 +42,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Multimedia Principles Benefit Novices](../claims/multimedia-principles-benefit-novices.md) [+M]
 - [Different media combinations significantly affect the recall and retention of information](../claims/media-combinations-affect-recall-and-retention.md) [+W]
 - [Audio narration with finger-tracking animation directs bilingual preschoolers' attention to the target-language print in dual-language e-books, including the nondominant language](../claims/enhancing-features-direct-attention-dual-language-e-books.md) [+W]
-- [Redundant on-screen text duplicates of narration or graphics impair learning](../claims/redundancy-principle.md) [+M]
+- [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](../claims/redundancy-principle.md) [+M]
 - [Redundancy Effect Impairs Learning](../claims/redundancy-effect-impairs-learning.md) [+M]
 - [Redundancy Hurts Learning](../claims/redundancy-hurts-learning.md) [+M]
 

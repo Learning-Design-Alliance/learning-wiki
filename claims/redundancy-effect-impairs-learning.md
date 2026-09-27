@@ -110,7 +110,7 @@ Both subclaims currently lack Evidence entries; the classic experimental and met
 - [Expertise Reversal Guidance Hurts Experts](expertise-reversal-guidance-hurts-experts.md) — related
 - [Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking](laptop-notes-verbatim-shallower.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
-- [Redundant on-screen text duplicates of narration or graphics impair learning](redundancy-principle.md) — possibly the same claim (merge candidate)
+- [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — possibly the same claim (merge candidate)
 - [Redundancy Hurts Learning](redundancy-hurts-learning.md) — a narrower finding that bears on this claim
 - [Redundant text in the diagram did not affect posttest accuracy or difficulty ratings](redundant-text-no-effect-posterior-probability-lesson.md) — related
 - [Interesting but irrelevant details impair learning](seductive-details-effect.md) — related

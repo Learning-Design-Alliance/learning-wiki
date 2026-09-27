@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Students perceive computer-based simulation cases as lacking authenticity because behavioral modifications for young clients are absent
-description: Students perceive computer-based simulation cases as lacking authenticity because behavioral modifications for young clients are absent
+title: In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications
+description: In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications
 id: simucase-lacks-behavioral-authenticity
 status: draft
 generated:
@@ -11,29 +11,30 @@ evidence_strength: weak
 sources:
   - id: elliott-2021
     resource: "https://doi.org/10.30707/TLCSD5.1.1624982519.538001"
-    title: "Elliott, Haley and Brumbaugh, Klaire (2021). Student Perceptions of a Simulated Clinical Experience: A Pilot Study. Teaching and Learning in Communication Sciences & Disorders, 5(1), Article 7. https://doi.org/10.30707/TLCSD5.1.1624982519.538001"
-    author: Elliott, Haley and Brumbaugh, Klaire
-    q: 2
+    title: "Elliott, H., & Brumbaugh, K. (2021). Student Perceptions of a Simulated Clinical Experience: A Pilot Study. *Teaching and Learning in Communication Sciences & Disorders, 5*(1), Article 7. https://doi.org/10.30707/TLCSD5.1.1624982519.538001"
+    author: "Elliott, H., & Brumbaugh, K."
+    q: 1
     i: "?"
+    n: 10
 ---
 
-# Students perceive computer-based simulation cases as lacking authenticity because behavioral modifications for young clients are absent
+# In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · `q1` argument or single case · n=10
 
 ## Subclaims
-`q2 i?` Most participants reported a lack of behavioral modifications in the cases, which they felt was not authentic to real pediatric clients. [→ Elliott 2021](#elliott-2021)
+`q1 i?` In two focus groups with 10 first- and second-semester SLP graduate students at one Midwestern university, most participants reported a lack of behavioral modifications in the Simucase child speech-and-language assessment cases, which they felt was not authentic to younger clients, who may present with behavioral concerns in person. [→ Elliott 2021](#elliott-2021)
 
 ## Evidence
 
 ### Elliott 2021
 
-Elliott, Haley and Brumbaugh, Klaire (2021). Student Perceptions of a Simulated Clinical Experience: A Pilot Study. Teaching and Learning in Communication Sciences & Disorders, 5(1), Article 7. https://doi.org/10.30707/TLCSD5.1.1624982519.538001
+Elliott, H., & Brumbaugh, K. (2021). Student Perceptions of a Simulated Clinical Experience: A Pilot Study. *Teaching and Learning in Communication Sciences & Disorders, 5*(1), Article 7. https://doi.org/10.30707/TLCSD5.1.1624982519.538001
 
-`q2 · i?`
+`q1 · qualitative phenomenological pilot (two focus groups, no comparison)` · `i? · no effect size reported` · `n=10`
 
-Focus-group theme from the qualitative pilot. Participants also preferred cases with real people over simulated computer-voice people, and the case history portion produced the most frustration and nonspecific clicking. The authors link this to Ellis's (2017) finding on wanting more real-life occurrences.
+Focus-group theme from a qualitative phenomenological pilot: two focus groups (four and six students) of first- and second-semester graduate students at a rural public graduate school in the Midwest, after an eight-week summer 2019 clinical practicum in child speech and language assessment run on Simucase. The finding is participants' perception of the cases, not a measurement of them, and one participant said they preferred the cases with real people to the simulated or computer-voice ones. The case history portion produced the most frustration and nonspecific clicking. The authors link this to Ellis's (2017) finding on wanting more real-life occurrences.
 
 > "Another finding was that most participants reported that there was a lack of behavioral modifications incorporated into the cases. Participants indicated this was not authentic, as many younger clients may present with behavioral concerns in person."
 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "The study's results confirm both theses of the Interaction Equivalency Theorem in blended learning contexts"
-description: "The study's results confirm both theses of the Interaction Equivalency Theorem in blended learning contexts"
+title: In a survey of 236 blended-learning students, learners readily ranked teacher, student and content interaction, which the authors read as supporting both theses of the Interaction Equivalency Theorem
+description: In a survey of 236 blended-learning students, learners readily ranked teacher, student and content interaction, which the authors read as supporting both theses of the Interaction Equivalency Theorem
 id: theorem-theses-confirmed-by-survey
 status: draft
 generated:
@@ -15,15 +15,16 @@ sources:
     author: "Miyazoe, T., & Anderson, T."
     q: 2
     i: "?"
+    n: 236
 ---
 
-# The study's results confirm both theses of the Interaction Equivalency Theorem in blended learning contexts
+# In a survey of 236 blended-learning students, learners readily ranked teacher, student and content interaction, which the authors read as supporting both theses of the Interaction Equivalency Theorem
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · `q2` quasi-experiment · n=236
 
 ## Subclaims
-`q2 i?` Students could name and rank their most preferred interaction pair without hesitation, and the ranking changed with learning mode and subject, which the authors take to confirm Thesis 1 and Thesis 2. [→ Miyazoe 2010](#miyazoe-2010)
+`q2 i?` Students at four universities in Tokyo and Taipei could rank the three interaction elements (teacher, student and content) by importance without hesitation, and the ranking appeared to change with learning mode and subject; the authors say this seems to confirm Thesis 1 and confirms Thesis 2, but the survey measured perceived priorities, not learning or satisfaction, which is what the theses are about. [→ Miyazoe 2010](#miyazoe-2010)
 
 ## Evidence
 
@@ -31,9 +32,9 @@ sources:
 
 Miyazoe, T., & Anderson, T. (2010). Empirical Research on Learners' Perceptions: Interaction Equivalency Theorem in Blended Learning. European Journal of Open, Distance and E-Learning. http://www.eurodl.org/?article=397
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · descriptive survey of perceived priorities (no learning or satisfaction outcome)` · `i? · the article prints no effect size for this finding` · `n=236`
 
-Authors' conclusion drawn from the full survey of 236 students, in which students produced complete rankings of teacher, student, and content interaction. The article states the results "seem to confirm Thesis 1" and confirmed Thesis 2; no inferential statistic is printed.
+Authors' conclusion drawn from the full survey of 236 students, in which students produced complete rankings of teacher, student, and content interaction. The article states the results "seem to confirm Thesis 1" and confirmed Thesis 2; no inferential statistic is printed. The inventory asked students to rank the three interaction elements by how important each was to the quality of their learning; it did not measure whether one high-level interaction is enough for deep and meaningful learning (Thesis 1) or whether several produce a more satisfying experience (Thesis 2), so the confirmation is the authors' interpretation of preference data rather than a test of either thesis.
 
 > "This study confirmed Thesis 2 because, not only can the students name the best interaction, they can also rank the three kinds of interaction. Moreover, this ranking likely changes depending on the learning modes and learning subjects as far as the results of this study suggests."
 

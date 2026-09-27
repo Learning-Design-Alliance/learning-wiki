@@ -58,7 +58,7 @@ The same case analysis notes non-linear progress: Marcus sometimes "reverted to 
 
 
 ## Related Claims
-- [Structured, iterative support aligned to rubric competencies improves teacher candidates' pedagogical judgment over a clinical semester](structured-iterative-support-improves-pedagogical-judgment.md) — a broader claim this one bears on
+- [In a qualitative case study of three social-studies teacher candidates, pedagogical judgment appeared to grow over a clinical semester of structured, iterative support aligned to rubric competencies](structured-iterative-support-improves-pedagogical-judgment.md) — a broader claim this one bears on
 - [Revised post-teaching prompts (RPTAA) advanced candidates' capacity for more sophisticated analysis compared with the original prompts (PTAA)](revised-prompts-advance-sophisticated-analysis.md) — related
 - [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — a broader claim this one bears on
 - [Research on clinical supervision's effectiveness is inconclusive, partly because practice is diluted and tied to evaluation](clinical-supervision-effectiveness-inconclusive.md) — related

@@ -44,7 +44,7 @@ The Interaction Equivalency Theorem, posited by Anderson (2003a), holds that dee
 - [Native versus non-native instructor status was a minor factor in students' perceived quality interaction](../claims/native-instructor-status-minor-factor.md) [+W]
 - [Students' general expectations of interaction for learning quality show no single priority order common to all](../claims/no-universal-interaction-priority-order.md) [+W]
 - [In online learning, the perceived importance of teacher and student interaction decreases with student age](../claims/online-interaction-priority-decreases-with-age.md) [+W]
-- [The study's results confirm both theses of the Interaction Equivalency Theorem in blended learning contexts](../claims/theorem-theses-confirmed-by-survey.md) [+W]
+- [In a survey of 236 blended-learning students, learners readily ranked teacher, student and content interaction, which the authors read as supporting both theses of the Interaction Equivalency Theorem](../claims/theorem-theses-confirmed-by-survey.md) [+W]
 
 ## Related Theories
 

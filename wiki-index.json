@@ -5167,12 +5167,12 @@
    "type": "claim"
   },
   {
-   "description": "Students showed gains in upper-level thought, including transfer of reflective skills to other disciplines",
+   "description": "In a qualitative study of 32 EFL teacher-education students, participants described deeper, more reflective thinking after metacognitive and critical-thinking instruction, and one reported applying it in other disciplines",
    "evidence_strength": "weak",
    "id": "ct-metacog-upper-level-thought",
    "path": "claims/ct-metacog-upper-level-thought.md",
    "status": "draft",
-   "title": "Students showed gains in upper-level thought, including transfer of reflective skills to other disciplines",
+   "title": "In a qualitative study of 32 EFL teacher-education students, participants described deeper, more reflective thinking after metacognitive and critical-thinking instruction, and one reported applying it in other disciplines",
    "type": "claim"
   },
   {
@@ -19888,7 +19888,7 @@
    "id": "redundancy-principle",
    "path": "claims/redundancy-principle.md",
    "status": "draft",
-   "title": "Redundant on-screen text duplicates of narration or graphics impair learning",
+   "title": "Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help",
    "type": "claim"
   },
   {
@@ -22125,12 +22125,12 @@
    "type": "claim"
   },
   {
-   "description": "Students perceive computer-based simulation cases as lacking authenticity because behavioral modifications for young clients are absent",
+   "description": "In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications",
    "evidence_strength": "weak",
    "id": "simucase-lacks-behavioral-authenticity",
    "path": "claims/simucase-lacks-behavioral-authenticity.md",
    "status": "draft",
-   "title": "Students perceive computer-based simulation cases as lacking authenticity because behavioral modifications for young clients are absent",
+   "title": "In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications",
    "type": "claim"
   },
   {
@@ -23506,12 +23506,12 @@
    "type": "claim"
   },
   {
-   "description": "Structured, iterative support aligned to rubric competencies improves teacher candidates' pedagogical judgment over a clinical semester",
+   "description": "In a qualitative case study of three social-studies teacher candidates, pedagogical judgment appeared to grow over a clinical semester of structured, iterative support aligned to rubric competencies",
    "evidence_strength": "moderate",
    "id": "structured-iterative-support-improves-pedagogical-judgment",
    "path": "claims/structured-iterative-support-improves-pedagogical-judgment.md",
    "status": "draft",
-   "title": "Structured, iterative support aligned to rubric competencies improves teacher candidates' pedagogical judgment over a clinical semester",
+   "title": "In a qualitative case study of three social-studies teacher candidates, pedagogical judgment appeared to grow over a clinical semester of structured, iterative support aligned to rubric competencies",
    "type": "claim"
   },
   {
@@ -25392,12 +25392,12 @@
    "type": "claim"
   },
   {
-   "description": "The study's results confirm both theses of the Interaction Equivalency Theorem in blended learning contexts",
+   "description": "In a survey of 236 blended-learning students, learners readily ranked teacher, student and content interaction, which the authors read as supporting both theses of the Interaction Equivalency Theorem",
    "evidence_strength": "moderate",
    "id": "theorem-theses-confirmed-by-survey",
    "path": "claims/theorem-theses-confirmed-by-survey.md",
    "status": "draft",
-   "title": "The study's results confirm both theses of the Interaction Equivalency Theorem in blended learning contexts",
+   "title": "In a survey of 236 blended-learning students, learners readily ranked teacher, student and content interaction, which the authors read as supporting both theses of the Interaction Equivalency Theorem",
    "type": "claim"
   },
   {
@@ -25779,12 +25779,12 @@
    "type": "claim"
   },
   {
-   "description": "Keying a constant-vx dynamic model against real video data helps students make sense of constant x-direction velocity in projectile motion",
+   "description": "A proposed Tracker activity has students key a constant-vx dynamic model against real video data so they can see for themselves that x-direction velocity is constant in projectile motion",
    "evidence_strength": "weak",
    "id": "tracker-constant-vx-model-activity",
    "path": "claims/tracker-constant-vx-model-activity.md",
    "status": "draft",
-   "title": "Keying a constant-vx dynamic model against real video data helps students make sense of constant x-direction velocity in projectile motion",
+   "title": "A proposed Tracker activity has students key a constant-vx dynamic model against real video data so they can see for themselves that x-direction velocity is constant in projectile motion",
    "type": "claim"
   },
   {

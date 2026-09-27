@@ -41,7 +41,7 @@ The article reviews competing accounts of how critical thinking and metacognitio
 
 - [Ct Metacog Culture Engagement](../claims/ct-metacog-culture-engagement.md) [+W]
 - [Students perceived that critical thinking and metacognition training increased their achievement and learning efficiency](../claims/ct-metacog-achievement-perceptions.md) [+W]
-- [Students showed gains in upper-level thought, including transfer of reflective skills to other disciplines](../claims/ct-metacog-upper-level-thought.md) [+W]
+- [In a qualitative study of 32 EFL teacher-education students, participants described deeper, more reflective thinking after metacognitive and critical-thinking instruction, and one reported applying it in other disciplines](../claims/ct-metacog-upper-level-thought.md) [+W]
 
 ## Related Theories
 

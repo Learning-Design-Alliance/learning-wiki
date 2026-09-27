@@ -66,7 +66,7 @@ A meta-analysis of 57 independent experimental studies, mostly with postsecondar
 **Moderators and boundary conditions.**
 
 - *Learner expertise.* The harm from redundancy appears mainly for novices. More knowledgeable learners can bypass the integration cost, and for them redundant text may even serve as a review aid — an instance of the [expertise reversal effect](../theories/expertise-reversal-effect.md) [~M]. Redundancy guidelines should therefore be relaxed or reversed as expertise grows.
-- *Pacing.* When learners control pacing, they can self-manage the cost of cross-referencing two sources, which weakens the effect [~M]. The effect is strongest under system-paced, transient presentations such as narrated animation, where learners cannot pause to reconcile the channels.
+- *Pacing.* When learners control pacing, they can self-manage the cost of cross-referencing two sources, which weakens the effect [~M]. The effect is strongest under system-paced, transient presentations such as narrated animation, where learners cannot pause to reconcile the channels. Adesope & Nesbit's (2012) meta-analysis points the other way for text plus verbatim speech: its advantage of spoken–written over spoken-only presentations was found for system-paced materials and for low prior knowledge learners, so these two moderators are unsettled.
 - *Necessity of text.* When text is needed for reasons the medium cannot serve — accessibility, technical constraints, searchability — designers should minimize overlap (e.g., condensed on-screen summaries rather than verbatim transcripts) rather than simply delete it [~W].
 
 **Design implications.** Audit multimedia lessons for verbatim duplication: remove on-screen text that repeats narration word-for-word, replace redundant labels with brief captions that add information, and integrate explanatory text into the graphic it describes rather than placing it beside a duplicate. Where duplication is unavoidable (e.g., captioning requirements), reduce the overlap by condensing one channel. More broadly, redundancy is one of several extraneous-load sources that [cognitive load management](../claims/cognitive-load-management.md) [+M] techniques are designed to eliminate.
@@ -85,6 +85,6 @@ A meta-analysis of 57 independent experimental studies, mostly with postsecondar
 - [Expertise Reversal Guidance Hurts Experts](expertise-reversal-guidance-hurts-experts.md) — related
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — a broader claim this one bears on
-- [Redundant on-screen text duplicates of narration or graphics impair learning](redundancy-principle.md) — a broader claim this one bears on
+- [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — a broader claim this one bears on
 - [Multimedia Principles Benefit Novices](multimedia-principles-benefit-novices.md) — related
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related

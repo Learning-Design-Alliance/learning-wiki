@@ -13,14 +13,15 @@ sources:
     resource: "https://eric.ed.gov/?id=EJ1301134"
     title: "Șchiopu, L. (2018). Integrating metacognition and critical thinking skills in the exploration of culture in EFL classroom. Journal of Pedagogical Research, 2(3), 181-191. https://eric.ed.gov/?id=EJ1301134"
     author: Șchiopu, L.
-    q: 2
+    q: 1
     i: "?"
+    n: 32
 ---
 
 # In a qualitative study of 32 EFL teacher-education students, participants described deeper, more reflective thinking after metacognitive and critical-thinking instruction, and one reported applying it in other disciplines
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · `q1` argument or single case · n=32
 
 ## Subclaims
 `q1 i?` In the author's qualitative account of 32 teacher-education students at one Moldovan university, participants were described as understanding their professional development more deeply and becoming more skeptical and insightful; one student reported applying what they learned to other disciplines. There was no comparison group or outcome measure. [→ Șchiopu 2018](#schiopu-2018)

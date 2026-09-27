@@ -8,10 +8,10 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 sources:
-  - id: sascha-vongehr-2011
-    resource: "https://www.science20.com/alpha_meme/official_quantum_randi_challenge-80168"
-    title: "Sascha Vongehr. (2011). Quantum Randi Challenge. https://www.science20.com/alpha_meme/official_quantum_randi_challenge-80168"
-    author: Sascha Vongehr
+  - id: vongehr-2012
+    resource: "https://doi.org/10.48550/arXiv.1207.5294"
+    title: "Vongehr, S. (2012). Quantum Randi Challenge. arXiv:1207.5294. [doi:10.48550/arXiv.1207.5294](https://doi.org/10.48550/arXiv.1207.5294)"
+    author: "Vongehr, S."
 ---
 
 # Refuse debate with pseudoscience until the challenge is met, using the challenge's existence as the argument
@@ -46,4 +46,4 @@ A communication strategy for educators and scientists facing pseudoscientific cl
 -
 
 ## Key Sources
-- Sascha Vongehr. (2011). Quantum Randi Challenge. https://www.science20.com/alpha_meme/official_quantum_randi_challenge-80168
+- Vongehr, S. (2012). Quantum Randi Challenge. arXiv:1207.5294. [doi:10.48550/arXiv.1207.5294](https://doi.org/10.48550/arXiv.1207.5294)

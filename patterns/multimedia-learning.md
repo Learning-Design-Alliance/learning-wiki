@@ -50,7 +50,7 @@ Multimedia Learning is the short-form canonical target for patterns that combine
 - [Digital Learning](../elements/digital-learning.md)
 
 ## Claims
-- [Redundant on-screen text duplicates of narration or graphics impair learning](../claims/redundancy-principle.md) [~W]
+- [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](../claims/redundancy-principle.md) [~W]
 - [Redundancy Effect Impairs Learning](../claims/redundancy-effect-impairs-learning.md) [~M]
 - [Redundancy Hurts Learning](../claims/redundancy-hurts-learning.md) [~S]
 

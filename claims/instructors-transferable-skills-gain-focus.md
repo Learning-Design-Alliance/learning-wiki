@@ -41,7 +41,7 @@ Study 1 findings on the gain question produced Global Theme 2, "Students develop
 
 
 ## Related Claims
-- [Students showed gains in upper-level thought, including transfer of reflective skills to other disciplines](ct-metacog-upper-level-thought.md) — related
+- [In a qualitative study of 32 EFL teacher-education students, participants described deeper, more reflective thinking after metacognitive and critical-thinking instruction, and one reported applying it in other disciplines](ct-metacog-upper-level-thought.md) — related
 - [Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)](instructors-enjoyment-peer-community-engagement.md) — reports the opposite
 - [Instructors and students agree that personal gain is the primary value of experiential learning, with beauty and social good seen as important but of lesser significance](soka-experiential-learning-gain-primary-value.md) — possibly the same claim (merge candidate)
 - [Both groups see societal benefit in experiential learning, but instructors weight societal good more heavily than students, whose reflections center on personal fulfillment](societal-good-instructor-student-contrast.md) — related

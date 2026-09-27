@@ -40,7 +40,7 @@ Tracker is a "free video analysis and modeling tool built on the Open Source Phy
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Keying a constant-vx dynamic model against real video data helps students make sense of constant x-direction velocity in projectile motion](../claims/tracker-constant-vx-model-activity.md) [+W]
+- [A proposed Tracker activity has students key a constant-vx dynamic model against real video data so they can see for themselves that x-direction velocity is constant in projectile motion](../claims/tracker-constant-vx-model-activity.md) [+W]
 - [Comparing an incorrect applied-force model (fx = 10 N) with real data shows students why projectile motion has no x-direction acceleration](../claims/tracker-incorrect-fx-model-refutes-x-force.md) [+W]
 - [Students can derive an accurate gravitational acceleration value from Tracker's parabola fit of a falling-ball video](../claims/tracker-parabola-fit-derives-gravitational-acceleration.md) [+W]
 - [Using video analysis data to set model parameters yields a more precise model than trial-and-error model building](../claims/data-driven-modeling-more-precise-than-trial-and-error.md) [+W]

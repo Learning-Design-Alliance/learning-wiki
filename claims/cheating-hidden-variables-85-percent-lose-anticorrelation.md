@@ -9,10 +9,10 @@ generated:
   at: 2026-09-26
 evidence_strength: moderate
 sources:
-  - id: sascha-vongehr-2011
-    resource: "https://www.science20.com/alpha_meme/official_quantum_randi_challenge-80168"
-    title: "Sascha Vongehr. (2011). Quantum Randi Challenge. https://www.science20.com/alpha_meme/official_quantum_randi_challenge-80168"
-    author: Sascha Vongehr
+  - id: vongehr-2012
+    resource: "https://doi.org/10.48550/arXiv.1207.5294"
+    title: "Vongehr, S. (2012). Quantum Randi Challenge. arXiv:1207.5294. [doi:10.48550/arXiv.1207.5294](https://doi.org/10.48550/arXiv.1207.5294)"
+    author: Vongehr, S.
     q: 2
     i: "?"
 ---
@@ -23,13 +23,13 @@ sources:
 > **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
-`q2 i?` Misreporting measurement outcomes raises Bell violation to about 85% (CHSH 50%), but anti-correlation at equal angles drops to about 87% on average; only by violating anti-correlation can hidden variables exceed 50% violation. [→ Sascha Vongehr 2011](#sascha-vongehr-2011)
+`q2 i?` Misreporting measurement outcomes raises Bell violation to about 85% (CHSH 50%), but anti-correlation at equal angles drops to about 87% on average; only by violating anti-correlation can hidden variables exceed 50% violation. [→ Vongehr 2012](#vongehr-2012)
 
 ## Evidence
 
-### Sascha Vongehr 2011
+### Vongehr 2012
 
-Sascha Vongehr. (2011). Quantum Randi Challenge. https://www.science20.com/alpha_meme/official_quantum_randi_challenge-80168
+Vongehr, S. (2012). Quantum Randi Challenge. arXiv:1207.5294. [doi:10.48550/arXiv.1207.5294](https://doi.org/10.48550/arXiv.1207.5294)
 
 `q2 · i?`
 
