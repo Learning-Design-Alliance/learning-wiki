@@ -133,6 +133,7 @@ Unit or course. A single loop can fit inside one lesson (a lab followed by a str
 **Engineering and science labs run as cycles rather than recipes:** Students predict, run the experiment, confront the discrepancy between prediction and result, formalize the underlying principle, then design a follow-up test — as opposed to confirmatory labs, which stop after the experience.
 
 **Teacher preparation practica:** Teach a lesson, review it with a mentor against specific observation prompts, name the pedagogical principle involved, and redesign the next lesson to test it.
+- [Close the feedback cycle with guided reflection on what was learned (post-noticing stage)](../strategies/post-noticing-reflection-guides.md)
 
 ## Key Sources
 - Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Prentice-Hall.

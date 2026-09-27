@@ -43,3 +43,4 @@ Analysis of the delayed posttest's 12 questions (three each on discrimination le
 ## Related Claims
 - [Retention after learning with the chunking method is high, with 85% to 95% of original learning retained over three months](chunking-method-high-retention.md) — related
 - [Repeated measures ANOVA shows significant time-of-testing effect and significant time-by-group interaction on word-problem scores](time-by-group-interaction-problem-solving-plan.md) — related
+- [Verbal problem solving scores on both criteria are highly resistant to forgetting over four weeks](verbal-problem-scores-resistant-to-forgetting.md) — related

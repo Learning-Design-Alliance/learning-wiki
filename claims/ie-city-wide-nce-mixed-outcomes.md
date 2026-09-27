@@ -43,3 +43,4 @@ Normal-curve equivalent scores on the City-wide Testing Program were tracked for
 ## Related Claims
 - [Up to about 35 IE sessions moderated the decline of report card marks in language-based subjects, but IE did not affect mathematics grades](ie-sessions-moderate-decline-in-language-marks-not-math.md) — related
 - [More Instrumental Enrichment sessions predicted higher Raven posttest scores for regular education middle-grade students](ie-sessions-predict-higher-raven-posttest-regular-students.md) — reports the opposite
+- [In Brownsville's primary schools, no school had more than 30% of students reading at or above grade level](brownsville-primary-reading-below-grade-level.md) — related

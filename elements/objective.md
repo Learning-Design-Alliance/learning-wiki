@@ -68,6 +68,7 @@ Well-formed objectives improve alignment between instruction and assessment, whi
 **[Understanding by Design](https://www.ascd.org/books/understanding-by-design-expanded-2nd-edition)** — Wiggins & McTighe's backward design starts from desired results (objectives/enduring understandings), then determines acceptable evidence, then plans activities.
 
 **[Khan Academy](https://www.khanacademy.org)** — Each exercise and unit displays explicit mastery objectives ("Solve two-step equations"), tied to a mastery-tracking system that makes progress toward the objective visible.
+- [Pair each performance objective with a demonstration-based suggested activity and coded resource references](../strategies/objective-activity-resource-alignment-strategy.md)
 
 ## Key Sources
 - Mager, R. F. (1962). *Preparing instructional objectives*. Fearon Publishers.

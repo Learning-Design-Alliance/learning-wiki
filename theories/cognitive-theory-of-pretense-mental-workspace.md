@@ -44,7 +44,8 @@ The review describes a recently proposed "cognitive theory of pretense" (Nichols
 - [Title I preschool classrooms showed no typical increase in social pretense and verbal interaction over time, most evident in lowest-SES classrooms](../claims/title-i-preschools-no-increase-social-pretense.md) [+W]
 
 ## Related Theories
-- 
+
+- [Shared cognitive operations account: identity and reversibility underlie conservation, pretense play, and gender constancy](shared-identity-reversibility-operations-account.md)
 
 ## Examples
 -

@@ -44,6 +44,7 @@ The article treats intertextuality—words and texts always interacting and effe
 
 - [Dialogism, intertextuality, and hypertextuality: the language-centered genealogy leading to connectivism](dialogism-intertextuality-hypertextuality-genealogy.md)
 - [Anderson's six modes of interaction as an architectonic model of online education](anderson-six-modes-interaction-online-education.md)
+- [The Kantian Effect: a metaphor and paradigm linking intertextuality and interdisciplinarity through four dialogic principles](kantian-effect-integrative-paradigm.md)
 
 ## Examples
 -

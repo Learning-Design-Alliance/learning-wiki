@@ -45,3 +45,4 @@ Interpretive argument drawing on the paper's media analysis, including the New Y
 - [Principles of reason assessment are both subject-neutral and subject-specific](reason-assessment-principles-both-neutral-and-specific.md) — related
 - [Narrative and storying genres in educational inquiry risk disempowering the very people they claim to empower](narrative-genres-may-disempower-while-claiming-empowerment.md) — related
 - [Conceptions of how children learn literacy are cultural and political as much as scientific, shaping different classroom practices across countries](literacy-learning-conceptions-culturally-shaped.md) — related
+- [The storied format of personal experience research can transcend the specialties of the immediate research field to influence a larger research community](storied-format-transcends-field-specialties.md) — related

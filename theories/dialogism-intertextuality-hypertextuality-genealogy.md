@@ -43,6 +43,9 @@ The article describes a chain of language-centered theories within architectonic
 - [Intertextuality and hypertextuality as twin modes of convergence operationalizing online education](intertextuality-hypertextuality-convergence-modes.md)
 - [Architectonics: the philosophical tradition of building and relating meaning, knowledge, and experience](architectonics-science-of-relations.md)
 - [Peircean architectonics as an interdisciplinary paradigm organized by triadic logic](peircean-architectonics-interdisciplinary-paradigm.md)
+- [Dialogism: Bakhtin's dialogic reconceptualization of architectonics as a philosophy of interrelations mediated by language and texts](dialogism-bakhtin-architectonics.md)
+- [Kantian architectonics: a theory of the systematic, constructivist organization of relations in cognition and higher education](kantian-architectonics-systematic-relations.md)
+- [The Kantian Effect: a metaphor and paradigm linking intertextuality and interdisciplinarity through four dialogic principles](kantian-effect-integrative-paradigm.md)
 
 ## Examples
 -

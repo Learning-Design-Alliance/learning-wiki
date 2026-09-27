@@ -46,3 +46,4 @@ Exploratory factor analysis of polychoric correlation matrices in Stata, with sc
 - [In concurrent unidimensional calibration the Speaking subtest dominates the Oral scale score while Listening and Speaking correlate only moderately](speaking-dominates-concurrent-oral-scale.md) — related
 - [Achievement dimensionality appears to change from pretest to end-of-course testing, questioning unidimensional ICC measurement of individual growth during instruction](achievement-dimensionality-changes-during-instruction.md) — related
 - [Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content](synthesis-evaluation-measure-general-ability-lower-grades.md) — related
+- [The Self-Reflection and Insight Scale comprises two factors, self-reflection and insight, with distinct correlational profiles; diary keepers show higher self-reflection but lower insight.](sris-two-factors-self-reflection-insight.md) — related

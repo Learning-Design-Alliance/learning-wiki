@@ -70,3 +70,4 @@ Open questions include how durable the effects are beyond immediate performance,
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — verbose self-talk can add rather than relieve load
 - [Self-regulated learning](../theories/self-regulated-learning.md) — self-talk is one of the verbal self-regulation strategies learners use to monitor and control their own learning
 - [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — related
+- [Five-year-olds struggle with memory-taxing serial motor tasks but perform nearly as well as nine-year-olds when the task is simple](serial-motor-task-complexity-age.md) — related

@@ -37,7 +37,8 @@ The article's findings point to support structures timed to program phases: ment
 - Persistence through intensive coding coursework and transition to STEM employment
 
 ## Related Strategies
-- 
+
+- [Establish an inter-institutional, society-level mentorship registry providing continuous support from undergraduate entry through faculty appointment](inter-institutional-society-mentorship-registry.md)
 
 ## Examples
 -

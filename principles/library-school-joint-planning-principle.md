@@ -48,7 +48,8 @@ The CLASP evaluation concluded that successful library-school collaboration requ
 - 
 
 ## Examples
--
+
+- [Guided Inquiry: immersing students in information seeking as a way of learning](../strategies/guided-inquiry-information-seeking-learning.md)
 
 ## Key Sources
 - Small, Ruth V.; Katzer, Jeffrey; Eisenberg, Michael B.; McClure, Charles R. (1994). Connecting Libraries and Schools Project (CLASP) Evaluation. Report #7. Final Report. Information Management Consultant Services, Inc. https://eric.ed.gov/?id=ED382199

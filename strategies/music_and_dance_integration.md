@@ -57,8 +57,10 @@ Music and movement add a second, temporally structured representational channel 
 5. [Application](../elements/application.md) — learners apply the concept in a non-movement task, or design their own movement sequence to teach the concept to an audience.
 
 ## Related Strategies
+
 - [Act It Out](act_it_out.md) — the broader embodied role-play strategy; music and dance integration is its mathematically structured variant
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — rhythmic warm-ups can surface counting and pattern knowledge before new instruction
+- [Develop lesson plans covering all learning objectives across various intelligences](comprehensive-lesson-plans-all-objectives-intelligences.md)
 
 ## Examples
 - **Karl Schaffer and Erik Stern (Math Dance / Dr. Schaffer and Mr. Stern Dance Ensemble)** — classroom workshops and a TEDx talk using dance to teach counting combinations and symmetry ([https://www.mathdance.org](https://www.mathdance.org)).

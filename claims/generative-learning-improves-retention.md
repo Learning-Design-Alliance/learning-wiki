@@ -59,3 +59,4 @@ A meta-analysis of studies that induced self-explanation — a generative strate
 - [Generative Learning Improves Comprehension](generative-learning-improves-comprehension.md) — related
 - [Generative processing improves learning](generative-processing-improves-learning.md) — possibly the same claim (merge candidate)
 - [Self Explanation Prompts Improve Learning From Worked Examples](self-explanation-prompts-improve-learning-from-worked-examples.md) — a narrower finding that bears on this claim
+- [Answering history explanation questions often requires causal inferences because causal relationships are frequently left implicit in textbooks](causal-links-implicit-in-history-textbooks.md) — related

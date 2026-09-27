@@ -44,6 +44,7 @@ The report identifies recurring participant roles that contribute to knowledge t
 
 - [Five structural forms for systems of feedback loops: generator, amplifier, activator, aggregator, catalyzer](feedback-loop-structures-taxonomy.md)
 - [Feedback loops: purposeful, bidirectional, iterative interactions that transform knowledge, actions, or goals](feedback-loops-definition.md)
+- [Six change-agent roles framework for regional staff development staff](six-change-agent-roles-staff-development.md)
 
 ## Examples
 

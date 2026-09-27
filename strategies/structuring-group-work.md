@@ -59,9 +59,11 @@ Group work improves outcomes when it creates genuine interdependence and individ
 5. Close with individual synthesis and brief group processing ([Check-In](../elements/check-in.md)) on collaboration quality.
 
 ## Related Strategies
+
 - [Peer Instruction](peer-instruction.md) — a tightly structured pair-discussion protocol with individual voting accountability
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — role rotation applied to reading comprehension dialogue
 - [Jigsaw Method](../patterns/jigsaw-method.md) — the canonical interdependence structure
+- [Assign small mixed-ability groups and manage group functioning and rotation for collaborative feedback tasks](small-mixed-ability-groups-for-cfts.md)
 
 ## Examples
 - **Jigsaw classroom (Aronson)** — students become experts on one segment in "expert groups," then teach it in mixed "jigsaw groups"; the structure makes each member's contribution indispensable. [https://www.jigsaw.org](https://www.jigsaw.org)

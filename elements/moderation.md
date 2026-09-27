@@ -69,6 +69,7 @@ Well-moderated discussion converts unstructured peer talk into productive [Knowl
 **[Piazza](https://piazza.com)** — Q&A platform for courses where instructor endorsements and follow-ups serve an asynchronous moderation function, steering student answers toward correct reasoning.
 
 **Socratic Seminar protocols (e.g., Paideia seminars)** — Formal moderation scripts: opening question, follow-up probes, and closing reflection that structure student-led dialogue.
+- [Use a process-as-content seminar approach in which learners read, analyze, synthesize, apply, and evaluate individually chosen problems](../strategies/process-as-content-seminar-approach.md)
 
 ## Key Sources
 - Garrison, D. R., Anderson, T., & Archer, W. (2000). Critical inquiry in a text-based environment: Computer conferencing in higher education. *The Internet and Higher Education, 2*(2–3), 87–105. [doi:10.1016/S1096-7516(00)00016-6](https://doi.org/10.1016/S1096-7516(00)00016-6)

@@ -48,3 +48,4 @@ Goodness-of-fit evaluation of the second-order CFA model from questionnaire data
 - [The ACE-HE measurement model of affective, behavioral, and cognitive engagement fits online/blended survey data well](ace-he-engagement-three-dimension-model-good-fit.md) — related
 - [Design of learning activities and measurement/evaluation load highest among knowledge and ability components; systematic thinking highest among personal attributes](idc-subcomponent-highest-loadings.md) — related
 - [Pre-service teachers struggle with instructional design and lesson planning despite existing standards and coursework](pre-service-teachers-struggle-lesson-design.md) — related
+- [A 13-week TPACK-based course significantly improves pre-service preschool teachers' instructional design competence compared with traditional instruction](tpack-course-improves-preservice-preschool-idc.md) — related

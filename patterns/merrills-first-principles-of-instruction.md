@@ -106,6 +106,7 @@ Its practical strength is that it balances authenticity with structured support.
 - [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)
 - [Demonstration, application, and integration corollaries of Merrill's framework](merrill-demonstration-application-integration-corollaries.md)
 - [Problem-centered instruction with task-level engagement and problem progression](problem-centered-task-level-progression-pattern.md)
+- [Five core areas of classroom technology use as organizing units for assessment](five-core-areas-classroom-technology-use.md)
 
 ## Examples
 - Clinical training where learners analyze a case, study demonstrations, practice decisions, and reflect on use in real settings.

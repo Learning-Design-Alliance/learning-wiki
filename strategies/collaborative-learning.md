@@ -60,10 +60,12 @@ Collaboration improves outcomes when it is structured — with assigned roles, i
 6. Debrief both the content and the collaboration itself ([Articulation](../elements/articulation.md))
 
 ## Related Strategies
+
 - [Cooperative Learning](../strategies/cooperative-learning.md) — the formalized, role-structured variant with the strongest evidence base
 - [Peer Instruction](../strategies/peer-instruction.md) — a tightly scripted collaborative sequence for large classes
 - [Jigsaw](../strategies/jigsaw.md) — interdependence by design through divided expertise
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — collaborative comprehension with rotating expert roles
+- [Emphasize cooperation and communication to train students' cooperative consciousness](cooperation-communication-train-cooperative-consciousness.md)
 
 ## Examples
 - **Peer Instruction (Eric Mazur, Harvard)** — students answer individually, discuss in small groups, then revote; widely adopted in physics education ([https://blog.iclicker.com/peer-instruction/](https://blog.iclicker.com/peer-instruction/))

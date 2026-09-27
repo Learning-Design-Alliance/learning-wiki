@@ -57,3 +57,4 @@ Ninety-three participants were randomly assigned to a pretraining group (who wat
 - [Analogical reasoning improves transfer](analogical-reasoning-improves-transfer.md) — another route to transfer via well-structured prior knowledge
 - [Embedding pretraining outperforms end-to-end training in DynEmb, avoiding the overfitting that end-to-end training exhibits](embedding-pretraining-beats-end-to-end-training-dynemb.md) — related
 - [Whole-task performance improves transfer of complex skills to real-world settings.](whole-task-performance-improves-transfer.md) — related
+- [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related

@@ -44,3 +44,4 @@ Mari Koerner's life-history narrative describes her classroom practice of valuin
 - [A teacher mentioning her own less-celebrated identities opens the door for students to include their perspectives and identities](mentioning-other-identities-opens-door-for-students.md) — a narrower finding that bears on this claim
 - [Storying is socially and politically non-neutral: it privileges some storylines and silences others](storying-privileges-some-storylines-silences-others.md) — related
 - [Personal connection to data supports critical data-literacy stance-taking](personal-connection-to-data-supports-critical-data-literacy-stance-taking.md) — related
+- [Teacher educators can coach student teachers in reflective practice using personal histories, dialogue journals, and group discussions](teacher-educator-coaching-reflective-practice-methods.md) — related

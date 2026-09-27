@@ -45,6 +45,7 @@ Drawing on Siegel's (1996) Rationality Redeemed?, the paper presents a broad not
 - [Siegel's reasons conception: critical thinking as being appropriately moved by reasons](siegel-reasons-conception-critical-thinking.md)
 - [Habermas's communicative theory and Kantian limited objectivity as grounding for objective standards in Constructivism](habermas-kantian-limited-objectivity-constructivism.md)
 - [The univocal language of inquiry: the language of reasons across disciplines](language-of-inquiry-as-language-of-reasons.md)
+- [Siegel's two-component account of critical thinking: reason assessment ability plus critical attitude](siegel-two-component-critical-thinking.md)
 
 ## Examples
 -

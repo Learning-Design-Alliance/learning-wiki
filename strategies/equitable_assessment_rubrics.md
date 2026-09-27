@@ -57,9 +57,11 @@ Well-designed rubrics make evaluation criteria transparent before students begin
 6. Have students self- or peer-assess with the rubric before submission ([Individual Reflection](../elements/individual-reflection.md) where available).
 
 ## Related Strategies
+
 - Standards-based grading — the grading system this strategy operationalizes
 - Single-point rubrics — a streamlined variant that reduces ceiling-anchoring
 - Peer assessment with rubrics — extends the formative use beyond the instructor
+- [Iterative post-teaching analysis with rubric-aligned written feedback and revise-and-resubmit cycles](iterative-post-teaching-analysis-feedback-cycle.md)
 
 ## Examples
 - Elementary (grades 3–5) writing rubrics aligned to grade-level standards, shared at assignment launch and used for peer review before drafting ends

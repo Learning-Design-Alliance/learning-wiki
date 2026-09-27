@@ -47,3 +47,5 @@ Correlational analyses across all 125 participants examined professor-student NR
 - [Positive SLAM-student relationship qualities correlate with civic action](slam-relationship-quality-correlates-civic-action.md) — a narrower finding that bears on this claim
 - [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](service-learning-improves-civic-and-personal-outcomes.md) — related
 - [Traditional student participation mechanisms in Spain have been shown to be inefficient for promoting civic commitment](traditional-student-participation-inefficient-spain.md) — related
+- [Naive hope is negatively related to civic engagement, while existential hope is proposed to be positively associated with it](naive-hope-negatively-related-civic-engagement.md) — related
+- [Mentoring relationships in undergraduate research are highly influential in students' campus connection, retention in their major, and persistence to graduation](ur-mentoring-retention-persistence.md) — related

@@ -58,9 +58,11 @@ Revision cycles operationalize [Assessment for Learning](../principles/assessmen
 5. Close the loop: compare drafts against criteria so learners see their growth, and fade feedback support as evaluative judgment develops
 
 ## Related Strategies
+
 - Draft-and-resubmit workflows — the most common single-pass version of this strategy
 - Portfolio assessment — accumulates revision cycles into evidence of growth over time
 - Feedback-before-grade policies — delay grades until after revision so feedback is not eclipsed
+- [Iterative post-teaching analysis with rubric-aligned written feedback and revise-and-resubmit cycles](iterative-post-teaching-analysis-feedback-cycle.md)
 
 ## Examples
 - **Calibrated Peer Review (https://cpr.molsci.ucla.edu)** — discipline-based assignments where students first calibrate their reviewing skill on sample texts, then peer-review and revise in structured cycles.

@@ -45,3 +45,4 @@ Chi-square analysis of the frequency distribution of the three learning theories
 - [Iranian ELT textbooks show no smooth shift from behaviourism to constructivism across educational levels](no-smooth-shift-behaviourism-to-constructivism-iranian-elt.md) — related
 - [Cognitivism is the second most important learning theory reflected across all Iranian ELT textbook levels](cognitivism-second-across-iranian-elt-textbook-levels.md) — a narrower finding that bears on this claim
 - [Constructivism is the major learning theory reflected in Iranian Pre-University ELT textbooks](constructivism-dominates-iranian-pre-university-elt-textbooks.md) — a narrower finding that bears on this claim
+- [The two textbook series differ significantly in the distribution of intelligences across learning objectives](elt-textbook-series-differ-bloom-mi-grid.md) — related

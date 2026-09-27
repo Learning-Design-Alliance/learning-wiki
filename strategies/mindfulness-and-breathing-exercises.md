@@ -59,9 +59,11 @@ Brief mindfulness and slow-breathing practices reliably reduce physiological aro
 5. **Use as a [Check-In](../elements/check-in.md) companion** — pair breathing with a brief emotional check-in to build learners' awareness of their own arousal states and when to deploy the technique independently.
 
 ## Related Strategies
+
 - [Check-Ins](../elements/check-in.md) — emotional awareness routines that pair naturally with breathing practices and help learners recognize when to self-deploy them
 - [Classroom Physical Activity Breaks](classroom-physical-activity-breaks.md) — an alternative or complementary arousal-regulation routine with overlapping attentional benefits
 - [Test Anxiety Reduction](test-anxiety-reduction.md) — breathing exercises are a core acute component of anxiety-reduction protocols before assessments
+- [Thread conscious breathing strategies through warm-up, center work, and class conclusion](breath-strategies-across-dance-class-phases.md)
 
 ## Examples
 - **[Inner Explorer](https://innerexplorer.org)** — a daily audio-guided mindfulness program used in K–12 classrooms; short whole-class practices cued at consistent times, with documented implementation in thousands of US schools.

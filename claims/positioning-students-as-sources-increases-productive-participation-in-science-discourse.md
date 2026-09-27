@@ -47,3 +47,4 @@ The authors are explicit that the co-variation between student-resource invocati
 - [Anonymous real-time sharing of student responses mitigates evaluation apprehension while preserving individual accountability (authors' account)](anonymity-mitigates-evaluation-apprehension.md) — related
 - [Dialogic teacher support cultivates all four aspects of statistical modeling practice over a multi-week unit](dialogic-teacher-support-cultivates-statistical-modeling-practice.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
+- [Outdoor learning activities with Elders increased participation among children who rarely spoke or answered questions in class](elder-led-outdoor-learning-increases-participation.md) — related

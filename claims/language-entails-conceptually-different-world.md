@@ -42,3 +42,4 @@ Conceptual-analysis research on prepositions and equivalent vocabulary across En
 
 ## Related Claims
 - [Monitoring lowers accuracy for unlearnable rules: preposition usage was significantly less accurate in the more monitored style](monitoring-lowers-preposition-accuracy.md) — related
+- [Interdisciplinarity is almost impossible to practice without the integrative power of texts, which are foundational to the disciplines](texts-foundational-interdisciplinarity.md) — related

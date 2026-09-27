@@ -44,3 +44,5 @@ Theoretical argument in the 'Assimilating body and narrative to time' section (a
 - [Deconstructing the modern metaphors of nature cultivated by modern science and industrialism is a first step toward reconstructing relationships with the earth](deconstructing-modern-nature-metaphors-first-step.md) — related
 - [The narratives of premodern mythologies and postmodern physics accept that the creation of meaning in the world is a human and communal responsibility, which modern science fails to do](meaning-creation-human-communal-responsibility.md) — related
 - [Premodern cultures' narratives assimilate language to the world rather than vice versa, offering environmental educators place-bound narrative strategies](premodern-narratives-assimilate-language-to-world.md) — related
+- [Postmodern texts advance five characteristic theses against Enlightenment certainties](five-postmodern-theses-anti-enlightenment.md) — related
+- [The central characteristic of postmodern sensibility is an ontological shift from essentialist to anti-essentialist views of reality](postmodern-ontological-shift-anti-essentialism.md) — related

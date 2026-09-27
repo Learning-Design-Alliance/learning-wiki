@@ -92,3 +92,4 @@ A hierarchical meta-analysis of 96 between-groups experiments compared rewarded 
 - [Feedback Praise Reduces Learning](feedback-praise-reduces-learning.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — reports the opposite
 - [Teacher responses, including verbal rewards, can close off pupil thinking rather than sustain it](teacher-responses-can-close-off-pupil-thinking.md) — related
+- [Students who generate their own research question are apt to be more invested and more engaged](ur-student-generated-question-engagement.md) — related

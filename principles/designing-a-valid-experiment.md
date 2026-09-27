@@ -45,8 +45,10 @@ Once data is collected, a statistical analysis determines how likely it is that 
 - Distinguishing a genuinely random, causally-informative assignment from a merely random-seeming sample, and recognizing when a study's design (quasi-experimental, unblinded, unrandomized) caps how strong a causal conclusion it can support
 
 ## Related Principles
+
 - [Research Design Taxonomy — Quantitative/Qualitative and Descriptive/Correlational/Experimental](../theories/research-design-taxonomy.md) — where experimental design sits in the larger hierarchy of what a study design can conclude
 - [Evidence-Based Teaching and Scientific Reasoning](evidence-based-teaching-and-scientific-reasoning.md)
+- [Always report and interpret effect sizes alongside p values for primary outcomes](always-report-interpret-effect-sizes.md)
 
 ## Examples
 - A double-blind, placebo-controlled drug trial where neither the participant nor the administering researcher knows who received the active medication

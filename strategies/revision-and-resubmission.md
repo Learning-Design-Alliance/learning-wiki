@@ -61,8 +61,10 @@ Feedback only improves achievement when learners actually use it, and resubmissi
 6. Close the loop with brief whole-class feedback on common patterns, or individual [5-Minute Writing Conferences](../strategies/5-minute_writing_conferences.md) for learners who struggle to act on written comments.
 
 ## Related Strategies
+
 - [Action-Oriented Feedback](action-oriented_feedback.md) — the feedback style that makes revision actionable rather than evaluative
 - [Action Planning](action_planning.md) — structures how learners convert feedback into revision steps
+- [Iterative post-teaching analysis with rubric-aligned written feedback and revise-and-resubmit cycles](iterative-post-teaching-analysis-feedback-cycle.md)
 
 ## Examples
 - **Writing-intensive courses using portfolio drafting** — students submit drafts, receive instructor comments, and revise; only the portfolio grade counts, so every piece goes through at least one revision cycle.

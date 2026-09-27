@@ -80,3 +80,4 @@ Open questions include how to measure load reliably in real classrooms (subjecti
 - [Placing heavier cognitive demands on learners can be counterproductive in mapping tasks](heavy-cognitive-demands-of-mapping-can-be-counterproductive.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](part-task-practice-reduces-load-for-novices.md) — related
+- [The prior knowledge of the intended audience determines a text's information density, rate of new information, and accompanying background](audience-prior-knowledge-determines-information-density.md) — related

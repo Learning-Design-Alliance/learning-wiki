@@ -43,9 +43,11 @@ The guide differentiates the function of industrial arts by school level: elemen
 
 - [Industrial arts pyramid program across operational levels](industrial-arts-pyramid-program-levels.md)
 - [Recommended scope and sequence with per-cluster course time allocations](recommended-scope-sequence-time-allocations.md)
+- [Exploratory laboratory program pattern: hands-on experiences leading to tentative career decisions](exploratory-hands-on-career-exploration-pattern.md)
 
 ## Examples
--
+
+- [Louisiana middle-school communications industrial arts curriculum guide (drafting, electricity-electronics, graphic arts, photography)](../elements/louisiana-communications-industrial-arts-guide.md)
 
 ## Key Sources
 - The Iowa Guide for Curriculum Improvement in Industrial Arts, K-12. A Study of Industrial Technology. (1975). Iowa State Dept. of Public Instruction. https://eric.ed.gov/?id=ED113517

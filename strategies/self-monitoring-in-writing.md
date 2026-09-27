@@ -61,10 +61,12 @@ Self monitoring converts writing from a single-pass production task into a cycli
 5. **Close the loop.** Require a brief [Self-Assessment](../elements/self-assessment.md) or [3-2-1 Reflection](../strategies/3-2-1_reflection.md) noting what the monitoring revealed and what was changed; pair with teacher or peer feedback so external and self-evaluation calibrate against each other.
 
 ## Related Strategies
+
 - [Self-Regulated Strategy Development](../strategies/self-regulated-strategy-development.md) — the most researched instructional framework embedding self monitoring in writing
 - [Peer Review](../elements/peer-review.md) — externalizes the monitoring criteria through a social partner, calibrating self-judgment
 - [Goal Setting](../elements/goal-setting.md) — monitoring requires a goal to monitor against; the two strategies are interdependent
 - [Revision](../elements/revision.md) — the action phase where monitoring results are enacted
+- [Focusing techniques for checking a text during drafting and revision](focusing-techniques-drafting-revision.md)
 
 ## Examples
 - **SRSD (Self-Regulated Strategy Development)** — Graham and Harris's framework (see [SRSD for Writers](https://srsdresearch.org)) teaches students to monitor planning and composing using graphing of story parts and self-statements; dozens of experimental studies support its effects on text quality, especially for students with disabilities.

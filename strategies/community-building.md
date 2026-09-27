@@ -57,8 +57,10 @@ Sense of belonging predicts persistence and engagement, particularly for at-risk
 5. Build toward sustained structures — persistent teams, peer review partnerships, or a shared artifact — so relationships accumulate around intellectual work rather than social events alone.
 
 ## Related Strategies
+
 - [Active-Listening](../strategies/active-listening.md) — the interpersonal skill base for discussion norms and peer feedback
 - [Check-In](../strategies/whats_my_emotion_game_check-in.md) — routine low-stakes openings that sustain relational contact
+- [Emphasize cooperation and communication to train students' cooperative consciousness](cooperation-communication-train-cooperative-consciousness.md)
 
 ## Examples
 - **PBL teams with role rotation and team charters** — interdependent roles (facilitator, recorder, skeptic) with individual deliverables prevent free-riding while building team cohesion.

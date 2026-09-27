@@ -50,12 +50,14 @@ In response to the last two criticisms, some accounts propose a **revised experi
 - [Kolb's Learning Style Inventory and experiential learning theory](kolb-learning-style-inventory-four-abilities.md)
 - [Federation University model: a program-level case-based experiential learning framework linking thinking, doing and acting](federation-university-case-based-experiential-model.md)
 - [Kolb's experiential learning cycle as the pedagogical basis for an engineering learning module](kolb-elt-cycle-engineering-module-basis.md)
+- [Experiential learning: students develop opinions of a concept through interaction with information](dewey-experiential-learning-vr.md)
 
 ## Examples
 
 - [Experiential Learning](../principles/experiential-learning.md) — the wiki's design-facing principle page for applying this theory: requirements, constraints, and worked classroom examples (field courses, role play, a step-by-step lesson-integration recipe) live there rather than here, mirroring how [Constructivism](constructivism.md) and its companion principle page are split
 - [Guide experiential curriculum design with Kolb-derived principles: connect to existing knowledge, honour each learner's experiential base, cycle through experience and reflection, and shift power to the learner](../principles/kolb-derived-curriculum-guidelines.md)
 - [Evaluate and assess experiential learning modules longitudinally to build pre-service teachers' pedagogical skills](../strategies/longitudinal-evaluation-of-elt-engineering-modules.md)
+- [Close the feedback cycle with guided reflection on what was learned (post-noticing stage)](../strategies/post-noticing-reflection-guides.md)
 
 ## Key Sources
 - Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Prentice-Hall.

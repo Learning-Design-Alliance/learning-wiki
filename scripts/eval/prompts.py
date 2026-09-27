@@ -180,6 +180,42 @@ regenerate content that already passed validation. Follow the exact same output 
 (the same JSON schema, same field names).{citation_note} Output ONLY the corrected JSON object, nothing else."""
 
 
+# Validator issues whose fix needs the article: a quote to find in it, the source's own
+# citation to read off it, a printed effect size to look for, or a check that compares a
+# field with the article text. Anything else (JSON shape, fields, codes, slugs, links,
+# anchors, an impact bin computed from a statistic already in the output) can be fixed
+# from the previous output alone. Unsure means it needs the article.
+_NEEDS_ARTICLE_FIELDS = ("source_quote", "citation", "key_sources", "article.")
+_NEEDS_ARTICLE_MESSAGES = ("names a printed", "does not appear in the source", "does not resolve",
+                           "not found in the article", "article text", "doesn't match the record")
+
+
+def issue_needs_article(issue: dict) -> bool:
+    field, msg = str(issue.get("field") or ""), str(issue.get("message") or "").lower()
+    return (any(f in field for f in _NEEDS_ARTICLE_FIELDS)
+            or any(m in msg for m in _NEEDS_ARTICLE_MESSAGES)
+            or "consisten" in msg)
+
+
+def lean_retry_possible(issues: list) -> bool:
+    """True when every error can be fixed without the article in the prompt."""
+    errors = [i for i in issues if i.get("severity") == "error"]
+    return bool(errors) and not any(issue_needs_article(i) for i in errors)
+
+
+def build_lean_correction_prompt(previous_raw_output: str, issues: list, max_chars: int = 12_000) -> str:
+    """A correction retry WITHOUT the article, for issues that need only the previous
+    output. It says why the article is absent, because the last time a retry carried no
+    article (before 2026-09-25) GLM answered "no article text was supplied" and rejected
+    good sources; eval_harness also discards any rejection written on a retry."""
+    return ("You already read the article and produced the JSON below. The article is deliberately not "
+            "repeated: every issue listed can be fixed from your own previous output, so this is not a sign "
+            "that the article is missing, and it is never a reason to change the inclusion verdict or to "
+            "reject the source. Keep the inclusion block exactly as it was.\n\n"
+            + build_correction_prompt(previous_raw_output, issues, max_chars).replace(
+                "The article is above; everything below is about your previous answer to it.\n\n", ""))
+
+
 def build_judge_revision_prompt(previous_raw_output: str, issues: list, max_chars: int = 30_000) -> str:
     """eval_harness._judge_gate's one revision round: an independent judge read
     the article and the extraction and failed it. Unlike a validator issue, a

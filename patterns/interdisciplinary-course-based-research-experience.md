@@ -74,8 +74,10 @@ The shared object (a scientific paper) is engaged in four moments across the ter
 - The "human capital" content strategy (relying on students' own disciplinary networks rather than pre-built disciplinary content) depends on learners already having, or being able to access, some outside disciplinary connection — less feasible for younger or more isolated learner populations
 
 ## Related Patterns
+
 - [Problem-Based Learning (PBL)](problem-based-learning-pbl.md) — shares an inquiry-driven, iterative structure, but this pattern is explicitly organized around a single recurring object rather than a driving problem
 - [Organization Simulation for Interdisciplinary Learning](organization-simulation-for-interdisciplinary-learning.md) — a parallel higher-education pattern using a different shared object (a client offer) to the same integrative end
+- [Four modes of undergraduate research differ in social capital required, time on task, and mentoring structure](ur-four-modes-social-capital.md)
 
 ## Examples
 - A six-cohort, 96-student undergraduate/graduate course pairing scientific-writing instruction with authentic research mentorship; roughly 39% of students who completed a paper listed an outside coauthor, and most coauthors (89%) were people outside the course, indicating the shared object connected students to real external research networks.

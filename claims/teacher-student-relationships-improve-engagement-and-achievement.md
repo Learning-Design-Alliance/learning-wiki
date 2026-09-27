@@ -83,3 +83,4 @@ The meta-analysis covers 99 studies of students from preschool to high school an
 - [Teacher Student Relationships Improve Engagement](teacher-student-relationships-improve-engagement.md) — possibly the same claim (merge candidate)
 - [Parent Involvement Improves Achievement](parent-involvement-improves-achievement.md) — related
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — related
+- [Positive teacher-student relationships fulfill relatedness needs and support internalization of learning](relatedness-care-support-internalization.md) — related

@@ -40,6 +40,8 @@ The article is a guide that provides, in one integrated document, a listing and 
 ## Related Elements
 
 - [Culture universals as conceptual tools for studying cultures](culture-universals-conceptual-tools.md)
+- [Bibliography of 29 curriculum materials for affective development](affective-development-curriculum-materials-bibliography.md)
+- [33-page annotated resource listing for students and teachers](expressionism-realism-resource-materials-listing.md)
 
 ## Examples
 

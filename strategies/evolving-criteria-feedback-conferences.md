@@ -41,6 +41,7 @@ For courses where students pursue individual creative projects that cannot have 
 - [Establishing Clear Expectations](establishing-clear-expectations.md)
 - [Negotiated Grades](negotiated_grades.md)
 - [Learning Contracts](learning_contracts.md)
+- [Individualize instruction with performance-oriented materials and behavioral objectives, replacing grades with performance criteria](individualized-performance-criteria-replace-grades.md)
 
 ## Examples
 -

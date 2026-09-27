@@ -40,7 +40,9 @@ Socio-stylistics of writing is Donald Rubin's concept, introduced in Composing S
 - [Style Teaching Reclaimed For Critical Pedagogy](../claims/style-teaching-reclaimed-for-critical-pedagogy.md) [+M]
 
 ## Related Theories
-- 
+
+- [Generative stylistics: writing instruction as the presentation and application of usable criteria for decisions about language use](generative-stylistics-writing-decision-criteria.md)
+- [Labov's five-segment theory of language makes style the function of grammar](labov-style-as-function-of-grammar-theory.md)
 
 ## Examples
 -

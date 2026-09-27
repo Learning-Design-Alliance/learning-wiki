@@ -44,6 +44,7 @@ The Community component holds that developing counsellor skills within a support
 - [Learning Communities](learning-communities.md)
 - [Common Ground Group Assignments](common_ground_group_assignments.md)
 - [Peer Coaching](peer_coaching.md)
+- [Encourage unstructured verbal communication between cooperating and student teachers during student teaching](unstructured-verbal-communication-cooperating-student-teachers.md)
 
 ## Examples
 -

@@ -48,6 +48,8 @@ The guide argues that industrial arts should draw its content from industrial te
 - [Level-differentiated emphases: awareness, exploration, specialization](../patterns/level-differentiated-awareness-exploration-specialization.md)
 - [Industrial arts pyramid program across operational levels](../patterns/industrial-arts-pyramid-program-levels.md)
 - [Recommended scope and sequence with per-cluster course time allocations](../patterns/recommended-scope-sequence-time-allocations.md)
+- [Louisiana middle-school communications industrial arts curriculum guide (drafting, electricity-electronics, graphic arts, photography)](../elements/louisiana-communications-industrial-arts-guide.md)
+- [Deliver career education through industrial arts so all experiences prepare students for economic independence and the dignity of work](../principles/career-education-through-industrial-arts.md)
 
 ## Key Sources
 - The Iowa Guide for Curriculum Improvement in Industrial Arts, K-12. A Study of Industrial Technology. (1975). Iowa State Dept. of Public Instruction. https://eric.ed.gov/?id=ED113517

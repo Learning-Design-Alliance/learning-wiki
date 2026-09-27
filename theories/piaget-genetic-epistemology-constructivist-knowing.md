@@ -47,6 +47,7 @@ The book presents Piaget's genetic epistemology as the developmental backbone of
 - [Piaget's model of a conceptual scaffolding of objects, space, time, and causality frames the construction of experiential reality](piaget-scaffolding-experiential-reality-construction.md)
 - [Vico's principle that we can rationally know only what we ourselves have made as an early formulation of constructivism](vico-constructivist-epistemology.md)
 - [Trial constructivism as the root of constructivism (Piaget's personal constructivism)](trial-constructivism-root-of-constructivism.md)
+- [Constructivism learning theory: knowledge as assumption, learning as active construction, students as subjects, teachers as helpers](constructivism-learning-theory-jia-2010.md)
 
 ## Examples
 

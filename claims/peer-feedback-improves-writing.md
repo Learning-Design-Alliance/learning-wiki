@@ -75,3 +75,4 @@ This meta-analysis synthesized 24 quantitative studies of higher-education stude
 - [Peer Feedback Improves Work Quality](peer-feedback-improves-work-quality.md) — a broader claim this one bears on
 - [Personalized Normative Feedback Corrects Misperceived Norms](personalized-normative-feedback-corrects-misperceived-norms.md) — related
 - [Summarization Improves Learning](summarization-improves-learning.md) — related
+- [Review reports that asking students to notice particular errors decreased errors in a subsequent draft without reducing overall writing quality (Chandler)](noticing-errors-decreases-errors-preserves-quality.md) — related

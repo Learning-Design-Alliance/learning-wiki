@@ -55,6 +55,8 @@ Cognitivism is the broader theoretical paradigm; [Information Processing Theory]
 - [Greenwald's cognitive response account: rehearsal of the recipient's own cognitive responses explains persisting persuasion effects](cognitive-response-account-of-persuasion.md)
 - [The schema-of-the-moment: cognition as a transient functional organization of simultaneously active neuronal elements](schema-of-the-moment.md)
 - [Cognitive learning theory: learners are active, build on prior learning, and learning is a change in mental structures](cognitive-learning-theory-active-constructive.md)
+- [Constructivism learning theory: knowledge as assumption, learning as active construction, students as subjects, teachers as helpers](constructivism-learning-theory-jia-2010.md)
+- [Schema theory: learning new information depends on relating it to existing mental blueprints](schema-theory-prior-knowledge-scaffolding.md)
 
 ## Examples
 - [Advance Organizers](../elements/advance-organizers.md)

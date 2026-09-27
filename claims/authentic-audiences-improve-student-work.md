@@ -92,3 +92,4 @@ A review of research on the cognitive and social processes of writing, conceptio
 - [Rubrics improve student work](rubrics-improve-student-work.md) — related
 - [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](extrinsic-rewards-undermine-intrinsic-motivation-argument.md) — related
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — related
+- [Students perceive computer-based simulation cases as lacking authenticity because behavioral modifications for young clients are absent](simucase-lacks-behavioral-authenticity.md) — related

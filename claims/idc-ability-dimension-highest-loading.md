@@ -45,3 +45,4 @@ Second-order CFA of questionnaire responses from 471 pre-service teachers. The a
 - [The three-dimension instructional design competence model fits the empirical data acceptably in CFA](idc-model-acceptable-cfa-fit.md) — a broader claim this one bears on
 - [Design of learning activities and measurement/evaluation load highest among knowledge and ability components; systematic thinking highest among personal attributes](idc-subcomponent-highest-loadings.md) — related
 - [Pre-service teachers struggle with instructional design and lesson planning despite existing standards and coursework](pre-service-teachers-struggle-lesson-design.md) — related
+- [A 13-week TPACK-based course significantly improves pre-service preschool teachers' instructional design competence compared with traditional instruction](tpack-course-improves-preservice-preschool-idc.md) — related

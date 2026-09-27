@@ -48,7 +48,8 @@ Because publicly engaged scholarship manifests differently across disciplinary g
 - [No instances of service-learning were reported on the RPT forms, an unexpected null the authors attribute partly to the form's design](../claims/no-service-learning-reported-rpt-forms.md) [~W]
 
 ## Related Principles
-- 
+
+- [Evaluate mentorship records, method-sharing contributions, and community engagement with the same rigor as citation metrics in promotion and tenure](portfolio-review-nontraditional-contributions-rigor.md)
 
 ## Examples
 -

@@ -66,6 +66,7 @@ Learning communities work because knowledge is socially constructed and because 
 - [Community-Based Learning](../principles/community-based-learning.md) — extends the community beyond the classroom into a civic or professional setting
 - [Collaborative Learning](collaborative-learning.md) — the task-level interaction structure that learning communities sustain over time
 - [Foster community in counsellor education through student organizations, common space, collegial feedback, and rewards for mutual support](foster-community-counsellor-education-practices.md)
+- [Emphasize cooperation and communication to train students' cooperative consciousness](cooperation-communication-train-cooperative-consciousness.md)
 
 ## Examples
 - **[Community of Inquiry](../principles/community-of-inquiry.md)** frameworks in online courses — sustained forum discourse combining social, cognitive, and teaching presence (see the [Community of Inquiry framework](https://www.thecommunityofinquiry.org)).

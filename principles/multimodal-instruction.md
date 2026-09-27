@@ -77,10 +77,12 @@ Multimodal instruction works when different modes carry different parts of the m
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — multimodal design helps most when the verbal layer is also clear.
 
 ## Examples
+
 - **Text plus diagram plus verbal explanation**: Learners read, see, and hear complementary representations of the same concept.
 - **Gesture-supported teaching**: An instructor uses movement or spatial demonstration to clarify process or structure.
 - **Annotated screencasts**: Learners watch a process with narration and on-screen highlighting.
 - **Interactive multimodal lessons**: Learners switch between reading, viewing, listening, and doing as they build understanding.
+- [Teach L2 comprehension through a multiliteracies curriculum with video-based visualizing and verbalizing activities](../strategies/multiliteracies-video-comprehension-activities.md)
 
 ## Key Sources
 - Gellevij, M., Van der Meij, H., de Jong, T., & Pieters, J. (2002). Multimodal versus unimodal instruction in a complex learning context. *The Journal of Experimental Education, 70*(3), 215-239. [https://doi.org/10.1080/00220970209599507](https://doi.org/10.1080/00220970209599507)

@@ -79,9 +79,11 @@ Literature circles combine [Collaborative Learning](../principles/collaborative-
 6. **Share and apply.** Clubs synthesize their learning into a product (presentation, blog post, project) that [Application](../elements/application.md) of the topic to a broader audience.
 
 ## Related Strategies
+
 - [Jigsaw](jigsaw.md) — the complementary grouping structure where each member becomes an expert on part of the material before teaching peers
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — shares the small-group, role-rotating discussion structure but focuses narrowly on four comprehension strategies
 - [Socratic Seminar](socratic-seminar.md) — a whole-class, teacher-questioned variant of text-based discussion with less student choice
+- [Use a process-as-content seminar approach in which learners read, analyze, synthesize, apply, and evaluate individually chosen problems](process-as-content-seminar-approach.md)
 
 ## Examples
 - **Collaborative Strategic Reading (CSR)** — Klingner, Vaughn, and Schumm's (1998) research program had heterogeneous middle school groups apply comprehension strategies to social studies text in literature-circle format, with documented comprehension gains ([CSR at Vanderbilt](https://crlte.vanderbilt.edu/csr/)).

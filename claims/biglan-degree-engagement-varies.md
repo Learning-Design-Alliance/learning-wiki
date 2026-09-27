@@ -64,3 +64,4 @@ Results section, Table 5: degree of engagement difference in means .49 for life/
 - [Subtypes of publicly engaged scholarship vary by Biglan dimension, with applied faculty reporting five subtypes more often and soft faculty reporting two](biglan-subtypes-engaged-scholarship.md) — related
 - [No instances of service-learning were reported on the RPT forms, an unexpected null the authors attribute partly to the form's design](no-service-learning-reported-rpt-forms.md) — related
 - [Student subject matter orientation differs significantly from faculty perceptions of departmental characteristics](student-faculty-subject-matter-mismatch.md) — related
+- [Kant's faculty-division model of higher education left a legacy of disciplinary fragmentation that persists today](kant-faculty-model-fragmentation-legacy.md) — related

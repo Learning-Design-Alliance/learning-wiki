@@ -78,6 +78,10 @@ Critics working in the 1960s–70s argued Piaget likely **underestimated** child
 - [Fischer and Knight's skill theory of cognitive development in real children](skill-theory-optimal-real-performance.md)
 - [Trial constructivism as the root of constructivism (Piaget's personal constructivism)](trial-constructivism-root-of-constructivism.md)
 - [Lowenfeld and Brittain's stages of art development parallel Piaget's stages of cognitive development](lowenfeld-art-stages-parallel-piaget-stages.md)
+- [Baldwin's genetic logic as the elaboration of natural thought processes](baldwin-genetic-logic-three-logics.md)
+- [Theory of embodiment: cognition and meaning grounded in bodily action and perception, consistent with Montessori's view of mind and movement](embodiment-theory-montessori-mind-movement.md)
+- [Piaget's stages as an ordinal hierarchy of schemes for coping with the environment](piaget-stages-ordinal-hierarchy.md)
+- [Shared cognitive operations account: identity and reversibility underlie conservation, pretense play, and gender constancy](shared-identity-reversibility-operations-account.md)
 
 ## Examples
 

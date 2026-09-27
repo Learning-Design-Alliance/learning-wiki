@@ -44,6 +44,7 @@ The book identifies Giambattista Vico's 1710 treatise on epistemology as, as far
 - [Piaget's genetic epistemology studies how the human mind moves from less sufficient to higher knowledge](piaget-genetic-epistemology-constructivist-knowing.md)
 - [Trial constructivism as the root of constructivism (Piaget's personal constructivism)](trial-constructivism-root-of-constructivism.md)
 - [Constructivism as a theory of knowledge and learning with individualistic, social, and combined branches](constructivism-knowledge-learning-theory-branches.md)
+- [Constructivism learning theory: knowledge as assumption, learning as active construction, students as subjects, teachers as helpers](constructivism-learning-theory-jia-2010.md)
 
 ## Examples
 -

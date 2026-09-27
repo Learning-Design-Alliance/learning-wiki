@@ -110,6 +110,40 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-28 (later) — batch 8 on the default prompt; recorded costs were list prices; providers differ 3×
+
+- **Batch 8, the first on `CURRENT` = v135** (PMC 10, ERIC 70): 76 fetched, 67 ingested, 9 rejected as
+  out of scope, every record on v135. Strict audit: 316/316 quotes verbatim, 318/318 decimal
+  statistics in their articles, 0 impact codes without a printed statistic, lint 0. Three errors
+  corrected by hand: Ebadi (2016) cited as 2014 on seven pages (a year from another Ebadi paper in the
+  reference list, which also kept `source_citation.repair` from matching the source); Bautista (2015)
+  as "Bautsta" on nine pages, from PDF text that lost its "ti" and "ff" ligatures (the DOI was right);
+  a course case study coded as a review.
+- **Every cost this pipeline recorded before 2026-09-28 was an estimate, not a bill.**
+  `cost_source: list_pricing` means the generation-stats lookup had not settled and the model's
+  headline price was applied whatever provider served the call: batch 7 recorded $0.0023 a call where
+  Sail Research billed $0.0029, batch 8 $0.0030 where InferenceNet billed $0.0012. GLM's price did not
+  double; the estimate moved with the headline listing. `openrouter_client` now records `usage.cost`
+  from the response itself (`cost_source: usage`), the billed amount. To audit an older run, look up
+  each `generation_id` at `/api/v1/generation`.
+- **What an article costs depends on the provider OpenRouter picks**: 33 serve GLM 5.3 Flash, $0.14 to
+  $1.00 per million output tokens. Batches 7–8: Sail Research 91 articles, 74% first-attempt pass,
+  $0.0034 billed; InferenceNet (4-bit) 38, 71%, $0.0012. The 10-article benchmark pinned to
+  InferenceNet: 9/10 validation (one quote still not verbatim after both retries), judge 9/9 and mean
+  score 4.28 against 4.22, $0.0017 billed per article against $0.0050 on default routing. InferenceNet
+  also caches the 15k-token system prompt ($0.010/M against $0.045/M). `OPENROUTER_PROVIDER_ORDER`
+  (comma-separated) sets a preference and `OPENROUTER_ALLOW_FALLBACKS=0` pins it; unset, OpenRouter
+  chooses. The batch does not set it; whether it should is the maintainer's call.
+- **OpenRouter's `:batch` models are unusable here**: the Batch API retains submitted data, which the
+  account's zero-data-retention setting refuses (422). At the listed batch prices a first attempt would
+  cost about 17% less, not 50%, and retries could not use it.
+- **Lean correction retries do not pay** (`--lean-retries`, off by default). A retry is sent without
+  the article only when every error is fixable from the output alone; on the 19 batch-8 articles that
+  needed corrections, 1 of 13 retries qualified, because retries are driven by quotes that are not
+  verbatim and impact codes with no printed statistic, both of which need the article. The system
+  prompt alone is ~16k tokens, so even that retry saved under half its input. Records now carry
+  `attempts`: each attempt's error fields, tokens and billed cost.
+
 ### 2026-09-28 — prompt v135: the extractor stops writing impact codes it cannot back
 
 - **Prompt v135** (from v133) fixes the code table that still read "0 = negligible/unclear/null/

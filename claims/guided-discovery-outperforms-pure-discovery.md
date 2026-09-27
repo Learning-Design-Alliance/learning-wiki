@@ -99,3 +99,4 @@ This claim does not imply that pure discovery is useless or that direct telling 
 - [Kindergartners struggle to give verbal causal explanations, but model-based tasks let most of them express causal ideas](model-tasks-overcome-verbal-explanation-limits.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Taiwan's constructivist mathematics reform, introduced in 1993, was stopped in 2003 after students taught under it underperformed traditionally educated peers in high school](taiwan-constructivist-math-reform-stopped-2003.md) — a narrower finding that bears on this claim
+- [Discovery method in motor skill learning was superior to teacher-directed approach in children's attitudes and social interaction](discovery-method-motor-learning-attitudes.md) — related

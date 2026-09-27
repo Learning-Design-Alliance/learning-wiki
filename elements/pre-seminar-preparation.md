@@ -63,10 +63,12 @@ Preparation before discussion raises the quality of seminar talk because learner
 - [Case-Based Learning](../patterns/case-based-learning.md) — learners prepare by analyzing the case before seminar deliberation
 
 ## Examples
+
 - **Flipped classroom pre-videos** — Instructors assign short instructional videos with embedded questions before class; meta-analytic evidence shows improved exam performance over lecture-first formats ([Strelan et al., 2020](https://doi.org/10.1007/s10648-019-09514-z))
 - **Reading response tickets** — Learners submit a brief written question or claim before the seminar; the instructor uses these to open discussion
 - **[Perusall](https://www.perusall.com)** — Social annotation platform where learners annotate assigned readings collaboratively before class, creating an accountability record and surfacing confusion points
 - **Harkness method (Phillips Exeter Academy)** — Learners prepare texts in advance so that the table discussion itself, not the teacher, carries the exposition
+- [Use a process-as-content seminar approach in which learners read, analyze, synthesize, apply, and evaluate individually chosen problems](../strategies/process-as-content-seminar-approach.md)
 
 ## Key Sources
 - Strelan, P., Osborn, A., & Palmer, E. (2020). The flipped classroom: A meta-analysis of effects on student performance across disciplines and education levels. *Educational Research Review, 30*, 100314. [doi:10.1016/j.edurev.2020.100314](https://doi.org/10.1016/j.edurev.2020.100314)

@@ -65,3 +65,4 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Expanding the quilt task into an integrated STEM project was judged by its two designers to give students multiple entry points and to feel fun rather than too school-like](integrated-stem-quilt-project-judged-to-offer-multiple-entry-points.md) — related
 - [A Singapore teacher community has remixed 75 EJS models and lesson packages toward a national digital library](osp-community-remixed-75-ejs-models.md) — related
 - [Some students found the guided-inquiry worksheet activities insufficiently thought-provoking and the data exchange troublesome](students-criticize-inquiry-worksheets-low-thinking.md) — reports the opposite
+- [Resource constraints can sharpen scientific thinking, and evaluating achievement without accounting for available resources risks undervaluing under-resourced researchers](resource-constraints-sharpen-thinking-evaluation-risk.md) — related

@@ -65,6 +65,7 @@ Interaction quality matters more than quantity: contacts that convey personal in
 - [Active listening](active-listening.md) — the conversational skill that makes brief contacts feel substantive
 - [Action-oriented feedback](action-oriented-feedback.md) — the highest-value form of contact: individualized, forward-looking response to student work
 - [Escalating multi-channel contact immediately upon missed assessment, starting with SMS](escalating-multichannel-contact-missed-assessment.md)
+- [Establish an inter-institutional, society-level mentorship registry providing continuous support from undergraduate entry through faculty appointment](inter-institutional-society-mentorship-registry.md)
 
 ## Examples
 - **First-year seminars** (e.g., the [AAC&U High-Impact Practices](https://www.aacu.org/trending-topics/high-impact) framework) — small classes with intensive faculty interaction are among the best-documented retention interventions.

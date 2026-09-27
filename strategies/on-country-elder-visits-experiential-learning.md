@@ -42,6 +42,7 @@ A specific teaching practice at Woolyungah takes students "out of the university
 ## Related Strategies
 
 - [Use direct-experience formats — simulation games, extracurricular activities, action learning, peer teaching — to pursue relational-domain objectives](experiential-formats-relational-objectives.md)
+- [Invite local Elders into classrooms as co-teachers of Indigenous Knowledge](invite-local-elders-as-co-teachers.md)
 
 ## Examples
 -

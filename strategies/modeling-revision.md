@@ -59,9 +59,11 @@ Revision is a metacognitively demanding activity: writers must detect mismatches
 5. Fade the support over successive writing tasks, shifting from teacher-diagnosed problems to student-identified goals.
 
 ## Related Strategies
+
 - Think-Aloud Modeling — the general demonstration technique this strategy applies to the revision process
 - Peer Revision and Feedback — the natural follow-on once learners can diagnose texts
 - Incremental Rehearsal of Writing Routines — building the modeled routine into habitual practice
+- [Focusing techniques for checking a text during drafting and revision](focusing-techniques-drafting-revision.md)
 
 ## Examples
 **[Calkins' Units of Study](https://www.heinemann.com/unitsofstudy/)** (Teachers College Reading & Writing Project) — writing workshop mini-lessons built around the teacher "demonstrating" revision on their own draft, then sending students off to try the same move in their writing.

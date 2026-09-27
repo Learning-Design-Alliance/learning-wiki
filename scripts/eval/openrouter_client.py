@@ -25,6 +25,14 @@ RETRY_BASE_DELAY = 5  # seconds; doubles each retry, for 429/5xx
 IGNORED_PROVIDERS = [p.strip() for p in
                      os.environ.get("OPENROUTER_IGNORE_PROVIDERS", "OpenInference").split(",")
                      if p.strip()]
+# Providers to try first, in order (comma-separated), e.g. "InferenceNet,DeepInfra".
+# Prices for one model differ several-fold between providers: GLM 5.3 Flash billed
+# $0.0012 an article on InferenceNet and $0.0034 on Sail Research (batches 7-8).
+# Unset leaves the choice to OpenRouter. OPENROUTER_ALLOW_FALLBACKS=0 pins the list
+# exactly (for a benchmark of one provider); otherwise other providers are used when
+# these fail or are down.
+PROVIDER_ORDER = [p.strip() for p in os.environ.get("OPENROUTER_PROVIDER_ORDER", "").split(",") if p.strip()]
+ALLOW_FALLBACKS = os.environ.get("OPENROUTER_ALLOW_FALLBACKS", "1") != "0"
 
 
 class GenerationError(RuntimeError):
@@ -39,7 +47,7 @@ class GenerationResult:
     completion_tokens: int
     latency_s: float
     cost_usd: Optional[float]
-    cost_source: str  # "generation_stats" | "list_pricing" | "unknown"
+    cost_source: str  # "usage" (billed, from the response) | "generation_stats" | "list_pricing" | "unknown"
     generation_id: Optional[str]
     provider: Optional[str] = None  # the upstream provider OpenRouter routed to
     finish_reason: Optional[str] = None  # "length" = the output ran into max_tokens
@@ -97,8 +105,14 @@ def generate(
         "temperature": temperature,
         "usage": {"include": True},
     }
+    provider = {}
     if IGNORED_PROVIDERS:
-        payload["provider"] = {"ignore": IGNORED_PROVIDERS}
+        provider["ignore"] = IGNORED_PROVIDERS
+    if PROVIDER_ORDER:
+        provider["order"] = PROVIDER_ORDER
+        provider["allow_fallbacks"] = ALLOW_FALLBACKS
+    if provider:
+        payload["provider"] = provider
     if json_mode:
         payload["response_format"] = {"type": "json_object"}
     if disable_reasoning:
@@ -183,8 +197,15 @@ def generate(
         completion_tokens = usage.get("completion_tokens", 0)
         generation_id = body.get("id")
 
+        # The billed cost comes back in the response when usage.include is set, and it is
+        # the provider's own price. The fallbacks below were the only source until
+        # 2026-09-27, and the generation-stats lookup rarely settles within its retries,
+        # so every batch-8 record carried the model's headline list price instead: $0.0030
+        # recorded against $0.0012 billed on InferenceNet, $0.0035 against $0.0039 on Sail.
         cost_usd, cost_source = None, "unknown"
-        if generation_id:
+        if isinstance(usage.get("cost"), (int, float)):
+            cost_usd, cost_source = float(usage["cost"]), "usage"
+        if cost_usd is None and generation_id:
             cost_usd = pricing.fetch_generation_cost(generation_id, api_key)
             if cost_usd is not None:
                 cost_source = "generation_stats"

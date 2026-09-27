@@ -47,3 +47,4 @@ This is a self-selected sample (6 of 21 eligible teachers volunteered for the ex
 ## Related Claims
 - (none yet linked)
 - [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](rpp-adaptive-practices-sustain-partnerships-during-disruption.md) — related
+- [Reflective practice yields deeper understanding of teachers' own teaching style and greater classroom effectiveness](reflective-practice-deeper-understanding-effectiveness.md) — related

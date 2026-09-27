@@ -44,6 +44,7 @@ The article proposes a classification of apps usable for language learning, argu
 ## Related Theories
 
 - [Four-category framework for evaluating language-learning apps: technology, pedagogy, user experience, and language learning](four-category-language-app-evaluation-framework.md)
+- [Taxonomy development for technology: a four-step research approach to visualize the totality of technology](technology-taxonomy-four-step-approach.md)
 
 ## Examples
 -

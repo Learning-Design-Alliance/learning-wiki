@@ -63,3 +63,4 @@ Responses to the hypothetical name-calling dilemma in the interviews showed all 
 - [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
 - [Female principals maintained autonomy and connectedness despite hierarchical bureaucratic structures, and reported no isolation](principals-maintain-connectedness-despite-bureaucracy.md) — related
 - [The principals' personal ethic of care, rooted in motherhood, transferred to their professional leadership roles](personal-ethic-of-care-transferred-from-motherhood.md) — related
+- [Forming a focus, rather than merely gathering information, is the main task in complex information seeking](forming-focus-main-task-information-seeking.md) — related

@@ -61,9 +61,11 @@ Baseline assessment enables instruction to start where learners actually are rat
 5. Re-baseline at major transitions (new unit, new term) rather than treating the first snapshot as permanent.
 
 ## Related Strategies
+
 - [Formative Assessment](../principles/assessment-for-learning.md) — baseline assessment is the first data point in an ongoing assessment-for-learning cycle
 - [Mastery Learning](../patterns/competency-based-learning.md) — baselines determine the starting point from which mastery criteria are applied
 - [Check-Ins](../elements/check-in.md) — lightweight ongoing probes that continue the diagnostic function during instruction
+- [Start adult learners in homogeneous small groups and use individual instruction with gradual release](small-group-library-instruction-adult-learners.md)
 
 ## Examples
 - **Force Concept Inventory (FCI)** — a widely used physics diagnostic that identifies Newtonian vs. naive-mechanics reasoning before mechanics instruction; results are used to compare instructional approaches (e.g., interactive engagement vs. lecture).

@@ -40,7 +40,8 @@ The article presents a taxonomy (Figure 3) as "a practical guide to support (a) 
 - [Active Learning Courses Retain Lecture Component](../claims/active-learning-courses-retain-lecture-component.md) [+M]
 
 ## Related Theories
-- 
+
+- [Three-layer funnel taxonomy for designing high-impact undergraduate research experiences](hip-ur-three-layer-taxonomy.md)
 
 ## Examples
 -

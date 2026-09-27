@@ -42,3 +42,4 @@ The chapter reports, citing Lohnas, Polyn, and Kahana (2011) and Anderson (1974)
 
 ## Related Claims
 - [Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks](cd-semantic-richness-improves-lexical-processing.md) — related
+- [Diverse and uniform training contexts dissociate: processing ease and semantic representation diverge early in learning](diversity-dissociation-processing-versus-semantics.md) — reports the opposite

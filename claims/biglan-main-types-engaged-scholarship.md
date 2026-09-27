@@ -80,3 +80,4 @@ Chi-square analysis in Results; Table 3 shows engaged service and practice at 81
 - [Intensity of publicly engaged activity is higher in applied (2.29 vs 1.76) and life (2.28 vs 1.63) disciplines, with no significant hard/soft difference](biglan-intensity-activity-varies.md) — related
 - [Subtypes of publicly engaged scholarship vary by Biglan dimension, with applied faculty reporting five subtypes more often and soft faculty reporting two](biglan-subtypes-engaged-scholarship.md) — a narrower finding that bears on this claim
 - [No instances of service-learning were reported on the RPT forms, an unexpected null the authors attribute partly to the form's design](no-service-learning-reported-rpt-forms.md) — related
+- [Kant's faculty-division model of higher education left a legacy of disciplinary fragmentation that persists today](kant-faculty-model-fragmentation-legacy.md) — related

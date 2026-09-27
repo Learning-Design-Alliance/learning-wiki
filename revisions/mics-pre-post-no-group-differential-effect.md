@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/mics-pre-post-no-group-differential-effect.md
+---
+
+# Revision history: [claims/mics-pre-post-no-group-differential-effect](../claims/mics-pre-post-no-group-differential-effect.md)
+
+### 2026-09-27 · ingest · process:wiki-ingest
+Ingested from eric-ej1112059 (The Impact of Video-Based Materials on Chinese-Speaking Learners' English Text Comprehension) via eval_harness.py + ingest_extractions.py

@@ -59,9 +59,11 @@ De-escalation protects the learning environment: heightened emotional arousal co
 6. **Follow up later** — once calm, hold a restorative conversation to address causes and repair the relationship ([Coaching](../elements/coaching.md))
 
 ## Related Strategies
+
 - [Active Listening](../strategies/active-listening.md) — the core verbal technique; validation without concession
 - [Role Play](../strategies/acting-role-play.md) — students and staff rehearse de-escalation scenarios before they occur
 - [Check-Ins](../principles/check-ins.md) — routine emotional temperature-taking that surfaces conflicts early
+- [Regulate conflict through group characteristics, communication processes, and task complexity that maintain exchange](conflict-control-group-communication-task-principles.md)
 
 ## Examples
 - **Restorative Practices in schools** (International Institute for Restorative Practices, https://www.iirp.edu) — trains teachers in affective statements and restorative conversations that de-escalate before discipline; district implementations have reported reduced suspension rates.

@@ -34,6 +34,7 @@ Situated learning holds that knowledge is inseparable from the social, material,
 - [Sociocultural Theory](sociocultural-theory.md) — shares the view that knowledge and cognition are inseparable from social and cultural context
 - [Connectivism](connectivism.md) — also locates learning outside the individual mind, but in digital networks rather than embodied social practice
 - [Situated cognition: context, authenticity, and activity as key dimensions](situated-cognition-context-authenticity-activity.md)
+- [Situated Learning theory (legitimate peripheral participation in communities of practice)](situated-learning-theory-review-account.md)
 
 ## Examples
 - [Epistemic Games](../patterns/epistemic-games.md)

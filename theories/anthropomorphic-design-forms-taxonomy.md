@@ -46,6 +46,7 @@ The review presents the DiSalvo et al. (2005, 2004) taxonomy of anthropomorphic 
 - [Integrated conceptual framework distinguishing humanlikeness as design property from anthropomorphism as attribution process](humanlikeness-design-anthropomorphism-inference-framework.md)
 - [Four-quadrant inferential framework for interpreting human attribution responses to robot design](four-quadrant-design-attribution-framework.md)
 - [Humanlikeness as a multidimensional design construct extending beyond physical appearance](humanlikeness-multidimensional-design-construct.md)
+- [Six theories of anthropomorphism explaining why learners attribute human characteristics to nonhuman entities](six-theories-of-anthropomorphism.md)
 
 ## Examples
 

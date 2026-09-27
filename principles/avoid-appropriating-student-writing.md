@@ -46,6 +46,7 @@ Teachers may inadvertently take over a student's voice and creativity by imposin
 - [Minimize student frustration by making feedback clear, legible, focused, and transparent](minimize-student-frustration-in-feedback.md)
 - [Provide positive comments alongside constructive criticism when responding to student writing](provide-positive-comments-on-student-writing.md)
 - [Respond to student writing as an interested reader rather than only as an evaluator](respond-as-a-reader.md)
+- [Establish an appropriate researcher signature by balancing participant, researcher, and audience voices, and judge validity by believability](researcher-signature-believability-validity.md)
 
 ## Examples
 

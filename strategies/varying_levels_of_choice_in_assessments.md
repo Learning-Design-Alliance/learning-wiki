@@ -64,6 +64,7 @@ Choice in assessments supports motivation primarily by satisfying the need for a
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — the broader classroom structure of which assessment choice is one application
 - [Choice Boards](../elements/choice-boards.md) — the concrete element used to present tiered options
 - [Give learners control over how learning is measured via assessment choices and science-fair-type projects](learner-controlled-assessment-science-fair-projects.md)
+- [Support learners in making and being guided to make effective choices](guide-learners-to-effective-choices.md)
 
 ## Examples
 - A history course assigns one essay on "causes of social change" but lets students choose among four case periods; all essays are scored on the same argumentation rubric.

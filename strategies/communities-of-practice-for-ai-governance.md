@@ -47,6 +47,7 @@ The article recommends that universities move away from rigid, top-down AI polic
 ## Related Strategies
 
 - [Sustain a faculty community of practice for creative problem-solving pedagogy](monthly-faculty-meetings-creative-pedagogy-development.md)
+- [Support faculty AI literacy through needs assessment, targeted training, teaching resources, and communities of practice](faculty-development-ai-literacy-support.md)
 
 ## Examples
 -

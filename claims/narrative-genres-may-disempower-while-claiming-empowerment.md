@@ -46,3 +46,4 @@ Theoretical argument in the paper's introduction: the author, sympathetic to nar
 - [Modernist discourses have produced contradictory environmental effects, raising awareness of problems while helping cultivate stories that construe the earth as an object of instrumental value](modernist-discourses-contradictory-environmental-effects.md) — related
 - [Equipping caregivers with MUAC tapes empowered them to track child nutrition and become community health advocates](family-muac-empowers-caregivers-as-health-advocates.md) — related
 - [Storying is socially and politically non-neutral: it privileges some storylines and silences others](storying-privileges-some-storylines-silences-others.md) — related
+- [The storied format of personal experience research can transcend the specialties of the immediate research field to influence a larger research community](storied-format-transcends-field-specialties.md) — related

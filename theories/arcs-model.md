@@ -57,10 +57,12 @@ ARCS is explicitly integrative: Keller built it by synthesizing constructs from 
 ## Claims
 
 ## Related Theories
+
 - [Expectancy-Value Theory](expectancy-value-theory.md) — ARCS's Relevance and Confidence categories are a direct practitioner-facing operationalization of task value and expectancy for success
 - [Self-Efficacy Theory](self-efficacy-theory.md) — Confidence-building tactics in ARCS are self-efficacy interventions by another name
 - [Self-Determination Theory](self-determination-theory.md) — ARCS's emphasis on autonomy-supportive framing and personally meaningful tasks parallels SDT's autonomy and relatedness needs
 - [First Principles of Instruction](first-principles-of-instruction.md) — both are practitioner-facing syntheses that integrate multiple underlying theories into a compact, actionable design framework; Merrill explicitly treated motivation as an *outcome* of effective instruction rather than a separate design target, a direct point of contrast with ARCS's treatment of motivation as its own diagnosable, designable condition
+- [SDT motivational spectrum from amotivation through four extrinsic regulations to intrinsic motivation](sdt-motivational-spectrum-regulations.md)
 
 ## Examples
 

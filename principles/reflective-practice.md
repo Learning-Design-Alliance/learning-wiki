@@ -56,9 +56,11 @@ Reflective practice matters most in domains where improvement depends on interpr
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — explaining one’s reasoning can deepen the learning value of reflection beyond simple description
 
 ## Related Principles
+
 - [Reflection](reflection.md) — reflective practice is a performance-anchored form of reflection
 - [Purposeful Reflection](purposeful-reflection.md) — emphasizes that reflection should be directed toward usable insight and next steps
 - [Self-Regulated Learning](self-regulated-learning.md) — supplies the mechanism by which reflection informs future action
+- [Teacher-coaches should create an environment of trust and build a reflection context unique to each learning situation](trust-environment-context-for-reflection.md)
 
 ## Related Patterns
 - [Reflective Practice](../patterns/reflective-practice.md)

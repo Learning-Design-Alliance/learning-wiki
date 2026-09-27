@@ -63,3 +63,4 @@ Experiment 3 correlational observation: the two subjects whose retrieval paths c
 - [Advance Organizers Improve Learning](advance-organizers-improve-learning.md) — related
 - [Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels](higher-hierarchy-levels-recalled-better.md) — related
 - [A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks](organization-task-match-determines-benefit.md) — related
+- [Algebra ability level differences appear on both criteria with no treatment-by-ability interaction](ability-level-differences-verbal-problem-solving.md) — reports the opposite

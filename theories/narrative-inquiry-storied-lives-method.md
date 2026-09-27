@@ -42,7 +42,8 @@ The paper adopts narrative inquiry, in Connelly and Clandinin's formulation, as 
 - [Deconstructing Modern Nature Metaphors First Step](../claims/deconstructing-modern-nature-metaphors-first-step.md) [+M]
 
 ## Related Theories
-- 
+
+- [Narrative inquiry as a research method studies the ways humans experience the world through stories](narrative-inquiry-experience-based-research-method.md)
 
 ## Examples
 -

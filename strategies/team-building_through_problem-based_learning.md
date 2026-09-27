@@ -66,6 +66,7 @@ Problem-based learning works as a team-building mechanism because a shared, cons
 - [Case-Based Learning](case-based-learning.md) — the problem format most commonly used; a well-chosen case supplies the authentic context and perspective diversity this strategy needs
 - [Cooperative Learning](cooperative-learning.md) — supplies the structural machinery (positive interdependence, individual accountability) that makes diverse group work function
 - [Implement cooperative learning with real problems, slow growth, team building, a safe environment, teacher modeling, mixed academic levels, and a teacher shift from directing to facilitating](aids-to-cooperative-learning-implementation.md)
+- [Emphasize cooperation and communication to train students' cooperative consciousness](cooperation-communication-train-cooperative-consciousness.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — establishes psychological safety at the start of each session

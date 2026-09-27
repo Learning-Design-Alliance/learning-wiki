@@ -46,3 +46,4 @@ Theoretical argument advanced in the review's problem statement: because instruc
 - [Mismatched Graphic Organizers Increase Extraneous Load](mismatched-graphic-organizers-increase-extraneous-load.md) — related
 - [Dual Coding Improves Recall](dual-coding-improves-recall.md) — related
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related
+- [Dahmus Method students translated phrases successfully but failed to combine them into a single solution equation](dahmus-students-translate-but-no-single-equation.md) — a narrower finding that bears on this claim

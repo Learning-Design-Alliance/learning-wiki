@@ -46,8 +46,11 @@ Second, who should be taught critical thinking. Surveys have found that teachers
 - [Transfer of Learning](../principles/transfer-of-learning.md) — the infusion-vs-free-standing debate in teaching critical thinking is a specific instance of the general transfer problem
 
 ## Examples
+
 - [Annotating](../principles/annotating.md) — written annotation of readings as one route to critical thinking (Liu, 2006)
 - [Socratic Seminar](../patterns/socratic-seminar.md) — oral group discussion of personal dilemmas as another route to critical thinking (Hawkins, 2006)
+- [CRITO: a five-step method for critically assessing one's own arguments (Conclusion, Reasons, Inference, Truth, Objections)](../strategies/crito-five-step-argument-assessment.md)
+- [Use a process-as-content seminar approach in which learners read, analyze, synthesize, apply, and evaluate individually chosen problems](../strategies/process-as-content-seminar-approach.md)
 
 ## Key Sources
 - Halpern, D. F. (2003). *Thought and knowledge: An introduction to critical thinking* (4th ed.). Lawrence Erlbaum Associates.

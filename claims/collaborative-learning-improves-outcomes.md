@@ -84,3 +84,4 @@ This meta-analysis covered 39 classroom (not laboratory) studies from 1980 onwar
 - [Peer coaching has been proved a highly effective way of teacher professional development since the 1980s in the UK, US, and other countries](peer-coaching-supports-teacher-professional-development.md) — related
 - [Project-based learning improves achievement](project-based-learning-improves-achievement.md) — related
 - [Student oral presentations of laboratory results became the central activity stimulating active and cooperative learning](student-lab-presentations-central-activity.md) — related
+- [Review reports that collaborative feedback tasks improved students' writing accuracy for both low and highly proficient students (Tang & Tithecott)](cfts-improved-writing-accuracy-tang-tithecott.md) — a narrower finding that bears on this claim

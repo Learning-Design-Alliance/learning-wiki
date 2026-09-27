@@ -45,6 +45,7 @@ The article describes radical constructivism, founded by Ernst von Glasersfeld a
 - [Constructivist prescriptive principles for learning environments](constructivist-prescriptive-principles.md)
 - [Piaget's model of a conceptual scaffolding of objects, space, time, and causality frames the construction of experiential reality](piaget-scaffolding-experiential-reality-construction.md)
 - [Trial constructivism as the root of constructivism (Piaget's personal constructivism)](trial-constructivism-root-of-constructivism.md)
+- [Constructivism learning theory: knowledge as assumption, learning as active construction, students as subjects, teachers as helpers](constructivism-learning-theory-jia-2010.md)
 
 ## Examples
 -

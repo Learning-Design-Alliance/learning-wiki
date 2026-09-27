@@ -79,3 +79,4 @@ The task-level (sometimes called "task process" or "information") focus of feedb
 - [Feedback Use Improves Learning](feedback-use-improves-learning.md) — a broader claim this one bears on
 - [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — related
 - [Feedback Praise Reduces Learning](feedback-praise-reduces-learning.md) — related
+- [Probing instructor feedback with required revise-and-resubmit moved candidates toward evidence-based descriptions of student understanding](probing-feedback-revise-resubmit-evidence.md) — a narrower finding that bears on this claim

@@ -78,6 +78,7 @@ Portfolio development converts assessment artifacts into objects of metacognitiv
 - [Exhibition of Learning](exhibition-of-learning.md) — a public culmination that gives portfolios an authentic audience
 - [Student-Led Conferences](student-led-conferences.md) — a structure in which learners use their portfolios to lead evaluation conversations with families
 - [Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time](student-owned-portfolios-maker-assessment.md)
+- [Assess AI competencies continuously with formative quizzes, peer review, reflective journals, real-world summative projects, and portfolios](ai-competency-assessment-strategies.md)
 
 ## Related Elements
 - [Articulation](../elements/articulation.md) — the written or spoken rationale that turns selection into learning

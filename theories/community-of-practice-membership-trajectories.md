@@ -44,6 +44,7 @@ A community of practice is a group of people, formally or informally bound, who 
 - [Communities-of-Practice theory as a framework for understanding community membership and learning](cop-theory-community-membership-learning.md)
 - [Guided participation and traditional apprenticeship as core CA concepts](guided-participation-and-traditional-apprenticeship-concepts.md)
 - [Situated cognition: context, authenticity, and activity as key dimensions](situated-cognition-context-authenticity-activity.md)
+- [Situated Learning theory (legitimate peripheral participation in communities of practice)](situated-learning-theory-review-account.md)
 
 ## Examples
 

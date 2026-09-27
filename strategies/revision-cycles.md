@@ -60,10 +60,12 @@ Revision cycles operationalize [Assessment for Learning](../principles/assessmen
 6. Conclude with publication or final assessment so revision has an authentic endpoint ([Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md))
 
 ## Related Strategies
+
 - [Peer Review](../elements/peer-review.md) — a common feedback source within a revision cycle that also builds reviewers' judgment
 - [Portfolio Assessment](portfolio-assessment.md) — archives successive drafts, making growth visible to learners and assessors
 - [Writing Conferences](5-minute_writing_conferences.md) — individualized feedback delivery within a cycle
 - [3-2-1 Reflection](3-2-1_reflection.md) — a lightweight reflection structure that can accompany each revision pass
+- [Iterative post-teaching analysis with rubric-aligned written feedback and revise-and-resubmit cycles](iterative-post-teaching-analysis-feedback-cycle.md)
 
 ## Examples
 - **Calibrated Peer Review (https://calibratedpeerreview.org)** — learners first calibrate their reviewing skill against instructor-graded sample essays, then review peers' drafts and revise their own based on received comments.

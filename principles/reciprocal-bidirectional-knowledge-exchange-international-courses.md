@@ -48,6 +48,7 @@ For equitable international education, institutions should ensure that partners 
 
 - [Combining challenge-based learning, community-engaged learning, COIL, and cross-university collaboration in one course design](../patterns/cbl-cel-coil-cuc-integrated-course-pattern.md)
 - [Cultural Exchange Kits](../strategies/cultural_exchange_kits.md)
+- [Incorporate structured reflective exercises on equality, reciprocity, positionality and bias into any (I)CEL exercise for staff and students](../strategies/structured-reflection-equality-reciprocity-icel.md)
 
 ## Key Sources
 - Addison, J., Mangnus, E., Cunanan, D. J., Downward, G. S., de Jong, L., van de Kamp, J., Llamas, C. A., Guinto, R. R., & Browne, J. L. (2025). Advancing Societally Engaged and International Planetary Health Education: Innovations, Lessons, and Recommendations for Educators. Journal of Higher Education Outreach and Engagement, 29(2). https://openjournals.uga.edu/jheoe

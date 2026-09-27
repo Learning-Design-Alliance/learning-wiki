@@ -89,3 +89,4 @@ Earlier Related Claims:
 - [Autonomy supports intrinsic motivation.](autonomy-supports-intrinsic-motivation.md) — the motivational construct of the same name, distinct from this skills-instruction claim
 - [Mnemonic Instruction Improves Recall For Students With Disabilities](mnemonic-instruction-improves-recall-for-students-with-disabilities.md) — related
 - [Self Monitoring Improves On Task Behavior](self-monitoring-improves-on-task-behavior.md) — related
+- [Autonomy-supportive teaching contrasts with controlling teaching, and controlled students do poorly compared to autonomous students](autonomy-support-versus-controlling-teaching.md) — related

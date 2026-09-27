@@ -39,6 +39,7 @@ Fair Textbooks: A Resource Guide is a U.S. Commission on Civil Rights clearingho
 ## Related Elements
 
 - [Publisher Directory listing publishers sensitive to treatment of minorities and females](publisher-directory-bias-sensitive-publishers.md)
+- [33-page annotated resource listing for students and teachers](expressionism-realism-resource-materials-listing.md)
 
 ## Examples
 -

@@ -68,6 +68,7 @@ Submission creates the accountability structure that makes practice productive: 
 **[Canvas / Moodle assignment workflows](https://www.instructure.com/canvas)** — LMS submission points with rubrics, due dates, and resubmission settings operationalize the submit–feedback–revise cycle at scale.
 
 **[Writing process portfolios](https://www.nwp.org)** — National Writing Project approaches use staged submissions (draft, peer review, revision, final) so that submission is a checkpoint in a process rather than a terminal event.
+- [Iterative post-teaching analysis with rubric-aligned written feedback and revise-and-resubmit cycles](../strategies/iterative-post-teaching-analysis-feedback-cycle.md)
 
 ## Key Sources
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)

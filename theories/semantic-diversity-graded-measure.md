@@ -47,6 +47,7 @@ Semantic diversity, introduced by Jones et al. (2012) and independently by Hoffm
 - [Wickens' Context Alpha and Context Beta distinction](context-alpha-beta-distinction.md)
 - [Expectancy-congruency learning mechanism updating lexical representations from context fit](expectancy-congruency-learning-mechanism.md)
 - [Principle of likely need versus principle of repetition as competing accounts of lexical learning](likely-need-versus-repetition-principles.md)
+- [Semantic Distinctiveness Model (SDM)](semantic-distinctiveness-model-sdm.md)
 
 ## Examples
 

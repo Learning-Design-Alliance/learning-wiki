@@ -56,9 +56,11 @@ Slow, controlled breathing reliably shifts autonomic state — increasing parasy
 6. Use as a [Check-In](../elements/check-in.md) alternative or complement at lesson start to read the room's state.
 
 ## Related Strategies
+
 - Classroom physical activity breaks — an alternative or complement for learners who regulate through movement
 - Test-anxiety reduction routines — breathing is the most portable component
 - Mindfulness-based classroom programs — breathing exercises are the core daily practice within them
+- [Thread conscious breathing strategies through warm-up, center work, and class conclusion](breath-strategies-across-dance-class-phases.md)
 
 ## Examples
 - **MindUP** (The Goldie Hawn Foundation) — a school-based curriculum in which a daily three-minute "brain break" breathing practice anchors each lesson across K–8 classrooms. https://mindup.org
