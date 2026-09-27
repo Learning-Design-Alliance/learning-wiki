@@ -39,6 +39,7 @@ Based on the finding that reflective thinking tendencies and epistemological bel
 ## Related Strategies
 
 - [Teachers should act as interfaces between textbooks and learners, adapting strategies to individual learner variables](teachers-interface-textbooks-learners-adapt-strategies.md)
+- [Teacher educators should recognize preservice teachers' reflective judgment levels and provide guided reflection tailored to their epistemological assumptions](guided-reflection-tailored-to-reflective-judgment-levels.md)
 
 ## Examples
 -

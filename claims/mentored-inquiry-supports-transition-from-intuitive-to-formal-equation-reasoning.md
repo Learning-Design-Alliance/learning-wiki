@@ -53,3 +53,4 @@ This is a single-case ethnography; every finding here describes one student's tr
 - [Over 50% of introductory physics students describe Rolodex equation matching at the start of the semester](rolodex-equation-matching-dominates-initial-beliefs.md) — related
 - [Physics students can execute Legendre-transform rules but express discomfort with the transform as a general mathematical tool](students-discomfort-legendre-transform-general-tool.md) — related
 - [Inquiry-based physics discussion supported peer co-construction of mechanistic explanations, distributing authority of knowledge and language among students](third-space-distributes-authority-among-students.md) — related
+- [Learning is an initiative construction of meanings completed by the interaction of learners' old and new knowledge](learning-is-initiative-construction-old-new-knowledge.md) — a broader claim this one bears on

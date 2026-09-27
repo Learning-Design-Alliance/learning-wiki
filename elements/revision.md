@@ -68,6 +68,7 @@ Revision converts feedback into measurable learning gains only when learners act
 **Portfolio-based writing programs** — e.g., [New Directions Writing Portfolio at Michigan State](https://wrac.msu.edu) — require multiple documented revision passes with reflective memos explaining what changed and why.
 
 **[Khan Academy](https://www.khanacademy.org) mastery practice** — Learners retry exercises after hints and feedback until reaching mastery level, a low-stakes revision cycle for procedural skills.
+- [Iterative post-teaching analysis with rubric-aligned written feedback and revise-and-resubmit cycles](../strategies/iterative-post-teaching-analysis-feedback-cycle.md)
 
 ## Key Sources
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

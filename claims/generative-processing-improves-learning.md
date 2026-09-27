@@ -60,3 +60,4 @@ A meta-analysis of studies that induced self-explanation — a generative strate
 - [Generative Learning Improves Retention](generative-learning-improves-retention.md) — possibly the same claim (merge candidate)
 - [Elaborative Encoding Improves Retention](elaborative-encoding-improves-retention.md) — related
 - [Self Explanation Prompts Improve Learning From Worked Examples](self-explanation-prompts-improve-learning-from-worked-examples.md) — a narrower finding that bears on this claim
+- [Students who generate their own research question are apt to be more invested and more engaged](ur-student-generated-question-engagement.md) — related

@@ -42,3 +42,4 @@ This is the article's narrative review conclusion across post-secondary, profess
 
 ## Related Claims
 - [CHAT references are noticeably absent from commonly cited CSL literature despite shared commitments with Dewey and Freire](chat-absent-from-csl-literature.md) — related
+- [Empirical use of the authenticity concept in organizational climate research has been precluded by lack of an appropriate operational definition](authenticity-concept-lacks-operational-definition.md) — related

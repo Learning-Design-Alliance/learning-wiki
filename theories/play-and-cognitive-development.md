@@ -55,6 +55,7 @@ Vygotsky treated pretend play as central to development in its own right: it let
 - [Piaget's taxonomy of play: practice games, symbolic games, and games with rules](piaget-three-categories-of-play.md)
 - [Real world versus pretend world activities as two distinct ZPD contexts](real-versus-pretend-world-zpd-distinction.md)
 - [Fischer and Knight's skill theory of cognitive development in real children](skill-theory-optimal-real-performance.md)
+- [Piaget's stages as an ordinal hierarchy of schemes for coping with the environment](piaget-stages-ordinal-hierarchy.md)
 
 ## Examples
 

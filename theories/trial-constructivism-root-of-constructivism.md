@@ -45,6 +45,7 @@ The article presents trial constructivism, attributed to von Glasersfeld's accou
 - [Piaget's genetic epistemology studies how the human mind moves from less sufficient to higher knowledge](piaget-genetic-epistemology-constructivist-knowing.md)
 - [Vico's principle that we can rationally know only what we ourselves have made as an early formulation of constructivism](vico-constructivist-epistemology.md)
 - [Stages of Cognitive Development](stages-of-cognitive-development.md)
+- [Constructivism learning theory: knowledge as assumption, learning as active construction, students as subjects, teachers as helpers](constructivism-learning-theory-jia-2010.md)
 
 ## Examples
 -

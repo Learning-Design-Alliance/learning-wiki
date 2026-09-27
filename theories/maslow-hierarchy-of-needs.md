@@ -46,6 +46,7 @@ A tired and hungry student will find it difficult to focus on learning — physi
 - [Expectancy-Value Theory](expectancy-value-theory.md) — a contrasting motivational paradigm (expectancy × value predicting engagement) rather than a need-satisfaction account
 - [Behaviorism](behaviorism.md) – the chapter this page draws on explicitly contrasts Maslow's holistic, needs-based view of the learner against reductionist stimulus-response accounts of motivation
 - [Level of occupational aspiration (LOA) as a special instance of level-of-aspiration theory with expression levels and goal periods](loa-expression-levels-and-goal-periods-framework.md)
+- [Self-determination theory: a motivation and personality theory built on three basic psychological needs](sdt-basic-psychological-needs-framework.md)
 
 ## Examples
 <!-- Candidate future claim page: Tay & Diener (2011) — needs are cross-culturally universal but not hierarchically ordered, tagged [~S]. -->

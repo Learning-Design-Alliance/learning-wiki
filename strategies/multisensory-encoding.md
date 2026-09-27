@@ -57,9 +57,11 @@ Multisensory presentation works because separate processing channels for visual 
 5. Check total load; remove any channel that duplicates rather than complements [Redundant on-screen text with narration impairs learning.](../claims/redundancy-effect-impairs-learning.md) [-S]
 
 ## Related Strategies
+
 - [Dual Coding](../theories/dual-coding-theory.md) — the theoretical account of why verbal-plus-visual encoding improves retrieval
 - [Multimedia Learning](../principles/cognitive-load-management.md) — the design principles governing audio-visual combinations
 - [Chunking](../principles/chunking.md) — manages the per-channel load that multisensory presentation adds
+- [Teach L2 comprehension through a multiliteracies curriculum with video-based visualizing and verbalizing activities](multiliteracies-video-comprehension-activities.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — narrated, hand-drawn video explanations pair spoken reasoning with evolving visuals, followed by practice.

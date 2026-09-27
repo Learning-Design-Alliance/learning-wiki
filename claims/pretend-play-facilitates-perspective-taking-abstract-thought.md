@@ -62,3 +62,5 @@ The review reports, citing Jenkins and Astington, a longitudinal study in which 
 - [Pretend play and divergent problem solving show a reciprocal relationship, with cooperative play broadly and thematic play specifically influential](pretend-play-divergent-problem-solving-reciprocal.md) — related
 - [Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall](pretend-play-enactment-narrative-recall-short-term.md) — related
 - [Title I preschool classrooms showed no typical increase in social pretense and verbal interaction over time, most evident in lowest-SES classrooms](title-i-preschools-no-increase-social-pretense.md) — related
+- [Pretense play training improves conservation of quantity in nonconserving preschoolers](pretense-play-training-improves-conservation.md) — a narrower finding that bears on this claim
+- [Pretense play training improves gender constancy on the first posttest but not the second](pretense-play-training-improves-gender-constancy-posttest-1.md) — a narrower finding that bears on this claim

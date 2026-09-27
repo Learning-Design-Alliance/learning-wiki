@@ -66,8 +66,10 @@ Collaborative writing works because composing together forces learners to articu
 - [Active Learning](../principles/active-learning.md) — students produce and critique text rather than passively receiving writing instruction
 
 ## Related Strategies
+
 - Structured peer review protocols (e.g., calibrated peer review) — supply the feedback quality this strategy depends on
 - Process writing workshops — collaborative platforms extend the draft–feedback–revise cycle across a group
+- [Emphasize cooperation and communication to train students' cooperative consciousness](cooperation-communication-train-cooperative-consciousness.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — revision cycles are the practice that converts feedback into improved writing

@@ -58,9 +58,11 @@ Mastery learning operationalizes the assumption that most learners can master mo
 5. Use mastery data to trigger [Adaptive Mastery Learning](../elements/adaptive-mastery-learning.md) pathways where platform support exists.
 
 ## Related Strategies
+
 - [Competency-Based Learning](competency-based-learning.md) — the broader institutional model; mastery learning is its instructional engine
 - [Direct Instruction](direct-instruction.md) — often combined, since tightly scripted lessons pair well with criterion-referenced checks
 - [Flipped Classroom](flipped-classroom.md) — frees class time for the corrective-practice cycle that mastery requires
+- [Advance register-graded sequencing, distributed repetition and adaptive pacing as hypotheses for classroom testing](register-graded-distributed-repetition-hypotheses.md)
 
 ## Examples
 - **Bloom's "Learning for Mastery" (LFM)** — the classic group-based implementation: teach, check, correct in small groups, reassess with alternate forms.

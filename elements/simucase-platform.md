@@ -1,0 +1,50 @@
+---
+type: element
+id: simucase-platform
+title: Simucase computer-based clinical simulation platform
+description: "Simucase is a computer-based simulation platform that \"allows students to complete clinical assignments independently and asynchronously from the clinic or course experience,\" covering speech-language pathology, audio..."
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-09-27
+sources:
+  - id: elliott-2021
+    resource: "https://doi.org/10.30707/TLCSD5.1.1624982519.538001"
+    title: "Elliott, Haley and Brumbaugh, Klaire (2021). Student Perceptions of a Simulated Clinical Experience: A Pilot Study. Teaching and Learning in Communication Sciences & Disorders, 5(1), Article 7. https://doi.org/10.30707/TLCSD5.1.1624982519.538001"
+    author: Elliott, Haley and Brumbaugh, Klaire
+---
+
+# Simucase computer-based clinical simulation platform
+
+> **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
+
+## Description
+Simucase is a computer-based simulation platform that "allows students to complete clinical assignments independently and asynchronously from the clinic or course experience," covering speech-language pathology, audiology, and occupational therapy. Members access part-task trainers, assessments, and intervention sessions, working through case history, collaboration, hypothesis formation, assessment administration, diagnosis, and recommendations in learning mode (with feedback and unlimited practice) or assessment mode (no feedback). Students must score 90% or greater for minutes to count toward ASHA clinical clock hours.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A score of 90% or greater in assessment mode for simulated minutes to count toward the 400 required clinical clock hours
+#### Constraints
+- Assessment mode does not provide feedback while the user works through the case
+
+### Target Learners
+- graduate speech-language pathology and audiology students
+- occupational therapy students
+
+### Target Learning Goals
+- clinical assessment and intervention skills
+- case-history and collaboration skills
+- diagnostic reasoning
+
+## Related Elements
+- 
+
+## Examples
+
+- [Coach students in self-directed strategies for asynchronous simulation: start early, take notes, practice in learning mode, and print protocols](../strategies/student-strategies-asynchronous-simulation.md)
+
+## Key Sources
+- Elliott, Haley and Brumbaugh, Klaire (2021). Student Perceptions of a Simulated Clinical Experience: A Pilot Study. Teaching and Learning in Communication Sciences & Disorders, 5(1), Article 7. https://doi.org/10.30707/TLCSD5.1.1624982519.538001

@@ -49,9 +49,11 @@ These three theories represent an early, largely biological line of thinking abo
 ## Claims
 
 ## Related Theories
+
 - [Behaviorism](behaviorism.md) — drive theory supplies the drive-reduction mechanism that behaviorist reinforcement builds on
 - [Expectancy-Value Theory](expectancy-value-theory.md) — a later, cognitive account of motivation that addresses the content (why value a task) these biological theories leave unanswered
 - [Self-Determination Theory](self-determination-theory.md) — treats motivation as involving psychological, not just physiological, needs
+- [Self-determination theory: a motivation and personality theory built on three basic psychological needs](sdt-basic-psychological-needs-framework.md)
 
 ## Examples
 

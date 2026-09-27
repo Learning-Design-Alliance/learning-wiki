@@ -62,6 +62,7 @@ Social Cognitive Theory is not a fully unified theory: the literature offers no 
 - [Behavioristic theory: children learn language through imitation of those around them, supported by models and reinforcement](behavioristic-language-acquisition-imitation-theory.md)
 - [Social learning theory expectancy framework (generalized and specific expectancies)](social-learning-expectancy-framework.md)
 - [Bandura's social learning theory: four fundamental requirements for people to learn and model behavior](bandura-four-requirements-learn-model-behavior.md)
+- [Bandura's four self-efficacy building experiences framework](bandura-four-self-efficacy-building-experiences.md)
 
 ## Examples
 

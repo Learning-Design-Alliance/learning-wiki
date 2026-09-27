@@ -58,9 +58,11 @@ GRR operationalizes [Scaffolding](../principles/scaffolding.md) as a temporal se
 5. **Release ("You do"):** Assign independent application on tasks isomorphic to the modeled ones ([Practice](../elements/practice.md)), and monitor to decide whether to re-model.
 
 ## Related Strategies
+
 - [Direct Instruction](direct-instruction.md) — shares the model–guide–independent structure; GRR adds an explicit emphasis on the transfer of responsibility as the outcome
 - [Scaffolded Inquiry](../elements/scaffolded-inquiry.md) — an inquiry-oriented variant in which the release happens through progressively open tasks rather than demonstration
 - [Worked Examples](worked-examples.md) — the worked-example-to-problem-pairing sequence is a GRR implementation in problem-solving domains
+- [Start adult learners in homogeneous small groups and use individual instruction with gradual release](small-group-library-instruction-adult-learners.md)
 
 ## Examples
 - **Fisher & Frey's framework at Health Sciences High (San Diego)** — a four-phase GRR model (focused instruction, guided instruction, collaborative learning, independent learning) used school-wide across content areas; documented in *Better Learning Through Structured Teaching* (ASCD, 2021, 3rd ed.).

@@ -100,3 +100,4 @@ Open questions include how much guidance activation prompts need (open recall vs
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — activated schemas free working-memory capacity for new learning
 - [Inquiry-first teaching stimulates interest, sharpens reading, and helps organize course work](inquiry-first-stimulates-interest-and-organizes-course.md) — related
 - [Prior-knowledge activation instructions before study had little effect on retention in Experiment 2](prior-knowledge-activation-little-effect-on-retention.md) — related
+- [The prior knowledge of the intended audience determines a text's information density, rate of new information, and accompanying background](audience-prior-knowledge-determines-information-density.md) — related

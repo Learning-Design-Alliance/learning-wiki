@@ -41,7 +41,8 @@ The article presents compensatory multidimensional IRT (MIRT), estimated via the
 - [Mirt Model Fit Inconsistent Lower Elementary](../claims/mirt-model-fit-inconsistent-lower-elementary.md) [~M]
 
 ## Related Theories
-- 
+
+- [Composite transformation framework for MIRT equating: orthogonal procrustes rotation, translation, and single dilation](mirt-composite-transformation-framework.md)
 
 ## Examples
 -

@@ -64,3 +64,4 @@ Snyder, S. S. & Feldman, D. H. (1975). An Experimental Test of the Effects of In
 - [Training with maps one or two levels above the child's current level produces greater map drawing advance than training with maps at the child's own level](discrepant-training-facilitates-map-drawing-advance.md) — related
 - [Discrepant training conditions (+1/+2) provided limited evidence of greater transfer to related spatial reasoning tasks than own-level training](limited-transfer-from-discrepant-training.md) — related
 - [Positive Bias (more non-modal responses above than below the mode) distinguishes subjects likely to advance in Modal Level from those likely to consolidate](positive-bias-predicts-modal-level-advance.md) — related
+- [Conservation training stressing identity and reversibility improves conservation of quantity in nonconserving preschoolers](conservation-training-improves-conservation-preschoolers.md) — related

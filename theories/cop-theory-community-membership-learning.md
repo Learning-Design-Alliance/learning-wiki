@@ -43,6 +43,7 @@ Communities-of-Practice theory (Lave & Wenger) holds that learning is a collecti
 
 - [Community of practice with Wenger's five membership trajectories](community-of-practice-membership-trajectories.md)
 - [Situated cognition: context, authenticity, and activity as key dimensions](situated-cognition-context-authenticity-activity.md)
+- [Situated Learning theory (legitimate peripheral participation in communities of practice)](situated-learning-theory-review-account.md)
 
 ## Examples
 -

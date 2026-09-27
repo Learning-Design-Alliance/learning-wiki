@@ -44,6 +44,7 @@ In Piaget's Construction of Reality in the Child, von Glasersfeld finds a model 
 - [Piaget's genetic epistemology studies how the human mind moves from less sufficient to higher knowledge](piaget-genetic-epistemology-constructivist-knowing.md)
 - [Trial constructivism as the root of constructivism (Piaget's personal constructivism)](trial-constructivism-root-of-constructivism.md)
 - [Radical constructivism: knowing as dynamic adaptation of interpretations of experience](radical-constructivism-von-glasersfeld.md)
+- [Constructivism learning theory: knowledge as assumption, learning as active construction, students as subjects, teachers as helpers](constructivism-learning-theory-jia-2010.md)
 
 ## Examples
 

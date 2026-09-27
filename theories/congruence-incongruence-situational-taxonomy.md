@@ -41,6 +41,7 @@ The article proposes that congruence and incongruence of communication must be a
 ## Related Theories
 
 - [Taxonomy of Educational Objectives: Relational Domain](relational-domain-taxonomy-brandhorst.md)
+- [Taxonomy development for technology: a four-step research approach to visualize the totality of technology](technology-taxonomy-four-step-approach.md)
 
 ## Examples
 -

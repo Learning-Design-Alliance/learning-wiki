@@ -72,6 +72,7 @@ Rebuttals deepen argumentation quality because constructing a counterargument re
 **Oxford-style and parliamentary debate formats** — Formal rebuttal segments with strict turn-taking; used in law school moot courts and programs such as the International Public Debate Association.
 
 **Philosophy "objections and replies" papers** — Standard academic writing assignment in which students must state the strongest objection to their own thesis and answer it, converting the rebuttal into a written genre.
+- [CRITO: a five-step method for critically assessing one's own arguments (Conclusion, Reasons, Inference, Truth, Objections)](../strategies/crito-five-step-argument-assessment.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). Energizing learning: The instructional power of conflict. *Educational Researcher, 38*(1), 37–51. [doi:10.3102/0013189X08330540](https://doi.org/10.3102/0013189X08330540)

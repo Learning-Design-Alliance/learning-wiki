@@ -47,6 +47,7 @@ Situated cognition holds that cognitive processes are located in physical and so
 - [Community of practice with Wenger's five membership trajectories](community-of-practice-membership-trajectories.md)
 - [Situated Learning](situated-learning.md)
 - [Communities-of-Practice theory as a framework for understanding community membership and learning](cop-theory-community-membership-learning.md)
+- [Situated Learning theory (legitimate peripheral participation in communities of practice)](situated-learning-theory-review-account.md)
 
 ## Examples
 

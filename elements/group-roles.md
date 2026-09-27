@@ -70,6 +70,7 @@ Roles improve the quality of collaboration when they distribute *cognitive* work
 **[PBL Works (Buck Institute)](https://www.pblworks.org)** — Gold Standard PBL project templates include suggested team roles with rotation schedules for project-based learning.
 
 **Lab group roles in OpenSciEd** — Middle-school science curricula assign investigator, speaker, and director roles that rotate each activity to distribute hands-on access.
+- [Assign small mixed-ability groups and manage group functioning and rotation for collaborative feedback tasks](../strategies/small-mixed-ability-groups-for-cfts.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

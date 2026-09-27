@@ -45,3 +45,4 @@ This is the authors' interpretive rationale in the Early Childhood Development s
 - [Knowledge gained by self-analysis is more likely to produce constructive change in teaching than insights given by an observer](self-analysis-knowledge-drives-teacher-change.md) — related
 - [Adults learn better when learning content and methods link to their previous experience](adult-learning-linked-to-previous-experience.md) — a broader claim this one bears on
 - [Evaluations of parent education initiatives using experiential methods found positive results for parents](parent-education-experiential-evaluations-positive.md) — related
+- [Learning is an initiative construction of meanings completed by the interaction of learners' old and new knowledge](learning-is-initiative-construction-old-new-knowledge.md) — related

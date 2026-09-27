@@ -60,3 +60,4 @@ Standardized regression coefficients from the same multiple linear regression on
 ## Related Claims
 - [Prospective teachers' critical thinking dispositions are positively and moderately correlated with their preference for contemporary educational philosophy](critical-thinking-dispositions-correlate-contemporary-educational-philosophy.md) — related
 - [Prospective teachers' critical thinking dispositions show no significant relationship with traditional educational philosophy preference](critical-thinking-dispositions-not-related-traditional-philosophy.md) — related
+- [Critical disposition is least spontaneous when confronting one's most basic prejudices or deeply held convictions](critical-temper-weakest-on-basic-prejudices.md) — related

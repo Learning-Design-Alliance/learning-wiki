@@ -46,3 +46,4 @@ In the same 2x2 factorial ANOVA on recall scores of 160 participants, the exposu
 - [High-arousal words are recalled better than low-arousal words in free recall](high-arousal-words-recalled-better-free-recall.md) — related
 - [Primacy exceeds recency in one-trial free recall, with significant arousal, exposure, and serial position effects and no interactions](primacy-exceeds-recency-one-trial-free-recall.md) — related
 - [Increased exposure time did not significantly facilitate primacy (hypothesis 5 not supported)](exposure-time-primacy-effect-not-significant.md) — related
+- [High-variability passages receive longer study times than low-variability passages](high-variability-passages-longer-study-time.md) — related

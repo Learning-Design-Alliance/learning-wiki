@@ -40,10 +40,12 @@ A set of support measures the paper recommends for teachers adopting AI applicat
 - Higher expectancy and value, and lower perceived cost, for using AI applications in teaching
 
 ## Related Strategies
+
 - [Professional Development](../patterns/professional-development.md)
 - [Professional Learning Communities](professional-learning-communities.md)
 - [Technology Integration](../elements/technology-integration.md)
 - [Expectancy Value Framework For Teacher Ai Use Motivation](../theories/expectancy-value-framework-for-teacher-ai-use-motivation.md)
+- [Support faculty AI literacy through needs assessment, targeted training, teaching resources, and communities of practice](faculty-development-ai-literacy-support.md)
 
 ## Examples
 -

@@ -43,6 +43,7 @@ The editors maintain that students should see course content within a nexus of j
 ## Related Principles
 
 - [Help students understand disciplines as modes of inquiry rather than static bodies of information](disciplines-as-modes-of-inquiry.md)
+- [Educational efforts to foster critical thinking require a justification of rationality](justify-rationality-to-justify-critical-thinking-teaching.md)
 
 ## Examples
 -

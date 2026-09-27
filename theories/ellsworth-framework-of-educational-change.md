@@ -53,6 +53,7 @@ Its concluding argument is systemic. A single innovation foreign to the rest of 
 - [Cultural-Historical Activity Theory](cultural-historical-activity-theory.md) — another way of seeing an innovation as entering a whole system of people, tools and rules
 - [Concerns-Based Adoption Model: change is a process with diagnosable dimensions](cbam-change-process-diagnostic-dimensions.md)
 - [Ellsworth's framework organizes educational change models around agent, innovation, adopter, process, environment, and resistance](ellsworth-educational-change-model-framework.md)
+- [Six change-agent roles framework for regional staff development staff](six-change-agent-roles-staff-development.md)
 
 ## Examples
 

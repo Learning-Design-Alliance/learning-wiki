@@ -62,3 +62,4 @@ The survey reports, citing Mackness and Bell (2015) via Gonçalves and Osório (
 - [In surveyed recent literature, no evaluative study found evidence against connectivism; outcomes were positive or at worst neutral](connectivism-evaluations-no-negative-evidence.md) — reports the opposite
 - [Autonomy, diversity, interactivity, openness and Web 2.0 showed a positive significant effect on students' achievement in a structural model](connectivist-principles-positive-effect-achievement.md) — reports the opposite
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
+- [Autonomy-supportive teaching contrasts with controlling teaching, and controlled students do poorly compared to autonomous students](autonomy-support-versus-controlling-teaching.md) — related

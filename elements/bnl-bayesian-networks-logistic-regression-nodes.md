@@ -40,7 +40,8 @@ BNL is the software in which the article's models were specified. The article st
 - [Multidimensional Irt Models Testlet Based Tests](../theories/multidimensional-irt-models-testlet-based-tests.md)
 
 ## Related Elements
-- 
+
+- [Bayes Net Toolbox for Matlab used to carry out graph transformations algorithmically](bayes-net-toolbox-graph-transformations.md)
 
 ## Examples
 -

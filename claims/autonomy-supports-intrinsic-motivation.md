@@ -94,3 +94,8 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Grading practices can diminish interest, encourage easier paths, and reduce quality of thinking in maker education](grading-harms-maker-education-outcomes.md) — related
 - [The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety](learning-is-natural-enjoyable-process-argument.md) — related
 - [Students in the style-informed EFL classes reported that the teaching procedure was useful and that their interests and motivation increased](students-report-increased-motivation-style-informed-elt.md) — related
+- [In SDT, autonomy is not synonymous with independence nor the opposite of dependence](autonomy-not-synonymous-with-independence.md) — related
+- [Autonomy-supportive teaching contrasts with controlling teaching, and controlled students do poorly compared to autonomous students](autonomy-support-versus-controlling-teaching.md) — possibly the same claim (merge candidate)
+- [Explicit statement of tasks and standards for success has a strong positive effect on student motivation in writing](explicit-tasks-standards-boost-writing-motivation.md) — related
+- [IE's doing-with stance and democratic ethos map onto SDT autonomy support](ie-doing-with-maps-onto-autonomy-support.md) — related
+- [Positive teacher-student relationships fulfill relatedness needs and support internalization of learning](relatedness-care-support-internalization.md) — related

@@ -37,7 +37,8 @@ The article recommends that institutions in developing countries measuring stude
 - evaluating global citizenship education outcomes
 
 ## Related Strategies
-- 
+
+- [Research agenda: develop an existential hope scale, then test the framework with SEM and network analysis in longitudinal designs](existential-hope-research-agenda.md)
 
 ## Examples
 -

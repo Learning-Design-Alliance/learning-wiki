@@ -45,3 +45,4 @@ Results section of the classroom observation study: "high mediation was associat
 - [Elaborated coding was associated with higher reading scores among the observed children](elaborated-coding-higher-reading-scores.md) — related
 - [Teacher mediation interacts with SES: the SES gap in elaborated utterances appears only in the low-mediating classroom](mediation-ses-interaction-elaborated-utterances.md) — related
 - [Findings on teacher mediation patterns differ from the Gahagans' conclusion of no difference in teacher verbal mediation](findings-differ-from-gahagans-no-difference.md) — related
+- [Reducing the number of children in a presentation and letting them describe similarities and differences made children's knowledge visible to the teacher](small-presentation-groups-make-learning-visible.md) — related

@@ -45,6 +45,7 @@ The digest describes constructivism as the view prominent in the late 1980s that
 - [Constructivism as a theory of knowledge and learning with individualistic, social, and combined branches](constructivism-knowledge-learning-theory-branches.md)
 - [Radical constructivism: knowing as dynamic adaptation of interpretations of experience](radical-constructivism-von-glasersfeld.md)
 - [Habermas's communicative theory and Kantian limited objectivity as grounding for objective standards in Constructivism](habermas-kantian-limited-objectivity-constructivism.md)
+- [Kantian architectonics: a theory of the systematic, constructivist organization of relations in cognition and higher education](kantian-architectonics-systematic-relations.md)
 
 ## Examples
 

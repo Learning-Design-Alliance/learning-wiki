@@ -44,3 +44,4 @@ The protocol summarizes prior long-term living-environment studies, stating "ind
 - [Time spent outdoors in the 24 hours before scanning is positively associated with grey matter volume in the right dorsolateral prefrontal cortex](outdoor-time-associated-with-right-dlpfc-grey-matter.md) — related
 - [Prolonged or overwhelming stress disrupts self-regulation development by physically changing brain wiring toward emotional reactivity](toxic-stress-disrupts-self-regulation-development.md) — related
 - [Physically or emotionally unsafe environments activate the adolescent stress-response system, which can impede cognition](unsafe-environments-trigger-stress-response-impeding-cognition.md) — related
+- [By 1973, 70% of the US population lived in the nation's 247 Standard Metropolitan Statistical Areas](seventy-percent-population-in-metropolitan-areas.md) — related

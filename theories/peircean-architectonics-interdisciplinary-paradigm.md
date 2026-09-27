@@ -46,6 +46,9 @@ Architectonics is presented as the cross-disciplinary term for the systematic, c
 - [Architectonics: the philosophical tradition of building and relating meaning, knowledge, and experience](architectonics-science-of-relations.md)
 - [Dialogism, intertextuality, and hypertextuality: the language-centered genealogy leading to connectivism](dialogism-intertextuality-hypertextuality-genealogy.md)
 - [Three metaphors of time in knowledge organization systems: architectonic, ouroboric, and lachesic](three-time-metaphors-knowledge-organization-systems.md)
+- [Constructivism learning theory: knowledge as assumption, learning as active construction, students as subjects, teachers as helpers](constructivism-learning-theory-jia-2010.md)
+- [Kantian architectonics: a theory of the systematic, constructivist organization of relations in cognition and higher education](kantian-architectonics-systematic-relations.md)
+- [The Kantian Effect: a metaphor and paradigm linking intertextuality and interdisciplinarity through four dialogic principles](kantian-effect-integrative-paradigm.md)
 
 ## Examples
 

@@ -61,9 +61,11 @@ Video replay works because it converts fleeting performance into a stable, revie
 7. Set one concrete adjustment and schedule the next recording to close the loop through [Application](../elements/application.md).
 
 ## Related Strategies
+
 - Video-stimulated recall — a variant in which the replay prompts reconstruction of the performer's thinking rather than evaluation of technique
 - Peer coaching cycles — replay analysis as the evidence base for coaching conversations
 - Portfolio-based reflection — annotated video clips as reflective artifacts accumulated over a course
+- [Use TPACK-based analysis of teaching video cases and design artifacts to build novice instructional designers' metacognition](tpack-video-case-analysis-for-idc-metacognition.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — expert recordings serve as comparison models for the learner's own replay

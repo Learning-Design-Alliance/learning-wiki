@@ -37,7 +37,8 @@ The School Technology and Readiness (STaR) Chart, first released by the CEO Foru
 - Assessing and planning school technology integration and professional development
 
 ## Related Elements
-- 
+
+- [Institutional benchmarking and career readiness tools built on the framework](ai-acumen-benchmarking-tool.md)
 
 ## Examples
 -

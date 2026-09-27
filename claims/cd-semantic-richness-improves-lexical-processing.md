@@ -46,3 +46,4 @@ The chapter's narrative review of multiple studies reports that in naming and le
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — related
 - [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — related
 - [Combined semantic and syntactic contextual information expedites word recognition compared with syntactic information alone](combined-semantic-syntactic-context-expedites-word-recognition.md) — related
+- [Words encountered in diverse contexts are recognized more accurately in a pseudolexical decision task](diverse-contexts-improve-pseudoword-recognition-accuracy.md) — a narrower finding that bears on this claim

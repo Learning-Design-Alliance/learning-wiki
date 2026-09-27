@@ -42,6 +42,7 @@ The digest presents Ellsworth's framework as a way of uniting the major perspect
 ## Related Theories
 
 - [Ellsworth's Framework of Educational Change](ellsworth-framework-of-educational-change.md)
+- [Six change-agent roles framework for regional staff development staff](six-change-agent-roles-staff-development.md)
 
 ## Examples
 

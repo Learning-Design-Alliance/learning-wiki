@@ -60,3 +60,4 @@ A systematic search of bibliographic databases identified 69 effect sizes from 6
 - [Generative Learning Improves Comprehension](generative-learning-improves-comprehension.md) — related
 - [Generative processing improves learning](generative-processing-improves-learning.md) — related
 - [Self Explanation Prompts Improve Learning From Worked Examples](self-explanation-prompts-improve-learning-from-worked-examples.md) — a narrower finding that bears on this claim
+- [Revised post-teaching prompts (RPTAA) advanced candidates' capacity for more sophisticated analysis compared with the original prompts (PTAA)](revised-prompts-advance-sophisticated-analysis.md) — a narrower finding that bears on this claim

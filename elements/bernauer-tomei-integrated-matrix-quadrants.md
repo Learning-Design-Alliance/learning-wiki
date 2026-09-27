@@ -38,7 +38,8 @@ The integrated matrix is a framework described as an architectonics of the compe
 - integrating pedagogy and technology in teaching
 
 ## Related Elements
-- 
+
+- [Technology Affordances Matrix: entry-point table of technology work forms and their learning opportunities](technology-affordances-matrix-entry-point.md)
 
 ## Examples
 -

@@ -46,3 +46,5 @@ Theoretical argument applying Koestler's analysis of hierarchically organized co
 - [Attachment (communion) contains the fear and anxiety associated with individual action (agency)](communion-contains-agentic-distress.md) — related
 - [In attachment theory, the child's exploration is the direct outcome of security from an effective attachment relationship](secure-base-enables-exploration.md) — a narrower finding that bears on this claim
 - [Viewing agency/communion as a polarity risks underestimating agency in the lives of women](polarity-view-obscures-womens-agency.md) — related
+- [The better the five foundations are integrated, the greater the probability of success in the designed setting](foundation-integration-predicts-environment-success.md) — a narrower finding that bears on this claim
+- [Newell's complex systems theory of interdisciplinarity fails to explain integration, as its critics and Newell himself acknowledge](newell-complex-systems-theory-integration-gap.md) — related

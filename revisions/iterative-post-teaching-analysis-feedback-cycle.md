@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../strategies/iterative-post-teaching-analysis-feedback-cycle.md
+---
+
+# Revision history: [strategies/iterative-post-teaching-analysis-feedback-cycle](../strategies/iterative-post-teaching-analysis-feedback-cycle.md)
+
+### 2026-09-27 · ingest · process:wiki-ingest
+Ingested from eric-ej1502225 (Making Learning Visible: Shaping Teacher Candidates' Pedagogical Judgment in Clinical Experiences) via eval_harness.py + ingest_extractions.py

@@ -45,9 +45,11 @@ The forum presents Poehner's (2014) account of dynamic assessment (DA) within Vy
 - [Zone of Proximal Development: the gap between independent and assisted problem solving](zpd-gap-independent-versus-assisted-problem-solving.md)
 - [Sociocultural Theory](sociocultural-theory.md)
 - [Feuerstein's mediated learning: human mediation as prerequisite for direct learning](feuerstein-mediated-learning-prerequisite.md)
+- [Interactionist dynamic assessment grounded in Vygotsky's ZPD](interactionist-da-zpd-framework.md)
 
 ## Examples
--
+
+- [Mediation typology of implicit-to-explicit moves in SCMC DA](../patterns/scmc-da-mediation-typology.md)
 
 ## Key Sources
 - Dean, A. C. (2014). The Interactional Dimension of LOA: Within and Beyond the Classroom. Teachers College, Columbia University Working Papers in TESOL & Applied Linguistics. https://eric.ed.gov/?id=EJ1176847

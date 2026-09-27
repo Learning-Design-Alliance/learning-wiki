@@ -77,10 +77,12 @@ A strengths-based approach improves learning when instructors make existing capa
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — concrete recognition of strengths can support more credible and challenging goal pursuit
 
 ## Related Principles
+
 - [Learner Choice](learner-choice.md) — strengths-based design often creates multiple legitimate pathways into a task.
 - [Foster Growth Mindset](foster-growth-mindset.md) — asset framing helps learners interpret challenge as workable rather than identity-defining.
 - [Developing Your Cultural Awareness](developing-your-cultural-awareness.md) — instructors need cultural awareness to recognize strengths accurately.
 - [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — learners' strengths are easier to see when work resembles meaningful practice.
+- [Take students' previous knowledge and experience as the growth point of new knowledge](prior-knowledge-growth-point-new-knowledge.md)
 
 ## Examples
 

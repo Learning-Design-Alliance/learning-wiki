@@ -40,7 +40,9 @@ The paper analyzes Schon's account of how master practitioners induct novices in
 - 
 
 ## Related Theories
+
 - [Joyce Showers Technical Coaching](joyce-showers-technical-coaching.md)
+- [Reflective practice as a process for refining teaching craft through coached reflection on experience](reflective-practice-schon-coached-reflection.md)
 
 ## Examples
 

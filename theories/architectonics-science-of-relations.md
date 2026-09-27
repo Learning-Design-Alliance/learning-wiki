@@ -45,6 +45,9 @@ Architectonics is presented as a concept permeating the Western philosophical tr
 - [Peircean architectonics as an interdisciplinary paradigm organized by triadic logic](peircean-architectonics-interdisciplinary-paradigm.md)
 - [Dialogism, intertextuality, and hypertextuality: the language-centered genealogy leading to connectivism](dialogism-intertextuality-hypertextuality-genealogy.md)
 - [Three metaphors of time in knowledge organization systems: architectonic, ouroboric, and lachesic](three-time-metaphors-knowledge-organization-systems.md)
+- [Dialogism: Bakhtin's dialogic reconceptualization of architectonics as a philosophy of interrelations mediated by language and texts](dialogism-bakhtin-architectonics.md)
+- [Kantian architectonics: a theory of the systematic, constructivist organization of relations in cognition and higher education](kantian-architectonics-systematic-relations.md)
+- [The Kantian Effect: a metaphor and paradigm linking intertextuality and interdisciplinarity through four dialogic principles](kantian-effect-integrative-paradigm.md)
 
 ## Examples
 -

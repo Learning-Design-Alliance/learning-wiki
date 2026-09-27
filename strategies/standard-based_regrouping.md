@@ -64,6 +64,7 @@ Standard-based regrouping operationalizes [Assessment for Learning](../principle
 - [Differentiated Instruction](differentiated-instruction.md) — regrouping is one structural form of differentiation by readiness
 - [Formative Assessment Cycles](formative-assessment-cycles.md) — supplies the mastery data on which regrouping depends
 - [Use Heterogeneous Groups for Projects and Homogeneous Groups for Skill Achievement](heterogeneous-grouping-for-science-projects.md)
+- [Start adult learners in homogeneous small groups and use individual instruction with gradual release](small-group-library-instruction-adult-learners.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the diagnostic engine of the strategy

@@ -42,3 +42,4 @@ The article reports, citing King and Kitchener (1994), that reassessment of coll
 
 ## Related Claims
 - [Highly reflective students often viewed the lecture-free restructured course negatively, as unchallenging and lacking in content](highly-reflective-students-found-restructured-course-unchallenging.md) — related
+- [Traditional-aged college students average around stage 3.8 on the Reflective Judgment Interview, near the Pre-Reflective to Quasi-Reflective transition](college-students-average-reflective-judgment-3-8.md) — related

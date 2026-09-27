@@ -48,3 +48,4 @@ Conceptual argument citing Roth and Lee's Grade 7 environmental-science project,
 - [Knowledge development as social collaboration: ZPD and collective activity systems support CSL learning networks](chat-knowledge-development-social-collaborative-csl.md) — related
 - [CHAT's rejection of the theory/practice divide frames CSL as boundary crossing that develops connective skills](chat-rejects-theory-practice-divide-csl-boundary-crossing.md) — related
 - [Individual user goals, such as avoiding cognitive load, can contradict the objectives of the educational community](user-goals-contradict-educational-objectives.md) — a narrower finding that bears on this claim
+- [Interdisciplinary studies are hindered by proliferating definitions and competing instrumental versus conceptual approaches](interdisciplinarity-competing-definitions-approaches.md) — related

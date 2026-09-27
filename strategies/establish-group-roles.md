@@ -59,9 +59,11 @@ Role assignment converts loose cooperation into structured collaboration, which 
 6. Rotate roles across sessions and debrief what each role contributed (see [Class Discussion](../elements/class-discussion.md)).
 
 ## Related Strategies
+
 - [Jigsaw](../strategies/jigsaw.md) — an extreme form of role structure where each member owns unique material and must teach it
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a lightweight, implicit role structure for pairs
 - [Establish Group Norms](../strategies/establish-group-norms.md) — roles define *who does what*; norms define *how members treat each other*
+- [Assign small mixed-ability groups and manage group functioning and rotation for collaborative feedback tasks](small-mixed-ability-groups-for-cfts.md)
 
 ## Examples
 - **Complex Instruction (Cohen & Lotan, Stanford)** — role structures (facilitator, recorder/reporter, materials manager, understanding checker) combined with status treatments to equalize participation in heterogeneous classrooms. See https://cgi.stanford.edu/group/pci/cgi-bin/site.cgi

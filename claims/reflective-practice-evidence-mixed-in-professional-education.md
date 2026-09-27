@@ -63,3 +63,5 @@ A meta-analysis of controlled experiments testing reflective interventions inten
 - [Cognitive apprenticeship](../patterns/cognitive-apprenticeship.md) — pairs reflection with expert modeling and feedback, addressing the novice-diagnosis limitation
 - [Deliberate practice interventions produce higher real estate licensing exam pass rates than traditional study methods](deliberate-practice-raises-licensing-pass-rate.md) — related
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
+- [Novice and expert information seekers pursue different information goals, producing different outcomes on the same task](information-goals-differ-novice-expert.md) — related
+- [Peer reflective groups encourage student teachers to challenge existing theories and model collaborative professional development](peer-reflective-groups-challenge-student-teacher-views.md) — related

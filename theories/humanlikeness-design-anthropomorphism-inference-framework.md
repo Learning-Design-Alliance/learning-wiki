@@ -46,6 +46,7 @@ The article defines humanlikeness as "the degree to which an agent includes desi
 - [DiSalvo et al. taxonomy of four anthropomorphic design forms](anthropomorphic-design-forms-taxonomy.md)
 - [Four-quadrant inferential framework for interpreting human attribution responses to robot design](four-quadrant-design-attribution-framework.md)
 - [Humanlikeness as a multidimensional design construct extending beyond physical appearance](humanlikeness-multidimensional-design-construct.md)
+- [Six theories of anthropomorphism explaining why learners attribute human characteristics to nonhuman entities](six-theories-of-anthropomorphism.md)
 
 ## Examples
 

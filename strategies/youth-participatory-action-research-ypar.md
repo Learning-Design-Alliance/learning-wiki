@@ -65,6 +65,7 @@ YPAR is a form of [Community-Based Learning](../principles/community-based-learn
 - [Community-Based Learning](../principles/community-based-learning.md) — shares the commitment to learning embedded in real community contexts
 - [Service Learning](service-learning.md) — related but typically adult-directed; YPAR shifts the locus of decision-making to youth
 - [Engage youth as partners in stewardship rather than as subjects to be taught](youth-as-stewardship-partners.md)
+- [Use action research projects in which pre-service and in-service teachers jointly inquire into instructional decision-making](action-research-reflective-teacher-education.md)
 
 ## Examples
 - **[YPAR Hub](https://yparhub.berkeley.edu)** — University of California, Berkeley resource offering a step-by-step YPAR curriculum, facilitator guides, and example youth projects.

@@ -71,6 +71,7 @@ Rubrics make quality criteria explicit *before* performance, converting assessme
 - **Criterion-referenced feedback** — rubric descriptors supply the language for specific, actionable feedback
 - **Portfolio assessment** — developmental rubrics track growth across artifacts over time
 - [Use a three-part process-understanding-product rubric for formative and summative maker assessment](three-part-rubric-maker-assessment.md)
+- [Use component-level checklists for lesson planning and rubric design](checklists-for-lesson-planning-and-rubrics.md)
 
 ## Related Elements
 - [Provide Feedback](../elements/provide-feedback.md) — rubric descriptors make feedback specific and criterion-referenced rather than evaluative

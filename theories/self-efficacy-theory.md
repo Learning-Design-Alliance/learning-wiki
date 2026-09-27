@@ -56,10 +56,13 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [ARCS Model of Motivational Design](arcs-model.md) — the Confidence category is a direct, practitioner-facing operationalization of self-efficacy-building tactics
 - [Locus of Control](locus-of-control.md) — a related but distinct cognitive factor: self-efficacy is belief in one's own task-specific ability, while locus of control is a broader belief about whether outcomes generally are controlled by one's own effort or by external forces
 - [Bandura's social learning theory: four fundamental requirements for people to learn and model behavior](bandura-four-requirements-learn-model-behavior.md)
+- [Bandura's four self-efficacy building experiences framework](bandura-four-self-efficacy-building-experiences.md)
 
 ## Examples
+
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
 - [Strengths-based Approach](../principles/strengths-based-approach.md)
+- [Sequence teacher development so vicarious experiences come before mastery experiences](../principles/vicarious-before-mastery-teacher-development.md)
 
 ## Key Sources
 - Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review, 84*, 191–215. [doi:10.1037/0033-295x.84.2.191](https://doi.org/10.1037/0033-295x.84.2.191)

@@ -42,6 +42,7 @@ The article grounds its egalitarian program-design argument in Dewey's democrati
 ## Related Theories
 
 - [Mead's social conception of education recognizing both the child and society](mead-social-conception-of-education.md)
+- [Experiential learning: students develop opinions of a concept through interaction with information](dewey-experiential-learning-vr.md)
 
 ## Examples
 

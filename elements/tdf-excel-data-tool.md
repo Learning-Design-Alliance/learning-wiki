@@ -40,7 +40,8 @@ The GTL Center offers an accompanying Excel-based TDF data tool for state and di
 - [Talent Development Framework Three Sections](../theories/talent-development-framework-three-sections.md)
 
 ## Related Elements
-- 
+
+- [Institutional benchmarking and career readiness tools built on the framework](ai-acumen-benchmarking-tool.md)
 
 ## Examples
 -

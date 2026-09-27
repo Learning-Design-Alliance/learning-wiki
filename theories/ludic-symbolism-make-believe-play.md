@@ -44,6 +44,7 @@ Piaget's concept of ludic symbolism holds that the hallmark of make-believe play
 - [Piaget's taxonomy of play: practice games, symbolic games, and games with rules](piaget-three-categories-of-play.md)
 - [Stages of Cognitive Development](stages-of-cognitive-development.md)
 - [Play and Cognitive Development](play-and-cognitive-development.md)
+- [Piaget's stages as an ordinal hierarchy of schemes for coping with the environment](piaget-stages-ordinal-hierarchy.md)
 
 ## Examples
 -

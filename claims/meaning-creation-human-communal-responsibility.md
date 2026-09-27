@@ -45,3 +45,5 @@ Theoretical argument opening the 'What are we to do?' section. The authors illus
 - [Premodern cultures' narratives assimilate language to the world rather than vice versa, offering environmental educators place-bound narrative strategies](premodern-narratives-assimilate-language-to-world.md) — related
 - [The Western linear, material construction of time is only one among many constructions of reality, and deconstructing it is another step toward reconstructing the relationship with the earth](western-linear-time-one-construction-among-many.md) — related
 - [Modernist discourses have produced contradictory environmental effects, raising awareness of problems while helping cultivate stories that construe the earth as an object of instrumental value](modernist-discourses-contradictory-environmental-effects.md) — related
+- [Postmodern texts advance five characteristic theses against Enlightenment certainties](five-postmodern-theses-anti-enlightenment.md) — related
+- [The central characteristic of postmodern sensibility is an ontological shift from essentialist to anti-essentialist views of reality](postmodern-ontological-shift-anti-essentialism.md) — related

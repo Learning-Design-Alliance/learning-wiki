@@ -46,6 +46,7 @@ Siegel argues that although techniques of inquiry differ across disciplines, inq
 - [Siegel's reasons conception: critical thinking as being appropriately moved by reasons](siegel-reasons-conception-critical-thinking.md)
 - [Siegel's broad rationality: critical thinking as an educational and moral ideal grounding Constructivism](siegel-broad-rationality-critical-thinking-ideal.md)
 - [Montclair conception of critical thinking as judgment supported by disciplinary canons](montclair-judgment-centered-critical-thinking.md)
+- [Siegel's two-component account of critical thinking: reason assessment ability plus critical attitude](siegel-two-component-critical-thinking.md)
 
 ## Examples
 

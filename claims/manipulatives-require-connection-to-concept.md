@@ -81,3 +81,4 @@ Open questions: how much guidance is optimal (over-guidance may trigger its own 
 - [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — related
 - [Relational-domain programs are argued to be workable only under highly individualized instruction matched to learners' concrete-abstract developmental stage](individualized-instruction-relational-domain.md) — related
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — related
+- [Students recommend integrating computer-based simulation cases into each course to make learning more concrete](students-recommend-simulation-in-each-course.md) — a narrower finding that bears on this claim

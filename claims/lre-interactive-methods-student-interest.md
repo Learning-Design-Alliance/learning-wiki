@@ -44,3 +44,4 @@ The digest reports educators' observations, citing Hunter (1987), that students 
 - [Properly conducted LRE programs can reduce delinquent tendencies and improve citizenship attitudes](lre-reduces-delinquent-tendencies.md) — related
 - [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — related
+- [Discovery method in motor skill learning was superior to teacher-directed approach in children's attitudes and social interaction](discovery-method-motor-learning-attitudes.md) — related

@@ -66,6 +66,7 @@ Shadowing converts passive observation into an active reproduction attempt, whic
 **[Khan Academy](https://www.khanacademy.org)** — Learners watch a narrated worked solution, then immediately attempt a nearly identical problem, with hints that re-show sub-steps of the model on demand.
 
 **Coding "follow-along" tutorials (e.g., [freeCodeCamp](https://www.freecodecamp.org))** — Learners watch or read an expert build a program step by step and reproduce each step in their own editor before extending it independently.
+- [Use hands-on practice and immediate feedback in bibliographic instruction for ESL students](../strategies/hands-on-instruction-esl-students.md)
 
 ## Key Sources
 - Bandura, A. (1977). Social learning theory. *Englewood Cliffs, NJ: Prentice Hall.*

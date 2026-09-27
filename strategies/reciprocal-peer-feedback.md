@@ -60,9 +60,11 @@ Peer feedback works because both roles generate learning: reviewing exposes lear
 6. Rotate roles across cycles so every learner reviews and is reviewed; debrief on feedback quality, not just work quality.
 
 ## Related Strategies
+
 - [Peer Instruction](peer-instruction.md) — peers explaining to peers during concept questions; complements feedback on products with feedback on reasoning
 - [Collaborative Writing](collaborative-writing.md) — drafting contexts in which reciprocal feedback most naturally occurs
 - [Two-Stage Exams](two-stage-exams.md) — peer discussion as immediate feedback on understanding
+- [Pair students to alternate presenting work and critically commenting on a partner's work to support each CRITO stage](paired-alternating-presentation-and-critique.md)
 
 ## Examples
 - **Calibrated Peer Review (CPR)** — a web-based system in which students complete calibration exercises against instructor-anchored exemplars before reviewing three peers' work; widely used in STEM writing assignments. [https://cpr.molsci.ucla.edu](https://cpr.molsci.ucla.edu)

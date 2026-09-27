@@ -61,9 +61,11 @@ Critical analysis works best when learners compare multiple contrasting cases ra
 7. Run structured peer critique using the criteria, cycling analysis back into revision
 
 ## Related Strategies
+
 - [Case-based learning](../patterns/case-based-learning.md) — authentic cases give critical analysis real stakes and situated complexity
 - [Debate](../patterns/debate.md) — assigned positions force learners to argue readings they did not initially hold, exposing interpretive assumptions
 - [Cognitive flexibility theory](../patterns/cognitive-flexibility-theory.md) — multiple representations and criss-crossing of the same content domain support flexible, transferable analysis
+- [Teach L2 comprehension through a multiliteracies curriculum with video-based visualizing and verbalizing activities](multiliteracies-video-comprehension-activities.md)
 
 ## Examples
 - **The New London Group's multiliteracies pedagogy** — "Designing Social Futures" (1996) frames literacy teaching around *available designs*, *designing*, and *the redesigned*, with critical analysis of design choices as a core component. [doi:10.17763/haer.66.1.17370n67v22j160u](https://doi.org/10.17763/haer.66.1.17370n67v22j160u)

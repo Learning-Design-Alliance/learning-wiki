@@ -61,9 +61,11 @@ Action research operationalizes formative evaluation at the level of one's own t
 6. **Revise and re-cycle** — adjust the intervention based on findings and begin the next cycle; share results with a professional community.
 
 ## Related Strategies
+
 - [Lesson Study](../strategies/lesson-study.md) — a highly structured, team-based variant of the same cycle
 - [Reflective Practice](../strategies/reflective-practice.md) — the reflective habit action research formalizes with data
 - [Formative Assessment Loops](../strategies/formative-assessment-loops.md) — the same plan–act–observe logic applied to student learning rather than teaching
+- [Use action research projects in which pre-service and in-service teachers jointly inquire into instructional decision-making](action-research-reflective-teacher-education.md)
 
 ## Examples
 - **Lesson Study in Japanese elementary mathematics** (e.g., through [Mills College Lesson Study Group](https://www.lessonresearch.net)) — teams cycle through co-planning, observation, and revision of a single research lesson.

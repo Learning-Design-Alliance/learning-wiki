@@ -48,3 +48,4 @@ This is a single case study of four graduate students already trained in embodie
 - [Embodied dance improvisation supports physics engagement and sense-making](embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) — related
 - [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related
 - [Witkin's orientation tests showed marked individual differences and self-consistency in perceiving the upright, with only a tendency toward two distinguishable groups](witkin-orientation-tests-individual-differences-self-consistency.md) — related
+- [In the owl game, being shown the solids and working with pictures and labels did not help two boys distinguish solids; body-based experience with contrastive guidance was needed](owl-game-body-based-experience-needed-for-solids.md) — related

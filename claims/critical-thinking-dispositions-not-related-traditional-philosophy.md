@@ -45,3 +45,4 @@ Pearson correlation analysis in the same 429-participant relational screening st
 - [Critical thinking disposition subscales jointly explain about 14% of contemporary educational philosophy preference, with innovation the only significant predictor](ctds-subscales-predict-contemporary-philosophy-innovation.md) — related
 - [Teacher-centered philosophies correlate with formal-authority teaching styles](teacher-centered-philosophies-correlate-formal-authority.md) — related
 - [Adopted educational philosophy is significantly positively related to teaching style](philosophy-significantly-related-teaching-style.md) — related
+- [Critical disposition is least spontaneous when confronting one's most basic prejudices or deeply held convictions](critical-temper-weakest-on-basic-prejudices.md) — related

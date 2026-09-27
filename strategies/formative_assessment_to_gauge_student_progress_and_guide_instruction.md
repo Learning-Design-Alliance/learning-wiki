@@ -61,9 +61,11 @@ Formative assessment is among the most consistently supported instructional prac
 6. Re-check after the adjustment to close the loop ([Check-ins](../principles/check-ins.md))
 
 ## Related Strategies
+
 - [5-minute writing conferences](../strategies/5-minute_writing_conferences.md) — a high-touch, low-volume formative check in writing-intensive courses
 - [Exit tickets](../strategies/exit-tickets.md) — end-of-session evidence collection for next-day planning
 - [Mastery learning](../strategies/mastery-learning.md) — extends formative loops into a full progression model with re-attempt until criteria are met
+- [Use the taxonomy to self-evaluate an implemented research experience and level up milestones](ur-taxonomy-self-evaluation-loop.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the evidence-collection step

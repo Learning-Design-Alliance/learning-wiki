@@ -68,6 +68,7 @@ Portfolios support learning primarily by requiring learners to review, evaluate,
 
 **[Seesaw](https://web.seesaw.me)** — K–12 digital portfolio app where students upload work and record audio/video reflections; teachers and families comment, creating an ongoing feedback loop.
 - [Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time](../strategies/student-owned-portfolios-maker-assessment.md)
+- [Use teaching portfolios with a reflective component so beginning teachers document competencies and reflect on which practices worked](../strategies/reflective-teaching-portfolios.md)
 
 ## Key Sources
 - Paulson, F. L., Paulson, P. R., & Meyer, C. A. (1991). What makes a portfolio a portfolio? *Educational Leadership, 48*(5), 60–63.

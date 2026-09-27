@@ -41,6 +41,7 @@ The article's appendices compile suggested materials for ELT instructors: course
 ## Related Elements
 
 - [Index of instructional video styles (Table 2): a sampled classification of existing formats](instructional-video-style-index-table2.md)
+- [33-page annotated resource listing for students and teachers](expressionism-realism-resource-materials-listing.md)
 
 ## Examples
 -

@@ -43,6 +43,7 @@ Drawing on Horn (2020), the article treats teacher learning as the development o
 ## Related Theories
 
 - [External conceptual resources as cross-context frameworks, tools, and concepts in teacher learning ecologies](external-conceptual-resources-definition.md)
+- [Pedagogical judgment as interpretable, responsive instructional decision-making (Horn & Campbell, operationalized via inquiry as stance)](pedagogical-judgment-horn-campbell-framework.md)
 
 ## Examples
 

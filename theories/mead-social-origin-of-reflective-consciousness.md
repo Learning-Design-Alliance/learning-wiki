@@ -50,6 +50,7 @@ The article reconstructs Mead's central claim that reflective consciousness — 
 
 - [Create social situations in which meaning arises through the learner's own response](../principles/create-social-situations-for-meaning.md)
 - [Organize education around the child's response to material rather than the material provided by elders](../principles/education-around-child-response.md)
+- [Emphasize cooperation and communication to train students' cooperative consciousness](../strategies/cooperation-communication-train-cooperative-consciousness.md)
 
 ## Key Sources
 - Biesta, Gert J. J. (1997). George Herbert Mead's Lectures on Philosophy of Education at the University of Chicago (1910-1911). Paper presented at the Annual Meeting of the American Educational Research Association, Chicago, IL. https://eric.ed.gov/?id=ED422199

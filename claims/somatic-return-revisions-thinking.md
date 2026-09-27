@@ -46,3 +46,4 @@ The review-style article attributes this position to Peter Reason (1994) and his
 - [The nervous system is hypothesized to include an all-spreading nondirectional relational medium alongside directional connections](all-spreading-nondirectional-relational-medium.md) — related
 - [Changes in the constraints of activity (attention, object location, interaction patterns) provide opportunities for new locally stable patterns of thinking to take hold](changing-activity-constraints-enable-new-coherences.md) — related
 - [Writing Program Administrators' responses to conflict are frequently somatic, with conflict becoming a physical trope expressed as illness](wpa-conflict-responses-somatic-physical-trope.md) — related
+- [Somatically informed dance teachers use six facilitation strategies to deepen movement sensation](somatically-informed-teachers-six-movement-awareness-strategies.md) — related

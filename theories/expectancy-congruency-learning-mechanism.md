@@ -47,6 +47,7 @@ The chapter proposes that lexical organization is driven by an expectancy-congru
 - [Wickens' Context Alpha and Context Beta distinction](context-alpha-beta-distinction.md)
 - [Semantic diversity as a graded measure of contextual diversity based on document content overlap](semantic-diversity-graded-measure.md)
 - [Principle of likely need versus principle of repetition as competing accounts of lexical learning](likely-need-versus-repetition-principles.md)
+- [Semantic Distinctiveness Model (SDM)](semantic-distinctiveness-model-sdm.md)
 
 ## Examples
 

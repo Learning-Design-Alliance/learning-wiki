@@ -61,9 +61,11 @@ Socratic Seminars operationalize [Active Learning](../principles/active-learning
 6. **Close with synthesis.** End with a debrief: a closing question, a written reflection, or observer feedback on the dialogue itself, consolidating what the discussion established and left open.
 
 ## Related Strategies
+
 - [Debate](debate.md) — shares argumentation demands but assigns opposing positions; the seminar keeps positions open and revisable
 - [Case-Based Learning](case-based-learning.md) — also centers discussion of a shared artifact, but with a decision or diagnosis as the goal rather than interpretation
 - [Active Listening](active-listening.md) — the turn-taking norm that makes seminar dialogue build rather than merely alternate
+- [Use a process-as-content seminar approach in which learners read, analyze, synthesize, apply, and evaluate individually chosen problems](process-as-content-seminar-approach.md)
 
 ## Examples
 - **Paideia schools (National Paideia Center)** — K–12 network using scripted Socratic Seminars across the curriculum several times weekly, with trained facilitators and defined question sequences ([paideia.org](https://www.paideia.org))

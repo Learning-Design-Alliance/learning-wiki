@@ -49,8 +49,11 @@ Gardner's inter- and intrapersonal intelligences are often combined by other res
 - [Triarchic Theory of Intelligence](triarchic-theory-of-intelligence.md) — a competing, more parsimonious (three-part) account of intelligence developed as an alternative to both single-factor ("g") and highly multi-factor models
 - [Gardner's Multiple Intelligences theory: eight named intelligences with a possible ninth](mi-theory-eight-intelligences-taxonomy.md)
 - [Sternberg's mental self-government model of intellectual styles](mental-self-government-intellectual-styles.md)
+- [Integrated Bloom-MI grid as a two-perspective textbook analysis framework](bloom-mi-integrated-analysis-grid.md)
 
 ## Examples
+
+- [Develop lesson plans covering all learning objectives across various intelligences](../strategies/comprehensive-lesson-plans-all-objectives-intelligences.md)
 
 ## Key Sources
 - Gardner, H. (1983). *Frames of mind: The theory of multiple intelligences*. Basic Books.

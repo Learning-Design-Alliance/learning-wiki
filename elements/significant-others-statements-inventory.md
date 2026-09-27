@@ -37,7 +37,9 @@ The SOSI is an eight-subscale instrument measuring children's perceived frequenc
 - perceived teacher praise and negative feedback
 
 ## Related Elements
+
 - [Self Talk Mediating Construct](self-talk-mediating-construct.md)
+- [Annotated bibliography of 27 instruments for assessing preschool affective development](affective-development-assessment-instrument-bibliography.md)
 
 ## Examples
 -

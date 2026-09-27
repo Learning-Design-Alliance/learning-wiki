@@ -57,9 +57,11 @@ The evidence base is narrower than the popular "learning styles" framing suggest
 5. Follow with retrieval or application so multi-channel encoding is consolidated ([Practice](../elements/practice.md)).
 
 ## Related Strategies
+
 - [Dual Coding](../theories/dual-coding-theory.md) — the theoretical mechanism: separate verbal and visual memory codes improve recall
 - [Multimedia Learning Principles](../principles/cognitive-load-management.md) — the design rules (redundancy, contiguity, modality) that govern when multi-sensory presentation helps
 - [Annotating](../principles/annotating.md) — a text-based way to add a visual-organizational channel to reading
+- [Teach L2 comprehension through a multiliteracies curriculum with video-based visualizing and verbalizing activities](multiliteracies-video-comprehension-activities.md)
 
 ## Examples
 - **Orton-Gillingham literacy instruction** (https://www.orton-gillingham.com) — phonics taught simultaneously through visual (letter shape), auditory (sound), and kinesthetic (tracing in sand) channels; the classic multi-sensory application for dyslexic learners.

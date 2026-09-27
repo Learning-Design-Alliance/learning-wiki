@@ -8,20 +8,20 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 2,164 |
-| Evidence entries | 2,754 |
-| Distinct studies | 860 |
-| Claims resting on one study | 1,969 (91%) |
+| Claims | 2,423 |
+| Evidence entries | 3,061 |
+| Distinct studies | 924 |
+| Claims resting on one study | 2,228 (92%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 280 of 860 (33%) |
+| Studies reporting an effect size | 287 of 924 (31%) |
 
 **Studies by quality tier** (where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 136 (16%) | 383 (45%) | 249 (29%) | 92 (11%) |
+| 161 (17%) | 418 (45%) | 253 (27%) | 92 (10%) |
 
-**Studies per claim:** 0: 0, 1: 1,969, 2: 143, 3: 50, 4 or more: 2.
+**Studies per claim:** 0: 0, 1: 2,228, 2: 143, 3: 50, 4 or more: 2.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -46,11 +46,11 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Lu, Y., Tong, L., & Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula …](claims/ablation-all-features-maximize-auc.md) | q2 | 8 | 8 |
 | [Truong, T. D. (2025). Factors Determining Governance Effectiveness in Vietnamese Universities: A Mixed-Method …](claims/education-level-internationalization-perceptions.md) | q2 | 8 | 8 |
 | [Huang, Wenrui, Dajanae Palmer, Ekaete Udoh, Yung Chun, and Jason Jabbari. (2025). Pinpointing Persistence in …](claims/black-students-more-likely-complete-apprenticeship.md) | q2 | 8 | 8 |
+| [Ziller, Robert C. (1969). A Theory of Self Other Orientation and Interpersonal Conflict: A Technical Report. …](claims/aggressive-potential-highest-after-high-social-interest-separation.md) | q1 | 7 | 7 |
 | [Ward, William C., Nathan Kogan, and Ethel Pankove. (1970). Motivation and Capacity in Children's Creativity. …](claims/baseline-group-effect-no-sex-order-effects.md) | q3 | 7 | 7 |
 | [Snyder, S. S. & Feldman, D. H. (1975). An Experimental Test of the Effects of Internal and External …](claims/discrepant-training-facilitates-map-drawing-advance.md) | q2 | 7 | 7 |
 | [Tims, Albert R., Jr. (1983). Development of Public Affairs Media Use. https://eric.ed.gov/?id=ED238044](claims/late-evening-local-news-increases-with-age.md) | q2 | 7 | 7 |
 | [Tamaoka, Katsuo. (1985). Historical Development of Learning Style Inventories from Dichotomous Cognitive …](claims/canfield-learning-style-predicts-academic-success.md) | q2 | 7 | 7 |
-| [Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill. (1991). The Effect of …](claims/clarity-concept-structure-interaction.md) | q3 | 7 | 7 |
 
 ## Citation load against evidence base
 
@@ -61,7 +61,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 643 pages | 3 | q2–q4 | 0 of 3 |
 | [Self-explanation improves conceptual understanding and problem-solving performance.](claims/self-explanation-improves-conceptual-understanding.md) | 510 pages | 2 | q3–q4 | 0 of 2 |
 | [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 429 pages | 2 | q4 | 2 of 2 |
-| [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 413 pages | 3 | q1–q4 | 1 of 3 |
+| [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 414 pages | 3 | q1–q4 | 1 of 3 |
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 364 pages | 2 | q3–q4 | 1 of 2 |
 | [Self-monitoring improves self-regulation and supports better learning decisions.](claims/self-monitoring-improves-self-regulation.md) | 346 pages | 2 | q3 | 0 of 2 |
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 335 pages | 2 | q4 | 0 of 2 |
@@ -90,13 +90,13 @@ Of the 38 claims cited from 50 or more pages, **8 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-52 claims are cited both ways.
+53 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 134 | 83 | 146 | 2 |
 | [Decorative Illustrations Do Not Improve Learning](claims/decorative-illustrations-do-not-improve-learning.md) | 20 | 8 | 45 | 3 |
-| [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 346 | 44 | 22 | 3 |
+| [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 347 | 44 | 22 | 3 |
 | [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 552 | 67 | 19 | 3 |
 | [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 2 | 161 | 11 | 1 |
 | [Minimal guidance is less effective for novices than explicit instruction](claims/minimal-guidance-less-effective-for-novices.md) | 1 | 2 | 10 | 3 |
@@ -121,13 +121,13 @@ Each page that cites claims carries its own profile under its title. Summarised 
 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
-| [principles](principles/index.md) | 422 | 323 | 2 | 0 |
-| [elements](elements/index.md) | 569 | 171 | 5 | 0 |
-| [patterns](patterns/index.md) | 238 | 163 | 1 | 0 |
-| [strategies](strategies/index.md) | 2,908 | 2,319 | 6 | 0 |
+| [principles](principles/index.md) | 458 | 351 | 1 | 0 |
+| [elements](elements/index.md) | 613 | 171 | 5 | 0 |
+| [patterns](patterns/index.md) | 255 | 175 | 1 | 0 |
+| [strategies](strategies/index.md) | 2,975 | 2,319 | 6 | 0 |
 | [processes](processes/index.md) | 12 | 11 | 6 | 0 |
 | [methods](methods/index.md) | 17 | 11 | 3 | 0 |
-| [theories](theories/index.md) | 600 | 466 | 1 | 0 |
+| [theories](theories/index.md) | 684 | 536 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 8.5 | 0 |
 
 ## Toward pooled estimates

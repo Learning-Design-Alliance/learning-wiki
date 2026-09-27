@@ -48,6 +48,7 @@ The review briefly outlines Gardner's MI theory before presenting critics. Gardn
 ## Related Theories
 
 - [Multiple Intelligences Theory](multiple-intelligences-theory.md)
+- [Integrated Bloom-MI grid as a two-perspective textbook analysis framework](bloom-mi-integrated-analysis-grid.md)
 
 ## Examples
 -

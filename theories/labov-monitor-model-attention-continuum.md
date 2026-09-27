@@ -42,6 +42,7 @@ Labov's model, developed from observed variation in first language speech, treat
 ## Related Theories
 
 - [Krashen's Monitor Model: acquisition versus learning as separate internal rule systems](krashen-monitor-model-acquisition-learning.md)
+- [Labov's five-segment theory of language makes style the function of grammar](labov-style-as-function-of-grammar-theory.md)
 
 ## Examples
 -

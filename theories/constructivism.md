@@ -56,13 +56,16 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Constructivist prescriptive principles for learning environments](constructivist-prescriptive-principles.md)
 - [Piaget's genetic epistemology studies how the human mind moves from less sufficient to higher knowledge](piaget-genetic-epistemology-constructivist-knowing.md)
 - [Vygotsky's social constructivism: psychological phenomena emerge from social interaction](social-constructivism-vygotsky-social-interaction.md)
+- [Constructivism learning theory: knowledge as assumption, learning as active construction, students as subjects, teachers as helpers](constructivism-learning-theory-jia-2010.md)
 
 ## Examples
+
 - [Inquiry-based Learning](../principles/inquiry-based-learning.md)
 - [Problem-based Learning](../principles/problem-based-learning.md)
 - [Peer Discussion](../principles/peer-discussion.md)
 - [Purposeful Reflection](../principles/purposeful-reflection.md)
 - [Makerspace](../elements/makerspace.md)
+- [Create an interactive learning environment in real or semi-real contexts using modern teaching media](../strategies/interactive-real-semi-real-learning-environment.md)
 
 ## Key Sources
 - Piaget, J. (1970). *Science of education and the psychology of the child*. Viking.

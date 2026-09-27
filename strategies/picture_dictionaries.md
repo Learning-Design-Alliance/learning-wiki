@@ -59,9 +59,11 @@ Pairing words with relevant images supports recall better than words alone, cons
 5. Recycle vocabulary through spaced review and new contexts so knowledge moves beyond picture-dependent recognition.
 
 ## Related Strategies
+
 - Vocabulary notebooks — picture dictionaries are the visual variant; both organize target vocabulary for personal review
 - Total Physical Response — shares the principle of anchoring meaning in non-verbal channels
 - Pre-teaching vocabulary — picture dictionaries supply the visual support during that pre-teaching
+- [Small-group student-constructed reference products such as a Philosophy Dictionary](small-group-philosophy-dictionary-activity.md)
 
 ## Examples
 - **[Oxford Picture Dictionary](https://elt.oup.com/catalogue/items/global/adult_courses/oxford_picture_dictionary/)** — thematically organized second-language picture dictionary with workbooks and audio; widely used in adult ESL programs.

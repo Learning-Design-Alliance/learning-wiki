@@ -61,8 +61,10 @@ Cooperative structures work because articulating ideas to peers forces elaborati
 6. Debrief both the content and the collaboration itself, so group process skills improve over time.
 
 ## Related Strategies
+
 - [Encourage Active Learning](../principles/active-learning.md) — cooperation is a primary vehicle for active engagement
 - [Encourage Contacts Between Students and Faculty](contacts-between-students-and-faculty.md) — cooperative structures create natural interaction channels
+- [Emphasize cooperation and communication to train students' cooperative consciousness](cooperation-communication-train-cooperative-consciousness.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the lowest-overhead cooperative format

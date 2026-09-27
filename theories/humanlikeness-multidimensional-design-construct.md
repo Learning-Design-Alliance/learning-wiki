@@ -46,6 +46,7 @@ The article argues humanlikeness should be defined broadly, extending beyond out
 - [Four-quadrant inferential framework for interpreting human attribution responses to robot design](four-quadrant-design-attribution-framework.md)
 - [Integrated conceptual framework distinguishing humanlikeness as design property from anthropomorphism as attribution process](humanlikeness-design-anthropomorphism-inference-framework.md)
 - [DiSalvo et al. taxonomy of four anthropomorphic design forms](anthropomorphic-design-forms-taxonomy.md)
+- [Six theories of anthropomorphism explaining why learners attribute human characteristics to nonhuman entities](six-theories-of-anthropomorphism.md)
 
 ## Examples
 

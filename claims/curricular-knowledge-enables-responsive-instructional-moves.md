@@ -49,3 +49,4 @@ This is a single-institution, single-curriculum case study without a control gro
 - [Embedding gravitational-wave science across a year-long astronomy curriculum gave coherence to previously disconnected units and motivated students](grav-wave-theme-coheres-curriculum.md) — related
 - [An internal program review found absence of a consistent pedagogical framework and need for active case-based materials](program-review-five-design-findings.md) — related
 - [Review reports TAs sharing the same agenda provided different meta-level learning opportunities through object-level adaptations](ta-agenda-object-meta-level-opportunities.md) — related
+- [After formative intervention, the teacher's presentations shifted from instruction-only moves to including generative, confirming, reconstructing, and reorienting moves](epistemological-moves-shift-after-intervention.md) — related
