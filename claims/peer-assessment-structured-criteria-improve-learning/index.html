@@ -722,7 +722,7 @@
 <h1 id="peer-assessment-structured-criteria-improve-learning">Peer Assessment Structured Criteria Improve Learning<a class="headerlink" href="#peer-assessment-structured-criteria-improve-learning" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 1 study · <code>q4</code> pre-registered or meta-analytic · <code>i0</code> negligible · n=54 studies, k=141 effect sizes</p>
+<strong>Evidence</strong> · 1 study · quant-synthesis <code>r2</code> · <code>q4</code> · <code>i0</code> negligible · n=54 studies, k=141 effect sizes</p>
 </blockquote>
 <p>Peer assessment produces more reliable judgments and better learning outcomes when reviewers are given explicit, structured criteria (rubrics, checklists, or sentence stems) rather than asked to evaluate open-endedly. The mechanism is attentional: criteria direct reviewers to specific dimensions of quality rather than leaving them to rely on general impressions.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -730,14 +730,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -800,7 +864,7 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="double-et-al-2020">Double et al. 2020<a class="headerlink" href="#double-et-al-2020" title="Permanent link">&para;</a></h3>
 <p>Double, K. S., McGrane, J. A., &amp; Hopfenbeck, T. N. (2020). The impact of peer assessment on academic performance: A meta-analysis of control group studies. <em>Educational Psychology Review, 32</em>(2), 481–509. <a href="https://doi.org/10.1007/s10648-019-09510-3">doi:10.1007/s10648-019-09510-3</a></p>
-<p><code>q4 · meta-analysis of experimental/quasi-experimental control-group studies</code> · <code>i0 · moderator effect below d=0.2, non-significant</code> · <code>n=54 studies, k=141 effect sizes</code></p>
+<p><code>q4 · meta-analysis of experimental/quasi-experimental control-group studies</code> · <code>i0 · moderator effect below d=0.2, non-significant</code> · <code>n=54 studies, k=141 effect sizes</code> · <code>quant-synthesis · r2</code></p>
 <p>Meta-analysis of 54 experimental/quasi-experimental studies (k=141 effect sizes) on peer assessment's effect on academic performance in primary, secondary and tertiary students. Overall peer assessment showed a small-to-medium benefit versus no assessment (g=0.31, p&lt;.001). Among several moderators tested via meta-regression, one directly addresses this claim: whether a specific script or rubric was provided to reviewers versus freeform, unstructured assessment. Structured-criteria studies showed g=0.29 (p&lt;.001) and freeform studies showed a numerically larger g=0.42 (p=.030), but the difference between them was small and not statistically significant (b=-0.13, 95% CI -0.51 to 0.25, p=.455), and the authors note the freeform subgroup was small (13 of 54 studies, k=51 of 141). This is the only outcome-level moderator test of criteria structure in the corpus and it does not support the claim as stated — see Discussion.</p>
 <p><strong>Note for whoever merges this:</strong> this evidence qualifies rather than confirms the page's claim — the meta-analysis's own moderator test runs numerically opposite to "structured beats unstructured" (freeform g=0.42 &gt; structured g=0.29), though non-significant and based on a small freeform subgroup (13 of 54 studies). It also tests structure's effect on the <em>reviewee's</em> academic performance from receiving feedback, not on reviewer learning or inter-rater reliability — a claim about rubric effects on scoring reliability is a different construct and is not addressed here.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>

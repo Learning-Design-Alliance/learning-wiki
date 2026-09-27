@@ -744,7 +744,7 @@
 <h1 id="assessment-for-learning-improves-achievement">Assessment for learning improves achievement<a class="headerlink" href="#assessment-for-learning-improves-achievement" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 3 studies · <code>q2</code>–<code>q3</code> · <code>i1</code> small</p>
+<strong>Evidence</strong> · 3 studies · 2 quant-synthesis <code>r2</code>, 1 review <code>r?</code> · <code>q2</code>–<code>q3</code> · <code>i1</code> small</p>
 </blockquote>
 <p>Formative assessment — eliciting evidence of student learning and using it to adapt teaching and learning activities — raises achievement relative to instruction without such feedback loops.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -752,14 +752,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -824,15 +888,15 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="lee-et-al-2020">Lee et al. 2020<a class="headerlink" href="#lee-et-al-2020" title="Permanent link">&para;</a></h3>
 <p>Lee, H., Chung, H. Q., Zhang, Y., Abedi, J., &amp; Warschauer, M. (2020). The effectiveness and features of formative assessment in US K-12 education: A systematic review. <em>Applied Measurement in Education, 33</em>(2), 124–140. <a href="https://doi.org/10.1080/08957347.2020.1732383">doi:10.1080/08957347.2020.1732383</a></p>
-<p><code>q3 · systematic review with meta-analysis</code> · <code>i1 · small effect, d=.29</code> · <code>n=33 studies (126 effect sizes)</code></p>
+<p><code>q3 · systematic review with meta-analysis</code> · <code>i1 · small effect, d=.29</code> · <code>n=33 studies (126 effect sizes)</code> · <code>quant-synthesis · r?</code></p>
 <p>A systematic review and meta-analysis of formative assessment interventions in US K-12 schools, restricted to studies with a control condition: 126 effect sizes from 33 studies representing 25 research projects. The overall effect on student learning was small and positive (d = .29), with similar benefits in mathematics (d = .34), literacy (d = .33) and arts (d = .29). Meta-regression suggested larger effects when interventions supported student-initiated <a href="../self-assessment-improves-self-regulated-learning/">self-assessment</a> (d = .61), used formal formative evidence such as written <a href="../../elements/feedback/">feedback</a> on quizzes (d = .40), and ran on a medium cycle within or between units (d = .52).</p>
 <h3 id="kingston-and-nash-2011">Kingston and Nash 2011<a class="headerlink" href="#kingston-and-nash-2011" title="Permanent link">&para;</a></h3>
 <p>Kingston, N., &amp; Nash, B. (2011). Formative assessment: A meta-analysis and a call for research. <em>Educational Measurement: Issues and Practice, 30</em>(4), 28–37. <a href="https://doi.org/10.1111/j.1745-3992.2011.00220.x">doi:10.1111/j.1745-3992.2011.00220.x</a></p>
-<p><code>q3 · meta-analysis (random effects)</code> · <code>i1 · small effect, weighted mean ES=.20</code> · <code>n=13 studies (42 effect sizes)</code></p>
+<p><code>q3 · meta-analysis (random effects)</code> · <code>i1 · small effect, weighted mean ES=.20</code> · <code>n=13 studies (42 effect sizes)</code> · <code>quant-synthesis · r2</code></p>
 <p>The authors screened more than 300 K-12 studies of formative assessment and found that only 13 reported enough to compute effect sizes, many of the rest having severely flawed designs. A random-effects model over 42 independent effect sizes gave a weighted mean of .20 (median .25), against the .40–.70 often cited. Estimated effects were .32 in English language arts, .17 in mathematics and .09 in science; implementations built on professional development (.30) or computer-based formative systems (.28) did better than other approaches. This supports the direction of the claim but heavily qualifies its size.</p>
 <h3 id="black-and-wiliam-1998">Black and Wiliam 1998<a class="headerlink" href="#black-and-wiliam-1998" title="Permanent link">&para;</a></h3>
 <p>Black, P., &amp; Wiliam, D. (1998). Assessment and classroom learning. <em>Assessment in Education: Principles, Policy &amp; Practice, 5</em>(1), 7–74. <a href="https://doi.org/10.1080/0969595980050102">doi:10.1080/0969595980050102</a></p>
-<p><code>q2 · narrative review</code> · <code>i? · no pooled effect size reported in the abstract</code> · <code>n=unreported</code></p>
+<p><code>q2 · narrative review</code> · <code>i? · no pooled effect size reported in the abstract</code> · <code>n=unreported</code> · <code>review · r?</code></p>
 <p>A narrative review of the classroom formative assessment literature, the source this claim traces to. It concludes that several studies give firm evidence that strengthening frequent feedback to students yields substantial learning gains, and it discusses students' role in self-assessment, teachers' formative strategies, and mastery learning, before developing a theoretical account of feedback. No pooled estimate was computed, which is part of why later meta-analyses contest the size of the effect.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p>The claim traces to Black &amp; Wiliam's influential review, which argued that formative assessment practices produce some of the largest learning gains in the educational literature, particularly for lower-achieving students. The mechanism is a feedback loop: assessment tasks surface gaps between current and desired performance, <a href="../../elements/feedback/">feedback</a> closes those gaps, and instruction adjusts accordingly. This aligns with feedback research showing that feedback is most effective when it addresses the task and process rather than the self, and with <a href="../../patterns/constructive-alignment/">constructive alignment</a>, which ties <a href="../../elements/assessment/">assessment</a> tasks to intended outcomes.</p>

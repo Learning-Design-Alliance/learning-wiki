@@ -733,7 +733,7 @@
 <h1 id="learners-misjudge-spacing-benefits">Learners Misjudge Spacing Benefits<a class="headerlink" href="#learners-misjudge-spacing-benefits" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 2 studies · <code>q3</code> peer-reviewed experiment</p>
+<strong>Evidence</strong> · 2 studies · 2 causal <code>r?</code> · <code>q3</code></p>
 </blockquote>
 <p>Learners systematically predict that massed practice will serve them better than spaced practice, even though spacing reliably produces stronger long-term retention — a metacognitive error that leads them to choose study schedules that undermine their own learning.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -741,14 +741,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -812,11 +876,11 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="kornell-bjork-2008">Kornell &amp; Bjork 2008<a class="headerlink" href="#kornell-bjork-2008" title="Permanent link">&para;</a></h3>
 <p>Kornell, N., &amp; Bjork, R. A. (2008). Learning Concepts and Categories: Is Spacing the “Enemy of Induction”? <em>Psychological Science, 19</em>(6), 585–592. <a href="https://doi.org/10.1111/j.1467-9280.2008.02127.x">doi:10.1111/j.1467-9280.2008.02127.x</a></p>
-<p><code>q3 · peer-reviewed experiment (3 experiments, not pre-registered)</code> · <code>i? · no effect size reported (directional self-report comparison only)</code> · <code>n=3 experiments (participant counts not given in the abstract)</code></p>
+<p><code>q3 · peer-reviewed experiment (3 experiments, not pre-registered)</code> · <code>i? · no effect size reported (directional self-report comparison only)</code> · <code>n=3 experiments (participant counts not given in the abstract)</code> · <code>causal · r?</code></p>
 <p>Participants studied paintings by different artists, either massed (one artist's works presented consecutively) or spaced/interleaved (different artists' works mixed together), then were tested on their ability to classify new, unseen paintings by the same artists — an inductive-learning task. Spacing produced better induction performance than massing, even though massing felt more fluent while studying. After completing the test, and thus after their own performance had already shown the opposite, participants still rated massed study as the more effective condition than spaced study.</p>
 <h3 id="kornell-2009">Kornell 2009<a class="headerlink" href="#kornell-2009" title="Permanent link">&para;</a></h3>
 <p>Kornell, N. (2009). Optimising learning using flashcards: Spacing is more effective than cramming. <em>Applied Cognitive Psychology, 23</em>(9), 1297–1317. <a href="https://doi.org/10.1002/acp.1537">doi:10.1002/acp.1537</a></p>
-<p><code>q3 · peer-reviewed experiment (3 experiments)</code> · <code>i? · no standardized effect size reported; reports proportions of participants</code> · <code>n=3 experiments (participant counts not given in the abstract)</code></p>
+<p><code>q3 · peer-reviewed experiment (3 experiments)</code> · <code>i? · no standardized effect size reported; reports proportions of participants</code> · <code>n=3 experiments (participant counts not given in the abstract)</code> · <code>causal · r?</code></p>
 <p>Participants used a web-based programme to learn GRE-type vocabulary word pairs, comparing spacing (one large flashcard stack) against massing (four smaller stacks studied separately) and against cramming (massed study on the last day before test) across three experiments. Spacing outperformed massing for 90% of participants and also outperformed cramming, yet after their first study session 72% of participants judged that massing had been the more effective way to study — a direct mismatch between the condition that actually worked and the one learners believed had worked.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p><strong>The illusion of massing.</strong> Because massed practice produces fluent, effortless performance in the moment, learners interpret that fluency as evidence of learning. Spaced practice feels harder and yields worse immediate performance, so learners judge it less effective even when it produces substantially better delayed retention. This is a case of a desirable difficulty being misread as a defect: conditions that impair short-term performance can enhance long-term learning, and learners' metacognitive monitoring is tuned to short-term performance, not durable retention. The same subjective-experience trap appears in <a href="../cognitive-overload-degrades-learning/">Cognitive overload degrades learning.</a>, where the felt ease of a study condition diverges from what it actually produces.</p>

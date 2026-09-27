@@ -722,7 +722,7 @@
 <h1 id="prior-knowledge-determines-new-learning">Prior Knowledge Determines New Learning<a class="headerlink" href="#prior-knowledge-determines-new-learning" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 1 study · <code>q4</code> pre-registered or meta-analytic · <code>i3</code> large · n=8,776 effect sizes</p>
+<strong>Evidence</strong> · 1 study · quant-synthesis <code>r3</code> · <code>q4</code> · <code>i3</code> large · n=8,776 effect sizes</p>
 </blockquote>
 <p>New learning is built on what the learner already knows: existing knowledge structures determine what can be understood, how new information is organized, and where misconceptions will interfere. This is a foundational premise of <a href="../../theories/cognitive-load-theory/">cognitive load theory</a> and schema-based accounts of learning rather than a single experimental finding — its Evidence section therefore awaits a dedicated synthesis of the supporting literature.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -730,14 +730,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -800,7 +864,7 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="simonsmeier-et-al-2022">Simonsmeier et al. 2022<a class="headerlink" href="#simonsmeier-et-al-2022" title="Permanent link">&para;</a></h3>
 <p>Simonsmeier, B. A., Flaig, M., Deiglmayr, A., Schalk, L., &amp; Schneider, M. (2022). Domain-specific prior knowledge and learning: A meta-analysis. <em>Educational Psychologist, 57</em>(1), 31–54. <a href="https://doi.org/10.1080/00461520.2021.1939700">doi:10.1080/00461520.2021.1939700</a></p>
-<p><code>q4 · meta-analysis</code> · <code>i3 · large stability correlation, r=.534; near-zero for normalized gains, r=-.059</code> · <code>n=8,776 effect sizes</code></p>
+<p><code>q4 · meta-analysis</code> · <code>i3 · large stability correlation, r=.534; near-zero for normalized gains, r=-.059</code> · <code>n=8,776 effect sizes</code> · <code>quant-synthesis · r3</code></p>
 <p>A meta-analysis of 8,776 effect sizes examined the relationship between domain-specific prior knowledge (measured at Time 1) and knowledge outcomes measured later, across studies spanning many ages, domains and designs. Two distinct relationships were separated: the stability of individual differences (correlation between pretest and posttest knowledge scores) was high, r+ = .534 — learners who know more at the start tend to know more at the end, supporting the claim that new learning builds on and is strongly predicted by prior knowledge. But the predictive power of prior knowledge for <em>normalized learning gains</em> (how much a learner improves, controlling for starting point) was low and centered near zero, r+ = -.059, with a large 95% prediction interval of [-.688, .621] — meaning the direction and size of prior knowledge's effect on gains varies enormously across contexts, sometimes helping and sometimes hurting. The authors argue this variability falsifies both "knowledge is power" and "the effect of prior knowledge is negligible" as general statements, and calls for research on the conditions (moderators) under which prior knowledge helps, hurts, or does nothing — directly supporting this page's Discussion section on expertise reversal, moderators and boundary conditions rather than a single uniform effect.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p>This claim is one of the most robust premises in educational psychology, but its strength is also its boundary condition: because prior knowledge acts as a filter and scaffold, learners with different starting points respond differently to the same instruction. The same instructional treatment is rarely optimal across the prior-knowledge distribution [~S].</p>

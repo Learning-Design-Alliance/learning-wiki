@@ -733,7 +733,7 @@
 <h1 id="disciplinary-literacy-instruction-improves-comprehension">Disciplinary Literacy Instruction Improves Comprehension<a class="headerlink" href="#disciplinary-literacy-instruction-improves-comprehension" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 2 studies · <code>q2</code>–<code>q3</code> · <code>i1</code> small</p>
+<strong>Evidence</strong> · 2 studies · 2 causal <code>r2</code> · <code>q2</code>–<code>q3</code> · <code>i1</code> small</p>
 </blockquote>
 <p>Teaching students the specialized ways of reading, writing, and thinking within a discipline — rather than generic comprehension strategies alone — improves their ability to comprehend discipline-specific texts.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -741,14 +741,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -812,11 +876,11 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="goldman-et-al-2019">Goldman et al. 2019<a class="headerlink" href="#goldman-et-al-2019" title="Permanent link">&para;</a></h3>
 <p>Goldman, S. R., Greenleaf, C., Yukhymenko-Lescroart, M., Brown, W., Ko, M.-L. M., Emig, J. M., George, M., Wallace, P., Blaum, D., &amp; Britt, M. A. (2019). Explanatory modeling in science through text-based investigation: Testing the efficacy of the Project READI intervention approach. <em>American Educational Research Journal, 56</em>(4), 1148–1216. <a href="https://doi.org/10.3102/0002831219831041">doi:10.3102/0002831219831041</a></p>
-<p><code>q3 · cluster-randomised controlled trial (not pre-registered)</code> · <code>i1 · small effect, d=0.26 (multiple-choice) and 0.32 (multiple-text comprehension)</code> · <code>n=964 students, 24 schools</code></p>
+<p><code>q3 · cluster-randomised controlled trial (not pre-registered)</code> · <code>i1 · small effect, d=0.26 (multiple-choice) and 0.32 (multiple-text comprehension)</code> · <code>n=964 students, 24 schools</code> · <code>causal · r2</code></p>
 <p>Schools were randomly assigned, within strata, to deliver the Project READI ninth-grade biology intervention for a semester or to continue business as usual (48 teachers, 12 schools per condition). Intervention students read, discussed and reasoned from sets of science texts to build explanatory models, with teachers making the discipline's reading practices explicit. On texts about topics neither group had studied, intervention students scored higher on a multiple-choice comprehension task (effect size 0.26) and on a multiple-text comprehension assessment (GISA, effect size 0.32), controlling for prior performance. They did not include more concepts or connections in their written explanatory essays, which the authors attribute to too little support for moving from oral argument to independent writing — so the benefit is to comprehension, not yet to disciplinary writing.</p>
 <h3 id="reisman-2012">Reisman 2012<a class="headerlink" href="#reisman-2012" title="Permanent link">&para;</a></h3>
 <p>Reisman, A. (2012). Reading like a historian: A document-based history curriculum intervention in urban high schools. <em>Cognition and Instruction, 30</em>(1), 86–112. <a href="https://doi.org/10.1080/07370008.2011.634081">doi:10.1080/07370008.2011.634081</a></p>
-<p><code>q2 · quasi-experiment with a control group</code> · <code>i? · no effect size reported in the abstract</code> · <code>n=236 students</code></p>
+<p><code>q2 · quasi-experiment with a control group</code> · <code>i? · no effect size reported in the abstract</code> · <code>n=236 students</code> · <code>causal · r?</code></p>
 <p>Eleventh-grade students in five San Francisco high schools took part in a six-month Reading Like a Historian curriculum, in which a "Document-Based Lesson" had them use background knowledge to question and reconcile historical accounts from several primary sources, instead of textbook-driven lessons. A MANCOVA comparing treatment and control classes found significant effects of the treatment on all four outcomes: historical thinking, transfer of historical thinking to contemporary issues, factual knowledge, and general reading comprehension. Only the abstract was read, so the size of these effects is not recorded here.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p><strong>Scope and mechanism.</strong> Disciplinary literacy rests on the premise that each discipline has its own text structures, epistemic norms, and ways of using evidence — historians source and corroborate documents, scientists attend to procedures and claims, mathematicians parse dense symbolic prose. Instruction that makes these practices explicit is hypothesized to work because it equips learners with strategies matched to the texts they actually encounter, rather than generic strategies that may transfer poorly across disciplines. This connects to broader claims that <a href="../../principles/activation/">activation</a> of discipline-specific prior knowledge and <a href="../../patterns/cognitive-apprenticeship/">cognitive apprenticeship</a> models of expert thinking support comprehension.</p>

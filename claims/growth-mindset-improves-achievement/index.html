@@ -733,7 +733,7 @@
 <h1 id="growth-mindset-improves-achievement">Growth mindset improves achievement<a class="headerlink" href="#growth-mindset-improves-achievement" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 2 studies · <code>q4</code> pre-registered or meta-analytic · <code>i0</code> negligible</p>
+<strong>Evidence</strong> · 2 studies · 1 causal <code>r3</code>, 1 quant-synthesis <code>r?</code> · <code>q4</code> · <code>i0</code> negligible</p>
 </blockquote>
 <p>Teaching learners that abilities are malleable (a "growth mindset") can raise academic achievement, but effects are small on average and depend heavily on who is targeted and how the intervention is delivered.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -741,14 +741,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -812,11 +876,11 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="yeager-et-al-2019">Yeager et al. 2019<a class="headerlink" href="#yeager-et-al-2019" title="Permanent link">&para;</a></h3>
 <p>Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., Tipton, E., Schneider, B., Hulleman, C. S., Hinojosa, C. P., Paunesku, D., Romero, C., Flint, K., Roberts, A., Trott, J., Iachan, R., Buontempo, J., Yang, S. M., Carvalho, C. M., Hahn, P. R., Gopalan, M., Mhatre, P., Ferguson, R., Duckworth, A. L., &amp; Dweck, C. S. (2019). A national experiment reveals where a growth mindset improves achievement. <em>Nature, 573</em>(7774), 364–369. <a href="https://doi.org/10.1038/s41586-019-1466-y">doi:10.1038/s41586-019-1466-y</a></p>
-<p><code>q4 · pre-registered, individually randomized field experiment</code> · <code>i0 · negligible effect, standardized mean difference = 0.11</code> · <code>n=6,320 (target subgroup); N=12,490 overall</code></p>
+<p><code>q4 · pre-registered, individually randomized field experiment</code> · <code>i0 · negligible effect, standardized mean difference = 0.11</code> · <code>n=6,320 (target subgroup); N=12,490 overall</code> · <code>causal · r3</code></p>
 <p>A stratified random sample of 65 US public high schools (12,490 ninth-graders, individually randomized) received either a brief, self-administered online growth-mindset intervention or a control activity. Among the pre-registered subgroup of lower-achieving students (n=6,320, k=65 schools), the intervention raised core-course (math, science, English, social studies) GPA at the end of ninth grade by B=0.10 grade points (95% CI 0.04–0.16, t=3.51, P=0.001), a standardized mean difference effect size of 0.11. The same subgroup also showed reduced fixed-mindset beliefs (n=5,650, standardized effect 0.33). Effects on GPA were larger in schools whose peer norms already supported the growth-mindset message.</p>
 <h3 id="sisk-et-al-2018">Sisk et al. 2018<a class="headerlink" href="#sisk-et-al-2018" title="Permanent link">&para;</a></h3>
 <p>Sisk, V. F., Burgoyne, A. P., Sun, J., Butler, J. L., &amp; Macnamara, B. N. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. <em>Psychological Science, 29</em>(4), 549–571. <a href="https://doi.org/10.1177/0956797617739704">doi:10.1177/0956797617739704</a></p>
-<p><code>q4 · meta-analysis (two, k=273 and k=43)</code> · <code>i? · no pooled effect size reported in the abstract</code> · <code>n=365,915 (correlational meta-analysis); n=57,155 (intervention meta-analysis)</code></p>
+<p><code>q4 · meta-analysis (two, k=273 and k=43)</code> · <code>i? · no pooled effect size reported in the abstract</code> · <code>n=365,915 (correlational meta-analysis); n=57,155 (intervention meta-analysis)</code> · <code>quant-synthesis · r?</code></p>
 <p>Two meta-analyses: the first (k=273 studies, N=365,915) examined the correlational strength of the mindset–achievement relationship and its moderators; the second (k=43 studies, N=57,155) examined the effect of mindset <em>interventions</em> on achievement and its moderators. The abstract reports overall effects as weak for both meta-analyses, with some support for the theory's prediction that students of low socioeconomic status or academically at-risk students benefit more from mindset interventions than the general population. (Read: publisher/Crossref-deposited abstract only — the article sits behind a SAGE paywall with no open-access copy found via Unpaywall, and the Crossref-indexed publisher page returned a Cloudflare interactive challenge rather than content.)</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p><strong>Small average effects, meaningful for at-risk students.</strong> The best-known national study of mindset interventions in U.S. high schools (Yeager et al., 2019, <em>Nature</em>) found overall effects on GPA were small (roughly 0.1 GPA points) [~M], but effects were meaningfully larger for lower-achieving and economically disadvantaged students [+M]. This pattern — near-null averages masking heterogeneous effects — is the central interpretive challenge for this claim. A widely cited meta-analysis (Sisk et al., 2018, <em>Psychological Science</em>) reported weak overall correlations between mindset and achievement and small intervention effects, concluding that mindset is not a universal lever [~M]. Until formal Evidence entries are added for these studies, the page's <code>weak</code> strength rating reflects this mixed meta-analytic picture rather than absence of research.</p>

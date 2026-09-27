@@ -752,14 +752,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -824,15 +888,15 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="cepeda-et-al-2006">Cepeda et al. 2006<a class="headerlink" href="#cepeda-et-al-2006" title="Permanent link">&para;</a></h3>
 <p>Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., &amp; Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. <em>Psychological Bulletin, 132</em>(3), 354–380. <a href="https://doi.org/10.1037/0033-2909.132.3.354">doi:10.1037/0033-2909.132.3.354</a></p>
-<p><code>q4</code> · <code>i? · the abstract prints no effect size; the full text may</code></p>
+<p><code>q4</code> · <code>i? · the abstract prints no effect size; the full text may</code> · <code>quant-synthesis · r?</code></p>
 <p>A review and quantitative synthesis of distributed-practice studies in verbal recall, covering several hundred experiments. Spacing beat massing broadly, and the interaction with retention interval was the robust moderator: the longer the delay before test, the larger the advantage.</p>
 <h3 id="cepeda-et-al-2008">Cepeda et al. 2008<a class="headerlink" href="#cepeda-et-al-2008" title="Permanent link">&para;</a></h3>
 <p>Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., &amp; Pashler, H. (2008). Spacing effects in learning: A temporal ridgeline of optimal retention. <em>Psychological Science, 19</em>(11), 1095–1102. <a href="https://doi.org/10.1111/j.1467-9280.2008.02209.x">doi:10.1111/j.1467-9280.2008.02209.x</a></p>
-<p><code>q3</code> · <code>i? · the abstract prints no effect size; the full text may</code></p>
+<p><code>q3</code> · <code>i? · the abstract prints no effect size; the full text may</code> · <code>causal · r?</code></p>
 <p>An experiment varying the gap between two study sessions and the interval before test across a wide grid, producing a ridgeline of optimal gaps rather than a single value. The optimal gap was a rising function of the retention interval. This is the study that makes spacing a parameter to tune against an intended retention horizon rather than a fixed schedule.</p>
 <h3 id="donovan-radosevich-1999">Donovan &amp; Radosevich 1999<a class="headerlink" href="#donovan-radosevich-1999" title="Permanent link">&para;</a></h3>
 <p>Donovan, J. J., &amp; Radosevich, D. J. (1999). A meta-analytic review of the distribution of practice effect: Now you see it, now you don't. <em>Journal of Applied Psychology, 84</em>(5), 795–805. <a href="https://doi.org/10.1037/0021-9010.84.5.795">doi:10.1037/0021-9010.84.5.795</a></p>
-<p><code>q4</code> · <code>i2</code></p>
+<p><code>q4</code> · <code>i2</code> · <code>quant-synthesis · r2</code></p>
 <p>A meta-analysis of distribution-of-practice effects across task types, reporting d = 0.46 overall and substantial moderation by task complexity — the effect was smaller for complex tasks. Included here because it tests the generalisation outside verbal recall, where most of the other evidence sits.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p><strong>The spacing effect is one of the most robust findings in memory research</strong>, but this page's Evidence section has not yet been populated with specific studies, so no effect sizes or scope claims are asserted here. The canonical literature — beginning with Ebbinghaus's forgetting-curve experiments and extending through modern meta-analyses of verbal learning and classroom studies — consistently favors spaced over massed practice for delayed retention tests, with the advantage growing as the retention interval lengthens [+S].</p>

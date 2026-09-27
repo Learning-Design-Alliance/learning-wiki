@@ -744,7 +744,7 @@
 <h1 id="civic-online-reasoning-instruction-improves-evaluation">Civic Online Reasoning Instruction Improves Evaluation<a class="headerlink" href="#civic-online-reasoning-instruction-improves-evaluation" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 3 studies · <code>q2</code>–<code>q3</code></p>
+<strong>Evidence</strong> · 3 studies · 3 causal <code>r2</code> · <code>q2</code>–<code>q3</code></p>
 </blockquote>
 <p>Explicit instruction in evaluating online information — including lateral reading, source checking, and attention to evidence — improves learners' ability to judge the credibility of web content.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -752,14 +752,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -824,15 +888,15 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="wineburg-et-al-2022">Wineburg et al. 2022<a class="headerlink" href="#wineburg-et-al-2022" title="Permanent link">&para;</a></h3>
 <p>Wineburg, S., Breakstone, J., McGrew, S., Smith, M. D., &amp; Ortega, T. (2022). Lateral reading on the open Internet: A district-wide field study in high school government classes. <em>Journal of Educational Psychology, 114</em>(5), 893–909. <a href="https://doi.org/10.1037/edu0000740">doi:10.1037/edu0000740</a></p>
-<p><code>q2 · quasi-experiment, matched control design</code> · <code>i? · no effect size in abstract</code> · <code>n=499 students (271 treatment, 228 control)</code></p>
+<p><code>q2 · quasi-experiment, matched control design</code> · <code>i? · no effect size in abstract</code> · <code>n=499 students (271 treatment, 228 control)</code> · <code>causal · r?</code></p>
 <p>The researchers gave teachers professional development, and the teachers then taught six 50-minute lessons on <a href="../../strategies/lateral-reading/">lateral reading</a> inside a required high school government course in an urban district. Lateral reading means leaving an unfamiliar website to search the open web before trusting the site. Students in treatment classrooms (n = 271) were compared with matched peers in regular classrooms (n = 228), using a multilevel linear mixed model. Treatment students grew significantly more in their ability to judge the credibility of digital content. The ERIC abstract calls the design a matched control design, while the authors' project page calls it cluster-randomized; it is coded here by the abstract, the more conservative reading.</p>
 <h3 id="mcgrew-et-al-2019">McGrew et al. 2019<a class="headerlink" href="#mcgrew-et-al-2019" title="Permanent link">&para;</a></h3>
 <p>McGrew, S., Smith, M., Breakstone, J., Ortega, T., &amp; Wineburg, S. (2019). Improving university students' web savvy: An intervention study. <em>British Journal of Educational Psychology, 89</em>(3), 485–500. <a href="https://doi.org/10.1111/bjep.12279">doi:10.1111/bjep.12279</a></p>
-<p><code>q3 · randomised pilot experiment, four course sections assigned</code> · <code>i? · no effect size in abstract</code> · <code>n=67 students (29 treatment, 38 control)</code></p>
+<p><code>q3 · randomised pilot experiment, four course sections assigned</code> · <code>i? · no effect size in abstract</code> · <code>n=67 students (29 treatment, 38 control)</code> · <code>causal · r2</code></p>
 <p>Four sections of a university critical-thinking-and-writing course were randomly assigned to treatment or control. Treatment students received two 75-minute lessons on evaluating the credibility of online content. The online-reasoning assessment was given six weeks before the lessons and again five weeks after. Treatment students were significantly more likely than controls to show gains from pretest to posttest. With only four sections randomised, this is a pilot, and the class-level evidence is thin.</p>
 <h3 id="mcgrew-2020">McGrew 2020<a class="headerlink" href="#mcgrew-2020" title="Permanent link">&para;</a></h3>
 <p>McGrew, S. (2020). Learning to evaluate: An intervention in civic online reasoning. <em>Computers &amp; Education, 145</em>, 103711. <a href="https://doi.org/10.1016/j.compedu.2019.103711">doi:10.1016/j.compedu.2019.103711</a></p>
-<p><code>q2 · single-group pre/post design, no control</code> · <code>i? · no effect size in abstract</code> · <code>n=68 students</code></p>
+<p><code>q2 · single-group pre/post design, no control</code> · <code>i? · no effect size in abstract</code> · <code>n=68 students</code> · <code>causal · r?</code></p>
 <p>Sixty-eight 11th-grade students took eight lessons on strategies for evaluating digital content, based on how professional fact checkers work. They completed pre- and posttests of four brief constructed-response items. Scores improved significantly on three of the four tasks: investigating a website's source, critiquing evidence, and finding reliable sources in an open internet search. With no comparison group, the gains cannot be separated from practice or maturation. The one task that did not improve is a limit on how general the effect is.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p><strong>Scope.</strong> This claim concerns instruction in the strategies of professional fact-checkers — most prominently lateral reading (leaving a page to investigate the source elsewhere) rather than staying on the page and scrutinizing its features. Evaluation skill is treated as a teachable competence, not a fixed disposition. The contrast with checklist-based approaches is central: teaching students to inspect on-page features (URL endings, design polish, "About" pages) does not reliably improve evaluation of web content, whereas modeling how fact-checkers actually work does — see <a href="../checklist-evaluation-ineffective-online/">Checklist evaluation is ineffective online.</a> [-M]</p>

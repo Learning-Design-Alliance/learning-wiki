@@ -752,14 +752,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -824,15 +888,15 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="harp-mayer-1998">Harp &amp; Mayer 1998<a class="headerlink" href="#harp-mayer-1998" title="Permanent link">&para;</a></h3>
 <p>Harp, S. F., &amp; Mayer, R. E. (1998). How seductive details do their damage: A theory of cognitive interest in science learning. <em>Journal of Educational Psychology, 90</em>(3), 414–434. <a href="https://doi.org/10.1037/0022-0663.90.3.414">doi:10.1037/0022-0663.90.3.414</a></p>
-<p><code>q3</code> · <code>i? · the abstract prints no effect size; the full text may</code></p>
+<p><code>q3</code> · <code>i? · the abstract prints no effect size; the full text may</code> · <code>causal · r?</code></p>
 <p>Experiments adding seductive details — vivid, interesting, topically related but explanatorily irrelevant material — to a lesson on lightning formation. Transfer suffered. The authors' account is that the details prime an inappropriate schema, which makes this a claim about interference rather than about attention alone.</p>
 <h3 id="mayer-et-al-2001">Mayer et al. 2001<a class="headerlink" href="#mayer-et-al-2001" title="Permanent link">&para;</a></h3>
 <p>Mayer, R. E., Heiser, J., &amp; Lonn, S. (2001). Cognitive constraints on multimedia learning: When presenting more material results in less understanding. <em>Journal of Educational Psychology, 93</em>(1), 187–198. <a href="https://doi.org/10.1037/0022-0663.93.1.187">doi:10.1037/0022-0663.93.1.187</a></p>
-<p><code>q3</code> · <code>i? · the abstract prints no effect size; the full text may</code></p>
+<p><code>q3</code> · <code>i? · the abstract prints no effect size; the full text may</code> · <code>causal · r?</code></p>
 <p>Three experiments adding extraneous video, narration or music to a multimedia explanation. Each addition reduced problem-solving transfer. The title states the result directly: presenting more material can result in less understanding.</p>
 <h3 id="rey-2012">Rey 2012<a class="headerlink" href="#rey-2012" title="Permanent link">&para;</a></h3>
 <p>Rey, G. D. (2012). A review of research and a meta-analysis of the seductive detail effect. <em>Educational Research Review, 7</em>(3), 216–237. <a href="https://doi.org/10.1016/j.edurev.2012.05.003">doi:10.1016/j.edurev.2012.05.003</a></p>
-<p><code>q4</code> · <code>i? · no source text available to check; the entry prints no effect size</code></p>
+<p><code>q4</code> · <code>i? · no source text available to check; the entry prints no effect size</code> · <code>quant-synthesis · r?</code></p>
 <p>A review and meta-analysis of the seductive-detail literature. The effect held on retention and transfer measures, and the pooled magnitude was smaller than the headline experiments implied. Recorded here at <code>i1</code> for that reason: the direction is well supported, and a designer should not expect a large effect from removing one embellishment.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p><strong>Mechanism.</strong> The coherence principle follows from <a href="../../theories/cognitive-load-theory/">cognitive load theory</a>: working memory has severely limited capacity, and seductive details — emotionally interesting but tangential material — compete for those resources, diverting attention away from essential content and disrupting the construction of a coherent mental model. This connects directly to <a href="../cognitive-overload-degrades-learning/">Cognitive overload degrades learning</a> and <a href="../chunking-reduces-working-memory-load/">Chunking reduces working-memory load</a>.</p>

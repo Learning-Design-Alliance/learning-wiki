@@ -733,7 +733,7 @@
 <h1 id="self-assessment-accuracy-is-low-without-training">Self Assessment Accuracy Is Low Without Training<a class="headerlink" href="#self-assessment-accuracy-is-low-without-training" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 2 studies · <code>q3</code>–<code>q4</code> · <code>i2</code> medium</p>
+<strong>Evidence</strong> · 2 studies · 1 causal <code>r?</code>, 1 quant-synthesis <code>r?</code> · <code>q3</code>–<code>q4</code> · <code>i2</code> medium</p>
 </blockquote>
 <p>Untrained learners systematically misjudge their own performance — typically overestimating it — and self-assessment only becomes reasonably accurate after explicit training, practice with feedback, and access to clear criteria.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -741,14 +741,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -812,11 +876,11 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="kostons-et-al-2012">Kostons et al. 2012<a class="headerlink" href="#kostons-et-al-2012" title="Permanent link">&para;</a></h3>
 <p>Kostons, D., van Gog, T., &amp; Paas, F. (2012). Training self-assessment and task-selection skills: A cognitive approach to improving self-regulated learning. <em>Learning and Instruction, 22</em>(2), 121–132. <a href="https://doi.org/10.1016/j.learninstruc.2011.08.004">doi:10.1016/j.learninstruc.2011.08.004</a></p>
-<p><code>q3 · randomized experiment (not pre-registered)</code> · <code>i2 · medium effect, ηp²=.10</code> · <code>n=80 (secondary-education students, Experiment 1)</code></p>
+<p><code>q3 · randomized experiment (not pre-registered)</code> · <code>i2 · medium effect, ηp²=.10</code> · <code>n=80 (secondary-education students, Experiment 1)</code> · <code>causal · r?</code></p>
 <p>80 Dutch fourth-year pre-university students (age M=15.23) were randomly assigned to one of four conditions in a 2×2 design (self-assessment modeling examples: yes/no; task-selection modeling examples: yes/no) and solved genetics problems before and after studying modeling examples. Self-assessment accuracy was scored as the absolute difference between each student's self-rated performance and their actual (objectively scored) performance on the posttest, so a lower score means more accurate self-assessment. Students who had observed a human model demonstrating self-assessment were significantly more accurate (M=.81) than those who had not (M=1.23), F(1,76)=8.04, p=.006, ηp²=.10 — direct experimental evidence that untrained self-assessment is measurably worse than trained self-assessment on the same task.</p>
 <h3 id="falchikov-boud-1989">Falchikov &amp; Boud 1989<a class="headerlink" href="#falchikov-boud-1989" title="Permanent link">&para;</a></h3>
 <p>Falchikov, N., &amp; Boud, D. (1989). Student self-assessment in higher education: A meta-analysis. <em>Review of Educational Research, 59</em>(4), 395. <a href="https://doi.org/10.2307/1170205">doi:10.2307/1170205</a></p>
-<p><code>q4 · meta-analysis of 51 studies</code> · <code>i? · no pooled effect size in the abstract</code> · <code>n=51 studies</code></p>
+<p><code>q4 · meta-analysis of 51 studies</code> · <code>i? · no pooled effect size in the abstract</code> · <code>n=51 studies</code> · <code>quant-synthesis · r?</code></p>
 <p>A meta-analysis of 51 quantitative studies comparing students' self-assessed marks with teachers' marks in higher education. Correspondence between the two was not uniformly high: it was closer in better-designed studies than in poorly designed ones, closer for students in advanced courses than in introductory courses, and closer in science than in other fields of study — i.e., raw self-assessment accuracy varies widely and cannot be assumed without attention to design and learner experience. Read at abstract level only (full text is paywalled/JSTOR-gated); no pooled correlation or effect-size statistic appears in the abstract, so no quantitative <code>i</code> code beyond <code>i?</code> can be supported from what was read.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p><strong>Direction of the bias.</strong> The dominant finding in the self-assessment literature is overestimation: low performers lack the domain knowledge to recognize their own errors, a pattern closely related to the Dunning–Kruger effect. Weaker students show the largest miscalibration, while stronger students are sometimes slightly <em>under</em>confident. This means raw self-assessment data cannot be treated as a valid proxy for achievement, especially in early stages of learning.</p>

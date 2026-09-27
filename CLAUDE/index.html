@@ -661,6 +661,17 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#2026-09-29-night-every-evidence-entry-carries-a-kind-and-a-rigour-q-is-the-design-tier" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-29 (night) — every evidence entry carries a kind and a rigour; q is the design tier
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-09-29-evening-batch-10-the-adult-language-learning-deep-dive" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1510,6 +1521,17 @@
   
     <nav class="md-nav" aria-label="Working alongside other sessions — read this before starting">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2026-09-29-night-every-evidence-entry-carries-a-kind-and-a-rigour-q-is-the-design-tier" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-29 (night) — every evidence entry carries a kind and a rigour; q is the design tier
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#2026-09-29-evening-batch-10-the-adult-language-learning-deep-dive" class="md-nav__link">
@@ -2447,6 +2469,32 @@ work is done, not that the check is broken.</p>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
+<h3 id="2026-09-29-night-every-evidence-entry-carries-a-kind-and-a-rigour-q-is-the-design-tier">2026-09-29 (night) — every evidence entry carries a kind and a rigour; <code>q</code> is the design tier<a class="headerlink" href="#2026-09-29-night-every-evidence-entry-carries-a-kind-and-a-rigour-q-is-the-design-tier" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Maintainer's decision, after the 38-entry pilot</strong>: <code>q</code> ranked every study on the causal-design
+  ladder and so called a careful qualitative study low quality. Each entry now also carries its
+  <strong>kind</strong> (<code>causal</code>, <code>quant-synthesis</code>, <code>review</code>, <code>associational</code>, <code>qualitative</code>, <code>design</code>,
+  <code>theoretical</code>) and its <strong>rigour 1–3 judged by that kind's own criteria</strong>
+  (<code>eval/kind-rigor/RUBRIC.md</code>, <code>evidence-scales.json</code>), as a span on the codes line
+  (<code>qualitative · r3</code>) mirrored to <code>sources[]</code> as <code>kind:</code>/<code>rigour:</code>. <strong><code>q</code> is unchanged and kept</strong>,
+  read as the design tier, because the design side and <code>strength_cap</code> read it.</li>
+<li><strong><code>scripts/code_kind_rigour.py</code> coded all 3,806 entries, $6.92</strong> (GPT, one pass, on the fetched
+  article for 3,176, the abstract for 459, the entry alone for 171). <strong>Rigour is never judged from
+  the wiki's own paraphrase</strong>: with no text of the study it is <code>r?</code>, and it is <code>r?</code> wherever the
+  abstract cannot show the kind's criteria. Decisions are in <code>eval/runs/kind-rigor/coded.ndjson</code>
+  (ignored), keyed by the entry's text, so an edited entry is re-coded and an unchanged one never
+  paid for twice. Verified by parse: 3,036 claim pages, 0 source entries added or dropped, 0 other
+  keys changed, and the body diff is only codes lines and header lines.</li>
+<li><strong>Of 1,070 distinct studies</strong>: 37 qualitative studies are <code>r3</code> against 6 causal ones (few trials
+  here are pre-registered and powered); <code>r?</code> is mostly meta-analyses (105 of 147) and trials (96 of
+  233), which are known from abstracts. <strong>Fetching those full texts is what would settle them.</strong></li>
+<li>Claim headers lead with kind and rigour (<code>1 study · qualitative r3 · q1 · n=10</code>; q goes bare
+  beside kinds so "argument or single case" never sits next to "qualitative r3"), design pages'
+  evidence lines count studies by kind, <code>evidence.md</code> has a kind × rigour table, and the docs
+  legend explains both. <strong>Batches code their new entries</strong> after the verify step (<code>--new</code>, $2 cap).
+  The extraction prompt does not ask for them: coding from the article afterwards is cheaper than a
+  prompt change and a benchmark, and keeps GLM's job unchanged.</li>
+</ul>
 <h3 id="2026-09-29-evening-batch-10-the-adult-language-learning-deep-dive">2026-09-29 (evening) — batch 10, the adult language-learning deep dive<a class="headerlink" href="#2026-09-29-evening-batch-10-the-adult-language-learning-deep-dive" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong>75 ERIC articles from <code>eval/deep-dive/adult-language-learning/topics.txt</code>, all ingested</strong> (541 pages,
@@ -5215,7 +5263,7 @@ generated:
 
 Author, A., &amp; Author, B. (Year). Title. <span class="ge">*Journal, vol*</span>(issue), pages. [<span class="nt">doi:...</span>](<span class="na">https://doi.org/...</span>)
 
-<span class="sb">`q? · [e.g. peer-reviewed RCT / quasi-experiment / meta-analysis]`</span> · <span class="sb">`i? · [e.g. large effect, d=0.9]`</span> · <span class="sb">`n=?`</span>
+<span class="sb">`q? · [e.g. peer-reviewed RCT / quasi-experiment / meta-analysis]`</span> · <span class="sb">`i? · [e.g. large effect, d=0.9]`</span> · <span class="sb">`n=?`</span> · <span class="sb">`[kind] · r?`</span>
 
 [<span class="nt">2–4 sentences: study design, participants (who, how many, what context), conditions or intervention, and findings in plain language. Link any instructional elements used to their wiki pages, for example `[worked examples</span>](<span class="na">../elements/demonstration.md</span>)<span class="sb">` and `</span>[<span class="nt">practice tasks</span>](<span class="na">../elements/practice.md</span>)`.]
 
@@ -5226,7 +5274,17 @@ Author, A., &amp; Author, B. (Year). Title. <span class="ge">*Journal, vol*</spa
 <span class="gu">## Related Claims</span>
 - 
 </code></pre></div>
-<p><strong>Evidence quality tiers (q):</strong>
+<p><strong>Evidence kind and rigour.</strong> Every entry's codes line ends with a span naming what sort of
+evidence the study is and how well it does what that kind can do, e.g. <code>qualitative · r3</code>. Kinds:
+<code>causal</code>, <code>quant-synthesis</code>, <code>review</code>, <code>associational</code>, <code>qualitative</code>, <code>design</code>, <code>theoretical</code>.
+Rigour 1–3 is judged against the kind's own criteria (<code>eval/kind-rigor/RUBRIC.md</code>), never another
+kind's, so a careful interview study is <code>r3</code> and a confounded trial <code>r1</code>; <code>r?</code> means the text
+available could not show it, and an entry with no text of its study is always <code>r?</code>. Both are
+mirrored into <code>sources[]</code> as <code>kind:</code> and <code>rigour:</code>. <code>scripts/code_kind_rigour.py</code> writes them,
+from the article or abstract, never from the wiki's own paraphrase. <strong><code>q</code> stays, and is now read as
+the design tier</strong>: where a study sits on the causal-design ladder, which answers "how good is this as
+evidence of a cause" and not "how well was this done".</p>
+<p><strong>Design tiers (q):</strong>
 | q | Criteria |
 |---|----------|
 | 4 | Pre-registered RCT or well-powered meta-analysis |
@@ -5246,6 +5304,8 @@ drift from the agent's, because there is only one copy.</p>
 <span class="w">    </span><span class="nt">q</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">3</span>
 <span class="w">    </span><span class="nt">i</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">2</span>
 <span class="w">    </span><span class="nt">n</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">large (multiple course sections at a research university)</span>
+<span class="w">    </span><span class="nt">kind</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">causal</span>
+<span class="w">    </span><span class="nt">rigour</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">2</span>
 </code></pre></div>
 <p>Subclaim prefixes are deliberately not mirrored: a subclaim's <code>q3 i2</code> is a <em>reading</em> of the
 evidence entry it links to, and that entry already carries the codes — a second copy would

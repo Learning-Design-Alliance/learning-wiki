@@ -733,7 +733,7 @@
 <h1 id="feedback-improves-learning">Feedback Improves Learning<a class="headerlink" href="#feedback-improves-learning" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 2 studies · <code>q4</code> pre-registered or meta-analytic · <code>i2</code> medium</p>
+<strong>Evidence</strong> · 2 studies · 2 quant-synthesis <code>r2</code> · <code>q4</code> · <code>i2</code> medium</p>
 </blockquote>
 <p>Information provided to learners about their performance or understanding can improve subsequent learning, relative to practice without such information. This page covers the general claim; its strength depends heavily on the form, timing, and content of the feedback and on the learner's stage of expertise.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -741,14 +741,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -812,11 +876,11 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="wisniewski-et-al-2020">Wisniewski et al. 2020<a class="headerlink" href="#wisniewski-et-al-2020" title="Permanent link">&para;</a></h3>
 <p>Wisniewski, B., Zierer, K., &amp; Hattie, J. (2020). The power of feedback revisited: A meta-analysis of educational feedback research. <em>Frontiers in Psychology, 10</em>, 3087. <a href="https://doi.org/10.3389/fpsyg.2019.03087">doi:10.3389/fpsyg.2019.03087</a></p>
-<p><code>q4 · random-effects meta-analysis</code> · <code>i2 · medium effect, d=0.48</code> · <code>n=435 studies (k=994 effects, N&gt;61,000)</code></p>
+<p><code>q4 · random-effects meta-analysis</code> · <code>i2 · medium effect, d=0.48</code> · <code>n=435 studies (k=994 effects, N&gt;61,000)</code> · <code>quant-synthesis · r2</code></p>
 <p>A random-effects meta-analysis of empirical studies of feedback on student learning in education, drawn from the studies behind earlier meta-analyses. The overall effect was medium (d = 0.48), but heterogeneity was large, so the authors argue that feedback should not be treated as a single intervention. The most important moderator was how much information the feedback carried: reinforcement or punishment gave d = 0.24 [0.06–0.43], corrective feedback d = 0.46 [0.39–0.55], and high-information feedback, which adds information about self-regulation, d = 0.99 [0.82–1.15]. Effects were larger on cognitive (d = 0.51) and motor-skill (d = 0.63) outcomes than on motivational ones (d = 0.33).</p>
 <h3 id="kluger-denisi-1996">Kluger &amp; DeNisi 1996<a class="headerlink" href="#kluger-denisi-1996" title="Permanent link">&para;</a></h3>
 <p>Kluger, A. N., &amp; DeNisi, A. (1996). The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary feedback intervention theory. <em>Psychological Bulletin, 119</em>(2), 254–284. <a href="https://doi.org/10.1037/0033-2909.119.2.254">doi:10.1037/0033-2909.119.2.254</a></p>
-<p><code>q4 · meta-analysis</code> · <code>i2 · medium effect, d=.41</code> · <code>n=607 effect sizes (23,663 observations)</code></p>
+<p><code>q4 · meta-analysis</code> · <code>i2 · medium effect, d=.41</code> · <code>n=607 effect sizes (23,663 observations)</code> · <code>quant-synthesis · r2</code></p>
 <p>A meta-analysis of feedback interventions on task performance in laboratory and field settings, not only in education. On average, feedback improved performance (d = .41), but more than a third of the interventions reduced performance, and sampling error or whether the feedback was positive or negative did not explain this. The authors' feedback intervention theory, tested with moderator analyses, proposes that feedback becomes less effective as it pulls the learner's attention away from the task and toward the self. This is a strong qualification of the general claim.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p><strong>Feedback is not uniformly beneficial.</strong> The broad claim hides substantial failure modes. Feedback that merely reports right or wrong without explaining why [~M], feedback delivered at a moment when the learner can no longer act on it [-M], and feedback that redirects attention to the self rather than the task [-M] have all been associated with null or negative effects in the wider literature. The claim should therefore be read as conditional: feedback improves learning when it gives the learner usable information they did not already have [+S]. Where feedback functions only as praise or reward, its effects are better explained by <a href="../../theories/behaviorism/">behaviorism</a> than by information processing — and such effects rarely transfer to learning outcomes [-M].</p>

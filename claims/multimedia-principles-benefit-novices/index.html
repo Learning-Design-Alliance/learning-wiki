@@ -733,7 +733,7 @@
 <h1 id="multimedia-principles-benefit-novices">Multimedia Principles Benefit Novices<a class="headerlink" href="#multimedia-principles-benefit-novices" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 2 studies · <code>q2</code>–<code>q3</code></p>
+<strong>Evidence</strong> · 2 studies · 1 causal <code>r?</code>, 1 review <code>r2</code> · <code>q2</code>–<code>q3</code></p>
 </blockquote>
 <p>Multimedia design principles — presenting words and pictures together, excluding extraneous material, and managing channels and segments — tend to yield larger learning benefits for learners with low prior knowledge than for more experienced learners.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -741,14 +741,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -812,11 +876,11 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="kalyuga-et-al-2003">Kalyuga et al. 2003<a class="headerlink" href="#kalyuga-et-al-2003" title="Permanent link">&para;</a></h3>
 <p>Kalyuga, S., Ayres, P., Chandler, P., &amp; Sweller, J. (2003). The expertise reversal effect. <em>Educational Psychologist, 38</em>(1), 23–31. <a href="https://doi.org/10.1207/s15326985ep3801_4">doi:10.1207/s15326985ep3801_4</a></p>
-<p><code>q2 · narrative review of experimental cognitive-load studies</code> · <code>i? · no pooled effect size reported (individual experiments described as producing statistically significant reversals, but no d/F values given in the text)</code> · <code>n=N/A (review; ~10 primary studies cited)</code></p>
+<p><code>q2 · narrative review of experimental cognitive-load studies</code> · <code>i? · no pooled effect size reported (individual experiments described as producing statistically significant reversals, but no d/F values given in the text)</code> · <code>n=N/A (review; ~10 primary studies cited)</code> · <code>review · r2</code></p>
 <p>A narrative review by the group that coined the term, synthesizing its own and others' experiments across five separate cognitive-load paradigms — split-attention/redundancy (including the Kalyuga, Chandler, &amp; Sweller (1998) study below), modality/redundancy, worked examples, isolated interacting elements, and the imagination effect. In each paradigm the same instructional design that most helped inexperienced learners either lost its advantage or actively hurt more experienced learners once they held relevant schemas, because processing the extra guidance became redundant cross-referencing that consumes working memory rather than useful support. The review frames this as a consequence of <a href="../../theories/cognitive-load-theory/">cognitive load theory</a>: guidance that substitutes for a missing schema helps a novice, but the same guidance duplicates what an expert's automated schema already provides.</p>
 <h3 id="kalyuga-et-al-1998">Kalyuga et al. 1998<a class="headerlink" href="#kalyuga-et-al-1998" title="Permanent link">&para;</a></h3>
 <p>Kalyuga, S., Chandler, P., &amp; Sweller, J. (1998). Levels of expertise and instructional design. <em>Human Factors, 40</em>(1), 1–17. <a href="https://doi.org/10.1518/001872098779480587">doi:10.1518/001872098779480587</a></p>
-<p><code>q3 · peer-reviewed experiment (three studies)</code> · <code>i? · no effect size reported in the read text (differences described as "significantly better," no d/F/p values available in the abstract)</code> · <code>n=N/A (abstract only; per-experiment n not stated in the text read)</code></p>
+<p><code>q3 · peer-reviewed experiment (three studies)</code> · <code>i? · no effect size reported in the read text (differences described as "significantly better," no d/F/p values available in the abstract)</code> · <code>n=N/A (abstract only; per-experiment n not stated in the text read)</code> · <code>causal · r?</code></p>
 <p>Three experiments with trainees learning to read electrical/circuit diagrams compared a diagram with text physically integrated onto it against a diagram-only format with the (redundant) text eliminated. For less experienced trainees, the integrated diagram-plus-text format worked best — a diagram alone was not intelligible to them. As trainees' domain experience increased across the three experiments, the best-performing format shifted, and the most experienced group performed better with the diagram-only format than with the integrated text present, replicating the split-attention benefit for novices with a redundancy-driven reversal for experts. Only the abstract was available for this entry (see provenance); the numeric effect sizes are not asserted here because they were not present in the text read.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p><strong>Why novices benefit more.</strong> The theoretical rationale comes from <a href="../../theories/cognitive-load-theory/">Cognitive Load Theory</a>: novices lack the prior-knowledge schemas that let experienced learners compensate for poorly designed materials. Principles such as integrating words and images, signaling essential content, and segmenting animation reduce extraneous processing precisely for learners whose working memory is most easily overwhelmed — see <a href="../cognitive-overload-degrades-learning/">Cognitive overload degrades learning</a> and <a href="../chunking-reduces-working-memory-load/">Chunking reduces working memory load</a>.</p>

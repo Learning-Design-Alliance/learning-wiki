@@ -794,7 +794,7 @@
 <h1 id="bkt-rnn-a-fast-flexible-pytorch-recurrent-neural-network-implementation-of-bayesian-knowledge-tracing">BKT RNN: a fast, flexible PyTorch recurrent neural network implementation of Bayesian Knowledge Tracing<a class="headerlink" href="#bkt-rnn-a-fast-flexible-pytorch-recurrent-neural-network-implementation-of-bayesian-knowledge-tracing" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Element</strong> · <a href="../">All elements</a>
-<strong>Evidence</strong> · 1 claim (1 for) · 1 study, <code>q2</code> · 0 of 1 report an effect size · 1 claim rests on one study</p>
+<strong>Evidence</strong> · 1 claim (1 for) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 1 claim rests on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>The BKT RNN is a PyTorch recurrent neural network layer whose cell dynamics exactly implement BKT's hidden Markov model forward algorithm, making the model fully differentiable and trainable with stochastic gradient descent on GPUs. Supplying BKT's parameters as layer inputs makes it "trivial to integrate the model with other NN modules". An accelerated variant processes multiple trials per step using a stride C (e.g. between 5 and 7), exploiting the independence structure of the HMM, and the article reports it is substantially faster than brute-force implementations and within an order of magnitude of a fine-tuned C++ implementation.</p>

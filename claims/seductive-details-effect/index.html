@@ -744,7 +744,7 @@
 <h1 id="interesting-but-irrelevant-details-impair-learning">Interesting but irrelevant details impair learning<a class="headerlink" href="#interesting-but-irrelevant-details-impair-learning" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 3 studies · <code>q3</code> peer-reviewed experiment · <code>i1</code> small</p>
+<strong>Evidence</strong> · 3 studies · 2 causal <code>r2</code>, 1 quant-synthesis <code>r?</code> · <code>q3</code> · <code>i1</code> small</p>
 </blockquote>
 <p>Interesting but irrelevant text, pictures, or audio added to instructional materials impairs learning by diverting attention and working-memory resources away from the essential content. This is the "seductive details effect" — the general learning-science formulation of what multimedia researchers call the coherence principle.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -752,14 +752,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -824,15 +888,15 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="sundararajan-adesope-2020">Sundararajan &amp; Adesope 2020<a class="headerlink" href="#sundararajan-adesope-2020" title="Permanent link">&para;</a></h3>
 <p>Sundararajan, N., &amp; Adesope, O. (2020). Keep it coherent: A meta-analysis of the seductive details effect. <em>Educational Psychology Review, 32</em>(3), 707–734. <a href="https://doi.org/10.1007/s10648-020-09522-4">doi:10.1007/s10648-020-09522-4</a></p>
-<p><code>q3 · meta-analysis</code> · <code>i? · no pooled effect size in the abstract</code> · <code>n=not stated in abstract</code></p>
+<p><code>q3 · meta-analysis</code> · <code>i? · no pooled effect size in the abstract</code> · <code>n=not stated in abstract</code> · <code>quant-synthesis · r?</code></p>
 <p>This is a meta-analysis of experiments comparing learning materials with and without seductive details, meaning interesting but irrelevant text or images. It concludes that adding such details can hinder learning. The size of the effect depended on how the seductive details were presented, the type of image used for comparison, the delivery format, language, subject, learner pacing, the type of recall question and how the manipulation was checked. It covers seductive details in general, not only decorative illustrations. Only the abstract was read, so no pooled estimate or study count is recorded here.</p>
 <h3 id="lenzner-et-al-2013">Lenzner et al. 2013<a class="headerlink" href="#lenzner-et-al-2013" title="Permanent link">&para;</a></h3>
 <p>Lenzner, A., Schnotz, W., &amp; Müller, A. (2013). The role of decorative pictures in learning. <em>Instructional Science, 41</em>(5), 811–831. <a href="https://doi.org/10.1007/s11251-012-9256-z">doi:10.1007/s11251-012-9256-z</a></p>
-<p><code>q3 · three peer-reviewed experiments (incl. eye tracking)</code> · <code>i? · no effect size in the abstract</code> · <code>n=7th and 8th graders, three experiments (sample sizes not in abstract)</code></p>
+<p><code>q3 · three peer-reviewed experiments (incl. eye tracking)</code> · <code>i? · no effect size in the abstract</code> · <code>n=7th and 8th graders, three experiments (sample sizes not in abstract)</code> · <code>causal · r?</code></p>
 <p>Three experiments with 7th and 8th grade students compared decorative pictures (chosen mainly to look appealing) with <a href="../../elements/demonstration/">instructional pictures</a> (chosen to inform). Eye tracking showed that learners looked at decorative pictures briefly at first and then mostly ignored them. The pictures improved mood, alertness and calmness and made the material feel less difficult, but they did not raise situational interest. For learning, decorative pictures were neither harmful nor helpful overall. They did, however, reduce the benefit of instructional pictures (the multimedia effect), most strongly for learners with lower prior knowledge. This supports the "does not improve" claim and argues against a blanket "harms" version.</p>
 <h3 id="gonzalez-et-al-2019">González et al. 2019<a class="headerlink" href="#gonzalez-et-al-2019" title="Permanent link">&para;</a></h3>
 <p>González, F. M., Saux, G., &amp; Burin, D. (2019). The decorative images' seductive effect in e-learning depends on attentional inhibition. <em>Australasian Journal of Educational Technology, 35</em>(3). <a href="https://doi.org/10.14742/ajet.4577">doi:10.14742/ajet.4577</a></p>
-<p><code>q3 · within-subjects counterbalanced experiments</code> · <code>i1 · small effect, η²=.04 (Study 1)</code> · <code>n=126 (Study 1); 65 (Study 2)</code></p>
+<p><code>q3 · within-subjects counterbalanced experiments</code> · <code>i1 · small effect, η²=.04 (Study 1)</code> · <code>n=126 (Study 1); 65 (Study 2)</code> · <code>causal · r2</code></p>
 <p>In Study 1, 126 first-year undergraduates in a Moodle course read texts with and without decorative, irrelevant images. Each student saw both conditions, in counterbalanced order. Comprehension was a little lower with the images (M = 9.24 vs 9.54; F(1,123) = 4.25, p = .041, η² = .04), and the authors call the effect "very small in magnitude". In Study 2, 65 undergraduates read harder texts spread across several screens. The images had no overall effect (F(1,53) = 0.02), but they interacted with attentional inhibitory control (F(1,53) = 9.18, η² = .15): students less able to ignore irrelevant visual input understood less when the images were present.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p><strong>Mechanism.</strong> The effect is usually explained through <a href="../../theories/cognitive-load-theory/">cognitive load theory</a>: seductive details consume limited working-memory capacity and induce attentional split between essential and incidental material, producing the same overload documented in <a href="../cognitive-overload-degrades-learning/">cognitive overload degrades learning</a> [-M]. They are closely related to the <a href="../coherence-principle-irrelevant-material-hurts-learning/">coherence principle</a> [+M], which generalizes the finding to irrelevant words, sounds, and graphics in multimedia design.</p>

@@ -733,7 +733,7 @@
 <h1 id="brief-intervention-empathic-discipline-cuts-suspensions">Brief Intervention Empathic Discipline Cuts Suspensions<a class="headerlink" href="#brief-intervention-empathic-discipline-cuts-suspensions" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 2 studies · <code>q3</code>–<code>q4</code></p>
+<strong>Evidence</strong> · 2 studies · 2 causal <code>r3</code> · <code>q3</code>–<code>q4</code></p>
 </blockquote>
 <p>A short, scalable intervention that reframes discipline as an opportunity to maintain relationships with students — rather than to punish — can reduce suspension rates, particularly for students from historically disciplined groups.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -741,14 +741,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -812,11 +876,11 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="okonofua-et-al-2016">Okonofua et al. 2016<a class="headerlink" href="#okonofua-et-al-2016" title="Permanent link">&para;</a></h3>
 <p>Okonofua, J. A., Paunesku, D., &amp; Walton, G. M. (2016). Brief intervention to encourage empathic discipline cuts suspension rates in half among adolescents. <em>Proceedings of the National Academy of Sciences, 113</em>(19), 5221–5226. <a href="https://doi.org/10.1073/pnas.1523698113">doi:10.1073/pnas.1523698113</a></p>
-<p><code>q3 · randomized field experiment (not preregistered)</code> · <code>i? · no standardized effect size in the abstract; suspension rate 9.6% vs 4.8%</code> · <code>n=1682 students (31 teachers)</code></p>
+<p><code>q3 · randomized field experiment (not preregistered)</code> · <code>i? · no standardized effect size in the abstract; suspension rate 9.6% vs 4.8%</code> · <code>n=1682 students (31 teachers)</code> · <code>causal · r?</code></p>
 <p>The paper reports laboratory experiments followed by a randomized field experiment. In the field study, 31 math teachers at five middle schools in three districts completed either a brief online exercise encouraging an empathic mindset about discipline or a control exercise. Across the 1,682 students of these teachers, year-long suspension rates were half as high among students of treated teachers as among students of control teachers (4.8% vs 9.6%). The most at-risk students, those previously suspended, also reported more respect from their teachers. Only the abstract was read, so the analysis details and uncertainty intervals were not checked.</p>
 <h3 id="okonofua-et-al-2022">Okonofua et al. 2022<a class="headerlink" href="#okonofua-et-al-2022" title="Permanent link">&para;</a></h3>
 <p>Okonofua, J. A., Goyer, J. P., Lindsay, C. A., Haugabrook, J., &amp; Walton, G. M. (2022). A scalable empathic-mindset intervention reduces group disparities in school suspensions. <em>Science Advances, 8</em>(12), eabj0691. <a href="https://doi.org/10.1126/sciadv.abj0691">doi:10.1126/sciadv.abj0691</a></p>
-<p><code>q4 · preregistered active-placebo-controlled randomized field experiment</code> · <code>i? · no standardized effect size; main effect b=0.024, 95% CI −0.007 to 0.055 in the randomized sample</code> · <code>n=5822 students (66 randomized teachers)</code></p>
+<p><code>q4 · preregistered active-placebo-controlled randomized field experiment</code> · <code>i? · no standardized effect size; main effect b=0.024, 95% CI −0.007 to 0.055 in the randomized sample</code> · <code>n=5822 students (66 randomized teachers)</code> · <code>causal · r3</code></p>
 <p>Middle-school math teachers were randomized to a 45–70-minute online empathic-mindset exercise or an active control exercise, and their students' suspensions were tracked for the school year and the following year. The preregistered main effect was small and marginal. In the full eligible sample (173 teachers, 13,210 students), 17.3% of students with treated teachers were suspended against 20.4% of control students (P = 0.051, two-tailed). Among the 66 randomized teachers and their 5,822 students alone, b = 0.024 and P = 0.130. The larger effects were for groups at high risk of suspension. Among Black and Hispanic students, suspensions fell from 26.5% to 20.8%, which narrowed the racial disparity from 10.6 to 5.9 percentage points. Among previously suspended students they fell from 56.1% to 49.6%. The effect on students with two or more prior suspensions was not significant. In a subsample followed into the next year, the reduction held when students had different teachers (16.7% vs 20.9%).</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p><strong>Mechanism.</strong> The proposed pathway is a shift in teachers' "mindsets" about conflict: when misbehavior is framed as a developmental moment to be met with empathic dialogue rather than a violation to be punished, teachers report fewer punitive responses, and students perceive their teachers as more respectful [+W]. Because the intervention is brief and self-administered, its appeal is scalability — a few minutes of online reading and writing exercises, rather than extended professional development. This places it in the same family as <a href="../belonging-interventions-improve-outcomes/">belonging interventions</a>: brief, theory-of-change-driven social-psychological exercises that target a specific, context-bound belief rather than a general disposition. It also connects to broader work on <a href="../../principles/building-empathy/">building empathy</a> as a lever for changing interpersonal dynamics in classrooms.</p>

@@ -733,7 +733,7 @@
 <h1 id="high-confidence-errors-lead-to-better-retention-after-correction-than-low-confidence-errors">High-confidence errors lead to better retention after correction than low-confidence errors.<a class="headerlink" href="#high-confidence-errors-lead-to-better-retention-after-correction-than-low-confidence-errors" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 2 studies · <code>q2</code>–<code>q3</code></p>
+<strong>Evidence</strong> · 2 studies · 1 causal <code>r?</code>, 1 review <code>r?</code> · <code>q2</code>–<code>q3</code></p>
 </blockquote>
 <p>The "hypercorrection effect" describes the phenomenon where errors committed with high confidence are more likely to be corrected and remembered accurately later than low-confidence errors, likely due to increased attention triggered by the surprise of being wrong.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -741,14 +741,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -813,11 +877,11 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <p>Primary evidence link: https://doi.org/10.1146/annurev-psych-010416-044022</p>
 <h3 id="metcalfe-2017">Metcalfe 2017<a class="headerlink" href="#metcalfe-2017" title="Permanent link">&para;</a></h3>
 <p>Metcalfe, J. (2017). Learning from errors. <em>Annual Review of Psychology, 68</em>, 465–489. <a href="https://doi.org/10.1146/annurev-psych-010416-044022">https://doi.org/10.1146/annurev-psych-010416-044022</a></p>
-<p><code>q2 · narrative review</code> · <code>i? · the abstract prints no effect size; the full text may</code> · <code>n=N/A</code></p>
+<p><code>q2 · narrative review</code> · <code>i? · the abstract prints no effect size; the full text may</code> · <code>n=N/A</code> · <code>review · r?</code></p>
 <p>This comprehensive review synthesizes decades of research on learning from errors. It identifies the hypercorrection effect as a robust finding across multiple domains and age groups, highlighting the importance of generating answers (even if wrong) and receiving immediate corrective feedback.</p>
 <h3 id="fazio-marsh-2009">Fazio &amp; Marsh 2009<a class="headerlink" href="#fazio-marsh-2009" title="Permanent link">&para;</a></h3>
 <p>Fazio, L. K., &amp; Marsh, E. J. (2009). Surprising feedback improves later memory. <em>Psychonomic Bulletin &amp; Review, 16</em>(1), 88–92. <a href="https://doi.org/10.3758/PBR.16.1.88">https://doi.org/10.3758/PBR.16.1.88</a></p>
-<p><code>q3 · peer-reviewed experiment</code> · <code>i? · no source text available to check; the entry prints no effect size</code> · <code>n=unspecified</code></p>
+<p><code>q3 · peer-reviewed experiment</code> · <code>i? · no source text available to check; the entry prints no effect size</code> · <code>n=unspecified</code> · <code>causal · r?</code></p>
 <p>Experiments in this study confirmed that feedback is more effectively processed and remembered when it contradicts a high-confidence prediction, supporting the mechanism of surprise-driven attention in error correction.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p>The effect is dependent on receiving immediate, non-punitive, and clear corrective feedback; without feedback, errors can be reinforced as misconceptions.</p>

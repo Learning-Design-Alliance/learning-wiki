@@ -722,7 +722,7 @@
 <h1 id="creating-computational-literature-develops-computational-literacy-even-when-code-modification-is-minor">Creating computational literature develops computational literacy even when code modification is minor<a class="headerlink" href="#creating-computational-literature-develops-computational-literacy-even-when-code-modification-is-minor" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 1 study · <code>q1</code> argument or single case · n=4 undergraduate physics students (two pairs)</p>
+<strong>Evidence</strong> · 1 study · qualitative <code>r?</code> · <code>q1</code> · n=4 undergraduate physics students (two pairs)</p>
 </blockquote>
 <p>Computational literacy has three interdependent pillars — material (technical coding fluency), cognitive (using computation to reason about a disciplinary problem), and social (communicating computational work) — and students can develop the cognitive and social pillars substantially through <a href="../../patterns/computational-essay-writing/">computational essay writing</a> even when their actual code changes are small, provided they have example computational literature to draw on.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -730,14 +730,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -802,7 +866,7 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="odden-zwicki-2025">Odden &amp; Zwicki 2025<a class="headerlink" href="#odden-zwicki-2025" title="Permanent link">&para;</a></h3>
 <p>Odden, T. O. B., &amp; Zwicki, B. (2025). How physics students build computational literacy by creating computational literature. <em>Journal of the Learning Sciences, 34</em>(5), 700-742. <a href="https://doi.org/10.1080/10508406.2025.2494791">https://doi.org/10.1080/10508406.2025.2494791</a></p>
-<p><code>q1 · case study of two student pairs, interviews and artifact analysis, no comparison condition</code> · <code>i? · the abstract prints no effect size; the full text may</code> · <code>n=4 undergraduate physics students (two pairs)</code></p>
+<p><code>q1 · case study of two student pairs, interviews and artifact analysis, no comparison condition</code> · <code>i? · the abstract prints no effect size; the full text may</code> · <code>n=4 undergraduate physics students (two pairs)</code> · <code>qualitative · r?</code></p>
 <p>Pairs of physics students extended a provided physics simulation (code seed) and wrote a computational essay documenting an original investigation. One pair, reluctant toward programming, made only minor code changes but spent substantial time on physics comprehension, comparing candidate models and interpreting anomalous results; interviews and their essay showed developed epistemic agency and clear communication despite limited coding depth. A second pair, more enthusiastic about coding, produced a more code- and visualization-heavy essay with less interpretive discussion. Both pairs explicitly credited the provided example essays and code seeds with making the open-ended assignment tractable.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p>This is a single-course case study (q1) with two student pairs (n=4) and no comparison condition, control group, or formal pre/post assessment — learning is inferred from interviews and the essays students produced, not measured directly. It was also the first open-ended computational project these students had done, so the observed growth could partly reflect novelty rather than the specific instructional design. The finding that different pairs developed different strengths (interpretation vs. implementation) suggests the task accommodates varied entry dispositions, but this is an observed pattern in two cases, not a tested design principle. Generalizability beyond this one physics course is unknown.</p>

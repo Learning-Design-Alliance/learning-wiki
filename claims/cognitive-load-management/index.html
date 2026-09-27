@@ -733,7 +733,7 @@
 <h1 id="cognitive-load-management">Cognitive Load Management<a class="headerlink" href="#cognitive-load-management" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 2 studies · <code>q4</code> pre-registered or meta-analytic · <code>i2</code> medium</p>
+<strong>Evidence</strong> · 2 studies · 2 quant-synthesis <code>r?</code> · <code>q4</code> · <code>i2</code> medium</p>
 </blockquote>
 <p>Managing intrinsic, extraneous, and germane cognitive load — by controlling element interactivity, removing unnecessary processing demands, and scaffolding complex content — protects limited working-memory capacity and improves learning outcomes.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -741,14 +741,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -812,11 +876,11 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="rey-et-al-2019">Rey et al. 2019<a class="headerlink" href="#rey-et-al-2019" title="Permanent link">&para;</a></h3>
 <p>Rey, G. D., Beege, M., Nebel, S., Wirzberger, M., Schmitt, T. H., &amp; Schneider, S. (2019). A meta-analysis of the segmenting effect. <em>Educational Psychology Review, 31</em>(2), 389–419. <a href="https://doi.org/10.1007/s10648-018-9456-4">doi:10.1007/s10648-018-9456-4</a></p>
-<p><code>q4 · meta-analysis</code> · <code>i? · described as small to medium; the abstract gives no pooled d</code> · <code>n=56 investigations (88 pairwise comparisons)</code></p>
+<p><code>q4 · meta-analysis</code> · <code>i? · described as small to medium; the abstract gives no pooled d</code> · <code>n=56 investigations (88 pairwise comparisons)</code> · <code>quant-synthesis · r?</code></p>
 <p>This meta-analysis pooled 56 investigations (88 pairwise comparisons) that compared multimedia instruction split into meaningful segments with the same material presented as one continuous unit. Segmenting had small to medium positive effects on retention and transfer. It also reduced overall cognitive load and increased learning time, and the same four effects held when the system, not the learner, set the pace. Contrary to what the expertise reversal effect would predict, learners with high prior knowledge benefited more on retention than learners with little or none. That finding qualifies the idea that load-reducing support always matters most for novices.</p>
 <h3 id="barbieri-et-al-2023">Barbieri et al. 2023<a class="headerlink" href="#barbieri-et-al-2023" title="Permanent link">&para;</a></h3>
 <p>Barbieri, C. A., Miller-Cotto, D., Clerjuste, S. N., &amp; Chawla, K. (2023). A meta-analysis of the worked examples effect on mathematics performance. <em>Educational Psychology Review, 35</em>(1), 11. <a href="https://doi.org/10.1007/s10648-023-09745-1">doi:10.1007/s10648-023-09745-1</a></p>
-<p><code>q4 · meta-analysis (robust variance estimation)</code> · <code>i2 · medium effect, g=0.48</code> · <code>n=55 studies (43 articles, 181 effect sizes)</code></p>
+<p><code>q4 · meta-analysis (robust variance estimation)</code> · <code>i2 · medium effect, g=0.48</code> · <code>n=55 studies (43 articles, 181 effect sizes)</code> · <code>quant-synthesis · r?</code></p>
 <p>The authors screened 8,033 abstracts and kept 55 experimental and quasi-experimental studies (181 effect sizes) of <a href="../worked-examples-reduce-novice-search/">worked examples</a> in mathematics, from elementary grades to postsecondary. The average effect on mathematics performance was medium (g = 0.48). It held whether the examples were used for initial skill acquisition or for practice, and correct examples alone worked better than incorrect examples or a mix of the two. Adding self-explanation prompts produced a negative effect compared with worked examples without them. This cuts against the assumption that layering a germane-load activity onto a load-reducing scaffold always adds value.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p>Cognitive load management is the practical application of <a href="../../theories/cognitive-load-theory/">Cognitive Load Theory</a>: because working memory can hold only a small number of interacting elements, instruction that exceeds this capacity degrades learning — see <a href="../cognitive-overload-degrades-learning/">Cognitive overload degrades learning</a>. Designers manage load in three ways: reducing <strong>intrinsic</strong> load by sequencing and segmenting complex material (chunking, part-whole progression), reducing <strong>extraneous</strong> load by eliminating redundant or poorly integrated presentation (see <a href="../../principles/cognitive-load-reduction/">Cognitive Load Reduction</a> and <a href="../cognitive-load-reduction-improves-learning/">Cognitive Load Reduction Improves Learning</a>), and optimizing <strong>germane</strong> load by directing freed capacity toward schema-building activities such as self-explanation and practice.</p>

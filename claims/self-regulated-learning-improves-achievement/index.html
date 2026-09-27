@@ -733,7 +733,7 @@
 <h1 id="self-regulated-learning-improves-achievement">Self-regulated learning improves achievement<a class="headerlink" href="#self-regulated-learning-improves-achievement" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 2 studies · <code>q3</code>–<code>q4</code> · <code>i1</code>–<code>i2</code></p>
+<strong>Evidence</strong> · 2 studies · 2 quant-synthesis <code>r?</code> · <code>q3</code>–<code>q4</code> · <code>i1</code>–<code>i2</code></p>
 </blockquote>
 <p>Learners who plan, monitor, and evaluate their own learning — and who are explicitly taught to do so — achieve better outcomes than learners who study the same material without these self-regulatory processes.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -741,14 +741,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -812,11 +876,11 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="dignath-buttner-2008">Dignath &amp; Büttner 2008<a class="headerlink" href="#dignath-buttner-2008" title="Permanent link">&para;</a></h3>
 <p>Dignath, C., &amp; Büttner, G. (2008). Components of fostering self-regulated learning among students. A meta-analysis on intervention studies at primary and secondary school level. <em>Metacognition and Learning, 3</em>(3), 231–264. <a href="https://doi.org/10.1007/s11409-008-9029-x">doi:10.1007/s11409-008-9029-x</a></p>
-<p><code>q4 · meta-analysis of intervention studies</code> · <code>i2 · medium-to-large effect, average ES = 0.69</code> · <code>n=84 studies (357 effect sizes)</code></p>
+<p><code>q4 · meta-analysis of intervention studies</code> · <code>i2 · medium-to-large effect, average ES = 0.69</code> · <code>n=84 studies (357 effect sizes)</code> · <code>quant-synthesis · r?</code></p>
 <p>Two separate meta-analyses pooled self-regulated learning training studies: 49 with primary school students and 35 with secondary school students, 357 effect sizes in all. Outcomes were academic performance, strategy use and motivation, and the 0.69 average covers all three together. The abstract does not give a separate figure for achievement. Meta-regression found larger effects when researchers, not regular teachers, delivered the training, and in mathematics compared with reading/writing or other subjects. The theory behind the programme and the type of strategy taught had different effects at the two school levels. Read as abstract only.</p>
 <h3 id="dent-koenka-2016">Dent &amp; Koenka 2016<a class="headerlink" href="#dent-koenka-2016" title="Permanent link">&para;</a></h3>
 <p>Dent, A. L., &amp; Koenka, A. C. (2016). The relation between self-regulated learning and academic achievement across childhood and adolescence: A meta-analysis. <em>Educational Psychology Review, 28</em>(3), 425–474. <a href="https://doi.org/10.1007/s10648-015-9320-8">doi:10.1007/s10648-015-9320-8</a></p>
-<p><code>q3 · meta-analysis of correlational studies</code> · <code>i1 · small correlation, r = 0.20 (metacognitive processes), r = 0.11 (cognitive strategies)</code> · <code>n=?</code></p>
+<p><code>q3 · meta-analysis of correlational studies</code> · <code>i1 · small correlation, r = 0.20 (metacognitive processes), r = 0.11 (cognitive strategies)</code> · <code>n=?</code> · <code>quant-synthesis · r?</code></p>
 <p>Two meta-analyses of elementary and secondary school students related achievement to (1) metacognitive processes of self-regulated learning and (2) use of cognitive strategies. Both overall correlations were small: r = 0.20 for metacognitive processes and r = 0.11 for cognitive strategies. The correlations differed significantly by the specific process or strategy, academic subject, grade level, type of SRL measure and type of achievement measure. This is the correlational arm of the claim. It supports a real but modest association, not a causal effect. The number of studies was not in the abstract. Read as abstract only.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p>Self-regulated learning (SRL) is not a single technique but a cycle of forethought (goal setting, strategic planning), performance (self-monitoring, self-control), and self-reflection (self-evaluation, adaptive adjustment). The claim covers both (a) correlations between learners' existing self-regulatory skill and achievement, and (b) causal effects of explicitly training or scaffolding SRL strategies. These are distinct claims with distinct evidence bases: correlational studies cannot rule out that stronger students self-regulate more, while training studies vary widely in dosage, duration, and whether strategies are taught generically or embedded in a specific domain.</p>

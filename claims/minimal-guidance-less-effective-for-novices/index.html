@@ -744,7 +744,7 @@
 <h1 id="minimal-guidance-is-less-effective-for-novices-than-explicit-instruction">Minimal guidance is less effective for novices than explicit instruction<a class="headerlink" href="#minimal-guidance-is-less-effective-for-novices-than-explicit-instruction" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 3 studies · <code>q2</code>–<code>q4</code> · <code>i1</code> small</p>
+<strong>Evidence</strong> · 3 studies · 1 causal <code>r?</code>, 1 review <code>r?</code>, 1 design <code>r3</code> · <code>q2</code>–<code>q4</code> · <code>i1</code> small</p>
 </blockquote>
 <p>For learners who lack relevant prior knowledge, discovery- or inquiry-style approaches with minimal instructional support produce weaker learning than approaches that provide explicit structure, modeling, and worked examples.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -752,14 +752,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -824,15 +888,15 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="alfieri-et-al-2011">Alfieri et al. 2011<a class="headerlink" href="#alfieri-et-al-2011" title="Permanent link">&para;</a></h3>
 <p>Alfieri, L., Brooks, P. J., Aldrich, N. J., &amp; Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? <em>Journal of Educational Psychology, 103</em>(1), 1–18. <a href="https://doi.org/10.1037/a0021017">doi:10.1037/a0021017</a></p>
-<p><code>q4 · meta-analysis</code> · <code>i1 · small effect, d=0.38 favouring explicit instruction over unassisted discovery</code> · <code>n=164 studies</code></p>
+<p><code>q4 · meta-analysis</code> · <code>i1 · small effect, d=0.38 favouring explicit instruction over unassisted discovery</code> · <code>n=164 studies</code> · <code>design · r3</code></p>
 <p>Two random-effects meta-analyses drew on 164 studies. The first pooled 580 comparisons of unassisted discovery learning against explicit instruction, and outcomes favoured explicit instruction under most conditions (d = −0.38, negative meaning discovery did worse; the abstract prints the 95% CI as [–.44, .31], and the upper bound's missing minus sign is almost certainly a typesetting slip). The second pooled 360 comparisons of enhanced or assisted discovery against other instruction, and found that enhanced discovery came out ahead (d = 0.30, 95% CI [.23, .36]). Together these support the claim for <em>unguided</em> discovery. They also qualify it: guided forms of discovery (<a href="../../elements/feedback/">feedback</a>, <a href="../../elements/demonstration/">worked examples</a>, scaffolding, elicited explanations) were beneficial. The abstract does not break results down by learners' prior knowledge.</p>
 <h3 id="klahr-nigam-2004">Klahr &amp; Nigam 2004<a class="headerlink" href="#klahr-nigam-2004" title="Permanent link">&para;</a></h3>
 <p>Klahr, D., &amp; Nigam, M. (2004). The equivalence of learning paths in early science instruction. <em>Psychological Science, 15</em>(10), 661–667. <a href="https://doi.org/10.1111/j.0956-7976.2004.00737.x">doi:10.1111/j.0956-7976.2004.00737.x</a></p>
-<p><code>q3 · peer-reviewed experiment</code> · <code>i? · no effect size in the abstract read</code> · <code>n=112 children</code></p>
+<p><code>q3 · peer-reviewed experiment</code> · <code>i? · no effect size in the abstract read</code> · <code>n=112 children</code> · <code>causal · r?</code></p>
 <p>In this experiment, 112 third- and fourth-grade children, who were novices at the control-of-variables strategy for experimental design, learned it either by discovery or by <a href="../../patterns/direct-instruction/">direct instruction</a>. Many more children mastered the procedure under direct instruction. On a later transfer task that asked them to evaluate science-fair posters, children taught directly performed as well as the few who had discovered the method on their own. This challenges the assumption that self-discovered knowledge transfers better.</p>
 <h3 id="kirschner-et-al-2006">Kirschner et al. 2006<a class="headerlink" href="#kirschner-et-al-2006" title="Permanent link">&para;</a></h3>
 <p>Kirschner, P. A., Sweller, J., &amp; Clark, R. E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. <em>Educational Psychologist, 41</em>(2), 75–86. <a href="https://doi.org/10.1207/s15326985ep4102_1">doi:10.1207/s15326985ep4102_1</a></p>
-<p><code>q2 · narrative review / theoretical argument</code> · <code>i? · no pooled effect size</code> · <code>n=N/A (review)</code></p>
+<p><code>q2 · narrative review / theoretical argument</code> · <code>i? · no pooled effect size</code> · <code>n=N/A (review)</code> · <code>review · r?</code></p>
 <p>This narrative review builds its case on human cognitive architecture, expert–novice differences and <a href="../../theories/cognitive-load-theory/">cognitive load theory</a>. It concludes that empirical studies over the past half-century consistently show minimally guided instruction to be less effective and less efficient than instruction that strongly guides the learning process. It states the claim's novice boundary directly: the advantage of guidance recedes only when learners have enough prior knowledge to provide "internal" guidance (see <a href="../../theories/expertise-reversal-effect/">expertise reversal effect</a>). It is an argument that synthesises other studies, with no pooled estimate of its own.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p><strong>Why novices struggle with minimal guidance.</strong> Novices lack the schemas needed to recognize productive problem-solving paths, so unguided search imposes heavy extraneous load without yielding retrievable knowledge — the core mechanism proposed in <a href="../../theories/cognitive-load-theory/">cognitive load theory</a> [+M]. Guidance such as <a href="../../elements/demonstration/">worked examples</a> and <a href="../../patterns/direct-instruction/">direct instruction</a> reduces that load and directs attention to relevant features [+S]. This is the same mechanism by which <a href="../chunking-reduces-working-memory-load/">chunking</a> [+S] and <a href="../cognitive-load-management/">load management</a> [+M] support novice learning: limited working memory is spent on schema construction rather than on fruitless search.</p>

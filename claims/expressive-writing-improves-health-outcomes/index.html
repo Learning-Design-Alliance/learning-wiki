@@ -744,7 +744,7 @@
 <h1 id="expressive-writing-improves-health-outcomes">Expressive Writing Improves Health Outcomes<a class="headerlink" href="#expressive-writing-improves-health-outcomes" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 3 studies · <code>q3</code>–<code>q4</code> · <code>i0</code> negligible</p>
+<strong>Evidence</strong> · 3 studies · 3 quant-synthesis <code>r?</code> · <code>q3</code>–<code>q4</code> · <code>i0</code> negligible</p>
 </blockquote>
 <p>Writing about emotional experiences improves physical and psychological health outcomes relative to writing about neutral topics.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -752,14 +752,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -824,15 +888,15 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="frattaroli-2006">Frattaroli 2006<a class="headerlink" href="#frattaroli-2006" title="Permanent link">&para;</a></h3>
 <p>Frattaroli, J. (2006). Experimental disclosure and its moderators: A meta-analysis. <em>Psychological Bulletin, 132</em>(6), 823–865. <a href="https://doi.org/10.1037/0033-2909.132.6.823">doi:10.1037/0033-2909.132.6.823</a></p>
-<p><code>q4 · random-effects meta-analysis of randomized studies</code> · <code>i0 · negligible average effect, r=.075</code> · <code>n=146 studies</code></p>
+<p><code>q4 · random-effects meta-analysis of randomized studies</code> · <code>i0 · negligible average effect, r=.075</code> · <code>n=146 studies</code> · <code>quant-synthesis · r?</code></p>
 <p>A meta-analysis of 146 randomized studies of experimental disclosure (writing or talking about personal, meaningful topics versus control conditions). Using a random-effects model, which generalizes beyond the included studies unlike the two earlier fixed-effects syntheses, it found disclosure effective, with a positive and significant but very small average effect size (r = .075). A number of moderators were identified, so the benefit depends on how and for whom the paradigm is run. This supports the direction of the claim while heavily qualifying its size.</p>
 <h3 id="smyth-1998">Smyth 1998<a class="headerlink" href="#smyth-1998" title="Permanent link">&para;</a></h3>
 <p>Smyth, J. M. (1998). Written emotional expression: Effect sizes, outcome types, and moderating variables. <em>Journal of Consulting and Clinical Psychology, 66</em>(1), 174–184. <a href="https://doi.org/10.1037/0022-006X.66.1.174">doi:10.1037/0022-006X.66.1.174</a></p>
-<p><code>q3 · research synthesis (fixed-effects meta-analysis)</code> · <code>i? · effect size not stated in the abstract read</code> · <code>n=not stated in the abstract read</code></p>
+<p><code>q3 · research synthesis (fixed-effects meta-analysis)</code> · <code>i? · effect size not stated in the abstract read</code> · <code>n=not stated in the abstract read</code> · <code>quant-synthesis · r?</code></p>
 <p>A research synthesis of studies in which healthy participants completed a written emotional expression task. Writing led to significantly improved health in four outcome types (reported physical health, psychological well-being, physiological functioning and general functioning), but health behaviours were not influenced. Writing increased immediate distress, which was unrelated to later health outcomes. The effect was moderated by use of college students as participants, gender, duration of the manipulation, publication status and specific writing instructions.</p>
 <h3 id="frisina-et-al-2004">Frisina et al. 2004<a class="headerlink" href="#frisina-et-al-2004" title="Permanent link">&para;</a></h3>
 <p>Frisina, P. G., Borod, J. C., &amp; Lepore, S. J. (2004). A meta-analysis of the effects of written emotional disclosure on the health outcomes of clinical populations. <em>Journal of Nervous &amp; Mental Disease, 192</em>(9), 629–634. <a href="https://doi.org/10.1097/01.nmd.0000138317.30764.63">doi:10.1097/01.nmd.0000138317.30764.63</a></p>
-<p><code>q3 · meta-analysis</code> · <code>i0 · negligible overall effect, d=.19</code> · <code>n=9 studies</code></p>
+<p><code>q3 · meta-analysis</code> · <code>i0 · negligible overall effect, d=.19</code> · <code>n=9 studies</code> · <code>quant-synthesis · r?</code></p>
 <p>A meta-analysis of nine studies applying the written emotional disclosure paradigm to people with physical or psychiatric disorders. Expressive writing significantly improved health overall (d = .19), and a planned contrast showed it was more effective on physical (d = .21) than psychological (d = .07) outcomes. The authors attribute the small effects partly to small, heterogeneous samples and call for randomized controlled trials.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p>The canonical paradigm (Pennebaker's expressive writing paradigm) asks participants to write about their deepest thoughts and feelings regarding a stressful or traumatic experience for 15–20 minutes across several sessions, compared against control writing about neutral topics. Reported benefits span self-reported health, physician visits, immune function, and psychological adjustment, but effect sizes vary widely across meta-analyses, and moderators remain contested. Until studies are added to the Evidence section, the strength of this claim cannot be rated.</p>

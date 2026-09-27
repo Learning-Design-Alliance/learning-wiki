@@ -733,7 +733,7 @@
 <h1 id="retrieval-practice-improves-transfer">Retrieval Practice Improves Transfer<a class="headerlink" href="#retrieval-practice-improves-transfer" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 2 studies · <code>q3</code>–<code>q4</code> · <code>i2</code> medium</p>
+<strong>Evidence</strong> · 2 studies · 1 causal <code>r?</code>, 1 quant-synthesis <code>r2</code> · <code>q3</code>–<code>q4</code> · <code>i2</code> medium</p>
 </blockquote>
 <p>Practicing retrieval of learned material (rather than rereading or restudying) improves learners' ability to apply that knowledge to new problems and contexts, not just to recall it verbatim.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -741,14 +741,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -812,11 +876,11 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="pan-rickard-2018">Pan &amp; Rickard 2018<a class="headerlink" href="#pan-rickard-2018" title="Permanent link">&para;</a></h3>
 <p>Pan, S. C., &amp; Rickard, T. C. (2018). Transfer of test-enhanced learning: Meta-analytic review and synthesis. <em>Psychological Bulletin, 144</em>(7), 710–756. <a href="https://doi.org/10.1037/bul0000151">doi:10.1037/bul0000151</a></p>
-<p><code>q4 · meta-analysis</code> · <code>i2 · medium effect, d=0.40</code> · <code>n=122 experiments (192 effect sizes, N=10,382)</code></p>
+<p><code>q4 · meta-analysis</code> · <code>i2 · medium effect, d=0.40</code> · <code>n=122 experiments (192 effect sizes, N=10,382)</code> · <code>quant-synthesis · r2</code></p>
 <p>A random-effects meta-analysis of 67 published and unpublished articles spanning more than 40 years, comparing practice testing with a non-testing re-exposure control on transfer tests. Testing yielded transferable learning overall (d = 0.40, 95% CI [0.31, 0.50]), strongest across test formats, to application and inference questions, and to medical-diagnosis problems, and weakest to rearranged stimulus-response items, to untested material seen during study, and to worked-example problems. Response congruency, elaborated retrieval practice and initial test performance strongly moderated transfer. Publication-bias corrections (PET-PEESE and selection methods) left moderator effects largely intact but substantially reduced the intercept, often indicating no positive transfer when none of those moderators is present — a significant qualification of the unconditional claim.</p>
 <h3 id="butler-2010">Butler 2010<a class="headerlink" href="#butler-2010" title="Permanent link">&para;</a></h3>
 <p>Butler, A. C. (2010). Repeated testing produces superior transfer of learning relative to repeated studying. <em>Journal of Experimental Psychology: Learning, Memory, and Cognition, 36</em>(5), 1118–1133. <a href="https://doi.org/10.1037/a0019902">doi:10.1037/a0019902</a></p>
-<p><code>q3 · peer-reviewed experiment</code> · <code>i? · no effect size in the abstract read</code> · <code>n=4 experiments</code></p>
+<p><code>q3 · peer-reviewed experiment</code> · <code>i? · no effect size in the abstract read</code> · <code>n=4 experiments</code> · <code>causal · r?</code></p>
 <p>Participants studied prose passages and then either repeatedly restudied them or took repeated tests on them. A week later the final test used the same questions (Experiment 1a), new inferential questions from the same knowledge domain (Experiments 1b and 2), or new inferential questions from different knowledge domains (Experiment 3). Repeated testing produced better retention and transfer than repeated studying in every case, indicating the benefit is not limited to the specific response practised.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p><strong>Scope of the claim.</strong> The retrieval-practice literature distinguishes near transfer (applying knowledge to reworded or slightly varied problems) from far transfer (applying it to novel problem types or domains). The strongest documented benefits are for retention and near transfer; evidence for far transfer is thinner and more contested. Designers should treat "retrieval improves transfer" as most defensible when the transfer task shares structural features with the practiced material.</p>

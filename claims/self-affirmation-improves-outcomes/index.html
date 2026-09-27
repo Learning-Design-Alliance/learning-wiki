@@ -733,7 +733,7 @@
 <h1 id="self-affirmation-improves-outcomes">Self-affirmation improves outcomes<a class="headerlink" href="#self-affirmation-improves-outcomes" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 2 studies · <code>q3</code> peer-reviewed experiment · <code>i0</code> negligible</p>
+<strong>Evidence</strong> · 2 studies · 2 causal <code>r2</code>–<code>r3</code> · <code>q3</code> · <code>i0</code> negligible</p>
 </blockquote>
 <p>Self-affirmation — briefly reflecting on personally important values before an evaluative or threatening task — reduces defensiveness and stress, which in turn can improve performance and persistence.</p>
 <!-- deprecated (2026-09-29): This page currently has no verified evidence entries; the sections below are placeholders pending ingestion of the underlying studies. -->
@@ -743,14 +743,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -814,11 +878,11 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="cohen-et-al-2006">Cohen et al. 2006<a class="headerlink" href="#cohen-et-al-2006" title="Permanent link">&para;</a></h3>
 <p>Cohen, G. L., Garcia, J., Apfel, N., &amp; Master, A. (2006). Reducing the Racial Achievement Gap: A Social-Psychological Intervention. <em>Science, 313</em>(5791), 1307-1310. <a href="https://doi.org/10.1126/science.1128317">doi:10.1126/science.1128317</a></p>
-<p><code>q3 · peer-reviewed randomized field experiment (two studies)</code> · <code>i? · reported in GPA points (B=0.26–0.34), not as a standardized effect</code> · <code>n=119 (study 1) and additional cohort (replication), African American and European American 7th graders</code></p>
+<p><code>q3 · peer-reviewed randomized field experiment (two studies)</code> · <code>i? · reported in GPA points (B=0.26–0.34), not as a standardized effect</code> · <code>n=119 (study 1) and additional cohort (replication), African American and European American 7th graders</code> · <code>causal · r2</code></p>
 <p>Two randomized, double-blind field experiments with 7th-graders at one suburban middle school (roughly evenly split African American/European American) had students complete a 15-minute in-class writing exercise: treatment students wrote about a personally important value, control students about a value unimportant to them. African American students in the affirmation condition earned significantly higher fall-term grades in the targeted course than controls (B = 0.26, t(41) = 2.44, p &lt; .02 in study 1; B = 0.34, t(60) = 2.69, p &lt; .01 in the replication), reducing the racial achievement gap by about 40%; European American students showed no treatment effect in either study. The affirmed group also showed a "sideways-S" (non-declining) performance trajectory across the term versus a significant downward linear trend for African American controls, and reduced activation of the racial stereotype on a word-completion task.</p>
 <h3 id="hanselman-et-al-2017">Hanselman et al. 2017<a class="headerlink" href="#hanselman-et-al-2017" title="Permanent link">&para;</a></h3>
 <p>Hanselman, P., Rozek, C. S., Grigg, J., &amp; Borman, G. D. (2017). New evidence on self-affirmation effects and theorized sources of heterogeneity from large-scale replications. <em>Journal of Educational Psychology, 109</em>(3), 405-424. <a href="https://doi.org/10.1037/edu0000141">doi:10.1037/edu0000141</a></p>
-<p><code>q3 · large-scale double-blind randomized field experiment, close replication of Cohen et al. (2006) procedures</code> · <code>i0 · negligible effect, d=-0.07 (95% CI -0.19 to 0.05); the interval excludes the size of the earlier benefit</code> · <code>n=449 Black/Hispanic students (cohort 2), compared with n=331 from a prior year (cohort 1) in the same district</code></p>
+<p><code>q3 · large-scale double-blind randomized field experiment, close replication of Cohen et al. (2006) procedures</code> · <code>i0 · negligible effect, d=-0.07 (95% CI -0.19 to 0.05); the interval excludes the size of the earlier benefit</code> · <code>n=449 Black/Hispanic students (cohort 2), compared with n=331 from a prior year (cohort 1) in the same district</code> · <code>causal · r3</code></p>
 <p>Following an earlier successful large-scale replication in the same Midwestern school district (all 11 middle schools, Borman et al. 2016), the same research team fielded the identical self-affirmation writing protocol with a new 7th-grade cohort the following year. Verbatim: "we found no effects of the intervention on the performance of Asian and White students... [and] estimates for all outcomes were negative, but none were statistically different from zero" for Black/Hispanic students; the grade 8 GPA effect was d = -0.072 (95% CI -0.192, 0.047), significantly different from the prior year's positive effect of d = 0.152 (p = 0.013). The authors tested and rejected essentially every theorized moderator (fidelity of delivery, teacher effects, control-group design, timing, student engagement with the writing task, race/gender subgroups, prior achievement, school racial composition and achievement gaps, and individual schools driving the result) and concluded self-affirmation's benefits at scale are likely small and difficult to predict, with a companion power analysis showing that if the "true" effect is as small as the ~0.07 SD average across large-scale trials, most published significant findings in this literature are likely to substantially overstate the true effect (expected exaggeration ~2.2x).</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p><strong>Mechanism.</strong> The standard account is that affirming a valued aspect of the self provides an alternative source of self-integrity, so that a subsequent threat (a test, critical feedback, a stereotype-relevant situation) no longer demands defensive processing. Freed from defending the self, learners can attend to the task and use feedback productively.</p>

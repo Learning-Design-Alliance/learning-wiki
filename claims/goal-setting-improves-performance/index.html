@@ -733,7 +733,7 @@
 <h1 id="goal-setting-improves-performance">Goal setting improves performance<a class="headerlink" href="#goal-setting-improves-performance" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 2 studies · <code>q3</code>–<code>q4</code> · <code>i1</code>–<code>i2</code></p>
+<strong>Evidence</strong> · 2 studies · 2 quant-synthesis <code>r?</code> · <code>q3</code>–<code>q4</code> · <code>i1</code>–<code>i2</code></p>
 </blockquote>
 <p>The claim is currently a placeholder: no scope or mechanism has been specified and no evidence has been curated yet (see Subclaims and Evidence below).</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -741,14 +741,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -812,11 +876,11 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="wood-et-al-1987">Wood et al. 1987<a class="headerlink" href="#wood-et-al-1987" title="Permanent link">&para;</a></h3>
 <p>Wood, R. E., Mento, A. J., &amp; Locke, E. A. (1987). Task complexity as a moderator of goal effects: A meta-analysis. <em>Journal of Applied Psychology, 72</em>(3), 416–425. <a href="https://doi.org/10.1037/0021-9010.72.3.416">doi:10.1037/0021-9010.72.3.416</a></p>
-<p><code>q3 · meta-analysis (1987, not pre-registered)</code> · <code>i2 · medium effect, d=.42 (complex tasks) to d=.76 (simple tasks)</code> · <code>n=125 studies</code></p>
+<p><code>q3 · meta-analysis (1987, not pre-registered)</code> · <code>i2 · medium effect, d=.42 (complex tasks) to d=.76 (simple tasks)</code> · <code>n=125 studies</code> · <code>quant-synthesis · r?</code></p>
 <p>A meta-analysis of goal-setting studies published from 1966 to 1985 on how task complexity changes the effect of goals. The authors ran three sets of analyses: hard versus easy goals, specific difficult goals versus "do your best" or no goal, and all studies combined. Goals improved performance in every set, but most on simple tasks such as reaction time and brainstorming (d = .76) and least on complex tasks such as business simulations, scientific and engineering work, and faculty research productivity (d = .42). Read as abstract only. It supports the claim for specific, challenging goals, and says the effect is weaker on the complex, novel work that learning often involves.</p>
 <h3 id="epton-et-al-2017">Epton et al. 2017<a class="headerlink" href="#epton-et-al-2017" title="Permanent link">&para;</a></h3>
 <p>Epton, T., Currie, S., &amp; Armitage, C. J. (2017). Unique effects of setting goals on behavior change: Systematic review and meta-analysis. <em>Journal of Consulting and Clinical Psychology, 85</em>(12), 1182–1198. <a href="https://doi.org/10.1037/ccp0000260">doi:10.1037/ccp0000260</a></p>
-<p><code>q4 · systematic review and meta-analysis of randomized controlled trials</code> · <code>i1 · small effect, d=.34 (95% CI .28–.41)</code> · <code>n=141 papers, 384 effect sizes, 16,523 participants</code></p>
+<p><code>q4 · systematic review and meta-analysis of randomized controlled trials</code> · <code>i1 · small effect, d=.34 (95% CI .28–.41)</code> · <code>n=141 papers, 384 effect sizes, 16,523 participants</code> · <code>quant-synthesis · r?</code></p>
 <p>A systematic review and random-effects meta-analysis of randomized controlled trials that isolated goal setting from other parts of a behavior change intervention. Goal setting had a small positive effect across behaviors (d = .34). It worked best when the goal was difficult, set publicly, or a group goal. There was weaker evidence that it worked better with external monitoring by others and with face-to-face delivery. Read as abstract only. The outcomes are behaviors, mainly in health settings, rather than learning or academic performance, so they bear on the claim only by analogy.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p><strong>The claim is underspecified as stated.</strong> "Goal setting" and "performance" each hide the moderators that determine whether the effect holds. The goal-setting literature conventionally distinguishes specific, challenging goals from vague intentions ("do your best"), and distinguishes learning goals (focused on strategy acquisition) from performance goals (focused on outcome attainment) — with the latter sometimes counterproductive on complex or novel tasks where early errors are informative. Until evidence is curated here, the page cannot say which version of the claim is supported, at what strength, or for which learners.</p>

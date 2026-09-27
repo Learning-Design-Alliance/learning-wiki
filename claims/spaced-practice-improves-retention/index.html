@@ -744,7 +744,7 @@
 <h1 id="spaced-practice-improves-retention">Spaced Practice Improves Retention<a class="headerlink" href="#spaced-practice-improves-retention" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 3 studies · <code>q3</code>–<code>q4</code> · <code>i2</code>–<code>i3</code></p>
+<strong>Evidence</strong> · 3 studies · 2 quant-synthesis <code>r?</code>, 1 causal <code>r2</code> · <code>q3</code>–<code>q4</code> · <code>i2</code>–<code>i3</code></p>
 </blockquote>
 <p>Practicing or reviewing material across multiple sessions separated in time produces stronger long-term retention than concentrating the same amount of practice into a single session (massed practice).</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -752,14 +752,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -824,15 +888,15 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="cepeda-et-al-2006">Cepeda et al. 2006<a class="headerlink" href="#cepeda-et-al-2006" title="Permanent link">&para;</a></h3>
 <p>Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., &amp; Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. <em>Psychological Bulletin, 132</em>(3), 354–380. <a href="https://doi.org/10.1037/0033-2909.132.3.354">doi:10.1037/0033-2909.132.3.354</a></p>
-<p><code>q4 · meta-analysis</code> · <code>i? · no standardised effect size for massed vs spaced; accuracy difference 36.7% vs 47.3% correct</code> · <code>n=271 comparisons / 254 studies / 14,811 participants</code></p>
+<p><code>q4 · meta-analysis</code> · <code>i? · no standardised effect size for massed vs spaced; accuracy difference 36.7% vs 47.3% correct</code> · <code>n=271 comparisons / 254 studies / 14,811 participants</code> · <code>quant-synthesis · r?</code></p>
 <p>A quantitative review of 839 assessments of distributed practice in 317 experiments from 184 articles, all using verbal recall tasks. For the spacing comparison it set massed study (one uninterrupted presentation or a lag under one second) against the shortest spaced interval in each study, with study time held equal. Averaged over all retention intervals, final recall was 36.7% after massed and 47.3% after spaced study (t(540) = 6.6, p &lt; .001). A spacing benefit appeared in every retention-interval band, from under a minute to over 30 days. Effect sizes could not be pooled for this comparison because too few studies reported the data needed. Most of the data come from young adults (714 of 839 performance differences), so evidence for children's long-term retention is thin. The authors say they "cannot say for certain" that it benefits.</p>
 <h3 id="donovan-and-radosevich-1999">Donovan and Radosevich 1999<a class="headerlink" href="#donovan-and-radosevich-1999" title="Permanent link">&para;</a></h3>
 <p>Donovan, J. J., &amp; Radosevich, D. J. (1999). A meta-analytic review of the distribution of practice effect: Now you see it, now you don't. <em>Journal of Applied Psychology, 84</em>(5), 795–805. <a href="https://doi.org/10.1037/0021-9010.84.5.795">doi:10.1037/0021-9010.84.5.795</a></p>
-<p><code>q3 · meta-analysis</code> · <code>i2 · medium effect, mean weighted d=0.46</code> · <code>n=63 studies (112 effect sizes)</code></p>
+<p><code>q3 · meta-analysis</code> · <code>i2 · medium effect, mean weighted d=0.46</code> · <code>n=63 studies (112 effect sizes)</code> · <code>quant-synthesis · r?</code></p>
 <p>A meta-analysis of 63 studies comparing spaced with massed practice on a wide range of tasks, including motor skills such as typing and rotary pursuit as well as verbal tasks. Its outcome is task performance rather than delayed retention specifically. Spaced practice produced higher performance overall, with a mean weighted effect size of 0.46. The effect depended on the type of task, the interval between trials and how the two interacted. Studies with low methodological rigour produced significantly larger effects, which is why this entry is coded q3 rather than q4. Cepeda et al. (2006) summarise this review as finding that longer lags increased effects for verbal tasks up to a point, but reduced them for skill tasks such as typing, gymnastics and music. That qualifies the claim for complex and motor skills.</p>
 <h3 id="cepeda-et-al-2008">Cepeda et al. 2008<a class="headerlink" href="#cepeda-et-al-2008" title="Permanent link">&para;</a></h3>
 <p>Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., &amp; Pashler, H. (2008). Spacing effects in learning: A temporal ridgeline of optimal retention. <em>Psychological Science, 19</em>(11), 1095–1102. <a href="https://doi.org/10.1111/j.1467-9280.2008.02209.x">doi:10.1111/j.1467-9280.2008.02209.x</a></p>
-<p><code>q3 · randomised between-subjects experiment</code> · <code>i3 · large effect, d=1.1 recall (optimal gap vs zero gap)</code> · <code>n=1354</code></p>
+<p><code>q3 · randomised between-subjects experiment</code> · <code>i3 · large effect, d=1.1 recall (optimal gap vs zero gap)</code> · <code>n=1354</code> · <code>causal · r2</code></p>
 <p>1,354 adults from an online research panel (mean age 34) learned 32 obscure trivia facts and reviewed them once, after a gap of up to 3.5 months. Each person was randomly assigned to one of 26 combinations of gap and test delay, and the final test came up to a year after the review. At every test delay, recall first rose as the gap grew and then declined. With study time held fixed, the best gap raised final recall by 64% (d = 1.1) and recognition by 26% (d = 1.5), compared with reviewing in the same session. The best gap was about 20% of the test delay when the test came a few weeks later, falling to about 5% for a one-year delay. The reported d values compare the post hoc best gap with a zero gap, so they are an upper bound for any single chosen schedule, and fewer people completed the longer conditions.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p><strong>Mechanism.</strong> Spacing is commonly explained by desirable-difficulty accounts: a delay between study episodes forces partial forgetting, so retrieval at the next session requires more effortful reconstruction, which strengthens the memory trace more than immediate, easy retrieval would. Consolidation-based accounts add that time between sessions allows memory traces to stabilize. Both accounts predict the same design implication: the optimal gap scales with the retention interval — longer delays to the final test call for longer spacing gaps.</p>

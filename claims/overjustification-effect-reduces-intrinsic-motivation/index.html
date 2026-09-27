@@ -755,7 +755,7 @@
 <h1 id="rewarding-an-already-intrinsically-motivating-activity-can-reduce-future-engagement-with-it">Rewarding an already-intrinsically-motivating activity can reduce future engagement with it<a class="headerlink" href="#rewarding-an-already-intrinsically-motivating-activity-can-reduce-future-engagement-with-it" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 4 studies · <code>q3</code> peer-reviewed experiment</p>
+<strong>Evidence</strong> · 4 studies · 2 review <code>r2</code>, 1 causal <code>r?</code>, 1 quant-synthesis <code>r?</code> · <code>q3</code></p>
 </blockquote>
 <p>Known as the <strong>overjustification effect</strong>: when a person already finds a task interesting for its own sake, introducing an extrinsic reward for doing it can lower their later, unrewarded engagement with that same task — the external justification appears to crowd out the internal one. The effect is not universal; several conditions determine whether it appears.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -763,14 +763,78 @@
 <summary>Reading the evidence codes</summary>
 <p>The letters are abbreviations:</p>
 <ul>
-<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
 <li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+<li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
 <p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
 with an i2 effect. An evidence entry spells them out in words beside the
-code and adds <code>n=</code>.</p>
-<p><strong><code>q</code> — evidence quality</strong></p>
+code and adds <code>n=</code> and the study's kind with its rigour, <code>qualitative · r3</code>.</p>
+<p><strong>Kind — what sort of evidence the study is</strong></p>
+<table>
+<thead>
+<tr>
+<th>Kind</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>causal</code></td>
+<td>Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison</td>
+</tr>
+<tr>
+<td><code>quant-synthesis</code></td>
+<td>Meta-analysis, or systematic review with quantitative pooling</td>
+</tr>
+<tr>
+<td><code>review</code></td>
+<td>Narrative or scoping review, or a book-length synthesis without a systematic search</td>
+</tr>
+<tr>
+<td><code>associational</code></td>
+<td>Correlational, survey, longitudinal or observational study, with or without statistical controls</td>
+</tr>
+<tr>
+<td><code>qualitative</code></td>
+<td>Interviews, focus groups, ethnography, case study, thematic or discourse analysis</td>
+</tr>
+<tr>
+<td><code>design</code></td>
+<td>Design-based research, development or evaluation of an artefact, or a practitioner's report of a design</td>
+</tr>
+<tr>
+<td><code>theoretical</code></td>
+<td>An argument, model or framework, with or without cited support</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>r</code> — rigour, judged within the kind</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r3</code></td>
+<td>Strong for its kind — Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks</td>
+</tr>
+<tr>
+<td><code>r2</code></td>
+<td>Adequate for its kind — Most of its kind's criteria met, with clear gaps</td>
+</tr>
+<tr>
+<td><code>r1</code></td>
+<td>Weak for its kind — Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion</td>
+</tr>
+</tbody>
+</table>
+<p><code>r?</code>: r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?</p>
+<p><strong><code>q</code> — position on the causal-design ladder</strong></p>
 <table>
 <thead>
 <tr>
@@ -835,19 +899,19 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="deci-1971">Deci 1971<a class="headerlink" href="#deci-1971" title="Permanent link">&para;</a></h3>
 <p>Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation. <em>Journal of Personality and Social Psychology, 18</em>(1), 105-115. <a href="https://doi.org/10.1037/h0030644">doi:10.1037/h0030644</a></p>
-<p><code>q3 · peer-reviewed lab experiment · i? · no source text available to check; the entry prints no effect size · n=modest (university sample)</code></p>
+<p><code>q3 · peer-reviewed lab experiment · i? · no source text available to check; the entry prints no effect size · n=modest (university sample)</code> · <code>causal · r?</code></p>
 <p>University students worked on interesting puzzle-solving and newspaper-headline-writing tasks across several sessions; one group was paid for the activity and another was not, though both groups reported equal initial interest. Students who had been paid spent measurably less free time on the same activities afterward than students who had never been paid — the original demonstration of the overjustification effect, and the source study behind the "hugging and bridging" caution against over-relying on extrinsic reward systems (see <a href="../../theories/behaviorism/">Behaviorism</a>, <a href="../../principles/reinforcement-theory/">Reinforcement Theory</a>).</p>
 <h3 id="cameron-and-pierce-1994">Cameron and Pierce 1994<a class="headerlink" href="#cameron-and-pierce-1994" title="Permanent link">&para;</a></h3>
 <p>Cameron, J., &amp; Pierce, W. D. (1994). Reinforcement, reward, and intrinsic motivation: A meta-analysis. <em>Review of Educational Research, 64</em>(3), 363-423. <a href="https://doi.org/10.3102/00346543064003363">doi:10.3102/00346543064003363</a></p>
-<p><code>q3 · meta-analysis · i? · the abstract prints no effect size; the full text may · n=large (aggregated across many primary studies)</code></p>
+<p><code>q3 · meta-analysis · i? · the abstract prints no effect size; the full text may · n=large (aggregated across many primary studies)</code> · <code>quant-synthesis · r?</code></p>
 <p>This meta-analysis (along with Eisenberger &amp; Cameron, 1996, below) found that the overjustification effect is not a uniform hazard of all rewards: it is markedly less likely when reward is delivered as a flat rate for participation (e.g., a fixed hourly rate) rather than contingent on the quantity of output produced, and less likely still when the task is well-defined with a clear, consistently expected standard of quality (e.g., solving math problems, playing solitaire) — conditions under which externally determined reinforcement remains genuinely useful.</p>
 <h3 id="eisenberger-and-cameron-1996">Eisenberger and Cameron 1996<a class="headerlink" href="#eisenberger-and-cameron-1996" title="Permanent link">&para;</a></h3>
 <p>Eisenberger, R., &amp; Cameron, J. (1996). Detrimental effects of reward: Reality or myth? <em>American Psychologist, 51</em>(11), 1153-1166. <a href="https://doi.org/10.1037/0003-066X.51.11.1153">doi:10.1037/0003-066X.51.11.1153</a></p>
-<p><code>q3 · narrative synthesis of experimental literature · i? · no source text available to check; the entry prints no effect size · n=large (aggregated)</code></p>
+<p><code>q3 · narrative synthesis of experimental literature · i? · no source text available to check; the entry prints no effect size · n=large (aggregated)</code> · <code>review · r?</code></p>
 <p>Reaching a similar conclusion to Cameron and Pierce (1994) from a partly overlapping literature, this synthesis argues the overjustification effect, while real, has often been overstated as a blanket argument against all extrinsic reward, and identifies boundary conditions (reward contingent on mere participation vs. on producing more of an activity) under which rewards are unlikely to undermine intrinsic motivation.</p>
 <h3 id="deci-koestner-and-ryan-2001">Deci Koestner and Ryan 2001<a class="headerlink" href="#deci-koestner-and-ryan-2001" title="Permanent link">&para;</a></h3>
 <p>Deci, E. L., Koestner, R., &amp; Ryan, R. M. (2001). Extrinsic Rewards and Intrinsic Motivation in Education: Reconsidered Once Again. <em>Review of Educational Research, 71</em>(1), 1-27. <a href="https://doi.org/10.3102/00346543071001001">doi:10.3102/00346543071001001</a></p>
-<p><code>q3 · review of a meta-analysis (Deci, Koestner &amp; Ryan, 1999) · i? · the abstract prints no effect size; the full text may · n=large (aggregated across studies)</code></p>
+<p><code>q3 · review of a meta-analysis (Deci, Koestner &amp; Ryan, 1999) · i? · the abstract prints no effect size; the full text may · n=large (aggregated across studies)</code> · <code>review · r2</code></p>
 <p>Responding directly to Cameron and Pierce's (1994) conclusion that the undermining effect was minimal, this article reviews the results of the authors' 1999 meta-analysis, which it says showed Cameron and Pierce's analysis was seriously flawed and that tangible rewards do have a substantial undermining effect, supporting cognitive evaluation theory. It discusses what that means for rewards in classrooms: they should be used selectively and thoughtfully, not treated as a costless motivational tool.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p>The 1990s-2000s literature split into a genuine, still-cited disagreement: Cameron and Pierce (and Eisenberger &amp; Cameron) argue the undermining effect is smaller and more conditional than early studies like Deci (1971) suggested, while Deci, Koestner, and Ryan push back that even a bounded, condition-dependent effect is large and common enough in classrooms to warrant real caution. Both camps agree on the two clearest moderators: rewards delivered as a flat rate for participating (rather than piecemeal for output) and rewards attached to tasks with a well-defined, consistently-expected performance standard are least likely to backfire. This directly informs the constraint most learning-design guidance now gives on <a href="../../principles/reinforcement-theory/">Reinforcement Theory</a> and <a href="../../theories/behaviorism/">Behaviorism</a>: extrinsic reinforcement is a legitimate design lever, but layering it onto a task a learner is already intrinsically engaged with is exactly the case where it is most likely to reduce, not increase, future engagement.</p>
