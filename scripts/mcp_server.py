@@ -148,24 +148,41 @@ def _tokens(s: str) -> list[str]:
     return re.findall(r"[a-z0-9]+", s.lower())
 
 
+def _title_key(title: str) -> str:
+    """Titles that differ only in case, punctuation or hyphen-vs-underscore slugs are
+    one page written twice ("Flashcard Drill" as flashcard-drill and flashcard_drill;
+    857 such pairs, CLAUDE.md), so search shows the pair once."""
+    return " ".join(_tokens(title))
+
+
 def _search_indexed(wiki: Wiki, query: str, terms: list, phrase: str, kind, limit: int):
     """The same search through search_index.py's FTS5 index, which answers in
     milliseconds at any wiki size where the scan below reads every page. Returns
     None when the index cannot be used (no sqlite FTS5, or a checkout the index
-    cannot be written into), and the scan answers instead."""
+    cannot be written into), and the scan answers instead.
+
+    Every word must match first. When that finds fewer than `limit` pages, pages
+    matching some of the words fill the rest, ranked by how many of them the title
+    carries: a course brief ("adult beginners second language vocabulary online
+    self-paced") found nothing when every word was required (probe, 2026-09-27).
+    Results say which mode found them."""
     try:
         if str(Path(__file__).parent) not in sys.path:
             sys.path.insert(0, str(Path(__file__).parent))
         import search_index
         db = search_index.ensure(wiki.root)
         folder = wiki.folder_of.get(kind) if kind else None
-        rows = search_index.query(db, query, folder=folder, limit=limit * 4, mode="AND")
+        rows = [(r, "all") for r in search_index.query(db, query, folder=folder, limit=limit * 4, mode="AND")]
         total = db.execute("select count(*) from pages where pages match ?" + (" and folder = ?" if folder else ""),
                            [search_index.match_expr(query, mode="AND")] + ([folder] if folder else [])).fetchone()[0]
+        if total < limit and len(terms) > 1:
+            seen = {r[0][0] for r in rows}
+            rows += [(r, "some") for r in search_index.query(db, query, folder=folder, limit=limit * 6, mode="OR")
+                     if r[0] not in seen]
     except Exception:
         return None
     scored = []
-    for pid_path, folder_name, slug, title, desc, status, score in rows:
+    for (pid_path, folder_name, slug, title, desc, status, score), mode in rows:
         k = wiki.kind_of.get(folder_name)
         pid = f"{k}/{slug}"
         if pid not in wiki.pages:
@@ -175,16 +192,34 @@ def _search_indexed(wiki: Wiki, query: str, terms: list, phrase: str, kind, limi
             if any(re.search(rf"\b{re.escape(t)}", text.lower()) for t in terms):
                 fields.add(name)
         score += 10 if phrase in " ".join(_tokens(title)) else 0
+        # How many query words the title and description carry: a page ABOUT the
+        # query names its words there, a page that merely mentions them does not.
+        title_desc = " ".join(_tokens(f"{title} {desc}"))
+        covered = sum(1 for t in terms if re.search(rf"\b{re.escape(t[:5])}", title_desc))
+        if mode == "some":
+            # Below every all-words match, ordered by that coverage.
+            score = -100 + 3 * covered + min(score, 10) / 10
+        else:
+            score += 3 * covered
         if status == "draft":
-            score *= 0.8
-        scored.append((score, pid, sorted(fields or {"body"})))
+            score *= 0.8 if score > 0 else 1.2
+        scored.append((score, pid, sorted(fields or {"body"}), mode))
     scored.sort(key=lambda x: (-x[0], x[1]))
-    results = []
-    for score, pid, fields in scored[:limit]:
+    results, by_title = [], {}
+    for score, pid, fields, mode in scored:
         p = wiki.pages[pid]
-        results.append({"id": pid, "title": p.get("title") or p["id"], "url": wiki.url(pid),
-                        "kind": p["type"], "status": p.get("status"),
-                        "description": p.get("description") or "", "matched": fields})
+        key = (p["type"], _title_key(p.get("title") or p["id"]))
+        if key in by_title:
+            by_title[key].setdefault("duplicates", []).append(pid)
+            continue
+        if len(results) == limit:
+            continue
+        r = {"id": pid, "title": p.get("title") or p["id"], "url": wiki.url(pid),
+             "kind": p["type"], "status": p.get("status"),
+             "description": p.get("description") or "", "matched": fields,
+             "matched_words": mode}
+        by_title[key] = r
+        results.append(r)
     return {"query": query, "total_matches": total, "results": results, "engine": "fts5"}
 
 
