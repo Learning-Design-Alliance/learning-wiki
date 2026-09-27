@@ -45,7 +45,9 @@ An effective classroom management plan blends warmth and control in a way that a
 - [Kounin's Classroom Management Research](kounins-classroom-management-research.md) — describes the specific teaching behaviors (rule-teaching, monitoring, timely consequences) that distinguish more effective managers regardless of where they fall on the warmth/control grid
 
 ## Examples
+
 - [Effective Classroom Management Plan Criteria](../principles/effective-classroom-management-plan.md) — a concrete synthesis of practices aimed at the authoritative combination of warmth and control
+- [Eight-scale instrument for classifying teaching style (control, approach, value, warmth, humor, flexibility, direction, differentiation)](../elements/eight-teaching-style-scales-garfunkel.md)
 
 ## Key Sources
 - Soar, R. S., & Soar, R. M. (1983). Context effects in the teaching-learning process. In D. Smith (Ed.), *Essential knowledge for beginning educators*. American Association of Colleges for Teacher Education.

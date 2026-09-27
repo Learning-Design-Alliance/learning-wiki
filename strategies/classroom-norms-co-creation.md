@@ -61,9 +61,11 @@ Co-creation leverages self-determination dynamics: giving students authentic voi
 6. **Model and hold yourself accountable.** Invite students to flag norm violations by the teacher. Asymmetric enforcement is the fastest way to dissolve co-created authority.
 
 ## Related Strategies
+
 - [Active Listening](active-listening.md) — the facilitation stance that makes elicitation genuine rather than performative
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — extends student voice from norms into daily learning decisions
 - [Acceptance, Responsibility, and Sharing](acceptance-responsibility-and-sharing.md) — the dispositions co-created norms are meant to institutionalize
+- [Student-co-created acceptable/unacceptable behavior guides for conflict management](student-co-created-behavior-guides.md)
 
 ## Examples
 - **[Responsive Classroom](https://www.responsivesclassroom.org)** — "Creating Rules Together" protocol in which teachers and K–8 students generate classroom rules from student hopes and dreams; supported by a 3-year randomized controlled trial showing gains in math and reading achievement [Rimm-Kaufman et al., 2014](https://doi.org/10.3102/0002831214523821) [+S]

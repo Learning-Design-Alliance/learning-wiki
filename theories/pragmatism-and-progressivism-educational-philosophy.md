@@ -43,6 +43,7 @@ Like Realism, Pragmatism requires empirical observation of the real world; unlik
 - [Realism (Educational Philosophy)](realism-educational-philosophy.md) — Pragmatism shares Realism's commitment to empirical observation, but rejects its assumption of a fixed, unchanging reality
 - [Critical Pedagogy](critical-pedagogy.md) — a later tradition that, like Progressivism, de-centers the teacher, but adds an explicitly political and emancipatory aim that Progressivism itself does not
 - [Integrated Learning (IL): a philosophy linking subject contents to real-world issues to promote civic competence transversally](integrated-learning-civic-competence.md)
+- [Dewey's five-phase reflective cycle of thought](dewey-five-phase-reflective-cycle.md)
 
 ## Examples
 - [Project-Based Learning](../strategies/project-based_learning.md)

@@ -41,6 +41,7 @@ The Toolkit organizes the skills students must master with technology into four 
 ## Related Theories
 
 - [Three-stage skill trajectory: Basic, Intermediate, and Advanced technology use](basic-intermediate-advanced-technology-skill-trajectory.md)
+- [Four-category categorical system for organizing technology content into teachable units](four-category-technology-content-taxonomy.md)
 
 ## Examples
 

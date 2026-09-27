@@ -43,3 +43,4 @@ The survey reports, citing Borna and Fouladchang (2018a), an experimental compar
 ## Related Claims
 - [In surveyed recent literature, no evaluative study found evidence against connectivism; outcomes were positive or at worst neutral](connectivism-evaluations-no-negative-evidence.md) — a broader claim this one bears on
 - [A connectivism instructional method was significantly more effective than the grammar-translation method for EFL academic engagement](connectivism-method-beats-grammar-translation.md) — related
+- [Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety](proficiency-groups-differ-motivational-factors.md) — related

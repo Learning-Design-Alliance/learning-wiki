@@ -58,3 +58,5 @@ Ninety-three participants were randomly assigned to a pretraining group (who wat
 - [Embedding pretraining outperforms end-to-end training in DynEmb, avoiding the overfitting that end-to-end training exhibits](embedding-pretraining-beats-end-to-end-training-dynemb.md) — related
 - [Whole-task performance improves transfer of complex skills to real-world settings.](whole-task-performance-improves-transfer.md) — related
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
+- [Errorless discrimination training avoids emotional responses and yields more effective transfer than errorful training (Terrace's pigeon studies)](errorless-discrimination-learning-transfer-advantage.md) — related
+- [Transfer from instructional media is empirically possible but its probability under heavy real-world exposure remains unestablished](media-transfer-possible-but-probability-unestablished.md) — related

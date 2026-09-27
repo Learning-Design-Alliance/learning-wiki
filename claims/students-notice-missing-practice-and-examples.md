@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: martin-2003
-    resource: "https://eric.ed.gov/?q=Effects+of+Instructional+Events+in+Computer-Based+Instruction"
-    title: "Martin, F., Klein, J., & Sullivan, H. (2003). Effects of Instructional Events in Computer-Based Instruction. https://eric.ed.gov/?q=Effects+of+Instructional+Events+in+Computer-Based+Instruction"
+    resource: "https://eric.ed.gov/?id=ED484984"
+    title: "Martin, F., Klein, J., & Sullivan, H. (2003). Effects of Instructional Events in Computer-Based Instruction. https://eric.ed.gov/?id=ED484984"
     author: "Martin, F., Klein, J., & Sullivan, H."
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 
 ### Martin 2003
 
-Martin, F., Klein, J., & Sullivan, H. (2003). Effects of Instructional Events in Computer-Based Instruction. https://eric.ed.gov/?q=Effects+of+Instructional+Events+in+Computer-Based+Instruction
+Martin, F., Klein, J., & Sullivan, H. (2003). Effects of Instructional Events in Computer-Based Instruction. https://eric.ed.gov/?id=ED484984
 
 `q3 · i?`
 

@@ -82,11 +82,16 @@ Critics working in the 1960s–70s argued Piaget likely **underestimated** child
 - [Theory of embodiment: cognition and meaning grounded in bodily action and perception, consistent with Montessori's view of mind and movement](embodiment-theory-montessori-mind-movement.md)
 - [Piaget's stages as an ordinal hierarchy of schemes for coping with the environment](piaget-stages-ordinal-hierarchy.md)
 - [Shared cognitive operations account: identity and reversibility underlie conservation, pretense play, and gender constancy](shared-identity-reversibility-operations-account.md)
+- [Four interrelated factors drive progression between developmental stages: maturation, experience, social interaction, and equilibration](piaget-four-factors-stage-progression.md)
+- [Piaget's stage theory of cognitive development: four fixed, hierarchical stages from sensori-motor to formal operations](piaget-four-stage-cognitive-development-theory.md)
+- [Three types of knowledge — social, physical, and logico-mathematical — require different ways of learning](piaget-three-types-of-knowledge.md)
 
 ## Examples
 
 - [Chart-Based Retrieval and Spaced Practice](../strategies/chart-based_retrieval_and_spaced_practice.md) — uses a chart to outline Piaget's stage theory in an AP Psychology class
 - [Sequence concrete, observation-based content first and gradually increase hypothetical and theoretical content as reasoning develops](../strategies/concrete-first-topic-sequence-for-reasoning-development.md)
+- [Uzgiris-Hunt ordinal scales of infant psychological development: six series of behavioral landmarks](../elements/uzgiris-hunt-ordinal-scales.md)
+- [The teacher's major role is facilitator for discovery rather than dispenser of knowledge](../principles/teacher-as-facilitator-for-discovery.md)
 
 ## Key Sources
 - Piaget, J. (1926). *The language and thought of the child*.

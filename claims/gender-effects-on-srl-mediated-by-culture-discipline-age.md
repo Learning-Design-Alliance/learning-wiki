@@ -64,3 +64,5 @@ The review reports the opposite-direction findings from other studies: "Female s
 - [In a game-based problem-solving study, trait self-regulation scores related significantly only to knowledge map scores, with higher planning, self-monitoring, effort and self-efficacy going with better knowledge map performance](trait-self-regulation-relates-only-to-knowledge-map-scores-in-a-puzzle-game.md) — related
 - [Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions](gender-performance-goal-orientation-females-higher.md) — related
 - [Intellectual styles are partly socialized and therefore modifiable to some degree](styles-socialized-and-modifiable.md) — related
+- [Male students are significantly more work-avoidant than female students in the project-based course, with no gender differences on the other measures](males-more-work-avoidant-than-females-pbl.md) — related
+- [Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety](proficiency-groups-differ-motivational-factors.md) — related

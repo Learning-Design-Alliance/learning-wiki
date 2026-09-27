@@ -58,9 +58,11 @@ Co-constructed norms combine two mechanisms: clear behavioral expectations, whic
 5. Revisit and repair: reference the code when conflicts arise, asking "which of our agreements does this touch, and how do we restore it?" rather than issuing top-down penalties.
 
 ## Related Strategies
+
 - [Active Listening](active_listening.md) — the facilitation stance that makes the elicitation discussion genuine rather than performative
 - [Acceptance, Responsibility, and Sharing](acceptance-responsibility-and-sharing.md) — the dispositions the code is designed to cultivate
 - [Action Planning](action_planning.md) — converting agreed norms into concrete behavioral commitments
+- [Student-co-created acceptable/unacceptable behavior guides for conflict management](student-co-created-behavior-guides.md)
 
 ## Examples
 - **Responsive Classroom (Center for Responsive Schools)** — the "Hopes and Dreams" + "Classroom Rules" routine: teachers elicit student learning goals, then co-create rules that support them; teacher models and students rehearse each rule during the first six weeks of school. [https://www.responsivereads.com](https://www.responsivereads.com)

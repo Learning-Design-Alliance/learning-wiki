@@ -43,3 +43,4 @@ Goal orientations section reporting two studies (Schunk, in press) in which chil
 ## Related Claims
 - [Proximal goals, ability attributional feedback, and peer models raise self-efficacy for learning more than distant goals, effort feedback, and teacher models](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
+- [Students in a project-based software development course are predominantly mastery-oriented, with mastery and combined mastery/ego-social the dominant profiles](mastery-dominant-orientation-project-based-software-course.md) — related

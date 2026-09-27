@@ -55,9 +55,11 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](../claims/early-delay-of-gratification-predicts-later-outcomes.md) [~M] — self-control/delay of gratification is closely related to self-regulation, though the relationship to later outcomes is more context-dependent than the classic marshmallow-test framing suggests
 
 ## Related Theories
+
 - [Self-Determination Theory](self-determination-theory.md) — motivation and autonomy shape whether learners engage in self-regulatory behaviors
 - [Cognitive Load Theory](cognitive-load-theory.md) — working-memory demands can constrain learners' ability to monitor and regulate effectively, especially when they are novices
 - [Executive Function Development](executive-function-development.md) — self-regulation depends substantially on executive-function capacities (inhibitory control, working memory) that develop across childhood and adolescence
+- [Pintrich's four-phase, four-area paradigm of self-regulated learning](pintrich-srl-four-phase-paradigm.md)
 
 ## Examples
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)

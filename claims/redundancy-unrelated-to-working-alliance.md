@@ -45,3 +45,4 @@ Within the seven-case analysis, session-level redundancy indices on three VRM ro
 - [Congruence of communication varies with situational importance and relationship closeness](congruence-varies-with-situation-importance-and-relationship.md) — related
 - [Therapy relationships do not show a transition from relational incongruence to congruence across sessions](no-incongruence-to-congruence-transition-across-therapy-sessions.md) — related
 - [Overall therapist complementarity across the full therapeutic relationship does not differ significantly between successful and unsuccessful outcome groups](overall-therapist-complementarity-not-related-to-therapy-outcome.md) — related
+- [Training outcomes were unrelated to tenure: no relationships were established with years employed in DCPS or years in the field of education](sdm-training-outcomes-unrelated-to-tenure.md) — related

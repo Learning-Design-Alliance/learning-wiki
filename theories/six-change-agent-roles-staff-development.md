@@ -8,8 +8,8 @@ generated:
   at: 2026-09-27
 sources:
   - id: three-year-staff-development-plan-1972-1975-report-of-hew-region-ii-staff-development-project-1973
-    resource: "https://eric.ed.gov/?id=ED083425"
-    title: "Three-Year Staff Development Plan 1972-1975: Report of HEW Region II Staff Development Project. (1973). Montclair State College. https://eric.ed.gov/?id=ED083425"
+    resource: "https://eric.ed.gov/?id=ED083424"
+    title: "Three-Year Staff Development Plan 1972-1975: Report of HEW Region II Staff Development Project. (1973). Montclair State College. https://eric.ed.gov/?id=ED083424"
     author: "Three-Year Staff Development Plan 1972-1975: Report of HEW Region II Staff Development Project"
 ---
 
@@ -44,6 +44,7 @@ The project adopts a change-agent role framework, attributed by the report to wr
 - [Six participant roles in feedback loops: translators, facilitators, users, informants, advisors, designers](feedback-loop-participant-roles.md)
 - [Ellsworth's framework organizes educational change models around agent, innovation, adopter, process, environment, and resistance](ellsworth-educational-change-model-framework.md)
 - [Ellsworth's Framework of Educational Change](ellsworth-framework-of-educational-change.md)
+- [Six models of staff development ordered by ascending complexity, each implying a distinct staff-developer role](six-staff-development-models-taxonomy.md)
 
 ## Examples
 
@@ -51,4 +52,4 @@ The project adopts a change-agent role framework, attributed by the report to wr
 - [Train indigenous adult educators in task analysis to build state needs-assessment capability](../strategies/task-analysis-training-indigenous-educators.md)
 
 ## Key Sources
-- Three-Year Staff Development Plan 1972-1975: Report of HEW Region II Staff Development Project. (1973). Montclair State College. https://eric.ed.gov/?id=ED083425
+- Three-Year Staff Development Plan 1972-1975: Report of HEW Region II Staff Development Project. (1973). Montclair State College. https://eric.ed.gov/?id=ED083424

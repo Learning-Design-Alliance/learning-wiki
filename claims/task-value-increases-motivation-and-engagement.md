@@ -85,3 +85,4 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [Teachers who believe AI will help them reach professional goals and improve students' learning outcomes (utility value) may be more motivated to use it (theoretical argument).](teacher-utility-value-increases-motivation-to-use-ai.md) — a narrower finding that bears on this claim
 - [Autonomy-supportive teaching contrasts with controlling teaching, and controlled students do poorly compared to autonomous students](autonomy-support-versus-controlling-teaching.md) — related
 - [Explicit statement of tasks and standards for success has a strong positive effect on student motivation in writing](explicit-tasks-standards-boost-writing-motivation.md) — related
+- [Learners' beliefs about a medium and its processing demands influence the mental effort they invest in processing it](learner-beliefs-influence-mental-effort-media-processing.md) — related

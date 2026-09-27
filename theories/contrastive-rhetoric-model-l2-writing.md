@@ -8,8 +8,8 @@ generated:
   at: 2026-09-25
 sources:
   - id: chmarkh-2025
-    resource: "https://eric.ed.gov/?q=Chmarkh+contrastive+rhetoric+cognitive+sociocultural+L2+writing"
-    title: "Chmarkh, M. (2025). Evaluating the Contrastive Rhetoric Model, the Cognitive Model, and the Sociocultural Model to L2 Writing. https://eric.ed.gov/?q=Chmarkh+contrastive+rhetoric+cognitive+sociocultural+L2+writing"
+    resource: "https://eric.ed.gov/?id=ED671744"
+    title: "Chmarkh, M. (2025). Evaluating the Contrastive Rhetoric Model, the Cognitive Model, and the Sociocultural Model to L2 Writing. https://eric.ed.gov/?id=ED671744"
     author: Chmarkh, M
 ---
 
@@ -45,4 +45,4 @@ The Contrastive Rhetoric Model explains L2 writing through the influence of a wr
 -
 
 ## Key Sources
-- Chmarkh, M. (2025). Evaluating the Contrastive Rhetoric Model, the Cognitive Model, and the Sociocultural Model to L2 Writing. https://eric.ed.gov/?q=Chmarkh+contrastive+rhetoric+cognitive+sociocultural+L2+writing
+- Chmarkh, M. (2025). Evaluating the Contrastive Rhetoric Model, the Cognitive Model, and the Sociocultural Model to L2 Writing. https://eric.ed.gov/?id=ED671744

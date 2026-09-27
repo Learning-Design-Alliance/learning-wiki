@@ -66,6 +66,7 @@ Multiple representations strengthen learning by giving learners redundant, compl
 - [Acting-Role-Play](../strategies/acting-role-play.md) — an embodied, non-written way of knowing and expressing understanding
 - [Building Empathy](../principles/building-empathy.md) — a core outcome of engaging multiple cultural perspectives
 - [Act as a learning supporter during multimedia production](teacher-learning-supporter-strategy.md)
+- [Use inclusive visual maps of a discourse field to expose educators to multiple perspectives before making pedagogical and curricular choices](map-discourse-before-pedagogical-choice.md)
 
 ## Examples
 - **[CAST UDL Guidelines](https://udlguidelines.cast.org)** — the multiple-means-of-representation / -action-and-expression framework operationalizes this strategy systemwide.

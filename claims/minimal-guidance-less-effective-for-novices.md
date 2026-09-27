@@ -151,3 +151,5 @@ The claim is bounded by learner expertise. Guidance that benefits novices can be
 - [Taiwan's constructivist mathematics reform, introduced in 1993, was stopped in 2003 after students taught under it underperformed traditionally educated peers in high school](taiwan-constructivist-math-reform-stopped-2003.md) — a narrower finding that bears on this claim
 - [Verbal and pictorial tools-mediators fail to evoke contradiction discovery without mediation of meaning](tools-mediation-fails-without-mediation-of-meaning.md) — related
 - [Play Based Learning Improves Outcomes](play-based-learning-improves-outcomes.md) — related
+- [Rule-example expository sequences appeared highly efficient for introducing a new rule in early programmed-instruction work](rule-example-sequence-efficient-rule-introduction.md) — a narrower finding that bears on this claim
+- [Self-discovery through errorful exploration is basically incompatible with error minimization in instruction](self-discovery-incompatible-with-error-minimization.md) — reports the opposite

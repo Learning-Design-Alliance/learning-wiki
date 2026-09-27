@@ -9,8 +9,8 @@ generated:
   at: 2026-09-27
 sources:
   - id: enghauser-2007
-    resource: "https://eric.ed.gov/?q=Developing+Listening+Bodies+in+the+Dance+Technique+Class"
-    title: "Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?q=Developing+Listening+Bodies+in+the+Dance+Technique+Class"
+    resource: "https://eric.ed.gov/?id=EJ795590"
+    title: "Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?id=EJ795590"
     author: Enghauser, R
 ---
 
@@ -53,4 +53,4 @@ Drawing on Fortin's (1994) case study of teacher Glenna Batson, the article iden
 - [Moving toward the touch: partnered touch-guided improvisation for spatial-perceptual listening](../strategies/moving-toward-the-touch-improvisation.md)
 
 ## Key Sources
-- Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?q=Developing+Listening+Bodies+in+the+Dance+Technique+Class
+- Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?id=EJ795590

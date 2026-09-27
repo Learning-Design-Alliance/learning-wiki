@@ -40,6 +40,7 @@ The digest describes three approaches to including LRE in the curriculum (Naylor
 ## Related Strategies
 
 - [Use systematic staff development to build teacher capacity for LRE](systematic-staff-development-for-lre.md)
+- [Address preservice teachers' EE teaching efficacy through infusion across methods courses or a separate EE course](ee-training-infusion-or-separate-course.md)
 
 ## Examples
 -

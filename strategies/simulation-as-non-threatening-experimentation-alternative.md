@@ -9,8 +9,8 @@ generated:
   at: 2026-09-25
 sources:
   - id: cohen-1975
-    resource: "https://eric.ed.gov/?id=CE005601"
-    title: "Cohen, Malcolm S. (1975). A Study of On-Line Use of Job Information in Employment Service Local Offices. Volume II: A Simulation Study. https://eric.ed.gov/?id=CE005601"
+    resource: "https://eric.ed.gov/?id=ED115779"
+    title: "Cohen, Malcolm S. (1975). A Study of On-Line Use of Job Information in Employment Service Local Offices. Volume II: A Simulation Study. https://eric.ed.gov/?id=ED115779"
     author: Cohen, Malcolm S
 ---
 
@@ -48,4 +48,4 @@ The report recommends that a manager facing congestion or budget pressure run th
 -
 
 ## Key Sources
-- Cohen, Malcolm S. (1975). A Study of On-Line Use of Job Information in Employment Service Local Offices. Volume II: A Simulation Study. https://eric.ed.gov/?id=CE005601
+- Cohen, Malcolm S. (1975). A Study of On-Line Use of Job Information in Employment Service Local Offices. Volume II: A Simulation Study. https://eric.ed.gov/?id=ED115779

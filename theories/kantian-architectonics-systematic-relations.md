@@ -48,6 +48,7 @@ Architectonics is defined in the article as "the constructive role of cognition 
 - [Dialogism, intertextuality, and hypertextuality: the language-centered genealogy leading to connectivism](dialogism-intertextuality-hypertextuality-genealogy.md)
 - [The Kantian Effect: a metaphor and paradigm linking intertextuality and interdisciplinarity through four dialogic principles](kantian-effect-integrative-paradigm.md)
 - [Constructivist prescriptive principles for learning environments](constructivist-prescriptive-principles.md)
+- [Dialogism: the relation of one utterance to other utterances as the context informing all writing](dialogism-intertextuality-utterance-context.md)
 
 ## Examples
 

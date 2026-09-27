@@ -76,3 +76,4 @@ This paper synthesizes meta-analytic evidence on learning strategies into a mode
 - [Practicing retrieval of some portions of an educational text can enhance retention of related nontested portions (retrieval-induced facilitation), but not when relational encoding is disrupted](retrieval-induced-facilitation-of-nontested-text-material-requires-relational-encoding.md) — related
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — related
 - [Students typically receive little or no instruction in how to analyze, answer, and write answers to questions](little-instruction-in-answering-questions.md) — related
+- [Subjects with a more developed schema for a body of knowledge show higher recall for materials related to that knowledge](developed-schema-higher-recall.md) — related

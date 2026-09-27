@@ -61,3 +61,4 @@ Review synthesis (citing Ingkavara et al., 2022) presenting the evaluation trans
 - [AI presents four solution types for overcoming situated learning barriers: adaptive systems, intelligent tutoring in authentic scenarios, administrative automation, and data-driven teacher support](ai-four-solution-types-situated-learning.md) — related
 - [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
 - [Situated learning research has maintained the central idea of learning in context while integrating different elements across four technological eras](situated-learning-four-era-concept-evolution.md) — related
+- [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — a narrower finding that bears on this claim

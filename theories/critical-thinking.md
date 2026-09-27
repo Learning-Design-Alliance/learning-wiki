@@ -42,8 +42,10 @@ Second, who should be taught critical thinking. Surveys have found that teachers
 ## Claims
 
 ## Related Theories
+
 - [Metacognition](metacognition.md) — the self-monitoring and thinking-about-thinking mechanism that underlies what makes thinking "critical" rather than merely correct
 - [Transfer of Learning](../principles/transfer-of-learning.md) — the infusion-vs-free-standing debate in teaching critical thinking is a specific instance of the general transfer problem
+- [Critical thinking as a product of metacognition within self-regulated learning](ct-metacognition-relationship-taxonomy.md)
 
 ## Examples
 

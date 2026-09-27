@@ -8,8 +8,8 @@ generated:
   at: 2026-09-27
 sources:
   - id: casto-1976
-    resource: "https://eric.ed.gov/?id=ED135161"
-    title: "Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135161"
+    resource: "https://eric.ed.gov/?id=ED135162"
+    title: "Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135162"
     author: Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah
 ---
 
@@ -41,9 +41,11 @@ The report adopts a systems-theory viewpoint in which the infant is a "controlle
 ## Related Theories
 
 - [Five dimensions of affective development in the preschool child](five-dimensions-affective-development-preschool.md)
+- [Five-dimension framework of affective development in preschool children](five-dimensions-affective-development-framework.md)
+- [Systems-theory view of the infant as a competent adaptive system](infant-controlled-system-adaptive-fit-theory.md)
 
 ## Examples
 -
 
 ## Key Sources
-- Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135161
+- Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135162

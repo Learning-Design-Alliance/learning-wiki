@@ -9,8 +9,8 @@ generated:
   at: 2026-09-26
 sources:
   - id: martin-2003
-    resource: "https://eric.ed.gov/?q=Effects+of+Instructional+Events+in+Computer-Based+Instruction"
-    title: "Martin, F., Klein, J., & Sullivan, H. (2003). Effects of Instructional Events in Computer-Based Instruction. https://eric.ed.gov/?q=Effects+of+Instructional+Events+in+Computer-Based+Instruction"
+    resource: "https://eric.ed.gov/?id=ED484984"
+    title: "Martin, F., Klein, J., & Sullivan, H. (2003). Effects of Instructional Events in Computer-Based Instruction. https://eric.ed.gov/?id=ED484984"
     author: "Martin, F., Klein, J., & Sullivan, H"
 ---
 
@@ -47,4 +47,4 @@ The article's central design recommendation is that practice should be built int
 -
 
 ## Key Sources
-- Martin, F., Klein, J., & Sullivan, H. (2003). Effects of Instructional Events in Computer-Based Instruction. https://eric.ed.gov/?q=Effects+of+Instructional+Events+in+Computer-Based+Instruction
+- Martin, F., Klein, J., & Sullivan, H. (2003). Effects of Instructional Events in Computer-Based Instruction. https://eric.ed.gov/?id=ED484984

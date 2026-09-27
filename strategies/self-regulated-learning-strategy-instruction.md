@@ -60,10 +60,12 @@ SRL instruction works best when strategies are taught within subject-matter task
 5. **Build reflection routines.** Use structured debriefs such as [3-2-1 Reflection](3-2-1_reflection.md) or exit tickets to make self-evaluation a habitual part of every learning cycle.
 
 ## Related Strategies
+
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a canonical SRL program: modeled, guided comprehension strategies that fade to learner-led discussion
 - [Goal Setting](../elements/goal-setting.md) — the forethought phase made concrete; without specific goals, monitoring has no referent
 - [Self-Assessment](../elements/self-assessment.md) — the reflection phase; accurate self-evaluation drives strategy adjustment
 - [Formative Feedback](formative-feedback.md) — external feedback calibrates the internal monitoring SRL depends on
+- [Embed SRL-oriented AIGC pedagogy: prompt-and-reflect routines, verification rubrics, and feedback literacy](srl-oriented-aigc-pedagogy-routines.md)
 
 ## Examples
 - **Reciprocal Teaching (Palincsar & Brown)** — small-group reading instruction modeling predicting, questioning, clarifying, and summarizing, with the teacher's role fading to student leaders; large comprehension gains in struggling readers.

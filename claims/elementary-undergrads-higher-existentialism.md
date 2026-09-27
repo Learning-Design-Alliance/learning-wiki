@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: starkey-1972
-    resource: "https://eric.ed.gov/?id=BP006086"
-    title: "Starkey, John D.; Barr, Rita L. (1972). The Philosophical Nature of Teachers--Graduate and Undergraduate. https://eric.ed.gov/?id=BP006086"
+    resource: "https://eric.ed.gov/?id=ED072018"
+    title: "Starkey, John D.; Barr, Rita L. (1972). The Philosophical Nature of Teachers--Graduate and Undergraduate. https://eric.ed.gov/?id=ED072018"
     author: Starkey, John D.; Barr, Rita L.
     q: 2
     i: "?"
@@ -29,7 +29,7 @@ sources:
 
 ### Starkey 1972
 
-Starkey, John D.; Barr, Rita L. (1972). The Philosophical Nature of Teachers--Graduate and Undergraduate. https://eric.ed.gov/?id=BP006086
+Starkey, John D.; Barr, Rita L. (1972). The Philosophical Nature of Teachers--Graduate and Undergraduate. https://eric.ed.gov/?id=ED072018
 
 `q2 · i? · the article prints no effect size for this finding`
 
@@ -46,3 +46,4 @@ Comparison of undergraduate groups in the same survey (elementary mean 67.200 vs
 - [Elementary graduate students score higher in Realism and lower in Existentialism than elementary undergraduates](elementary-grads-realism-up-existentialism-down.md) — related
 - [Secondary education students show significantly higher belief in Realism than elementary education students](secondary-students-higher-realism-than-elementary.md) — related
 - [Several group comparisons show no statistically significant differences in philosophical belief](null-comparisons-philosophical-beliefs.md) — related
+- [Films with existential themes can serve as vehicles for Bildung in higher education](existential-films-vehicle-for-bildung.md) — related

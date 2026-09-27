@@ -45,7 +45,8 @@ The article argues change facilitators should constantly assess where users are 
 - [Match the form and content of staff development interventions to clients' assessed Stages of Concern](match-interventions-to-stages-of-concern.md)
 
 ## Examples
--
+
+- [Use individual and group Stages of Concern data to tailor inservice and training decisions](../strategies/use-soc-data-to-tailor-inservice-decisions.md)
 
 ## Key Sources
 - Hall, Gene E. (1978). Implications for Planned Dissemination, Implementation, and Evaluation Revealed in the SRI/NDN Evaluation and Levels of Use of the Innovation Studies. Procedures for Adopting Educational Innovations Project. https://eric.ed.gov/?id=ED190626

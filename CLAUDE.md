@@ -110,6 +110,40 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-28 (night) — batch 9, the droplet dress rehearsal
+
+Run exactly as the droplet would: a venv built as `deploy/provision.sh` builds it, `deploy/dashboard_server.py`
+on 127.0.0.1:8080, the batch launched from its `/launch-scrape` form (10 PMC, 70 ERIC, GLM, `CURRENT` = v135,
+2 corrections, no provider pin), keys from `/etc/eval-harness.env`. 75 of 80 fetched; 67 ingested (501
+pages), 6 rejected as out of scope, 3 failed validation after both retries (failed runs, still eligible).
+50 of 76 passed first time; $0.386 billed ($0.0051 an article) over nine providers OpenRouter chose, Sail
+Research 34 of them. Lint 0, verify clean, DOI problems 0, 0 impact codes without a statistic; strict audit
+380 quotes (3 not verbatim, all on the failed record), 504 of 506 decimal statistics present (the 2 on it too).
+What the rehearsal found, all fixed:
+
+- **`provision.sh` cloned a dead branch** (`claude/research-scraper-test-setup-i4bh9m`); it clones `main` now.
+  `/etc/eval-harness.env` also needs `EVAL_HARNESS_CONTACT_EMAIL`, which the dashboard passes to the batch.
+- **An inverted author list cost a correct DOI eight times.** PMC's text prints authors surname first
+  ("Husain Waqar"); GLM wrote "Waqar, Husain; ...", and the identity gate stripped `10.1002/brb3.71733` because
+  "Waqar" is nowhere in the registry record. `source_citation.swapped_authors` rebuilds the list from the
+  PubMed-format catalogue record when most first authors are swapped; the 8 pages carry Husain et al. (2026)
+  with the DOI, Crossref-verified. 1 of 752 batch records had it.
+- **GLM invents catalogue links.** Armbruster & Anderson (1982), fetched as ED218595, was linked to ED185595,
+  which the article never prints. Across every batch, 30 records' source citations linked a neighbouring id,
+  an old clearinghouse accession number (`BP006086`, `CE005601`) or an ERIC search URL. `repair` now replaces
+  a link into the fetch catalogue that names another record; 458 citation lines and 229 `resource:` mirrors
+  on 214+ pages were repointed to the record each source was fetched from, only on that source's own pages,
+  and every rewritten `resource:` matches its page's body citation.
+- **The gate left a stripped DOI in the `title:` mirror** on pages `sync_evidence_codes` does not rebuild
+  (theories, strategies). `enrich.verify_page_citations` strips it there too. Ilhan & Guler (2018)'s
+  `10.14689/ejer.2018.75.6` was stripped from all seven pages because Crossref holds only its Turkish title;
+  authors, year, journal and pages agree, so it is almost certainly right, and restoring it is the
+  maintainer's call. The pages carry the ERIC link instead.
+- **The load-bearing check missed the batch's own load-bearing claims**: `--top 200` stopped above the 13 new
+  claims three pages from one source cite. `--min-designs 3` adds every claim at the threshold, and the batch
+  passes it; only unjudged entries cost anything. One real failure: Armbruster's "most frame-slot questions
+  went unanswered" (6 of 12 were), corrected from the article's tables. Load-bearing: 0 open, 0 never judged.
+
 ### 2026-09-28 (later) — batch 8 on the default prompt; recorded costs were list prices; providers differ 3×
 
 - **Batch 8, the first on `CURRENT` = v135** (PMC 10, ERIC 70): 76 fetched, 67 ingested, 9 rejected as

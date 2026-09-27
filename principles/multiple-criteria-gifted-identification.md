@@ -46,7 +46,8 @@ The brief advocates identifying gifted students from culturally and linguistical
 - [Provide a continuum of gifted services and ensure teachers can differentiate instruction](continuum-of-gifted-services.md)
 
 ## Examples
--
+
+- [Use multiple criteria and non-traditional measures to identify diverse gifted learners](../strategies/multiple-criteria-nontraditional-identification.md)
 
 ## Key Sources
 - Gifted and talented students at risk for underachievement. (2008). Center for Comprehensive School Reform and Improvement Issue Brief. https://www.centerforcsri.org

@@ -488,6 +488,12 @@ def verify_page_citations(path: Path, apply: bool = True) -> list[dict]:
                 elif re.fullmatch(r'\s*resource: "https?://(?:dx\.)?doi\.org/' + re.escape(doi) + r'"\s*',
                                   line, flags=re.I):
                     line = ""
+                elif re.match(r'\s+title: "', line) and doi.lower() in line.lower():
+                    # The entry's `title:` mirror carries the whole citation line on
+                    # pages sync_evidence_codes does not rebuild (theories,
+                    # strategies), so it kept the DOI the body lost (batch 9,
+                    # 2026-09-27: three pages still asserting Ilhan & Guler's).
+                    line = strip_doi_from_line(line, doi)
                 out.append(line)
             text = "".join(out)
             removals[-1]["removed"] = removed_here

@@ -49,6 +49,7 @@ The Reflective Judgment Framework (RJF), developed by King and Kitchener, is "a 
 
 - [Fischer and Knight's skill theory of cognitive development in real children](skill-theory-optimal-real-performance.md)
 - [Reflective Judgment Model (RJM)](reflective-judgment-model-rjm.md)
+- [King and Kitchener's Reflective Judgment Model: a seven-stage developmental framework of epistemic assumptions and justification](rjm-seven-stage-epistemic-framework.md)
 
 ## Examples
 

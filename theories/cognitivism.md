@@ -57,6 +57,7 @@ Cognitivism is the broader theoretical paradigm; [Information Processing Theory]
 - [Cognitive learning theory: learners are active, build on prior learning, and learning is a change in mental structures](cognitive-learning-theory-active-constructive.md)
 - [Constructivism learning theory: knowledge as assumption, learning as active construction, students as subjects, teachers as helpers](constructivism-learning-theory-jia-2010.md)
 - [Schema theory: learning new information depends on relating it to existing mental blueprints](schema-theory-prior-knowledge-scaffolding.md)
+- [Schema theory as a theory of knowledge: networks of a superordinate concept with supporting information that interface with incoming information](schema-theory-knowledge-networks.md)
 
 ## Examples
 - [Advance Organizers](../elements/advance-organizers.md)

@@ -43,3 +43,5 @@ A naturalistic case study of a restructured introductory astronomy course. In it
 ## Related Claims
 - [Highly reflective students often viewed the lecture-free restructured course negatively, as unchallenging and lacking in content](highly-reflective-students-found-restructured-course-unchallenging.md) — related
 - [Traditional-aged college students average around stage 3.8 on the Reflective Judgment Interview, near the Pre-Reflective to Quasi-Reflective transition](college-students-average-reflective-judgment-3-8.md) — related
+- [Teacher educators scored near the center of the epistemic scale (means about 4.2-4.3), contrary to expectations of a highly constructivist orientation](teacher-educators-center-epistemic-scale.md) — related
+- [Every teacher educator participant produced narrative from every RJM level, with a preponderance near a typical level slightly above 4.0](typical-level-slightly-above-four.md) — related

@@ -124,3 +124,4 @@ Fourteen eighth-grade students were asked, with no extensive training, to self-e
 - [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md) — related
 - [Self-explanation improves conceptual understanding and problem-solving performance.](self-explanation-improves-conceptual-understanding.md) — related
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — related
+- [Students with more controlled interaction patterns in iSTART-2 generated higher-quality self-explanations than students with more random patterns](controlled-interaction-patterns-higher-self-explanation-quality.md) — a narrower finding that bears on this claim

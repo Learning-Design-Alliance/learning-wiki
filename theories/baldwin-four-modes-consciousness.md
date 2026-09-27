@@ -8,8 +8,8 @@ generated:
   at: 2026-09-27
 sources:
   - id: simple-convergences-piagetian-theory-and-its-relationship-to-the-epistemology-of-james-mark-baldwin-1989
-    resource: "https://eric.ed.gov/?id=ED334479"
-    title: "Simple Convergences? Piagetian Theory and Its Relationship to the Epistemology of James Mark Baldwin. (1989). https://eric.ed.gov/?id=ED334479"
+    resource: "https://eric.ed.gov/?id=ED334478"
+    title: "Simple Convergences? Piagetian Theory and Its Relationship to the Epistemology of James Mark Baldwin. (1989). https://eric.ed.gov/?id=ED334478"
     author: Simple Convergences? Piagetian Theory and Its Relationship to the Epistemology of James Mark Baldwin
 ---
 
@@ -51,4 +51,4 @@ Baldwin proposed four "modes of consciousness" embedded in the growth of logical
 -
 
 ## Key Sources
-- Simple Convergences? Piagetian Theory and Its Relationship to the Epistemology of James Mark Baldwin. (1989). https://eric.ed.gov/?id=ED334479
+- Simple Convergences? Piagetian Theory and Its Relationship to the Epistemology of James Mark Baldwin. (1989). https://eric.ed.gov/?id=ED334478

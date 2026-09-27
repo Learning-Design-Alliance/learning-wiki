@@ -44,6 +44,9 @@ Vygotsky's approach treats higher mental processes as functions of mediated acti
 - [Feuerstein's mediated learning: human mediation as prerequisite for direct learning](feuerstein-mediated-learning-prerequisite.md)
 - [Distributed cognition: cognition as a function of a system of people and tools](distributed-cognition-system-unit-of-analysis.md)
 - [Interactionist dynamic assessment grounded in Vygotsky's ZPD](interactionist-da-zpd-framework.md)
+- [Interactionist vs. interventionist approaches to Dynamic Assessment](interactionist-interventionist-da-approaches.md)
+- [Vygotsky's distinction between lower and higher mental functions](vygotsky-lower-higher-mental-functions.md)
+- [Zone of Proximal Development as an assessment and instruction tool](zpd-assessment-instruction-tool-gifted.md)
 
 ## Examples
 -

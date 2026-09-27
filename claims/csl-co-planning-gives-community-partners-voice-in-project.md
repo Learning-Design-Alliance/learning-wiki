@@ -44,3 +44,4 @@ Autoethnographic first-person narrative by the community partner (Frank Scott) w
 - [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related
 - [The authors argue that co-establishing the service-learning project with the community partner secures partner buy-in and lasting community value](csl-co-established-projects-secure-partner-buy-in.md) — related
 - [Direct one-on-one interaction with community partners is reported to help students see community members as people rather than stereotypes](csl-one-on-one-partner-contact-disrupts-stereotypes.md) — related
+- [Power should be conceptualized as diffuse and structural, and as people's capacity to act under constraint](power-as-structural-and-capacity-to-act.md) — related

@@ -44,3 +44,4 @@ Following the non-participant study, the Partnership added general-topic offerin
 - [Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven](leader-teacher-diffusion-uneven.md) — related
 - [Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction](working-conditions-shape-retention-and-recruitment.md) — related
 - [PD support type and salience depends on a teacher team's current phase in the adaptive learning cycle](pd-support-salience-depends-on-adaptive-cycle-phase.md) — related
+- [An intensive competency-based mastery workshop can be an effective diffusion strategy for statewide curriculum leaders to develop learning systems](competency-workshop-effective-diffusion-strategy.md) — related

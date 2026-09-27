@@ -45,3 +45,4 @@ Conceptual argument (type e) drawing on Akkerman & Bakker, Guile, and Guile & Gr
 - [Knowledge development as social collaboration: ZPD and collective activity systems support CSL learning networks](chat-knowledge-development-social-collaborative-csl.md) — related
 - [Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL](chat-contradictions-activity-systems-rationale-for-csl.md) — related
 - [Multivoiced boundary crossing supports holistic nature connection and ethical reflection](multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection.md) — related
+- [Systemic approach in in-service teacher education promotes holistic thinking but short, fragmented training hinders it (review reports Khisty, 1997)](systemic-approach-in-service-teacher-education.md) — related

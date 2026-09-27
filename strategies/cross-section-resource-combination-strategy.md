@@ -9,8 +9,8 @@ generated:
   at: 2026-09-26
 sources:
   - id: alspektor-1979
-    resource: "https://eric.ed.gov/?id=ED020373"
-    title: "Alspektor, Rose Ann, and Wirtenberg, Jeana. (1979). Fair Textbooks: A Resource Guide. U.S. Commission on Civil Rights, Clearinghouse Publication 61. https://eric.ed.gov/?id=ED020373"
+    resource: "https://eric.ed.gov/?id=ED183700"
+    title: "Alspektor, Rose Ann, and Wirtenberg, Jeana. (1979). Fair Textbooks: A Resource Guide. U.S. Commission on Civil Rights, Clearinghouse Publication 61. https://eric.ed.gov/?id=ED183700"
     author: Alspektor, Rose Ann, and Wirtenberg, Jeana
 ---
 
@@ -43,4 +43,4 @@ The guide's concluding comments urge users to employ both a critical and a creat
 -
 
 ## Key Sources
-- Alspektor, Rose Ann, and Wirtenberg, Jeana. (1979). Fair Textbooks: A Resource Guide. U.S. Commission on Civil Rights, Clearinghouse Publication 61. https://eric.ed.gov/?id=ED020373
+- Alspektor, Rose Ann, and Wirtenberg, Jeana. (1979). Fair Textbooks: A Resource Guide. U.S. Commission on Civil Rights, Clearinghouse Publication 61. https://eric.ed.gov/?id=ED183700

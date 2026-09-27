@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../strategies/student-co-created-behavior-guides.md
+---
+
+# Revision history: [strategies/student-co-created-behavior-guides](../strategies/student-co-created-behavior-guides.md)
+
+### 2026-09-27 · ingest · process:wiki-ingest
+Ingested from eric-ed631179 (The Foundation for Interdisciplinary Team Learning in the 360 Degree Global Ed Model) via eval_harness.py + ingest_extractions.py

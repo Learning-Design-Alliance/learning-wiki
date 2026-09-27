@@ -49,6 +49,7 @@ The Reflective Judgment Model, developed by King and Kitchener (1994), is a mode
 ## Related Theories
 
 - [Reflective Judgment Framework: a three-level developmental model of reasoning about ill-defined problems](reflective-judgment-framework-three-levels.md)
+- [King and Kitchener's Reflective Judgment Model: a seven-stage developmental framework of epistemic assumptions and justification](rjm-seven-stage-epistemic-framework.md)
 
 ## Examples
 

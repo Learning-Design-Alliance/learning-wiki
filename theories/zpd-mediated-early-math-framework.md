@@ -41,10 +41,13 @@ The article adopts Vygotsky's social-constructivist theory, in which "learning i
 - [Guided Matching And Peer Scaffolding Build Correspondence](../claims/guided-matching-and-peer-scaffolding-build-correspondence.md) [+M]
 
 ## Related Theories
-- 
+
+- [Zone of Proximal Development: tasks a child cannot yet do alone but can do with help](vygotsky-zone-of-proximal-development.md)
+- [Zone of Proximal Development as an assessment and instruction tool](zpd-assessment-instruction-tool-gifted.md)
 
 ## Examples
--
+
+- [Use scaffolding techniques to help students complete tasks within their zones of proximal development](../strategies/scaffolding-within-zpd-classroom-strategy.md)
 
 ## Key Sources
 - Kirova, Anna; Bhargava, Ambika. (2002). Learning To Guide Preschool Children's Mathematical Understanding: A Teacher's Professional Growth. Early Childhood Research & Practice. http://ecrp.uiuc.edu/v4n1/kirova.html

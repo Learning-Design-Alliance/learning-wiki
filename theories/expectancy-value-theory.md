@@ -64,6 +64,7 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - [Self-Determination Theory](self-determination-theory.md) — task value (especially attainment and utility value) overlaps with the sense of personal relevance and autonomy SDT identifies as motivating
 - [ARCS Model of Motivational Design](arcs-model.md) — Keller's Relevance and Confidence categories directly operationalize task value and expectancy for success
 - [SDT motivational spectrum from amotivation through four extrinsic regulations to intrinsic motivation](sdt-motivational-spectrum-regulations.md)
+- [Teacher belief efficacy as self-efficacy plus outcome expectancy (Bandura-based two-component construct)](belief-efficacy-self-efficacy-outcome-expectancy-ee.md)
 
 ## Examples
 

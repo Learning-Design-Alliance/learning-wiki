@@ -102,9 +102,11 @@ Program — effective PD unfolds over months to years, embedded in teachers' ong
 **Remote or resource-constrained settings:** Virtual coaching with video capture (e.g., [Edthena](https://edthena.com)) preserves the enactment–feedback cycle at lower cost, though dosage and coach quality remain critical [~M].
 
 ## Related Patterns
+
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — the core learning model PD applies to adult learners: modeling → coaching → fading of expert practice
 - [Collaborative Inquiry](collaborative-inquiry.md) — a common PD structure in which teacher teams investigate questions from their own classrooms using student data
 - [Flipped Classroom](flipped-classroom.md) — a frequent target of PD and itself a model for PD design: content study outside meetings frees session time for active practice
+- [Level 3 sustaining efforts: extend coach learning and foster independent teacher learning communities](coaching-level-3-sustaining-efforts-coach-learning-and-independence.md)
 
 ## Examples
 

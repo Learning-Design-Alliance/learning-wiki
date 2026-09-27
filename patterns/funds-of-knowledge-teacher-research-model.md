@@ -53,7 +53,8 @@ A research model, described in the digest, in which teachers and university rese
 - [Leveraging_Family_Knowledge](../strategies/leveraging_family_knowledge.md)
 
 ## Examples
--
+
+- [Build mathematics instruction on children's funds of knowledge uncovered through home visits and teacher study groups](../strategies/funds-of-knowledge-mathematics-instruction.md)
 
 ## Key Sources
 - Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146

@@ -50,3 +50,4 @@ Theoretical argument in the digest, not a tested result. It states that in expec
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — related
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — a narrower finding that bears on this claim
 - [Appropriately used technology can support practices that improve achievement, but inappropriate use can harm student performance](technology-use-right-tool-right-objective.md) — related
+- [Preservice elementary teachers hold positive outcome expectancy beliefs that effective teaching improves student EE learning](preservice-teachers-positive-ee-outcome-expectancy.md) — a narrower finding that bears on this claim

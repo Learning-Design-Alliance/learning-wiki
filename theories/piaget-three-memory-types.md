@@ -43,6 +43,7 @@ Zaichkowsky's paper presents Piaget's developmental distinction among memory typ
 ## Related Theories
 
 - [Piaget's stages as an ordinal hierarchy of schemes for coping with the environment](piaget-stages-ordinal-hierarchy.md)
+- [Piaget's stage theory of cognitive development: four fixed, hierarchical stages from sensori-motor to formal operations](piaget-four-stage-cognitive-development-theory.md)
 
 ## Examples
 -

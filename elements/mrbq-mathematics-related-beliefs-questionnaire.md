@@ -40,7 +40,8 @@ The MRBQ is an integrated questionnaire developed to measure students' beliefs a
 - [Mathematics Related Belief Systems Triangle Framework](../theories/mathematics-related-belief-systems-triangle-framework.md)
 
 ## Related Elements
-- 
+
+- [SDT-based Chinese-language ESP motivation questionnaire (adapted LLOS-IEA)](sdt-esp-motivation-questionnaire.md)
 
 ## Examples
 -

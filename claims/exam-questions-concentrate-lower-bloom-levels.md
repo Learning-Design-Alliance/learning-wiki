@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: anees-2017
-    resource: "https://eric.ed.gov/?q=Bloom%27s+Taxonomy+assessment+levels"
-    title: "Anees, S. (2017). Analysis of Assessment Levels of Students’ Learning according to Cognitive Domain of Bloom’s Taxonomy. https://eric.ed.gov/?q=Bloom%27s+Taxonomy+assessment+levels"
+    resource: "https://eric.ed.gov/?id=ED586762"
+    title: "Anees, S. (2017). Analysis of Assessment Levels of Students’ Learning according to Cognitive Domain of Bloom’s Taxonomy. https://eric.ed.gov/?id=ED586762"
     author: Anees, S.
     q: 2
     i: "?"
@@ -29,7 +29,7 @@ sources:
 
 ### Anees 2017
 
-Anees, S. (2017). Analysis of Assessment Levels of Students’ Learning according to Cognitive Domain of Bloom’s Taxonomy. https://eric.ed.gov/?q=Bloom%27s+Taxonomy+assessment+levels
+Anees, S. (2017). Analysis of Assessment Levels of Students’ Learning according to Cognitive Domain of Bloom’s Taxonomy. https://eric.ed.gov/?id=ED586762
 
 `q2 · i?`
 

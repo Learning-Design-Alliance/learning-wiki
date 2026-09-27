@@ -63,3 +63,4 @@ Empirical evidence section reporting Schunk (1984) on attributional feedback. Th
 - [Goal setting improves performance](goal-setting-improves-performance.md) — related
 - [Feedback Praise Reduces Learning](feedback-praise-reduces-learning.md) — related
 - [Specific, difficult goals lead to higher performance than easy or vague \"do your best\" goals.](specific-difficult-goals-lead-to-higher-performance.md) — related
+- [Teacher self-efficacy is associated with student achievement and with implementing new practices](teacher-self-efficacy-achievement-and-implementation.md) — related

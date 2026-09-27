@@ -82,3 +82,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — a narrower finding that bears on this claim
 - [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — related
 - [The authors conclude that the Strategic Teaching and Reading Project gives teachers metacognitive tools for before, during and after lessons](strp-teachers-metacognitive-tools-before-during-after.md) — related
+- [Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition](students-deficient-monitoring-maintaining-plan.md) — a narrower finding that bears on this claim

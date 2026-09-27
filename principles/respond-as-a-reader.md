@@ -45,6 +45,7 @@ Teachers can encourage and support student writers by responding to their texts 
 - [Avoid appropriating student writing; distinguish appropriation from helpful intervention](avoid-appropriating-student-writing.md)
 - [Provide positive comments alongside constructive criticism when responding to student writing](provide-positive-comments-on-student-writing.md)
 - [Involve students in the revision process as a collaborative endeavor rather than a giver-receiver relationship](involve-students-in-revision-process.md)
+- [Engage teachers in literacy events learner-to-learner to build trusting coaching relationships](engage-teachers-literacy-events-learner-to-learner.md)
 
 ## Examples
 

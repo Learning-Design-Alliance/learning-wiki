@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: emmanuel-imiere-2019
-    resource: "https://eric.ed.gov/?q=An+Application+of+Cognitive+Apprenticeship+to+Philosophy+Instruction"
-    title: "Emmanuel Imiere. (2019). An Application of Cognitive Apprenticeship to Philosophy Instruction. https://eric.ed.gov/?q=An+Application+of+Cognitive+Apprenticeship+to+Philosophy+Instruction"
+    resource: "https://eric.ed.gov/?id=ED613714"
+    title: "Emmanuel Imiere. (2019). An Application of Cognitive Apprenticeship to Philosophy Instruction. https://eric.ed.gov/?id=ED613714"
     author: Emmanuel Imiere
     q: 2
     i: "?"
@@ -29,7 +29,7 @@ sources:
 
 ### Emmanuel Imiere 2019
 
-Emmanuel Imiere. (2019). An Application of Cognitive Apprenticeship to Philosophy Instruction. https://eric.ed.gov/?q=An+Application+of+Cognitive+Apprenticeship+to+Philosophy+Instruction
+Emmanuel Imiere. (2019). An Application of Cognitive Apprenticeship to Philosophy Instruction. https://eric.ed.gov/?id=ED613714
 
 `q2 · i?`
 

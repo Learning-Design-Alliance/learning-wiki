@@ -69,6 +69,13 @@ A related developmental mechanism is **private speech**: children's habit of tal
 - [Vygotsky's social constructivism: psychological phenomena emerge from social interaction](social-constructivism-vygotsky-social-interaction.md)
 - [Cognitive apprenticeship framework with four learning-environment dimensions](cognitive-apprenticeship-four-dimensions-framework.md)
 - [Guided participation and traditional apprenticeship as core CA concepts](guided-participation-and-traditional-apprenticeship-concepts.md)
+- [Four interrelated factors drive progression between developmental stages: maturation, experience, social interaction, and equilibration](piaget-four-factors-stage-progression.md)
+- [Sociocultural theory as a framework for gifted education](sociocultural-theory-gifted-education-framework.md)
+- [Internalization and appropriation: complex mental processes begin as social activities and are gradually internalized and adapted](vygotsky-internalization-appropriation.md)
+- [Vygotsky's distinction between lower and higher mental functions](vygotsky-lower-higher-mental-functions.md)
+- [Vygotsky's sociocultural theory: development is historically situated, culturally determined, and proceeds through internalization of social interaction](vygotsky-sociocultural-theory-overview.md)
+- [Zone of Proximal Development: tasks a child cannot yet do alone but can do with help](vygotsky-zone-of-proximal-development.md)
+- [Zone of Proximal Development as an assessment and instruction tool](zpd-assessment-instruction-tool-gifted.md)
 
 ## Examples
 
@@ -77,6 +84,8 @@ A related developmental mechanism is **private speech**: children's habit of tal
 - [Collaborative Learning](../principles/collaborative-learning.md)
 - [Problem-based Learning](../principles/problem-based-learning.md)
 - [Make collaboration paramount in pedagogy because humanity is intrinsically collective](../principles/collaboration-paramount-pedagogy-collectivity.md)
+- [Apply scaffolding and social group-investigation models in gifted classrooms](../strategies/scaffolding-group-investigation-gifted-classrooms.md)
+- [Use scaffolding techniques to help students complete tasks within their zones of proximal development](../strategies/scaffolding-within-zpd-classroom-strategy.md)
 
 ## Key Sources
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.

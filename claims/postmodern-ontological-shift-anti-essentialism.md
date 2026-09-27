@@ -45,3 +45,5 @@ Interpretive claim from the paper's conceptual framing section, where reality co
 - [Participant examples support identity reconstruction through academic content](participant-examples-support-identity-reconstruction-through-academic-content.md) — related
 - [The Western linear, material construction of time is only one among many constructions of reality, and deconstructing it is another step toward reconstructing the relationship with the earth](western-linear-time-one-construction-among-many.md) — related
 - [The narratives of premodern mythologies and postmodern physics accept that the creation of meaning in the world is a human and communal responsibility, which modern science fails to do](meaning-creation-human-communal-responsibility.md) — related
+- [Reflexive practitioners are well positioned to map multiple interpretations and include views from the margins](reflexive-practitioners-map-multiple-interpretations.md) — a narrower finding that bears on this claim
+- [Val Rust's 1991 presidential address opened CIES discourse to postmodern ideas via four crucial aspects](rust-1991-opened-cies-postmodern-debate.md) — related

@@ -62,3 +62,4 @@ On posttest 2 the gender-level training effect was no longer significant; the ar
 - [Conservation training produced higher conservation scores than pretense play training](conservation-training-beats-pretense-play-on-conservation.md) — related
 - [Conservation training did not significantly improve gender constancy relative to control](conservation-training-gender-constancy-null.md) — related
 - [High-quality pretend play is an important facilitator of perspective taking and later abstract thought](pretend-play-facilitates-perspective-taking-abstract-thought.md) — a broader claim this one bears on
+- [Conservation of gender identity follows the referent sequence self, then same-sex peer, then opposite-sex peer](gender-constancy-referent-sequence-self-same-opposite.md) — related

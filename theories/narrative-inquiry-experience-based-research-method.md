@@ -45,6 +45,7 @@ Narrative inquiry is a qualitatively oriented research method in education, firs
 
 - [Narrative inquiry as a method for critical educational research](narrative-inquiry-storied-lives-method.md)
 - [Three commonplaces—temporality, sociality, and place—specify the dimensions of a narrative inquiry space](three-commonplaces-narrative-inquiry-space.md)
+- [Ethnomethodology as 'serious ethnography' for studying interaction in natural settings](ethnomethodology-serious-ethnography-framework.md)
 
 ## Examples
 

@@ -43,7 +43,8 @@ The article adapts Hanft, Rush, and Shelden's (2004) coaching stages framework a
 - [Teacher buy-in and willingness to engage are viewed as strong mediators of coaching benefits](../claims/teacher-buy-in-mediates-coaching-benefit.md) [~W]
 
 ## Related Theories
-- 
+
+- [Responsive literacy coaching as a co-learner model grounded in trust and inquiry](responsive-literacy-coaching-co-learner-model.md)
 
 ## Examples
 

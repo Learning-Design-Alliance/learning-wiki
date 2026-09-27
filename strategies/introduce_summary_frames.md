@@ -60,9 +60,11 @@ Summarizing is a generative task: producing a condensed restatement requires sel
 5. Provide feedback on accuracy and completeness of main ideas, then fade the frame over successive sections.
 
 ## Related Strategies
+
 - **Reciprocal Teaching** — pairs summary frames with prediction, questioning, and clarifying roles in a structured dialogue
 - **Think-Pair-Share** — the oral-summary-to-partner step is a summarizing variant of this routine
 - **Annotating** — margin notes made during reading supply raw material for the frame slots ([Annotating](../principles/annotating.md))
+- [Teach students to use frame slot questions as a reading, studying, and self-monitoring tool](teach-students-frame-slot-questions.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — each read-then-summarize cycle is a spaced practice opportunity

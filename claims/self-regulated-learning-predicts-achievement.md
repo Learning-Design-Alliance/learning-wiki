@@ -83,3 +83,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Self-regulated learning strategies account for up to 51% of the variance in academic performance, with metacognitive regulation strategies the strongest predictors](srl-strategies-account-up-to-51-percent-variance-academic-performance.md) — related
 - [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) — related
 - [Teacher Student Relationships Improve Engagement And Achievement](teacher-student-relationships-improve-engagement-and-achievement.md) — related
+- [Metacognitive strategies, effort regulation, and coping with problems significantly predict Japanese EFL learners' proficiency](three-srl-strategy-factors-predict-efl-proficiency.md) — a narrower finding that bears on this claim

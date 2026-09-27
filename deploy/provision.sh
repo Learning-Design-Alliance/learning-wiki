@@ -13,7 +13,7 @@ set -euo pipefail
 APP_USER="evalrunner"
 APP_DIR="/opt/learning-wiki"
 REPO_URL="git@github.com:Learning-Design-Alliance/learning-wiki.git"
-BRANCH="${BRANCH:-claude/research-scraper-test-setup-i4bh9m}"
+BRANCH="${BRANCH:-main}"
 
 if [ "$(id -u)" -ne 0 ]; then
   echo "Run as root (or with sudo)." >&2

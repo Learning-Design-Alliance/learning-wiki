@@ -66,3 +66,4 @@ Despite the parallel movement, the article reports "there was no mechanical corr
 - [Object formation in the meeting was iterative and non-linear: the proposed germ cell of 'making a choice' was encapsulated, not elaborated and expanded](object-formation-iterative-germ-cell-encapsulated.md) — related
 - [A full assessment of a potentially expansive mini-cycle of learning calls for extending the time scale of the analysis beyond a single session](assessing-minicycle-requires-extended-time-scale.md) — related
 - [Writing is presented as uniquely corresponding to the features of successful learning](writing-uniquely-corresponds-features-successful-learning.md) — related
+- [Iterative advisory group feedback drove four framework iterations, including adding disruption and multi-level oppression](advisory-feedback-drove-framework-iterations.md) — related

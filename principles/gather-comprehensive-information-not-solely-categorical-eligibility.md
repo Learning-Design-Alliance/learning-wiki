@@ -9,8 +9,8 @@ generated:
   at: 2026-09-27
 sources:
   - id: dowdy-2007
-    resource: "https://eric.ed.gov/?q=A+Comparison+of+Classification+Methods+for+Use+in+Predicting+School-Based+Outcomes"
-    title: "Dowdy, E., & Kamphaus, R. W. (2007). A Comparison of Classification Methods for Use in Predicting School-Based Outcomes. The California School Psychologist, 12, 121-132. https://eric.ed.gov/?q=A+Comparison+of+Classification+Methods+for+Use+in+Predicting+School-Based+Outcomes"
+    resource: "https://eric.ed.gov/?id=EJ896649"
+    title: "Dowdy, E., & Kamphaus, R. W. (2007). A Comparison of Classification Methods for Use in Predicting School-Based Outcomes. The California School Psychologist, 12, 121-132. https://eric.ed.gov/?id=EJ896649"
     author: "Dowdy, E., & Kamphaus, R. W"
 ---
 
@@ -51,4 +51,4 @@ The article recommends that school psychologists gather comprehensive informatio
 -
 
 ## Key Sources
-- Dowdy, E., & Kamphaus, R. W. (2007). A Comparison of Classification Methods for Use in Predicting School-Based Outcomes. The California School Psychologist, 12, 121-132. https://eric.ed.gov/?q=A+Comparison+of+Classification+Methods+for+Use+in+Predicting+School-Based+Outcomes
+- Dowdy, E., & Kamphaus, R. W. (2007). A Comparison of Classification Methods for Use in Predicting School-Based Outcomes. The California School Psychologist, 12, 121-132. https://eric.ed.gov/?id=EJ896649

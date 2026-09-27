@@ -47,3 +47,4 @@ Qualitative thematic analysis of one teacher's written reflection and interviews
 - [A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life](teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md) — related
 - [Challenges of blended delivery catalyse opportunities for teacher agency growth](blended-challenges-catalyse-agency-growth.md) — a narrower finding that bears on this claim
 - [Language subsystems may show supportive, competitive, or precursor relationships depending on available cognitive resources](subsystems-show-supportive-competitive-precursor-relationships.md)
+- [Dynamic self-regulation of brain subsystems enables simultaneous multisource learning beyond conscious attention](dynamic-self-regulation-multisource-learning.md) — related

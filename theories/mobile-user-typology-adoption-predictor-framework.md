@@ -44,7 +44,8 @@ The article proposes that the four-class mobile user typology derived from laten
 - [Typology Renders Effort Expectancy Nonsignificant](../claims/typology-renders-effort-expectancy-nonsignificant.md) [+M]
 
 ## Related Theories
-- 
+
+- [UTAUT framework for technology acceptance](utaut-four-constructs-lms-acceptance-framework.md)
 
 ## Examples
 -

@@ -46,3 +46,4 @@ Findings from the author's pilot study of six supervised student teachers in one
 - [Continuous guided reflection and dialogue about ill-defined dilemmas contributed to increased reflective judgment sophistication in several preservice teachers](guided-reflection-increases-reflective-judgment-sophistication.md) — related
 - [Teacher educators can coach student teachers in reflective practice using personal histories, dialogue journals, and group discussions](teacher-educator-coaching-reflective-practice-methods.md) — related
 - [Learning to deal with uncertainty and ill-defined dilemmas is often not a priority in preservice teacher education programs](uncertainty-preparation-neglected-in-teacher-education.md) — related
+- [Mentoring strongly influences new teachers' decisions to stay in or leave teaching (review attribution)](mentoring-influences-new-teacher-retention.md) — related

@@ -69,6 +69,7 @@ Autonomy is one of three basic psychological needs in [Self-Determination Theory
 ## Examples
 
 - [Give learners control over how learning is measured via assessment choices and science-fair-type projects](../strategies/learner-controlled-assessment-science-fair-projects.md)
+- [Build autonomy-supportive learning contexts through perspective-taking, choice, self-initiation, and non-controlling language](../strategies/autonomy-supportive-context-components.md)
 
 ### Illustrative
 

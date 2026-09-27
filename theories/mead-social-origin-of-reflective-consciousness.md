@@ -45,6 +45,8 @@ The article reconstructs Mead's central claim that reflective consciousness — 
 
 - [Mead's social conception of education recognizing both the child and society](mead-social-conception-of-education.md)
 - [Mead's three phases of the act: emotional, aesthetic, and intellectual](mead-three-phases-of-the-act.md)
+- [Dewey's five-phase reflective cycle of thought](dewey-five-phase-reflective-cycle.md)
+- [Schon's knowing-in-action and the distinction between reflection-in-action and reflection-on-action](schon-knowing-in-action-reflection.md)
 
 ## Examples
 

@@ -62,10 +62,12 @@ SRL instruction works best when strategy teaching is embedded in authentic subje
 6. **Fade external scaffolds:** progressively remove templates and prompts as learners demonstrate independent regulation, transferring control to the student.
 
 ## Related Strategies
+
 - [Reciprocal Teaching](../strategies/reciprocal_teaching.md) — a canonical SRL intervention: students take turns leading comprehension-fostering strategies
 - [Accountability-Partners](../strategies/accountability-partners.md) — social externalization of the monitoring phase
 - [Action_Planning](../strategies/action_planning.md) — operationalizes the forethought phase
 - [Achievable_Micro-Goals](../strategies/achievable_micro-goals.md) — goal-setting component at fine grain size
+- [Embed SRL-oriented AIGC pedagogy: prompt-and-reflect routines, verification rubrics, and feedback literacy](srl-oriented-aigc-pedagogy-routines.md)
 
 ## Examples
 - **Reciprocal Teaching (Palincsar & Brown)** — small groups rotate the roles of summarizer, questioner, clarifier, and predictor while reading; the teacher models then fades, transferring regulation to students over ~20 sessions.

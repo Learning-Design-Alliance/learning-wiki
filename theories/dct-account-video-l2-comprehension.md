@@ -43,7 +43,8 @@ The article uses Paivio's dual coding theory (DCT) to explain why video plus nar
 - [Presentation condition does not differentially affect microstructure comprehension over five weeks, though VNT and NT groups improved while the text-only group did not](../claims/mics-pre-post-no-group-differential-effect.md) [+M]
 
 ## Related Theories
-- 
+
+- [Dual coding theory: parallel verbal and nonverbal representation systems as an alternative to schema theory](dual-coding-verbal-nonverbal-alternative.md)
 
 ## Examples
 

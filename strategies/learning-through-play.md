@@ -66,6 +66,7 @@ Play leverages intrinsic motivation and active engagement, which support attenti
 - [Inquiry-Based Learning](../strategies/inquiry-based-learning.md) — shares the exploration-first structure but is typically less playful in tone
 - [Simulation](../elements/simulation.md) — structured play applied to authentic professional scenarios
 - [Use direct-experience formats — simulation games, extracurricular activities, action learning, peer teaching — to pursue relational-domain objectives](experiential-formats-relational-objectives.md)
+- [Pursue three leads for teaching discovery behavior: operant analysis, cognitive simulation, and exploratory-drive research](three-leads-teaching-for-discovery.md)
 
 ## Examples
 - **Tools of the Mind** (https://toolsofthemind.org) — a pre-K/kindergarten curriculum built on Vygotskian play, using mature dramatic play to develop self-regulation.

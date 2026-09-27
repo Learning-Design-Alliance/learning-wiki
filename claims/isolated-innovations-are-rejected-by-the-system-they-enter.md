@@ -73,3 +73,4 @@ In its Succeeding Systemically section, the digest asserts, drawing on the class
 - [Interactive whiteboard results showed shifts between orientation/preparation after returning to schools, raising questions about perceived versus actual use](loa-whiteboard-perceived-versus-actual-use.md) — related
 - [Social media tools plugged into learning management systems are presented as \"social learning\" solutions without being designed around social learning theory](social-media-tools-misappropriated-as-social-learning.md) — a narrower finding that bears on this claim
 - [Internal drive from teachers, rather than top-down curriculum prescriptions, leads to the most successful change in educational practices](teacher-internal-drive-successful-change.md) — related
+- [An intensive competency-based mastery workshop can be an effective diffusion strategy for statewide curriculum leaders to develop learning systems](competency-workshop-effective-diffusion-strategy.md) — related

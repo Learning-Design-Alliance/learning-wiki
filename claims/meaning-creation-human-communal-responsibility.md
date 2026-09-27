@@ -47,3 +47,4 @@ Theoretical argument opening the 'What are we to do?' section. The authors illus
 - [Modernist discourses have produced contradictory environmental effects, raising awareness of problems while helping cultivate stories that construe the earth as an object of instrumental value](modernist-discourses-contradictory-environmental-effects.md) — related
 - [Postmodern texts advance five characteristic theses against Enlightenment certainties](five-postmodern-theses-anti-enlightenment.md) — related
 - [The central characteristic of postmodern sensibility is an ontological shift from essentialist to anti-essentialist views of reality](postmodern-ontological-shift-anti-essentialism.md) — related
+- [Language is the prime humanistic instrument, at once both the tool and the product of reason](language-prime-humanistic-instrument.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: casto-1976
-    resource: "https://eric.ed.gov/?id=ED135161"
-    title: "Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135161"
+    resource: "https://eric.ed.gov/?id=ED135162"
+    title: "Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135162"
     author: Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah
     q: 2
     i: "?"
@@ -29,7 +29,7 @@ sources:
 
 ### Casto 1976
 
-Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135161
+Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135162
 
 `q2 · i?`
 
@@ -44,3 +44,4 @@ The review lays out the sequence: attachment develops, separation produces emoti
 - [In attachment theory, the child's exploration is the direct outcome of security from an effective attachment relationship](secure-base-enables-exploration.md) — a broader claim this one bears on
 - [The review reports that one-year-olds' exploration covaries with attachment, occurring most when the mother is present](attachment-exploration-covariation-one-year-olds.md) — a narrower finding that bears on this claim
 - [The review reports that specific emotions differentiate from a generalized excitement state in a stable developmental sequence](emotions-differentiate-from-generalized-excitement.md) — related
+- [Affective competence at age five is characterized by twelve observable skills](affectively-competent-five-year-old-attributes.md) — related

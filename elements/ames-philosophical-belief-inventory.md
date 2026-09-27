@@ -9,8 +9,8 @@ generated:
   at: 2026-09-26
 sources:
   - id: starkey-1972
-    resource: "https://eric.ed.gov/?id=BP006086"
-    title: "Starkey, John D.; Barr, Rita L. (1972). The Philosophical Nature of Teachers--Graduate and Undergraduate. https://eric.ed.gov/?id=BP006086"
+    resource: "https://eric.ed.gov/?id=ED072018"
+    title: "Starkey, John D.; Barr, Rita L. (1972). The Philosophical Nature of Teachers--Graduate and Undergraduate. https://eric.ed.gov/?id=ED072018"
     author: Starkey, John D.; Barr, Rita L
 ---
 
@@ -43,4 +43,4 @@ The Ames Philosophical Belief Inventory is a forced-choice questionnaire measuri
 -
 
 ## Key Sources
-- Starkey, John D.; Barr, Rita L. (1972). The Philosophical Nature of Teachers--Graduate and Undergraduate. https://eric.ed.gov/?id=BP006086
+- Starkey, John D.; Barr, Rita L. (1972). The Philosophical Nature of Teachers--Graduate and Undergraduate. https://eric.ed.gov/?id=ED072018

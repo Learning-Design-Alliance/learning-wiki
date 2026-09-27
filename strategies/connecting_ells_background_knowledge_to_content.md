@@ -59,9 +59,11 @@ Activating relevant prior knowledge is one of the most consistently supported co
 5. Structure opportunities for students to teach the class about their expertise, with [Coaching](../elements/coaching.md) on academic language for the presentation
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the general-case activation routine this strategy specializes for ELLs
 - [Accessing Students' Background Knowledge](accessing_students_background_knowledge.md) — the elicitation half of the cycle
 - [Activate Background Knowledge](activating_background_knowledge.md) — quick pre-instruction routines
+- [Build mathematics instruction on children's funds of knowledge uncovered through home visits and teacher study groups](funds-of-knowledge-mathematics-instruction.md)
 
 ## Examples
 - **Funds of knowledge units (Moll et al.)** — Teachers visit students' households, document the knowledge and skills there (construction, farming, mechanics), and build math and literacy lessons around them (https://hepgjournals.org/doi/10.17763/haer.62.4.3466k53037463q33).

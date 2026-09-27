@@ -42,9 +42,11 @@ The model also emphasizes **experience**: "the scientifically relevant features 
 ## Claims
 
 ## Related Theories
+
 - [Sociocultural Theory](sociocultural-theory.md) — both frame development as inseparable from social context; Vygotsky's Zone of Proximal Development operates within what Bronfenbrenner would call the microsystem
 - [Situated Learning](situated-learning.md) — shares the claim that knowledge and development cannot be understood apart from the social, material, and cultural context in which they occur
 - [Social Learning Theory](social-learning-theory.md) — Bandura's observational learning (e.g., parental role modeling) operates within the microsystem this model describes
+- [Contextual Systems Model (CSM): child/family and school/schooling as interrelated systems](contextual-systems-model-csm.md)
 
 ## Examples
 <!-- Candidate future claim page: authoritative vs. authoritarian parenting effects are moderated by neighborhood risk context (Florsheim, Tolan, & Gorman-Smith, 1996), tagged [~M]. -->

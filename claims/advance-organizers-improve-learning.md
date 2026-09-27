@@ -115,3 +115,4 @@ Open questions: most of the evidence base predates modern multimedia learning re
 - [Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels](higher-hierarchy-levels-recalled-better.md) — related
 - [Discussion Quality Drives Comprehension](discussion-quality-drives-comprehension.md) — related
 - [Learner Constructed Graphic Organizers Outperform Provided](learner-constructed-graphic-organizers-outperform-provided.md) — related
+- [Subjects with a more developed schema for a body of knowledge show higher recall for materials related to that knowledge](developed-schema-higher-recall.md) — related

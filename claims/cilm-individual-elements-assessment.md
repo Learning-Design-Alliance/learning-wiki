@@ -47,3 +47,4 @@ Expert assessment of the model's individual elements on a five-level rating scal
 - [Undergraduates report very high overall satisfaction with instruction management in the cloud-based constructivism and connectivism learning model](high-satisfaction-cloud-constructivism-connectivism-model.md) — related
 - [Eleven experts rated the tentative STEM-ICT instructional model as appropriate at a high level](stem-ict-model-expert-evaluation-high.md) — related
 - [Five professionals approved the model as appropriate at a high level](stem-ict-model-professional-approval-high.md) — related
+- [The TEFA-T model and its supporting products are rated Very Practical by instructors and students](tefa-t-very-practical-rating.md) — related

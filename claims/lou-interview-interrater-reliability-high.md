@@ -44,3 +44,4 @@ Second-year (Fall 1975-Spring 1976) rating procedure in which the interviewer's 
 - [The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions](framework-scoring-high-consistency-physics.md) — related
 - [LoU Interview ratings correlate strongly with ethnographers' full-day observations, supporting interview validity](lou-interview-validated-against-ethnography.md) — related
 - [Cohen's kappa exhibits a paradox in which high observed agreement yields low kappa, making it unsuitable for pass/fail decision consistency](cohens-kappa-paradox-decision-consistency.md) — related
+- [The Reflective Judgment Model coding rubric achieves high inter-rater reliability (alpha .93) when applied to teacher educators' interview narratives](rjm-high-interrater-reliability-teacher-educators.md) — related

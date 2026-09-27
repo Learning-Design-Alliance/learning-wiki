@@ -43,3 +43,6 @@ The article reports, citing King and Kitchener, that mean RJI scores rise modest
 ## Related Claims
 - [Most incoming college freshmen function at pre- or quasi-reflective levels, averaging about stage 3.5](incoming-freshmen-average-reflective-judgment-stage-3-5.md) — related
 - [Preservice teachers' reflective judgment levels influence how they perceive and act on complex classroom dilemmas](reflective-judgment-levels-shape-dilemma-perception-and-action.md) — related
+- [Prior RJM research reports large reflective judgment differences by educational attainment among older adults (RJI means 3.7 vs 5.2)](education-attainment-rji-gap-older-adults.md) — related
+- [Teacher educators scored near the center of the epistemic scale (means about 4.2-4.3), contrary to expectations of a highly constructivist orientation](teacher-educators-center-epistemic-scale.md) — related
+- [Every teacher educator participant produced narrative from every RJM level, with a preponderance near a typical level slightly above 4.0](typical-level-slightly-above-four.md) — related

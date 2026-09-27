@@ -45,3 +45,4 @@ Graphical analysis of the model requiring triangulation edges. The article repor
 - [Meaningful longitudinal linking depends on the construct not changing across measurement occasions](construct-stability-assumption-longitudinal-linking.md) — related
 - [Junction-tree factorization reduces EM algorithm complexity for latent growth IRT models from exponential to linear in the number of measurement occasions](junction-tree-em-linear-complexity-occasions.md) — related
 - [Multidimensional latent variable models rarely support more than about four to six latent variables, limiting fine-grained SKIVE modeling](latent-variable-models-limit-grain-size.md) — related
+- [Computational complexity of the graph-based MML procedure scales with the number of latent variables within a conditionally independent subset, and brute-force integration scales exponentially with dimensionality](mml-complexity-scales-with-clique-state-spaces.md) — related

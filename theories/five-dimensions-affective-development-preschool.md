@@ -8,8 +8,8 @@ generated:
   at: 2026-09-27
 sources:
   - id: casto-1976
-    resource: "https://eric.ed.gov/?id=ED135161"
-    title: "Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135161"
+    resource: "https://eric.ed.gov/?id=ED135162"
+    title: "Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135162"
     author: Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah
 ---
 
@@ -46,6 +46,8 @@ The report organizes affective development—defined broadly as "the emotional s
 ## Related Theories
 
 - [Control systems view of the infant as a competent, adaptive system](infant-controlled-system-adaptive-fit.md)
+- [Five-dimension framework of affective development in preschool children](five-dimensions-affective-development-framework.md)
+- [Systems-theory view of the infant as a competent adaptive system](infant-controlled-system-adaptive-fit-theory.md)
 
 ## Examples
 
@@ -53,4 +55,4 @@ The report organizes affective development—defined broadly as "the emotional s
 - [Bibliography of 29 curriculum materials for affective development](../elements/affective-development-curriculum-materials-bibliography.md)
 
 ## Key Sources
-- Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135161
+- Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135162

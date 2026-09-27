@@ -62,3 +62,4 @@ The same interdependence section states that working conditions also condition w
 - [Organizational climate can influence people's behavior and may be linked to teaching practices (attributed to Milem)](organizational-climate-influences-teaching-behavior.md) — related
 - [Piecemeal educator policymaking overburdens educators and can drive talented educators out of the profession](piecemeal-educator-policymaking-drains-talent.md) — related
 - [Changes traced to historical and activity factors, but the authors conclude the IDEAS academy itself may not be the major factor in observed changes](academy-influence-not-major-factor.md) — related
+- [Mentoring strongly influences new teachers' decisions to stay in or leave teaching (review attribution)](mentoring-influences-new-teacher-retention.md) — related

@@ -60,11 +60,13 @@ Elaboration works because it changes how information is encoded and organized. A
 - [Concept mapping improves learning.](../claims/concept-mapping-improves-learning.md) [+M] — building explicit relational links is a structured form of elaborative reasoning
 
 ## Related Principles
+
 - [Analogical Reasoning](analogical-reasoning.md) — analogy generation is one of the most powerful forms of elaboration, linking new material to known structures
 - [Annotating](annotating.md) — margin notes and annotations are a practical vehicle for learner-generated elaboration during reading
 - [Chunking](chunking.md) — elaboration organizes information into meaningful chunks, reducing working-memory load
 - [Activation](activation.md) — prior knowledge must be retrieved before it can be connected to new content
 - [Asking Questions](ask-experts.md) — question generation is an elaborative act that directs attention to explanatory gaps
+- [Elaborate new information precisely and meaningfully within the learner's perspective to facilitate schema encoding and retrieval](precise-meaningful-elaboration-facilitates-encoding.md)
 
 ## Examples
 

@@ -48,6 +48,8 @@ The article describes SDT's motivational spectrum as a fine-grained alternative 
 - [Self-determination theory: a motivation and personality theory built on three basic psychological needs](sdt-basic-psychological-needs-framework.md)
 - [Expectancy-Value Theory](expectancy-value-theory.md)
 - [ARCS Model of Motivational Design](arcs-model.md)
+- [Self-Determination Theory as a framework for L2/ESP motivation](sdt-framework-esp-motivation.md)
+- [SDT motivation continuum: four forms of extrinsic motivation varying in autonomy](sdt-motivation-continuum-four-extrinsic-regulations.md)
 
 ## Examples
 

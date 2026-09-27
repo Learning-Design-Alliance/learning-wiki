@@ -56,3 +56,4 @@ This is a single-school qualitative discourse study without a comparison school 
 - [The teacher's agency system reached dynamic stability at the edge of chaos in the final period](agency-reaches-edge-of-chaos-stability.md) — related
 - [Synchronized collective behaviors oriented to strips and worksheets dynamically stabilize the students' initial activity and thinking](synchronized-interactional-behaviors-stabilize-activity.md) — related
 - [A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life](teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md) — related
+- [Reflexive practitioners are well positioned to map multiple interpretations and include views from the margins](reflexive-practitioners-map-multiple-interpretations.md) — related

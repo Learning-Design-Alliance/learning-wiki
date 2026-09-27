@@ -56,6 +56,7 @@ The Kantian Effect is the article's proposed metaphor for the scholarship of int
 - [Intertextuality and hypertextuality as twin modes of convergence operationalizing online education](intertextuality-hypertextuality-convergence-modes.md)
 - [Architectonics: the philosophical tradition of building and relating meaning, knowledge, and experience](architectonics-science-of-relations.md)
 - [Dialogism, intertextuality, and hypertextuality: the language-centered genealogy leading to connectivism](dialogism-intertextuality-hypertextuality-genealogy.md)
+- [Dialogism: the relation of one utterance to other utterances as the context informing all writing](dialogism-intertextuality-utterance-context.md)
 
 ## Examples
 

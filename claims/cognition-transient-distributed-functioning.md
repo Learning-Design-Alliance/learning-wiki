@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: iran-nejad-1982
-    resource: "https://eric.ed.gov/?id=CS006602"
-    title: "Iran-Nejad, Asghar & Ortony, Andrew. (1982). Cognition: A Functional View. Center for the Study of Reading, University of Illinois at Urbana-Champaign. https://eric.ed.gov/?id=CS006602"
+    resource: "https://eric.ed.gov/?id=ED215308"
+    title: "Iran-Nejad, Asghar & Ortony, Andrew. (1982). Cognition: A Functional View. Center for the Study of Reading, University of Illinois at Urbana-Champaign. https://eric.ed.gov/?id=ED215308"
     author: "Iran-Nejad, Asghar & Ortony, Andrew"
     q: 1
     i: "?"
@@ -29,7 +29,7 @@ sources:
 
 ### Iran-Nejad 1982
 
-Iran-Nejad, Asghar & Ortony, Andrew. (1982). Cognition: A Functional View. Center for the Study of Reading, University of Illinois at Urbana-Champaign. https://eric.ed.gov/?id=CS006602
+Iran-Nejad, Asghar & Ortony, Andrew. (1982). Cognition: A Functional View. Center for the Study of Reading, University of Illinois at Urbana-Champaign. https://eric.ed.gov/?id=ED215308
 
 `q1 · i?`
 

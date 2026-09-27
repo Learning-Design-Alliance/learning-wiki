@@ -80,3 +80,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Self-regulation strategy instruction improves achievement](self-regulation-strategy-instruction-improves-achievement.md) — possibly the same claim (merge candidate)
 - [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — possibly the same claim (merge candidate)
 - [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) — a narrower finding that bears on this claim
+- [Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition](students-deficient-monitoring-maintaining-plan.md) — a narrower finding that bears on this claim

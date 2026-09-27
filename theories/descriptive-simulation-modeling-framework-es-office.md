@@ -8,8 +8,8 @@ generated:
   at: 2026-09-25
 sources:
   - id: cohen-1975
-    resource: "https://eric.ed.gov/?id=CE005601"
-    title: "Cohen, Malcolm S. (1975). A Study of On-Line Use of Job Information in Employment Service Local Offices. Volume II: A Simulation Study. https://eric.ed.gov/?id=CE005601"
+    resource: "https://eric.ed.gov/?id=ED115779"
+    title: "Cohen, Malcolm S. (1975). A Study of On-Line Use of Job Information in Employment Service Local Offices. Volume II: A Simulation Study. https://eric.ed.gov/?id=ED115779"
     author: Cohen, Malcolm S
 ---
 
@@ -51,4 +51,4 @@ The report proposes a two-stage modeling framework: a descriptive model capturin
 - [Match the input-parameter estimation method (managerial estimates vs. time study) to the accuracy the simulation purpose requires](../strategies/match-input-estimation-method-to-required-accuracy.md)
 
 ## Key Sources
-- Cohen, Malcolm S. (1975). A Study of On-Line Use of Job Information in Employment Service Local Offices. Volume II: A Simulation Study. https://eric.ed.gov/?id=CE005601
+- Cohen, Malcolm S. (1975). A Study of On-Line Use of Job Information in Employment Service Local Offices. Volume II: A Simulation Study. https://eric.ed.gov/?id=ED115779

@@ -40,7 +40,8 @@ OptimNN replaces random initialization and direct SGD training of BKT's four per
 - Optimnn Reg Minimizes Degenerate Parameters [+M]
 
 ## Related Theories
-- 
+
+- [Skill discovery BKT: end-to-end stochastic learning of the problem-KC assignment matrix with Gumbel-Softmax](skill-discovery-bkt-gumbel-softmax.md)
 
 ## Examples
 -

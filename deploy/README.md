@@ -49,10 +49,10 @@ command to finish: clone the repo, create a venv, install
 (If the repo is actually public, you can skip the deploy-key dance and just
 change `REPO_URL` in `provision.sh` to the HTTPS clone URL before copying it up.)
 
-`provision.sh` defaults to cloning this feature branch
-(`claude/research-scraper-test-setup-i4bh9m`) since that's where this tooling
-currently lives. Once it's merged to `main`, either edit `BRANCH` in the
-script or pass it as an env var: `BRANCH=main bash /root/provision.sh`.
+`provision.sh` clones `main`. It used to default to
+`claude/research-scraper-test-setup-i4bh9m`, a branch merged and dead since
+2026-08-31, so a droplet provisioned from it would have run month-old scripts.
+Pass `BRANCH=<name>` to clone another.
 
 ## 3. Set your API keys, and which models to run
 

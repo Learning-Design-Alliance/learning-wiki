@@ -57,6 +57,8 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Locus of Control](locus-of-control.md) — a related but distinct cognitive factor: self-efficacy is belief in one's own task-specific ability, while locus of control is a broader belief about whether outcomes generally are controlled by one's own effort or by external forces
 - [Bandura's social learning theory: four fundamental requirements for people to learn and model behavior](bandura-four-requirements-learn-model-behavior.md)
 - [Bandura's four self-efficacy building experiences framework](bandura-four-self-efficacy-building-experiences.md)
+- [Bandura's four sources of self-efficacy as a framework for educator practice with marginalised students](bandura-four-sources-self-efficacy-educator-framework.md)
+- [Teacher belief efficacy as self-efficacy plus outcome expectancy (Bandura-based two-component construct)](belief-efficacy-self-efficacy-outcome-expectancy-ee.md)
 
 ## Examples
 

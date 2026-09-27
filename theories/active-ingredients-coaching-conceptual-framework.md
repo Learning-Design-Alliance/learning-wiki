@@ -45,7 +45,9 @@ The article proposes a conceptual model of the active ingredients of instruction
 - [Teacher buy-in and willingness to engage are viewed as strong mediators of coaching benefits](../claims/teacher-buy-in-mediates-coaching-benefit.md) [+W]
 
 ## Related Theories
-- 
+
+- [Responsive literacy coaching as a co-learner model grounded in trust and inquiry](responsive-literacy-coaching-co-learner-model.md)
+- [A three-level trajectory of instructional coaching situated within a recursive teacher change process](three-level-instructional-coaching-trajectory-teacher-change.md)
 
 ## Examples
 -

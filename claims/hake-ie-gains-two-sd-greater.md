@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: lei-bao-2006
-    resource: "https://arxiv.org/abs/physics/0606141"
-    title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/physics/0606141"
+    resource: "https://arxiv.org/abs/0710.1375"
+    title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375"
     author: Lei Bao
     q: 2
     i: 2
@@ -29,7 +29,7 @@ sources:
 
 ### Lei Bao 2006
 
-Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/physics/0606141
+Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375
 
 `q2 · i2`
 

@@ -46,3 +46,4 @@ Authors' interpretive argument in §5 on the significance of error analysis. The
 - [Feedback Improves Learning When It Addresses Task Goals](feedback-improves-learning-when-it-addresses-task-goals.md) — a broader claim this one bears on
 - [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — a broader claim this one bears on
 - [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md) — a broader claim this one bears on
+- [Self-discovery through errorful exploration is basically incompatible with error minimization in instruction](self-discovery-incompatible-with-error-minimization.md) — related

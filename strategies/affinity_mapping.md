@@ -61,9 +61,11 @@ Affinity mapping converts divergent idea generation into convergent organization
 6. Assign a follow-on writing or analysis task that uses the map as its organizing structure
 
 ## Related Strategies
+
 - [Brainstorming](brainstorming.md) — the divergent phase affinity mapping formalizes; affinity mapping adds the convergent sorting step
 - [Concept Mapping](../elements/concept-mapping.md) — similar structural outcome, but learner-supplied relational links rather than spatial clustering
 - [Think-Pair-Share](../patterns/think-pair-share.md) — shares the silent-individual-then-social sequence
+- [Frame-aided writing procedure for authors of historical explanations](frame-aided-writing-procedure.md)
 
 ## Examples
 - **Design education:** the KJ method (Kawakita Jiro, 1960s) is standard practice in UX research synthesis — teams cluster hundreds of field observation notes into affinity notes before defining design requirements (see Beyer & Holtzblatt, *Contextual Design*)

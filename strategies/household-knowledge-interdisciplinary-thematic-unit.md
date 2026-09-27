@@ -43,9 +43,11 @@ A teacher uses knowledge of a student's household experience to create "a series
 - [Funds Of Knowledge](../theories/funds-of-knowledge.md)
 
 ## Related Strategies
+
 - [Leveraging_Family_Knowledge](leveraging_family_knowledge.md)
 - [Incorporate_Students_Cultural_Practices](incorporate_students_cultural_practices.md)
 - [Funds Of Knowledge Teacher Research Model](../patterns/funds-of-knowledge-teacher-research-model.md)
+- [Organize instruction thematically with a thematic organizer rather than presenting knowledge piecemeal](wholetheme-thematic-organizer-teaching.md)
 
 ## Examples
 -

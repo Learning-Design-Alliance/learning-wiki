@@ -63,3 +63,4 @@ A systematic review and meta-analysis (search through May 2011 across MEDLINE, E
 - [Interactive LRE methods engage students, who value LRE classes as relevant and interesting](lre-interactive-methods-student-interest.md) — related
 - [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md) — related
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a narrower finding that bears on this claim
+- [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related

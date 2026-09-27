@@ -59,9 +59,11 @@ Team contracts address the two most common failure modes of [Collaborative Learn
 6. At project close, have teams assess performance against the contract, feeding reflection into future collaborations.
 
 ## Related Strategies
+
 - [Check-ins](../principles/check-ins.md) — recurring structured touchpoints that keep contract commitments visible during the project
 - [Peer assessment](../elements/peer-assessment.md) — individual accountability ratings that pair with contract consequences
 - [Role assignment](../strategies/role-assignment.md) — a contract often operationalizes roles; assigned roles alone are a lighter-weight alternative
+- [Anti-oppressive co-design meeting practices: land acknowledgements, shared roles, breakout discussions, multiple input modes](anti-oppressive-co-design-practices.md)
 
 ## Examples
 - **Project-based courses (e.g., PBLWorks exemplar projects)** — teams draft a "group contract" in week one covering roles, meeting schedules, and conflict resolution; PBLWorks publishes [contract templates](https://www.pblworks.org) used across K–12 project-based learning.

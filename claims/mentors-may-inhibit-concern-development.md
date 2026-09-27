@@ -48,3 +48,4 @@ Discussion-section comparison across the study's four volunteer groups, contrast
 - [Teacher concern development is better characterized as progression and retreat than linear stage movement](teacher-concern-progression-and-retreat.md) — related
 - [Previous knowledge and management experiences can inhibit new teachers' learning of new classroom management models](prior-experience-barriers-to-new-management-models.md) — related
 - [First-year teachers without mentors declined in self and impact concerns but task concerns stayed at 50%](unmentored-first-year-task-concerns-flat.md) — related
+- [People come first: places, policies, and programs should be altered when they inhibit people's development](people-come-first-invitational-schools.md) — related

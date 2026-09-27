@@ -47,6 +47,7 @@ The article presents dialogism as Bakhtin's appropriation and reinterpretation o
 - [Dialogism, intertextuality, and hypertextuality: the language-centered genealogy leading to connectivism](dialogism-intertextuality-hypertextuality-genealogy.md)
 - [Architectonics: the philosophical tradition of building and relating meaning, knowledge, and experience](architectonics-science-of-relations.md)
 - [Kantian architectonics: a theory of the systematic, constructivist organization of relations in cognition and higher education](kantian-architectonics-systematic-relations.md)
+- [Dialogism: the relation of one utterance to other utterances as the context informing all writing](dialogism-intertextuality-utterance-context.md)
 
 ## Examples
 

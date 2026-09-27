@@ -44,3 +44,4 @@ Correlations between the linkage, interest, imagery, word frequency, and reading
 - [The creativity dimension appears strongly in lower-SES urban black fifth-grade children and shows little relation to IQ](creativity-dimension-present-in-lower-ses-children.md) — related
 - [Self-regulation and co-regulation are significantly and highly correlated in an online case-based course](self-co-regulation-highly-correlated-online-cbi.md) — related
 - [Passage familiarity (prior related knowledge) correlates .52 with recall, and only familiarity, not imageability, affected one-week delayed recall](passage-familiarity-correlates-with-recall.md) — related
+- [Scale scores for object construction and imitation intercorrelate highly in the Greek sample](greek-scale-intercorrelations-high.md) — related

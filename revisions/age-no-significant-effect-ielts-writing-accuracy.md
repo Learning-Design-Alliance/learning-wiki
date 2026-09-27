@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/age-no-significant-effect-ielts-writing-accuracy.md
+---
+
+# Revision history: [claims/age-no-significant-effect-ielts-writing-accuracy](../claims/age-no-significant-effect-ielts-writing-accuracy.md)
+
+### 2026-09-27 · ingest · process:wiki-ingest
+Ingested from eric-ej1419474 (The Effect of Interactionist vs. Interventionist Dynamic Assessment on Writing Accuracy of Young vs. Adult IELTS Candidates) via eval_harness.py + ingest_extractions.py

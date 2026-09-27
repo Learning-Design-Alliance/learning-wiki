@@ -47,3 +47,4 @@ The review's synthesis of CDST work (citing Caspi 2010 and van Geert 2008) state
 - [Review reports syntactic complexity and accuracy shift from competitive to connected growers over time in Chinese learners of English](syntactic-complexity-accuracy-competitive-then-connected-growers.md) — a narrower finding that bears on this claim
 - [Teacher agency development proceeds through temporal phases in which different subsystems dominate](agency-subsystems-dominate-temporally.md)
 - [Review identifies gaps: CDST studies isolate learner from environment and define what constitutes a system vaguely](cdst-research-gaps-learner-environment-system-definition.md)
+- [Dynamic self-regulation of brain subsystems enables simultaneous multisource learning beyond conscious attention](dynamic-self-regulation-multisource-learning.md) — related

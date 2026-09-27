@@ -59,6 +59,7 @@ Behaviorism is criticized as overly deterministic and as denying free will; by t
 - [Programmed instruction framework: six-element operant-conditioning lesson format](programmed-instruction-six-element-framework.md)
 
 ## Examples
+
 - [Token Economies](../strategies/token-economies.md) — a classroom-scale system of secondary (token) reinforcers
 - [Time-Out (Negative Punishment)](../strategies/time-out-negative-punishment.md) — removal from a desirable activity as negative punishment
 - [Least-to-Most Prompting Hierarchy](../strategies/prompting-hierarchy.md) — verbal, gestural, and physical prompts sequenced from least to most intrusive
@@ -66,6 +67,7 @@ Behaviorism is criticized as overly deterministic and as denying free will; by t
 - [Behavioral Feedback for Correct and Incorrect Responses](../strategies/behavioral-feedback-for-responses.md) — consequence delivery following correct and incorrect responses
 - [Conditioning Natural Reinforcers](../strategies/conditioning-natural-reinforcers.md) — fading extrinsic reinforcers toward intrinsic ones
 - [Learning Hierarchy Task Analysis](../methods/learning-hierarchy-task-analysis.md) — sequencing prerequisite skills into a learning hierarchy
+- [Teach response precision and new associations with minimal errors, using mediators and stimulus fading](../principles/minimize-errors-for-precision-and-associations.md)
 
 ## Key Sources
 - Skinner, B. F. (1954). The science of learning and the art of teaching. *Harvard Educational Review, 24*, 86–97.

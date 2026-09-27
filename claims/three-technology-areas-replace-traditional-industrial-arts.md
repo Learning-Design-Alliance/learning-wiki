@@ -43,3 +43,5 @@ A design statement from Section I describing the Man-Technology model's content 
 ## Related Claims
 - [The fellowship team argued industrial arts education exemplifies a craft era and has failed to keep pace with technological change](industrial-arts-craft-era-inadequate-cybernetic-era.md) — related
 - [The fellowship team concluded that the study of man and technology is the most valid discipline base for industrial arts education](man-technology-valid-discipline-base-industrial-arts.md) — related
+- [Industrial arts teacher education must foster understanding of both the technical and the human sides of enterprise](industrial-arts-teacher-education-technical-and-human-sides.md) — related
+- [Industrial arts curricular change must be so extensive the field becomes unrecognizable as either industrial in scope or arts in substance](industrial-arts-unrecognizable-curricular-change.md) — a broader claim this one bears on

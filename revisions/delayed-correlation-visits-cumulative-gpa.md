@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/delayed-correlation-visits-cumulative-gpa.md
+---
+
+# Revision history: [claims/delayed-correlation-visits-cumulative-gpa](../claims/delayed-correlation-visits-cumulative-gpa.md)
+
+### 2026-09-27 · ingest · process:wiki-ingest
+Ingested from eric-ej887303 (Tutoring Center Effectiveness: The Effect of Drop-In Tutoring) via eval_harness.py + ingest_extractions.py

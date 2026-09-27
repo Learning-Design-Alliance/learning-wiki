@@ -61,3 +61,5 @@ The same study's null findings: no difference in recall at a later unprompted ti
 - [Story Mapping Improves Comprehension](story-mapping-improves-comprehension.md) — related
 - [Question prompts improve learning](question-prompts-improve-learning.md) — related
 - [No macrostructure measure differs significantly between bilingual and monolingual children, while age improves story structure, internal state terms, comprehension, and aggregate scores but not structural complexity](macrostructure-stable-across-language-groups.md) — related
+- [Subjects with a more developed schema for a body of knowledge show higher recall for materials related to that knowledge](developed-schema-higher-recall.md) — related
+- [Narrative memory is superior when content follows stereotypical story grammar structure, and goal information is critical to comprehension](story-grammar-structure-aids-narrative-memory.md) — related

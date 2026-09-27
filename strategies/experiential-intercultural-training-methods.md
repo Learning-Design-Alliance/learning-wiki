@@ -47,6 +47,7 @@ Several annotated background materials recommend experiential methods for interc
 - [Simulation Learning](simulation_learning.md)
 - [Debriefing](debriefing.md)
 - [Role Play](role-play.md)
+- [Teachers enrich their own cultural awareness first, then explore native and foreign cultures through authentic settings](teacher-cultural-awareness-first-strategy.md)
 
 ## Examples
 -

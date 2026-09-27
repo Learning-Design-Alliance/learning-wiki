@@ -46,3 +46,4 @@ Healthcare worker in-depth interviews from the qualitative study. One counselor 
 - [Caregivers and healthcare workers perceived Family MUAC with two-way SMS as acceptable, cost-saving, appropriate, and feasible](family-muac-sms-perceived-acceptable-feasible.md) — related
 - [Inconsistent MUAC measurements, negative social influences, and phone sharing compromised uptake, especially among low interactors](family-muac-uptake-barriers.md) — related
 - [Direct SMS communication with healthcare workers strengthened patient-provider relationships and trust](sms-communication-strengthens-patient-provider-relationships.md) — related
+- [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related

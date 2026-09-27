@@ -48,6 +48,7 @@ Architectonics is presented as a concept permeating the Western philosophical tr
 - [Dialogism: Bakhtin's dialogic reconceptualization of architectonics as a philosophy of interrelations mediated by language and texts](dialogism-bakhtin-architectonics.md)
 - [Kantian architectonics: a theory of the systematic, constructivist organization of relations in cognition and higher education](kantian-architectonics-systematic-relations.md)
 - [The Kantian Effect: a metaphor and paradigm linking intertextuality and interdisciplinarity through four dialogic principles](kantian-effect-integrative-paradigm.md)
+- [Dialogism: the relation of one utterance to other utterances as the context informing all writing](dialogism-intertextuality-utterance-context.md)
 
 ## Examples
 -

@@ -8,8 +8,8 @@ generated:
   at: 2026-09-27
 sources:
   - id: de-beaugrande-1977
-    resource: "https://eric.ed.gov/?id=ED154368"
-    title: "de Beaugrande, Robert. (1977). Writing as a Decision Process. https://eric.ed.gov/?id=ED154368"
+    resource: "https://eric.ed.gov/?id=ED159704"
+    title: "de Beaugrande, Robert. (1977). Writing as a Decision Process. https://eric.ed.gov/?id=ED159704"
     author: de Beaugrande, Robert
 ---
 
@@ -49,4 +49,4 @@ The paper names and advocates 'generative stylistics', an approach to writing in
 -
 
 ## Key Sources
-- de Beaugrande, Robert. (1977). Writing as a Decision Process. https://eric.ed.gov/?id=ED154368
+- de Beaugrande, Robert. (1977). Writing as a Decision Process. https://eric.ed.gov/?id=ED159704

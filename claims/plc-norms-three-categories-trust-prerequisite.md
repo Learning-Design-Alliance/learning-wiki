@@ -65,3 +65,4 @@ Cross-study synthesis of norm development. The review states that "productive no
 - [Reported PLC outcomes frequently do not correspond with the stated object; complete object–outcome correspondence appeared in only three studies](plc-object-outcome-mismatch.md) — related
 - [A preschool teacher's professional growth in guiding children's mathematical learning was identified in three areas: recognizing demonstrated understanding, using mathematical language, and systematic assessment](teacher-growth-three-areas-guiding-preschool-math.md) — related
 - [Barriers to situated learning fall into three categories: the traditional school system, the traditional educational approach, and teacher training and practice](situated-learning-three-barrier-categories.md) — related
+- [Teacher resistance as an exercise of teacher agency is a fundamental challenge to current PLC formulations](teacher-resistance-agency-challenges-plc.md) — related

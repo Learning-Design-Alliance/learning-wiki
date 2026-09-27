@@ -9,8 +9,8 @@ generated:
   at: 2026-09-25
 sources:
   - id: spilerman-1970
-    resource: "https://eric.ed.gov/?id=ED016651"
-    title: "Spilerman, Seymour. (1970). Raising Academic Motivation in Lower Class Adolescents: A Convergence of Two Research Traditions. Discussion Papers 75-70. https://eric.ed.gov/?id=ED016651"
+    resource: "https://eric.ed.gov/?id=ED133396"
+    title: "Spilerman, Seymour. (1970). Raising Academic Motivation in Lower Class Adolescents: A Convergence of Two Research Traditions. Discussion Papers 75-70. https://eric.ed.gov/?id=ED133396"
     author: Spilerman, Seymour
 ---
 
@@ -44,4 +44,4 @@ The paper proposes dividing students into groups of three, four, or five, consti
 -
 
 ## Key Sources
-- Spilerman, Seymour. (1970). Raising Academic Motivation in Lower Class Adolescents: A Convergence of Two Research Traditions. Discussion Papers 75-70. https://eric.ed.gov/?id=ED016651
+- Spilerman, Seymour. (1970). Raising Academic Motivation in Lower Class Adolescents: A Convergence of Two Research Traditions. Discussion Papers 75-70. https://eric.ed.gov/?id=ED133396

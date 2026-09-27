@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: casto-1976
-    resource: "https://eric.ed.gov/?id=ED135161"
-    title: "Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135161"
+    resource: "https://eric.ed.gov/?id=ED135162"
+    title: "Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135162"
     author: Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah
     q: 2
     i: "?"
@@ -29,7 +29,7 @@ sources:
 
 ### Casto 1976
 
-Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135161
+Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135162
 
 `q2 · i?`
 
@@ -43,3 +43,4 @@ The review attributes this to Bridges' (1932) longitudinal study, which refuted 
 ## Related Claims
 - [The review reports Bowlby's proposed natural sequence from attachment through separation distress to healthy exploration](bowlby-separation-sequence-to-exploration.md) — related
 - [The review reports three stable infant temperamental styles: easy, slow to warm up, and difficult](three-infant-temperamental-styles.md) — related
+- [Blind infants show the same developmental sequence of basic emotions as sighted infants](blind-infants-basic-emotions-sequence.md) — related

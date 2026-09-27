@@ -47,6 +47,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - Time and continuity — external pacing substitutes for regulation a learner cannot yet supply.
 
 ## Examples
+
 - [Goal Setting](../elements/goal-setting.md) — the element form of the most reliable lever
 - [Cognitive Strategies](../elements/cognitive-strategies.md) — the teachable repertoire rather than the disposition
 - [Goal Setting](../strategies/goal_setting.md) — specific, proximal goals in practice
@@ -54,6 +55,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Self-Regulated Learning](../patterns/self-regulated-learning.md) — the pattern that sequences plan–monitor–adjust
 - [Metacognition](../theories/metacognition.md) — the underlying account
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — the cyclical model design draws on
+- [Teach less-proficient EFL learners metacognitive strategies, effort regulation, and help-seeking, supported by goal-setting training](../strategies/teach-srl-strategies-less-proficient-efl-learners.md)
 
 ## Key Sources
 - The evidence is carried by the claim pages linked above, each holding its own `## Evidence` entries with `q`/`i` codes and DOIs checked against Crossref. Citations are deliberately not duplicated here — a second copy is a second thing to keep correct.

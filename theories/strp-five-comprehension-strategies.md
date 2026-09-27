@@ -42,6 +42,7 @@ The Strategic Teaching and Reading Project, designed by the North Central Region
 ## Related Theories
 
 - [STRP five-phase professional development model](strp-five-phase-professional-development-model.md)
+- [Strategic Teaching and Reading Project (STRP) and its five global reading strategies](strp-five-global-reading-strategies.md)
 
 ## Examples
 -

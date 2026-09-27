@@ -46,3 +46,4 @@ Narrative review attribution: the article reports that empirical studies have "c
 - [Extraversion correlates negatively with well-being decline in wartime students, though less strongly than emotional stability](extraversion-protective-wellbeing-wartime.md) — related
 - [Eco-anxiety is positively associated with symptoms of depression and anxiety, per a review of 35 studies](eco-anxiety-associated-depression-anxiety.md) — related
 - [Existing cognitive hope theories presuppose predictability and control, an assumption that breaks down under radical uncertainty](hope-theories-presuppose-predictability.md) — related
+- [Distress and depression screening improved detection but did not reliably enhance psychological or medical outcomes when follow-up pathways were absent](screening-without-followup-insufficient.md) — related

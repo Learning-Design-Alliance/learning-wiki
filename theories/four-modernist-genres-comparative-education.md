@@ -44,6 +44,7 @@ In close reading of the selected texts, the author identifies four modernist pos
 
 - [Five postmodern-favorable knowledge communities in comparative education discourse](five-knowledge-communities-postmodern-comparative-education.md)
 - [Social cartography as heterotopic mapping of perspectival difference](social-cartography-heterotopic-mapping.md)
+- [Modernist responses to the postmodern challenge form three broad areas: orthodox, critical pedagogy, and performativity texts](modernist-responses-three-areas-taxonomy.md)
 
 ## Examples
 -

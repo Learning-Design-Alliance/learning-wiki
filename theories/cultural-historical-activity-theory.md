@@ -56,6 +56,7 @@ Cultural-historical activity theory (CHAT) holds that human thinking and learnin
 - [Cultural-historical activity theory (CHAT) as a framework for analyzing community service-learning](chat-framework-for-community-service-learning.md)
 - [Activity theory frames human activity as a system of six interacting elements (subject, object, tools, community, rules, division of labor)](chat-six-element-activity-framework.md)
 - [Trialogical learning: a distinct form of learning through collaborative work on shared knowledge artefacts](trialogical-learning-framework.md)
+- [Situated cognition as an epistemological framework for professional learning communities](situated-cognition-framework-plc.md)
 
 ## Examples
 

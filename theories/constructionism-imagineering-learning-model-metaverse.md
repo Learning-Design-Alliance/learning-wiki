@@ -43,6 +43,7 @@ The article develops a learning model that integrates imagineering learning with
 ## Related Theories
 
 - [OSP's two pedagogical approaches: guided inquiry and constructionism](osp-guided-inquiry-and-constructionism.md)
+- [The seven-element learning system model developed in the workshop](seven-element-learning-system-model-wv.md)
 
 ## Examples
 -

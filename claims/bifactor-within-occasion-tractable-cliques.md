@@ -60,3 +60,6 @@ Graphical derivation for the tri-factor model (D specific dimensions per occasio
 ## Related Claims
 - [Adding Markov structures for both general and specific dimensions over time yields a model that does not scale well with the number of measurement occasions](markov-all-dimensions-poor-scaling.md) — related
 - [Junction-tree factorization reduces EM algorithm complexity for latent growth IRT models from exponential to linear in the number of measurement occasions](junction-tree-em-linear-complexity-occasions.md) — related
+- [Full information MML estimation of the bi-factor model requires only two-dimensional integrations under more general conditions than the probit-link, multivariate-normal derivation of Gibbons and Hedeker](mml-bifactor-two-dimensional-integrals-general-conditions.md) — related
+- [Computational complexity of the graph-based MML procedure scales with the number of latent variables within a conditionally independent subset, and brute-force integration scales exponentially with dimensionality](mml-complexity-scales-with-clique-state-spaces.md) — a broader claim this one bears on
+- [Full information MML estimation of a multidimensional IRT model with a second-order dimension also requires only two-dimensional integrals](mml-second-order-dimension-two-dimensional-integrals.md) — related

@@ -44,3 +44,4 @@ Theoretical argument in Siegel's plenary paper, illustrated with worked examples
 - [Weinstein argues critical thinking needs a disciplinary perspective incorporating substantive methodological criteria from within disciplines](disciplinary-perspective-critical-thinking.md) — a narrower finding that bears on this claim
 - [Storying is socially and politically non-neutral: it privileges some storylines and silences others](storying-privileges-some-storylines-silences-others.md) — related
 - [Material choice shapes conceptual learning and who feels invited to learn](material-choice-shapes-conceptual-learning-and-participation.md) — related
+- [Students showed gains in upper-level thought, including transfer of reflective skills to other disciplines](ct-metacog-upper-level-thought.md) — related

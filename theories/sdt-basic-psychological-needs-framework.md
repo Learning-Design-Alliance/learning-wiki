@@ -53,6 +53,8 @@ Self-determination theory is described in the article as "a comprehensive theory
 - [Maslow's Hierarchy of Needs](maslow-hierarchy-of-needs.md)
 - [Instinct, Drive, and Arousal Theories](instinct-drive-and-arousal-theories.md)
 - [SDT motivational spectrum from amotivation through four extrinsic regulations to intrinsic motivation](sdt-motivational-spectrum-regulations.md)
+- [SDT motivation continuum: four forms of extrinsic motivation varying in autonomy](sdt-motivation-continuum-four-extrinsic-regulations.md)
+- [Self-determination theory: three basic psychological needs underpin intrinsic motivation](sdt-three-basic-needs-intrinsic-motivation.md)
 
 ## Examples
 -

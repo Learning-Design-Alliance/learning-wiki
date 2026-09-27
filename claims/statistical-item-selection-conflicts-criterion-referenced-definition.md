@@ -45,3 +45,4 @@ Theoretical argument in the section on norm-referenced scores from criterion-ref
 - [Criterion-referenced tests indicate whether a particular skill or objective has been achieved rather than comparing performance to other test takers](criterion-referenced-tests-measure-mastery-not-relative-standing.md) — related
 - [Criterion-referenced tests require empirically-based construct validation studies](criterion-referenced-tests-need-construct-validation.md) — related
 - [Intersection point k0 of item difficulty and discriminating curves provides a data-driven item-deletion criterion](k0-intersection-item-deletion-criterion.md) — related
+- [Norm-referenced mental-age and IQ metrics distract investigators from the structural and hierarchical aspects of developing abilities](norm-referenced-metrics-hide-structural-development.md) — related

@@ -47,7 +47,8 @@ The article organizes single-administration decision consistency estimation arou
 - [DC estimates tend to be lowest when the cut score is set at the peak of the score distribution, where inconsistent decisions are most likely](../claims/dc-lowest-at-score-distribution-peak.md) [+W]
 
 ## Related Theories
-- 
+
+- [Classical Test Theory (CTT) and its stated limitations](ctt-assumptions-and-limitations-ilhan-2018.md)
 
 ## Examples
 

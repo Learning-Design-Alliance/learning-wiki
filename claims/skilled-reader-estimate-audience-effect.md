@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: de-beaugrande-1977
-    resource: "https://eric.ed.gov/?id=ED154368"
-    title: "de Beaugrande, Robert. (1977). Writing as a Decision Process. https://eric.ed.gov/?id=ED154368"
+    resource: "https://eric.ed.gov/?id=ED159704"
+    title: "de Beaugrande, Robert. (1977). Writing as a Decision Process. https://eric.ed.gov/?id=ED159704"
     author: de Beaugrande, Robert
     q: 1
     i: "?"
@@ -29,7 +29,7 @@ sources:
 
 ### de Beaugrande 1977
 
-de Beaugrande, Robert. (1977). Writing as a Decision Process. https://eric.ed.gov/?id=ED154368
+de Beaugrande, Robert. (1977). Writing as a Decision Process. https://eric.ed.gov/?id=ED159704
 
 `q1 · i?`
 

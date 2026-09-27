@@ -47,6 +47,7 @@ The article proposes a framework of teacher agency as a complex dynamic system. 
 ## Related Theories
 
 - [Complex Dynamic Systems Theory frames learner language as hierarchical, interdependent subsystems in dynamic relations over time](cdst-interdependent-language-subsystems-framework.md)
+- [Systems-theory view of the infant as a competent adaptive system](infant-controlled-system-adaptive-fit-theory.md)
 
 ## Examples
 -

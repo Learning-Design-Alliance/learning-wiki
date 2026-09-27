@@ -45,6 +45,7 @@ Value-creating pedagogy, outlined by Tsunesaburo Makiguchi, holds that creating 
 ## Related Theories
 
 - [Ikeda's philosophy of global citizenship rests on inner transformation, dialogue, and global citizenship, expressed as wisdom, courage, and compassion](ikeda-global-citizenship-three-components.md)
+- [Makiguchi's Theory of Value (beauty, gain, good) as a framework for Soka (value-creating) education](makiguchi-theory-of-value-beauty-gain-good.md)
 
 ## Examples
 

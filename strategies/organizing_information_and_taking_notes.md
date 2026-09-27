@@ -58,10 +58,12 @@ Organizing information reduces extraneous cognitive load by offloading working m
 5. Fade the scaffold: shift from provided organizers to learner-constructed ones across successive tasks, and require learners to use their notes in a retrieval or synthesis activity.
 
 ## Related Strategies
+
 - [Annotating](../principles/annotating.md) — text-marking is the reading-side counterpart; both depend on selective attention to importance
 - [Chunking](../principles/chunking.md) — the organizational units learners form are chunks; organizers make chunk boundaries visible
 - [Clear Structure](../principles/clear-structure.md) — well-structured source material is far easier to organize; disorganized input undermines note-taking
 - [Spaced review of notes](../claims/spaced-repetition-improves-retention.md) — notes only pay off when revisited on a spaced schedule, not filed away
+- [Use the coaching framework as a structured discussion guide with a note-taking grid and study group questions](coaching-framework-discussion-guide-grid-questions.md)
 
 ## Examples
 - **Cornell Notes** (Pauk & Owens, *How to Study in College*) — the cue-question-summary format used across secondary and higher education; the summary step functions as built-in self-explanation.

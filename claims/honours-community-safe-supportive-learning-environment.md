@@ -45,3 +45,4 @@ Qualitative open-ended responses from 28 honours students (56% return rate) were
 - [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — related
 - [A minority of honours community members feel the community is too closed, hindering knowledge growth](honours-community-closedness-hinders-knowledge-growth.md) — related
 - [Honours community members report isolation and negative bias from regular students and lecturers](honours-community-isolation-from-regular-students.md) — reports the opposite
+- [Students perceive that applying knowledge gained through new meaningful experiences creates lasting personal growth (gain)](students-lasting-personal-growth-experiences.md) — related

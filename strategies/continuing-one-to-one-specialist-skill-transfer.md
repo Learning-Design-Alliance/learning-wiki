@@ -40,6 +40,7 @@ A specific implementable recipe for skill transfer: the report recommends that "
 
 - [Recruit and train local tribal members for planning staffs, supplementing on-the-job experience with training materials and workshops](recruit-and-train-local-tribal-planners.md)
 - [Train indigenous adult educators in task analysis to build state needs-assessment capability](task-analysis-training-indigenous-educators.md)
+- [Use updated occupational education and retraining programs, including cooperative on-the-job instruction, to re-employ workers displaced by technological change](cooperative-retraining-programs-displaced-workers.md)
 
 ## Examples
 -

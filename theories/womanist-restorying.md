@@ -38,8 +38,10 @@ Womanist restorying (Baker-Bell, 2017; Thomas & Stornaiuolo, 2016) combines Blac
 - [Restorying supports Black girls' identification of and resistance to dominant narratives in computing](../claims/restorying-supports-computing-identity-reconstruction.md) [~M]
 
 ## Related Theories
+
 - [Epistemic Injustice](epistemic-injustice.md) — both theorize how dominant narratives/frameworks can silence or discredit a knower's own account of their experience
 - [Funds of Knowledge](funds-of-knowledge.md) — both treat learners' own lived and cultural experience as a legitimate resource rather than a deficit, though restorying specifically targets the narrative/identity dimension rather than practical know-how
+- [A feminist view of science based on interconnectedness, relationships as webs, and legitimate subjectivity](feminist-interconnected-science-framework.md)
 
 ## Examples
 - [Restorying Computing Futures Through Electronic Quilting](../strategies/restorying-through-electronic-quilting.md) — operationalizes the deconstruct/analyze/reconstitute sequence as a workshop activity

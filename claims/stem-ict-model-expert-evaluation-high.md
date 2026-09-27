@@ -46,3 +46,4 @@ Phase II expert evaluation by eleven experts using a rating-scale questionnaire.
 - [Experts rate the model's individual elements as appropriate at the highest level overall (Mean = 4.65, S.D. = 0.27), with learning achievement output rated High](cilm-individual-elements-assessment.md) — related
 - [Experts rate the constructionism imagineering learning process via metaverse as appropriate at the highest level (Mean = 4.82, S.D. = 0.40)](cilm-process-expert-assessment-highest.md) — related
 - [Experts rate the constructionism imagineering learning model via metaverse as appropriate at the highest level (Mean = 4.74, S.D. = 0.05)](cilm-metaverse-expert-assessment-highest.md) — related
+- [The TEFA-T model and its supporting products are rated Very Practical by instructors and students](tefa-t-very-practical-rating.md) — related

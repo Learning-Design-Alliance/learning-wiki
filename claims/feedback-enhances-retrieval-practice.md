@@ -76,3 +76,4 @@ Pashler, H., Cepeda, N. J., Wixted, J. T., & Rohrer, D. (2005). When does feedba
 - [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — related
 - [Feedback Use Improves Learning](feedback-use-improves-learning.md) — related
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](high-confidence-errors-improve-retention.md) — related
+- [Overt correction of errors speeds young children's learning compared with knowledge of correctness alone](overt-error-correction-speeds-young-children-learning.md) — related

@@ -10,14 +10,14 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lei-bao-2006
-    resource: "https://arxiv.org/abs/physics/0606141"
-    title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/physics/0606141"
+    resource: "https://arxiv.org/abs/0710.1375"
+    title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375"
     author: Lei Bao
     q: 2
     i: "?"
   - id: lei-bao-2006-2
-    resource: "https://arxiv.org/abs/physics/0606141"
-    title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/physics/0606141"
+    resource: "https://arxiv.org/abs/0710.1375"
+    title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375"
     author: Lei Bao
     q: 2
     i: 1
@@ -36,7 +36,7 @@ sources:
 
 ### Lei Bao 2006
 
-Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/physics/0606141
+Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375
 
 `q2 · i? · the article prints no effect size for this finding`
 
@@ -46,7 +46,7 @@ Analytical derivation (Section IV) of the normalized gain under combined α and 
 
 ### Lei Bao 2006 (2)
 
-Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/physics/0606141
+Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375
 
 `q2 · i1`
 

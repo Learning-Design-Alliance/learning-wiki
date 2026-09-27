@@ -43,3 +43,4 @@ Theoretical argument in Siegel's plenary paper on science education. He holds th
 ## Related Claims
 - [Weinstein argues critical thinking needs a disciplinary perspective incorporating substantive methodological criteria from within disciplines](disciplinary-perspective-critical-thinking.md) — related
 - [Considering The Opposite Reduces Bias](considering-the-opposite-reduces-bias.md) — related
+- [Language must also be subjective, emotional, inspirational, and aesthetic, so teachers should employ both the method of fact and the method of imagination](language-subjective-emotional-aesthetic.md) — related

@@ -54,9 +54,11 @@ KWL operationalizes [Activation](../principles/activation.md) by requiring learn
 3. **Learn**: After instruction, learners record what they learned, verify or correct K entries, and check each W question against the text. Follow with [Class Discussion](../elements/class-discussion.md) to resolve discrepancies.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the K phase is a structured instance of this broader strategy
 - [Anticipation Guide](anticipation-guide.md) — an alternative pre-reading activation routine that surfaces predictions rather than facts
 - [Exit Ticket](exit-ticket.md) — the L phase can be implemented as a standalone formative check
+- [Integrate metacognitive strategy instruction across content areas and across before, during, and after phases of teaching](integrate-metacognition-before-during-after-lesson.md)
 
 ## Examples
 - **Ogle's original protocol (1986)** — fifth-grade science and social studies teachers using wall charts with K/W/L columns before and after expository reading, with whole-class discussion at each phase

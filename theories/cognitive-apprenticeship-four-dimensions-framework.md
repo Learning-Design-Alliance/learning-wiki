@@ -8,8 +8,8 @@ generated:
   at: 2026-09-26
 sources:
   - id: emmanuel-imiere-2019
-    resource: "https://eric.ed.gov/?q=An+Application+of+Cognitive+Apprenticeship+to+Philosophy+Instruction"
-    title: "Emmanuel Imiere. (2019). An Application of Cognitive Apprenticeship to Philosophy Instruction. https://eric.ed.gov/?q=An+Application+of+Cognitive+Apprenticeship+to+Philosophy+Instruction"
+    resource: "https://eric.ed.gov/?id=ED613714"
+    title: "Emmanuel Imiere. (2019). An Application of Cognitive Apprenticeship to Philosophy Instruction. https://eric.ed.gov/?id=ED613714"
     author: Emmanuel Imiere
 ---
 
@@ -48,9 +48,10 @@ Cognitive apprenticeship is defined as learning through guided experience on cog
 - [Zone of Proximal Development: the gap between independent and assisted problem solving](zpd-gap-independent-versus-assisted-problem-solving.md)
 - [Sociocultural Theory](sociocultural-theory.md)
 - [Guided participation and traditional apprenticeship as core CA concepts](guided-participation-and-traditional-apprenticeship-concepts.md)
+- [Zone of Proximal Development as an assessment and instruction tool](zpd-assessment-instruction-tool-gifted.md)
 
 ## Examples
 -
 
 ## Key Sources
-- Emmanuel Imiere. (2019). An Application of Cognitive Apprenticeship to Philosophy Instruction. https://eric.ed.gov/?q=An+Application+of+Cognitive+Apprenticeship+to+Philosophy+Instruction
+- Emmanuel Imiere. (2019). An Application of Cognitive Apprenticeship to Philosophy Instruction. https://eric.ed.gov/?id=ED613714

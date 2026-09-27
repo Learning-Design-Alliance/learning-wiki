@@ -44,3 +44,4 @@ Demographic framing in H. Wentworth Eldredge's general session address on the ur
 - [New York City lost nearly one million white residents from 1960 to 1970 while blacks and Puerto Ricans grew to nearly 35% of the population](nyc-white-exodus-and-minority-population-share.md) — related
 - [Voucher-participating private schools in DC have racial compositions closer to the surrounding metro area than public schools](dc-voucher-schools-closer-to-metro-racial-mix.md) — related
 - [Urban living is associated with higher activity in stress-related brain regions and reduced grey matter in dorsolateral prefrontal and pregenual anterior cingulate cortex after urban exposure during upbringing](urban-living-linked-to-stress-brain-activity-and-grey-matter-deficits.md) — related
+- [Industrial arts teacher education must foster understanding of both the technical and the human sides of enterprise](industrial-arts-teacher-education-technical-and-human-sides.md) — related
