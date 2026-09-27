@@ -133,7 +133,10 @@ finds out.
   score 4.28 against 4.22, $0.0017 billed per article against $0.0050 on default routing. InferenceNet
   also caches the 15k-token system prompt ($0.010/M against $0.045/M). `OPENROUTER_PROVIDER_ORDER`
   (comma-separated) sets a preference and `OPENROUTER_ALLOW_FALLBACKS=0` pins it; unset, OpenRouter
-  chooses. The batch does not set it; whether it should is the maintainer's call.
+  chooses. **The maintainer decided (2026-09-28) not to pin a provider**: a cheaper quantised host
+  and upstream rate limits (DeepInfra returned 429s for GLM in testing) were judged not worth the cost
+  difference. The batch leaves it unset; the variable applies only to models under
+  `OPENROUTER_PROVIDER_ORDER_MODEL` (default `z-ai/glm`), so the GPT judge is never pinned by it.
 - **OpenRouter's `:batch` models are unusable here**: the Batch API retains submitted data, which the
   account's zero-data-retention setting refuses (422). At the listed batch prices a first attempt would
   cost about 17% less, not 50%, and retries could not use it.
