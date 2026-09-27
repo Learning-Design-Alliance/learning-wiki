@@ -2406,9 +2406,13 @@ What the rehearsal found, all fixed:</p>
   and every rewritten <code>resource:</code> matches its page's body citation.</li>
 <li><strong>The gate left a stripped DOI in the <code>title:</code> mirror</strong> on pages <code>sync_evidence_codes</code> does not rebuild
   (theories, strategies). <code>enrich.verify_page_citations</code> strips it there too. Ilhan &amp; Guler (2018)'s
-  <code>10.14689/ejer.2018.75.6</code> was stripped from all seven pages because Crossref holds only its Turkish title;
-  authors, year, journal and pages agree, so it is almost certainly right, and restoring it is the
-  maintainer's call. The pages carry the ERIC link instead.</li>
+  <code>10.14689/ejer.2018.75.6</code> was stripped from all seven pages because Crossref holds only its Turkish title.
+  <strong>Restored on the maintainer's decision</strong>, and the check now handles the case:
+  <code>resolve_doi_conflicts.translated_record</code> verifies a DOI whose registry title is in another language
+  (<code>foreign_title</code>) only when first author and year agree (the identity check), the registry journal is
+  named in the citation, and its volume, issue or first page is printed there. The ingest gate passes the
+  citation line (<code>cited_line=</code>) and <code>doi_resolver.check_all</code> applies the same rule. It was 1 of 2,644 cached
+  records here, but ERIC indexes many Turkish, Spanish and Portuguese journals registered that way.</li>
 <li><strong>The load-bearing check missed the batch's own load-bearing claims</strong>: <code>--top 200</code> stopped above the 13 new
   claims three pages from one source cite. <code>--min-designs 3</code> adds every claim at the threshold, and the batch
   passes it; only unjudged entries cost anything. One real failure: Armbruster's "most frame-slot questions
