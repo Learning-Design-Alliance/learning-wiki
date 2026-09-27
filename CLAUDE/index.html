@@ -661,6 +661,17 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#2026-09-29-later-v136-is-current-q4-errors-fixed-design-pages-linked-to-claims-a-kind-and-rigour-pilot" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-29 (later) — v136 is CURRENT; q4 errors fixed; design pages linked to claims; a kind-and-rigour pilot
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-09-29-cost-write-the-citation-once-v136-an-output-price-ceiling-backfires-search-and-study-counts-fixed" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1488,6 +1499,17 @@
   
     <nav class="md-nav" aria-label="Working alongside other sessions — read this before starting">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2026-09-29-later-v136-is-current-q4-errors-fixed-design-pages-linked-to-claims-a-kind-and-rigour-pilot" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-29 (later) — v136 is CURRENT; q4 errors fixed; design pages linked to claims; a kind-and-rigour pilot
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#2026-09-29-cost-write-the-citation-once-v136-an-output-price-ceiling-backfires-search-and-study-counts-fixed" class="md-nav__link">
@@ -2403,6 +2425,43 @@ work is done, not that the check is broken.</p>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
+<h3 id="2026-09-29-later-v136-is-current-q4-errors-fixed-design-pages-linked-to-claims-a-kind-and-rigour-pilot">2026-09-29 (later) — v136 is <code>CURRENT</code>; q4 errors fixed; design pages linked to claims; a kind-and-rigour pilot<a class="headerlink" href="#2026-09-29-later-v136-is-current-q4-errors-fixed-design-pages-linked-to-claims-a-kind-and-rigour-pilot" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong><code>CURRENT</code> is v136</strong> (maintainer's decision). No quantisation filter and no provider pin: 8-bit
+  hosts are not used yet.</li>
+<li><strong>Ten evidence entries coded q4 were not preregistered trials or well-powered meta-analyses</strong> and are
+  recoded: seven narrative reviews and a book (Ryan &amp; Deci 2000, Cowan 2001, Metcalfe 2017, Bandura
+  1997, Pajares 1996, Locke &amp; Latham 2002, Eccles &amp; Wigfield 2002) to q2 narrative review; Watts,
+  Duncan &amp; Quan 2018 and Chi et al. 1989 (n=10) to q2 observational; Bierman et al. 2026 to q3 (an RCT
+  not stated as preregistered). Across the claims, 33 subclaim q codes now equal their entry's, and 18
+  subclaim i codes that exceeded their entry's were lowered to it.</li>
+<li><strong>Every element page has a <code>### Claims</code> section</strong> (the template above has it too), and
+  <strong><code>link_pages.py --claims-for elements patterns principles --verify</code></strong> fills them: GLM proposes up
+  to 12 BM25 claim candidates for each page that cites no claim, and GPT keeps only links where the
+  claim tests or bears directly on the page's own construct (<code>eval/runs/page-links/verified.ndjson</code>
+  records each decision and its reason). GLM alone proposed 1,700; GPT kept 866 ($0.51), on 314
+  pages. Rejections read right: "Cognitive Styles" was refused a Kolb learning-styles claim as a
+  different construct. Design pages citing no claim: <strong>671 → 357</strong>. Markers are capped by the claim's
+  recorded evidence (<code>strength_cap</code>), so most are <code>[+W]</code>. A page without a Claims heading gets one
+  before its Related/Examples/Key Sources tail.</li>
+<li><strong>Four wrong-claim links from the usage simulation fixed</strong>: <code>elements/debrief</code> →
+  simulation-based deliberate practice, <code>principles/gamification</code>'s extrinsic-rewards line →
+  <code>rewards-undermine-intrinsic-motivation</code>, <code>strategies/comparing_multiple_solution_methods</code> →
+  <code>comparing-contrasting-cases-improves-learning</code>, and four timing lines on <code>strategies/timely_feedback</code>
+  no longer cite the task/process-level feedback claim. A check that link text matches its target is
+  still open.</li>
+<li><strong>Kind and rigour, a pilot, not adopted.</strong> <code>q</code> ranks quantitative design, so a rigorous qualitative
+  study is q1 or q2 however well done. <code>eval/kind-rigor/RUBRIC.md</code> codes an evidence KIND (causal,
+  quant-synthesis, review, associational, qualitative, design, theoretical) and a rigour 1–3 judged
+  within it; <code>scripts/kind_rigor_pilot.py</code> coded 38 stratified entries twice ($0.09): kind agreed
+  37/38, rigour 33/38, and the judge said q misrepresents the study's value for 24 of 38 (Beittel
+  1972, rigorous qualitative work, sits at q1 with bare design descriptions; Liang 2026's interviews
+  score r3 at q2; Guzzetti 1993 is a q4 meta-analysis scoring r1 on its abstract). The whole wiki
+  would cost about $4. <strong>The scale is unchanged until the maintainer decides</strong>; do not recode.</li>
+<li><strong><code>--topics-file</code></strong> on <code>discover_articles.py</code> and <code>run_scrape_batch.py</code> replaces the built-in topic
+  list. <code>eval/deep-dive/adult-language-learning/topics.txt</code> is the first: a deep dive testing whether
+  depth in one area makes the wiki useful for a course build (usage simulation S1, Italian A1).</li>
+</ul>
 <h3 id="2026-09-29-cost-write-the-citation-once-v136-an-output-price-ceiling-backfires-search-and-study-counts-fixed">2026-09-29 — cost: write the citation once (v136); an output-price ceiling backfires; search and study counts fixed<a class="headerlink" href="#2026-09-29-cost-write-the-citation-once-v136-an-output-price-ceiling-backfires-search-and-study-counts-fixed" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong>Prompt v136 writes the source's citation once</strong>, as <code>article.citation</code>; every <code>evidence[].citation</code>
@@ -4833,6 +4892,10 @@ generated:
 
 <span class="gu">### Affordances</span>
 &lt;!-- Link to principles applied: [<span class="nt">Principle Name</span>](<span class="na">../principles/principle-slug.md</span>) --&gt;
+- 
+
+<span class="gu">### Claims</span>
+&lt;!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] --&gt;
 - 
 
 <span class="gu">## Related Elements</span>

@@ -728,6 +728,17 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#claims" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Claims
+      
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -794,7 +805,7 @@
 <h1 id="llmkt-llm-based-knowledge-tracing-for-dialogues">LLMKT: LLM-Based Knowledge Tracing for Dialogues<a class="headerlink" href="#llmkt-llm-based-knowledge-tracing-for-dialogues" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Element</strong> · <a href="../">All elements</a>
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 3 claims (3 for) · 1 study, <code>q1</code> · 0 of 1 report an effect size · 3 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>LLMKT is the article's knowledge tracing method: "a novel LLM-based KT method, LLMKT, that leverages the textual content in dialogues, by fine-tuning the open-source Llama 3 LLM" on the KT objective. Given the dialogue up to the target turn and a prompt about one KC, it estimates mastery from the logits of the True and False tokens, averages KC masteries into a correctness prediction, and is trained with binary cross entropy. The article reports that "averaging over KC masteries performed better than taking a product over them", and the authors publicly release their code.</p>
@@ -821,6 +832,13 @@
 <h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
 <ul>
 <li><a href="../../theories/dialogue-knowledge-tracing-framework/">Dialogue Knowledge Tracing Framework</a></li>
+</ul>
+<h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+<ul>
+<li><a href="../../claims/llmkt-outperforms-existing-kt-methods-on-tutoring-dialogues/">LLMKT outperforms existing knowledge tracing methods at predicting student turn correctness in the CoMTA and MathDial tutoring dialogue datasets, and generally outperforms DKT-Sem.</a> [+W]</li>
+<li><a href="../../claims/llmkt-uses-dialogue-text-to-adjust-kc-mastery-estimates/">In a qualitative case study, LLMKT adjusts KC mastery estimates using the dialogue's textual content, such as the difficulty of the tutor's question, rather than only prior correctness labels.</a> [+W]</li>
+<li><a href="../../claims/llmkt-knowledge-change-curves-show-mixed-trends-resembling-power-law-of-practice/">LLMKT's predicted knowledge change curves on CoMTA are mixed across the 15 most frequent KCs, though overall they mostly resemble the power law of practice when dialogues have sufficient turns.</a> [+W]</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
