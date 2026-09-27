@@ -15,18 +15,22 @@ sources:
     author: Blosser, P. E.
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
   - id: blosser-1993-2
     resource: "https://eric.ed.gov/?id=ED351207"
     title: "Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Clearinghouse for Science, Mathematics, and Environmental Education. https://eric.ed.gov/?id=ED351207"
     author: Blosser, P. E.
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # In secondary-school research, cooperative learning beat frontal teaching in 68% of comparisons, with STAD most and Jigsaw least successful
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · review `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Newmann and Thompson's review of 27 high-quality secondary studies yielded 37 comparisons; cooperative learning was favored at the .05 level for 25 comparisons (68%), with effect sizes from .87 to 5.15. [→ Blosser 1993](#blosser-1993)
@@ -38,7 +42,7 @@ sources:
 
 Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Clearinghouse for Science, Mathematics, and Environmental Education. https://eric.ed.gov/?id=ED351207
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 Newmann and Thompson reviewed 27 reports of high-quality secondary research involving STAD, TGT, Jigsaw, Learning Together, and Group Investigation against conventional frontal-teaching groups. The quoted sentence carries the significance count and the printed effect-size range.
 
@@ -48,7 +52,7 @@ Newmann and Thompson reviewed 27 reports of high-quality secondary research invo
 
 Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Clearinghouse for Science, Mathematics, and Environmental Education. https://eric.ed.gov/?id=ED351207
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 Method comparison within the same secondary review. The authors speculated that Jigsaw's weaker showing may reflect lack of group reward and individual accountability; most studies involved grade 7, and science was the most-studied subject though mathematics and language arts had the highest success rates.
 

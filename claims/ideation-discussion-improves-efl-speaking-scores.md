@@ -15,12 +15,14 @@ sources:
     author: "Buphate, T. & Esteban, R. H."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Ideation discussion activities in Design Thinking significantly improved EFL students' overall English-speaking test scores from pre-test to post-test
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` After the 84-hour ideation discussion course, participants' overall speaking post-test mean (3.22) was significantly higher than their pre-test mean (2.25), t(7)=-8.1, p<0.05. [→ Buphate 2022](#buphate-2022)
@@ -31,7 +33,7 @@ sources:
 
 Buphate, T. & Esteban, R. H. (2022). Using ideation discussion activities in Design Thinking to develop EFL students' speaking and critical thinking abilities. LEARN Journal: Language Education and Acquisition Research Network, 15(1), 682-708. https://so04.tci-thaijo.org/index.php/LEARN/index
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Paired-sample t-test on pre-test and post-test speaking scores of eight purposively selected RMUTL students, evaluated by three TEFL experts using speaking rubrics. The article reports the post-test mean was "significantly higher than the mean of the pre -test scores" with t(7)=-8.1, p<0.05. No effect size is printed.
 

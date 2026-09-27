@@ -15,6 +15,8 @@ sources:
     q: 3
     i: 1
     n: 19 studies
+    kind: quant-synthesis
+    rigour: 2
   - id: ratliff-black-therrien-2021
     resource: "https://doi.org/10.1177/1088357620956904"
     title: "Ratliff-Black, M., & Therrien, W. (2021). Parent-Mediated Interventions for School-Age Children With ASD: A Meta-Analysis. *Focus on Autism and Other Developmental Disabilities, 36*(1), 3–13. [doi:10.1177/1088357620956904](https://doi.org/10.1177/1088357620956904)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: 2
     n: 18 studies (170 child participants)
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Parent Implemented Intervention Improves Outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1`–`i2`
+> **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q3` · `i1`–`i2`
 
 Parent implemented intervention refers to programs in which parents are trained to deliver instructional or behavioral support to their own children, typically in home or community settings. The claim concerns whether such parent-delivered programs improve child outcomes relative to usual care or comparison conditions.
 
@@ -43,7 +47,7 @@ Parent implemented intervention refers to programs in which parents are trained 
 
 Nevill, R. E., Lecavalier, L., & Stratis, E. A. (2018). Meta-analysis of parent-mediated interventions for young children with autism spectrum disorder. *Autism, 22*(2), 84–98. [doi:10.1177/1362361316677838](https://doi.org/10.1177/1362361316677838)
 
-`q3 · systematic review / meta-analysis of RCTs (not stated as pre-registered)` · `i1 · small effect, weighted Hedges' g averaging 0.23 across domains (range 0.18–0.27)` · `n=19 studies`
+`q3 · systematic review / meta-analysis of RCTs (not stated as pre-registered)` · `i1 · small effect, weighted Hedges' g averaging 0.23 across domains (range 0.18–0.27)` · `n=19 studies` · `quant-synthesis · r2`
 
 The authors reviewed 19 randomized clinical trials of parent-mediated intervention for children with autism spectrum disorder aged 1–6 years and pooled effects on four outcome domains: symptom severity, socialization, communication-language and cognition. Quality of evidence was rated moderate for symptom severity, communication-language and cognition, and very low for socialization. Dose of parent training did not significantly moderate outcomes, and comparing parent training to treatment-as-usual did not produce significantly different effects than comparing it to an active comparison group; parent-reported and clinician-rated outcomes sometimes diverged (e.g., communication-language significant by parent report but not clinician report, and the reverse for socialization).
 
@@ -51,7 +55,7 @@ The authors reviewed 19 randomized clinical trials of parent-mediated interventi
 
 Ratliff-Black, M., & Therrien, W. (2021). Parent-Mediated Interventions for School-Age Children With ASD: A Meta-Analysis. *Focus on Autism and Other Developmental Disabilities, 36*(1), 3–13. [doi:10.1177/1088357620956904](https://doi.org/10.1177/1088357620956904)
 
-`q3 · systematic review / meta-analysis (mixed group and single-case designs, not pre-registered)` · `i2 · medium-to-large effect, ES=0.79 (group design)` · `n=18 studies (170 child participants)`
+`q3 · systematic review / meta-analysis (mixed group and single-case designs, not pre-registered)` · `i2 · medium-to-large effect, ES=0.79 (group design)` · `n=18 studies (170 child participants)` · `quant-synthesis · r2`
 
 This review examined 18 studies of parent-mediated interventions (PMIs) for school-age children with autism spectrum disorder, covering 170 child participants, an age range the authors note had not previously been reviewed (prior syntheses covered only young children). Group-design studies showed an overall effect size of 0.79 (95% CI [0.50, 1.09]) and single-case-design studies showed a larger overall effect of 1.84 (95% CI [1.08, 2.60]) across the child outcome domains studied. The authors describe effects as "moderately positive" and call for more research on which parent-training components drive effectiveness and for routine measurement of parent treatment fidelity.
 

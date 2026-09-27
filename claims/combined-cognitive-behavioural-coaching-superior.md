@@ -15,18 +15,22 @@ sources:
     author: Grant, Anthony M.
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
   - id: grant-2001-2
     resource: "https://eric.ed.gov/?id=ED478147"
     title: "Grant, Anthony M. (2001). Towards a Psychology of Coaching: The Impact of Coaching on Metacognition, Mental Health and Goal Attainment. Doctoral dissertation, Macquarie University. https://eric.ed.gov/?id=ED478147"
     author: Grant, Anthony M.
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # A combined cognitive and behavioural coaching program outperformed cognitive-only and behavioural-only programs for academic performance, with gains maintained at follow-up only for the combined program.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Three studies with trainee accountants suggested a combined cognitive and behavioural coaching approach was superior to either a cognitive-only or behavioural-only approach for academic performance. [→ Grant 2001](#grant-2001)
@@ -38,7 +42,7 @@ sources:
 
 Grant, Anthony M. (2001). Towards a Psychology of Coaching: The Impact of Coaching on Metacognition, Mental Health and Goal Attainment. Doctoral dissertation, Macquarie University. https://eric.ed.gov/?id=ED478147
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Three studies compared cognitive-only, behavioural-only and combined cognitive-behavioural coaching programs with trainee accountants on grade point average, study skills, self-regulation and mental health. The comparative superiority statement is reported at dissertation-summary level; no test statistics are printed in the supplied text.
 
@@ -48,7 +52,7 @@ Three studies compared cognitive-only, behavioural-only and combined cognitive-b
 
 Grant, Anthony M. (2001). Towards a Psychology of Coaching: The Impact of Coaching on Metacognition, Mental Health and Goal Attainment. Doctoral dissertation, Macquarie University. https://eric.ed.gov/?id=ED478147
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 A follow-up study one semester after the three coaching studies found performance gains persisted only for the combined cognitive-behavioural group, as reported in the dissertation summary. No statistics are printed in the supplied text.
 

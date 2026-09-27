@@ -15,12 +15,14 @@ sources:
     author: "Pittaway, S. M., & Moss, T."
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Online learning communities do not simply emerge; they must be designed for and scaffolded through teaching and assessment activities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors' emerging understanding is that learning communities in fully-online units require deliberate design and scaffolding, with staff and students establishing intellectual, academic, social, personal, and professional presence. [→ Pittaway 2014](#pittaway-2014)
@@ -31,7 +33,7 @@ sources:
 
 Pittaway, S. M., & Moss, T. (2014). “Initially, We Were Just Names on a Computer Screen”: Designing Engagement in Online Teacher Education. Australian Journal of Teacher Education, 39(7). http://ro.ecu.edu.au/ajte/vol39/iss7/8
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Authors' interpretive conclusion (type e) from the case study, in the Emerging Understandings section. They argue communities "must be designed for and scaffolded, through teaching and assessment activities", citing Krause, and that students needed communication skills, motivation, professional links, and meaningful content to engage.
 

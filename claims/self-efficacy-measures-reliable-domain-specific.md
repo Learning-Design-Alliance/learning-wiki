@@ -15,18 +15,22 @@ sources:
     author: Schunk, D. H.
     q: 2
     i: 1
+    kind: review
+    rigour: 2
   - id: schunk-1996-2
     resource: "https://eric.ed.gov/?id=ED394663"
     title: "Schunk, D. H. (1996). Self-Efficacy for Learning and Performance. https://eric.ed.gov/?id=ED394663"
     author: Schunk, D. H.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Self-efficacy measures show high reliability and domain-specific validity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` Internal consistency coefficients of self-efficacy measures have generally been high, ranging from .62 to .94, and test-retest coefficients ranged from .79 to .92 across domains. [→ Schunk 1996](#schunk-1996)
@@ -38,7 +42,7 @@ sources:
 
 Schunk, D. H. (1996). Self-Efficacy for Learning and Performance. https://eric.ed.gov/?id=ED394663
 
-`q2 · i1`
+`q2 · i1` · `review · r2`
 
 Measurement issues section reviewing internal consistency coefficients across studies (Pajares & Kranzler, 1995; Schunk & Swartz, 1993; others), plus test-retest coefficients such as r = .85 for division of whole numbers and r = .92 for writing of paragraphs.
 
@@ -48,7 +52,7 @@ Measurement issues section reviewing internal consistency coefficients across st
 
 Schunk, D. H. (1996). Self-Efficacy for Learning and Performance. https://eric.ed.gov/?id=ED394663
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `review · r2`
 
 Validity discussion of construct validity: self-efficacy for long division correlated positively with attitudes toward division and observers' ratings of persistence and effort, but nonsignificantly with locus of control and standardized mathematical competence measures. Pajares and Kranzler (1995) found mathematics self-efficacy correlated more strongly with mathematics performance than general mental ability.
 

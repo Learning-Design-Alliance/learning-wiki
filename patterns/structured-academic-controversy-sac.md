@@ -19,7 +19,7 @@ grain_size: lesson
 # Structured Academic Controversy (SAC)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (4 mixed) · 10 studies, `q2`–`q4` · 0 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 mixed) · 10 studies (3 review, 2 causal, 2 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Structured Academic Controversy is a discussion pattern in which learners examine a controversial issue by first preparing and advocating one side, then switching sides to argue the opposing position, and finally working toward a shared synthesis. Unlike a standard debate, the goal is not winning. The goal is disciplined perspective-taking followed by integrative judgment.

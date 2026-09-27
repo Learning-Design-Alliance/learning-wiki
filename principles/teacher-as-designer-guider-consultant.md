@@ -17,7 +17,7 @@ sources:
 # Change the teacher's role from indoctrinator to designer, guider, and academic consultant in student-centered teaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because students are the subjects of learning, the article argues the teacher's role must change "from the initiator and the indoctrinator into the helper and the driver for students constructing meanings initiatively". Specifically, "teachers should be the designer of teaching environment, the guider for students’ learning, and the academic consultant for students". The new teaching mode takes students as the center under teachers' guidance, with teachers organizing and guiding the whole teaching process, replacing the traditional mode centered on conveying knowledge.

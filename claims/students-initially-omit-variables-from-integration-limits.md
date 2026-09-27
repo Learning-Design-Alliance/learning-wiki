@@ -15,12 +15,14 @@ sources:
     author: Black, K.E. and Wittmann, M.C.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Students initially leave variables out of their integration limits, using only numerical values, suggesting that variable ('running') limits of integration are unfamiliar
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Students in both miniview groups initially used only numerical values as integration limits, leaving out the integration variable. [→ Black 2009](#black-2009)
@@ -31,7 +33,7 @@ sources:
 
 Black, K.E. and Wittmann, M.C. (2009). Understanding the use of two integration methods on separable first order differential equations. https://perlnet.umaine.edu/imt/
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r3`
 
 Qualitative transcript analysis of two miniview groups. The authors observe that students "initially left out the velocity variable in their integration limits" and suggest students may rarely have considered a variable as a limit of integration, being more familiar with constants or values as limits.
 

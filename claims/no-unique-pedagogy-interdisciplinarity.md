@@ -15,12 +15,14 @@ sources:
     author: Dennis, J. K.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # No special pedagogy or unique strategy set exists for teaching interdisciplinarity; a variety of pedagogies is required
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Multiple scholars of interdisciplinary education conclude there is no single special pedagogy for teaching interdisciplinarity; interdisciplinary pedagogy is active, dynamic, and process-oriented, and a variety of pedagogies is needed. [→ Dennis 2020](#dennis-2020)
@@ -31,7 +33,7 @@ sources:
 
 Dennis, J. K. (2020). The Kantian Effect: Reconceiving the Integration of Knowledge in Interdisciplinary Theory. JIS Journal of Interdisciplinary Sciences, 4(2). https://eric.ed.gov/?id=ED608667
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 In the literature review, the article reports that these scholars converge on the absence of a unique interdisciplinary pedagogy, quoting Klein's characterization that "Interdisciplinary pedagogy is active, dynamic, and process-oriented" and Haynes's claim that one almost has to use a variety of pedagogies. DeZure admits room for improvement remains in understanding pedagogy.
 

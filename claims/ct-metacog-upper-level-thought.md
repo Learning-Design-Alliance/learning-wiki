@@ -16,12 +16,14 @@ sources:
     q: 1
     i: "?"
     n: 32
+    kind: qualitative
+    rigour: 1
 ---
 
 # In a qualitative study of 32 EFL teacher-education students, participants described deeper, more reflective thinking after metacognitive and critical-thinking instruction, and one reported applying it in other disciplines
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case · n=32
+> **Evidence** · 1 study · qualitative `r1` · `q1` · n=32
 
 ## Subclaims
 `q1 i?` In the author's qualitative account of 32 teacher-education students at one Moldovan university, participants were described as understanding their professional development more deeply and becoming more skeptical and insightful; one student reported applying what they learned to other disciplines. There was no comparison group or outcome measure. [→ Șchiopu 2018](#schiopu-2018)
@@ -32,7 +34,7 @@ sources:
 
 Șchiopu, L. (2018). Integrating metacognition and critical thinking skills in the exploration of culture in EFL classroom. Journal of Pedagogical Research, 2(3), 181-191. https://eric.ed.gov/?id=EJ1301134
 
-`q1 · qualitative study (student self-reports and instructor observation, no comparison group)` · `i? · no effect size reported` · `n=32`
+`q1 · qualitative study (student self-reports and instructor observation, no comparison group)` · `i? · no effect size reported` · `n=32` · `qualitative · r1`
 
 A qualitative study of 32 second- and third-year students in the teacher education program at Ion Creangă Pedagogical State University, Moldova, who received metacognitive and critical-thinking training (reflective journals, think-aloud protocols, reflective reading and discussion) alongside their EFL course. Results section 3.3 states that "The participants understand deeper their professional development, they become skeptical and insightful", supported by participant quotes: one student (R. D.) says they can expand what they learnt in the English class to philosophy, Romanian Literature and Economics, and another describes the reflective-journal habit persisting. Transfer to other disciplines is one participant's self-report, not a measured outcome, and the study has no comparison group.
 

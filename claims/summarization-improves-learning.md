@@ -15,6 +15,8 @@ sources:
     q: 2
     i: "?"
     n: 58 developmental community-college students
+    kind: causal
+    rigour: "?"
   - id: mcnamara-et-al-2024
     resource: "https://doi.org/10.1016/j.cedpsych.2023.102238"
     title: "McNamara, D. S., Watanabe, M., Huynh, L., McCarthy, K. S., Allen, L. K., & Magliano, J. P. (2024). Summarizing versus rereading multiple documents. *Contemporary Educational Psychology, 76*, 102238. [doi:10.1016/j.cedpsych.2023.102238](https://doi.org/10.1016/j.cedpsych.2023.102238)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: "?"
     n: 295 adults
+    kind: causal
+    rigour: "?"
 ---
 
 # Summarization Improves Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2`–`q3`
+> **Evidence** · 2 studies · 2 causal `r?` · `q2`–`q3`
 
 Writing summaries of to-be-learned material — identifying main ideas and condensing them into the learner's own words — improves comprehension and retention relative to re-reading or passive study.
 
@@ -43,7 +47,7 @@ Writing summaries of to-be-learned material — identifying main ideas and conde
 
 Selinger, B., Hutson, B., & Fortune, J. (1993). *Starting at the top: Using hierarchical structure to train college students to summarize* [Conference paper]. Paper presented at the Annual Meeting of the Eastern Educational Research Association, Hilton Head, SC. ERIC ED364296. https://files.eric.ed.gov/fulltext/ED364296.pdf
 
-`q2 · randomized experiment, unpublished conference paper (not peer-reviewed)` · `i? · no standardized effect size reported (R²/percent-variance figures only)` · `n=58 developmental community-college students`
+`q2 · randomized experiment, unpublished conference paper (not peer-reviewed)` · `i? · no standardized effect size reported (R²/percent-variance figures only)` · `n=58 developmental community-college students` · `causal · r?`
 
 58 community college students in developmental English classes were randomly assigned to a summarization-training group (explicit instruction in identifying central thesis, major concepts and supporting details, ~1.25 hrs/week for 5 weeks) or an active-reading-strategies control group receiving the same amount of vocabulary/comprehension instruction. Both groups were tested on summarization and reading immediately after training, and on delayed recall of the last passage one week later. Training group membership accounted for 40% of the variance in final summarization scores (p < .001), independent of cognitive ability, and 73% of trained students captured at least 70% of the required information in their summaries versus 14% of controls. The training effect on one-week delayed recall was only marginal (p < .10, 12% of variance), and there was no significant transfer to a standardized reading-comprehension test.
 
@@ -51,7 +55,7 @@ Selinger, B., Hutson, B., & Fortune, J. (1993). *Starting at the top: Using hier
 
 McNamara, D. S., Watanabe, M., Huynh, L., McCarthy, K. S., Allen, L. K., & Magliano, J. P. (2024). Summarizing versus rereading multiple documents. *Contemporary Educational Psychology, 76*, 102238. [doi:10.1016/j.cedpsych.2023.102238](https://doi.org/10.1016/j.cedpsych.2023.102238)
 
-`q3 · peer-reviewed randomized experiment` · `i? · no d/g/r/OR reported (η²/Pillai's trace on a multivariate omnibus test only)` · `n=295 adults`
+`q3 · peer-reviewed randomized experiment` · `i? · no d/g/r/OR reported (η²/Pillai's trace on a multivariate omnibus test only)` · `n=295 adults` · `causal · r?`
 
 295 adult participants were randomly assigned to either summarize or reread five short texts on sun exposure and radiation, then wrote an integrated essay drawing on all five texts, which expert raters scored on holistic quality, argumentation, source use/inferencing, language sophistication and organization. A MANCOVA (controlling for topic/science prior knowledge and vocabulary) found a significant overall effect of condition, but in the direction opposite the claim: participants who reread scored higher than those who summarized on holistic essay score and on source use/inferencing, with no group difference on argumentation, language sophistication or organization. Within the summarizing group only, higher average summary quality (rated on inclusion of main points, details, cohesion, etc.) was a significant positive predictor of essay scores over and above prior-knowledge covariates. The authors explicitly frame this as consistent with prior work that summarization aids single-document comprehension but can hinder multi-document *integration* by biasing readers toward processing each source independently.
 

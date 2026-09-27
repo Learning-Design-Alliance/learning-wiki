@@ -16,7 +16,7 @@ sources:
 # Pintrich's four-phase, four-area paradigm of self-regulated learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study, `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article adopts self-regulated learning as a comprehensive framework including both cognitive and affective aspects, defined as "self-generated thoughts, feelings, and actions that are planned and cyclically adapted to the attainment of personal goals" (Zimmerman, 2000). It uses Pintrich's (2000) general definition in which SRL "consists of four phases—forethought, monitoring, control, and reaction and reflection—and four areas for regulation in each phase—cognition, motivation, behavior, and context." The study applies this framework to L2 English learning, measuring motivation and learning strategies via the MSLQ and relating them to proficiency.

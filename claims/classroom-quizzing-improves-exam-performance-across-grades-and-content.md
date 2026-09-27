@@ -15,30 +15,38 @@ sources:
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-2
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-3
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-4
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (4 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (4 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The chapter reports, citing McDaniel et al. (2011), that clicker quizzes in eighth grade science produced positive effects on all exams, even at the end of the school year. [→ Karpicke 2017](#karpicke-2017)
@@ -52,7 +60,7 @@ sources:
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports McDaniel et al. (2011), comparing quizzed and non-quizzed items within units in eighth grade science: "there were positive effects of initial quizzing" on all exams.
 
@@ -62,7 +70,7 @@ The chapter reports McDaniel et al. (2011), comparing quizzed and non-quizzed it
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports a paper-and-pencil example: Lyle and Crawford (2011) "found that daily quizzes at the end of each lecture in a college statistics class improved" exam performance.
 
@@ -72,7 +80,7 @@ The chapter reports a paper-and-pencil example: Lyle and Crawford (2011) "found 
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports Batsell et al. (2016), comparing two simultaneously taught introductory psychology sections: "Students who took daily quizzes performed better on classroom exams", including completely new questions.
 
@@ -82,7 +90,7 @@ The chapter reports Batsell et al. (2016), comparing two simultaneously taught i
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports Lindsey et al. (2014), whose personalized review system implemented spaced retrieval practice: "Lindsey et al.’s quizzing system enhanced student performance on end-of-semester exam".
 

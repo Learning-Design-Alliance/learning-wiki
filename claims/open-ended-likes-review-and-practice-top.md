@@ -15,12 +15,14 @@ sources:
     author: "Martin, F., Klein, J., & Sullivan, H."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Open-ended responses rank the review section and practice questions as the most-liked lesson features
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The most frequent best-liked responses were the review section (n=63) and practice questions (n=59). [→ Martin 2003](#martin-2003)
@@ -31,7 +33,7 @@ sources:
 
 Martin, F., Klein, J., & Sullivan, H. (2003). Effects of Instructional Events in Computer-Based Instruction. https://eric.ed.gov/?id=ED484984
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Two open-ended attitude-survey questions asked what participants liked best and least; the review section (n=63) and practice questions (n=59) led the best-liked responses, while lots of information (n=54) led the disliked list.
 

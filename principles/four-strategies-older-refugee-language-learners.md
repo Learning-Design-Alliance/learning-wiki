@@ -17,7 +17,7 @@ sources:
 # Teachers of older refugees should eliminate affective barriers, use adult learning strategies, make learning relevant to learner needs, and tap community goals
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The digest enumerates four teacher strategies for encouraging older language learners: "eliminating affective barriers", incorporating adult learning strategies, making the learning situation and materials relevant to older refugees' needs and desires, and tapping into the goals of the refugee community. It grounds them in the teacher's belief that older adults are not necessarily poor learners.

@@ -15,12 +15,14 @@ sources:
     author: Ian D. Beatty, Allan Feldman, William J. Leonard, William J. Gerace, Karen St. Cyr, Hyunju Lee, Robby Harris
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # After one year of TEFA professional development, videotaped lessons showed increased discussion time, more student-student interactions, less IRE interaction, and more varied discussion formats
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In videotaped lessons from the first site, time spent in discussion during the question cycle increased and the frequency of student-student interactions during discussions increased. [→ Ian D. Beatty 2008](#ian-d-beatty-2008)
@@ -32,7 +34,7 @@ sources:
 
 Ian D. Beatty, Allan Feldman, William J. Leonard, William J. Gerace, Karen St. Cyr, Hyunju Lee, Robby Harris. (2008). Teacher Learning of Technology-Enhanced Formative Assessment. NARST 2008 conference paper. https://eric.ed.gov/?q=Teacher+Learning+of+Technology-Enhanced+Formative+Assessment
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Observational analysis of classroom video from the first project site, comparing lessons across the first intervention year. The authors report that "the time spent in discussion during the question cycle increased" and student-student interactions increased for most teachers; no effect sizes are printed.
 

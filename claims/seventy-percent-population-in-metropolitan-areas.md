@@ -15,12 +15,14 @@ sources:
     author: Stamm, Colleen P. (Ed.)
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # By 1973, 70% of the US population lived in the nation's 247 Standard Metropolitan Statistical Areas
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In 1973, 70% of the US and Puerto Rico population dwelled in the 247 Standard Metropolitan Statistical Areas, making the United States a physically and psychically urbanized nation. [→ Stamm 1973](#stamm-1973)
@@ -31,7 +33,7 @@ sources:
 
 Stamm, Colleen P. (Ed.). (1973). Industrial Arts and the Challenge of an Urban Society. American Industrial Arts Association. https://eric.ed.gov/?id=ED083382
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r1`
 
 Demographic framing in H. Wentworth Eldredge's general session address on the urban environment, stating that "In the 247 Standard Metropolitan Statistical Areas (SNISA) of the United States and Puerto Rico now dwell 70% of the population." Used to argue industrial arts must prepare students for urban life.
 

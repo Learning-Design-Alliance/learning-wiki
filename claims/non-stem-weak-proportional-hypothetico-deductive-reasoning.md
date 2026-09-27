@@ -15,12 +15,14 @@ sources:
     author: "Moore, J. C., & Rubbo, L. J."
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Non-STEM students show the poorest performance on proportional reasoning (25%) and score 30% on hypothetico-deductive reasoning items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` Population averages show significant difficulty with proportional reasoning, isolation of variables, and hypothetico-deductive reasoning, with proportional reasoning lowest at 25% and hypothetico-deductive application at 30%. [→ Moore 2011](#moore-2011)
@@ -31,7 +33,7 @@ sources:
 
 Moore, J. C., & Rubbo, L. J. (2011). Scientific reasoning abilities of non-science majors in physics-based courses. https://arxiv.org/abs/1110.2764
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Analysis of LCTSR sub-pattern scores (Fig. 2) for the non-STEM population: significant difficulty with proportional reasoning, isolation of variables, and hypothetico-deductive reasoning; hypothetico-deductive application items averaged 30%. Most students showed some proficiency with correlation and probabilistic reasoning, a contrast the authors call puzzling.
 

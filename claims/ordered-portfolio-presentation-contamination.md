@@ -15,12 +15,14 @@ sources:
     author: "Olson, B., Mead, R., & Payne, D."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Presenting ordered portfolios led panelists to shift toward a bookmarking-like mental process, contaminating independent classification
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` By the end of the week panelists recognized the score ordering of portfolios and largely treated the process as Bookmarking rather than classifying each independently. [→ Olson 2002](#olson-2002)
@@ -31,7 +33,7 @@ sources:
 
 Olson, B., Mead, R., & Payne, D. (2002). A report of a standard setting method for alternate assessments for students with significant disabilities (Synthesis Report 47). https://eric.ed.gov/?id=ED472306
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Authors' evaluation of the three-day process, in which portfolios were presented in order of total points without the ordering being explained. They state panelists "largely treated the process as a Bookmarking," which improved rater consistency only superficially.
 

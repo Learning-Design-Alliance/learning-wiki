@@ -15,12 +15,14 @@ sources:
     author: Prytula, M. P.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Teacher metacognition in PLCs appears at both a lower level (reflecting on what one does) and a higher level (reflecting on how one reflects)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Participants' accounts showed both lower level metacognition and higher level metacognition, with higher level thinking nurturing metacognition. [→ Prytula 2012](#prytula-2012)
@@ -31,7 +33,7 @@ sources:
 
 Prytula, M. P. (2012). Teacher Metacognition within the Professional Learning Community. International Education Studies. https://doi.org/10.5539/ies.v5n4p112
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 The findings apply Von Wright's (1992) situated-metacognition distinction to the three cases: Lisa and Tracey recognized lower-level reflection on classroom processes, while Jacki and Tracey described higher-level reflection on how they reflect. Both levels were evident in the discussion section.
 

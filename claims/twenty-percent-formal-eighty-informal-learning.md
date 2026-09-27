@@ -15,12 +15,14 @@ sources:
     author: Gilfus et. al
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: "?"
 ---
 
 # Practitioners believe roughly 20% of learning takes place formally while 80% takes place informally
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r?` · `q1`
 
 ## Subclaims
 `q1 i?` Some practitioners hold that the large majority of learning occurs informally rather than formally. [→ Gilfus et. al 2009](#gilfus-et-al-2009)
@@ -31,7 +33,7 @@ sources:
 
 Gilfus et. al. (2009). "Social Learning" Buzz Masks Deeper Dimensions. Gilfus Education Group. https://www.gilfuseducationgroup.com
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r?`
 
 The article reports this as a belief held by some practitioners, citing no study or data; it is presented alongside teacher lobbying for more informal peer learning opportunities in eSylvan.
 

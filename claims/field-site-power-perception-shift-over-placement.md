@@ -15,12 +15,14 @@ sources:
     author: Ellen Hawley McWhirter
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Students' field-site power analysis develops from seeing sites as free of power dynamics to detailed accounts of how power works
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Over a semester or year-long placement, students move from viewing field sites as highly functional and free of power dynamics to providing detailed accounts of how power works in the organization and evaluating how well clients are served. [→ Ellen Hawley McWhirter 1998](#ellen-hawley-mcwhirter-1998)
@@ -31,7 +33,7 @@ sources:
 
 Ellen Hawley McWhirter. (1998). An Empowerment Model of Counsellor Education. Canadian Journal of Counselling, 32(1). https://cjc-rcc.ucalgary.ca/
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The author's observational report from her own advanced practica courses, not a controlled study. It describes the perceived developmental shift in students' critical consciousness across the placement, extended to reflection on the counsellor education program itself. No sample size or statistics are printed.
 

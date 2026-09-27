@@ -15,12 +15,14 @@ sources:
     author: Honglan Wei
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students report low motivation for English writing due to lack of real-life application and formulaic compositions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Interviewed seniors attribute low motivation for English writing to its lack of real-life application and to formulaic compositions composed of fixed outlines, sentence patterns and styles. [→ Honglan Wei 2018](#honglan-wei-2018)
@@ -31,7 +33,7 @@ sources:
 
 Honglan Wei. (2018). Implication of Output Hypothesis on Teaching College English Writing ------Based on an interview in JiangXi Normal University. World Journal of Education, 8(5). https://doi.org/10.5430/wje.v8n5p198
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative interview finding from the study's semi-structured interviews with seniors. Student F described formulaic writing and recitation of others' compositions as reducing motivation; Student C linked low motivation to lack of real-life application of college English writing.
 

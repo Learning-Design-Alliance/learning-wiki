@@ -14,18 +14,24 @@ sources:
     author: "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D."
     q: 4
     i: "?"
+    kind: quant-synthesis
+    rigour: "?"
   - id: cepeda-et-al-2008
     resource: "https://doi.org/10.1111/j.1467-9280.2008.02209.x"
     title: "Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing effects in learning: A temporal ridgeline of optimal retention. *Psychological Science, 19*(11), 1095–1102. [doi:10.1111/j.1467-9280.2008.02209.x](https://doi.org/10.1111/j.1467-9280.2008.02209.x)"
     author: "Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H."
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
   - id: donovan-radosevich-1999
     resource: "https://doi.org/10.1037/0021-9010.84.5.795"
     title: "Donovan, J. J., & Radosevich, D. J. (1999). A meta-analytic review of the distribution of practice effect: Now you see it, now you don't. *Journal of Applied Psychology, 84*(5), 795–805. [doi:10.1037/0021-9010.84.5.795](https://doi.org/10.1037/0021-9010.84.5.795)"
     author: "Donovan, J. J., & Radosevich, D. J."
     q: 4
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Spaced Repetition Improves Retention
@@ -49,7 +55,7 @@ Distributing study of a given item across multiple sessions separated by time pr
 
 Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380. [doi:10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)
 
-`q4` · `i? · the abstract prints no effect size; the full text may`
+`q4` · `i? · the abstract prints no effect size; the full text may` · `quant-synthesis · r?`
 
 A review and quantitative synthesis of distributed-practice studies in verbal recall, covering several hundred experiments. Spacing beat massing broadly, and the interaction with retention interval was the robust moderator: the longer the delay before test, the larger the advantage.
 
@@ -57,7 +63,7 @@ A review and quantitative synthesis of distributed-practice studies in verbal re
 
 Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing effects in learning: A temporal ridgeline of optimal retention. *Psychological Science, 19*(11), 1095–1102. [doi:10.1111/j.1467-9280.2008.02209.x](https://doi.org/10.1111/j.1467-9280.2008.02209.x)
 
-`q3` · `i? · the abstract prints no effect size; the full text may`
+`q3` · `i? · the abstract prints no effect size; the full text may` · `causal · r?`
 
 An experiment varying the gap between two study sessions and the interval before test across a wide grid, producing a ridgeline of optimal gaps rather than a single value. The optimal gap was a rising function of the retention interval. This is the study that makes spacing a parameter to tune against an intended retention horizon rather than a fixed schedule.
 
@@ -65,7 +71,7 @@ An experiment varying the gap between two study sessions and the interval before
 
 Donovan, J. J., & Radosevich, D. J. (1999). A meta-analytic review of the distribution of practice effect: Now you see it, now you don't. *Journal of Applied Psychology, 84*(5), 795–805. [doi:10.1037/0021-9010.84.5.795](https://doi.org/10.1037/0021-9010.84.5.795)
 
-`q4` · `i2`
+`q4` · `i2` · `quant-synthesis · r2`
 
 A meta-analysis of distribution-of-practice effects across task types, reporting d = 0.46 overall and substantial moderation by task complexity — the effect was smaller for complex tasks. Included here because it tests the generalisation outside verbal recall, where most of the other evidence sits.
 

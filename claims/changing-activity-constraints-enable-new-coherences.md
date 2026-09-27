@@ -15,12 +15,14 @@ sources:
     author: Frank, B. W.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Changes in the constraints of activity (attention, object location, interaction patterns) provide opportunities for new locally stable patterns of thinking to take hold
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The students' later thinking co-evolved with changes to patterns of attention, locations of material objects, and patterns of interactional behavior, rather than resulting from a single cause. [→ Frank 2009](#frank-2009)
@@ -31,7 +33,7 @@ sources:
 
 Frank, B. W. (2009). Multiple Conceptual Coherences in the Speed Tutorial: Micro-processes of Local Stability. https://eric.ed.gov
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r2`
 
 Authors' interpretive discussion of the case. The article argues that instead of seeking causes of change, one can see how "the various constraints imposed by their activity change," providing opportunities for new patterns with their own local stability, and that there may be no single explanation for why thinking changes.
 

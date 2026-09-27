@@ -15,12 +15,14 @@ sources:
     author: Weintraub, L.
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Federally-funded adult ESL programs and citizenship classes largely exclude older beginner immigrants because instruction is designed for workforce-bound younger adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Adult education instruction is fast-moving, academically or vocationally oriented, and technology-integrated, giving programs little incentive to admit retired learners. [→ Weintraub 2025](#weintraub-2025)
@@ -31,7 +33,7 @@ sources:
 
 Weintraub, L. (2025). Grandma Needs English, Too. Adult Literacy Education. http://doi.org/10.35847/LWeintraub.7.1.37
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 The author's practitioner analysis of federally-funded adult education and community college programs: instruction is "fast-moving, academically (or vocationally) oriented," and older learners' slower gains remove funding incentives to admit or accommodate them. Citizenship classes additionally screen out students below NRS proficiency level three. No empirical data are offered for this claim.
 

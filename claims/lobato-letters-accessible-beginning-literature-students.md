@@ -15,12 +15,14 @@ sources:
     author: Aiex, Nola Kortner
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Lobato's letters are brief, colloquial texts whose low vocabulary difficulty suits beginning students of Brazilian literature
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Beginning students of Brazilian literature may find letters such as Lobato's easier reading than novels because the letters are brief, colloquial, and use low-difficulty vocabulary. [→ Aiex 1997](#aiex-1997)
@@ -31,7 +33,7 @@ sources:
 
 Aiex, Nola Kortner. (1997). The Image of New York City in the 1920s through the Eyes of the Brazilian Modernist Writer, Monteiro Lobato. https://eric.ed.gov/?id=ED403600
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The author's closing argument that the letters suit beginning students of Brazilian literature: they are "brief, colloquial, and down-to-earth," so vocabulary and reading difficulty are low, and the grammar is described as impeccable. This is an interpretive judgment, not a measured readability result.
 

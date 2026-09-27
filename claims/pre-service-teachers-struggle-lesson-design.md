@@ -15,12 +15,14 @@ sources:
     author: "Khaewphuang, P., & Nuangchalerm, P."
     q: 1
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Pre-service teachers struggle with instructional design and lesson planning despite existing standards and coursework
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Prior Thai studies and the authors' own qualitative data indicate pre-service teachers encounter difficulties in lesson plan writing, designing engaging activities, sequencing instructional steps, and selecting appropriate methods and media. [→ Khaewphuang 2025](#khaewphuang-2025)
@@ -31,7 +33,7 @@ sources:
 
 Khaewphuang, P., & Nuangchalerm, P. (2025). Components and Indicators of Instructional Design Competence for Thai Pre-Service Teachers. Journal of Practical Studies in Education, 6(2), 14-22. https://doi.org/10.46809/jpse.v6i2.97
 
-`q1 · i?`
+`q1 · i?` · `associational · r2`
 
 The article cites prior Thai studies (Pornviriyasakul 2011; Chaowakiratipong 2017; Kerdnate & Phueadchantheuk 2020) and the authors' own interviews and lesson-plan analyses from second-year pre-service teachers, reporting difficulties in designing engaging activities and writing lesson plans.
 

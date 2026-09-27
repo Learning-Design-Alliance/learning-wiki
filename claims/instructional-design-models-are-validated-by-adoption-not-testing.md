@@ -16,6 +16,8 @@ sources:
     q: 1
     i: "?"
     n: 34 models surveyed
+    kind: theoretical
+    rigour: "?"
 ---
 
 # Instructional design models are rarely tested against outcomes; their credibility comes from practitioners finding them useful.
@@ -35,7 +37,7 @@ The claim is about the evidence behind design *models*: ADDIE-based models, Dick
 
 Dousay, T. A. (2018). Instructional design models. In *Foundations of Learning and Instructional Design Technology* (1st ed., pp. 277–295). EdTech Books. [https://edtechbooks.org/lidtfoundations/instructional_design_models](https://edtechbooks.org/lidtfoundations/instructional_design_models)
 
-`q1 · expert account in a textbook chapter` · `i? · no effect size` · `n=34 models surveyed`
+`q1 · expert account in a textbook chapter` · `i? · no effect size` · `n=34 models surveyed` · `theoretical · r?`
 
 A textbook chapter by a co-author of the *Survey of Instructional Design Models* (Branch & Dousay, 2015), which has covered 34 models across five editions. The chapter says, citing that survey, that models "are tested through rigorous assessment of their results against predetermined criteria" only rarely. Widely distributed and accepted models "gain their credibility by being found useful by practitioners, who frequently adapt and modify them to match specific conditions." It concludes that "popularity serves as a form of validation." The chapter asserts this rather than reviewing evaluation studies, so it is coded as expert account.
 

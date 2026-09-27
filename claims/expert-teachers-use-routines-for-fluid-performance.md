@@ -15,12 +15,14 @@ sources:
     author: Berliner, David C.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Expert teachers' well-practiced routines make their performance fluid, as seen in homework-review and lesson-teaching comparisons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Leinhardt and Greeno found an expert's opening homework review took about one-third less time than a novice's while accomplishing more, and Berliner's teaching study showed experts depend on students trained in their routines. [→ Berliner 1988](#berliner-1988)
@@ -31,7 +33,7 @@ sources:
 
 Berliner, David C. (1988). The Development of Expertise in Pedagogy. American Association of Colleges for Teacher Education. https://eric.ed.gov/?id=ED298122
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The article reports, citing Leinhardt and Greeno (1986), a comparison of an expert's and a novice's opening homework review in elementary mathematics: the expert was briefer, elicited mostly correct answers, corrected all homework, and never lost control, while the novice lost the pace and lacked habitual routines.
 

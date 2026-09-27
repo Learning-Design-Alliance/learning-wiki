@@ -17,7 +17,7 @@ sources:
 # Four-quadrant progression from unready learner to independent library user with matching instructor behavior
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper organizes library learners into four developmental quadrants, each calling for a different instructor stance. Quadrant one students are unready and unable and receive high support and high direction, often more telling than teaching; quadrant two students, the "average freshman", receive high direction and support with more teaching and critical-thinking assignments; quadrant three students receive low direction and medium support as the librarian shifts to consultant; quadrant four independent users receive low direction and support, mainly through signage. The charted pattern pairs student characteristics with supportive instructor behavior at each level.

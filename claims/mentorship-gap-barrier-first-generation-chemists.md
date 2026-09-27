@@ -15,12 +15,14 @@ sources:
     author: Ives Robert A., Azulay David N., Cook Adam, Dagar Mamta, Fansher Douglas J., Keshari Roshan, Ojha Anupam Anand, Patel Shivani, Sandoval-Pauker Christian, Sanghai Nitesh, Trinh Brittany K., Yadav Vishal, Zheng Zhiling
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # Lack of mentorship and guidance is a key barrier for first-generation chemists, stemming from limited awareness rather than ability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r1` · `q1`
 
 ## Subclaims
 `q1 i?` First-generation chemists lack mentors and role models from similar backgrounds, reducing relatable guidance and leaving them disadvantaged in navigating careers due to limited awareness of opportunities, not lack of ability. [→ Ives Robert A. 2026](#ives-robert-a-2026)
@@ -31,7 +33,7 @@ sources:
 
 Ives Robert A., Azulay David N., Cook Adam, Dagar Mamta, Fansher Douglas J., Keshari Roshan, Ojha Anupam Anand, Patel Shivani, Sandoval-Pauker Christian, Sanghai Nitesh, Trinh Brittany K., Yadav Vishal, Zheng Zhiling. (2026). Reconsidering Excellence in the Chemical Sciences: Lessons from First-Generation Chemists. ACS Central Science. https://doi.org/10.1021/acscentsci.6c00822
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r1`
 
 Reflective editorial section reporting the authors' collective structured writing reflections on barriers. The authors state this barrier emerged "most consistently across our individual responses" and note a similar finding in a larger population of first-generation science students.
 

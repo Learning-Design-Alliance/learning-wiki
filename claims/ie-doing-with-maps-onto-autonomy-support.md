@@ -15,12 +15,14 @@ sources:
     author: Jennifer D. Moss
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # IE's doing-with stance and democratic ethos map onto SDT autonomy support
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` IE values autonomy support through its "doing-with" rather than "doing-to" stance, and its democratic ethos is another form of autonomy support, reminding educators to allow people to express their needs on issues that impact their lives. [→ Jennifer D. Moss 2017](#jennifer-d-moss-2017)
@@ -31,7 +33,7 @@ sources:
 
 Jennifer D. Moss. (2017). Inviting Autonomy: Common Roots and Beliefs of Self-determination Theory and Invitational Education Theory. Journal of Invitational Theory and Practice. https://www.invitationaleducation.net/journal-of-invitational-theory-and-practice/
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Conceptual comparison from the article's autonomy section: doing things to people is controlling them, the opposite of autonomy support. The article adds that the democratic ethos is another form of autonomy support, echoed by Brinson and Miller (1995) in saying students should be invited to be part of educational processes that will affect them.
 

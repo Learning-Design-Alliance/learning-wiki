@@ -15,18 +15,22 @@ sources:
     author: "Khoo, C.S.G., Wang, Z., & Chaudhry, A.S."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: khoo-2013-2
     resource: "http://InformationR.net/ir/17-4/paper547.html"
     title: "Khoo, C.S.G., Wang, Z., & Chaudhry, A.S. (2013). Task-based navigation of a taxonomy interface to a digital repository. Information Research, 17(4) paper 547. http://InformationR.net/ir/17-4/paper547.html"
     author: "Khoo, C.S.G., Wang, Z., & Chaudhry, A.S."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Some users prefer to search by people groups, contexts and institutions rather than by subject categories, and some will not explore complex structures or long lists
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Some users are not familiar with browsing a subject classification system and may prefer to search by people groups, contexts and institutions. [→ Khoo 2013](#khoo-2013)
@@ -38,7 +42,7 @@ sources:
 
 Khoo, C.S.G., Wang, Z., & Chaudhry, A.S. (2013). Task-based navigation of a taxonomy interface to a digital repository. Information Research, 17(4) paper 547. http://InformationR.net/ir/17-4/paper547.html
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 A conclusion of the evaluation study with twenty-two participants. The authors state that "some users are not familiar with browsing a subject classification system" and may prefer searching by people groups, contexts and institutions; in the recall analysis, four participants selected Research groups and decided that was sufficient.
 
@@ -48,7 +52,7 @@ A conclusion of the evaluation study with twenty-two participants. The authors s
 
 Khoo, C.S.G., Wang, Z., & Chaudhry, A.S. (2013). Task-based navigation of a taxonomy interface to a digital repository. Information Research, 17(4) paper 547. http://InformationR.net/ir/17-4/paper547.html
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 A lesson summarized in the conclusion: "some users are lazy and will not explore complex structures or long lists of items". In the recall analysis, two participants gave up on the Topics facet because of its large number of categories and complicated structure, selecting only Document types > books.
 

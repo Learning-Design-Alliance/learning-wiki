@@ -15,12 +15,14 @@ sources:
     author: Erica L. Snow
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Students with more controlled interaction patterns in iSTART-2 generated higher-quality self-explanations than students with more random patterns
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Students who engaged in more controlled (strategic and planned) interaction patterns within iSTART-2 generated higher quality self-explanations than students who acted in more random or impulsive manners. [→ Erica L. Snow 2015](#erica-l-snow-2015)
@@ -31,7 +33,7 @@ sources:
 
 Erica L. Snow. (2015). Dynamic User Modeling within a Game-Based ITS. Proceedings of the 8th International Conference on Educational Data Mining. https://educationaldatamining.org/EDM2015
 
-`q2 · i?`
+`q2 · i?` · `design · r1`
 
 Post hoc Entropy analysis of students' logged choices in iSTART-2; Entropy scores were entered into a regression analysis examining how students' in-system choices influenced self-explanation performance. The article reports the directional finding with no effect size.
 

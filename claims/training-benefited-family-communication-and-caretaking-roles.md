@@ -15,12 +15,14 @@ sources:
     author: Ping Wong, Patricia Duff, and Margaret Early
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Program participation benefited participants' family roles and intergenerational communication, including parenting, advising relatives on health, and reduced reliance on children as translators
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` For participants like Fatima and Sofia, participation in the skills and language training program had a beneficial impact on their caretaking roles and status at home and on intergenerational family communication. [→ Ping Wong 2001](#ping-wong-2001)
@@ -31,7 +33,7 @@ sources:
 
 Ping Wong, Patricia Duff, and Margaret Early. (2001). The Impact of Language and Skills Training on Immigrants' Lives. TESL Canada Journal, Vol. 18, No. 2, Spring 2001. https://eric.ed.gov/?id=EJ659475
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Interview findings on family and community impacts. Mothers reported communicating with teachers, helping children and relatives with health knowledge, and understanding their children's English; the article concludes participation "had a beneficial impact on their caretaking roles and status at home."
 

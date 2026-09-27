@@ -16,7 +16,7 @@ sources:
 # Sociocultural account of CALL feedback as scaffolding toward desired performance
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article frames feedback within sociocultural theory, in which language learning is not isolated and unmediated but supported by more knowledgeable others or tools. It states that "Sociocultural theorists consider feedback to be an essential component of language learning informing learners about their performance", and that feedback's main purpose is to scaffold learners from their current level toward the desired level. Scaffolding may take the form of a dictionary, application, or feedback, and is described as support enabling a learner to accomplish a task otherwise beyond reach. The article uses this account to motivate why feedback in CALL should benefit language learning.

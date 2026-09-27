@@ -15,12 +15,14 @@ sources:
     author: "Alave Mamani, C. G., Tocto-Cano, E., Gonzales Medina, R. I., López-Gonzales, J. L., & Turpo-Chaparro, J. E."
     q: 2
     i: 0
+    kind: associational
+    rigour: 2
 ---
 
 # Workplace harassment did not significantly degrade teacher self-efficacy, plausibly due to a ceiling effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` The harassment → self-efficacy path was not significant (β=-0.055, n.s.); the article attributes this to restricted variance at the top of the self-efficacy scale. [→ Alave Mamani 2026](#alave-mamani-2026)
@@ -31,7 +33,7 @@ sources:
 
 Alave Mamani, C. G., Tocto-Cano, E., Gonzales Medina, R. I., López-Gonzales, J. L., & Turpo-Chaparro, J. E. (2026). Multivariate modeling of organizational dynamics and faculty well-being in higher education. BMC Psychology. https://doi.org/10.1186/s40359-026-05450-0
 
-`q2 · i0`
+`q2 · i0` · `associational · r2`
 
 Null structural path in the main WLSMV model (β=-0.055, n.s. per the hypothesis table). The article offers a "ceiling effect" account, noting self-efficacy responses "cluster at the high end of the 0–6 scale (M=4.81)"; equivalence was not tested.
 

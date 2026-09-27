@@ -15,12 +15,14 @@ sources:
     author: Osborne, John W.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The arousal recall advantage is not attributable to differential clustering within the high- versus low-arousal lists
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Principal components, internal consistency, multivariate association, and input-output correlation analyses found no significant difference in clustering between low- and high-arousal recall data. [→ Osborne 1974](#osborne-1974)
@@ -31,7 +33,7 @@ sources:
 
 Osborne, John W. (1974). Free Recall of Differentially Arousing Words. Paper presented at the Annual Meeting of the American Educational Research Association. https://eric.ed.gov/?id=ED088021
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Several secondary analyses on the recall data: a nine-factor principal components solution with varimax rotation accounted for 69% of the variance in each list with very close eigenvalues; Kuder-Richardson coefficients were .50 (low-arousal) and .54 (high-arousal); and a comparative test of multivariate association showed "The degree of multivariate association for low and high-arousal words was not significantly different." Input-output correlations also showed no significant evidence of differential clustering.
 

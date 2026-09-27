@@ -16,7 +16,7 @@ sources:
 # ANSYS Workbench commercial FEA software as a learning aid for heat transfer concepts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 ANSYS Workbench, a commercial finite element analysis software, was linked with the Heat Transfer learning module as supplement material. The module "emphasized the use of the FEA software to illustrate the mathematical form and understanding of the basic engineering concepts", chosen to facilitate students' understanding of difficult mathematical concepts such as the infinite-series solutions of transient conduction.

@@ -15,18 +15,22 @@ sources:
     author: Yurt, E.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: yurt-2024-2
     resource: "https://eric.ed.gov/?id=ED673212"
     title: "Yurt, E. (2024). Theoretical Examination of Teachers' Motivations for Using Artificial Intelligence Applications in Education: Expectancy-Value Theory Perspective. In M. S. Ozturk, A. Kaban, & M. Unal (Eds.), Proceedings of ICSES 2024-- International Conference on Studies in Education and Social Sciences (pp. 149-158), Istanbul, Turkiye. ISTES. https://eric.ed.gov/?id=ED673212"
     author: Yurt, E.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Teachers who find using AI enjoyable, engaging and satisfying (intrinsic/interest value) may be more motivated to use it (theoretical argument).
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The paper argues that when teachers find AI technologies enjoyable, engaging and satisfying, they may be more motivated to use them. [→ Yurt 2024](#yurt-2024)
@@ -38,7 +42,7 @@ sources:
 
 Yurt, E. (2024). Theoretical Examination of Teachers' Motivations for Using Artificial Intelligence Applications in Education: Expectancy-Value Theory Perspective. In M. S. Ozturk, A. Kaban, & M. Unal (Eds.), Proceedings of ICSES 2024-- International Conference on Studies in Education and Social Sciences (pp. 149-158), Istanbul, Turkiye. ISTES. https://eric.ed.gov/?id=ED673212
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the intrinsic/interest value section, with no new data: "When teachers find using AI technologies enjoyable, engaging, and satisfying, they may be more motivated" to use them.
 
@@ -48,7 +52,7 @@ Theoretical argument in the intrinsic/interest value section, with no new data: 
 
 Yurt, E. (2024). Theoretical Examination of Teachers' Motivations for Using Artificial Intelligence Applications in Education: Expectancy-Value Theory Perspective. In M. S. Ozturk, A. Kaban, & M. Unal (Eds.), Proceedings of ICSES 2024-- International Conference on Studies in Education and Social Sciences (pp. 149-158), Istanbul, Turkiye. ISTES. https://eric.ed.gov/?id=ED673212
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument offered as an example in the same section, with no data: teachers "can design new and innovative learning activities using AI technologies", which the paper says can raise intrinsic motivation.
 

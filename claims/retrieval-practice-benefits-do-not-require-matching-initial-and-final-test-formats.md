@@ -15,24 +15,30 @@ sources:
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-2
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-3
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # The benefits of retrieval practice do not depend on an exact match between initial retrieval practice conditions and the final test format
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The chapter concludes from studies of cue direction, question rewording, maps, and free recall to short answer that benefits do not depend on exact format matching. [→ Karpicke 2017](#karpicke-2017)
@@ -45,7 +51,7 @@ sources:
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter's own summary of transfer-across-formats research: "the bene ﬁts of retrieval practice do not depend on an exact match between initial retrieval practice conditions" and final format.
 
@@ -55,7 +61,7 @@ The chapter's own summary of transfer-across-formats research: "the bene ﬁts o
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports Carpenter et al. (2006), with word pairs: "practicing retrieval enhanced performance on a ﬁnal test regardless of whether the cue word was given to recall the target" or the reverse.
 
@@ -65,7 +71,7 @@ The chapter reports Carpenter et al. (2006), with word pairs: "practicing retrie
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports Rohrer et al. (2010), where "this retrieval practice activity enhanced performance on a transfer test" requiring spatial locations of cities along connecting routes.
 

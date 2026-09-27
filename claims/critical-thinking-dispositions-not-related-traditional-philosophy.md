@@ -15,12 +15,14 @@ sources:
     author: "Aybek, B., & Aslan, S."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Prospective teachers' critical thinking dispositions show no significant relationship with traditional educational philosophy preference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Critical thinking dispositions were not significantly related to traditional educational philosophy (perennialism and essentialism) scores. [→ Aybek 2017](#aybek-2017)
@@ -31,7 +33,7 @@ sources:
 
 Aybek, B., & Aslan, S. (2017). The Relationship between Prospective Teachers' Critical Thinking Dispositions and Their Educational Philosophies. Universal Journal of Educational Research 5(4). https://doi.org/10.13189/ujer.2017.050403
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Pearson correlation analysis in the same 429-participant relational screening study. The printed result for traditional educational philosophy is "a positive low level and in significant relationship" with r=.042; no effect size beyond the correlation is reported.
 

@@ -15,12 +15,14 @@ sources:
     author: Ali, S.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # CAPT software shows promising results for segmental pronunciation, while prosodic features and fluency still require further research and development
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Most CAPT software shows promising results and very positive impacts on the pronunciation of segmental sounds among various types of learners, but prosodic features and fluency remain underdeveloped areas. [→ Ali 2016](#ali-2016)
@@ -31,7 +33,7 @@ sources:
 
 Ali, S. (2016). Towards the development of a comprehensive pedagogical framework for pronunciation training based on adapted automatic speech recognition systems. In S. Papadima-Sophocleous, L. Bradley & S. Thouësny (Eds), CALL communities and culture – short papers from EUROCALL 2016 (pp. 7-13). Research-publishing.net. https://doi.org/10.14705/rpnet.2016.eurocall2016.530
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 This is the article's own narrative-review synthesis of existing CAPT research and tools, stating that "most CAPT softwares show promising results" for segmental sounds while prosody and fluency "still seem to require further research and development." No effect sizes are printed.
 

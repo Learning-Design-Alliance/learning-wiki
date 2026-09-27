@@ -15,12 +15,14 @@ sources:
     author: "Dozier, V., & Molina, S. C."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # AI implementation increases the invisible emotional and relational labor of associate deans, which remains unquantified in leadership evaluations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Associate deans report that AI implementation significantly increased their invisible labor, including soothing faculty fears, managing ethical dilemmas, and fostering community resilience, work the authors describe as gendered and undervalued. [→ Dozier 2026](#dozier-2026)
@@ -31,7 +33,7 @@ sources:
 
 Dozier, V., & Molina, S. C. (2026). Leading From the Precipice: How Academic Deans Are Navigating Artificial Intelligence in Higher Education. New Directions for Student Leadership. https://doi.org/10.1002/yd.70077
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Findings from the qualitative survey case study, analyzed through a critical feminist lens; the authors call this labor "institutional housekeeping" (citing Bird et al. 2004) that remains largely unquantified in formal leadership evaluations.
 

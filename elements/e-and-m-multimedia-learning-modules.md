@@ -17,7 +17,7 @@ sources:
 # Web-based multimedia learning modules for introductory electricity and magnetism
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Four pilot multimedia learning modules (MLMs) were developed covering Coulomb's Law, Electric Fields, Electric Flux, and Gauss' Law, each covering one lecture's worth of content in approximately 10 scenes. Each scene was "a Flash movie containing dynamic animations synchronized with an audio narration that was controlled by the student (pause, play, rewind, and position)". Embedded formative assessments in two or three scenes per module required correct answers before advancing. Average narration time was 12 minutes; students typically took about 17 minutes per module including assessment.

@@ -17,7 +17,7 @@ sources:
 # Reflective culture assignments: Identity wheel, reflective description, professional development context, past products reflection
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The study's data-collection and instructional toolkit comprised four named assignments plus reflective journals, think-aloud protocols, and reflective reading and discussions. The "My identity wheel" activity asked students to draw their identity wheel and how it changed from high school to university; the "Reflective description" assignment described objects used in English classes or daily routine; the "Professional development context" assignment had students examine their professional identity from a distance; and "Past products reflection" asked for a holistic picture of past learning with future implications.

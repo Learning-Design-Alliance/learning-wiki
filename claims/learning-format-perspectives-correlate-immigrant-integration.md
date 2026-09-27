@@ -15,12 +15,14 @@ sources:
     author: Covington, K. C. D.
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Adult immigrants' perspectives of learning formats, self-directed learning, and motivation correlate significantly with English skills acquisition and integration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Significant correlations exist between adult immigrants' perspectives of learning formats, self-directed learning and motivation, English skills acquisition and integration. [→ Covington 2024](#covington-2024)
@@ -31,7 +33,7 @@ sources:
 
 Covington, K. C. D. (2024). Examining the learner perspective in US immigrant adults: Socioeconomic status and the mission to successfully integrate. Doctoral study. https://eric.ed.gov/?id=ED660747
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 Correlational study using four self-report questionnaires with a quantitative sample (n = 107); the article reports that "Significant correlations were found to exist" among the studied variables. No correlation coefficients are printed in the available text, so no effect size is reported.
 

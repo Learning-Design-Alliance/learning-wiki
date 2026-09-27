@@ -16,6 +16,8 @@ sources:
     q: 4
     i: 0
     n: 6,320 (target subgroup); N=12,490 overall
+    kind: causal
+    rigour: 3
   - id: sisk-et-al-2018
     resource: "https://doi.org/10.1177/0956797617739704"
     title: "Sisk, V. F., Burgoyne, A. P., Sun, J., Butler, J. L., & Macnamara, B. N. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science, 29*(4), 549–571. [doi:10.1177/0956797617739704](https://doi.org/10.1177/0956797617739704)"
@@ -23,12 +25,14 @@ sources:
     q: 4
     i: "?"
     n: 365,915 (correlational meta-analysis); n=57,155 (intervention meta-analysis)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Growth mindset improves achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q4` pre-registered or meta-analytic · `i0` negligible
+> **Evidence** · 2 studies · 1 causal `r3`, 1 quant-synthesis `r?` · `q4` · `i0` negligible
 
 Teaching learners that abilities are malleable (a "growth mindset") can raise academic achievement, but effects are small on average and depend heavily on who is targeted and how the intervention is delivered.
 
@@ -44,7 +48,7 @@ Teaching learners that abilities are malleable (a "growth mindset") can raise ac
 
 Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., Tipton, E., Schneider, B., Hulleman, C. S., Hinojosa, C. P., Paunesku, D., Romero, C., Flint, K., Roberts, A., Trott, J., Iachan, R., Buontempo, J., Yang, S. M., Carvalho, C. M., Hahn, P. R., Gopalan, M., Mhatre, P., Ferguson, R., Duckworth, A. L., & Dweck, C. S. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature, 573*(7774), 364–369. [doi:10.1038/s41586-019-1466-y](https://doi.org/10.1038/s41586-019-1466-y)
 
-`q4 · pre-registered, individually randomized field experiment` · `i0 · negligible effect, standardized mean difference = 0.11` · `n=6,320 (target subgroup); N=12,490 overall`
+`q4 · pre-registered, individually randomized field experiment` · `i0 · negligible effect, standardized mean difference = 0.11` · `n=6,320 (target subgroup); N=12,490 overall` · `causal · r3`
 
 A stratified random sample of 65 US public high schools (12,490 ninth-graders, individually randomized) received either a brief, self-administered online growth-mindset intervention or a control activity. Among the pre-registered subgroup of lower-achieving students (n=6,320, k=65 schools), the intervention raised core-course (math, science, English, social studies) GPA at the end of ninth grade by B=0.10 grade points (95% CI 0.04–0.16, t=3.51, P=0.001), a standardized mean difference effect size of 0.11. The same subgroup also showed reduced fixed-mindset beliefs (n=5,650, standardized effect 0.33). Effects on GPA were larger in schools whose peer norms already supported the growth-mindset message.
 
@@ -52,7 +56,7 @@ A stratified random sample of 65 US public high schools (12,490 ninth-graders, i
 
 Sisk, V. F., Burgoyne, A. P., Sun, J., Butler, J. L., & Macnamara, B. N. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science, 29*(4), 549–571. [doi:10.1177/0956797617739704](https://doi.org/10.1177/0956797617739704)
 
-`q4 · meta-analysis (two, k=273 and k=43)` · `i? · no pooled effect size reported in the abstract` · `n=365,915 (correlational meta-analysis); n=57,155 (intervention meta-analysis)`
+`q4 · meta-analysis (two, k=273 and k=43)` · `i? · no pooled effect size reported in the abstract` · `n=365,915 (correlational meta-analysis); n=57,155 (intervention meta-analysis)` · `quant-synthesis · r?`
 
 Two meta-analyses: the first (k=273 studies, N=365,915) examined the correlational strength of the mindset–achievement relationship and its moderators; the second (k=43 studies, N=57,155) examined the effect of mindset *interventions* on achievement and its moderators. The abstract reports overall effects as weak for both meta-analyses, with some support for the theory's prediction that students of low socioeconomic status or academically at-risk students benefit more from mindset interventions than the general population. (Read: publisher/Crossref-deposited abstract only — the article sits behind a SAGE paywall with no open-access copy found via Unpaywall, and the Crossref-indexed publisher page returned a Cloudflare interactive challenge rather than content.)
 

@@ -15,12 +15,14 @@ sources:
     author: Casto, Glendon; And Others
     q: 2
     i: "?"
+    kind: review
+    rigour: "?"
 ---
 
 # Deaf children's attachment and self-concept improve with better communication skills and deaf parents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Deaf children's self-concept improves for children with better communication skills and for children of deaf parents, and impoverished caretaker attachment may not occur when the parents are deaf also. [→ Casto 1976](#casto-1976)
@@ -31,7 +33,7 @@ sources:
 
 Casto, Glendon; And Others. (1976). Affective Development in the Normal and Handicapped Preschool Child. Summary Report. Review and Recommendations. Exceptional Child Center, Utah State University. https://eric.ed.gov/?id=ED135163
 
-`q2 · i?`
+`q2 · i?` · `review · r?`
 
 The report's review of hearing impaired and deaf children states that caretaker attachment "may be impoverished by the nature of the child's handicap and the mother's subsequent frustration in trying to communicate with her child," but notes evidence that this may not be the case when parents are deaf also.
 

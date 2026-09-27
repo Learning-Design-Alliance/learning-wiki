@@ -15,12 +15,14 @@ sources:
     author: "Vadasy, P. F., & Sanders, E. A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # For students with full week-6 attendance, Flex showed significantly greater gains than Plain on taught-letter alphabetics, decoding, and word reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Among students with 100% attendance in week 6, the Flex treatment demonstrated significantly greater gains than Plain on taught-letter alphabetics, decoding, and word reading. [→ Vadasy 2023](#vadasy-2023)
@@ -31,7 +33,7 @@ sources:
 
 Vadasy, P. F., & Sanders, E. A. (2023). Cognitive flexibility + phonics intervention effects on reading gains. Reading Psychology. https://doi.org/10.1080/02702711.2023.2166636
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Reported in the discussion of the multilevel gain models, this treatment-by-week-6-attendance interaction favored Flex only among students with full final-week attendance; week 6 attendance was disrupted by Covid-19 school closures. No effect size is printed for the interaction.
 

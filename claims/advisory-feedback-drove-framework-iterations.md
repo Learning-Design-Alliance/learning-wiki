@@ -15,12 +15,14 @@ sources:
     author: Mehelay S, Comeau B, Chandra S, Fancott C, Gordon D, Loftgard K, Louzado C, Nixon SA, Shahid S, Tilson K, Wilson C, Shaw J.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Iterative advisory group feedback drove four framework iterations, including adding disruption and multi-level oppression
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across successive advisory group meetings, feedback reshaped the framework: version 2 clarified actions using a gears metaphor, version 3 added the notion of disruption and emphasized white supremacy, and version 4 depicted oppression at internalized, interpersonal, and institutional levels. [→ Mehelay S 2026](#mehelay-s-2026)
@@ -31,7 +33,7 @@ sources:
 
 Mehelay S, Comeau B, Chandra S, Fancott C, Gordon D, Loftgard K, Louzado C, Nixon SA, Shahid S, Tilson K, Wilson C, Shaw J. (2026). Shifting power: co-developing a framework for equity in healthcare. BMC Health Services Research. https://doi.org/10.1186/s12913-026-14964-7
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Qualitative co-design results: the third framework iteration, revised after advisory group feedback on the gears metaphor, introduced disruption as a central feature. The advisory group approved the direction but asked for clearer recognition of the comprehensive impacts of systems of oppression.
 

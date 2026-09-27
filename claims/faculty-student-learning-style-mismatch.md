@@ -15,12 +15,14 @@ sources:
     author: Bue, T. W.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Significant mismatches exist between faculty ideal learning styles and actual student learning styles
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` When faculty ideal scores and student personal scores on the LSI were compared by division, a number of significant differences were found, particularly on AC-CE and AC scales. [→ Bue 1979](#bue-1979)
@@ -31,7 +33,7 @@ sources:
 
 Bue, T. W. (1979). Teaching and Learning Styles in Higher Education: Match or Mismatch? https://eric.ed.gov/?id=ED172635
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `associational · r1`
 
 T-tests comparing faculty ideal LSI scores to student LSI scores by division (Table 18) show significant differences on AC-CE total (t=3.87, df=48, alpha=.001 for Sample 3; t=5.51, df=47, alpha=.001 for Sample 4) and AC total (t=3.23, df=45, alpha=.01).
 

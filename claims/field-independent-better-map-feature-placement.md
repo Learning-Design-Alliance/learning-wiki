@@ -15,12 +15,14 @@ sources:
     author: Shaha, Steven H.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Field-independent subjects more accurately reconstruct spatial arrays than field-dependent subjects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Field-independent subjects remembered spatial information and accurately placed recalled map features better than field-dependent students in the map reconstruction task. [→ Shaha 1982](#shaha-1982)
@@ -31,7 +33,7 @@ sources:
 
 Shaha, Steven H. (1982). Cognitive Processes Functional in Spatial Recall. CSE Report No. 193, Center for the Study of Evaluation, UCLA. https://eric.ed.gov/?id=ED228271
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Regression results from both samples (high school n=64, college n=68) showed the Hidden Patterns Test, measuring field-dependence-independence, was a significant predictor of map reconstruction accuracy; the discussion interprets that "subjects recall maPfeatures as discrete entities" within the map field.
 

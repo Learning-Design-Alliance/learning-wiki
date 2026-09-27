@@ -17,7 +17,7 @@ sources:
 # Vocabulary gloss questionnaire (24 items on gloss exposure and perceived effectiveness)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A Chinese-language questionnaire developed for this study, administered to all 135 subjects immediately after the posttest. Part A's eight questions asked about past experience seeing eight gloss types at the pre-university and university stages on a 1 (never) to 5 (usually or always) frequency scale; Part B's eight questions asked about perceived effectiveness of gloss types for reading and vocabulary learning, with definitions and examples of the gloss types provided. The instrument served as a cross-reference comparing learner perceptions with test performance.

@@ -15,18 +15,22 @@ sources:
     author: Adnan F. Saad Mohamed
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
   - id: adnan-f-saad-mohamed-2020-2
     resource: "https://tesl-ej.org/wordpress/issues/volume24/ej84/ej84a1/"
     title: "Adnan F. Saad Mohamed. (2020). Feedback in Computer-Assisted Language Learning: A Meta-Analysis. TESL-EJ, 24(2). https://tesl-ej.org/wordpress/issues/volume24/ej84/ej84a1/"
     author: Adnan F. Saad Mohamed
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Six of thirteen coded moderators significantly influence the effect of CALL feedback: educational level, intervention provider, mother tongue, research context, subject domain, and target language
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Educational level, intervention provider, mother tongue, research context, subject domain, and target language each significantly moderated the CALL feedback effect (Q-tests, p < .05). [→ Adnan F. Saad Mohamed 2020](#adnan-f-saad-mohamed-2020)
@@ -38,7 +42,7 @@ sources:
 
 Adnan F. Saad Mohamed. (2020). Feedback in Computer-Assisted Language Learning: A Meta-Analysis. TESL-EJ, 24(2). https://tesl-ej.org/wordpress/issues/volume24/ej84/ej84a1/
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Random-effects moderator analysis across the 21 included studies, with significance determined by Q-statistics (Tables 4 and 5). The conclusion names the six significant moderators of the thirteen coded variables.
 
@@ -48,7 +52,7 @@ Random-effects moderator analysis across the 21 included studies, with significa
 
 Adnan F. Saad Mohamed. (2020). Feedback in Computer-Assisted Language Learning: A Meta-Analysis. TESL-EJ, 24(2). https://tesl-ej.org/wordpress/issues/volume24/ej84/ej84a1/
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Mother-tongue moderator analysis across the included studies; the author reports Persian (g = 1.28, k = 1) highest, followed by Korean (g = 1.13, k = 1) and English (g = 0.55, k = 9), and links the finding to mother tongue interference theory.
 

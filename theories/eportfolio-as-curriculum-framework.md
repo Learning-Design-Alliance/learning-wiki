@@ -15,7 +15,7 @@ sources:
 # ePortfolio as Curriculum: ePortfolio making itself as a high-impact learning experience rather than a wrapper of evidence
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 7 studies, `q1`–`q2` · 0 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 7 studies (7 design), `q1`–`q2` · 0 of 7 report an effect size · 3 claims rest on one study
 
 ## Description
 This framework, drawn from Yancey and adopted as the organizing idea of the IUPUI taxonomy, contrasts two conceptions of ePortfolio. In the "wrapper" view, ePortfolios are containers of evidence of learning represented by their artifacts. In the "ePortfolio as Curriculum" view, "ePortfolio making itself as a learning experience—ideally, a high-impact one," and the ePortfolio "is not just a collection, but a composition, unified by a reflective text that explains the individual and collective meanings of the artifacts it includes." All taxonomy attributes rest on the idea that ePortfolio, done well, is a vehicle for and artifact of a HIP.

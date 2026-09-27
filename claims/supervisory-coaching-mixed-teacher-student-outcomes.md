@@ -15,12 +15,14 @@ sources:
     author: "Carmouche, M., & Thompson, J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Supervisory teacher coaching shows mixed effects, with six of sixteen reviewed studies reporting improved teacher results and four reporting improved student behaviors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across 16 reviewed quasi-experimental and single-subject studies, six reported improved teacher results and four reported improved student behaviors, and only six of sixteen met all quality indicators. [→ Carmouche 2018](#carmouche-2018)
@@ -31,7 +33,7 @@ sources:
 
 Carmouche, M., & Thompson, J. (2018). Supervisory Teacher Coaching in K-12 Classrooms. JAASEP Winter 2018. https://eric.ed.gov/?id=EJ1254603
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Systematic review of 16 studies identified through EBSCO, ProQuest, and Google Scholar searches, coded with Gersten et al. (2005) and Horner et al. (2005) quality indicators. The review reports "six reporting improved teacher results and four reporting improved student behaviors."
 

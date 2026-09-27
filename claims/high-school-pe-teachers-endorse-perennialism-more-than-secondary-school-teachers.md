@@ -15,18 +15,22 @@ sources:
     author: Isikgoz, Mustafa Enes
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: isikgoz-2020-2
     resource: "https://eric.ed.gov/?id=ED608853"
     title: "Isikgoz, Mustafa Enes. (2020). Analysis on Philosophical Beliefs of Physical Education and Sports Teachers towards Education in Terms of Different Variables. TOJET: The Turkish Online Journal of Educational Technology, November 2020, Special issue. https://eric.ed.gov/?id=ED608853"
     author: Isikgoz, Mustafa Enes
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Physical education teachers working in high school endorse perennialism more than those in secondary school, with no significant school-type difference in the other four philosophies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` School type was significantly associated only with perennialism (U = 45945.00, p < 0.05); the other sub-dimensions showed no significant difference (p > 0.05). [→ Isikgoz 2020](#isikgoz-2020)
@@ -38,7 +42,7 @@ sources:
 
 Isikgoz, Mustafa Enes. (2020). Analysis on Philosophical Beliefs of Physical Education and Sports Teachers towards Education in Terms of Different Variables. TOJET: The Turkish Online Journal of Educational Technology, November 2020, Special issue. https://eric.ed.gov/?id=ED608853
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Mann-Whitney U tests in the descriptive survey. Beliefs differ by type of school "only in the sub-dimension of Perennialism (U=45945.00; p<0.05)"; the other sub-dimensions had p>0.05. No effect size is printed.
 
@@ -48,7 +52,7 @@ Mann-Whitney U tests in the descriptive survey. Beliefs differ by type of school
 
 Isikgoz, Mustafa Enes. (2020). Analysis on Philosophical Beliefs of Physical Education and Sports Teachers towards Education in Terms of Different Variables. TOJET: The Turkish Online Journal of Educational Technology, November 2020, Special issue. https://eric.ed.gov/?id=ED608853
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 The Conclusion restates the direction of the survey's school-type result, based on mean ranks: "teachers working in high school adopt the perennialism sub-dimension more than the teachers working in secondary school." No effect size is printed.
 

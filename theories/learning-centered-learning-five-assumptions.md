@@ -16,7 +16,7 @@ sources:
 # Learning-centered learning: a construct resting on five philosophical learning assumptions
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article names and describes 'learning-centered learning,' a 21st-century construct that shifts educators' mindset from controlling teaching toward the learner and the learning process. It rests on five assumptions: learning is fun, learners control their own learning, learning-style characteristics are accommodated, intrinsic motivation is developed, and people and technology act as learning resources. The author states the construct 'supports learning environments that create intrinsic motivation, accommodate individual learning-style characteristics, give increased control to individual learners, and see all learning as multidimensional.'

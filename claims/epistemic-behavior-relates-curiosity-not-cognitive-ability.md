@@ -15,12 +15,14 @@ sources:
     author: Mussel, Patrick
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Epistemic behavior relates to curiosity but not to cognitive ability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Epistemic behavior at T2 was significantly correlated with curiosity but not with cognitive ability, at odds with the environmental enrichment account. [→ Mussel 2022](#mussel-2022)
@@ -31,7 +33,7 @@ sources:
 
 Mussel, Patrick. (2022). Processes Underlying the Relation between Cognitive Ability and Curiosity with Academic Performance: A Mediation Analysis for Epistemic Behavior in a Five-Year Longitudinal Study. Journal of Intelligence 10: 23. https://doi.org/10.3390/jintelligence10020023
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Bivariate correlation analysis in the Results section of the longitudinal panel study. The article reports that epistemic behavior was "signiﬁcantly correlated with curiosity, but not with cognitive ability", a pattern the author describes as at odds with the literature. No effect size is printed for the null relation.
 

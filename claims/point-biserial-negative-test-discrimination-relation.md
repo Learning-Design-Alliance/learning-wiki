@@ -15,12 +15,14 @@ sources:
     author: Chakrabartty, S. N.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Point-biserial item-total correlation is negatively related to test discriminating value and can be expressed via item and test difficulty and discrimination parameters
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The derived expression for rpbs(i) depicts a negative relationship between item-total correlation (point-biserial) and the discriminating value of the test, expressible in terms of DiffT, DiscT, Diffi and Disci. [→ Chakrabartty 2021](#chakrabartty-2021)
@@ -31,7 +33,7 @@ sources:
 
 Chakrabartty, S. N. (2021). Assessment of item and test parameters: Cosine similarity approach. International Journal of Psychology and Educational Studies, 8(3), 28-38. https://dx.doi.org/10.52380/ijpes.2021.8.3.190
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Analytical derivation under CTT (equations 1.13–1.15) expressing the point-biserial correlation of item i in terms of item and test parameters; no empirical coefficient for this relationship is printed beyond the derivation.
 

@@ -15,12 +15,14 @@ sources:
     author: "Ilhan, M., & Guler, N."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Items ranked from easiest to most difficult are identical under CTT and MFRM
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The ten items rank identically from easiest to most difficult (I2, I3, I1, I4, I7, I6=I8, I10, I5, I9) in both CTT and MFRM. [→ Ilhan 2018](#ilhan-2018)
@@ -31,7 +33,7 @@ sources:
 
 Ilhan, M., & Guler, N. (2018). A Comparison of Difficulty Indices Calculated for Open-Ended Items According to Classical Test Theory and Many Facet Rasch Model. Eurasian Journal of Educational Research, 75. [doi:10.14689/ejer.2018.75.6](https://doi.org/10.14689/ejer.2018.75.6)
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Ranking comparison based on the difficulty indices in Table 3, computed from the same crossed-design dataset (375 students, 3 raters, 10 open-ended items). The article reports "a complete agreement between the item difficulties".
 

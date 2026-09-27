@@ -15,12 +15,14 @@ sources:
     author: "Kim, T. & Yun, J. T."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Across 38 countries, external control is highest in assessment and lowest in curriculum and budget
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Country-average external control scores across all countries are 0.61 for assessment, 0.47 for HR, 0.31 for curriculum, and 0.39 for budget, indicating relatively higher external control in assessment and lower in curriculum and budget. [→ Kim 2019](#kim-2019)
@@ -31,7 +33,7 @@ sources:
 
 Kim, T. & Yun, J. T. (2019). Logics of accountability: Cross-national patterns in school-level controls. Education Policy Analysis Archives, 27(119). https://doi.org/10.14507/epaa.27.4597
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive analysis of TALIS 2013 principal reports from 38 countries (7,436 public lower-secondary schools), computing each country's average external control score in four school-function domains. The printed means show "external control in assessment, HR, curriculum, and budget are: 0.61, 0.47, 0.31, and 0.39."
 

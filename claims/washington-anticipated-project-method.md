@@ -15,12 +15,14 @@ sources:
     author: Ronald E. Chennault
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Washington's Tuskegee practice anticipated the project method, building an institution around it decades before Kilpatrick
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Generals argues Washington deserves more credit for the project approach than Kilpatrick, since Washington built an entire institution around learning through solving real-life problems well before Kilpatrick's 1918 discussion. [→ Ronald E. Chennault 2013](#ronald-e-chennault-2013)
@@ -31,7 +33,7 @@ sources:
 
 Ronald E. Chennault. (2013). Pragmatism and Progressivism in the Educational Thought and Practices of Booker T. Washington. Philosophical Studies in Education, Volume 44. https://eric.ed.gov/?id=EJ1015729
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Historiographical argument via Generals: Washington's Tuskegee curriculum placed explicit emphasis on learning through solving real-life problems, what the article calls a "project approach," though educational historians generally attribute the project method to Kilpatrick.
 

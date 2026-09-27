@@ -15,12 +15,14 @@ sources:
     author: Simple Convergences? Piagetian Theory and Its Relationship to the Epistemology of James Mark Baldwin
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Scholarly views differ on whether Piaget appropriated Baldwin's ideas or extended them with empirical support
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` One view holds that Piaget appropriated Baldwin's ideas; Cahan instead suggests Piaget carried Baldwin's ideas further and supported the new formulations with empirical data; Piaget himself called the parallels simple convergences. [→ Simple Convergences? Piagetian Theory and Its Relationship to the Epistemology of James Mark Baldwin 1989](#simple-convergences-piagetian-theory-and-its-relationship-to-the-epistemology-of-james-mark-baldwin-1989)
@@ -31,7 +33,7 @@ sources:
 
 Simple Convergences? Piagetian Theory and Its Relationship to the Epistemology of James Mark Baldwin. (1989). https://eric.ed.gov/?id=ED334478
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Concluding discussion of the paper's central question of who should be credited for the developmental theories. The paper states "Certainly, Baldwin should have received greater recognition" and presents the appropriation view, Cahan's extension view, and Piaget's own "simple convergences" explanation as unresolved alternatives.
 

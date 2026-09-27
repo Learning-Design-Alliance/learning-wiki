@@ -16,7 +16,7 @@ sources:
 # Three forms of cognitive elaboration as alternative instructional strategies
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (3 for, 3 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 Cognitive elaboration is defined as the generation and integration of new information into one's pre-existing knowledge structure, operationalized as an instructional strategy helping students relate new course material to other course content and prior knowledge. The article distinguishes "the self-generated  elaboration, the instructor-assisted elaboration, and the self-generated elaboration followed by the instructor -assisted elaboration." The self-generated form gives students a central role, while the instructor-assisted and combined forms let students take a peripheral route by following given instructions to generate the integration.

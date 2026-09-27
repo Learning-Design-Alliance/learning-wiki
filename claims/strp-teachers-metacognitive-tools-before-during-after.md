@@ -15,12 +15,14 @@ sources:
     author: "Gil-Garcia, A. & Canizales, R."
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # The authors conclude that the Strategic Teaching and Reading Project gives teachers metacognitive tools for before, during and after lessons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The authors observed six STRP-trained teachers with a before/during/after metacognition checklist and conclude that the project provides teachers with metacognitive tools across all three lesson phases, but they report students' interview answers, not what the observations found. [→ Gil-Garcia 2001](#gil-garcia-2001)
@@ -31,7 +33,7 @@ sources:
 
 Gil-Garcia, A. & Canizales, R. (2001). Commanding Strategies by Hispanic Students as They Think about Their Own Thinking Process. Paper presented at the National Association for Bilingual Education. https://eric.ed.gov/?id=ED457135
 
-`q2 · i?`
+`q2 · i?` · `design · r1`
 
 Observational study: three months after STRP training, researchers observed 6 teachers for 40 minutes each with a metacognition checklist covering before, during, and after the lesson. The results section reports students' answers to the Metacognitive Interview Form, not the checklist observations, and the article concludes "The Strategic Teaching and Reading Project provides teachers with metacognitive tools before, during, and after lesson." The conclusion is the authors' description of the project rather than a reported observation finding.
 

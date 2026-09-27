@@ -16,7 +16,7 @@ sources:
 # TEFA-T: a teaching factory learning model structured around a nine-step troubleshooting syntax
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 TEFA-T integrates the teaching factory (TEFA) learning model with systematic troubleshooting of motorised vehicle problems for automotive vocational education. Its novelty is a nine-step syntax: "(a) identifying product problems, (b) defining the product problems, (c) generating and selecting several alternative solutions", then designing solving techniques, ordering work contracts, designing a work schedule, executing orders, quality control, and assessment. The model also specifies a support system (model book, instructor's manual, learning modules, evaluation instruments), a social system of cooperation between students and lecturers, instructional impact on achievement, and accompaniment impact on metacognitive and critical thinking skills.

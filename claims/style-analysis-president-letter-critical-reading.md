@@ -15,12 +15,14 @@ sources:
     author: Pace, Tom
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # In one first-year composition class, stylistic analysis of a president's letter served critical pedagogy goals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` After campus protests, students used Williams's ideas about language to critically analyze the style of President Garland's letter, examining word choice, imitating sentence structure, and translating his words into their own vernacular. [→ Pace 2001](#pace-2001)
@@ -32,7 +34,7 @@ sources:
 
 Pace, Tom. (2001). Composing and Community: The Teaching of Style as a Tool of Critical Pedagogy. https://eric.ed.gov/?id=ED451526
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 A single-class case narrative: during a first-year composition course at Miami University, following a campus break-in and protests, students copied and imitated the president's word choice and sentence structure and some wrote papers analyzing his rhetorical position. The author explicitly notes this is one experience, not necessarily a pattern.
 

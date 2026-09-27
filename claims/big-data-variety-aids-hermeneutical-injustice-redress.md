@@ -15,12 +15,14 @@ sources:
     author: Haarman, Susan
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Big Data's variety can aid redress of hermeneutical injustice by letting buried experiences find themselves within the data
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Big Data rarely needs to be commensurated and can hold disparate information points, making it more likely that someone whose distinctive experience has been buried can find themselves within it. [→ Haarman 2021](#haarman-2021)
@@ -31,7 +33,7 @@ sources:
 
 Haarman, Susan. (2021). The Data Should Not Speak for Itself: Epistemic Injustice and Data as Rhetoric. Philosophical Studies in Education 52. https://www.ovpes.org/
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Theoretical argument in the hermeneutical injustice section: data can surface evidence for obscured experiences and give marginalized communities raw material for alternative epistemologies. The article attributes the HIV+ patients example to Milan and Van der Velden.
 

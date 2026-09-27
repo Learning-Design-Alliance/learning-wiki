@@ -15,12 +15,14 @@ sources:
     author: Ian D. Beatty, Allan Feldman, William J. Leonard, William J. Gerace, Karen St. Cyr, Hyunju Lee, Robby Harris
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Teachers adapt TEFA to their own terms and contexts, with learning trajectories that are personal and idiosyncratic
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Individual teachers' learning trajectories are personal and idiosyncratic; teachers adapt TEFA to their own circumstances, as when Gina adopted a narrow review-focused niche and gradually expanded her repertoire at her own pace. [→ Ian D. Beatty 2008](#ian-d-beatty-2008)
@@ -31,7 +33,7 @@ sources:
 
 Ian D. Beatty, Allan Feldman, William J. Leonard, William J. Gerace, Karen St. Cyr, Hyunju Lee, Robby Harris. (2008). Teacher Learning of Technology-Enhanced Formative Assessment. NARST 2008 conference paper. https://eric.ed.gov/?q=Teacher+Learning+of+Technology-Enhanced+Formative+Assessment
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Case narrative of Gina, a second-year middle school math teacher in the project, showing her self-directed adaptation path. The authors state "she has ended up making a relatively rich and varied implementation of TEFA an essential part of her instruction"; no quantitative measures are printed.
 

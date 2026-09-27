@@ -15,18 +15,22 @@ sources:
     author: Geng Yaoyao, Morita Aiko
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: geng-yaoyao-2026-2
     resource: "https://doi.org/10.1007/s10936-026-10279-0"
     title: "Geng Yaoyao, Morita Aiko. (2026). A Comparison of Transposed-Character Effect Between Chinese and Japanese Speakers: Processing Position Information of Hanzi and Kanji Characters. Journal of Psycholinguistic Research. https://doi.org/10.1007/s10936-026-10279-0"
     author: Geng Yaoyao, Morita Aiko
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The TC effect grows with prime time: it is significantly larger at 300 ms than at 60 ms and 150 ms, and does not decrease with longer prime time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The prime time × prime type interaction was significant, with the TC effect significantly larger in the 300 ms condition than in the 60 ms and 150 ms conditions. [→ Geng Yaoyao 2026](#geng-yaoyao-2026)
@@ -38,7 +42,7 @@ sources:
 
 Geng Yaoyao, Morita Aiko. (2026). A Comparison of Transposed-Character Effect Between Chinese and Japanese Speakers: Processing Position Information of Hanzi and Kanji Characters. Journal of Psycholinguistic Research. https://doi.org/10.1007/s10936-026-10279-0
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Planned contrasts from the Experiment 2 LME analysis, where the prime time × prime type interaction was significant (χ2(4) = 332.693, p < 0.001). The quoted contrasts show the TC effect increasing with prime time; the 60 ms and 150 ms conditions did not differ significantly (p = .662).
 
@@ -48,7 +52,7 @@ Planned contrasts from the Experiment 2 LME analysis, where the prime time × pr
 
 Geng Yaoyao, Morita Aiko. (2026). A Comparison of Transposed-Character Effect Between Chinese and Japanese Speakers: Processing Position Information of Hanzi and Kanji Characters. Journal of Psycholinguistic Research. https://doi.org/10.1007/s10936-026-10279-0
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Supplementary analysis of TC effect sizes across prime times in Experiment 2. The authors report the effect "did not decrease" with longer prime time, contradicting their prediction based on Peng et al. (1999) and Xu and Sui (2018); Hypothesis 2c was not supported.
 

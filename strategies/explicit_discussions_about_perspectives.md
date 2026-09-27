@@ -12,7 +12,7 @@ generated:
 # Explicit Discussions About Perspectives
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 This strategy structures explicit, facilitated conversations in which learners examine emotions, social issues, and questions of social justice from multiple viewpoints. Learners analyze current events, fictional characters, or historical cases, articulate how others perceive a situation and why, and compare those perspectives with their own. The goal is to make perspective-taking an explicit object of instruction rather than hoping it emerges incidentally.

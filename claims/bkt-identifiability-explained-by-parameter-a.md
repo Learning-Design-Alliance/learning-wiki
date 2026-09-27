@@ -15,12 +15,14 @@ sources:
     author: Brett Van de Sande
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # The identifiability problem of the BKT HMM arises because combinations of P(G) and P(L0) with the same product A give identical functional forms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Different combinations of P(G) and P(L0) that give the same value of A produce models with exactly the same functional form, explaining the degenerate solutions of the identifiability problem. [→ Brett Van de Sande 2013](#brett-van-de-sande-2013)
@@ -31,7 +33,7 @@ sources:
 
 Brett Van de Sande. (2013). Properties of the Bayesian Knowledge Tracing Model. Journal of Educational Data Mining, Volume 5, No 2. https://jedm.educationaldatamining.org
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Analytical argument (Section 3): because A = (1−P(S)−P(G))(1−P(L0)), all points along the curve in Fig. 2 correspond to identical models; the article notes Beck and Chang observed multiple P(G)/P(L0) combinations giving the same error rate but did not explain the origin of the degeneracy.
 

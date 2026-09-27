@@ -15,12 +15,14 @@ sources:
     author: "Falakmasir, M., Yudelson, M., Ritter, S., & Koedinger, K."
     q: 2
     i: 1
+    kind: design
+    rigour: 2
 ---
 
 # The EM solver consistently outperformed stochastic gradient descent for fitting the models, though by a small margin
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · design `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` Among the solver algorithms tested, EM gave consistently better performance than stochastic gradient descent, with the margin within 1% in accuracy and 0.03 in RMSE. [→ Falakmasir 2015](#falakmasir-2015)
@@ -31,7 +33,7 @@ sources:
 
 Falakmasir, M., Yudelson, M., Ritter, S., & Koedinger, K. (2015). Spectral Bayesian Knowledge Tracing. Proceedings of the 8th International Conference on Educational Data Mining. http://pslcdatashop.web.cmu.edu/KDDCup
 
-`q2 · i1`
+`q2 · i1` · `design · r2`
 
 Solver comparison within the Model Validation section, using the hmmsclbl C/C++ utility on the transformed 3-gram dataset. The paper reports EM "gave a consistently better per formance" with a small margin; no per-solver table is printed.
 

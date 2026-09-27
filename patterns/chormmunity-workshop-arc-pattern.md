@@ -17,7 +17,7 @@ sources:
 # Workshop arc: oral conversation, then imagistic, then somatic, ending in ritual performance
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Chormmunity sessions follow a modal sequence across the presentational-propositional continuum. As printed: "The process of a Chormmunity workshop begins verbally, but in conversation, not lecture, definitely not in printed text", then "quickly "moves back" into the imagistic, then the somatic". The co-created movement text is ritually enacted at the end when the group formally shifts from a rehearsal mode to a performance mode.

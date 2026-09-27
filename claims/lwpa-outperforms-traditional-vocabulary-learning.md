@@ -15,12 +15,14 @@ sources:
     author: Tetiana Zubenko, Allan Shwedel
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Listening to vocabulary lessons while physically active improves End-of-Unit exam performance over traditional intentional learning alone
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` First-year ESL students using the LWPA strategy scored significantly higher on the End-of-Unit exam total than comparison students (mean 81.9 vs 63.2). [→ Tetiana Zubenko 2019](#tetiana-zubenko-2019)
@@ -31,7 +33,7 @@ sources:
 
 Tetiana Zubenko, Allan Shwedel. (2019). Integrating mobile listening and physical activity to facilitate intentional and incidental vocabulary acquisition. Advanced Education, Special Issue 11. https://doi.org/10.20535/2410-8286.165717
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Experimental design with N = 51 first-year Ukrainian ESL students randomly assigned to one experimental and two comparison classes; the experimental group added LWPA audio listening to traditional learning. The one-way ANOVA on total exam score was statistically significant, with the LWPA mean of "81.9 versus 63.2 for the Comparison group".
 

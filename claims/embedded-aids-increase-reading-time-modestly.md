@@ -15,12 +15,14 @@ sources:
     author: Manzo, Anthony V.
     q: 2
     i: 1
+    kind: causal
+    rigour: 1
 ---
 
 # Using embedded aids required students to take about 7% longer, on average, to complete an assigned chapter, and comprehension scores reflected this additional effort.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` Students using embedded aids required 7% longer, on the average, to complete the assigned chapter, and comprehension scores on a 30-item short answer test reflected the additional effort. [→ Manzo 1977](#manzo-1977)
@@ -31,7 +33,7 @@ sources:
 
 Manzo, Anthony V. (1977). 'Imbedded Aids' to Readers: Alternatives to Traditional Textual Material. https://eric.ed.gov/?id=ED136196
 
-`q2 · i1`
+`q2 · i1` · `causal · r1`
 
 Time-on-task measure reported in the article for the experimental study. The article reports students "required 7% longer, on the average, to complete the assigned chapter" and that comprehension scores on a 30 item short answer test reflected the additional effort.
 

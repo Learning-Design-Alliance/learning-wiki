@@ -15,18 +15,22 @@ sources:
     author: Bértolo, H.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: bértolo-2005-2
     resource: "https://www.uv.es/psicologica"
     title: "Bértolo, H. (2005). Visual imagery without visual perception? Psicológica, 26, 173-188. https://www.uv.es/psicologica"
     author: Bértolo, H.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Neuroimaging and stimulation evidence supports shared mechanisms: primary visual cortex activation during imagery
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` PET studies show activation of area 17 during mental visual imagery, and rTMS of medial occipital cortex diminished performance on an imagery comparison task. [→ Bértolo 2005](#bertolo-2005)
@@ -38,7 +42,7 @@ sources:
 
 Bértolo, H. (2005). Visual imagery without visual perception? Psicológica, 26, 173-188. https://www.uv.es/psicologica
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports Kosslyn et al.'s (1999) convergent PET and rTMS study: subjects visualised and compared properties of strings with eyes closed during PET, and performance "diminished when it was preceded by rTMS at the medial occipital cortex". The review attributes this to Kosslyn et al.; no effect size is printed.
 
@@ -48,7 +52,7 @@ The review reports Kosslyn et al.'s (1999) convergent PET and rTMS study: subjec
 
 Bértolo, H. (2005). Visual imagery without visual perception? Psicológica, 26, 173-188. https://www.uv.es/psicologica
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports Kreiman, Koch and Fried's (2000) single-unit recordings in human medial temporal lobe during imagery of previously viewed images, attributed as the review attributes it. It states the study "revealed a common substrate for the processing of incoming visual information and visual recall".
 

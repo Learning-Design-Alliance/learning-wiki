@@ -17,7 +17,7 @@ sources:
 # Admission structured as a rite of passage combining rituals and constructivist therapy
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article's organizing pattern treats residential admission as a rite of passage rather than an event, integrating Van Gennep's phases with constructivist therapy. The author's stated conjecture is that "rituals and constructivist therapies comprise a complementary means of helping youths to adjust to residential treatment." The pattern frames admission as separation from a former context, experimentation with new ways of thinking and behaving, and completion marked by ritual or celebration of the youth's arrival and goals.

@@ -15,12 +15,14 @@ sources:
     author: Shetye, S.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Review identifies gaps: CDST studies isolate learner from environment and define what constitutes a system vaguely
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports, citing Han et al. (2022), that CDST studies have failed to explore interactions between internal and external resources and that what constitutes a system remains ambiguously defined. [→ Shetye 2023](#shetye-2023)
@@ -31,7 +33,7 @@ sources:
 
 Shetye, S. (2023). Interconnected Dynamic Components of Learner Language. Studies in Applied Linguistics & TESOL at Teachers College, Columbia University, 22(2), 15-18. https://www.tc.columbia.edu
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's critique, drawing on Han et al. (2022), states that "What represents a system has been vaguely defined and a complete picture of how the learner, time, and environment interact has been largely unexplored". It notes studies have narrowly focused on measures of learner language, isolating the learner from the environment.
 

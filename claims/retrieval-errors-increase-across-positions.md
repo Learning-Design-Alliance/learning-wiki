@@ -15,12 +15,14 @@ sources:
     author: Brown, Alan S.; Cattoi, Robert
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Retrieval errors increase across successive positions, showing both a significant linear and a significant quadratic trend
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Errors (failure to generate an appropriate exemplar within 30 seconds) showed a significant overall increase across positions, with both linear and quadratic trends significant. [→ Brown 1982](#brown-1982)
@@ -31,7 +33,7 @@ sources:
 
 Brown, Alan S.; Cattoi, Robert. (1982). Associative Strength Effects in Semantic Priming. https://eric.ed.gov/?id=ED223979
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Error data from the same 66-subject category-retrieval experiment, plotted in Figure 1 alongside latencies. The article reports "a significant overall difference among positions,FC5,325) = 8.73" with significant linear and quadratic trends, reflecting both a general increase and an initial decline in errors.
 

@@ -15,12 +15,14 @@ sources:
     author: Watts, Mike; Bentley, Di
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Animistic and anthropomorphic explanations do not diminish with age but survive into adulthood, contrary to the Piagetian stage account
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Animistic explanations do not diminish with age and there are reasons to expect they survive intact into adulthood, contradicting the view that they are confined to a 5-8 year old developmental stage. [→ Watts 1991](#watts-1991)
@@ -31,7 +33,7 @@ sources:
 
 Watts, Mike; Bentley, Di. (1991). An Instructional 'Mali-Trap': Anthropomorphic and Animistic Thought in Constructivist Science Education. https://eric.ed.gov/?id=ED336269
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The authors' argumentative review of post-Piaget research on children's explanatory responses, including collected student conception bibliographies, leads them to argue that animistic explanations "not diminish with age". They report that several research papers describe such explanations well beyond the stages Piaget charted.
 

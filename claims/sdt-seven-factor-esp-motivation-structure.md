@@ -15,18 +15,22 @@ sources:
     author: Liu, L.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: liu-2016-2
     resource: "https://doi.org/10.5539/elt.v9n4p92"
     title: "Liu, L. (2016). Why Do Chinese College Students Learn ESP: An Analysis of Language Learning Motivations within SDT Framework. English Language Teaching, 9(4). https://doi.org/10.5539/elt.v9n4p92"
     author: Liu, L.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # An SDT-based questionnaire yields seven distinct, reliable motivation subtypes for Chinese college ESP learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Exploratory factor analysis of the ESP motivation questionnaire yielded seven factors representing the hypothesized motivational constructs, accounting for 64.76% of the variance. [→ Liu 2016](#liu-2016)
@@ -38,7 +42,7 @@ sources:
 
 Liu, L. (2016). Why Do Chinese College Students Learn ESP: An Analysis of Language Learning Motivations within SDT Framework. English Language Teaching, 9(4). https://doi.org/10.5539/elt.v9n4p92
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Exploratory factor analysis (Maximum Likelihood extraction, Varimax rotation) on questionnaire data from 558 Chinese ESP learners. The author reports the analysis "yielded seven factors accounting for 64.76% of the variance", matching the seven hypothesized SDT constructs.
 
@@ -48,7 +52,7 @@ Exploratory factor analysis (Maximum Likelihood extraction, Varimax rotation) on
 
 Liu, L. (2016). Why Do Chinese College Students Learn ESP: An Analysis of Language Learning Motivations within SDT Framework. English Language Teaching, 9(4). https://doi.org/10.5539/elt.v9n4p92
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Reliability analysis of the seven subscales in the same 558-participant survey; subscale alphas ranged 0.760–0.857 and "the total Cronbach alpha for all the subscales was calculated as 0.951".
 

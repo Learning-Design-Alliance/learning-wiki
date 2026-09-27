@@ -15,12 +15,14 @@ sources:
     author: Ward, William C., Nathan Kogan, and Ethel Pankove
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Reward does not reduce the relation between baseline and rewarded creativity performance, supporting a capacity rather than motivational interpretation of individual differences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Regression slopes of Session 2 performance on baseline creativity did not differ significantly across reward and control groups, so reward did not flatten individual differences. [→ Ward 1970](#ward-1970)
@@ -31,7 +33,7 @@ sources:
 
 Ward, William C., Nathan Kogan, and Ethel Pankove. (1970). Motivation and Capacity in Children's Creativity. Research Bulletin. Educational Testing Service. https://eric.ed.gov/?id=ED045766
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Regression analysis shown in Figure 1 with four tasks combined; slopes of .61, .69, and .81 for Delayed Reward, Control, and Immediate Reward "do not differ significantly from one another" per the printed F test.
 

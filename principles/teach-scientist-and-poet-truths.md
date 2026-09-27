@@ -17,7 +17,7 @@ sources:
 # Teach both the truth of the scientist and the truth of the poet, since neither paradigm of truth is sufficient alone
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The address recommends that language arts teachers hold scientific and poetic truth together: adopt the scientist's precision, economy, effectiveness, and objectivity while also fostering imagination, feeling, and the humanizing value of language. The author urges, "teach the truth of the scientist and the truth of the poet, for neither paradigm of truth is in itself sufficient." This principle frames his two dangers: science's overreach into language and the excellence fetish.

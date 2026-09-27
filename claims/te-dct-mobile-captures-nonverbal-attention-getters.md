@@ -15,12 +15,14 @@ sources:
     author: Catherine Rockey, Jessica Tiegs, and Julieta Fernández
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Mobile-application TE-DCTs capture nonverbal attention-getters in the large majority of both L1 and L2 responses across all scenarios
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Between 83% and 100% of participants used at least one nonverbal attention-getter per scenario, with an overall mean of 91.3% across all scenarios. [→ Catherine Rockey 2020](#catherine-rockey-2020)
@@ -31,7 +33,7 @@ sources:
 
 Catherine Rockey, Jessica Tiegs, and Julieta Fernández. (2020). Mobile Application Use in Technology-Enhanced DCTs. CALICO Journal. https://doi.org/10.1558/cj.38773
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive analysis of video responses from 13 participants (8 L1, 5 L2 Spanish speakers) completing eight Flipgrid-based TE-DCT scenarios. The article reports the mean of participants using at least one nonverbal attention-getter across all scenarios was "91.3%"; only descriptive statistics were reported given the sample size.
 

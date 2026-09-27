@@ -12,7 +12,7 @@ generated:
 # Free Choice Time
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q1`–`q4` · 1 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies (1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 1 of 3 report an effect size
 
 ## Description
 Free choice time allocates a structured portion of learning in which learners select their own activity, topic, material, or working mode from a defined set of options. It operationalizes autonomy support: rather than prescribing every task, the instructor curates the choice space and provides guidance within it. The strategy is most effective when choices are meaningful (all options lead to legitimate learning), bounded (the option set is curated, not unlimited), and followed by reflection on what was chosen and why.

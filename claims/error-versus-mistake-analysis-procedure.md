@@ -15,12 +15,14 @@ sources:
     author: XIE Fang, JIANG Xue-mei
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Errors should be distinguished from mistakes, and analysis proceeds through recognition, description, and explanation stages
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` A mistake is a performance error (failure to use a known system correctly), while an error is a deviation reflecting the learner's interlanguage competence. [→ XIE Fang 2007](#xie-fang-2007)
@@ -32,7 +34,7 @@ sources:
 
 XIE Fang, JIANG Xue-mei. (2007). Error analysis and the EFL classroom teaching. US-China Education Review. https://scholar.google.com/scholar?q=Error+analysis+and+the+EFL+classroom+teaching
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Definitional/theoretical statement in §3, attributed to Brown (2000). The article contrasts mistakes (performance failures) with errors as "a noticeable deviation from the adult grammar of a native speaker", and outlines recognition, description, and explanation as the analysis procedures. This is a conceptual framework, not an empirical result.
 

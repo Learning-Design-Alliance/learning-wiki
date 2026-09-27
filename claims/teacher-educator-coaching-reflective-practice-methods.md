@@ -15,12 +15,14 @@ sources:
     author: Ferraro, Joan M.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Teacher educators can coach student teachers in reflective practice using personal histories, dialogue journals, and group discussions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Ojanen's 1993 study of student teachers during field experiences explored the teacher educator's role as coach, finding that personal histories, dialogue journals, and small and large-group discussions help students reflect upon and improve their practices. [→ Ferraro 2000](#ferraro-2000)
@@ -31,7 +33,7 @@ sources:
 
 Ferraro, Joan M. (2000). Reflective Practice and Professional Development. ERIC Digest. https://eric.ed.gov/?id=ED449120
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The digest reports a 1993 study by Ojanen of how student teachers develop reflective teaching skills during field experiences, exploring the teacher educator as coach. It concludes that educators coach most effectively "by using students' personal histories, dialogue journals, and small and large-group discussions." No effect sizes are printed.
 

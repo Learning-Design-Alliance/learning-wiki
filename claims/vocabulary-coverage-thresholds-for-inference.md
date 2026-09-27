@@ -15,12 +15,14 @@ sources:
     author: Restrepo Ramos, F. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Correct word inference in reading requires knowing roughly 95-98% of surrounding words, corresponding to about 3,000-5,000 word families
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Learners need knowledge of about 95% of words in a text for general comprehension and 98% for full comprehension, requiring roughly 3,000 and 5,000 word families respectively. [→ Restrepo Ramos 2015](#restrepo-ramos-2015)
@@ -31,7 +33,7 @@ sources:
 
 Restrepo Ramos, F. D. (2015). Incidental vocabulary learning in second language acquisition: A literature review. PROFILE Issues in Teachers' Professional Development, 17(1), 157-166. http://dx.doi.org/10.15446/profile.v17n1.43957
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Huckin and Coady (1999), that learners must recognize a great percentage of surrounding words to guess meaning, with "95% of knowledge of the words in a text to attain general comprehension, and 98%" for full comprehension.
 

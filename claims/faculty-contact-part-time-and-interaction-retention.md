@@ -15,18 +15,22 @@ sources:
     author: "Zak-Moskal, A. D., & Garrison, M. J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: zak-moskal-2020-2
     resource: "https://commons.library.stonybrook.edu/nyjsa/vol20/iss1/4"
     title: "Zak-Moskal, A. D., & Garrison, M. J. (2020). Can Self-determination Theory be Used to Increase College Student Retention?. The New York Journal of Student Affairs, 20(1). https://commons.library.stonybrook.edu/nyjsa/vol20/iss1/4"
     author: "Zak-Moskal, A. D., & Garrison, M. J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Faculty contact relates to retention: part-time instruction lowers odds, interaction frequency raises intent to stay
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports increased exposure to classes taught by part-time instructors decreased the odds of first-year retention. [→ Zak-Moskal 2020](#zak-moskal-2020)
@@ -38,7 +42,7 @@ sources:
 
 Zak-Moskal, A. D., & Garrison, M. J. (2020). Can Self-determination Theory be Used to Increase College Student Retention?. The New York Journal of Student Affairs, 20(1). https://commons.library.stonybrook.edu/nyjsa/vol20/iss1/4
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review attributing this to Jaeger and Hinz (2008), a logistic regression using existing data (high school transcripts, first-year course and instructor data) tracking students by instructor type, controlling for gender and high school GPA. The authors offer accessibility of full-time faculty as a possible explanation. No effect size printed.
 
@@ -48,7 +52,7 @@ Narrative review attributing this to Jaeger and Hinz (2008), a logistic regressi
 
 Zak-Moskal, A. D., & Garrison, M. J. (2020). Can Self-determination Theory be Used to Increase College Student Retention?. The New York Journal of Student Affairs, 20(1). https://commons.library.stonybrook.edu/nyjsa/vol20/iss1/4
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review attributing this to Lillis (2011), where participants were randomly assigned to a faculty mentor and required to meet at least once during the semester. When interaction was low, faculty emotional intelligence had a significant positive effect on intent to stay; when high, EI appeared to have limited effect. No standardized effect size printed.
 

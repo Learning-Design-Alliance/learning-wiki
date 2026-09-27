@@ -15,24 +15,30 @@ sources:
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-2
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: karpicke-2017-3
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Retrieval practice enhances final-test recollection of contextual details and speeds final retrieval, as shown by list discrimination, response time, and cumulative recall measures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · review `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Chan and McDermott (2007), that initial retrieval practice enhanced performance on a final list discrimination test. [→ Karpicke 2017](#karpicke-2017)
@@ -45,7 +51,7 @@ sources:
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports Chan and McDermott (2007), with two word lists and free recall or a filler task: "Initial retrieval practice enhanced performance on the criterial list discrimination test".
 
@@ -55,7 +61,7 @@ The chapter reports Chan and McDermott (2007), with two word lists and free reca
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The chapter summarizes a small literature: "response times during ﬁnal tests are faster in retrieval practice conditions than they are in restudy control conditions".
 
@@ -65,7 +71,7 @@ The chapter summarizes a small literature: "response times during ﬁnal tests a
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports Lehman et al. (2014), who used cumulative recall curves: "initial retrieval practice led to rapid recall of several items early on during ﬁnal free recall".
 

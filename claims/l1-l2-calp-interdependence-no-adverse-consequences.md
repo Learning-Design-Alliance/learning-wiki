@@ -15,12 +15,14 @@ sources:
     author: Cummins, J.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # L1 and L2 CALP are interdependent: strong promotion of L1 literacy in the early grades entails no adverse consequences for English
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` L1 and L2 CALP tend to be strongly related, and strong promotion of L1 literacy in school in the early grades entails no adverse consequences for English. [→ Cummins 1999](#cummins-1999)
@@ -31,7 +33,7 @@ sources:
 
 Cummins, J. (1999). BICS and CALP: Clarifying the Distinction. ERIC Document ED 438 551. https://eric.ed.gov/?id=ED438551
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `theoretical · r2`
 
 Cummins states these claims about the common underlying proficiency (CUP) "reflect an enormous amount of research data; they are not based on theoretical speculation", citing Cummins (1984, 1996). The present paper reports no new statistics.
 

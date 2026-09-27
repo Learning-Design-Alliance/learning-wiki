@@ -16,7 +16,7 @@ sources:
 # Body-listening framework: five components of somatic exploration for the dance technique class
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article proposes a pedagogical framework for infusing a somatic, body-listening approach into the dance technique class. Body listening means attending closely to the processes, functions, needs, and intuitions of the body within dance. The author identifies "five categories or components of somatic exploration, or body listening": "(1) spatial-perceptual, (2) kinesthetic, (3) breath, (4) eco-somatic, and (5) creative." Together these categories help a teacher envision a somatic-based curriculum and plan lessons, and the approach "focuses more on discovery and less on imitation, pairing first-person experience with informed knowledge of the body."

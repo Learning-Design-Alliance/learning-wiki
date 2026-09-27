@@ -15,12 +15,14 @@ sources:
     author: Stadt, Ronald W.; Kenneke, Larry J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Industrial arts teacher education must foster understanding of both the technical and the human sides of enterprise
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors argue that preparing youth for contemporary work and technology requires teacher education covering both technical and human dimensions of enterprise. [→ Stadt 1970](#stadt-1970)
@@ -31,7 +33,7 @@ sources:
 
 Stadt, Ronald W.; Kenneke, Larry J. (1970). Teacher Competencies for the Cybernated Age. American Council on Industrial Arts Teacher Education. https://eric.ed.gov/?id=ED055227
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Position argument in the monograph's abstract, not an empirical test. The authors assert that industrial arts teacher education "must foster understandingsof bothle technical and the human sides of enterprise"; no evidence or data are offered for the claim itself.
 

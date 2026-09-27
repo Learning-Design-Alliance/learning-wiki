@@ -15,6 +15,8 @@ sources:
     q: 2
     i: "?"
     n: 499 students (271 treatment, 228 control)
+    kind: causal
+    rigour: "?"
   - id: mcgrew-et-al-2019
     resource: "https://doi.org/10.1111/bjep.12279"
     title: "McGrew, S., Smith, M., Breakstone, J., Ortega, T., & Wineburg, S. (2019). Improving university students' web savvy: An intervention study. *British Journal of Educational Psychology, 89*(3), 485–500. [doi:10.1111/bjep.12279](https://doi.org/10.1111/bjep.12279)"
@@ -22,6 +24,8 @@ sources:
     q: 3
     i: "?"
     n: 67 students (29 treatment, 38 control)
+    kind: causal
+    rigour: 2
   - id: mcgrew-2020
     resource: "https://doi.org/10.1016/j.compedu.2019.103711"
     title: "McGrew, S. (2020). Learning to evaluate: An intervention in civic online reasoning. *Computers & Education, 145*, 103711. [doi:10.1016/j.compedu.2019.103711](https://doi.org/10.1016/j.compedu.2019.103711)"
@@ -29,12 +33,14 @@ sources:
     q: 2
     i: "?"
     n: 68 students
+    kind: causal
+    rigour: "?"
 ---
 
 # Lateral Reading Improves Source Evaluation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2`–`q3`
+> **Evidence** · 3 studies · 3 causal `r2` · `q2`–`q3`
 
 Readers who evaluate an unfamiliar source by leaving it and checking what other sites say about it judge its credibility more accurately than readers who stay on the page itself.
 
@@ -52,7 +58,7 @@ Readers who evaluate an unfamiliar source by leaving it and checking what other 
 
 Wineburg, S., Breakstone, J., McGrew, S., Smith, M. D., & Ortega, T. (2022). Lateral reading on the open Internet: A district-wide field study in high school government classes. *Journal of Educational Psychology, 114*(5), 893–909. [doi:10.1037/edu0000740](https://doi.org/10.1037/edu0000740)
 
-`q2 · quasi-experiment, matched control design` · `i? · no effect size in abstract` · `n=499 students (271 treatment, 228 control)`
+`q2 · quasi-experiment, matched control design` · `i? · no effect size in abstract` · `n=499 students (271 treatment, 228 control)` · `causal · r?`
 
 The researchers gave teachers professional development, and the teachers then taught six 50-minute lessons on [lateral reading](../strategies/lateral-reading.md) inside a required high school government course in an urban district. Lateral reading means leaving an unfamiliar website to search the open web before trusting the site. Students in treatment classrooms (n = 271) were compared with matched peers in regular classrooms (n = 228), using a multilevel linear mixed model. Treatment students grew significantly more in their ability to judge the credibility of digital content. The ERIC abstract calls the design a matched control design, while the authors' project page calls it cluster-randomized; it is coded here by the abstract, the more conservative reading.
 
@@ -60,7 +66,7 @@ The researchers gave teachers professional development, and the teachers then ta
 
 McGrew, S., Smith, M., Breakstone, J., Ortega, T., & Wineburg, S. (2019). Improving university students' web savvy: An intervention study. *British Journal of Educational Psychology, 89*(3), 485–500. [doi:10.1111/bjep.12279](https://doi.org/10.1111/bjep.12279)
 
-`q3 · randomised pilot experiment, four course sections assigned` · `i? · no effect size in abstract` · `n=67 students (29 treatment, 38 control)`
+`q3 · randomised pilot experiment, four course sections assigned` · `i? · no effect size in abstract` · `n=67 students (29 treatment, 38 control)` · `causal · r2`
 
 Four sections of a university critical-thinking-and-writing course were randomly assigned to treatment or control. Treatment students received two 75-minute lessons on evaluating the credibility of online content. The online-reasoning assessment was given six weeks before the lessons and again five weeks after. Treatment students were significantly more likely than controls to show gains from pretest to posttest. With only four sections randomised, this is a pilot, and the class-level evidence is thin.
 
@@ -68,7 +74,7 @@ Four sections of a university critical-thinking-and-writing course were randomly
 
 McGrew, S. (2020). Learning to evaluate: An intervention in civic online reasoning. *Computers & Education, 145*, 103711. [doi:10.1016/j.compedu.2019.103711](https://doi.org/10.1016/j.compedu.2019.103711)
 
-`q2 · single-group pre/post design, no control` · `i? · no effect size in abstract` · `n=68 students`
+`q2 · single-group pre/post design, no control` · `i? · no effect size in abstract` · `n=68 students` · `causal · r?`
 
 Sixty-eight 11th-grade students took eight lessons on strategies for evaluating digital content, based on how professional fact checkers work. They completed pre- and posttests of four brief constructed-response items. Scores improved significantly on three of the four tasks: investigating a website's source, critiquing evidence, and finding reliable sources in an open internet search. With no comparison group, the gains cannot be separated from practice or maturation. The one task that did not improve is a limit on how general the effect is.
 

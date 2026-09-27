@@ -15,12 +15,14 @@ sources:
     q: 3
     i: "?"
     n: 75 (37 segmented, 38 continuous)
+    kind: causal
+    rigour: "?"
 ---
 
 # Segmentation Benefits Shrink With Expertise
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=75 (37 segmented, 38 continuous)
+> **Evidence** · 1 study · causal `r?` · `q3` · n=75 (37 segmented, 38 continuous)
 
 The learning benefit of segmenting continuous instructional material (e.g., pausing animation or breaking narration into learner-paced segments) is largest for novices and diminishes — or reverses — as learner expertise increases.
 
@@ -36,7 +38,7 @@ The claim concerns dynamic, transient media (animation, video, narrated slides) 
 
 Spanjers, I. A. E., Wouters, P., van Gog, T., & van Merriënboer, J. J. G. (2011). An expertise reversal effect of segmentation in learning from animated worked-out examples. *Computers in Human Behavior, 27*(1), 46–52. [doi:10.1016/j.chb.2010.05.011](https://doi.org/10.1016/j.chb.2010.05.011)
 
-`q3 · peer-reviewed experiment (not pre-registered)` · `i? · effect size not reported (regression β/t/p only)` · `n=75 (37 segmented, 38 continuous)`
+`q3 · peer-reviewed experiment (not pre-registered)` · `i? · effect size not reported (regression β/t/p only)` · `n=75 (37 segmented, 38 continuous)` · `causal · r?`
 
 76 Dutch secondary-education students (one excluded for missing data) were randomly assigned to study eight animated, narrated worked-out examples on probability calculation, presented either as one continuous stream per example or divided into 5–7 segments with 2-second pauses. Regression models with prior knowledge (centered), condition, and their interaction predicted near- and far-transfer efficiency (performance combined with invested mental effort). The prior-knowledge × condition interaction was significant for both near (β = −0.35, p = .04) and far transfer efficiency (β = −0.34, p = .05): at one SD below the mean (lower prior knowledge), segmented examples were significantly more efficient than continuous ones (near β = 0.39, p = .01; far β = 0.33, p = .03), but at one SD above the mean (higher prior knowledge) this difference had disappeared (near β = −0.05, p = .72; far β = −0.10, p = .51), driven mainly by continuous-condition mental effort dropping sharply with rising prior knowledge while segmented-condition effort stayed flat. No significant interaction was found on raw transfer performance alone, only on mental effort and the composite efficiency measure.
 

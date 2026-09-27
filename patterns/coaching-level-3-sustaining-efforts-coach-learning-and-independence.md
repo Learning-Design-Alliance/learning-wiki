@@ -17,7 +17,7 @@ sources:
 # Level 3 sustaining efforts: extend coach learning and foster independent teacher learning communities
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 At the third level, mentoring turns inward: coaches attend district, regional, and national professional development to deepen literacy knowledge and support sustaining efforts. Advocacy shifts to helping teacher groups "support each other in their effort to improve instructional skills as independent learning communities." Michelle's monthly all-district coaching meetings and Diane's facilitation of a reciprocal teaching group that begins meeting independently illustrate this level.

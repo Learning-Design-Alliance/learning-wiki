@@ -15,36 +15,46 @@ sources:
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-2
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-3
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-4
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-5
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: 0
+    kind: review
+    rigour: 3
 ---
 
 # Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (5 entries) · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study (5 entries) · review `r3` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Butler and Roediger (2007), that performance on a final short-answer test 1 month later was best after an initial short-answer test. [→ Karpicke 2017](#karpicke-2017)
@@ -59,7 +69,7 @@ sources:
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports Butler and Roediger (2007), using videotaped lectures and identical question stems: "performance was best when students had initially taken a short-answer test"; the initial multiple-choice test did not beat rereading.
 
@@ -69,7 +79,7 @@ The chapter reports Butler and Roediger (2007), using videotaped lectures and id
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports McDaniel et al. (2007a), with Web-based quizzes and feedback in an online college course: both formats beat rereading, but "initial short-answer quizzes produced larger effects than did initial multiple-choice quizzes".
 
@@ -79,7 +89,7 @@ The chapter reports McDaniel et al. (2007a), with Web-based quizzes and feedback
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports two online-course experiments by McDaniel et al. (2012) with feedback: both beat reread, but "there was no difference between short- answer and multiple-choice formats"; quizzes were open book and repeatable.
 
@@ -89,7 +99,7 @@ The chapter reports two online-course experiments by McDaniel et al. (2012) with
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports controlled experiments by McDermott et al. (2014) in a seventh grade science classroom, with feedback: both formats beat a no-test control, "but there were either no differences between test formats or a slight advantage of multiple-choice".
 
@@ -99,7 +109,7 @@ The chapter reports controlled experiments by McDermott et al. (2014) in a seven
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i0`
+`q2 · i0` · `review · r3`
 
 The chapter reports laboratory experiments by Smith and Karpicke (2014), including a hybrid format: "Smith and Karpicke reported an overall effect size of d ¼ 0.07" for short-answer versus multiple-choice questioning.
 

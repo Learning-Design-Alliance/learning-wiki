@@ -15,12 +15,14 @@ sources:
     author: "Gorgun, G., Yildirim-Erbasli, S. N., & Demmans Epp, C."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # A support vector machine classifier outperformed decision tree and random forest models in predicting cognitive engagement levels of online discussion posts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The SVM classifier achieved 71% accuracy (K = .61) on the full prediction task and significantly outperformed both the decision tree and random forest classifiers. [→ Gorgun 2022](#gorgun-2022)
@@ -31,7 +33,7 @@ sources:
 
 Gorgun, G., Yildirim-Erbasli, S. N., & Demmans Epp, C. (2022). Predicting cognitive engagement in online course discussion forums. Proceedings of the 15th International Conference on Educational Data Mining. https://doi.org/10.5281/zenodo.6853149
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Test-set evaluation of three classifiers trained on 104 Coh-Metrix indicators plus three contextual features, using 10-fold cross-validation with accuracy, precision, recall, F1, and Cohen's Kappa. The SVM reached "substantial agreement between the predicted and human-assigned labels" with K = .61.
 

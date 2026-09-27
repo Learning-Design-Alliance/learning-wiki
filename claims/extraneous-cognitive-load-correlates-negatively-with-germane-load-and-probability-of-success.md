@@ -15,18 +15,22 @@ sources:
     author: "Gupta, U., & Zheng, R. Z."
     q: 2
     i: 1
+    kind: causal
+    rigour: 2
   - id: gupta-2020-2
     resource: "https://doi.org/10.20897/ejsteme/9252"
     title: "Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252"
     author: "Gupta, U., & Zheng, R. Z."
     q: 2
     i: 0
+    kind: causal
+    rigour: 2
 ---
 
 # Self-reported extraneous cognitive load correlates negatively with germane load and with expected probability of success in an algebra task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0`–`i1`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i0`–`i1`
 
 ## Subclaims
 `q2 i1` Extraneous and germane cognitive load were negatively correlated (r = -.264, p < .01). [→ Gupta 2020](#gupta-2020)
@@ -38,7 +42,7 @@ sources:
 
 Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252
 
-`q2 · i1`
+`q2 · i1` · `causal · r2`
 
 Correlational analysis of CLM subscales in the same algebra study: "A negative correlation between extraneous cognitive load and germane cognitive load (r = -.264, p < .01) was detected", which the authors take as confirming Sweller et al.'s hypothesis.
 
@@ -48,7 +52,7 @@ Correlational analysis of CLM subscales in the same algebra study: "A negative c
 
 Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252
 
-`q2 · i0`
+`q2 · i0` · `causal · r2`
 
 Same correlational analysis, CLM extraneous subscale against QCM: "extraneous cognitive load was found to correlate negatively with the probability of success (r = -.191, p < .05)".
 

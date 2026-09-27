@@ -17,7 +17,7 @@ sources:
 # Erroneous Examples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (1 causal, 1 quant-synthesis), `q3` · 0 of 2 report an effect size
 
 ## Description
 Erroneous examples are worked examples that intentionally contain a mistake for learners to identify, explain, and correct. They are useful when the design goal is to make misconceptions visible and strengthen conceptual discrimination, not just demonstrate a correct procedure.

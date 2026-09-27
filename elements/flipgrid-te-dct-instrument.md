@@ -17,7 +17,7 @@ sources:
 # Flipgrid-based technology-enhanced DCT (TE-DCT) for eliciting nonverbal pragmatic data
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 A data-elicitation instrument in which each discourse completion scenario pairs a written description (in the participant's L1) with a 3–5 second video clip showing spatial elements such as "distance to interlocutor, bodily stance, and direction of gaze". Participants download the Flipgrid application, watch each prompt, and video-record their oral responses on their own phones, capturing nonverbal devices. Responses are coded in V-Note software using a feature-based gesture scheme. The article reports it was successful in capturing nonverbal attention-getters in the majority of responses.

@@ -16,6 +16,8 @@ sources:
     q: 2
     i: "?"
     n: N/A
+    kind: review
+    rigour: "?"
 ---
 
 # Design-based research asks one person to be researcher, designer, project manager and theorist, and those roles compete.
@@ -37,7 +39,7 @@ The claim is about the method's structure: the risks follow from combining the r
 
 Christensen, K. D. N., & West, R. E. (2018). The development of design-based research. In *Foundations of Learning and Instructional Design Technology* (1st ed., pp. 323–339). EdTech Books. [https://edtechbooks.org/lidtfoundations/development_of_design-based_research](https://edtechbooks.org/lidtfoundations/development_of_design-based_research)
 
-`q2 · narrative review of the design-based research literature` · `i? · no effect size` · `n=N/A`
+`q2 · narrative review of the design-based research literature` · `i? · no effect size` · `n=N/A` · `review · r?`
 
 A review of how design-based research developed from 1960s design science, and of the problems facing it. On roles, it draws on Barab and Squire (2004): "if a researcher is intimately involved in the conceptualization, design, development, implementation, and researching of a pedagogical approach, then ensuring that researchers can make credible and trustworthy assertions is a challenge". It also draws on Hoadley (2004), that "the treatment's fidelity to theory [is] initially, and sometimes continually, suspect", and on Anderson and Shattuck (2012) on bias in analysis. It adds that design decisions alter the research, and research decisions constrain the design.
 

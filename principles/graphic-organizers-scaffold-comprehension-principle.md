@@ -17,7 +17,7 @@ sources:
 # Use graphic organizers to scaffold expository text comprehension and involve students in completing them
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q3`–`q4` · 4 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (4 quant-synthesis, 2 causal, 1 review), `q3`–`q4` · 4 of 7 report an effect size
 
 ## Description
 Teachers should use graphic organizers to structure lessons and material, pre-teach vocabulary, and activate prior knowledge when teaching expository text. To optimize learning, instructors should involve students in completing organizers rather than always providing completed ones, train learners in their correct use, and choose timing strategically: before reading to activate prior knowledge, during or after reading to organize and consolidate information. The document reports that teachers perceive greater engagement when students are actively involved in completing organizers.

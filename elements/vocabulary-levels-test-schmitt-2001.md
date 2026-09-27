@@ -17,7 +17,7 @@ sources:
 # Vocabulary Levels Test (Schmitt, Schmitt & Clapham, 2001)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study, `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 A receptive vocabulary measure with five sections covering four word-frequency levels (2000, 3000, 5000, 10000) plus academic vocabulary from the Academic Word List. Each level contains 60 words and 30 definitions presented in groups of 6 words and 3 definitions, with three extra words per group; test takers match words to definitions. The article used it because of its "sound validation background" and its practicality for identifying knowledge at different frequency levels.

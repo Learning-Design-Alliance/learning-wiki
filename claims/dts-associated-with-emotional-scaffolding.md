@@ -15,12 +15,14 @@ sources:
     author: "Veraksa N.E., Airapetyan Z.V., Krasheninnikov-Khait E.E. & Gavrilova M.N."
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Dialectical thinking support is positively associated with teachers' emotional scaffolding, reported for the first time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` Higher DTS scores correlate with Modeling of Emotional Expressiveness (r = 0.546, p = .009), Teaching about Emotions (r = 0.729, p = .000) and overall emotion socialization scaffolding (r = 0.676, p = .001). [→ Veraksa N.E. 2021](#veraksa-ne-2021)
@@ -31,7 +33,7 @@ sources:
 
 Veraksa N.E., Airapetyan Z.V., Krasheninnikov-Khait E.E. & Gavrilova M.N. (2021). Associations between emotional scaffolding, classroom quality and dialectical thinking support in kindergarten. Cypriot Journal of Educational Science. 16(5), 2091-2099. https://doi.org/10.18844/cjes.v16i5.6224
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Spearman correlations across 22 kindergarten groups; the article states this is the first time associations between dialectical thinking support and emotional scaffolding were revealed. The strongest link is "Teaching about Emotions (r = 0.729, p = .000)".
 

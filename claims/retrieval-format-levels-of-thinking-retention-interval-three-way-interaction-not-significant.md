@@ -15,12 +15,14 @@ sources:
     author: "Nero, C. A., & Zulkiply, N."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Retrieval practice format, levels of thinking and retention interval show no significant three-way interaction on undergraduates' reading comprehension
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The three-way interaction of retrieval practice type, levels of thinking and retention interval was not statistically significant (F(1, 98) = 0.003, p = .959). [→ Nero 2021](#nero-2021)
@@ -31,7 +33,7 @@ sources:
 
 Nero, C. A., & Zulkiply, N. (2021). The Effects of Retrieval Practice Across Levels of Thinking and Retention Interval on Reading Comprehension. Asian Journal of University Education (AJUE), 17(4). https://doi.org/10.24191/ajue.v17i4.16222
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Classroom experiment with 100 first-year Cognitive Psychology undergraduates in a 2 x 2 x 2 mixed-subjects design, analysed with a three-way mixed ANOVA on final multiple-choice test scores. The article reports "no significant interaction between these three variables", F(1, 98) = 0.003, p = .959; Table 1 gives cell means and SDs.
 

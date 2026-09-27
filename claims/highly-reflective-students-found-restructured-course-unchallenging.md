@@ -15,18 +15,22 @@ sources:
     author: Carr, K. M.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: carr-1997-2
     resource: "https://eric.ed.gov/?id=ED414179"
     title: "Carr, K. M. (1997). A Constructivist Approach To Reflective Judgment and Science Literacy in Introductory College Science Instruction. https://eric.ed.gov/?id=ED414179"
     author: Carr, K. M.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Highly reflective students often viewed the lecture-free restructured course negatively, as unchallenging and lacking in content
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` While traditional instruction was viewed positively by highly reflective (stage 6-7) students, the restructured course was often viewed negatively by them as unchallenging and somewhat lacking in content. [→ Carr 1997](#carr-1997)
@@ -37,7 +41,7 @@ sources:
 
 Carr, K. M. (1997). A Constructivist Approach To Reflective Judgment and Science Literacy in Introductory College Science Instruction. https://eric.ed.gov/?id=ED414179
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Case-study discussion of stage 6-7 students: the author's interpretation is that highly reflective students construct knowledge personally in spite of authority-based instruction, so lecture may be perceived as expert-based idea-explaining rather than authority-based truth-transmission.
 
@@ -47,7 +51,7 @@ Case-study discussion of stage 6-7 students: the author's interpretation is that
 
 Carr, K. M. (1997). A Constructivist Approach To Reflective Judgment and Science Literacy in Introductory College Science Instruction. https://eric.ed.gov/?id=ED414179
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 The author contends the course intentionally de-emphasized the authority/expert voice to foster growth at pre- and quasi-reflective levels, and that highly reflective students require additional instructor contact and mentoring.
 

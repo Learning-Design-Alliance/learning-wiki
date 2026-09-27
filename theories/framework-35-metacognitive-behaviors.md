@@ -16,7 +16,7 @@ sources:
 # Framework of 35 metacognitive behaviors for coding reading-strategy use
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The researchers created a coding framework of 35 metacognitive behaviors, skills, and strategies drawn from a literature review, used to judge whether student interview responses demonstrated metacognition. Behaviors range from setting the purpose for reading and understanding the task to predicting, using fix-up strategies, summarizing, testing, revising, evaluating, checking, and rereading. A response matching a listed behavior was counted as metacognitive; otherwise it was considered not metacognitive and ignored.

@@ -15,18 +15,22 @@ sources:
     author: "Soysal, S., & Yilmaz Kogar, E."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: soysal-2021-2
     resource: "https://doi.org/10.21449/ijate.779963"
     title: "Soysal, S., & Yilmaz Kogar, E. (2021). An Investigation of Item Position Effects by Means of IRT-Based Differential Item Functioning Methods. International Journal of Assessment Tools in Education, 8(2), 239-256. https://doi.org/10.21449/ijate.779963"
     author: "Soysal, S., & Yilmaz Kogar, E."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Lord's chi-square identified more DIF items than Raju's unsigned area in the without-purification condition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In pairwise booklet comparisons of the TEOG Turkish subtest, Lord's chi-square flagged a higher number of items with DIF than Raju's unsigned area when no item purification was applied. [→ Soysal 2021](#soysal-2021)
@@ -37,7 +41,7 @@ sources:
 
 Soysal, S., & Yilmaz Kogar, E. (2021). An Investigation of Item Position Effects by Means of IRT-Based Differential Item Functioning Methods. International Journal of Assessment Tools in Education, 8(2), 239-256. https://doi.org/10.21449/ijate.779963
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Secondary analysis of real TEOG 2016 Turkish subtest response data from 9737 8th-grade students across four booklets, comparing DIF detection methods under the 3PL model. The article reports that "Lord's χ2 identified more items with DIF than Raju's unsigned area did in the without item purification condition."
 
@@ -47,7 +51,7 @@ Secondary analysis of real TEOG 2016 Turkish subtest response data from 9737 8th
 
 Soysal, S., & Yilmaz Kogar, E. (2021). An Investigation of Item Position Effects by Means of IRT-Based Differential Item Functioning Methods. International Journal of Assessment Tools in Education, 8(2), 239-256. https://doi.org/10.21449/ijate.779963
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Same observational DIF analysis, with-purification condition: "fewer items with DIF were observed in the Raju's UA method than in the Lord's χ2 method", though the two methods' results were less consistent than without purification.
 

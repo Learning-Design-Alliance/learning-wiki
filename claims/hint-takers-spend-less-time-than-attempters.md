@@ -15,12 +15,14 @@ sources:
     author: Ritwick Chaudhry, Harvineet Singh, Pradeep Dogga, and Shiv Kumar Saini
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Hint takers spend less time on a question than learners who attempt it, regardless of attempt outcome
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students who directly take hints spend less time per question than students who attempt the question, whether their attempts are correct or incorrect. [→ Ritwick Chaudhry 2017](#ritwick-chaudhry-2017)
@@ -31,7 +33,7 @@ sources:
 
 Ritwick Chaudhry, Harvineet Singh, Pradeep Dogga, and Shiv Kumar Saini. (2017). Modeling Hint-Taking Behavior and Knowledge State of Students with Multi-Task Learning. Proceedings of the 11th International Conference on Educational Data Mining. https://educationaldatamining.org/
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Observational analysis of ASSISTments 2009-2010 logs shown in Figure 2, a box plot of time taken by response type (correct, incorrect, hint). The text reports that hint takers "tend to spend less time on a question" than attempters.
 

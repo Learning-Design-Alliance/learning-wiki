@@ -15,12 +15,14 @@ sources:
     author: Ozlem Yagcioglui
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # EFL university students report varied preferences for music, drawing, photography, acting, internet use, mobile-phone use, cooking and travelling while studying English
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In a survey of 90 university EFL students, most indicated liking music, internet use and travelling while studying English, with smaller majorities liking drawing, photos, acting and dancing, mobile-phone use and cooking. [→ Ozlem Yagcioglui 2016](#ozlem-yagcioglui-2016)
@@ -31,7 +33,7 @@ sources:
 
 Ozlem Yagcioglui. (2016). The Positive Effects of Cognitive Learning Styles in ELT Classes. European Journal of English Language Teaching, 1(2). https://doi.org/10.5281/zenodo.166311
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive survey of preference questions asked during the 1st and 2nd weeks of the courses; the author reports that "90 students indicated that they liked listening to music while studying English" and 80 liked drawing pictures. Counts are descriptive only; no inferential test is reported.
 

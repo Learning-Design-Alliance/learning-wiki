@@ -15,12 +15,14 @@ sources:
     author: Livingstone, D.W.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Aging does not substantially reduce informal learning participation, though preference shifts from courses to self-directed learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` While course participation declines markedly with age, informal learning participation and time show only marginal declines between the mid-20s and retirement years. [→ Livingstone 2001](#livingstone-2001)
@@ -31,7 +33,7 @@ sources:
 
 Livingstone, D.W. (2001). Adults' Informal Learning: Definitions, Findings, Gaps, and Future Research. NALL Working Paper #21. http://www.oise.utoronto.ca/depts/sese/csew/nall/res/21adultsifnormallearning.htm
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 NALL 1998 survey data by age group show course participation falling from 67% (ages 18-24) to 10% (65+), while informal learning participation stays at 88-99% and weekly hours decline only from 23 to 12. Preference for learning on one's own rises from 22% to 64%.
 

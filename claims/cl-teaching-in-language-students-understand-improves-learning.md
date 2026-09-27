@@ -15,12 +15,14 @@ sources:
     author: Foundational Learning
     q: 2
     i: "?"
+    kind: review
+    rigour: "?"
 ---
 
 # Teaching students in a language they understand benefits both language learning and broader learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Teaching in a language students understand benefits their learning of that language and their broader learning. [→ Foundational Learning 2023](#foundational-learning-2023)
@@ -32,7 +34,7 @@ sources:
 
 Foundational Learning. (2023). World Bank. https://www.worldbank.org/en/topic/education/brief/foundational-learning
 
-`q2 · i? · no source text available to check; the entry prints no effect size`
+`q2 · i? · no source text available to check; the entry prints no effect size` · `review · r?`
 
 Narrative review of language-of-instruction evidence. The brief states the "evidence is clear" that home-language teaching helps both the language itself and broader learning, and warns that early-exit transition to a second language as medium of instruction may hamper subject learning. No pooled effect size is printed.
 

@@ -15,12 +15,14 @@ sources:
     author: Hall, Gene E.; Rutherford, William L.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Not all educators develop impact concerns even when colleagues do; concern change cannot be forced by an outside agent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In the authors' studies, some individual educators never reflected impact concerns although their colleagues did, and changes in concern cannot be engineered or forced by an outside agent. [→ Hall 1983](#hall-1983)
@@ -31,7 +33,7 @@ sources:
 
 Hall, Gene E.; Rutherford, William L. (1983). Client Concerns: A Guide to Facilitating Institutional Change. Research and Development Center for Teacher Education, The University of Texas at Austin. https://eric.ed.gov/?id=ED251728
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The authors report an observational finding from their studies: "we have observed individual educators who do not at any time reflect impact concerns although their colleagues may." They state the cause awaits further study and draw the immediate implication that change facilitators should not automatically assume all clients will have impact concerns.
 

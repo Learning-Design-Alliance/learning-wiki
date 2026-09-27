@@ -16,7 +16,7 @@ sources:
 # Four-set student lexical memory model with staged progression from introduction to long-term retention
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 1 study, `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The adaptive tutoring algorithm formalizes each student's lexical memory as four non-intersecting sets: "N – units assigned to the student and pending introduction; P – units in the process of active acquisition; S – units in the student's short-term memory; L – learned units (in the long-term memory)." Units move forward from N to P to S to L, with the only backward movement from S to P on recall failure. A unit enters short-term memory after at least four successful recalls in activities of increasing difficulty, and is deemed fully learned after remaining in short-term memory for at least seven days and still being recalled. The model is rooted in the Linguistic Automaton framework and the cybernetic approach to instruction as regulation.

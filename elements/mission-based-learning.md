@@ -12,7 +12,7 @@ generated:
 # Mission-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 15 studies, `q1`–`q4` · 1 of 15 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 15 studies (5 review, 4 causal, 3 theoretical, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 1 of 15 report an effect size · 3 claims rest on one study
 
 ## Description
 Mission-based learning places learners inside a structured, goal-oriented challenge — a "mission" with a defined objective, operating constraints, and observable success criteria. Unlike open-ended projects, missions are bounded: learners know what must be accomplished, under what conditions, and how completion will be judged, and they must plan and execute actions to reach the goal.

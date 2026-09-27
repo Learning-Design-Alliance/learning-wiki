@@ -15,12 +15,14 @@ sources:
     author: Industrial Arts Teacher Education Fellowship Program in the Technologies, 1969-1970
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # The fellowship team argued industrial arts education exemplifies a craft era and has failed to keep pace with technological change
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The report contends that education, including industrial arts, has failed to keep pace with technological change and that a project-method, craft orientation is inadequate for interpreting a cybernetic era. [→ Industrial Arts Teacher Education Fellowship Program in the Technologies 1970](#industrial-arts-teacher-education-fellowship-program-in-the-technologies-1970)
@@ -31,7 +33,7 @@ sources:
 
 Industrial Arts Teacher Education Fellowship Program in the Technologies, 1969-1970. (1970). West Virginia University, College of Human Resources and Education. https://eric.ed.gov/?id=ED048505
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 An argumentative section (Industrial Arts in the Cybernetic Era) of the Section I report. The authors pose diagnostic questions to the profession, arguing that a project-method program identifies with a craft orientation that seems "totally inadequate" in an era of numerical control equipment and blue-collar job decline.
 

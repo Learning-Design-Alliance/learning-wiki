@@ -16,7 +16,7 @@ sources:
 # Constructivism as a theory of knowledge and learning with individualistic, social, and combined branches
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper presents Constructivism as a theory of knowledge and learning concerned with what one knows and how one comes to know, treating knowledge as internally constructed and socially mediated. It maps three branches: von Glaserfeld's Radical Constructivism (individualistic), socially and culturally situated Constructivism drawing on Vygotsky, Mead, and pragmatism, and combined approaches such as CTGV's emphasis on the social nature of cognition. The paper uses this taxonomy to identify fundamental characteristics shared across branches, including rejection of the Objectivist framework and a close theoretical-practical connection.

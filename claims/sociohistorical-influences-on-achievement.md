@@ -15,12 +15,14 @@ sources:
     author: Nelson, Charles P.; Kim, Mi-Kyung
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Past and present sociohistorical influences led two similar students in the same class to work toward different grades
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Maria and Jungsook, despite being in the same class and university, worked toward different grades because of different previous and present sociohistorical influences, participating in different activity systems with different motives. [→ Nelson 2001](#nelson-2001)
@@ -31,7 +33,7 @@ sources:
 
 Nelson, Charles P.; Kim, Mi-Kyung. (2001). Contradictions, Appropriation, and Transformation: An Activity Theory Approach to L2 Writing and Classroom Practices. Texas Papers in Foreign Language Education. https://eric.ed.gov/?id=ED464497
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Comparative case analysis of two students. Maria, influenced by family expectations to go "beyond what he did" and become a professor, was a self-described "perfectionist" who read the OLR six or more times; Jungsook, whose Japanese university experience did not place high value on grades, considered a B satisfactory and lacked time due to her demanding coursework.
 

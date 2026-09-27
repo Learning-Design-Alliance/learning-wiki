@@ -15,12 +15,14 @@ sources:
     author: "Zhao, A., Guo, Y., Biales, C., & Olszewski, A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Participants incidentally acquired an average of 3.19 of 20 target words after reading two passages
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Participants incidentally acquired an average of 3.19 out of 20 target words (SD = 2.20). [→ Zhao 2016](#zhao-2016)
@@ -31,7 +33,7 @@ sources:
 
 Zhao, A., Guo, Y., Biales, C., & Olszewski, A. (2016). Exploring learner factors in second language (L2) incidental vocabulary acquisition through reading. Reading in a Foreign Language, 28(2). http://nflrc.hawaii.edu/rfl
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive statistics from the unannounced 20-item vocabulary test administered after 25 minutes of reading two passages; scores were pre-knowledge-adjusted. Mean acquisition was "3.19 out of 20 target words (SD = 2.20)".
 

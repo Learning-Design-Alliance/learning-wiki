@@ -15,12 +15,14 @@ sources:
     author: Liang, Zhang, Jiang, Li, Shang, Ji and Chen
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # The closer training content is to authentic clinical scenarios, the smoother its translation into practice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Alignment of training content with real clinical scenarios directly influenced transfer; practice-oriented methods such as case analysis, scenario simulation, and bedside teaching helped trainees link knowledge, context, and action. [→ Liang 2026](#liang-2026)
@@ -31,7 +33,7 @@ sources:
 
 Liang, Zhang, Jiang, Li, Shang, Ji and Chen. (2026). Exploring training transfer in neurosurgical specialty nurse education: a qualitative descriptive study. Frontiers in Neurology. https://doi.org/10.3389/fneur.2026.1915268
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Facilitator subtheme from interviews; participants reported that case-based teaching and simulation of emergencies such as postoperative seizures helped them handle similar situations calmly, and that OSCEs better reflected integrated application than theoretical tests.
 

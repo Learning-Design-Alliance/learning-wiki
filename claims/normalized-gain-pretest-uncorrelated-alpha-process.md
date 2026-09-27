@@ -15,12 +15,14 @@ sources:
     author: Lei Bao
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Under a dominant α-process, the normalized gain contains no pretest-score term and is uncorrelated with pretest score if α is uncorrelated with pretest score
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The analytic derivation of the normalized gain under the α-process, g_k = 1 − e^(−α_k T), shows the gain depends only on the α coefficient and not explicitly on the pretest score. [→ Lei Bao 2006](#lei-bao-2006)
@@ -31,7 +33,7 @@ sources:
 
 Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `theoretical · r3`
 
 Analytical derivation (Section III) solving the α-process differential equation for a single student's normalized gain, Eq. (7). The closed-form solution shows the gain 'contains no explicit terms of the pretest score', providing a theoretical basis for using normalized gain to assess learning gains.
 

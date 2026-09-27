@@ -15,12 +15,14 @@ sources:
     author: Shavelson, Richard J.; Webb, Noreen M.; Lehman, Penny
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # People acquire different knowledge from different media, the closest indirect evidence for symbolic encoding specificity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Learning from a map yields global spatial-relation images, while learning through navigation yields route knowledge. [→ Shavelson 1986](#shavelson-1986)
@@ -31,7 +33,7 @@ sources:
 
 Shavelson, Richard J.; Webb, Noreen M.; Lehman, Penny. (1986). The Role of Symbol Systems in Problem Solving: A Literature Review. CSE Report No. 269. https://eric.ed.gov/?id=ED338680
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Thorndyke and Hayes-Roth's (1982) map-learning study, that people acquire different knowledge from different media, calling this the closest indirect evidence for symbolic encoding specificity; the review states it cannot find research directly related to symbolic encoding specificity.
 

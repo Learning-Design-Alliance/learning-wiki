@@ -15,12 +15,14 @@ sources:
     author: "Uyen, B. P., Tong, D. H., & Tram, N. T. B."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Students' mathematical vocabulary use shifted from lower to higher rubric levels after the intervention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` On the four-level rubric, no post-test student remained at Level 1 or 2 in math vocabulary, whereas 16 did on the pre-test. [→ Uyen 2021](#uyen-2021)
@@ -31,7 +33,7 @@ sources:
 
 Uyen, B. P., Tong, D. H., & Tram, N. T. B. (2021). Developing mathematical communication skills for students in grade 8 in teaching congruent triangle topics. European Journal of Educational Research, 10(3), 1287-1302. https://doi.org/10.12973/eu-jer.10.3.1287
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Rubric-based scoring of the 40 students' pre- and post-tests on the math vocabulary criterion (Table 5). Pre-test counts across Levels 1-4 were 4, 12, 17, 7; post-test counts were 0, 0, 29, 11, showing movement into Levels 3 and 4.
 

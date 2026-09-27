@@ -15,12 +15,14 @@ sources:
     author: Chmarkh, M.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Investigating L2 writing from a single theoretical frame is limited; combining frameworks is needed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Any attempt to investigate L2 writing from a single theoretical frame is necessarily limited and limiting; progress requires combining frameworks and extending study to more diverse contexts. [→ Chmarkh 2025](#chmarkh-2025)
@@ -31,7 +33,7 @@ sources:
 
 Chmarkh, M. (2025). Evaluating the Contrastive Rhetoric Model, the Cognitive Model, and the Sociocultural Model to L2 Writing. https://eric.ed.gov/?id=ED671744
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The article's concluding argument, offered as the author's opinion with no empirical evidence. It rests on the claim that writing in a second language is complex and multifaceted, so focusing on one aspect alone will not address the overall factors influencing the writing process.
 

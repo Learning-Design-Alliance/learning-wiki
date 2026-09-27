@@ -15,12 +15,14 @@ sources:
     author: Schoen, L.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Contextual factors including time for reflection, evaluatory atmosphere, and peer and mentor dialogue influence preservice teachers' demonstration of reflective judgment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Provision of sufficient time for reflection, the evaluatory or high-pressure atmosphere of student teaching, and interaction with peers and teacher educators influenced participants' demonstrated reflective judgment. [→ Schoen 2005](#schoen-2005)
@@ -31,7 +33,7 @@ sources:
 
 Schoen, L. (2005). Learning to make sense of the dilemmas of teaching practice: An exploration of preservice teachers' development of reflective judgment. Boston College. https://eric.ed.gov/?id=ED506804
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Findings from the author's pilot study of six supervised student teachers in one urban elementary school, analyzed with participatory action research and collective case study methodology. The article reports these factors qualitatively, with no effect sizes.
 

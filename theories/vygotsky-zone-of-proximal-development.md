@@ -16,7 +16,7 @@ sources:
 # Zone of Proximal Development: tasks a child cannot yet do alone but can do with help
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article defines the zone of proximal development as "The range of task that a child cannot yet perform alone but can perform with help and guidance from others." It distinguishes two ability levels: actual developmental level, the upper limit of tasks a child can accomplish alone, and level of potential development, the upper limit of tasks a child can accomplish with the assistance of a more competent individual. The ZPD changes over time as tasks are mastered, sets a limit on what a child is cognitively capable of learning, and excludes impossible tasks that cannot be done even with assistance.

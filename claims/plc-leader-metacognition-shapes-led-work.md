@@ -15,12 +15,14 @@ sources:
     author: Prytula, M. P.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # PLC leaders' recognition of their own metacognition impacted the type of work they led in the PLC
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Each participant's metacognitive ability influenced how they used their understanding to learn or to affect the learning of others in their PLC. [→ Prytula 2012](#prytula-2012)
@@ -31,7 +33,7 @@ sources:
 
 Prytula, M. P. (2012). Teacher Metacognition within the Professional Learning Community. International Education Studies. https://doi.org/10.5539/ies.v5n4p112
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Interview-based findings across the three cases: Jacki adjourned unfruitful meetings knowing peers needed thinking time; Lisa pushed classroom experimentation because she herself needed to see ideas as "doable"; Tracey set up dialogue-based environments for her group.
 

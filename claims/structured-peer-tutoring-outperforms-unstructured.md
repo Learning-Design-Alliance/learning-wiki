@@ -15,6 +15,8 @@ sources:
     q: 3
     i: "?"
     n: 52 studies (tutee achievement)
+    kind: quant-synthesis
+    rigour: "?"
   - id: ginsburg-block-et-al-2006
     resource: "https://doi.org/10.1037/0022-0663.98.4.732"
     title: "Ginsburg-Block, M. D., Rohrbeck, C. A., & Fantuzzo, J. W. (2006). A meta-analytic review of social, self-concept, and behavioral outcomes of peer-assisted learning. *Journal of Educational Psychology, 98*(4), 732–749. [doi:10.1037/0022-0663.98.4.732](https://doi.org/10.1037/0022-0663.98.4.732)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: "?"
     n: 36 studies
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Structured Peer Tutoring Outperforms Unstructured
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3`
 
 Peer tutoring produces larger learning gains when the tutoring relationship is structured — with defined roles, training for tutors, scripted or scaffolded interaction protocols, and regular monitoring — than when students are simply paired and told to help each other.
 
@@ -43,7 +47,7 @@ Peer tutoring produces larger learning gains when the tutoring relationship is s
 
 Cohen, P. A., Kulik, J. A., & Kulik, C.-L. C. (1982). Educational outcomes of tutoring: A meta-analysis of findings. *American Educational Research Journal, 19*(2), 237–248. [doi:10.3102/00028312019002237](https://doi.org/10.3102/00028312019002237)
 
-`q3 · meta-analysis of 65 school-tutoring evaluations` · `i? · significant moderator, magnitude not numerically reported` · `n=52 studies (tutee achievement)`
+`q3 · meta-analysis of 65 school-tutoring evaluations` · `i? · significant moderator, magnitude not numerically reported` · `n=52 studies (tutee achievement)` · `quant-synthesis · r?`
 
 A meta-analysis of 65 evaluations of school tutoring programs (52 reporting tutee achievement) found an overall achievement effect of tutoring of d = .40. Six study features were significantly related to the size of this effect, and whether the program was structured or nonstructured was one of them: tutoring effects were larger in the more structured programs. The authors state this held even though the less-structured programs still produced a real benefit — the difference was one of degree, not of whether unstructured tutoring worked at all. (Read in full as the 1981 AERA conference version of this synthesis, ERIC ED204416, which reports the same 65 studies; the journal version was not reachable.)
 
@@ -51,7 +55,7 @@ A meta-analysis of 65 evaluations of school tutoring programs (52 reporting tute
 
 Ginsburg-Block, M. D., Rohrbeck, C. A., & Fantuzzo, J. W. (2006). A meta-analytic review of social, self-concept, and behavioral outcomes of peer-assisted learning. *Journal of Educational Psychology, 98*(4), 732–749. [doi:10.1037/0022-0663.98.4.732](https://doi.org/10.1037/0022-0663.98.4.732)
 
-`q3 · meta-analysis, moderator analysis (abstract only)` · `i? · no effect size reported for this moderator` · `n=36 studies`
+`q3 · meta-analysis, moderator analysis (abstract only)` · `i? · no effect size reported for this moderator` · `n=36 studies` · `quant-synthesis · r?`
 
 A meta-analysis of 36 elementary-school peer-assisted-learning studies examined social, self-concept, and behavioral (not just achievement) outcomes. Program components including student autonomy, individualized (ipsative) evaluation, structured student roles, interdependent group rewards, and same-gender grouping were each related to the size of these effects. This corroborates the structure-matters pattern found by Cohen et al. for achievement outcomes, extending it to non-academic outcomes, though only the abstract was available and it does not give a directional magnitude specifically for "structured roles" in isolation.
 

@@ -15,12 +15,14 @@ sources:
     author: "Moore, J. C., & Rubbo, L. J."
     q: 2
     i: 1
+    kind: associational
+    rigour: 1
 ---
 
 # A majority (56%) of non-STEM students are classified as transitional reasoners, while formal operational reasoners predominate among STEM majors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` 56% of non-STEM students fall in the transitional Piagetian category on the LCTSR, whereas most science majors would on average be classified formal operational. [→ Moore 2011](#moore-2011)
@@ -31,7 +33,7 @@ sources:
 
 Moore, J. C., & Rubbo, L. J. (2011). Scientific reasoning abilities of non-science majors in physics-based courses. https://arxiv.org/abs/1110.2764
 
-`q2 · i1`
+`q2 · i1` · `associational · r1`
 
 Classification of non-STEM students (N = 109) into concrete operational, transitional, and formal operational levels using LCTSR scores and Lawson's cutoffs; the figure-reported distribution shows 56% transitional, consistent with prior studies of non-major introductory biology populations.
 

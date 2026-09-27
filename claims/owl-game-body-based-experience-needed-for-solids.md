@@ -15,18 +15,22 @@ sources:
     author: "Ahlquist, E.-M. T., & Gynther, P."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: ahlquist-2020-2
     resource: "https://journals.ku.dk/jmr"
     title: "Ahlquist, E.-M. T., & Gynther, P. (2020). Teaching in the Montessori Classroom: Investigating Variation Theory and Embodiment as a Foundation of Teachers' Development. Journal of Montessori Research, 6(1). https://journals.ku.dk/jmr"
     author: "Ahlquist, E.-M. T., & Gynther, P."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # In the owl game, being shown the solids and working with pictures and labels did not help two boys distinguish solids; body-based experience with contrastive guidance was needed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Two boys could not distinguish geometric solids in the owl game after only a presentation and a picture-and-label task. [→ Ahlquist 2020](#ahlquist-2020)
@@ -38,7 +42,7 @@ sources:
 
 Ahlquist, E.-M. T., & Gynther, P. (2020). Teaching in the Montessori Classroom: Investigating Variation Theory and Embodiment as a Foundation of Teachers' Development. Journal of Montessori Research, 6(1). https://journals.ku.dk/jmr
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Observation of two boys playing the owl game with geometric solids under a cloth; their yes-no questions showed they could not imagine the hidden solid. The authors report that "simply being shown the material and then working with the pictures and labels did not help the boys succeed."
 
@@ -48,7 +52,7 @@ Observation of two boys playing the owl game with geometric solids under a cloth
 
 Ahlquist, E.-M. T., & Gynther, P. (2020). Teaching in the Montessori Classroom: Investigating Variation Theory and Embodiment as a Foundation of Teachers' Development. Journal of Montessori Research, 6(1). https://journals.ku.dk/jmr
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Observation of the researcher's intervention during the owl game: the boys touched surfaces, grouped solids as flat or curved, placed cone and cylinder in a third group, and identified pyramid sides after reexamination. The authors report that after touching, "they could distinguish the concept of surface."
 

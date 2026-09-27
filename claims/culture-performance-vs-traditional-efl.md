@@ -15,12 +15,14 @@ sources:
     author: Șchiopu, L.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # The author reports a highly significant performance increase for the metacognitively prepared EFL classroom relative to the traditional classroom
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The study's comparison found higher student performance in the classroom with metacognitive and critical thinking preparation than in the traditional English language classroom. [→ Șchiopu 2018](#schiopu-2018)
@@ -31,7 +33,7 @@ sources:
 
 Șchiopu, L. (2018). Integrating metacognition and critical thinking skills in the exploration of culture in EFL classroom. Journal of Pedagogical Research, 2(3), 181-191. https://eric.ed.gov/?id=EJ1301134
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r1`
 
 Discussion and conclusion of the qualitative study states "A highly significant increase in the students’ performance was found" with metacognitive and critical thinking preparation relative to the traditional classroom; no test statistic or effect size is printed for this comparison.
 

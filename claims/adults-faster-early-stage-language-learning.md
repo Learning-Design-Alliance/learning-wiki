@@ -15,12 +15,14 @@ sources:
     author: Schleppegrell, Mary
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Adults learn languages more quickly than children in the early stages of second language acquisition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Although children may have an advantage in achieving native-like fluency in the long run, adults learn languages more quickly than children in the early stages. [→ Schleppegrell 1987](#schleppegrell-1987)
@@ -31,7 +33,7 @@ sources:
 
 Schleppegrell, Mary. (1987). The Older Language Learner. ERIC Clearinghouse on Languages and Linguistics, Washington DC. https://eric.ed.gov/?id=ED287313
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The digest reports, citing Krashen, Long, and Scarcella (1979), studies comparing acquisition rates in children and adults. It states "adults actually learn languages more quickly than children in the early stages", while children hold the long-run native-like fluency advantage. No effect sizes are printed.
 

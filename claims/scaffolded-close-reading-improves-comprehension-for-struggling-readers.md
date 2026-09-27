@@ -15,6 +15,8 @@ sources:
     q: 2
     i: "?"
     n: 75 intervention / 247 comparison
+    kind: causal
+    rigour: "?"
   - id: edmonds-et-al-2009
     resource: "https://doi.org/10.3102/0034654308325998"
     title: "Edmonds, M. S., Vaughn, S., Wexler, J., Reutebuch, C., Cable, A., Tackett, K. K., & Schnakenberg, J. W. (2009). A Synthesis of Reading Interventions and Effects on Reading Comprehension Outcomes for Older Struggling Readers. *Review of Educational Research, 79*(1), 262-300. [doi:10.3102/0034654308325998](https://doi.org/10.3102/0034654308325998)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: 2
     n: 13 studies (of 29 synthesized)
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Scaffolded Close Reading Improves Comprehension For Struggling Readers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2`–`q3` · `i2` medium
+> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r2` · `q2`–`q3` · `i2` medium
 
 Struggling readers comprehend challenging texts better when close reading is scaffolded — teacher-guided text-dependent questioning, repeated readings, and gradual release of responsibility — rather than assigned as independent work.
 
@@ -43,7 +47,7 @@ Struggling readers comprehend challenging texts better when close reading is sca
 
 Fisher, D., & Frey, N. (2014). Close Reading as an Intervention for Struggling Middle School Readers. *Journal of Adolescent & Adult Literacy, 57*(5), 367-376. [doi:10.1002/jaal.266](https://doi.org/10.1002/jaal.266)
 
-`q2 · quasi-experimental comparison-group study (non-randomized)` · `i? · no standardized effect size reported` · `n=75 intervention / 247 comparison`
+`q2 · quasi-experimental comparison-group study (non-randomized)` · `i? · no standardized effect size reported` · `n=75 intervention / 247 comparison` · `causal · r?`
 
 An after-school reading intervention study comparing 75 grade 7–8 students who received a close-reading intervention (annotations, repeated reading, text-dependent questions, and discussions) against 247 students who received a "traditional" reading intervention. The authors report that close reading was associated with significant increases in student attendance, self-perception, and reading achievement relative to the comparison group. Read as publisher abstract only (via ERIC EJ1028018); the full text, including any inferential statistics or effect sizes, was not accessible, so no quantitative magnitude can be coded here.
 
@@ -51,7 +55,7 @@ An after-school reading intervention study comparing 75 grade 7–8 students who
 
 Edmonds, M. S., Vaughn, S., Wexler, J., Reutebuch, C., Cable, A., Tackett, K. K., & Schnakenberg, J. W. (2009). A Synthesis of Reading Interventions and Effects on Reading Comprehension Outcomes for Older Struggling Readers. *Review of Educational Research, 79*(1), 262-300. [doi:10.3102/0034654308325998](https://doi.org/10.3102/0034654308325998)
 
-`q3 · meta-analysis of treatment-comparison intervention studies` · `i2 · medium effect for struggling-readers-only subsample, d=0.45 (large, d=0.89, across all 13 studies)` · `n=13 studies (of 29 synthesized)`
+`q3 · meta-analysis of treatment-comparison intervention studies` · `i2 · medium effect for struggling-readers-only subsample, d=0.45 (large, d=0.89, across all 13 studies)` · `n=13 studies (of 29 synthesized)` · `quant-synthesis · r2`
 
 A synthesis of 29 intervention studies (1994–2004) with Grades 6–12 students with reading difficulties, 13 of which met criteria for meta-analysis. The weighted average effect on reading comprehension across all 13 studies was large (ES = 0.89, 95% CI [0.42, 1.36]); comprehension-focused interventions alone (k = 7) showed ES = 1.23, and when the analysis was restricted to samples of struggling readers only (as opposed to students with disabilities), the effect was medium (k = 5, ES = 0.45). Several of the comprehension studies used reciprocal teaching (a model combining predicting, questioning, clarifying, and summarizing) — a scaffolded, teacher-guided instructional structure conceptually similar to the gradual-release/text-dependent-questioning approach in close reading, though the synthesis does not test "close reading" or its specific scaffolds as a named intervention. This is offered as a related, qualifying source on structured comprehension scaffolding for struggling readers generally, not a direct test of the claim as stated.
 

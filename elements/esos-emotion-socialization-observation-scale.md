@@ -17,7 +17,7 @@ sources:
 # Emotion Socialization Observation Scale (ESOS)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The ESOS is a structured-observation tool the authors developed to assess teacher actions associated with emotional scaffolding in kindergarten. It includes three sections — "reactions to children’s emotions; modeling of emotional expressiveness; and teaching about emotions" — mapped onto three mechanisms of emotional socialisation, with items rated on a four-point scale and a maximum score of 88. Its stated advantage is direct observation of interaction rather than teacher self-report.

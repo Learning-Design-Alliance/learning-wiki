@@ -16,7 +16,7 @@ sources:
 # Designerly talk as informal discourse embodying critical character and design judgment within a community of practice
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study, `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 Designerly talk is a construct describing informal communications among design students and practitioners that express design thinking externally. The authors define it as "describing communications that embody a critical character, express design judgment in a tacit or explicit way, and occur within a real community of practice around design." It was identified through analysis of extended comment threads in student-managed Facebook groups, where students project themselves as part of the larger practice community.

@@ -15,12 +15,14 @@ sources:
     author: "Warr, M. & West, R. E."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Interdisciplinary studio collaboration deepened students' disciplinary skills while exposing them to cross-disciplinary skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` By working with students from other fields, students expanded interpersonal skills, deepened disciplinary knowledge, and learned skills from other disciplines (rating "I learned new things unrelated to my previous areas of expertise" at 4.44). [→ Warr 2020](#warr-2020)
@@ -31,7 +33,7 @@ sources:
 
 Warr, M. & West, R. E. (2020). Bridging Academic Disciplines with Interdisciplinary Project-based Learning: Challenges and Opportunities. The Interdisciplinary Journal of Problem-based Learning. https://doi.org/10.14434/ijpbl.v14i1.28590
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r2`
 
 Interview and survey findings across studio courses: students reported that "students developed problem-solving skills beyond what they would normally build in a disciplinary studio course," citing examples such as an English major learning from an illustrator's questioning and an advertising student learning programming to write an AI character's dialogue.
 

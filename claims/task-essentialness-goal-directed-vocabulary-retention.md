@@ -15,12 +15,14 @@ sources:
     author: Restrepo Ramos, F. D.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Task-essentialness and productive use of new words in goal-directed activity may positively affect vocabulary learning and retention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` McCafferty, Roebuck, and Wayland found that increased mental effort and productive use of new words in peer interviews might positively affect learning and retention, with task-essentialness important for lexical learning. [→ Restrepo Ramos 2015](#restrepo-ramos-2015)
@@ -31,7 +33,7 @@ sources:
 
 Restrepo Ramos, F. D. (2015). Incidental vocabulary learning in second language acquisition: A literature review. PROFILE Issues in Teachers' Professional Development, 17(1), 157-166. http://dx.doi.org/10.15446/profile.v17n1.43957
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 The review reports, citing McCafferty et al. (2001), a preliminary study applying Vygotsky's activity theory with five native English speakers in a third-semester Spanish class, comparing a writing task control with peer-interview experimental conditions; findings are hedged with might.
 

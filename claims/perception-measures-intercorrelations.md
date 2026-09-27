@@ -15,12 +15,14 @@ sources:
     author: Robles Chella, Cheema Harleen, Buro Karen, Jung Sandy
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Perception measures of social distance, treatment amenability, perceived recidivism, and sentencing severity are mostly significantly intercorrelated
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Correlations among the dependent variables were mostly significant, ranging from -.241 to .667, with one weak non-significant exception. [→ Robles Chella 2026](#robles-chella-2026)
@@ -31,7 +33,7 @@ sources:
 
 Robles Chella, Cheema Harleen, Buro Karen, Jung Sandy. (2026). Changing Language May Not Be Enough to Change Public Perceptions of Individuals Who Sexually Offend. Sexual Offending: Theory, Research, and Prevention. https://doi.org/10.5964/sotrap.17345
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Correlational analysis of the study's dependent measures (Ns = 232 to 295 per Table 1). "Correlations among the dependent variables are mostly significant and ranged from -.241 to .667"; the Social Distance Scale and treatment amenability full scale were not significantly correlated (r = -.059).
 

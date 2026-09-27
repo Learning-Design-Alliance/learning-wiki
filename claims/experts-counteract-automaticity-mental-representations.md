@@ -15,12 +15,14 @@ sources:
     author: "Ericsson, K. A., Nandagopal, K., & Roring, R. W."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Expert performers counteract automaticity by building increasingly complex mental representations, unlike everyday skill learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Everyday activities plateau at an automated, acceptable level, whereas expert performance keeps improving because performers develop complex mental representations for greater control. [→ Ericsson 2005](#ericsson-2005)
@@ -31,7 +33,7 @@ sources:
 
 Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?id=EJ746057
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Illustrated in Figure 2, contrasting the course of improvement of expert performance versus everyday activities based on the traditional skill-acquisition theory of Fitts and Posner. Everyday performers reach a stable "autonomous" plateau; experts avoid "premature automation of their performance."
 

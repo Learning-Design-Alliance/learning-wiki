@@ -15,12 +15,14 @@ sources:
     author: "Furukawa, J. M., Sumpter, K., & Cohen, N."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Retention differs by type of knowledge tested, with concepts and rules retained best and problem solving worst
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` An analysis of variance for repeated measures on delayed posttest scores across discrimination learning, concepts, rules, and problem solving was significant, with rule learning significantly superior to discrimination learning. [→ Furukawa 1978](#furukawa-1978)
@@ -31,7 +33,7 @@ sources:
 
 Furukawa, J. M., Sumpter, K., & Cohen, N. (1978). Chunking Method of Teaching and Studying: II. Paper presented at a meeting of the American Psychological Association, Toronto. https://eric.ed.gov/?id=ED165097
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Analysis of the delayed posttest's 12 questions (three each on discrimination learning, concepts, rules, and problem solving) in the retention study class. Mean scores were 1.92, 2.19, 2.17, and 1.65 respectively; the repeated-measures ANOVA was significant and rule learning beat discrimination learning.
 

@@ -17,7 +17,7 @@ sources:
 # Three context-specific instruments for incidental vocabulary learning motivation, anxiety, and strategy mastery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The authors developed three Likert-scale instruments specifically for the context of L2 incidental vocabulary acquisition through reading: the Motivation for Incidental Vocabulary Learning Scale (MIVLS, 26 items covering self-efficacy, intrinsic and extrinsic motivation), the Incidental Vocabulary Learning Anxiety Scale (IVLAS, 10 items), and the Mastery of Incidental Vocabulary Learning Strategies Scale (MIVLSS, 26 items covering noticing, searching for meaning, and elaborating form-meaning connections). Pilot alphas were "0.74 for MIVLS, 0.80 for IVLAS, and 0.81 for MIVLSS"; study alphas were 0.78, 0.81, and 0.88. Items were translated into Chinese and back-translated for consistency.

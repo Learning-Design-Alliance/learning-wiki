@@ -17,7 +17,7 @@ sources:
 # Simucase computer-based clinical simulation platform
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 2 against) · 2 studies, `q2`–`q4` · 1 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 against) · 2 studies (1 quant-synthesis, 1 qualitative), `q2`–`q4` · 1 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 Simucase is a computer-based simulation platform that "allows students to complete clinical assignments independently and asynchronously from the clinic or course experience," covering speech-language pathology, audiology, and occupational therapy. Members access part-task trainers, assessments, and intervention sessions, working through case history, collaboration, hypothesis formation, assessment administration, diagnosis, and recommendations in learning mode (with feedback and unlimited practice) or assessment mode (no feedback). Students must score 90% or greater for minutes to count toward ASHA clinical clock hours.

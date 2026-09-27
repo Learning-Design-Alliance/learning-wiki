@@ -15,12 +15,14 @@ sources:
     author: Siegel, Harvey
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Popper's view that rationality rests on an irrational faith in reason faces a preliminary difficulty
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Popper offers reasons for adopting critical rationalism that he takes to be non-circular, which raises the question why comprehensive rationalism could not similarly be defended. [→ Siegel 1989](#siegel-1989)
@@ -31,7 +33,7 @@ sources:
 
 Siegel, Harvey. (1989). Why Be Rational? On Thinking Critically about Critical Thinking. Resource Publication, Series 2 No. 1. https://eric.ed.gov/?id=ED352333
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Philosophical critique of Popper's position that we must settle for "an irrational faith in reason". Siegel argues Popper's own defense of critical rationalism uses reasons he deems non-question-begging, undermining the claim that comprehensive rationalism cannot be rationally defended.
 

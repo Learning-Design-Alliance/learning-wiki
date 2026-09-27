@@ -15,12 +15,14 @@ sources:
     author: "Srdjan Verbić & Boris Tomić"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # DIF was found for four items but could not be anticipated from differential response times between boys and girls alone
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Mantel-Haenszel DIF analysis flagged four items, but differential response times alone did not predict which items would be DIF-flagged. [→ Srdjan Verbić & Boris Tomić 2008](#srdjan-verbic-boris-tomic-2008)
@@ -31,7 +33,7 @@ sources:
 
 Srdjan Verbić & Boris Tomić. (2008). Test item response time and the response likelihood. Institute for Education Quality and Evaluation. http://sepp.ceo.edu.rs/moodle/mod/resource/view.php?id=25
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Mantel-Haenszel DIF procedure (items with p<0.05 flagged) applied to the boys-versus-girls comparison on the 32-item physics test. Appendix Table 2 lists the flagged items, yet response-time differences did not anticipate the flags.
 

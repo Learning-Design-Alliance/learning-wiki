@@ -17,7 +17,7 @@ sources:
 # Teacher-coaches should create an environment of trust and build a reflection context unique to each learning situation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Boud and Walker (1998) identified weaknesses in how schools of education applied reflective practice: a "checklist" or "reflection on demand" mentality, reflection processes with no link to conceptual frameworks, failure to encourage students to challenge teaching practices, and personal disclosure demands beyond some young teachers' capacity. The digest reports their suggestion "that these weaknesses can be addressed when the teacher-coaches create an environment of trust and build a context for reflection unique to every learning situation."

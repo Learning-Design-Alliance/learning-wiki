@@ -17,7 +17,7 @@ sources:
 # While-noticing stage pairs contrastive-critical framing with transformed practice as interrelated tasks
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 At the while-noticing stage, students work in groups or pairs on two interrelated tasks adapted from The New London Group: contrastive-critical framing, in which they collaboratively compare and critically contrast original and noticed versions of their writing, and transformed practice, in which they collaboratively transform negotiated solutions into revised drafts and re-notice them. The article states, "Two interrelated tasks can be used in CFTs during the while-noticing stage: contrastive-critical framing and transformed practice, adapted from The New London Group's terms (1996)." The tasks target form, content, and organization, and sources of gaps drawn from interlanguage and cross-cultural differences.

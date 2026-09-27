@@ -15,12 +15,14 @@ sources:
     author: "Iran-Nejad, Asghar & Ortony, Andrew"
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Synaptic connectionism is argued to be implausible for complex cognition because synaptic plasticity has been studied only as an analog of simpler learning forms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The large conceptual gap between synaptic plasticity and mental plasticity renders synaptic connectionism implausible for the time being, since studied synaptic effects are analogs of simpler learning such as classical conditioning rather than cognitive learning. [→ Iran-Nejad 1982](#iran-nejad-1982)
@@ -31,7 +33,7 @@ sources:
 
 Iran-Nejad, Asghar & Ortony, Andrew. (1982). Cognition: A Functional View. Center for the Study of Reading, University of Illinois at Urbana-Champaign. https://eric.ed.gov/?id=ED215308
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument quoting Uttal (1978) in the section on pre-functional brain connections. The authors argue that in the absence of a specifically understood link between cellular plasticity and learning, the generalization of the synaptic hypothesis rests on a logical assertion the authors call a statement of faith.
 

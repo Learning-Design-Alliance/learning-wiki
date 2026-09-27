@@ -15,12 +15,14 @@ sources:
     author: "Akar, İ., & Şengil-Akar, Ş"
     q: 2
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # CREACT improves 5th-grade students' creative thinking performance in drawing arts with a large pretest-posttest effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` In a one group pretest-posttest study, students' total creativity scores rose significantly after nine CREACT lessons, with an effect size of .71 reported as a large effect. [→ Akar 2013](#akar-2013)
@@ -31,7 +33,7 @@ sources:
 
 Akar, İ., & Şengil-Akar, Ş. (2013). The effectiveness of the Creative Reversal Act (CREACT) on students' creative thinking: Further evidence from Turkey. TOJET: The Turkish Online Journal of Educational Technology, 12(4). https://eric.ed.gov/?id=EJ1272859
 
-`q2 · i2`
+`q2 · i2` · `causal · r1`
 
 One group pretest-posttest study of twenty-three 5th graders in a Turkish public primary school; nine CREACT lessons over three weeks. Posttest mean (71.95) exceeded pretest (52.32); the article calls the .71 effect size "a large effect" with no control group.
 

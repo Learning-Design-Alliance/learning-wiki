@@ -15,18 +15,22 @@ sources:
     author: "Acharibasam, J. B., & McVittie, J."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: acharibasam-2021-2
     resource: "https://eric.ed.gov/?id=EJ1329976"
     title: "Acharibasam, J. B., & McVittie, J. (2021). The use of a two-eyed seeing approach to include Indigenous Knowledge in Early Childhood Care and Development in Ghana. International Education Journal: Comparative Perspectives, 20(1). https://eric.ed.gov/?id=EJ1329976"
     author: "Acharibasam, J. B., & McVittie, J."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Children managed conflict between Indigenous and Western teachings by holding both belief systems side by side or switching by context
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` When taught that stones are non-living in class, children nonetheless judged a shrine stone to be living, illustrating the Collateral Learning Hypothesis of holding both meanings side by side. [→ Acharibasam 2021](#acharibasam-2021)
@@ -38,7 +42,7 @@ sources:
 
 Acharibasam, J. B., & McVittie, J. (2021). The use of a two-eyed seeing approach to include Indigenous Knowledge in Early Childhood Care and Development in Ghana. International Education Journal: Comparative Perspectives, 20(1). https://eric.ed.gov/?id=EJ1329976
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Interview scenario with KG2 pupils using pictures of a stone as taught in class and a shrine stone seen at the chief's palace. The authors interpret the responses, e.g. "that stone can talk and eat because it is a shrine stone," as the Collateral Learning Hypothesis.
 
@@ -48,7 +52,7 @@ Interview scenario with KG2 pupils using pictures of a stone as taught in class 
 
 Acharibasam, J. B., & McVittie, J. (2021). The use of a two-eyed seeing approach to include Indigenous Knowledge in Early Childhood Care and Development in Ghana. International Education Journal: Comparative Perspectives, 20(1). https://eric.ed.gov/?id=EJ1329976
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Second interview scenario on right- versus left-hand gift giving, a culturally disrespectful act among the Kasena. The authors interpret the pupil's context-switching answer via the Cultural Border Crossing and Contiguity Learning Hypotheses.
 

@@ -15,12 +15,14 @@ sources:
     author: "Podolefsky, N. S., Moore, E. B., & Perkins, K. K."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # A student began interacting with the sim within 10 seconds and verbalized sense-making without explicit guidance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a case-study interview with no written guidance and only prompts to think aloud, a 6th-grade student began interacting with the sim in less than 10 seconds and verbalized an attempt to explain the skater's motion. [→ Podolefsky 2013](#podolefsky-2013)
@@ -31,7 +33,7 @@ sources:
 
 Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. https://arxiv.org/abs/1306.6544
 
-`q2 · qualitative case study` · `i? · no effect size`
+`q2 · qualitative case study` · `i? · no effect size` · `qualitative · r2`
 
 Qualitative microanalysis of one think-aloud interview with a 6th-grade student, conducted on the final version of the Energy Skate Park: Basics (ESPB) sim; nine middle-school students were interviewed during the sim's design. The interviewer used only unscripted prompts encouraging the student to think aloud, and gave no instructions about the sim. The student's first interactions were changing tracks and dropping the skater, and she verbalized that motion "transfers" uphill, signaling sense making.
 

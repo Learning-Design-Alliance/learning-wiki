@@ -15,18 +15,22 @@ sources:
     author: "Rantavuori, J., Engeström, Y., & Lipponen, L."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: rantavuori-2016-2
     resource: "http://dx.doi.org/10.14786/flr.v4i3.174"
     title: "Rantavuori, J., Engeström, Y., & Lipponen, L. (2016). Learning actions, objects and types of interaction: A methodological analysis of expansive learning among pre-service teachers. Frontline Learning Research. http://dx.doi.org/10.14786/flr.v4i3.174"
     author: "Rantavuori, J., Engeström, Y., & Lipponen, L."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # A single meeting of self-regulating pre-service teachers contained an almost complete expansive mini-cycle of learning actions, with all expansive actions except consolidating the new practice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In one two-hour meeting of six pre-service teachers, all expansive learning actions of the cycle were identified except consolidating the new practice. [→ Rantavuori 2016](#rantavuori-2016)
@@ -38,7 +42,7 @@ sources:
 
 Rantavuori, J., Engeström, Y., & Lipponen, L. (2016). Learning actions, objects and types of interaction: A methodological analysis of expansive learning among pre-service teachers. Frontline Learning Research. http://dx.doi.org/10.14786/flr.v4i3.174
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r2`
 
 Qualitative analysis of one video-recorded two-hour planning meeting (12 hours of video corpus, six pre-service teachers). The authors report that "we could identify all the learning actions of the expansive cycle except consolidating the new practice", attributing the absence to the single-meeting focus.
 
@@ -48,7 +52,7 @@ Qualitative analysis of one video-recorded two-hour planning meeting (12 hours o
 
 Rantavuori, J., Engeström, Y., & Lipponen, L. (2016). Learning actions, objects and types of interaction: A methodological analysis of expansive learning among pre-service teachers. Frontline Learning Research. http://dx.doi.org/10.14786/flr.v4i3.174
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r2`
 
 Frequency analysis of learning actions in the meeting (Table 4, 31 actions over 802 turns). The article reports that actual-empirical analysis and implementing the new model "both occurred 8 times", indicating problem finding and definition played a central role.
 

@@ -15,12 +15,14 @@ sources:
     author: "Sadighi, F., & Dastpak, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Fear of negative evaluation and limited vocabulary knowledge rank second and third as sources of speaking anxiety (78% and 72%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Fear of being negatively evaluated (78%) and limited vocabulary knowledge (72%) were the next most important causes of anxiety after fear of making mistakes. [→ Sadighi 2017](#sadighi-2017)
@@ -31,7 +33,7 @@ sources:
 
 Sadighi, F., & Dastpak, M. (2017). The Sources of Foreign Language Speaking Anxiety of Iranian English Language Learners. International Journal of Education & Literacy Studies, 5(4). https://doi.org/10.7575/aiac.ijels.v.5n.4p.111
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Same Shiraz questionnaire survey (n=154); Table 1 reports fear of being negatively evaluated at 78% (rank 2) and limited vocabulary knowledge at 72% (rank 3). The discussion states lack of vocabulary knowledge can lead to communication problems and embarrassment.
 

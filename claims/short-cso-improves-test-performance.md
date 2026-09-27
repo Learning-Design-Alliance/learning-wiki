@@ -15,12 +15,14 @@ sources:
     author: "Furukawa, J. M., Sumpter, K., & Cohen, N."
     q: 2
     i: 1
+    kind: causal
+    rigour: 1
 ---
 
 # Short chunking study outlines produce higher test performance than long chunking study outlines
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Students using short CSOs scored significantly higher on 40-item multiple-choice posttests than students using long CSOs, with means separated by 1.50 points. [→ Furukawa 1978](#furukawa-1978)
@@ -31,7 +33,7 @@ sources:
 
 Furukawa, J. M., Sumpter, K., & Cohen, N. (1978). Chunking Method of Teaching and Studying: II. Paper presented at a meeting of the American Psychological Association, Toronto. https://eric.ed.gov/?id=ED165097
 
-`q2 · i1`
+`q2 · i1` · `causal · r1`
 
 Quasi-experimental comparison across two general psychology classes given short versus long CSOs for three chapters each, with counterbalanced order and a 40-item multiple-choice immediate posttest. The article reports a statistically significant difference favoring the short CSO, with mean scores "separated by 1.50 pointé".
 

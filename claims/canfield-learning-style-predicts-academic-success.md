@@ -15,12 +15,14 @@ sources:
     author: Tamaoka, Katsuo
     q: 2
     i: 1
+    kind: review
+    rigour: 2
 ---
 
 # Canfield's learning style variables predicted academic success where cognitive style did not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · review `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Over 20 percent of variance in multiple-choice examination scores was explained by four learning style variables, while cognitive style showed no correlation with academic success. [→ Tamaoka 1985](#tamaoka-1985)
@@ -31,7 +33,7 @@ sources:
 
 Tamaoka, Katsuo. (1985). Historical Development of Learning Style Inventories from Dichotomous Cognitive Concepts of Field Dependence and Field Independence to Multi-Dimensional Assessment. https://eric.ed.gov/?id=ED339729
 
-`q2 · i1`
+`q2 · i1` · `review · r2`
 
 The review reports Blagg's comparison of the Hidden Figures Test, the Canfield Learning Styles Inventory and the Master's Comprehensive Examination, finding no correlation between academic success and cognitive style but "over 20 percent of the variance" explained by four learning style variables; N was 51.
 

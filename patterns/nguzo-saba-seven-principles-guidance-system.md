@@ -17,7 +17,7 @@ sources:
 # Nguzo Saba seven principles as the value foundation of the Simba Wachanga guidance system
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The Simba Wachanga program is predicated on the Nguzo Saba, the Seven Principles drawn from Dr. Ron Karenga's Kawaida Theory: unity, self-determination, collective work and responsibility, cooperative economics, purpose, creativity, and faith. The paper states "Simba Wachanga functions as a guidance system incorporating the following principles: (1) unity; (2) self-determination; (3) collective work and responsibility; (4) cooperative economics; (5) purpose; (6) creativity; and (7) faith." Each principle is defined as a commitment to a principle and practice, e.g., Kujichagulia as defining, defending, and developing ourselves instead of being defined by others.

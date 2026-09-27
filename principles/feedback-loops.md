@@ -21,7 +21,7 @@ sources:
 # Feedback Loops
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 9 studies, `q2`–`q4` · 0 of 9 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 9 studies (3 causal, 3 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 9 report an effect size
 
 ## Description
 Feedback loops are the principle of using learner performance to generate information that changes the next action for the learner, the instructor, or the system. A loop is only complete when evidence leads to adjustment. The key design move is not merely telling learners how they did, but ensuring that the feedback, interpretation, and next attempt are connected closely enough to improve performance.

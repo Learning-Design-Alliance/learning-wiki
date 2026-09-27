@@ -12,7 +12,7 @@ generated:
 # Establish Ground Rules for Peer Critique
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 5 studies, `q2`–`q4` · 3 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 5 studies (3 quant-synthesis, 2 review), `q2`–`q4` · 3 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Establishing ground rules for peer critique means co-constructing or explicitly teaching shared norms that govern how learners give, receive, and act on feedback from peers before critique activities begin. Typical rules cover specificity ("critique the work, not the person"), balance ("name one strength and one improvement"), actionability ("offer a suggestion the author can act on"), and reception norms ("ask clarifying questions before defending choices"). The rules are usually posted, revisited, and sometimes paired with sentence stems or critique protocols.

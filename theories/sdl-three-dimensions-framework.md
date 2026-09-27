@@ -16,7 +16,7 @@ sources:
 # Three-dimension framework distinguishing self-initiated learning, self-direction as personal attribute, and self-direction as educational goal
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Following formulations by Caffarella and O'Donnell, the authors propose that debate about self-directed learning is "crucially including three dimensions": self-initiated learning occurring within or outside formal contexts; self-directed learning as a personal attribute of the learner; and self-direction in learning as a goal of education. The framework tidies a debate in which, as Caffarella and O'Donnell warn, over-defining can make the concept vacuous by applying to nothing or to everything. The review's own focus is self-initiated learning outside formal contexts.

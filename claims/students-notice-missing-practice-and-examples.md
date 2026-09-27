@@ -15,12 +15,14 @@ sources:
     author: "Martin, F., Klein, J., & Sullivan, H."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Students notice the absence of practice and examples: attitude items about those events are rated lower when the events are missing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Groups without practice rated the practice items significantly lower than groups with practice. [→ Martin 2003](#martin-2003)
@@ -32,7 +34,7 @@ sources:
 
 Martin, F., Klein, J., & Sullivan, H. (2003). Effects of Instructional Events in Computer-Based Instruction. https://eric.ed.gov/?id=ED484984
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Scheffe follow-ups on attitude Items 7 and 8 (practice helpfulness and opportunity) showed the two no-practice treatments significantly lower than the four practice-including treatments; on Items 3 and 4 the two no-examples treatments had the lowest ratings.
 

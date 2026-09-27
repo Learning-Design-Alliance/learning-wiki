@@ -12,7 +12,7 @@ generated:
 # Know Your Own Perspectives
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 0 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (4 causal, 1 quant-synthesis), `q3`–`q4` · 0 of 5 report an effect size
 
 ## Description
 Reflect deeply on your own attitudes and beliefs and how they may impact your opinions and actions. Understand how your views affect the way you interpret what students say and do. Cultural background influences how we interpret situations and communicate, as well as the choices we make. An important element of culturally responsive communication is understanding how your views affect the way you interpret what students say and do.

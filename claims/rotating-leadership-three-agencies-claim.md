@@ -15,12 +15,14 @@ sources:
     author: Brandhorst, Allan R.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The relational taxonomy rests on value orientations that task-oriented group activity requires rotating leadership exercised through sanctions, persuasion, or expertise
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The taxonomy is built on the belief that task-oriented group activity requires leadership, exercisable through sanctions, persuasion, or influence, with the appropriate mode determined by the group's purpose. [→ Brandhorst 1976](#brandhorst-1976)
@@ -32,7 +34,7 @@ sources:
 
 Brandhorst, Allan R. (1976). Toward a Taxonomy of Educational Objectives in the Relational Domain. https://eric.ed.gov/?id=ED134505
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the paper's theoretical-foundations section. The author states this belief and adds that leadership may be exercised through sanctions, persuasion, or influence, and that "followership is a learned behavior" warranting inclusion among educational objectives. No empirical data are offered; the author notes consistency with Etzioni's compliance theory and Likert's supervisory theory.
 

@@ -16,7 +16,7 @@ sources:
 # Constructivism learning theory: knowledge as assumption, learning as active construction, students as subjects, teachers as helpers
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article presents constructivism as a learning theory developed from behaviorism through cognitivism, with philosophical roots in Socrates and Kant and psychological roots in Dewey, Piaget, and Vygotsky. It holds that knowledge is "only an explanation and an assumption but not the final answer for all questions", that learning is the active construction of cognitive structures from the interaction of old and new knowledge, that students enter class with rich prior experience, and that teachers act as helpers and drivers of students' meaning construction rather than indoctrinators.

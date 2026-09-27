@@ -15,12 +15,14 @@ sources:
     author: Daloglu, A.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # All student groups preferred deductive over inductive grammar instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students preferred deductive grammar instruction over inductive grammar instruction. [→ Daloglu 2020](#daloglu-2020)
@@ -31,7 +33,7 @@ sources:
 
 Daloglu, A. (2020). EFL Students' Beliefs about How They Learn Grammar Best. English Language Teaching, 13(10). https://doi.org/10.5539/elt.v13n10p158
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive survey results from 927 students grouped by year of study. The article reports that "students preferred deductive grammar instruction over inductive grammar instruction."
 

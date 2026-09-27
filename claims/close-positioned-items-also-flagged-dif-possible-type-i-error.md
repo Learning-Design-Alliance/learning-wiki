@@ -15,12 +15,14 @@ sources:
     author: "Soysal, S., & Yilmaz Kogar, E."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Some items positioned close together across booklets were also flagged as DIF, possibly due to Type I error from sampling
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Items placed at similar positions in different booklets were flagged as DIF in some conditions by at least one method, so not all flagged DIF can be attributed to position. [→ Soysal 2021](#soysal-2021)
@@ -31,7 +33,7 @@ sources:
 
 Soysal, S., & Yilmaz Kogar, E. (2021). An Investigation of Item Position Effects by Means of IRT-Based Differential Item Functioning Methods. International Journal of Assessment Tools in Education, 8(2), 239-256. https://doi.org/10.21449/ijate.779963
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 In the TEOG booklet DIF analysis, items 2 and 13 in Booklet A occupy 3rd and 14th positions in Booklet C yet were flagged; the authors state the reason "may not be based on item position" and "may have arisen due to a type 1 error caused by sampling."
 

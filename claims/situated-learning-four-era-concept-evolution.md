@@ -15,12 +15,14 @@ sources:
     author: "Vargas, E. G., Chiappe, A., & Durand, J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Situated learning research has maintained the central idea of learning in context while integrating different elements across four technological eras
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across the 1990s, 2000s, 2010s and 2020-2022 periods, situated learning retained 'learning in context' as its central idea while different associated elements (workplace, ICT communities, mobile/gaming, immersive and AI technologies) dominated each era. [→ Vargas 2024](#vargas-2024)
@@ -31,7 +33,7 @@ sources:
 
 Vargas, E. G., Chiappe, A., & Durand, J. (2024). Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature. Journal of Social Studies Education Research. https://eric.ed.gov/?id=EJ1445872
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Systematic review (PRISMA) of 60 Scopus-indexed articles; thematic and frequency analysis of concepts across four time periods (1990s, 2000s, 2010s, 2020-2022) shown in the review's comparative timeline. The review reports that "this idea has involved the integration of various elements at different points in its history" while learning in context remained central.
 

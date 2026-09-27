@@ -16,7 +16,7 @@ sources:
 # Support internet safety for teens with ASD through simple, frequent conversations and clear rules and limits on internet use
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies, `q1` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 theoretical), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The brief recommends that adults support adolescents with ASD online by holding "simple and frequent conversations about internet safety" and by "establishing clear rules and limits to internet use." It also suggests enlisting professionals such as a school media specialist or counselor when needed, and setting concrete limits such as timers and adult-supervised computer locations.

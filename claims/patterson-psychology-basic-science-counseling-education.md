@@ -15,12 +15,14 @@ sources:
     author: Nassar-McMillan, Sylvia C.
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # Patterson held that psychology, not education, is the basic science of both counseling and education
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r1` · `q1`
 
 ## Subclaims
 `q1 i?` In his 1965 APGA presidential campaign against Ken Hoyt, Patterson argued that the basic science of counseling and of education alike was psychology, a position that lost the election. [→ Nassar-McMillan 1999](#nassar-mcmillan-1999)
@@ -31,7 +33,7 @@ sources:
 
 Nassar-McMillan, Sylvia C. (1999). The Life of a Legacy Bearer: Biographical Interview with C.H. Patterson. https://eric.ed.gov/?id=ED435879
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r1`
 
 Patterson recounts his 1965 APGA presidential nomination against Ken Hoyt, whose position was that counselors were educators; Patterson's psychology-based position "was not the popular one at APGA," and Hoyt won, though Patterson recalls the vote was very close.
 

@@ -15,18 +15,22 @@ sources:
     author: "Hadi Yasser H., Bani‐Ahmad Mo'men, Moore Niamh, Clark Kevin R., Al‐Hayek Yazan, Albeshan Salman M., Alghamdi Sultan B., Precht Helle, England Andrew, McEntee Mark"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: hadi-yasser-h-2026-2
     resource: "https://doi.org/10.1002/jmrs.70119"
     title: "Hadi Yasser H., Bani‐Ahmad Mo'men, Moore Niamh, Clark Kevin R., Al‐Hayek Yazan, Albeshan Salman M., Alghamdi Sultan B., Precht Helle, England Andrew, McEntee Mark. (2026). Patient Centring in CT: An International Survey of Clinical Practice and Future Directions. Journal of Medical Radiation Sciences. https://doi.org/10.1002/jmrs.70119"
     author: "Hadi Yasser H., Bani‐Ahmad Mo'men, Moore Niamh, Clark Kevin R., Al‐Hayek Yazan, Albeshan Salman M., Alghamdi Sultan B., Precht Helle, England Andrew, McEntee Mark"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Access to and consistent use of automated centring technology remain limited among CT radiographers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Only 34.3% of respondents had access to auto-centring technology and 56.7% reported no access. [→ Hadi Yasser H. 2026](#hadi-yasser-h-2026)
@@ -38,7 +42,7 @@ sources:
 
 Hadi Yasser H., Bani‐Ahmad Mo'men, Moore Niamh, Clark Kevin R., Al‐Hayek Yazan, Albeshan Salman M., Alghamdi Sultan B., Precht Helle, England Andrew, McEntee Mark. (2026). Patient Centring in CT: An International Survey of Clinical Practice and Future Directions. Journal of Medical Radiation Sciences. https://doi.org/10.1002/jmrs.70119
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Survey results on technology access among 321 radiographers; among those with access, 3D camera–based positioning was most frequent (50 respondents, 45.5%), followed by AI-based (20.0%) and combined systems (17.3%).
 
@@ -48,7 +52,7 @@ Survey results on technology access among 321 radiographers; among those with ac
 
 Hadi Yasser H., Bani‐Ahmad Mo'men, Moore Niamh, Clark Kevin R., Al‐Hayek Yazan, Albeshan Salman M., Alghamdi Sultan B., Precht Helle, England Andrew, McEntee Mark. (2026). Patient Centring in CT: An International Survey of Clinical Practice and Future Directions. Journal of Medical Radiation Sciences. https://doi.org/10.1002/jmrs.70119
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Usage-pattern results for the whole cohort; only 15 respondents (4.7%) reported using auto-centring for all routine scans, with most indicating partial adoption, and 35.5% gave no usage response, largely corresponding to those without access.
 

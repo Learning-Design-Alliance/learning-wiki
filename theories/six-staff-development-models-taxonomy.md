@@ -16,7 +16,7 @@ sources:
 # Six models of staff development ordered by ascending complexity, each implying a distinct staff-developer role
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (2 for, 2 mixed, 1 against) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (2 for, 2 mixed, 1 against) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The monograph's second organizing axis identifies six models: expert-presenter, clinical-supervision, skill-training, action-research, organization-development, and change-process. Each model is a different strategy for accomplishing one or more of the eight objectives, and each implies a corresponding staff-developer role (expert presenter, clinical supervisor, trainer, action-research facilitator, organization-development specialist, change agent). The authors state: "Also, the more complex models have greater potential to affect teachers and students than the less complex models." The ordering is presented as tentative, subject to change with new research knowledge.

@@ -15,12 +15,14 @@ sources:
     author: Gough, Noel; Kesson, Kathleen
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The Western linear, material construction of time is only one among many constructions of reality, and deconstructing it is another step toward reconstructing the relationship with the earth
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Western assumptions about the material reality of time should be deconstructed, since both postmodern physics and non-Western cosmologies challenge the linear construction of temporal experience. [→ Gough 1992](#gough-1992)
@@ -31,7 +33,7 @@ sources:
 
 Gough, Noel; Kesson, Kathleen. (1992). Body and Narrative as Cultural Text: Toward a Curriculum of Continuity and Connection. https://eric.ed.gov/?id=ED347544
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the 'Assimilating body and narrative to time' section (article's OCR spellings preserved). The authors cite Highwater's 'linear construction of temporal experience', the tense-free semantics of Native American languages such as Hopi, and Wolf's transactional interpretation of quantum physics as challenges to Western time.
 

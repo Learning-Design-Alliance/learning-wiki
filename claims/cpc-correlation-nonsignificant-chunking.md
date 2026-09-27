@@ -15,12 +15,14 @@ sources:
     author: "Furukawa, J. M., Sumpter, K., & Cohen, N."
     q: 2
     i: 0
+    kind: causal
+    rigour: 1
 ---
 
 # The correlation between cognitive processing capacity and test performance is non-significant when using the chunking method
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · causal `r1` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` Correlations between CPC and immediate (.13) and delayed (.10) test scores were both non-significant, suggesting chunking reduces CPC-based performance disparities. [→ Furukawa 1978](#furukawa-1978)
@@ -31,7 +33,7 @@ sources:
 
 Furukawa, J. M., Sumpter, K., & Cohen, N. (1978). Chunking Method of Teaching and Studying: II. Paper presented at a meeting of the American Psychological Association, Toronto. https://eric.ed.gov/?id=ED165097
 
-`q2 · i0`
+`q2 · i0` · `causal · r1`
 
 Correlational analysis across both studies comparing CPC scores with immediate and delayed posttest performance. The article reports correlations of .13 and .10, neither significant, contrasting with substantial CPC–performance relationships in the author's earlier studies.
 

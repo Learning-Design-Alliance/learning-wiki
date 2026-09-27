@@ -15,12 +15,14 @@ sources:
     author: "Iran-Nejad, Asghar & Ortony, Andrew"
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Comprehension and recognition need not draw on permanent mental representations: recognition occurs via shared functional elements across schema-of-the-moments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Comprehension need neither draw upon nor result in the construction of permanent mental representations; recognition is explained in terms of elements only, occurring when the current schema-of-the-moment contains the same functional elements as a previous one. [→ Iran-Nejad 1982](#iran-nejad-1982)
@@ -31,7 +33,7 @@ sources:
 
 Iran-Nejad, Asghar & Ortony, Andrew. (1982). Cognition: A Functional View. Center for the Study of Reading, University of Illinois at Urbana-Champaign. https://eric.ed.gov/?id=ED215308
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the schema-of-the-moment section, answering the question of how recognition is possible if no long-term representation is preserved. The authors say this gives neuronal elements functional independence and eliminates the need to claim the mental pattern is preserved in the interim.
 

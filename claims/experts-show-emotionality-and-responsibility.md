@@ -15,12 +15,14 @@ sources:
     author: Berliner, David C.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Expert teachers show intense emotionality and sense of responsibility for their performance, unlike affectless novices and postulants
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In the lesson-teaching study, experts were angry, disappointed, and deeply affected by their poor performance while postulants were happy and novices affectless. [→ Berliner 1988](#berliner-1988)
@@ -31,7 +33,7 @@ sources:
 
 Berliner, David C. (1988). The Development of Expertise in Pedagogy. American Association of Colleges for Teacher Education. https://eric.ed.gov/?id=ED298122
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 In Berliner's (1988) study where experts, novices, and postulants planned and taught a short probability lesson, the artificial situation stripped experts of their usual routines and preparation time; one expert walked away, one had to be coaxed, one cried during playback, and one recalled it as the worst experience of her life.
 

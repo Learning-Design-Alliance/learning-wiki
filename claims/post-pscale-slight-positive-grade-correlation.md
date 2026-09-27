@@ -15,12 +15,14 @@ sources:
     author: C. A. Ogilvie
     q: 2
     i: 1
+    kind: associational
+    rigour: 1
 ---
 
 # Post-course expansive preference is slightly positively correlated with course grade, but causation is not established
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Post-course pscale shows a slight positive correlation with final grade (r2=0.02), with a purely expansive student scoring about four percentage points higher than a purely limiting one. [→ C. A. Ogilvie 2006](#c-a-ogilvie-2006)
@@ -31,7 +33,7 @@ sources:
 
 C. A. Ogilvie. (2006). Impact of Context-Rich, Multifaceted Problems on Students' Attitudes Towards Problem-Solving. https://www.physics.iastate.edu
 
-`q2 · i1`
+`q2 · i1` · `associational · r1`
 
 Regression of final course grade on post-course pscale. The article reports r2=0.02, notes four percentage points is almost half a letter-grade, and stresses "this is a correlation and not a causation."
 

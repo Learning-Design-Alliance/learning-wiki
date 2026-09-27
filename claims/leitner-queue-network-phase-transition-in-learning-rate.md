@@ -15,18 +15,22 @@ sources:
     author: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T."
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
   - id: reddy-2016-2
     resource: "https://doi.org/10.1145/2939672.2939850"
     title: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for Spaced Repetition. KDD ’16, San Francisco, CA, USA. https://doi.org/10.1145/2939672.2939850"
     author: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T."
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Under the Leitner Queue Network model, raising the rate of new-item introduction beyond a threshold causes a phase transition in learning rate, which a Mechanical Turk vocabulary experiment reproduced.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1`–`q2`
+> **Evidence** · 1 study (2 entries) · causal `r?` · `q1`–`q2`
 
 ## Subclaims
 `q1 i?` Under the mean-recall approximation, when the arrival rate exceeds the threshold the lowest Leitner deck accumulates items and delays blow up, so the learning rate goes to 0. [→ Reddy 2016](#reddy-2016)
@@ -38,7 +42,7 @@ sources:
 
 Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for Spaced Repetition. KDD ’16, San Francisco, CA, USA. https://doi.org/10.1145/2939672.2939850
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Analytical result derived under the mean-recall approximation of the Leitner Queue Network. The article derives that above threshold the lowest deck "experiences packet accumulation and delay blow-up" and the learning rate goes to 0.
 
@@ -48,7 +52,7 @@ Analytical result derived under the mean-recall approximation of the Leitner Que
 
 Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for Spaced Repetition. KDD ’16, San Francisco, CA, USA. https://doi.org/10.1145/2939672.2939850
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Mechanical Turk vocabulary-learning experiment (Japanese words or American Sign Language gestures) with participants assigned to arrival-rate conditions. "The simulated and empirical curves are in close agreement"; the data show the predicted phase transition (Fig. 14). No test statistic is printed.
 

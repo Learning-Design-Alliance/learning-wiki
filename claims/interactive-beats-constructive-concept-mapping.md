@@ -15,12 +15,14 @@ sources:
     author: "Chi, M. T. H., Adams, J., Bogusch, E. B., Bruchok, C., Kang, S., Lancaster, M., Levy, R., Li, N., McEldoon, K. L., Stump, G. S., Wylie, R., Xu, D., & Yaghmourian, D. L."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Collaborative concept mapping enhances learning more than individual concept mapping, supporting Interactive over Constructive engagement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Concept mapping with a peer (Interactive) enhances learning more than concept mapping alone (Constructive), as reported in the literature the article cites. [→ Chi 2018](#chi-2018)
@@ -31,7 +33,7 @@ sources:
 
 Chi, M. T. H., Adams, J., Bogusch, E. B., Bruchok, C., Kang, S., Lancaster, M., Levy, R., Li, N., McEldoon, K. L., Stump, G. S., Wylie, R., Xu, D., & Yaghmourian, D. L. (2018). Translating the ICAP Theory of Cognitive Engagement Into Practice. Cognitive Science, 42. https://doi.org/10.1111/cogs.12626
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 The article reports, citing prior ICAP papers, a study comparing concept-mapping alone versus concept-mapping with a peer, showing that "doing so collaboratively enhances learning more than doing it individually", supporting the I > C pairwise comparison. The study's design is not described beyond this summary.
 

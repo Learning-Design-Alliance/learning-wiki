@@ -16,7 +16,7 @@ sources:
 # Two-eyed seeing methodology
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A methodology developed in the Canadian context, formalized by Albert and Murdena Marshall, in which Indigenous and Western knowledges co-exist in an educational setting. Metaphorically, "children learn to see from one eye with the strengths of IKs and from the other with the strengths of DW-Ks," using both together for the benefit of all. It values differences rather than melding perspectives, recognizes IKs as valid ways of teaching and learning equal to Euro-American counterparts, and explicitly addresses the power relationship between the two knowledge systems. In this study it served as a framework guiding integration of Kasena IK into KG2 environmental studies topics.

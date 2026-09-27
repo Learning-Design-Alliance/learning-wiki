@@ -17,7 +17,7 @@ sources:
 # Five characteristics distinguish effective LRE programs
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The digest lists five characteristics of effective LRE programs: extensive interaction among students, realistic content with balanced treatment of issues, use of outside resource persons, strong administrator support, and systematic staff development. Interactive strategies such as "small group work, simulations, role-play activities, and mock trials" are described as keys to developing civic participation skills and positive attitudes. Balanced treatment requires presenting both the legal system's successes and its failures.

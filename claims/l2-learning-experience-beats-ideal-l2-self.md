@@ -15,12 +15,14 @@ sources:
     author: "Takahashi, C., & Im, S."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In the L2MSS, the L2 learning experience predicts intended effort most strongly, while the ideal L2 self is weaker than the theory argues
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The L2 learning experience predicted intended effort most strongly (.71), the ideal L2 self more weakly (.25), and the ought-to L2 self weakly (.13). [→ Takahashi 2020](#takahashi-2020)
@@ -31,7 +33,7 @@ sources:
 
 Takahashi, C., & Im, S. (2020). Comparing self-determination theory and the L2 motivational self system and their relationships to L2 proficiency. Studies in Second Language Learning and Teaching, 10(4), 673-696. https://doi.org/10.14746/ssllt.2020.10.4.2
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 SEM results for the L2MSS model (n = 511) show standardized paths to intended effort of .71 for the L2 learning experience, .25 for the ideal L2 self, and .13 for the ought-to L2 self, with all path coefficients reported significant.
 

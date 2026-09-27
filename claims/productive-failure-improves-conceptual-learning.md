@@ -16,6 +16,8 @@ sources:
     q: 4
     i: 1
     n: 53 studies (166 comparisons)
+    kind: quant-synthesis
+    rigour: "?"
   - id: kapur-2014
     resource: "https://doi.org/10.1111/cogs.12107"
     title: "Kapur, M. (2014). Productive failure in learning math. *Cognitive Science, 38*(5), 1008–1022. [doi:10.1111/cogs.12107](https://doi.org/10.1111/cogs.12107)"
@@ -23,12 +25,14 @@ sources:
     q: 3
     i: "?"
     n: 2 studies (participant count not established from the abstract)
+    kind: causal
+    rigour: "?"
 ---
 
 # Productive Failure Improves Conceptual Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3`–`q4` · `i1` small
+> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q3`–`q4` · `i1` small
 
 When learners attempt to solve novel problems *before* receiving canonical instruction, they often perform worse on those attempts but learn more from the subsequent instruction than learners who receive instruction first.
 
@@ -46,7 +50,7 @@ The claim is scoped to *conceptual* outcomes (understanding of underlying princi
 
 Sinha, T., & Kapur, M. (2021). When problem solving followed by instruction works: Evidence for productive failure. *Review of Educational Research, 91*(5), 761–798. [doi:10.3102/00346543211019105](https://doi.org/10.3102/00346543211019105)
 
-`q4 · three-level meta-analysis of experimental and quasi-experimental comparisons` · `i1 · small effect, g=0.36` · `n=53 studies (166 comparisons)`
+`q4 · three-level meta-analysis of experimental and quasi-experimental comparisons` · `i1 · small effect, g=0.36` · `n=53 studies (166 comparisons)` · `quant-synthesis · r?`
 
 This meta-analysis pooled 166 comparisons from 53 studies. Each set a problem-solving-first design (PS-I) against the same instruction taught first (I-PS). On conceptual knowledge and transfer, the pooled effect favored PS-I (Hedges' g = 0.36, 95% CI [0.20, 0.51]). On the 51 comparisons that measured procedural knowledge, the two orders came out the same (g = −0.03, 95% CI [−0.20, 0.15]). Effects grew when the problem-solving phase followed [productive failure](../elements/invention.md) design criteria: students generated multiple solutions, worked in groups, and received instruction that built on their own solutions (the abstract reports g between 0.37 and 0.58 for implementations with high fidelity to productive-failure principles). Effects reversed and favored instruction first for second to fifth graders and for domain-general skills. That boundary matters for applying the claim to younger learners. The authors' publication-bias-adjusted estimate is g = 0.87, a model-based estimate rather than an observed effect.
 
@@ -54,7 +58,7 @@ This meta-analysis pooled 166 comparisons from 53 studies. Each set a problem-so
 
 Kapur, M. (2014). Productive failure in learning math. *Cognitive Science, 38*(5), 1008–1022. [doi:10.1111/cogs.12107](https://doi.org/10.1111/cogs.12107)
 
-`q3 · two randomized controlled experiments` · `i? · no effect size in the abstract` · `n=2 studies (participant count not established from the abstract)`
+`q3 · two randomized controlled experiments` · `i? · no effect size in the abstract` · `n=2 studies (participant count not established from the abstract)` · `causal · r?`
 
 Two randomized controlled studies compared teaching a new math concept first with having students solve problems first, even if they failed, and then teaching it. Both orders produced high procedural knowledge. The problem-solving-first students showed significantly greater conceptual understanding and transfer to novel problems. In the second study, students who studied their peers' failed attempts before instruction beat the instruction-first group, but not the students who had solved the problems themselves. How many solutions students generated predicted their learning outcomes. Only the abstract was read, so this entry gives no effect sizes or sample sizes.
 

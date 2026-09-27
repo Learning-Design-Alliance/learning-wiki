@@ -15,12 +15,14 @@ sources:
     author: "Roohani, A., & Esmaeili, M."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Unfocused communicative tasks elicit significantly more meaning negotiation than focused tasks among intermediate EFL learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Unfocused tasks produced a higher frequency of meaning negotiation than focused tasks, a statistically significant difference. [→ Roohani 2022](#roohani-2022)
@@ -31,7 +33,7 @@ sources:
 
 Roohani, A., & Esmaeili, M. (2022). Effect of (Un)Focused Tasks on L2 Learners' Meaning Negotiation and Negotiation Strategy. PASAA, 63. https://portal.issn.org/resource/ISSN/2287-0024
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Counterbalanced performance study of 36 Iranian intermediate EFL learners completing four oral tasks; frequency analysis of transcribed ten-minute segments showed "the unfocused tasks (74%) achieved higher rates of negotiation than the focused ones (26%)"; no effect size reported.
 

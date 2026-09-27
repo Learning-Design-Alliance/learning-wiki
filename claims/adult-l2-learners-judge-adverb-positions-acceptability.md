@@ -15,12 +15,14 @@ sources:
     author: ZHANG Zi-hong
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Adult L2 learners can generally judge which English adverb placements are acceptable, based on true/false judgment data from ten college students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Most adult learners in a judgment task could tell which sentences with adverbs are possible and which are unacceptable, though some had difficulty. [→ ZHANG Zi-hong 2010](#zhang-zi-hong-2010)
@@ -31,7 +33,7 @@ sources:
 
 ZHANG Zi-hong. (2010). The syntactic positions of adverbs and the Second Language Acquisition. Sino-US English Teaching, 7(9), 48-54. https://eric.ed.gov/?id=ED514708
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 A small judgment study in which ten second-year college students (six non-English majors, four English majors) judged twenty sentences containing adverbs. The author reports "most adult learners can tell generally which sentences are possible"; no effect size or test statistic is printed.
 

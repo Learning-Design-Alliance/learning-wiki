@@ -17,7 +17,7 @@ sources:
 # Writing-integrated reading lesson pattern across teaching objectives, content, organization and assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article specifies that conducting writing instruction under the hypothesis requires adjustments “in our teaching objectives, teaching content, teaching organization and evaluation mechanism”. Teaching content involves varied reading materials supplying form and content for output tasks; organization requires proper lesson sequence, reasonable class-time arrangement, well-organized writing activities with assessment, and clearly presented assignments within learners’ ability; evaluation considers both in-class performance and writing products.

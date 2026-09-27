@@ -15,12 +15,14 @@ sources:
     author: "Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # CLASP students' MCAT Physical Science scores were slightly higher than Physics 5 students', but the difference was not statistically significant; Biological Science scores were identical on average
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Comparing about five years of MCAT data around the switch from Physics 5 to CLASP (N = 386 Physics 5, N = 347 CLASP), Biological Science averages were 9.71 ± 0.10 for both groups, and the Physical Science gap of 0.16 ± 0.15 was not statistically significant (t-test p = 0.29). [→ Potter 2018](#potter-2018)
@@ -31,7 +33,7 @@ sources:
 
 Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2018). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Observational comparison of MCAT scores for students who took Physics 5 (N = 386) versus CLASP (N = 347), using about five years of data centered on the transition between the series. The Physical Science difference was not significant; equivalence was not tested. No effect size is printed.
 

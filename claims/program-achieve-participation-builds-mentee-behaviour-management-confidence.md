@@ -15,12 +15,14 @@ sources:
     author: "Sempowicz, T., & Hudson, P."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Mentee participation in a school-wide positive behaviour support program (Program Achieve) enabled confident implementation of learned strategies in other lessons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The mentee's understanding of the school-wide approach to behaviour management, gained through delivering Program Achieve lessons, enabled her to confidently implement learned strategies in her other lessons. [→ Sempowicz 2011](#sempowicz-2011)
@@ -31,7 +33,7 @@ sources:
 
 Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Case-study finding from researcher observations and interviews: the mentee selected, planned and implemented two whole-class Program Achieve lessons, then reinforced concepts such as manners, persistence and positive thinking, and used reward systems like "gotchas", in other lessons.
 

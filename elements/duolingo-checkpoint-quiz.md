@@ -17,7 +17,7 @@ sources:
 # Checkpoint Quiz: a unit-terminal achievement test with embedded pre-test/post-test design
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Checkpoint Quiz is a custom-built assessment learners complete when finishing a unit at a Checkpoint. It is an "achievement test that measures the extent to which our learners have achieved the objectives for each unit of a course", with items independent from course exercises so learners cannot study the test items. Each randomly generated quiz has 15 items: seven pre-test items for the upcoming unit, seven post-test items for the completed unit (the same items seen as pre-test), and one self-directed writing item. This pre-test/post-test design establishes a baseline so gain in accuracy can be assessed. Items cover vocabulary, grammar, listening, reading, and free-form writing, with curated tags for grammatical concepts and communicative components.

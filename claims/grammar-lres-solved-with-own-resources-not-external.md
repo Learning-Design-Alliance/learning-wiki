@@ -15,18 +15,22 @@ sources:
     author: Monika Geist
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: monika-geist-2017-2
     resource: "https://doi.org/10.14746/ssllt.2017.7.3.6"
     title: "Monika Geist. (2017). Noticing grammar in L2 writing and problem-solving strategies. Studies in Second Language Learning and Teaching, 7(3), 471-487. https://doi.org/10.14746/ssllt.2017.7.3.6"
     author: Monika Geist
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Learners resolve grammar-related noticing with intuition, reasoning, rephrasing and explicit rules rather than external resources
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Despite available dictionaries, internet access and no time limit, learners did not consult external resources for grammar problems, relying instead on intuition, rephrasing, and logical reasoning. [→ Monika Geist 2017](#monika-geist-2017)
@@ -38,7 +42,7 @@ sources:
 
 Monika Geist. (2017). Noticing grammar in L2 writing and problem-solving strategies. Studies in Second Language Learning and Teaching, 7(3), 471-487. https://doi.org/10.14746/ssllt.2017.7.3.6
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Analysis of strategy use across the grammar LREs in the think-aloud protocols found learners "did not turn to additional resources"; explicit knowledge was used seven times, including school-taught rules about sentence beginnings and length.
 
@@ -48,7 +52,7 @@ Analysis of strategy use across the grammar LREs in the think-aloud protocols fo
 
 Monika Geist. (2017). Noticing grammar in L2 writing and problem-solving strategies. Studies in Second Language Learning and Teaching, 7(3), 471-487. https://doi.org/10.14746/ssllt.2017.7.3.6
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Comparing the study's strategy classification with Cumming (1989) and Swain and Lapkin (1995), the author reports "Rephrasing and reasoning are strategies unique to the current study," extending prior taxonomies.
 

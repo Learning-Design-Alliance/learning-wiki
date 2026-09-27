@@ -12,7 +12,7 @@ generated:
 # Show and Tell for Multimodal Design
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies, `q2`–`q4` · 3 of 6 report an effect size
+> **Evidence** · 3 claims (3 for) · 6 studies (4 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 3 of 6 report an effect size
 
 ## Description
 Devoting time each week for students to show the effects of different multimodal combinations or tell about their multimodal composition process. Similar to an author's chair in writing workshop, students explain their design decisions and receive constructive feedback from their peers. These student-led discussions generate concrete examples of the various processes used for multimodal composition.

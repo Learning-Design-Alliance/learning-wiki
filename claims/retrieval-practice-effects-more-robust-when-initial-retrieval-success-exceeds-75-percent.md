@@ -15,18 +15,22 @@ sources:
     author: Karpicke, J. D.
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-2
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` The chapter reports that in Rowland's (2014) meta-analysis retrieval practice effects become more robust as initial retrieval success increases, especially when it is greater than 75%. [→ Karpicke 2017](#karpicke-2017)
@@ -38,7 +42,7 @@ sources:
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 The chapter reports this moderator from Rowland's (2014) meta-analysis: "retrieval practice effects become more robust as initial retrieval success increases", especially above 75%. No effect sizes are printed for it.
 
@@ -48,7 +52,7 @@ The chapter reports this moderator from Rowland's (2014) meta-analysis: "retriev
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The chapter cites Carpenter and DeLosh (2006) and Karpicke and Roediger (2007a) as evidence that effort matters: "providing more initial retrieval cues leads to smaller retrieval practice effects".
 

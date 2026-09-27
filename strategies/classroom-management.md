@@ -12,7 +12,7 @@ generated:
 # Classroom Management
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q4` · 1 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (4 causal, 2 associational, 1 review), `q2`–`q4` · 1 of 7 report an effect size
 
 ## Description
 Classroom management is the proactive organization of time, space, rules, relationships, and instruction so that learning can proceed with minimal disruption. Effective management is primarily *preventive* — establishing routines, clear expectations, and engaging instruction — rather than reactive discipline. It encompasses teacher-student relationships, behavioral expectations, physical environment, and the pacing and structure of lessons themselves.

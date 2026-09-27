@@ -15,18 +15,22 @@ sources:
     author: Scharlott, L. J.; Rippey, D. W.; Rosa, V.; Becker, N. M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: scharlott-2024-2
     resource: "https://doi.org/10.1021/acs.jchemed.3c00517"
     title: "Scharlott, L. J.; Rippey, D. W.; Rosa, V.; Becker, N. M. (2024). Progression toward Causal Mechanistic Reasoning through Phenomenon-Based Learning in Introductory Chemistry. Journal of Chemical Education. https://doi.org/10.1021/acs.jchemed.3c00517"
     author: Scharlott, L. J.; Rippey, D. W.; Rosa, V.; Becker, N. M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # More instructional time spent on causal mechanistic reasoning correlated with a higher percentage of student responses using causal mechanistic reasoning on phenomenon-based tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In the core ideas environment, 50% of class time was invested in causal mechanistic reasoning and 41% of students exhibited it on the dissolution task; where less than 10% of instructional time was invested, 20% or fewer students exhibited it. [→ Scharlott 2024](#scharlott-2024)
@@ -38,7 +42,7 @@ sources:
 
 Scharlott, L. J.; Rippey, D. W.; Rosa, V.; Becker, N. M. (2024). Progression toward Causal Mechanistic Reasoning through Phenomenon-Based Learning in Introductory Chemistry. Journal of Chemical Education. https://doi.org/10.1021/acs.jchemed.3c00517
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Observational analysis quantifying instructor dialogue time and student task responses across the three environments, reported in Results. In the core ideas environment "50% of class time was invested in causal mechanistic reasoning" and 41% of students exhibited it on the dissolution task.
 
@@ -48,7 +52,7 @@ Observational analysis quantifying instructor dialogue time and student task res
 
 Scharlott, L. J.; Rippey, D. W.; Rosa, V.; Becker, N. M. (2024). Progression toward Causal Mechanistic Reasoning through Phenomenon-Based Learning in Introductory Chemistry. Journal of Chemical Education. https://doi.org/10.1021/acs.jchemed.3c00517
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Cross-environment observational trend reported in Results comparing instructional emphasis with student task performance. Where emphasis rose to 24% or more of class time, student use of causal mechanistic reasoning increased to 24−36%; below that, 20% or fewer did.
 

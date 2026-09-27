@@ -15,18 +15,22 @@ sources:
     author: "Acharibasam, J. B., & McVittie, J."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: acharibasam-2021-2
     resource: "https://eric.ed.gov/?id=EJ1329976"
     title: "Acharibasam, J. B., & McVittie, J. (2021). The use of a two-eyed seeing approach to include Indigenous Knowledge in Early Childhood Care and Development in Ghana. International Education Journal: Comparative Perspectives, 20(1). https://eric.ed.gov/?id=EJ1329976"
     author: "Acharibasam, J. B., & McVittie, J."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Participating in Elder-led Indigenous teaching changed the teacher's pedagogical practice and deepened her connection to the community
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` After following children on outdoor learning activities, the teacher began employing the concept of nature giving things freely to the community in her own teaching, e.g. in a photosynthesis lesson. [→ Acharibasam 2021](#acharibasam-2021)
@@ -38,7 +42,7 @@ sources:
 
 Acharibasam, J. B., & McVittie, J. (2021). The use of a two-eyed seeing approach to include Indigenous Knowledge in Early Childhood Care and Development in Ghana. International Education Journal: Comparative Perspectives, 20(1). https://eric.ed.gov/?id=EJ1329976
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Researcher observation and the teacher's final interview in the Boania case study. The teacher admitted the Elders' Indigenous approach made concepts more relatable and easier for children to understand, saying Indigenous Knowledges "come with stories that make lessons easier to grasps."
 
@@ -48,7 +52,7 @@ Researcher observation and the teacher's final interview in the Boania case stud
 
 Acharibasam, J. B., & McVittie, J. (2021). The use of a two-eyed seeing approach to include Indigenous Knowledge in Early Childhood Care and Development in Ghana. International Education Journal: Comparative Perspectives, 20(1). https://eric.ed.gov/?id=EJ1329976
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Teacher's second interview transcript (March 19th, 2020) in the Boania case study, in which she describes her changed perception of the land and the tamarind tree where the school first started.
 

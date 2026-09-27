@@ -12,7 +12,7 @@ generated:
 # Involving Students in Classroom Redesign
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 1 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (3 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 5 report an effect size
 
 ## Description
 Involving students in classroom redesign means treating the physical environment — layout, furniture, displays, materials organization — as a co-designed artifact rather than a teacher-determined given. Students gather evidence about how the environment affects attention and learning, deliberate over competing proposals, and implement changes. The strategy pairs environmental decision-making with instruction about the research behind environmental effects, so choices are informed rather than purely preferential.

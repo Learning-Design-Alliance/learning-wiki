@@ -15,6 +15,8 @@ sources:
     q: 3
     i: "?"
     n: 92 students (49 African American, 43 European American)
+    kind: causal
+    rigour: "?"
   - id: walton-et-al-2023
     resource: "https://doi.org/10.1126/science.ade4420"
     title: "Walton, G. M., Murphy, M. C., Logel, C., Yeager, D. S., Goyer, J. P., Brady, S. T., Emerson, K. T. U., Paunesku, D., Fotuhi, O., Blodorn, A., Boucher, K. L., Carter, E. R., Gopalan, M., Henderson, A., Kroeper, K. M., Murdock-Perriera, L. A., Reeves, S. L., Ablorh, T. T., Ansari, S., … Krol, N. (2023). Where and with whom does a brief social-belonging intervention promote progress in college? *Science, 380*(6644), 499–505. [doi:10.1126/science.ade4420](https://doi.org/10.1126/science.ade4420)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: "?"
     n: 26,911 students at 22 institutions
+    kind: causal
+    rigour: 3
 ---
 
 # Belonging Interventions Improve Outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 2 studies · 2 causal `r3` · `q3`
 
 Brief, targeted interventions that address students' doubts about whether they belong in school can improve academic outcomes, particularly during transitions and for students from groups subject to negative stereotypes about their ability.
 
@@ -43,7 +47,7 @@ Brief, targeted interventions that address students' doubts about whether they b
 
 Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447–1451. [doi:10.1126/science.1198364](https://doi.org/10.1126/science.1198364)
 
-`q3 · peer-reviewed randomized controlled trial` · `i? · no effect size in the abstract read` · `n=92 students (49 African American, 43 European American)`
+`q3 · peer-reviewed randomized controlled trial` · `i? · no effect size in the abstract read` · `n=92 students (49 African American, 43 European American)` · `causal · r?`
 
 A randomized controlled trial with 92 first-year college students, followed for three years. The intervention presented social adversity on campus as common and transient, and participants generated the message themselves. Compared with multiple control groups, it raised African American students' GPA and halved the minority achievement gap. The GPA gain was mediated by students no longer reading adversity as a sign that they did not belong. African American students also reported better health and well-being and fewer doctor visits three years later. Only the abstract was read, so no effect size is recorded here.
 
@@ -51,7 +55,7 @@ A randomized controlled trial with 92 first-year college students, followed for 
 
 Walton, G. M., Murphy, M. C., Logel, C., Yeager, D. S., Goyer, J. P., Brady, S. T., Emerson, K. T. U., Paunesku, D., Fotuhi, O., Blodorn, A., Boucher, K. L., Carter, E. R., Gopalan, M., Henderson, A., Kroeper, K. M., Murdock-Perriera, L. A., Reeves, S. L., Ablorh, T. T., Ansari, S., … Krol, N. (2023). Where and with whom does a brief social-belonging intervention promote progress in college? *Science, 380*(6644), 499–505. [doi:10.1126/science.ade4420](https://doi.org/10.1126/science.ade4420)
 
-`q3 · peer-reviewed multi-site randomized controlled experiment` · `i? · no effect size in the abstract read` · `n=26,911 students at 22 institutions`
+`q3 · peer-reviewed multi-site randomized controlled experiment` · `i? · no effect size in the abstract read` · `n=26,911 students at 22 institutions` · `causal · r3`
 
 A team-science randomized experiment with 26,911 incoming students at 22 diverse institutions. The belonging intervention was delivered online before college and took under 30 minutes. It raised the rate at which students completed the first year as full-time students, especially students from groups that had historically progressed at lower rates. The context acted as a boundary condition: the intervention worked only where students' groups were afforded opportunities to belong. This qualifies the claim, because a belonging message does not help on its own in an environment that does not support belonging. An erratum was published in 2024 (doi:10.1126/science.ads9718). Only the abstract was read, so no effect size is recorded here.
 

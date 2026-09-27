@@ -15,18 +15,22 @@ sources:
     author: "Olejnik, Stephen F. & Algina, James"
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: olejnik-1983-2
     resource: "https://eric.ed.gov/?id=ED231882"
     title: "Olejnik, Stephen F. & Algina, James. (1983). Parametric ANCOVA vs. Rank Transform ANCOVA when Assumptions of Conditional Normality and Homoscedasticity Are Violated. Paper presented at the Annual Meeting of the American Educational Research Association. https://eric.ed.gov/?id=ED231882"
     author: "Olejnik, Stephen F. & Algina, James"
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Parametric ANCOVA is robust to violation of either conditional normality or homoscedasticity alone
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` With a normally distributed covariate, parametric ANCOVA was robust to violations of conditional normality in the simulation. [→ Olejnik 1983](#olejnik-1983)
@@ -38,7 +42,7 @@ sources:
 
 Olejnik, Stephen F. & Algina, James. (1983). Parametric ANCOVA vs. Rank Transform ANCOVA when Assumptions of Conditional Normality and Homoscedasticity Are Violated. Paper presented at the Annual Meeting of the American Educational Research Association. https://eric.ed.gov/?id=ED231882
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Simulation results across 19 cases with a non-normal homoscedastic conditional distribution and a normally distributed covariate: each analysis had one liberal and one conservative estimate at nominal alpha = .01 and none outside the interval at .05, "consistent with Box and Anderson's (1962) andAtiquallah's (1964) conclusion".
 
@@ -48,7 +52,7 @@ Simulation results across 19 cases with a non-normal homoscedastic conditional d
 
 Olejnik, Stephen F. & Algina, James. (1983). Parametric ANCOVA vs. Rank Transform ANCOVA when Assumptions of Conditional Normality and Homoscedasticity Are Violated. Paper presented at the Annual Meeting of the American Educational Research Association. https://eric.ed.gov/?id=ED231882
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Computer simulation study of estimated actual alpha levels under heteroscedastic conditional distributions (Table 8); the authors state parametric ANCOVA "was robust to the assumption ofhomoscedasticity when this assumption alone was violated".
 

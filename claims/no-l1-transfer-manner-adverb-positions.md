@@ -15,12 +15,14 @@ sources:
     author: ZHANG Zi-hong
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Learners show no first-language transfer for manner adverbs, judging sentence-final placement acceptable and pre-verbal placement unacceptable despite Chinese word order
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` For sentences with manner adverbs, all ten learners agreed on acceptability, and the author attributes this pattern to UG-based parameter setting rather than L1 transfer. [→ ZHANG Zi-hong 2010](#zhang-zi-hong-2010)
@@ -31,7 +33,7 @@ sources:
 
 ZHANG Zi-hong. (2010). The syntactic positions of adverbs and the Second Language Acquisition. Sino-US English Teaching, 7(9), 48-54. https://eric.ed.gov/?id=ED514708
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 In the ten-student judgment study, sentences d and f (manner adverbs sentence-finally) were judged well-formed and e and g unacceptable, with "no disagreement" among participants. The author states there is no influence of first language transfer because in Chinese these adverbs occur directly before verbs.
 

@@ -25,7 +25,7 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies, `q2`–`q4` · 0 of 9 report an effect size
+> **Evidence** · 3 claims (3 for) · 9 studies (4 causal, 2 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 9 report an effect size
 
 ## Description
 Formative assessment is the instructional principle of embedding low-stakes checks for understanding, feedback, and adjustment into the learning process rather than reserving assessment for final judgment. Its value is not the checkpoint itself, but the feedback loop it creates: learners compare their current performance to a target, explain errors, and revise strategies, while instructors adjust support and pacing in response. In practice, formative assessment works best when it is frequent, interpretable, and directly tied to the next instructional move.

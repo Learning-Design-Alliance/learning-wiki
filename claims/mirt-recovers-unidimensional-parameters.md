@@ -15,12 +15,14 @@ sources:
     author: Li, Yuan H.; Lissitz, Robert W.
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Applying a MIRT model to unidimensional data yields larger difficulty-parameter error but smaller first-dimension discrimination error than multidimensional data
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Log[RMSE] of item difficulty estimates was significantly larger for unidimensional than multidimensional data, while Log[RMSE] of the first-dimension discrimination decreased significantly; the authors conclude the MIRT model is also capable of modeling unidimensional test data. [→ Li 1998](#li-1998)
@@ -31,7 +33,7 @@ sources:
 
 Li, Yuan H.; Lissitz, Robert W. (1998). An Evaluation of Multidimensional IRT Equating Methods by Assessing the Accuracy of Transforming Parameters onto a Target Test Metric. Paper presented at the annual meeting of the National Council on Measurement in Education. https://eric.ed.gov/?id=ED418999
 
-`q1 · i?`
+`q1 · i?` · `causal · r2`
 
 Second simulation study (N=2000, 40-item test, 100 replications) comparing dependent t-tests on Log[RMSE] across research conditions. Average BIAS for difficulty was 0.122 in the unidimensional case versus 0.024 in the multidimensional case; the authors state the MIRT model "is also capable of modeling unidimensional test data."
 

@@ -15,18 +15,22 @@ sources:
     author: Z. Gao, G. S. de Oliveira, D. Babalola, C. Lynch, and S. Heckman
     q: 2
     i: 0
+    kind: associational
+    rigour: 1
   - id: z-gao-2024-2
     resource: "https://doi.org/10.5281/zenodo.12729866"
     title: "Z. Gao, G. S. de Oliveira, D. Babalola, C. Lynch, and S. Heckman. (2024). Who should i help next? simulation of office hours queue scheduling strategy in a cs2 course. Proceedings of the 17th International Conference on Educational Data Mining. https://doi.org/10.5281/zenodo.12729866"
     author: Z. Gao, G. S. de Oliveira, D. Babalola, C. Lynch, and S. Heckman
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Code commit features before a help request show no correlation with interaction time, and commit-based scheduling strategies perform no better than FCFS
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` Pearson correlations between commit frequency, last-commit elapsed time, last-commit LOC and interaction time are negligible and non-significant. [→ Z. Gao 2024](#z-gao-2024)
@@ -38,7 +42,7 @@ sources:
 
 Z. Gao, G. S. de Oliveira, D. Babalola, C. Lynch, and S. Heckman. (2024). Who should i help next? simulation of office hours queue scheduling strategy in a cs2 course. Proceedings of the 17th International Conference on Educational Data Mining. https://doi.org/10.5281/zenodo.12729866
 
-`q2 · i0`
+`q2 · i0` · `associational · r1`
 
 Correlational analysis of real request data (Table 2): commit frequency r = 0.0035 (p = 0.913), last commit elapsed time r = -0.0017 (p = 0.984), last commit LOC r = 0.0098 (p = 0.852) — "we could not find any correlation between the requests' interaction time and any code commit features".
 
@@ -48,7 +52,7 @@ Correlational analysis of real request data (Table 2): commit frequency r = 0.00
 
 Z. Gao, G. S. de Oliveira, D. Babalola, C. Lynch, and S. Heckman. (2024). Who should i help next? simulation of office hours queue scheduling strategy in a cs2 course. Proceedings of the 17th International Conference on Educational Data Mining. https://doi.org/10.5281/zenodo.12729866
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Normal-load simulation repeated with three commit-feature strategies (highest commit frequency, lowest elapsed time since last commit, largest LOC). The results show no significant difference from FCFS on resolved requests, helped students, long wait requests, or overall wait time.
 

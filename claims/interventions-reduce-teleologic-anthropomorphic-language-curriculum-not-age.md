@@ -14,17 +14,21 @@ sources:
     author: Bautista, R. G.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: bautista-2015-2
     title: "Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40."
     author: Bautista, R. G.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Classroom pedagogical interventions significantly reduce teleologic and anthropomorphic language, with curricular exposure but not age as a significant factor
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` ANCOVA shows a significant difference in students' affordance of teleologic and anthropomorphic languages after various classroom pedagogical interventions (F = 9.407, p = .004). [→ Bautista 2015](#bautista-2015)
@@ -36,7 +40,7 @@ sources:
 
 Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40.
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 ANCOVA of between-subjects effects of classroom pedagogical interventions on 48 students' affordance of teleologic and anthropomorphic language; the corrected model was significant (F = 17.305, p = .000) with adjusted R Squared = .675.
 
@@ -46,7 +50,7 @@ ANCOVA of between-subjects effects of classroom pedagogical interventions on 48 
 
 Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40.
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 ANCOVA grouping factor tests in the same study: age F = .395, p = .676 (not significant); curriculum F = 5.087, p = .030 (significant). The author attributes this to students exposed to English eliciting better ideas over counterparts exposed to Arabic instruction.
 

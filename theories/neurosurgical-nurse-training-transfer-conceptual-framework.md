@@ -16,7 +16,7 @@ sources:
 # Conceptual framework of training transfer in neurosurgical specialty nurse education
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (7 for) · 1 study, `q2` · 0 of 1 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 7 claims rest on one study
 
 ## Description
 A framework, presented as Figure 1, depicting training transfer as an adaptive reconstruction process shaped by individual readiness, educational design, organizational support, and specialty-specific clinical context. It extends the Baldwin–Ford model by incorporating "the availability of clinical scenarios, subspecialty resources, multidisciplinary collaboration, and evolving specialty nurse roles" as contextual conditions. Facilitating factors include individual motivation, contextualized teaching, and organizational empowerment; constraining factors include resource and sustainability limitations. The framework was derived from framework analysis of interviews with trainees, instructors, and training managers.

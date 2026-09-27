@@ -15,18 +15,22 @@ sources:
     author: Haarman, Susan
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: haarman-2021-2
     resource: "https://www.ovpes.org/"
     title: "Haarman, Susan. (2021). The Data Should Not Speak for Itself: Epistemic Injustice and Data as Rhetoric. Philosophical Studies in Education 52. https://www.ovpes.org/"
     author: Haarman, Susan
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Data construction can embed social values and patterns of privilege into data itself, perpetuating testimonial injustice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q1`
 
 ## Subclaims
 `q1 i?` The process of constructing data builds social values and privilege into the data, so datafication cannot transform bad inputs into good outputs. [→ Haarman 2021](#haarman-2021)
@@ -38,7 +42,7 @@ sources:
 
 Haarman, Susan. (2021). The Data Should Not Speak for Itself: Epistemic Injustice and Data as Rhetoric. Philosophical Studies in Education 52. https://www.ovpes.org/
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument on exclusivity: certain testimonies are left out of data by the collection process, and marginalized groups are less likely to be part of data producing actions. The article quotes Johnson that "'Garbage in, garbage out' is a central concept in data ethics."
 
@@ -48,7 +52,7 @@ Theoretical argument on exclusivity: certain testimonies are left out of data by
 
 Haarman, Susan. (2021). The Data Should Not Speak for Itself: Epistemic Injustice and Data as Rhetoric. Philosophical Studies in Education 52. https://www.ovpes.org/
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 The article argues algorithms may dismiss contradicting data if it is in the minority, and that more data can produce overfitting and false confidence rather than surfacing suppressed testimony.
 

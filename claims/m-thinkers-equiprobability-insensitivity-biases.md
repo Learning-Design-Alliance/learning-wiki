@@ -15,12 +15,14 @@ sources:
     author: Elbehary, S.G.A.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Mathematically oriented PSMTs exhibit equiprobability and insensitivity-to-prior-probability biases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` PSMTs relying on theoretical probability judged giving birth to a girl equally likely as a boy and ignored base-rate gender frequencies, showing equiprobability and insensitivity to prior probability biases. [→ Elbehary 2021](#elbehary-2021)
@@ -31,7 +33,7 @@ sources:
 
 Elbehary, S.G.A. (2021). Reasoning under uncertainty within the context of probability education: A case study of preservice mathematics teachers. Pythagoras, 42(1), a630. https://doi.org/10.4102/pythagoras.v42i1.630
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative case study coding of 68 PSMTs' questionnaire responses in NVivo. M thinkers judged the girl's probability equal to a boy's, and the article reports this 'maintained the equiprobable bias', hindering reflection on actual gender distribution (boys-to-girls ratio 1.06 at birth in Egypt).
 

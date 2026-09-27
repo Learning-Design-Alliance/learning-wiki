@@ -15,12 +15,14 @@ sources:
     author: "Xiong, Y., Zhou, H., & Ogilby, S. M."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Self-generated elaboration improves intellectual skills more than instructor-assisted elaboration, but not more than the combined strategy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Students under self-generated elaboration outperformed students under instructor-assisted elaboration on intellectual skills at the 6% significance level; the difference versus the combined strategy was not significant. [→ Xiong 2014](#xiong-2014)
@@ -31,7 +33,7 @@ sources:
 
 Xiong, Y., Zhou, H., & Ogilby, S. M. (2014). Experimental Investigation of the Effects of Cognitive Elaboration on Accounting Learning Outcomes. Journal of Education and Learning, 3(4). https://doi.org/10.5539/jel.v3n4p1
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Univariate tests among the three elaboration groups on case-analysis intellectual-skills scores: self vs. instructor t=1.91, p=0.06; self vs. combined t=0.67, p=0.51. The omnibus ANOVA for intellectual skills was not significant (F=1.65, p=0.19).
 

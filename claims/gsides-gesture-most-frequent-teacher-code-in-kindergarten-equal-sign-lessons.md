@@ -15,12 +15,14 @@ sources:
     author: "Sung, Y., Stephens, A., Veltri Torres, R., Strachota, S., Blanton, M., Gardiner, A., Stroud, R., & Knuth, E."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Across seven kindergarten equivalence lessons, the teacher's sides-of-equation gesture (GSIDES) was coded 38 times, the most of any language or gesture code
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Qualitative video coding of one teacher across seven lessons recorded 38 GSIDES, 28 ISA, 26 BAL, 17 DEF, 11 GBAL and 6 FORM instances. [→ Sung 2022](#sung-2022)
@@ -31,7 +33,7 @@ sources:
 
 Sung, Y., Stephens, A., Veltri Torres, R., Strachota, S., Blanton, M., Gardiner, A., Stroud, R., & Knuth, E. (2022). Teacher Language and Gesture in an Intervention Focused on Developing Kindergarteners' Understandings of the Equal Sign. Proceedings of the forty-fourth annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education. https://eric.ed.gov/?id=ED630361
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r3`
 
 Qualitative coding of classroom video from one kindergarten classroom's seven equivalence lessons. The article reports "38 instances of the GSIDES code", alongside 28 ISA, 26 BAL, 17 DEF, 11 GBAL and 6 FORM instances. Counts are descriptive; no test is reported.
 

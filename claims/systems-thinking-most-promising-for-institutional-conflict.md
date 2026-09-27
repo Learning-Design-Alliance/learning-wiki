@@ -15,12 +15,14 @@ sources:
     author: Gradin, Sherrie
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Systems thinking holds the most promise for understanding departmental and institutional conflict
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Of the perspectives tried, systems thinking is the one the author finds most promising for understanding departmental and institutional conflict. [→ Gradin 1998](#gradin-1998)
@@ -31,7 +33,7 @@ sources:
 
 Gradin, Sherrie. (1998). Inscribing Our Work as WPAs: Gendered Bodies and Conflict as Physical Trope. ERIC. https://eric.ed.gov/?id=ED422588
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The author's reflective judgment from applying her heuristic perspectives to her own WPA work at Portland State, where she has been responsible for writing since the 1994 abolishment of writing requirements without direct authority. This is an argued position, not a tested result.
 

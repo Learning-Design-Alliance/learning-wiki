@@ -15,12 +15,14 @@ sources:
     author: Stamm, Colleen P. (Ed.)
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # A majority of US high school students take some form of industrial arts, giving student clubs a potential membership of 5.5 million
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r1` · `q2`
 
 ## Subclaims
 `q2 i?` 57% of all high school students take some form of industrial arts, so the potential industrial arts club membership stands at 5.5 million. [→ Stamm 1973](#stamm-1973)
@@ -31,7 +33,7 @@ sources:
 
 Stamm, Colleen P. (Ed.). (1973). Industrial Arts and the Challenge of an Urban Society. American Industrial Arts Association. https://eric.ed.gov/?id=ED083382
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r1`
 
 Enrollment figure asserted in the AIASA president's 1972-73 conference address to argue that student clubs have a large untapped membership base; the address states the "potential club membership stands at 5.5 million." No data source for the percentage is printed.
 

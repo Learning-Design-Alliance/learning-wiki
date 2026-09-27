@@ -15,12 +15,14 @@ sources:
     author: Dietzel, C. S.; Abeles, Norman
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # During the middle stage of therapy, successful therapists respond at a significantly lower level of complementarity than unsuccessful therapists
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In the middle ('work') stage of therapy, the successful outcome group showed significantly lower therapist complementarity than the unsuccessful group, supporting the anti-complementary stance hypothesis. [→ Dietzel 1974](#dietzel-1974)
@@ -31,7 +33,7 @@ sources:
 
 Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Stage-wise comparison of Complementarity Index values for the two outcome groups (10 dyads each) from rated early, middle, and later session segments. The middle-stage contrast reached significance at "t = 3.026, p < .005", with successful therapists' mean of 42.00 versus unsuccessful therapists' 53.39 as printed in Table 4.
 

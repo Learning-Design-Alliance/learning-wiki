@@ -12,7 +12,7 @@ generated:
 # Self-Monitoring
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies, `q2`–`q4` · 3 of 8 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies (5 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 3 of 8 report an effect size
 
 ## Description
 Self-monitoring is the element in which learners track their own attention, behavior, progress, or accuracy during learning.

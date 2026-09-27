@@ -15,18 +15,22 @@ sources:
     author: "Vijge, M. J., Gallagher, S. E., Byrne, J. R., Tschersich, J., Tager, J., Madhavan, U. B., Boshoff, H., & Triyanti, A."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: vijge-2025-2
     resource: "https://openjournals.libs.uga.edu/jheoe"
     title: "Vijge, M. J., Gallagher, S. E., Byrne, J. R., Tschersich, J., Tager, J., Madhavan, U. B., Boshoff, H., & Triyanti, A. (2025). Community-Engaged Learning in a European Universities Alliance: Reflections on Equality and Reciprocity Across Europe and Africa. Journal of Higher Education Outreach and Engagement, 29(2). https://openjournals.libs.uga.edu/jheoe"
     author: "Vijge, M. J., Gallagher, S. E., Byrne, J. R., Tschersich, J., Tager, J., Madhavan, U. B., Boshoff, H., & Triyanti, A."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Both a lack of rules and a plethora of rules and regulations reduce equality and reciprocity in ICEL, creating a balance dilemma
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In the first Capstone iteration, minimal bureaucratic restrictions enabled quick adaptations but reduced equality and reciprocity by limiting stakeholder consultation. [→ Vijge 2025](#vijge-2025)
@@ -38,7 +42,7 @@ sources:
 
 Vijge, M. J., Gallagher, S. E., Byrne, J. R., Tschersich, J., Tager, J., Madhavan, U. B., Boshoff, H., & Triyanti, A. (2025). Community-Engaged Learning in a European Universities Alliance: Reflections on Equality and Reciprocity Across Europe and Africa. Journal of Higher Education Outreach and Engagement, 29(2). https://openjournals.libs.uga.edu/jheoe
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Autoethnographic reflection on the first Capstone iteration (2022-2023), when CHARM-EU was a fledgling alliance. The authors report that "the lack of rules and regulations also reduced equality and reciprocity in ICEL" despite enabling quick adaptations.
 
@@ -48,7 +52,7 @@ Autoethnographic reflection on the first Capstone iteration (2022-2023), when CH
 
 Vijge, M. J., Gallagher, S. E., Byrne, J. R., Tschersich, J., Tager, J., Madhavan, U. B., Boshoff, H., & Triyanti, A. (2025). Community-Engaged Learning in a European Universities Alliance: Reflections on Equality and Reciprocity Across Europe and Africa. Journal of Higher Education Outreach and Engagement, 29(2). https://openjournals.libs.uga.edu/jheoe
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 The same reflective analysis reports that rules across five universities created practical challenges for "insurance policies and channeling funding for fieldwork", negatively affecting student exchange and delaying travel grants to less affluent students.
 

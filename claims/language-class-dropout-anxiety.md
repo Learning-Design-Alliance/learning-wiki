@@ -15,12 +15,14 @@ sources:
     author: "Arthur, L., & Hurd, S. (Eds.)"
     q: 2
     i: "?"
+    kind: review
+    rigour: "?"
 ---
 
 # Drop-out from adult language classes is slightly higher than from other courses, with anxiety and feelings of inadequacy a contributing reason
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Drop-out from language classes is slightly higher than from the generality of adult education courses, and followed-up ex-students reported unhandled feelings of inadequacy in the classroom. [→ Arthur 1992](#arthur-1992)
@@ -31,7 +33,7 @@ sources:
 
 Arthur, L., & Hurd, S. (Eds.). (1992). The Adult Language Learner: A Guide to Good Teaching Practice. Centre for Information on Language Teaching and Research. https://eric.ed.gov/?id=ED352829
 
-`q2 · i?`
+`q2 · i?` · `review · r?`
 
 The guide reports, citing Sidwell's survey, that "Drop-out from language classes is slightly higher than that from the generality of courses". In 42 followed-up drop-out cases, "many ex-students went on to confess in conversation that actually they had feelings of inadequacy in the classroom which they could not handle".
 

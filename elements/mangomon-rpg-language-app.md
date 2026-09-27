@@ -17,7 +17,7 @@ sources:
 # Mangomon: a CEFR-based role-playing gamification mobile application for out-of-class business English vocabulary learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 2 studies, `q2` · 1 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 2 studies (1 causal, 1 quant-synthesis), `q2` · 1 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 Mangomon is a gamified mobile application developed by a Thai software company with Thammasat University's Language Institute, targeting English-for-work skills based on the CEFR framework. It "combines the collection and battle mechanics of Pokémon with the language practice features of Duolingo": players answer vocabulary and grammar card questions to power battles, earn mangoes and coins to catch monsters, and progress through linear stages ending in boss monsters requiring cumulative knowledge. Its 3D island-travel aesthetic targets users aged approximately 15 to 30.

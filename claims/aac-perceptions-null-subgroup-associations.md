@@ -15,18 +15,22 @@ sources:
     author: Jarrar Hala, Malhis Lana, Munawer Alaa, Omareya Moamen, Deek Nagham, Abutair Razan, Dodeen Saja, Khadeje Sara Majed, Abu-Shamat Zaynab
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: jarrar-hala-2026-2
     resource: "https://doi.org/10.1186/s12887-026-07161-2"
     title: "Jarrar Hala, Malhis Lana, Munawer Alaa, Omareya Moamen, Deek Nagham, Abutair Razan, Dodeen Saja, Khadeje Sara Majed, Abu-Shamat Zaynab. (2026). Parent-reported benefits, barriers, and experiences of augmentative and alternative communication use among children with autism in Nablus, Palestine: a cross-sectional study. BMC Pediatrics. https://doi.org/10.1186/s12887-026-07161-2"
     author: Jarrar Hala, Malhis Lana, Munawer Alaa, Omareya Moamen, Deek Nagham, Abutair Razan, Dodeen Saja, Khadeje Sara Majed, Abu-Shamat Zaynab
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` No statistically significant differences in perceived benefit or experience scores by child gender, age group, additional disorder, or parental education; number of children correlated weakly with benefit score (rs = 0.231, p = 0.046) but training duration did not. [→ Jarrar Hala 2026](#jarrar-hala-2026)
@@ -38,7 +42,7 @@ sources:
 
 Jarrar Hala, Malhis Lana, Munawer Alaa, Omareya Moamen, Deek Nagham, Abutair Razan, Dodeen Saja, Khadeje Sara Majed, Abu-Shamat Zaynab. (2026). Parent-reported benefits, barriers, and experiences of augmentative and alternative communication use among children with autism in Nablus, Palestine: a cross-sectional study. BMC Pediatrics. https://doi.org/10.1186/s12887-026-07161-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Mann–Whitney U and Kruskal–Wallis tests across child and family subgroups in the cross-sectional survey found no statistically significant differences in perceived benefit scores; the same held for the experience score.
 
@@ -48,7 +52,7 @@ Mann–Whitney U and Kruskal–Wallis tests across child and family subgroups in
 
 Jarrar Hala, Malhis Lana, Munawer Alaa, Omareya Moamen, Deek Nagham, Abutair Razan, Dodeen Saja, Khadeje Sara Majed, Abu-Shamat Zaynab. (2026). Parent-reported benefits, barriers, and experiences of augmentative and alternative communication use among children with autism in Nablus, Palestine: a cross-sectional study. BMC Pediatrics. https://doi.org/10.1186/s12887-026-07161-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Spearman correlation analysis of continuous factors in the survey. Training duration showed no significant correlation with benefit score (rs = 0.136, p = 0.254); number of children showed a weak positive correlation (rs = 0.231, p = 0.046).
 

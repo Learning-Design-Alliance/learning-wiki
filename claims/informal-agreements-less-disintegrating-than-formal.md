@@ -15,12 +15,14 @@ sources:
     author: Ziller, Robert C.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Informal agreements are proposed to be less subject to group-disintegrating challenges than formal agreements
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Informal as opposed to formal agreements between disputing parties are proposed to be less subject to group disintegrating challenges, because they leave open the opportunity for additional exchanges in the face of new information or changing conditions. [→ Ziller 1969](#ziller-1969)
@@ -31,7 +33,7 @@ sources:
 
 Ziller, Robert C. (1969). A Theory of Self Other Orientation and Interpersonal Conflict: A Technical Report. https://eric.ed.gov/?id=ED032608
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical proposition about communication processes under conflict. The article argues a formal agreement 'tends to lead to separation by removing the requirement of exchange,' while less denotative messages maintain the social relationship. No empirical test is reported in the text.
 

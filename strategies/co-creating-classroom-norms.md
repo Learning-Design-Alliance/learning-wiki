@@ -12,7 +12,7 @@ generated:
 # Co Creating Classroom Norms
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 1 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (2 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 1 of 5 report an effect size
 
 ## Description
 Co creating classroom norms is a strategy in which the teacher facilitates a structured process — typically early in a course or year — through which students propose, discuss, and agree on shared expectations for behavior, participation, and interaction. The resulting norms are owned jointly rather than imposed, and are revisited and enforced with reference to student authorship.

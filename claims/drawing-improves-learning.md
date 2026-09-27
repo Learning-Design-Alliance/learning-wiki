@@ -15,12 +15,14 @@ sources:
     q: 3
     i: 1
     n: 3635 (160 effects, 35 studies)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Drawing Improves Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small · n=3635 (160 effects, 35 studies)
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i1` small · n=3635 (160 effects, 35 studies)
 
 Learners who create drawings of to-be-learned material during study show better understanding and recall than learners who read or summarize the same material. This page's evidence base has not yet been populated; no effect direction or magnitude should be asserted from it until studies are added.
 
@@ -34,7 +36,7 @@ Learners who create drawings of to-be-learned material during study show better 
 
 Zhang, Y., Guo, X., Pi, Z., & Yang, J. (2021). Learning by drawing in STEM: A meta-analysis. In *Proceedings of the Tenth International Conference of Educational Innovation through Technology (EITT 2021)* (pp. 83–87). IEEE. [doi:10.1109/EITT53287.2021.00025](https://doi.org/10.1109/EITT53287.2021.00025)
 
-`q3 · meta-analysis in conference proceedings (abstract only)` · `i1 · small effect vs. not drawing, g=0.362` · `n=3635 (160 effects, 35 studies)`
+`q3 · meta-analysis in conference proceedings (abstract only)` · `i1 · small effect vs. not drawing, g=0.362` · `n=3635 (160 effects, 35 studies)` · `quant-synthesis · r?`
 
 A meta-analysis of STEM-learning studies published 2005–2020 (35 articles, 160 effects, 3,635 participants) compared drawing to two kinds of alternatives: not drawing at all, and other active study strategies. Drawing outperformed not-drawing (g = 0.362) and outperformed other strategies such as imaging, explaining, and re-watching (g = 0.400); adding scaffolds did not significantly improve outcomes further but did save learning time (g = 1.693 for time saved). The benefit was larger for middle/high-school students than for primary-age students, and online drawing benefited more from instructor-provided scaffolds than paper-based drawing did.
 

@@ -19,7 +19,7 @@ grain_size: unit
 # Research-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 8 studies, `q1`–`q4` · 2 of 8 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (3 for, 3 mixed) · 8 studies (2 quant-synthesis, 2 review, 2 qualitative, 1 causal, 1 design), `q1`–`q4` · 2 of 8 report an effect size · 3 claims rest on one study
 
 ## Description
 Research-Based Learning is a pattern in which learners investigate questions, gather and evaluate evidence, and build explanations or products from that inquiry. It is useful when learning goals include information literacy, inquiry, and evidence-based reasoning.

@@ -15,12 +15,14 @@ sources:
     q: 4
     i: 2
     n: 12,585 students (189 schools, 9 countries; 46 effect sizes)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Project-based learning improves achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium · n=12,585 students (189 schools, 9 countries; 46 effect sizes)
+> **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=12,585 students (189 schools, 9 countries; 46 effect sizes)
 
 Scope: sustained, inquiry-driven work organized around a driving question or authentic problem, culminating in a product or performance — distinct from short end-of-unit activities labeled "projects." The claim concerns *measured achievement*, not engagement or motivation alone.
 
@@ -34,7 +36,7 @@ Scope: sustained, inquiry-driven work organized around a driving question or aut
 
 Chen, C.-H., & Yang, Y.-C. (2019). Revisiting the effects of project-based learning on students' academic achievement: A meta-analysis investigating moderators. *Educational Research Review, 26*, 71-81. [doi:10.1016/j.edurev.2018.11.001](https://doi.org/10.1016/j.edurev.2018.11.001)
 
-`q4 · meta-analysis (30 eligible journal articles, 1998–2017)` · `i2 · medium effect, d+=0.71` · `n=12,585 students (189 schools, 9 countries; 46 effect sizes)`
+`q4 · meta-analysis (30 eligible journal articles, 1998–2017)` · `i2 · medium effect, d+=0.71` · `n=12,585 students (189 schools, 9 countries; 46 effect sizes)` · `quant-synthesis · r?`
 
 Meta-analysis comparing project-based learning against traditional, teacher-led instruction on measured academic achievement, synthesizing 46 effect-size comparisons drawn from 30 journal articles published 1998–2017. The overall weighted mean effect size was d+ = 0.71 favoring project-based learning. The effect was moderated by subject area, school location, hours of instruction, and information-technology support, but not by educational stage or small-group size.
 

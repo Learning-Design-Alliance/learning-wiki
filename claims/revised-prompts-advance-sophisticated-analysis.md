@@ -15,12 +15,14 @@ sources:
     author: "Janis, S., Schmeichel, M., Grace, C., Wegrzyn, K., & Lee, J."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Revised post-teaching prompts (RPTAA) advanced candidates' capacity for more sophisticated analysis compared with the original prompts (PTAA)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` When candidates responded to the RPTAA rather than the PTAA, their capacity to engage in more sophisticated ways was advanced. [→ Janis 2025](#janis-2025)
@@ -31,7 +33,7 @@ sources:
 
 Janis, S., Schmeichel, M., Grace, C., Wegrzyn, K., & Lee, J. (2025). Making Learning Visible: Shaping Teacher Candidates' Pedagogical Judgment in Clinical Experiences. Journal of Educational Supervision 8(3). https://doi.org/10.69772/jes.8.3.1
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Discussion-section synthesis of the qualitative case data comparing candidates' responses to the original Post-Teaching Analysis Assignment with the Revised Post-Teaching Analysis Assignment. The authors state that "their capacity to engage in more sophisticated ways was advanced" under the revised prompts. This is the authors' interpretation of qualitative patterns, not a tested comparison.
 

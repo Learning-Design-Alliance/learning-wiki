@@ -16,7 +16,7 @@ sources:
 # Unified conceptual framework for information and technology literacy progressing from physical access to responsible group participation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The document defines Information and Technology Literacy as "the ability of an individual, working independently or with others, to use tools, resources, processes, and systems responsibly to access and evaluate information in any medium." It unifies information literacy, media literacy, and technology literacy perspectives, stating: "This framework demonstrates a progression from the physical access skills for the use of media and technology, to the intellectual access skills of information use, to skills and attitudes for learning independently, and finally to the skills needed for working responsibly and productively within groups." The four content standards instantiate this progression.

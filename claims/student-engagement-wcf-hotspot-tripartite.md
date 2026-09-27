@@ -15,12 +15,14 @@ sources:
     author: Liu, W.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Student engagement with WCF is the current research hotspot, with engagement analyzed as cognitive, affective and behavioral dimensions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Scholars reached a consensus that student engagement with WCF consists of cognition, affect, and behavior, and cluster #0 marks student engagement as the present research hot area. [→ Liu 2025](#liu-2025)
@@ -31,7 +33,7 @@ sources:
 
 Liu, W. (2025). A bibliometric analysis of written corrective feedback in second language writing. Language Teaching Research Quarterly, 49, 133-150. https://doi.org/10.32038/ltrq.2025.49.07
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's cluster #0 interpretation, attributing the tripartite engagement model to Tian and Zhou (2020) and describing case studies measuring behavioral engagement by writing submissions and revision time, affective engagement by motivational changes, and cognitive engagement by feedback interpretation and self-regulation.
 

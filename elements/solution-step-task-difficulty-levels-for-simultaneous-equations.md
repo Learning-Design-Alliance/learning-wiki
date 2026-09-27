@@ -17,7 +17,7 @@ sources:
 # Solution-step difficulty levels for simultaneous-equation problems
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A five-level scheme for grading simultaneous-equation problems by the number of variables and solution steps, following Sweller's production/solution step method, in which "the difficulty of the content, which is often considered a proxy for intrinsic cognitive load, is determined by the production/solution steps involved in problem solving or learning". Levels 1-3 were treated as easy and Levels 4-5 as difficult.

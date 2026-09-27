@@ -17,7 +17,7 @@ sources:
 # Dahmus DPPC Method: direct, pure, piece-meal, complete translation strategy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The Dahmus Method (DM), based on Dahmus's DPPC Method (direct, pure, piece-meal, complete), directs students to translate each phrase of a verbal problem into mathematical symbol statements as it appears, including instruction on key phrases such as "increased by" translated as "+". Each value to be found is translated as variable equals question mark; after all phrases are translated, students find relations among the symbols and solve the resulting equation. The article states "this method is based upon a direct, pure, piece-meal and complete translation of the verbal statement into mathematical symbolism." It used somewhat more slides than PM but roughly equal time.

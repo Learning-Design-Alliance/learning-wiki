@@ -15,12 +15,14 @@ sources:
     author: "Qi, G. Y., & Wang, Y."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Switching to an updated synchronous platform catalysed the teacher's ongoing teaching innovation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The teacher's voluntary switch to the new version of Collaborate in Week 3 preceded and supported increased innovation and growing proficiency in technology and andragogy. [→ Qi 2022](#qi-2022)
@@ -31,7 +33,7 @@ sources:
 
 Qi, G. Y., & Wang, Y. (2022). Challenges and responses: A Complex Dynamic Systems approach to exploring language teacher agency in a blended classroom. The JALT CALL Journal, 18(1). https://doi.org/10.29140/jaltcall.v18n1.569
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Findings from Period 2 of the case study: after testing the updated Collaborate with the course convenor and students, the teacher switched in Week 3, attended a non-compulsory workshop, and began experimenting with new activity designs embedding the new features.
 

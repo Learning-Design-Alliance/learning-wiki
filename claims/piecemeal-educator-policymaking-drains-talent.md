@@ -15,12 +15,14 @@ sources:
     author: "Talent Development Framework: Improving Access to Excellent Educators for All Students"
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Piecemeal educator policymaking overburdens educators and can drive talented educators out of the profession
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` A patchwork of policies treating each stage of the educator career continuum as separate creates contrary expectations, confuses educators, and can push talented teachers and leaders out of the profession. [→ Talent Development Framework: Improving Access to Excellent Educators for All Students 2020](#talent-development-framework-improving-access-to-excellent-educators-for-all-students-2020)
@@ -31,7 +33,7 @@ sources:
 
 Talent Development Framework: Improving Access to Excellent Educators for All Students. (2020). Center on Great Teachers and Leaders at the American Institutes for Research. https://gtlcenter.org
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The document's argument section on moving past piecemeal policies asserts this consequence of fragmented policy, offering no empirical data here; it is the authors' policy argument for coherent, aligned systems with consistent expectations across the career continuum.
 

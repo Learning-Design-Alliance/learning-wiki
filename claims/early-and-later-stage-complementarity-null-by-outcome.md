@@ -15,18 +15,22 @@ sources:
     author: Dietzel, C. S.; Abeles, Norman
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: dietzel-1974-2
     resource: "https://eric.ed.gov/?id=ED091646"
     title: "Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646"
     author: Dietzel, C. S.; Abeles, Norman
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Early-stage therapist complementarity does not differ by outcome group, and the predicted later-stage advantage for successful dyads was not supported
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` During the early stage, all therapists responded at a moderate complementarity level with no significant outcome-group difference (t = 0.716, p > .05). [→ Dietzel 1974](#dietzel-1974)
@@ -38,7 +42,7 @@ sources:
 
 Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Early-stage (first and second sessions) comparison of Complementarity Index values across the two outcome groups of 10 dyads each. The study reports "no significant differences (t = 0.716, p > .05)", with successful therapists showing a somewhat higher trend (means 52.83 vs. 47.87 in Table 4).
 
@@ -48,7 +52,7 @@ Early-stage (first and second sessions) comparison of Complementarity Index valu
 
 Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Later-stage (last and next-to-last sessions) comparison of Complementarity Index values for the two outcome groups. The reported test was nonsignificant at "t = 1.189, p > .05", and the trend direction contradicted Hypothesis IV, which was therefore not supported.
 

@@ -15,18 +15,22 @@ sources:
     author: Blosser, P. E.
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
   - id: blosser-1993-2
     resource: "https://eric.ed.gov/?id=ED351207"
     title: "Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Clearinghouse for Science, Mathematics, and Environmental Education. https://eric.ed.gov/?id=ED351207"
     author: Blosser, P. E.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Conceptual change strategies in cooperative groups reduced misconceptions in community college chemistry, but poor group leadership undermined discussion
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` Audio-tape analysis in Basili and Sanford's pretest-posttest control-group study found a significantly lower proportion of misconceptions for four of the five concepts on the posttest for the experimental group. [→ Blosser 1993](#blosser-1993)
@@ -38,7 +42,7 @@ sources:
 
 Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Clearinghouse for Science, Mathematics, and Environmental Education. https://eric.ed.gov/?id=ED351207
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 Basili and Sanford (1991) used a pretest-posttest control-group design with four intact introductory chemistry sections at a suburban community college; experimental students were taught concept mapping and worked in groups of five explaining pre-assigned questions. The quoted result comes from analysis of audio tapes of student interaction; no effect size is printed.
 
@@ -48,7 +52,7 @@ Basili and Sanford (1991) used a pretest-posttest control-group design with four
 
 Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Clearinghouse for Science, Mathematics, and Environmental Education. https://eric.ed.gov/?id=ED351207
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Qualitative finding from the same study's analysis of individual verbal behavior during small-group work, identifying a boundary condition on the method's effectiveness within the same experimental setting.
 

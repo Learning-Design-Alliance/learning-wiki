@@ -16,6 +16,8 @@ sources:
     q: 4
     i: "?"
     n: 271 comparisons / 254 studies / 14,811 participants
+    kind: quant-synthesis
+    rigour: "?"
   - id: donovan-and-radosevich-1999
     resource: "https://doi.org/10.1037/0021-9010.84.5.795"
     title: "Donovan, J. J., & Radosevich, D. J. (1999). A meta-analytic review of the distribution of practice effect: Now you see it, now you don't. *Journal of Applied Psychology, 84*(5), 795–805. [doi:10.1037/0021-9010.84.5.795](https://doi.org/10.1037/0021-9010.84.5.795)"
@@ -23,6 +25,8 @@ sources:
     q: 3
     i: 2
     n: 63 studies (112 effect sizes)
+    kind: quant-synthesis
+    rigour: "?"
   - id: cepeda-et-al-2008
     resource: "https://doi.org/10.1111/j.1467-9280.2008.02209.x"
     title: "Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing effects in learning: A temporal ridgeline of optimal retention. *Psychological Science, 19*(11), 1095–1102. [doi:10.1111/j.1467-9280.2008.02209.x](https://doi.org/10.1111/j.1467-9280.2008.02209.x)"
@@ -30,12 +34,14 @@ sources:
     q: 3
     i: 3
     n: 1354
+    kind: causal
+    rigour: 2
 ---
 
 # Spaced Practice Improves Retention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q3`–`q4` · `i2`–`i3`
+> **Evidence** · 3 studies · 2 quant-synthesis `r?`, 1 causal `r2` · `q3`–`q4` · `i2`–`i3`
 
 Practicing or reviewing material across multiple sessions separated in time produces stronger long-term retention than concentrating the same amount of practice into a single session (massed practice).
 
@@ -53,7 +59,7 @@ Practicing or reviewing material across multiple sessions separated in time prod
 
 Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380. [doi:10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)
 
-`q4 · meta-analysis` · `i? · no standardised effect size for massed vs spaced; accuracy difference 36.7% vs 47.3% correct` · `n=271 comparisons / 254 studies / 14,811 participants`
+`q4 · meta-analysis` · `i? · no standardised effect size for massed vs spaced; accuracy difference 36.7% vs 47.3% correct` · `n=271 comparisons / 254 studies / 14,811 participants` · `quant-synthesis · r?`
 
 A quantitative review of 839 assessments of distributed practice in 317 experiments from 184 articles, all using verbal recall tasks. For the spacing comparison it set massed study (one uninterrupted presentation or a lag under one second) against the shortest spaced interval in each study, with study time held equal. Averaged over all retention intervals, final recall was 36.7% after massed and 47.3% after spaced study (t(540) = 6.6, p < .001). A spacing benefit appeared in every retention-interval band, from under a minute to over 30 days. Effect sizes could not be pooled for this comparison because too few studies reported the data needed. Most of the data come from young adults (714 of 839 performance differences), so evidence for children's long-term retention is thin. The authors say they "cannot say for certain" that it benefits.
 
@@ -61,7 +67,7 @@ A quantitative review of 839 assessments of distributed practice in 317 experime
 
 Donovan, J. J., & Radosevich, D. J. (1999). A meta-analytic review of the distribution of practice effect: Now you see it, now you don't. *Journal of Applied Psychology, 84*(5), 795–805. [doi:10.1037/0021-9010.84.5.795](https://doi.org/10.1037/0021-9010.84.5.795)
 
-`q3 · meta-analysis` · `i2 · medium effect, mean weighted d=0.46` · `n=63 studies (112 effect sizes)`
+`q3 · meta-analysis` · `i2 · medium effect, mean weighted d=0.46` · `n=63 studies (112 effect sizes)` · `quant-synthesis · r?`
 
 A meta-analysis of 63 studies comparing spaced with massed practice on a wide range of tasks, including motor skills such as typing and rotary pursuit as well as verbal tasks. Its outcome is task performance rather than delayed retention specifically. Spaced practice produced higher performance overall, with a mean weighted effect size of 0.46. The effect depended on the type of task, the interval between trials and how the two interacted. Studies with low methodological rigour produced significantly larger effects, which is why this entry is coded q3 rather than q4. Cepeda et al. (2006) summarise this review as finding that longer lags increased effects for verbal tasks up to a point, but reduced them for skill tasks such as typing, gymnastics and music. That qualifies the claim for complex and motor skills.
 
@@ -69,7 +75,7 @@ A meta-analysis of 63 studies comparing spaced with massed practice on a wide ra
 
 Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing effects in learning: A temporal ridgeline of optimal retention. *Psychological Science, 19*(11), 1095–1102. [doi:10.1111/j.1467-9280.2008.02209.x](https://doi.org/10.1111/j.1467-9280.2008.02209.x)
 
-`q3 · randomised between-subjects experiment` · `i3 · large effect, d=1.1 recall (optimal gap vs zero gap)` · `n=1354`
+`q3 · randomised between-subjects experiment` · `i3 · large effect, d=1.1 recall (optimal gap vs zero gap)` · `n=1354` · `causal · r2`
 
 1,354 adults from an online research panel (mean age 34) learned 32 obscure trivia facts and reviewed them once, after a gap of up to 3.5 months. Each person was randomly assigned to one of 26 combinations of gap and test delay, and the final test came up to a year after the review. At every test delay, recall first rose as the gap grew and then declined. With study time held fixed, the best gap raised final recall by 64% (d = 1.1) and recognition by 26% (d = 1.5), compared with reviewing in the same session. The best gap was about 20% of the test delay when the test came a few weeks later, falling to about 5% for a one-year delay. The reported d values compare the post hoc best gap with a zero gap, so they are an upper bound for any single chosen schedule, and fewer people completed the longer conditions.
 

@@ -15,6 +15,8 @@ sources:
     q: 4
     i: "?"
     n: not reported in the abstract (full text is paywalled; only the ERIC abstract was read)
+    kind: quant-synthesis
+    rigour: "?"
   - id: tippett-2010
     resource: "https://doi.org/10.1007/s10763-010-9203-x"
     title: "Tippett, C. D. (2010). Refutation Text in Science Education: A Review of Two Decades of Research. *International Journal of Science and Mathematics Education, 8*(6), 951–970. [doi:10.1007/s10763-010-9203-x](https://doi.org/10.1007/s10763-010-9203-x)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: "?"
     n: not reported in the abstract (full text is paywalled; only the publisher abstract was read)
+    kind: review
+    rigour: "?"
 ---
 
 # Misconceptions Interfere With New Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3`–`q4`
+> **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r?` · `q3`–`q4`
 
 Pre-existing misconceptions — coherent but incorrect mental models — can interfere with the acquisition of accurate new knowledge, particularly when learners fail to recognize the conflict between their prior beliefs and the to-be-learned content.
 
@@ -43,7 +47,7 @@ Pre-existing misconceptions — coherent but incorrect mental models — can int
 
 Guzzetti, B. J., Snyder, T. E., Glass, G. V, & Gamas, W. S. (1993). Promoting Conceptual Change in Science: A Comparative Meta-Analysis of Instructional Interventions from Reading Education and Science Education. *Reading Research Quarterly, 28*(2), 116. [doi:10.2307/747886](https://doi.org/10.2307/747886)
 
-`q4 · comparative meta-analysis of experimental/quasi-experimental interventions` · `i? · no pooled effect size reported in what was read` · `n=not reported in the abstract (full text is paywalled; only the ERIC abstract was read)`
+`q4 · comparative meta-analysis of experimental/quasi-experimental interventions` · `i? · no pooled effect size reported in what was read` · `n=not reported in the abstract (full text is paywalled; only the ERIC abstract was read)` · `quant-synthesis · r?`
 
 A quantitative (meta-analytic) synthesis of experimental and quasi-experimental studies from both reading education and science education that tested instructional interventions aimed at correcting learners' misconceptions. The review identified which specific strategies or approaches were effective at producing conceptual change and reported that the interventions that worked shared "a common element of producing conceptual conflict," implying that misconceptions persist under ordinary instruction and require a mechanism that deliberately confronts them. This supports the claim's premise that misconceptions do not simply give way to correct new content — they require the learner's model to be actively disrupted.
 
@@ -51,7 +55,7 @@ A quantitative (meta-analytic) synthesis of experimental and quasi-experimental 
 
 Tippett, C. D. (2010). Refutation Text in Science Education: A Review of Two Decades of Research. *International Journal of Science and Mathematics Education, 8*(6), 951–970. [doi:10.1007/s10763-010-9203-x](https://doi.org/10.1007/s10763-010-9203-x)
 
-`q3 · systematic review plus secondary analysis of two decades of refutation-text studies` · `i? · no pooled effect size reported in what was read` · `n=not reported in the abstract (full text is paywalled; only the publisher abstract was read)`
+`q3 · systematic review plus secondary analysis of two decades of refutation-text studies` · `i? · no pooled effect size reported in what was read` · `n=not reported in the abstract (full text is paywalled; only the publisher abstract was read)` · `review · r?`
 
 Reviews roughly twenty years of research (since the mid-1980s) on refutation text — a text structure that explicitly names a common misconception and then argues against it using elements of argumentation — as a means of producing conceptual change in science learners, and conducts a secondary analysis exploring whether the effect varies developmentally. The abstract states that "two decades of research indicate that reading refutation text rather than traditional expository text is more likely to result in conceptual change," directly supporting the claim that misconceptions interfere with ordinary (non-refutational) instruction and must be explicitly addressed to be overcome. No developmental (age-related) pattern in the effect was found.
 

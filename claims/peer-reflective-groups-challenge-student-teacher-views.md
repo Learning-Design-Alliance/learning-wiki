@@ -15,12 +15,14 @@ sources:
     author: Ferraro, Joan M.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Peer reflective groups encourage student teachers to challenge existing theories and model collaborative professional development
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Kettle and Sellars found that peer reflective groups encouraged student teachers to challenge existing theories and their own preconceived views of teaching while modeling a collaborative style of professional development. [→ Ferraro 2000](#ferraro-2000)
@@ -31,7 +33,7 @@ sources:
 
 Ferraro, Joan M. (2000). Reflective Practice and Professional Development. ERIC Digest. https://eric.ed.gov/?id=ED449120
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The digest reports a 1996 study of third-year teaching students in which researchers analyzed students' reflective writings and interviewed them extensively about their reflective practices. It reports that "the use of peer reflective groups encouraged student teachers to challenge existing theories." No effect sizes are printed.
 

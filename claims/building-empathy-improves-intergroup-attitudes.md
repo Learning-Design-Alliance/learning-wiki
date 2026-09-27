@@ -15,6 +15,8 @@ sources:
     q: 3
     i: "?"
     n: 3 experiments (participant counts not in abstract)
+    kind: causal
+    rigour: "?"
   - id: weiss-et-al-2023
     resource: "https://doi.org/10.1073/pnas.2218621120"
     title: "Weiss, C. M., Ran, S., & Halperin, E. (2023). Educating for inclusion: Diversity education programs can reduce prejudice toward outgroups in Israel. *Proceedings of the National Academy of Sciences, 120*(16), e2218621120. [doi:10.1073/pnas.2218621120](https://doi.org/10.1073/pnas.2218621120)"
@@ -22,6 +24,8 @@ sources:
     q: 3
     i: "?"
     n: 270 students (study 1, 12 classes) + 767 students (study 2, 46 classes, 29 treated)
+    kind: causal
+    rigour: 2
   - id: paluck-et-al-2021
     resource: "https://doi.org/10.1146/annurev-psych-071620-030619"
     title: "Paluck, E. L., Porat, R., Clark, C. S., & Green, D. P. (2021). Prejudice reduction: Progress and challenges. *Annual Review of Psychology, 72*(1), 533–560. [doi:10.1146/annurev-psych-071620-030619](https://doi.org/10.1146/annurev-psych-071620-030619)"
@@ -29,12 +33,14 @@ sources:
     q: 3
     i: "?"
     n: 418 experiments in 309 manuscripts
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Building Empathy Improves Intergroup Attitudes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q3` peer-reviewed experiment
+> **Evidence** · 3 studies · 2 causal `r2`, 1 quant-synthesis `r?` · `q3`
 
 Empathy-building activities — such as perspective-taking exercises, empathic role-play, and narrative engagement with outgroup members' experiences — improve learners' attitudes toward members of other social groups.
 
@@ -52,7 +58,7 @@ Empathy-building activities — such as perspective-taking exercises, empathic r
 
 Batson, C. D., Polycarpou, M. P., Harmon-Jones, E., Imhoff, H. J., Mitchener, E. C., Bednar, L. L., Klein, T. R., & Highberger, L. (1997). Empathy and attitudes: Can feeling for a member of a stigmatized group improve feelings toward the group? *Journal of Personality and Social Psychology, 72*(1), 105–118. [doi:10.1037/0022-3514.72.1.105](https://doi.org/10.1037/0022-3514.72.1.105)
 
-`q3 · peer-reviewed experiments (3)` · `i? · no effect size in the abstract read` · `n=3 experiments (participant counts not in abstract)`
+`q3 · peer-reviewed experiments (3)` · `i? · no effect size in the abstract read` · `n=3 experiments (participant counts not in abstract)` · `causal · r?`
 
 Three experiments manipulated whether participants felt empathy for a single member of a stigmatized group and then measured attitudes toward that whole group. Inducing empathy for a young woman with AIDS, or for a homeless man, produced more positive attitudes toward people with AIDS or toward homeless people respectively. A third experiment tested the limits with a highly stigmatized group, convicted murderers: attitudes improved only weakly immediately, but strongly 1–2 weeks later. This is the canonical laboratory demonstration of [perspective-taking](../principles/building-empathy.md) generalizing from an individual to a group; only the abstract was read, so sample sizes and effect sizes are not recorded here.
 
@@ -60,7 +66,7 @@ Three experiments manipulated whether participants felt empathy for a single mem
 
 Weiss, C. M., Ran, S., & Halperin, E. (2023). Educating for inclusion: Diversity education programs can reduce prejudice toward outgroups in Israel. *Proceedings of the National Academy of Sciences, 120*(16), e2218621120. [doi:10.1073/pnas.2218621120](https://doi.org/10.1073/pnas.2218621120)
 
-`q3 · two cluster-randomized field experiments (classes randomized), not stated as pre-registered` · `i? · the abstract prints no effect size; the full text may` · `n=270 students (study 1, 12 classes) + 767 students (study 2, 46 classes, 29 treated)`
+`q3 · two cluster-randomized field experiments (classes randomized), not stated as pre-registered` · `i? · the abstract prints no effect size; the full text may` · `n=270 students (study 1, 12 classes) + 767 students (study 2, 46 classes, 29 treated)` · `causal · r2`
 
 Jewish students in grades 4–6 in Israeli schools were block-randomized by class to a month-long curriculum built around the TV series "You Can't Ask That", with follow-up classroom discussions teaching intragroup heterogeneity, intergroup similarity and the value of taking outgroup members' perspectives; controls had no activity. In study 1 (practitioner-delivered) positive affect toward outgroups rose by over a third of a SD, about eight points on a 0–100 feeling thermometer; in study 2 (teacher-delivered) it rose by almost a third of a SD both 1–2 and 8–13 weeks after treatment, and contact intentions rose by a fifth to a third of a SD. Registration for an actual intergroup contact event was not affected. The authors give only "suggestive evidence" that perspective-taking was the operative mechanism, since the program combined it with two other mechanisms and with mediated outgroup exposure.
 
@@ -68,7 +74,7 @@ Jewish students in grades 4–6 in Israeli schools were block-randomized by clas
 
 Paluck, E. L., Porat, R., Clark, C. S., & Green, D. P. (2021). Prejudice reduction: Progress and challenges. *Annual Review of Psychology, 72*(1), 533–560. [doi:10.1146/annurev-psych-071620-030619](https://doi.org/10.1146/annurev-psych-071620-030619)
 
-`q3 · meta-analytic and narrative review` · `i? · pooled effect sizes not in the abstract read` · `n=418 experiments in 309 manuscripts`
+`q3 · meta-analytic and narrative review` · `i? · pooled effect sizes not in the abstract read` · `n=418 experiments in 309 manuscripts` · `quant-synthesis · r?`
 
 The authors review 418 prejudice-reduction experiments published 2007–2019, estimating average effects meta-analytically and examining landmark studies qualitatively. The modal intervention "uses mentalizing as a salve for prejudice", i.e. the perspective-taking and empathy-induction approach this claim describes. Although the studies report optimistic conclusions, the review finds troubling signs of publication bias, notes that 76% of studies evaluate light-touch interventions whose long-term impact is unclear, and reports that landmark studies often find limited effects. This is a strong qualification: the claim's typical short, one-off empathy exercise is exactly the intervention class whose durable effect is least established.
 

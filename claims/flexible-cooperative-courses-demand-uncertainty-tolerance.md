@@ -14,12 +14,14 @@ sources:
     author: "Son, E. H., & Penry, T."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # The most Flexible-Cooperative course demanded the most tolerance of uncertainty and the most time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In the most Flexible-Cooperative course (Course B), everyone including teachers and students had to tolerate uncertainty and ambiguity, and the course took the most time for students to find projects and produce results. [→ Son 2022](#son-2022)
@@ -30,7 +32,7 @@ sources:
 
 Son, E. H., & Penry, T. (2022). Variations in Project-Based Course Design. Journal of Problem Based Learning in Higher Education, Vol. 10, No. 1.
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Qualitative finding from faculty interviews and observations of Course B, a Flexible-Cooperative VIP course in its inaugural semester. Faculty described teams reorganizing after setbacks and a co-teacher noting it was "most difficult" for a do-er. No effect size is reported.
 

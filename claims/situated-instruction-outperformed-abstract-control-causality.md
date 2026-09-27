@@ -15,12 +15,14 @@ sources:
     author: Emmanuel Imiere
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The review reports that students receiving situated instruction outperformed a lecture-based control group on a causality posttest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports, citing Hendricks (2001), that students in the situated-instruction treatment group outperformed the abstract-instruction control group on a posttest of cause-effect reasoning. [→ Emmanuel Imiere 2019](#emmanuel-imiere-2019)
@@ -31,7 +33,7 @@ sources:
 
 Emmanuel Imiere. (2019). An Application of Cognitive Apprenticeship to Philosophy Instruction. https://eric.ed.gov/?id=ED613714
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 A review the author describes as a systematic review of secondary qualitative data; it reports Hendricks (2001) second-hand, an experimental study on causality in which the control group received abstract lecture instruction and the treatment group followed the Brown, Collins and Duguid situated model with modeling, coaching, scaffolding, and reflection. No effect size is printed.
 

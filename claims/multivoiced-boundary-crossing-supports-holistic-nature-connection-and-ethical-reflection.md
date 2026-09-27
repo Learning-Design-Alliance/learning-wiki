@@ -15,12 +15,14 @@ sources:
     q: 1
     i: "?"
     n: 6 upper-secondary students, 2 teachers, 2 domain experts (a bioartist and a researcher), one intensive week
+    kind: qualitative
+    rigour: 2
 ---
 
 # Multivoiced boundary crossing supports holistic nature connection and ethical reflection
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case · n=6 upper-secondary students, 2 teachers, 2 domain experts (a bioartist and a researcher), one intensive week
+> **Evidence** · 1 study · qualitative `r2` · `q1` · n=6 upper-secondary students, 2 teachers, 2 domain experts (a bioartist and a researcher), one intensive week
 
 A bioart-making project structured to cross institutional, interpersonal, and intrapersonal boundaries let students engage nature across material, experiential, cognitive, emotional, and philosophical dimensions simultaneously rather than sequentially, with material/sensory encounters prompting spontaneous ethical reflection about organism use.
 
@@ -37,7 +39,7 @@ A bioart-making project structured to cross institutional, interpersonal, and in
 
 Liukkonen, P., Vartiainen, H., Pöllänen, S., & Kokko, S. (2023). Interacting with nature in and through boundary crossing learning: A case of bioart-making. *Journal of the Learning Sciences, 32*(4-5), 534-572. [https://doi.org/10.1080/10508406.2023.2263845](https://doi.org/10.1080/10508406.2023.2263845)
 
-`q1 · single-case qualitative study using semi-structured interviews, a project blog, and planning documents, analyzed via content analysis against Ives et al.'s human-nature-connection typology and Akkerman & Bruining's boundary-crossing framework` · `i? · the abstract prints no effect size; the full text may` · `n=6 upper-secondary students, 2 teachers, 2 domain experts (a bioartist and a researcher), one intensive week`
+`q1 · single-case qualitative study using semi-structured interviews, a project blog, and planning documents, analyzed via content analysis against Ives et al.'s human-nature-connection typology and Akkerman & Bruining's boundary-crossing framework` · `i? · the abstract prints no effect size; the full text may` · `n=6 upper-secondary students, 2 teachers, 2 domain experts (a bioartist and a researcher), one intensive week` · `qualitative · r2`
 
 In a week-long [bioart-making project](../patterns/bioart-boundary-crossing-making.md) that moved students progressively from school grounds to a natural-history museum to a research laboratory, material engagement with living organisms consistently triggered near-simultaneous cognitive, emotional, and philosophical responses rather than a sequence of separate stages. For example, a student using contact microphones to amplify sound from different parts of a plant spontaneously named the plant structures, expressed interest/amazement, and later reflected on interconnectedness between organisms. Separately, several students explicitly limited which organisms they were willing to use in their art (choosing only plants, out of concern for animal welfare), and teachers observed these individual ethical choices expand into group discussion of broader food-system and consumption questions.
 

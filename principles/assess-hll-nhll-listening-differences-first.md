@@ -17,7 +17,7 @@ sources:
 # Assess how heritage and non-heritage learners perceive and perform listening as a first step toward developing pedagogical practices for mixed classes
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (8 for) · 1 study, `q2` · 0 of 1 report an effect size · 8 claims rest on one study
+> **Evidence** · 8 claims (8 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 8 claims rest on one study
 
 ## Description
 Because heritage and non-heritage learners are commonly placed in single-track classes, the authors argue that understanding how the two groups perceive and perform listening is a prerequisite for designing pedagogy. They state that "an assessment of these differences is a first step toward the development of pedagogical practices", echoing Montrul's (2013) call to understand learners' processing for course development and assessment. The study operationalises this via questionnaires, listening tasks and self-reports.

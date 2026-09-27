@@ -17,7 +17,7 @@ sources:
 # Focus assessment on process over product in maker education
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper recommends taking the spotlight off the end product and focusing on the process that allows students to reach it, especially for young children when fostering creativity and innovation is the primary goal. It cites Dweck's finding that "being recognized for achievement on summative or final product work does not necessarily lead to increased performance when confronted with new challenges."

@@ -15,12 +15,14 @@ sources:
     author: "Farmer & Higham"
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # Programs should facilitate cognitive disequilibrium so students question ethnocentric views and consider other cultural perspectives
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r1` · `q1`
 
 ## Subclaims
 `q1 i?` A graduate program must facilitate a cognitive disequilibrium during which students identify and question their ethnocentric views, consider the efficacy of other cultural perspectives, and move toward cultural competence. [→ Farmer & Higham 2007](#farmer-higham-2007)
@@ -31,7 +33,7 @@ sources:
 
 Farmer & Higham. (2007). Culturally Responsive Leadership: Graduate Program Egalitarianism. https://www.ucea.org
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r1`
 
 Authors' program-design recommendation in the curriculum-content discussion, presented as a normative requirement rather than a measured outcome. The paper states a "graduate program must facilitate a cognitive disequilibrium" in which students question ethnocentric views; no study or effect size is reported.
 

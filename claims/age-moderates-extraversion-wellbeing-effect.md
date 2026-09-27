@@ -15,12 +15,14 @@ sources:
     author: "Zavhorodnia, O. V., & Shepelova, M. V."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Extraversion's protective effect on well-being declines with age, significant only for younger students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Age moderated the extraversion–well-being decline association (β = .022, p = .018): extraversion was protective for younger participants (β = –.345, p < .001), weaker at average age (β = –.180, p = .005), and non-significant among older individuals (β = –.015, p = .890). [→ Zavhorodnia 2026](#zavhorodnia-2026)
@@ -31,7 +33,7 @@ sources:
 
 Zavhorodnia, O. V., & Shepelova, M. V. (2026). Big Five Traits and Tolerance for Uncertainty as Protective Factors of Subjective Well-Being of Students in Martial Law Conditions. Europe's Journal of Psychology, 22(2). https://doi.org/10.5964/ejop.17767
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Additional moderation analysis treating age as covariate in the 147-student sample, plotted in Figure 3. No significant age moderation was observed for other traits or uncertainty tolerance dimensions.
 

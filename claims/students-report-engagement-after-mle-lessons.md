@@ -15,12 +15,14 @@ sources:
     author: "Mutlu, A. & Şahin, M."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students reported greater engagement, motivation and language use after MLE-mediated English lessons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In semi-structured interviews after the mediated lesson, students reported enjoying lessons more, knowing why they learn English, and using the language in different situations. [→ Mutlu 2019](#mutlu-2019)
@@ -31,7 +33,7 @@ sources:
 
 Mutlu, A. & Şahin, M. (2019). The Mediated Learning Experience (MLE) Theory in Meaningful Language Instruction. International Journal on New Trends in Education and Their Implications, 10(2). http://www.ijonte.org
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Semi-structured interviews with the 7th-grade participants after the MLE-mediated lesson, transcribed and translated by the researcher. Student B's statement illustrates reported engagement and purpose awareness; other students similarly reported being "much more eager to learn English". No effect size is reported.
 

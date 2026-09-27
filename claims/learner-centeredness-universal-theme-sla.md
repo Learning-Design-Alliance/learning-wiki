@@ -15,12 +15,14 @@ sources:
     author: Faramarz Samifanni
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Learner-centeredness is a universal theme across SLA theories and language teaching methods
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Across the analyzed theories and methods, teaching is learner-centered and the teacher-learner relationship is a cooperative, collaborative partnership. [→ Faramarz Samifanni 2020](#faramarz-samifanni-2020)
@@ -31,7 +33,7 @@ sources:
 
 Faramarz Samifanni. (2020). The Fluency Way: A Functional Method for Oral Communication. English Language Teaching, 13(3). https://doi.org/10.5539/elt.v13n3p100
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 Theme 5 from the qualitative synthesis of three SLA theories and five teaching methods; the conclusion adds that regardless of theory or method, learner-centeredness is a universal theme.
 

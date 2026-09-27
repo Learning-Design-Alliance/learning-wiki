@@ -15,12 +15,14 @@ sources:
     author: Weintraub, L.
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Instructional modifications that lower barriers are optional supports for younger resilient learners but may be necessary for older beginners, pre-literate students, and learners dealing with trauma or disabilities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Younger, more resilient students often overcome barriers without modifications, while older beginners and other vulnerable learners may find it impossible to access instruction without them. [→ Weintraub 2025](#weintraub-2025)
@@ -31,7 +33,7 @@ sources:
 
 Weintraub, L. (2025). Grandma Needs English, Too. Adult Literacy Education. http://doi.org/10.35847/LWeintraub.7.1.37
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 The author's practitioner distinction, drawn from experience teaching an older-beginner class at the library since 2018, contrasting younger resilient learners with "Older beginners (as well as pre-literate students, and those struggling with trauma/disabilities)". It is offered as expert judgment, not a tested result.
 

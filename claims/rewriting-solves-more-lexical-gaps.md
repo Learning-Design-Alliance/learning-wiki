@@ -15,12 +15,14 @@ sources:
     author: Sumayyah Qaed Alsulami
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Rewriting after noticing gaps and comparing to models produced modified output that solved more lexical gaps than grammatical problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Stage 3 rewrites, the participant solved more lexical gaps than grammatical problems, though some grammar improved (e.g., adding -s to conjugate verbs for singular nouns). [→ Sumayyah Qaed Alsulami 2016](#sumayyah-qaed-alsulami-2016)
@@ -31,7 +33,7 @@ sources:
 
 Sumayyah Qaed Alsulami. (2016). Testing the Noticing Function of the Output Hypothesis. English Language Teaching, 9(2). https://doi.org/10.5539/elt.v9n2p136
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Stage 3 rewrite analysis in the case study: the article reports the participant solved more lexical gaps than grammatical problems, with examples such as adding "s" to conjugate verbs and supplying the phrase "lung cancer".
 

@@ -15,12 +15,14 @@ sources:
     author: Xiangdong Liu
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Dewey holds that virtues cannot be given fixed meanings because they express interests in changing objects and institutions, so virtues should be taught in relation to specific situations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` For Dewey, each virtue's meaning changes with social and physical environments, virtues are not isolated from each other, and no virtue can be taught separately from the concrete situation. [→ Xiangdong Liu 2014](#xiangdong-liu-2014)
@@ -31,7 +33,7 @@ sources:
 
 Xiangdong Liu. (2014). The Problem of Character Education and Kohlberg's Moral Education: Critique from Dewey's Moral Deliberation. Philosophical Studies in Education 45. https://www.ovpes.org/
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Philosophical interpretation of Dewey's Theory of the Moral Life offered in the section on what Dewey would say about character education. The article quotes Dewey that a virtue "cannot be given a fixed meaning" and adds that virtues work together in each situation rather than being taught separately.
 

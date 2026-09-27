@@ -16,7 +16,7 @@ sources:
 # Kendon's Gesture Continuum as the framework for classifying nonverbal devices
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article draws on Kendon's (1980) Gesture Continuum and McNeill's view of gestures as "components of speech, not accompaniments but actually integral parts of it". The continuum arranges gesture types from least to most language-like: gesticulation, pantomime, and sign language, with language-like gesture and emblems in the middle able to accompany speech with context-dependent meaning. The study uses this framework to select the gesture types relevant to attention-getting and to justify referring to bodily movements generally as nonverbal devices.

@@ -15,12 +15,14 @@ sources:
     author: "Cheng, Y.-H., & Good, R. L."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Proficiency moderates gloss effects: vocabulary benefits appear at Levels 2 and 3 but not Levels 1 and 4
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Significant differences among gloss conditions on vocabulary recall tests were found only for Level 2 and Level 3 subjects, not for Levels 1 and 4. [→ Cheng 2009](#cheng-2009)
@@ -31,7 +33,7 @@ sources:
 
 Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. http://nflrc.hawaii.edu/rfl
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 One-way ANOVA by proficiency level: VocTest 1 p = .011 (Level 2) and p = .003 (Level 3) were significant, while Levels 1 and 4 showed no significant differences on any vocabulary test. Reading comprehension was non-significant at all four levels (p = .089 to .921).
 

@@ -17,7 +17,7 @@ sources:
 # Take students' previous knowledge and experience as the growth point of new knowledge
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that teaching start from what learners already know: "teaching should take students’ previous knowledge and experience as the growth point of new knowledge". Teachers should prepare in two fields before class — analyzing curriculum standards and textbooks to confirm teaching targets, and analyzing students' previous knowledge and experiences — then guide students to produce new knowledge from original ones, connecting new and old knowledge. The article grounds this in Ausubel's meaning-study view that the only important factor affecting study is what learners have known.

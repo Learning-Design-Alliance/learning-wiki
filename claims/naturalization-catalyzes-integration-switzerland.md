@@ -15,12 +15,14 @@ sources:
     author: Covington, K. C. D.
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Review reports naturalization catalyzes social and political integration (Swiss longitudinal study)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports, citing Hainmueller, Hangartner and Pietrantuono, that naturalization functions as a catalyst for greater social and political integration among immigrants. [→ Covington 2024](#covington-2024)
@@ -31,7 +33,7 @@ sources:
 
 Covington, K. C. D. (2024). Examining the learner perspective in US immigrant adults: Socioeconomic status and the mission to successfully integrate. Doctoral study. https://eric.ed.gov/?id=ED660747
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 Narrative review attribution: the article reports a longitudinal Swiss study in which immigrants who became citizens were better integrated socially and politically, and fifteen years later showed political knowledge and votership similar to native peers. The review's account is cited second-hand; the underlying study was not read directly.
 

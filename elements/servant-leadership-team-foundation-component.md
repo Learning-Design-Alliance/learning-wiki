@@ -17,7 +17,7 @@ sources:
 # Servant leadership component of the Team Learning Foundation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Servant leadership is the final component of the Team Learning Foundation, introduced through principles drawn from Hunter (2004). The article states: "Principles of servant leadership involve building community, commitment to the growth of their team members, stewardship, foresight, listening, empathy and healing, and foresight are introduced and discussed." The component helps students in leadership roles see themselves as responsible for teammates' growth rather than directing activities in an authoritarian way.

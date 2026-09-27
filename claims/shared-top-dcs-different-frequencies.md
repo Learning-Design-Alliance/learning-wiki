@@ -15,12 +15,14 @@ sources:
     author: "Hu, C., & Li, Y."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # L1 and L2 writers share a core set of high-frequency connectives but with strikingly different frequencies, and is nearly three times more frequent in L1 essays
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` and, but, because, so, however and therefore occur among the top 10 most frequently used devices of both L1 and L2 writers, although with strikingly different frequencies. [→ Hu 2015](#hu-2015)
@@ -32,7 +34,7 @@ sources:
 
 Hu, C., & Li, Y. (2015). Discourse Connectives in L1 and L2 Argumentative Writing. Higher Education Studies. https://doi.org/10.5539/hes.v5n4p30
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `associational · r2`
 
 Quantitative profile from Table 4 of the top ten DCs in each of the four sub-corpora, generated with Wordsmith Tools 5.0. The article reports "considerable similarities of usage" across groups with "strikingly different frequencies", and that and is "nearly three times more often in L1 sample than in L2 sample by Hong Kong and Singaporean students".
 

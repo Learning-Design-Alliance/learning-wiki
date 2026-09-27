@@ -15,12 +15,14 @@ sources:
     author: Liu Yuanyuan
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Sensible scene shows a statistically distinguishable serial indirect association with behavioral intention through emotional resonance and cognitive evaluation in a constrained bootstrap model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` The serial indirect component sensible scene → emotional resonance → cognitive evaluation → behavioral intention is 0.16 (95% CI [0.07, 0.25]). [→ Liu Yuanyuan 2026](#liu-yuanyuan-2026)
@@ -32,7 +34,7 @@ sources:
 
 Liu Yuanyuan. (2026). Audience attitudes and aesthetic perception of digitally empowered contemporary lacquer painting: a survey-based technology-imagery-perception model. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1866076
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 A prespecified constrained serial path model estimated with 5,000 bootstrap samples on N = 425; total association 0.52 (t = 10.12, p < 0.001), direct association 0.24, total indirect association 0.28 (95% CI [0.12, 0.45]), supporting H7.
 

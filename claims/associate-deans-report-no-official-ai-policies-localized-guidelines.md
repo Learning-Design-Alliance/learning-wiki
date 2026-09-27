@@ -15,12 +15,14 @@ sources:
     author: "Dozier, V., & Molina, S. C."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Associate deans report that neither their institution nor their units have implemented official AI policies, prompting localized unit-level guidelines
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a survey of seven associate deans at one university, all seven reported no official AI policies at the institutional or unit level, leading units to create localized guidelines. [→ Dozier 2026](#dozier-2026)
@@ -31,7 +33,7 @@ sources:
 
 Dozier, V., & Molina, S. C. (2026). Leading From the Precipice: How Academic Deans Are Navigating Artificial Intelligence in Higher Education. New Directions for Student Leadership. https://doi.org/10.1002/yd.70077
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative case study based on an 11-question Qualtrics survey of academic leaders; seven of 19 invited associate/assistant deans responded. All seven reported no official AI policies, and the authors describe localized unit guidelines as functioning "in a sense, as a feminist ethics of care."
 

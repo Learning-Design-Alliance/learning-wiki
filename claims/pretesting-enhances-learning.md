@@ -16,6 +16,8 @@ sources:
     q: 3
     i: 3
     n: 63 undergraduates (Experiment 1); 5 experiments, ns 59–158
+    kind: causal
+    rigour: "?"
   - id: kornell-hays-and-bjork-2009
     resource: "https://doi.org/10.1037/a0015729"
     title: "Kornell, N., Hays, M. J., & Bjork, R. A. (2009). Unsuccessful retrieval attempts enhance subsequent learning. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 35*(4), 989–998. [doi:10.1037/a0015729](https://doi.org/10.1037/a0015729)"
@@ -23,12 +25,14 @@ sources:
     q: 3
     i: 2
     n: 25 UCLA undergraduates (Experiment 1); 6 experiments, ns 20–32
+    kind: causal
+    rigour: 1
 ---
 
 # Pretesting enhances learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2`–`i3`
+> **Evidence** · 2 studies · 2 causal `r1` · `q3` · `i2`–`i3`
 
 Attempting to answer questions about material before it has been taught — even when those attempts fail — improves retention and transfer of that material relative to studying without a pretest. The claim covers pre-instruction testing on *not-yet-learned* material; it is distinct from retrieval practice on already-learned material.
 
@@ -44,7 +48,7 @@ Attempting to answer questions about material before it has been taught — even
 
 Richland, L. E., Kornell, N., & Kao, L. S. (2009). The pretesting effect: Do unsuccessful retrieval attempts enhance learning? *Journal of Experimental Psychology: Applied, 15*(3), 243–257. [doi:10.1037/a0016496](https://doi.org/10.1037/a0016496)
 
-`q3 · peer-reviewed multi-experiment lab study` · `i3 · large effect, d=1.1 (Experiment 1)` · `n=63 undergraduates (Experiment 1); 5 experiments, ns 59–158`
+`q3 · peer-reviewed multi-experiment lab study` · `i3 · large effect, d=1.1 (Experiment 1)` · `n=63 undergraduates (Experiment 1); 5 experiments, ns 59–158` · `causal · r?`
 
 Across five experiments, undergraduates read an expository essay on human vision. In the "test" condition they were asked questions about upcoming concepts *before* reading the passage (nearly all answered incorrectly or left blank at pretest); in the "extended study" condition they instead got proportionally more time to read. On a later test of the same material, the pretested group outperformed the extended-study group in every experiment — in Experiment 1, 75% vs. 56% correct, a large effect (d = 1.1) — even though the analysis excluded any item a participant had actually gotten right on the pretest, so the benefit cannot be attributed to successful retrieval. Later experiments ruled out mere attention-direction (emphasizing the same concepts with italics/bold in the study condition) as the explanation, and Experiment 5 found that simply reading the questions without attempting an answer produced a smaller benefit than actually attempting to answer them.
 
@@ -52,7 +56,7 @@ Across five experiments, undergraduates read an expository essay on human vision
 
 Kornell, N., Hays, M. J., & Bjork, R. A. (2009). Unsuccessful retrieval attempts enhance subsequent learning. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 35*(4), 989–998. [doi:10.1037/a0015729](https://doi.org/10.1037/a0015729)
 
-`q3 · peer-reviewed multi-experiment lab study` · `i2 · medium effect, d=0.58 (Experiment 1)` · `n=25 UCLA undergraduates (Experiment 1); 6 experiments, ns 20–32`
+`q3 · peer-reviewed multi-experiment lab study` · `i2 · medium effect, d=0.58 (Experiment 1)` · `n=25 UCLA undergraduates (Experiment 1); 6 experiments, ns 20–32` · `causal · r1`
 
 Six experiments tested whether failed retrieval attempts help or hurt later learning, using materials engineered so retrieval would fail: fictional trivia questions (Experiments 1–2, e.g. "What peace treaty ended the Calumet War?") and cue–weak-associate word pairs (Experiments 3–6, e.g. cue "whale," target "mammal"), with any rare correct guesses excluded from analysis. In the test condition participants attempted an answer before being shown it; in the read-only condition the question and answer were simply presented together for the same study time. On a later cued-recall test, the test condition beat the read-only condition in every experiment — in Experiment 1, 41% vs. 31% correct, t(24) = 2.97, p < .01, d = 0.58 — and in Experiment 6, initial wrong guesses ("commission errors") were recalled better than initially blank items, arguing against the idea that producing an incorrect answer is itself harmful.
 

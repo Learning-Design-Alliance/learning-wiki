@@ -15,12 +15,14 @@ sources:
     author: Tamaoka, Katsuo
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Kolb's inventory showed no association with medical career choices, and its personality-type predictions were contradicted
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Convergence students scored higher on social acceptability, contradicting Kolb's expected theoretical, internal control and independence factors. [→ Tamaoka 1985](#tamaoka-1985)
@@ -31,7 +33,7 @@ sources:
 
 Tamaoka, Katsuo. (1985). Historical Development of Learning Style Inventories from Dichotomous Cognitive Concepts of Field Dependence and Field Independence to Multi-Dimensional Assessment. https://eric.ed.gov/?id=ED339729
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `review · r2`
 
 The review reports West's 1982 study relating Kolb's styles to seven personality factors, where Convergence students' higher social acceptability scores contradicted the expected theoretical, internal control and independence factors, leading West to question the categories' accuracy.
 

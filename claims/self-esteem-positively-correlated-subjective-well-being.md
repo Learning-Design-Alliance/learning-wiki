@@ -15,12 +15,14 @@ sources:
     author: "Karatas, Z. & Tagay, O."
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Self-esteem is positively correlated with subjective well-being among final-year education faculty students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Among 318 final-year university students, self-esteem scores showed a positive, statistically significant correlation with subjective well-being scores (r = .53). [→ Karatas 2012](#karatas-2012)
@@ -31,7 +33,7 @@ sources:
 
 Karatas, Z. & Tagay, O. (2012). Self Esteem, Locus of Control and Multidimensional Perfectionism as the Predictors of Subjective Well Being. International Education Studies, 5(6). http://dx.doi.org/10.5539/ies.v5n6p131
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Pearson correlation analysis (Table 1, n=318) of scale scores from final-year education faculty students. The self-esteem column shows ".53**" with subjective well-being, i.e. r = .53, significant at p<.01; the subjective well-being mean was 174.35 (Ss 27.08).
 

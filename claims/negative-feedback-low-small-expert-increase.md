@@ -15,12 +15,14 @@ sources:
     author: "van der Mars, H., Vogler, E. W., Darst, P. W., & Cusimano, B."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Negative feedback was low across all expertise groups with a small increase for proficient/expert teachers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The percent of feedback that was negative was low across groups, showing a small increase with teachers in the proficient/expert group. [→ van der Mars 1991](#van-der-mars-1991)
@@ -31,7 +33,7 @@ sources:
 
 van der Mars, H., Vogler, E. W., Darst, P. W., & Cusimano, B. (1991). Novice and Expert Physical Education Teachers: They May Think and Decide Differently...But Do They Behave Differently? https://eric.ed.gov/?id=ED336354
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Event-recording data on teachers' verbal behavior in the same study; Table 3 reports negative feedback means of 7.6, 7.8, and 10.5 percent with a non-significant F ratio (0.38).
 

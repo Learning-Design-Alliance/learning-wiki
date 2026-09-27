@@ -17,7 +17,7 @@ sources:
 # Metacognitive Interview Form for Younger and Older Students (NCREL, 1995 rev. ed.)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The Metacognitive Interview Form for Younger and Older Students (NCREL, 1995 rev. ed.) was the instrument administered to determine the degree of metacognitive strategy use by primary, middle, and high school students. It contains semi-structured questions about what to do before, during, and after reading, and when comprehension breaks down, with versions differing in item number by grade band (5 items for grades 2-3, 6 for grade 5, 4 for grade 6, 6 for grades 7-12). Teachers administered it after students silently read a short passage, with individual interviews for low-ability readers.

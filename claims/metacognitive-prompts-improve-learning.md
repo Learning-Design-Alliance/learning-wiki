@@ -15,12 +15,14 @@ sources:
     q: 4
     i: 2
     n: unreported in abstract (full text access-gated; k not stated)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Metacognitive prompts improve learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium · n=unreported in abstract (full text access-gated; k not stated)
+> **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=unreported in abstract (full text access-gated; k not stated)
 
 Prompts that direct learners' attention to planning, monitoring, and evaluating their own thinking can improve learning outcomes, particularly when embedded in structured learning tasks.
 
@@ -34,7 +36,7 @@ Prompts that direct learners' attention to planning, monitoring, and evaluating 
 
 Guo, L. (2022). Using metacognitive prompts to enhance self‐regulated learning and learning outcomes: A meta‐analysis of experimental studies in computer‐based learning environments. *Journal of Computer Assisted Learning, 38*(3), 811–832. [doi:10.1111/jcal.12650](https://doi.org/10.1111/jcal.12650)
 
-`q4 · meta-analysis of experimental studies` · `i2 · medium effect, g=0.40, 95% CI [0.31, 0.49]` · `n=unreported in abstract (full text access-gated; k not stated)`
+`q4 · meta-analysis of experimental studies` · `i2 · medium effect, g=0.40, 95% CI [0.31, 0.49]` · `n=unreported in abstract (full text access-gated; k not stated)` · `quant-synthesis · r?`
 
 A random-effects meta-analysis of experimental studies conducted in computer-based learning environments (CBLEs) tested whether prompting learners to plan, monitor, and evaluate their own thinking during a task improves outcomes relative to unprompted control conditions. Metacognitive prompts significantly raised both self-regulated-learning activity (Hedges' g = 0.50, 95% CI [0.37, 0.63]) and learning outcomes (g = 0.40, 95% CI [0.31, 0.49]) compared to control. Moderator analyses found the effect varied with three features of the prompts themselves: whether they were paired with feedback, how task-specific they were, and whether they adapted to the individual learner — directly supporting this page's "prompt specificity" and "support fading/adaptability" moderator notes in the Discussion section below. The authors frame task-specific, individually adaptive prompting (with feedback) as the design implication for CBLEs.
 

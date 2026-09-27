@@ -16,7 +16,7 @@ sources:
 # The Future Ready Talent Framework (FRTF): a 12-talent, 4-cluster conceptual model for WIL stakeholders
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The FRTF is a conceptual model organizing 12 talents into four clusters — Expand and Transfer Expertise, Develop Self, Build Relationships, and Design and Deliver Solutions. It was synthesized from 46 prior talent frameworks and future-of-work literature to identify talents mutually relevant to employers, students, and educators in WIL. The article states it "is not intended to be prescriptive" but "acts as a tool WIL stakeholders can use as they communicate with each other." Behavioral examples attached to each talent illustrate what the talents look like in practice.

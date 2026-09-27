@@ -15,12 +15,14 @@ sources:
     author: Stokamer, S.
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Exploration of diversity is associated with all civic competence outcomes in community-based learning courses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Exploration of diversity was one of the two practices most strongly related to civic competence (r = .552), second to a syllabus clearly connecting service work to course content (r = .569); the article reports that the exploration of diversity significantly enhances all civic competence outcomes, though the analysis is correlational (cross tabulations and Pearson correlations) and does not establish causation. [→ Stokamer 2013](#stokamer-2013)
@@ -31,7 +33,7 @@ sources:
 
 Stokamer, S. (2013). Pedagogical Catalysts of Civic Competence: The Development of a Critical Epistemological Model for Community-Based Learning. Journal of Higher Education Outreach and Engagement, 17(1). https://www.proquest.com/docview/3468983
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Correlational analysis (cross tabulations and Pearson correlation) of instructional items against outcome mean scores in the 10,974-student survey dataset. The article reports "exploration of diversity (r = .552)" among the strongest pedagogical relationships, and states diversity "significantly enhances all civic competence outcomes" — an association, not a tested causal effect.
 

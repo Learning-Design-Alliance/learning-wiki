@@ -15,12 +15,14 @@ sources:
     author: Jensen, Scott
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Judges surveyed perceive CEDA/NDT debaters as devoting more weekly work than parliamentary debaters
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Of 32 judges surveyed, 25 said serious CEDA/NDT debaters exert 10 or more hours of work a week, while 21 felt serious parliamentary debaters devote less than 10 hours per week. [→ Jensen 1996](#jensen-1996)
@@ -31,7 +33,7 @@ sources:
 
 Jensen, Scott. (1996). Point of Information: Practical and Theoretical Concerns in Parliamentary Debate. https://eric.ed.gov/?id=ED421730
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The tournament survey asked judges about weekly workload of serious debaters in each format. The author reports that of "the 32 judges surveyed, 25" said CEDA/NDT debaters work 10 or more hours weekly while 21 said parliamentary debaters work under 10 hours.
 

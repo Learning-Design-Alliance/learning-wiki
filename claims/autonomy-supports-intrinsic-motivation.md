@@ -13,6 +13,8 @@ sources:
     q: 2
     i: "?"
     n: N/A
+    kind: review
+    rigour: "?"
   - id: deci-koestner-ryan-1999
     resource: "https://doi.org/10.1037/0033-2909.125.6.627"
     title: "Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668. [https://doi.org/10.1037/0033-2909.125.6.627](https://doi.org/10.1037/0033-2909.125.6.627)"
@@ -20,6 +22,8 @@ sources:
     q: 4
     i: 2
     n: 128 studies
+    kind: quant-synthesis
+    rigour: 2
   - id: stefanou-et-al-2004
     resource: "https://doi.org/10.1207/s15326985ep3902_2"
     title: "Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C. (2004). Supporting autonomy in the classroom: Ways teachers encourage student decision making and ownership. *Educational Psychologist, 39*(2), 97–110. [https://doi.org/10.1207/s15326985ep3902_2](https://doi.org/10.1207/s15326985ep3902_2)"
@@ -27,6 +31,8 @@ sources:
     q: 1
     i: "?"
     n: N/A
+    kind: theoretical
+    rigour: 2
 id: autonomy-supports-intrinsic-motivation
 evidence_strength: strong
 ---
@@ -34,7 +40,7 @@ evidence_strength: strong
 # Autonomy support increases intrinsic motivation, engagement, and persistence in learning.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q1`–`q4` · `i2` medium
+> **Evidence** · 3 studies · 1 quant-synthesis `r2`, 1 review `r?`, 1 theoretical `r2` · `q1`–`q4` · `i2` medium
 
 When learners experience meaningful choice, volition, and internal causality — rather than external control — they show greater intrinsic motivation, deeper engagement, and longer persistence. The mechanism is not choice for its own sake but perceived self-determination: the sense that one is acting from one's own values rather than external pressure.
 
@@ -52,7 +58,7 @@ When learners experience meaningful choice, volition, and internal causality —
 
 Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78. [https://doi.org/10.1037/0003-066X.55.1.68](https://doi.org/10.1037/0003-066X.55.1.68)
 
-`q2 · narrative review: theoretical synthesis, not itself a trial or meta-analysis` · `i? · no source text available to check; the entry prints no effect size` · `n=N/A`
+`q2 · narrative review: theoretical synthesis, not itself a trial or meta-analysis` · `i? · no source text available to check; the entry prints no effect size` · `n=N/A` · `review · r?`
 
 Ryan and Deci present the core SDT framework, drawing on decades of experimental and field research. They distinguish between autonomous motivation (doing something because it is inherently interesting or congruent with one's values) and controlled motivation (doing something due to external pressure or reward). Autonomy-supportive environments — those that acknowledge learners' perspectives, offer meaningful choice, and minimize pressure and control — consistently produce higher quality engagement, deeper learning, and better long-term outcomes. The mechanism is the satisfaction of three basic psychological needs: autonomy, competence, and relatedness.
 
@@ -60,7 +66,7 @@ Ryan and Deci present the core SDT framework, drawing on decades of experimental
 
 Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668. [https://doi.org/10.1037/0033-2909.125.6.627](https://doi.org/10.1037/0033-2909.125.6.627)
 
-`q4 · meta-analysis of 128 experiments` · `i2 · medium effect, d = -0.4` · `n=128 studies`
+`q4 · meta-analysis of 128 experiments` · `i2 · medium effect, d = -0.4` · `n=128 studies` · `quant-synthesis · r2`
 
 This meta-analysis examined 128 studies and found that tangible, expected rewards contingent on task engagement significantly undermine intrinsic motivation for initially interesting tasks. Unexpected rewards and verbal praise (when informational rather than controlling) do not undermine intrinsic motivation and can enhance it. This finding has direct implications for how points, badges, and reward systems are designed in learning experiences: rewards that signal external control reduce the learner's sense of ownership.
 
@@ -68,7 +74,7 @@ This meta-analysis examined 128 studies and found that tangible, expected reward
 
 Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C. (2004). Supporting autonomy in the classroom: Ways teachers encourage student decision making and ownership. *Educational Psychologist, 39*(2), 97–110. [https://doi.org/10.1207/s15326985ep3902_2](https://doi.org/10.1207/s15326985ep3902_2)
 
-`q1 · conceptual framework illustrated with teacher vignettes (abstract only)` · `i? · no effect size; no study reported` · `n=N/A`
+`q1 · conceptual framework illustrated with teacher vignettes (abstract only)` · `i? · no effect size; no study reported` · `n=N/A` · `theoretical · r2`
 
 Stefanou and colleagues propose that classroom autonomy support takes at least three forms: organisational (a decision-making role in classroom management), procedural (choices such as which media to use to present ideas) and cognitive (opportunities to evaluate work against a self-referent standard). They illustrate the proposal with vignettes of teachers rather than a review of evidence, and suggest the forms have different outcomes: organisational support may encourage well-being and comfort with how the classroom runs, procedural support initial engagement, and cognitive support a more enduring investment in deep-level thinking. The abstract makes these suggestions as a proposition, not as findings.
 

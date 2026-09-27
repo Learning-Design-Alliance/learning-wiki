@@ -15,12 +15,14 @@ sources:
     author: "Riveros, A., Newton, P., & Burgess, D."
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Past peer-collaboration school improvement initiatives repeatedly failed, and Joyce attributes failures to poor documentation, exclusive focus on student learning, and unclear leadership
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Historical collaborative initiatives (team teaching, middle school movement, California School Improvement Initiative) failed for reasons including lack of reflection on teacher practice and unclear leadership. [→ Riveros 2012](#riveros-2012)
@@ -31,7 +33,7 @@ sources:
 
 Riveros, A., Newton, P., & Burgess, D. (2012). A Situated Account of Teacher Agency and Learning: Critical Reflections on Professional Learning Communities. Canadian Journal of Education, 35(1). https://journals.sfu.ca/cje/index.php/cje
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Narrative review attributing this analysis to Joyce (2004), who also notes the California School Improvement Initiative funding "was halted because no significant differences were attributable to the interventions" per Peterson and David (1984).
 

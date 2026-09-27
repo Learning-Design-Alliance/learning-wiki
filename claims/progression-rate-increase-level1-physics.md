@@ -15,12 +15,14 @@ sources:
     author: MM Casey and S McVitie
     q: 2
     i: 2
+    kind: design
+    rigour: 2
 ---
 
 # Direct progression from level 1 to level 2 physics rose to 47% in 2008-09, about 10% above previous years
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` The direct progression rate to level 2 physics was 47%, a significant improvement on the ~37-40% of previous years. [→ MM Casey and S McVitie 2009](#mm-casey-and-s-mcvitie-2009)
@@ -31,7 +33,7 @@ sources:
 
 MM Casey and S McVitie. (2009). Academic performance & student engagement in level 1 physics undergraduates. https://arxiv.org/abs/0911.2733
 
-`q2 · i2`
+`q2 · i2` · `design · r2`
 
 Observational analysis of progression statistics: 50% of the 2007-08 level 1 class self-identified an intention to progress, and the article reports "the direct progression rate was 47%", against an expected ~40% in keeping with previous years.
 

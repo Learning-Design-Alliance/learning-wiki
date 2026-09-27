@@ -15,12 +15,14 @@ sources:
     author: Nguyen, M. T.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The original global citizenship scale is employable in a developing-country university context after adjustments to social responsibility and global competence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` PLS-SEM validation with 171 Vietnamese private-university students showed the original scale could be employed in a developing-country context, with adjustments needed for social responsibility and global competence. [→ Nguyen 2021](#nguyen-2021)
@@ -31,7 +33,7 @@ sources:
 
 Nguyen, M. T. (2021). Validating a Scale for Measuring Students' Perspectives toward Global Citizenship: A Case at a Private University in Vietnam. Education Quarterly Reviews, 4(3), 575-587. https://doi.org/10.31014/aior.1993.04.03.362
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `associational · r1`
 
 Survey study validating three measurement models via PLS-SEM with 171 students at Van Lang University, Vietnam. The abstract-level conclusion states the original scale 'could be employed in the context of developing countries' with adjustments to two components.
 

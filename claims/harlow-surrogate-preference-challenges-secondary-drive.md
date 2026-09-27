@@ -15,12 +15,14 @@ sources:
     author: Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The review reports that infant monkeys preferred a terrycloth surrogate over a feeding wire-mesh surrogate, challenging secondary drive theory
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports, citing Harlow and Harlow (1966), that infant monkeys more often chose a non-feeding terrycloth surrogate mother over a wire-mesh surrogate that fed them, evidence the review says seriously questions secondary drive theory. [→ Casto 1976](#casto-1976)
@@ -31,7 +33,7 @@ sources:
 
 Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135162
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review narrates the Harlows' critical experiments with infant monkeys, in which contact with the terrycloth mother was also more fear-reducing in fearful situations. The review states this demonstrates "infant needs that transcend physiological needs."
 

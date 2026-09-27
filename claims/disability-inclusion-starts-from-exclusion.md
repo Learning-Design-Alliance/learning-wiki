@@ -13,12 +13,14 @@ sources:
     title: arg-2
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Inclusion of students with disabilities often falls short because efforts start from a place of exclusion, making students guests who must earn access
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The article argues that least-restrictive-environment inclusion efforts often do not achieve their aim because they start from exclusion, requiring students with disabilities to prove readiness and assimilate. [→ arg-2](#arg-2)
@@ -29,7 +31,7 @@ sources:
 
 SWIFT Education Center. (2025, May). Rightful presence in education systems. https://swiftschools.org
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the brief about U.S. inclusion efforts for students identified with disabilities; it is an interpretive claim, not an empirical test, and the article offers no effect data for it.
 

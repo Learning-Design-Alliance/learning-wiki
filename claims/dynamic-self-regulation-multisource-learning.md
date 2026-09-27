@@ -15,18 +15,22 @@ sources:
     author: "Heflich, David A. & Iran-Nejad, Asghar"
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: heflich-1995-2
     resource: "https://eric.ed.gov/?id=ED393851"
     title: "Heflich, David A. & Iran-Nejad, Asghar. (1995). Reflective Educational Practice from the Perspective of Wholetheme Constructivism. https://eric.ed.gov/?id=ED393851"
     author: "Heflich, David A. & Iran-Nejad, Asghar"
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Dynamic self-regulation of brain subsystems enables simultaneous multisource learning beyond conscious attention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Brain subsystems self-regulate unconsciously, constituting an independent source of internal self-regulation that allows learning from multiple sources simultaneously. [→ Heflich 1995](#heflich-1995)
@@ -38,7 +42,7 @@ sources:
 
 Heflich, David A. & Iran-Nejad, Asghar. (1995). Reflective Educational Practice from the Perspective of Wholetheme Constructivism. https://eric.ed.gov/?id=ED393851
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Theoretical position advanced in the paper, citing Iran-Nejad (1990): 'dynamic self-regulation' of brain subsystems is an independent internal regulator, contrasting with the single-source central-executive view that makes learning piecemeal and sequential.
 
@@ -48,7 +52,7 @@ Theoretical position advanced in the paper, citing Iran-Nejad (1990): 'dynamic s
 
 Heflich, David A. & Iran-Nejad, Asghar. (1995). Reflective Educational Practice from the Perspective of Wholetheme Constructivism. https://eric.ed.gov/?id=ED393851
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The paper reports, citing Iran-Nejad (1987), a study in which subjects read a story leading them to expect one ending, then received a clue that let them reflect on the surprise and reconceptualize the story. No effect size is printed.
 

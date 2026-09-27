@@ -15,12 +15,14 @@ sources:
     author: Manzo, Anthony V.
     q: 2
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Textual material treated with embedded aids produced 10-15% higher reading comprehension scores than conventional text, statistically significant at the .01 level, in a science-material study with approximately 200 tenth graders across three schools.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Experimental group students in all three schools scored 10-15% higher in reading comprehension, a difference statistically significant at the .01 level by a t-test between the means. [→ Manzo 1977](#manzo-1977)
@@ -31,7 +33,7 @@ sources:
 
 Manzo, Anthony V. (1977). 'Imbedded Aids' to Readers: Alternatives to Traditional Textual Material. https://eric.ed.gov/?id=ED136196
 
-`q2 · i2`
+`q2 · i2` · `causal · r2`
 
 Quasi-experimental study of science material with approximately 200 tenth graders across three schools comparing aided and conventional text. The article reports "10-15% higher in reading comprehension" and significance "at the .01 level of confidence by a t-test between the means."
 

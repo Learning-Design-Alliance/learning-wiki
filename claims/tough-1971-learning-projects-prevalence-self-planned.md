@@ -15,18 +15,22 @@ sources:
     author: "Percy, K., Burton, D., & Withnall, A."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: percy-1994-2
     resource: "https://eric.ed.gov/?id=ED382882"
     title: "Percy, K., Burton, D., & Withnall, A. (1994). Self-Directed Learning among Adults: The Challenge for Continuing Educators. Association for Lifelong Learning. https://eric.ed.gov/?id=ED382882"
     author: "Percy, K., Burton, D., & Withnall, A."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Tough's 1971 study found nearly all adults had undertaken a learning project in the past year, 68% self-planned and under 1% for credit, with women's categories logging fewer hours
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Tough's 1971 study of sixty-six adults across seven occupational categories, all but one interviewee had conducted a learning project in the previous year, fewer than one per cent of projects were undertaken for credit, and 68% were self-planned. [→ Percy 1994](#percy-1994)
@@ -38,7 +42,7 @@ sources:
 
 Percy, K., Burton, D., & Withnall, A. (1994). Self-Directed Learning among Adults: The Challenge for Continuing Educators. Association for Lifelong Learning. https://eric.ed.gov/?id=ED382882
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Tough's 1970 study, reported in The Adult's Learning Projects, interviewed sixty-six adults drawn from seven occupational categories using intensive structured interviews with probing and prompt sheets; the review reports near-universal project participation and under 1% undertaken for credit, with "the majority (68%) of projects were self-planned".
 
@@ -48,7 +52,7 @@ Tough's 1970 study, reported in The Adult's Learning Projects, interviewed sixty
 
 Percy, K., Burton, D., & Withnall, A. (1994). Self-Directed Learning among Adults: The Challenge for Continuing Educators. Association for Lifelong Learning. https://eric.ed.gov/?id=ED382882
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Across the seven occupational groups, total hours devoted to learning projects differed by group (professors highest, mothers lowest in hours); the review reports that every category including women logged fewer hours, a finding Tough did not pursue.
 

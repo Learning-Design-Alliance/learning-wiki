@@ -15,18 +15,22 @@ sources:
     author: Wei, Wang and Dong
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: wei-2026-2
     resource: "https://doi.org/10.3389/fpsyg.2026.1905847"
     title: "Wei, Wang and Dong. (2026). Cognitive and skill acquisition trajectories in school-based music education: evidence from Chinese classrooms. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1905847"
     author: Wei, Wang and Dong
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # A one-parameter IRT model outperforms global and per-pitch baselines on AUC, BCE and Brier score but not on threshold accuracy for held-out singing attempts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The IRT model's AUC advantage over the global and per-pitch baselines was 0.172 and 0.131, with bootstrap confidence intervals excluding zero. [→ Wei 2026](#wei-2026)
@@ -38,7 +42,7 @@ sources:
 
 Wei, Wang and Dong. (2026). Cognitive and skill acquisition trajectories in school-based music education: evidence from Chinese classrooms. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1905847
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Held-out evaluation (Table 3) of four model families on the identical 492,633-attempt test partition from an 80/20 within-sequence split, with 95% clustered bootstrap confidence intervals (1,000 replications). The IRT AUC was 0.673.
 
@@ -48,7 +52,7 @@ Held-out evaluation (Table 3) of four model families on the identical 492,633-at
 
 Wei, Wang and Dong. (2026). Cognitive and skill acquisition trajectories in school-based music education: evidence from Chinese classrooms. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1905847
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Same held-out comparison, accuracy metric at the 0.5 threshold. The article explains baselines score highly on raw accuracy by predicting the majority correct class even though their AUC is at or near chance.
 

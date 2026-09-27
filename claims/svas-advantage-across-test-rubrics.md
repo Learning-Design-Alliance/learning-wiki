@@ -15,12 +15,14 @@ sources:
     author: Tetiana Zubenko, Anastasiia Gavrylenko, Tetyana Zhyvotovska, Nadiia Vasylieva
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The SVAS group outperformed the comparison group across oral comprehension and vocabulary rubrics, with the largest gaps in answering questions and translating from Ukrainian
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` On rubrics 1a, 1b, 3 and 4 of the End-of-Experiment test, the SVAS group scored 91.8%, 71.4%, 90 and 83.6% while the Comparison group scored 74.5%, 36.5%, 64.6% and 66.9% respectively. [→ Tetiana Zubenko 2022](#tetiana-zubenko-2022)
@@ -31,7 +33,7 @@ sources:
 
 Tetiana Zubenko, Anastasiia Gavrylenko, Tetyana Zhyvotovska, Nadiia Vasylieva. (2022). Spaced vocabulary acquisition while incidental listening by ESL university students. Advanced Education, 20. https://doi.org/10.20535/2410-8286.250501
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Comparative analysis of percentage scores from the second stage of the experiment (n = 14 SVAS, n = 37 Comparison per Table 1) across rubrics for identifying speakers, answering questions, translating from Ukrainian, and defining English words/phrases. Percentages are descriptive; no per-rubric significance test is printed.
 

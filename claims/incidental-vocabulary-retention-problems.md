@@ -15,18 +15,22 @@ sources:
     author: "Zou, F., & Yan, X."
     q: 2
     i: "?"
+    kind: review
+    rigour: "?"
   - id: zou-2019-2
     resource: "https://doi.org/10.5539/elt.v12n12p39"
     title: "Zou, F., & Yan, X. (2019). Incidental English Vocabulary Acquisition Through Reading: A Review in the Last Two Decades. English Language Teaching, 12(12). https://doi.org/10.5539/elt.v12n12p39"
     author: "Zou, F., & Yan, X."
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Incidental vocabulary gains show retention problems, with losses over time moderated by feedback timing and topic interest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Retention studies show all groups lose some gains in the long run, and a short study-test lag combined with delayed feedback leads to better word retention than immediate feedback. [→ Zou 2019](#zou-2019)
@@ -38,7 +42,7 @@ sources:
 
 Zou, F., & Yan, X. (2019). Incidental English Vocabulary Acquisition Through Reading: A Review in the Last Two Decades. English Language Teaching, 12(12). https://doi.org/10.5539/elt.v12n12p39
 
-`q2 · i?`
+`q2 · i?` · `review · r?`
 
 The review reports, citing Lin (2018), a study of participants from different majors controlling retention interval, finding a short study-test lag with delayed feedback produced better vocabulary retention. No effect size is printed.
 
@@ -48,7 +52,7 @@ The review reports, citing Lin (2018), a study of participants from different ma
 
 Zou, F., & Yan, X. (2019). Incidental English Vocabulary Acquisition Through Reading: A Review in the Last Two Decades. English Language Teaching, 12(12). https://doi.org/10.5539/elt.v12n12p39
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The review reports, citing Lee and Pulido (2017), that vocabulary growth from passages with interesting topics tended to persist over time. No effect size is printed.
 

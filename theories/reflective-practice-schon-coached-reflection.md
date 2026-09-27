@@ -16,7 +16,7 @@ sources:
 # Reflective practice as a process for refining teaching craft through coached reflection on experience
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Reflective practice, introduced by Schon in 1987, is a critical process for refining one's artistry or craft in a discipline. As the digest defines it, "reflective practice involves thoughtfully considering one's own experiences in applying knowledge to practice while being coached by professionals in the discipline." It was recommended as a way for beginners to recognize consonance between their own practices and those of successful practitioners, and many teacher education programs were subsequently designed around it.

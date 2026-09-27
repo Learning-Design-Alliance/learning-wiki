@@ -15,12 +15,14 @@ sources:
     author: Felton, Victoria; Petersen, Rosemary
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Rote counting is of surprisingly little help to preoperational children in judging whether two groups have the same number
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Preoperational children can count equal numbers of objects in two rows yet still judge the longer, more spread-out row as having more, because number names are not yet concepts for them. [→ Felton 1976](#felton-1976)
@@ -31,7 +33,7 @@ sources:
 
 Felton, Victoria; Petersen, Rosemary. (1976). Piaget: A Handbook for Parents and Teachers of Children in the Age of Discovery--Preschool Through Third Grade. https://eric.ed.gov/?id=ED131912
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The handbook reports Piaget's observation that children counted seven objects in each row, "getting 7 both times," and still said the longer, more spread-out row had more. Seven was "just a name to-them, not a concept." The handbook also describes a button-transfer experiment where children act as if "moreness" transfers. No sample sizes or statistics are printed.
 

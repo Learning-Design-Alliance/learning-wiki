@@ -12,7 +12,7 @@ generated:
 # Interactive Delivery With Questioning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q4` · 2 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies (3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 4 report an effect size
 
 ## Description
 Interactive delivery with questioning replaces extended one-way presentation with a sequence of instructor-posed questions, student responses, and responsive follow-up. The instructor plans questions in advance, elicits answers from many students (not just volunteers), and adapts the explanation in real time to what responses reveal about understanding.

@@ -15,12 +15,14 @@ sources:
     author: "Tingey, L., R. Piatt, A. Hennigar, C. O'Callahan, S. Weaver, and H. Zaveri"
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Using co-regulation strategies helped facilitators and youth build warm, trusting relationships
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Facilitators and youth consistently described how the strategies helped build warm and trusting relationships, with welcoming activities (sheets, greets, meets) and praise cited as key tools. [→ Tingey 2023](#tingey-2023)
@@ -31,7 +33,7 @@ sources:
 
 Tingey, L., R. Piatt, A. Hennigar, C. O'Callahan, S. Weaver, and H. Zaveri. (2023). The Sexual Risk Avoidance Education National Evaluation: Using Co-regulation in Youth Programs. OPRE Report 2023-281, Washington, DC: Office of Planning, Research and Evaluation, Administration for Children and Families, U.S. Department of Health and Human Services. https://www.acf.hhs.gov/opre
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 Section II.C qualitative findings from facilitator interviews and youth focus groups across the nine sites; both groups "consistently described" relationship building, with meets, greets, sheets, and name use giving youth a sense of being cared for as individuals.
 

@@ -15,12 +15,14 @@ sources:
     author: Casto, Glendon; And Others
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Extra adult handling increases exploratory behavior in blind infants
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Blind infants exhibit more exploratory behavior when they receive extra handling by adults, supporting adult intervention for mastery development. [→ Casto 1976](#casto-1976)
@@ -31,7 +33,7 @@ sources:
 
 Casto, Glendon; And Others. (1976). Affective Development in the Normal and Handicapped Preschool Child. Summary Report. Review and Recommendations. Exceptional Child Center, Utah State University. https://eric.ed.gov/?id=ED135163
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The report's section on adaptation-mastery in blind and partially seeing children cites this finding, noting that "Continual intervention by adults seems necessary for optimal development." It also mentions recommendations by Langley (1961) and Raynor (1975) for stimulating exploration.
 

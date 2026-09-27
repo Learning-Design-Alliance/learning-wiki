@@ -15,12 +15,14 @@ sources:
     author: Smith, A. T.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The complexity of coaching responsibilities may fragment the coaching process and reduce its impact
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Because coaches are pulled in many directions at once, the complexity of the role may fragment coaching and reduce its impact on classroom practice and student learning. [→ Smith 2009](#smith-2009)
@@ -31,7 +33,7 @@ sources:
 
 Smith, A. T. (2009). Considering Literacy Coaching Responsibilities in Terms of Teacher Change. University of Washington Bothell. https://eric.ed.gov/?id=ED530353
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 An author interpretation offered in the introduction as motivation for the framework; the brief reports no data testing this claim, presenting it as a rationale for organizing coaching work cohesively.
 

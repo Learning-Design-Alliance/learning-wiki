@@ -15,12 +15,14 @@ sources:
     author: Emmanuel Imiere
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The author reports metacognitive scaffolding facilitated and enhanced non-specialized students' learning of philosophy literature
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Metacognitive scaffolding facilitated and enhanced the learning of philosophy literature by students not specialized in philosophy, per the author's cited prior study (Imiere, 2017). [→ Emmanuel Imiere 2019](#emmanuel-imiere-2019)
@@ -31,7 +33,7 @@ sources:
 
 Emmanuel Imiere. (2019). An Application of Cognitive Apprenticeship to Philosophy Instruction. https://eric.ed.gov/?id=ED613714
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The article cites the author's own prior study (Imiere, 2017) for this finding; no design details, sample, or statistics for that study are printed in the present text.
 

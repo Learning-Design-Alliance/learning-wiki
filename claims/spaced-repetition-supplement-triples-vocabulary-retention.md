@@ -15,12 +15,14 @@ sources:
     author: Evgeny Chukharev-Hudilainen and Tatiana A. Klepikova
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Supplemental computer-based spaced repetition activities nearly triple long-term vocabulary retention in EFL students compared with conventional instruction alone
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Vocabulary items practiced in the spaced-repetition system received credit on a delayed posttest at almost three times the rate of items taught only through conventional class and homework activities (50.1% vs. 16.9%, p < 0.001, one-tailed). [→ Evgeny Chukharev-Hudilainen and Tatiana A. Klepikova 2016](#evgeny-chukharev-hudilainen-and-tatiana-a-klepikova-2016)
@@ -31,7 +33,7 @@ sources:
 
 Evgeny Chukharev-Hudilainen and Tatiana A. Klepikova. (2016). The effectiveness of computer-based spaced repetition in foreign language vocabulary instruction: a double-blind study. calico journal vol 33.3. https://doi.org/10.1558/cj.v33i3.26055
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 A randomized controlled double-blind study in which 22 cadets were independently assigned to control or experimental groups for each of 112 lexical units, with 2,464 participant-to-group mappings treated as independent observations and scored on a paper-based posttest. The comparison "was almost threefold (50.1% vs. 16.9%)". No effect size was printed, so no magnitude is coded.
 

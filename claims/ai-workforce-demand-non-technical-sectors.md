@@ -15,12 +15,14 @@ sources:
     author: "Kathleen Kennedy & Anuj Gupta"
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Demand for AI skills spans non-technical sectors, with 75% of companies planning AI adoption by 2027
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` AI and machine learning specialists top the list of fastest-growing jobs, and 75% of companies plan to adopt AI technologies by 2027, per the World Economic Forum's Future of Jobs Report 2023. [→ Kathleen Kennedy & Anuj Gupta 2025](#kathleen-kennedy-anuj-gupta-2025)
@@ -31,7 +33,7 @@ sources:
 
 Kathleen Kennedy & Anuj Gupta. (2025). AI & Data Competencies: Scaffolding holistic AI literacy in Higher Education. Thresholds Volume 48, Issue 2. https://journals.ku.edu/thresholds
 
-`q2 · i?`
+`q2 · i?` · `design · r1`
 
 The chapter's workforce-needs rationale cites secondary market data: the WEF report on fastest-growing jobs and planned AI adoption, a McKinsey (2023) finding that 63% of organizations expect AI to increase productivity, and Table 2 indicators such as 94% of business leaders agreeing AI is critical to success (Deloitte, 2023). These are cited statistics, not analyses by the authors.
 

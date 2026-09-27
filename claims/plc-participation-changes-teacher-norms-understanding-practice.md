@@ -15,12 +15,14 @@ sources:
     author: "Harvey, F., & Teledahl, A."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Participation in mathematics PLC changed teachers' collaboration norms, understanding of mathematics and its teaching, and ability to design and carry out teaching
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across the reviewed studies, teachers participating in PLC in mathematics changed their norms of collaboration, enhanced their understanding of mathematics and its teaching, and/or enhanced their ability to design and carry out mathematics teaching, including giving students more talking space. [→ Harvey 2022](#harvey-2022)
@@ -31,7 +33,7 @@ sources:
 
 Harvey, F., & Teledahl, A. (2022). Characteristics of Professional Learning Communities in Mathematics: A Systematic Review. Mathematics Teacher Education and Development, 24(1), 72–95. https://eric.ed.gov/?id=EJ1361397
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Synthesis of outcome descriptions across the reviewed studies. Teachers were described as having changed classroom norms so they "leave considerably more of the talking space to their students", gaining insight into students' mathematical thinking; several studies found students' reasoning more sophisticated than expected.
 

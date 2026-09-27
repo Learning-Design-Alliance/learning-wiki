@@ -17,7 +17,7 @@ sources:
 # Strategies that make training comprehensible for NESB workers benefit all trainees
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The package argues that adjusting industrial training for workers of non-English-speaking backgrounds is not a niche accommodation. It states that "The very strategies whichcan make training more comprehensible for nesb workers will also ensure optimum learning by all other workers in training", so trainers should treat clear communication as universal good practice rather than special provision.

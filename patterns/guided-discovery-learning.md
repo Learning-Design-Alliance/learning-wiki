@@ -19,7 +19,7 @@ grain_size: lesson
 # Guided Discovery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 9 studies, `q2`–`q4` · 0 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 9 studies (3 causal, 2 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 Guided Discovery Learning is a pattern in which learners investigate examples, data, or problems and are led by prompts, questions, and scaffolds toward important concepts or principles. The key word is guided. Learners are not left to discover ideas entirely on their own; the instructor shapes the sequence, materials, and questions so that exploration becomes productive rather than random.

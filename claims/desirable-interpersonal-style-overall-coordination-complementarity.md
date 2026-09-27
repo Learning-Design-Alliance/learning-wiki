@@ -15,18 +15,22 @@ sources:
     author: Pennings, H. J. M.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: pennings-2017-2
     resource: "https://complicityjournal.org"
     title: "Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org"
     author: Pennings, H. J. M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The teacher with the more desirable interpersonal style showed overall coordination consistent with the complementarity principle, while the less desirable teacher's coordination did not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Ethan's classroom cross-correlations (.71 Communion, -.86 Agency) were consistent with the complementarity principle, whereas Sam's (-.39 Communion, -.06 Agency) were not consistent on Communion and only very weakly on Agency. [→ Pennings 2017](#pennings-2017)
@@ -37,7 +41,7 @@ sources:
 
 Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Multiple case study of two teachers; overall coordination computed as cross-correlation between the 1,176 half-second measurements of teacher and student behavior. Ethan's coordination was "consistent with the principle of interpersonal complementarity" on both dimensions.
 
@@ -47,7 +51,7 @@ Multiple case study of two teachers; overall coordination computed as cross-corr
 
 Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Same case-study analysis for Sam's classroom: the cross-correlations were "not consistent with the complementarity principle" on Communion and only very weakly consistent on Agency, contrasting with Ethan's pattern.
 

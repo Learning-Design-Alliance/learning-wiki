@@ -15,12 +15,14 @@ sources:
     author: "Miyazoe, T., & Anderson, T."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # In online learning, the perceived importance of teacher and student interaction decreases with student age
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In the online mode, the importance of teacher and student interaction decreased as students got older, which the authors link to mature students' higher self-direction skills. [→ Miyazoe 2010](#miyazoe-2010)
@@ -31,7 +33,7 @@ sources:
 
 Miyazoe, T., & Anderson, T. (2010). Empirical Research on Learners' Perceptions: Interaction Equivalency Theorem in Blended Learning. European Journal of Open, Distance and E-Learning. http://www.eurodl.org/?article=397
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `associational · r1`
 
 Secondary analysis of the same survey data by age group (n = 191; Figure 7), reading trend direction from plotted bands. The article reports the decreasing teacher and student bands in online learning and, in contrast, a decrease in content priority with age in F2F and language learning; no test statistic is printed.
 

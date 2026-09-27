@@ -15,12 +15,14 @@ sources:
     author: Clark, J. W., Sayre, E. C., and Franklin, S. V.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Direct instruction on forces produces a significant positive effect on Newton's Third Law responses that peaks at instruction's end and diminishes by the end of the quarter
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Mechanics, response rises from near chance before instruction to a maximum in week 6 (the last week of force instruction and the exam), then rapidly drops to near chance by quarter's end. [→ Clark 2010](#clark-2010)
@@ -31,7 +33,7 @@ sources:
 
 Clark, J. W., Sayre, E. C., and Franklin, S. V. (2010). Fluctuations in Student Understanding of Newton's 3rd Law. arXiv preprint. https://arxiv.org/abs/1009.0260
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Between-student response curve for Mechanics (Fig. 3), averaged across fall and winter sections. Before instruction responses hover around the chance line of 20%; the curve peaks in week 6 and then "rapidly drops" toward chance.
 

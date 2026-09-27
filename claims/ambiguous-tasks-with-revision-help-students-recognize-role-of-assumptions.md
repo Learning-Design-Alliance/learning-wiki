@@ -15,12 +15,14 @@ sources:
     q: 3
     i: "?"
     n: 2 fully analyzed episodes (38 grade-9 students; 22 grade-5 students), from 5 classes across 3 design cycles over 3 years, Japan
+    kind: design
+    rigour: 3
 ---
 
 # Ambiguous tasks with a revision step help students recognize the role of assumptions in mathematical activity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=2 fully analyzed episodes (38 grade-9 students; 22 grade-5 students), from 5 classes across 3 design cycles over 3 years, Japan
+> **Evidence** · 1 study · design `r3` · `q3` · n=2 fully analyzed episodes (38 grade-9 students; 22 grade-5 students), from 5 classes across 3 design cycles over 3 years, Japan
 
 Both grade 5 and grade 9 students, given a task with a deliberately unspecified local assumption, produced genuinely divergent, individually defensible answers, and through structured discussion and a task-revision sub-task, articulated both that a conclusion's truth depends on unstated assumptions and that reaching a shared answer requires making those assumptions explicit.
 
@@ -39,7 +41,7 @@ Both grade 5 and grade 9 students, given a task with a deliberately unspecified 
 
 Komatsu, K., Murata, S., Stylianides, A. J., & Stylianides, G. J. (2024). Introducing Students to the Role of Assumptions in Mathematical Activity. *Cognition and Instruction, 42*(2), 327-357. [https://doi.org/10.1080/07370008.2023.2293695](https://doi.org/10.1080/07370008.2023.2293695)
 
-`q3 · peer-reviewed design-based research across three iterative cycles and five classes (two secondary, three elementary), with systematic bottom-up and top-down coding of two fully-analyzed episodes against a hypothetical learning trajectory; not a controlled experiment` `i? · the abstract prints no effect size; the full text may` `n=2 fully analyzed episodes (38 grade-9 students; 22 grade-5 students), from 5 classes across 3 design cycles over 3 years, Japan`
+`q3 · peer-reviewed design-based research across three iterative cycles and five classes (two secondary, three elementary), with systematic bottom-up and top-down coding of two fully-analyzed episodes against a hypothetical learning trajectory; not a controlled experiment` `i? · the abstract prints no effect size; the full text may` `n=2 fully analyzed episodes (38 grade-9 students; 22 grade-5 students), from 5 classes across 3 design cycles over 3 years, Japan` · `design · r3`
 
 Students in two analyzed classrooms — one secondary (functions), one elementary (geometry) — worked on tasks designed via [Productive Ambiguity Task Design for Assumptions](../patterns/productive-ambiguity-task-design-for-assumptions.md). Video, transcripts, and student worksheets were coded first bottom-up (open coding of lesson episodes) and then top-down (comparison against a hypothetical learning trajectory). Both classes reached the two targeted learning goals — recognizing that a conclusion depends on assumptions, and recognizing that explicit assumptions are needed for a shared answer — through direct engagement with the ambiguity and the task-revision sub-task, at both grade 5 and grade 9.
 

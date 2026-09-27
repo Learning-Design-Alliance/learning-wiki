@@ -15,18 +15,22 @@ sources:
     author: "Sung, Y., Stephens, A., Veltri Torres, R., Strachota, S., Blanton, M., Gardiner, A., Stroud, R., & Knuth, E."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: sung-2022-2
     resource: "https://eric.ed.gov/?id=ED630361"
     title: "Sung, Y., Stephens, A., Veltri Torres, R., Strachota, S., Blanton, M., Gardiner, A., Stroud, R., & Knuth, E. (2022). Teacher Language and Gesture in an Intervention Focused on Developing Kindergarteners' Understandings of the Equal Sign. Proceedings of the forty-fourth annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education. https://eric.ed.gov/?id=ED630361"
     author: "Sung, Y., Stephens, A., Veltri Torres, R., Strachota, S., Blanton, M., Gardiner, A., Stroud, R., & Knuth, E."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # After an early algebra intervention, the number of kindergarteners giving a relational definition of the equal sign went from one to nine, and acceptance of non-standard equation forms rose, as reported from the authors' earlier study
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q1`
 
 ## Subclaims
 `q1 i?` In the authors' earlier report on 20 kindergarteners, students giving a relational definition of the equal sign went from one before to nine after the intervention. [→ Sung 2022](#sung-2022)
@@ -38,7 +42,7 @@ sources:
 
 Sung, Y., Stephens, A., Veltri Torres, R., Strachota, S., Blanton, M., Gardiner, A., Stroud, R., & Knuth, E. (2022). Teacher Language and Gesture in an Intervention Focused on Developing Kindergarteners' Understandings of the Equal Sign. Proceedings of the forty-fourth annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education. https://eric.ed.gov/?id=ED630361
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r3`
 
 The article summarises its authors' earlier study (Sung et al., 2021) of 20 kindergarteners, a single group with no comparison class: relational definitions went "from one student prior to the intervention to nine students post-intervention". Descriptive counts; no test reported.
 
@@ -48,7 +52,7 @@ The article summarises its authors' earlier study (Sung et al., 2021) of 20 kind
 
 Sung, Y., Stephens, A., Veltri Torres, R., Strachota, S., Blanton, M., Gardiner, A., Stroud, R., & Knuth, E. (2022). Teacher Language and Gesture in an Intervention Focused on Developing Kindergarteners' Understandings of the Equal Sign. Proceedings of the forty-fourth annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education. https://eric.ed.gov/?id=ED630361
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r3`
 
 Same earlier single-group study (Sung et al., 2021), summarised in this article: "only nine students accepted 5 = 2 + 3 as a valid equation" beforehand, and these counts "grew to 20, 17, and 13, respectively" for the three equations. Descriptive counts only.
 

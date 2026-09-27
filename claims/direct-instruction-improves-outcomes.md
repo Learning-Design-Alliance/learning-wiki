@@ -15,12 +15,14 @@ sources:
     q: 4
     i: "?"
     n: 328 studies / ~4,000 effects
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Direct instruction improves learning outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · n=328 studies / ~4,000 effects
+> **Evidence** · 1 study · quant-synthesis `r?` · `q4` · n=328 studies / ~4,000 effects
 
 Explicit, teacher-led instruction — clear objectives, modeling, guided practice with feedback, and independent practice — produces stronger learning outcomes than discovery-only approaches, particularly for novices and structured domains.
 
@@ -34,7 +36,7 @@ Explicit, teacher-led instruction — clear objectives, modeling, guided practic
 
 Stockard, J., Wood, T. W., Coughlin, C., & Rasplica Khoury, C. (2018). The Effectiveness of Direct Instruction Curricula: A Meta-Analysis of a Half Century of Research. *Review of Educational Research, 88*(4), 479-507. [doi:10.3102/0034654317751919](https://doi.org/10.3102/0034654317751919)
 
-`q4 · meta-analysis (328 studies, 413 study designs)` · `i? · described as moderate to large; no pooled effect size in the abstract` · `n=328 studies / ~4,000 effects`
+`q4 · meta-analysis (328 studies, 413 study designs)` · `i? · described as moderate to large; no pooled effect size in the abstract` · `n=328 studies / ~4,000 effects` · `quant-synthesis · r?`
 
 Quantitative mixed models pooled literature from 1966–2016 on curricula built on Engelmann's Direct Instruction model (explicit, scripted, teacher-led sequences with modeling, guided and independent practice), covering reading, math, language, spelling and other academic subjects as well as ability measures, affective outcomes, and teacher/parent views. Every estimated effect was positive and statistically significant except affective-outcome metaregressions; effects were "educationally significant, moderate to large when using the traditional psychological benchmarks," held up during maintenance, and grew larger with more program exposure.
 

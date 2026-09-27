@@ -15,12 +15,14 @@ sources:
     author: "Ozkan, U. B., Cigdem, H., & Erdogan, T."
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Cross-correlation analysis confirms performance expectancy has the highest correlation with LMS acceptance (.890), followed by effort expectancy (.835), facilitating conditions (.774) and social influence (.669)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` At lag 0, performance expectancy correlated .890 with LMS acceptance, the highest of the four LMSAS dimensions, with effort expectancy (.835), facilitating conditions (.774) and social influence (.669) following in the same order as the ANN importance ranking. [→ Ozkan 2020](#ozkan-2020)
@@ -31,7 +33,7 @@ sources:
 
 Ozkan, U. B., Cigdem, H., & Erdogan, T. (2020). Artificial neural network approach to predict LMS acceptance of vocational school students. Turkish Online Journal of Distance Education-TOJDE, 21(3), Article 11. https://dergipark.org.tr/en/pub/tojde
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Cross-correlation analysis (IBM SPSS Statistics 22, maximum 7 lags) between LMS acceptance and the four LMSAS dimensions in the 387-student dataset. The article reports the ranking is "parallel to the importance ranking in LMS analysis results"; printed correlations r = .89, .835, .774, .669.
 

@@ -15,12 +15,14 @@ sources:
     author: "Carmouche, M., & Thompson, J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Most reviewed coaching studies did not collect maintenance data, so sustained use of coached practices cannot be confirmed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` A majority of reviewed studies did not collect maintenance data, so it is not possible to know whether teachers maintained the coached strategy; where behavior was measured, it was not always maintained. [→ Carmouche 2018](#carmouche-2018)
@@ -31,7 +33,7 @@ sources:
 
 Carmouche, M., & Thompson, J. (2018). Supervisory Teacher Coaching in K-12 Classrooms. JAASEP Winter 2018. https://eric.ed.gov/?id=EJ1254603
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Review discussion of maintenance across the included studies: Duchaine et al. (2011) showed maintenance returning to baseline for on-task behavior, and most studies (e.g., Gregory et al., 2014; Kretlow et al., 2011, 2012) collected no maintenance data.
 

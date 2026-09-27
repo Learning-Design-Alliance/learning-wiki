@@ -15,12 +15,14 @@ sources:
     author: "Third Invitational Interdisciplinary Seminar: Piagetian Theory and Its Implications for the Helping Professions"
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # High-fantasy boys wait significantly longer than low-fantasy boys in enforced waiting situations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` In Singer's experiment with 40 boys aged 6 to 9, high-fantasy boys waited significantly longer than low-fantasy boys in both waiting procedures, and the longest waiters were those who turned the situation into a fantasy game. [→ Third Invitational Interdisciplinary Seminar: Piagetian Theory and Its Implications for the Helping Professions 1973](#third-invitational-interdisciplinary-seminar-piagetian-theory-and-its-implications-for-the-helping-professions-1973)
@@ -31,7 +33,7 @@ sources:
 
 Third Invitational Interdisciplinary Seminar: Piagetian Theory and Its Implications for the Helping Professions. (1973). https://eric.ed.gov/?id=ED092496
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 Singer's experiment, as summarized in the proceedings, divided 40 boys aged 6 to 9 into 19 high-fantasy and 21 low-fantasy subjects with no significant difference in IQs, then measured waiting during 15 minutes of required stillness. The paper reports "the high-fantasy boys were able to wait significantly longer than the low-fantasy group in both situations."
 

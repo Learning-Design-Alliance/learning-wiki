@@ -15,12 +15,14 @@ sources:
     author: "Gray, C. M., & Howard, C. D."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Longer Facebook threads with more interlocutors show distinct structural characteristics compared to the broader corpus
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Threads with 15+ comments had higher average comments per thread (22.96 vs 3.44), more interlocutors (10.17 vs 2.23), and longer threads in words (501.64 vs 64.83) compared to the full corpus. [→ Gray 2014](#gray-2014)
@@ -31,7 +33,7 @@ sources:
 
 Gray, C. M., & Howard, C. D. (2014). Designerly talk in non-pedagogical social spaces. Journal of Learning Design, 7(1), 40-58. https://doi.org/10.5204/jld.v7i1.153
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r2`
 
 Quantitative comparison of the full corpus (n=15,273 comments) against a 15+ comment subset (n=168) and exemplar corpus (n=50). Threads resulting in the most participation were more likely to begin with text and contained fewer links. Status updates averaged 31.14 words (sd: 48.05).
 

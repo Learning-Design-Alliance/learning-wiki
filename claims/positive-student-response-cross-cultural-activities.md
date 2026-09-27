@@ -15,12 +15,14 @@ sources:
     author: "Murray, G. L., & Bollinger, D. J."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Students respond positively to e-mail exchanges, guest speaker interviews, and video projects aimed at cross-cultural awareness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Japanese university EFL students reported enjoying and valuing e-mail exchanges, guest speaker interviews, Internet searches, and the video project. [→ Murray 2001](#murray-2001)
@@ -31,7 +33,7 @@ sources:
 
 Murray, G. L., & Bollinger, D. J. (2001). Developing Cross-Cultural Awareness: Learning Through the Experiences of Others. TESL Canada Journal, 19(1). https://teslcanadajournal.ca
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 The authors' evaluation in the Conclusion section is based on informal feedback sessions and formal course evaluations, not a controlled study. They report that "students enjoy and see value in these activities," and cite typical student comments about learning differences in values and communication style.
 

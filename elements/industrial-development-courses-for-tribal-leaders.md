@@ -17,7 +17,7 @@ sources:
 # EDA- and OEO-sponsored industrial development courses and training programs for tribal leaders and planners
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Beyond its four funding tools, EDA supported capacity-building activities for reservation leadership. The report states that "Basic and advanced industrial development courses were sponsored jointly by EDA and 0E0 and conducted for tribal leaders and development professionals by the American Industrial Development Council," and that special training programs were conducted for tribal planners. These courses and conferences were designed to have an impact on the economic development capacity of the reservations.

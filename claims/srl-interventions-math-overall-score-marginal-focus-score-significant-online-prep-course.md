@@ -15,18 +15,22 @@ sources:
     author: "Bellhäuser, H., Liborius, P., & Schmitz, B."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: bellhäuser-2022-2
     resource: "https://doi.org/10.3389/fpsyg.2022.813381"
     title: "Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381"
     author: "Bellhäuser, H., Liborius, P., & Schmitz, B."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # SRL interventions in a four-week online mathematics preparation course did not significantly change the mathematics overall score (interaction marginal), while the mathematics focus score on self-chosen chapters showed a statistically significant group by time interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The group by time interaction for the mathematics overall score marginally missed statistical significance, although descriptive statistics indicated the hypothesized direction. [→ Bellhäuser 2022](#bellhauser-2022)
@@ -38,7 +42,7 @@ sources:
 
 Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Univariate repeated-measures ANOVA in the randomized four-group trial: "The interaction effect for the mathematics overall score, however, marginally missed the level of statistical significance". No significant difference was shown; equivalence was not tested.
 
@@ -48,7 +52,7 @@ Univariate repeated-measures ANOVA in the randomized four-group trial: "The inte
 
 Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 A second MANOVA replaced the overall score with a focus score on ten chapters each participant chose. The univariate ANOVA "revealed a statistically significant interaction effect between group and time" for the mathematics focus score.
 

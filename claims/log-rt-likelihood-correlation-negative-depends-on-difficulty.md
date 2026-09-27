@@ -15,12 +15,14 @@ sources:
     author: "Srdjan Verbić & Boris Tomić"
     q: 2
     i: 1
+    kind: associational
+    rigour: 1
 ---
 
 # Correlation between log response time and response likelihood is negative for almost all items, and its magnitude depends on the item difficulty parameter
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` Across items, the correlation between log RT and response likelihood is negative for almost all items, with an overall Pearson correlation of R=-0.70 after excluding inadequate items. [→ Srdjan Verbić & Boris Tomić 2008](#srdjan-verbic-boris-tomic-2008)
@@ -32,7 +34,7 @@ sources:
 
 Srdjan Verbić & Boris Tomić. (2008). Test item response time and the response likelihood. Institute for Education Quality and Evaluation. http://sepp.ceo.edu.rs/moodle/mod/resource/view.php?id=25
 
-`q2 · i1`
+`q2 · i1` · `associational · r1`
 
 Analysis of a low-stakes computer-based physics trial test (352 grade-8 students, 32 items) in which response likelihoods were computed from 2PL IRT parameters. The authors report that "correlation between log RT and likelihood is negative for almost all used items" and that its magnitude depends on item difficulty (R=-0.70 overall).
 

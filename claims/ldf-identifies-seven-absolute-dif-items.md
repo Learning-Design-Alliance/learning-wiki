@@ -15,12 +15,14 @@ sources:
     author: Holweger, Nancy; Weston, Timothy
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Seven items exhibit absolute gender DIF by the LDF method, flagged when the total-score line falls outside .95 confidence bands
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Using LDF with Scheffe confidence bands, items 12, 3, 4, 29, 5, 13 and 24, roughly in decreasing magnitude, were the only items showing absolute DIF. [→ Holweger 1998](#holweger-1998)
@@ -31,7 +33,7 @@ sources:
 
 Holweger, Nancy; Weston, Timothy. (1998). Differential Item Functioning: An Applied Comparison of the Item Characteristic Curve Method with the Logistic Discriminant Function Method. https://eric.ed.gov/?id=ED422362
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 LDF analysis of the state assessment data: an item has DIF if group membership is determined more accurately from total score plus item score than from total score alone, judged against .95 confidence intervals. Each Appendix B depiction shows the total score line falling outside the confidence intervals.
 

@@ -15,12 +15,14 @@ sources:
     author: Lai, Su-Huei
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Technical problem-solving action uses empirical inquiry and manipulated ways of knowing for the purpose of control
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Within the MPSA framework, technical problem-solving action is strategic action that relies on empirical inquiry, pre-built structures, and experts' rules to control and solve problems efficiently. [→ Lai 2002](#lai-2002)
@@ -31,7 +33,7 @@ sources:
 
 Lai, Su-Huei. (2002). Cone-Deciphered Modes of Problem Solving Action (MPSA Cone): Alternative Perspectives on Diversified Professions. https://eric.ed.gov/?id=ED468444
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Conceptual definition within the MPSA Cone framework, presented in the paper's interpretation section. The article states technical solvers "apply experts' rules to clarify a problem" and follow pre-defined rules and pre-determined structures; no empirical data support this characterization.
 

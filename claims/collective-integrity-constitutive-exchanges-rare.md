@@ -15,12 +15,14 @@ sources:
     author: Silverman, Robert J.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Fully constitutive exchanges are rare and proceed by collective integrity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the constitutive knowledge/constitutive community context, labeled collective integrity, reactions combine agreement, sympathy, and support with alternative interpretations and disagreement, and such papers are scarce in the literature. [→ Silverman 1993](#silverman-1993)
@@ -31,7 +33,7 @@ sources:
 
 Silverman, Robert J. (1993). Comments and Replies: Academic Conversations. ASHE Annual Meeting Paper. https://eric.ed.gov/?id=ED365173
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Rhetorical analysis of three papers in this context, one series invited by the journal's editors. Critics' voices illuminate "different facets of extraordinarily complex social phenomena," and one critic argued her own work would differ today and have allowed a different reaction to the dialogue.
 

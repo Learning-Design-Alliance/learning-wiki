@@ -15,12 +15,14 @@ sources:
     author: "Flowers, C. P., Oshima, C., & Raju, N."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The polytomous-DFIT framework effectively identified DTF and DIF in polytomously scored data under the simulated conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a Monte Carlo simulation with graded-response data, the DFIT framework successfully identified differential test and item functioning in polytomously scored data. [→ Flowers 1996](#flowers-1996)
@@ -31,7 +33,7 @@ sources:
 
 Flowers, C. P., Oshima, C., & Raju, N. (1996). A Description and Demonstration of the Polytomous-DFIT Framework. https://eric.ed.gov/?id=ED401319
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Monte Carlo simulation study generating graded-response data (five categories, 1,000 examinees per group) across manipulated test length, impact, DIF proportion, direction, and type. The conclusions state the framework was "effective in identifyingDTF and DIF in polytomously-scoreddata for the conditionssimulated."
 

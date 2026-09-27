@@ -15,6 +15,8 @@ sources:
     q: 4
     i: 1
     n: 29 studies (44 effect sizes, 2726 participants)
+    kind: quant-synthesis
+    rigour: "?"
   - id: lorch-lorch-1996
     resource: "https://doi.org/10.1037/0022-0663.88.1.38"
     title: "Lorch, R. F., & Lorch, E. P. (1996). Effects of organizational signals on free recall of expository text. *Journal of Educational Psychology, 88*(1), 38–48. [doi:10.1037/0022-0663.88.1.38](https://doi.org/10.1037/0022-0663.88.1.38)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: "?"
     n: 139 college students (2 experiments)
+    kind: causal
+    rigour: "?"
 ---
 
 # Clear Structure Improves Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3`–`q4` · `i1` small
+> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q3`–`q4` · `i1` small
 
 Presenting learning content with an explicit, predictable organization — clear goals, logical sequencing, signposting, and consistent formatting — reduces extraneous processing and helps learners build coherent mental models.
 
@@ -43,7 +47,7 @@ Presenting learning content with an explicit, predictable organization — clear
 
 Alpizar, D., Adesope, O. O., & Wong, R. M. (2020). A meta-analysis of signaling principle in multimedia learning environments. *Educational Technology Research and Development, 68*(5), 2095–2119. [doi:10.1007/s11423-020-09748-7](https://doi.org/10.1007/s11423-020-09748-7)
 
-`q4 · meta-analysis` · `i1 · small effect, d=0.38` · `n=29 studies (44 effect sizes, 2726 participants)`
+`q4 · meta-analysis` · `i1 · small effect, d=0.38` · `n=29 studies (44 effect sizes, 2726 participants)` · `quant-synthesis · r?`
 
 A meta-analysis of experimental studies comparing multimedia materials with and without signals (cues that direct attention to the critical elements and organization of the material). Pooling 44 independent effect sizes from 29 studies with 2,726 participants, signaling was associated with better learning outcomes (d = 0.38), with individual effects ranging from small to large. The effect was moderated by participant, presentation (e.g., pacing) and methodological features; benefits were clearer in higher-quality studies that used a pretest and controlled for prior knowledge. Read from the ERIC abstract only.
 
@@ -51,7 +55,7 @@ A meta-analysis of experimental studies comparing multimedia materials with and 
 
 Lorch, R. F., & Lorch, E. P. (1996). Effects of organizational signals on free recall of expository text. *Journal of Educational Psychology, 88*(1), 38–48. [doi:10.1037/0022-0663.88.1.38](https://doi.org/10.1037/0022-0663.88.1.38)
 
-`q3 · peer-reviewed experiments` · `i? · no effect size in the abstract` · `n=139 college students (2 experiments)`
+`q3 · peer-reviewed experiments` · `i? · no effect size in the abstract` · `n=139 college students (2 experiments)` · `causal · r?`
 
 Two experiments had college students read expository text with or without organizational signaling devices and then freely recall it. Signals frequently did not increase the amount recalled, but they systematically shifted which content was remembered. The authors interpret this as signals helping readers construct a representation of the text's topic structure, rather than simply boosting total recall. Read from the ERIC abstract only.
 

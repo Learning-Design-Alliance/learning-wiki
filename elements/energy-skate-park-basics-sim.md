@@ -17,7 +17,7 @@ sources:
 # Energy Skate Park: Basics simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (1 qualitative, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Energy Skate Park: Basics (ESPB) is a PhET interactive simulation aimed at middle school student learning of energy concepts, available at the PhET website. The authors write: "The sim is sequenced through the use of three tabs, Introduction, Friction and Track Playground, shown in Figure 3." Each tab supports specific learning goals (conservation of energy, energy-speed-position relationships, mass effects, friction effects), with pedagogically appropriate simplifications such as friction fixed at zero in the Introduction tab, faded in later tabs.

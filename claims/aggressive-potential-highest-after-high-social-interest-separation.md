@@ -15,12 +15,14 @@ sources:
     author: Ziller, Robert C.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Aggressive potential is hypothesized to be highest when separation follows initial high social interest and low self esteem of both parties
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` It is hypothesized that aggressive potential is highest under conditions where the separation follows initial high social interest between self and Other and low self esteem of both parties. [→ Ziller 1969](#ziller-1969)
@@ -31,7 +33,7 @@ sources:
 
 Ziller, Robert C. (1969). A Theory of Self Other Orientation and Interpersonal Conflict: A Technical Report. https://eric.ed.gov/?id=ED032608
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 A stated hypothesis of the theoretical framework, with intensity of aggression described as a function of the strength of the original association, ease of separation, number of associations with other persons, and dependence of self evaluation on the association. No empirical test is reported.
 

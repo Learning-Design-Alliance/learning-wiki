@@ -15,12 +15,14 @@ sources:
     author: "Nguyen, T., Duncan, R.J., & Bailey, D.H."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In the ECLS-K: 2010 dataset, a single latent EF factor model fits EF–math associations better than a specific-components model at all three time points
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Across fall kindergarten, spring kindergarten, and spring first grade, the latent EF model (Model 1) was preferred over the component-specific model (Model 2) by BIC and fit the data exceptionally well. [→ Nguyen 2019](#nguyen-2019)
@@ -31,7 +33,7 @@ sources:
 
 Nguyen, T., Duncan, R.J., & Bailey, D.H. (2019). Theoretical and methodological implications of associations between executive function and mathematics in early childhood. Contemporary Educational Psychology. https://doi.org/10.1016/j.cedpsych.2019.04.002
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Secondary analysis of the ECLS-K: 2010, a nationally representative sample of 18,170 kindergartners, comparing BIC fit of a latent EF factor model against a saturated component-specific model at three waves. The article reports "CFI/TLI=1.00, RMSEA=0–0.02, and SRMR=0–0.01" for Model 1.
 

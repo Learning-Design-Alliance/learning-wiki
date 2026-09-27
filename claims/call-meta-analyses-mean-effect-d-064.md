@@ -15,12 +15,14 @@ sources:
     author: Boulton, A.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # A second-order synthesis of 12 CALL meta-analyses yields a mean effect size of d=.64, a medium effect of CALL on learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Across 12 meta-analyses of CALL effects versus control or comparison groups, the mean effect size is d=.64, characterised as barely a medium effect under field-specific benchmarks. [→ Boulton 2016](#boulton-2016)
@@ -31,7 +33,7 @@ sources:
 
 Boulton, A. (2016). Quantifying CALL: significance, effect size and variation. In S. Papadima-Sophocleous, L. Bradley & S. Thouësny (Eds), CALL communities and culture – short papers from EUROCALL 2016 (pp. 55-60). Research-publishing.net. https://doi.org/10.14705/rpnet.2016.eurocall2016.538
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r1`
 
 A second-order synthesis of 12 meta-analyses in CALL (derived largely from Plonsky & Ziegler 2016 and Oswald & Plonsky 2010) reports the pooled mean effect of CALL use in experimental versus control/comparison groups: "The mean is .64". No confidence interval is printed.
 

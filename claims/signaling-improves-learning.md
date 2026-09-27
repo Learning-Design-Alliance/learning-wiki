@@ -15,6 +15,8 @@ sources:
     q: 4
     i: 2
     n: 29 reviews (1,189 studies, 78,177 participants)
+    kind: quant-synthesis
+    rigour: "?"
   - id: alpizar-et-al-2020
     resource: "https://doi.org/10.1007/s11423-020-09748-7"
     title: "Alpizar, D., Adesope, O. O., & Wong, R. M. (2020). A meta-analysis of signaling principle in multimedia learning environments. *Educational Technology Research and Development, 68*(5), 2095–2119. [doi:10.1007/s11423-020-09748-7](https://doi.org/10.1007/s11423-020-09748-7)"
@@ -22,6 +24,8 @@ sources:
     q: 4
     i: 1
     n: 29 studies (44 effect sizes, 2,726 participants)
+    kind: quant-synthesis
+    rigour: "?"
   - id: richter-et-al-2018
     resource: "https://doi.org/10.1037/edu0000220"
     title: "Richter, J., Scheiter, K., & Eitel, A. (2018). Signaling text–picture relations in multimedia learning: The influence of prior knowledge. *Journal of Educational Psychology, 110*(4), 544–560. [doi:10.1037/edu0000220](https://doi.org/10.1037/edu0000220)"
@@ -29,12 +33,14 @@ sources:
     q: 2
     i: "?"
     n: not stated in abstract (8th graders)
+    kind: causal
+    rigour: "?"
 ---
 
 # Signaling Improves Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2`–`q4` · `i1`–`i2`
+> **Evidence** · 3 studies · 2 quant-synthesis `r?`, 1 causal `r?` · `q2`–`q4` · `i1`–`i2`
 
 Signaling (cueing) — highlighting the essential elements of a lesson through visual emphasis, color, arrows, or headings — directs learner attention to key content and away from extraneous material, improving learning outcomes.
 
@@ -52,7 +58,7 @@ Signaling (cueing) — highlighting the essential elements of a lesson through v
 
 Noetel, M., Griffith, S., Delaney, O., Harris, N. R., Sanders, T., Parker, P., del Pozo Cruz, B., & Lonsdale, C. (2022). Multimedia design for learning: An overview of reviews with meta-meta-analysis. *Review of Educational Research, 92*(3), 413–454. [doi:10.3102/00346543211052329](https://doi.org/10.3102/00346543211052329)
 
-`q4 · overview of systematic reviews with meta-meta-analysis` · `i2 · medium effect, g=0.43 for signaling` · `n=29 reviews (1,189 studies, 78,177 participants)`
+`q4 · overview of systematic reviews with meta-meta-analysis` · `i2 · medium effect, g=0.43 for signaling` · `n=29 reviews (1,189 studies, 78,177 participants)` · `quant-synthesis · r?`
 
 This umbrella review pooled systematic reviews that compared multimedia lessons with and without a particular design feature. It found 5 reviews of signaling (cues such as arrows, highlighted text or a laser pointer). The largest of them (Schneider et al., 2018) reports that signaling increased learning (g = 0.43, 95% CI [0.35, 0.50], k = 209) and reduced cognitive load (g = 0.25, k = 27). The authors list signaling with captioning and contiguity as the principles with the largest benefits. Across all principles, they found no consistent expertise-reversal moderation by prior knowledge. Good design mattered more for complex materials and for system-paced lessons. The version read was the authors' CC-BY preprint on OSF (10.31234/osf.io/pynzr), not the published version of record.
 
@@ -60,7 +66,7 @@ This umbrella review pooled systematic reviews that compared multimedia lessons 
 
 Alpizar, D., Adesope, O. O., & Wong, R. M. (2020). A meta-analysis of signaling principle in multimedia learning environments. *Educational Technology Research and Development, 68*(5), 2095–2119. [doi:10.1007/s11423-020-09748-7](https://doi.org/10.1007/s11423-020-09748-7)
 
-`q4 · meta-analysis` · `i1 · small-to-moderate effect, d=0.38` · `n=29 studies (44 effect sizes, 2,726 participants)`
+`q4 · meta-analysis` · `i1 · small-to-moderate effect, d=0.38` · `n=29 studies (44 effect sizes, 2,726 participants)` · `quant-synthesis · r?`
 
 The meta-analysis was set up to resolve mixed findings on whether adding cues to multimedia materials improves learning. From 29 experimental studies it extracted 44 independent effect sizes, with 2,726 participants in total. Overall, signaling was associated with better learning outcomes (d = 0.38), and individual effects ranged from small to large. Study, participant, presentation and methodological features moderated the effect. Benefits appeared in higher-quality studies, in studies that reported outcome reliability, and in studies that used a pretest and controlled for prior knowledge. (Abstract only was read.)
 
@@ -68,7 +74,7 @@ The meta-analysis was set up to resolve mixed findings on whether adding cues to
 
 Richter, J., Scheiter, K., & Eitel, A. (2018). Signaling text–picture relations in multimedia learning: The influence of prior knowledge. *Journal of Educational Psychology, 110*(4), 544–560. [doi:10.1037/edu0000220](https://doi.org/10.1037/edu0000220)
 
-`q2 · quasi-experimental field study` · `i? · no effect size in the abstract` · `n=not stated in abstract (8th graders)`
+`q2 · quasi-experimental field study` · `i? · no effect size in the abstract` · `n=not stated in abstract (8th graders)` · `causal · r?`
 
 Eighth graders learned from a digital multimedia textbook in one of two versions. The basic version had signals only within the text or within the pictures. The extended version added integration signals, such as color coding and deictic references, that link text to pictures. Learners with low prior knowledge learned better from the extended version. For learners with high prior knowledge, the added signals were detrimental and went with higher extraneous cognitive load. This qualifies the claim: signaling is not a benefit for every learner. (Abstract only was read.)
 

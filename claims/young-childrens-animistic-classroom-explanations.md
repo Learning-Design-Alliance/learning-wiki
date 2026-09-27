@@ -15,12 +15,14 @@ sources:
     author: Watts, Mike; Bentley, Di
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Seven-year-olds' classroom talk shows animistic explanations linking flames, plants and floating objects to human needs and feelings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In the authors' classroom examples, seven-year-olds produced animistic explanations, such as a child treating a candle flame as breathing and alive because it flickers and grows. [→ Watts 1991](#watts-1991)
@@ -31,7 +33,7 @@ sources:
 
 Watts, Mike; Bentley, Di. (1991). An Instructional 'Mali-Trap': Anthropomorphic and Animistic Thought in Constructivist Science Education. https://eric.ed.gov/?id=ED336269
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Case examples from the authors' work with seven and eight year olds: Leanne linked a candle flame's flickering to breathing and being alive, drawing on a fireman's remark that flames feed on oxygen. The authors note "several examples ofanimismfromallthese7yearolds".
 

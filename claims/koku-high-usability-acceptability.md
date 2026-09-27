@@ -15,12 +15,14 @@ sources:
     author: French Chloe, Parchment Amelia, Odebiyi Bolanle, Shi Chunhu, Bashir Saima, Dowding Dawn, Kislov Roman, Thompson Alexander, Skelton Dawn A, Clarke Margaret, Sylvestre Garcia Yvonne, Ahmed Saima S, Todd Chris J, Bower Peter, Stanmore Emma
     q: 3
     i: "?"
+    kind: causal
+    rigour: 3
 ---
 
 # Older adults rated the KOKU digital programme with excellent usability and high acceptability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` The System Usability Scale median score for KOKU was 88.75 (IQR 77.50, 100.00), exceeding the >80 cut-point for excellent usability, and general acceptability on the theoretical framework of acceptability was high (mean 4.64, SD 0.48). [→ French Chloe 2026](#french-chloe-2026)
@@ -31,7 +33,7 @@ sources:
 
 French Chloe, Parchment Amelia, Odebiyi Bolanle, Shi Chunhu, Bashir Saima, Dowding Dawn, Kislov Roman, Thompson Alexander, Skelton Dawn A, Clarke Margaret, Sylvestre Garcia Yvonne, Ahmed Saima S, Todd Chris J, Bower Peter, Stanmore Emma. (2026). Effectiveness and cost-effectiveness of the Keep-On-Keep-Up digital falls prevention programme in community-dwelling older adults: results of a randomised controlled trial. Age and Ageing. https://doi.org/10.1093/ageing/afag291
 
-`q3 · i? · the article prints no effect size for this finding`
+`q3 · i? · the article prints no effect size for this finding` · `causal · r3`
 
 Descriptive summarisation of usability and acceptability questionnaires completed by intervention-group participants at 12 weeks, with SUS scores compared against the industry average of 68 and the >80 excellent-usability cut-point; user experience was also rated excellent across pragmatic and hedonic quality.
 

@@ -16,7 +16,7 @@ sources:
 # Labov's five-segment theory of language makes style the function of grammar
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The note reports Labov's new, then-unwritten theory of language, in which "style the function of grammar" — grammar itself carries the stylistic work of an utterance. The theory is presented as a production model moving through five interrelated segments, from a semantic network of content words through orientation, lexicalization, grammaticalization, and phonologization. The note is a second-hand report of a conversation, not a published statement of the theory by Labov himself.

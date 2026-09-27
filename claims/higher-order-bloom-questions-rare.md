@@ -15,12 +15,14 @@ sources:
     author: Anees, S.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Higher-order questions (synthesis and evaluation) were rarely present in the examined question papers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Synthesis (4.8%) and evaluation (2.0%) questions together made up only a small share of the 357 questions, showing less implementation of higher-level questions. [→ Anees 2017](#anees-2017)
@@ -31,7 +33,7 @@ sources:
 
 Anees, S. (2017). Analysis of Assessment Levels of Students’ Learning according to Cognitive Domain of Bloom’s Taxonomy. https://eric.ed.gov/?id=ED586762
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Content analysis of the same 115 question papers (357 questions) classified by expert committee; Table 1 prints synthesis at 4.8% and evaluation at 2.0% of questions. The text states "most of the papers’ questions were at lower level of learning."
 

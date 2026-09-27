@@ -15,12 +15,14 @@ sources:
     author: Raafat Gabriel
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Across the four reviewed studies, explicit teaching shows advantages for complex rules and durability limits, while learners often view both approaches as equally useful. [→ Raafat Gabriel 2009](#raafat-gabriel-2009)
@@ -31,7 +33,7 @@ sources:
 
 Raafat Gabriel. (2009). The Efficacy of Explicit Grammar Instruction and its Impact on L2 Rule-Learning: A literature review. https://eric.ed.gov/?id=ED509345
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 This is the reviewer's own narrative synthesis of the four studies (Andrews 2007; Mohamed 2004; Tode 2007; Radwan 2005), not a pooled quantitative estimate. The reviewer writes that "the first two studies seem to find it equally important to other grammar teaching approaches".
 

@@ -14,7 +14,7 @@ grain_size: lesson
 # LDA Reflection
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 7 studies, `q2`–`q3` · 0 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (1 for, 3 mixed) · 7 studies (2 review, 2 theoretical, 1 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 LDA Reflection is a lightweight reflection pattern used to help learners pause after an activity, analyze what happened, and identify what to carry forward. In this wiki, the pattern functions as a practical debrief routine rather than a named external theory model. Its value is in turning experience, discussion, or performance into something learners can interpret and reuse.

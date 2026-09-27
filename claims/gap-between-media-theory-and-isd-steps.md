@@ -15,18 +15,22 @@ sources:
     author: Seels, B.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: seels-1997-2
     resource: "https://eric.ed.gov/?id=ED409869"
     title: "Seels, B. (1997). The Relationship of Media and ISD Theory: The Unrealized Promise of Dale's Cone of Experience. https://eric.ed.gov/?id=ED409869"
     author: Seels, B.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # A theoretical gap exists between delivery-system/media theory and instructional strategy theory and other ISD steps
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` There is no widely accepted theory following in the tradition of the Cone of Experience, leaving a gap in instructional design theory between media selection and other ISD steps. [→ Seels 1997](#seels-1997)
@@ -38,7 +42,7 @@ sources:
 
 Seels, B. (1997). The Relationship of Media and ISD Theory: The Unrealized Promise of Dale's Cone of Experience. https://eric.ed.gov/?id=ED409869
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Theoretical analysis of the field's literature argues the Cone of Experience's promise of linking instructional psychology and communications technology is unrealized, leaving "a gap in instructional design theory" between media theory and instructional strategy theory.
 
@@ -48,7 +52,7 @@ Theoretical analysis of the field's literature argues the Cone of Experience's p
 
 Seels, B. (1997). The Relationship of Media and ISD Theory: The Unrealized Promise of Dale's Cone of Experience. https://eric.ed.gov/?id=ED409869
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The author's conceptual analysis of ISD models identifies types of learning as the thread connecting task analysis, objectives, assessment, and instructional strategy, but notes the thread does not extend to delivery-system selection.
 

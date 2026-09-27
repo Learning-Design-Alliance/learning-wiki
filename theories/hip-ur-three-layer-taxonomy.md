@@ -16,7 +16,7 @@ sources:
 # Three-layer funnel taxonomy for designing high-impact undergraduate research experiences
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article presents a three-layer taxonomy used primarily by practitioners during the design of high-impact undergraduate research experiences. The first layer consists of universal HIP quality conditions applicable to any high-impact experience; the second and third layers, research breadth and research depth elements, are specific to undergraduate research and progressively narrower in scope. As the authors state, "By funneling the design of a learning experience through the three tiers, a research mentor can create a +IP undergraduate experience with high levels of student involvement."

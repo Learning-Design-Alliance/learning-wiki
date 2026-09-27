@@ -12,7 +12,7 @@ generated:
 # Representational Drawing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Representational drawing is the element in which learners sketch, diagram, or draw structures and relationships to support understanding.

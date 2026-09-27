@@ -15,12 +15,14 @@ sources:
     author: "Murphy, E., & Rodriguez-Manzanares, M. A."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # In web-based high-school distance education, e-teachers widened the object of their teaching activity toward more independent and engaged forms of learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` E-teachers in a distributed online high-school program expanded the object of their activity to involve more independent and engaged forms of learning, moving away from the teacher as source of knowledge. [→ Murphy 2009](#murphy-2009)
@@ -31,7 +33,7 @@ sources:
 
 Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative interview study of 13 e-teachers plus seven management/support personnel, with second-round interviews with 12 of the 13 teachers, in Newfoundland and Labrador's web-based high-school program. The discussion states the object of activity "had become widened to involve more independent and engaged forms of learning."
 

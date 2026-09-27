@@ -15,12 +15,14 @@ sources:
     author: Social Sciences Education Framework for California Public Schools, Kindergarten and Grades One through Twelve
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The framework's first Goal I program goal is helping students understand interdisciplinary concepts through studies of human experience, with the remaining goals implicit in the illustrative objectives
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Goal I lists six program goals, from understanding interdisciplinary concepts through developing valid conceptual schemes, but only the first is explicated with illustrative objectives by grade span. [→ Social Sciences Education Framework for California Public Schools 1975](#social-sciences-education-framework-for-california-public-schools-1975)
@@ -31,7 +33,7 @@ sources:
 
 Social Sciences Education Framework for California Public Schools, Kindergarten and Grades One through Twelve. (1975). California State Department of Education. https://eric.ed.gov/?id=ED120079
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The Goal I section enumerates six program goals, including helping students 'become aware of the processes by which the particular disciplines derive their concepts, such as observation, data gathering, classification, interpretation, inference, extrapolation, hypothesis construction and testing.' It then states only the first goal is illustrated by grade-span objectives; the rest are 'implicit in many of the illustrative objectives.'
 

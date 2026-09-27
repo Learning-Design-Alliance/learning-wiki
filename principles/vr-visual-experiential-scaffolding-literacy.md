@@ -17,7 +17,7 @@ sources:
 # Use VR tools to provide visual and experiential scaffolding that builds prior knowledge before reading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's central recommendation is that reading-language arts teachers use VR as an affordable way to extend the traditional use of images as scaffolds for prior knowledge into "field trip"-like experiential experiences. VR tools may provide a way to support students through visual and experiential scaffolding, building background knowledge about content and motivating students through authentic and engaging experiences before they read related texts.

@@ -15,12 +15,14 @@ sources:
     author: Choo Esther M., Lara-Arevalo Jonathan, Achieng Catherine, Odhiambo Merceline, Okello Maurine Anyango, Masheti Mary, Tickell Kirkby D., Diakhate Mame M., Singa Benson O., McGrath Christine J., Means Arianna Rubin
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Inconsistent MUAC measurements, negative social influences, and phone sharing compromised uptake, especially among low interactors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Low interactors reported more barriers to uptake than high interactors, including inconsistent measurements, social stigma, and phone sharing. [→ Choo Esther M. 2026](#choo-esther-m-2026)
@@ -31,7 +33,7 @@ sources:
 
 Choo Esther M., Lara-Arevalo Jonathan, Achieng Catherine, Odhiambo Merceline, Okello Maurine Anyango, Masheti Mary, Tickell Kirkby D., Diakhate Mame M., Singa Benson O., McGrath Christine J., Means Arianna Rubin. (2026). Acceptability, feasibility, appropriateness, uptake and cost perceptions of family mid-upper arm circumference supported by two-way SMS in western Kenya. PLoS One. https://doi.org/10.1371/journal.pone.0358775
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r3`
 
 Qualitative comparison of high and low interactors purposively sampled from the intervention arm. The authors report that "Low interactors expressed frustration when multiple measurements were taken in the same sitting with inconsistent results," and also identify negative social stigma and phone sharing as barriers.
 

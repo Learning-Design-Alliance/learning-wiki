@@ -15,12 +15,14 @@ sources:
     author: "Ericsson, K. A., Nandagopal, K., & Roring, R. W."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Heritability of everyday abilities cannot be extrapolated to expert performance; twins almost never reach elite levels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Identical twins practicing the same domain need not attain similar performance levels, and twins of either zygosity almost never reach elite levels. [→ Ericsson 2005](#ericsson-2005)
@@ -31,7 +33,7 @@ sources:
 
 Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?id=EJ746057
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review of behavior-genetic evidence, including Bouchard and Lykken's acknowledgment that extrapolation to expert performance is an untested assumption and twin studies (Klissouras et al., 2001) showing "the same genetic endowment does not determine attained level of expert performance."
 

@@ -16,12 +16,14 @@ sources:
     q: 2
     i: "?"
     n: large (about 11,000 students, followed for 5 years)
+    kind: associational
+    rigour: 2
 ---
 
 # Teacher expectation effects on achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · n=large (about 11,000 students, followed for 5 years)
+> **Evidence** · 1 study · associational `r2` · `q2` · n=large (about 11,000 students, followed for 5 years)
 
 Teacher expectations about individual students' ability can influence those students' subsequent achievement, in part through differences in instructional treatment and interaction quality. The claim concerns the self-fulfilling-prophecy pathway (expectation → differential treatment → achievement change), not the accuracy of teacher judgments per se.
 
@@ -35,7 +37,7 @@ Teacher expectations about individual students' ability can influence those stud
 
 de Boer, H., Bosker, R. J., & Van der Werf, M. P. C. (2010). Sustainability of teacher expectation bias effects on long-term student performance. *Journal of Educational Psychology, 102*(1), 168–179. [doi:10.1037/a0017289](https://doi.org/10.1037/a0017289)
 
-`q2 · quasi-experimental/observational study with statistical controls (large-scale multilevel regression, not a manipulated field experiment)` · `i? · no standardized effect size (d/r) reported; raw regression coefficients and a "months of education" metric given instead` · `n=large (about 11,000 students, followed for 5 years)`
+`q2 · quasi-experimental/observational study with statistical controls (large-scale multilevel regression, not a manipulated field experiment)` · `i? · no standardized effect size (d/r) reported; raw regression coefficients and a "months of education" metric given instead` · `n=large (about 11,000 students, followed for 5 years)` · `associational · r2`
 
 A Dutch cohort of roughly 11,000 students entering secondary school in 1999 was followed for 5 years. Teacher expectation bias was operationalized as the residual from a multilevel model predicting teachers' secondary-track recommendations from students' prior achievement, IQ, and achievement motivation — i.e., the part of the expectation not explained by actual student characteristics. In the full model, severe negative expectation bias was associated with a coefficient of −0.479 and severe positive bias with +0.426 on the Year-5 performance ("education ladder") score, controlling for prior achievement, IQ, socioeconomic status, gender, ethnicity, achievement motivation, parents' aspirations and grade repetition; the bias-performance link also mediated much of the effect of parents' aspirations on performance. The bias effect on performance was larger for students with higher prior achievement and higher parental aspirations than for those with lower scores on these variables, and effects were partly dissipated (but not eliminated) in the first two years before stabilizing.
 

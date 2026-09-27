@@ -15,18 +15,22 @@ sources:
     author: "Tingey, L., R. Piatt, A. Hennigar, C. O'Callahan, S. Weaver, and H. Zaveri"
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: tingey-2023-2
     resource: "https://www.acf.hhs.gov/opre"
     title: "Tingey, L., R. Piatt, A. Hennigar, C. O'Callahan, S. Weaver, and H. Zaveri. (2023). The Sexual Risk Avoidance Education National Evaluation: Using Co-regulation in Youth Programs. OPRE Report 2023-281, Washington, DC: Office of Planning, Research and Evaluation, Administration for Children and Families, U.S. Department of Health and Human Services. https://www.acf.hhs.gov/opre"
     author: "Tingey, L., R. Piatt, A. Hennigar, C. O'Callahan, S. Weaver, and H. Zaveri"
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Facilitators reported that co-regulation strategies strengthened their facilitation and made their interactions with youth more intentional
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Facilitators reported the strategies strengthened facilitation, connection with students, and program environment. [→ Tingey 2023](#tingey-2023)
@@ -38,7 +42,7 @@ sources:
 
 Tingey, L., R. Piatt, A. Hennigar, C. O'Callahan, S. Weaver, and H. Zaveri. (2023). The Sexual Risk Avoidance Education National Evaluation: Using Co-regulation in Youth Programs. OPRE Report 2023-281, Washington, DC: Office of Planning, Research and Evaluation, Administration for Children and Families, U.S. Department of Health and Human Services. https://www.acf.hhs.gov/opre
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Executive summary synthesis of facilitator surveys, interviews, and logs across nine sites in 2022-2023; this is the facilitators' own perception, "facilitators thought using the strategies strengthened their facilitation", not a tested outcome comparison.
 
@@ -48,7 +52,7 @@ Executive summary synthesis of facilitator surveys, interviews, and logs across 
 
 Tingey, L., R. Piatt, A. Hennigar, C. O'Callahan, S. Weaver, and H. Zaveri. (2023). The Sexual Risk Avoidance Education National Evaluation: Using Co-regulation in Youth Programs. OPRE Report 2023-281, Washington, DC: Office of Planning, Research and Evaluation, Administration for Children and Families, U.S. Department of Health and Human Services. https://www.acf.hhs.gov/opre
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Section II.C reports facilitator interview and survey accounts that the strategies increased intentionality, for example shifting from generic praise to praise that is personal and specific.
 

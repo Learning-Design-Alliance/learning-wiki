@@ -15,12 +15,14 @@ sources:
     author: "Maksum, H., Yuvenda, D. & Purwanto, W."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The TEFA-T model and its supporting products are rated Very Practical by instructors and students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Practicality ratings from 16 instructors and 64 students placed the TEFA-T model book, syntax, handbook, and lecturer and student manuals in the Very Practical category (overall average 4.56, achievement 90.02%). [→ Maksum 2022](#maksum-2022)
@@ -31,7 +33,7 @@ sources:
 
 Maksum, H., Yuvenda, D. & Purwanto, W. (2022). Improvement of metacognitive and critical thinking skills through development of the a 'Teaching Factory Based on Troubleshooting' (TEFA-T) Model in automotive vocational learning. Journal of Turkish Science Education, 19(3), 1015-1036. https://doi.org/10.36681/tused.2022.161
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Written practicality survey administered before the effectiveness test to 16 instructors and 64 students, covering ten practicality aspects such as instructions, syntax, time allocation, language, and evaluation; Table 2 shows all products rated Very Practical, with scores from 4.39 to 4.67.
 

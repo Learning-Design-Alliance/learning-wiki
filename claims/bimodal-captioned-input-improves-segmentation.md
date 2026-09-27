@@ -15,12 +15,14 @@ sources:
     author: Darcy, I.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Bimodal captioned input improved L2 listening skills, generalizing to unfamiliar sentences and speakers (attributed to Charles & Trenkic, 2015)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` The article reports, citing Charles and Trenkic (2015), that learners exposed to bimodal input (a video with captions) improved their listening skills relative to a control group, with improvement generalizing to unfamiliar sentences and speakers. [→ Darcy 2018](#darcy-2018)
@@ -31,7 +33,7 @@ sources:
 
 Darcy, I. (2018). Powerful and effective pronunciation instruction: How can we achieve it? The CATESOL Journal, 30(1). http://languageinstinct.blogspot.com/2006/09/what-is-clt.html
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 The article attributes this finding to Charles and Trenkic (2015), saying the improvement "generalized to sentences and speakers whom the learners were not familiar with," suggesting a long-term effect on word-recognition ability from running speech.
 

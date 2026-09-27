@@ -15,12 +15,14 @@ sources:
     author: "Greene, J. P., & Winters, M. A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Voucher-participating private schools in DC have racial compositions closer to the surrounding metro area than public schools
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The enrollment-weighted absolute difference between a school's non-White percentage and the metro area's 57.1% non-White school-age population was 39.5% for DC public schools versus 33.8% for voucher-participating private schools. [→ Greene 2007](#greene-2007)
@@ -31,7 +33,7 @@ sources:
 
 Greene, J. P., & Winters, M. A. (2007). An evaluation of the effect of DC's voucher program on public school achievement and racial integration after one year. Catholic Education: A Journal of Inquiry and Practice, 11(1), 83-101. https://eric.ed.gov/?id=EJ1005985
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive comparative analysis using Census data on the DC/VA/MD Urbanized Area school-age population (57.1% non-White) and school-level racial composition from the Core of Common Data and Washington Scholarship Program data, enrollment-weighted. The smaller difference for private schools indicates their composition more closely approximates the broader community.
 

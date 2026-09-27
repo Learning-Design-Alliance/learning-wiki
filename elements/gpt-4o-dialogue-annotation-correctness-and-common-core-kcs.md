@@ -17,7 +17,7 @@ sources:
 # GPT-4o Automated Dialogue Annotation with Recursive Common Core Tagging
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article annotates each student turn with correctness and KC labels using GPT-4o via simple, zero-shot chain-of-thought prompting, instructing it to summarize turns before labeling. "For KC annotation, we adapt the recursive tagging algorithm from [34], which tags math word problems with Common Core math standards": the model selects domains, then clusters, then turn-level standards from the Achieve the Core coherence map. The two tasks are run separately because "doing so leads to improved accuracy compared to combining them".

@@ -17,7 +17,7 @@ sources:
 # Position AI-generated podcasts as a mobile-first revision adjunct and encourage distributed, opportunistic listening over binge use
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study, `q2` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The article concludes that AI-generated podcasts are best positioned as a 'mobile-first' revision adjunct rather than a primary learning resource, and that implementation strategies should focus on supporting adherence, perhaps through structured listening plans or faculty 'nudges'. It further suggests that encouraging opportunistic listening during commute or chores is a valid educational strategy that may support long-term retention, because distributed usage at Centre 1 was associated with stable 30-day retention while high-intensity usage at Centre 2 decayed.

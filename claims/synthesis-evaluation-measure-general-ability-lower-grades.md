@@ -15,12 +15,14 @@ sources:
     author: Madaus, George F.; Nuttall, Ronald L.; Woods, Elinor M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In grades 9 and 10, or when test content is sufficiently unfamiliar, performance on the Synthesis and Evaluation subtests is highly dependent on g and appears to measure general mental ability rather than knowledge or specific abilities. [→ Madaus 1971](#madaus-1971)
@@ -31,7 +33,7 @@ sources:
 
 Madaus, George F.; Nuttall, Ronald L.; Woods, Elinor M. (1971). A Causal Model Analysis Suggests Modification of the Cumulative Hierarchical Structure Assumed in Bloom's Taxonomy of the Cognitive Domain. https://eric.ed.gov/?id=ED054203
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `associational · r2`
 
 Summary and conclusions of the causal model analyses across 16 replications by grade and content. The authors state the higher-level subtests become "highly dependent on g" when lower-level behaviors have not been learned or the material is unfamiliar.
 

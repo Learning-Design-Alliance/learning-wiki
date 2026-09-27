@@ -15,12 +15,14 @@ sources:
     author: Jia Frydenberg
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Expressed dissatisfaction with online technology, instruction, or content is not the primary reason for dropping
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Not Satisfied accounts for only 5 percent of the reduced online drop-reason data, suggesting dissatisfaction with technology, instruction, or content is not the primary dropout driver. [→ Jia Frydenberg 2007](#jia-frydenberg-2007)
@@ -31,7 +33,7 @@ sources:
 
 Jia Frydenberg. (2007). Persistence in University Continuing Education Online Classes. International Review of Research in Open and Distance Learning, 8(3). https://portal.issn.org/resource/ISSN/1492-3831
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Analysis of coded withdrawal reasons from online courses over two years, after combining unclassified categories. The author concludes from the two-year data set that "life interfered" rather than dissatisfaction, though the reason codes were voluntary and textually assigned.
 

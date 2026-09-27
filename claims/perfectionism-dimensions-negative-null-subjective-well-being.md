@@ -15,18 +15,22 @@ sources:
     author: "Karatas, Z. & Tagay, O."
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
   - id: karatas-2012-2
     resource: "http://dx.doi.org/10.5539/ies.v5n6p131"
     title: "Karatas, Z. & Tagay, O. (2012). Self Esteem, Locus of Control and Multidimensional Perfectionism as the Predictors of Subjective Well Being. International Education Studies, 5(6). http://dx.doi.org/10.5539/ies.v5n6p131"
     author: "Karatas, Z. & Tagay, O."
     q: 2
     i: 0
+    kind: associational
+    rigour: 2
 ---
 
 # Perfectionism determined by others and perfectionism for others correlate negatively with subjective well-being, while self-perfectionism does not correlate significantly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0`–`i1`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i0`–`i1`
 
 ## Subclaims
 `q2 i1` Perfectionism determined by others (r = -.13) and perfectionism for others (r = -.13) each correlated negatively and significantly with subjective well-being. [→ Karatas 2012](#karatas-2012)
@@ -38,7 +42,7 @@ sources:
 
 Karatas, Z. & Tagay, O. (2012). Self Esteem, Locus of Control and Multidimensional Perfectionism as the Predictors of Subjective Well Being. International Education Studies, 5(6). http://dx.doi.org/10.5539/ies.v5n6p131
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 Pearson correlation analysis (Table 1, n=318). The two final columns, perfectionism determined by others and perfectionism for others, each show "-.13*" with subjective well-being, i.e. r = -.13, significant at p<.05.
 
@@ -48,7 +52,7 @@ Pearson correlation analysis (Table 1, n=318). The two final columns, perfection
 
 Karatas, Z. & Tagay, O. (2012). Self Esteem, Locus of Control and Multidimensional Perfectionism as the Predictors of Subjective Well Being. International Education Studies, 5(6). http://dx.doi.org/10.5539/ies.v5n6p131
 
-`q2 · i0`
+`q2 · i0` · `associational · r2`
 
 Authors' summary of Table 1 (n=318): all scales except "the sub-scale for self-perfectionism" correlated significantly with subjective well-being; the self-perfectionism coefficient of r = .09 was not significant. Equivalence was not tested.
 

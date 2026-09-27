@@ -15,12 +15,14 @@ sources:
     author: "Gray, C. M., & Howard, C. D."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Student-generated Facebook groups constitute a hidden curriculum that supports learning outside the formal design studio
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Student-to-student communication in informal social network spaces passes a hidden curriculum from student-to-student rather than professor-to-student, supporting professional development vital to the program. [→ Gray 2014](#gray-2014)
@@ -31,7 +33,7 @@ sources:
 
 Gray, C. M., & Howard, C. D. (2014). Designerly talk in non-pedagogical social spaces. Journal of Learning Design, 7(1), 40-58. https://doi.org/10.5204/jld.v7i1.153
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r2`
 
 Analysis of five Facebook groups in an HCI/d Master's program found student-created communication structures that guided the student experience alongside formal instruction. The social network "supported a type of professional development that was vital to the success of the overall program."
 

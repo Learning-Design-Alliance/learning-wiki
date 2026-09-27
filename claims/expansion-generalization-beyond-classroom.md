@@ -15,12 +15,14 @@ sources:
     author: Nelson, Charles P.; Kim, Mi-Kyung
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Some students expanded and generalized class tools and rhetorical concepts into their own activities beyond the course
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Lucas expanded the OLR's Observation section into a tool for reflecting on readings and generalized his reading techniques to other classes, and Neelum generalized rhetorical concepts such as audience awareness into everyday persuasive interactions with friends and relatives. [→ Nelson 2001](#nelson-2001)
@@ -31,7 +33,7 @@ sources:
 
 Nelson, Charles P.; Kim, Mi-Kyung. (2001). Contradictions, Appropriation, and Transformation: An Activity Theory Approach to L2 Writing and Classroom Practices. Texas Papers in Foreign Language Education. https://eric.ed.gov/?id=ED464497
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Participant-observer case analysis of two students. Lucas wrote in an observation that he was "trying to develop an efficient system to read and retain important information from academic books", and Neelum described choosing language and giving examples when arguing with people, applying audience-awareness rules from class.
 

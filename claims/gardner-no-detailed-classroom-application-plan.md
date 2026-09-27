@@ -15,12 +15,14 @@ sources:
     author: Peariso, J. F.
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Gardner never laid down a detailed plan for applying MI theory in schools, and classroom implementations operate independently of him
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports, citing Collins, that Gardner has never laid down a detailed plan for applying his theory in schools and that consultants and publishers offering MI training operate independently of him. [→ Peariso 2008](#peariso-2008)
@@ -31,7 +33,7 @@ sources:
 
 Peariso, J. F. (2008). Multiple Intelligences or Multiply Misleading: The Critic's View of the Multiple Intelligences Theory. Liberty University. https://eric.ed.gov/?id=ED500515
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The review attributes this to Collins (1998), noting the resulting tension: Gardner criticized classroom applications such as Armstrong's trivial ideas while endorsing Armstrong's book as a reliable and readable account of his work. Reported second-hand.
 

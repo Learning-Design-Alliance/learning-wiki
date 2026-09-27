@@ -15,12 +15,14 @@ sources:
     author: "Flowers, C. P., Oshima, T. C., & Raju, N. S."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Item discrimination moderates detection differently by index: NCDIF benefits from high a-parameters only at large DIF magnitude
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` At .25 DIF magnitude, high-discriminating items had better NCDIF detection rates, but this trend did not appear at .10 magnitude; SIBTEST and Lord's chi-square detection rose with discrimination in all conditions. [→ Flowers 1997](#flowers-1997)
@@ -31,7 +33,7 @@ sources:
 
 Flowers, C. P., Oshima, T. C., & Raju, N. S. (1997). The Relationship between Polytomous DFIT and Other Polytomous DIF Procedures. Paper presented at the NCME Annual Meeting, Chicago. https://eric.ed.gov/?id=ED410300
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Per-item detection rates from Table 5 for studied items with a-parameters of .55, .75, 1.00, and 1.36. The moderation by DIF magnitude is a scope limit the article states explicitly.
 

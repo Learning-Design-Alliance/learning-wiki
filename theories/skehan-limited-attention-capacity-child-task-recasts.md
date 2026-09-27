@@ -16,7 +16,7 @@ sources:
 # Skehan's limited attention capacity prediction as an account of task complexity effects on child L2 development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies, `q2`–`q4` · 1 of 3 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (2 causal, 1 quant-synthesis), `q2`–`q4` · 1 of 3 report an effect size · 2 claims rest on one study
 
 ## Description
 Skehan's limited attention capacity model holds that learners have finite attentional resources, so increasing the cognitive demands of a task shifts attention toward task content and away from linguistic form. The article uses it to explain why child learners receiving recasts benefited most from simple tasks: "Tasks with high cognitive demands would complicate the process of conceptualization and learners had fewer attention resources available for language encoding." It stands opposed to Robinson's Cognition Hypothesis, which predicts benefits from resource-directing complexity.

@@ -15,12 +15,14 @@ sources:
     author: Shavelson, Richard J.; Webb, Noreen M.; Lehman, Penny
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Achievement tests presented in a predominantly verbal code may place irrelevant demands on test takers and underestimate some students' subject-matter knowledge. [→ Shavelson 1986](#shavelson-1986)
@@ -31,7 +33,7 @@ sources:
 
 Shavelson, Richard J.; Webb, Noreen M.; Lehman, Penny. (1986). The Role of Symbol Systems in Problem Solving: A Literature Review. CSE Report No. 269. https://eric.ed.gov/?id=ED338680
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 Theoretical argument advanced in the review's problem statement: because instruction is dominated by verbal symbols and students encode specifically, typical objective tests "may underestimate students' subject-matterknowledge". The review offers this as a contention to be examined, not a tested result.
 

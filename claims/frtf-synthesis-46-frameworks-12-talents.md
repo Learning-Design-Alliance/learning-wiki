@@ -15,18 +15,22 @@ sources:
     author: "Pretti, T. J., Etmanski, B., & Drewery, D. W."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: pretti-2021-2
     resource: "https://eric.ed.gov/?id=EJ1313416"
     title: "Pretti, T. J., Etmanski, B., & Drewery, D. W. (2021). Development and validation of a future ready talent framework. International Journal of Work-Integrated Learning, Special Issue, 22(3), 369-383. https://eric.ed.gov/?id=EJ1313416"
     author: "Pretti, T. J., Etmanski, B., & Drewery, D. W."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # A literature synthesis of 46 talent frameworks and future-of-work reports yielded 29 unique talents reduced to the FRTF's 12 talents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A search of academic and grey literatures identified 46 talent frameworks relevant to WIL. [→ Pretti 2021](#pretti-2021)
@@ -38,7 +42,7 @@ sources:
 
 Pretti, T. J., Etmanski, B., & Drewery, D. W. (2021). Development and validation of a future ready talent framework. International Journal of Work-Integrated Learning, Special Issue, 22(3), 369-383. https://eric.ed.gov/?id=EJ1313416
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive report of the FRTF development phase: searches of Scopus, Web of Science, ERIC, and Google Scholar plus targeted ministerial searches, with expert and librarian consultation. The article states the search "identified 46 talent frameworks and dozens of papers and reports regarding key employability skills."
 
@@ -48,7 +52,7 @@ Descriptive report of the FRTF development phase: searches of Scopus, Web of Sci
 
 Pretti, T. J., Etmanski, B., & Drewery, D. W. (2021). Development and validation of a future ready talent framework. International Journal of Work-Integrated Learning, Special Issue, 22(3), 369-383. https://eric.ed.gov/?id=EJ1313416
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 A researcher and a talent-development expert built a grid of frameworks by talents, checkmarking occurrences; Table 1 prints frequencies (e.g., Communication 91%, Collaboration/Teamwork 85%). The synthesis with future-of-work themes "resulted in a set of 12 talents" aggregated into four clusters.
 

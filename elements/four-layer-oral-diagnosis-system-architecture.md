@@ -17,7 +17,7 @@ sources:
 # Four-layer system architecture for intelligent oral diagnosis and adaptive training
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q3` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The proposed system is organized as a hierarchical four-layer architecture: Data Acquisition, Feature Extraction, Intelligent Diagnosis, and Adaptive Training. "the Data Acquisition Layer acts as the system’s sensory interface: it handles audio capture, runs noise-reduction preprocessing, and applies voice activity detection to break continuous recordings into analysable speech segments." Layers communicate through standardized interfaces, with time-critical recognition and feedback running synchronously and computationally intensive diagnostic analysis and learner-model updates running asynchronously.

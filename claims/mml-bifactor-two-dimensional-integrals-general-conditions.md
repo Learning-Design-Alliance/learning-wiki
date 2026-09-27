@@ -15,12 +15,14 @@ sources:
     author: Rijmen, F.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Full information MML estimation of the bi-factor model requires only two-dimensional integrations under more general conditions than the probit-link, multivariate-normal derivation of Gibbons and Hedeker
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The junction-tree derivation reduces the bi-factor model's E-step to two-dimensional integrations over (theta_g, theta_k) for any link function, without assuming multivariate normality, requiring only conditional independence of the specific latent variables given general ability. [→ Rijmen 2009](#rijmen-2009)
@@ -31,7 +33,7 @@ sources:
 
 Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Analytical derivation in the paper, using the graphical model framework applied to the bi-factor model. It generalizes the earlier result that full information estimation "only requires the integration over two-dimensional integrals" beyond the probit link, normal distribution, and fully independent latent variables assumed by Gibbons and Hedeker.
 

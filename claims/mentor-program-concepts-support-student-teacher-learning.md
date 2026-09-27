@@ -15,12 +15,14 @@ sources:
     author: Feiman-Nemser, Sharon, et al
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Classrooms where mentors understand and model program concepts are more fruitful contexts for student teachers' learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` In a study of field instructors and mentor teachers, classrooms where mentors understood program concepts and modeled them in practice were found to be more fruitful contexts for supporting student teachers' learning. [→ Feiman-Nemser 1994](#feiman-nemser-1994)
@@ -31,7 +33,7 @@ sources:
 
 Feiman-Nemser, Sharon, et al. (1994). Guiding Teacher Learning: Insider Studies of Classroom-Based Work with Teachers. Craft Paper 94-1. National Center for Research on Teacher Learning. https://eric.ed.gov/?id=ED377169
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 The framing paper attributes this finding to Roth, Rosaen and Lanier's study in a preservice program organized around teaching for conceptual change. It also reports that program concepts and themes were a consistent focus in field instructor conversations, whereas classroom management and daily lesson planning tended to be left to mentors, especially where mentors were less familiar with program concepts.
 

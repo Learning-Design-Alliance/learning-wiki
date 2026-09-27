@@ -15,12 +15,14 @@ sources:
     author: Pace, Tom
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Teaching style can be reclaimed as an effective tool for socially responsible rhetorical communication
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Composition teachers can re-imagine the canon of style as an effective tool for achieving socially responsible rhetorical communication, serving both critical consciousness and successful academic and professional discourse. [→ Pace 2001](#pace-2001)
@@ -31,7 +33,7 @@ sources:
 
 Pace, Tom. (2001). Composing and Community: The Teaching of Style as a Tool of Critical Pedagogy. https://eric.ed.gov/?id=ED451526
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in a conference paper: the author contends style instruction reveals that language choices reflect and create social identities while teaching multiple writing strategies. The article offers a reasoned position, not empirical data.
 

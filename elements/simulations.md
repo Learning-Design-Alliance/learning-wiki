@@ -12,7 +12,7 @@ generated:
 # Simulations
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 4 studies, `q1`–`q4` · 2 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 4 studies (2 quant-synthesis, 2 qualitative), `q1`–`q4` · 2 of 4 report an effect size · 5 claims rest on one study
 
 ## Description
 Simulations are the element in which learners engage with realistic, model-based scenarios that approximate authentic systems or environments.

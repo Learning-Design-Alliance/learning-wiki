@@ -12,7 +12,7 @@ generated:
 # Explicit Vocabulary Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 12 studies, `q1`–`q4` · 2 of 12 report an effect size
+> **Evidence** · 5 claims (4 for, 1 against) · 12 studies (5 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 2 of 12 report an effect size
 
 ## Description
 Explicit vocabulary instruction directly teaches carefully selected target words through student-friendly definitions, examples and non-examples, contextual use, and structured practice, rather than relying on incidental exposure from reading or discussion. It typically follows a routine: pronounce the word, provide a friendly definition, illustrate with examples across contexts, and engage learners in active processing and repeated encounters over time.

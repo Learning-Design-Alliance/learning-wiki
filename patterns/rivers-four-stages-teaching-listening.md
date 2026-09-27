@@ -17,7 +17,7 @@ sources:
 # Four-stage progression for teaching listening skills across proficiency levels
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper presents Rivers' (1981) four stages for teaching listening at elementary, intermediate and advanced levels: identification; identification and selection without retention; identification and guided selection with short-term retention; and identification, selection, and long-term retention. Each stage progressively adds demands, from holistic perception of sounds and phrases to demonstrating comprehension or recalling material after the listening experience is complete.

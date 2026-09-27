@@ -16,7 +16,7 @@ sources:
 # A three-mode model of preservice teachers' probabilistic reasoning: mathematical, subjective, and outcome-oriented
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The study models PSMTs' probabilistic reasoning in a unified schema with three categories: mathematically oriented thinkers relying on theoretical probability, subjectively oriented thinkers using personal information and contingencies, and outcome-oriented thinkers focused on the favourable outcome itself. The article states that 'PSMTs’ probabilistic reasoning was classified into mathematical (M), subjective (S), and outcome-oriented (O)', responding to calls for a unified framework that models several probability conceptions in one schema rather than a normative hierarchy.

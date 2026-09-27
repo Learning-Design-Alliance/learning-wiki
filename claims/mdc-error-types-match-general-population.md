@@ -15,12 +15,14 @@ sources:
     author: Gordon, Don E.
     q: 2
     i: 0
+    kind: associational
+    rigour: 2
 ---
 
 # The types of speech articulation errors among MDC approximated those reported for the general school-age population
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i?` The types of speech articulation disorders recorded among tested MDC approximated those reported in the literature for the general school age population. [→ Gordon 1972](#gordon-1972)
@@ -31,7 +33,7 @@ sources:
 
 Gordon, Don E. (1972). Survey of Speech Articulation Disorders Among Military Dependent Children. Fitchburg State College. https://eric.ed.gov/?id=ED066855
 
-`q2 · i0`
+`q2 · i0` · `associational · r2`
 
 Error-type analysis from the 1971 survey, in which Goldman-Fristoe errors (omissions, distortions, substitutions) were graphed per sound, by grade, and by sex across the sampled schools. The study reports the MDC error-type profile approximated general-population patterns; no effect size is printed.
 

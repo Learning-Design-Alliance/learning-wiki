@@ -12,7 +12,7 @@ generated:
 # Public Display
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies, `q1`–`q3` · 0 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 6 studies (2 causal, 2 design, 1 review, 1 theoretical), `q1`–`q3` · 0 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Public display is the element in which learner work is made visible to a wider audience in the classroom or beyond.

@@ -15,12 +15,14 @@ sources:
     author: Brown, Alan S.; Cattoi, Robert
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Retrieval latencies increase across successive retrievals from semantic categories, with a significant linear trend and no quadratic trend
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Retrieval latency increased significantly across the six retrieval positions, showing a significant linear trend but no significant quadratic trend. [→ Brown 1982](#brown-1982)
@@ -31,7 +33,7 @@ sources:
 
 Brown, Alan S.; Cattoi, Robert. (1982). Associative Strength Effects in Semantic Priming. https://eric.ed.gov/?id=ED223979
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Controlled experiment with 66 introductory psychology students retrieving six exemplars from each of 18 categories; median response times per position were log-transformed before ANOVA. The article reports "a significant difference among positions,F(5,325) = 3.54". Trend tests showed a significant linear trend, F(1,325) = 4.09, and no significant quadratic trend.
 

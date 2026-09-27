@@ -15,12 +15,14 @@ sources:
     author: Schoen, L.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Preservice teachers' reflective judgment levels influence how they perceive and act on complex classroom dilemmas
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Reflective judgment was a significant influence on the ways participants perceived and took action about classroom dilemmas during an early field experience. [→ Schoen 2005](#schoen-2005)
@@ -31,7 +33,7 @@ sources:
 
 Schoen, L. (2005). Learning to make sense of the dilemmas of teaching practice: An exploration of preservice teachers' development of reflective judgment. Boston College. https://eric.ed.gov/?id=ED506804
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Qualitative multiple-case study of ten traditional-aged juniors in a teacher preparation program during a pre-student teaching field experience. Data came from "online dialogue journals, post-observation interviews, group dilemma discussions, and reflective essays." Cross-case analysis linked reflective judgment levels to dilemma perception and action.
 

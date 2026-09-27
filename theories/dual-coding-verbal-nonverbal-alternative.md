@@ -16,7 +16,7 @@ sources:
 # Dual coding theory: parallel verbal and nonverbal representation systems as an alternative to schema theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The essay presents dual coding (Sadoski, Paivio, & Goetz, 1991) as an alternative to schema theory in which verbal stimuli are organized in terms of logogens representing phonemes, graphemes, morphemes, words and larger units, while nonverbal stimuli are organized as images of natural objects, visual-spatial items and natural groupings processed in parallel fashion. The two systems are interconnected and connected to the neurological system, so information is processed through both codes and yields holistic, situational representations going beyond the sentence. According to the essay, "the need for a propositional network for a situational representation is diminished by a holistic construct."

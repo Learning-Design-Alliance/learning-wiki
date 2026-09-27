@@ -15,12 +15,14 @@ sources:
     author: Frogner, Ellen A.
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Inquiry-first teaching stimulates interest, sharpens reading, and helps organize course work
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Using techniques that find out existing concepts and attitudes stimulates class interest, sharpens reading, and helps the instructor organize course work, according to the author's experience. [→ Frogner 1969](#frogner-1969)
@@ -31,7 +33,7 @@ sources:
 
 Frogner, Ellen A. (1969). Using the Language Inquiry as a Teaching Device. Illinois State-Wide Curriculum Study Center in the Preparation of Secondary English Teachers (ISCPET). https://eric.ed.gov/?id=ED034768
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 This is the author's experiential claim in the WHAT NEXT? section, offered without data or test; the report prints no effect size or comparison for it. The author adds the technique seems especially important in language study, where fear or apathy is often present.
 

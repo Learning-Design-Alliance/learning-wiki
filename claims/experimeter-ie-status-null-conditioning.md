@@ -15,12 +15,14 @@ sources:
     author: "Doctor, R. M., & Marziani, A. W."
     q: 3
     i: 0
+    kind: causal
+    rigour: 1
 ---
 
 # Experimenter locus-of-control status did not affect subjects' conditioning performance, contrary to the initial hypothesis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · causal `r1` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i?` I-E status of the experimenter was not reliably related to acquisition scores or to the performance differences of ISs and ESs. [→ Doctor 1971](#doctor-1971)
@@ -31,7 +33,7 @@ sources:
 
 Doctor, R. M., & Marziani, A. W. (1971). Locus of Control of Reinforcement and Responsiveness to Social Influence. San Fernando Valley State College. https://eric.ed.gov/?id=ED055283
 
-`q3 · i0`
+`q3 · i0` · `causal · r1`
 
 In the 2 x 2 factorial design, internal experimenters (I-E mean 3.00) and external experimenters (mean 13.00) had nonoverlapping scores, yet the article reports E status was not reliably related to acquisition (F < 1). Equivalence was not tested.
 

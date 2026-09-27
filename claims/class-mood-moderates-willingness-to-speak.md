@@ -15,12 +15,14 @@ sources:
     author: Andrew Leichsenring
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Class mood and peer participation moderated one learner's willingness to speak in class
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Student B reported feeling more relaxed and more willing to speak and listen when other students actively talked in class, and wanting to avoid speaking when the class mood was quiet. [→ Andrew Leichsenring 2010](#andrew-leichsenring-2010)
@@ -31,7 +33,7 @@ sources:
 
 Andrew Leichsenring. (2010). The experiences of anxiety of Japanese EFL learners: A case study. https://eric.ed.gov/?id=ED537603
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 A participant comment from the results on the third research aim: Student B described increased motivation when all participants actively talked in class, saying "when other students try to talk in class, I feel more relaxed." The article interprets this as motivation-based and self-efficacy-based influence.
 

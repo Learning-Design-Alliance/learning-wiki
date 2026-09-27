@@ -17,7 +17,7 @@ sources:
 # Six-phase assignment process mapped to BRT cognitive steps
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Each weekly assignment is structured under six phases corresponding to BRT's cognitive process dimensions. The article states: "the process of the assignments in each week is designed under the cognitive learning steps of remember, understand, apply, analyze, evaluate and create referring to BRT." The phases progress from retrieving relevant knowledge from long-term memory through to creating an original design each week.

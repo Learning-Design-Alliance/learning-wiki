@@ -15,12 +15,14 @@ sources:
     author: Loper, Paul
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Returning to direct somatic experience can re-vision thinking and change perception (attributed to Reason)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Peter Reason's participatory inquiry holds that allowing direct experience of feeling the presence of the world enables re-visioning thinking and changing perception. [→ Loper 2000](#loper-2000)
@@ -31,7 +33,7 @@ sources:
 
 Loper, Paul. (2000). Chormmunity: Co-Creating Embodied Community. ERIC Document ED443009. https://eric.ed.gov/?id=ED443009
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The review-style article attributes this position to Peter Reason (1994) and his Future Participation Consciousness, quoting his call for "a return to the concrete and kinaesthetic knowing of the body". No empirical test is reported; the article presents it as an argument linking transformative learning to holistic inquiry.
 

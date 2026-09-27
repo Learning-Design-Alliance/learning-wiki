@@ -15,12 +15,14 @@ sources:
     author: Eylon, Bat-Sheva; Reif, F.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Hierarchical versus single-level organization does not significantly affect performance on local tasks relying only on individual detailed steps
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Composite scores on local tasks did not differ significantly between treatments in Experiment 1. [→ Eylon 1979](#eylon-1979)
@@ -31,7 +33,7 @@ sources:
 
 Eylon, Bat-Sheva; Reif, F. (1979). Effects of Internal Knowledge Organization on Task Performance. https://eric.ed.gov/?id=ED171804
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 1 null result: t-tests on the composite scores for all local tasks, which relied only on information about individual detailed steps of the argument, showed no significant differences between the H, S1, and S2 treatments; equivalence was not tested.
 

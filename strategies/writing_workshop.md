@@ -12,7 +12,7 @@ generated:
 # Writing Workshop
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 against) · 13 studies, `q2`–`q4` · 4 of 13 report an effect size
+> **Evidence** · 5 claims (3 for, 2 against) · 13 studies (6 causal, 4 quant-synthesis, 2 review, 1 qualitative), `q2`–`q4` · 4 of 13 report an effect size
 
 ## Description
 A writing workshop organizes instruction around a recurring session structure: a short focused mini-lesson (5–15 minutes), an extended block of independent writing time, and a closing share or reflection. During work time, the teacher confers individually with students and peers respond to one another's drafts, making the format a blend of explicit instruction, sustained practice, and [collaborative learning](../principles/collaborative-learning.md).

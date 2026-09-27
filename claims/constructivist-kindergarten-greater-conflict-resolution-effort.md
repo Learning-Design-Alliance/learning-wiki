@@ -15,12 +15,14 @@ sources:
     author: Luppicini, Rocci; Schnackenberg, Heidi
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Children in Constructivist kindergarten classrooms showed greater effort resolving interpersonal conflicts than children in eclectic or didactic classrooms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Previous research cited by the paper found children in Constructivist classroom settings invested greater effort to resolve interpersonal conflicts than children in eclectic or didactic-oriented kindergarten settings. [→ Luppicini 2000](#luppicini-2000)
@@ -31,7 +33,7 @@ sources:
 
 Luppicini, Rocci; Schnackenberg, Heidi. (2000). In Support of Constructivism: Utilizing Rational, Moral and Communicative Frameworks to Address Frequently Posited Criticisms. https://eric.ed.gov/?id=ED455777
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The paper reports, citing DeVries, Reese-Learned, & Morgan (1991), a comparison between children in Constructivist kindergarten classrooms and children in eclectic or didactic-oriented settings on effort to resolve interpersonal conflicts. No effect size or sample size is printed; the study is second-hand.
 

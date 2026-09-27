@@ -15,12 +15,14 @@ sources:
     q: 2
     i: "?"
     n: N/A (a synthesis, not a study of individual participants)
+    kind: review
+    rigour: "?"
 ---
 
 # Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · n=N/A (a synthesis, not a study of individual participants)
+> **Evidence** · 1 study · review `r?` · `q2` · n=N/A (a synthesis, not a study of individual participants)
 
 Feedback is most effective when it tells learners the goal, their current status relative to that goal, and the next actionable step. The three questions — goal, gap, next step — form a loop that connects instruction to learning: without a goal, performance information has no reference point; without gap information, learners cannot calibrate; without a next step, feedback stops at evaluation.
 
@@ -34,7 +36,7 @@ Feedback is most effective when it tells learners the goal, their current status
 
 Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 
-`q2 · conceptual analysis and narrative review of the feedback literature (not a meta-analysis with a pooled effect size)` · `i? · no single effect size reported for the three-question framework itself` · `n=N/A (a synthesis, not a study of individual participants)`
+`q2 · conceptual analysis and narrative review of the feedback literature (not a meta-analysis with a pooled effect size)` · `i? · no single effect size reported for the three-question framework itself` · `n=N/A (a synthesis, not a study of individual participants)` · `review · r?`
 
 This is the paper's origin: Hattie and Timperley propose a model in which effective feedback answers three questions — "Where am I going?", "How am I doing?", and "Where to next?" — operating across four levels (task, process, self-regulation, self), and argue this reduces the discrepancy between current understanding and a learning goal. They synthesize prior empirical and theoretical work on feedback's effect on learning and achievement to build the model rather than reporting a new primary study or a pooled quantitative estimate specific to the three-question structure. I could not obtain the full text (publisher page, ResearchGate mirror, and the University of Auckland repository's PDF were all inaccessible from this environment — the repository lists only a restricted-access full-text bitstream); this entry is built from the Crossref-verified abstract and the matching repository citation record only, so no numeric effect size, sample size, or study count could be verified from the source text and none is asserted here.
 

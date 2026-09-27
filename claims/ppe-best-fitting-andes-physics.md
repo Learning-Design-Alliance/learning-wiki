@@ -15,12 +15,14 @@ sources:
     author: Philip I. Pavlik, Jr., Luke G. Eglington, and Leigh M. Harrell-Williams
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The PPE memory model was the best-fitting model for the Andes physics dataset, with the recency feature also beneficial
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` For the Andes physics dataset, the PPE model (model 10) was the best fitting model, and models 11-12 also fit well, with model 5 second-best suggesting the recency feature was beneficial. [→ Philip I. Pavlik 2021](#philip-i-pavlik-2021)
@@ -31,7 +33,7 @@ sources:
 
 Philip I. Pavlik, Jr., Luke G. Eglington, and Leigh M. Harrell-Williams. (2021). Logistic Knowledge Tracing: A Constrained Framework for Learner Modeling. IEEE Transactions on Learning Technologies. https://doi.org/10.1109/TLT.2021.3128569
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Analysis of the Andes dataset (66 students learning physics, 345,536 observations, 45 KCs), analyzing only first attempts on first steps. The article reports "The PPE model (#10) was again the best ﬁtting model" and that model 5 was second-best, indicating the recency feature may have been beneficial.
 

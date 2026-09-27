@@ -15,18 +15,22 @@ sources:
     author: "Ren, X., Chano, J., & Saihong, P."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: ren-2025-2
     resource: "https://doi.org/10.5539/hes.v15n2p37"
     title: "Ren, X., Chano, J., & Saihong, P. (2025). Developing a TPACK-based Course to Promote the Pre-service Preschool Teachers' Instructional Design Competence. Higher Education Studies, 15(2). https://doi.org/10.5539/hes.v15n2p37"
     author: "Ren, X., Chano, J., & Saihong, P."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Early-stage IDC growth shows simplification, linearity, and dogmatism, with focal points shifting from format to content to technology across rounds
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Across the three design rounds, novice focus shifted from format completeness and correctness, to content effectiveness and objectives, to technology integration (PowerPoint, videos, audio). [→ Ren 2025](#ren-2025)
@@ -38,7 +42,7 @@ sources:
 
 Ren, X., Chano, J., & Saihong, P. (2025). Developing a TPACK-based Course to Promote the Pre-service Preschool Teachers' Instructional Design Competence. Higher Education Studies, 15(2). https://doi.org/10.5539/hes.v15n2p37
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Qualitative analysis of instructional design products and course plans across the three iterative cycles: round one focused on format completeness and correctness, round two on content effectiveness, objectives, and difficulties, and finally "the focus shifted to the application of technology in teaching".
 
@@ -48,7 +52,7 @@ Qualitative analysis of instructional design products and course plans across th
 
 Ren, X., Chano, J., & Saihong, P. (2025). Developing a TPACK-based Course to Promote the Pre-service Preschool Teachers' Instructional Design Competence. Higher Education Studies, 15(2). https://doi.org/10.5539/hes.v15n2p37
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Authors' interpretation (type e) drawn from the product analysis: novice IDC growth "shows the characteristics of simplicity and framework", which they present as confirming Hardré's (2006) summary of simplification, linearity, and dogma in novice teachers.
 

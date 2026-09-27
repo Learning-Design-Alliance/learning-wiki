@@ -17,7 +17,7 @@ sources:
 # CoLaLe app prototype with geo-fence triggered vocabulary learning sessions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The CoLaLe (Contextual Language Learning) app concept supports German and Thai vocabulary learning through flashcard sessions containing textual, visual and audible representations, deposited in categories linked to contexts such as home, university, and restaurants. Its core context-aware feature uses location filtering: "This area is then used as a “geo-fence” to trigger learning sessions by sending a push notification on the smartphone each time the user is entering this area." At the time of the study the app was in the concept phase, so a high-fidelity video prototype demonstrated the interface to participants.

@@ -15,18 +15,22 @@ sources:
     author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
   - id: carter-2014-2
     resource: "https://doi.org/10.3389/fpsyg.2014.01325"
     title: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325"
     author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Allowing learners to request knowledge of results before a trial and then revise the choice after it (Self-Both) did not produce learning beyond deciding only after the trial (Self-After), which the authors take as no support for an additive motivational-plus-informational effect.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` Self-After (M = 10.04) and Self-Both (M = 12.45) did not differ significantly in retention absolute error; equivalence was not tested. [→ Carter 2014](#carter-2014)
@@ -38,7 +42,7 @@ sources:
 
 Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Laboratory experiment in which university volunteers learned a slider-positioning task under six knowledge-of-results (KR) conditions. Post hoc retention comparison: "the Self-After (M = 10.04, SE = 1.89) and Self-Both (M = 12.45, SE = 3.58) groups did not differ significantly". No effect size is printed for this contrast.
 
@@ -48,7 +52,7 @@ Laboratory experiment in which university volunteers learned a slider-positionin
 
 Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 The authors’ discussion of the same experiment: "The present data did not support the hypothesis of a positive additive effect"; this is their interpretation of the Self-Both versus Self-After results, not a separate test.
 

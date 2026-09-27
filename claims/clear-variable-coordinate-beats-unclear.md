@@ -15,12 +15,14 @@ sources:
     author: Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # A clear variable coordinate lesson produced higher achievement than an unclear lesson with the same concept structure on all five measures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` The Clear/Var./Coord. group achieved significantly better than the Unclear/Var./Coord. group on definition, example identification, key words, nonexamples, and application. [→ Snyder 1991](#snyder-1991)
@@ -31,7 +33,7 @@ sources:
 
 Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill. (1991). The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception. https://eric.ed.gov/?id=ED331809
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Dunn-Sidak multiple comparison tests in the Results section of the 2x3 factorial experiment. The article reports the clear variable coordinate group beat the unclear group on all five achievement sections, with p<.01 on four and p<.05 on nonexamples.
 

@@ -15,18 +15,22 @@ sources:
     author: Zakaria, N. S.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: zakaria-2007-2
     resource: "https://eric.ed.gov/?id=ED499793"
     title: "Zakaria, N. S. (2007). Peer Counselling Empowerment and Ethical Considerations. https://eric.ed.gov/?id=ED499793"
     author: Zakaria, N. S.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # The author sets out peer counsellor competency as requiring defined personal qualities, extended skills training, and referral to supervisors when issues exceed their capability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r1`–`r2` · `q1`
 
 ## Subclaims
 `q1 i?` The author, citing Vriend (1985), defines peer counsellors as competent when they possess patience and control, focus outward, use informed intelligence for operational decisions, and set aside vested self-interest to serve another. [→ Zakaria 2007](#zakaria-2007)
@@ -38,7 +42,7 @@ sources:
 
 Zakaria, N. S. (2007). Peer Counselling Empowerment and Ethical Considerations. https://eric.ed.gov/?id=ED499793
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Definitional statement in the competency section, citing Vriend (1985), listing the qualities the author treats as constituting peer counsellor competency: "able to possess patience and control", outward focus, informed intelligence and service of another. This is a conceptual definition, not a tested result.
 
@@ -48,7 +52,7 @@ Definitional statement in the competency section, citing Vriend (1985), listing 
 
 Zakaria, N. S. (2007). Peer Counselling Empowerment and Ethical Considerations. https://eric.ed.gov/?id=ED499793
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r1`
 
 The author's training recommendation in the competency section: peer counsellors need "various extended training in skills" including communication, assertiveness and ethics, plus personal qualities such as emotional stability, self-reliance and a sense of security, and should discuss unresolved issues with supervisors and make referral.
 

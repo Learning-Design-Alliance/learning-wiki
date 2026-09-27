@@ -15,12 +15,14 @@ sources:
     author: "McKim, A. J., & Velez, J. J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Student teachers' teaching efficacy follows a dip trajectory: it rises during on-campus preparation, falls to its lowest point at the midpoint of student teaching, and rebounds by the end
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Longitudinal studies of agriculture student teachers found perceived efficacy increased during a four-week on-campus experience, declined to its lowest level at the mid-point of student teaching, and rebounded to its highest level by the end. [→ McKim 2016](#mckim-2016)
@@ -31,7 +33,7 @@ sources:
 
 McKim, A. J., & Velez, J. J. (2016). An Evaluation of the Self-Efficacy Theory in Agricultural Education. Journal of Agricultural Education, 57(1), 73-90. https://doi.org/10.5032/jae.2016.01073
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's Table 2 summarizes Harlin, Roberts, Briers, Mowen, and Edgar's 2007 longitudinal study of student teachers at four institutions, finding efficacy "declined to its lowest level at the mid-point of student teaching, and rebounded to the highest level at the end." A similar dip was reported by Roberts, Harlin, and Ricketts (2006). No effect sizes are printed.
 

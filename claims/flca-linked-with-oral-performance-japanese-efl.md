@@ -15,12 +15,14 @@ sources:
     author: Andrew Leichsenring
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In this two-participant case study, anxiety in foreign language classroom learning experiences was linked with oral performance, including worry about speaking being associated with poor oral grades. [→ Andrew Leichsenring 2010](#andrew-leichsenring-2010)
@@ -31,7 +33,7 @@ sources:
 
 Andrew Leichsenring. (2010). The experiences of anxiety of Japanese EFL learners: A case study. https://eric.ed.gov/?id=ED537603
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Qualitative case study of two Japanese adult EFL learners using reflective journals and one-hour semi-structured interviews; the third research aim investigation showed anxiety "can be linked with oral performance." Student B reported that when she felt worried about speaking English in class she "always got a bad oral performance grade."
 

@@ -15,12 +15,14 @@ sources:
     author: "Rodriguez, Roth, & Villarreal Sosa"
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # School social workers perceive immigration enforcement as a daily macro-level force producing fear and trauma among immigrant students and families
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` SSWs report that immigration enforcement and threat of deportation are commonplace daily stressors for immigrant students and families, with trauma referenced by approximately 15% of respondents. [→ Rodriguez 2022](#rodriguez-2022)
@@ -31,7 +33,7 @@ sources:
 
 Rodriguez, Roth, & Villarreal Sosa. (2022). "Immigration Enforcement Is a Daily Part of Our Students' Lives": School Social Workers' Perceptions of Racialized Nested Contexts of Reception for Immigrant Students. AERA Open. https://doi.org/10.1177/23328584211073170
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Thematic analysis of open-ended survey responses from a national survey of school social workers (N = 517) in immigrant-serving schools. One SSW explained that "immigration enforcement is a daily part of our students' and families' lives," with students living in fear of deportation.
 

@@ -16,7 +16,7 @@ sources:
 # King and Kitchener's Reflective Judgment Model: a seven-stage developmental framework of epistemic assumptions and justification
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 3 studies, `q2` · 0 of 3 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 3 studies (2 qualitative, 1 associational), `q2` · 0 of 3 report an effect size · 6 claims rest on one study
 
 ## Description
 The Reflective Judgment Model (RJM) is a theoretical framework organizing how people make and justify judgments about ill-defined problems, which "cannot be defined with a high degree of completeness and... cannot be solved with a high degree of certainty." It posits seven stages (Table 1) spanning absolute, authority-based knowing (Stage 1) to knowledge "constructed through a process of inquiry" justified "probabilistically" (Stage 7). King and Kitchener's longitudinal and cross-sectional work found development occurs slowly, is facilitated by educational settings, and follows stage-related patterns without lock-step progression. This study used the model's stage definitions as a coding rubric for teacher educators' interview narratives.

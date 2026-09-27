@@ -15,12 +15,14 @@ sources:
     author: Okwara, V. U.
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Puppetry as a teaching tool produces a statistically significant post-intervention difference in Grade 9 learners' applied conceptual understanding of ecological concepts, favouring the puppetry group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i?` After puppetry-based ecology lessons, the experimental group's post-test mean scores differed significantly from the control group's at the 5% significance level, in favour of the experimental group. [→ Okwara 2024](#okwara-2024)
@@ -31,7 +33,7 @@ sources:
 
 Okwara, V. U. (2024). The impact of puppetry as a teaching tool on Grade 9 learners' applied conceptual understanding of ecological concepts: A STE(A)M context. Educational Research: Theory and Practice, 35(4), 158-174. https://orcid.org/0000-0002-0876-9020
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Quantitative experimental study of 355 Grade 9 learners in three schools, randomly assigned to puppetry-based and traditional ecology teaching, with CLASS pre- and post-tests. ANCOVA comparing post-test means yielded "[F (1,350) =36.45, p ˂.0001]" at a 5% significance level; no effect size is printed.
 

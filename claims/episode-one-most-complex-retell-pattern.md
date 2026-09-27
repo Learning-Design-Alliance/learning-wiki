@@ -15,12 +15,14 @@ sources:
     author: Hayes, R. L., and Kan, P. F.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # All children retold MAIN episode one with the most complexity and episode two with the least, regardless of age or language group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Episode number significantly predicted GAO complexity, with episode one > episode three > episode two, and no interactions with language or age group. [→ Hayes 2026](#hayes-2026)
@@ -31,7 +33,7 @@ sources:
 
 Hayes, R. L., and Kan, P. F. (2026). Shared and divergent patterns in narrative skills: comparing English monolingual and Japanese–English bilingual children. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1747702
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Linear mixed effects model on episode complexity (GAO elements) with subject as random effect. Episode one had a mean complexity score of 2.04, episode two 1.52, episode three 1.75; post-hoc tests showed episodes one vs two (p < 0.001) and one vs three (p < 0.05) differed, two vs three did not (p = 0.08).
 

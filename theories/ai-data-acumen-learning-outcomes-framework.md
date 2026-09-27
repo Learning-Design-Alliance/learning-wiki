@@ -16,7 +16,7 @@ sources:
 # AI & Data Acumen Learning Outcomes Framework: seven knowledge dimensions crossed with four cognitive proficiency levels
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The framework is a two-dimensional matrix for scaffolding AI and data literacy in higher education, developed by a University of Arizona task force of faculty, students, and staff. Its Knowledge Dimension "encompasses seven distinct but interrelated domains of knowledge and skills: Self-efficacy, Ethics, Collaboration, Socio-cultural, Innovation and Creativity, Cognitive, and Technical." These are crossed with four cognitive process levels (Remember and Understand, Apply/Use and Analyze, Analyze and Evaluate, Create) so that specific learning outcomes can be written at each intersection for curriculum development and student assessment.

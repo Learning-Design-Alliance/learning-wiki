@@ -15,12 +15,14 @@ sources:
     author: "Lu, Y., Tong, L., & Cheng, Y."
     q: 3
     i: 2
+    kind: design
+    rigour: 2
 ---
 
 # The proposed Transformer-based framework achieved first place in the EDM Cup 2023 with an AUC of 78.969% on the private evaluation dataset
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · design `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i?` The framework won first place on the EDM Cup 2023 private leaderboard with a private AUC of 78.969% for predicting end-of-unit test performance. [→ Lu 2024](#lu-2024)
@@ -31,7 +33,7 @@ sources:
 
 Lu, Y., Tong, L., & Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula Information via an Attention-Based Framework for Accuracy and Interpretability. Journal of Educational Data Mining, 16(2). https://osf.io/mdpzc/
 
-`q3 · i2`
+`q3 · i2` · `design · r2`
 
 Contest evaluation on the held-out private ASSISTments evaluation set, with predictions scored by AUC on Kaggle. The article reports "the first-place position in the contest with an AUC of 78.969% for the private dataset" and notes overall best performance across public and private leaderboards.
 

@@ -15,12 +15,14 @@ sources:
     author: Peariso, J. F.
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports, citing Willingham, that the past 100 years of data consistently show performances on intellectual tests are correlated, so Gardner must account for this correlation if g does not exist. [→ Peariso 2008](#peariso-2008)
@@ -31,7 +33,7 @@ sources:
 
 Peariso, J. F. (2008). Multiple Intelligences or Multiply Misleading: The Critic's View of the Multiple Intelligences Theory. Liberty University. https://eric.ed.gov/?id=ED500515
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The review attributes this argument to Willingham (2004), who contends MI theory does not fit the pattern of the data and therefore cannot be a valid theory of intelligence. Reported second-hand; no correlation coefficients are printed.
 

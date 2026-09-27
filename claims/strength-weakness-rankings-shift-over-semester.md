@@ -15,12 +15,14 @@ sources:
     author: Lepore, C. E.
     q: 2
     i: 0
+    kind: design
+    rigour: 2
 ---
 
 # Self-reported strength and weakness rankings shifted over the semester: comprehensibility remained the most-cited strength, fluency declined as a weakness, and accuracy weakness rankings stayed unchanged
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · design `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i?` Comprehensibility was consistently ranked a strength by roughly half of participants (56% in VT1, 42% in VT2, 53% in VT3), fluency as a weakness decreased 17% in VT3 from VT1, and accuracy weakness rankings remained unchanged at 31%. [→ Lepore 2014](#lepore-2014)
@@ -31,7 +33,7 @@ sources:
 
 Lepore, C. E. (2014). Influencing Students' Pronunciation and Willingness to Communicate through Interpersonal Audio Discussions. Dimension 2014. http://www.voicethread.com
 
-`q2 · i0`
+`q2 · i0` · `design · r2`
 
 Descriptive analysis of Part 4 of the self-assessment forms, where participants chose accuracy, fluency, or comprehensibility as their strongest and weakest points on each activity. The article reports a surge in comprehensibility confidence (53% in VT3), a steady decline in fluency as weakness, and unchanged accuracy weakness rankings (31%).
 

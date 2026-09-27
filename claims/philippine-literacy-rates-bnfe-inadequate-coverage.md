@@ -15,12 +15,14 @@ sources:
     author: Doronila, Maria Luisa C.
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Philippine basic literacy is 89.8% and functional literacy 73.2%, yet BNFE serves only 1.07% of estimated adult education clientele
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The Philippines reports high basic literacy (89.8%) and moderate functional literacy (73.2%), but adult literacy provision is generally inadequate, with the Bureau of Non-Formal Education servicing only 1.07% of its estimated clientele. [→ Doronila 1997](#doronila-1997)
@@ -31,7 +33,7 @@ sources:
 
 Doronila, Maria Luisa C. (1997). A Research and Development Approach to the Delivery of Comprehensive Functional Education and Literacy in the Philippines. https://eric.ed.gov/?id=ED418217
 
-`q2 · i?`
+`q2 · i?` · `design · r1`
 
 Descriptive statistics reported in the Literacy subsection of Part II's contextual analysis of sectoral problems. The author draws these from government reporting (Bureau of Non-Formal Education) to argue that adult literacy provision is severely under-resourced relative to need. No inferential test is applied.
 

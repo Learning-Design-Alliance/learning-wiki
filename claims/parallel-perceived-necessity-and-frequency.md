@@ -15,12 +15,14 @@ sources:
     author: "Winer, L. R., Vázquez-Abad, J. A., & Tessmer, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Steps perceived as most necessary are performed most frequently
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` There is a parallel between the steps perceived as most necessary and those performed most frequently. [→ Winer 1994](#winer-1994)
@@ -31,7 +33,7 @@ sources:
 
 Winer, L. R., Vázquez-Abad, J. A., & Tessmer, M. (1994). Enriching the Layers of Necessity Model. Paper presented at the Annual Meeting of AERA. https://eric.ed.gov/?id=ED371037
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `associational · r1`
 
 Ranking analysis of the Montreal survey compared frequency of performance with perceived necessity for each step; "there is a parallel between the steps which are perceived as most necessary and those which are performed most frequently."
 

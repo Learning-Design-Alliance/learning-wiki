@@ -15,12 +15,14 @@ sources:
     author: Nicholson-Goodman, JoVictoria; Paulston, Rolland G.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # A map risks becoming a new metanarrative unless it is continually remapped and readers actively construct their own maps
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors argue that continual remapping is required both to deprivilege the map itself as metanarrative and to allow space for new voices to emerge in the dialogue. [→ Nicholson-Goodman 1996](#nicholson-goodman-1996)
@@ -31,7 +33,7 @@ sources:
 
 Nicholson-Goodman, JoVictoria; Paulston, Rolland G. (1996). Mapping/Remapping Discourse in Educational Policy Studies. Occasional Paper Series, APS Conceptual Mapping Project. https://eric.ed.gov/?id=ED395559
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Authors' interpretive argument (type e) from the remapping section: because 'No one way of seeing within EE-related discourse can claim privilege over others, not even our own,' the project must open out to alternative mappings and invite readers to construct their own maps. This is a methodological argument, not an empirical test.
 

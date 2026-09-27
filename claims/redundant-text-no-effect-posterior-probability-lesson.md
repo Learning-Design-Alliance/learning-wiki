@@ -15,12 +15,14 @@ sources:
     author: "Clinton, V., Alibali, M. W., & Nathan, M. J."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Redundant text in the diagram did not affect posttest accuracy or difficulty ratings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Performance was not affected by whether the frequency information in the diagram was also presented redundantly in the text. [→ Clinton 2016](#clinton-2016)
@@ -31,7 +33,7 @@ sources:
 
 Clinton, V., Alibali, M. W., & Nathan, M. J. (2016). Learning About Posterior Probability: Do Diagrams and Elaborative Interrogation Help? The Journal of Experimental Education, 84(3), 579-599. https://doi.org/10.1080/00220973.2015.1048847
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Mixed-effects model comparing diagram-with-redundant-text and diagram-without-redundant-text conditions (N = 198) found no main effect and no interaction with questioning condition. Equivalence was not tested; the null is reported as detected-no-effect.
 

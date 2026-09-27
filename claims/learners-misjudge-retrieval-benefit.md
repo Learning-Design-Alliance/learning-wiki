@@ -15,12 +15,16 @@ sources:
     q: 2
     i: "?"
     n: 177
+    kind: associational
+    rigour: 1
   - id: bjork-et-al-2013
     resource: "https://doi.org/10.1146/annurev-psych-113011-143823"
     title: "Bjork, R. A., Dunlosky, J., & Kornell, N. (2013). Self-regulated learning: Beliefs, techniques, and illusions. *Annual Review of Psychology, 64*, 417–444. [doi:10.1146/annurev-psych-113011-143823](https://doi.org/10.1146/annurev-psych-113011-143823)"
     author: "Bjork, R. A., Dunlosky, J., & Kornell, N."
     q: 2
     i: "?"
+    kind: review
+    rigour: "?"
 ---
 
 # Learners Misjudge Retrieval Benefit
@@ -44,7 +48,7 @@ Learners systematically underestimate how much they gain from retrieval practice
 
 Karpicke, J. D., Butler, A. C., & Roediger, H. L. (2009). Metacognitive strategies in student learning: Do students practise retrieval when they study on their own? *Memory, 17*(4), 471–479. [doi:10.1080/09658210802647009](https://doi.org/10.1080/09658210802647009)
 
-`q2` · `i? · the abstract prints no effect size; the full text may` · `n=177`
+`q2` · `i? · the abstract prints no effect size; the full text may` · `n=177` · `associational · r1`
 
 A survey of 177 undergraduates on their own study strategies, plus a forced-choice task asking what they would do with more study time. Rereading dominated both. The design limitation is self-report, which the forced-choice task only partly offsets.
 
@@ -52,7 +56,7 @@ A survey of 177 undergraduates on their own study strategies, plus a forced-choi
 
 Bjork, R. A., Dunlosky, J., & Kornell, N. (2013). Self-regulated learning: Beliefs, techniques, and illusions. *Annual Review of Psychology, 64*, 417–444. [doi:10.1146/annurev-psych-113011-143823](https://doi.org/10.1146/annurev-psych-113011-143823)
 
-`q2` · `i? · the abstract prints no effect size; the full text may`
+`q2` · `i? · the abstract prints no effect size; the full text may` · `review · r?`
 
 A review of self-regulated learning covering the metacognitive illusions that govern study choices: the fluency heuristic, the stability bias, and learners' persistent preference for conditions that raise current performance over conditions that raise later retention. Its design implication is direct — where the effective strategy is also the effortful one, the system has to schedule it rather than offer it.
 

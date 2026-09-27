@@ -15,18 +15,22 @@ sources:
     author: Awanui Te Huia
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: awanui-te-huia-2015-2
     resource: "https://eric.ed.gov/?id=EJ1135051"
     title: "Awanui Te Huia. (2015). Exploring goals and motivations of Māori heritage language learners. Studies in Second Language Learning and Teaching, 5(4), 609-635. https://eric.ed.gov/?id=EJ1135051"
     author: Awanui Te Huia
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Parental and leadership responsibilities (Ngā Takohanga) motivate Māori HL2 learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Parental responsibilities, including desire to transmit te reo Māori to children, were a major motivation for Māori HL2 learners. [→ Awanui Te Huia 2015](#awanui-te-huia-2015)
@@ -38,7 +42,7 @@ sources:
 
 Awanui Te Huia. (2015). Exploring goals and motivations of Māori heritage language learners. Studies in Second Language Learning and Teaching, 5(4), 609-635. https://eric.ed.gov/?id=EJ1135051
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 In the Ngā Takohanga theme, parental responsibilities were discussed as a major consideration given the endangered nature of te reo Māori; participants were motivated to improve skills to support their children or imagined children.
 
@@ -48,7 +52,7 @@ In the Ngā Takohanga theme, parental responsibilities were discussed as a major
 
 Awanui Te Huia. (2015). Exploring goals and motivations of Māori heritage language learners. Studies in Second Language Learning and Teaching, 5(4), 609-635. https://eric.ed.gov/?id=EJ1135051
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Thematic analysis found pressure to perform formal cultural roles (e.g., whaikōrero) was especially strong for high-proficiency learners; as proficiency increased, so did responsibilities, leaving advanced learners with an immense sense of responsibility for revitalisation.
 

@@ -15,18 +15,22 @@ sources:
     author: "Chaiyapornpattana, N., & Wongwanich, S."
     q: 3
     i: "?"
+    kind: design
+    rigour: 3
   - id: chaiyapornpattana-2009-2
     resource: "http://www.aabri.com"
     title: "Chaiyapornpattana, N., & Wongwanich, S. (2009). Development of a multidimensional thinking styles scale based on theory of mental self-government for sixth grade students. Research in Higher Education Journal. http://www.aabri.com"
     author: "Chaiyapornpattana, N., & Wongwanich, S."
     q: 3
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Judicial and liberal are the most prevalent function and leaning styles among Thai sixth graders
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · design `r3` · `q3`
 
 ## Subclaims
 `q3 i?` 51.65 percent of students had judicial style in the function dimension and 78.51 percent had liberal style in the leaning dimension. [→ Chaiyapornpattana 2009](#chaiyapornpattana-2009)
@@ -38,7 +42,7 @@ sources:
 
 Chaiyapornpattana, N., & Wongwanich, S. (2009). Development of a multidimensional thinking styles scale based on theory of mental self-government for sixth grade students. Research in Higher Education Journal. http://www.aabri.com
 
-`q3 · i?`
+`q3 · i?` · `design · r3`
 
 Descriptive analysis by frequencies and percentage of the 1,545-student sample's styles in each dimension. In functions "most of students at 51.65 percent had judicial style of thinking"; the leaning dimension's majority was liberal at 78.51 percent versus conservative at 21.49 percent.
 
@@ -48,7 +52,7 @@ Descriptive analysis by frequencies and percentage of the 1,545-student sample's
 
 Chaiyapornpattana, N., & Wongwanich, S. (2009). Development of a multidimensional thinking styles scale based on theory of mental self-government for sixth grade students. Research in Higher Education Journal. http://www.aabri.com
 
-`q3 · i?`
+`q3 · i?` · `design · r3`
 
 Frequencies and percentages for the level dimension of the same sample: "most of students at 61.36 percent had local style of thinking" versus global at 38.64 percent. The form and scope majorities were hierarchic (58.96%) and external (58.06%).
 

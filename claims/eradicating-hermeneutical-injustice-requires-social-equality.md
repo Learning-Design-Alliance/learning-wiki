@@ -15,12 +15,14 @@ sources:
     author: Göktürk, D.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Eradicating hermeneutical injustice requires sufficient social equality in general, not only slight interpersonal hermeneutical empowerments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The article quotes Fricker (2017) arguing that eradicating hermeneutical injustice will require sufficient social equality in general, beyond slight interpersonal hermeneutical empowerments. [→ Göktürk 2021](#gokturk-2021)
@@ -31,7 +33,7 @@ sources:
 
 Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument the article quotes from Fricker (2017): eradication "will require sufficient social equality in general", because hermeneutical marginalisation is a product of social powerlessness. The article offers it as conceptual grounding, with no empirical evidence.
 

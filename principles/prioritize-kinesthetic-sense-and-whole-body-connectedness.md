@@ -17,7 +17,7 @@ sources:
 # Prioritize the kinesthetic sense and whole-body connectedness so dancers learn to trust their own perceptions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies, `q1` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 design, 1 theoretical), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 Drawing on Fortin's (1994) case study of teacher Glenna Batson, the article identifies "kinesthetic sense and whole-body connectedness" as the two main principles spearheading somatically informed teaching. Focusing on the kinesthetic sense—the implicit feedback from doing movement rather than external sources like teacher or mirror—allows dancers to learn about and trust their own choices, evaluations, and perceptions, which the article calls transforming and empowering for students accustomed to external guides. Improvisation, including contact improvisation and weight-sharing, plus peer-, teacher-, and self-initiated tactile feedback, serve as primary vehicles.

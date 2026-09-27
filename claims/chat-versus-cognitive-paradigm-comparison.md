@@ -15,12 +15,14 @@ sources:
     author: "Koszalka, T. A. & Wu, C.-P."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Traditional cognitive and CHAT paradigms differ on six dimensions of learning research (definition of learning, technology's role, assessment focus, context, evaluator role, data collection)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The CHAT paradigm defines learning as constant interaction with environment and others, with knowledge constructed rather than transferred, and assesses the interaction between users and technology in natural settings. [→ Koszalka 2001](#koszalka-2001)
@@ -31,7 +33,7 @@ sources:
 
 Koszalka, T. A. & Wu, C.-P. (2001). A cultural historical activity theory [CHAT] analysis of technology integration: Case study of two teachers. https://eric.ed.gov/?q=A+cultural+historical+activity+theory+analysis+of+technology+integration
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 A conceptual comparison (Table 1, adapted from Matheson et al., 1999) contrasting the paradigms on six dimensions. The CHAT column states learning is "a process of constant interaction with the environment and others" and that assessment occurs in the natural environment with evaluators as facilitators.
 

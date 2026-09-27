@@ -16,6 +16,8 @@ sources:
     q: 1
     i: "?"
     n: N/A
+    kind: theoretical
+    rigour: "?"
 ---
 
 # Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early.
@@ -37,7 +39,7 @@ The claim concerns novice designers learning design, not experienced designers. 
 
 Svihla, V. (2018). Design thinking and agile design: New trends or just good designs? In *Foundations of Learning and Instructional Design Technology* (1st ed., pp. 295–309). EdTech Books. [https://edtechbooks.org/lidtfoundations/design_thinking_and_agile_design](https://edtechbooks.org/lidtfoundations/design_thinking_and_agile_design)
 
-`q1 · theoretical argument drawing on design research` · `i? · no effect size` · `n=N/A`
+`q1 · theoretical argument drawing on design research` · `i? · no effect size` · `n=N/A` · `theoretical · r?`
 
 A chapter situating design thinking in the design research field, from which it draws lessons for instructional designers. On teaching design, it argues that learning to design is often "a single pass, with no or few opportunities to iterate". It also notes that schooling rewards getting to the right answer efficiently. Agile methods that "encourage designers to come to a tentative solution right away" could therefore "exacerbate a new designer's tendency to leap to solutions". The author treats ADDIE's clarity as a useful scaffold for novices, argues that the field needs comparable scaffolds for agile and human-centred work, and offers her own Wrong Theory Design Protocol as one.
 

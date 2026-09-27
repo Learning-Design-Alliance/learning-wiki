@@ -17,7 +17,7 @@ sources:
 # Cognitive Load Reduction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 0 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies (2 review, 1 causal), `q2`–`q3` · 0 of 3 report an effect size
 
 ## Description
 Cognitive load reduction is the short-form canonical target for instructional moves that simplify presentation, reduce extraneous processing, and make initial learning more manageable.

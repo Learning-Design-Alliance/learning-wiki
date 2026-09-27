@@ -15,12 +15,14 @@ sources:
     author: Wei, Wang and Dong
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Per-pitch BKT attains the highest accuracy, lowest BCE and lowest Brier score of the four model families, but lower AUC than IRT
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` BKT achieved accuracy 0.7520, BCE 0.5528 and Brier 0.180, beating IRT on accuracy by 0.025, while its AUC of 0.653 was 0.019 below the IRT AUC. [→ Wei 2026](#wei-2026)
@@ -31,7 +33,7 @@ sources:
 
 Wei, Wang and Dong. (2026). Cognitive and skill acquisition trajectories in school-based music education: evidence from Chinese classrooms. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1905847
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Held-out evaluation (Table 3) on the identical 492,633-attempt test partition; BKT parameters were estimated per pitch by forward–backward expectation–maximization. Both pairwise differences had bootstrap intervals excluding zero.
 

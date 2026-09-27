@@ -15,12 +15,14 @@ sources:
     author: Stephan Böhm and Georges Philip Constantine
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Mobile language learning apps are used mainly for vocabulary learning among surveyed app users
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Among respondents who had used a mobile language learning app, vocabulary learning was the most supported skill (93 percent), followed by comprehension (71 percent), reading (57 percent), and speaking (50 percent). [→ Stephan Böhm and Georges Philip Constantine 2015](#stephan-bohm-and-georges-philip-constantine-2015)
@@ -31,7 +33,7 @@ sources:
 
 Stephan Böhm and Georges Philip Constantine. (2015). Impact of Contextuality on Mobile Learning Acceptance: An Empirical Study Based on a Language Learning App. 11th International Conference Mobile Learning 2015. https://isbnsearch.org/isbn/9789898533364
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive results from the online survey of students and young professionals (net sample 45): among the 31 percent who had used a mobile language learning app, vocabulary was the most supported skill, and mobile assisted language learning played a rather subsidiary role in participants' language learning approaches.
 

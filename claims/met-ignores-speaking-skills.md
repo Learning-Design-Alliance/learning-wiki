@@ -15,12 +15,14 @@ sources:
     author: Yang Xu
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # China's Matriculation English Test ignores speaking skills despite adding communicative components after 1992
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r1` · `q1`
 
 ## Subclaims
 `q1 i?` After 1992, the Matriculation English Test added listening to dialogues, reading comprehension and compositions, but speaking skills remained ignored. [→ Yang Xu 2010](#yang-xu-2010)
@@ -31,7 +33,7 @@ sources:
 
 Yang Xu. (2010). Theories Analyzing Communicative Approach in China's EFL Classes. English Language Teaching, 3(1). https://eric.ed.gov/?id=EJ1081496
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r1`
 
 The article states that after 1992 the MET added listening, reading comprehension and compositions, "but speaking sills is also ignored". This is the author's descriptive assertion about the examination system, with no data reported.
 

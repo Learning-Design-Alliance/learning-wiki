@@ -17,7 +17,7 @@ sources:
 # Modeling feedback: an original native-speaker text used as a comparison model
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Modeling feedback is the feedback type used in this study: it "involves the use of a text that is written by a native speaker, but the text is original and not a reformulation of a learner's writing". Like reformulation, it provides learners with rich texts of words and structure, especially for EFL learners with less exposure to native-speaker forms. In the study it supplied vocabulary the learner adopted in rewrites.

@@ -15,12 +15,14 @@ sources:
     author: Honglan Wei
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Review-reported experiment found output performed noticing and hypothesis-testing functions but no apparent metalinguistic function in L2 writing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The article reports, citing Zhao Ping's experiment with 35 sophomores and four writing tasks, that output performed noticing and hypothesis-testing functions but showed no apparent metalinguistic function in second language writing. [→ Honglan Wei 2018](#honglan-wei-2018)
@@ -31,7 +33,7 @@ sources:
 
 Honglan Wei. (2018). Implication of Output Hypothesis on Teaching College English Writing ------Based on an interview in JiangXi Normal University. World Journal of Education, 8(5). https://doi.org/10.5430/wje.v8n5p198
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 The article attributes this to Zhao Ping's empirical study at East China Shipbuilding Institute, an experiment with 35 sophomores and four writing tasks, with composition analysis and process research on two subjects. The design is described only as the article describes it.
 

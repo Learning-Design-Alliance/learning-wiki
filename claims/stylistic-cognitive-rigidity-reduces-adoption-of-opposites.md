@@ -15,12 +15,14 @@ sources:
     author: Cameron, Kim
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # More stylistic information processing makes individuals' viewpoints narrower and more rigid, reducing ability to adopt opposite styles
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The more individuals rely on and reinforce one way of thinking over any other, the more narrow and rigid their viewpoint becomes and the less able they are to understand or adopt an opposite style. [→ Cameron 1984](#cameron-1984)
@@ -31,7 +33,7 @@ sources:
 
 Cameron, Kim. (1984). The Paradox in Institutional Renewal. https://eric.ed.gov/?id=ED257351
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 This is the chapter's theoretical argument about cognitive styles, supported by reference to an extensive literature (Kolb, McKenney and Keen, and others) rather than by new data reported here. No effect size is printed.
 

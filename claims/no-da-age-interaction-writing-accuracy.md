@@ -15,18 +15,22 @@ sources:
     author: "Kashef, L., Ghafoori, N., Valizadeh Oghani, A., & Mehrpouyan, A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: kashef-2024-2
     resource: "https://eric.ed.gov/?id=EJ1419474"
     title: "Kashef, L., Ghafoori, N., Valizadeh Oghani, A., & Mehrpouyan, A. (2024). The effect of interactionist vs. interventionist dynamic assessment on writing accuracy of young vs. adult IELTS candidates. International Journal of Language Testing, 14(1), 1–16. https://eric.ed.gov/?id=EJ1419474"
     author: "Kashef, L., Ghafoori, N., Valizadeh Oghani, A., & Mehrpouyan, A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # No interaction between treatment type (interactionist vs. interventionist DA) and learners' age on writing accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The two-way ANOVA DA-by-age interaction on writing accuracy was non-significant (p=0.650). [→ Kashef 2024](#kashef-2024)
@@ -38,7 +42,7 @@ sources:
 
 Kashef, L., Ghafoori, N., Valizadeh Oghani, A., & Mehrpouyan, A. (2024). The effect of interactionist vs. interventionist dynamic assessment on writing accuracy of young vs. adult IELTS candidates. International Journal of Language Testing, 14(1), 1–16. https://eric.ed.gov/?id=EJ1419474
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Omnibus two-way ANOVA interaction term (IDA*Age Group) for 140 IELTS candidates' post-test writing accuracy; only the p-value is printed, no effect size.
 
@@ -48,7 +52,7 @@ Omnibus two-way ANOVA interaction term (IDA*Age Group) for 140 IELTS candidates'
 
 Kashef, L., Ghafoori, N., Valizadeh Oghani, A., & Mehrpouyan, A. (2024). The effect of interactionist vs. interventionist dynamic assessment on writing accuracy of young vs. adult IELTS candidates. International Journal of Language Testing, 14(1), 1–16. https://eric.ed.gov/?id=EJ1419474
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Figure 1 profile plots for the interaction between assessment type and age; the text sentence describing the figure confirms parallel lines for young and adult groups across the two DA treatments.
 

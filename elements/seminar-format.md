@@ -12,7 +12,7 @@ generated:
 # Seminar Format
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 7 studies, `q2`–`q4` · 2 of 7 report an effect size
+> **Evidence** · 5 claims (5 for) · 7 studies (4 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Seminar format is the element in which learning is organized around sustained discussion of a shared text, question, or issue with facilitator support but strong learner participation. It is useful when interpretation, reasoning, and dialogue are central.

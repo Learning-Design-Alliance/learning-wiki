@@ -15,24 +15,30 @@ sources:
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-2
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-3
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Practicing retrieval of some portions of an educational text can enhance retention of related nontested portions (retrieval-induced facilitation), but not when relational encoding is disrupted
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Chan et al. (2006), that short-answer retrieval practice on educational texts enhanced later performance on both tested and nontested material relative to no retrieval practice. [→ Karpicke 2017](#karpicke-2017)
@@ -45,7 +51,7 @@ sources:
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports Chan et al. (2006), whose initial questions covered only some portions of texts: "practicing retrieval enhanced performance on both the tested and nontested material".
 
@@ -55,7 +61,7 @@ The chapter reports Chan et al. (2006), whose initial questions covered only som
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports Chan (2010), showing that "these transfer effects persist after delays of 1 day and 1 week".
 
@@ -65,7 +71,7 @@ The chapter reports Chan (2010), showing that "these transfer effects persist af
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports Chan (2009), where randomizing sentence order disrupted relational encoding: "there was no longer a retrieval-induced facil- itation effect for nontested material".
 

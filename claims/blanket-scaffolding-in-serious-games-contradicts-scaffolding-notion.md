@@ -15,12 +15,14 @@ sources:
     author: Obikwelu, C, Read, J, and Sim, G.
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Current serious games give all learners the same unregulated scaffolding, which the authors argue contradicts the notion of scaffolding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In current classroom application of serious games, all learners receive the same scaffolding ('blanket scaffolding') regardless of changing expertise, which the authors argue contradicts the very notion of scaffolding. [→ Obikwelu 2013](#obikwelu-2013)
@@ -31,7 +33,7 @@ sources:
 
 Obikwelu, C, Read, J, and Sim, G. (2013). Children’s Problem-Solving in Serious Games: The “Fine-Tuning System (FTS)” Elaborated. The Electronic Journal of e-Learning Volume 11 Issue 1. https://www.ejel.org
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `review · r1`
 
 A literature-analysis section (§4 Problems and Solutions) of this narrative review-style paper reports that embedded learning support in serious games does not consider multiple ZPDs in the classroom, so "All learners get the “same” scaffolding – “blanket scaffolding”". No empirical data are reported; this is the authors' synthesis of cited literature.
 

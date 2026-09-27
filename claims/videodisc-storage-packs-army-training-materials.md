@@ -15,12 +15,14 @@ sources:
     author: Bunderson, C. Victor; Campbell, J. Olin; Farr, Beatrice J.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # A single videodisc side can hold the equivalent of large volumes of Army printed and audiovisual training materials
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Assuming reformatting to no more than 500 characters per video page, a 30-minute disc side could pack 100 Correspondence Courses, 65 Field Manuals, 100 Soldiers Manuals, and 160 How-to-Fight Manuals, plus 100 TEC lessons with no motion using still-frame audio. [→ Bunderson 1980](#bunderson-1980)
@@ -31,7 +33,7 @@ sources:
 
 Bunderson, C. Victor; Campbell, J. Olin; Farr, Beatrice J. (1980). Instructional Systems Development Model for Interactive Videodisc Training Delivery Systems. Volume I: Hardware, Software and Procedures. Army Research Institute Technical Report 511. https://eric.ed.gov/?id=ED220071
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Analytical capacity estimate from the Bunderson and Jarvis (1979) study, reported in the intelligent videodisc systems section, assuming reformatting to no more than 500 characters per video page. The report frames this as a solution to soldiers drowning in print; no delivery experiment is reported.
 

@@ -12,7 +12,7 @@ generated:
 # Scenario-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Scenario-based learning is the element in which instruction is organized around a realistic situation, case, or mission that requires learners to interpret information and make decisions in context. It is useful when the goal is application, transfer, and judgment under conditions that resemble real use.

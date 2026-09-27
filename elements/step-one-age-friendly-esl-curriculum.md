@@ -17,7 +17,7 @@ sources:
 # Step One: a free age-friendly pre-beginning ESL and citizenship curriculum for older immigrants
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (1 review, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Step One is a curriculum developed over a 2-year USCIS-funded project and field-tested with an "older beginner" ESL class. It "introduces practical oral communication skills and reinforces them with related literacy exercises," teaches a beginner-suitable subset of US citizenship civics content, and familiarizes students with their community, with an implicit goal of reducing social and linguistic isolation. Each unit contains instructions for an oral-communication lesson, visuals, and literacy worksheets, organized into "Speaking English," Civics, and "Life in the US" sections, plus a teachers' guide on older learners' needs. Draft units, teachers' guide, and program tools are free downloads at joneslibrary.org/step-one.

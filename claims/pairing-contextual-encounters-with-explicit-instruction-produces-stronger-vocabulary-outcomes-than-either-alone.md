@@ -15,12 +15,14 @@ sources:
     q: 3
     i: "?"
     n: "? (meta-analysis; component-study count not stated in the abstract read)"
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=? (meta-analysis; component-study count not stated in the abstract read)
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3` · n=? (meta-analysis; component-study count not stated in the abstract read)
 
 Vocabulary learning is strongest when learners meet words in meaningful contexts (reading, listening, use) *and* receive deliberate instruction on word meanings — neither incidental exposure nor isolated instruction alone matches the combination.
 
@@ -34,7 +36,7 @@ Vocabulary learning is strongest when learners meet words in meaningful contexts
 
 Stahl, S. A., & Fairbanks, M. M. (1986). The Effects of Vocabulary Instruction: A Model-Based Meta-Analysis. *Review of Educational Research, 56*(1), 72–110. [doi:10.3102/00346543056001072](https://doi.org/10.3102/00346543056001072)
 
-`q3 · meta-analysis of vocabulary-instruction studies (not pre-registered)` · `i? · no effect size for combined versus single methods in the abstract; overall d=0.97 (taught-word passages) and d=0.30 (global comprehension)` · `n=? (meta-analysis; component-study count not stated in the abstract read)`
+`q3 · meta-analysis of vocabulary-instruction studies (not pre-registered)` · `i? · no effect size for combined versus single methods in the abstract; overall d=0.97 (taught-word passages) and d=0.30 (global comprehension)` · `n=? (meta-analysis; component-study count not stated in the abstract read)` · `quant-synthesis · r?`
 
 This meta-analysis synthesized studies on the effects of vocabulary instruction on word-meaning learning and text comprehension. It found a mean effect size of .97 for comprehension of passages containing the taught words and .30 for global comprehension measures, both reliably different from zero. Comparing instructional approaches, the authors concluded that the most effective methods combined definitional and contextual information rather than relying on either alone, involved learners in deeper processing of word meanings, and provided more than one or two exposures to the words being taught This supports the claim, but as the authors' conclusion from comparing methods; the abstract reports no effect size for combined against single methods.
 

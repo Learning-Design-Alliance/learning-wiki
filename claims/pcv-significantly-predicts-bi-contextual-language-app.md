@@ -15,12 +15,14 @@ sources:
     author: Stephan Böhm and Georges Philip Constantine
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Perceived contextual value significantly predicts behavioral intention to use a context-aware mobile language learning app
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` PCV has a significant positive path to behavioral intention (path coefficient 0.2737, t = 2.2317, p<0.05). [→ Stephan Böhm and Georges Philip Constantine 2015](#stephan-bohm-and-georges-philip-constantine-2015)
@@ -31,7 +33,7 @@ sources:
 
 Stephan Böhm and Georges Philip Constantine. (2015). Impact of Contextuality on Mobile Learning Acceptance: An Empirical Study Based on a Language Learning App. 11th International Conference Mobile Learning 2015. https://isbnsearch.org/isbn/9789898533364
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 PLS-SEM analysis of survey data from a net sample of 45 students and young professionals evaluating the CoLaLe app concept; the bootstrapped path from PCV to BI was 0.2737 with t-value 2.2317, significant at p<0.05 as marked in Table 3.
 

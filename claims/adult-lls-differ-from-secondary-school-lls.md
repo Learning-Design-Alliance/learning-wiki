@@ -15,12 +15,14 @@ sources:
     author: Jeffrey Wallace Judge
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # The LLSs Spanish adults use in business communication are not necessarily the LLSs taught or used in Spanish secondary school English classes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Memory strategies were taught via flashcards in secondary school but were not frequently employed in adulthood, while cognitive strategies taught in class were also used in business tasks. [→ Jeffrey Wallace Judge 2012](#jeffrey-wallace-judge-2012)
@@ -31,7 +33,7 @@ sources:
 
 Jeffrey Wallace Judge. (2012). Use of Language Learning Strategies by Spanish Adults for Business English. International Journal of English Studies, 12(1), 37-54. http://www.um.es/ijes
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Discussion of the interview data: most English teachers in Spanish secondary school did not teach specific LLSs, and those who did used memorization via flashcards, yet participants rarely used memory strategies as adults. The author speculates students may later reject frequently taught strategies. No effect size is reported.
 

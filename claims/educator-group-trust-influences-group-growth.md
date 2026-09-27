@@ -15,12 +15,14 @@ sources:
     author: Campbell, M. Donald
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Trust between the adult educator and the group positively influences group growth
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Trust between the adult educator and the group positively influences group growth, influencing growth as much as or more than any educator function. [→ Campbell 1978](#campbell-1978)
@@ -31,7 +33,7 @@ sources:
 
 Campbell, M. Donald. (1978). Educator Influence on Group Growth in Community Problem Solving. Paper presented at the Adult Education Research Conference, San Antonio, Texas. https://eric.ed.gov/?id=ED152994
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Case-comparison evidence: the groups ranking first and second on growth demonstrated extensive trust in their educators, while the three lower-ranked groups showed skepticism or lacked established trust. The article calls trust an obvious-sounding but important finding.
 

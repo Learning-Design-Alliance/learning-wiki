@@ -15,12 +15,14 @@ sources:
     author: Ronald E. Chennault
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Generals's case that Washington's Tuskegee practices were as reform-oriented as those identified with the progressive education movement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Generals places Washington within the progressivist tradition, arguing his practices challenged the traditional delivery of subject matter just as much as those otherwise identified with progressive education. [→ Ronald E. Chennault 2013](#ronald-e-chennault-2013)
@@ -31,7 +33,7 @@ sources:
 
 Ronald E. Chennault. (2013). Pragmatism and Progressivism in the Educational Thought and Practices of Booker T. Washington. Philosophical Studies in Education, Volume 44. https://eric.ed.gov/?id=EJ1015729
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Historiographical assessment of Generals's Journal of Negro Education argument: the author endorses it as "well-evidenced," finding Washington's practices as reform-oriented as those identified with progressive education, with Moses likewise placing Washington under progressivism's big tent.
 

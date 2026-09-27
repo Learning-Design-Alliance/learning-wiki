@@ -15,12 +15,14 @@ sources:
     author: "Flowers, C. P., Oshima, T. C., & Raju, N. S."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # NCDIF Type I error rates are unaffected by focal group distribution, unlike SIBTEST and Lord's chi-square
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` NCDIF Type I error rates were almost identical under N(0,1) and N(-1,1) focal group distributions, while SIBTEST's error rate increased under the unequal distribution. [→ Flowers 1997](#flowers-1997)
@@ -31,7 +33,7 @@ sources:
 
 Flowers, C. P., Oshima, T. C., & Raju, N. S. (1997). The Relationship between Polytomous DFIT and Other Polytomous DIF Procedures. Paper presented at the NCME Annual Meeting, Chicago. https://eric.ed.gov/?id=ED410300
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Simulation comparing focal group ability distributions N(0,1) and N(-1,1) against a reference group of N(0,1). The authors attribute SIBTEST's inflation to "an over-regression-correction" (Chang, Mazzeo, & Roussos, 1996) when distributions are not equivalent.
 

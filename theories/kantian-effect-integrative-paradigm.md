@@ -16,7 +16,7 @@ sources:
 # The Kantian Effect: a metaphor and paradigm linking intertextuality and interdisciplinarity through four dialogic principles
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (8 for) · 3 studies, `q1`–`q2` · 0 of 3 report an effect size · 8 claims rest on one study
+> **Evidence** · 8 claims (8 for) · 3 studies (3 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 8 claims rest on one study
 
 ## Description
 The Kantian Effect is the article's proposed metaphor for the scholarship of integration and a paradigm for reimagining interdisciplinarity. It characterizes "the constructivism and intertextuality evident across the disciplines" that Kant separates architectonically and Bakhtin reconnects dialogically. The article articulates four guiding principles: language and dialogue create unity out of differences; words, texts, genres, and disciplines integrate through dialogic processes, making intertextuality and interdisciplinarity figurative equivalents; dialogism is a continuum on which intertextuality and interdisciplinarity are complementary nodes; and exigence, context, intertext, and hypertext determine the proper application of interdisciplinarity.

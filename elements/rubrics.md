@@ -12,7 +12,7 @@ generated:
 # Rubrics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q2` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies (4 causal), `q2` · 0 of 4 report an effect size
 
 ## Description
 Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.

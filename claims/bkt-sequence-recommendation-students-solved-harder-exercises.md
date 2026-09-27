@@ -15,12 +15,14 @@ sources:
     author: Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The survey reports, citing Desmarais and Baker, that students using the BKT-sequence recommendation algorithm solved more difficult exercises, obtained higher performance and spent more time in the system than students using the traditional approach.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports students using BKT-sequence solved more difficult exercises, performed better and spent more time in the system than students with the traditional approach. [→ Shuanghong Shen 2021](#shuanghong-shen-2021)
@@ -31,7 +33,7 @@ sources:
 
 Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review of Desmarais and Baker's BKT-sequence algorithm: "students using the BKT-sequence algorithm were able to solve more difficult exercises, obtained higher performance" than students using the traditional approach. No sample or statistics are printed in the survey.
 

@@ -16,7 +16,7 @@ sources:
 # A feminist view of science based on interconnectedness, relationships as webs, and legitimate subjectivity
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper advances an account of science, drawing on Gilligan, Fox Keller and others, in which relationships between phenomena are seen as a connected web rather than a hierarchy, subjectivity and human experience are legitimate parts of investigation, and emotions may be attributed to behaviour of atoms, molecules and forces. The authors argue that anthropomorphic explanation fits this framework: it offers "interconnectedness,notobjectivity,human-ness,not mechanistic approaches" as frameworks for examining phenomena. They present it as a movement towards a less masculine, more feminist science in which the needs of, for example, the planet are taken into account as a matter of course.

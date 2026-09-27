@@ -15,12 +15,14 @@ sources:
     q: 2
     i: "?"
     n: 13 children across two tasks (9 bus task, 4 healthcare task), from a majority Hispanic and Black, low-income school district
+    kind: design
+    rigour: 2
 ---
 
 # Funds-of-knowledge-grounded tasks reveal computational thinking that decontextualized assessment misses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · n=13 children across two tasks (9 bus task, 4 healthcare task), from a majority Hispanic and Black, low-income school district
+> **Evidence** · 1 study · design `r2` · `q2` · n=13 children across two tasks (9 bus task, 4 healthcare task), from a majority Hispanic and Black, low-income school district
 
 When formative assessment tasks for young children are built around specific household and community practices identified through family interviews, they reveal computational thinking (sequencing, abstraction, data reasoning, algorithmic logic) that standard, decontextualized computational-thinking assessments are likely to miss.
 
@@ -35,7 +37,7 @@ When formative assessment tasks for young children are built around specific hou
 
 Randall, J., Earnest, D., Thota, N., & Mensing, S. (2025). Investigating and assessing informal computational thinking in grades K-2: A funds of knowledge approach. *Journal of the Learning Sciences, 34*(4), 526-570. [https://doi.org/10.1080/10508406.2025.2574311](https://doi.org/10.1080/10508406.2025.2574311)
 
-`q2 · design-based research with iterative task development and clinical interviews, no comparison to a standard non-FoK assessment within the same children` · `i? · the abstract prints no effect size; the full text may` · `n=13 children across two tasks (9 bus task, 4 healthcare task), from a majority Hispanic and Black, low-income school district`
+`q2 · design-based research with iterative task development and clinical interviews, no comparison to a standard non-FoK assessment within the same children` · `i? · the abstract prints no effect size; the full text may` · `n=13 children across two tasks (9 bus task, 4 healthcare task), from a majority Hispanic and Black, low-income school district` · `design · r2`
 
 Following [family-interview-based assessment task design](../methods/family-interview-based-assessment-task-design.md), researchers interviewed families to surface community practices (bus commuting, healthcare visits), then co-designed play-based clinical-interview tasks with teachers using character cards and manipulatives. In the bus task, all children demonstrated modeling/simulation and most demonstrated data reasoning; some showed abstraction and algorithmic sequencing when asked to justify non-obvious pickup orders. In the healthcare task, all children demonstrated data reasoning about medical tools, and most demonstrated algorithmic sequencing of visit steps. The standard computational-thinking constructs assessed (abstraction, algorithms, data, modeling/simulation) were the Massachusetts DLCS framework's existing definitions — the contribution is the assessment task design, not new CT constructs.
 

@@ -15,6 +15,8 @@ sources:
     q: 4
     i: 0
     n: 146 studies
+    kind: quant-synthesis
+    rigour: "?"
   - id: smyth-1998
     resource: "https://doi.org/10.1037/0022-006X.66.1.174"
     title: "Smyth, J. M. (1998). Written emotional expression: Effect sizes, outcome types, and moderating variables. *Journal of Consulting and Clinical Psychology, 66*(1), 174–184. [doi:10.1037/0022-006X.66.1.174](https://doi.org/10.1037/0022-006X.66.1.174)"
@@ -22,6 +24,8 @@ sources:
     q: 3
     i: "?"
     n: not stated in the abstract read
+    kind: quant-synthesis
+    rigour: "?"
   - id: frisina-et-al-2004
     resource: "https://doi.org/10.1097/01.nmd.0000138317.30764.63"
     title: "Frisina, P. G., Borod, J. C., & Lepore, S. J. (2004). A meta-analysis of the effects of written emotional disclosure on the health outcomes of clinical populations. *Journal of Nervous & Mental Disease, 192*(9), 629–634. [doi:10.1097/01.nmd.0000138317.30764.63](https://doi.org/10.1097/01.nmd.0000138317.30764.63)"
@@ -29,12 +33,14 @@ sources:
     q: 3
     i: 0
     n: 9 studies
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Expressive Writing Improves Health Outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q3`–`q4` · `i0` negligible
+> **Evidence** · 3 studies · 3 quant-synthesis `r?` · `q3`–`q4` · `i0` negligible
 
 Writing about emotional experiences improves physical and psychological health outcomes relative to writing about neutral topics.
 
@@ -52,7 +58,7 @@ Writing about emotional experiences improves physical and psychological health o
 
 Frattaroli, J. (2006). Experimental disclosure and its moderators: A meta-analysis. *Psychological Bulletin, 132*(6), 823–865. [doi:10.1037/0033-2909.132.6.823](https://doi.org/10.1037/0033-2909.132.6.823)
 
-`q4 · random-effects meta-analysis of randomized studies` · `i0 · negligible average effect, r=.075` · `n=146 studies`
+`q4 · random-effects meta-analysis of randomized studies` · `i0 · negligible average effect, r=.075` · `n=146 studies` · `quant-synthesis · r?`
 
 A meta-analysis of 146 randomized studies of experimental disclosure (writing or talking about personal, meaningful topics versus control conditions). Using a random-effects model, which generalizes beyond the included studies unlike the two earlier fixed-effects syntheses, it found disclosure effective, with a positive and significant but very small average effect size (r = .075). A number of moderators were identified, so the benefit depends on how and for whom the paradigm is run. This supports the direction of the claim while heavily qualifying its size.
 
@@ -60,7 +66,7 @@ A meta-analysis of 146 randomized studies of experimental disclosure (writing or
 
 Smyth, J. M. (1998). Written emotional expression: Effect sizes, outcome types, and moderating variables. *Journal of Consulting and Clinical Psychology, 66*(1), 174–184. [doi:10.1037/0022-006X.66.1.174](https://doi.org/10.1037/0022-006X.66.1.174)
 
-`q3 · research synthesis (fixed-effects meta-analysis)` · `i? · effect size not stated in the abstract read` · `n=not stated in the abstract read`
+`q3 · research synthesis (fixed-effects meta-analysis)` · `i? · effect size not stated in the abstract read` · `n=not stated in the abstract read` · `quant-synthesis · r?`
 
 A research synthesis of studies in which healthy participants completed a written emotional expression task. Writing led to significantly improved health in four outcome types (reported physical health, psychological well-being, physiological functioning and general functioning), but health behaviours were not influenced. Writing increased immediate distress, which was unrelated to later health outcomes. The effect was moderated by use of college students as participants, gender, duration of the manipulation, publication status and specific writing instructions.
 
@@ -68,7 +74,7 @@ A research synthesis of studies in which healthy participants completed a writte
 
 Frisina, P. G., Borod, J. C., & Lepore, S. J. (2004). A meta-analysis of the effects of written emotional disclosure on the health outcomes of clinical populations. *Journal of Nervous & Mental Disease, 192*(9), 629–634. [doi:10.1097/01.nmd.0000138317.30764.63](https://doi.org/10.1097/01.nmd.0000138317.30764.63)
 
-`q3 · meta-analysis` · `i0 · negligible overall effect, d=.19` · `n=9 studies`
+`q3 · meta-analysis` · `i0 · negligible overall effect, d=.19` · `n=9 studies` · `quant-synthesis · r?`
 
 A meta-analysis of nine studies applying the written emotional disclosure paradigm to people with physical or psychiatric disorders. Expressive writing significantly improved health overall (d = .19), and a planned contrast showed it was more effective on physical (d = .21) than psychological (d = .07) outcomes. The authors attribute the small effects partly to small, heterogeneous samples and call for randomized controlled trials.
 

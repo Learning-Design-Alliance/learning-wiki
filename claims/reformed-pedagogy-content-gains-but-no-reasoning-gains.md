@@ -15,12 +15,14 @@ sources:
     author: "Moore, J. C., & Rubbo, L. J."
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Research-verified active-engagement pedagogy yields significant content gains (g ≈ 0.38–0.42) but essentially zero gains on the LCTSR (g = 0.06) without explicit reasoning instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i1` Average normalized gains of 0.38 (DIRECT), 0.42 (TUG-K), and 0.39 (SPCI) were achieved under reformed pedagogy, while LCTSR gains were 0.06, essentially equivalent to zero. [→ Moore 2011](#moore-2011)
@@ -31,7 +33,7 @@ sources:
 
 Moore, J. C., & Rubbo, L. J. (2011). Scientific reasoning abilities of non-science majors in physics-based courses. https://arxiv.org/abs/1110.2764
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Table II reports average normalized gains for students in the authors' courses over three years: DIRECT g=0.38 (N=40), TUG-K g=0.42 (N=38), SPCI g=0.39 (N=36), and LCTSR g=0.06 (N=62, matched data from both courses). Content gains were significant though lower than some active-engagement algebra/calculus-based courses.
 

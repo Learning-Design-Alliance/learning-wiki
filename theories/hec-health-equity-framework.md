@@ -16,7 +16,7 @@ sources:
 # HEC Health Equity Framework: actions to disrupt intersecting systems of oppression surrounding improved care at the centre
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The co-developed HEC Health Equity Framework places "improved care for patients, caregivers, and communities" at the centre of concentric circles, surrounded by complementary actions that healthcare organizations and individuals take to advance EDI, which are in turn framed by institutional, interpersonal, and internalized oppressions and by intersecting systems of oppression as the ultimate targets of anti-oppressive activity. It was produced through iterative advisory group feedback over seven months and refined at a two-day in-person meeting. It is publicly available via the HEC website with implementation supports.

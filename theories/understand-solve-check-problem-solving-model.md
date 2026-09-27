@@ -16,7 +16,7 @@ sources:
 # Understand-solve-check model of examinee problem solving
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A general cognitive model of performance on figural response items, adapted from Lewis and Polson's theory of computer interface use and grounded in verbal protocols from one pilot subject. "The model consists of processes relevant for constructing an initial representation of the item (i.e., understanding the problem stem and provided diagram), forming goals and performing actions based on those goals (i.e., solving the item), and determining whether goals have been satisfied and if they have been satisfied correctly." The model asserts the processes exist but makes no claims about their order. It served as the basis for defining 38 item attributes assigned to the three process types by two judges with 88% agreement.

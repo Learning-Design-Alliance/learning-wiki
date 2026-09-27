@@ -15,12 +15,14 @@ sources:
     author: "Cheng, Y.-H., & Good, R. L."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Learners hold positive attitudes toward glosses, but their perceptions of which gloss type works best do not match measured performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 75% of experimental-group subjects said glosses were helpful for comprehension and vocabulary learning, yet subjects' perceptions of the most helpful gloss type did not match the test results. [→ Cheng 2009](#cheng-2009)
@@ -31,7 +33,7 @@ sources:
 
 Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. http://nflrc.hawaii.edu/rfl
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Descriptive questionnaire (24 items, in Chinese) administered to all subjects after the posttest. Item 6: 42% thought L1-gloss-L2-ex best for learning words, but in-text glosses scored slightly higher (M = 8.68 vs 8.53, not significant); the authors conclude perceptions do not match performance.
 

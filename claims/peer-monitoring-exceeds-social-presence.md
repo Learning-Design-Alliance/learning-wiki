@@ -15,12 +15,14 @@ sources:
     author: "Honig, C.A. & Salmon, D."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Peer monitoring among MBA learners goes beyond CoI social presence by involving professionally relevant evaluation of peers' contributions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` MBA learners strategically sought out and evaluated peers according to their potential to advance their own learning goals, an evaluative dimension not captured by the CoI survey's social presence items. [→ Honig 2021](#honig-2021)
@@ -31,7 +33,7 @@ sources:
 
 Honig, C.A. & Salmon, D. (2021). Learner presence matters: A learner-centered exploration into the community of inquiry framework. Online Learning, 25(2), 95-119. https://doi.org/10.24059/olj.v25i2.2237
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 Interview-based finding from six MBA students in the stimulated recall study. Learners described reviewing course introductions to identify contributing colleagues and evaluating peer effort, framing social interaction "as less about affirmation and comfort and more about assessing peers for what they could offer."
 

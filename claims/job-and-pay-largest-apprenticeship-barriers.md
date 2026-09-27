@@ -15,12 +15,14 @@ sources:
     author: Huang, Wenrui, Dajanae Palmer, Ekaete Udoh, Yung Chun, and Jason Jabbari
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Finding another job (29.1%) and low apprenticeship pay (13.9%) are the largest barriers to completing the LC101 apprenticeship phase
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Finding another job was the most cited reason for apprenticeship non-completion (29.1%), followed by low pay (13.9%). [→ Huang 2025](#huang-2025)
@@ -31,7 +33,7 @@ sources:
 
 Huang, Wenrui, Dajanae Palmer, Ekaete Udoh, Yung Chun, and Jason Jabbari. (2025). Pinpointing Persistence in Alternative STEM Pipelines: Evidence from a Novel Coding and Apprenticeship Program. EdWorkingPaper No. 25-1122. https://edworkingpapers.com/ai25-1122
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive analysis of survey-reported reasons for non-persistence in the apprenticeship phase (524 participants). The article reports "finding another job with 29.1% of participants" and low pay at 13.9% as the leading reasons.
 

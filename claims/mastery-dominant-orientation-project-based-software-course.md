@@ -15,12 +15,14 @@ sources:
     author: Yildirim, Z.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Students in a project-based software development course are predominantly mastery-oriented, with mastery and combined mastery/ego-social the dominant profiles
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Descriptive results showed subjects were closest to mastery goal orientation (M=3.87), then ego-social (M=2.97), then work avoidant (M=2.1). [→ Yildirim 2003](#yildirim-2003)
@@ -31,7 +33,7 @@ sources:
 
 Yildirim, Z. (2003). Relationship between Achievement Goal Orientation and Collaboration in Project-Based Learning Process. https://eric.ed.gov/?id=ED493521
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive analysis (Table 1) of survey scores from 48 fourth-year students in a 14-week project-based course; the study reported subjects "very close to mastery goal orientation (M=3.87)" with SD=.51, ego-social M=2.97, work avoidant M=2.10. No effect size is printed for this descriptive ordering.
 

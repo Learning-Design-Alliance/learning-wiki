@@ -15,12 +15,14 @@ sources:
     author: de Beaugrande, Robert
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Explicit statement of tasks and standards for success has a strong positive effect on student motivation in writing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The article reports that experiments suggest an explicit statement of the tasks to be accomplished and the standards for determining success has a strong positive effect on student motivation. [→ de Beaugrande 1977](#de-beaugrande-1977)
@@ -31,7 +33,7 @@ sources:
 
 de Beaugrande, Robert. (1977). Writing as a Decision Process. https://eric.ed.gov/?id=ED159704
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The paper cites experiments (no design, sample, or statistics printed) suggesting that "an etplicit statement of.the tasks to be accomplishe44ndthe'standards- for. detirmining success has a strong positive effecton student motivation". No effect size is reported.
 

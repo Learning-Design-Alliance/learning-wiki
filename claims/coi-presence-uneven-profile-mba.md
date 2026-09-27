@@ -15,18 +15,22 @@ sources:
     author: "Honig, C.A. & Salmon, D."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
   - id: honig-2021-2
     resource: "https://doi.org/10.24059/olj.v25i2.2237"
     title: "Honig, C.A. & Salmon, D. (2021). Learner presence matters: A learner-centered exploration into the community of inquiry framework. Online Learning, 25(2), 95-119. https://doi.org/10.24059/olj.v25i2.2237"
     author: "Honig, C.A. & Salmon, D."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while facilitation behaviors and resolution-phase items rated below 4.0
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Teaching presence was most strongly felt via course organization items (e.g., clear instructions M = 4.31) while various facilitation behaviors received ratings below 4.0. [→ Honig 2021](#honig-2021)
@@ -38,7 +42,7 @@ sources:
 
 Honig, C.A. & Salmon, D. (2021). Learner presence matters: A learner-centered exploration into the community of inquiry framework. Online Learning, 25(2), 95-119. https://doi.org/10.24059/olj.v25i2.2237
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 Descriptive statistics from the CoI Survey (n = 32 completions) showing teaching presence subscale results. Organization items scored above 4.0 while "various ratings associated with facilitation behaviors received ratings below 4.0."
 
@@ -48,7 +52,7 @@ Descriptive statistics from the CoI Survey (n = 32 completions) showing teaching
 
 Honig, C.A. & Salmon, D. (2021). Learner presence matters: A learner-centered exploration into the community of inquiry framework. Online Learning, 25(2), 95-119. https://doi.org/10.24059/olj.v25i2.2237
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 Descriptive statistics from the CoI Survey cognitive presence subscale (n = 32). Exploration items scored highest, while items on curiosity (M = 3.88), reflection (M = 3.91), and describing ways to test knowledge (M = 3.94) fell below 4.0.
 

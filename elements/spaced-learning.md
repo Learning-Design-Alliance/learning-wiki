@@ -12,7 +12,7 @@ generated:
 # Spaced Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (6 for) · 5 studies, `q2`–`q4` · 3 of 5 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 5 studies (3 quant-synthesis, 1 causal, 1 review), `q2`–`q4` · 3 of 5 report an effect size · 3 claims rest on one study
 
 ## Description
 Spaced learning is the element in which practice or review is distributed over time rather than massed together.

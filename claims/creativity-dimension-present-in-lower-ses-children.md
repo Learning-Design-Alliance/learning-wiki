@@ -15,18 +15,22 @@ sources:
     author: Ward, William C., Nathan Kogan, and Ethel Pankove
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: ward-1970-2
     resource: "https://eric.ed.gov/?id=ED045766"
     title: "Ward, William C., Nathan Kogan, and Ethel Pankove. (1970). Motivation and Capacity in Children's Creativity. Research Bulletin. Educational Testing Service. https://eric.ed.gov/?id=ED045766"
     author: Ward, William C., Nathan Kogan, and Ethel Pankove
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The creativity dimension appears strongly in lower-SES urban black fifth-grade children and shows little relation to IQ
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Fluency scores on the four creativity tasks intercorrelated substantially in the control sample. [→ Ward 1970](#ward-1970)
@@ -38,7 +42,7 @@ sources:
 
 Ward, William C., Nathan Kogan, and Ethel Pankove. (1970). Motivation and Capacity in Children's Creativity. Research Bulletin. Educational Testing Service. https://eric.ed.gov/?id=ED045766
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Baseline correlational analysis of the 64 Control-group children; fluency intercorrelations "ranging from .44 to .79, with an average correlation of .66", which the authors note matches earlier mostly white middle-class samples.
 
@@ -48,7 +52,7 @@ Baseline correlational analysis of the 64 Control-group children; fluency interc
 
 Ward, William C., Nathan Kogan, and Ethel Pankove. (1970). Motivation and Capacity in Children's Creativity. Research Bulletin. Educational Testing Service. https://eric.ed.gov/?id=ED045766
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Secondary correlational analysis for the 52 subjects with Kuhlman-Anderson IQ scores; IQ-creativity correlations "from -.01 to .11 for the four tasks, with an average correlation of .05".
 

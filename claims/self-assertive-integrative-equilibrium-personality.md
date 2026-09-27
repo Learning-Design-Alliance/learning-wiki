@@ -15,12 +15,14 @@ sources:
     author: "Sheldon-Keller, Adrienne & West, Malcolm"
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Complex systems function properly only when self-assertive and integrative tendencies are in equilibrium
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Per Koestler's holon account, a system remains stable and functional only while its self-assertive (agency-like) and integrative (communion-like) tendencies are balanced. [→ Sheldon-Keller 1995](#sheldon-keller-1995)
@@ -31,7 +33,7 @@ sources:
 
 Sheldon-Keller, Adrienne & West, Malcolm. (1995). Attachment within the Agency/Communion Paradigm. https://eric.ed.gov/?id=ED395227
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument applying Koestler's analysis of hierarchically organized complex systems to personality. The authors quote Koestler's claim that "the overall system remains stable and functional only as long as" the two tendencies are in equilibrium, mapping self-assertion onto agency and integration onto communion.
 

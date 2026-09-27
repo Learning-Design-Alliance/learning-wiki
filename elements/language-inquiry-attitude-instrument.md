@@ -17,7 +17,7 @@ sources:
 # The Language Inquiry: a 100-item language-attitude questionnaire benchmarked against ten linguists
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Language Inquiry is a collection of 100 statements about attitudes toward language, devised to help teachers evaluate themselves and determine their students' ideas about language. Respondents indicate agreement with each statement and compare their responses with those of ten linguists who evaluated each item. An additional section lets respondents record three items they would like discussed and the reasons for their choice.

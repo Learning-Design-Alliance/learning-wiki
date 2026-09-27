@@ -15,12 +15,14 @@ sources:
     author: Peariso, J. F.
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Gardner holds intelligences are not interchangeable, so one intelligence cannot substitute for another in learning a domain
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Per Willingham's summary of Gardner's view, a student low in logical-mathematical but high in musical intelligence cannot substitute musical for logical-mathematical intelligence and understand math through music. [→ Peariso 2008](#peariso-2008)
@@ -31,7 +33,7 @@ sources:
 
 Peariso, J. F. (2008). Multiple Intelligences or Multiply Misleading: The Critic's View of the Multiple Intelligences Theory. Liberty University. https://eric.ed.gov/?id=ED500515
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The review attributes this to Willingham (2004) summing up Gardner's view that the musically minded student must eventually use the appropriate representation to understand math. Reported second-hand as an interpretation, not a tested result.
 

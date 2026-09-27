@@ -15,12 +15,14 @@ sources:
     author: "Biscevic, I., Pasalic, A., & Memisevic, H."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Theory of mind effect on semantic fluency in preschool children is statistically non-significant but approaches significance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The effect of TOM (Sally-Anne pass/fail) on semantic fluency was statistically non-significant, approaching significance (p=.06). [→ Biscevic 2018](#biscevic-2018)
@@ -31,7 +33,7 @@ sources:
 
 Biscevic, I., Pasalic, A., & Memisevic, H. (2018). The effects of executive functions and theory of mind on semantic fluency in preschool children. Problems of Education in the 21st Century, 76(1). https://www.scientiasocialis.lt/pec/
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 In the same two-way ANOVA of 116 preschool children, the TOM main effect (Sally-Anne pass/fail) did not reach the p<.05 threshold; Table 2 prints p=.06. The article reports no effect size, so no magnitude is claimed.
 

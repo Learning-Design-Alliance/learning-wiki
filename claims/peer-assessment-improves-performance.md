@@ -16,12 +16,14 @@ sources:
     q: 4
     i: 1
     n: 54 studies (k=141 effect sizes)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Peer Assessment Improves Performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i1` small · n=54 studies (k=141 effect sizes)
+> **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i1` small · n=54 studies (k=141 effect sizes)
 
 When learners evaluate one another's work against explicit criteria, the act of judging quality deepens their own understanding and can improve subsequent performance. The claim covers both directions of the exchange — gains from assessing peers and gains from being assessed by peers — and is currently unverified pending Evidence entries.
 
@@ -35,7 +37,7 @@ When learners evaluate one another's work against explicit criteria, the act of 
 
 Double, K. S., McGrane, J. A., & Hopfenbeck, T. N. (2020). The impact of peer assessment on academic performance: A meta-analysis of control group studies. *Educational Psychology Review, 32*(2), 481–509. [doi:10.1007/s10648-019-09510-3](https://doi.org/10.1007/s10648-019-09510-3)
 
-`q4 · meta-analysis of experimental/quasi-experimental control-group studies` · `i1 · small-to-medium effect, g=0.31` · `n=54 studies (k=141 effect sizes)`
+`q4 · meta-analysis of experimental/quasi-experimental control-group studies` · `i1 · small-to-medium effect, g=0.31` · `n=54 studies (k=141 effect sizes)` · `quant-synthesis · r?`
 
 A meta-analysis of 54 control-group studies (141 effect sizes) spanning primary, secondary and tertiary students across subjects, comparing peer-assessment interventions (grading, peer dialogue, written feedback) against no-assessment and teacher-assessment control conditions on academic performance (test scores, essay/writing quality, practical skills). Peer assessment improved performance relative to no assessment (g = 0.31, p = .004) and relative to teacher assessment (g = 0.28, p = .007), and its effect did not differ significantly from self-assessment (g = 0.23, p = .209). Meta-regressions found the effect was robust across moderators such as online/offline delivery, assessment frequency and education level, i.e., no single implementation detail was required for the effect to hold.
 

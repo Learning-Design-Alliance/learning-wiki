@@ -15,12 +15,14 @@ sources:
     author: Shetye, S.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Review reports a precursor relationship in which lexical growth suppressed grammatical growth until a threshold was reached
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Robinson and Mervis's (1998) 13-month case study, lexical growth precluded syntactic growth until lexical growth reached a threshold, after which the two shared a supportive relationship. [→ Shetye 2023](#shetye-2023)
@@ -31,7 +33,7 @@ sources:
 
 Shetye, S. (2023). Interconnected Dynamic Components of Learner Language. Studies in Applied Linguistics & TESOL at Teachers College, Columbia University, 22(2), 15-18. https://www.tc.columbia.edu
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Robinson and Mervis's (1998) longitudinal study of one child's first language acquisition over 13 months, finding lexical growth precluded syntactic growth of plural morphemes. The review states that in a precursor model "the growth of the successor is suppressed until the predecessor reaches a threshold", and that the relation changed in magnitude and direction during development.
 

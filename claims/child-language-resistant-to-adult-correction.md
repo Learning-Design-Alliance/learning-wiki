@@ -15,12 +15,14 @@ sources:
     author: Butler, Lester G.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Children's language is highly resistant to alteration by adult intervention, challenging a simple imitation theory
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Children continue to use their own forms even after hearing and comprehending the adult form, even under intense adult correction. [→ Butler 1973](#butler-1973)
@@ -31,7 +33,7 @@ sources:
 
 Butler, Lester G. (1973). Language Acquisition of Young Children: Major Theories and Sequences. https://eric.ed.gov/?id=ED094403
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The paper cites reported conversations as evidence: a four-year-old repeatedly said 'holded' after hearing and comprehending 'held' (Gleason, 1967), and McNeill (1966) reports a mother's eight repetitions of a correction produced only slight modification. The paper reports children's language was 'modified but only slightly.'
 

@@ -17,7 +17,7 @@ sources:
 # Scientific Reasoning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 6 studies, `q1`–`q3` · 3 of 6 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 6 studies (2 causal, 1 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q3` · 3 of 6 report an effect size · 6 claims rest on one study
 
 ## Description
 Scientific reasoning is the element in which learners generate explanations, evaluate evidence, test claims, and revise models using disciplinary norms of inquiry. It is useful when understanding depends on explanation and evidence, not memorization alone.

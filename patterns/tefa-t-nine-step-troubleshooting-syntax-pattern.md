@@ -17,7 +17,7 @@ sources:
 # Nine-step production-cycle lesson pattern from problem identification to assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 This pattern organises vocational lessons as a production cycle in which unstructured troubleshooting problems trigger learning. Students move through nine ordered steps, from identifying and defining product problems, generating and selecting alternative solutions, and designing solving techniques, through ordering work contracts, scheduling, executing orders, and quality control, to assessment. The article states the syntax's novelty "contains the syntax of the learning model to st rengthen the aspects of metacognitive and critical thinking skills needed to solve troubleshooting problems", and the steps are supported by model books, modules, and manuals.

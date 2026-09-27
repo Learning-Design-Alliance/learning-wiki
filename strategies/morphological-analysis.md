@@ -12,7 +12,7 @@ generated:
 # Morphological Analysis
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 10 studies, `q1`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 4 claims (3 for, 1 unmarked) · 10 studies (4 review, 3 causal, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 10 report an effect size
 
 ## Description
 Morphological analysis teaches learners to break words into morphemes — the smallest units of meaning — and to use those parts (roots, prefixes, suffixes, inflections) to reason about a word's meaning. Rather than memorizing each word as an unanalyzed whole, learners acquire a generative system: knowing that *bio-* means life and *-ology* means study of lets them interpret *biology*, *biopsy*, and *biography* on first encounter. Instruction typically involves explicit teaching of high-frequency affixes and Latin/Greek roots, guided word dissection, and structured comparison of related word families.

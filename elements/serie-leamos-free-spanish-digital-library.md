@@ -17,7 +17,7 @@ sources:
 # Serie Leamos: a free digital Spanish library of student-written, student-illustrated stories for beginning pleasure reading
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study, `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 Serie Leamos (www.serieleamos.gsu.edu) is "a free digital Spanish library of engaging stories written and illustrated by students for students", created by an interdisciplinary Georgia State University project between the Spanish program and the School of Art and Design. It serves three purposes: a creative writing activity for authors, a real-world resume task for illustrators, and reading material for L2 readers. Stories are filterable by genre, topic, audience, and four language levels, include vocabulary lists and glossaries, comprehension and production activities, and come as flipbooks, downloadable PDFs, and audiobooks.

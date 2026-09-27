@@ -12,7 +12,7 @@ generated:
 # Individual Spaces
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q4` · 2 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (3 review, 2 quant-synthesis, 1 causal, 1 theoretical), `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Individual spaces are designated classroom zones configured for specific functions — independent work, small-group collaboration, mini-lessons, or whole-group discussion. By matching seating and spatial arrangement to the learning activity, instructors align the physical environment with the cognitive and social demands of each task, reducing distraction and clarifying behavioral expectations.

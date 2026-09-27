@@ -15,18 +15,22 @@ sources:
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-2
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Retrieval practice benefits learners regardless of trait anxiety level, but higher trait or induced anxiety is associated with smaller testing effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Tse and Pu (2012) and Mok and Chan (2016), benefits regardless of anxiety scores, but smaller testing effects for higher trait anxiety. [→ Karpicke 2017](#karpicke-2017)
@@ -38,7 +42,7 @@ sources:
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports two studies measuring trait anxiety with a standardized tool: both found benefits for low and high scorers, but "people who scored higher on the trait anxiety assessment tended to show smaller testing effects".
 
@@ -48,7 +52,7 @@ The chapter reports two studies measuring trait anxiety with a standardized tool
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The chapter reports Hinze and Rapp (2014), who "found that inducing test anxiety reduced the size of the testing effect".
 

@@ -15,12 +15,14 @@ sources:
     author: Nelson, Charles P.; Kim, Mi-Kyung
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students' appropriation of class interaction practices was mediated by prior sociohistorical educational experiences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students accustomed to in-class questioning and discussion in their home countries continued those practices, while students from less interactive backgrounds had difficulty appropriating them, though they slowly moved toward more whole-class interaction. [→ Nelson 2001](#nelson-2001)
@@ -31,7 +33,7 @@ sources:
 
 Nelson, Charles P.; Kim, Mi-Kyung. (2001). Contradictions, Appropriation, and Transformation: An Activity Theory Approach to L2 Writing and Classroom Practices. Texas Papers in Foreign Language Education. https://eric.ed.gov/?id=ED464497
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Participant-observer analysis of a first-year composition course for international students, drawing on interviews, observations, and Online Learning Records. Students from Mexico, Brazil, and India reported frequent class discussion at home, while an Indonesian student said people in Asia "kind of embarrassed ... or shy or something when asking a question in front of the all people".
 

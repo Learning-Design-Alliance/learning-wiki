@@ -17,7 +17,7 @@ sources:
 # Level 2 necessary supports: guide implementation of new instructional skills and facilitate learning community dialogue
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 At the second level, mentoring consists of coaches who "plan, set goals, observe, and debrief with individual teachers" implementing new instructional skills, while advocacy consists of regular meetings with small groups of collaborating teachers. Diane's reciprocal teaching example shows a plan-observe-debrief cycle: co-planning a prediction lesson, observing implementation, and debriefing after school to outline next steps. Grace's example shows facilitation of describing and analyzing student work to identify next steps in writing instruction.

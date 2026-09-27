@@ -15,12 +15,14 @@ sources:
     author: "Furukawa, J. M., Sumpter, K., & Cohen, N."
     q: 2
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # Retention after learning with the chunking method is high, with 85% to 95% of original learning retained over three months
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Students retained 85% of adjusted original learning over approximately three months, rising to 95% when problem-solving questions were omitted. [→ Furukawa 1978](#furukawa-1978)
@@ -31,7 +33,7 @@ sources:
 
 Furukawa, J. M., Sumpter, K., & Cohen, N. (1978). Chunking Method of Teaching and Studying: II. Paper presented at a meeting of the American Psychological Association, Toronto. https://eric.ed.gov/?id=ED165097
 
-`q2 · i2`
+`q2 · i2` · `causal · r1`
 
 Retention study in one general psychology class: a delayed posttest on chapter one material about three months after a 10-question immediate posttest, with pretest scores of 32% used for adjustment. The article reports an overall retention rate of 85%, becoming 95% when problem-solving questions are omitted.
 

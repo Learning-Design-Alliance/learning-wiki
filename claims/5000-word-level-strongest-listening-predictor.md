@@ -15,12 +15,14 @@ sources:
     author: Ataş, U.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The 5000-word frequency level is the strongest single predictor of advanced listening comprehension variance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Adding the 5000-word frequency level to the sequential regression raised R² to .430 (R² change = .182, significant), making model 4 the best-accounting model for listening comprehension scores. [→ Ataş 2018](#atas-2018)
@@ -31,7 +33,7 @@ sources:
 
 Ataş, U. (2018). The Role of Receptive Vocabulary Knowledge in Advanced EFL Listening Comprehension. TESL-EJ, 21(4). https://eric.ed.gov/?id=EJ1172563
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Sequential multiple regression (N = 33) entered word-frequency levels in order of potential importance. The article reports the 5000-word level alone "might account for 18% of the variance in the listening comprehension test," and that the 2000, 3000, academic, and 5000 levels together account for 43% of listening variance. No standardised effect size is printed for this step, so impact is null.
 

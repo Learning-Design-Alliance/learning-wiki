@@ -15,12 +15,14 @@ sources:
     author: YILDIZ, Ezgi Pelin
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Academics most often name YouTube and Instagram as the Web 2.0 tools they use to realise self-actualisation needs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a case study of 20 academicians, YouTube and Instagram were the most frequently named Web 2.0 tools for realising self-actualisation needs, supporting the top step of the Digital Needs Maslow 2.0 pyramid. [→ YILDIZ 2021](#yildiz-2021)
@@ -31,7 +33,7 @@ sources:
 
 YILDIZ, Ezgi Pelin. (2021). Academist Perceptions on the Use of Web 2.0 Tools Through Maslow's Needs Hierarchy: A Case Study. Education Quarterly Reviews, Vol.4, No.1, 173-188. https://doi.org/10.31014/aior.1993.04.01.185
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Content analysis of open-ended questionnaire responses from 20 academicians at one state university; Table 2 lists YouTube and Instagram at 20 mentions each (19.8%). The study reports these data "have been supported the upper step of the Digital Needs Maslow 2.0 pyramid."
 

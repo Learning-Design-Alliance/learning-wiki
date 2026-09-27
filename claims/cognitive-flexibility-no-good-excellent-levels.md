@@ -15,12 +15,14 @@ sources:
     author: "Uraipong, M., Penglee, N., Thanarachataphoom, T., & Polyai, N."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # No assessed children reached the good or excellent levels for cognitive flexibility
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In the assessed sample, 67 children were in the needs-improvement level and 131 in the needs-development level for cognitive flexibility, with none in the good or excellent levels. [→ Uraipong 2024](#uraipong-2024)
@@ -31,7 +33,7 @@ sources:
 
 Uraipong, M., Penglee, N., Thanarachataphoom, T., & Polyai, N. (2024). Development Guidelines for Executive Function (EF) Skills in Early Childhood: Needs Assessment in Nonthaburi Kindergartens. Higher Education Studies, 14(2). https://doi.org/10.5539/hes.v14n2p88
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive distribution of MU.EF-101 cognitive flexibility T-scores for the 328 assessed children, reported from Tables 2 and 3. The article reports "no elementary school children in the 'good' or 'excellent' levels" for this domain.
 

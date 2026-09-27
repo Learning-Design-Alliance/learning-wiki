@@ -15,18 +15,22 @@ sources:
     author: Graham, C., Borup, J., Tuiloma, S., Martínez Arias, A., Parra Caicedo, D., Larson, R.
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
   - id: graham-2023-2
     resource: "https://doi.org/10.24059/olj.v27i3.4001"
     title: "Graham, C., Borup, J., Tuiloma, S., Martínez Arias, A., Parra Caicedo, D., Larson, R. (2023). Institutional support for Academic Engagement in online and blended learning environments: Exploring affective, behavioral, and cognitive dimensions. Online Learning, 27(3), 4-40. https://doi.org/10.24059/olj.v27i3.4001"
     author: Graham, C., Borup, J., Tuiloma, S., Martínez Arias, A., Parra Caicedo, D., Larson, R.
     q: 3
     i: 0
+    kind: associational
+    rigour: 2
 ---
 
 # Only support for affective engagement predicts its matching engagement dimension; behavioral and cognitive support do not, contradicting the ACE framework's alignment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i0`–`i3`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i0`–`i3`
 
 ## Subclaims
 `q3 i3` Support for Affective Engagement strongly predicted Affective Engagement (β = 1.163, p < .001) and also predicted Behavioral (β = 0.802) and Cognitive Engagement (β = 0.589). [→ Graham 2023](#graham-2023)
@@ -38,7 +42,7 @@ sources:
 
 Graham, C., Borup, J., Tuiloma, S., Martínez Arias, A., Parra Caicedo, D., Larson, R. (2023). Institutional support for Academic Engagement in online and blended learning environments: Exploring affective, behavioral, and cognitive dimensions. Online Learning, 27(3), 4-40. https://doi.org/10.24059/olj.v27i3.4001
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Alternate SEM without superfactors (Figure 7, n = 1253; Table 9 fit statistics met cutoffs) ran paths from the three support subfactors to the three engagement subfactors. Affective support predicted all three engagement dimensions, most strongly its own.
 
@@ -48,7 +52,7 @@ Alternate SEM without superfactors (Figure 7, n = 1253; Table 9 fit statistics m
 
 Graham, C., Borup, J., Tuiloma, S., Martínez Arias, A., Parra Caicedo, D., Larson, R. (2023). Institutional support for Academic Engagement in online and blended learning environments: Exploring affective, behavioral, and cognitive dimensions. Online Learning, 27(3), 4-40. https://doi.org/10.24059/olj.v27i3.4001
 
-`q3 · i0`
+`q3 · i0` · `associational · r2`
 
 In the same no-superfactor SEM, the hypothesized dimension-matched paths for behavioral and cognitive support were non-significant (p > .1); no effect sizes were printed for these null paths. Support for Behavioral Engagement did predict Cognitive Engagement (β = 0.537, p < .05).
 

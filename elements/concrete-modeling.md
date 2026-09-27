@@ -12,7 +12,7 @@ generated:
 # Concrete Modeling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies, `q3`–`q4` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 quant-synthesis, 1 review), `q3`–`q4` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 Concrete modeling is the element in which physical or tangible representations are used to make abstract relationships visible.

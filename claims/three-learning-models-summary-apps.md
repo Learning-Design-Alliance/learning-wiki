@@ -15,12 +15,14 @@ sources:
     author: Apps, Jerold W.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # The monograph relates beliefs about learner, purpose, content, and learning process to three learning models: problem-solving, acquiring content, and self-actualization
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Apps's summary chapter organizes working-philosophy beliefs around three learning models—problem-solving, acquiring content, and self-actualization. [→ Apps 1973](#apps-1973)
@@ -31,7 +33,7 @@ sources:
 
 Apps, Jerold W. (1973). Toward a Working Philosophy of Adult Education. Syracuse University Publications in Continuing Education / ERIC Clearinghouse on Adult Education. https://eric.ed.gov/?id=ED078229
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 This is the document resume's abstract summary of Chapter 9, which the table of contents lists under headings Problem Solving, Acquiring Content, and Self-Actualization. It is a descriptive statement of the monograph's organizing synthesis, not a tested result.
 

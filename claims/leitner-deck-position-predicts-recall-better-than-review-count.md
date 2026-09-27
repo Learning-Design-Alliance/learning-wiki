@@ -15,12 +15,14 @@ sources:
     author: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In Mnemosyne log data, setting memory strength equal to an item's Leitner deck position predicts recall better than number of past reviews, which beats constant strength.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Memory strength set to Leitner deck position outperformed strength proportional to the number of past reviews, which in turn outperformed a constant strength, by validation and test AUC; no AUC values are printed in the text. [→ Reddy 2016](#reddy-2016)
@@ -31,7 +33,7 @@ sources:
 
 Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for Spaced Repetition. KDD ’16, San Francisco, CA, USA. https://doi.org/10.1145/2939672.2939850
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Observational study of Mnemosyne flashcard log data, comparing memory models by cross-validated validation AUC and a held-out test set. Setting strength to the "Leitner deck position qij performs better than setting it to be proportional to the number of past reviews nij", itself better than constant s (Fig. 3); no numbers printed.
 

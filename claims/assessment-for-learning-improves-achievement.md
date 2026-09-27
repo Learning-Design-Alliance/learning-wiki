@@ -15,6 +15,8 @@ sources:
     q: 3
     i: 1
     n: 33 studies (126 effect sizes)
+    kind: quant-synthesis
+    rigour: "?"
   - id: kingston-and-nash-2011
     resource: "https://doi.org/10.1111/j.1745-3992.2011.00220.x"
     title: "Kingston, N., & Nash, B. (2011). Formative assessment: A meta-analysis and a call for research. *Educational Measurement: Issues and Practice, 30*(4), 28–37. [doi:10.1111/j.1745-3992.2011.00220.x](https://doi.org/10.1111/j.1745-3992.2011.00220.x)"
@@ -22,6 +24,8 @@ sources:
     q: 3
     i: 1
     n: 13 studies (42 effect sizes)
+    kind: quant-synthesis
+    rigour: 2
   - id: black-and-wiliam-1998
     resource: "https://doi.org/10.1080/0969595980050102"
     title: "Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)"
@@ -29,12 +33,14 @@ sources:
     q: 2
     i: "?"
     n: unreported
+    kind: review
+    rigour: "?"
 ---
 
 # Assessment for learning improves achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2`–`q3` · `i1` small
+> **Evidence** · 3 studies · 2 quant-synthesis `r2`, 1 review `r?` · `q2`–`q3` · `i1` small
 
 Formative assessment — eliciting evidence of student learning and using it to adapt teaching and learning activities — raises achievement relative to instruction without such feedback loops.
 
@@ -52,7 +58,7 @@ Formative assessment — eliciting evidence of student learning and using it to 
 
 Lee, H., Chung, H. Q., Zhang, Y., Abedi, J., & Warschauer, M. (2020). The effectiveness and features of formative assessment in US K-12 education: A systematic review. *Applied Measurement in Education, 33*(2), 124–140. [doi:10.1080/08957347.2020.1732383](https://doi.org/10.1080/08957347.2020.1732383)
 
-`q3 · systematic review with meta-analysis` · `i1 · small effect, d=.29` · `n=33 studies (126 effect sizes)`
+`q3 · systematic review with meta-analysis` · `i1 · small effect, d=.29` · `n=33 studies (126 effect sizes)` · `quant-synthesis · r?`
 
 A systematic review and meta-analysis of formative assessment interventions in US K-12 schools, restricted to studies with a control condition: 126 effect sizes from 33 studies representing 25 research projects. The overall effect on student learning was small and positive (d = .29), with similar benefits in mathematics (d = .34), literacy (d = .33) and arts (d = .29). Meta-regression suggested larger effects when interventions supported student-initiated [self-assessment](self-assessment-improves-self-regulated-learning.md) (d = .61), used formal formative evidence such as written [feedback](../elements/feedback.md) on quizzes (d = .40), and ran on a medium cycle within or between units (d = .52).
 
@@ -60,7 +66,7 @@ A systematic review and meta-analysis of formative assessment interventions in U
 
 Kingston, N., & Nash, B. (2011). Formative assessment: A meta-analysis and a call for research. *Educational Measurement: Issues and Practice, 30*(4), 28–37. [doi:10.1111/j.1745-3992.2011.00220.x](https://doi.org/10.1111/j.1745-3992.2011.00220.x)
 
-`q3 · meta-analysis (random effects)` · `i1 · small effect, weighted mean ES=.20` · `n=13 studies (42 effect sizes)`
+`q3 · meta-analysis (random effects)` · `i1 · small effect, weighted mean ES=.20` · `n=13 studies (42 effect sizes)` · `quant-synthesis · r2`
 
 The authors screened more than 300 K-12 studies of formative assessment and found that only 13 reported enough to compute effect sizes, many of the rest having severely flawed designs. A random-effects model over 42 independent effect sizes gave a weighted mean of .20 (median .25), against the .40–.70 often cited. Estimated effects were .32 in English language arts, .17 in mathematics and .09 in science; implementations built on professional development (.30) or computer-based formative systems (.28) did better than other approaches. This supports the direction of the claim but heavily qualifies its size.
 
@@ -68,7 +74,7 @@ The authors screened more than 300 K-12 studies of formative assessment and foun
 
 Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
 
-`q2 · narrative review` · `i? · no pooled effect size reported in the abstract` · `n=unreported`
+`q2 · narrative review` · `i? · no pooled effect size reported in the abstract` · `n=unreported` · `review · r?`
 
 A narrative review of the classroom formative assessment literature, the source this claim traces to. It concludes that several studies give firm evidence that strengthening frequent feedback to students yields substantial learning gains, and it discusses students' role in self-assessment, teachers' formative strategies, and mastery learning, before developing a theoretical account of feedback. No pooled estimate was computed, which is part of why later meta-analyses contest the size of the effect.
 

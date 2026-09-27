@@ -15,18 +15,22 @@ sources:
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: karpicke-2017-2
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Retrieval practice produces more learning than elaborative study techniques, including concept mapping and imagery-based strategies such as the keyword mnemonic
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Karpicke and Blunt (2011), that retrieval practice consistently produced more learning than concept mapping on a short-answer test 1 week later with verbatim and inference questions. [→ Karpicke 2017](#karpicke-2017)
@@ -38,7 +42,7 @@ sources:
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The chapter reports Karpicke and Blunt (2011): students read educational texts and practiced free recall or built concept maps; on a 1-week test, "Retrieval practice consistently produced more learning than elaborative studying with concept mapping did".
 
@@ -48,7 +52,7 @@ The chapter reports Karpicke and Blunt (2011): students read educational texts a
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports a series of vocabulary-learning experiments by Karpicke and Smith (2012) that "showed advantages of repeated retrieval practice over elaborative imagery strategies", including the keyword mnemonic.
 

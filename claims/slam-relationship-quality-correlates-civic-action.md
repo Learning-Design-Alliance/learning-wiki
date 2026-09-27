@@ -15,12 +15,14 @@ sources:
     author: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M."
     q: 3
     i: 1
+    kind: associational
+    rigour: 1
 ---
 
 # Positive SLAM-student relationship qualities correlate with civic action
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · associational `r1` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Civic action correlated positively with SLAM relationship variables: guidance (r = .32, p < .05), satisfaction (r = .33, p < .01), nurturance (r = .45, p < .01), reassurance of competence (r = .48, p < .01), and intimate disclosure (r = .31, p < .05). [→ Harkins 2021](#harkins-2021)
@@ -31,7 +33,7 @@ sources:
 
 Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2021). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202
 
-`q3 · i1`
+`q3 · i1` · `associational · r1`
 
 Correlational analyses of CASQ and NRI-SPV scores among mentored students (MG, n = 60) examined student-SLAM relationship quality. The article reports positive correlations between civic action and five NRI relationship variables, with the strongest being reassurance of competence (r = .48).
 

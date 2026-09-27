@@ -15,6 +15,8 @@ sources:
     q: 4
     i: 1
     n: 213 studies (270,034 students)
+    kind: quant-synthesis
+    rigour: 2
   - id: cipriano-et-al-2023
     resource: "https://doi.org/10.1111/cdev.13968"
     title: "Cipriano, C., Strambler, M. J., Naples, L. H., Ha, C., Kirk, M., Wood, M., Sehgal, K., Zieher, A. K., Eveleigh, A., McCarthy, M., Funaro, M., Ponnock, A., Chow, J. C., & Durlak, J. (2023). The state of evidence for social and emotional learning: A contemporary meta-analysis of universal school-based SEL interventions. *Child Development, 94*(5), 1181–1204. [doi:10.1111/cdev.13968](https://doi.org/10.1111/cdev.13968)"
@@ -22,6 +24,8 @@ sources:
     q: 4
     i: "?"
     n: 424 studies (575,361 students)
+    kind: quant-synthesis
+    rigour: 3
   - id: zhao-and-sang-2025
     resource: "https://doi.org/10.3390/bs15111527"
     title: "Zhao, Y., & Sang, B. (2025). The Effect of Social–Emotional Learning Programs on Elementary and Middle School Students' Academic Achievement: A Meta-Analytic Review. *Behavioral Sciences, 15*(11), 1527. [doi:10.3390/bs15111527](https://doi.org/10.3390/bs15111527)"
@@ -29,12 +33,14 @@ sources:
     q: 3
     i: 0
     n: 22 studies (24,510 students)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # SEL Programs Improve Academic Achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q3`–`q4` · `i0`–`i1`
+> **Evidence** · 3 studies · 3 quant-synthesis `r2`–`r3` · `q3`–`q4` · `i0`–`i1`
 
 Social-emotional learning (SEL) programs — structured curricula that teach self-awareness, self-management, social awareness, relationship skills, and responsible decision-making — produce gains in academic achievement alongside their social-emotional outcomes.
 
@@ -52,7 +58,7 @@ Social-emotional learning (SEL) programs — structured curricula that teach sel
 
 Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The Impact of Enhancing Students' Social and Emotional Learning: A Meta-Analysis of School-Based Universal Interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
 
-`q4 · meta-analysis` · `i1 · small effect, ES=0.27 academic performance, ES=0.22 conduct problems` · `n=213 studies (270,034 students)`
+`q4 · meta-analysis` · `i1 · small effect, ES=0.27 academic performance, ES=0.22 conduct problems` · `n=213 studies (270,034 students)` · `quant-synthesis · r2`
 
 A meta-analysis of 213 universal, school-based social and emotional learning programs for kindergarten through high school students, compared with control groups at post-test. All six outcome categories improved significantly: SEL skills (ES 0.57), attitudes (0.23), positive social behaviour (0.24), conduct problems (0.22), emotional distress (0.24) and academic performance (0.27, from 35 interventions), which the authors translate into an 11-percentile-point gain in achievement. Academic performance improved significantly only when school staff ran the program (classroom teacher delivery ES 0.34; non-school personnel ES 0.12, not significant). Effects were moderated by use of four recommended skill-development practices (SAFE) and by reported implementation problems; the 33 studies with follow-up at least six months later still showed significant effects, including academic performance (ES 0.32, k = 8).
 
@@ -60,7 +66,7 @@ A meta-analysis of 213 universal, school-based social and emotional learning pro
 
 Cipriano, C., Strambler, M. J., Naples, L. H., Ha, C., Kirk, M., Wood, M., Sehgal, K., Zieher, A. K., Eveleigh, A., McCarthy, M., Funaro, M., Ponnock, A., Chow, J. C., & Durlak, J. (2023). The state of evidence for social and emotional learning: A contemporary meta-analysis of universal school-based SEL interventions. *Child Development, 94*(5), 1181–1204. [doi:10.1111/cdev.13968](https://doi.org/10.1111/cdev.13968)
 
-`q4 · systematic review and meta-analysis` · `i? · effect sizes not in the abstract read` · `n=424 studies (575,361 students)`
+`q4 · systematic review and meta-analysis` · `i? · effect sizes not in the abstract read` · `n=424 studies (575,361 students)` · `quant-synthesis · r3`
 
 A systematic review and meta-analysis of universal school-based SEL interventions for kindergarten to 12th-grade students, covering studies from 2008 through 2020: 424 studies from 53 countries, 252 distinct interventions and 575,361 students. Compared with control conditions, participating students showed significantly improved skills, attitudes, behaviours, school climate and safety, peer relationships, school functioning and academic achievement. Substantial heterogeneity in program content, features, context and implementation quality moderated outcomes. Only the abstract was read, so no pooled effect size is recorded here.
 
@@ -68,7 +74,7 @@ A systematic review and meta-analysis of universal school-based SEL intervention
 
 Zhao, Y., & Sang, B. (2025). The Effect of Social–Emotional Learning Programs on Elementary and Middle School Students' Academic Achievement: A Meta-Analytic Review. *Behavioral Sciences, 15*(11), 1527. [doi:10.3390/bs15111527](https://doi.org/10.3390/bs15111527)
 
-`q3 · meta-analysis` · `i0 · negligible effect, g=0.08` · `n=22 studies (24,510 students)`
+`q3 · meta-analysis` · `i0 · negligible effect, g=0.08` · `n=22 studies (24,510 students)` · `quant-synthesis · r?`
 
 A meta-analysis of 22 studies (17 universal, 5 targeted programs; 2011–2021) of SEL programs for elementary and middle school students, limited to randomised or rigorous quasi-experimental designs with quantitative achievement outcomes. SEL students showed higher overall academic achievement than controls, but the effect was very small (g = 0.08, 95% CI 0.05 to 0.12), similar across English language arts, mathematics and science, and larger for GPA (g = 0.33, from 6 effect sizes). Quasi-experimental studies showed significantly larger effects (g = 0.27, k = 12) than randomised trials (g = 0.063, k = 64), and 20 of the 22 studies were in elementary schools, so middle-school conclusions are preliminary. This does not contradict the claim's direction, but it indicates the academic benefit in rigorous recent trials is much smaller than the Durlak et al. (2011) estimate.
 

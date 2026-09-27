@@ -15,12 +15,14 @@ sources:
     author: Zhang, X., Wang, S., Lin, X., Zheng, J., and Li, L.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 26.7% of students found emotional support effective and 25% attention diversion, while only 5.3% mentioned self-regulation. [→ Zhang 2026](#zhang-2026)
@@ -31,7 +33,7 @@ sources:
 
 Zhang, X., Wang, S., Lin, X., Zheng, J., and Li, L. (2026). 2025 survey study on psychological education status among secondary vocational school students in xx province insights into mental health status and educational implications based on 31,000 students. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1773198
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Qualitative theme 3 asked students what forms of support they consider effective when experiencing distress, using a strength-based, solution-oriented approach. The article reports these percentages from coded student responses.
 

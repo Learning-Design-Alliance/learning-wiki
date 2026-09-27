@@ -15,6 +15,8 @@ sources:
     q: 3
     i: 2
     n: large (multiple course sections at a research university)
+    kind: causal
+    rigour: "?"
   - id: lorenzo-crouch-and-mazur-2006
     resource: "https://doi.org/10.1119/1.2162549"
     title: "Lorenzo, M., Crouch, C. H., & Mazur, E. (2006). Reducing the gender gap in the physics classroom. *American Journal of Physics, 74*(2), 118-122. [doi:10.1119/1.2162549](https://doi.org/10.1119/1.2162549)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: "?"
     n: moderate-to-large (multiple introductory physics course offerings)
+    kind: causal
+    rigour: "?"
 ---
 
 # Active learning narrows achievement gaps for disadvantaged and underrepresented students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 2 studies · 2 causal `r?` · `q3` · `i2` medium
 
 Active learning approaches benefit students broadly, but two independent studies in introductory STEM courses found the benefit was *disproportionately* larger for students already at a disadvantage — educationally/economically disadvantaged students in one case, women in a male-dominated field in the other — narrowing pre-existing achievement gaps rather than simply raising everyone's performance by the same amount.
 
@@ -43,7 +47,7 @@ Active learning approaches benefit students broadly, but two independent studies
 
 Haak, D. C., HilleRisLambers, J., Pitre, E., & Freeman, S. (2011). Increased structure and active learning reduce the achievement gap in introductory biology. *Science, 332*(6034), 1213-1216. [doi:10.1126/science.1204820](https://doi.org/10.1126/science.1204820)
 
-`q3 · quasi-experimental classroom intervention study · i2 · large effect on the specific achievement gap studied · n=large (multiple course sections at a research university)`
+`q3 · quasi-experimental classroom intervention study · i2 · large effect on the specific achievement gap studied · n=large (multiple course sections at a research university)` · `causal · r?`
 
 Studying the University of Washington's Educational Opportunity Program (EOP, serving educationally/economically disadvantaged students, largely first-generation college students and underrepresented minorities) alongside non-EOP students in the same introductory biology course, this study found EOP students had a substantially higher baseline failure rate (~22%) than non-EOP students (~10%). Introducing multiple highly structured active-learning approaches into the course raised performance for all students, but EOP students benefited disproportionately, cutting the achievement gap to roughly half of its original size.
 
@@ -51,7 +55,7 @@ Studying the University of Washington's Educational Opportunity Program (EOP, se
 
 Lorenzo, M., Crouch, C. H., & Mazur, E. (2006). Reducing the gender gap in the physics classroom. *American Journal of Physics, 74*(2), 118-122. [doi:10.1119/1.2162549](https://doi.org/10.1119/1.2162549)
 
-`q3 · quasi-experimental study across multiple course implementations · i? · the abstract prints no effect size; the full text may · n=moderate-to-large (multiple introductory physics course offerings)`
+`q3 · quasi-experimental study across multiple course implementations · i? · the abstract prints no effect size; the full text may · n=moderate-to-large (multiple introductory physics course offerings)` · `causal · r?`
 
 Comparing introductory physics courses with varying levels of active-engagement instruction, this study found active learning benefited all students but had the largest effect on female students specifically; at the highest ("high dose") level of active-learning implementation studied, the gender performance gap was eliminated entirely — consistent with earlier work suggesting women particularly benefit from active-learning approaches (Laws et al., 1999; Schneider, 2001).
 

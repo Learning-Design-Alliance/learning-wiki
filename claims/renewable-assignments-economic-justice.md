@@ -15,12 +15,14 @@ sources:
     author: Bali, M, et al
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Renewable assignments such as student-created quiz questions transcend classroom boundaries and can ameliorate economic injustice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` A renewable assignment in which students author multiple-choice questions for an open textbook is a process-oriented, student-centered OEP with pedagogical purpose and economic social justice impact through supporting wider OER adoption. [→ Bali 2020](#bali-2020)
@@ -31,7 +33,7 @@ sources:
 
 Bali, M, et al. (2020). Framing Open Educational Practices from a Social Justice Perspective. Journal of Interactive Media in Education, 2020(1): 10, pp. 1–12. https://doi.org/10.5334/jime.565
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Conceptual analysis of a Social Psychology renewable assignment in which a class of 35 undergraduate students progressively authored multiple-choice questions, with weekly double-blind peer reviews. The article argues the assignment "transcends the boundaries of the classroom" and ameliorates economic injustice by creating an ancillary resource for open textbooks.
 

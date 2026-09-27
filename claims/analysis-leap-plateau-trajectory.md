@@ -15,12 +15,14 @@ sources:
     author: Zhang Beibei et al
     q: 2
     i: 2
+    kind: design
+    rigour: 2
 ---
 
 # Analytical competence showed a leap-plateau trajectory across sequential authentic-video workshops, improving mainly between Workshops 2 and 3
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Analysis dimension scores rose significantly from Workshop 2 to Workshop 3, then stabilized with no significant Workshop 3-to-4 change. [→ Zhang Beibei et al 2026](#zhang-beibei-et-al-2026)
@@ -31,7 +33,7 @@ sources:
 
 Zhang Beibei et al. (2026). A sequential integrating virtual simulation and authentic video for preschool teacher candidates' observational skills training: A design-based intervention study. PLoS One. https://doi.org/10.1371/journal.pone.0358951
 
-`q2 · i2`
+`q2 · i2` · `design · r2`
 
 Longitudinal paired comparisons of 8 groups' analysis scores across AV Workshops 2–4; Wilcoxon check consistent for Workshop 2–3 (z = −2.524, p = 0.012). No significant difference between Workshops 3 and 4 (t = 0.077, p = 0.941).
 

@@ -16,7 +16,7 @@ sources:
 # Take account of learners' existing ideas when teaching science, since teleologic and anthropomorphic languages are correctable
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study, `q2` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Drawing on constructivist tenets in learning science, the article argues that teaching science is more effective when account is taken of the learner's existing ideas. It encapsulates tenets including that "Learning science is an actve process of constructng personal knowledge" and "It is possible to teach science more efectvely if account is taken of the learner’s existng ideas". On this basis it concludes that teleologic and anthropomorphic languages are really correctable, and that this affordance is expected to diminish as other levels of explanation become available.

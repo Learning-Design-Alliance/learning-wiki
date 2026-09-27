@@ -15,12 +15,14 @@ sources:
     author: "Maksum, H., Yuvenda, D. & Purwanto, W."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The TEFA-T model syntax meets goodness-of-fit criteria in confirmatory factor analysis, supporting its construct validity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` CFA/SEM testing of the nine TEFA-T syntax constructs with 16 expert validators yielded Chi-Square and x2/df values of 219.76 and 0.8292, fulfilling goodness-of-fit criteria. [→ Maksum 2022](#maksum-2022)
@@ -31,7 +33,7 @@ sources:
 
 Maksum, H., Yuvenda, D. & Purwanto, W. (2022). Improvement of metacognitive and critical thinking skills through development of the a 'Teaching Factory Based on Troubleshooting' (TEFA-T) Model in automotive vocational learning. Journal of Turkish Science Education, 19(3), 1015-1036. https://doi.org/10.36681/tused.2022.161
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Expert validation study: a 70-item construction validity instrument was circulated to 16 lecturers considered experts (pedagogical, vocational education, language, and automotive experts); each of the nine syntax constructs was rated Valid/Fit with correlation indices ≥ 0.30 in Table 1.
 

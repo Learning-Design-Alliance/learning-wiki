@@ -15,12 +15,14 @@ sources:
     author: Joshi U, Sarkar A, Shukla A, Shrimali S, Bezbaruah NK, B Sanjay Kini, Baisil S, Sheth Z, Bhargava P, Shah S.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Podcast gains extend beyond recall to higher-order application and analysis items at both centres
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Both centres improved in the higher-order (Application+Analysis) domain, with gains of 2.4 points at Centre 1 and 4.0 at Centre 2, both statistically significant. [→ Joshi U 2026](#joshi-u-2026)
@@ -31,7 +33,7 @@ sources:
 
 Joshi U, Sarkar A, Shukla A, Shrimali S, Bezbaruah NK, B Sanjay Kini, Baisil S, Sheth Z, Bhargava P, Shah S. (2026). Ears for examinations: a multicentre quasi-experimental evaluation of AI-generated revision podcasts on learning outcomes and retention among medical students. BMC Medical Education. https://doi.org/10.1186/s12909-026-10080-6
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Exploratory domain-specific paired t-tests within pre–post completers (Centre 1 n = 154, Centre 2 n = 36; Table 4). The quoted sentence prints no effect size, so impact is uncoded; recall gains were also significant (Centre 1 1.5; Centre 2 3.3).
 

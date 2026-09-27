@@ -17,7 +17,7 @@ sources:
 # Student-centered learning environments
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q1`–`q4` · 1 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies (1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 1 of 3 report an effect size
 
 ## Description
 Student-centered learning environments provide "interactive, complimentary activities that enable individuals to address their unique learning interests and needs, examine content at multiple levels of complexity, and deepen understanding." They create multidimensional, ecologically valid systems where students access existing or build new conceptual linkages, using technology to support multiple methods of thinking and learning. The paper frames them as alternatives rooted in assumptions different from traditional instruction.

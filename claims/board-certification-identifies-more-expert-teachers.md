@@ -15,12 +15,14 @@ sources:
     author: "National Board for Professional Teaching Standards' National Teacher Certification and a Performance-Based Assessment System"
     q: 3
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # National Board certification identifies teachers who are more expert and whose students achieve deeper learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The Bond et al. (2000) validity study provides strong initial evidence that the certification system identifies teachers who are significantly more expert in their teaching practices and whose students achieve deeper learning. [→ National Board for Professional Teaching Standards' National Teacher Certification and a Performance-Based Assessment System 2000](#national-board-for-professional-teaching-standards-national-teacher-certification-and-a-performance-based-assessment-system-2000)
@@ -31,7 +33,7 @@ sources:
 
 National Board for Professional Teaching Standards' National Teacher Certification and a Performance-Based Assessment System. (2000). ERIC Digest. https://eric.ed.gov/
 
-`q3 · i?`
+`q3 · i?` · `review · r1`
 
 The digest reports the construct and consequential validity study by Bond et al. (2000), stating it "provides strong initial evidence" that certified teachers are more expert and their students achieve deeper learning. No effect sizes are printed in the digest.
 

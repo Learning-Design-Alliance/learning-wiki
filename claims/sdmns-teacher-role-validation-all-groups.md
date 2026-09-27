@@ -15,12 +15,14 @@ sources:
     author: "Toscano, R., Sánchez, V., & García, M."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Two inferred norms concern teachers' role, with the teacher-validation norm appearing in all participating groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` SDMN 1 ("The teacher validates the knowledge and clarifies doubts") was identified in all groups, and SDMN 3 (following an established sequence) in two groups, both linked to teachers' role. [→ Toscano 2019](#toscano-2019)
@@ -31,7 +33,7 @@ sources:
 
 Toscano, R., Sánchez, V., & García, M. (2019). Combining Theoretical Approaches: Socio-Didactic-Mathematical Norms and Perspectives in Pre-service Secondary Mathematics Teachers' Discourse. International Electronic Journal of Mathematics Education, 14(3), 455-466. https://doi.org/10.29333/iejme/5748
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r3`
 
 Qualitative findings across five participating groups: the validation norm appeared in all groups, while the established-sequence norm (SDMN 3) was inferred in two groups (G1 and G4) from endorsed narratives about presenting content in a "correct" sequence.
 

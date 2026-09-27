@@ -15,12 +15,14 @@ sources:
     author: Seels, B.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Dale argued learning becomes more meaningful when abstract learning and concrete experience are related, not that more realism is better
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Dale's actual position was that relating abstract learning to concrete experience makes learning more meaningful; he never claimed more cues or more realism is better. [→ Seels 1997](#seels-1997)
@@ -31,7 +33,7 @@ sources:
 
 Seels, B. (1997). The Relationship of Media and ISD Theory: The Unrealized Promise of Dale's Cone of Experience. https://eric.ed.gov/?id=ED409869
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The author, Dale's mentee, corrects the misconception that Dale was a realism theorist, documenting the correction with his News Letter essays on "The Concrete and Abstract" and his textbook. The article states he "said just the opposite" of the realism label.
 

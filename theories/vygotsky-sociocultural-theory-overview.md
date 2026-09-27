@@ -16,7 +16,7 @@ sources:
 # Vygotsky's sociocultural theory: development is historically situated, culturally determined, and proceeds through internalization of social interaction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article presents Vygotsky's core theoretical position: unlike Piaget's focus on biological and structural development, Vygotsky "stressed the contribution of culture, social interaction and the historical dimension of mental development" (Ivic 2000, as cited). The article explains that because children learn mainly through interactions with people in their immediate social world, everything they learn is colored by the expectations and norms of their social and cultural contexts. Development proceeds through internalization of social interactions, with language as the fundamental medium.

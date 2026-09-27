@@ -16,7 +16,7 @@ sources:
 # MacIntyre et al.'s situational model of willingness to communicate in L2
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 3 studies, `q2` · 1 of 3 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 3 studies (3 associational), `q2` · 1 of 3 report an effect size · 6 claims rest on one study
 
 ## Description
 The article describes WTC in a second language via the model of MacIntyre et al. (1998), which integrated social-psychological, linguistic, educational and communicative dimensions to predict, describe and explain learners' WTC. WTC is defined as "the probability of engaging in communication when free to do so," a state of readiness to initiate communication at a particular time and in specific situations. The pyramid or heuristic model illustrates twelve variables influencing WTC, including both enduring and temporary effects. The article's class-size findings are framed against this model.

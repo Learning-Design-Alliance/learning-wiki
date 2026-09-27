@@ -15,12 +15,14 @@ sources:
     q: 3
     i: 2
     n: 23 contrasts
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Blended Learning Improves Outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=23 contrasts
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i2` medium · n=23 contrasts
 
 Blended learning — instruction that combines face-to-face teaching with online learning activities — is widely claimed to produce better learning outcomes than fully face-to-face or fully online formats. This page concerns that comparative-outcome claim; it does not yet have curated evidence entries.
 
@@ -34,7 +36,7 @@ Blended learning — instruction that combines face-to-face teaching with online
 
 Means, B., Toyama, Y., Murphy, R., & Bakia, M. (2013). The Effectiveness of Online and Blended Learning: A Meta-Analysis of the Empirical Literature. *Teachers College Record: The Voice of Scholarship in Education, 115*(3), 1–47. [doi:10.1177/016146811311500307](https://doi.org/10.1177/016146811311500307)
 
-`q3 · meta-analysis of experimental and quasi-experimental studies (not pre-registered)` · `i2 · medium effect, g+=0.35, p<.0001` · `n=23 contrasts`
+`q3 · meta-analysis of experimental and quasi-experimental studies (not pre-registered)` · `i2 · medium effect, g+=0.35, p<.0001` · `n=23 contrasts` · `quant-synthesis · r?`
 
 A meta-analysis (part of a US Department of Education-commissioned review) synthesized studies published 1996–2008 comparing online or blended instruction with face-to-face instruction, mostly in higher education and professional training. Of the corpus, 23 independent contrasts specifically compared a blended condition (face-to-face instruction supplemented or partly replaced by online activities) against a face-to-face-only control; the mean effect size for these was g+ = +0.35 (p < .0001), significantly larger than the g+ = +0.14 found for purely-online-vs-face-to-face contrasts (Q = 4.98, p < .05). The authors caution that blended conditions in these studies typically also included additional learning time and instructional resources not given to the control condition, so the advantage cannot be cleanly attributed to the blended format itself rather than to these confounded extras.
 

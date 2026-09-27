@@ -16,7 +16,7 @@ sources:
 # Generative stylistics: writing instruction as the presentation and application of usable criteria for decisions about language use
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies, `q1` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 theoretical), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The paper names and advocates 'generative stylistics', an approach to writing instruction built on the view that style is 'the manifetation and result of the choices nade by-the speaker/writer'. It holds that writing instruction should present and apply usable, conscious standards for producing, arranging, and rearranging texts, so that students learn to make appropriate decisions about language use with respect to a given context and intended audience, rather than relying on intuition or chance.

@@ -15,18 +15,22 @@ sources:
     author: "Talent Development Framework: Improving Access to Excellent Educators for All Students"
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: talent-development-framework-improving-access-to-excellent-educators-for-all-students-2020-2
     resource: "https://gtlcenter.org"
     title: "Talent Development Framework: Improving Access to Excellent Educators for All Students. (2020). Center on Great Teachers and Leaders at the American Institutes for Research. https://gtlcenter.org"
     author: "Talent Development Framework: Improving Access to Excellent Educators for All Students"
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Working conditions affect teacher and school leader retention, and candidates' perceptions of school environment during recruitment may affect their decision to apply or accept a job offer. [→ Talent Development Framework: Improving Access to Excellent Educators for All Students 2020](#talent-development-framework-improving-access-to-excellent-educators-for-all-students-2020)
@@ -38,7 +42,7 @@ sources:
 
 Talent Development Framework: Improving Access to Excellent Educators for All Students. (2020). Center on Great Teachers and Leaders at the American Institutes for Research. https://gtlcenter.org
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 In the section on interdependence among policy sections, the document asserts this link between working conditions, retention, and recruitment decisions as an example of why policy areas are interdependent; no data are reported here.
 
@@ -48,7 +52,7 @@ In the section on interdependence among policy sections, the document asserts th
 
 Talent Development Framework: Improving Access to Excellent Educators for All Students. (2020). Center on Great Teachers and Leaders at the American Institutes for Research. https://gtlcenter.org
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The same interdependence section states that working conditions also condition whether mentors can integrate new teachers into a collegial community during induction and whether resigning teachers give early notification enabling early recruitment timelines.
 

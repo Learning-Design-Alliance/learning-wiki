@@ -15,12 +15,14 @@ sources:
     author: Benedetti R., Mariotti E., Montalbano V., Porri A.
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Applications to the summer school increased up to double the available positions, which the authors attribute to its active and cooperative learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` In recent years applications rose to twice the available positions, and the authors attribute this success to the active and cooperative learning of interesting physics topics students experienced. [→ Benedetti R. 2011](#benedetti-r-2011)
@@ -31,7 +33,7 @@ sources:
 
 Benedetti R., Mariotti E., Montalbano V., Porri A. (2011). Active and cooperative learning paths in the Pigelleto's Summer School of Physics. FFP12, Udine. https://www.sif.it
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 Conclusions section reporting program demand: applications "increased up to double the available positions". The attribution to active and cooperative learning is explicitly the authors' opinion; no comparative or controlled data are presented.
 

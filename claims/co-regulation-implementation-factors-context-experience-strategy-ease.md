@@ -15,24 +15,30 @@ sources:
     author: "Tingey, L., R. Piatt, A. Hennigar, C. O'Callahan, S. Weaver, and H. Zaveri"
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: tingey-2023-2
     resource: "https://www.acf.hhs.gov/opre"
     title: "Tingey, L., R. Piatt, A. Hennigar, C. O'Callahan, S. Weaver, and H. Zaveri. (2023). The Sexual Risk Avoidance Education National Evaluation: Using Co-regulation in Youth Programs. OPRE Report 2023-281, Washington, DC: Office of Planning, Research and Evaluation, Administration for Children and Families, U.S. Department of Health and Human Services. https://www.acf.hhs.gov/opre"
     author: "Tingey, L., R. Piatt, A. Hennigar, C. O'Callahan, S. Weaver, and H. Zaveri"
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: tingey-2023-3
     resource: "https://www.acf.hhs.gov/opre"
     title: "Tingey, L., R. Piatt, A. Hennigar, C. O'Callahan, S. Weaver, and H. Zaveri. (2023). The Sexual Risk Avoidance Education National Evaluation: Using Co-regulation in Youth Programs. OPRE Report 2023-281, Washington, DC: Office of Planning, Research and Evaluation, Administration for Children and Families, U.S. Department of Health and Human Services. https://www.acf.hhs.gov/opre"
     author: "Tingey, L., R. Piatt, A. Hennigar, C. O'Callahan, S. Weaver, and H. Zaveri"
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Implementation of co-regulation strategies was shaped by classroom context, facilitator experience and mindset, and varied in ease across strategies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Classroom size, type, session length, and teacher buy-in influenced facilitators' use of the strategies. [→ Tingey 2023](#tingey-2023)
@@ -45,7 +51,7 @@ sources:
 
 Tingey, L., R. Piatt, A. Hennigar, C. O'Callahan, S. Weaver, and H. Zaveri. (2023). The Sexual Risk Avoidance Education National Evaluation: Using Co-regulation in Youth Programs. OPRE Report 2023-281, Washington, DC: Office of Planning, Research and Evaluation, Administration for Children and Families, U.S. Department of Health and Human Services. https://www.acf.hhs.gov/opre
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Executive summary and Section II.D lessons learned from implementation data across nine sites; facilitators identified "classroom size, classroom type, session length, and teacher buy-in" as influences on strategy use.
 
@@ -55,7 +61,7 @@ Executive summary and Section II.D lessons learned from implementation data acro
 
 Tingey, L., R. Piatt, A. Hennigar, C. O'Callahan, S. Weaver, and H. Zaveri. (2023). The Sexual Risk Avoidance Education National Evaluation: Using Co-regulation in Youth Programs. OPRE Report 2023-281, Washington, DC: Office of Planning, Research and Evaluation, Administration for Children and Families, U.S. Department of Health and Human Services. https://www.acf.hhs.gov/opre
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Implementation study finding on facilitator characteristics; experience and mindset were associated with more regular strategy use in this observational implementation study.
 
@@ -65,7 +71,7 @@ Implementation study finding on facilitator characteristics; experience and mind
 
 Tingey, L., R. Piatt, A. Hennigar, C. O'Callahan, S. Weaver, and H. Zaveri. (2023). The Sexual Risk Avoidance Education National Evaluation: Using Co-regulation in Youth Programs. OPRE Report 2023-281, Washington, DC: Office of Planning, Research and Evaluation, Administration for Children and Families, U.S. Department of Health and Human Services. https://www.acf.hhs.gov/opre
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Section II.C facilitator reports; in contrast, "Most facilitators reported that breath to focus was the most challenging strategy to implement", with initial concerns about youth reactions and slow growth in facilitator comfort.
 

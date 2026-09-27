@@ -16,7 +16,7 @@ sources:
 # MALL as a burgeoning subdivision of CALL shaped by Mobile 2.0 user-created and collaborative content
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (10 for) · 4 studies, `q2` · 0 of 4 report an effect size · 10 claims rest on one study
+> **Evidence** · 10 claims (10 for) · 4 studies (2 review, 1 associational, 1 design), `q2` · 0 of 4 report an effect size · 10 claims rest on one study
 
 ## Description
 The review frames mobile assisted language learning (MALL) as "a burgeoning subdivision of computer assisted language learning in general", driven by the spread of smartphones and tablets that blur boundaries between classroom and home and between computer and mobile device. It organizes the MALL literature by technology type (SMS, microblogging, ambient intelligence/AR, GPS, tablet computing) and argues the new approach to MALL is co-opted from Web 2.0, whose "essential features ... are user-created and collaborative content", carried into Mobile 2.0. The review uses this framing to select and organize the studies it surveys.

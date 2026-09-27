@@ -15,12 +15,14 @@ sources:
     author: Zhang, X., Wang, S., Lin, X., Zheng, J., and Li, L.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Interpersonal relationships are the most prominent student concern in qualitative interviews (30.61% of coded responses)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the qualitative interview component, interpersonal relationships accounted for 30.61% of coded responses, the most prominent concern. [→ Zhang 2026](#zhang-2026)
@@ -31,7 +33,7 @@ sources:
 
 Zhang, X., Wang, S., Lin, X., Zheng, J., and Li, L. (2026). 2025 survey study on psychological education status among secondary vocational school students in xx province insights into mental health status and educational implications based on 31,000 students. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1773198
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Qualitative thematic interviews with 671 students, coded by keyword extraction and frequency counting, with responses split into 1,292 valid coded items. The proportion was "calculated by counting the frequency of all responses categorized as 'interpersonal relationships.'"
 

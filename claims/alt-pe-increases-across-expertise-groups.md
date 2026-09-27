@@ -15,12 +15,14 @@ sources:
     author: "van der Mars, H., Vogler, E. W., Darst, P. W., & Cusimano, B."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Successful motor engagement (ALT-PE) increased gradually across expertise groups while remaining statistically non-significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` ALT-PE levels were higher on average than in previous descriptive studies and increased gradually across the three expertise groups, though the ANOVA was not significant. [→ van der Mars 1991](#van-der-mars-1991)
@@ -31,7 +33,7 @@ sources:
 
 van der Mars, H., Vogler, E. W., Darst, P. W., & Cusimano, B. (1991). Novice and Expert Physical Education Teachers: They May Think and Decide Differently...But Do They Behave Differently? https://eric.ed.gov/?id=ED336354
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive pattern across the three teacher groups in the same videotape observational study; Table 3 reports ALT-PE means of 26.0, 31.9, and 35.3 percent, with a non-significant F ratio (1.89).
 

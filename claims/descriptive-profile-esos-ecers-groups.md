@@ -15,12 +15,14 @@ sources:
     author: "Veraksa N.E., Airapetyan Z.V., Krasheninnikov-Khait E.E. & Gavrilova M.N."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # In observed groups, Reactions to Children's Emotions was the most common scaffolding subscale, and ECERS-R Interactions rated high while Activities rated low
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Descriptively, Reactions to Children's Emotions was more common than Modeling or Teaching about Emotions; ECERS-R Interactions was rated high and Activities low. [→ Veraksa N.E. 2021](#veraksa-ne-2021)
@@ -31,7 +33,7 @@ sources:
 
 Veraksa N.E., Airapetyan Z.V., Krasheninnikov-Khait E.E. & Gavrilova M.N. (2021). Associations between emotional scaffolding, classroom quality and dialectical thinking support in kindergarten. Cypriot Journal of Educational Science. 16(5), 2091-2099. https://doi.org/10.18844/cjes.v16i5.6224
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive statistics (Table 1, n = 22 groups) report means such as Reactions to Children's Emotions M = 27.95 and DTS Final score M = 2.73. The article also states "the Reactions to Children’s Emotions’ criteria was a more common interaction" than the other subscales. No inferential test accompanies these descriptions.
 

@@ -16,6 +16,8 @@ sources:
     q: 3
     i: "?"
     n: 3 experiments (participant counts not given in the abstract)
+    kind: causal
+    rigour: "?"
   - id: kornell-2009
     resource: "https://doi.org/10.1002/acp.1537"
     title: "Kornell, N. (2009). Optimising learning using flashcards: Spacing is more effective than cramming. *Applied Cognitive Psychology, 23*(9), 1297–1317. [doi:10.1002/acp.1537](https://doi.org/10.1002/acp.1537)"
@@ -23,12 +25,14 @@ sources:
     q: 3
     i: "?"
     n: 3 experiments (participant counts not given in the abstract)
+    kind: causal
+    rigour: "?"
 ---
 
 # Learners Misjudge Spacing Benefits
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 2 studies · 2 causal `r?` · `q3`
 
 Learners systematically predict that massed practice will serve them better than spaced practice, even though spacing reliably produces stronger long-term retention — a metacognitive error that leads them to choose study schedules that undermine their own learning.
 
@@ -44,7 +48,7 @@ Learners systematically predict that massed practice will serve them better than
 
 Kornell, N., & Bjork, R. A. (2008). Learning Concepts and Categories: Is Spacing the “Enemy of Induction”? *Psychological Science, 19*(6), 585–592. [doi:10.1111/j.1467-9280.2008.02127.x](https://doi.org/10.1111/j.1467-9280.2008.02127.x)
 
-`q3 · peer-reviewed experiment (3 experiments, not pre-registered)` · `i? · no effect size reported (directional self-report comparison only)` · `n=3 experiments (participant counts not given in the abstract)`
+`q3 · peer-reviewed experiment (3 experiments, not pre-registered)` · `i? · no effect size reported (directional self-report comparison only)` · `n=3 experiments (participant counts not given in the abstract)` · `causal · r?`
 
 Participants studied paintings by different artists, either massed (one artist's works presented consecutively) or spaced/interleaved (different artists' works mixed together), then were tested on their ability to classify new, unseen paintings by the same artists — an inductive-learning task. Spacing produced better induction performance than massing, even though massing felt more fluent while studying. After completing the test, and thus after their own performance had already shown the opposite, participants still rated massed study as the more effective condition than spaced study.
 
@@ -52,7 +56,7 @@ Participants studied paintings by different artists, either massed (one artist's
 
 Kornell, N. (2009). Optimising learning using flashcards: Spacing is more effective than cramming. *Applied Cognitive Psychology, 23*(9), 1297–1317. [doi:10.1002/acp.1537](https://doi.org/10.1002/acp.1537)
 
-`q3 · peer-reviewed experiment (3 experiments)` · `i? · no standardized effect size reported; reports proportions of participants` · `n=3 experiments (participant counts not given in the abstract)`
+`q3 · peer-reviewed experiment (3 experiments)` · `i? · no standardized effect size reported; reports proportions of participants` · `n=3 experiments (participant counts not given in the abstract)` · `causal · r?`
 
 Participants used a web-based programme to learn GRE-type vocabulary word pairs, comparing spacing (one large flashcard stack) against massing (four smaller stacks studied separately) and against cramming (massed study on the last day before test) across three experiments. Spacing outperformed massing for 90% of participants and also outperformed cramming, yet after their first study session 72% of participants judged that massing had been the more effective way to study — a direct mismatch between the condition that actually worked and the one learners believed had worked.
 

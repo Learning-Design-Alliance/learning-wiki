@@ -15,6 +15,8 @@ sources:
     q: 2
     i: "?"
     n: moderate
+    kind: causal
+    rigour: "?"
   - id: kohnert-et-al-2005
     resource: "https://pubs.asha.org/journal/lshss"
     title: "Kohnert, K., Yim, D., Nett, K., Kan, P. F., & Duran, L. (2005). Intervention with linguistically diverse preschool children: A focus on developing home language(s). *Language, Speech, and Hearing Services in Schools, 36*(3), 251-263. [https://pubs.asha.org/journal/lshss](https://pubs.asha.org/journal/lshss)"
@@ -22,18 +24,22 @@ sources:
     q: 2
     i: "?"
     n: small-to-moderate (clinical caseload study)
+    kind: causal
+    rigour: "?"
   - id: ebert-2005
     title: "Ebert, K. (2005). *Parent involvement and student achievement in bilingual family contexts*."
     author: Ebert, K.
     q: 1
     i: "?"
     n: not applicable (practitioner synthesis)
+    kind: theoretical
+    rigour: "?"
 ---
 
 # Preserving a bilingual student's heritage language supports rather than hinders English acquisition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q1`–`q2`
+> **Evidence** · 3 studies · 2 causal `r?`, 1 theoretical `r?` · `q1`–`q2`
 
 A common assumption treats time and attention spent on a bilingual student's home (heritage) language as competing with, and therefore slowing, English acquisition. The evidence points the other way for several distinct mechanisms: vocabulary knowledge transfers between languages, specialist intervention is more effective when delivered bilingually, and a preserved shared language keeps parents able to support their children's schooling.
 
@@ -51,7 +57,7 @@ A common assumption treats time and attention spent on a bilingual student's hom
 
 Hansen, L., Umeda, Y., & McKinney, M. (2002). Savings in the relearning of second language vocabulary: The effects of time and proficiency. *Language Learning, 52*(4), 653-678. [https://onlinelibrary.wiley.com/journal/14679922](https://onlinelibrary.wiley.com/journal/14679922)
 
-`q2 · experimental study on vocabulary relearning · i? · no source text available to check; the entry prints no effect size · n=moderate`
+`q2 · experimental study on vocabulary relearning · i? · no source text available to check; the entry prints no effect size · n=moderate` · `causal · r?`
 
 This study found that prior vocabulary knowledge in one language produces measurable "savings" — reduced time and effort — when a learner later acquires the equivalent vocabulary in a second language. The savings are only available, however, if the first-language vocabulary itself has not been lost, directly linking heritage-language preservation to the practical efficiency of English vocabulary acquisition.
 
@@ -59,7 +65,7 @@ This study found that prior vocabulary knowledge in one language produces measur
 
 Kohnert, K., Yim, D., Nett, K., Kan, P. F., & Duran, L. (2005). Intervention with linguistically diverse preschool children: A focus on developing home language(s). *Language, Speech, and Hearing Services in Schools, 36*(3), 251-263. [https://pubs.asha.org/journal/lshss](https://pubs.asha.org/journal/lshss)
 
-`q2 · clinical/applied study on bilingual language intervention · i? · no source text available to check; the entry prints no effect size · n=small-to-moderate (clinical caseload study)`
+`q2 · clinical/applied study on bilingual language intervention · i? · no source text available to check; the entry prints no effect size · n=small-to-moderate (clinical caseload study)` · `causal · r?`
 
 Working with bilingual preschoolers showing impaired skills in both languages, this study found that speech-language intervention was more effective when the specialist used the child's home language alongside English, rather than delivering the intervention in English only — evidence that even remediating a language-based disability benefits from bilingual rather than English-only delivery.
 
@@ -67,7 +73,7 @@ Working with bilingual preschoolers showing impaired skills in both languages, t
 
 Ebert, K. (2005). *Parent involvement and student achievement in bilingual family contexts*.
 
-`q1 · applied/practitioner-oriented account · i? · no source text available to check; the entry prints no effect size · n=not applicable (practitioner synthesis)`
+`q1 · applied/practitioner-oriented account · i? · no source text available to check; the entry prints no effect size · n=not applicable (practitioner synthesis)` · `theoretical · r?`
 
 This account describes how preserving two shared languages between parent and child keeps parents better able to stay informed about and engaged with their child's schooling — including practical help like assisting with homework — compared to a family where the child has largely lost the ability to communicate complex school-related matters in the parents' stronger language.
 

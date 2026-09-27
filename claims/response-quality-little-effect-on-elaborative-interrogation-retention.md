@@ -15,18 +15,22 @@ sources:
     author: Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
   - id: woloshyn-1992-2
     resource: "https://eric.ed.gov/?id=ED356949"
     title: "Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike. (1992). Using Elaborative Interrogation To Help Students Overcome Their Inaccurate Science Beliefs. https://eric.ed.gov/?id=ED356949"
     author: Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # The quality of elaborative-interrogation answers had little effect on retention; even failed or inadequate why-answers facilitated learning relative to reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i?` In Experiment 1, adequate, inadequate, and no-response items showed almost no retention differences; only adequate vs no-response differed on immediate recognition. [→ Woloshyn 1992](#woloshyn-1992)
@@ -38,7 +42,7 @@ sources:
 
 Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike. (1992). Using Elaborative Interrogation To Help Students Overcome Their Inaccurate Science Beliefs. https://eric.ed.gov/?id=ED356949
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 Experiment 1 response-quality analysis: raters scored why-answers as adequate (34.70%), inadequate (55.70%), or no response (9.60%); conditional-probability analyses found only one significant difference, adequate items retained better than response failures on immediate recognition (R = 3.87, p<.05).
 
@@ -48,7 +52,7 @@ Experiment 1 response-quality analysis: raters scored why-answers as adequate (3
 
 Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike. (1992). Using Elaborative Interrogation To Help Students Overcome Their Inaccurate Science Beliefs. https://eric.ed.gov/?id=ED356949
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 Experiment 2 response-quality analysis: adequate responses 46.40%, inadequate 43.60%, no responses 10.00%. Conditional-probability analyses found only one significant difference, on cued recall, where "items answered adequately were retained better than items that were not answered" (g = 3.51, p<.01).
 

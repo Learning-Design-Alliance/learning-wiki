@@ -15,12 +15,14 @@ sources:
     author: "Akar, İ., & Şengil-Akar, Ş"
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # No significant interaction between gender and CREACT on pretest or posttest creative performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` A One-Way MANOVA found no significant difference between boys' and girls' pretest and posttest mean scores. [→ Akar 2013](#akar-2013)
@@ -31,7 +33,7 @@ sources:
 
 Akar, İ., & Şengil-Akar, Ş. (2013). The effectiveness of the Creative Reversal Act (CREACT) on students' creative thinking: Further evidence from Turkey. TOJET: The Turkish Online Journal of Educational Technology, 12(4). https://eric.ed.gov/?id=EJ1272859
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Internal-validity check in the same one-group pretest-posttest study: gender-by-treatment interaction tested with One-Way MANOVA after assumption testing. No effect size reported; the null indicates no detected gender difference, not tested equivalence.
 

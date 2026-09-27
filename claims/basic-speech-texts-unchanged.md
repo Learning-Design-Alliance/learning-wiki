@@ -15,12 +15,14 @@ sources:
     author: Cyphert, Dale
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Basic speech textbooks have not incorporated contemporary rhetorical theory, remaining nearly unchanged across decades
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` New editions of basic speech texts show virtually no difference from the oldest texts aside from an ethics chapter and updated examples. [→ Cyphert 1996](#cyphert-1996)
@@ -31,7 +33,7 @@ sources:
 
 Cyphert, Dale. (1996). Taking the Helm in Critical Pedagogy: The Basic Speech Curriculum as an Operationalization of the Paradigm. https://eric.ed.gov/?id=ED403616
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The author's informal observation comparing the oldest and newest basic speech texts on his shelf, offered as evidence that scholarly engagement with postmodernism and critical studies has not reached speech pedagogy. The author reports "virtually no difference" between the texts.
 

@@ -15,12 +15,14 @@ sources:
     author: Johnson, David Kenneth
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The objections stage is the most difficult stage of CRITO because it demands fallibilism about one's own argument
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Constructing the strongest imaginable objections to one's own argument is, per the author, the hardest CRITO stage because it requires imagining one's own objections and revising accordingly. [→ Johnson 1995](#johnson-1995)
@@ -31,7 +33,7 @@ sources:
 
 Johnson, David Kenneth. (1995). CRITO: Informal Logic, Critical Thinking, and the Argumentative Essay. https://eric.ed.gov/?id=ED384062
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Author's interpretive statement (type e) describing the fifth CRITO stage in the method section; the reproduced text is garbled here, but the printed claim is that the objections stage is the most difficult because it sanctions unsettling fallibilism. No data support this.
 

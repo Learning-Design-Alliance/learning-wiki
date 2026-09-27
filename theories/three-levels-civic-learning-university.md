@@ -16,7 +16,7 @@ sources:
 # Three levels of educational influence for civic learning in the university: formal, informal, and non-formal
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies, `q2`–`q3` · 1 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (1 causal, 1 theoretical), `q2`–`q3` · 1 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The article proposes that universities can foster civic competence through three levels of action: formal (subjects and curricular themes), informal (mentoring, role models, service-learning, student associations, volunteering), and non-formal (student representation and participation structures). The authors state that "where citizenship education is most effective is in the non-formal and informal areas and this is where the most valuable, experiential, and long-lasting learning has been achieved". The framework organizes their recommendations for leaders and professors.

@@ -14,18 +14,24 @@ sources:
     author: "Kornell, N., & Bjork, R. A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
   - id: rohrer-taylor-2007
     resource: "https://doi.org/10.1007/s11251-007-9015-8"
     title: "Rohrer, D., & Taylor, K. (2007). The shuffling of mathematics problems improves learning. *Instructional Science, 35*(6), 481–498. [doi:10.1007/s11251-007-9015-8](https://doi.org/10.1007/s11251-007-9015-8)"
     author: "Rohrer, D., & Taylor, K."
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
   - id: brunmair-richter-2019
     resource: "https://doi.org/10.1037/bul0000209"
     title: "Brunmair, M., & Richter, T. (2019). Similarity matters: A meta-analysis of interleaved learning and its moderators. *Psychological Bulletin, 145*(11), 1029–1052. [doi:10.1037/bul0000209](https://doi.org/10.1037/bul0000209)"
     author: "Brunmair, M., & Richter, T."
     q: 4
     i: "?"
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Interleaving Improves Discrimination
@@ -49,7 +55,7 @@ Interleaving — mixing different problem or category types within a practice se
 
 Kornell, N., & Bjork, R. A. (2008). Learning concepts and categories: Is spacing the enemy of induction? *Psychological Science, 19*(6), 585–592. [doi:10.1111/j.1467-9280.2008.02127.x](https://doi.org/10.1111/j.1467-9280.2008.02127.x)
 
-`q3` · `i? · the abstract prints no effect size; the full text may`
+`q3` · `i? · the abstract prints no effect size; the full text may` · `causal · r?`
 
 Participants studied paintings by a number of artists, interleaved or blocked, then classified previously unseen paintings. Interleaving produced better induction. The metacognitive result is the memorable one: most participants judged blocking to have been more effective, including many whose own scores contradicted them.
 
@@ -57,7 +63,7 @@ Participants studied paintings by a number of artists, interleaved or blocked, t
 
 Rohrer, D., & Taylor, K. (2007). The shuffling of mathematics problems improves learning. *Instructional Science, 35*(6), 481–498. [doi:10.1007/s11251-007-9015-8](https://doi.org/10.1007/s11251-007-9015-8)
 
-`q3` · `i? · no source text available to check; the entry prints no effect size`
+`q3` · `i? · no source text available to check; the entry prints no effect size` · `causal · r?`
 
 Students practised mathematics problems of several types either blocked by type or shuffled. Blocked practice produced better accuracy during practice and much worse accuracy on a delayed test. The study is the clearest demonstration that practice-time performance and retention can move in opposite directions on the same manipulation.
 
@@ -65,7 +71,7 @@ Students practised mathematics problems of several types either blocked by type 
 
 Brunmair, M., & Richter, T. (2019). Similarity matters: A meta-analysis of interleaved learning and its moderators. *Psychological Bulletin, 145*(11), 1029–1052. [doi:10.1037/bul0000209](https://doi.org/10.1037/bul0000209)
 
-`q4` · `i? · the abstract prints no effect size; the full text may`
+`q4` · `i? · the abstract prints no effect size; the full text may` · `quant-synthesis · r?`
 
 A meta-analysis of interleaved against blocked learning across materials. The overall effect favoured interleaving, and the dominant moderator was the similarity between categories: high-similarity, confusable categories gained most, and the benefit diminished or reversed as categories became more distinct. This is the result that turns interleaving from a universal recommendation into a conditional one.
 

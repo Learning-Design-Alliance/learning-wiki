@@ -15,12 +15,14 @@ sources:
     author: "Padgett, Vernon R. & Brock, Timothy C."
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Unintelligible messages elicit a higher proportion of idiosyncratic cognitive elaborations than intelligible messages
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` In each of the first five experiments, a higher proportion of idiosyncratic thoughts was produced in response to the unintelligible message than to the intelligible message. [→ Padgett 1986](#padgett-1986)
@@ -31,7 +33,7 @@ sources:
 
 Padgett, Vernon R. & Brock, Timothy C. (1986). Persuasion with Unintelligible Messages: A Cognitive Response Analysis. https://eric.ed.gov/?id=ED282138
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Across the first five experiments, cognitive response measures showed "a higher proportion of idiosyncratic thoughts were produced in response to the unintelligible message than to the intelligible message." The authors note this finding appears to undermine a key assumption of central-versus-peripheral routes theories.
 

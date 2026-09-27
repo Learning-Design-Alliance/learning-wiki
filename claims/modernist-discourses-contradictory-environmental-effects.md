@@ -15,12 +15,14 @@ sources:
     author: Gough, Noel; Kesson, Kathleen
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Modernist discourses have produced contradictory environmental effects, raising awareness of problems while helping cultivate stories that construe the earth as an object of instrumental value
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The narrative strategies of modern science raised environmental awareness, yet the problems may themselves have resulted from modern industrialised societies' cultivation of stories in which the earth is construed and exploited as an object of instrumental value. [→ Gough 1992](#gough-1992)
@@ -31,7 +33,7 @@ sources:
 
 Gough, Noel; Kesson, Kathleen. (1992). Body and Narrative as Cultural Text: Toward a Curriculum of Continuity and Connection. https://eric.ed.gov/?id=ED347544
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the 'Environmental education: the story so far' section of this conference paper. The authors argue that "Modernist discourses appear to have had at least two quite contradictory environmental effects", pairing awareness-raising with the instrumentalist exploitation of nature. No empirical data are offered; this is a reasoned position.
 

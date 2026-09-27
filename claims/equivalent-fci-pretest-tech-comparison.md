@@ -15,12 +15,14 @@ sources:
     author: Brewe, E., Sawtelle, V., and Pamela, P.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The two compared classes started with equivalent understanding of Newtonian mechanics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Independent-samples t-test on FCI pretest scores showed no significant difference between the 2004 and 2005 classes (t(87) = 1.23, p = .220). [→ Brewe 2007](#brewe-2007)
@@ -31,7 +33,7 @@ sources:
 
 Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Pretest comparison in the same quasi-experimental design: the article reports the t-test "t(87) = 1.23, p = .220" and interprets it as equivalent starting understanding. No effect size is printed for this comparison.
 

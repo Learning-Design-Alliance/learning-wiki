@@ -16,7 +16,7 @@ sources:
 # Taxonomy of macro- and micro-skills of listening comprehension
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The paper organizes listening skills into macro-language use, "the learning of elements of language and their potential combinations", and micro-skills that each perform different functions. It reports Rivers and Temperly's seven enumerated listening abilities, Richards' 33 micro-skills (of which ten are listed, from retaining chunks of language to recognizing core conversational vocabulary), Richards' three listening areas (conversational, academic, pleasure listening), and Richards' three levels of processing: propositional identification, interpretation of illocutionary force, and activation of real world knowledge.

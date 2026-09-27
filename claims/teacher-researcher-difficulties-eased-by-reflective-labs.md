@@ -15,24 +15,30 @@ sources:
     author: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest"
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
   - id: funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994-2
     resource: "https://eric.ed.gov/?id=ED367146"
     title: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146"
     author: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest"
     q: 1
     i: "?"
+    kind: review
+    rigour: 1
   - id: funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994-3
     resource: "https://eric.ed.gov/?id=ED367146"
     title: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146"
     author: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest"
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # Teacher-researchers in funds of knowledge work face difficulties, including helpless pessimism and heavy time demands, which reflective after-school labs helped them overcome; they judged the process worthwhile.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q1` argument or single case
+> **Evidence** · 1 study (3 entries) · review `r1`–`r2` · `q1`
 
 ## Subclaims
 `q1 i?` Realising the formidable social and structural limitations families face can produce helpless pessimism, which the digest says can be dispelled as teachers know families better and engage in reflective discourse in after-school labs. [→ Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994](#funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994)
@@ -45,7 +51,7 @@ sources:
 
 Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 The digest's account of the third difficulty for teacher-researchers: "this hopelessness can be dispelled" once teachers know families better and engage in reflective discourse in the labs. Qualitative description; no measure printed.
 
@@ -55,7 +61,7 @@ The digest's account of the third difficulty for teacher-researchers: "this hope
 
 Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146
 
-`q1 · i?`
+`q1 · i?` · `review · r1`
 
 Teacher self-report summarised in the digest: "the teachers reported it was a worthwhile process" despite the strain. No survey instrument or number of teachers is printed.
 
@@ -65,7 +71,7 @@ Teacher self-report summarised in the digest: "the teachers reported it was a wo
 
 Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r1`
 
 The digest reports the study groups offered "a safe, non-judgmental environment for thinking aloud" about classroom practice and household functions. Qualitative description of the labs.
 

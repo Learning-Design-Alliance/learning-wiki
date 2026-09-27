@@ -16,7 +16,7 @@ sources:
 # Tridimensional attitude model (cognitive-affective-conative) combined with an adapted error treatment model for analyzing OCF attitudes
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (7 for) · 1 study, `q2` · 0 of 1 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 7 claims rest on one study
 
 ## Description
 The study applies Schiffman and Kanuk's (2004) attitude model, in Jain's (2014) tridimensional version, in which attitudes comprise cognitive (beliefs), affective (feelings), and conative (behavior) components whose combinations yield eight possible "triodes". The authors pair this with an adaptation of Lyster and Ranta's (1997) error treatment model, adding OCF timing, provider, and effectiveness, so that error types, strategies, provider, timing, effectiveness, and learner reactions serve as objects of attitude. An attitude is defined as "a relatively enduring organization of beliefs, feelings, and behavioral tendencies towards socially significant objects, groups, events or symbols".

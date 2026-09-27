@@ -15,12 +15,14 @@ sources:
     author: Wu, Yann-Shya
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # PATHS macro-level sequencing combines spiral and topical sequencing patterns
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The lesson ordering in the PATHS Feelings and Relationships Unit tends to combine spiral and topical sequencing. [→ Wu 2000](#wu-2000)
@@ -31,7 +33,7 @@ sources:
 
 Wu, Yann-Shya. (2000). Guidelines for Instructional Sequencing in Emotional Literacy Learning Using PATHS Curriculum as an Example. https://eric.ed.gov/?id=ED455810
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The author's flowchart analysis of lesson ordering across the fifty-six lessons of the Feelings and Relationships Unit found the sequencing "tend[s] to be a combination of" spiral and topical patterns rather than either alone.
 

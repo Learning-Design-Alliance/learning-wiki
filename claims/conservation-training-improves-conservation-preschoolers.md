@@ -15,12 +15,14 @@ sources:
     author: Golomb, Claire; Vogel, David
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Conservation training stressing identity and reversibility improves conservation of quantity in nonconserving preschoolers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Nonconserving preschoolers given conservation training attained higher conservation levels than controls on both posttests. [→ Golomb 1983](#golomb-1983)
@@ -31,7 +33,7 @@ sources:
 
 Golomb, Claire; Vogel, David. (1983). The Role of Cognitive Operations in the Development of Gender Constancy. https://eric.ed.gov/?id=ED233823
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Randomized training experiment with 33 nonconserving preschoolers assigned to conservation training, pretense play training, or a drawing control. "statistically significant differences on posttest 1 and.2" favored both training conditions over the control group.
 

@@ -15,6 +15,8 @@ sources:
     q: 4
     i: 2
     n: 58 comparisons (2,426 participants)
+    kind: quant-synthesis
+    rigour: "?"
   - id: ginns-2006
     resource: "https://doi.org/10.1016/j.learninstruc.2006.10.001"
     title: "Ginns, P. (2006). Integrating information: A meta-analysis of the spatial contiguity and temporal contiguity effects. *Learning and Instruction, 16*(6), 511–525. [doi:10.1016/j.learninstruc.2006.10.001](https://doi.org/10.1016/j.learninstruc.2006.10.001)"
@@ -22,6 +24,8 @@ sources:
     q: 4
     i: "?"
     n: 50 studies
+    kind: quant-synthesis
+    rigour: "?"
   - id: schroeder-and-cenkci-2020
     resource: "https://doi.org/10.1037/edu0000372"
     title: "Schroeder, N. L., & Cenkci, A. T. (2020). Do measures of cognitive load explain the spatial split-attention principle in multimedia learning environments? A systematic review. *Journal of Educational Psychology, 112*(2), 254–270. [doi:10.1037/edu0000372](https://doi.org/10.1037/edu0000372)"
@@ -29,12 +33,14 @@ sources:
     q: 3
     i: "?"
     n: 41 comparisons
+    kind: review
+    rigour: "?"
 ---
 
 # Cognitive Load Reduction Improves Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q3`–`q4` · `i2` medium
+> **Evidence** · 3 studies · 2 quant-synthesis `r?`, 1 review `r?` · `q3`–`q4` · `i2` medium
 
 Reducing extraneous cognitive load — the load imposed by how material is presented rather than its intrinsic difficulty — improves learning outcomes, particularly for novices.
 
@@ -52,7 +58,7 @@ Reducing extraneous cognitive load — the load imposed by how material is prese
 
 Schroeder, N. L., & Cenkci, A. T. (2018). Spatial contiguity and spatial split-attention effects in multimedia learning environments: A meta-analysis. *Educational Psychology Review, 30*(3), 679–701. [doi:10.1007/s10648-018-9435-9](https://doi.org/10.1007/s10648-018-9435-9)
 
-`q4 · random-effects meta-analysis` · `i2 · medium effect, g=0.63` · `n=58 comparisons (2,426 participants)`
+`q4 · random-effects meta-analysis` · `i2 · medium effect, g=0.63` · `n=58 comparisons (2,426 participants)` · `quant-synthesis · r?`
 
 A random-effects meta-analysis of studies comparing integrated designs (related text and diagrams placed together) with spatially separated designs, which force learners to split their attention. Across 58 independent comparisons with 2,426 participants, integrated designs produced an overall effect of g = 0.63. Moderator analyses found the benefit held across many intervention-related and context-related variables. This is direct support for reducing one well-defined source of extraneous load.
 
@@ -60,7 +66,7 @@ A random-effects meta-analysis of studies comparing integrated designs (related 
 
 Ginns, P. (2006). Integrating information: A meta-analysis of the spatial contiguity and temporal contiguity effects. *Learning and Instruction, 16*(6), 511–525. [doi:10.1016/j.learninstruc.2006.10.001](https://doi.org/10.1016/j.learninstruc.2006.10.001)
 
-`q4 · meta-analysis` · `i? · no effect size in the abstract read` · `n=50 studies`
+`q4 · meta-analysis` · `i? · no effect size in the abstract read` · `n=50 studies` · `quant-synthesis · r?`
 
 A meta-analysis of 50 independent studies on the spatial and temporal contiguity effects, which reduce split attention between related pieces of information that are separated in space or presented at different times. The hypothesised benefits for novices were supported. The complexity of the learning materials moderated the effect: for complex materials in particular, increasing contiguity led to substantial learning gains. Only the abstract was read, and it reports no pooled effect size, so impact is coded `i?`.
 
@@ -68,7 +74,7 @@ A meta-analysis of 50 independent studies on the spatial and temporal contiguity
 
 Schroeder, N. L., & Cenkci, A. T. (2020). Do measures of cognitive load explain the spatial split-attention principle in multimedia learning environments? A systematic review. *Journal of Educational Psychology, 112*(2), 254–270. [doi:10.1037/edu0000372](https://doi.org/10.1037/edu0000372)
 
-`q3 · systematic review` · `i? · no effect size reported` · `n=41 comparisons`
+`q3 · systematic review` · `i? · no effect size reported` · `n=41 comparisons` · `review · r?`
 
 A systematic review of 41 comparisons from split-attention studies that also measured cognitive load, testing whether integrated designs work by lowering extraneous load. Measures of cognitive load largely did not support that explanation, and integrated designs did not reliably change any cognitive load measure compared with spatially separated designs. The authors propose that integration may instead help learners allocate germane resources to integrative processing. This leaves the learning benefit standing but qualifies the claim's mechanism, and supports this page's warning that load ratings and learning outcomes can come apart.
 

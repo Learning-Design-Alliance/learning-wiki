@@ -15,12 +15,14 @@ sources:
     author: "Three-Year Staff Development Plan 1972-1975: Report of HEW Region II Staff Development Project"
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Region II directors prioritized ESL classes higher and vocational counseling, job placement, and several other practices lower than the national sample
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Region II directors placed a higher priority on providing ESL classes, and lower priorities on integrating ABE and GED programs, parent education, instruction in learning labs, and vocational counseling and job placement services, relative to the national sample. [→ Three-Year Staff Development Plan 1972-1975: Report of HEW Region II Staff Development Project 1973](#three-year-staff-development-plan-1972-1975-report-of-hew-region-ii-staff-development-project-1973)
@@ -31,7 +33,7 @@ sources:
 
 Three-Year Staff Development Plan 1972-1975: Report of HEW Region II Staff Development Project. (1973). Montclair State College. https://eric.ed.gov/?id=ED083424
 
-`q2 · i?`
+`q2 · i?` · `design · r1`
 
 Same ABE Priorities Survey comparison of national and Region II local directors' current priorities for ABE practices, reported in TABLE III. The report attributes the learning-lab difference to extensive prior experience with learning labs in the region.
 

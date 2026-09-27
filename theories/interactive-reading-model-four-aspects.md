@@ -16,7 +16,7 @@ sources:
 # Interactive model of reading: four interacting aspects of the reading process
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The paper defines reading as an active thinking process with four interacting aspects: readers use both reader-based and text-based inferencing to construct meaning, elaborate what and how they read, continually monitor their understanding, and use the situational context to focus purposes. The model holds that "a pattern is synthesized based on information provided simultaneously from several knowledge sources" combined with prior grammatical and topic knowledge. Figure 1 depicts these aspects as continuously interacting while readers construct meaning.

@@ -15,12 +15,14 @@ sources:
     author: Erica L. Snow
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Real-time dynamic analyses (Hurst exponents, Entropy) are hypothesized to inform user models about optimal and non-optimal learning behaviors within a game-based ITS
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The author hypothesizes that applying dynamic data mining techniques such as Hurst exponent and Entropy analysis in real time can quantify students' behaviors, performance, and cognition and inform user models that adapt pedagogical content. [→ Erica L. Snow 2015](#erica-l-snow-2015)
@@ -31,7 +33,7 @@ sources:
 
 Erica L. Snow. (2015). Dynamic User Modeling within a Game-Based ITS. Proceedings of the 8th International Conference on Educational Data Mining. https://educationaldatamining.org/EDM2015
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 This is a doctoral consortium proposal, not a completed study: the article states the hypothesis and planned methods but reports no data testing real-time dynamic user modeling. The claim is recorded as the authors' stated proposal with no evidence offered.
 

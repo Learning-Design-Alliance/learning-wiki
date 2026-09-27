@@ -15,12 +15,14 @@ sources:
     q: 2
     i: 0
     n: ~40 Next Generation Learning Challenges (NGLC) schools; 5,539 students (math) / 5,474 students (reading), 2014–15
+    kind: causal
+    rigour: 2
 ---
 
 # Personalized Learning Effects Vary With Fidelity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible · n=~40 Next Generation Learning Challenges (NGLC) schools; 5,539 students (math) / 5,474 students (reading), 2014–15
+> **Evidence** · 1 study · causal `r2` · `q2` · `i0` negligible · n=~40 Next Generation Learning Challenges (NGLC) schools; 5,539 students (math) / 5,474 students (reading), 2014–15
 
 The measured benefits of personalized learning depend heavily on how faithfully a program is implemented — effects observed in efficacy trials often shrink or disappear when implementation drifts from the intended design.
 
@@ -34,7 +36,7 @@ The measured benefits of personalized learning depend heavily on how faithfully 
 
 Pane, J. F., Steiner, E. D., Baird, M. D., Hamilton, L. S., & Pane, J. D. (2017). *Informing progress: Insights on personalized learning implementation and effects*. RAND Corporation. [doi:10.7249/rr2042](https://doi.org/10.7249/rr2042)
 
-`q2 · quasi-experiment with matched virtual comparison groups` · `i0 · negligible-to-small, overall effect size 0.09 SD (math, sig.) / 0.07 SD (reading, n.s.)` · `n=~40 Next Generation Learning Challenges (NGLC) schools; 5,539 students (math) / 5,474 students (reading), 2014–15`
+`q2 · quasi-experiment with matched virtual comparison groups` · `i0 · negligible-to-small, overall effect size 0.09 SD (math, sig.) / 0.07 SD (reading, n.s.)` · `n=~40 Next Generation Learning Challenges (NGLC) schools; 5,539 students (math) / 5,474 students (reading), 2014–15` · `causal · r2`
 
 RAND matched students in NGLC schools implementing PL practices (adaptive software, data-driven grouping, flexible pacing, competency-based progression) to virtual comparison groups built from national norm-referenced test data, and also surveyed teachers/students on the extent to which PL practices were actually delivered. Overall one-year effects were small (+0.09 SD math, statistically significant; +0.07 SD reading, not significant). Effects differed by how much PL was implemented: charter schools, which reported implementing PL practices more fully, showed effects near +0.10 SD in both subjects, while district schools — which implemented PL to a lesser reported extent — showed about half that effect in math and a near-zero effect in reading. Schools with two years of exposure showed larger cumulative gains than schools in their first year, which the authors read as PL systems "requir[ing] some experience before operating at their fullest potential." The report is explicit that the implementation-effect link rests on self-reported survey data, a small district-school subsample (9 of 40 schools), and cannot rule out confounds, so it frames the relationship as suggestive, not confirmed.
 

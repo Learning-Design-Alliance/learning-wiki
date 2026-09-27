@@ -16,7 +16,7 @@ sources:
 # Cultural-historical activity theory (CHAT) as a framework for analyzing community service-learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q1` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 CHAT is described as a cross-disciplinary framework for studying how humans purposefully transform natural and social reality as a culturally and historically situated, socially mediated process. The paper uses it to analyze CSL in higher education, tracing three generations: Vygotsky's object-oriented action mediated by cultural tools, Leont'ev's collective activity, and Engeström's interacting activity systems. Activity systems direct attention to division of labour, tools, rules, and outcomes.

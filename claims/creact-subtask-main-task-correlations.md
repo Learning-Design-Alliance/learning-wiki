@@ -15,12 +15,14 @@ sources:
     author: "Akar, İ., & Şengil-Akar, Ş"
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Subtask creativity scores correlate significantly with the main task total, supporting summed scoring
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Correlations between subtasks and the main task ranged from .65 to .88 and were all significant, so summed subtask creativity scores were used as the main task score. [→ Akar 2013](#akar-2013)
@@ -31,7 +33,7 @@ sources:
 
 Akar, İ., & Şengil-Akar, Ş. (2013). The effectiveness of the Creative Reversal Act (CREACT) on students' creative thinking: Further evidence from Turkey. TOJET: The Turkish Online Journal of Educational Technology, 12(4). https://eric.ed.gov/?id=EJ1272859
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Correlational analysis (Table 2) in the same study among conceptualization, drawing and painting subtasks and the main task. Subtask-subtask coefficients varied from .09 to .64, with painting and drawing subtasks not significantly correlated; no effect size beyond coefficients is reported.
 

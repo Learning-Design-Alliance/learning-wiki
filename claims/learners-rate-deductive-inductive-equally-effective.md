@@ -15,12 +15,14 @@ sources:
     author: Raafat Gabriel
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # ESL learners rate deductive and inductive consciousness-raising tasks equally effective, regardless of proficiency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students regarded both deductive and inductive task types as equally effective and useful, and proficiency did not affect task preference. [→ Raafat Gabriel 2009](#raafat-gabriel-2009)
@@ -31,7 +33,7 @@ sources:
 
 Raafat Gabriel. (2009). The Efficacy of Explicit Grammar Instruction and its Impact on L2 Rule-Learning: A literature review. https://eric.ed.gov/?id=ED509345
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Mohamed (2004), an exploratory quantitative questionnaire-and-test study of 53 tertiary ESL learners in New Zealand assigned deductive or inductive consciousness-raising tasks on different structures by proficiency level. "The results indicated that students regard both task types equally effective and useful in language learning."
 

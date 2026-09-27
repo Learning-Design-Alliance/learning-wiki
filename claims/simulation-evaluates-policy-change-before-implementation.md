@@ -15,12 +15,14 @@ sources:
     author: Cohen, Malcolm S.
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Simulation allows the expense and effect of a policy change to be evaluated before implementation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The simulation can show how changes in staff levels and terminal numbers would increase applicants served and affect service quality before the change is actually implemented. [→ Cohen 1975](#cohen-1975)
@@ -31,7 +33,7 @@ sources:
 
 Cohen, Malcolm S. (1975). A Study of On-Line Use of Job Information in Employment Service Local Offices. Volume II: A Simulation Study. https://eric.ed.gov/?id=ED115779
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Chapter 4 (Use of the Simulation) presents this as the report's demonstration argument, illustrated with a hypothetical policy of a 20-percent increase in applicants served per day. The author argues the decision maker can determine how changes in staff levels and terminal numbers would affect both quantity and quality of services in advance.
 

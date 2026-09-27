@@ -15,12 +15,14 @@ sources:
     author: "Lu, Y., Tong, L., & Cheng, Y."
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Ablation study: removing any component lowers evaluation AUC, and removing all additional features yields the lowest public and private AUCs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The original Model 1 had the largest best validation, public, and private evaluation AUCs, and removing all additional features produced the lowest public and private AUCs. [→ Lu 2024](#lu-2024)
@@ -31,7 +33,7 @@ sources:
 
 Lu, Y., Tong, L., & Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula Information via an Attention-Based Framework for Accuracy and Interpretability. Journal of Educational Data Mining, 16(2). https://osf.io/mdpzc/
 
-`q3 · i? · the article prints no effect size for this finding`
+`q3 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Ablation study on Model 1 (Table 5), omitting sequence-level embeddings, student/class embeddings, action features, and problem features individually and jointly. Removing all features gave private AUC 0.7802 versus 0.7908 for the original model.
 

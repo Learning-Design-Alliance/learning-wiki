@@ -15,12 +15,14 @@ sources:
     author: F.V. Kowalski and S.E. Kowalski
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Every student present submitted at least one question response for each simulation, without external incentives
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across the four simulations, every student present submitted at least one response, and no external incentives were offered. [→ F.V. Kowalski and S.E. Kowalski 2013](#fv-kowalski-and-se-kowalski-2013)
@@ -31,7 +33,7 @@ sources:
 
 F.V. Kowalski and S.E. Kowalski. (2013). Enhancing Curiosity Using Interactive Simulations Combined with Real-Time Formative Assessment Facilitated by Open-Format Questions on Tablet Computers. https://arxiv.org/abs/1308.1110
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 In the Results section the authors report full participation: "Every student present at the time of each simulation submitted at least one response." The discussion adds that students were given no external incentives for their responses.
 

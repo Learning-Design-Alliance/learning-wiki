@@ -15,18 +15,22 @@ sources:
     author: "Zak-Moskal, A. D., & Garrison, M. J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: zak-moskal-2020-2
     resource: "https://commons.library.stonybrook.edu/nyjsa/vol20/iss1/4"
     title: "Zak-Moskal, A. D., & Garrison, M. J. (2020). Can Self-determination Theory be Used to Increase College Student Retention?. The New York Journal of Student Affairs, 20(1). https://commons.library.stonybrook.edu/nyjsa/vol20/iss1/4"
     author: "Zak-Moskal, A. D., & Garrison, M. J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # First-year seminar participation is associated with higher retention and graduation rates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports FYS participants returned at higher rates than non-participants at two years and five years, with lower odds of not graduating within seven years. [→ Zak-Moskal 2020](#zak-moskal-2020)
@@ -38,7 +42,7 @@ sources:
 
 Zak-Moskal, A. D., & Garrison, M. J. (2020). Can Self-determination Theory be Used to Increase College Student Retention?. The New York Journal of Student Affairs, 20(1). https://commons.library.stonybrook.edu/nyjsa/vol20/iss1/4
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review attributing this to Cambridge-Williams et al. (2013), a seven-year study of first-semester FYS participation with no initial demographic or academic differences between participants and non-participants. After five years, 75% of FYS students were enrolled or graduated versus nearly 60% of non-participants; odds of graduating were almost 50% less without FYS. No standardized effect size printed.
 
@@ -48,7 +52,7 @@ Narrative review attributing this to Cambridge-Williams et al. (2013), a seven-y
 
 Zak-Moskal, A. D., & Garrison, M. J. (2020). Can Self-determination Theory be Used to Increase College Student Retention?. The New York Journal of Student Affairs, 20(1). https://commons.library.stonybrook.edu/nyjsa/vol20/iss1/4
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review attributing this to Cambridge-Williams et al. (2013), comparing FYS students who also joined a living-learning community with FYS-only students. The authors interpret LLCs as supporting competence and relatedness more than FYS alone. No standardized effect size printed.
 

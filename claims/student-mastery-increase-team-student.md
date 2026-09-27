@@ -15,12 +15,14 @@ sources:
     author: Brundidge, G.
     q: 2
     i: 1
+    kind: design
+    rigour: 2
 ---
 
 # Student mastery increased modestly from 17.5% to 19.2% during TEAM Student implementation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · design `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` Student mastery at Lee Roy Myers Middle School rose from 17.5% in 2022 to 19.2% in 2023, with 70% of students meeting or exceeding 50% on common assessments. [→ Brundidge 2025](#brundidge-2025)
@@ -31,7 +33,7 @@ sources:
 
 Brundidge, G. (2025). TEAM student: A comprehensive model for family-friendly, student-centered middle schooling. National Youth Advocacy and Resilience Journal, 8(1), 15-22. https://doi.org/10.20429/nyarj.2025.080103
 
-`q2 · i1`
+`q2 · i1` · `design · r2`
 
 Single-school descriptive outcome reported in the Results section; the article reports the year-over-year mastery figures and the common-assessment benchmark but no statistical test or comparison group.
 

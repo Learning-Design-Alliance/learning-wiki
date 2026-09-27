@@ -15,12 +15,14 @@ sources:
     author: "Kartal, O. Y., Yazgan, A. D., & Avci, E."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Adults' resorting to epistemic violence correlates negatively with past enjoyment of and tendency toward education-related epistemic freedom
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Adults' level of resorting to epistemic violence shows a significant, negative, weak correlation with both their past enjoyment of education-related epistemic freedom and their tendency toward it. [→ Kartal 2018](#kartal-2018)
@@ -31,7 +33,7 @@ sources:
 
 Kartal, O. Y., Yazgan, A. D., & Avci, E. (2018). An Investigation into the Relationship between Adults' Levels of Education-Related Epistemic Freedom and Epistemic Violence. International Education Studies, 11(10). https://doi.org/10.5539/ies.v11n10p96
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Pearson correlation analysis of the four scale dimensions in a correlational study of 129 adults. The relationship between "resorting to epistemic violence" and past enjoyment of epistemic freedom was r = -.212 (p<.05) and with tendency to epistemic freedom r = -.334 (p<.05).
 

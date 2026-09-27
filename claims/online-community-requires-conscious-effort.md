@@ -15,12 +15,14 @@ sources:
     author: "Murphy, E., & Rodriguez-Manzanares, M. A."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Creating community and interacting with students online required deliberate, planned effort unlike spontaneous face-to-face co-presence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` E-teachers reported that building community and all interactions online required conscious, deliberate, and planned approaches, unlike the natural co-presence of F2F schools. [→ Murphy 2009](#murphy-2009)
@@ -31,7 +33,7 @@ sources:
 
 Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 In the Findings (Community section) of the interview study, e-teachers reported that with students dispersed across up to 100 communities and two time zones, "Creating community online “requires a conscious ef fort,”" whereas F2F community arose naturally from physical co-presence. The Discussion adds that all interactions "required more deliberate, intentional, and planned approaches."
 

@@ -17,7 +17,7 @@ sources:
 # Embed local Indigenous knowledge and community expertise in curricula, taught by Indigenous people themselves
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper argues that Indigenous knowledge should be incorporated into curricula with Indigenous people holding the right to teach their own ways of knowing, and that universities should recognise community expertise formally. It states that "many Elders and knowledgeable people already have the equivalent of a PhD in cultural knowledge in their own communities" and can be employed through adjunct or associate positions, with locally-based teaching and programs proliferating local histories and stories.

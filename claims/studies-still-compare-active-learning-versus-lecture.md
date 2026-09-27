@@ -15,12 +15,14 @@ sources:
     author: "Martella, A. M., Lovett, M. C., & Ramsay, L."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Post-2014 comparison studies still most commonly contrast one active learning condition with one lecture condition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Among the 59 reviewed studies, 62.7% compared one active learning condition to one lecture condition, and only 10.2% compared two active learning conditions. [→ Martella 2021](#martella-2021)
@@ -31,7 +33,7 @@ sources:
 
 Martella, A. M., Lovett, M. C., & Ramsay, L. (2021). Implementing active learning: A critical examination of sources of variation in active learning college science courses. Journal on Excellence in College Teaching, 32(1), 67-96. https://jlect.com/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Coding of comparison types across the 59 studies in the systematic review. The authors report this was surprising given the reviewed articles postdate the Freeman et al. (2014) call to move beyond active-learning-versus-lecture designs; descriptive percentage only.
 

@@ -15,12 +15,14 @@ sources:
     author: Hunt, J. McVicker
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # An enrichment program advanced poverty-sector infants in object construction ahead of middle-class infants
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Infants in the Mt. Carmel Parent and Child Center program achieved top-level object construction at a mean age of 73 weeks versus 98 weeks for Worcester middle-class infants. [→ Hunt 1973](#hunt-1973)
@@ -31,7 +33,7 @@ sources:
 
 Hunt, J. McVicker. (1973). Utility of Ordinal Scales Derived from Piaget's Observations. https://eric.ed.gov/?id=ED082854
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Evaluation-oriented study of 8 successive infants born to poverty-sector parents in the Mt. Carmel Mothers' Training Program, compared with Uzgiris's Worcester longitudinal sample. Hunt calls the 25-week difference nearly half a year, with the poverty-sector infants advanced. No test statistic or effect size printed.
 

@@ -15,12 +15,14 @@ sources:
     author: Geng Yaoyao, Morita Aiko
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # In Experiment 2, the native language × frequency interaction is significant, with both groups responding faster to high-frequency items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The interaction between native language and frequency was significant, and post-hoc tests showed high-frequency items were responded to faster than low-frequency items for both Japanese and Chinese participants. [→ Geng Yaoyao 2026](#geng-yaoyao-2026)
@@ -31,7 +33,7 @@ sources:
 
 Geng Yaoyao, Morita Aiko. (2026). A Comparison of Transposed-Character Effect Between Chinese and Japanese Speakers: Processing Position Information of Hanzi and Kanji Characters. Journal of Psycholinguistic Research. https://doi.org/10.1007/s10936-026-10279-0
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Secondary analysis from the Experiment 2 LME model on log-transformed reaction times of 126 participants. The quoted omnibus interaction and post-hoc contrasts show a frequency effect in both language groups, with different estimated magnitudes for Japanese and Chinese participants.
 

@@ -13,6 +13,8 @@ sources:
     q: 2
     i: "?"
     n: N/A
+    kind: review
+    rigour: "?"
   - id: wigfield-cambria-2010
     resource: "https://doi.org/10.1016/j.dr.2009.12.001"
     title: "Wigfield, A., & Cambria, J. (2010). Students' achievement values, goal orientations, and interest: Definitions, development, and relations to achievement outcomes. *Developmental Review, 30*(1), 1–35. [https://doi.org/10.1016/j.dr.2009.12.001](https://doi.org/10.1016/j.dr.2009.12.001)"
@@ -20,6 +22,8 @@ sources:
     q: 3
     i: "?"
     n: N/A
+    kind: review
+    rigour: "?"
 id: task-value-increases-motivation-and-engagement
 evidence_strength: strong
 ---
@@ -27,7 +31,7 @@ evidence_strength: strong
 # Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2`–`q3`
+> **Evidence** · 2 studies · 2 review `r?` · `q2`–`q3`
 
 Task value is the learner's subjective appraisal of why a task is worth doing. Expectancy-value theory identifies four components: intrinsic value (the task is inherently interesting or enjoyable), attainment value (success matters to the learner's identity or self-concept), utility value (the task is useful for future goals), and cost (what must be given up to do it). Perceived value, combined with expectancy of success, predicts choice, persistence, and quality of engagement — not just whether a learner participates, but how much they invest.
 
@@ -45,7 +49,7 @@ Task value is the learner's subjective appraisal of why a task is worth doing. E
 
 Eccles, J. S., & Wigfield, A. (2002). Motivational beliefs, values, and goals. *Annual Review of Psychology, 53*, 109–132. [https://doi.org/10.1146/annurev.psych.53.100901.135153](https://doi.org/10.1146/annurev.psych.53.100901.135153)
 
-`q2 · narrative review: theoretical synthesis` · `i? · the abstract prints no effect size; the full text may` · `n=N/A`
+`q2 · narrative review: theoretical synthesis` · `i? · the abstract prints no effect size; the full text may` · `n=N/A` · `review · r?`
 
 Eccles and Wigfield present the expectancy-value framework as an integrated model of achievement motivation. They distinguish four value components and review longitudinal and experimental evidence showing these predict academic choices more reliably than prior performance alone. A key finding: value declines across schooling are steeper than ability declines, suggesting that motivation is a design problem (how we frame tasks) as much as a learning problem (whether students can do them). Design implication: learners need to understand not just how to do something but why it matters to them personally.
 
@@ -53,7 +57,7 @@ Eccles and Wigfield present the expectancy-value framework as an integrated mode
 
 Wigfield, A., & Cambria, J. (2010). Students' achievement values, goal orientations, and interest: Definitions, development, and relations to achievement outcomes. *Developmental Review, 30*(1), 1–35. [https://doi.org/10.1016/j.dr.2009.12.001](https://doi.org/10.1016/j.dr.2009.12.001)
 
-`q3 · integrative review of multiple studies and frameworks` · `i? · no source text available to check; the entry prints no effect size` · `n=N/A`
+`q3 · integrative review of multiple studies and frameworks` · `i? · no source text available to check; the entry prints no effect size` · `n=N/A` · `review · r?`
 
 Wigfield and Cambria synthesize research on achievement values, goal orientations, and interest, showing how these constructs develop across school years and relate to outcomes. They review experimental interventions — particularly brief utility-value writing tasks (where students write about how course material connects to their lives) — that reliably improve engagement and achievement, especially for students from groups underrepresented in a domain. The cost dimension (what a learner gives up to engage) is underutilized in design: reducing perceived cost (time pressure, social risk of participation) can be as effective as increasing perceived value.
 

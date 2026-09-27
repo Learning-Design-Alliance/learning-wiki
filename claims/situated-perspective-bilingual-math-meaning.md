@@ -15,12 +15,14 @@ sources:
     author: Vilma Mesa
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Situated perspective explains Latino students' mathematical meaning-making in bilingual classrooms better than a discontinuity model (review reports Moschkovich, 1996)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports that Moschkovich's situated framework, in which language use and its relation to math learning depend on the situation, offered a better understanding of meaning construction in a Geometry and an Algebra class than a discontinuity model treating everyday context as an obstacle. [→ Vilma Mesa 1998](#vilma-mesa-1998)
@@ -31,7 +33,7 @@ sources:
 
 Vilma Mesa. (1998). A Review of Literature on Under Achievement of Minorities in Mathematics. Paper presented at the Annual Meeting of the American Educational Research Association, San Diego, CA. https://eric.ed.gov/?id=ED428113
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review attributing this to Moschkovich's (1996) analysis of how Latino students construct mathematical meaning in a bilingual classroom, built on situated cognition. The review describes the situation as including type of problem, sub-field, representational resources, historical context, and social context. No effect sizes are printed.
 

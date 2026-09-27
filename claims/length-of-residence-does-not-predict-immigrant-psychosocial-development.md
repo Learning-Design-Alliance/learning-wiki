@@ -15,12 +15,14 @@ sources:
     author: Kim, Saekyung; Gaa, John; Swank, Paul; Liberman, Dov
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Length of residence in the United States does not predict psychosocial development of adult Korean immigrants
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a survey of 79 Korean adult immigrants, neither length of immigration nor age significantly predicted MPD psychosocial development scores. [→ Kim 1998](#kim-1998)
@@ -31,7 +33,7 @@ sources:
 
 Kim, Saekyung; Gaa, John; Swank, Paul; Liberman, Dov. (1998). Identity Transformation of Korean Immigrants. https://eric.ed.gov/?id=ED420007
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 General linear model analysis of mail-survey MPD data from 79 Korean adult immigrants (29 male, 50 female) in Houston, controlling for age. The article reports that "no significant relations between either of the two predictors, length of immigration and age, and the dependent variable were found"; no effect size is printed.
 

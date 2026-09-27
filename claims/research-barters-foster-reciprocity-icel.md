@@ -15,12 +15,14 @@ sources:
     author: "Vijge, M. J., Gallagher, S. E., Byrne, J. R., Tschersich, J., Tager, J., Madhavan, U. B., Boshoff, H., & Triyanti, A."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Nonfunded research barters, initiated by Global South partners, can foster reciprocity in ICEL without transactional funding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Nonfunded partnerships through research barter, where high-quality research is carried out in a hybrid environment without money changing hands, enhanced reciprocity because the Global South partner initiated the challenge and cocreated the solution. [→ Vijge 2025](#vijge-2025)
@@ -31,7 +33,7 @@ sources:
 
 Vijge, M. J., Gallagher, S. E., Byrne, J. R., Tschersich, J., Tager, J., Madhavan, U. B., Boshoff, H., & Triyanti, A. (2025). Community-Engaged Learning in a European Universities Alliance: Reflections on Equality and Reciprocity Across Europe and Africa. Journal of Higher Education Outreach and Engagement, 29(2). https://openjournals.libs.uga.edu/jheoe
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Autoethnographic reflection on funding and resources. The authors "observed that nonfunded partnerships could also occur through research barter", initiated by the Global South partner submitting a challenge, with process and solution cocreated organically based on complementary expertise.
 

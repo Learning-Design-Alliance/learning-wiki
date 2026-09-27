@@ -15,12 +15,14 @@ sources:
     author: "Gil, A., Osiecki, N., & Juarez, A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Students in grades 2-12 whose teachers received STRP training used 19 of 35 framework metacognitive behaviors in reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` After teacher training in STRP, students across grades 2-12 (excluding grade 4) exhibited 19 of the 35 metacognitive behaviors in the researchers' framework. [→ Gil 2001](#gil-2001)
@@ -31,7 +33,7 @@ sources:
 
 Gil, A., Osiecki, N., & Juarez, A. (2001). Students Reflecting on What They Know. Paper presented at the XIX International Council for Innovation in Higher Education, Rome. https://eric.ed.gov/?id=ED457222
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Conclusion of a study of 1,570 students in ten K-12 public schools whose teachers completed a two-year STRP plan; interview responses were coded against the 35-behavior framework. The study reports that "students are using 19 of 35 metacognitive behaviors." No effect size is printed.
 

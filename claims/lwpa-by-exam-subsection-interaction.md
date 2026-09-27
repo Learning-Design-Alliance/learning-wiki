@@ -15,12 +15,14 @@ sources:
     author: Tetiana Zubenko, Allan Shwedel
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Treatment effect interacts with exam sub-section, with oral comprehension showing the largest LWPA advantage
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A mixed-factors repeated measures ANOVA found a significant treatment by exam sub-section interaction (F = 3.188, p = .003), with significant differences favouring the LWPA group in both Oral Comprehension sub-sections. [→ Tetiana Zubenko 2019](#tetiana-zubenko-2019)
@@ -31,7 +33,7 @@ sources:
 
 Tetiana Zubenko, Allan Shwedel. (2019). Integrating mobile listening and physical activity to facilitate intentional and incidental vocabulary acquisition. Advanced Education, Special Issue 11. https://doi.org/10.20535/2410-8286.165717
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Mixed-factors repeated measures ANOVA on percentage-correct sub-section scores (interaction F = 3.188, p = .003 per Table 4), followed by post hoc Tukey HSD tests per sub-domain. "significant differences favouring the LWPA group were observed in the two Oral Comprehension sub-sections" (Identify Speaker Q = 3.68, p = .012; Answer Questions Q = 5.06, p = .001).
 

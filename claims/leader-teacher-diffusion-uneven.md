@@ -15,18 +15,22 @@ sources:
     author: Corcoran, Tom
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
   - id: corcoran-2003-2
     resource: "https://eric.ed.gov/?id=ED480404"
     title: "Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404"
     author: Corcoran, Tom
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Leader Teachers receiving nearly 500 hours of professional development over three years changed their practice dramatically and engaged students in inquiry regularly, though practice stabilized after three years. [→ Corcoran 2003](#corcoran-2003)
@@ -38,7 +42,7 @@ sources:
 
 Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 CPRE observations and surveys of Leader Teachers from the three-year voluntary Leader Teacher Institute, which enrolled more than 140 teachers across the four districts and focused each year on a different science domain.
 
@@ -48,7 +52,7 @@ CPRE observations and surveys of Leader Teachers from the three-year voluntary L
 
 Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 CPRE's account of the Leader Teacher diffusion strategy: success depended on selecting respected individuals with science interest and knowledge, principal support, and released time; prevailing norms of teacher autonomy made spreading inquiry difficult.
 

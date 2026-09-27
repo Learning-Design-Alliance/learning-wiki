@@ -15,12 +15,14 @@ sources:
     author: "Greene, J. P., & Winters, M. A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # 85.1% of DC public school students attend schools at least 91% non-White, versus 42.8% of voucher private school students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Of all DC public school students, 85.1% are enrolled in schools that are at least 91% non-White, compared with 42.8% of students attending participating private schools; no public school students attend schools 0-10% non-White versus 4.5% of private school students. [→ Greene 2007](#greene-2007)
@@ -31,7 +33,7 @@ sources:
 
 Greene, J. P., & Winters, M. A. (2007). An evaluation of the effect of DC's voucher program on public school achievement and racial integration after one year. Catholic Education: A Journal of Inquiry and Practice, 11(1), 83-101. https://eric.ed.gov/?id=EJ1005985
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Student-weighted decile distribution of White/non-White enrollment mix across DC public and voucher-participating private schools, illustrated in Figure 1 and reported in text. Very few public school students attend schools approximating the 57.1% non-White metro average, while private school students are somewhat more likely to have a representative racial mix.
 

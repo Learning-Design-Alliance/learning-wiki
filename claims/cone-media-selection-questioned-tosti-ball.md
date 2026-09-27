@@ -15,12 +15,14 @@ sources:
     author: Seels, B.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # The validity of the cone approach to media selection was questioned by 1969 because instructional design, not media alone, shapes media characteristics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Tosti and Ball argued in 1969 that it is not just the media but how instruction delivered through the media is designed, questioning whether media have unique characteristics. [→ Seels 1997](#seels-1997)
@@ -31,7 +33,7 @@ sources:
 
 Seels, B. (1997). The Relationship of Media and ISD Theory: The Unrealized Promise of Dale's Cone of Experience. https://eric.ed.gov/?id=ED409869
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 The article reports, citing Tosti and Ball (1969), that the cone's validity for media selection was questioned because design can affect media characteristics. This is the article's attribution of a second-hand critique, not a new empirical test.
 

@@ -16,7 +16,7 @@ sources:
 # Effective time constant as a quantifiable construct predictive of task difficulty
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The effective time constant (te) is a construct embodying machine properties described by the equations of motion of the vehicle and the operator property of level of threshold of perception of vehicle output. It is proposed as a basic measurable parameter of the man-machine combination, an independent variable predictive of task difficulty. Experimentation showed te to be related to final level of precision of control and to rate of learning, and level of performance is related to the interactive effect of te and steady-state system gain expressed as the product (kte).

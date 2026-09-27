@@ -17,7 +17,7 @@ sources:
 # Shared-dialogue foundation methods: team-defined mission, behavioral standards, cultural intelligence, and self-assessments
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 This pattern is the article's own enumerated set of methods for creating a student shared dialogue before and during an international interdisciplinary service-learning course. The article states: "Methods for shared dialogues include creating a team-defined mission, team-defined behavioral standards, building shared cultural understandings and expectations for developing cultural intelligence, and developing realistic expectations for interpersonal understandings through use of self-assessments." Student team-led projects provide the authentic context for implementing the foundation.

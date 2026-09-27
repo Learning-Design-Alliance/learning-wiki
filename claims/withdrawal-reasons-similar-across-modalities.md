@@ -15,12 +15,14 @@ sources:
     author: Jia Frydenberg
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Self-reported withdrawal reasons are largely similar online and onground, led by no/other reason, transfer, and schedule conflict
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The top withdrawal reasons — No/Other Reason, Transfer, and Schedule Conflict — lead both lists, accounting for 85 percent of online and 65 percent of onground drops. [→ Jia Frydenberg 2007](#jia-frydenberg-2007)
@@ -31,7 +33,7 @@ sources:
 
 Jia Frydenberg. (2007). Persistence in University Continuing Education Online Classes. International Review of Research in Open and Distance Learning, 8(3). https://portal.issn.org/resource/ISSN/1492-3831
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Textual analysis of voluntary written withdrawal requests coded by student services staff over two years. Nearly 50 percent of online reasons were unclassified or withheld; the top six categories accounted for 93 percent of the reduced online data. The article reports the three leading categories "lead both lists."
 

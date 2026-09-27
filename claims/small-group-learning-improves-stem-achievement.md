@@ -15,12 +15,14 @@ sources:
     q: 4
     i: 2
     n: 39 studies (49 independent samples)
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Small Group Learning Improves STEM Achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium · n=39 studies (49 independent samples)
+> **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i2` medium · n=39 studies (49 independent samples)
 
 Learners working in small structured groups show higher achievement in science, technology, engineering, and mathematics than learners in whole-class or individual formats. The claim applies to *structured* small group learning — groups organized with positive interdependence, individual accountability, and explicit roles — not to grouping per se.
 
@@ -34,7 +36,7 @@ Learners working in small structured groups show higher achievement in science, 
 
 Springer, L., Stanne, M. E., & Donovan, S. S. (1999). Effects of small-group learning on undergraduates in science, mathematics, engineering, and technology: A meta-analysis. *Review of Educational Research, 69*(1), 21–51. [doi:10.3102/00346543069001021](https://doi.org/10.3102/00346543069001021)
 
-`q4 · peer-reviewed meta-analysis` · `i2 · medium effect, d=0.51` · `n=39 studies (49 independent samples)`
+`q4 · peer-reviewed meta-analysis` · `i2 · medium effect, d=0.51` · `n=39 studies (49 independent samples)` · `quant-synthesis · r2`
 
 A meta-analysis of research on undergraduate science, mathematics, engineering, and technology (SMET) courses and programs published from 1980 onward. Of 383 reports located, 39 studies (10.2%) met inclusion criteria (quantitative, research-based, conducted at accredited North American postsecondary institutions, comparing small-group instruction against a non-group condition). Based on 49 independent samples from 37 of those studies (116 separate findings), students who learned in small groups showed significantly greater achievement than students exposed to instruction without cooperative or collaborative grouping (weighted d = 0.51); small-group learning was also associated with greater persistence (d = 0.46, 9 studies) and more favorable attitudes (d = 0.55, 11 studies). Effect sizes for achievement were significantly larger when the investigator was also the instructor (d = 0.73 vs. 0.41), in two-sample experimental/control designs versus pre-post single-sample designs (d = 0.57 vs. 0.30), and at four-year institutions versus two-year colleges (d = 0.54 vs. 0.21, the latter one of only two non-significant results in the study). No significant difference in achievement effects was found across SMET subfields (allied health, mathematics/computer science, sciences) and no evidence of publication bias was apparent.
 

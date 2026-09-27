@@ -16,7 +16,7 @@ sources:
 # Interactionist dynamic assessment grounded in Vygotsky's ZPD
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Dynamic assessment is presented as a Vygotskian alternative to psychometric testing that "focuses on the collaborative dialogue between the learners and the mediator to move the learners from their current capabilities". The article distinguishes interventionist DA, with standardized prespecified hints, from interactionist DA, in which "the examinee is provided with unscripted help which is not preplanned, but rather emerging from the collaborative mediation". Following Aljaafreh and Lantolf, assistance should be graduated, contingent, dialogic and tailored to the learner's ZPD. The study applies interactionist DA in SCMC to uncover learners' potential for future development.

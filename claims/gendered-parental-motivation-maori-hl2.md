@@ -15,12 +15,14 @@ sources:
     author: Awanui Te Huia
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Women report child-related language motivation regardless of parental status, suggesting a gendered pattern
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Seven female participants reported children contributed to their language motivation irrespective of whether they were mothers, while three males reported this only if already fathers. [→ Awanui Te Huia 2015](#awanui-te-huia-2015)
@@ -31,7 +33,7 @@ sources:
 
 Awanui Te Huia. (2015). Exploring goals and motivations of Māori heritage language learners. Studies in Second Language Learning and Teaching, 5(4), 609-635. https://eric.ed.gov/?id=EJ1135051
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Within the parental responsibilities subtheme, the author reports this gender divide and suggests social expectations on women as cultural providers may explain it; census data showed 12% of Māori women versus 9% of Māori males could converse at a high level of proficiency.
 

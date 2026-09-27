@@ -17,7 +17,7 @@ sources:
 # Gather comprehensive information about students' functioning rather than relying solely on categorical placement eligibility
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study, `q3` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article recommends that school psychologists gather comprehensive information regarding students' functioning, an approach it says is more consistent with dimensional and person-oriented methodologies. Relying solely on placement eligibility information obtained for categorical classification "might prove insufficient and further the 'wait to fail' treatment approach." The recommendation rests on the study's finding that categorical DSM-based methods were not superior for predicting any educational outcome.

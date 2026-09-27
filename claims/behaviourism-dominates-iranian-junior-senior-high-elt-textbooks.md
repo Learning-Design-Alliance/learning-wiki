@@ -15,12 +15,14 @@ sources:
     author: Hossein Hashem Neghad
     q: 2
     i: 2
+    kind: design
+    rigour: 2
 ---
 
 # Behaviourism is the major learning theory reflected in Iranian Junior and Senior High school ELT textbooks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` In Iranian Junior High school ELT textbooks, behaviourism had a frequency count of 32 and relative frequency of 76.2%, the largest of the three theories. [→ Hossein Hashem Neghad 2014](#hossein-hashem-neghad-2014)
@@ -31,7 +33,7 @@ sources:
 
 Hossein Hashem Neghad. (2014). Reflection of Learning Theories in Iranian ELT Textbooks. Advances in Language and Literary Studies, 5(2). https://doi.org/10.7575/aiac.alls.v.5n.2p.115
 
-`q2 · i2`
+`q2 · i2` · `design · r2`
 
 Frequency count and relative frequency analysis of instructional techniques in the Junior High school textbooks, aggregated across Junior I and II. The study reports "the frequency count of 32 and relative frequency of 76.2%" for behaviourism, with constructivism at 0%.
 

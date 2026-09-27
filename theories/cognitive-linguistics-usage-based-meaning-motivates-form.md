@@ -16,7 +16,7 @@ sources:
 # Cognitive Linguistics as a usage-based model of language in which meaning motivates form
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article presents Cognitive Linguistics (CL) as a framework in which "language is a dynamic interplay of complex subsystems composed of symbolic units, and meaning is the driving force behind form". Meaning arises from embodied physical experience and interacts with culture-specific conceptualization, extending from physical perception into networks reaching abstract domains. As a usage-based model of acquisition, CL holds that languages differ in how they reflect conceptual representations, so learning an L2 speech community's conventional categories is crucial. The article uses this framework to justify meaning-based L2 pedagogy.

@@ -15,12 +15,14 @@ sources:
     author: Taylor, A.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # CHAT references are noticeably absent from commonly cited CSL literature despite shared commitments with Dewey and Freire
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` CSL research is theoretically situated in experiential education, social learning, student development, and liberatory education, but sociocultural theories like CHAT are noticeably absent in commonly cited work. [→ Taylor 2014](#taylor-2014)
@@ -31,7 +33,7 @@ sources:
 
 Taylor, A. (2014). Community service-learning and cultural-historical activity theory. Canadian Journal of Higher Education, 44(1). https://journals.sfu.ca/cjhe/index.php/cjhe
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 The author's literature-based argument that the CSL field, while drawing on Dewey, Kolb, and Freire, has neglected CHAT. This is a scholarly claim about the literature, not an empirical test; the paper offers it as the gap it addresses.
 

@@ -15,12 +15,14 @@ sources:
     author: Glaser, Robert
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Errorless discrimination training avoids emotional responses and yields more effective transfer than errorful training (Terrace's pigeon studies)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Pigeons taught a discrimination with errors, unlike errorlessly trained birds, showed emotional responses to S-, response bursts to the incorrect stimulus, and less effective transfer to related discriminations. [→ Glaser 1966](#glaser-1966)
@@ -31,7 +33,7 @@ sources:
 
 Glaser, Robert. (1966). Variables in "Discovery Learning." Learning Research and Development Center, University of Pittsburgh. https://eric.ed.gov/?id=ED010518
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The paper reports Terrace's errorless-learning demonstrations with pigeons on red-green and line-orientation discriminations, achieved by progressively reducing stimulus differences; error-trained birds alone showed the three listed characteristics. No effect size is printed.
 

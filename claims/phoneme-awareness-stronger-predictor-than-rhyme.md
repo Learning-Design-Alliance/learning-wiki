@@ -15,6 +15,8 @@ sources:
     q: 2
     i: "?"
     n: children aged 5½–9½ years (sample size not stated in abstract)
+    kind: associational
+    rigour: "?"
   - id: hulme-et-al-2002
     resource: "https://doi.org/10.1006/jecp.2002.2670"
     title: "Hulme, C., Hatcher, P. J., Nation, K., Brown, A., Adams, J., & Stuart, G. (2002). Phoneme Awareness Is a Better Predictor of Early Reading Skill Than Onset-Rime Awareness. *Journal of Experimental Child Psychology, 82*(1), 2–28. [doi:10.1006/jecp.2002.2670](https://doi.org/10.1006/jecp.2002.2670)"
@@ -22,6 +24,8 @@ sources:
     q: 2
     i: "?"
     n: children aged 5–6 years (exact sample size not stated in the abstract)
+    kind: associational
+    rigour: "?"
   - id: muter-et-al-2004
     resource: "https://doi.org/10.1037/0012-1649.40.5.665"
     title: "Muter, V., Hulme, C., Snowling, M. J., & Stevenson, J. (2004). Phonemes, Rimes, Vocabulary, and Grammatical Skills as Foundations of Early Reading Development: Evidence From a Longitudinal Study. *Developmental Psychology, 40*(5), 665–681. [doi:10.1037/0012-1649.40.5.665](https://doi.org/10.1037/0012-1649.40.5.665)"
@@ -29,12 +33,14 @@ sources:
     q: 2
     i: "?"
     n: 90 British children
+    kind: associational
+    rigour: "?"
 ---
 
 # Phoneme awareness is a stronger predictor of reading development than rhyme awareness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment
+> **Evidence** · 3 studies · 3 associational `r?` · `q2`
 
 Awareness of individual phonemes — the ability to segment and manipulate the smallest sound units in words — predicts later reading and spelling achievement more strongly than awareness of larger sound units such as rhymes and syllables.
 
@@ -52,7 +58,7 @@ Awareness of individual phonemes — the ability to segment and manipulate the s
 
 Nation, K., & Hulme, C. (1997). Phonemic Segmentation, Not Onset‐Rime Segmentation, Predicts Early Reading and Spelling Skills. *Reading Research Quarterly, 32*(2), 154–167. [doi:10.1598/rrq.32.2.2](https://doi.org/10.1598/rrq.32.2.2)
 
-`q2 · correlational study with age-band comparisons` · `i? · effect size not reported in the abstract (regression/correlation coefficients reported in the article body only)` · `n=children aged 5½–9½ years (sample size not stated in abstract)`
+`q2 · correlational study with age-band comparisons` · `i? · effect size not reported in the abstract (regression/correlation coefficients reported in the article body only)` · `n=children aged 5½–9½ years (sample size not stated in abstract)` · `associational · r?`
 
 Children ranging from 5½ to 9½ years old were given four tests of phonological skill — phonemic segmentation, onset-rime segmentation, rhyme sound categorisation, and alliteration sound categorisation — and their relationships to reading and spelling ability were examined. Phonemic segmentation was found to be an excellent predictor of reading and spelling, while onset-rime segmentation performed similarly across all age groups and failed to predict reading/spelling; rhyme and alliteration categorisation accounted for significant but smaller variance than phonemic segmentation. The authors conclude that phonemic awareness is an important predictor of reading and spelling even in early development, and that the evidence "question[s] the emphasis that has sometimes been placed on rhyming skills as predictors of reading and spelling ability."
 
@@ -60,7 +66,7 @@ Children ranging from 5½ to 9½ years old were given four tests of phonological
 
 Hulme, C., Hatcher, P. J., Nation, K., Brown, A., Adams, J., & Stuart, G. (2002). Phoneme Awareness Is a Better Predictor of Early Reading Skill Than Onset-Rime Awareness. *Journal of Experimental Child Psychology, 82*(1), 2–28. [doi:10.1006/jecp.2002.2670](https://doi.org/10.1006/jecp.2002.2670)
 
-`q2 · short-term longitudinal study with regression analysis` · `i? · effect size not reported in the abstract` · `n=children aged 5–6 years (exact sample size not stated in the abstract)`
+`q2 · short-term longitudinal study with regression analysis` · `i? · effect size not reported in the abstract` · `n=children aged 5–6 years (exact sample size not stated in the abstract)` · `associational · r?`
 
 In a short-term longitudinal study, children in the early stages of learning to read (5 and 6 year olds) completed deletion, oddity and detection tasks tapping awareness of four phonological units: initial phoneme, final phoneme, onset, and rime. Phoneme awareness measures were the best concurrent and longitudinal predictors of reading skill, and onset-rime skills made no additional predictive contribution once phonemic skills were statistically accounted for. The authors relate this to the wider debate over whether large (onset-rime) or small (phoneme) phonological units better predict children's reading development.
 
@@ -68,7 +74,7 @@ In a short-term longitudinal study, children in the early stages of learning to 
 
 Muter, V., Hulme, C., Snowling, M. J., & Stevenson, J. (2004). Phonemes, Rimes, Vocabulary, and Grammatical Skills as Foundations of Early Reading Development: Evidence From a Longitudinal Study. *Developmental Psychology, 40*(5), 665–681. [doi:10.1037/0012-1649.40.5.665](https://doi.org/10.1037/0012-1649.40.5.665)
 
-`q2 · 2-year longitudinal study` · `i? · effect size not reported in the abstract` · `n=90 British children`
+`q2 · 2-year longitudinal study` · `i? · effect size not reported in the abstract` · `n=90 British children` · `associational · r?`
 
 In a 2-year longitudinal study beginning at school entry (90 British children starting at a mean age of about 4 years 9 months), the authors tracked early phonological skills, letter knowledge, grammatical skills and vocabulary knowledge as predictors of later word recognition and reading comprehension. Word recognition was consistently predicted by earlier letter knowledge and phoneme sensitivity, but "not by vocabulary knowledge, rhyme skills, or grammatical skills." Reading comprehension, by contrast, was predicted by prior word recognition, vocabulary knowledge and grammatical skills — showing that rhyme awareness dropped out as a predictor of either outcome once phoneme sensitivity and letter knowledge were in the model.
 

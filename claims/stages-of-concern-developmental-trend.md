@@ -15,12 +15,14 @@ sources:
     author: Loucks, Susan F.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Teachers' concerns follow a developmental trend from lower to higher stages during curriculum implementation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Over a year of SCIS implementation, teachers' concerns at Stages 0, 1, and 2 decreased over time while concerns at Stages 4, 5, and 6 increased, supporting the developmental hypothesis. [→ Loucks 1977](#loucks-1977)
@@ -31,7 +33,7 @@ sources:
 
 Loucks, Susan F. (1977). Concerns Expressed by Elementary School Teachers about the Implementation of the SCIS Curriculum. https://eric.ed.gov/?id=ED250163
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Longitudinal SoCQ study of Kansas elementary teachers implementing SCIS, assessed five times from May 1975 to April 1976; thirty individuals provided data at every period. The article reports "a general developmental trend" in concerns across the analyses.
 

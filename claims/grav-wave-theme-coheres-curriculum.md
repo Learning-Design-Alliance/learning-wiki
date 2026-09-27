@@ -15,12 +15,14 @@ sources:
     author: "Farr, Schelbert, & Trouille"
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Embedding gravitational-wave science across a year-long astronomy curriculum gave coherence to previously disconnected units and motivated students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Explicitly connecting existing curriculum topics to gravitational-wave science whenever possible gave coherency to units that before may have seemed disconnected, and students' fascination with the topic produced significant self-motivation. [→ Farr 2012](#farr-2012)
@@ -31,7 +33,7 @@ sources:
 
 Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 The authors' interpretive report (type e) from their year-long implementation in 8 classes of about 25 students each, with no prerequisites and mixed math proficiency. They also report students were fascinated by gravitational waves and colliding black holes, resulting in significant self-motivation; no measures or tests are reported.
 

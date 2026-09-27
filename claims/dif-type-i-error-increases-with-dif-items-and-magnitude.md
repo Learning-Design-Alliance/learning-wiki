@@ -15,12 +15,14 @@ sources:
     author: "Flowers, C. P., Oshima, T. C., & Raju, N. S."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Type I error rates of all three polytomous DIF indices increase as the number of DIF items and DIF magnitude increase
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across NCDIF, extended SIBTEST, and extended Lord's chi-square, simulated Type I error rates rose with more embedded DIF items and larger DIF magnitude. [→ Flowers 1997](#flowers-1997)
@@ -31,7 +33,7 @@ sources:
 
 Flowers, C. P., Oshima, T. C., & Raju, N. S. (1997). The Relationship between Polytomous DFIT and Other Polytomous DIF Procedures. Paper presented at the NCME Annual Meeting, Chicago. https://eric.ed.gov/?id=ED410300
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Simulation results across conditions varying two versus four DIF items and .10 versus .25 DIF magnitude, reported in Table 2. The authors present this as an expected pattern rather than a tested hypothesis.
 

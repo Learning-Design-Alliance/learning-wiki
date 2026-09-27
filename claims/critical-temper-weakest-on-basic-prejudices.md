@@ -15,12 +15,14 @@ sources:
     author: Johnson, David Kenneth
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Critical disposition is least spontaneous when confronting one's most basic prejudices or deeply held convictions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Students may possess the ability but not the disposition to critically assess their own most basic beliefs and convictions. [→ Johnson 1995](#johnson-1995)
@@ -31,7 +33,7 @@ sources:
 
 Johnson, David Kenneth. (1995). CRITO: Informal Logic, Critical Thinking, and the Argumentative Essay. https://eric.ed.gov/?id=ED384062
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the paper's introduction, paraphrasing Siegel: the disposition to apply reason assessment fails precisely when one's own deepest convictions are at stake, even when the ability is present. No empirical data are offered.
 

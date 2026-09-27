@@ -15,12 +15,14 @@ sources:
     author: "Sherman, P., & Boukydis, O."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students reported that collaboration, practicums, and study abroad enhanced perspective, fostered empathy, and encouraged a sense of community. [→ Sherman 2020](#sherman-2020)
@@ -31,7 +33,7 @@ sources:
 
 Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Study 2 thematic analysis of twelve student interviews produced Global Theme 1 from four organizing themes covering connection, community contribution, new perspectives, and empathy. One student described happiness from study abroad spreading as a "chain reaction".
 

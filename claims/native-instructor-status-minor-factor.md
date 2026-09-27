@@ -15,12 +15,14 @@ sources:
     author: "Miyazoe, T., & Anderson, T."
     q: 2
     i: 0
+    kind: associational
+    rigour: 1
 ---
 
 # Native versus non-native instructor status was a minor factor in students' perceived quality interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r1` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i?` Contrary to the premise that a native-speaker instructor would raise perceived value of student-teacher interaction, the native/non-native instructor variable was a minor factor across the five instructor cases. [→ Miyazoe 2010](#miyazoe-2010)
@@ -31,7 +33,7 @@ sources:
 
 Miyazoe, T., & Anderson, T. (2010). Empirical Research on Learners' Perceptions: Interaction Equivalency Theorem in Blended Learning. European Journal of Open, Distance and E-Learning. http://www.eurodl.org/?article=397
 
-`q2 · i0`
+`q2 · i0` · `associational · r1`
 
 Subgroup analysis dividing the five course cases by native (Universities C and D) versus non-native (Universities A and B) instructors of the target language (Figure 6). The article reports the earlier findings applied across cases and the instructor-language variable was minor; no effect size is printed.
 

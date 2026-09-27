@@ -15,12 +15,14 @@ sources:
     author: Bohlmeijer, E., Nieuwenhuis, M., Dominguez, A. R., Klooster, P. ten, and Malboeuf-Hurtubise, C.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Distress tolerance and intolerance of uncertainty are consistently associated with mental health problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Empirical studies consistently show negative associations between distress tolerance and mental health problems including depression and anxiety, and positive associations between intolerance of uncertainty and psychological distress. [→ Bohlmeijer 2026](#bohlmeijer-2026)
@@ -31,7 +33,7 @@ sources:
 
 Bohlmeijer, E., Nieuwenhuis, M., Dominguez, A. R., Klooster, P. ten, and Malboeuf-Hurtubise, C. (2026). Toward an integrative psychological framework of existential hope: navigating uncertain futures. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1850611
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Narrative review attribution: the article reports that empirical studies have "consistently demonstrated negative associations" between distress tolerance and depression and anxiety, citing three studies, and separately notes substantial research on positive associations between intolerance of uncertainty and distress. No effect sizes are printed.
 

@@ -15,12 +15,14 @@ sources:
     author: Lucy Portnoff, Erin Gustafson, Klinton Bicknell and Joseph Rollinson
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Leveling up lessons preceding the source lesson improves Review Exercise accuracy, indicating transfer of learning benefits across lessons within a skill
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Learners who leveled up lessons preceding the Review Exercise source lesson, without leveling the source lesson itself, showed clear improvements in Review Exercise accuracy. [→ Lucy Portnoff 2021](#lucy-portnoff-2021)
@@ -31,7 +33,7 @@ sources:
 
 Lucy Portnoff, Erin Gustafson, Klinton Bicknell and Joseph Rollinson. (2021). Methods for Language Learning Assessment at Scale: Duolingo Case Study. Proceedings of The 14th International Conference on Educational Data Mining (EDM21). https://educationaldatamining.org/edm2021/
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Secondary result of the same Review Exercise regression discontinuity analysis: the article reports "clear improvements in Review Exercise accuracy stemming from leveling up any lessons preceding the source lesson", which the authors interpret as the benefit of studying one lesson transferring to other lessons. No effect size is printed.
 

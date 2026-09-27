@@ -15,12 +15,14 @@ sources:
     author: Balta, E. E.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Collaborative-style preservice teachers score higher on continuous and intentional thinking than avoidant and dependent styles
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Games Howell post hoc analysis showed individuals with collaborative learning style scored significantly higher on continuous and intentional thinking than those with avoidant and dependent learning styles. [→ Balta 2018](#balta-2018)
@@ -31,7 +33,7 @@ sources:
 
 Balta, E. E. (2018). Reflective Thinking Tendencies and Epistemological Beliefs in Terms of Learning Styles. International Journal of Higher Education, 7(6). https://doi.org/10.5430/ijhe.v7n6p106
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Games Howell post hoc comparisons following the ANOVA in Table 4 (collaborative n=97, avoidant n=33, dependent n=90). The article reports the collaborative group's significantly higher continuous and intentional thinking scores; printed means were 4.19 (collaborative), 3.83 (avoidant), 3.90 (dependent).
 

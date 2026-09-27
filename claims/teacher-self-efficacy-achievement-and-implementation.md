@@ -15,18 +15,22 @@ sources:
     author: "Gall, Meredith D.; Vojtek, Roseanne O'Brien"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: gall-1994-2
     resource: "https://eric.ed.gov/?id=ED372464"
     title: "Gall, Meredith D.; Vojtek, Roseanne O'Brien. (1994). Planning for Effective Staff Development: Six Research-Based Models. ERIC Clearinghouse on Educational Management. https://eric.ed.gov/?id=ED372464"
     author: "Gall, Meredith D.; Vojtek, Roseanne O'Brien"
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Teacher self-efficacy is associated with student achievement and with implementing new practices
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1`–`q2`
+> **Evidence** · 1 study (2 entries) · review `r2` · `q1`–`q2`
 
 ## Subclaims
 `q2 i?` The monograph reports, citing Ashton (1984), that teachers with high self-efficacy tend to have students with higher academic achievement than teachers with low self-efficacy. [→ Gall 1994](#gall-1994)
@@ -38,7 +42,7 @@ sources:
 
 Gall, Meredith D.; Vojtek, Roseanne O'Brien. (1994). Planning for Effective Staff Development: Six Research-Based Models. ERIC Clearinghouse on Educational Management. https://eric.ed.gov/?id=ED372464
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The monograph reports this finding in its attitude-change section, attributed to Ashton (1984). It states: "teachers with high self-efficacy tend to have students with higher academic achievement than teachers with low self-efficacy." No effect size is printed.
 
@@ -48,7 +52,7 @@ The monograph reports this finding in its attitude-change section, attributed to
 
 Gall, Meredith D.; Vojtek, Roseanne O'Brien. (1994). Planning for Effective Staff Development: Six Research-Based Models. ERIC Clearinghouse on Educational Management. https://eric.ed.gov/?id=ED372464
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 The monograph reports a small comparison study by Sparks (1988) of five teachers who made desired instructional changes versus five who showed no improvement after staff development on instructional time. It reports: "One of the main differences between the improving and nonimproving teachers was in their feelings of self-efficacy."
 

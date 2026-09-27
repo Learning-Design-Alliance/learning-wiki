@@ -15,7 +15,7 @@ sources:
 # Six theories of anthropomorphism explaining why learners attribute human characteristics to nonhuman entities
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 2 studies, `q2` · 1 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 2 studies (1 causal, 1 theoretical), `q2` · 1 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 The article reviews six accounts of anthropomorphism, defined as "the tendency to atribute human motvaton, characteristcs, or behavior to nonhuman enttes". The familiarity thesis is a primarily cognitive motivation: we anthropomorphize to explicate what we do not comprehend using the mental model we know best, ourselves. The comfort thesis is the prime emotional motivation; the best-bet thesis is a cognitive and game-theoretic approach under chronic uncertainty; the social thesis (Caporael and Heyes' Species-Specific Group-Level Coordination System) holds anthropomorphism is value laden with potential social consequence; object-subject interchangeability and phenomenological intersubjectivity treat anthropomorphism as constructing the self and as a pragmatic response to experienced objects.

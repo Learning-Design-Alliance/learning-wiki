@@ -16,7 +16,7 @@ sources:
 # Cognitive theory: children are born with processing abilities and learn language by forming and testing hypotheses and rules
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The paper describes the cognitive theory, which, like the nativistic theory, holds that children are born with certain abilities to learn language but disagrees about what these abilities are. Quoting Slobin (1966), the child is born 'not with a set of linguistic categories but with some sort of process mechanism.' Children develop their own 'theory' of how the language works: they observe the language of others, look for regularities, formulate tentative rules, produce language using these rules, and modify the rules as new evidence is obtained.

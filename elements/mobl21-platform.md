@@ -17,7 +17,7 @@ sources:
 # Mobl21 mobile-assisted learning platform
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Mobl21 is a mobile-assisted learning platform usable by teachers to create study materials and by students to create lesson notes. The article lists its functions: creating "study materials in the form of multimedia educational textbooks", access to materials at any convenient time and place, self-paced review, teacher management of content and users, and tests and quizzes. It was the platform used in the article's implementation study.

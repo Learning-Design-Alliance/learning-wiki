@@ -15,12 +15,14 @@ sources:
     author: Hulsebosch, Pat; Koerner, Mari
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # A teacher whose home culture was excluded from school brought her home culture into her teaching so students could express and maintain their identities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Exclusion of home culture during her own schooling led one teacher to bring her home culture into her teaching so children could express and maintain their true identities rather than be assimilated. [→ Hulsebosch 1993](#hulsebosch-1993)
@@ -31,7 +33,7 @@ sources:
 
 Hulsebosch, Pat; Koerner, Mari. (1993). What Does Cultural Identity Have To Do with the Preparation of Teachers? Case Studies of "Culturally-Aware" Teachers. https://eric.ed.gov/?id=ED403553
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r1`
 
 Life-history narrative of Ana Maria Orbe-Lugo, a Chicago public school teacher, describing how returning to her elementary school and finding the same exclusive school culture prompted her to "bring my home culture into my teaching."
 

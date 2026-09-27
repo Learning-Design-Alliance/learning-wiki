@@ -15,18 +15,22 @@ sources:
     author: Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: theophile-gervet-2020-2
     resource: "https://github.com/theophilee/learner-performance-prediction"
     title: "Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction"
     author: Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Dataset size moderates the LR-versus-DKT comparison: Best-LR dominates in low and medium data regimes and DKT takes over in the high data regime
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On the squirrel dataset, Best-LR dominates below one million training interactions and DKT takes over above that. [→ Theophile Gervet 2020](#theophile-gervet-2020)
@@ -38,7 +42,7 @@ sources:
 
 Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Additional experiment on the squirrel dataset subsampling training data across 5 folds (Figure 5), comparing DKT and Best-LR AUC as a function of training amount; "Best-LR dominates in the low and medium data regimes".
 
@@ -48,7 +52,7 @@ Additional experiment on the squirrel dataset subsampling training data across 5
 
 Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Authors' interpretation of the cross-dataset pattern: the statics dataset is smallest by total interactions (189,297) yet fits DKT without much overfitting because it has enough learners per item and KC, unlike bridge06.
 

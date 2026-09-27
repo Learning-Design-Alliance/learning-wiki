@@ -15,12 +15,14 @@ sources:
     author: Elisabet Pladevall-Ballester, Alexandra Vraciu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Mixed dyads outperform matched dyads in meaning negotiation only in the L2 (proficiency pairing × language interaction)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A significant proficiency pairing × language interaction shows mixed dyads produced more NoM (M = 13.17) than matched dyads (M = 7.31) but only in the L2. [→ Elisabet Pladevall-Ballester 2020](#elisabet-pladevall-ballester-2020)
@@ -31,7 +33,7 @@ sources:
 
 Elisabet Pladevall-Ballester, Alexandra Vraciu. (2020). EFL child peer interaction: Measuring the effect of time, proficiency pairing and language of interaction. Studies in Second Language Learning and Teaching, 10(3), 449-472. http://dx.doi.org/10.14746/ssllt.2020.10.3.3
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Two-way interaction from the generalized linear mixed model on overall NoM in the two-year dyad study. The contrast between dyad types was not seen in L1 instances of NoM.
 

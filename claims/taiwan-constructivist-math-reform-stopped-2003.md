@@ -15,12 +15,14 @@ sources:
     author: "Liu, C. C., & Chen, I. J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Taiwan's constructivist mathematics reform, introduced in 1993, was stopped in 2003 after students taught under it underperformed traditionally educated peers in high school
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Constructivism theory in math learning did not succeed in Taiwan; the reform was stopped in 2003 when learners taught under it in its first year could not match the academic achievement of students from traditional classrooms. [→ Liu 2010](#liu-2010)
@@ -31,7 +33,7 @@ sources:
 
 Liu, C. C., & Chen, I. J. (2010). Evolution Of Constructivism. Contemporary Issues In Education Research, 3(4). https://www.cluteinstitute.com/ojs/index.php/cier
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The article's introductory historical account reports that constructivism entered Taiwan's 1993 elementary mathematics curriculum standard and "was stopped in 2003" after underachievement relative to traditionally educated students sparked debate. No effect size or test statistic is printed.
 

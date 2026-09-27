@@ -15,18 +15,22 @@ sources:
     author: Zhang Beibei et al
     q: 2
     i: 2
+    kind: design
+    rigour: 2
   - id: zhang-beibei-et-al-2026-2
     resource: "https://doi.org/10.1371/journal.pone.0358951"
     title: "Zhang Beibei et al. (2026). A sequential integrating virtual simulation and authentic video for preschool teacher candidates' observational skills training: A design-based intervention study. PLoS One. https://doi.org/10.1371/journal.pone.0358951"
     author: Zhang Beibei et al
     q: 2
     i: 2
+    kind: design
+    rigour: 2
 ---
 
 # Authentic video outperformed virtual simulation on the higher-order analysis and support dimensions of observation assignments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Analysis dimension scores were significantly higher under AV than VS. [→ Zhang Beibei et al 2026](#zhang-beibei-et-al-2026)
@@ -38,7 +42,7 @@ sources:
 
 Zhang Beibei et al. (2026). A sequential integrating virtual simulation and authentic video for preschool teacher candidates' observational skills training: A design-based intervention study. PLoS One. https://doi.org/10.1371/journal.pone.0358951
 
-`q2 · i2`
+`q2 · i2` · `design · r2`
 
 Paired comparison of group assignment analysis-dimension scores after the VS and AV workshops; Wilcoxon check consistent (z = −2.328, p = 0.020). The authors attribute the AV advantage to richer contextual detail "worthy of analysis".
 
@@ -48,7 +52,7 @@ Paired comparison of group assignment analysis-dimension scores after the VS and
 
 Zhang Beibei et al. (2026). A sequential integrating virtual simulation and authentic video for preschool teacher candidates' observational skills training: A design-based intervention study. PLoS One. https://doi.org/10.1371/journal.pone.0358951
 
-`q2 · i2`
+`q2 · i2` · `design · r2`
 
 Paired comparison of support-dimension scores after VS versus AV workshops; Wilcoxon check consistent (z = −1.983, p = 0.047). The authors suggest AV's richer contextual information supported targeted educational suggestions.
 

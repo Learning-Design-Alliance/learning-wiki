@@ -15,12 +15,14 @@ sources:
     author: Brown, Alan S.; Cattoi, Robert
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Lower-frequency preceding retrievals slow subsequent retrievals: a significant prior-frequency effect on latency, but not on errors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` For positions 4-6, retrievals preceded by lower-frequency items had significantly longer latencies than those preceded by higher-frequency items; the prior-frequency effect on errors was not significant. [→ Brown 1982](#brown-1982)
@@ -31,7 +33,7 @@ sources:
 
 Brown, Alan S.; Cattoi, Robert. (1982). Associative Strength Effects in Semantic Priming. https://eric.ed.gov/?id=ED223979
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Analysis of the last three positions with prior frequency level (higher versus lower) added as a variable. Latency analysis showed a significant main effect of prior frequency, F(2,130) = 3.32, with mean latency of 1.21 sec after higher versus 1.40 sec after lower prior items. The error analysis showed no significant prior-frequency effect, F(1,65) = 1.72.
 

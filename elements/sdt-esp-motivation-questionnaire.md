@@ -17,7 +17,7 @@ sources:
 # SDT-based Chinese-language ESP motivation questionnaire (adapted LLOS-IEA)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A 23-item, 5-point Likert questionnaire in Chinese, formulated on the basis of Noels' (2003) Language Learning Orientations Scale (LLOS-IEA) and redesigned for Chinese ESP students' socio-educational context. It contains subscales for amotivation, three extrinsic subtypes (external, introjected, identified regulation) and three intrinsic subtypes (knowledge, accomplishment, stimulation), with items randomly ordered. Pilot studies selected and adjusted items; the instrument showed a KMO of 0.952, seven factors explaining 64.76% of variance, and a total Cronbach alpha of 0.951.

@@ -15,12 +15,14 @@ sources:
     author: "Rosenbach, S. B., Sherwood, S. H., Poteat, V. P., Yoshikawa, H., & Calzo, J. P."
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Collective GSA-level immigration discussion frequency is not associated with group-level gains in any empowerment or critical consciousness outcome
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` At the group level, collective frequency of immigration discussion was not associated with collectively greater perceived peer validation, hope, critical reflection, or sociopolitical efficacy after accounting for other factors. [→ Rosenbach 2022](#rosenbach-2022)
@@ -31,7 +33,7 @@ sources:
 
 Rosenbach, S. B., Sherwood, S. H., Poteat, V. P., Yoshikawa, H., & Calzo, J. P. (2022). Benefits for Immigrant-Origin and Non-Immigrant-Origin Youth of Discussing Immigration in Gender and Sexuality Alliances. Psychology in the Schools. https://doi.org/10.1002/pits.22513
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 Level 2 estimates from Model 1 of the multilevel SEM across 38 GSAs, testing collective discussion frequency as a predictor of residualized change in the four group-mean outcomes. All four group-level coefficients were nonsignificant as printed; no effect sizes are reported.
 

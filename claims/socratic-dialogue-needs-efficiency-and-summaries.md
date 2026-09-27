@@ -15,12 +15,14 @@ sources:
     author: "Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A."
     q: 2
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Socratic dialogue by a skilled but inefficient teaching assistant underperformed: lengthy, unsummarized checkpoints may leave students without clear understanding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` Style 5, designed as an ideal implementation led by the program's most skilled Socratic teaching assistant, produced lower-than-expected post-test results; audio review revealed lengthy checkpoints lacking succinct summaries, so students may have exited without clear understanding. [→ Slezak 2011](#slezak-2011)
@@ -31,7 +33,7 @@ sources:
 
 Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A. (2011). Investigating the Effectiveness of the Tutorials in Introductory Physics in Multiple Instructional Settings. https://arxiv.org/abs/1110.0050
 
-`q2 · i1`
+`q2 · i1` · `causal · r2`
 
 Post-hoc analysis of audio recordings of Style 5 sessions (N=47; post-test 31% kinetic energy, 31% momentum). The teaching assistant was not efficient in determining if student reasoning was correct and struggled asking appropriate questions.
 

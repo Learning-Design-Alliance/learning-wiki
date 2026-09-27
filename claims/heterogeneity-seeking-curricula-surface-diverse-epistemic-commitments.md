@@ -15,12 +15,14 @@ sources:
     q: 2
     i: "?"
     n: 105 sixth graders across 6 implementations (33 focal students interviewed), one US public suburban middle school, 2018-2020
+    kind: design
+    rigour: 3
 ---
 
 # Heterogeneity-seeking modeling curricula surface epistemic commitments in most students, including care-based commitments absent from prior frameworks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · n=105 sixth graders across 6 implementations (33 focal students interviewed), one US public suburban middle school, 2018-2020
+> **Evidence** · 1 study · design `r3` · `q2` · n=105 sixth graders across 6 implementations (33 focal students interviewed), one US public suburban middle school, 2018-2020
 
 Interviews with 33 focal sixth-graders in a heterogeneity-seeking ecosystems modeling unit found that most students expressed one or more of four epistemic commitments (real-world connection, seeing/showing, controlling variables, caring for), including a "caring for" commitment with no direct analog in prior epistemic-cognition research, and that these commitments shaped model design decisions in ways the curriculum had not anticipated.
 
@@ -37,7 +39,7 @@ Interviews with 33 focal sixth-graders in a heterogeneity-seeking ecosystems mod
 
 Pierson, A. E., Brady, C. E., Clark, D. B., & Sengupta, P. (2023). Students' Epistemic Commitments in a Heterogeneity-Seeking Modeling Curriculum. *Cognition and Instruction, 41*(2), 125-157. [https://doi.org/10.1080/07370008.2022.2111431](https://doi.org/10.1080/07370008.2022.2111431)
 
-`q2 · peer-reviewed design-based research across 6 iterative implementations (105 total students) with 33 focal-student semi-structured interviews triangulated against whole-class video and student artifacts; inductive coding, not a controlled or experimental comparison against a convergence-seeking curriculum` `i? · the abstract prints no effect size; the full text may` `n=105 sixth graders across 6 implementations (33 focal students interviewed), one US public suburban middle school, 2018-2020`
+`q2 · peer-reviewed design-based research across 6 iterative implementations (105 total students) with 33 focal-student semi-structured interviews triangulated against whole-class video and student artifacts; inductive coding, not a controlled or experimental comparison against a convergence-seeking curriculum` `i? · the abstract prints no effect size; the full text may` `n=105 sixth graders across 6 implementations (33 focal students interviewed), one US public suburban middle school, 2018-2020` · `design · r3`
 
 Thirty-three focal sixth-grade students, drawn from six iterations of a 9-week [Heterogeneity-Seeking Modeling Curriculum](../patterns/heterogeneity-seeking-modeling-curriculum.md) unit on ecosystem energy flow, were interviewed for 25 minutes each in the unit's final week about how they valued and related different model types (physical biosphere jars, computational simulations, food-web diagrams, embodied role-play, plant observations). Inductive coding of interviews, triangulated with classroom video, identified four recurring epistemic commitments — extending [Epistemic Cognition](../principles/epistemic-cognition.md) and the AIR model of epistemic cognition (Chinn et al.) by centering student-originated values, including a care-based commitment with no prior analog in the epistemic-cognition literature.
 

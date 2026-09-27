@@ -15,18 +15,22 @@ sources:
     author: "White, A. S., Howell Smith, M., Kunz, G. M., & Nugent, G. C."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: white-2015-2
     resource: "https://r2ed.unl.edu/resources_workingpapers.shtml"
     title: "White, A. S., Howell Smith, M., Kunz, G. M., & Nugent, G. C. (2015). Active ingredients of instructional coaching: Developing a conceptual framework (R2Ed Working Paper No. 2015-3). https://r2ed.unl.edu/resources_workingpapers.shtml"
     author: "White, A. S., Howell Smith, M., Kunz, G. M., & Nugent, G. C."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Framework identifies teacher prerequisites: basic content knowledge, willingness to engage, and genuine concern for improving student learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The framework lists teacher prerequisites of basic content-area knowledge, willingness to engage in the coaching process, and a genuine concern for improving student learning. [→ White 2015](#white-2015)
@@ -38,7 +42,7 @@ sources:
 
 White, A. S., Howell Smith, M., Kunz, G. M., & Nugent, G. C. (2015). Active ingredients of instructional coaching: Developing a conceptual framework (R2Ed Working Paper No. 2015-3). https://r2ed.unl.edu/resources_workingpapers.shtml
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Findings overview of the qualitative focus group study: the model names three teacher prerequisites — "a basic knowledge of their content area, willingness to engage in the coaching process, and a genuine concern for improving student learning."
 
@@ -48,7 +52,7 @@ Findings overview of the qualitative focus group study: the model names three te
 
 White, A. S., Howell Smith, M., Kunz, G. M., & Nugent, G. C. (2015). Active ingredients of instructional coaching: Developing a conceptual framework (R2Ed Working Paper No. 2015-3). https://r2ed.unl.edu/resources_workingpapers.shtml
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Requisite Teacher Characteristics section: coaches reported that content expertise beyond certification was unnecessary, and with a content foundation they "could focus on higher-level skills rather than teaching basic concepts."
 

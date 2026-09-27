@@ -15,12 +15,14 @@ sources:
     author: Alfonso Cuervo, César Mora y R. García-Salcedo
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The 2006 reform concentrated physics, previously taught across three secondary years, into a single second-grade course (Ciencias II) with 6 hours per week, raising teacher concern about fostering interest in one school cycle
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Under the RES, physics content formerly spread over three years was concentrated in second grade as Ciencias II with a 6-hour weekly load (5 theory, 1 laboratory), leaving teachers one cycle to promote interest in the subject. [→ Alfonso Cuervo 2008](#alfonso-cuervo-2008)
@@ -31,7 +33,7 @@ sources:
 
 Alfonso Cuervo, César Mora y R. García-Salcedo. (2008). Analysis of the Educative Reform in the Secondary School Education in Mexico and its implications in Science II in the new curriculum. http://www.journal.lapen.org.mx
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Documentary analysis of the new Ciencias II plan of studies: the article reports that physics, previously addressed across three secondary years under the 1993 plan, is now concentrated in second grade with a 6-hour weekly load, "5 horas de trabajo en aula (teoría), por 1 de laboratorio". Teachers reportedly worry about promoting interest in their subject within a single cycle.
 

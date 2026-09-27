@@ -15,12 +15,14 @@ sources:
     q: 3
     i: 1
     n: 16 studies
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Reciprocal Teaching Improves Reading Comprehension
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small · n=16 studies
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i1` small · n=16 studies
 
 Reciprocal teaching is a structured dialogue routine in which learners take turns leading discussions of a text using four strategies — predicting, questioning, clarifying, and summarizing — with the teacher modeling and gradually handing over responsibility.
 
@@ -34,7 +36,7 @@ Reciprocal teaching is a structured dialogue routine in which learners take turn
 
 Rosenshine, B., & Meister, C. (1994). Reciprocal Teaching: A Review of the Research. *Review of Educational Research, 64*(4), 479–530. [doi:10.3102/00346543064004479](https://doi.org/10.3102/00346543064004479)
 
-`q3 · systematic review of quasi-/experimental studies` · `i1 · small effect, median d=.32 on standardized tests (d=.88 on experimenter-developed tests)` · `n=16 studies`
+`q3 · systematic review of quasi-/experimental studies` · `i1 · small effect, median d=.32 on standardized tests (d=.88 on experimenter-developed tests)` · `n=16 studies` · `quant-synthesis · r?`
 
 This review synthesizes sixteen quantitative studies of reciprocal teaching — a dialogue-based routine teaching students to summarize, question, clarify, and predict as they read — drawn from published journal articles and unpublished dissertations. Effects favored reciprocal teaching overall, but the size of the effect depended heavily on the outcome measure: a median effect size of .32 when comprehension was assessed with standardized, norm-referenced tests, versus a much larger .88 when assessed with tests the experimenters themselves developed (which tend to align more closely with the taught strategies). The review also discusses which of the four strategies were most helpful and how instructional quality moderated outcomes.
 

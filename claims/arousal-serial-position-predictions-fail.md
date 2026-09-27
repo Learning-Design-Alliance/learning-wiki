@@ -15,12 +15,14 @@ sources:
     author: Osborne, John W.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Neural consolidation predictions about arousal, primacy, and recency were not supported: arousal facilitated recency as well as primacy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Predictions that arousal facilitates primacy and inhibits recency failed: arousal facilitated recency as well as primacy, and high-arousal primacy superiority decreased with longer exposure time. [→ Osborne 1974](#osborne-1974)
@@ -31,7 +33,7 @@ sources:
 
 Osborne, John W. (1974). Free Recall of Differentially Arousing Words. Paper presented at the Annual Meeting of the American Educational Research Association. https://eric.ed.gov/?id=ED088021
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the serial position results, although high-arousal primacy exceeded low-arousal primacy at both exposure times, the differences were not significant, so hypotheses 1-3 also failed; "The superiority of high-arousal primacy over low-arousal primacy decreased with an increase in exposure time." "Hypothesis 4 was also negatived by the fact that arousal facilitated recency as well as primacy."
 

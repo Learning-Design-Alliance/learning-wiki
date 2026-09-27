@@ -16,7 +16,7 @@ sources:
 # Self-in-relation: development as growth within relationship rather than toward individuation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 1 study, `q1` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Drawn from the Stone Center writers (Jordan, Kaplan, Miller, Stiver & Surrey), this account holds that maturation is "an evolutionary process of development through relationship." The authors contrast it with the traditional formulation of development from attachment to separation, quoting that growth is "not toward greater degrees of autonomy or individuation" but toward maintaining connection. It frames agency as operating within communion across the lifespan.

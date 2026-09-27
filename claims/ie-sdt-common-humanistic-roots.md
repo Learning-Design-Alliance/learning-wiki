@@ -15,12 +15,14 @@ sources:
     author: Jennifer D. Moss
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # IE and SDT share common roots in humanistic psychology's rejection of behaviorism
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Both IE and SDT emerged in the early 1970s from humanistic psychology, at a time when psychology and education researchers were rejecting behaviorism. [→ Jennifer D. Moss 2017](#jennifer-d-moss-2017)
@@ -31,7 +33,7 @@ sources:
 
 Jennifer D. Moss. (2017). Inviting Autonomy: Common Roots and Beliefs of Self-determination Theory and Invitational Education Theory. Journal of Invitational Theory and Practice. https://www.invitationaleducation.net/journal-of-invitational-theory-and-practice/
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical and historical argument in the article's common-roots section: both theories arose when researchers were "endorsing humanistic views of behavior and rejecting the behaviorism which had previously dominated both fields." Purkey published on self-concept and achievement in 1967 and 1970; Deci began publishing foundational ideas in 1971, arguing money and rewards decrease intrinsic motivation in direct contrast to behaviorists.
 

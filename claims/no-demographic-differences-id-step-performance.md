@@ -15,12 +15,14 @@ sources:
     author: "Winer, L. R., Vázquez-Abad, J. A., & Tessmer, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # No significant differences in step performance across job title, position, duties, introduction to ID, or experience
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Responses to how often steps are performed did not differ significantly by job title, primary position, job duties, introduction to ID, or years of experience. [→ Winer 1994](#winer-1994)
@@ -31,7 +33,7 @@ sources:
 
 Winer, L. R., Vázquez-Abad, J. A., & Tessmer, M. (1994). Enriching the Layers of Necessity Model. Paper presented at the Annual Meeting of AERA. https://eric.ed.gov/?id=ED371037
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `associational · r1`
 
 Between-group comparisons of step-frequency responses in the Montreal survey across job title, primary position, job duties, introduction to ID, and years of experience found "No significant differences were found (all p's.05)"; equivalence was not tested.
 

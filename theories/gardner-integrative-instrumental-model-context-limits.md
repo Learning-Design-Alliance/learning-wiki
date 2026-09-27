@@ -16,7 +16,7 @@ sources:
 # Gardner's Integrative-Instrumental model and its context-dependence
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 mixed) · 3 studies, `q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (5 mixed) · 3 studies (2 associational, 1 qualitative), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 Gardner and Lambert's socio-educational model divides L2 motivation into integrative orientation ("a desire to learn the L2 in order to identify with members from the L2 community") and instrumental orientation (practical goals such as credits, jobs, salaries). The article reviews evidence that the model's applicability is context-bound: cited work by Clément and Kruidenier found "the integrative orientation appeared only in multicultural contexts among members of a clearly domi nant group". The article therefore declines to use it for the Chinese EFL context, where English is a foreign language and no bilingual community exists.

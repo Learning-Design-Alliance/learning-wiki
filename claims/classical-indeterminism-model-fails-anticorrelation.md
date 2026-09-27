@@ -15,12 +15,14 @@ sources:
     author: Vongehr, S.
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # A classical-indeterminism modification of the QRC program fails to reproduce anti-correlation at equal angles
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` A program modified so measurement outcomes follow single-photon polarizer probabilities cos-squared of the relative angle achieves only 75.3% anti-correlation and fails the challenge. [→ Vongehr 2012](#vongehr-2012)
@@ -31,7 +33,7 @@ sources:
 
 Vongehr, S. (2012). Quantum Randi Challenge. arXiv:1207.5294. [doi:10.48550/arXiv.1207.5294](https://doi.org/10.48550/arXiv.1207.5294)
 
-`q2 · i?`
+`q2 · i?` · `design · r1`
 
 An example modified program (Supplemental Material Fig. 3), in which measurement outcomes are mistakenly believed to be due only to probabilities known from single photons at polarized filters, outputs "75.3% Anti-correlation only" and is rejected by the analysis for its poor anti-correlation.
 

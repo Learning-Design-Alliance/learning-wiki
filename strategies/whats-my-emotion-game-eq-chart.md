@@ -12,7 +12,7 @@ generated:
 # What's My Emotion? Game
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 5 studies, `q3` · 0 of 5 report an effect size
+> **Evidence** · 2 claims (1 for, 1 against) · 5 studies (4 causal, 1 quant-synthesis), `q3` · 0 of 5 report an effect size
 
 ## Description
 Using an EQ Feeling Chart, students first identify how they are feeling individually. Then a volunteer demonstrates that feeling through body language and facial expressions only — no words — and the whole class tries to guess what the student is feeling. The activity combines private emotion labeling with public non-verbal expression and group interpretation.

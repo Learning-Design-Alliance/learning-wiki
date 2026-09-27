@@ -15,18 +15,22 @@ sources:
     author: Winterdijk Per, Aanstoot Henk‐Jan, Fransman Christine, Mocan Andreia, Nefs Giesje
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: winterdijk-per-2026-2
     resource: "https://doi.org/10.1111/dme.70411"
     title: "Winterdijk Per, Aanstoot Henk‐Jan, Fransman Christine, Mocan Andreia, Nefs Giesje. (2026). Embedding psychological care in diabetes services: Why it's time to innovate and integrate. Diabetic Medicine. https://doi.org/10.1111/dme.70411"
     author: Winterdijk Per, Aanstoot Henk‐Jan, Fransman Christine, Mocan Andreia, Nefs Giesje
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Structural barriers — fragmented health systems, insufficient reimbursement and workforce shortages — constrain integration of psychological care in diabetes services
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Fragmented health systems, inadequate reimbursement and shortages of trained professionals limit scalability of integrated psychological care. [→ Winterdijk Per 2026](#winterdijk-per-2026)
@@ -38,7 +42,7 @@ sources:
 
 Winterdijk Per, Aanstoot Henk‐Jan, Fransman Christine, Mocan Andreia, Nefs Giesje. (2026). Embedding psychological care in diabetes services: Why it's time to innovate and integrate. Diabetic Medicine. https://doi.org/10.1111/dme.70411
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's conclusion section states these structural barriers limit scalability; the review identifies them as interpretive claims reflecting the authors' clinical and behavioural science expertise rather than tested results.
 
@@ -48,7 +52,7 @@ The review's conclusion section states these structural barriers limit scalabili
 
 Winterdijk Per, Aanstoot Henk‐Jan, Fransman Christine, Mocan Andreia, Nefs Giesje. (2026). Embedding psychological care in diabetes services: Why it's time to innovate and integrate. Diabetic Medicine. https://doi.org/10.1111/dme.70411
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports this workforce modelling estimate, attributed to Segal et al., and notes no health system currently approaches this level of provision, highlighting the gap between need and workforce capacity.
 

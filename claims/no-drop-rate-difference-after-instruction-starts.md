@@ -15,12 +15,14 @@ sources:
     author: Jia Frydenberg
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # After instruction has begun, drop rates are essentially the same in online and onground continuing education classes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Once instruction had begun and students had encountered the instructor, the percentage dropping out was essentially the same online and onground, with no significant difference. [→ Jia Frydenberg 2007](#jia-frydenberg-2007)
@@ -31,7 +33,7 @@ sources:
 
 Jia Frydenberg. (2007). Persistence in University Continuing Education Online Classes. International Review of Research in Open and Distance Learning, 8(3). https://portal.issn.org/resource/ISSN/1492-3831
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Secondary analysis regrouping the two-year drop data: online drops before course start (108) were combined with Orientation Week drops (185) as pre-instruction, while onground week-one drops were grouped with later drops as post-instruction. The article reports the post-instruction percentages "essentially the same" and, in the abstract, no significant difference.
 

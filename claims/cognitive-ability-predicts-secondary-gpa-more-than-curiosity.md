@@ -15,12 +15,14 @@ sources:
     author: Mussel, Patrick
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Secondary academic performance is predicted by cognitive ability more strongly than by curiosity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Secondary GPA at T3 was significantly predicted by both cognitive ability (r = 0.39) and curiosity (r = 0.20), with a larger coefficient for cognitive ability. [→ Mussel 2022](#mussel-2022)
@@ -31,7 +33,7 @@ sources:
 
 Mussel, Patrick. (2022). Processes Underlying the Relation between Cognitive Ability and Curiosity with Academic Performance: A Mediation Analysis for Epistemic Behavior in a Five-Year Longitudinal Study. Journal of Intelligence 10: 23. https://doi.org/10.3390/jintelligence10020023
 
-`q3 · i1`
+`q3 · i1` · `associational · r2`
 
 Bivariate correlations with self-reported, degree-corrected secondary GPA (N = 421) in the Results section. The article reports both predictors significant, "r = 0.39 vs. 0.20 for T1", and in the latent model a direct effect of cognitive ability on secondary grades of standardized β = 0.51, p < 0.001.
 

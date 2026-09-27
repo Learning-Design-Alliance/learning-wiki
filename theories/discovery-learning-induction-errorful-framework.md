@@ -16,7 +16,7 @@ sources:
 # Discovery learning defined by two identifying characteristics: induction and errorful learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Glaser's conceptual framework decomposes the label "discovery learning" into two analyzable processes. First, induction: giving exemplars of a general case so the learner induces the general proposition, assessed by verbalization, application, or generating new exemplars. Second, errorful learning: because a discovery sequence minimizes imposed structure, "Discovering" implies a low probability of making a successful response, so errors are highly probable. He also distinguishes learning BY discovery (teaching objectives via a discovery method) from learning TO discover (teaching the ability to make discoveries).

@@ -15,12 +15,14 @@ sources:
     author: Farrow, Frank, and Cheryl Rogers
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Tacoma's progressive inclusion program pervaded district operations and limited out-of-district placements to two over twenty years
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` After Tacoma closed its separate school for moderately to severely handicapped children and re-established programs in regular schools, out-of-district placements were limited to two in the past twenty years. [→ Farrow 1983](#farrow-1983)
@@ -31,7 +33,7 @@ sources:
 
 Farrow, Frank, and Cheryl Rogers. (1983). Policies Which Address Out-of-District Placements and Assure Education in the Least Restrictive Environment. A Report of the Handicapped Public Policy Analysis Project, Volume 3. https://eric.ed.gov/?id=ED245469
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Case description of Tacoma Public Schools' progressive inclusion system, developed after a two and one half year study, based on the report's site data. The district closed its separate school and re-established programs in regular schools; no effect size is reported.
 

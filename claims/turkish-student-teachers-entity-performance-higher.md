@@ -15,12 +15,14 @@ sources:
     author: "Beyaztaş, D. İ., Kaptı, S. B., & Hymer, B."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Turkish student teachers score higher on entity theory than incremental theory and on performance goal orientation than learning goal orientation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Among 1409 Turkish student teachers, mean entity theory scores exceeded incremental theory scores and mean performance goal orientation scores exceeded learning goal orientation scores. [→ Beyaztaş 2017](#beyaztas-2017)
@@ -31,7 +33,7 @@ sources:
 
 Beyaztaş, D. İ., Kaptı, S. B., & Hymer, B. (2017). The Relationship between Student Teachers' Perception of Intelligence and Their Goal Orientation. Universal Journal of Educational Research 5(9): 1519-1528. https://doi.org/10.13189/ujer.2017.050909
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive survey of 1409 student teachers at a Turkish university in 2015-2016 using the adapted Implicit Theory of Intelligence Scale and Goal Orientation Scale; the article reports students "score higher on entity theory and performance goal orientation" than the respective alternatives. Means in Table 2 are descriptive with no effect size reported.
 

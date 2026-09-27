@@ -12,7 +12,7 @@ generated:
 # Collaborative Inquiry
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Collaborative inquiry is the element in which learners investigate a question together through shared sensemaking and evidence use.

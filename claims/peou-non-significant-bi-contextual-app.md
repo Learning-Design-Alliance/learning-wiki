@@ -15,12 +15,14 @@ sources:
     author: Stephan Böhm and Georges Philip Constantine
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Perceived ease of use does not significantly predict intention to use the contextual mobile language learning app
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The path from PEOU to BI was non-significant and near zero (path coefficient -0.0428, t = 0.3594). [→ Stephan Böhm and Georges Philip Constantine 2015](#stephan-bohm-and-georges-philip-constantine-2015)
@@ -31,7 +33,7 @@ sources:
 
 Stephan Böhm and Georges Philip Constantine. (2015). Impact of Contextuality on Mobile Learning Acceptance: An Empirical Study Based on a Language Learning App. 11th International Conference Mobile Learning 2015. https://isbnsearch.org/isbn/9789898533364
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 In the same PLS-SEM structural model (n=45), the PEOU→BI path was the only non-significant path in Table 3 (t = 0.3594, marked n.s.), with a near-zero negative coefficient of -0.0428.
 

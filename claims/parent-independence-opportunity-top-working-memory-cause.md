@@ -15,12 +15,14 @@ sources:
     author: "Uraipong, M., Penglee, N., Thanarachataphoom, T., & Polyai, N."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # Teachers rank parents not providing opportunities for independent task performance as the top cause of working-memory need
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r1` · `q1`
 
 ## Subclaims
 `q1 i?` In fishbone-diagram cause analysis, the most significant ranked cause for working memory was that parents do not provide opportunities for children to do things by themselves, followed by predominance of academic activities and teachers' heavy workload. [→ Uraipong 2024](#uraipong-2024)
@@ -31,7 +33,7 @@ sources:
 
 Uraipong, M., Penglee, N., Thanarachataphoom, T., & Polyai, N. (2024). Development Guidelines for Executive Function (EF) Skills in Early Childhood: Needs Assessment in Nonthaburi Kindergartens. Higher Education Studies, 14(2). https://doi.org/10.5539/hes.v14n2p88
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r1`
 
 Qualitative fishbone-diagram analysis from group discussions with 12 teachers representing three educational affiliations, who ranked causes into the top three for working memory. This is teacher-perceived cause analysis, not a tested causal result.
 

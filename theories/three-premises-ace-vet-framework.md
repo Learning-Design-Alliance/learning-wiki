@@ -16,7 +16,7 @@ sources:
 # Three-premises framework for viewing ACE within the national VET system
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The report imposes order on wide-ranging views about ACE's role by working from three premises that form "the lens or framework through whichwe have written this Report": ACE is a provider; ACE providers are community-based providers distinct from public and private providers; and the ACE sector is a network of community-based ACE providers. The framework's purpose is described as pragmatic and context specific, providing common boundaries around the analysis of ACE's role in the national VET system.

@@ -16,7 +16,7 @@ sources:
 # Five-dimension framework of preschool executive function with three core components advancing ages 3 to 5
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article frames preschool executive function (ages 2 to 6) as spanning five foundational dimensions: "working memory, inhibitory control, shift/cognitive flexibility, emotional control, and planning/organization". Drawing on Zelazo et al. (2016), it identifies working memory, inhibitory control, and shift/cognitive flexibility as the three fundamental components, noting all three "manifest remarkable advancement rates within the developmental span from ages 3 to 5 years". The study operationalizes the three core components via the MU.EF-101 assessment and T-score criteria (T < 56 moderate, T < 45 needing development).

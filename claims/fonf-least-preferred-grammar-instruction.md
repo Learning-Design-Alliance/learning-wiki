@@ -15,12 +15,14 @@ sources:
     author: Daloglu, A.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Focus on form was the least preferred method of grammar instruction regardless of year of study
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students preferred course books that systematically focus on grammatical features over teachers focusing on grammar as an independent lesson component. [→ Daloglu 2020](#daloglu-2020)
@@ -31,7 +33,7 @@ sources:
 
 Daloglu, A. (2020). EFL Students' Beliefs about How They Learn Grammar Best. English Language Teaching, 13(10). https://doi.org/10.5539/elt.v13n10p158
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive statistics from the survey of 927 students grouped by year of study. The article reports that "students prefer course books that systematically focus on grammatical features over teachers who focus on grammar as an independent component of the lesson."
 

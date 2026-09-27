@@ -15,12 +15,14 @@ sources:
     author: Do, P. D.
     q: 1
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Deliberate practice can expand short-term memory capacity beyond the conventional seven-item limit
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r1` · `q1`
 
 ## Subclaims
 `q1 i?` With continued, deliberately designed practice, subjects in the digit-recall study gradually improved their memory capacity and recalled longer digit strings consistently. [→ Do 2024](#do-2024)
@@ -31,7 +33,7 @@ sources:
 
 Do, P. D. (2024). Deliberate practice: An effective way to raise the real estate licensing passing rate. Bradley University. https://scholar.google.com/scholar?q=Deliberate+Practice+Real+Estate+Licensing+Passing+Rate
 
-`q1 · i? · the article prints no effect size for this finding`
+`q1 · i? · the article prints no effect size for this finding` · `causal · r1`
 
 The dissertation reports, citing Ericsson and Pool, a digit-recall experiment in which participants initially memorized sequences of up to seven digits after four one-hour sessions, then exceeded that limit through systematic, increasingly challenging practice. This is a second-hand report of the original study, not data collected in this dissertation.
 

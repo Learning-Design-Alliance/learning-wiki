@@ -15,12 +15,14 @@ sources:
     author: "Singh, L. & Thomas, T. D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Latent class analysis of Caribbean higher-education students' mobile phone feature use yields four user types: eclectic, Internet, basic, and offline entertainment users
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Latent class cluster analysis of reported mobile phone feature use among 1445 students identifies four latent classes, labelled eclectic users (36%), Internet users (32%), basic users (21%), and offline entertainment users (11%). [→ Singh 2020](#singh-2020)
@@ -31,7 +33,7 @@ sources:
 
 Singh, L. & Thomas, T. D. (2020). The Effect of Mobile User Typology on Mobile Learning Adoption in Higher Education. Asian Journal of Distance Education, 15(2). http://www.asianjde.org
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Latent class cluster analysis (Latent Gold 5.0) of survey-reported frequency of use of mobile phone features, with calling and text messaging dropped as non-discriminating indicators. The 4-class model had the first non-significant L2 and minimum BIC, entropy 0.79, with classes accounting for "36%, 32%, 21% and 11%" of individuals.
 

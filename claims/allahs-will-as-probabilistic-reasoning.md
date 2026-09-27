@@ -15,12 +15,14 @@ sources:
     author: Elbehary, S.G.A.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Attributing outcomes to Allah's will among some PSMTs functioned as probabilistic reasoning, not mere personalist belief
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Type s* thinkers invoked Allah's will not as a cause of the baby's gender but as a factor that may alter the predicted outcome, maintaining randomness and variability, and were judged to show a certain level of probabilistic reasoning. [→ Elbehary 2021](#elbehary-2021)
@@ -31,7 +33,7 @@ sources:
 
 Elbehary, S.G.A. (2021). Reasoning under uncertainty within the context of probability education: A case study of preservice mathematics teachers. Pythagoras, 42(1), a630. https://doi.org/10.4102/pythagoras.v42i1.630
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative coding of giving-birth responses; two PSMTs gave 50% yet added that the outcome is a matter of Allah's will. The article contrasts this with prior work treating God's-will attributions as personalist interpretation, citing Chassapis and Chatzivasileiou's (2008) Jordanian–Greek comparison.
 

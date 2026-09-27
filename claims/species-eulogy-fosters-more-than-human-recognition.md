@@ -15,12 +15,14 @@ sources:
     author: Rife, T. S.
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Collectively mourning extinct or near-extinct more-than-human entities facilitates recognition of the more-than-human as co-participants in shared reality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` In the author's course, an assignment tasking students to eulogize an extinct or near-extinct species, place, or way of life facilitated recognition of the more-than-human as co-participants in shared reality rather than mere objects for exploitation. [→ Rife 2025](#rife-2025)
@@ -31,7 +33,7 @@ sources:
 
 Rife, T. S. (2025). Critical Communication Pedagogy at the End of the World. Journal of Communication Pedagogy. https://doi.org/10.31446/JCP.2025.1.07
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 The author's reflective report from teaching the course Communication at the End of the World, in which students eulogized entities such as pangolins, redwoods, glaciers, gentrified urban homeplaces, and the Great Barrier Reef. The author reports that "the opportunity to collectively mourn" these losses facilitated recognition of more-than-human co-participation; no empirical measures are reported.
 

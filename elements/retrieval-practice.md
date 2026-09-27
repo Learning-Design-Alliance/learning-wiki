@@ -12,7 +12,7 @@ generated:
 # Retrieval Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (7 for) · 8 studies, `q2`–`q4` · 6 of 8 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 8 studies (4 causal, 3 quant-synthesis, 1 review), `q2`–`q4` · 6 of 8 report an effect size · 3 claims rest on one study
 
 ## Description
 Retrieval practice is the element in which learners recall information from memory rather than only re-exposing themselves to it.

@@ -16,7 +16,7 @@ sources:
 # 360 Team Learning Foundation: six-component curricular platform for shared student dialogue
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The 360 Team Learning Foundation is a curricular platform the authors created to facilitate shared dialogue among diverse student groups in interdisciplinary international service-learning courses. The article states it "is a curricular platform that facilitates shared dialogue among diverse student groups," involving "the primary concepts of cultural intelligence, teaming-work, self-understanding and interpersonal dynamics, conflict management, shared community ethics and standards, and a model for servant leadership." It adapts the dialogue method of Hubbs et al. for undergraduates who are not ready for complex philosophical dialogue.

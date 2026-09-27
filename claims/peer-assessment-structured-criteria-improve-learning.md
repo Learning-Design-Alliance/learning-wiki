@@ -15,12 +15,14 @@ sources:
     q: 4
     i: 0
     n: 54 studies, k=141 effect sizes
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Peer Assessment Structured Criteria Improve Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i0` negligible · n=54 studies, k=141 effect sizes
+> **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i0` negligible · n=54 studies, k=141 effect sizes
 
 Peer assessment produces more reliable judgments and better learning outcomes when reviewers are given explicit, structured criteria (rubrics, checklists, or sentence stems) rather than asked to evaluate open-endedly. The mechanism is attentional: criteria direct reviewers to specific dimensions of quality rather than leaving them to rely on general impressions.
 
@@ -34,7 +36,7 @@ Peer assessment produces more reliable judgments and better learning outcomes wh
 
 Double, K. S., McGrane, J. A., & Hopfenbeck, T. N. (2020). The impact of peer assessment on academic performance: A meta-analysis of control group studies. *Educational Psychology Review, 32*(2), 481–509. [doi:10.1007/s10648-019-09510-3](https://doi.org/10.1007/s10648-019-09510-3)
 
-`q4 · meta-analysis of experimental/quasi-experimental control-group studies` · `i0 · moderator effect below d=0.2, non-significant` · `n=54 studies, k=141 effect sizes`
+`q4 · meta-analysis of experimental/quasi-experimental control-group studies` · `i0 · moderator effect below d=0.2, non-significant` · `n=54 studies, k=141 effect sizes` · `quant-synthesis · r2`
 
 Meta-analysis of 54 experimental/quasi-experimental studies (k=141 effect sizes) on peer assessment's effect on academic performance in primary, secondary and tertiary students. Overall peer assessment showed a small-to-medium benefit versus no assessment (g=0.31, p<.001). Among several moderators tested via meta-regression, one directly addresses this claim: whether a specific script or rubric was provided to reviewers versus freeform, unstructured assessment. Structured-criteria studies showed g=0.29 (p<.001) and freeform studies showed a numerically larger g=0.42 (p=.030), but the difference between them was small and not statistically significant (b=-0.13, 95% CI -0.51 to 0.25, p=.455), and the authors note the freeform subgroup was small (13 of 54 studies, k=51 of 141). This is the only outcome-level moderator test of criteria structure in the corpus and it does not support the claim as stated — see Discussion.
 

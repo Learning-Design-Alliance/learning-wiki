@@ -16,7 +16,7 @@ sources:
 # Variation theory: contrast, generalization, and fusion as necessary conditions for discerning aspects of an object of learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Variation theory holds that learning occurs when a learner discerns aspects of an object of learning previously unnoticed, and that discernment requires variation against invariance. The article explains that "a learner has to be aware of the differences between at least two features to be able to discern them," that generalization keeps the focal aspect invariant while varying others, and that fusion involves "simultaneous variation in all relevant aspects." The authors argue Montessori's concept of isolation of quality aligns fully with this theory.

@@ -17,7 +17,7 @@ sources:
 # Personalizing physics by making each student the object of study bridges science and everyday reality
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The course's central design move is personalization: rather than studying abstract objects, each student becomes the physical system that the laws describe. The authors state that "The central theme of this course is the personalization of the physics of motion by making each student the object", arguing this combination of scientific tools and personal involvement connects the science to reality for non-science majors.

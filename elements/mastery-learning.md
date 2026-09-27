@@ -12,7 +12,7 @@ generated:
 # Mastery Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q4` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q4` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Mastery learning is the element in which progression depends on demonstrated understanding rather than time alone.

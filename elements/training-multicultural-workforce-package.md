@@ -17,7 +17,7 @@ sources:
 # Training a Multicultural Workforce: a 30-hour six-module supervisor training package
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (1 qualitative, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 A 30-hour training package designed to assist workplace supervisors in Australia in managing and training a multicultural workforce, particularly refugees and immigrants of non-English-speaking backgrounds. It is taught by ESL-qualified instructors and consists of six free-standing modules. Each module includes "presenter's notes, a list of related publications, specific learning outcomes and performance criteria, assessment suggestions, and a series of class activities" with resource sheets and time requirements.

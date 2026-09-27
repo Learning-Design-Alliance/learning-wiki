@@ -15,12 +15,14 @@ sources:
     author: Wei, L.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Narrative inquiry uses research puzzles rather than research problems because it is a searching again rather than a problem with a clear solution
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Narrative inquirers prefer the term research puzzles because problems imply clear definability and expected solutions, while narrative inquiry is a searching again. [→ Wei 2023](#wei-2023)
@@ -31,7 +33,7 @@ sources:
 
 Wei, L. (2023). Narrative Inquiry: A Research Method in the Education Field. World Journal of Education, 13(6). https://doi.org/10.5430/wje.v13n6p35
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 A theoretical/definitional statement in the article's Research Puzzles section, quoting Clandinin and Connelly (2000, p. 124). The article explains that "Problems carry with them qualities of clear definability" while narrative inquiry is a renewed search. No empirical data are offered; this is the method's conceptual characterization.
 

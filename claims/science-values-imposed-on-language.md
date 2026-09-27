@@ -15,12 +15,14 @@ sources:
     author: Jenkins, William A.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Scientists have imposed their values of precision, objectivity, and control on language, including attempts to build machines that use and create language as humans do
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The scientist's values of precision, objectivity, and control have been superimposed on language, and machines are being built to recognize letters and words as human brains do. [→ Jenkins 1962](#jenkins-1962)
@@ -31,7 +33,7 @@ sources:
 
 Jenkins, William A. (1962). Time That Is Intolerant. Elementary English. https://eric.ed.gov/?id=ED030640
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Author's interpretive claim (type e) in the 'Language Is Humanizer' section, citing contemporary research such as a Lincoln Laboratory computer distinguishing hand-printed letters by "curved strokes, vertical lines, crossbars, and twenty-five other features."
 

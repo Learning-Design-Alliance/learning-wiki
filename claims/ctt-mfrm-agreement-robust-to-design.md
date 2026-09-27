@@ -15,12 +15,14 @@ sources:
     author: "Ilhan, M., & Guler, N."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # CTT and MFRM yield similar item difficulty results for open-ended questions regardless of crossed or nested design
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Combining this study's crossed design with Huang et al.'s (2014) nested design, the authors infer CTT and MFRM agree on item difficulty for open-ended questions under either design. [→ Ilhan 2018](#ilhan-2018)
@@ -31,7 +33,7 @@ sources:
 
 Ilhan, M., & Guler, N. (2018). A Comparison of Difficulty Indices Calculated for Open-Ended Items According to Classical Test Theory and Many Facet Rasch Model. Eurasian Journal of Educational Research, 75. [doi:10.14689/ejer.2018.75.6](https://doi.org/10.14689/ejer.2018.75.6)
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Authors' discussion-level inference combining this crossed-design study with the nested-design study of Huang et al. (2014), which the review-style discussion describes as rating 124 grant applications with 64 experts. This is the authors' interpretation, not a single tested contrast.
 

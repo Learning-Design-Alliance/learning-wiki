@@ -15,12 +15,14 @@ sources:
     author: "Karimi-Aghdam, S., & Lantolf, J. P."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Second language learners' private speech is associated with L2 development and motivation to learn the language
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In a small-scale study at an American university, students motivated to learn the language reported frequently producing L2 private speech, while requirement-enrolled students reported little PS. [→ Karimi-Aghdam 2020](#karimi-aghdam-2020)
@@ -31,7 +33,7 @@ sources:
 
 Karimi-Aghdam, S., & Lantolf, J. P. (2020). Dialectical Emergence of Language and Consciousness in Society: An Interview with Professor James P. Lantolf. The Journal of Applied Linguistics and Applied Literature: Dynamics and Advances, 8(2), 3-21. https://eric.ed.gov/?id=ED610078
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Lantolf describes a small-scale self-report study of language students at an American university, contrasting requirement-enrolled students with interested students. The former "did not produce much in the way of PS" while the latter frequently produced L2 private speech, even outside class. No effect size is printed.
 

@@ -15,12 +15,14 @@ sources:
     author: Galbraith, M. W.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # It is unknown whether community residents and providers recognize the lifelong learning opportunities community-based education offers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The paper asserts that a key unanswered question is whether community-based providers and community residents themselves recognize the lifelong learning opportunities available to them, and that community realities must be investigated. [→ Galbraith 1995](#galbraith-1995)
@@ -31,7 +33,7 @@ sources:
 
 Galbraith, M. W. (1995). Community-Based Organizations and the Delivery of Lifelong Learning Opportunities. https://eric.ed.gov/?id=ED385253
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Authors' framing of the research gap in the Research Recommendations section; no data are reported, and the paper argues investigation of what is actually occurring in communities is essential.
 

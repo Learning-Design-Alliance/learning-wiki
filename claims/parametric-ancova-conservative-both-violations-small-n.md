@@ -15,12 +15,14 @@ sources:
     author: "Olejnik, Stephen F. & Algina, James"
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # When both normality and homoscedasticity are violated and the covariate is non-normal, parametric ANCOVA tends to be conservative at small sample sizes and alpha = .05
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` With both assumptions violated and a non-normal covariate, the parametric approach tended to be conservative when n1 = n2 = 5 and nominal alpha was .05. [→ Olejnik 1983](#olejnik-1983)
@@ -31,7 +33,7 @@ sources:
 
 Olejnik, Stephen F. & Algina, James. (1983). Parametric ANCOVA vs. Rank Transform ANCOVA when Assumptions of Conditional Normality and Homoscedasticity Are Violated. Paper presented at the Annual Meeting of the American Educational Research Association. https://eric.ed.gov/?id=ED231882
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Simulation results summarized in Table 8 across conditions violating both conditional normality and homoscedasticity; observed alpha levels underestimated the nominal level under small samples (n1 = n2 = 5) at alpha = .05, per the quoted tendency.
 

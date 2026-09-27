@@ -15,12 +15,14 @@ sources:
     author: Neches, Robert
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # The READER model, without special tuning parameters, accounts for 79% of the variance in gaze duration data, versus 72% for the Just & Carpenter model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Thibadeau, Just, & Carpenter (1981) claim READER accounts for 79% of the variance in eye-movement gaze duration data, in contrast to the 72% accounted for by the Just & Carpenter (1980) model. [→ Neches 1982](#neches-1982)
@@ -31,7 +33,7 @@ sources:
 
 Neches, Robert. (1982). Simulation Systems for Cognitive Psychology. Learning Research and Development Center, University of Pittsburgh. https://eric.ed.gov/?id=ED217874
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Section 4.2 reports the READER model's fit to gaze duration data from eye movement studies of reading, reproducing linear increase of gaze duration with word length, log frequency effects, noun-phrase modifier effects, function-word skipping, and increased gaze durations at first mention of a topic and sentence ends. "READER-accourirs for 79% of the.variance in their data."
 

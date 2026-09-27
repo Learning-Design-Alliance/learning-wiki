@@ -15,12 +15,14 @@ sources:
     author: Small, Ruth V.; Katzer, Jeffrey; Eisenberg, Michael B.; McClure, Charles R.
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # CLASP made limited progress on cooperative activities and little progress on developing replicable collaboration models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r2` · `q3`
 
 ## Subclaims
 `q3 i?` For Goal 2 (organizing cooperative activities), there was some effort but limited success project-wide; for Goal 3 (developing replicable models), CLASP made little progress. [→ Small 1994](#small-1994)
@@ -31,7 +33,7 @@ sources:
 
 Small, Ruth V.; Katzer, Jeffrey; Eisenberg, Michael B.; McClure, Charles R. (1994). Connecting Libraries and Schools Project (CLASP) Evaluation. Report #7. Final Report. Information Management Consultant Services, Inc. https://eric.ed.gov/?id=ED382199
 
-`q3 · i? · the article prints no effect size for this finding`
+`q3 · i? · the article prints no effect size for this finding` · `design · r2`
 
 The evaluation's executive summary states that while Goal 1 was largely achieved, Goal 2 had "limited success project-wide due to various constraints" and Goal 3 saw little progress. There was little evidence of jointly planned and executed programs between schools and libraries.
 

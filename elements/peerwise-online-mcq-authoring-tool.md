@@ -17,7 +17,7 @@ sources:
 # PeerWise online tool for student-authored multiple-choice question repositories
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q3` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 PeerWise is the technology platform used in this study's interventions. The article describes it as "a freely-available, online tool to facilitate cohorts of students writing their own MCQs and answering and commenting on those of their peers", incorporating social functionality such as rating, commenting and following contributors. Developed at the University of Auckland, at the time of writing it had nearly 100,000 student registrants, around 600,000 questions and approximately 12 million answers.

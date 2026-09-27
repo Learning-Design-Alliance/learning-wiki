@@ -16,7 +16,7 @@ sources:
 # Kagan's PIES principles of cooperative learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article adopts Kagan's (1994) four basic principles of cooperative learning, captured by the acronym PIES: "Positive interdependence, Individual accountability, Equal participation, Simultaneous interaction". Positive interdependence is the feeling that the group "sinks or swims together"; individual accountability means the team's success depends on each member's learning; equal participation counters some members dominating; simultaneous interaction contrasts with one-person-at-a-time teacher-fronted talk. The article uses PIES as an analytic lens, asking a diagnostic question for each principle when analyzing post-reading ER activities.

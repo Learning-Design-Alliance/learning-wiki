@@ -12,7 +12,7 @@ generated:
 # Consensus Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 A consensus discussion asks a group of learners to move beyond stating positions toward agreeing on a shared judgment, decision, or jointly worded answer. Unlike [Debate](debate.md), the goal is not to win but to integrate perspectives into a single defensible position that all participants can endorse.

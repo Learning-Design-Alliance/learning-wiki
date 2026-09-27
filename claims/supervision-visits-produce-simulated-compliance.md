@@ -15,12 +15,14 @@ sources:
     author: Alfonso Cuervo, César Mora y R. García-Salcedo
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Unannounced SEP supervision visits led teachers and students to simulate reform-consistent classroom behavior, as documented in the fifth national report's observation records
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` A student comment recorded in the fifth national report states that a Ciencias II class was staged: the teacher had instructed students how to behave and what to say if interviewed by supervisors. [→ Alfonso Cuervo 2008](#alfonso-cuervo-2008)
@@ -31,7 +33,7 @@ sources:
 
 Alfonso Cuervo, César Mora y R. García-Salcedo. (2008). Analysis of the Educative Reform in the Secondary School Education in Mexico and its implications in Science II in the new curriculum. http://www.journal.lapen.org.mx
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The article quotes a student comment from the fifth national report's observation records: "Todo lo que hicimos en las clases de Ciencias II fue simulación", with the teacher having told students how to behave and what to tell interviewers. Supervisor records also show students mocking changed teacher behavior during visits.
 

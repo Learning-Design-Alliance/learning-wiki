@@ -15,12 +15,14 @@ sources:
     author: Kim, Saekyung; Gaa, John; Swank, Paul; Liberman, Dov
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Cross-cultural measurement problems may bias psychosocial instruments translated across cultures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The Korean MPD showed acceptable reliability and internal consistency, but correlation coefficients for the sample were unsatisfactory, suggesting cross-cultural error. [→ Kim 1998](#kim-1998)
@@ -31,7 +33,7 @@ sources:
 
 Kim, Saekyung; Gaa, John; Swank, Paul; Liberman, Dov. (1998). Identity Transformation of Korean Immigrants. https://eric.ed.gov/?id=ED420007
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Psychometric evaluation of the Korean-translated MPD in the 79-subject sample: Rho of .882, .875, and .875 and alphas of .82, .91, and .84 for identity, intimacy, and generativity scales, but inter-trait correlations were low and some positively-valued pairs should have been inversely related.
 

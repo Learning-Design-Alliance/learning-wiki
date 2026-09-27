@@ -15,12 +15,14 @@ sources:
     author: Tennis, J.T.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Assigned subject names are inherently obsolescent with respect to both past and future discourses (Buckland's account)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Once inscribed, an assigned name is fixed while discourses evolve, so its relationship to past and future discourse drifts away from an advancing present. [→ Tennis 2013](#tennis-2013)
@@ -31,7 +33,7 @@ sources:
 
 Tennis, J.T. (2013). Metaphors of time and installed knowledge organization systems: Ouroboros, Architectonics, or Lachesis? Information Research, 18(3) paper C38. http://InformationR.net/ir/18-3/colis/paperC38.html
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The review attributes this to Buckland (2012), quoting his account of the Janus-faced nature of subject description: the naming act recedes into the past while discourse continues to evolve, making assigned names inherently obsolescent. The review's own reading places this in the ouroboric metaphor.
 

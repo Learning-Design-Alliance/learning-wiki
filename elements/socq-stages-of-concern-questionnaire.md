@@ -17,7 +17,7 @@ sources:
 # Stages of Concern Questionnaire (SoCQ)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The SoCQ is a Likert-type instrument developed to measure the seven hypothesized Stages of Concern. Respondents react to thirty-five statements of concern, five items per stage, indicating how closely each describes a concern they feel at that point in time; scores are converted to percentile profiles of concern intensity per stage for individuals or groups. It was developed through item writing, Q-sorting by judges, administration of a 195-item prototype to 366 individuals, and factor analysis yielding seven factors under VARIMAX rotation.

@@ -15,12 +15,14 @@ sources:
     author: "Nguyen, T., Duncan, R.J., & Bailey, D.H."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Math achievement correlates more strongly with EF components than EF components correlate with each other in early childhood
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Within each ECLS-K wave, EF–math correlations (rs=0.30–0.57) exceeded EF–EF intercorrelations (rs=0.16–0.29); all correlations were significant at p < .001. [→ Nguyen 2019](#nguyen-2019)
@@ -31,7 +33,7 @@ sources:
 
 Nguyen, T., Duncan, R.J., & Bailey, D.H. (2019). Theoretical and methodological implications of associations between executive function and mathematics in early childhood. Contemporary Educational Psychology. https://doi.org/10.1016/j.cedpsych.2019.04.002
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Correlation matrices from the ECLS-K: 2010 at waves 1, 2, and 4 (Table 3); all correlations significant at p < .001. The article reports math–EF rs of "0.31–0.55" at Time 1 versus EF–EF rs of 0.18–0.27.
 

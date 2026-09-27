@@ -15,12 +15,14 @@ sources:
     author: Nakamura, Tomoko
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # On harder passages, false beginners' oral reading falls between true beginners and successful learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Reading STEP 3, Pre-STEP 2, and STEP 2 cards, false beginners performed between the other two groups; the true beginners' inability to cope with unfamiliar words was what emerged. [→ Nakamura 1997](#nakamura-1997)
@@ -31,7 +33,7 @@ sources:
 
 Nakamura, Tomoko. (1997). What Makes Language Learners False Beginners? Paper presented at the Annual Meeting of the Japan Association for Language Teaching. https://eric.ed.gov/?id=ED420194
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Three-group read-aloud experiment with cards at three STEP levels, whose readability ease declined from 65.74 (STEP 3) to 58.372 (STEP 2); results plotted in Fig. 1 show false beginners intermediate between the two groups.
 

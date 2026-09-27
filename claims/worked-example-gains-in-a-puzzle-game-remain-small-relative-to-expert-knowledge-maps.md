@@ -15,12 +15,14 @@ sources:
     author: "Shen, C.-Y., & O’Neil, H."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Worked-example gains in a puzzle game remained small relative to expert performance, with the worked example group learning only 2.7% of experts' knowledge-map knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` After studying worked examples, the treatment group learned only 2.7% of the experts' knowledge reflected in their knowledge maps. [→ Shen 2006](#shen-2006)
@@ -31,7 +33,7 @@ sources:
 
 Shen, C.-Y., & O’Neil, H. (2006). The Effectiveness of Worked Examples in a Game-Based Learning Environment. Paper presented at the annual meeting of the American Educational Research Association (AERA), San Francisco, CA. https://eric.ed.gov/?id=ED491961
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Comparison, in the SafeCracker worked example experiment, of the treatment group's knowledge maps with expert maps: "the improvement was small compared to expert performance", with the group learning "only 2.7% of the experts’ knowledge".
 

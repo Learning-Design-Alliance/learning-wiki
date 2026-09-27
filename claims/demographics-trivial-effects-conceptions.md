@@ -15,12 +15,14 @@ sources:
     author: Eren, A.
     q: 3
     i: 0
+    kind: associational
+    rigour: 2
 ---
 
 # Demographic variables (gender, year of study, fields of study, age) have trivial effects on prospective teachers' conception values and practices
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r2` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` MANCOVA and ANCOVA effects of gender, year of study, fields of study, and age on value- and practice-related conception factors were trivial (partial η² < .15). [→ Eren 2010](#eren-2010)
@@ -31,7 +33,7 @@ sources:
 
 Eren, A. (2010). Consonance and dissonance between Turkish prospective teachers' values and practices: Conceptions about teaching, learning, and assessment. Australian Journal of Teacher Education, 35(3). https://ro.ecu.edu.au/ajte/vol35/iss3/2/
 
-`q3 · i0`
+`q3 · i0` · `associational · r2`
 
 MANCOVAs with ANCOVA follow-ups on 304 prospective teachers testing gender, year of study, fields of study, and age (covariate) on TLCQ and TCAS subscales. Some multivariate field-of-study effects appeared but were not confirmed in univariate tests; the article reports the effects as not important.
 

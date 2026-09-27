@@ -15,12 +15,14 @@ sources:
     author: Jia Frydenberg
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Online continuing education courses show lower persistence than comparable onground courses (79% vs 84%) over eight quarters
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Over eight quarters at UC Irvine Extension, the persistence rate was 79 percent in online courses and 84 percent in similar onground courses, a statistically significant difference in attrition (21% vs 15%). [→ Jia Frydenberg 2007](#jia-frydenberg-2007)
@@ -31,7 +33,7 @@ sources:
 
 Jia Frydenberg. (2007). Persistence in University Continuing Education Online Classes. International Review of Research in Open and Distance Learning, 8(3). https://portal.issn.org/resource/ISSN/1492-3831
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Comparative observational analysis of two years of enrollment and withdrawal records (Spring 2004–Winter 2006) from UC Irvine Extension, covering 1,847 online of 27,815 total enrollments. The article reports "a marked difference in the percentage attrition" of 15% onground versus 21% online, statistically significant per Table 4.
 

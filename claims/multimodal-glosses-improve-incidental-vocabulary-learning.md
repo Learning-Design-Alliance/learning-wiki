@@ -15,12 +15,14 @@ sources:
     author: Restrepo Ramos, F. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Combining textual and pictorial glosses improves incidental vocabulary learning more than single-mode glosses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Shahrokni found that a combination of text and still images resulted in improved incidental vocabulary learning compared with text-only or picture-only glosses. [→ Restrepo Ramos 2015](#restrepo-ramos-2015)
@@ -31,7 +33,7 @@ sources:
 
 Restrepo Ramos, F. D. (2015). Incidental vocabulary learning in second language acquisition: A literature review. PROFILE Issues in Teachers' Professional Development, 17(1), 157-166. http://dx.doi.org/10.15446/profile.v17n1.43957
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Shahrokni's (2009) empirical study assigned 90 Iranian EFL learners to three groups of 30 exposed to the same text with textual, pictorial, or combined glosses of 25 target words, then tested immediate recall; the review reports the combined condition improved learning.
 

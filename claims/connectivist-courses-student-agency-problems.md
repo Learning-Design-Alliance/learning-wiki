@@ -15,18 +15,22 @@ sources:
     author: Downes, S.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: downes-2019-2
     resource: "https://www.eurodl.org/"
     title: "Downes, S. (2019). Recent Work in Connectivism. European Journal of Open, Distance and e-Learning, 22(2). https://www.eurodl.org/"
     author: Downes, S.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Studies of early connectivist courses found that not all students could autonomously direct their own learning and some experienced disconnection, demotivation and disturbance. [→ Downes 2019](#downes-2019)
@@ -38,7 +42,7 @@ sources:
 
 Downes, S. (2019). Recent Work in Connectivism. European Journal of Open, Distance and e-Learning, 22(2). https://www.eurodl.org/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The survey's criticisms section reports Kop's (2011) study of the PLENK 2010 connectivist course, which concluded not all students could autonomously direct their own learning or master critical literacies. Reported second-hand via the survey.
 
@@ -48,7 +52,7 @@ The survey's criticisms section reports Kop's (2011) study of the PLENK 2010 con
 
 Downes, S. (2019). Recent Work in Connectivism. European Journal of Open, Distance and e-Learning, 22(2). https://www.eurodl.org/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The survey reports, citing Mackness and Bell (2015) via Gonçalves and Osório (2018), that in the Rhizo14 rhizomatic cMOOC some students felt "disconnected, demotivated, demoralized, disenfranchised, and disturbed". Reported second-hand via the survey.
 

@@ -13,7 +13,7 @@ grain_size: lesson
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies, `q2`–`q4` · 1 of 5 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies (2 review, 1 causal, 1 quant-synthesis, 1 design), `q2`–`q4` · 1 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
 Direct instruction is the short-form canonical pattern for explicit explanation, modeling, guided practice, and feedback.

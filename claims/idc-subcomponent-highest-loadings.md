@@ -15,12 +15,14 @@ sources:
     author: "Khaewphuang, P., & Nuangchalerm, P."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Design of learning activities and measurement/evaluation load highest among knowledge and ability components; systematic thinking highest among personal attributes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Within the Ability dimension, design of learning activities (A4 = 0.901) and measurement and evaluation of learning outcomes (A6 = 0.821) showed the highest loadings; within Personal Attributes, systematic thinking (C3 = 0.892) and teamwork (C2 = 0.803) were highest. [→ Khaewphuang 2025](#khaewphuang-2025)
@@ -31,7 +33,7 @@ sources:
 
 Khaewphuang, P., & Nuangchalerm, P. (2025). Components and Indicators of Instructional Design Competence for Thai Pre-Service Teachers. Journal of Practical Studies in Education, 6(2), 14-22. https://doi.org/10.46809/jpse.v6i2.97
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 First-order CFA of 17 variables from the questionnaire of 471 pre-service teachers; the article reports loadings "ranging from 0.716 to 0.901, all statistically significant at the .01 level," with the component-level maxima quoted here.
 

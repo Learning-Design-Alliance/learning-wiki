@@ -15,12 +15,14 @@ sources:
     q: 3
     i: 2
     n: 214 youth (ages 5-15) for the main comparison; n=49 for the sorting task
+    kind: causal
+    rigour: 2
 ---
 
 # Material choice shapes conceptual learning and who feels invited to learn
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=214 youth (ages 5-15) for the main comparison; n=49 for the sorting task
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium · n=214 youth (ages 5-15) for the main comparison; n=49 for the sorting task
 
 Which physical materials a hands-on STEM task uses is not an interchangeable implementation detail: material affordances (e.g., whether a component only works in one orientation) drive how much conceptual learning happens, and materials culturally coded as "feminine" (e.g., sewing-based e-textiles) can produce equal or stronger conceptual learning than conventionally masculine-coded materials, contrary to common assumptions that arts-integrated or craft-based materials sacrifice rigor.
 
@@ -37,7 +39,7 @@ Which physical materials a hands-on STEM task uses is not an interchangeable imp
 
 Peppler, K., & Thompson, N. (2024). Tools and materials as non-neutral actors in STEAM education. *Journal of the Learning Sciences, 33*(4-5), 719-756. [https://doi.org/10.1080/10508406.2024.2380694](https://doi.org/10.1080/10508406.2024.2380694)
 
-`q3 · randomized comparison across five circuitry-kit conditions with pre/post assessment, plus a separate mixed-methods gender-perception sorting task` · `i2 · e-textiles kit produced an 18.7 percentage-point overall gain versus 9.0 for the traditional kit, with a positive correlation between perceived femininity and learning gain` · `n=214 youth (ages 5-15) for the main comparison; n=49 for the sorting task`
+`q3 · randomized comparison across five circuitry-kit conditions with pre/post assessment, plus a separate mixed-methods gender-perception sorting task` · `i2 · e-textiles kit produced an 18.7 percentage-point overall gain versus 9.0 for the traditional kit, with a positive correlation between perceived femininity and learning gain` · `n=214 youth (ages 5-15) for the main comparison; n=49 for the sorting task` · `causal · r2`
 
 Youth were assigned across five circuitry toolkit conditions (including e-textiles using conductive thread and unidirectional LEDs, and a traditional battery-clip-and-bulb kit) and completed matched pre/post assessments on current flow, polarity, and connections. The e-textiles condition produced the largest overall gain and the largest transfer gain to novel materials; the traditional kit showed a slight decline on polarity, plausibly because incandescent bulbs (unlike LEDs) work regardless of orientation, so they never force students to debug a polarity error. In a separate phase, youth sorted the five kits by perceived gender coding and explained their reasoning; e-textiles were rated most feminine-coded, primarily due to association with sewing as a practice rather than visual design, and this femininity rating correlated positively with the kit's actual measured learning gains.
 

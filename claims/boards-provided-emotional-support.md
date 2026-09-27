@@ -15,12 +15,14 @@ sources:
     author: Neuschafer, T.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Duolingo discussion boards provided emotional support — social encouragement and community — beyond the instrumental and informational support previously documented
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The current study found that Duolingo discussion boards can also provide emotional support, extending prior findings about instrumental and informational support. [→ Neuschafer 2022](#neuschafer-2022)
@@ -31,7 +33,7 @@ sources:
 
 Neuschafer, T. (2022). Understanding Duolingo discussion boards as social-emotional support during the COVID-19 pandemic. Journal of Educators Online. https://eric.ed.gov/?id=EJ1393729
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 This interpretation comes from the netnographic analysis reported in the discussion section, which attributes instrumental and informational support findings to the author's earlier dissertation (Neuschafer, 2021) and positions emotional support as the new finding of the current study.
 

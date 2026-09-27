@@ -15,12 +15,14 @@ sources:
     author: "Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z."
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Network learning spread beyond the network through a website, conference presentations, school and district sharing, and AIR-led professional learning communities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` External spread of network resources, PDSA processes, and change ideas occurred through multiple structures and channels. [→ Smith 2021](#smith-2021)
@@ -31,7 +33,7 @@ sources:
 
 Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z. (2021). The Better Math Teaching Network: Lessons Learned From a 5-Year Instructionally Focused NIC. American Institutes for Research & WestEd. https://www.bettermathteachingnetwork.org/
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r3`
 
 Descriptive account of external spread in the Key Learnings section: "The spread of ideas outside the network occurred through the network website, conference presentations, network sharing in participants’ schools and districts, and professional learning communities" led by AIR, including a district PLC series testing a network change idea.
 

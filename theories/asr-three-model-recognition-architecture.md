@@ -16,7 +16,7 @@ sources:
 # Three-model architecture of automatic speech recognition (acoustic, phonetic and language models)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (6 for, 2 mixed) · 2 studies, `q2` · 1 of 2 report an effect size · 8 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 2 studies (1 causal, 1 design), `q2` · 1 of 2 report an effect size · 8 claims rest on one study
 
 ## Description
 The article describes how ASR recognizes speech: a waveform is split into utterances by silences, and all possible word combinations are tested and matched against the audio. Three models complete the matching: "the acoustic model (acoustic properties for each phoneme of the target language), the phonetic model or phonetic dictionary (with the mapping from word to phone) and a language model (defining which word can follow another and restrict possible combinations)." This architecture is the base the project intends to enrich with prosodic information at the acoustic-model level.

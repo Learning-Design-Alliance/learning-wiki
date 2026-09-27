@@ -16,7 +16,7 @@ sources:
 # AIGC affordance as enacted competence within affordance-actualization theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article grounds its model in Affordance-Actualization Theory, defining AIGC affordance as "students' perceived generative action possibilities in human-AI interaction" and operationalizing it as enacted competence — the perceived functional capability to deploy AIGC features in IEI task execution. It specifies four task-activated affordances: generative co-creation, conversational iteration, critical verification, and strategic redistribution of cognitive effort. Iterative prompt refinement is framed as a unique mastery experience that pre-scripted resources cannot replicate, and self-efficacy and motivation act as gatekeepers between AIGC use and autonomous regulation.

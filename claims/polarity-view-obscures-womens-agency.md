@@ -15,12 +15,14 @@ sources:
     author: "Sheldon-Keller, Adrienne & West, Malcolm"
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Viewing agency/communion as a polarity risks underestimating agency in the lives of women
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The polarity framing risks not seeing the agency-within-communion that characterizes caregivers, potentially underestimating the prevalence and role of agency in women's lives and underpinning the male/female polarity view. [→ Sheldon-Keller 1995](#sheldon-keller-1995)
@@ -31,7 +33,7 @@ sources:
 
 Sheldon-Keller, Adrienne & West, Malcolm. (1995). Attachment within the Agency/Communion Paradigm. https://eric.ed.gov/?id=ED395227
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Authors' interpretive argument about the practical consequence of the polarity framing: it obscures "the agency-within-communion that characterizes caregivers" and could produce "a serious under-estimation of the prevalence and role of agency in the lives of women." No data are offered for this assertion.
 

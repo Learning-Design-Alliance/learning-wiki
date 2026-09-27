@@ -15,12 +15,14 @@ sources:
     author: Jenkins, William A.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # In a changing world, today's excellence may be tomorrow's ignorance, so schools should perhaps strive for adaptability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` There is no irrefutable data that passing examinations and accumulating high grades serves one well in a rapidly changing world; adaptability to the world's changing needs may be all the school should hope to develop. [→ Jenkins 1962](#jenkins-1962)
@@ -31,7 +33,7 @@ sources:
 
 Jenkins, William A. (1962). Time That Is Intolerant. Elementary English. https://eric.ed.gov/?id=ED030640
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Argument in the 'Excellence in Education' section: the author asks whether "today's excellence might not be tomorrow's ignorance" and suggests "striving for excellence in adaptability to the needs of this world" as the school's realistic aim.
 

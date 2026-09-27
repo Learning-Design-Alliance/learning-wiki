@@ -15,12 +15,14 @@ sources:
     author: Slepkov, A. D.
     q: 2
     i: 2
+    kind: design
+    rigour: 2
 ---
 
 # Partial credit under the IF-AT is granted in a discriminating manner: top final-exam scorers earned 65% ± 23% of available partial credit versus 39% ± 10% for bottom scorers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` On the four-option final exam, the top fifteen scorers earned 65% ± 23% of the partial credit available to them while the bottom 15 students earned only 39% ± 10%, a difference the author reports as statistically significant by t-test. [→ Slepkov 2013](#slepkov-2013)
@@ -31,7 +33,7 @@ sources:
 
 Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365
 
-`q2 · i2`
+`q2 · i2` · `design · r2`
 
 Analysis of second-attempt partial credit on the IF-AT final exam (49 students). The author reports "the top ﬁfteen ﬁnal exam scorers" earned a higher proportion of available partial credit than the bottom 15, confirming discriminating allocation; a t-test confirmed the difference as statistically significant.
 

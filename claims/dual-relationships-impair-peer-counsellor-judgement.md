@@ -15,18 +15,22 @@ sources:
     author: Zakaria, N. S.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: zakaria-2007-2
     resource: "https://eric.ed.gov/?id=ED499793"
     title: "Zakaria, N. S. (2007). Peer Counselling Empowerment and Ethical Considerations. https://eric.ed.gov/?id=ED499793"
     author: Zakaria, N. S.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The author argues that dual relationships with clients are unethical and impair peer counsellors' judgement, though role blending calls for vigilance rather than absolute prohibition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The author's ethical argument holds that mixing the helping relationship with another kind of relationship, especially a sexual one, is clearly unethical; self-interest is said to impair judgement, increase conflict of interest and lead to exploitation of clients. [→ Zakaria 2007](#zakaria-2007)
@@ -38,7 +42,7 @@ sources:
 
 Zakaria, N. S. (2007). Peer Counselling Empowerment and Ethical Considerations. https://eric.ed.gov/?id=ED499793
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The author's normative argument in the dual relationships section: sexual relationships with clients are stated to be clearly unethical, and such relationships are said to increase conflict of interest and may lead to exploitation of clients. This is an ethical argument, not an empirical finding.
 
@@ -48,7 +52,7 @@ The author's normative argument in the dual relationships section: sexual relati
 
 Zakaria, N. S. (2007). Peer Counselling Empowerment and Ethical Considerations. https://eric.ed.gov/?id=ED499793
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The author reports, citing Heliny and Corey as quoted in Corey, Corey and Callanan (1998), that "role blending is inevit able and not necessary unethical" but demands vigilance. The reviewed position is reported second-hand and is not tested in this article.
 

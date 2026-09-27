@@ -15,18 +15,22 @@ sources:
     author: Blosser, P. E.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
   - id: blosser-1993-2
     resource: "https://eric.ed.gov/?id=ED351207"
     title: "Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Clearinghouse for Science, Mathematics, and Environmental Education. https://eric.ed.gov/?id=ED351207"
     author: Blosser, P. E.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Cooperative biology instruction raised achievement and improved perceived classroom atmosphere in Israeli junior high studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` With six teachers and 201 ninth-grade biology students studying cell division, the cooperative (modified Jigsaw plus Group Investigation) group scored significantly higher than controls on all posttest comparisons, and girls scored higher than boys in the cooperative group. [→ Blosser 1993](#blosser-1993)
@@ -38,7 +42,7 @@ sources:
 
 Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Clearinghouse for Science, Mathematics, and Environmental Education. https://eric.ed.gov/?id=ED351207
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Lazarowitz (1991) study of ninth-grade general biology using a modified Jigsaw method with Group Investigation, as reported in this review. Pretest scores did not differ between groups; the quoted posttest result is the printed finding, with no effect size given.
 
@@ -48,7 +52,7 @@ Lazarowitz (1991) study of ninth-grade general biology using a modified Jigsaw m
 
 Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Clearinghouse for Science, Mathematics, and Environmental Education. https://eric.ed.gov/?id=ED351207
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Secondary outcome measure from the same study: all students took the Learning Environment Inventory at the end of the study. The atmosphere difference is reported descriptively with no test statistic printed.
 

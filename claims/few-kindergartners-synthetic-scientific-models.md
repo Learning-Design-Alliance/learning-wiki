@@ -15,12 +15,14 @@ sources:
     author: Saçkes, M.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Few kindergartners hold synthetic (18%) or scientific (13%) models of the day and night cycle despite no formal instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Eight children (18%) held synthetic models (orbit model and rotation + distance model) and six children (13%) held the scientific earth's-rotation model. [→ Saçkes 2015](#sackes-2015)
@@ -31,7 +33,7 @@ sources:
 
 Saçkes, M. (2015). Kindergartners' Mental Models of the Day and Night Cycle: Implications for Instructional Practices in Early Childhood Classrooms. Educational Sciences: Theory & Practice, 15(4), 997-1006. https://doi.org/10.12738/estp.2015.4.2741
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 From the same descriptive interview study's results: "Eight children (18%) held synthetic models of the day and night cycle" (four orbit, four rotation + distance), and separately "A total of six children (three boys and three girls, 13%) held a scientific model." Teachers reported no classroom activities targeting the day and night cycle.
 

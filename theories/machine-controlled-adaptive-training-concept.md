@@ -16,7 +16,7 @@ sources:
 # Machine-controlled adaptive training: task difficulty varies as a function of trainee performance
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 against) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 In adaptive training, the task presented to the trainee varies as a function of how well he performs. In machine-controlled training, adaptive logic performs a function analogous to that performed by a skilled instructor, adjusting task difficulty based on measured performance. The concept was demonstrated for flight training and was being implemented in the 2B24 synthetic flight training system for helicopters. This study tested the concept on a single-axis compensatory manual tracking task.

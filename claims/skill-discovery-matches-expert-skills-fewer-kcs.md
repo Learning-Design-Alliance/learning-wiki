@@ -15,12 +15,14 @@ sources:
     author: Khajah, M. M.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # On a real dataset with problem content, the skill discovery model matches BKT with expert-provided skills despite using fewer KCs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On the equations (handwriting) dataset with problem text features, the skill discovery model's prediction performance matches that of BKT using expert-provided KC assignments, using fewer knowledge components. [→ Khajah 2024](#khajah-2024)
@@ -31,7 +33,7 @@ sources:
 
 Khajah, M. M. (2024). Supercharging BKT with Multidimensional Generalizable IRT and Skill Discovery. Journal of Educational Data Mining, Volume 16, No 1, 2024. https://jedm.educationaldatamining.org/index.php/JEDM/article/view/16-1
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Evaluation on the equations dataset (2007 handwriting study, control condition only), where step names are cleaned equations embedded with all-mpnet-base-v2 into 768-dimensional feature vectors. The article reports the model "matches BKT with expert-provided skills, despite using fewer KCs".
 

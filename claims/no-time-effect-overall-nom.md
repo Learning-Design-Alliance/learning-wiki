@@ -15,12 +15,14 @@ sources:
     author: Elisabet Pladevall-Ballester, Alexandra Vraciu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Time (two years) shows no significant effect on children's overall amount of meaning negotiation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` No significant time effect emerged for overall NoM across the two data collection times two years apart. [→ Elisabet Pladevall-Ballester 2020](#elisabet-pladevall-ballester-2020)
@@ -31,7 +33,7 @@ sources:
 
 Elisabet Pladevall-Ballester, Alexandra Vraciu. (2020). EFL child peer interaction: Measuring the effect of time, proficiency pairing and language of interaction. Studies in Second Language Learning and Teaching, 10(3), 449-472. http://dx.doi.org/10.14746/ssllt.2020.10.3.3
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Mixed-model result for the general NoM category in the longitudinal study; the null finding is reported as no significant effect, and equivalence was not tested.
 

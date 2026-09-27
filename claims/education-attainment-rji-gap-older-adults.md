@@ -15,12 +15,14 @@ sources:
     author: Wlodarsky, R. and Walters, H.
     q: 1
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Prior RJM research reports large reflective judgment differences by educational attainment among older adults (RJI means 3.7 vs 5.2)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The article reports, citing Glenn and Eklund (1991), that adults 65 and older with up to high school education scored 3.7 on the RJI while retired faculty with doctorates scored 5.2. [→ Wlodarsky 2010](#wlodarsky-2010)
@@ -31,7 +33,7 @@ sources:
 
 Wlodarsky, R. and Walters, H. (2010). Use of the Reflective Judgment Model as a Reference Tool for Assessing the Reflective Capacity of Teacher Educators in a College Setting. i-manager's Journal of Educational Psychology. https://www.ncate.org/documents/standards/UnitStandardsMay07.pdf
 
-`q1 · i?`
+`q1 · i?` · `associational · r1`
 
 The article reports, citing Glenn and Eklund (1991), an RJI administration to two groups aged at least 65 differing in educational attainment; the doctorate group's mean of 5.2 was "comparable to the scores earned by advanced graduate students" while the high-school group scored 3.7.
 

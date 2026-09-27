@@ -15,18 +15,22 @@ sources:
     author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
   - id: carter-2014-2
     resource: "https://doi.org/10.3389/fpsyg.2014.01325"
     title: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325"
     author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Having control over the knowledge-of-results decision only before a motor trial (Self-Before) produced no statistically significant retention or transfer benefit over a yoked group receiving the same KR schedule.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` On retention AE, the Self-Before and Yoked-Before (M = 27.35) groups did not differ significantly; equivalence was not tested. [→ Carter 2014](#carter-2014)
@@ -38,7 +42,7 @@ sources:
 
 Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Laboratory experiment in which university volunteers learned a slider-positioning task under six knowledge-of-results (KR) conditions. Post hoc comparison on retention absolute error: "the Self-Before and the Yoked-Before (M = 27.35, SE = 3.66) groups did not differ significantly". No effect size is printed for this contrast.
 
@@ -48,7 +52,7 @@ Laboratory experiment in which university volunteers learned a slider-positionin
 
 Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Post hoc comparison on transfer absolute error in the same experiment: "the Self-Before and the Yoked-Before (M = 26.18, SE = 2.92) groups were not significantly different". No effect size is printed for this contrast.
 

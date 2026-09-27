@@ -15,12 +15,14 @@ sources:
     author: Chakrabartty, S. N.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Test discriminating value equals the coefficient of variation of test scores (tan∅ = SD/mean)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Discriminating value of a test is defined as tan∅, which equals the ratio of SD to mean of test scores, i.e. the coefficient of variation, bounded 0 ≤ DiscT ≤ 1. [→ Chakrabartty 2021](#chakrabartty-2021)
@@ -31,7 +33,7 @@ sources:
 
 Chakrabartty, S. N. (2021). Assessment of item and test parameters: Cosine similarity approach. International Journal of Psychology and Educational Studies, 8(3), 28-38. https://dx.doi.org/10.52380/ijpes.2021.8.3.190
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Empirical application to the 911-candidate, 50-item Selection Test. The computed test discriminating value was 0.168725, leading the article to conclude the "Test had rather poor discriminating value".
 

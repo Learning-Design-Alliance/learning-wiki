@@ -15,12 +15,14 @@ sources:
     author: Philip I. Pavlik, Jr., Luke G. Eglington, and Leigh M. Harrell-Williams
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The propdec adaptive student feature is highly colinear with a student intercept, capturing student individual differences without student parameters
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Combining the intercept and propdec features provided little additional benefit, suggesting propdec is highly colinear with the intercept as a representation of student differences. [→ Philip I. Pavlik 2021](#philip-i-pavlik-2021)
@@ -31,7 +33,7 @@ sources:
 
 Philip I. Pavlik, Jr., Luke G. Eglington, and Leigh M. Harrell-Williams. (2021). Logistic Knowledge Tracing: A Constrained Framework for Learner Modeling. IEEE Transactions on Learning Technologies. https://doi.org/10.1109/TLT.2021.3128569
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Initial comparison of nine student-variance-only models (Table IV, McFadden's R2) evaluating adaptive methods against fixed and random intercepts across the datasets. The article reports the fits of intercept-based and adaptive measures were similar and "the propdec feature is highly colinear with the intercept".
 

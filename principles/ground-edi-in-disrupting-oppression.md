@@ -17,7 +17,7 @@ sources:
 # Ground EDI initiatives in an explicit commitment to disrupting systems of power and oppression rather than inclusion alone
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article argues that where EDI initiatives exhibit an explicit commitment to disrupting systems of power and oppression, they are better positioned to address the root causes of the problems they intend to resolve, and that an equity-oriented approach demands more than inclusion efforts. It warns that well-intended initiatives by those untrained in theories of power risk "health equity tourism", inadvertently reproducing systems of inequality. The co-developed framework operationalizes this by making disruption of intersecting systems of oppression its central feature.

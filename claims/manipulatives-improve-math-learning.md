@@ -15,12 +15,14 @@ sources:
     q: 4
     i: "?"
     n: 7,237 students, k=55 studies
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Manipulatives Improve Math Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · n=7,237 students, k=55 studies
+> **Evidence** · 1 study · quant-synthesis `r2` · `q4` · n=7,237 students, k=55 studies
 
 Physical or visual objects that learners manipulate (counters, base-ten blocks, fraction tiles) can support mathematics learning by making abstract relationships concrete and actionable.
 
@@ -34,7 +36,7 @@ Physical or visual objects that learners manipulate (counters, base-ten blocks, 
 
 Carbonneau, K. J., Marley, S. C., & Selig, J. P. (2013). A meta-analysis of the efficacy of teaching mathematics with concrete manipulatives. *Journal of Educational Psychology, 105*(2), 380–400. [doi:10.1037/a0031084](https://doi.org/10.1037/a0031084)
 
-`q4 · meta-analysis` · `i? · effect size reported as "small to moderate" but no pooled d value appears in what was read` · `n=7,237 students, k=55 studies`
+`q4 · meta-analysis` · `i? · effect size reported as "small to moderate" but no pooled d value appears in what was read` · `n=7,237 students, k=55 studies` · `quant-synthesis · r2`
 
 Systematic search identified 55 studies comparing mathematics instruction using manipulatives against a control condition using only abstract math symbols, spanning kindergarten to college. Overall results were statistically significant, favoring manipulatives, with small-to-moderate effect sizes (Cohen's d). The manipulatives-learning relationship was moderated by both instructional and methodological characteristics of the studies. Separate analyses by outcome type found moderate-to-large effects on retention (k=53, N=7,140) and small effects on problem solving (k=9, N=477), transfer (k=13, N=3,453), and justification (k=2, N=109), all favoring manipulatives.
 

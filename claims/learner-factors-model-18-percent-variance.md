@@ -15,12 +15,14 @@ sources:
     author: "Zhao, A., Guo, Y., Biales, C., & Olszewski, A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # L2 proficiency, anxiety, and mastery of strategies jointly explain 18% of variance in incidental vocabulary acquisition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The four-predictor regression model was significant, explaining 18% of variance in incidental vocabulary acquisition. [→ Zhao 2016](#zhao-2016)
@@ -31,7 +33,7 @@ sources:
 
 Zhao, A., Guo, Y., Biales, C., & Olszewski, A. (2016). Exploring learner factors in second language (L2) incidental vocabulary acquisition through reading. Reading in a Foreign Language, 28(2). http://nflrc.hawaii.edu/rfl
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Omnibus test of the multiple linear regression with 129 participants: "R2 = .18, F (4, 124) = 6.86, p < .05". Regression assumptions (normality, homogeneity, linearity, independent errors, no multicollinearity) were checked and met.
 

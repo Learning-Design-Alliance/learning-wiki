@@ -15,18 +15,22 @@ sources:
     author: "Zou, F., & Yan, X."
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
   - id: zou-2019-2
     resource: "https://doi.org/10.5539/elt.v12n12p39"
     title: "Zou, F., & Yan, X. (2019). Incidental English Vocabulary Acquisition Through Reading: A Review in the Last Two Decades. English Language Teaching, 12(12). https://doi.org/10.5539/elt.v12n12p39"
     author: "Zou, F., & Yan, X."
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Higher L2 reading proficiency, motivation, and involvement load are associated with larger incidental vocabulary gains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · review `r1`–`r2` · `q2`–`q3`
 
 ## Subclaims
 `q2 i?` Advanced-level students achieved a greater number of words through reading than intermediate and upper-intermediate students, and higher reading proficiency predicted larger gains. [→ Zou 2019](#zou-2019)
@@ -38,7 +42,7 @@ sources:
 
 Zou, F., & Yan, X. (2019). Incidental English Vocabulary Acquisition Through Reading: A Review in the Last Two Decades. English Language Teaching, 12(12). https://doi.org/10.5539/elt.v12n12p39
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The review reports, citing Tekmen and Daloğlu (2006), that advanced learners gained more words through reading than intermediate and upper-intermediate learners; Lee and Pulido (2017) are also cited as finding higher proficiency resulted in more gains. No effect size is printed.
 
@@ -48,7 +52,7 @@ The review reports, citing Tekmen and Daloğlu (2006), that advanced learners ga
 
 Zou, F., & Yan, X. (2019). Incidental English Vocabulary Acquisition Through Reading: A Review in the Last Two Decades. English Language Teaching, 12(12). https://doi.org/10.5539/elt.v12n12p39
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 The review reports a meta-analysis of twelve studies (six published, six unpublished) coded for effect sizes and five mediator variables; it found output tasks while reading enhanced gains and time-on-task length was positively correlated with incidental vocabulary learning. No pooled effect size is printed.
 

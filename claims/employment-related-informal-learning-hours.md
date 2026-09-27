@@ -15,12 +15,14 @@ sources:
     author: Livingstone, D.W.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Employed Canadian adults report about 6 hours per week of employment-related informal learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Currently employed respondents in the NALL survey estimated spending about 6 hours per week on informal learning related to their current or future employment. [→ Livingstone 2001](#livingstone-2001)
@@ -31,7 +33,7 @@ sources:
 
 Livingstone, D.W. (2001). Adults' Informal Learning: Definitions, Findings, Gaps, and Future Research. NALL Working Paper #21. http://www.oise.utoronto.ca/depts/sese/csew/nall/res/21adultsifnormallearning.htm
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 In the NALL 1998 survey, employed respondents were asked about informal learning across topical areas including keeping up with job/career knowledge (71%), new job tasks (63%), and problem solving/communication skills (63%). The author treats the estimate as conservative, treating less-than-an-hour responses as zeros.
 

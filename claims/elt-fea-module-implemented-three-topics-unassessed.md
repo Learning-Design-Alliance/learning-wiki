@@ -14,12 +14,14 @@ sources:
     author: "Widiastuti, I. & Budiyanto, C. W."
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # A four-quadrant FEA-supported experiential module was implemented across three heat transfer topics without formal assessment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The article reports implementing Kolb-cycle four-quadrant activities with FEA software for steady state heat transfer, transient heat transfer and thermal stress, but no formal assessment of the module was employed. [→ Widiastuti 2018](#widiastuti-2018)
@@ -30,7 +32,7 @@ sources:
 
 Widiastuti, I. & Budiyanto, C. W. (2018). Applying an Experiential Learning Cycle with the Aid of Finite Element Analysis in Engineering Education. Journal of Turkish Science Education.
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 Descriptive design report of a module for a first-year Heat Transfer course with large enrollments of around 70 students, in which "The four-quadrant activities representing the ELT cycle were applied to three major topics". The authors state the study has not employed a formal assessment of this module.
 

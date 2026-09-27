@@ -15,12 +15,14 @@ sources:
     author: "McGloin, C., Marshall, A. & Adams, M."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # The authors' research indicates strong student interest in local Indigenous culture, which supports locally-based teaching of cultural knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Students, both Indigenous and non-Indigenous, express keen interest in local Indigenous culture and participate avidly in learning about it when it is introduced. [→ McGloin 2009](#mcgloin-2009)
@@ -31,7 +33,7 @@ sources:
 
 McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous Knowledge and Collaboration at an Indigenous Centre. Journal of University Teaching and Learning Practice. https://ro.uow.edu.au/jutlp/
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r1`
 
 Observational finding reported from the Leading the Way research into teaching and learning at the Woolyungah Indigenous Centre. The authors report that students "express a keen inter est in local Indigenous culture" and participate avidly when it is introduced; no numbers or tests are printed.
 

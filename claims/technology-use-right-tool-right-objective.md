@@ -15,12 +15,14 @@ sources:
     author: CEO Forum on Education and Technology
     q: 1
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Appropriately used technology can support practices that improve achievement, but inappropriate use can harm student performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The report asserts that when used appropriately, technology can be an effective tool for promoting practices shown to improve student achievement, citing positive effects of computers for higher-order thinking in middle schools and learning games in elementary schools, while inappropriate use can have a negative impact. [→ CEO Forum on Education and Technology 1999](#ceo-forum-on-education-and-technology-1999)
@@ -31,7 +33,7 @@ sources:
 
 CEO Forum on Education and Technology. (1999). School Technology and Readiness Report. Professional Development: A Link to Better Learning. The CEO Forum on Education and Technology, Year Two. https://eric.ed.gov/?id=ED428747
 
-`q1 · i?`
+`q1 · i?` · `review · r1`
 
 The report's own interpretive assertion in the Technology in School section, citing research in endnotes it does not reproduce; it also states that "when not used appropriately, technology can have a negative impact on student performance." No statistics or study designs are printed, so this is a weakly supported claim.
 

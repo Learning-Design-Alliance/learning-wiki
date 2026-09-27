@@ -15,12 +15,14 @@ sources:
     author: "Kathleen Kennedy & Anuj Gupta"
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Prominent existing AI literacy frameworks are not tailored to higher education
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Several prominent AI literacy frameworks focus on K-12 education or general AI literacy and are not easily applicable to higher education. [→ Kathleen Kennedy & Anuj Gupta 2025](#kathleen-kennedy-anuj-gupta-2025)
@@ -31,7 +33,7 @@ sources:
 
 Kathleen Kennedy & Anuj Gupta. (2025). AI & Data Competencies: Scaffolding holistic AI literacy in Higher Education. Thresholds Volume 48, Issue 2. https://journals.ku.edu/thresholds
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 The authors' review of existing frameworks (Table 1) argues that frameworks such as Long and Magerko's and AI4K12's Five Big Ideas are "explicitly designed for K -12 students," while UNESCO and EU frameworks "are not specifically tailored to higher education needs." This is an analytical review claim, not an empirical test.
 

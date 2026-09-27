@@ -15,18 +15,22 @@ sources:
     author: Shu Jing Yen, Leah Walker
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: shu-jing-yen-2007-2
     resource: "https://eric.ed.gov/?id=ED504361"
     title: "Shu Jing Yen, Leah Walker. (2007). Multidimensional IRT models for Composite Scores. Paper Presented at the 2007 Annual Meeting of the National Council of Measurement in Education, Chicago. https://eric.ed.gov/?id=ED504361"
     author: Shu Jing Yen, Leah Walker
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The three composite scoring methods yield differently related ability estimates, with the UIRT oral composite correlating far more with Speaking than Listening estimates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` For lower elementary students the correlation of the first MIRT theta with the UIRT composite (.77) was slightly lower than that of the second MIRT theta (.87), similar to the UIRT average's correlation (.78). [→ Shu Jing Yen 2007](#shu-jing-yen-2007)
@@ -38,7 +42,7 @@ sources:
 
 Shu Jing Yen, Leah Walker. (2007). Multidimensional IRT models for Composite Scores. Paper Presented at the 2007 Annual Meeting of the National Council of Measurement in Education, Chicago. https://eric.ed.gov/?id=ED504361
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Correlations among EAP ability estimates from three composite scoring methods (simple average, concurrent calibration, MIRT), reported in Table 3.2. The authors report correlations of ".77" and ".87" and suggest the average is highly affected by the first latent dimension.
 
@@ -48,7 +52,7 @@ Correlations among EAP ability estimates from three composite scoring methods (s
 
 Shu Jing Yen, Leah Walker. (2007). Multidimensional IRT models for Composite Scores. Paper Presented at the 2007 Annual Meeting of the National Council of Measurement in Education, Chicago. https://eric.ed.gov/?id=ED504361
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Same correlation analysis (Table 3.2), which prints UIRT Speaking correlations of .82 (lower) and .87 (upper) versus Listening correlations of .25 and .35. Similar patterns were observed for both populations.
 

@@ -16,6 +16,8 @@ sources:
     q: 3
     i: 1
     n: 135 studies
+    kind: quant-synthesis
+    rigour: "?"
   - id: stone-1983
     resource: "https://doi.org/10.1080/00220973.1983.11011862"
     title: "Stone, C. L. (1983). A meta-analysis of advance organizer studies. *The Journal of Experimental Education, 51*(4), 194–199. [doi:10.1080/00220973.1983.11011862](https://doi.org/10.1080/00220973.1983.11011862)"
@@ -23,6 +25,8 @@ sources:
     q: 3
     i: "?"
     n: 112 studies (from 29 reports)
+    kind: quant-synthesis
+    rigour: "?"
   - id: mayer-1979
     resource: "https://doi.org/10.3102/00346543049002371"
     title: "Mayer, R. E. (1979). Can advance organizers influence meaningful learning? *Review of Educational Research, 49*(2), 371–383. [doi:10.3102/00346543049002371](https://doi.org/10.3102/00346543049002371)"
@@ -30,12 +34,14 @@ sources:
     q: 2
     i: "?"
     n: 9 experimental tests
+    kind: review
+    rigour: "?"
 ---
 
 # Advance Organizers Improve Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2`–`q3` · `i1` small
+> **Evidence** · 3 studies · 2 quant-synthesis `r?`, 1 review `r?` · `q2`–`q3` · `i1` small
 
 An advance organizer is introductory material presented before the main instruction that is pitched at a higher level of abstraction, inclusiveness, and generality than the learning content itself, providing an anchoring framework for new material (Ausubel, 1960). The claim is currently rated **weak**: the specific supporting studies have not yet been added to this page, and the historical evidence base is known to be mixed.
 
@@ -53,7 +59,7 @@ An advance organizer is introductory material presented before the main instruct
 
 Luiten, J., Ames, W., & Ackerson, G. (1980). A meta-analysis of the effects of advance organizers on learning and retention. *American Educational Research Journal, 17*(2), 211–218. [doi:10.3102/00028312017002211](https://doi.org/10.3102/00028312017002211)
 
-`q3 · meta-analysis (Glass's method)` · `i1 · small effect, mean ES=0.21 on learning` · `n=135 studies`
+`q3 · meta-analysis (Glass's method)` · `i1 · small effect, mean ES=0.21 on learning` · `n=135 studies` · `quant-synthesis · r?`
 
 The authors reviewed 135 published and unpublished studies, including many doctoral dissertations, using Glass's effect size (difference between treatment and control means divided by the control group's standard deviation). Their published abstract calls the organizer effect small. The full text of their 1979 AERA conference version of this analysis (ERIC ED171803, same authors and same 135 studies) reports a mean effect of 0.21 on learning across 110 effect sizes. Retention effect sizes rose with the delay, from 0.19 to 0.38, but the same instruments were usually used for both tests. The benefit was larger for high-ability learners (0.23) than for low-ability learners (0.13), and larger for spoken than for written organizers. No significance tests were run and the effect sizes were not weighted.
 
@@ -61,7 +67,7 @@ The authors reviewed 135 published and unpublished studies, including many docto
 
 Stone, C. L. (1983). A meta-analysis of advance organizer studies. *The Journal of Experimental Education, 51*(4), 194–199. [doi:10.1080/00220973.1983.11011862](https://doi.org/10.1080/00220973.1983.11011862)
 
-`q3 · meta-analysis (Glass's method)` · `i? · no effect size in the abstract read` · `n=112 studies (from 29 reports)`
+`q3 · meta-analysis (Glass's method)` · `i? · no effect size in the abstract read` · `n=112 studies (from 29 reports)` · `quant-synthesis · r?`
 
 This meta-analysis coded 112 studies from 29 reports and compared the results with what Ausubel's assimilation theory predicts. Overall, organizers were associated with better learning and retention. The ERIC summary of the conference version (ED220476) lists four results that contradict the theory: written-only and abstract organizers had lower effects, non-subsuming organizers had higher effects, low-ability and low-knowledge learners got no special benefit, and older learners showed smaller effects. Only the abstracts were read, so no pooled effect size is recorded here.
 
@@ -69,7 +75,7 @@ This meta-analysis coded 112 studies from 29 reports and compared the results wi
 
 Mayer, R. E. (1979). Can advance organizers influence meaningful learning? *Review of Educational Research, 49*(2), 371–383. [doi:10.3102/00346543049002371](https://doi.org/10.3102/00346543049002371)
 
-`q2 · narrative review of experiments` · `i? · no effect size reported in abstract` · `n=9 experimental tests`
+`q2 · narrative review of experiments` · `i? · no effect size reported in abstract` · `n=9 experimental tests` · `review · r?`
 
 Mayer responds to Barnes and Clawson's (1975) conclusion that organizers "do not facilitate learning". He argues that their review represented the theory poorly, analysed learning outcomes poorly and did not control the experiments adequately. He then presents nine experimental tests that favour an assimilation-encoding account. He concludes that organizers can change the outcome of learning, but only when they are used in appropriate situations and the outcome is measured properly. Only the abstract was read.
 

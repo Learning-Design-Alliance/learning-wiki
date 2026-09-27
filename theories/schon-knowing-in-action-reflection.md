@@ -16,7 +16,7 @@ sources:
 # Schon's knowing-in-action and the distinction between reflection-in-action and reflection-on-action
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper presents Schon's account of tacit knowledge: knowing-in-action (KIA) is knowledge tacit in the way we do things, which 'unconsciously controls how we act in relationship to our environment in any situation'. Reflection is triggered when a surprise interrupts the flow of KIA. Reflection-on-action occurs afterward, with evaluative distance; reflection-in-action, Schon's primary interest, is a conscious inquiry during activity that frames the problem, evaluates underlying assumptions, and constructs an alternative solution testable on the spot.

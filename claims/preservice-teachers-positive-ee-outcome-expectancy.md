@@ -15,12 +15,14 @@ sources:
     author: Sia, Archibald P.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Preservice elementary teachers hold positive outcome expectancy beliefs that effective teaching improves student EE learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Respondents indicate positive outcome expectancy on all ten items of the outcome expectancy scale, believing good teaching can overcome students' inadequate EE background. [→ Sia 1992](#sia-1992)
@@ -31,7 +33,7 @@ sources:
 
 Sia, Archibald P. (1992). Preservice Elementary Teachers' Perceived Efficacy in Teaching Environmental Education: A Preliminary Study. https://eric.ed.gov/?id=ED362487
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Percentage analysis of the EE Teaching Outcome Expectancy Scale (10 items) with the same 40 preservice teachers. The author reports "90% agree that a teacher's good teaching can overcome students' inadequate EE background" and 78% disagree that increased effort produces little change; positive outcome expectancy ranged from 65% to 75% on remaining items.
 

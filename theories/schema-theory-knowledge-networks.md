@@ -16,7 +16,7 @@ sources:
 # Schema theory as a theory of knowledge: networks of a superordinate concept with supporting information that interface with incoming information
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (2 for, 2 against) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 against) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Schema theory, in its broadest sense, is "a theory of knowledge" (Rumelhart, 1980) concerning how material is organized, encoded and retrieved from memory. A schema comprises a superordinate concept with supporting information — defining features, characteristics, associations, functions and propositions — clustered in networks that can be interwoven, subsumed, or enveloped by other schema. In reading comprehension, schema provide ideational scaffolding and contain slots that interface with text; the better the match between schema and text, the more the reader comprehends while allocating less attention to encoding, activation and retrieval. The essay reviews competing structural accounts, including Just and Carpenter's hierarchical Reader model and propositional networks.

@@ -15,18 +15,22 @@ sources:
     author: "Sherman, P., & Boukydis, O."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: sherman-2020-2
     resource: "https://eric.ed.gov/?id=EJ1272497"
     title: "Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497"
     author: "Sherman, P., & Boukydis, O."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Both groups see societal benefit in experiential learning, but instructors weight societal good more heavily than students, whose reflections center on personal fulfillment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Instructors saw local and global communities benefiting from students' increased prosocial and professional competencies, including intercultural competence. [→ Sherman 2020](#sherman-2020)
@@ -38,7 +42,7 @@ sources:
 
 Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Study 1 Global Theme 3 held that "Local and global communities are benefitted by students' increased prosocial and professional competencies", citing empathy, intercultural understanding, and citizenship preparation. The article states instructors "assigned greater value than students for the benefits to society".
 
@@ -48,7 +52,7 @@ Study 1 Global Theme 3 held that "Local and global communities are benefitted by
 
 Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Study 2 Global Theme 3 held that "The sense of fulfillment through positive experiences and accomplishments contributes to the betterment of society". Students described opening their minds to other cultures and bringing ideas back to society.
 

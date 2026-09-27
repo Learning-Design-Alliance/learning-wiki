@@ -15,12 +15,14 @@ sources:
     author: Norberg, K.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Teachers' spontaneous in-the-moment reactions draw on internalised earlier values rather than the curriculum's constitutive values
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In moment-by-moment classroom situations, teachers reported that their spontaneous reactions came from deeply internalised values from their own upbringing rather than from what they had learnt and believed in as professionals. [→ Norberg 2003](#norberg-2003)
@@ -31,7 +33,7 @@ sources:
 
 Norberg, K. (2003). Constitutive Values and Daily Practice in a Swedish School. Values and Ethics in Educational Administration, 1(3). http://www.ed.psu.edu/uceacsle/
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 In the wake-up calls section, a teacher (Teacher 12) reflects after reading field-notes about repeated conflicts with disruptive boys, stating her reactions "come from deep down inside when you get so terrible angry". This is the teacher's own reflective account, not a tested measure.
 

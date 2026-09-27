@@ -15,12 +15,14 @@ sources:
     author: Cooper, E.
     q: 2
     i: 1
+    kind: associational
+    rigour: 1
 ---
 
 # Tutoring center visits showed a delayed significant correlation with cumulative GPA in subsequent quarters
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` For the 200740F cohort, fall quarter TC usage correlated significantly with spring quarter cumulative GPA (r=0.127, p=.021) and winter usage with the following fall GPA (r=0.149, p=.023); no significant correlation appeared for the 200740X cohort. [→ Cooper 2010](#cooper-2010)
@@ -31,7 +33,7 @@ sources:
 
 Cooper, E. (2010). Tutoring Center Effectiveness: The Effect of Drop-In Tutoring. Journal of College Reading and Learning, 40(2). https://eric.ed.gov/?id=EJ887303
 
-`q2 · i1`
+`q2 · i1` · `associational · r1`
 
 Correlational analysis of TutorTrac visit counts against cumulative GPA by quarter (Table 8). The article reports the correlation appeared one quarter later than expected, was "nearly significant" (p<.10) for the immediately following quarter, and was not significant for the 200740X cohort, attributed to smaller N.
 

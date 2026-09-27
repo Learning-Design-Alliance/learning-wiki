@@ -15,12 +15,14 @@ sources:
     author: "Martin, F., Klein, J., & Sullivan, H."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Students may be unaware of the absence of objectives: the no-objectives group gave the highest ratings on objective-related attitude items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The no-objectives treatment produced the most positive attitudes, with 17 significant positive comparisons, and the highest ratings on the two objectives items. [→ Martin 2003](#martin-2003)
@@ -31,7 +33,7 @@ sources:
 
 Martin, F., Klein, J., & Sullivan, H. (2003). Effects of Instructional Events in Computer-Based Instruction. https://eric.ed.gov/?id=ED484984
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 On Items 1 and 2 (goal clarity), the no-objectives group gave the highest ratings of all six groups, though not significantly higher than most; Table 3 shows 17 significant positive comparisons for this group.
 

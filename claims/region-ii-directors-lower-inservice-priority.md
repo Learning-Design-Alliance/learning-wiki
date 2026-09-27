@@ -15,12 +15,14 @@ sources:
     author: "Three-Year Staff Development Plan 1972-1975: Report of HEW Region II Staff Development Project"
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Region II local ABE directors assigned lower priority to inservice education than the national sample
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In the ABE Priorities Survey comparison, Region II local directors did not assign as high a priority to inservice education as directors in the national sample. [→ Three-Year Staff Development Plan 1972-1975: Report of HEW Region II Staff Development Project 1973](#three-year-staff-development-plan-1972-1975-report-of-hew-region-ii-staff-development-project-1973)
@@ -31,7 +33,7 @@ sources:
 
 Three-Year Staff Development Plan 1972-1975: Report of HEW Region II Staff Development Project. (1973). Montclair State College. https://eric.ed.gov/?id=ED083424
 
-`q2 · i?`
+`q2 · i?` · `design · r1`
 
 Survey comparison using the 309(b) ABE Project Survey conducted by the Center for Adult Education, Teachers College, Columbia University, under Dr. Jack Mezirow, comparing the national sample of local directors with the Region II subgroup on pre- and inservice training priority items.
 

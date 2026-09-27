@@ -15,12 +15,14 @@ sources:
     author: "Chaiyapornpattana, N., & Wongwanich, S."
     q: 3
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # The five dimensions of the developed thinking styles scale show structural validity via confirmatory factor analysis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Confirmatory factor analysis in each of the 5 dimensions conformed to the empirical data, with fit indices within acceptance criteria. [→ Chaiyapornpattana 2009](#chaiyapornpattana-2009)
@@ -31,7 +33,7 @@ sources:
 
 Chaiyapornpattana, N., & Wongwanich, S. (2009). Development of a multidimensional thinking styles scale based on theory of mental self-government for sixth grade students. Research in Higher Education Journal. http://www.aabri.com
 
-`q3 · i?`
+`q3 · i?` · `design · r3`
 
 Confirmatory factor analysis with Mplus on data from the 1,545-student sample tested structural validity of each dimension. The article reports the scale "conformed to the empirical data" with CFI .918-.975, TLI .919-.988, RMSEA .036-.046, SRMR .060-.081.
 

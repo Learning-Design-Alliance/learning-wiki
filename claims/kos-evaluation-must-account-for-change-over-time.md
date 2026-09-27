@@ -15,12 +15,14 @@ sources:
     author: Tennis, J.T.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Evaluating knowledge organization systems by correctness alone is atemporal and must account for change over time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` The dominant correctness-based evaluation of knowledge organization systems ignores time, and a foundational evaluation approach must account for change and time. [→ Tennis 2013](#tennis-2013)
@@ -31,7 +33,7 @@ sources:
 
 Tennis, J.T. (2013). Metaphors of time and installed knowledge organization systems: Ouroboros, Architectonics, or Lachesis? Information Research, 18(3) paper C38. http://InformationR.net/ir/18-3/colis/paperC38.html
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Theoretical argument in the paper's conclusion: correctness-based evaluation is atemporal, and the paper argues evaluation must account for change over time and the methodological concerns growing out of particular change metaphors. No empirical data are offered; this is the author's philosophical position.
 

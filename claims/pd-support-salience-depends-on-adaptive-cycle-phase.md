@@ -15,12 +15,14 @@ sources:
     q: 2
     i: "?"
     n: 2 teacher teams, one over 1 year (3 video-feedback sessions), one over 2+ years (6 sessions plus a Year 3 follow-up)
+    kind: qualitative
+    rigour: "?"
 ---
 
 # PD support type and salience depends on a teacher team's current phase in the adaptive learning cycle
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · n=2 teacher teams, one over 1 year (3 video-feedback sessions), one over 2+ years (6 sessions plus a Year 3 follow-up)
+> **Evidence** · 1 study · qualitative `r?` · `q2` · n=2 teacher teams, one over 1 year (3 video-feedback sessions), one over 2+ years (6 sessions plus a Year 3 follow-up)
 
 Reflective, video-based examination of one's own practice appears most generative during a teacher team's problematization and conservation phases, while invoking and experimenting with external practices, frameworks, or curricular resources appears more generative during reorganization and growth phases — meaning the same PD design can produce very different trajectories for two teams depending on what phase (per the [adaptive cycles framework](../theories/adaptive-cycles-framework.md)) they enter it in and what resources their broader context provides.
 
@@ -35,7 +37,7 @@ Reflective, video-based examination of one's own practice appears most generativ
 
 Ehrenfeld, N., & Stengel, B. (2025). The temporal dimension of teacher learning in a video-based professional development program: An ecological perspective. *Journal of the Learning Sciences, 34*(3), 285-328. [https://doi.org/10.1080/10508406.2025.2468205](https://doi.org/10.1080/10508406.2025.2468205)
 
-`q2 · comparative case study of two school-based teacher teams using interaction analysis of video-based feedback sessions, no control condition` · `i? · the abstract prints no effect size; the full text may` · `n=2 teacher teams, one over 1 year (3 video-feedback sessions), one over 2+ years (6 sessions plus a Year 3 follow-up)`
+`q2 · comparative case study of two school-based teacher teams using interaction analysis of video-based feedback sessions, no control condition` · `i? · the abstract prints no effect size; the full text may` · `n=2 teacher teams, one over 1 year (3 video-feedback sessions), one over 2+ years (6 sessions plus a Year 3 follow-up)` · `qualitative · r?`
 
 Two school-based teacher teams participated in [video-based feedback cycles](../strategies/video-based-feedback-cycle-for-teacher-teams.md) aimed at supporting collaborative groupwork facilitation. One team entered the partnership already having identified their problem of practice, and their work together mostly involved reorganization and growth (experimenting with groupwork structures) without reaching a stable, consolidated ("conservation") phase within the study window. The other team's problematization was substantially driven by watching their own video and recognizing overreliance on teacher-led answers; their subsequent reorganization drew on a team member's prior experience with problem-based curricula and a colleague's new departmental leadership role, and by a Year 3 follow-up, groupwork had become a routine, expected classroom structure.
 

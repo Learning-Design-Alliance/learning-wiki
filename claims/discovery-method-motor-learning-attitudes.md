@@ -15,12 +15,14 @@ sources:
     author: Winnick, Joseph P., and Ronald W. French, eds
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Discovery method in motor skill learning was superior to teacher-directed approach in children's attitudes and social interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A cited Boston University study found the discovery method applied to motor skill learning superior to a teacher-directed approach in attitude and social interaction outcomes. [→ Winnick 1975](#winnick-1975)
@@ -31,7 +33,7 @@ sources:
 
 Winnick, Joseph P., and Ronald W. French, eds. (1975). Piaget for Regular and Special Physical Educators and Recreators. State University College, Brockport. https://eric.ed.gov/?id=ED117874
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Zaichkowsky's paper reports, citing Mancini's 1974 doctoral study at Boston University, that 'the discovery method applied to motor skill learningwas superior to a Leacher' directed approach' on attitude and social interaction measures; the study did not examine memory.
 

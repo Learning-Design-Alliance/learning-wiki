@@ -16,7 +16,7 @@ sources:
 # State education agency LRE policies cluster around three goals: influencing out-of-district placement, controlling institutional programs, and deinstitutionalization
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report organizes the state policies it surveyed into a three-goal taxonomy. It states that despite wide variation, most SEA policies "are directed toward one of the followingthree goals: influencing the process by which handicappedChildren are placed out of district:gaining greater control over the educational programs of children placedi.n State institutions; and participating iii effortsto deinStitUtiohalize handicapped Children." Each goal is illustrated with named state examples: Connecticut and Maryland for placement review, Louisiana, Florida, and California for institutional programs, and Colorado for deinstitutionalization.

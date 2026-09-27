@@ -15,12 +15,14 @@ sources:
     author: Geng Yaoyao, Morita Aiko
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # A supplementary analysis restricted to TC and control nonword primes shows the TC effect is marginally larger for Chinese than Japanese speakers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` When the prime type factor was restricted to TC pseudowords and control nonwords, the language × prime type interaction was marginally significant and the TC effect was marginally larger for Chinese participants. [→ Geng Yaoyao 2026](#geng-yaoyao-2026)
@@ -31,7 +33,7 @@ sources:
 
 Geng Yaoyao, Morita Aiko. (2026). A Comparison of Transposed-Character Effect Between Chinese and Japanese Speakers: Processing Position Information of Hanzi and Kanji Characters. Journal of Psycholinguistic Research. https://doi.org/10.1007/s10936-026-10279-0
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Supplementary refitted model on Experiment 2 data restricted to the TC pseudoword and control nonword prime levels. The omnibus language × prime type interaction was marginally significant (χ2(1) = 3.493, p = .062), and the quoted planned contrast was marginal, not reaching the significance threshold.
 

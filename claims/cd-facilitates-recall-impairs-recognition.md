@@ -15,12 +15,14 @@ sources:
     author: "Jones, M. N., Dye, M., & Johns, B. T."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Contextual diversity facilitates episodic recall but impairs recognition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In episodic memory tasks, higher contextual diversity is associated with better recall but worse recognition performance. [→ Jones 2017](#jones-2017)
@@ -31,7 +33,7 @@ sources:
 
 Jones, M. N., Dye, M., & Johns, B. T. (2017). Context as an Organizing Principle of the Lexicon. Psychology of Learning and Motivation, Volume 67. https://doi.org/10.1016/bs.plm.2017.03.008
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `review · r2`
 
 The chapter reports, citing Lohnas, Polyn, and Kahana (2011) and Anderson (1974), that in episodic memory tests "CD has been found to facilitate recall" while impairing recognition. The chapter attributes these findings to the cited studies without reproducing their effect sizes.
 

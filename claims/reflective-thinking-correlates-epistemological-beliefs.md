@@ -15,18 +15,22 @@ sources:
     author: Balta, E. E.
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
   - id: balta-2018-2
     resource: "https://doi.org/10.5430/ijhe.v7n6p106"
     title: "Balta, E. E. (2018). Reflective Thinking Tendencies and Epistemological Beliefs in Terms of Learning Styles. International Journal of Higher Education, 7(6). https://doi.org/10.5430/ijhe.v7n6p106"
     author: Balta, E. E.
     q: 3
     i: 1
+    kind: associational
+    rigour: 1
 ---
 
 # Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Continuous and intentional thinking correlated positively with learning effort (r=0,123; p<0,05) and learning process/expert knowledge (r=0,311; p<0,01), and negatively with innate/fixed ability (r=-0,133; p<0,01) and certainty of knowledge (r=-0,098; p<0,05). [→ Balta 2018](#balta-2018)
@@ -38,7 +42,7 @@ sources:
 
 Balta, E. E. (2018). Reflective Thinking Tendencies and Epistemological Beliefs in Terms of Learning Styles. International Journal of Higher Education, 7(6). https://doi.org/10.5430/ijhe.v7n6p106
 
-`q3 · i1`
+`q3 · i1` · `associational · r2`
 
 Correlation analysis (Table 6, n=410) between reflective thinking and epistemological belief dimensions. The printed correlations are small; the article concludes there is a relationship between reflective thinking tendencies and epistemological beliefs.
 
@@ -48,7 +52,7 @@ Correlation analysis (Table 6, n=410) between reflective thinking and epistemolo
 
 Balta, E. E. (2018). Reflective Thinking Tendencies and Epistemological Beliefs in Terms of Learning Styles. International Journal of Higher Education, 7(6). https://doi.org/10.5430/ijhe.v7n6p106
 
-`q3 · i1`
+`q3 · i1` · `associational · r1`
 
 Correlation analysis (Table 6, n=410) for the looking professional dimension; all printed correlations are small in magnitude. The researcher and foresighted and sincere dimensions were not correlated with innate/fixed ability in the printed table.
 

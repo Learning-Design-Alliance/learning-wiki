@@ -16,7 +16,7 @@ sources:
 # Self-determination theory framework of intrinsic and extrinsic motivational orientations for L2 learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 9 studies, `q1`–`q4` · 1 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 9 studies (3 review, 2 quant-synthesis, 2 theoretical, 1 causal, 1 associational), `q1`–`q4` · 1 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 The study adopts Noels and associates' intrinsic/extrinsic motivation framework derived from self-determination theory (Deci & Ryan) as its "informative framework". It treats motivational constructs as orientations: intrinsic orientations relate to inherent interest, with three types (Intrinsic-Knowledge, Intrinsic-Accomplishment, Intrinsic-Stimulation), and extrinsic motivation is categorized into External, Introjected and Identified Regulation, the last being the most self-determined form.

@@ -12,7 +12,7 @@ generated:
 # Video Report Cards
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 5 studies, `q3`–`q4` · 2 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 5 studies (2 quant-synthesis, 1 causal, 1 review, 1 theoretical), `q3`–`q4` · 2 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 A video report card is a short, personalized recording — typically 2–5 minutes — in which a teacher walks parents through their child's performance: trends across grading periods, specific strengths, areas for growth, and concrete recommendations for home support. Videos can be translated, captioned, or recorded in the family's home language to reduce language barriers that written reports often create.

@@ -15,12 +15,14 @@ sources:
     author: "Sex and Race Differences on Standardized Tests: Oversight Hearings before the Subcommittee on Civil and Constitutional Rights of the Committee on the Judiciary, House of Representatives, One Hundredth Congress, First Session"
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Lower SAT scores reduce girls' entry into gifted and enrichment programs that use test scores for admission
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Talent-search programs using SAT scores admit far more boys than girls: Johns Hopkins CTY extended invitations to over 2,500 boys but only 1,081 girls in one summer, although an equal number of boys and girls took the test. [→ Sex and Race Differences on Standardized Tests: Oversight Hearings before the Subcommittee on Civil and Constitutional Rights of the Committee on the Judiciary 1989](#sex-and-race-differences-on-standardized-tests-oversight-hearings-before-the-subcommittee-on-civil-and-constitutional-rights-of-the-committee-on-the-judiciary-1989)
@@ -31,7 +33,7 @@ sources:
 
 Sex and Race Differences on Standardized Tests: Oversight Hearings before the Subcommittee on Civil and Constitutional Rights of the Committee on the Judiciary, House of Representatives, One Hundredth Congress, First Session. (1989). https://eric.ed.gov/?id=ED312276
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `review · r1`
 
 Rosser's written testimony on the Johns Hopkins Center for the Advancement of Academically Talented Youth, which invited 16,876 seventh graders in 19 states to take the SAT. She reports the invitation split and argues girls' lower scores also cost them enrichment programs like the New Jersey Governor's School.
 

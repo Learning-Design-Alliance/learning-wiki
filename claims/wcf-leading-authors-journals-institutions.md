@@ -15,24 +15,30 @@ sources:
     author: Liu, W.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: liu-2025-2
     resource: "https://doi.org/10.32038/ltrq.2025.49.07"
     title: "Liu, W. (2025). A bibliometric analysis of written corrective feedback in second language writing. Language Teaching Research Quarterly, 49, 133-150. https://doi.org/10.32038/ltrq.2025.49.07"
     author: Liu, W.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: liu-2025-3
     resource: "https://doi.org/10.32038/ltrq.2025.49.07"
     title: "Liu, W. (2025). A bibliometric analysis of written corrective feedback in second language writing. Language Teaching Research Quarterly, 49, 133-150. https://doi.org/10.32038/ltrq.2025.49.07"
     author: Liu, W.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Yu Shulin and Lee Icy were the most productive WCF-in-L2-writing authors, Assessing Writing and Journal of Second Language Writing the leading journals, and University of Macau the leading institution
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Yu Shulin published 22 articles with 644 citations and Lee Icy 13 articles with 317 citations, making them the two most productive authors. [→ Liu 2025](#liu-2025)
@@ -45,7 +51,7 @@ sources:
 
 Liu, W. (2025). A bibliometric analysis of written corrective feedback in second language writing. Language Teaching Research Quarterly, 49, 133-150. https://doi.org/10.32038/ltrq.2025.49.07
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Bibliometric ranking of authors with at least 6 WCF-in-L2-writing papers (Table 2), drawn from the 321-article WoS corpus. The article reports Yu Shulin's 22 articles/644 citations and Lee Icy's 13 articles/317 citations as the top two.
 
@@ -55,7 +61,7 @@ Bibliometric ranking of authors with at least 6 WCF-in-L2-writing papers (Table 
 
 Liu, W. (2025). A bibliometric analysis of written corrective feedback in second language writing. Language Teaching Research Quarterly, 49, 133-150. https://doi.org/10.32038/ltrq.2025.49.07
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Bibliometric ranking of the top 10 journals publishing at least 6 WCF-in-L2-writing papers (Table 1). Assessing Writing leads with 35 publications, 1255 citations and impact factor 4.2; Journal of Second Language Writing follows with 31 articles, 1243 citations and impact factor 5.
 
@@ -65,7 +71,7 @@ Bibliometric ranking of the top 10 journals publishing at least 6 WCF-in-L2-writ
 
 Liu, W. (2025). A bibliometric analysis of written corrective feedback in second language writing. Language Teaching Research Quarterly, 49, 133-150. https://doi.org/10.32038/ltrq.2025.49.07
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Bibliometric ranking of the top 10 institutions with at least 6 WCF-in-L2-writing papers (Table 3). University of Macau leads with 29 publications and University of Auckland follows with 14, which the article reads as gradual global interest.
 

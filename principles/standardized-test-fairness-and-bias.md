@@ -12,7 +12,7 @@ generated:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies, `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (1 review, 1 theoretical), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Whether standardized tests are biased against particular social class, racial, or ethnic groups is a genuinely complicated question, because "bias" itself has multiple distinct technical meanings. Three specific, documented mechanisms are worth separating clearly, since each implies a different fix.

@@ -16,6 +16,8 @@ sources:
     q: 3
     i: 2
     n: 48; n=47 German university students
+    kind: causal
+    rigour: 2
   - id: lively-et-al-2023
     resource: "https://doi.org/10.1177/00938548221093283"
     title: "Lively, C. J., Snook, B., Luther, K., Mccardle, M. I., & House, J. C. (2023). A preliminary exploration of the multimedia principle's applicability for improving comprehension of youth interrogation rights. *Criminal Justice and Behavior, 50*(2), 252–271. [doi:10.1177/00938548221093283](https://doi.org/10.1177/00938548221093283)"
@@ -23,12 +25,14 @@ sources:
     q: 3
     i: 0
     n: 207 adults (Experiment 1); n=193 youth aged 12–17 (Experiment 2)
+    kind: causal
+    rigour: 2
 ---
 
 # Multimedia Principle Improves Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i0`–`i2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i0`–`i2`
 
 Presenting words and corresponding pictures together produces better learning than words alone, because learners can use both verbal and visual channels to build integrated mental representations.
 
@@ -44,7 +48,7 @@ Presenting words and corresponding pictures together produces better learning th
 
 Seufert, T., Magner, U., & von Randow, J. (2025). Cucumber or grapes?—Context effects in multimedia learning. *Frontiers in Psychology, 16*, Article 1480935. [doi:10.3389/fpsyg.2025.1480935](https://doi.org/10.3389/fpsyg.2025.1480935)
 
-`q3 · two independent lab experiments (2×2 between-subjects each), not pre-registered` · `i2 · medium-to-large effect, η²=.09–.14` · `n=48; n=47 German university students`
+`q3 · two independent lab experiments (2×2 between-subjects each), not pre-registered` · `i2 · medium-to-large effect, η²=.09–.14` · `n=48; n=47 German university students` · `causal · r2`
 
 Two experiments (fictitious text about a chocolate factory, ~265 words) randomly assigned university students to read text-only or the same text with an accompanying illustration, then tested recall/application of the content. In Experiment 1 (N=48), the text-with-pictures group scored higher on the learning-outcomes test than the text-only group, F(1,44)=7.12, p=.01, η²=.14. In Experiment 2 (N=47), the effect replicated: F(1,43)=4.25, p<.05, η²=.09. The authors also found the same pattern (pictures beating text-alone) for situational interest and lower extraneous cognitive load, extending the classic learning-outcome finding to those measures.
 
@@ -52,7 +56,7 @@ Two experiments (fictitious text about a chocolate factory, ~265 words) randomly
 
 Lively, C. J., Snook, B., Luther, K., Mccardle, M. I., & House, J. C. (2023). A preliminary exploration of the multimedia principle's applicability for improving comprehension of youth interrogation rights. *Criminal Justice and Behavior, 50*(2), 252–271. [doi:10.1177/00938548221093283](https://doi.org/10.1177/00938548221093283)
 
-`q3 · randomized 2 (Animation) × 2 (Audio) × 2 (Caption) between-subjects experiment, not pre-registered` · `i0 · negligible effect for animation on top of a text/audio channel; d=−0.07 [−0.62, 0.48] (caption alone vs. animation+caption)` · `n=207 adults (Experiment 1); n=193 youth aged 12–17 (Experiment 2)`
+`q3 · randomized 2 (Animation) × 2 (Audio) × 2 (Caption) between-subjects experiment, not pre-registered` · `i0 · negligible effect for animation on top of a text/audio channel; d=−0.07 [−0.62, 0.48] (caption alone vs. animation+caption)` · `n=207 adults (Experiment 1); n=193 youth aged 12–17 (Experiment 2)` · `causal · r2`
 
 Adults (Experiment 1, N=207) and youth (Experiment 2, N=193) were each randomly shown one of eight presentations of youth interrogation rights, crossing whether an animation, an audio narration, and an on-screen caption (text) were present, then answered open-ended recall questions. Any condition that included words (caption and/or audio) produced far higher comprehension than a no-information baseline (d's around 2.0–2.9) or than animation-with-no-words (d=1.39–1.72). But the six word-containing conditions — including caption-only ("words alone") — scored about the same as each other: adding the animation to caption-only text produced no reliable gain (Cohen's d=−0.07, 95% CI [−0.62, 0.48] for Experiment 1; a comparable near-zero difference in Experiment 2). The authors explicitly note this departs from the multimedia principle's usual prediction that dual-channel (words+picture) presentations outperform single-channel ones. The abstract reports that in both experiments the animation-plus-caption presentation produced the highest comprehension; its advantage over caption alone was the small, unreliable difference above.
 

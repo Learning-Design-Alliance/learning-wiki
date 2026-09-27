@@ -16,7 +16,7 @@ sources:
 # Ethnomethodology as 'serious ethnography' for studying interaction in natural settings
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The essay describes Goffman's method of inquiry, "serious ethnography" or ethnomethodology, whose studies "explore the influence of peoples' standpoints (or perspective) on their thought and action in great detail." Ethnomethodologists examine physical and social circumstances, habits, background knowledge, and practical motives. Goffman's goal was to "identify the countless patterns and natural sequences of behavior occurring when persons come into one anothers' immediate presence," making the familiar appear unfamiliar so that real understanding could be determined.

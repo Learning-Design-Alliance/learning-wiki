@@ -15,12 +15,14 @@ sources:
     author: Frank, B. W., and Scherr, R. E.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Coordinating attention between whole-strip length and dot spacing does not disrupt and may stabilize the idea that shorter strips take less time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` When students shifted attention between total strip length and spacing between dots, they saw the same information and maintained their understanding that shorter strips take less time. [→ Frank 2012](#frank-2012)
@@ -31,7 +33,7 @@ sources:
 
 Frank, B. W., and Scherr, R. E. (2012). Interactional processes for stabilizing conceptual coherences in physics. Submitted to PRST-PER. https://journals.aps.org/prper/
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Transcript analysis of the [01:47]–[02:17] exchange in Section 4.A.1, where Kate asks whether to consider total length or the marks. The authors report that "the students maintain their understanding that the shorter strips take less time" during this coordination.
 

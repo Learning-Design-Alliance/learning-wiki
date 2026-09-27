@@ -15,18 +15,22 @@ sources:
     author: Wettersten, Kara B.; Lichtenberg, James W.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: wettersten-1995-2
     resource: "https://eric.ed.gov/?id=ED386668"
     title: "Wettersten, Kara B.; Lichtenberg, James W. (1995). Relationship Formation and Change in Psychotherapy: An Analysis of Cases. https://eric.ed.gov/?id=ED386668"
     author: Wettersten, Kara B.; Lichtenberg, James W.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Therapy relationships do not show a transition from relational incongruence to congruence across sessions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Across seven psychotherapy cases, session-by-session redundancy (congruence) correlations were generally non-significant or in the wrong direction, failing to support the predicted transition from incongruence to congruence. [→ Wettersten 1995](#wettersten-1995)
@@ -37,7 +41,7 @@ sources:
 
 Wettersten, Kara B.; Lichtenberg, James W. (1995). Relationship Formation and Change in Psychotherapy: An Analysis of Cases. https://eric.ed.gov/?id=ED386668
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Analysis of seven actual psychotherapy cases (12 to 20 sessions each), with verbal utterances coded via Stiles' VRM taxonomy and redundancy correlated with session number. The study reports results "failed to support the notion ofa transition from incongruence to congruence across sessions."
 
@@ -47,7 +51,7 @@ Analysis of seven actual psychotherapy cases (12 to 20 sessions each), with verb
 
 Wettersten, Kara B.; Lichtenberg, James W. (1995). Relationship Formation and Change in Psychotherapy: An Analysis of Cases. https://eric.ed.gov/?id=ED386668
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Secondary analysis within the same seven-case study: exceptions on the directiveness/acquiescence dimension for cases 2 and 5, where correlations between session number and response patterning were significant and positive; Table 4 also prints significant negative correlations for other cases.
 

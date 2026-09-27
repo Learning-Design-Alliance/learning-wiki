@@ -17,7 +17,7 @@ sources:
 # Four modes of undergraduate research differ in social capital required, time on task, and mentoring structure
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Undergraduate research falls into four categories: independent study, course-embedded, program-embedded, and summer research experience. Each mode requires a different level of social capital expenditure by the student. Course-embedded research requires little social capital and broadens participation; independent study and summer experiences require significant social capital and reach fewer students. The article notes that "When faculty embed research into a non-research course, little social capital is required. All students enrolled in the course can participate in the research, and thus, this method significantly broadens participation across groups."

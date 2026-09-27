@@ -15,12 +15,14 @@ sources:
     author: Ziller, Robert C.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The triadic alienation pattern combines low self esteem, low social interest, and high self centrality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The alienation syndrome is described as a triadic pattern of low self esteem, low social interest, and high self centrality, produced by a cyclical degenerative process initiated by exclusion from meaningful groups. [→ Ziller 1969](#ziller-1969)
@@ -31,7 +33,7 @@ sources:
 
 Ziller, Robert C. (1969). A Theory of Self Other Orientation and Interpersonal Conflict: A Technical Report. https://eric.ed.gov/?id=ED032608
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The report attributes the triadic pattern and its prior evidence to Ziller (1967), an unpublished manuscript; the present text offers no new data. Exclusion is described as 'a self-fulfilling prophecy' in which exclusion leads to the development of differences justifying the original exclusion.
 

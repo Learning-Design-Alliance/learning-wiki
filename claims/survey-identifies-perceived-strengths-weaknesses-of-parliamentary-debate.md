@@ -15,18 +15,22 @@ sources:
     author: Jensen, Scott
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: jensen-1996-2
     resource: "https://eric.ed.gov/?id=ED421730"
     title: "Jensen, Scott. (1996). Point of Information: Practical and Theoretical Concerns in Parliamentary Debate. https://eric.ed.gov/?id=ED421730"
     author: Jensen, Scott
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Coaches and students perceive distinct strengths and weaknesses of parliamentary debate relative to other formats
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Coaches most frequently listed real world arguments, tests of quick thinking, organization, and humor as strengths, and lack of cross-examination, the judging pool, talent, and sophistry as weaknesses. [→ Jensen 1996 (2)](#jensen-1996-2)
@@ -38,7 +42,7 @@ sources:
 
 Jensen, Scott. (1996). Point of Information: Practical and Theoretical Concerns in Parliamentary Debate. https://eric.ed.gov/?id=ED421730
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 An informal survey administered at a tournament asked coaches and students to list three strengths and three weaknesses of parliamentary debate. The author reports coaches' most frequent answers, noting "real world arguments, tests of quick thinking, organization, and humor" as strengths.
 
@@ -48,7 +52,7 @@ An informal survey administered at a tournament asked coaches and students to li
 
 Jensen, Scott. (1996). Point of Information: Practical and Theoretical Concerns in Parliamentary Debate. https://eric.ed.gov/?id=ED421730
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The same informal tournament survey asked students the strengths/weaknesses question; the author reports student responses differed somewhat from coaches', including "no research, unclear rules, and less respect" among weaknesses.
 

@@ -17,7 +17,7 @@ sources:
 # Neither mental representation nor skill can be directly taught; teachers provide experiences and act as informed consumers of instructional research
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study, `q1` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The article concludes that teachers and materials cannot directly intervene in the development of either mental representation or skill; instead, both evolve based on learners' experiences in and out of classrooms. For skill, this means "teachers and materials can only provide opportunities for their development". Understanding how acquisition works lets teachers and curriculum developers evaluate instructional trends rather than assume any method directly induces learning.

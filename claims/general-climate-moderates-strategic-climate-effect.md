@@ -15,18 +15,22 @@ sources:
     author: "Zhang, Y., Cook, C., Fallon, L., Corbin, C., Ehrhart, M., Brown, E., Locke, J., & Lyon, A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
   - id: zhang-2023-2
     resource: "https://doi.org/10.1007/s10488-022-01248-5"
     title: "Zhang, Y., Cook, C., Fallon, L., Corbin, C., Ehrhart, M., Brown, E., Locke, J., & Lyon, A. (2023). The Interaction Between General and Strategic Leadership and Climate on Their Multilevel Associations with Implementer Attitudes Toward Universal Prevention Programs for Youth Mental Health: A Cross-Sectional Study. Administration and Policy in Mental Health and Mental Health Services Research. https://doi.org/10.1007/s10488-022-01248-5"
     author: "Zhang, Y., Cook, C., Fallon, L., Corbin, C., Ehrhart, M., Brown, E., Locke, J., & Lyon, A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # At the organizational level, general climate negatively moderates the positive effect of strategic climate on implementers' perceptions of EBP appeal and divergence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` School-level general climate negatively moderated the effect of strategic climate on Appeal (b = −0.59) and Divergence (b = −0.41), and the interaction significantly improved model fit (change in −2 log-likelihood = 12.50). [→ Zhang 2023](#zhang-2023)
@@ -38,7 +42,7 @@ sources:
 
 Zhang, Y., Cook, C., Fallon, L., Corbin, C., Ehrhart, M., Brown, E., Locke, J., & Lyon, A. (2023). The Interaction Between General and Strategic Leadership and Climate on Their Multilevel Associations with Implementer Attitudes Toward Universal Prevention Programs for Youth Mental Health: A Cross-Sectional Study. Administration and Policy in Mental Health and Mental Health Services Research. https://doi.org/10.1007/s10488-022-01248-5
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Interaction terms entered into the level-2 equations of the climate MLMs on 441 implementers in 52 schools; the results report that "general climate negatively moderated the effect of strategic climate on Appeal (b = − 0.59) and Divergence (b = − 0.41)", with a deviance change of 12.50 indicating improved fit.
 
@@ -48,7 +52,7 @@ Interaction terms entered into the level-2 equations of the climate MLMs on 441 
 
 Zhang, Y., Cook, C., Fallon, L., Corbin, C., Ehrhart, M., Brown, E., Locke, J., & Lyon, A. (2023). The Interaction Between General and Strategic Leadership and Climate on Their Multilevel Associations with Implementer Attitudes Toward Universal Prevention Programs for Youth Mental Health: A Cross-Sectional Study. Administration and Policy in Mental Health and Mental Health Services Research. https://doi.org/10.1007/s10488-022-01248-5
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Simple slope plots (Figs. 2, 3) with estimated marginal means depicted the interaction; in schools with "moderate or low levels of general climate, higher levels of strategic climate showed a strong positive association with higher levels of Appeal and Divergence", while the association was much weaker at high general climate.
 

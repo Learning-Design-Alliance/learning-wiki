@@ -15,12 +15,14 @@ sources:
     author: Welna, Jerzy
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Morphological and derivational interference in Polish-English deceptive pairs is unidirectional, operating only in translation from Polish into English
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` False word-formations such as *antisanitary, *artism, and *exmission arise when Polish word-formation rules are applied to English, but rendering English words like spasmodic or non-political poses no problem for Polish speakers. [→ Welna 1976](#welna-1976)
@@ -31,7 +33,7 @@ sources:
 
 Welna, Jerzy. (1976). Deceptive Words: A Study in the Contrastive Lexicon of Polish and English. https://eric.ed.gov/?id=ED127783
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The author's contrastive analysis of suffix and prefix interference (sections 1.4-1.5), an analytical argument rather than an error-count study. It reports that errors "are due to application of the P wordformation rules" in English, citing Jackendoff (1975) on the idiosyncrasy of word formation.
 

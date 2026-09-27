@@ -16,7 +16,7 @@ sources:
 # Self-Other Orientation Theory of interpersonal conflict
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study, `q1` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The article proposes that conflict arises from the interrelationship of the self and significant others: 'A condition of conflict exists when the relationship between self and Other is such that the theory of behavior of the self is perceived as incompatible with the theory of behavior of the Other and the continuity of the self system is threatened.' The self system comprises self esteem, social interest, and self centrality, and resolution involves restructuring these self-other perceptions. The framework treats conflict as a necessary process of adaptation, renewed through exchanges with others holding different theories of behavior.

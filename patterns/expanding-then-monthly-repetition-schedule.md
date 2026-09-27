@@ -17,7 +17,7 @@ sources:
 # Expanding then maintenance repetition schedule for audio vocabulary lessons
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article prescribes a two-phase repetition schedule for audio vocabulary lessons. In the first year, repetitions of each lesson are distributed in an expanding pattern: "seven repetitions within the first week; four repetitions in the second week, three in the third, two in the fourth week, and the rest – at any interval in time". In the second year, students repeat the target vocabulary once a month for four months to sustain long-term retention of words learned the previous year.

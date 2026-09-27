@@ -15,12 +15,14 @@ sources:
     author: Fukuda, A.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The L group scored significantly lower than the H group on self-efficacy (t(95) = -2.84) and intrinsic goal orientation (t(95) = -2.69), and significantly higher on test anxiety (t(95) = 2.48). [→ Fukuda 2018](#fukuda-2018)
@@ -32,7 +34,7 @@ sources:
 
 Fukuda, A. (2018). The Japanese EFL Learners' Self-Regulated Language Learning and Proficiency. Journal of Pan-Pacific Association of Applied Linguistics, 22(1), 65-87. https://doi.org/10.25256/PAAL.22.1.4
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Independent-samples t-tests comparing 67 lower-proficiency (L) and 30 higher-proficiency (H) Japanese EFL students, grouped by TOEIC placement levels, on MSLQ motivational factors. The study reports "significant differences between the L and H groups" for SE, IGO, and TANX; EGO and CLB were non-significant.
 

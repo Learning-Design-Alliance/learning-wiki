@@ -15,12 +15,14 @@ sources:
     author: Relations between cognitive resources and two types of germane load for learning
     q: 2
     i: 0
+    kind: causal
+    rigour: 1
 ---
 
 # Test-score increases occurred only for identical and near-transfer problems; no increases were found for far-transfer problems in any of the three conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · causal `r1` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i?` No condition showed a significant increase in the far-transfer problem category. [→ Relations between cognitive resources and two types of germane load for learning 2015](#relations-between-cognitive-resources-and-two-types-of-germane-load-for-learning-2015)
@@ -31,7 +33,7 @@ sources:
 
 Relations between cognitive resources and two types of germane load for learning. (2015). https://scholar.google.com/scholar?q=Relations+between+cognitive+resources+and+two+types+of+germane+load+for+learning
 
-`q2 · i0`
+`q2 · i0` · `causal · r1`
 
 A null result across all three conditions of the Reversi experiment: "In the far transfer problem category, no increases were found in all three conditions (t(20) < 1, n.s."; equivalence was not tested.
 

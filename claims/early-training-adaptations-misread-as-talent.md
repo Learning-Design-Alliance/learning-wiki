@@ -15,12 +15,14 @@ sources:
     author: "Ericsson, K. A., Nandagopal, K., & Roring, R. W."
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Early training produces neural and physiological adaptations that can be misattributed to innate talent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Children aged 3–5 can acquire perfect pitch, and cortical mapping for string players' fingers correlates with training onset, explaining brain differences as training effects. [→ Ericsson 2005](#ericsson-2005)
@@ -31,7 +33,7 @@ sources:
 
 Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?id=EJ746057
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Review of neuroimaging and developmental findings (Elbert et al., 1995; Schlaug et al., 1995, as cited). The article reports "normal children between 3 and 5 years of age can acquire perfect pitch" and that early training shapes neurological development.
 

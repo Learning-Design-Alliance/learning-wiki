@@ -17,7 +17,7 @@ sources:
 # Three pedagogical design considerations for physics simulations: consistent world view, multiple representations, and game for concept testing
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article enumerates three design insights that emerged as pushing the simulation's usefulness: (1) a simulation world view consistent with pen-and-paper representation, with velocity vectors pointing right even for negative values and clear color association for the carts; (2) a data table, scientific graphs and symbolic mathematical representations for ease of data collection and multiple representational visualizations, with symbolic hints showing "????" before collision to elicit predictive thinking; and (3) a game for simple concept testing with input fields and feedback text. The author states these insights "emerged as being able to push the effectiveness of the tool to be even more useful to students".

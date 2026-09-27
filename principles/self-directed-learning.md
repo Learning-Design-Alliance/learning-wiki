@@ -17,7 +17,7 @@ sources:
 # Self-Directed Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 unmarked) · 5 studies, `q2`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 unmarked) · 5 studies (2 review, 2 theoretical, 1 causal), `q2`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Self-directed learning is the principle of helping learners plan, monitor, and manage important parts of their own learning process.

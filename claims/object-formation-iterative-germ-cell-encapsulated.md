@@ -15,18 +15,22 @@ sources:
     author: "Rantavuori, J., Engeström, Y., & Lipponen, L."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
   - id: rantavuori-2016-2
     resource: "http://dx.doi.org/10.14786/flr.v4i3.174"
     title: "Rantavuori, J., Engeström, Y., & Lipponen, L. (2016). Learning actions, objects and types of interaction: A methodological analysis of expansive learning among pre-service teachers. Frontline Learning Research. http://dx.doi.org/10.14786/flr.v4i3.174"
     author: "Rantavuori, J., Engeström, Y., & Lipponen, L."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Object formation in the meeting was iterative and non-linear: the proposed germ cell of 'making a choice' was encapsulated, not elaborated and expanded
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Although the succession of actions looked like a near-perfect mini-cycle, the newly articulated object of making a choice was not mentioned again after its examination; examining and implementing referred to the transitional object of the theater play. [→ Rantavuori 2016](#rantavuori-2016)
@@ -38,7 +42,7 @@ sources:
 
 Rantavuori, J., Engeström, Y., & Lipponen, L. (2016). Learning actions, objects and types of interaction: A methodological analysis of expansive learning among pre-service teachers. Frontline Learning Research. http://dx.doi.org/10.14786/flr.v4i3.174
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r?`
 
 Object-formation analysis of the meeting (Section 7, Figure 3). After Ann's modeling of the 'making a choice' principle, the article reports the process "circled back to the transitional object" of the theater play, so "the proposed germ cell was encapsulated, not elaborated on and expanded".
 
@@ -48,7 +52,7 @@ Object-formation analysis of the meeting (Section 7, Figure 3). After Ann's mode
 
 Rantavuori, J., Engeström, Y., & Lipponen, L. (2016). Learning actions, objects and types of interaction: A methodological analysis of expansive learning among pre-service teachers. Frontline Learning Research. http://dx.doi.org/10.14786/flr.v4i3.174
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r?`
 
 The article's summary of Figure 3 states the steps "testify to the iterative and non-linear character of expansive learning", noting that object formation does not follow the ideal-typical phases and sometimes the process can collapse and turn backwards.
 

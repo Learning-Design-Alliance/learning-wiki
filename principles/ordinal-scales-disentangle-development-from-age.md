@@ -17,7 +17,7 @@ sources:
 # Assess early development with sequential ordinal scales that disentangle development from age
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study, `q2` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 1 study (1 review), `q2` · 1 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 Hunt recommends sequential ordinal scales, inspired by Piaget's observations, as an alternative to norm-referenced mental-age and IQ metrics. Because such scales "mak[e] no assumption of automatic developmental progress with time," they disentangle psychological development from age, permitting age to be used as a dependent variable for assessing the development-fostering impact of environmental conditions. Hunt presents them as tools for investigating plasticity, the experiential bases of each developmental line, and cognitive-affective relations.

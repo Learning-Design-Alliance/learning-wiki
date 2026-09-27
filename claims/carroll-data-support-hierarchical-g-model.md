@@ -15,12 +15,14 @@ sources:
     author: Peariso, J. F.
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # A large psychometric data review supports a hierarchical model of intelligence headed by g, which MI theory does not fit
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports, citing Willingham, that John Carroll's massive review of data from 130,000 people supports a hierarchical model in which g heads separate cognitive processes, and that MI theory does not fit this data pattern. [→ Peariso 2008](#peariso-2008)
@@ -31,7 +33,7 @@ sources:
 
 Peariso, J. F. (2008). Multiple Intelligences or Multiply Misleading: The Critic's View of the Multiple Intelligences Theory. Liberty University. https://eric.ed.gov/?id=ED500515
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The review attributes this to Willingham (2004), who describes Carroll's review of six decades of data as supporting the hierarchical view that is today's dominant view among psychometricians. The review reports this second-hand; the underlying study was not read.
 

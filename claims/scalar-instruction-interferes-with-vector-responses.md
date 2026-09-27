@@ -15,12 +15,14 @@ sources:
     author: Clark, J. W., Sayre, E. C., and Franklin, S. V.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Instruction on scalar electric potential produces a pronounced dip in correct vector-based Newton's Third Law responses in E&M
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` E&M response, mostly flat around 66%, drops to 41% in week 4 when instruction shifts from vector-based electric fields to the scalar topic of electric potential. [→ Clark 2010](#clark-2010)
@@ -31,7 +33,7 @@ sources:
 
 Clark, J. W., Sayre, E. C., and Franklin, S. V. (2010). Fluctuations in Student Understanding of Newton's 3rd Law. arXiv preprint. https://arxiv.org/abs/1009.0260
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Between-student response curve for the E&M course (Fig. 4), with the ceiling-effect ball-at-rest question omitted. The week-4 dip coincides with the shift to electric potential and voltage; the authors attribute it to course topic rather than instructor or section variance.
 

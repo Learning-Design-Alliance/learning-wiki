@@ -15,18 +15,22 @@ sources:
     author: "Epstein, Jonathan A., Kans, Jonathan A., & Schuler, Gregory D."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: epstein-1994-2
     resource: "https://eric.ed.gov/?id=ED462262"
     title: "Epstein, Jonathan A., Kans, Jonathan A., & Schuler, Gregory D. (1994). WWW Entrez: A Hypertext Retrieval Tool for Molecular Biology. https://eric.ed.gov/?id=ED462262"
     author: "Epstein, Jonathan A., Kans, Jonathan A., & Schuler, Gregory D."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Internet-based Entrez use grew dramatically in 1994 while CD-ROM subscriptions plateaued
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Usage of WWW Entrez and Network Entrez grew dramatically during 1994, while Entrez CD-ROM subscription growth reached a plateau. [→ Epstein 1994](#epstein-1994)
@@ -38,7 +42,7 @@ sources:
 
 Epstein, Jonathan A., Kans, Jonathan A., & Schuler, Gregory D. (1994). WWW Entrez: A Hypertext Retrieval Tool for Molecular Biology. https://eric.ed.gov/?id=ED462262
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Observational usage statistics reported in the Usage section, plotted as hosts/day, users/day, sessions/day, and URLs/day through 1994. The article notes CD-ROM usage cannot be counted, so the three services cannot be compared directly.
 
@@ -48,7 +52,7 @@ Observational usage statistics reported in the Usage section, plotted as hosts/d
 
 Epstein, Jonathan A., Kans, Jonathan A., & Schuler, Gregory D. (1994). WWW Entrez: A Hypertext Retrieval Tool for Molecular Biology. https://eric.ed.gov/?id=ED462262
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 The article reports a "more detailed study" calibrating the two usage metrics, finding "an average Network Entrez session corresponds to roughly eight WWW Entrez URLs", because no exact analogy exists between sessions and URLs.
 

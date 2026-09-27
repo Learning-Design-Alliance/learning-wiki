@@ -15,12 +15,14 @@ sources:
     author: Tuck, Kathy D.; And Others
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Training amount related to role awareness (r=.225, p<.01), but regression showed role awareness was most directly attributable to building-team membership
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` A positive relationship was established between the amount of training and the level of role awareness (r=.225, p<.01). [→ Tuck 1994](#tuck-1994)
@@ -32,7 +34,7 @@ sources:
 
 Tuck, Kathy D.; And Others. (1994). Training for the Special Education Service Delivery Model. Evaluation. District of Columbia Public Schools. https://eric.ed.gov/?id=ED377631
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 Correlational and multiple-regression analyses of the staff survey (Tables 10a and 10b). The report states "a positive relationship was established between the amount of training and the level of role awareness (r=.225, p<.01)", but regression showed team membership (beta=.555) dominated, with training level beta=.116 and 42% total variance accounted for.
 

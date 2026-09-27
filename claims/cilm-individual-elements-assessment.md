@@ -15,12 +15,14 @@ sources:
     author: "Sapliyan, S., Chatwattana, P., & Nilsook, P."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Experts rate the model's individual elements as appropriate at the highest level overall (Mean = 4.65, S.D. = 0.27), with learning achievement output rated High
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Expert ratings of the model's individual elements (input factors, learning process, output, feedback) averaged 4.65 (S.D. = 0.27) at the highest level, though the learning-achievement output item was rated High (Mean = 4.29, S.D. = 1.11). [→ Sapliyan 2023](#sapliyan-2023)
@@ -31,7 +33,7 @@ sources:
 
 Sapliyan, S., Chatwattana, P., & Nilsook, P. (2023). Constructionism Imagineering Learning Model via Metaverse to Enhance Young Innovators. Journal of Education and Learning, 12(4). https://doi.org/10.5539/jel.v12n4p81
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Expert assessment of the model's individual elements on a five-level rating scale. Input-factor items ranged from 4.57 to 5.00, learning-process items from 4.57 to 4.71, and feedback items from 4.57 to 4.71, all Highest; the learning-achievement output item was rated High (Mean = 4.29, S.D. = 1.11). The article states the model "can also be used as a guideline for further development as a constructionism imagineering learning system via metaverse."
 

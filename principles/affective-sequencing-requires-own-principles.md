@@ -17,7 +17,7 @@ sources:
 # Do not simply reuse cognitive and psychomotor sequencing principles when sequencing affective learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Because emotional literacy curricula draw on sequencing strategies beyond those used in cognitive and psychomotor learning, instructional designers should not assume existing sequencing strategies transfer directly to the affective domain. The article concludes "it will not be appropriate, in curriculum design for affective learning, to simply reuse the sequencing principles proper to procedural and cognitive learning," and that designers should seek further guidance from research and practice for emotional development education.

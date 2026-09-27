@@ -12,7 +12,7 @@ generated:
 # Prewriting Activities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies, `q2`–`q3` · 2 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies (4 causal, 2 quant-synthesis, 2 review), `q2`–`q3` · 2 of 8 report an effect size
 
 ## Description
 Prewriting activities are structured tasks completed before drafting — brainstorming, listing, word webs, graphic organizers, outlining, freewriting, and vocabulary activation — that help writers generate, organize, and connect ideas. They reduce the planning burden during composition by externalizing content and structure in advance. Prewriting can be done individually or collaboratively, and is a core component of process approaches to writing instruction.

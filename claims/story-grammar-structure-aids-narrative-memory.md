@@ -15,18 +15,22 @@ sources:
     author: "Armbruster, B. B., & Anderson, T. H."
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: armbruster-1982-2
     resource: "https://eric.ed.gov/?id=ED218595"
     title: "Armbruster, B. B., & Anderson, T. H. (1982). Structures for Explanations in History Textbooks or So What If Governor Stanford Missed the Spike and Hit the Rail? (Technical Report No. 252). https://eric.ed.gov/?id=ED218595"
     author: "Armbruster, B. B., & Anderson, T. H."
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Narrative memory is superior when content follows stereotypical story grammar structure, and goal information is critical to comprehension
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Memory for narratives is superior when content is organized according to the stereotypical story grammar, and altering the structure results in poorer memory and lower comprehensibility ratings. [→ Armbruster 1982](#armbruster-1982)
@@ -38,7 +42,7 @@ sources:
 
 Armbruster, B. B., & Anderson, T. H. (1982). Structures for Explanations in History Textbooks or So What If Governor Stanford Missed the Spike and Hit the Rail? (Technical Report No. 252). https://eric.ed.gov/?id=ED218595
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The report reviews research using story grammars, citing studies by Mandler and Johnson, Kintsch, Stein, and Thorndyke, and reports that "memory for narratives is sdperior.when the content is organized accordrng to the stereotypical storygrammar"; the reviewed studies are narrated second-hand, not reanalyzed.
 
@@ -48,7 +52,7 @@ The report reviews research using story grammars, citing studies by Mandler and 
 
 Armbruster, B. B., & Anderson, T. H. (1982). Structures for Explanations in History Textbooks or So What If Governor Stanford Missed the Spike and Hit the Rail? (Technical Report No. 252). https://eric.ed.gov/?id=ED218595
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The review attributes to Thorndyke (1977) the conclusion that "both rated comprehensibility and'recall.of stories were a function .of the amount of identifiable plot structure", where plot structure includes the theme or goal, intent and motivation of actions, and a final resolution.
 

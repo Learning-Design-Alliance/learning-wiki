@@ -21,7 +21,7 @@ sources:
 # Scaffolding & Fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 unmarked) · 8 studies, `q3`–`q4` · 0 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 unmarked) · 8 studies (3 causal, 2 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q3`–`q4` · 0 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Scaffolding & Fading is the short-form canonical target for designs that provide temporary support and then reduce it as learner independence grows.

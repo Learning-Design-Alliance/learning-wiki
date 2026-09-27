@@ -15,12 +15,14 @@ sources:
     q: 3
     i: 2
     n: 46 Swedish fifth-graders (36 with complete eye-tracking data), 424-451 feedback instances
+    kind: causal
+    rigour: 2
 ---
 
 # Critical constructive feedback is neglected at multiple, independently measurable processing stages
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=46 Swedish fifth-graders (36 with complete eye-tracking data), 424-451 feedback instances
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium · n=46 Swedish fifth-graders (36 with complete eye-tracking data), 424-451 feedback instances
 
 Using eye-tracking and interaction logs to separate noticing, reading, acting-upon, and progress, only 4.5% of feedback instances in a real classroom digital game survived all four stages; a pointing, gazing pedagogical agent significantly increased noticing and reading (but not acting-upon or progress), while an equivalent arrow cue did not.
 
@@ -41,7 +43,7 @@ Using eye-tracking and interaction logs to separate noticing, reading, acting-up
 
 Tärning, B., Lee, Y. J., Andersson, R., Månsson, K., Gulz, A., & Haake, M. (2020). Assessing the black box of feedback neglect in a digital educational game for elementary school. *Journal of the Learning Sciences, 29*(4-5), 511-549. [https://doi.org/10.1080/10508406.2020.1770092](https://doi.org/10.1080/10508406.2020.1770092)
 
-`q3 · peer-reviewed classroom experiment with eye-tracking validation, within-subjects randomized signaling conditions; not pre-registered` · `i2 · a striking, precisely quantified baseline (4.5% full-pipeline completion) plus statistically significant, moderate behavioral improvements at two of four stages, alongside honestly reported null results at the remaining stages` · `n=46 Swedish fifth-graders (36 with complete eye-tracking data), 424-451 feedback instances`
+`q3 · peer-reviewed classroom experiment with eye-tracking validation, within-subjects randomized signaling conditions; not pre-registered` · `i2 · a striking, precisely quantified baseline (4.5% full-pipeline completion) plus statistically significant, moderate behavioral improvements at two of four stages, alongside honestly reported null results at the remaining stages` · `n=46 Swedish fifth-graders (36 with complete eye-tracking data), 424-451 feedback instances` · `causal · r2`
 
 Forty-six fifth-graders played a digital history game requiring three teaching activities; a teachable agent ("Timy") produced critical constructive feedback whenever the student answered incorrectly, under three randomized signaling conditions (embodied agent gaze/point, animated arrow, no signaling). Eye-tracking (120 Hz, SVM-classified fixation-vs-reading) measured [noticing and reading](../theories/critical-constructive-feedback-processing.md); game interaction logs measured whether students acted on the feedback and whether they subsequently improved. The [pedagogical agent signaling](../elements/pedagogical-agent-signaling.md) design significantly increased noticing and reading but had no measurable effect further downstream, and a non-social arrow cue had no effect at any stage — indicating the benefit depends on social cueing specifically, not mere visual pointing.
 

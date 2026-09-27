@@ -15,18 +15,22 @@ sources:
     author: Philip I. Pavlik, Jr., Luke G. Eglington, and Leigh M. Harrell-Williams
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: philip-i-pavlik-2021-2
     resource: "https://doi.org/10.1109/TLT.2021.3128569"
     title: "Philip I. Pavlik, Jr., Luke G. Eglington, and Leigh M. Harrell-Williams. (2021). Logistic Knowledge Tracing: A Constrained Framework for Learner Modeling. IEEE Transactions on Learning Technologies. https://doi.org/10.1109/TLT.2021.3128569"
     author: Philip I. Pavlik, Jr., Luke G. Eglington, and Leigh M. Harrell-Williams
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Models able to weight performance by recency fit better on the Assistments and KDD datasets, without explicit memory-decay terms being necessary
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the Assistments dataset, R-PFA (model 9) and memory-feature models (models 10-12) were not significantly different from each other but were generally better than other models, suggesting recency weighting was important. [→ Philip I. Pavlik 2021](#philip-i-pavlik-2021)
@@ -38,7 +42,7 @@ sources:
 
 Philip I. Pavlik, Jr., Luke G. Eglington, and Leigh M. Harrell-Williams. (2021). Logistic Knowledge Tracing: A Constrained Framework for Learner Modeling. IEEE Transactions on Learning Technologies. https://doi.org/10.1109/TLT.2021.3128569
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Analysis of the Assistments dataset (580,785 observations from 912 middle school students learning mathematics, 23% retained after filtering to first attempts). The article reports the better models were "generally better than the other models", a pattern suggesting recency weighting was important.
 
@@ -48,7 +52,7 @@ Analysis of the Assistments dataset (580,785 observations from 912 middle school
 
 Philip I. Pavlik, Jr., Luke G. Eglington, and Leigh M. Harrell-Williams. (2021). Logistic Knowledge Tracing: A Constrained Framework for Learner Modeling. IEEE Transactions on Learning Technologies. https://doi.org/10.1109/TLT.2021.3128569
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Analysis of random subsets of the KDD cup 2005/2006 dataset (809,694 observations; 120 of 574 students per run), students learning algebra with the Cognitive Tutor system. The article reports "models 1–3 tended to provide worse ﬁts than more complex models" and recency-weighting features were superior.
 

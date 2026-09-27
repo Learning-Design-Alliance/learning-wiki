@@ -17,7 +17,7 @@ sources:
 # Cross-university collaborations should work toward centralized communication channels, transparent hierarchies, and accessible information systems, anticipating structural silos
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Institutions delivering shared cross-university courses face structural barriers from siloed education decision-making within and between universities, which hinders collaboration, communication, and streamlined decision-making. The article recommends early identification of communication channels and engagement of administrative and education policy representatives. As the authors found, "Structural issues primarily resolved around the significant silos in which teaching or education decision-making is organized."

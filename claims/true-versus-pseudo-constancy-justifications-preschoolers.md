@@ -15,12 +15,14 @@ sources:
     author: MacKain, Sally Joy
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Preschoolers' justifications split between true-constancy and pseudo-constant explanations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Four of six 4-year-olds and one 3-year-old gave true-constancy justifications; the rest gave pseudo-constant explanations or no answer. [→ MacKain 1987](#mackain-1987)
@@ -31,7 +33,7 @@ sources:
 
 MacKain, Sally Joy. (1987). Gender Constancy: A Realistic Approach. https://eric.ed.gov/?id=ED286583
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Analysis of responses to the "why" items (7, 9, 11) assessing pseudo versus true constancy. True-constant examples quoted in the article include "Girls stay to be girls andboys stay to be boys"; pseudo-constant examples cite cues like long hair.
 

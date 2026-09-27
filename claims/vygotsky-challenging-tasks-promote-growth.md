@@ -15,12 +15,14 @@ sources:
     author: Costley, K. C.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Challenging tasks within the child's capability promote maximum cognitive growth, per the account presented
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The article asserts, quoting Ormrod, that challenges rather than easy successes promote cognitive development, and that tasks must remain possible with assistance to be beneficial. [→ Costley 2012](#costley-2012)
@@ -31,7 +33,7 @@ sources:
 
 Costley, K. C. (2012). An Overview of the Life, Central Concepts, Including Classroom Applications of Lev Vygotsky. https://eric.ed.gov/?id=ED529565
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 This is the article's exposition of Vygotsky's seventh and eighth central concepts, attributed to Ormrod's Human Learning textbook. The article offers no empirical study of its own for this proposition; it is reported as Vygotsky's position on which tasks promote maximum cognitive growth.
 

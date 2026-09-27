@@ -15,12 +15,14 @@ sources:
     author: "Stojakovic, Z., & Christian, C."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Parents supported having a single-gender option available but were less supportive when choosing it for their own child
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Parents gave moderate support for having a single-gender middle school option available, but were less supportive when the question concerned their own child's attendance. [→ Stojakovic 2015](#stojakovic-2015)
@@ -31,7 +33,7 @@ sources:
 
 Stojakovic, Z., & Christian, C. (2015). Maps of Pearce and Garcia Middle School Attendance Zones Fall 2012 Telephone Survey. DRE Publication 14.11 MB. https://www.austinisd.org/dre
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 The report's conclusions contrast general support for the availability of single-gender middle schools with support for enrolling one's own child, as mapped on the page 4 map. The authors state parents "gave moderate support for having the option available" yet "when it came to their own child, they were less supportive." No percentages or statistics are printed in the text.
 

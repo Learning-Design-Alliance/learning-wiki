@@ -15,12 +15,14 @@ sources:
     author: "Dozier, V., & Molina, S. C."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # The review reports that AI detection tools disproportionately flag multilingual writers, which the authors frame as digital structural violence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The article reports, citing Liang et al. (2023), that AI detection tools disproportionately flag multilingual writers, and the authors interpret reliance on such tools as a form of digital structural violence against multilingual and neurodiverse students. [→ Dozier 2026](#dozier-2026)
@@ -31,7 +33,7 @@ sources:
 
 Dozier, V., & Molina, S. C. (2026). Leading From the Precipice: How Academic Deans Are Navigating Artificial Intelligence in Higher Education. New Directions for Student Leadership. https://doi.org/10.1002/yd.70077
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 This is a second-hand finding reported in the article's discussion of weaponization, attributed by the review to Liang et al. (2023); the article's own design did not test detection tools. The authors frame the practice as punishing students for "restricted linguistic diversity."
 

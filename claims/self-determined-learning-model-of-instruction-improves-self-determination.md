@@ -15,12 +15,14 @@ sources:
     q: 3
     i: 1
     n: 312 high school students with intellectual or learning disabilities, 20 school districts
+    kind: causal
+    rigour: 2
 ---
 
 # Self Determined Learning Model Of Instruction Improves Self Determination
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small · n=312 high school students with intellectual or learning disabilities, 20 school districts
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small · n=312 high school students with intellectual or learning disabilities, 20 school districts
 
 The Self-Determined Learning Model of Instruction (SDLMI) is a teacher-implemented instructional model in which students set education or transition goals, construct action plans to attain them, and self-evaluate progress — with the intended outcome of enhanced self-determination.
 
@@ -34,7 +36,7 @@ The Self-Determined Learning Model of Instruction (SDLMI) is a teacher-implement
 
 Wehmeyer, M. L., Shogren, K. A., Palmer, S. B., Williams-Diehm, K. L., Little, T. D., & Boulton, A. (2012). The Impact of the Self-Determined Learning Model of Instruction on Student Self-Determination. *Exceptional Children, 78*(2), 135–153. [doi:10.1177/001440291207800201](https://doi.org/10.1177/001440291207800201)
 
-`q3 · group-randomized (cluster), modified equivalent control group trial` · `i1 · small effect, between-group d=0.23 (SDS, final time point); within-group d=0.31 (AIR) and d=0.24 (SDS)` · `n=312 high school students with intellectual or learning disabilities, 20 school districts`
+`q3 · group-randomized (cluster), modified equivalent control group trial` · `i1 · small effect, between-group d=0.23 (SDS, final time point); within-group d=0.31 (AIR) and d=0.24 (SDS)` · `n=312 high school students with intellectual or learning disabilities, 20 school districts` · `causal · r2`
 
 A group-randomized (cluster), modified equivalent control-group study assigned 312 high school students with cognitive disabilities across 20 districts in three states to an SDLMI treatment group or a delayed-treatment control group, tracking self-determination with the AIR Self-Determination Scale and The Arc's Self-Determination Scale (SDS) across three occasions. The treatment group showed significant within-group increases in latent self-determination on both scales (d = .31 AIR, d = .24 SDS) from baseline to the end of Year 2, while the control group (not yet receiving the intervention) showed no significant change. Direct between-group comparisons at the final time point were small in magnitude (d = .14 AIR, d = .23 SDS) and the authors report these are not statistically significant, which they attribute partly to small cluster sample sizes and to the control group's own gain after it later received the intervention.
 

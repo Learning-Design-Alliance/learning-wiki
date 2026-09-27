@@ -15,12 +15,14 @@ sources:
     author: Tennis, J.T.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Boydens and van Hooland's three-strata model of change recommends matching database update rhythm to layered timescales
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Databases should match the rhythm of their updates to layered timescales of change, using partial or preliminary and less formal categories. [→ Tennis 2013](#tennis-2013)
@@ -31,7 +33,7 @@ sources:
 
 Tennis, J.T. (2013). Metaphors of time and installed knowledge organization systems: Ouroboros, Architectonics, or Lachesis? Information Research, 18(3) paper C38. http://InformationR.net/ir/18-3/colis/paperC38.html
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 The review reports, citing Boydens and van Hooland (2011), a three-strata metaphor (long-, medium-, short-term change) drawn from Braudel and applied to databases such as social security databases. The review notes their design requirements create partial or preliminary and less formal categories.
 

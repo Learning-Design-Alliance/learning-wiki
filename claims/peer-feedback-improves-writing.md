@@ -16,12 +16,14 @@ sources:
     q: 4
     i: 3
     n: 24 studies
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Peer Feedback Improves Writing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i3` large · n=24 studies
+> **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i3` large · n=24 studies
 
 Structured peer feedback on writing improves the quality of subsequent drafts and revisions, and engaging students as reviewers of others' writing can also strengthen their own writing. The claim covers both directions of the exchange — receiving feedback and giving it — and applies to structured peer review arrangements rather than informal comment exchange.
 
@@ -35,7 +37,7 @@ Structured peer feedback on writing improves the quality of subsequent drafts an
 
 Huisman, B., Saab, N., van den Broek, P., & van Driel, J. (2019). The impact of formative peer feedback on higher education students’ academic writing: a Meta-Analysis. *Assessment & Evaluation in Higher Education, 44*(6), 863–880. [doi:10.1080/02602938.2018.1545896](https://doi.org/10.1080/02602938.2018.1545896)
 
-`q4 · meta-analysis (24 studies)` · `i3 · large effect vs. no-feedback control, g=0.91` · `n=24 studies`
+`q4 · meta-analysis (24 studies)` · `i3 · large effect vs. no-feedback control, g=0.91` · `n=24 studies` · `quant-synthesis · r?`
 
 This meta-analysis synthesized 24 quantitative studies of higher-education students' academic writing performance after engaging in structured peer feedback. Students who gave and/or received peer feedback showed significantly larger writing improvements than students in no-feedback control conditions (g = 0.91, 95% CI [0.41, 1.42] — a large effect) and than students who only self-assessed their own writing (g = 0.33, 95% CI [0.01, 0.64] — a small-to-moderate but reliable effect). Peer feedback and teacher feedback produced similar-sized improvements (g = 0.46), but this comparison's confidence interval crossed zero ([-0.44, 1.36]), so peer feedback cannot be said to outperform or reliably match teacher feedback from this analysis alone. The nature of the peer feedback (e.g., its content and delivery) significantly moderated the size of the effect, while the number of peers a student engaged with did not moderate it significantly. The authors also note that well-controlled primary studies in this area are still scarce, which widens the confidence intervals above.
 

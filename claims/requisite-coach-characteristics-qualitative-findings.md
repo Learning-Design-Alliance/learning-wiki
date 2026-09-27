@@ -15,18 +15,22 @@ sources:
     author: "White, A. S., Howell Smith, M., Kunz, G. M., & Nugent, G. C."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: white-2015-2
     resource: "https://r2ed.unl.edu/resources_workingpapers.shtml"
     title: "White, A. S., Howell Smith, M., Kunz, G. M., & Nugent, G. C. (2015). Active ingredients of instructional coaching: Developing a conceptual framework (R2Ed Working Paper No. 2015-3). https://r2ed.unl.edu/resources_workingpapers.shtml"
     author: "White, A. S., Howell Smith, M., Kunz, G. M., & Nugent, G. C."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Effective coaches require content expertise, classroom experience, technology proficiency, flexible scheduling, partnership orientation, and interpersonal skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Coaches need command of the coached content area plus classroom experience; teachers emphasized classroom experience over content knowledge as the source of a coach's credibility. [→ White 2015](#white-2015)
@@ -38,7 +42,7 @@ sources:
 
 White, A. S., Howell Smith, M., Kunz, G. M., & Nugent, G. C. (2015). Active ingredients of instructional coaching: Developing a conceptual framework (R2Ed Working Paper No. 2015-3). https://r2ed.unl.edu/resources_workingpapers.shtml
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Findings section of the qualitative focus group study: teachers tied coach credibility to classroom experience, saying it helped coaches "relate to what each person was dealing with"; coaches believed 5-8 years of teaching experience would suffice.
 
@@ -48,7 +52,7 @@ Findings section of the qualitative focus group study: teachers tied coach credi
 
 White, A. S., Howell Smith, M., Kunz, G. M., & Nugent, G. C. (2015). Active ingredients of instructional coaching: Developing a conceptual framework (R2Ed Working Paper No. 2015-3). https://r2ed.unl.edu/resources_workingpapers.shtml
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Findings section: rural teachers held sessions at 6:00 am or late evening around other commitments, and flexibility made them feel their coach "cared about you as a person, too." Coaches planned long term but stayed flexible short term.
 

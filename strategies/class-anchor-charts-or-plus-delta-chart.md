@@ -12,7 +12,7 @@ generated:
 # Class Anchor Charts or Plus/Delta Chart
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 7 studies, `q2`–`q4` · 2 of 7 report an effect size
+> **Evidence** · 4 claims (4 for) · 7 studies (3 quant-synthesis, 1 causal, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 After a formative assessment or test, the class discusses which problems caused concern and why. Students articulate the processes they used to attempt solutions, compare approaches, and the teacher records the agreed insights on a persistent visual artifact — an *anchor chart* (a reference of strategies and conventions) or a *plus/delta chart* (what worked "+" and what to change "Δ"). The chart remains posted as a shared reference for subsequent work.

@@ -15,12 +15,14 @@ sources:
     author: Thomas, Mollie B.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # IAR and CDR factor scores intercorrelate too weakly to confirm the two instruments measure the same locus of control construct
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Of 100 possible intercorrelations of IAR and CDR factor scores, only thirteen were significant at the .05 level, leading the author to question whether the instruments measure the same construct. [→ Thomas 1975](#thomas-1975)
@@ -31,7 +33,7 @@ sources:
 
 Thomas, Mollie B. (1975). Underlying Constructs of Locus of Control of Reinforcement. https://eric.ed.gov/?id=ED108039
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Correlational analysis of factor scores from 188 ninth-graders (17% black, 83% white; 54% males, 46% females) in an Illinois junior high school. The author reports "thirteen of a possible 100 intercorrelations" significant, concluding the low correlations "question whether or not the two instruments are in fact measuring the same construct."
 

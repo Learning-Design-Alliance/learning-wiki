@@ -15,12 +15,14 @@ sources:
     author: Benedetti R., Mariotti E., Montalbano V., Porri A.
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Student oral presentations of laboratory results became the central activity stimulating active and cooperative learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The oral talks in which students share laboratory results are stressed as the central part of the school and evolved from a practical necessity into the activity that stimulates students to be active and cooperative. [→ Benedetti R. 2011](#benedetti-r-2011)
@@ -31,7 +33,7 @@ sources:
 
 Benedetti R., Mariotti E., Montalbano V., Porri A. (2011). Active and cooperative learning paths in the Pigelleto's Summer School of Physics. FFP12, Udine. https://www.sif.it
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 Program-description section of a conference paper reporting the authors' experience since 2006. Students choose the form and means of communication, may talk individually or delegate a speaker, and a brief discussion follows. The authors state the communications "became the central activity"; no outcome data are reported.
 

@@ -15,18 +15,22 @@ sources:
     author: Eylon, Bat-Sheva; Reif, F.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: eylon-1979-2
     resource: "https://eric.ed.gov/?id=ED171804"
     title: "Eylon, Bat-Sheva; Reif, F. (1979). Effects of Internal Knowledge Organization on Task Performance. https://eric.ed.gov/?id=ED171804"
     author: Eylon, Bat-Sheva; Reif, F.
     q: 2
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3` · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`–`q3` · `i2` medium
 
 ## Subclaims
 `q3 i?` Among low-ability subjects in Experiment 1 there was no significant difference between any treatment means; among medium-ability subjects the H treatment significantly exceeded the combined S1 and S2 mean. [→ Eylon 1979](#eylon-1979)
@@ -38,7 +42,7 @@ sources:
 
 Eylon, Bat-Sheva; Reif, F. (1979). Effects of Internal Knowledge Organization on Task Performance. https://eric.ed.gov/?id=ED171804
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 1 Scheffe a-posteriori contrasts on complex-task scores by ability block: high-ability H and S2 subjects did not differ but both exceeded S1 (p<0.01); medium-ability H subjects exceeded the combined S1/S2 mean (p<0.01); low-ability subjects showed no differences. The two-way ANOVA also showed a significant ability effect (p<0.01).
 
@@ -48,7 +52,7 @@ Experiment 1 Scheffe a-posteriori contrasts on complex-task scores by ability bl
 
 Eylon, Bat-Sheva; Reif, F. (1979). Effects of Internal Knowledge Organization on Task Performance. https://eric.ed.gov/?id=ED171804
 
-`q2 · i2`
+`q2 · i2` · `causal · r1`
 
 Experiment 3 correlational observation: the two subjects whose retrieval paths could not be mapped onto their treatment organization were the two of lowest ability, and recall proportions rose with prior physics-course performance.
 

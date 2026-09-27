@@ -15,12 +15,14 @@ sources:
     author: "Comprehensive Early Literacy Policy: Fundamental Principles"
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # Retention under Mississippi's test-based promotion policy led to substantial and sustained 6th-grade ELA gains for retained students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Students retained under Mississippi's policy had substantial and sustained literacy gains in ELA scores by 6th grade compared to peers promoted to 4th grade. [→ Comprehensive Early Literacy Policy: Fundamental Principles 2024](#comprehensive-early-literacy-policy-fundamental-principles-2024)
@@ -31,7 +33,7 @@ sources:
 
 Comprehensive Early Literacy Policy: Fundamental Principles. (2024). ExcelinEd Policy Toolkit. https://www.excelined.org
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r1`
 
 The toolkit reports key findings from Mumma and Winters (2023) on Mississippi's test-based promotion policy for the 2014–15 3rd-grade cohort, stating retained students showed "substantial and sustained literacy gains in their ELA scores" versus promoted peers.
 

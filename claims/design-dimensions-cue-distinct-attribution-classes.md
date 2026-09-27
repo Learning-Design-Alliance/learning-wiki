@@ -15,12 +15,14 @@ sources:
     author: "Phillips, E. K., & de Visser, E. J."
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Different humanlike design dimensions cue distinct classes of anthropomorphism inferences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` People attribute affective, social, and moral minded capacities to robots based on facial features, while attributions about physical interaction are tied to bodily features and manipulators. [→ Phillips 2026](#phillips-2026)
@@ -31,7 +33,7 @@ sources:
 
 Phillips, E. K., & de Visser, E. J. (2026). Humanlikeness as design, anthropomorphism as inference: a conceptual framework for human–robot interaction. Frontiers in Cognition. https://doi.org/10.3389/fcogn.2026.1786256
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The review cites prior empirical work by Zhao et al. (2019) showing that facial features alone cue affective, social, and moral attributions, whereas "bodily features and the presence of manipulators" cue attributions about physical interaction. The review reports this as cited prior work, not its own study.
 

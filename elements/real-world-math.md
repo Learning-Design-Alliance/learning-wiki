@@ -12,7 +12,7 @@ generated:
 # Real-World Math
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 against) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 against) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Real-world math is the element in which mathematical reasoning is embedded in practical or authentic contexts.

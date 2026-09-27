@@ -16,7 +16,7 @@ sources:
 # Semantic network theory of learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 2 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies (2 quant-synthesis, 1 causal), `q3`–`q4` · 2 of 3 report an effect size
 
 ## Description
 Knowledge is represented as semantic networks of nodes and links; learning consists of building new structures by constructing new nodes and interrelating them with existing nodes. The article uses this framework to define structural knowledge as knowledge of how concepts are interrelated, and frames learning as reorganization of the learner's knowledge structure to resemble the expert's, which mapping exercises are meant to induce.

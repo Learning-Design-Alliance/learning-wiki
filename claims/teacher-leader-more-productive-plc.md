@@ -15,12 +15,14 @@ sources:
     author: "Harvey, F., & Teledahl, A."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # PLC with an appointed teacher leader were more productive than groups with no appointed leader
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the reviewed studies, PLC that had a teacher leader were more productive than PLC with no appointed leader, and a teacher leader was recognised as an essential part of the organisation in all studies. [→ Harvey 2022](#harvey-2022)
@@ -31,7 +33,7 @@ sources:
 
 Harvey, F., & Teledahl, A. (2022). Characteristics of Professional Learning Communities in Mathematics: A Systematic Review. Mathematics Teacher Education and Development, 24(1), 72–95. https://eric.ed.gov/?id=EJ1361397
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Takahashi and McDougal (2016), that PLC with no appointed leader were less productive than those with a teacher leader. Teacher leaders' responsibilities included planning and guiding the work, keeping the focus, and deepening discussion.
 

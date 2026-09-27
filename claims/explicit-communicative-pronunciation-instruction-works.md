@@ -15,12 +15,14 @@ sources:
     author: Darcy, I.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Explicit pronunciation instruction with communicative practice yields clear and demonstrable improvement, per the current research consensus
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The article states that the general consensus of pronunciation research is that clear and demonstrable results are obtained when teachers have students pay explicit attention to pronunciation features and dedicate class time to meaningful and communicative practice. [→ Darcy 2018](#darcy-2018)
@@ -31,7 +33,7 @@ sources:
 
 Darcy, I. (2018). Powerful and effective pronunciation instruction: How can we achieve it? The CATESOL Journal, 30(1). http://languageinstinct.blogspot.com/2006/09/what-is-clt.html
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative synthesis of prior studies and meta-analyses (e.g., Lee, Jang, & Plonsky, 2015; Saito, 2012), which the article says confirmed global improvement from instruction sessions lasting only a few weeks, including improved intelligibility and comprehensibility.
 

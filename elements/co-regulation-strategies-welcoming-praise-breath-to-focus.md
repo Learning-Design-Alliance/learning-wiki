@@ -17,7 +17,7 @@ sources:
 # Three co-regulation strategies for classroom facilitation: welcoming, praise, and breath to focus
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The study implemented and tested three classroom strategies drawn from the SARHM project. Welcoming includes sheet, greet, and meet activities for personal connection; praise includes two-part verbal and four-part written praise of specific behavior or effort; and breath to focus teaches deep breathing, where "The facilitator teaches youth to use deep breaths to refocus during transitions or times of intense emotion", with the facilitator authentically modeling the exercise. Three additional strategies (group agreements, Rest & Return, Take Note) were introduced in a January 2023 refresher training but were not evaluated.

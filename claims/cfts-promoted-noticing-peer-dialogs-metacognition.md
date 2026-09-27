@@ -15,12 +15,14 @@ sources:
     author: Barnawi, O. Z.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Review reports that collaborative feedback tasks promoted noticing and peer dialogs enhanced meta-cognitive processing in a university ESL writing class (Riddiford)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In Riddiford's (2006) study with 32 international participants at a New Zealand university, collaborative feedback tasks in ESL writing promoted noticing because students discussed the errors, and peer dialogs enhanced students' meta-cognitive processing. [→ Barnawi 2010](#barnawi-2010)
@@ -31,7 +33,7 @@ sources:
 
 Barnawi, O. Z. (2010). Promoting Noticing Through Collaborative Feedback Tasks in EFL College Writing Classrooms. International Journal of Teaching and Learning in Higher Education, 22(2). https://www.isetl.org/ijtlhe/
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The review reports Riddiford's (2006) study in which 32 international participants at a New Zealand University collaborated to correct each other's errors in weekly essays after the teacher provided indirect feedback by highlighting errors. The review states "peer dialogs enhanced students’ meta-cognitive processing." No effect size is printed.
 

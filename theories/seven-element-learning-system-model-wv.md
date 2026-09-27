@@ -16,7 +16,7 @@ sources:
 # The seven-element learning system model developed in the workshop
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The workshop planning group developed a learning system model as an expansion of the basic input-processes-output with feedback loop model from systems analysis, adapting the instructional model of Kibler, Gegala, Barker, and Miles and concepts from Davis, Alexander, and Yelon's Learning System Design. The report states that "The learning system model consists of the following seven elements: rationale, objectives, preas,sessment, instruction, self7evaluation, evalua-tion, and feedback." At two points in the model the learner decides between alternative courses of action. It was conceived as an innovative practice for the division staff and was expected to generalize to other divisional functions such as budget and conference planning.

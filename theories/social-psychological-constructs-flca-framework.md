@@ -16,7 +16,7 @@ sources:
 # Social-psychological construct framework for Foreign Language Classroom Anxiety
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article grounds its study of Foreign Language Classroom Anxiety in four social-psychological constructs: goal-centred theory (Dreikurs, 1972), motivation as extrinsic and intrinsic forces (Maslow, 1943), self-efficacy as belief in competency to succeed based on performance accomplishments, vicarious experiences, verbal arousal and physiological states (Bandura, 1977), and sociocultural factors (Vygotsky, 1962). It states that "Several social-psychological constructs provided an important theoretical foundation for the study of the phenomenon of FLCA and the research aims of this study." The framework is used to interpret participants' interview and journal accounts across the three research aims.

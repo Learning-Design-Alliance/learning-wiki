@@ -15,12 +15,14 @@ sources:
     author: "Maksum, H., Yuvenda, D. & Purwanto, W."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The TEFA-T model produces significantly higher learning achievement than teacher-based instruction in automotive vocational courses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Experimental-class students taught with TEFA-T scored significantly higher on post-test learning achievement than control-class students taught with teacher-based instruction (Sig. 2-tailed 0.000 < 0.05). [→ Maksum 2022](#maksum-2022)
@@ -31,7 +33,7 @@ sources:
 
 Maksum, H., Yuvenda, D. & Purwanto, W. (2022). Improvement of metacognitive and critical thinking skills through development of the a 'Teaching Factory Based on Troubleshooting' (TEFA-T) Model in automotive vocational learning. Journal of Turkish Science Education, 19(3), 1015-1036. https://doi.org/10.36681/tused.2022.161
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Quasi-experimental non-equivalent control group design over 10 working weeks with 32 students per group; t-test of post-test scores gave Sig. (2-tailed) 0.000, described as "a significant difference between the posttest value less than 0.05". Post-test means were 87.733 (experimental) and 75.8667 (control).
 

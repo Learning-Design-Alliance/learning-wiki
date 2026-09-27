@@ -13,12 +13,14 @@ sources:
     title: pd-finding
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # ePortfolio produced more powerful outcomes when faculty and staff received extended intensive professional development than brief training or none
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Findings at multiple universities demonstrated more powerful ePortfolio outcomes when faculty and staff participated in extended intensive professional development than when they engaged in brief training programs or no professional development. [→ pd-finding](#pd-finding)
@@ -29,7 +31,7 @@ sources:
 
 Kahn, S., Freeman, T., & Powell, A. A. (2021, November). IUPUI's HIP taxonomy for ePortfolio: A tool for development, implementation, and scaling (Occasional Paper No. 57). Urbana, IL: University of Illinois and Indiana University, National Institute for Learning Outcomes Assessment (NILOA). https://eric.ed.gov/?id=ED619086
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 The paper reports this as a cross-institutional pattern, citing Getman-Eraso & Culkin (2018) as an example, congruent with the IUPUI ePDP pilot's non-sustained results. The comparison names three conditions (extended intensive PD, brief training, no PD); no effect sizes are printed.
 

@@ -15,12 +15,14 @@ sources:
     author: Osborne, John W.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Increased exposure time did not significantly facilitate primacy (hypothesis 5 not supported)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Collapsing over arousal conditions, increased exposure time almost doubled the primacy-over-recency superiority (5.6% to 11.0%), but this was not statistically significant. [→ Osborne 1974](#osborne-1974)
@@ -31,7 +33,7 @@ sources:
 
 Osborne, John W. (1974). Free Recall of Differentially Arousing Words. Paper presented at the Annual Meeting of the American Educational Research Association. https://eric.ed.gov/?id=ED088021
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 A secondary analysis collapsed arousal conditions over exposure times. "The collapsing of arousal conditions over exposure times showed that an increase in exposure time almostdoubled the superiority of vimacy over recency (5.6%, 11.0%)." However, the finding was not statistically significant.
 

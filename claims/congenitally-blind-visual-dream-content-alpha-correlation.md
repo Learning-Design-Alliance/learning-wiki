@@ -15,18 +15,22 @@ sources:
     author: Bértolo, H.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: bértolo-2005-2
     resource: "https://www.uv.es/psicologica"
     title: "Bértolo, H. (2005). Visual imagery without visual perception? Psicológica, 26, 173-188. https://www.uv.es/psicologica"
     author: Bértolo, H.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Congenitally blind subjects show visual dream content with a negative correlation between Visual Activity Index and EEG alpha power
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In congenitally blind and sighted subjects alike, dream Visual Activity Index is negatively correlated with EEG alpha power: as visual activation increases, alpha power decreases. [→ Bértolo 2005](#bertolo-2005)
@@ -38,7 +42,7 @@ sources:
 
 Bértolo, H. (2005). Visual imagery without visual perception? Psicológica, 26, 173-188. https://www.uv.es/psicologica
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Home polysomnographic study with serial awakenings for dream recall in 10 congenitally blind and 9 sighted subjects over two consecutive nights; dream reports coded with Hall & Van de Castle definitions. The study found "a negative correlation between the VAI and the alpha power" in both groups; no effect size is printed.
 
@@ -48,7 +52,7 @@ Home polysomnographic study with serial awakenings for dream recall in 10 congen
 
 Bértolo, H. (2005). Visual imagery without visual perception? Psicológica, 26, 173-188. https://www.uv.es/psicologica
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Graphical representation task in the same PSG study: subjects drew one of their dream scenes (sighted with eyes closed) and drawings were qualitatively analysed for complexity and content. The article reports that "No statistical differences were found between the groups".
 

@@ -16,7 +16,7 @@ sources:
 # Taxonomy development for technology: a four-step research approach to visualize the totality of technology
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report proposes that taxonomies must be developed for the technologies, since other disciplines have developed them but this has never been done in the technologies, leaving contemporary efforts fragmented. It outlines a logical approach: develop a taxonomy for the three areas including both technical and socio-cultural elements; determine relationships between all areas and elements to produce a Gestalt of technology; determine the cultural universals necessary for life in the technological order; and determine the most logical approach for educating people to live in that society.

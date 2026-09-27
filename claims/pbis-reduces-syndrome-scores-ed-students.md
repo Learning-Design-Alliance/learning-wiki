@@ -15,12 +15,14 @@ sources:
     author: "Benner, G. J., Beaudoin, K. M., Chen, P.-Y., Davis, C., & Ralston, N."
     q: 2
     i: 1
+    kind: design
+    rigour: 2
 ---
 
 # PBIS is associated with significant reductions on the Thought Problems, Attention Problems, and Aggressive Behavior syndrome scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · design `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` Statistically significant pre-to-post reductions were found on Thought Problems (p = .034), Attention Problems (p = .003), and Aggressive Behavior (p = .014) syndrome scores. [→ Benner 2008](#benner-2008)
@@ -31,7 +33,7 @@ sources:
 
 Benner, G. J., Beaudoin, K. M., Chen, P.-Y., Davis, C., & Ralston, N. (2008). The Impact of Intensive Positive Behavioral Supports on the Behavioral Functioning of Students with Emotional Disturbance: How Much Does Fidelity Matter? JBAIC, Volume 1, No. 1. https://eric.ed.gov/?q=Impact+of+Intensive+Positive+Behavioral+Supports
 
-`q2 · i1`
+`q2 · i1` · `design · r2`
 
 Wilcoxon Signed Ranks Tests on TRF syndrome scores in the same pre-post study (N = 37) found significant reductions on three syndrome scales; other syndrome scales (e.g., Anxious/Depressed, Rule-Breaking) were not significant. No effect sizes printed.
 

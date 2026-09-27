@@ -15,12 +15,14 @@ sources:
     author: Faramarz Samifanni
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Grammatical skill is not the focus of Second Language Acquisition, per the study's synthesis of SLA theories and methods
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The synthesis of three SLA theories and five teaching methods found that grammar is not the focus of SLA. [→ Faramarz Samifanni 2020](#faramarz-samifanni-2020)
@@ -31,7 +33,7 @@ sources:
 
 Faramarz Samifanni. (2020). The Fluency Way: A Functional Method for Oral Communication. English Language Teaching, 13(3). https://doi.org/10.5539/elt.v13n3p100
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 Qualitative comparative analysis of SLA theories and teaching methods, reported in Table 2 as a shared characteristic across the theories. The article states "Grammar is not the focus of SLA" as a similarity across Krashen's, Complexity, and Socio-cognitive approaches.
 

@@ -15,12 +15,14 @@ sources:
     author: "Lihui Lv & Chunyan Liu"
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Recasts facilitate child EFL learners' acquisition of the third person singular -s verb form in task-based lessons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Child learners' oral and written production of the third person singular -s form improved significantly after task performance with recasts. [→ Lihui Lv & Chunyan Liu 2022](#lihui-lv-chunyan-liu-2022)
@@ -31,7 +33,7 @@ sources:
 
 Lihui Lv & Chunyan Liu. (2022). Recast, Task Complexity and Child Learners' L2 Development. English Language Teaching, 15(9). https://doi.org/10.5539/elt.v15n9p95
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Quasi-experimental pretest-posttest study of 92 Grade-5 learners in three intact classes; paired-samples t-tests compared pretest and post-test scores. Oral scores rose from 0.00 to 0.84 and written from 6.78 to 10.59, with the article reporting "recasts have a positive effect on learning the target form".
 

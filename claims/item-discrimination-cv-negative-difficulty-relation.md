@@ -15,12 +15,14 @@ sources:
     author: Chakrabartty, S. N.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Item discriminating value as coefficient of variation decreases monotonically as number of correct answers increases, giving a negative difficulty–discrimination relationship
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Discriminating value of an item equals the coefficient of variation of item scores, is bounded 0 ≤ Disci < 1, and decreases monotonically with increase in k, so its relationship with item difficulty value is negative. [→ Chakrabartty 2021](#chakrabartty-2021)
@@ -32,7 +34,7 @@ sources:
 
 Chakrabartty, S. N. (2021). Assessment of item and test parameters: Cosine similarity approach. International Journal of Psychology and Educational Studies, 8(3), 28-38. https://dx.doi.org/10.52380/ijpes.2021.8.3.190
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Empirical verification on the 911-candidate, 50-item Selection Test data. The correlation between item difficulty values and item discriminating values "was (-) 0.579586", consistent with the derived negative relationship in equation (1.10).
 

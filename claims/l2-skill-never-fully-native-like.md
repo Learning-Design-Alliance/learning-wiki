@@ -15,12 +15,14 @@ sources:
     author: Bill VanPatten
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # L2 learners never develop fully native-like skill: they read consistently slower and miss subtle anaphoric interpretation distinctions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` On-line measures repeatedly show non-native readers are slower than natives regardless of advancement, and very advanced learners of Spanish and Italian do not make the native null/overt pronoun interpretation distinction. [→ Bill VanPatten 2010](#bill-vanpatten-2010)
@@ -31,7 +33,7 @@ sources:
 
 Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Narrative review of eye-tracking and self-paced reading research (Frenck-Mestre 2005) and pronoun-interpretation studies (Carminati 2002; Sorace & Filiaci 2006; Jegerski, VanPatten & Keating forthcoming), attributed by the article to those works. The review reports very advanced learners link both null and overt pronouns to the previous subject, missing a subtle comprehension aspect. No effect sizes printed.
 

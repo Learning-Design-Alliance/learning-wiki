@@ -16,7 +16,7 @@ sources:
 # AMOVA is a post hoc linear stochastic modelling procedure for validating psychometric instruments
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 AMOVA (Accumulative Manifold Validation Analysis) is a specialized statistical methodology for testing the internal and external validity of uniquely designed psychometric instruments. The article describes it as "an arithmetic form of natural mean optimization that is parallel to the discipline of linear stochastic modelling", in which weighted item scores are aggregated into within-cluster and between-group means. It operates post hoc on instrument items grouped into categorical clusters (manifolds), producing a single accumulative efficacy score judged against a Taxonomy of Process Education cutoff.

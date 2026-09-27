@@ -17,7 +17,7 @@ sources:
 # Spacing effects are best manipulated within the drill-and-practice category of CAI
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The dissertation reviews five categories of computer assisted instruction — tutorials, drill-and-practice, simulation, instructional games, and problem-solving — and argues that while spaced practice and spaced review can be implemented in each, "for the benefit of educating the user, spacing effects are best manipulated within the category of drill-and-practice". Drill-and-practice involves regular exercise with constant repetition and supports automaticity of subskills.

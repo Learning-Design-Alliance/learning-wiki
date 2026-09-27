@@ -15,12 +15,14 @@ sources:
     author: Sankaranarayanan Paleeri
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Research on value education in India reports that lecturing on values does not transact values effectively to children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Research studies in the field of value education report that lecturing on values by teachers or resource persons does not transact values effectively to children, and that students and teachers need new methods of value acquisition and transaction. [→ Sankaranarayanan Paleeri 2014](#sankaranarayanan-paleeri-2014)
@@ -31,7 +33,7 @@ sources:
 
 Sankaranarayanan Paleeri. (2014). Setting Objectives of Value Education in Constructivist Approach in the Light of Revised Blooms Taxonomy (RBT). i-manager's Journal of School Educational Technology. https://www.imanagerpublications.com
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The article's conclusion reports, citing Goel & Goel (2005), findings of research studies in value education: the education system is not congenial to value promotion, teachers lack knowledge and rationality of values, and "Lecturing on values by teachers or any other resource persons does not transact values effectively to children." No study designs or statistics are printed.
 

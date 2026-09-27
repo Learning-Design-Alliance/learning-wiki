@@ -15,12 +15,14 @@ sources:
     author: "Rafelski, M., Foley, M., Graves, G. J., Kretke, K. A., Mills, E., Nassir, M., & Patel, S."
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # In this inquiry, student pairs work better than groups of three because larger groups risk disengaging members
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors report from their teaching experience that pairs work better than groups of three in this inquiry because individuals can become disconnected in larger groups. [→ Rafelski 2010](#rafelski-2010)
@@ -31,7 +33,7 @@ sources:
 
 Rafelski, M., Foley, M., Graves, G. J., Kretke, K. A., Mills, E., Nassir, M., & Patel, S. (2010). Teaching Astronomy with an Inquiry Activity on Stellar Populations. ASP Conference Series. https://arxiv.org/abs/1009.5404
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 This is the authors' experiential observation from teaching the inquiry twice (UC Santa Cruz 2007; Po'okela Maui 2008), reported in the activity description section, not a controlled comparison. The article reports that "pairs work better than groups of three" with no measured outcome or effect size.
 

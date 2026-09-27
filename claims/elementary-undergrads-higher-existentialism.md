@@ -15,12 +15,14 @@ sources:
     author: Starkey, John D.; Barr, Rita L.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Elementary undergraduates show greater belief in Existentialism than secondary undergraduates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Undergraduate elementary education students show significantly greater belief in Existentialism than undergraduate secondary education students (p = .01). [→ Starkey 1972](#starkey-1972)
@@ -31,7 +33,7 @@ sources:
 
 Starkey, John D.; Barr, Rita L. (1972). The Philosophical Nature of Teachers--Graduate and Undergraduate. https://eric.ed.gov/?id=ED072018
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `associational · r1`
 
 Comparison of undergraduate groups in the same survey (elementary mean 67.200 vs secondary mean 60.529 on Existentialism); the article reports significance "(at the .01 level)" with a t value of -2.92.
 

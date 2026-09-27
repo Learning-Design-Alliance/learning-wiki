@@ -15,12 +15,14 @@ sources:
     author: Arana-Chicas E, Reyes AV, Chavez-Iniguez A, Macenat M, Ferrante J, Capurro C, Kinney AY
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Hispanic adults in LCS focus groups reported limited awareness and understanding of lung cancer screening, including eligibility, benefits, and harms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Focus group participants demonstrated limited awareness of lung cancer screening's availability, eligibility criteria, benefits, and potential harms, often learning of screening through personal online research rather than clinician recommendations. [→ Arana-Chicas E 2026](#arana-chicas-e-2026)
@@ -31,7 +33,7 @@ sources:
 
 Arana-Chicas E, Reyes AV, Chavez-Iniguez A, Macenat M, Ferrante J, Capurro C, Kinney AY. (2026). Informing the cultural adaptation of a lung cancer screening shared decision-making and navigation intervention for Hispanic adults: a qualitative study. Cancer Causes & Control. https://doi.org/10.1007/s10552-026-02257-7
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Rapid qualitative analysis of three virtual focus groups (one English, two Spanish) with 19 Hispanic adults, mean age 60.3 years, mean 30.6 pack-years. The theme analysis found "limited awareness and understanding of lung cancer screening (LCS)" spanning availability, eligibility, benefits, and harms.
 

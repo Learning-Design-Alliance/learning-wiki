@@ -15,6 +15,8 @@ sources:
     q: 4
     i: "?"
     n: 148 studies
+    kind: quant-synthesis
+    rigour: "?"
   - id: springer-et-al-1999
     resource: "https://doi.org/10.3102/00346543069001021"
     title: "Springer, L., Stanne, M. E., & Donovan, S. S. (1999). Effects of small-group learning on undergraduates in science, mathematics, engineering, and technology: A meta-analysis. *Review of Educational Research, 69*(1), 21–51. [doi:10.3102/00346543069001021](https://doi.org/10.3102/00346543069001021)"
@@ -22,12 +24,14 @@ sources:
     q: 4
     i: 2
     n: 39 studies (49 independent samples for achievement)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Collaborative Learning Improves Outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q4` pre-registered or meta-analytic · `i2` medium
+> **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q4` · `i2` medium
 
 Structured collaborative learning — where students work interdependently toward shared goals with individual accountability — produces higher achievement than individualistic instruction. The claim applies to *structured* collaboration; unstructured group work is not covered.
 
@@ -43,7 +47,7 @@ Structured collaborative learning — where students work interdependently towar
 
 Roseth, C. J., Johnson, D. W., & Johnson, R. T. (2008). Promoting early adolescents' achievement and peer relationships: The effects of cooperative, competitive, and individualistic goal structures. *Psychological Bulletin, 134*(2), 223–246. [doi:10.1037/0033-2909.134.2.223](https://doi.org/10.1037/0033-2909.134.2.223)
 
-`q4 · meta-analysis` · `i? · no effect size in the abstract read` · `n=148 studies`
+`q4 · meta-analysis` · `i? · no effect size in the abstract read` · `n=148 studies` · `quant-synthesis · r?`
 
 This meta-analysis pooled 148 independent studies spanning more than eight decades, covering over 17,000 early adolescents from 11 countries and 4 multinational samples. Each study compared cooperative, competitive and individualistic goal structures. Higher achievement and more positive peer relationships went with cooperative goal structures rather than competitive or individualistic ones, as social interdependence theory predicts. Under cooperative structures, achievement and positive peer relationships were also positively related to each other. Only the abstract was read here, so the pooled effect sizes are not recorded.
 
@@ -51,7 +55,7 @@ This meta-analysis pooled 148 independent studies spanning more than eight decad
 
 Springer, L., Stanne, M. E., & Donovan, S. S. (1999). Effects of small-group learning on undergraduates in science, mathematics, engineering, and technology: A meta-analysis. *Review of Educational Research, 69*(1), 21–51. [doi:10.3102/00346543069001021](https://doi.org/10.3102/00346543069001021)
 
-`q4 · meta-analysis (mix of two-group and single-group pre/post designs)` · `i2 · medium effect, d=0.51 on achievement` · `n=39 studies (49 independent samples for achievement)`
+`q4 · meta-analysis (mix of two-group and single-group pre/post designs)` · `i2 · medium effect, d=0.51 on achievement` · `n=39 studies (49 independent samples for achievement)` · `quant-synthesis · r?`
 
 This meta-analysis covered 39 classroom (not laboratory) studies from 1980 onward. All studied North American undergraduates in science, mathematics, engineering and technology who did cooperative or collaborative work in groups of two to ten. Compared with instruction that had no small-group work, students in small groups showed greater achievement (d = 0.51, from 49 independent samples in 37 studies). They also persisted more (d = 0.46) and held more favourable attitudes (d = 0.55). Achievement effects varied with study method: d = 0.73 where the investigator taught the course against 0.41 where they did not, 0.57 for two-group designs against 0.30 for single-sample pre/post designs, and a non-significant 0.21 at two-year colleges. The comparison was group work against no group work, not structured against unstructured collaboration.
 

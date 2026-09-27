@@ -15,12 +15,14 @@ sources:
     author: Engelhardt, David Frederic
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Research has not clearly supported wet laboratory work for product-centered goals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Classical comparisons of wet laboratory methods with lecture-demonstration and discussion techniques found little difference in knowledge and application of facts associated with product goals, so research has not clearly supported product educators' assumptions about wet labs. [→ Engelhardt 1966](#engelhardt-1966)
@@ -31,7 +33,7 @@ sources:
 
 Engelhardt, David Frederic. (1966). Space Requirements for Science Instruction Grades 9-12. Harvard Univ., Cambridge, Mass. Graduate School of Education. https://eric.ed.gov/?id=ED022353
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 A narrative review of classical comparison studies of wet laboratory versus non-laboratory methods, reported in the paper's chapter on methods. The review reports that evaluations measuring "knowledge and application of facts" found "little difference among laboratory and non-laboratory approaches." No effect sizes are printed.
 

@@ -15,18 +15,22 @@ sources:
     author: "Steven S. Christensen & Jonathan S. Spackman"
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: steven-s-christensen-jonathan-s-spackman-2016-2
     resource: "https://eric.ed.gov/?id=EJ1150708"
     title: "Steven S. Christensen & Jonathan S. Spackman. (2016). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. Journal of Educators Online. https://eric.ed.gov/?id=EJ1150708"
     author: "Steven S. Christensen & Jonathan S. Spackman"
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Graphing the Student Momentum Indicator across lessons yields nine dropout-behavior shape categories, with steep wall shapes the most common (25.5%) and flat slope shapes rare (2.6%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Constant comparison of M graphs from 196 courses produced nine categories: steep wall, back-to-back wall, steady slope, convex slope, three wall, early and late wall, flat slope, spanning wall, and other shapes. [→ Steven S. Christensen & Jonathan S. Spackman 2016](#steven-s-christensen-jonathan-s-spackman-2016)
@@ -38,7 +42,7 @@ sources:
 
 Steven S. Christensen & Jonathan S. Spackman. (2016). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. Journal of Educators Online. https://eric.ed.gov/?id=EJ1150708
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative constant-comparison analysis in which each course's M graph was treated as a case and compared with all other cases. The authors report "nine categories of M graph shapes" derived inductively from the 196 course graphs.
 
@@ -48,7 +52,7 @@ Qualitative constant-comparison analysis in which each course's M graph was trea
 
 Steven S. Christensen & Jonathan S. Spackman. (2016). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. Journal of Educators Online. https://eric.ed.gov/?id=EJ1150708
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Frequency analysis across the 196 courses (Table 3) shows the steep wall shape at 25.5% (50 courses), back-to-back at 16.3%, steady slope at 14.3%, convex slope at 12.8%, three wall at 12.2%, early and late wall at 11.7%, other at 3.6%, flat slope at 2.6%, and spanning wall at 1.0%.
 

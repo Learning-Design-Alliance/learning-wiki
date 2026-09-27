@@ -15,12 +15,14 @@ sources:
     author: "Flowers, C. P., Oshima, C., & Raju, N."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # An iterative two-stage linking procedure improves identification of DIF items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Iterative linking, re-estimating equating after removing flagged DIF items, improves DIF identification; the study used a two-stage procedure for this reason. [→ Flowers 1996](#flowers-1996)
@@ -31,7 +33,7 @@ sources:
 
 Flowers, C. P., Oshima, C., & Raju, N. (1996). A Description and Demonstration of the Polytomous-DFIT Framework. https://eric.ed.gov/?id=ED401319
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Methodological claim attributed by the article to prior researchers (Lord; Drasgow; Candell & Drasgow; Lautenschlager & Park; Miller & Oshima). The study applied it: after initial linking, items with NC-DIF exceeding the critical value were removed and linking was repeated before final transformation of all items.
 

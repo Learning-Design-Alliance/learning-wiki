@@ -14,12 +14,14 @@ sources:
     q: 2
     i: "?"
     n: unreported in secondary source
+    kind: associational
+    rigour: "?"
 ---
 
 # Motor development milestone timing varies by cultural childcare practice, but functional motor competence equalizes by middle childhood.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · n=unreported in secondary source
+> **Evidence** · 1 study · associational `r?` · `q2` · n=unreported in secondary source
 
 Standard motor-milestone charts (e.g., typical walking age) are often treated as universal biological timetables. Cross-cultural evidence shows the *timing* of milestones is substantially shaped by childcare practice, even though the eventual, functional motor competence converges across cultures by around age 9.
 
@@ -33,7 +35,7 @@ Standard motor-milestone charts (e.g., typical walking age) are often treated as
 
 Kaplan, H., & Dove, H. (1987). Infant development among the Ache of eastern Paraguay. *Developmental Psychology, 23*(2), 190-198.
 
-`q2 · ethnographic/observational comparative study` · `i? · no source text available to check; the entry prints no effect size` · `n=unreported in secondary source`
+`q2 · ethnographic/observational comparative study` · `i? · no source text available to check; the entry prints no effect size` · `n=unreported in secondary source` · `associational · r?`
 
 The Aché, a forest-dwelling group in eastern Paraguay, carry infants for extended periods and provide comparatively little independent floor time in infancy, given the practical hazards of the forest floor. Independent walking emerges substantially later than typical Western milestone charts predict (around 23-25 months versus roughly 12 months), but by around age 9, functional motor competence is comparable between Aché and Western children. This is a secondary citation, via Arduini-Van Hoose, N. (2020), *Educational Psychology*, Physical Development chapter, https://edpsych.pressbooks.sunycreate.cloud; the original study's full sample size and statistical detail were not available in that secondary source and should be verified against the primary source before treating milestone-timing variation as strongly generalizable beyond this specific comparison.
 

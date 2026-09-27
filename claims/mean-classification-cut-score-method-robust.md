@@ -15,12 +15,14 @@ sources:
     author: "Olson, B., Mead, R., & Payne, D."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # A mean-classification cut-score method outperformed a contrasting-groups-style mean method because it was more robust to outliers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Method two, based on mean classification per portfolio, performed better than the category-mean method because it was more robust to outliers. [→ Olson 2002](#olson-2002)
@@ -31,7 +33,7 @@ sources:
 
 Olson, B., Mead, R., & Payne, D. (2002). A report of a standard setting method for alternate assessments for students with significant disabilities (Synthesis Report 47). https://eric.ed.gov/?id=ED472306
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Two cut-score computation methods were applied to panelist ratings of 15 portfolios per grade/content area. The report states "method two seemed to perform better in this application because it was more robust to outliers," while method one was heavily influenced by deviant ratings.
 

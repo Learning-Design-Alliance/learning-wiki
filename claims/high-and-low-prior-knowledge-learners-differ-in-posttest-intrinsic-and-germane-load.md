@@ -15,18 +15,22 @@ sources:
     author: "Gupta, U., & Zheng, R. Z."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: gupta-2020-2
     resource: "https://doi.org/10.20897/ejsteme/9252"
     title: "Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252"
     author: "Gupta, U., & Zheng, R. Z."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # High- and low-prior-knowledge learners differ significantly on an algebra posttest and on intrinsic and germane cognitive load, but not on extraneous load
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Prior knowledge (high vs low) had significant main effects on the posttest (F1, 107 = 121.64, p < .001, ŋ2 = .53), intrinsic load (ŋ2 = .17) and germane load (ŋ2 = .15). [→ Gupta 2020](#gupta-2020)
@@ -38,7 +42,7 @@ sources:
 
 Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 In a 2 x 2 x 2 factorial experiment with college students solving simultaneous equations, with prior knowledge groups formed by a tri-split of pretest scores, the analysis reported "significant main effects for high - and low-prior knowledge learners by posttest (F1, 107 = 121.64, p < .001, ŋ2 = .53)", plus intrinsic (ŋ2 = .17) and germane load (ŋ2 = .15).
 
@@ -48,7 +52,7 @@ In a 2 x 2 x 2 factorial experiment with college students solving simultaneous e
 
 Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Same experiment, prior-knowledge contrast on the CLM extraneous subscale: "no significance was found between high- and low-prior knowledge learners for extraneous cognitive load (F = .018, p = .895)"; equivalence was not tested.
 

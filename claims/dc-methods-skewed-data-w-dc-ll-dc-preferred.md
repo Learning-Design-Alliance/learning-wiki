@@ -15,18 +15,22 @@ sources:
     author: "Wolkowitz, A. A., & Smith, R."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: wolkowitz-2024-2
     resource: "https://pareonline.net/getvn.asp?v=29&n=6"
     title: "Wolkowitz, A. A., & Smith, R. (2024). A Practical Comparison of Decision Consistency Estimates. Practical Assessment, Research & Evaluation, 29(6). https://pareonline.net/getvn.asp?v=29&n=6"
     author: "Wolkowitz, A. A., & Smith, R."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # For skewed datasets, W-DC and LL-DC produce similar and preferred estimates, while PS-DC diverges at high-frequency scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` PS-DC estimates were closer to LL-DC for the simulated datasets, but W-DC estimates were closer to LL-DC for the operational datasets. [→ Wolkowitz 2024](#wolkowitz-2024)
@@ -38,7 +42,7 @@ sources:
 
 Wolkowitz, A. A., & Smith, R. (2024). A Practical Comparison of Decision Consistency Estimates. Practical Assessment, Research & Evaluation, 29(6). https://pareonline.net/getvn.asp?v=29&n=6
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Overall comparison across five datasets (two simulated, three operational). The article reports the "PS- DC estimates were closer to the LL -DC estimates for the simulated datasets" and W-DC closer for operational datasets, with closeness percentages of 65-71% and 61-74% of scores respectively.
 
@@ -48,7 +52,7 @@ Overall comparison across five datasets (two simulated, three operational). The 
 
 Wolkowitz, A. A., & Smith, R. (2024). A Practical Comparison of Decision Consistency Estimates. Practical Assessment, Research & Evaluation, 29(6). https://pareonline.net/getvn.asp?v=29&n=6
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Recommendation drawn from both the simulated and operational dataset results, summarized in Table 12. The article attributes PS-DC's divergence to its bivariate normality assumption, which is violated by skewed score distributions.
 

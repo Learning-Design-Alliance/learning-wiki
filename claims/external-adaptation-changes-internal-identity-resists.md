@@ -15,12 +15,14 @@ sources:
     author: Kim, Saekyung; Gaa, John; Swank, Paul; Liberman, Dov
     q: 1
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # External sociocultural adaptation may change with time while internal psychosocial identity resists change, per the authors' conjecture
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The authors conjecture that immigrants' external behavior may adjust to the host culture over time while their internal personality aspects are less readily influenced by time. [→ Kim 1998](#kim-1998)
@@ -31,7 +33,7 @@ sources:
 
 Kim, Saekyung; Gaa, John; Swank, Paul; Liberman, Dov. (1998). Identity Transformation of Korean Immigrants. https://eric.ed.gov/?id=ED420007
 
-`q1 · i?`
+`q1 · i?` · `associational · r1`
 
 Authors' interpretation offered in the discussion to reconcile their null length-of-residence finding with prior literature measuring external behaviors such as language use and choice of neighborhood; it is explicitly framed as conjecture, not a tested result.
 

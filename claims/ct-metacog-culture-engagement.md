@@ -15,12 +15,14 @@ sources:
     author: Șchiopu, L.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Metacognitive and reflective instruction through culture exploration is associated with increased student engagement in the EFL classroom
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students in the metacognitive and reflective training reported behavioral change and active participation in classroom discussions. [→ Șchiopu 2018](#schiopu-2018)
@@ -31,7 +33,7 @@ sources:
 
 Șchiopu, L. (2018). Integrating metacognition and critical thinking skills in the exploration of culture in EFL classroom. Journal of Pedagogical Research, 2(3), 181-191. https://eric.ed.gov/?id=EJ1301134
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative results section reporting participant perceptions in the metacognitive/reflective training; the author states that "the awareness of needing to adopt a critical view on past and present learning experiences initiated a behavioral change", supported by verbatim student quotes about engaging in discussions.
 

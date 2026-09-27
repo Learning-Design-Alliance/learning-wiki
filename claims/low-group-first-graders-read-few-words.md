@@ -15,12 +15,14 @@ sources:
     author: Walker, B. J.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Low reading-group first graders read far fewer words than high-group peers, limiting elaboration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` First graders in low reading groups read silently only 60 words in a five-day sample (12 words a day), while children in high groups read 10 times as many words, so low-group readers cannot elaborate meaning and strategies. [→ Walker 1989](#walker-1989)
@@ -31,7 +33,7 @@ sources:
 
 Walker, B. J. (1989). The Interactive Model of Reading: Deciding How Disability Occurs. https://eric.ed.gov/?id=ED315726
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The review reports, citing Allington (1984a), a classroom observational finding on amount read by group placement. The paper adds that Juel (1988) found poor readers read less than half as many words each year as good readers and read at 80% accuracy.
 

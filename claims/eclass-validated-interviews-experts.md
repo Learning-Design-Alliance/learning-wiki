@@ -15,12 +15,14 @@ sources:
     author: "Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # E-CLASS statements were validated through 42 student interviews and expert responses from 23 faculty and instructors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Validity was demonstrated through 42 student interviews and by having 23 faculty and instructors respond as experts. [→ Zwickl 2013](#zwickl-2013)
@@ -31,7 +33,7 @@ sources:
 
 Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Validation study for the E-CLASS survey described in the design and validation section. Student interviews clarified question context and wording, and expert responses established consensus answers. The article reports "42 student interviews" and 23 expert respondents.
 

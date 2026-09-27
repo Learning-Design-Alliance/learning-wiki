@@ -15,12 +15,14 @@ sources:
     author: Shetye, S.
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Khanmigo does not support the positive impact criterion: metacognitive scaffolding is tacit and pragmatic competence is not addressed unless learners ask
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Khanmigo may help learners develop metacognitive strategies tacitly, but its activities lack a clear pragmatic focus, so the positive impact criterion is judged not supported. [→ Shetye 2024](#shetye-2024)
@@ -31,7 +33,7 @@ sources:
 
 Shetye, S. (2024). An Evaluation of Khanmigo, a Generative AI Tool, as a Computer-Assisted Language Learning App. Studies in Applied Linguistics & TESOL at Teachers College, Columbia University. https://journals.library.columbia.edu/index.php/SALT
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Judgment in Table 1 of the qualitative evaluation. The author explains that scaffolding gives learners time to reflect and add content but the method is not explicitly taught, and Khanmigo cannot improve pragmatic skills "unless learners ask questions related to pragmatics".
 

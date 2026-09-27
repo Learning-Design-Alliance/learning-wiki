@@ -15,18 +15,22 @@ sources:
     author: Chorianopoulos, K.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: chorianopoulos-2018-2
     resource: "https://www.irrodl.org/"
     title: "Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles. International Review of Research in Open and Distributed Learning, 19(1). https://www.irrodl.org/"
     author: Chorianopoulos, K.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Screencast design findings: static vs. dynamic screen movement, explicit vs. implicit narration, and handwriting preferred though typefaces judged more legible
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports, citing Sugar, Brown, and Luterbach (2010), that screencasts vary in screen movement (static or dynamic, following the cursor) and narrative type (explicit action description or implicit activity description). [→ Chorianopoulos 2018](#chorianopoulos-2018)
@@ -38,7 +42,7 @@ sources:
 
 Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles. International Review of Research in Open and Distributed Learning, 19(1). https://www.irrodl.org/
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Narrative review attributing to Sugar, Brown, and Luterbach (2010) an analysis of instructional videos based on the screencasting style, i.e., recording of screen. The review presents these two typologies as that study's findings about low-level instructional-media elements.
 
@@ -48,7 +52,7 @@ Narrative review attributing to Sugar, Brown, and Luterbach (2010) an analysis o
 
 Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles. International Review of Research in Open and Distributed Learning, 19(1). https://www.irrodl.org/
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Narrative review attributing to Cross, Bayyapunedi, Cutrell, Agarwal, and Thies (2013) a comparison of hand writing to typefaces in digital-writing instructional videos. The hybrid fade approach is that study's own proposal, reported by the review.
 

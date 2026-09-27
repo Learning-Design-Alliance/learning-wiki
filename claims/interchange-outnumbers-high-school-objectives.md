@@ -15,12 +15,14 @@ sources:
     author: "Mahmoud Abdi Tabari & Iman Abdi Tabari"
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The Interchange series covered learning objectives more comprehensively than the Iranian high school textbooks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The total number of coded learning objectives in the Interchange series (718) outnumbered that of the high school textbooks (572). [→ Mahmoud Abdi Tabari & Iman Abdi Tabari 2015](#mahmoud-abdi-tabari-iman-abdi-tabari-2015)
@@ -31,7 +33,7 @@ sources:
 
 Mahmoud Abdi Tabari & Iman Abdi Tabari. (2015). Links between Bloom's Taxonomy and Gardener's Multiple Intelligences: The issue of Textbook Analysis. Advances in Language and Literary Studies, 6(1). https://doi.org/10.7575/aiac.alls.v.6n.1p.94
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Comparison of the two frequency grids (Tables 1 and 2): Interchange total 718 versus high school total 572 coded learning objectives. The authors' overall judgment is that "interchange series was rated far better than the high school textbooks".
 

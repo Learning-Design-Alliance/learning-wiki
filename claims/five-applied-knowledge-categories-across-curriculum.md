@@ -15,12 +15,14 @@ sources:
     author: Wisconsin State Dept. of Public Instruction, Madison
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # The Wisconsin standards call for shared applications of knowledge in five general categories to be developed in every class across the curriculum.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The document identifies five general categories of applied knowledge — application of the basics, ability to think, skill in communication, production of quality work, and connections with community — that teachers in every class should encourage. [→ Wisconsin State Dept. of Public Instruction 1998](#wisconsin-state-dept-of-public-instruction-1998)
@@ -31,7 +33,7 @@ sources:
 
 Wisconsin State Dept. of Public Instruction, Madison. (1998). Wisconsin's Model Academic Standards for Information and Technology Literacy. Bulletin No. 90002. https://eric.ed.gov/?id=ED423881
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 Descriptive statement from the Applying the Academic Standards Across the Curriculum section. The document names the categories as application of the basics, ability to think, skill in communication, production of quality work, and connections with community: "These applications fall into five general categories."
 

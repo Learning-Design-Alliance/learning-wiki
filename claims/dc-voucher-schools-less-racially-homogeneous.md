@@ -15,12 +15,14 @@ sources:
     author: "Greene, J. P., & Winters, M. A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Far fewer voucher-participating private schools than DC public schools are racially homogeneous (90% or 95%+ one race)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A weighted 85.4% of DC public schools were at least 90% racially homogeneous versus about 47.3% of voucher private schools; at the 95% threshold the figures were 84.4% versus about 42.8%. [→ Greene 2007](#greene-2007)
@@ -31,7 +33,7 @@ sources:
 
 Greene, J. P., & Winters, M. A. (2007). An evaluation of the effect of DC's voucher program on public school achievement and racial integration after one year. Catholic Education: A Journal of Inquiry and Practice, 11(1), 83-101. https://eric.ed.gov/?id=EJ1005985
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive comparison of enrollment-weighted percentages of racially homogeneous schools (90% and 95% thresholds) across 169 DC public schools and 52 voucher-participating private schools, using school racial-composition data weighted for enrollment size. Private voucher schools were substantially less likely to be homogeneous at both thresholds.
 

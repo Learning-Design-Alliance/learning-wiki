@@ -15,12 +15,14 @@ sources:
     author: Hale, Judy A.
     q: 2
     i: 1
+    kind: qualitative
+    rigour: 1
 ---
 
 # Sex differences appeared in stage distribution: 63% of males were concrete operational versus 57% of females preoperational
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · qualitative `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` 63% of males were in the concrete operational stage, in contrast to females where 57% were preoperational; 57% of females were in an art-stage transition. [→ Hale 1996](#hale-1996)
@@ -31,7 +33,7 @@ sources:
 
 Hale, Judy A. (1996). Determining Relationships between Young Children's Cognitive Stage of Development and Art Stage of Development as They Relate to Literacy. https://eric.ed.gov/?id=ED394938
 
-`q2 · i1`
+`q2 · i1` · `qualitative · r1`
 
 A comparison of male and female students reported in Table 6 of the case study. The article also reports 57% of female students were in a stage of transition in art development; no inferential statistics are printed.
 

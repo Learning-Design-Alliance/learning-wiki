@@ -16,7 +16,7 @@ sources:
 # Conceptual framework of active ingredients of instructional coaching comprising characteristics, relational contexts, and processes
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study, `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The article proposes a conceptual model of the active ingredients of instructional coaching, defined as "those unique components of an intervention that constitute what is hypothesized as responsible for targeted teacher and student outcomes." The model was developed through a modified grounded theory approach combining a literature review with teacher and coach focus group data from the CSI rural science coaching study. It organizes coaching into prerequisite characteristics, relational components, a staged process, and outcomes. The authors intend it as a basis for empirically testing which components are necessary for effective coaching.

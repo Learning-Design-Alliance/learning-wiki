@@ -15,12 +15,14 @@ sources:
     author: Gilfus et. al
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: "?"
 ---
 
 # Social media tools plugged into learning management systems are presented as "social learning" solutions without being designed around social learning theory
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r?` · `q1`
 
 ## Subclaims
 `q1 i?` Vendors and course designers cobble together social networking tools such as blogs, wikis and bookmarking tools and present them as "social learning" innovation, though by themselves they are not social learning solutions. [→ Gilfus et. al 2009](#gilfus-et-al-2009)
@@ -31,7 +33,7 @@ sources:
 
 Gilfus et. al. (2009). "Social Learning" Buzz Masks Deeper Dimensions. Gilfus Education Group. https://www.gilfuseducationgroup.com
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r?`
 
 The authors' central argument, drawn from their industry observation at NECC 2009 and their e-learning experience; the article offers no empirical data for it, presenting it as expert commentary on vendor practice.
 

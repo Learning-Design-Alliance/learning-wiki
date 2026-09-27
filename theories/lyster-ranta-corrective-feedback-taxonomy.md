@@ -16,7 +16,7 @@ sources:
 # Lyster and Ranta's six-category taxonomy of corrective feedback
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article adopts Lyster and Ranta's classification of corrective feedback, which the authors call "The most comprehensive taxonomy of corrective feedback." It distinguishes six categories: "explicit correction, recast, metalinguistic feedback, elicitation, repetition, and clarification request." The article groups these along an explicitness dimension, treating explicit correction and metalinguistic feedback as explicit types and recasts and clarification requests as implicit types, and uses three of the categories as its treatment conditions.

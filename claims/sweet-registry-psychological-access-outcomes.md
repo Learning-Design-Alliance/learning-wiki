@@ -15,12 +15,14 @@ sources:
     author: Winterdijk Per, Aanstoot Henk‐Jan, Fransman Christine, Mocan Andreia, Nefs Giesje
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # In the SWEET pediatric registry, centres with ready access to psychological services showed lower rates of ketoacidosis and slightly lower HbA1c levels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Paediatric diabetes centres with ready access to psychological services showed lower rates of ketoacidosis and slightly lower HbA1c levels in the SWEET registry analysis. [→ Winterdijk Per 2026](#winterdijk-per-2026)
@@ -31,7 +33,7 @@ sources:
 
 Winterdijk Per, Aanstoot Henk‐Jan, Fransman Christine, Mocan Andreia, Nefs Giesje. (2026). Embedding psychological care in diabetes services: Why it's time to innovate and integrate. Diabetic Medicine. https://doi.org/10.1111/dme.70411
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 The review reports this observational large-scale registry analysis, attributed to Chobot et al.; the review itself notes the findings are observational and provide rare large-scale evidence in children and adolescents.
 

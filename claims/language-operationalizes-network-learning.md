@@ -15,12 +15,14 @@ sources:
     author: Dennis, J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Language and dialogue operationalize the networking capacities that connectivism values
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The processes of language are inseparable from the processes of network learning; language is more than a communication medium because it creates the networks through which education happens. [→ Dennis 2020](#dennis-2020)
@@ -31,7 +33,7 @@ sources:
 
 Dennis, J. (2020). Languaging Network Learning: The Emergence of Connectivism in Architectonic Thought. International Review of Research in Open and Distributed Learning, 21(3). https://www.irrodl.org/
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical claim from the conclusion, argued via the architectonic tradition: dialogue (Bakhtin), languaging (Swain), and texts are modeled as the medium through which network learning occurs. The article offers philosophical argument, not empirical measurement, for this inseparability of language and network learning.
 

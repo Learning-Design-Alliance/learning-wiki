@@ -15,18 +15,22 @@ sources:
     author: "Takahashi, C., & Im, S."
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
   - id: takahashi-2020-2
     resource: "https://doi.org/10.14746/ssllt.2020.10.4.2"
     title: "Takahashi, C., & Im, S. (2020). Comparing self-determination theory and the L2 motivational self system and their relationships to L2 proficiency. Studies in Second Language Learning and Teaching, 10(4), 673-696. https://doi.org/10.14746/ssllt.2020.10.4.2"
     author: "Takahashi, C., & Im, S."
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # SDT and L2MSS constructs correlate as predicted, with the ought-to L2 self/own most closely tied to introjected regulation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Introjected regulation correlated most strongly with the ought-to L2 self/own (r = .69), supporting the internalization-based mapping between the two theories. [→ Takahashi 2020](#takahashi-2020)
@@ -38,7 +42,7 @@ sources:
 
 Takahashi, C., & Im, S. (2020). Comparing self-determination theory and the L2 motivational self system and their relationships to L2 proficiency. Studies in Second Language Learning and Teaching, 10(4), 673-696. https://doi.org/10.14746/ssllt.2020.10.4.2
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Pearson inter-correlations among ten subscale scores from 511 participants showed the expected simplex pattern within SDT and cross-theory links, including the quoted r = .69 between introjected regulation and the ought-to L2 self/own.
 
@@ -48,7 +52,7 @@ Pearson inter-correlations among ten subscale scores from 511 participants showe
 
 Takahashi, C., & Im, S. (2020). Comparing self-determination theory and the L2 motivational self system and their relationships to L2 proficiency. Studies in Second Language Learning and Teaching, 10(4), 673-696. https://doi.org/10.14746/ssllt.2020.10.4.2
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 The correlation analysis of the same 511-participant sample found identified regulation correlated with the L2 learning experience as strongly as with the ideal L2 self (r = .75), a pattern the authors flag as unexpected and in need of further research.
 

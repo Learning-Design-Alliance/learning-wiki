@@ -15,18 +15,22 @@ sources:
     author: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest"
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994-2
     resource: "https://eric.ed.gov/?id=ED367146"
     title: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146"
     author: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest"
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # In the Tucson household ethnography, exchanges within households' social networks were often reciprocal and built mutual trust through shared practical activities.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Researchers and teacher-researchers found household relationships "often reciprocal", with each exchange with kin, friends, neighbors, or teachers developing or reinforcing mutual trust. [→ Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994](#funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994)
@@ -38,7 +42,7 @@ sources:
 
 Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 From the project's community component, an ethnographic study of households in a predominantly Mexican working-class community of Tucson: researchers found relationships "often reciprocal" with each exchange building "mutual trust". Qualitative finding; no counts printed.
 
@@ -48,7 +52,7 @@ From the project's community component, an ethnographic study of households in a
 
 Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 The digest, citing Moll and Greenberg (1990), reports this trust grew as participants "shared in practical activities" such as home and auto repair, animal husbandry and music. Descriptive ethnographic finding.
 

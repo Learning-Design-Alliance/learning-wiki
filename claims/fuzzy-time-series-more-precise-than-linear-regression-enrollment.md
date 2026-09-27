@@ -15,12 +15,14 @@ sources:
     author: Song, Qiang; Chissom, Brad S.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # A first-order time-invariant fuzzy time series model produces more precise university enrollment forecasts than linear regression with time as predictor
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On the whole, the fuzzy time series model (FTM) produces more precise enrollment forecasts than the Linear Regression Method (LRM) for this university's 1972–1990 enrollments. [→ Song 1991](#song-1991)
@@ -31,7 +33,7 @@ sources:
 
 Song, Qiang; Chissom, Brad S. (1991). Forecasting Enrollments with Fuzzy Time Series. https://eric.ed.gov/?id=ED340733
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Comparative evaluation applying linear regression with time as predictor to the same 1972–1990 enrollment data; Table 3 residuals show "the fuzzy time series model (FTM) producesmore preciseresults thanLRM" on the whole. No summary error statistic is printed, so no effect size is coded.
 

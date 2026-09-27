@@ -15,12 +15,14 @@ sources:
     author: Whiteley, Darryl
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Equating one lexical item with one English counterpart is theoretically objectionable; entries should capture collocational restrictions and register
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The author objects on theoretical grounds to introducing students to an equation of one lexical item with one lexical item, arguing such relationships are hardly useful beyond technical terms, and proposes instead recording collocational restrictions and register. [→ Whiteley 1971](#whiteley-1971)
@@ -31,7 +33,7 @@ sources:
 
 Whiteley, Darryl. (1971). Foreign Language Vocabulary Learning. https://eric.ed.gov/?id=ED062899
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 A theoretical argument in the critique section: one-to-one translation equivalents are of limited use, and a more useful system would show "the lexical item-s collocational restrictions" and indicate register, which dictionaries rarely mark beyond a few symbols.
 

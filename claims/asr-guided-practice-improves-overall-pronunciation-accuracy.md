@@ -15,18 +15,22 @@ sources:
     author: "Dillon, Thomas, & Wells, Donald"
     q: 2
     i: 2
+    kind: causal
+    rigour: 2
   - id: dillon-2023-2
     resource: "https://doi.org/10.15858/engtea.78.1.202303.3"
     title: "Dillon, Thomas, & Wells, Donald. (2023). Effects of pronunciation training using automatic speech recognition on pronunciation accuracy of Korean English language learners. English Teaching, 78(1), 3-23. https://doi.org/10.15858/engtea.78.1.202303.3"
     author: "Dillon, Thomas, & Wells, Donald"
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Guided ASR practice improves overall pronunciation accuracy of Korean EFL learners more than ordinary classroom pronunciation practice alone
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2`–`i3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i2`–`i3`
 
 ## Subclaims
 `q2 i2` The treatment group showed a significant reduction in segmental error rate with a moderate effect size (d = 0.52), while the control group showed a slight non-significant increase. [→ Dillon 2023](#dillon-2023)
@@ -38,7 +42,7 @@ sources:
 
 Dillon, Thomas, & Wells, Donald. (2023). Effects of pronunciation training using automatic speech recognition on pronunciation accuracy of Korean English language learners. English Teaching, 78(1), 3-23. https://doi.org/10.15858/engtea.78.1.202303.3
 
-`q2 · i2`
+`q2 · i2` · `causal · r2`
 
 Paired samples t-test on pre/post segmental error rate in a four-week quasi-experiment; treatment group (n=34) mean error rate fell from 26 (SD = 11.12) to 23.03 (SD = 9.41), a "significant reduction in mean error rate with a moderate effect size" (d = 0.52).
 
@@ -48,7 +52,7 @@ Paired samples t-test on pre/post segmental error rate in a four-week quasi-expe
 
 Dillon, Thomas, & Wells, Donald. (2023). Effects of pronunciation training using automatic speech recognition on pronunciation accuracy of Korean English language learners. English Teaching, 78(1), 3-23. https://doi.org/10.15858/engtea.78.1.202303.3
 
-`q2 · i3`
+`q2 · i3` · `causal · r2`
 
 One-way ANOVA comparing SER error rate between treatment (n=34) and control (n=25) groups in the quasi-experiment; the article reports a "statistically significant difference in SER error rate between the treatment and control group" (F(1,57) = 5.176, p = 0.027, ηp2 = 0.83 as printed).
 

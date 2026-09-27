@@ -15,12 +15,14 @@ sources:
     author: Ehsan Rassaei, Ahmad Moinzadeh
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Corrective feedback treatment and time interact significantly in shaping wh-question learning gains across the three testing periods
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A two-way repeated measures ANOVA showed significant effects for treatment, time, and the time-by-treatment interaction. [→ Ehsan Rassaei 2011](#ehsan-rassaei-2011)
@@ -31,7 +33,7 @@ sources:
 
 Ehsan Rassaei, Ahmad Moinzadeh. (2011). Investigating the Effects of Three Types of Corrective Feedback on the Acquisition of English Wh-question Forms by Iranian EFL Learners. English Language Teaching, 4(2). https://doi.org/10.5539/elt.v4n2p97
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Two-way repeated measures ANOVA on total grammaticality judgment scores with time (pre-test, post-test, delayed post-test) and corrective feedback treatment as factors; the interaction F (6, 129) = 14.09 was significant, as were treatment, F (3, 130) = 15.79, and time, F (2, 131) = 94.06.
 

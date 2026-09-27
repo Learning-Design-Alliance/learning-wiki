@@ -16,12 +16,14 @@ sources:
     q: 2
     i: "?"
     n: not reported here
+    kind: associational
+    rigour: "?"
 ---
 
 # Italian grammatical gender stays incompletely mastered by L2 learners and heritage speakers alike, and a gendered first language helps only conditionally.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · n=not reported here
+> **Evidence** · 1 study · associational `r?` · `q2` · n=not reported here
 
 Having gender in your first language does not transfer as a rule. The advantage it confers is
 specific to particular item configurations, and it does not appear in every task.
@@ -40,7 +42,7 @@ specific to particular item configurations, and it does not appear in every task
 
 Bäck Romano, S., Guijarro-Fuentes, P., Calpe-Álvarez, V., & Rivera, J. (2025). Gender in L2 and heritage Italian by Swedish and Spanish dominant speakers. *Italiano LinguaDue, 17*(2), 27–48. [doi:10.54103/2037-3597/30422](https://doi.org/10.54103/2037-3597/30422)
 
-`q2 · between-groups comparison across two language pairings and two speaker types` · `i? · direction of advantage reported, error percentages not given` · `n=not reported here`
+`q2 · between-groups comparison across two language pairings and two speaker types` · `i? · direction of advantage reported, error percentages not given` · `n=not reported here` · `associational · r?`
 
 Spanish–Italian and Swedish–Italian bilinguals — L2 learners and heritage speakers in each pairing — were compared on gender assignment to third-person singular and plural object clitics, crossing cognate status against gender congruency. The paper reports which configurations favoured which group and that the effects were production-only; it does not report error rates, so the study establishes that the difficulty persists rather than how large it is.
 

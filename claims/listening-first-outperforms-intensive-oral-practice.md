@@ -15,12 +15,14 @@ sources:
     author: Cheung, Yun Kul
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Delaying oral production and emphasizing aural comprehension in initial EFL instruction produces better results than intensive oral practice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Emphasis on aural comprehension training with relaxed oral-production requirements in the initial phase fosters linguistic competence and produces better results than intensive oral practice. [→ Cheung 2010](#cheung-2010)
@@ -31,7 +33,7 @@ sources:
 
 Cheung, Yun Kul. (2010). The Importance of Teaching Listening in the EFL Classroom. ERIC Classroom Teacher Guide. https://eric.ed.gov/?id=ED512082
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The paper reports, citing Postovsky (1974, 1975), that his studies supported the listening-first approach: "His experiment showed that students scored lower in the four language skills when they were required to develop speaking and listening skills simultaneously than when they focused only on listening." The review attributes this secondhand; the original experiment's design is not described here.
 

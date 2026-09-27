@@ -15,12 +15,14 @@ sources:
     author: Cheung, Yun Kul
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Listening proficiency transfers to other language skills, including reading and writing, in second language learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Listening training transfers positively to reading and writing: learners showed significant reading development after listening-only instruction, and listening-speaking test correlations of 0.5-0.6 and 0.91 are reported. [→ Cheung 2010](#cheung-2010)
@@ -31,7 +33,7 @@ sources:
 
 Cheung, Yun Kul. (2010). The Importance of Teaching Listening in the EFL Classroom. ERIC Classroom Teacher Guide. https://eric.ed.gov/?id=ED512082
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The review reports, citing Reeds, Winitz and Garcia (1977), significant reading development after eight hours of listening with no reading practice, and cites Bridgeman and Harvey (1998) reporting speaking-listening correlations of "0.5-0.6" while Messick (1996) reported "a high correlation of 0.91". No standardized effect size is printed for the reading-transfer finding itself.
 

@@ -15,12 +15,14 @@ sources:
     author: Innovative Systems Research, Inc
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The recommended conversion plan projects reader-population growth of 20 percent per year toward a goal of 2.25 million readers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The recommended plan would increase the reader population at 20 percent per year toward a goal of 2.25 million readers, reaching 1,192,320 readers over the five-year program per Table 1.1. [→ Innovative Systems Research 1975](#innovative-systems-research-1975)
@@ -31,7 +33,7 @@ sources:
 
 Innovative Systems Research, Inc. (1975). A Planning Study for the Conversion of Recorded Books and Magazines from Rigid Discs to Cassettes and Flexible Discs. Final Report. https://eric.ed.gov/?id=ED107292
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 The study's abstract and Table 1.1 state the recommended plan's projected capability: "1,192,320 Readers" served over the five-year period, with 866,000 new equipment units purchased. Growth figures are planning projections, not measured outcomes.
 

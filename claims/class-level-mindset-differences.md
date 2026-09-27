@@ -15,12 +15,14 @@ sources:
     author: "Beyaztaş, D. İ., Kaptı, S. B., & Hymer, B."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Intelligence-perception scores differ by class year, with fourth-year students more incremental and second-year students more entity-oriented
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Entity and incremental scores differed significantly by class level (F=3,41 and F=3,14, p<.05), while performance and learning goal orientation did not (p=,21 and p=,23). [→ Beyaztaş 2017](#beyaztas-2017)
@@ -31,7 +33,7 @@ sources:
 
 Beyaztaş, D. İ., Kaptı, S. B., & Hymer, B. (2017). The Relationship between Student Teachers' Perception of Intelligence and Their Goal Orientation. Universal Journal of Educational Research 5(9): 1519-1528. https://doi.org/10.13189/ujer.2017.050909
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 MANOVA across four class levels (N=1409). Tukey tests showed second-year students higher than third-year on entity, and fourth-year students higher than first- and second-year on incremental. The authors interpret this as some students later coming to believe intelligence is malleable.
 

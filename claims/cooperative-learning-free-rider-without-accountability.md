@@ -15,6 +15,8 @@ sources:
     q: 2
     i: 1
     n: 99 studies
+    kind: review
+    rigour: 3
   - id: rohrbeck-et-al-2003
     resource: "https://doi.org/10.1037/0022-0663.95.2.240"
     title: "Rohrbeck, C. A., Ginsburg-Block, M. D., Fantuzzo, J. W., & Miller, T. R. (2003). Peer-assisted learning interventions with elementary school students: A meta-analytic review. *Journal of Educational Psychology, 95*(2), 240–257. [doi:10.1037/0022-0663.95.2.240](https://doi.org/10.1037/0022-0663.95.2.240)"
@@ -22,6 +24,8 @@ sources:
     q: 3
     i: 1
     n: not stated in abstract
+    kind: quant-synthesis
+    rigour: "?"
   - id: fantuzzo-et-al-1992
     resource: "https://doi.org/10.1037/0022-0663.84.3.331"
     title: "Fantuzzo, J. W., King, J. A., & Heller, L. R. (1992). Effects of reciprocal peer tutoring on mathematics and school adjustment: A component analysis. *Journal of Educational Psychology, 84*(3), 331–339. [doi:10.1037/0022-0663.84.3.331](https://doi.org/10.1037/0022-0663.84.3.331)"
@@ -29,12 +33,14 @@ sources:
     q: 3
     i: "?"
     n: 64 students
+    kind: causal
+    rigour: "?"
 ---
 
 # Cooperative learning without individual accountability produces free-riding that reduces learning outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2`–`q3` · `i1` small
+> **Evidence** · 3 studies · 1 causal `r?`, 1 quant-synthesis `r?`, 1 review `r3` · `q2`–`q3` · `i1` small
 
 When group rewards or grades are not tied to each member's individual learning, some members can share the group's outcome without contributing, and their learning suffers while group functioning degrades.
 
@@ -52,7 +58,7 @@ When group rewards or grades are not tied to each member's individual learning, 
 
 Slavin, R. E. (1996). Research on cooperative learning and achievement: What we know, what we need to know. *Contemporary Educational Psychology, 21*(1), 43–69. [doi:10.1006/ceps.1996.0004](https://doi.org/10.1006/ceps.1996.0004)
 
-`q2 · narrative review / best-evidence synthesis (median effect sizes and vote counts)` · `i1 · small effect, median ES=+.32 with group goals and individual accountability vs +.07 without` · `n=99 studies`
+`q2 · narrative review / best-evidence synthesis (median effect sizes and vote counts)` · `i1 · small effect, median ES=+.32 with group goals and individual accountability vs +.07 without` · `n=99 studies` · `review · r3`
 
 Slavin reviews 99 studies of cooperative learning in elementary and secondary schools that ran for at least four weeks. He compares methods in which teams are rewarded on the sum or average of members' individually taken quizzes, as in Student Teams-Achievement Divisions, with methods that reward a single group product or give no group reward. 78% of the studies with group goals and individual accountability found significantly positive effects, and none found negative ones. For the methods without them, 37% found positive effects and 14% found negative ones. Within-study component comparisons back this up: Fantuzzo, King and Heller (1992) found reward plus structure far ahead of either alone. But the review also cites structured-interaction and strategy-training methods, such as Meloth and Deering's think-sheets and scripted dyads, that raise achievement without any group reward. It concludes that rewards combined with strategy training work best, not that rewards are strictly necessary. The median effect sizes are counts of study results, not pooled meta-analytic estimates.
 
@@ -60,7 +66,7 @@ Slavin reviews 99 studies of cooperative learning in elementary and secondary sc
 
 Rohrbeck, C. A., Ginsburg-Block, M. D., Fantuzzo, J. W., & Miller, T. R. (2003). Peer-assisted learning interventions with elementary school students: A meta-analytic review. *Journal of Educational Psychology, 95*(2), 240–257. [doi:10.1037/0022-0663.95.2.240](https://doi.org/10.1037/0022-0663.95.2.240)
 
-`q3 · meta-analysis of group-comparison studies` · `i1 · small effect overall, weighted d=0.33 (95% CI 0.29–0.37)` · `n=not stated in abstract`
+`q3 · meta-analysis of group-comparison studies` · `i1 · small effect overall, weighted d=0.33 (95% CI 0.29–0.37)` · `n=not stated in abstract` · `quant-synthesis · r?`
 
 This meta-analysis pools group-comparison studies of peer-assisted learning (PAL) interventions with elementary school students. Its weighted mean effect on achievement is d = 0.33 (unweighted mean ES = 0.59). In moderator analyses, interventions with interdependent reward contingencies, ipsative evaluation procedures and more student autonomy had larger effects. That fits the page's point that group rewards based on each member's improvement matter. The study counts and moderator effect sizes were not read (abstract only), and individual accountability is not named as a moderator.
 
@@ -68,7 +74,7 @@ This meta-analysis pools group-comparison studies of peer-assisted learning (PAL
 
 Fantuzzo, J. W., King, J. A., & Heller, L. R. (1992). Effects of reciprocal peer tutoring on mathematics and school adjustment: A component analysis. *Journal of Educational Psychology, 84*(3), 331–339. [doi:10.1037/0022-0663.84.3.331](https://doi.org/10.1037/0022-0663.84.3.331)
 
-`q3 · randomised experiment, 2×2 component analysis` · `i? · effect size not in the abstract read` · `n=64 students`
+`q3 · randomised experiment, 2×2 component analysis` · `i? · effect size not in the abstract read` · `n=64 students` · `causal · r?`
 
 Sixty-four 4th and 5th graders at high risk of academic failure were randomly selected from a pool of 80. They were randomly assigned to one of four conditions: structured peer tutoring plus group reward, reward only, structure only, or neither. Students who received both components made the most accurate maths computations. Slavin (1996) describes the reward as depending on the sum of the dyad's daily quiz scores, which makes it a group reward based on individual learning. He reports ES = +1.42 for reward plus structure against control, with reward alone well ahead of structure alone. Those figures come from his secondary account, not from the primary article.
 

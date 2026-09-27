@@ -15,12 +15,14 @@ sources:
     author: Burnstein, R. A. and Lederman, L. M.
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # The review reports that formative assessment produces significant and often substantial learning gains, citing Black and Wiliam
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The article attributes significant and often substantial learning gains from formative assessment to the research of Black and Wiliam, and links formative assessment to Hake's finding that learning gains correlate with interactive engagement. [→ Burnstein 2007](#burnstein-2007)
@@ -31,7 +33,7 @@ sources:
 
 Burnstein, R. A. and Lederman, L. M. (2007). Wireless Keypads −− A New Classroom Technology Using Enhanced Multiple-Choice Questions. Physics Education. https://iopscience.iop.org/journal/0031-9120
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 The review reports, citing Black and Wiliam, that formative assessment produces significant and often substantial learning gains; the article itself reports no new data for this. It further attributes to Hake, based on substantial experimental data, that learning gains correlate with interactive engagement.
 

@@ -15,12 +15,14 @@ sources:
     author: Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Human fault-diagnosis performance deviates from optimality as problem size increases, though it beats a brute-force tracing strategy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Average number of tests until correct solution deviated from optimality as problem size increased, but subjects performed much better than a brute-force trace-back strategy. [→ Rouse 1980](#rouse-1980)
@@ -31,7 +33,7 @@ sources:
 
 Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=ED192743
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Experiment One with Task One networks of 9, 25, and 49 components, eight subjects, self-paced. The article reports deviation from optimality growing with problem size while subjects beat a brute-force strategy tracing back from an arbitrarily selected 0 output, interpreted as use of structural and state knowledge. The same pattern recurred in Experiments Three and Five.
 

@@ -15,18 +15,22 @@ sources:
     author: "Ren, X., Chano, J., & Saihong, P."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: ren-2025-2
     resource: "https://doi.org/10.5539/hes.v15n2p37"
     title: "Ren, X., Chano, J., & Saihong, P. (2025). Developing a TPACK-based Course to Promote the Pre-service Preschool Teachers' Instructional Design Competence. Higher Education Studies, 15(2). https://doi.org/10.5539/hes.v15n2p37"
     author: "Ren, X., Chano, J., & Saihong, P."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Lesson-plan quality grows steadily across three iterative design rounds, but no product reaches the excellent grade
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Across three rounds of iterative design, original plan means rose from 58.2 to 67.6 to 76.6, and by the final round all five products were rated good or above. [→ Ren 2025](#ren-2025)
@@ -38,7 +42,7 @@ sources:
 
 Ren, X., Chano, J., & Saihong, P. (2025). Developing a TPACK-based Course to Promote the Pre-service Preschool Teachers' Instructional Design Competence. Higher Education Studies, 15(2). https://doi.org/10.5539/hes.v15n2p37
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Analysis of lesson plans from five groups across three iterative design cycles, scored with the Lesson Plan Scoring Rubric (Table 5): original means 58.2, 67.6, 76.6; revised means 74.6, 75.6, 79.4. In the first round no original design reached a good grade; "all 5 products were rated as good or above" by the last round.
 
@@ -48,7 +52,7 @@ Analysis of lesson plans from five groups across three iterative design cycles, 
 
 Ren, X., Chano, J., & Saihong, P. (2025). Developing a TPACK-based Course to Promote the Pre-service Preschool Teachers' Instructional Design Competence. Higher Education Studies, 15(2). https://doi.org/10.5539/hes.v15n2p37
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Descriptive analysis of the same five groups' scored plans across all rounds: despite steady improvement, "both the original and the revised manuscripts received no excellent grades", and the authors conclude high scores remain elusive, needing continued professional learning and long-term practice.
 

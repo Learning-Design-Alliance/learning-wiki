@@ -14,6 +14,8 @@ sources:
     q: 2
     i: "?"
     n: unreported in secondary source
+    kind: causal
+    rigour: "?"
   - id: arduini-van-hoose-classroom-example
     resource: "https://edpsych.pressbooks.sunycreate.cloud"
     title: "Arduini-Van Hoose, N. (2020). Problem-solving. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0."
@@ -21,12 +23,14 @@ sources:
     q: 1
     i: 1
     n: 1 classroom example
+    kind: theoretical
+    rigour: "?"
 ---
 
 # Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1`–`q2` · `i1` small
+> **Evidence** · 2 studies · 1 causal `r?`, 1 theoretical `r?` · `q1`–`q2` · `i1` small
 
 Functional fixedness is a tendency to regard the functions of objects and ideas as fixed — over time, people become so used to one particular purpose for an object that they overlook its other possible uses (a dictionary is "for" checking spelling, even though it could equally serve as a doorstop or gift). The same fixedness applies to how a problem itself is framed, not only to physical objects.
 
@@ -42,7 +46,7 @@ Functional fixedness is a tendency to regard the functions of objects and ideas 
 
 German, T. P., & Barrett, H. C. (2005). Functional fixedness in a technologically sparse culture. *Psychological Science, 16*(1), 1-5.
 
-`q2 · experimental study` · `i? · no source text available to check; the entry prints no effect size` · `n=unreported in secondary source`
+`q2 · experimental study` · `i? · no source text available to check; the entry prints no effect size` · `n=unreported in secondary source` · `causal · r?`
 
 Cited via Arduini-Van Hoose, N. (2020), *Educational Psychology*, Problem-Solving chapter, https://edpsych.pressbooks.sunycreate.cloud, as the source for functional fixedness as a documented obstacle to problem-solving; the primary study's full method and sample size were not available in that secondary source and should be verified against the original publication before treating the cross-cultural claim as fully established from this citation alone.
 
@@ -50,7 +54,7 @@ Cited via Arduini-Van Hoose, N. (2020), *Educational Psychology*, Problem-Solvin
 
 Arduini-Van Hoose, N. (2020). Problem-solving. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 
-`q1 · illustrative classroom anecdote, not a controlled study` · `i1 · illustrates the mechanism, no effect size` · `n=1 classroom example`
+`q1 · illustrative classroom anecdote, not a controlled study` · `i1 · illustrates the mechanism, no effect size` · `n=1 classroom example` · `theoretical · r?`
 
 A teacher asked students to connect nine dots using only four straight lines. Most students assumed the lines could not extend beyond the dot matrix — an unstated assumption that made the puzzle unsolvable. One student only found a solution after the teacher repeatedly asked her to examine what she had assumed about how long the lines could be; another student, experienced with trick puzzles, immediately suspected the problem was "not what it first appeared to be" and deliberately questioned the literal wording. Both obstacles here are described as failures of **problem representation** — the way a person understands and organizes the information a problem provides; a companion example (the "water lilies double every day" problem) shows the converse failure, where a solver wrongly treats an irrelevant detail (lily size) as though it were relevant to the solution.
 

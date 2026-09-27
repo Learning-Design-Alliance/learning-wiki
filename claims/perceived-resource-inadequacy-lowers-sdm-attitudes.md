@@ -15,12 +15,14 @@ sources:
     author: Tuck, Kathy D.; And Others
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Most staff (70.2%) doubted their school's resources were adequate for the SDM, and perceived resource inadequacy was strongly associated with less positive attitudes toward the model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Nearly three-fourths (70.2%) of staff were uncertain or felt their school lacked adequate resources to implement the SDM; secondary staff expressed the lowest confidence. [→ Tuck 1994](#tuck-1994)
@@ -32,7 +34,7 @@ sources:
 
 Tuck, Kathy D.; And Others. (1994). Training for the Special Education Service Delivery Model. Evaluation. District of Columbia Public Schools. https://eric.ed.gov/?id=ED377631
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Survey analysis of perceived resource adequacy and attitudes (Figure 3; Tables 5, A-8 through A-10). The report found "staff who felt their school did not have adequate resources or were uncertain, had significantly less positive attitudes" (Table 5, F=23.45, p=.000), with significant differences by team membership, position, and school level.
 

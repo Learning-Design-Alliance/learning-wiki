@@ -15,6 +15,8 @@ sources:
     q: 4
     i: 2
     n: 66 comparisons from 38 experiments
+    kind: quant-synthesis
+    rigour: "?"
   - id: taylor-et-al-2017
     resource: "https://doi.org/10.1037/xge0000301"
     title: "Taylor, J. S. H., Davis, M. H., & Rastle, K. (2017). Comparing and validating methods of reading instruction using behavioural and neural findings in an artificial orthography. *Journal of Experimental Psychology: General, 146*(6), 826–858. [doi:10.1037/xge0000301](https://doi.org/10.1037/xge0000301)"
@@ -22,6 +24,8 @@ sources:
     q: 3
     i: "?"
     n: 24 adults
+    kind: causal
+    rigour: "?"
   - id: bowers-2020
     resource: "https://doi.org/10.1007/s10648-019-09515-y"
     title: "Bowers, J. S. (2020). Reconsidering the evidence that systematic phonics is more effective than alternative methods of reading instruction. *Educational Psychology Review, 32*(3), 681–705. [doi:10.1007/s10648-019-09515-y](https://doi.org/10.1007/s10648-019-09515-y)"
@@ -29,12 +33,14 @@ sources:
     q: 3
     i: 1
     n: 12 meta-analyses
+    kind: review
+    rigour: 3
 ---
 
 # Phonics Instruction Outperforms Whole Word For Generalization
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q3`–`q4` · `i1`–`i2`
+> **Evidence** · 3 studies · 1 causal `r?`, 1 quant-synthesis `r?`, 1 review `r3` · `q3`–`q4` · `i1`–`i2`
 
 Systematic phonics instruction — teaching letter–sound correspondences explicitly — produces stronger transfer to novel words than whole-word (look-and-say) approaches, because it equips learners with a generative decoding strategy rather than a finite store of memorized word forms.
 
@@ -52,7 +58,7 @@ Systematic phonics instruction — teaching letter–sound correspondences expli
 
 Ehri, L. C., Nunes, S. R., Stahl, S. A., & Willows, D. M. (2001). Systematic phonics instruction helps students learn to read: Evidence from the National Reading Panel's meta-analysis. *Review of Educational Research, 71*(3), 393–447. [doi:10.3102/00346543071003393](https://doi.org/10.3102/00346543071003393)
 
-`q4 · meta-analysis (not pre-registered)` · `i2 · medium effect, d=0.41` · `n=66 comparisons from 38 experiments`
+`q4 · meta-analysis (not pre-registered)` · `i2 · medium effect, d=0.41` · `n=66 comparisons from 38 experiments` · `quant-synthesis · r?`
 
 The National Reading Panel's meta-analysis compared systematic phonics instruction with unsystematic or no-phonics instruction in 66 treatment-control comparisons drawn from 38 experiments. The overall effect on reading was moderate (d = 0.41) and lasted after instruction ended. It was larger when phonics began early (d = 0.55) than after first grade (d = 0.27). Phonics helped decoding, word reading, comprehension and spelling, and beat every form of control instruction, whole language included. It did not help low-achieving readers with cognitive limitations. Only the abstract was read, and it gives no separate effect for reading novel words, which is the outcome this claim is about.
 
@@ -60,7 +66,7 @@ The National Reading Panel's meta-analysis compared systematic phonics instructi
 
 Taylor, J. S. H., Davis, M. H., & Rastle, K. (2017). Comparing and validating methods of reading instruction using behavioural and neural findings in an artificial orthography. *Journal of Experimental Psychology: General, 146*(6), 826–858. [doi:10.1037/xge0000301](https://doi.org/10.1037/xge0000301)
 
-`q3 · peer-reviewed within-subject training experiment with fMRI` · `i? · no standardised effect size reported` · `n=24 adults`
+`q3 · peer-reviewed within-subject training experiment with fMRI` · `i? · no standardised effect size reported` · `n=24 adults` · `causal · r?`
 
 Twenty-four English-speaking adults learned to read two sets of 24 novel words, each written in a different unfamiliar alphabetic script, over 8 days. For one script, training emphasised mapping print to sound, the approach phonics takes. For the other, it emphasised mapping print to meaning, the whole-word emphasis. Print-to-sound training made reading aloud trained words faster and more accurate, and made comprehension more accurate earlier in learning. Untrained words were read with about 80% accuracy in both scripts, with no accuracy difference between them, but they were read faster in the print-to-sound script. So the generalization advantage appeared in speed, not accuracy. The participants were adults with oral vocabulary pretrained, not beginning readers.
 
@@ -68,7 +74,7 @@ Twenty-four English-speaking adults learned to read two sets of 24 novel words, 
 
 Bowers, J. S. (2020). Reconsidering the evidence that systematic phonics is more effective than alternative methods of reading instruction. *Educational Psychology Review, 32*(3), 681–705. [doi:10.1007/s10648-019-09515-y](https://doi.org/10.1007/s10648-019-09515-y)
 
-`q3 · systematic review of meta-analyses` · `i1 · small effect, d=0.31 (NRP phonics vs whole-language subanalysis)` · `n=12 meta-analyses`
+`q3 · systematic review of meta-analyses` · `i1 · small effect, d=0.31 (NRP phonics vs whole-language subanalysis)` · `n=12 meta-analyses` · `review · r3`
 
 This systematic review re-examines 12 meta-analyses of systematic phonics and the results of England's national phonics mandate. It notes that the NRP's direct comparison of systematic phonics with whole language used 12 rather than 38 studies, none of them randomised controlled trials. That comparison gave d = 0.31, largest for decoding (d = 0.55) and smallest for comprehension (d = 0.19). Bowers also argues that several meta-analyses compared phonics with no extra training, or treated whole-word and whole-language controls as the same thing. He concludes there is little or no evidence that systematic phonics beats common alternatives, while stressing that this is not an argument for whole language. This review contradicts the claim more than it supports it.
 

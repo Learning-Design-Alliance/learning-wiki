@@ -15,12 +15,14 @@ sources:
     author: Pereira, Carolyn
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Interactive LRE methods engage students, who value LRE classes as relevant and interesting
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Law-related educators report that students value LRE classes as relevant, useful, and interesting, and that interactive methods such as small group work, mock trials, simulations, and case studies involve students positively. [→ Pereira 1988](#pereira-1988)
@@ -31,7 +33,7 @@ sources:
 
 Pereira, Carolyn. (1988). Law-Related Education in Elementary and Secondary Schools. ERIC Digest. https://eric.ed.gov/?id=ED296948
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The digest reports educators' observations, citing Hunter (1987), that students "value LRE classes as relevant, useful, and interesting" and that interactive methods such as small group work, mock trials, simulations, and case studies seem to involve students positively in learning. Heightened interest may transfer to other social studies courses.
 

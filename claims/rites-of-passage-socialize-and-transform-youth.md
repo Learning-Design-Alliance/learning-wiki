@@ -15,12 +15,14 @@ sources:
     author: Hill, Paul, Jr
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Coming-of-age rituals socialize youth outwardly into new roles and transform them inwardly by molding moral and mental disposition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Societies use coming-of-age ceremonies and their accompanying tests to socialize youth and transform them inwardly by molding moral and mental disposition. [→ Hill 1987](#hill-1987)
@@ -31,7 +33,7 @@ sources:
 
 Hill, Paul, Jr. (1987). Passage to Manhood: Rearing the Male African-American Child. ERIC. https://eric.ed.gov/?id=ED287966
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in this descriptive conference paper, drawing on anthropological accounts of initiation rites. The author asserts that "a society socializes its youth and transforms them inwardly" through coming-of-age ceremony; no empirical data are offered.
 

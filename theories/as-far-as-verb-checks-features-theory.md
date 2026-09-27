@@ -16,7 +16,7 @@ sources:
 # As-far-as-a-verb-can-check-its-features theory of adverb order and scope within TP
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The author proposes a principle, named the "as-far-as-a-verb-can-check-its-features theory", to explain adverb order and scope. Building on Chomsky's functional categories C, T and v, adverbs adjoin to CP, TP, vP or VP according to the features of each head (mood/modality adverbs to CP, time adverbs to TP, event-related adverbs to vP), and within TP co-occurring adverbs follow a strict linear order because T is "the farthest node which can be in relation to the node V". An adverb appearing in different positions varies in its scope, with the left-most element in English taking the widest scope.

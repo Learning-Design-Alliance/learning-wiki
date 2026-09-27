@@ -15,18 +15,22 @@ sources:
     author: "Sweet, S. J., & Rupp, A. A."
     q: 2
     i: 3
+    kind: design
+    rigour: 2
   - id: sweet-2012-2
     resource: "https://jedm.educationaldatamining.org/index.php/JEDM"
     title: "Sweet, S. J., & Rupp, A. A. (2012). Using the ECD Framework to Support Evidentiary Reasoning in the Context of a Simulation Study for Detecting Learner Differences in Epistemic Games. Journal of Educational Data Mining, Special Issue, Article 5, Volume 4. https://jedm.educationaldatamining.org/index.php/JEDM"
     author: "Sweet, S. J., & Rupp, A. A."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # In pairwise WD analyses, learner trajectory similarity dominates variation in percentage-overlap values (57.90% of variation) while remaining design factors are essentially zero
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` In the five-way ANOVA of percentage-overlap WD values, differences in learner trajectories dominated all other sources of variation (57.90% of variation), with a decreasing trend in mean percentage-overlap values across the three trajectory-similarity groups and all remaining effect sizes essentially zero. [→ Sweet 2012](#sweet-2012)
@@ -38,7 +42,7 @@ sources:
 
 Sweet, S. J., & Rupp, A. A. (2012). Using the ECD Framework to Support Evidentiary Reasoning in the Context of a Simulation Study for Detecting Learner Differences in Epistemic Games. Journal of Educational Data Mining, Special Issue, Article 5, Volume 4. https://jedm.educationaldatamining.org/index.php/JEDM
 
-`q2 · i3`
+`q2 · i3` · `design · r2`
 
 Five-way ANOVA on percentage-overlap WD values (trajectory-similarity group, task difficulty, specificity, content, complexity; 252 cells) showed "differences in learner trajectories dominated all other sources of variation" with remaining effect sizes essentially zero.
 
@@ -48,7 +52,7 @@ Five-way ANOVA on percentage-overlap WD values (trajectory-similarity group, tas
 
 Sweet, S. J., & Rupp, A. A. (2012). Using the ECD Framework to Support Evidentiary Reasoning in the Context of a Simulation Study for Detecting Learner Differences in Epistemic Games. Journal of Educational Data Mining, Special Issue, Article 5, Volume 4. https://jedm.educationaldatamining.org/index.php/JEDM
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Empirical 95% pseudo-confidence bands for WD (Figure 10, design matrix 1, medians across 100 replications) show that five of six learner types "remain rather well separated after a few evidentiary segments / tasks", while band width increases slightly across segments.
 

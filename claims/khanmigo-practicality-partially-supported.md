@@ -15,12 +15,14 @@ sources:
     author: Shetye, S.
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Khanmigo partially supports the practicality criterion: affordable subscription, user-friendly interface, portability, and teacher monitoring, but paid access limits some learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Khanmigo's $4 monthly cost, user-friendly interface, portability across Android and iOS, and teacher supervision feature partially support practicality, though the paid subscription is unaffordable for some. [→ Shetye 2024](#shetye-2024)
@@ -31,7 +33,7 @@ sources:
 
 Shetye, S. (2024). An Evaluation of Khanmigo, a Generative AI Tool, as a Computer-Assisted Language Learning App. Studies in Applied Linguistics & TESOL at Teachers College, Columbia University. https://journals.library.columbia.edu/index.php/SALT
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Judgment in Table 1 of the qualitative evaluation. The author notes Khanmigo is not open-source, so "not all learners and educators can afford to pay a monthly fee", and that knowledgeable personnel may not always be available to help.
 

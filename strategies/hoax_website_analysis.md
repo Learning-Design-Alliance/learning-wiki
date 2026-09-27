@@ -12,7 +12,7 @@ generated:
 # Hoax Website Analysis
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 5 studies, `q2`–`q4` · 1 of 5 report an effect size
+> **Evidence** · 3 claims (3 for) · 5 studies (2 causal, 2 quant-synthesis, 1 associational), `q2`–`q4` · 1 of 5 report an effect size
 
 ## Description
 Learners analyze famous hoax or fabricated websites (e.g., the DHMO "dihydrogen monoxide" site, the Pacific Northwest Tree Octopus, or satirical news pages) to identify the visual, linguistic, and structural cues that signal a site is not a legitimate source. The strategy typically pairs guided inspection of the hoax with comparison against a credible site, then asks learners to articulate the discriminating features and verify claims through independent searching.

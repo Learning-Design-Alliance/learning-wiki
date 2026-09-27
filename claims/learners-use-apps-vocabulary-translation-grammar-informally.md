@@ -15,12 +15,14 @@ sources:
     author: Rosell-Aguilar, F.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Learners use apps mostly for vocabulary development, translation, and grammar practice, often informally and in short sessions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports, citing Rosell-Aguilar (2016), that 85 distance learners of Spanish used apps mostly for vocabulary development, translation, and grammar practice, often informally and for short periods. [→ Rosell-Aguilar 2017](#rosell-aguilar-2017)
@@ -31,7 +33,7 @@ sources:
 
 Rosell-Aguilar, F. (2017). State of the App: A Taxonomy and Framework for Evaluating Language Learning Mobile Applications. CALICO Journal. https://doi.org/10.1558/cj.27623
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review of user studies, section 2.1. The review reports this from Rosell-Aguilar's (2016) study of 85 distance learners of Spanish, who liked practising specific areas, rapid access, ease of use, and gamification, but had concerns about usability, content reliability, and poor feedback.
 

@@ -15,12 +15,14 @@ sources:
     author: Slepkov, A. D.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Undergraduate physics students react highly positively to the IF-AT format
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In an anonymous post-midterm survey, of 26 responders thirteen were highly positive, ten positive, two neutral, one negative, and none highly negative about the IF-AT technique. [→ Slepkov 2013](#slepkov-2013)
@@ -31,7 +33,7 @@ sources:
 
 Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Anonymous course evaluation survey after the two-hour IF-AT midterm, with attitudes categorized as "highly-positive", "positive", "neutral", "negative", and "highly-negative". Many students identified the knowledge-of-results aspect as a primary benefit.
 

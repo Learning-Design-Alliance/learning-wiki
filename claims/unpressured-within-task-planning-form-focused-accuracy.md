@@ -15,12 +15,14 @@ sources:
     author: Yingli Wang
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Unpressured within-task planning improves accuracy only when attention is guided to form
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Extra time improved accuracy of word order only when learners' attention was guided to focus on form; time alone had no effect. [→ Yingli Wang 2008](#yingli-wang-2008)
@@ -31,7 +33,7 @@ sources:
 
 Yingli Wang. (2008). Influence of Planning on Students' Language Performance in Task-based Language Teaching. English Language Teaching, 1(1). https://www.ccsenet.org/journal/index.php/elt
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Hulstijn and Hulstijn's (1984) study of L2 Dutch students performing oral narrative tasks under combinations of time and guided-attention conditions: "time itself did not infl uence the accuracy of word order" unless attention was guided to form. No effect sizes are printed.
 

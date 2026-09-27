@@ -17,7 +17,7 @@ sources:
 # ACE-HE survey instrument measuring ABC engagement and institutional support in online/blended higher education
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The ACE in Higher Education (ACE-HE) is a survey measuring indicators of affective, behavioral, and cognitive engagement (four items each) plus institutional support elements (nine affective, nine behavioral, six cognitive items) and eight external personal-environment barriers, on 6-point agreement scales. Items were "translated from English into Spanish (see Appendix A) and piloted for comprehension and clarity with students from the host university." It was completed by 1,295 students (1,165 undergraduate, 130 graduate), 14.2% of the university population, and both English and Spanish versions are publicly available.

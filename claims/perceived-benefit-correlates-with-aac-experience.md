@@ -15,12 +15,14 @@ sources:
     author: Jarrar Hala, Malhis Lana, Munawer Alaa, Omareya Moamen, Deek Nagham, Abutair Razan, Dodeen Saja, Khadeje Sara Majed, Abu-Shamat Zaynab
     q: 2
     i: 1
+    kind: associational
+    rigour: 1
 ---
 
 # Perceived AAC benefit score is positively correlated with the seven-item AAC implementation experience score
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` A statistically significant positive Spearman correlation (rs = 0.426, p < 0.001) was found between perceived benefit and AAC experience scores. [→ Jarrar Hala 2026](#jarrar-hala-2026)
@@ -31,7 +33,7 @@ sources:
 
 Jarrar Hala, Malhis Lana, Munawer Alaa, Omareya Moamen, Deek Nagham, Abutair Razan, Dodeen Saja, Khadeje Sara Majed, Abu-Shamat Zaynab. (2026). Parent-reported benefits, barriers, and experiences of augmentative and alternative communication use among children with autism in Nablus, Palestine: a cross-sectional study. BMC Pediatrics. https://doi.org/10.1186/s12887-026-07161-2
 
-`q2 · i1`
+`q2 · i1` · `associational · r1`
 
 Exploratory Spearman correlation analysis (valid n = 70) in the cross-sectional survey found "a statistically significant positive correlation" between the two parent-reported scores (rs = 0.426, p < 0.001).
 

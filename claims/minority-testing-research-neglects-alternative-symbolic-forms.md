@@ -15,12 +15,14 @@ sources:
     author: Shavelson, Richard J.; Webb, Noreen M.; Lehman, Penny
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Research on minority group testing has focused on test bias, linguistic minorities, and culture-fair tests, rarely on alternative symbolic forms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The minority group testing literature concentrates on three topics and has rarely examined alternative symbolic forms of tests or items. [→ Shavelson 1986](#shavelson-1986)
@@ -31,7 +33,7 @@ sources:
 
 Shavelson, Richard J.; Webb, Noreen M.; Lehman, Penny. (1986). The Role of Symbol Systems in Problem Solving: A Literature Review. CSE Report No. 269. https://eric.ed.gov/?id=ED338680
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review synthesis: the authors state that research on minority group testing "has rarely focused on the possibility of alternative symbolic forms of tests or test items" and instead concentrated on test bias, linguistic minority testing, and culture-fair test development.
 

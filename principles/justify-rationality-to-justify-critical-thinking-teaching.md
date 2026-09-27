@@ -17,7 +17,7 @@ sources:
 # Educational efforts to foster critical thinking require a justification of rationality
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Because critical thinking is the educational cognate of rationality, educators who teach students to seek reasons and justifications must themselves be able to justify their commitment to critical thinking; otherwise students who take the lesson to heart will find it cannot satisfy its own standard. Siegel argues that answering 'Why be rational?' provides "an underlyingrationale and justification for our efforts to foster critical thinking in theschools", adding a dimension of philosophical and educational importance to the theory of critical thinking.

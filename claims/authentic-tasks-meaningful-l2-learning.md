@@ -15,12 +15,14 @@ sources:
     author: Faramarz Samifanni
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Meaningful L2 learning is achieved through a conducive environment and authentic tasks and materials
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Provision of a conducive learning environment and use of authentic tasks and materials improve learners' motivation and interest in the target language. [→ Faramarz Samifanni 2020](#faramarz-samifanni-2020)
@@ -31,7 +33,7 @@ sources:
 
 Faramarz Samifanni. (2020). The Fluency Way: A Functional Method for Oral Communication. English Language Teaching, 13(3). https://doi.org/10.5539/elt.v13n3p100
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 Theme 6 of the study's ten synthesized themes from qualitative analysis of SLA theories and teaching methods; the article offers this as an emerging principle rather than a tested result.
 

@@ -15,18 +15,22 @@ sources:
     author: "Yow, W. Q., & Priyashri, S."
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
   - id: yow-2019-2
     resource: "https://doi.org/10.1177/2332858419878126"
     title: "Yow, W. Q., & Priyashri, S. (2019). Computerized Electronic Features Direct Children's Attention to Print in Single- and Dual-Language e-Books. AERA Open. https://doi.org/10.1177/2332858419878126"
     author: "Yow, W. Q., & Priyashri, S."
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # Audio narration with finger-tracking animation directs bilingual preschoolers' attention to the target-language print in dual-language e-books, including the nondominant language
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` When English narration and animation tracked English sentences, children's PLT to English text greatly exceeded PLT to Mandarin text, F(1, 30) = 85.95, p < .001, partial η2 = .74. [→ Yow 2019](#yow-2019)
@@ -38,7 +42,7 @@ sources:
 
 Yow, W. Q., & Priyashri, S. (2019). Computerized Electronic Features Direct Children's Attention to Print in Single- and Dual-Language e-Books. AERA Open. https://doi.org/10.1177/2332858419878126
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 Study 1 enhanced English dual-language reading condition (eye-tracking, within-subjects). During animation, mean PLT was 0.86 to English versus 0.14 to Mandarin; children's "PLTE was significantly longer than PLTM when a finger-pointing animation tracked the English sentences."
 
@@ -48,7 +52,7 @@ Study 1 enhanced English dual-language reading condition (eye-tracking, within-s
 
 Yow, W. Q., & Priyashri, S. (2019). Computerized Electronic Features Direct Children's Attention to Print in Single- and Dual-Language e-Books. AERA Open. https://doi.org/10.1177/2332858419878126
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 Study 1 enhanced Mandarin condition: during animation children's "PLT to the target (Mandarin) text was significantly higher than PLT to the English text during animation phase" (d = 2.06), showing multimedia features can override the dominant-language bias for the nondominant language.
 

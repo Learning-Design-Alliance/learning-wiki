@@ -13,12 +13,14 @@ sources:
     title: maker-case
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # In the Maker Learning @ Home cohort, feedback loops with cohort members redefined the initiative's outputs and goals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Through a feedback loop with cohort members, the Digital Promise team shifted from project-specific guides to a field-wide project guide, and an additional output, a professional learning guide, emerged. [→ maker-case](#maker-case)
@@ -29,7 +31,7 @@ sources:
 
 Baker, A., Weisgrau, J., & Brister Philyaw, K. (2022, May). Feedback loops: Mapping transformative interactions in education innovation. Digital Promise. https://doi.org/10.51388/20.500.12265/155
 
-`q1 · case study` · `i? · no effect size`
+`q1 · case study` · `i? · no effect size` · `design · r1`
 
 Case study of the Maker Learning @ Home cohort, an amplifier structure in which six educators from four organizations took part in a six-month professional learning experience, and Digital Promise provided each organization $5,000 for its maker project; cohort members held user, designer, and translator roles. The realignment of goals is the authors' account of the loop in action.
 

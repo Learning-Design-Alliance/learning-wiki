@@ -15,12 +15,14 @@ sources:
     author: Kim, Saekyung; Gaa, John; Swank, Paul; Liberman, Dov
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Korean immigrant sample scored significantly lower than the MPD normative group on identity, intimacy, and generativity resolution for both genders
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` T-tests showed the immigrant sample scored significantly lower than the normative group on all resolution scales, for both males and females. [→ Kim 1998](#kim-1998)
@@ -31,7 +33,7 @@ sources:
 
 Kim, Saekyung; Gaa, John; Swank, Paul; Liberman, Dov. (1998). Identity Transformation of Korean Immigrants. https://eric.ed.gov/?id=ED420007
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 T-tests comparing the immigrant sample's MPD resolution scores with the manual's normative means (ages 25-49, by gender) found significant differences for both genders; the article reports "significantly lower on the resolution scales" with t-values printed in Table 8 but no effect size.
 

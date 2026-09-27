@@ -15,18 +15,22 @@ sources:
     author: Li, Yuan H.; Lissitz, Robert W.
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
   - id: li-1998-2
     resource: "https://eric.ed.gov/?id=ED418999"
     title: "Li, Yuan H.; Lissitz, Robert W. (1998). An Evaluation of Multidimensional IRT Equating Methods by Assessing the Accuracy of Transforming Parameters onto a Target Test Metric. Paper presented at the annual meeting of the National Council on Measurement in Education. https://eric.ed.gov/?id=ED418999"
     author: Li, Yuan H.; Lissitz, Robert W.
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Regression analysis shows the MTCS method significantly degrades dilation-parameter precision relative to the Ratio of Eigenvalues method, while simulation factors explain most RMSE variation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In the regression predicting Log[RMSE] of the k estimate, the standardized coefficient for MTCS versus Ratio of Eigenvalues was 0.652 (significant), while Ratio of Trace versus Ratio of Eigenvalues was 0.067 (not significant); adjusted R2 ranged from 0.86 to 0.90. [→ Li 1998](#li-1998)
@@ -37,7 +41,7 @@ sources:
 
 Li, Yuan H.; Lissitz, Robert W. (1998). An Evaluation of Multidimensional IRT Equating Methods by Assessing the Accuracy of Transforming Parameters onto a Target Test Metric. Paper presented at the annual meeting of the National Council on Measurement in Education. https://eric.ed.gov/?id=ED418999
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Inferential regression analysis of the first simulation study predicting Log[RMSE] of transformation-parameter estimates from method, sample size, test length, linking, and study situation dummies. The authors report the MTCS dummy coefficient of 0.652 significant and the Ratio of Trace dummy of 0.067 not significant; no effect size is printed.
 
@@ -47,7 +51,7 @@ Inferential regression analysis of the first simulation study predicting Log[RMS
 
 Li, Yuan H.; Lissitz, Robert W. (1998). An Evaluation of Multidimensional IRT Equating Methods by Assessing the Accuracy of Transforming Parameters onto a Target Test Metric. Paper presented at the annual meeting of the National Council on Measurement in Education. https://eric.ed.gov/?id=ED418999
 
-`q1 · i?`
+`q1 · i?` · `causal · r2`
 
 Same regression models as the primary analysis; the authors interpret the adjusted R2 range of 0.86 to 0.90 as showing the simulation factors account heavily for variation in each transformation-parameter estimate's RMSE.
 

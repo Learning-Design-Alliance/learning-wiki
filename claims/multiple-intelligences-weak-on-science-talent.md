@@ -15,12 +15,14 @@ sources:
     author: Ediger, Marlow
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # The Theory of Multiple Intelligences is weak in stressing science and social sciences as fields of talent, and existing subject categories could nurture pupils' talents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The essay argues Gardner's seven intelligences do not pinpoint endeavors in science such as physicists, chemists, astronomers, biologists, and geologists, and that talents could be nurtured within existing subject areas instead. [→ Ediger 1995](#ediger-1995)
@@ -31,7 +33,7 @@ sources:
 
 Ediger, Marlow. (1995). To Every Action There Is an Opposite and Equal Reaction: An Essay on Teaching. https://eric.ed.gov/?id=ED386319
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r1`
 
 The essay's own critical assessment, citing Thurstone's 1938 six related intelligences and Guilford's 120 factors as prior factor-analytic work. The author contends pupils' talents can be nurtured using categories such as language arts, science, social sciences, mathematics, art, and music.
 

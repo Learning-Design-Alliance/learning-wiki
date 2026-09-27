@@ -15,6 +15,8 @@ sources:
     q: 3
     i: 2
     n: 106 (51 + 55 ninth-graders across two classroom cohorts)
+    kind: causal
+    rigour: 2
   - id: omeara-and-lovett-2026
     resource: "https://doi.org/10.1080/10615806.2025.2552857"
     title: "O'Meara, P., & Lovett, B. J. (2026). Single-session expressive writing interventions for test anxiety: A meta-analysis. *Anxiety, Stress, & Coping, 39*(1), 21–34. [doi:10.1080/10615806.2025.2552857](https://doi.org/10.1080/10615806.2025.2552857)"
@@ -22,12 +24,14 @@ sources:
     q: 4
     i: 0
     n: 1,457 participants across 21 studies, 30 effect sizes
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Expressive Writing Improves Exam Performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3`–`q4` · `i0`–`i2`
+> **Evidence** · 2 studies · 1 causal `r2`, 1 quant-synthesis `r3` · `q3`–`q4` · `i0`–`i2`
 
 Brief expressive writing about exam-related worries, completed shortly before a high-stakes test, can offload anxious thoughts and free working-memory resources for the exam task itself. The claim concerns *performance* under pressure — helping students show what they already know — not the acquisition of new knowledge.
 
@@ -43,7 +47,7 @@ Brief expressive writing about exam-related worries, completed shortly before a 
 
 Ramirez, G., & Beilock, S. L. (2011). Writing about testing worries boosts exam performance in the classroom. *Science, 331*(6014), 211–213. [doi:10.1126/science.1199427](https://doi.org/10.1126/science.1199427)
 
-`q3 · peer-reviewed experiment (2 lab experiments + 2 randomized field experiments, not pre-registered)` · `i2 · medium effect, d=0.57` · `n=106 (51 + 55 ninth-graders across two classroom cohorts)`
+`q3 · peer-reviewed experiment (2 lab experiments + 2 randomized field experiments, not pre-registered)` · `i2 · medium effect, d=0.57` · `n=106 (51 + 55 ninth-graders across two classroom cohorts)` · `causal · r2`
 
 Two laboratory studies (Ns=20, 47) and two randomized field experiments in ninth-grade biology classrooms (Ns=51, 55) tested a 10-minute expressive-writing exercise done immediately before a high-pressure math test or the first high-school final exam. In the classroom studies, test anxiety predicted lower final-exam scores in the control condition (combined r=−.51) but not in the expressive-writing condition (combined r=−.14), and among students high in test anxiety, writers outscored controls on the final exam by about 6 percentage points [t(52)=2.08, P<0.05, d=0.57]; low-anxiety students showed no writing-condition difference. The lab studies (d=0.47–2.48) showed that writing specifically about exam-related worries — not writing about an unrelated topic — prevented the usual pressure-induced accuracy drop.
 
@@ -51,7 +55,7 @@ Two laboratory studies (Ns=20, 47) and two randomized field experiments in ninth
 
 O'Meara, P., & Lovett, B. J. (2026). Single-session expressive writing interventions for test anxiety: A meta-analysis. *Anxiety, Stress, & Coping, 39*(1), 21–34. [doi:10.1080/10615806.2025.2552857](https://doi.org/10.1080/10615806.2025.2552857)
 
-`q4 · meta-analysis (21 studies, 15 documents)` · `i0 · negligible effect, r=.06 (n.s.) on performance after outlier removal; r=−.05/−.10 on anxiety` · `n=1,457 participants across 21 studies, 30 effect sizes`
+`q4 · meta-analysis (21 studies, 15 documents)` · `i0 · negligible effect, r=.06 (n.s.) on performance after outlier removal; r=−.05/−.10 on anxiety` · `n=1,457 participants across 21 studies, 30 effect sizes` · `quant-synthesis · r3`
 
 A meta-analysis of the single-session expressive-writing literature (the paradigm Ramirez and Beilock's classroom studies exemplify) found only a negligible, nonsignificant effect on test anxiety (r=−.05, p=.57; r=−.10, p=.08 after removing an extreme outlier) and an effect on test performance that was significant before outlier removal (r=.09, p=.02) but shrank to nonsignificance after it (r=.06, p=.06). Heterogeneity across studies was substantial and the moderators tested did not explain it robustly. The authors conclude the broader literature "fails to support single sessions of expressive writing as a treatment for test anxiety," which qualifies rather than confirms the original classroom finding as a general effect.
 

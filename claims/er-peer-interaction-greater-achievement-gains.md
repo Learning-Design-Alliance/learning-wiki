@@ -15,12 +15,14 @@ sources:
     author: Jacobs, George M.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Extensive reading accompanied by peer interaction produced greater reading achievement gains than ER without peer interaction, no ER, or ER with teacher conferences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a pretest-posttest study, students doing ER with peer interaction significantly outperformed students in the three other conditions on reading achievement gains. [→ Jacobs 2000](#jacobs-2000)
@@ -32,7 +34,7 @@ sources:
 
 Jacobs, George M. (2000). Reading Alone Together: Enhancing Extensive Reading via Student-Student Cooperation in Second Language Instruction. Paper presented at the Malaysian International Conference on English Language Teaching, Malacca, Malaysia. https://eric.ed.gov/?id=ED444377
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The article reports, citing Manning and Manning (1984), a pretest-posttest study with 415 fourth grade students in the US reading in their native English, randomly assigned to four conditions. The peer-interaction condition "significantly outperformed students in the three other conditions on reading achievement gains"; no effect size is printed.
 

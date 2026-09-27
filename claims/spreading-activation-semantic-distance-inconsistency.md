@@ -15,12 +15,14 @@ sources:
     author: Bigenho, Frederick W., Jr
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Spreading activation's semantic distance effect is inconsistent: a cow is verified faster as an animal than as a mammal despite semantic distance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Reaction-time findings contradict the spreading-activation prediction: it takes less time to react to "a cow is an animal" than "a cow is a mammal," although mammal is semantically closer to cow. [→ Bigenho 1992](#bigenho-1992)
@@ -31,7 +33,7 @@ sources:
 
 Bigenho, Frederick W., Jr. (1992). Conceptual Developments in Schema Theory. https://eric.ed.gov/?id=ED351392
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The essay reports, citing Ellis and Hunt (1989, p. 146), that this reaction-time anomaly contradicts the semantic distance effect predicted by the schema theory of activation, in which "the further removed an activation node is from its source, the weaker its signals." No effect size is printed.
 

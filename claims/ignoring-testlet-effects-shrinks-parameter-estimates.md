@@ -15,12 +15,14 @@ sources:
     author: Rijmen, F.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Ignoring testlet effects by fitting a unidimensional 2PL model produced mild shrinkage of item intercept and loading estimates toward zero relative to the bifactor model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Compared to the bifactor model, the 2PL model's intercept and loading estimates were somewhat shrunk towards zero for the most part, with larger discrepancies for loadings. [→ Rijmen 2009](#rijmen-2009)
@@ -31,7 +33,7 @@ sources:
 
 Rijmen, F. (2009). Three Multidimensional Models for Testlet-Based Tests: Formal Relations and an Empirical Comparison. ETS Research Report RR-09-37. http://www.ets.org/research/contact.html
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Figures 4 and 5 display item intercept and loading estimates with 95% confidence intervals for the 2PL and bifactor models on the English assessment data. The article reports "somewhat shrunk towards zero" for the 2PL estimates, and that "The discrepancies in estimated values is larger than was observed for the intercept parameters."
 

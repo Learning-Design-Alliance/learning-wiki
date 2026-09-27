@@ -15,12 +15,14 @@ sources:
     author: "Uz Baş, A., & Öz Soysal, F. S."
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Self-disclosure, loyalty, and mild deviance significantly and positively predict reactive aggression among high school girls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` In a multiple regression with high school girls, self-disclosure (β = .179), loyalty (β = .230), and mild deviance (β = .223) each significantly and positively predicted reactive aggression, together accounting for R² = .219. [→ Uz Baş 2016](#uz-bas-2016)
@@ -31,7 +33,7 @@ sources:
 
 Uz Baş, A., & Öz Soysal, F. S. (2016). Peer relations and peer deviance as predictors of reactive and proactive aggression among high school girls. Educational Sciences: Theory & Practice, 16, 173-186. http://dx.doi.org/10.12738/estp.2016.1.0287
 
-`q3 · i1`
+`q3 · i1` · `associational · r2`
 
 Multiple regression in a descriptive correlational study of 442 high school girls, with reactive aggression as the dependent variable. The predictors "taken together, accounted for significant variation in Reactive Aggression scores (R² = .219, p < .001)"; serious deviance (β = .054) was not significant.
 

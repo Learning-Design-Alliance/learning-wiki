@@ -15,12 +15,14 @@ sources:
     author: "Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C."
     q: 2
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # Students who took the first quarter of CLASP before general chemistry earned significantly higher chemistry grades in all three quarters of the chemistry sequence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` In an NSF-supported study with a control group starting chemistry first, students taking CLASP first quarter showed grade increases of 0.59, 0.62, and 0.43 grade-points over the course average in the three chemistry quarters (p < 0.001, p < 0.001, p < 0.03), while the control group's marginal advantage was not significant. [→ Potter 2018](#potter-2018)
@@ -31,7 +33,7 @@ sources:
 
 Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2018). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970
 
-`q2 · i2`
+`q2 · i2` · `causal · r1`
 
 Study under NSF CCLI grant DUE-0633317 comparing a group taking CLASP first quarter before general chemistry against a control group starting chemistry first; the control group's performance was marginally above the roughly 380-student course average but not statistically significant (p > 0.05). No effect size is printed.
 

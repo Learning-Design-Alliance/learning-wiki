@@ -12,7 +12,7 @@ generated:
 # Book Talks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 A book talk is a short, structured presentation — typically 1–5 minutes — in which a learner (or teacher) shares a book they have read: what it is about, what struck them, and why others might read it. Unlike a book report, a book talk is persuasive and conversational, aimed at an authentic audience of peers, and is usually followed by questions or discussion.

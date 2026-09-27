@@ -15,12 +15,14 @@ sources:
     author: Malhotra S, Biswas P, Sharan P, Grover S.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Registrations of 10-15 year olds at a north Indian child and adolescent psychiatry clinic increased significantly across three time periods (1980-2005)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Clinic registration in the 10-15 year age group rose significantly across the three periods, with all pairwise comparisons significant (III>II>I). [→ Malhotra S 2007](#malhotra-s-2007)
@@ -31,7 +33,7 @@ sources:
 
 Malhotra S, Biswas P, Sharan P, Grover S. (2007). Characteristics of Patients Visiting the Child & Adolescent Psychiatric Clinic: A 26-year Study from North India. J. Indian Assoc. Child Adolesc. Ment. Health 3(3). https://eric.ed.gov/?id=EJ896858
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Retrospective service-data audit of detailed assessments at the CAP clinic of PGIMER, Chandigarh, comparing Periods I (1980-1989), II (1990-1999) and III (2000-2005) with ANOVA and Scheffe post-hoc tests. The article reports "a significant increase in registration in the oldest age group (10-15 years; F=22.29; p<0.001)"; 10-15 year olds were the largest subgroup in all three periods.
 

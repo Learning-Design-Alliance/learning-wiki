@@ -15,18 +15,22 @@ sources:
     author: "Tricia A. Zucker, Erin Jacbos & Snyder & Sonia Q. Cabell"
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
   - id: tricia-a-zucker-2021-2
     resource: "https://doi.org/10.1080/10409289.2020.1839288"
     title: "Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development. https://doi.org/10.1080/10409289.2020.1839288"
     author: "Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell"
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Fidelity of implementation of early language curricula varies widely across teachers and studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Prior studies of pre-k language and literacy curricula report substantial variability in adherence (e.g., 76–82% average; 79–93% range; one study averaging 38% of core targets) and dosage (73% of intended lessons). [→ Tricia A. Zucker 2021](#tricia-a-zucker-2021)
@@ -38,7 +42,7 @@ sources:
 
 Tricia A. Zucker, Erin Jacbos & Snyder & Sonia Q. Cabell (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development. https://doi.org/10.1080/10409289.2020.1839288
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 Narrative synthesis of prior fidelity studies reported in this article's literature review; it attributes findings to Piasta et al. (2015), Justice et al. (2009), and Dickinson (2011), noting one study's low FOI was a possible explanation for lack of significant student impacts.
 
@@ -48,7 +52,7 @@ Narrative synthesis of prior fidelity studies reported in this article's literat
 
 Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development. https://doi.org/10.1080/10409289.2020.1839288
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Summary of adherence, dosage, and satisfaction data across the three Developing Talkers studies (Table 4); the article notes considerable heterogeneity in lessons implemented in Study 3 (M = 122.20, SD = 34.96) while teacher satisfaction stayed high (Range = 3.32 to 3.78 on a 4-point scale).
 

@@ -15,12 +15,14 @@ sources:
     author: Williams, Paul A.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Youth workers at the treatment program treated admissions as a sudden procedural event rather than a gradual therapeutic process
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` At the Youth Center, the identified problem was Workers treating admissions as a sudden, procedural event instead of easing youths gradually into residential treatment. [→ Williams 1995](#williams-1995)
@@ -31,7 +33,7 @@ sources:
 
 Williams, Paul A. (1995). Developing a Model to Ease Youths' Transitions into Residential Treatment: Integrating Constructivist Therapies and Youth Care Work into a Contextually Relevant Rite of Passage. Nova Southeastern University. https://eric.ed.gov/?id=ED398498
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Applied research project documenting the problem through interviews with administrators, workers, and youths, workers' written statements, and the admission and intake manual at one residential treatment program. The author states the problem is "Workers treating admissions as a sudden, procedural event."
 

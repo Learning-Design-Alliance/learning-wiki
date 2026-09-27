@@ -17,7 +17,7 @@ sources:
 # Duolingo asynchronous discussion boards
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Duolingo connects learners through asynchronous discussion boards attached to each lesson in each of over 38 language courses, where users "can come together to problem-solve vocabulary and grammar issues, troubleshoot technical aspects of the program, and discuss additional resources for language content." A single board may stay active for years, and users include average users, plus users, and volunteer moderators who answer questions more reliably. During the pandemic the boards also carried social-emotional exchanges such as gifting lingots to healthcare workers.

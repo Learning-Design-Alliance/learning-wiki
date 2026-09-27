@@ -15,6 +15,8 @@ sources:
     q: 3
     i: "?"
     n: three experiments, per-study n not stated in the abstract
+    kind: causal
+    rigour: "?"
   - id: morehead-dunlosky-rawson-2019
     resource: "https://doi.org/10.1007/s10648-019-09468-2"
     title: "Morehead, K., Dunlosky, J., & Rawson, K. A. (2019). How Much Mightier Is the Pen than the Keyboard for Note-Taking? A Replication and Extension of Mueller and Oppenheimer (2014). *Educational Psychology Review, 31*(3), 753–780. [doi:10.1007/s10648-019-09468-2](https://doi.org/10.1007/s10648-019-09468-2)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: "?"
     n: unreported in what was read (two experiments, plus added eWriter and no-notes conditions)
+    kind: causal
+    rigour: "?"
 ---
 
 # Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 2 studies · 2 causal `r?` · `q3`
 
 The proposed mechanism is that laptops, being faster than handwriting, invite learners to transcribe lectures word-for-word rather than summarizing, paraphrasing, and selecting — encoding processes that support comprehension. The claim concerns the *style* of note-taking that each medium tends to induce, not an inherent property of the devices themselves.
 
@@ -43,7 +47,7 @@ The proposed mechanism is that laptops, being faster than handwriting, invite le
 
 Mueller, P. A., & Oppenheimer, D. M. (2014). The Pen Is Mightier Than the Keyboard: Advantages of Longhand Over Laptop Note Taking. *Psychological Science, 25*(6), 1159–1168. [doi:10.1177/0956797614524581](https://doi.org/10.1177/0956797614524581)
 
-`q3 · peer-reviewed experiment (three studies, not pre-registered)` · `i? · no effect size reported in what was read` · `n=three experiments, per-study n not stated in the abstract`
+`q3 · peer-reviewed experiment (three studies, not pre-registered)` · `i? · no effect size reported in what was read` · `n=three experiments, per-study n not stated in the abstract` · `causal · r?`
 
 Three experiments comparing college students who took lecture notes on laptops versus longhand. Laptop note-takers took more notes overall, but tended to transcribe lecture content verbatim rather than summarizing or paraphrasing it. Across the studies, laptop note-takers performed worse than longhand note-takers on conceptual/application test questions, though not consistently on factual-recall questions, which the authors attribute to shallower processing during verbatim transcription. Only the abstract was read (no open-access full text or effect-size figures found); the specific per-study n and effect-size statistics were not available in that text.
 
@@ -51,7 +55,7 @@ Three experiments comparing college students who took lecture notes on laptops v
 
 Morehead, K., Dunlosky, J., & Rawson, K. A. (2019). How Much Mightier Is the Pen than the Keyboard for Note-Taking? A Replication and Extension of Mueller and Oppenheimer (2014). *Educational Psychology Review, 31*(3), 753–780. [doi:10.1007/s10648-019-09468-2](https://doi.org/10.1007/s10648-019-09468-2)
 
-`q3 · peer-reviewed direct replication with two experiments, plus an internal meta-analysis` · `i? · described as small and non-significant; no effect size in what was read` · `n=unreported in what was read (two experiments, plus added eWriter and no-notes conditions)`
+`q3 · peer-reviewed direct replication with two experiments, plus an internal meta-analysis` · `i? · described as small and non-significant; no effect size in what was read` · `n=unreported in what was read (two experiments, plus added eWriter and no-notes conditions)` · `causal · r?`
 
 A direct replication of Mueller and Oppenheimer (2014) that added an eWriter group and a no-notes group across two experiments. Test performance did not consistently differ between longhand, laptop, eWriter, or even the no-notes group; group differences shrank further once students were allowed to study their own notes before testing. A meta-analysis combining the direct replications found only small, non-significant effects favoring longhand. The authors conclude that, given this and other available evidence, it is premature to say one note-taking method is superior for learning.
 

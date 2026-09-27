@@ -15,12 +15,14 @@ sources:
     author: "Agarwal, D., Baker, R.S., & Muraleedharan, A."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # MS-BKT performs similarly to classic BKT on held-out data, with classic BKT better on most of six datasets but differences not very large
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On six datasets from two ITS, classic BKT performed better than MS-BKT on most datasets (except G6_207 and WNO021_57) but the differences were not very large. [→ Agarwal 2020](#agarwal-2020)
@@ -31,7 +33,7 @@ sources:
 
 Agarwal, D., Baker, R.S., & Muraleedharan, A. (2020). Dynamic knowledge tracing through data driven recency weights. Proceedings of The 13th International Conference on Educational Data Mining (EDM 2020). https://educationaldatamining.org/edm2020/
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Model comparison on six skill datasets (three ASSISTments, three Mindspark), with parameters tuned by brute force on training data and performance compared on a hold-out set of 20% of the data. The article reports that "the differences are not very large" between the models' AUC ROC and RMSE (Table 4).
 

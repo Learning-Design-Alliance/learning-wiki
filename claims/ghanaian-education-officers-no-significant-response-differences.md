@@ -15,12 +15,14 @@ sources:
     author: "Sarfo, F. K., & Ansong-Gyimah, K."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Ghanaian education officers show no significant differences in their responses on computer versus teacher implementation of the first five principles
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Education officers' degree of responses showed no statistically significant differences regarding whether the computer can implement the first five principles better than the teacher. [→ Sarfo 2010](#sarfo-2010)
@@ -31,7 +33,7 @@ sources:
 
 Sarfo, F. K., & Ansong-Gyimah, K. (2010). The perceptions of students, teachers, and educational officers in Ghana on the role of computer and the teacher in promoting the first five principles of instruction. The Turkish Online Journal of Educational Technology, 9(3). https://www.tojet.net
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Survey of 24 education officers/policy makers from Regional Education offices in Ghana using the same Likert instrument; chi-square analysis of response frequencies found no statistically significant differences. Descriptively, 33% disagreed and 23% strongly agreed.
 

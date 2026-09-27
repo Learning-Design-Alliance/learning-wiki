@@ -17,7 +17,7 @@ sources:
 # Teach a simple, clear, memorable design cycle without treating it as a rigid checklist
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper recommends that maker education programs teach students an engineering design process. Because research is unclear whether one design cycle model is better than others, the chosen cycle should be "simple, clear, and memorable," and teachers should guard against treating the process like a checklist, since cycles are meant to suggest the iterative, forward-progress nature of the work and a tinkering mindset.

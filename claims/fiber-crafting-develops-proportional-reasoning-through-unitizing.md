@@ -15,12 +15,14 @@ sources:
     q: 2
     i: "?"
     n: 3 focal youth (ages 9-11) selected from a 17-participant, 3-day public-library summer camp
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Fiber crafting develops proportional reasoning through nested, personally-defined units
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · n=3 focal youth (ages 9-11) selected from a 17-participant, 3-day public-library summer camp
+> **Evidence** · 1 study · qualitative `r?` · `q2` · n=3 focal youth (ages 9-11) selected from a 17-participant, 3-day public-library summer camp
 
 Three youth engaging in knitting, crochet, and fabric pleating each developed and used multiplicative proportional reasoning specific to their craft's material structure — gauge in knitting, sector growth in crochet, and hidden-layer ratios in pleating — with material properties (tension, needle size, fabric spring-back) actively shaping what unit each child defined and discovered.
 
@@ -37,7 +39,7 @@ Three youth engaging in knitting, crochet, and fabric pleating each developed an
 
 Peppler, K., Keune, A., Bender, S., & Yankova, N. (2025). Materialized Action: Reformulating the "Doing of" Math Through Fiber Crafting. *Cognition and Instruction, 43*(3), 175-200. [https://doi.org/10.1080/07370008.2025.2485070](https://doi.org/10.1080/07370008.2025.2485070)
 
-`q2 · qualitative case study with rich multimodal data (40 hours of video across 3-4 cameras, 231 photographs, artifact reverse-engineering) and a deliberate design phase involving 5 adult crafters to align craft structure with the target mathematical concept; no control group, no pre/post outcome measure, small purposive sample` `i? · the abstract prints no effect size; the full text may` `n=3 focal youth (ages 9-11) selected from a 17-participant, 3-day public-library summer camp`
+`q2 · qualitative case study with rich multimodal data (40 hours of video across 3-4 cameras, 231 photographs, artifact reverse-engineering) and a deliberate design phase involving 5 adult crafters to align craft structure with the target mathematical concept; no control group, no pre/post outcome measure, small purposive sample` `i? · the abstract prints no effect size; the full text may` `n=3 focal youth (ages 9-11) selected from a 17-participant, 3-day public-library summer camp` · `qualitative · r?`
 
 Seventeen youth (ages 9-12) attended a 3-day, 4-hours-per-day summer camp in which each day was devoted to one fiber craft — knitting, crochet, and pleating — each designed by the research team (with input from adult crafters and mathematicians) to instantiate proportional reasoning through a different material structure. Three focal youth were analyzed in depth via video, photographs, and artifact analysis, using the [Materialized Action](../theories/materialized-action.md) framework's three nested levels (stitch/fold unit, pattern unit, project unit) to trace how each child's proportional reasoning emerged from their specific interactions with their craft's materials. This directly grounds [Fiber Crafting for Proportional Reasoning](../patterns/fiber-crafting-for-proportional-reasoning.md).
 

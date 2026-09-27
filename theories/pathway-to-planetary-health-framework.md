@@ -16,7 +16,7 @@ sources:
 # Pathway to Planetary Health (PPH) framework
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The Pathway to Planetary Health is a theoretical framework that "supports dietitians to undertake pro‐environmental change within the food system". It is described as "a non‐sequential, interconnected pathway" guided by six dimensions: Agency, Action, Ascension, Alignment, Alliance and Allyship, and Advocacy and Activism, each with descriptors and practice examples (e.g., Agency covers vision, self-belief, confidence and responsibility; Advocacy and Activism covers urgency, co-design and disruption). This study workshopped the framework with dietitians and evaluated its practical application and impact as proof-of-concept.

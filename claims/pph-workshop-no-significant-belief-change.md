@@ -15,12 +15,14 @@ sources:
     author: "MacKenzie‐Shalders, K. L., McCormack, J., Senior, N. M., & Barbour, L."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Belief that a global environmental problem needs addressing was already high before the workshop and did not significantly change
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Pre-workshop belief that globally there is a problem requiring environmentally friendly/sustainable alternatives was high (4.5 ± 0.9 pre, 4.7 ± 0.7 post) and the pre–post difference was not statistically significant (p = 0.34). [→ MacKenzie‐Shalders 2026](#mackenzieshalders-2026)
@@ -31,7 +33,7 @@ sources:
 
 MacKenzie‐Shalders, K. L., McCormack, J., Senior, N. M., & Barbour, L. (2026). From Beliefs to Action: Dietitians' Perspectives on Environmental Sustainability and a Pathway to Planetary Health Framework for Food System Change. Journal of Human Nutrition and Dietetics. https://doi.org/10.1111/jhn.70351
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Table 3 row from the pre–post workshop survey: the global-problem belief item scored 4.5 ± 0.9 pre (n = 42) and 4.7 ± 0.7 post (n = 46), with significance 0.34*, indicating no statistically significant change; equivalence was not tested.
 

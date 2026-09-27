@@ -15,6 +15,8 @@ sources:
     q: 2
     i: "?"
     n: 22 (heterogeneous third/fourth-grade groups, including 5 identified learning-disabled or low-achieving students)
+    kind: causal
+    rigour: 2
   - id: boulineau-et-al-2004
     resource: "https://doi.org/10.2307/1593645"
     title: "Boulineau, T., Fore, C., III, Hagan-Burke, S., & Burke, M. D. (2004). Use of story-mapping to increase the story-grammar text comprehension of elementary students with learning disabilities. *Learning Disability Quarterly, 27*(2), 105–121. [doi:10.2307/1593645](https://doi.org/10.2307/1593645)"
@@ -22,12 +24,14 @@ sources:
     q: 1
     i: "?"
     n: 6 (third- and fourth-grade students identified with specific learning disabilities)
+    kind: causal
+    rigour: 1
 ---
 
 # Story Mapping Improves Comprehension
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1`–`q2`
+> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q1`–`q2`
 
 Story mapping — a graphic organizer that makes a narrative's structure explicit (setting, characters, problem, goal, events, resolution) — supports learners in building a coherent situation model of a text. The claim applies to narrative text; it is not a claim about graphic organizers generally.
 
@@ -43,7 +47,7 @@ Story mapping — a graphic organizer that makes a narrative's structure explici
 
 Idol, L. (1987). Group story mapping: A comprehension strategy for both skilled and unskilled readers. *Journal of Learning Disabilities, 20*(4), 196–205. [doi:10.1177/002221948702000401](https://doi.org/10.1177/002221948702000401)
 
-`q2 · quasi-experimental multiple-baseline-across-groups design` · `i? · no standardized effect size reported (F(4,21)=4.45, p<.05, on repeated-measures ANOVA of raw comprehension-question percentages)` · `n=22 (heterogeneous third/fourth-grade groups, including 5 identified learning-disabled or low-achieving students)`
+`q2 · quasi-experimental multiple-baseline-across-groups design` · `i? · no standardized effect size reported (F(4,21)=4.45, p<.05, on repeated-measures ANOVA of raw comprehension-question percentages)` · `n=22 (heterogeneous third/fourth-grade groups, including 5 identified learning-disabled or low-achieving students)` · `causal · r2`
 
 Heterogeneous groups of third/fourth graders were taught a story-mapping strategy (identifying setting, characters, problem, goal, events, resolution) using a model-lead-test paradigm, with a multiple-baseline design across two groups. Daily comprehension-question accuracy rose from baseline and was maintained above 80% correct once teacher support and the maps themselves were withdrawn; the low-achieving and learning-disabled students in the groups also improved and largely maintained gains. Improvements generalized to listening comprehension and spontaneous story writing but not consistently to standardized reading-test subtests.
 
@@ -51,7 +55,7 @@ Heterogeneous groups of third/fourth graders were taught a story-mapping strateg
 
 Boulineau, T., Fore, C., III, Hagan-Burke, S., & Burke, M. D. (2004). Use of story-mapping to increase the story-grammar text comprehension of elementary students with learning disabilities. *Learning Disability Quarterly, 27*(2), 105–121. [doi:10.2307/1593645](https://doi.org/10.2307/1593645)
 
-`q1 · single-subject descriptive ABC design (baseline/intervention/maintenance) with interrater and procedural reliability` · `i? · no standardized effect size reported (raw percent-correct scores: group mean rose from 31% at baseline to 84% during intervention)` · `n=6 (third- and fourth-grade students identified with specific learning disabilities)`
+`q1 · single-subject descriptive ABC design (baseline/intervention/maintenance) with interrater and procedural reliability` · `i? · no standardized effect size reported (raw percent-correct scores: group mean rose from 31% at baseline to 84% during intervention)` · `n=6 (third- and fourth-grade students identified with specific learning disabilities)` · `causal · r1`
 
 Six students with specific learning disabilities were taught explicit story-grammar instruction using a story-grammar map (setting, time, characters, problem, solution, outcome, reaction, theme) across a baseline–intervention–maintenance sequence. Mean correct identification of story-grammar elements rose from 31% at baseline (range 25–35%) to 84% during story-map instruction (range 67–96%), with gains largely sustained once explicit instruction was withdrawn and non-overlapping data points between baseline and later phases for every student reported individually.
 

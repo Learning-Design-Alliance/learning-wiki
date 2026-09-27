@@ -15,12 +15,14 @@ sources:
     author: Brewe, E., Sawtelle, V., and Pamela, P.
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # Students who experienced the technology-enhanced class were far more favorable toward technology (76.0%) than no-technology students (20.4%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` End-of-semester surveys coded favorable/unfavorable/neutral showed 76.0% favorable in 2005 versus 20.4% in 2004, with unfavorable responses dropping from 27.9% to 5.0%. [→ Brewe 2007](#brewe-2007)
@@ -31,7 +33,7 @@ sources:
 
 Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 WebCT-administered post-instruction surveys, with responses coded by two PER researchers as favorable, unfavorable, or neutral (Table IV: 2004 20.4% F / 27.9% U / 51.7% N; 2005 76.0% F / 5.0% U / 19.0% N). The 2004 class was ambivalent; the 2005 class saw clear benefits despite reservations about technical difficulties.
 

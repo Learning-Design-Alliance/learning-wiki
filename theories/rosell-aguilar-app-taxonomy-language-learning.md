@@ -16,7 +16,7 @@ sources:
 # Taxonomy of mobile apps for language learning: three groups plus a separate dictionaries/translators category
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article proposes a classification of apps usable for language learning, arguing that classifying apps into types helps learners, teachers, and researchers conceptualize and evaluate them. As printed, "Apps are categorized in three groups according to whether they are primarily designed as language learning tools or not, and with a separate category for dictionaries and translators." The first group covers whole-language learning packages (e.g. Duolingo, Busuu) and apps targeting specific language areas; the second covers apps not designed for language learning but useful to learners; dictionaries and translators form a separate group.

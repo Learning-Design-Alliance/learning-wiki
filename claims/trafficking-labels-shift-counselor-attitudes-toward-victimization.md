@@ -15,18 +15,22 @@ sources:
     author: Litam, S. D. A.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: litam-2019-2
     resource: "https://doi.org/10.15241/sdal.9.4.396"
     title: "Litam, S. D. A. (2019). She's Just a Prostitute: The Effects of Labels on Counselor Attitudes, Empathy, and Rape Myth Acceptance. The Professional Counselor, 9(4), 396-415. https://doi.org/10.15241/sdal.9.4.396"
     author: Litam, S. D. A.
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Counselors exposed to 'sex trafficking' labels reported more victimization-oriented attitudes than counselors exposed to 'prostitute' labels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Licensed counselors randomly assigned to the ATTS ('sex trafficking' labels) scored significantly higher overall on attitudes toward trafficked women than those assigned to the APPS ('prostitute' labels), t(394) = -6.952, p < .01. [→ Litam 2019](#litam-2019)
@@ -38,7 +42,7 @@ sources:
 
 Litam, S. D. A. (2019). She's Just a Prostitute: The Effects of Labels on Counselor Attitudes, Empathy, and Rape Myth Acceptance. The Professional Counselor, 9(4), 396-415. https://doi.org/10.15241/sdal.9.4.396
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Randomized survey experiment with 396 licensed Ohio counselors; 193 completed the APPS ('prostitute' labels) and 203 the ATTS ('sex trafficking' labels). The t-test showed "were significantly different" overall means, with the ATTS group higher (M = 3.80 vs 3.56).
 
@@ -48,7 +52,7 @@ Randomized survey experiment with 396 licensed Ohio counselors; 193 completed th
 
 Litam, S. D. A. (2019). She's Just a Prostitute: The Effects of Labels on Counselor Attitudes, Empathy, and Rape Myth Acceptance. The Professional Counselor, 9(4), 396-415. https://doi.org/10.15241/sdal.9.4.396
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Table 3 reports all four subscale t-tests as significant (e.g., PSCV: APPS M = 3.80 vs ATTS M = 4.33, t(394) = -10.697; PSND reversed direction, APPS M = 2.95 vs ATTS M = 2.79, t(394) = 4.50).
 

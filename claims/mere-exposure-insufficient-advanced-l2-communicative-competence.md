@@ -15,12 +15,14 @@ sources:
     author: Yu Liming
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` An advanced adult learner living in English-speaking environments still encountered communication breakdowns, so exposure alone does not produce native-like communicative competence. [→ Yu Liming 1990](#yu-liming-1990)
@@ -31,7 +33,7 @@ sources:
 
 Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Diary-based self-study: the author, an advanced learner with 1.5 years in English-speaking countries, records breakdowns such as the bus "exchange" and bookstore "invoice" incidents and concludes that "mere exposure to the target language does not automatically lead to native-like communicative competence".
 

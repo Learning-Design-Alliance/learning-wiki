@@ -15,12 +15,14 @@ sources:
     author: "Doctor, R. M., & Marziani, A. W."
     q: 3
     i: 1
+    kind: causal
+    rigour: 1
 ---
 
 # Internal experimenters were perceived as significantly more potent than external experimenters, and external subjects rated their experimenters higher on Activity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r1` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i?` Semantic Differential ratings showed IEs were perceived as significantly more potent than EEs by all subjects, and ESs rated their Es significantly higher than ISs on the Activity dimension. [→ Doctor 1971](#doctor-1971)
@@ -31,7 +33,7 @@ sources:
 
 Doctor, R. M., & Marziani, A. W. (1971). Locus of Control of Reinforcement and Responsiveness to Social Influence. San Fernando Valley State College. https://eric.ed.gov/?id=ED055283
 
-`q3 · i1`
+`q3 · i1` · `causal · r1`
 
 Activity, Potency, and Evaluative dimension ratings were submitted to separate two-way ANOVAs with S and E I-E status as factors; the Evaluative dimension produced no significant effects, while the Potency difference reached p < .025.
 

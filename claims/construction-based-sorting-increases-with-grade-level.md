@@ -15,18 +15,22 @@ sources:
     author: "Kim, Hyunwoo, Rah, Yangon, & Hwang, Haerim"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: kim-2020-2
     resource: "https://doi.org/10.15858/engtea.75.s1.202006.55"
     title: "Kim, Hyunwoo, Rah, Yangon, & Hwang, Haerim. (2020). Testing usage-based approaches to assessing EFL learners’ development of English argument structure constructions. English Teaching, 75(s1), 55-78. https://doi.org/10.15858/engtea.75.s1.202006.55"
     author: "Kim, Hyunwoo, Rah, Yangon, & Hwang, Haerim"
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Korean EFL learners sort sentences increasingly by construction rather than by verb as grade level increases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i?` The proportion of entirely construction-based sorting rose steadily across grade levels, from 0% in G1 to 81% in G5, while entirely verb-based sorting fell from 54% to 0%. [→ Kim 2020](#kim-2020)
@@ -38,7 +42,7 @@ sources:
 
 Kim, Hyunwoo, Rah, Yangon, & Hwang, Haerim. (2020). Testing usage-based approaches to assessing EFL learners’ development of English argument structure constructions. English Teaching, 75(s1), 55-78. https://doi.org/10.15858/engtea.75.s1.202006.55
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Cross-sectional sorting-task analysis of 169 Korean EFL learners in five grade-aligned groups (G1–G5). The article reports that entirely verb-based sorting fell from 54% (G1) to 0% (G5), while construction-based sorting "steadily grew with the grade"; only percentages are printed, no effect size.
 
@@ -48,7 +52,7 @@ Cross-sectional sorting-task analysis of 169 Korean EFL learners in five grade-a
 
 Kim, Hyunwoo, Rah, Yangon, & Hwang, Haerim. (2020). Testing usage-based approaches to assessing EFL learners’ development of English argument structure constructions. English Teaching, 75(s1), 55-78. https://doi.org/10.15858/engtea.75.s1.202006.55
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 One-way ANOVA on deviation scores from verb-based (Vdev) and construction-based (Cdev) sorting across the five groups, yielding effect sizes of ŋ2 = 0.30 and ŋ2 = 0.37, with Tukey HSD post-hoc comparisons showing significant differences between most pairs of adjacent groups.
 

@@ -15,18 +15,22 @@ sources:
     author: "Rantavuori, J., Engeström, Y., & Lipponen, L."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
   - id: rantavuori-2016-2
     resource: "http://dx.doi.org/10.14786/flr.v4i3.174"
     title: "Rantavuori, J., Engeström, Y., & Lipponen, L. (2016). Learning actions, objects and types of interaction: A methodological analysis of expansive learning among pre-service teachers. Frontline Learning Research. http://dx.doi.org/10.14786/flr.v4i3.174"
     author: "Rantavuori, J., Engeström, Y., & Lipponen, L."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Expansive learning moved epistemically from questioning to analysis, modeling and implementation while interactionally moving from coordination to cooperation and communication, but with no mechanical correspondence between specific actions and interaction types
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` As the expansive learning process moved epistemically through its actions, it also moved interactionally from coordination to cooperation and communication. [→ Rantavuori 2016](#rantavuori-2016)
@@ -38,7 +42,7 @@ sources:
 
 Rantavuori, J., Engeström, Y., & Lipponen, L. (2016). Learning actions, objects and types of interaction: A methodological analysis of expansive learning among pre-service teachers. Frontline Learning Research. http://dx.doi.org/10.14786/flr.v4i3.174
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r?`
 
 The integrated analysis (fourth analysis step combining the two frameworks) found parallel epistemic and interactional movement: the process "moved epistemically from questioning to analysis, modeling and implementation" while also "moved interactionally from coordination to cooperation and communication".
 
@@ -48,7 +52,7 @@ The integrated analysis (fourth analysis step combining the two frameworks) foun
 
 Rantavuori, J., Engeström, Y., & Lipponen, L. (2016). Learning actions, objects and types of interaction: A methodological analysis of expansive learning among pre-service teachers. Frontline Learning Research. http://dx.doi.org/10.14786/flr.v4i3.174
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r?`
 
 Despite the parallel movement, the article reports "there was no mechanical correspondence between specific learning actions and specific types of interaction", qualifying how the two frameworks align in a single session.
 

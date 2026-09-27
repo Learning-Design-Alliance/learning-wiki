@@ -17,7 +17,7 @@ sources:
 # Teach verbal problem solving with Polya-style whole-problem strategy, possibly synthesized with translation for struggling students
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Based on their comparison, the authors recommend that, where generalizations are made, students receive Polya-like instruction for verbal problem solving, since PM students equaled or exceeded DM students on both criteria. They further suggest that "for teaching in the classroom a synthesis of the two strategies of instruction could be used," reserving the pure strategies as alternatives for students having difficulty with the synthesized strategy. The recommendation is explicitly tentative given the study's limitations.

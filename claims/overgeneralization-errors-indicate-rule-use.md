@@ -15,12 +15,14 @@ sources:
     author: Butler, Lester G.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Children produce overgeneralized forms they have not heard, indicating they use rules rather than imitation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Gleason's experiment with first, second and third graders, children produced regularized plurals such as 'two mouses' immediately after hearing the correct form, showing the errors are not imitated. [→ Butler 1973](#butler-1973)
@@ -31,7 +33,7 @@ sources:
 
 Butler, Lester G. (1973). Language Acquisition of Young Children: Major Theories and Sequences. https://eric.ed.gov/?id=ED094403
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Gleason (1969) conducted an experiment with first, second and third graders concerned that such usage might be due to imitation: children were shown pictures of mice and geese and told what they were, then asked for the plural. The paper reports the overgeneralized answers occurred despite just hearing the correct form.
 

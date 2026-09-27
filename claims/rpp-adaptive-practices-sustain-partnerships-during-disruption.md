@@ -15,12 +15,14 @@ sources:
     q: 1
     i: "?"
     n: 21 contributors across 15 think-pieces, drawing on multiple named RPPs (e.g., Boston P-3 RPP, Houston Education Research Consortium)
+    kind: review
+    rigour: "?"
 ---
 
 # Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case · n=21 contributors across 15 think-pieces, drawing on multiple named RPPs (e.g., Boston P-3 RPP, Houston Education Research Consortium)
+> **Evidence** · 1 study · review `r?` · `q1` · n=21 contributors across 15 think-pieces, drawing on multiple named RPPs (e.g., Boston P-3 RPP, Houston Education Research Consortium)
 
 When an acute disruption (e.g., a pandemic) hits, research-practice partnerships (RPPs) that had already built relational trust and embedded-researcher relationships could pivot to rapid, practically useful work — even at the cost of publishable rigor — and partners reported this strengthened rather than weakened the partnership.
 
@@ -37,7 +39,7 @@ When an acute disruption (e.g., a pandemic) hits, research-practice partnerships
 
 Popa, N., Anderson, E. R., Denner, J., McKenney, S., & Peurach, D. J. (2023). Belonging to a research-practice partnership: Lessons from 15 think-pieces about the COVID-19 pandemic and a call for action. *Journal of the Learning Sciences, 32*(4-5), 682-704. [https://doi.org/10.1080/10508406.2023.2253529](https://doi.org/10.1080/10508406.2023.2253529)
 
-`q1 · qualitative synthesis of 15 practitioner/researcher think-pieces (no comparison group, no independent measurement)` · `i? · the abstract prints no effect size; the full text may` · `n=21 contributors across 15 think-pieces, drawing on multiple named RPPs (e.g., Boston P-3 RPP, Houston Education Research Consortium)`
+`q1 · qualitative synthesis of 15 practitioner/researcher think-pieces (no comparison group, no independent measurement)` · `i? · the abstract prints no effect size; the full text may` · `n=21 contributors across 15 think-pieces, drawing on multiple named RPPs (e.g., Boston P-3 RPP, Houston Education Research Consortium)` · `review · r?`
 
 This is a synthesis of independently written reflections from researchers and practitioners in established RPPs, describing how their partnerships adapted during the COVID-19 pandemic. Common threads included: pausing formal research agendas in favor of rapid surveys and dashboards that answered immediate district questions; relying on pre-existing [embedded researcher](../strategies/responsive-rpp-adaptation-during-disruption.md) relationships and trust rather than building new ones under pressure; and mixing communication channels (virtual, in-person, asynchronous) rather than defaulting to any single mode. The authors also propose "belonging" as a candidate unifying framework for why these adaptations worked, but explicitly flag this as a direction for future research rather than a tested finding.
 

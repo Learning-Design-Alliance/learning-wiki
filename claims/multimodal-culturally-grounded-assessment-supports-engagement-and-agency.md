@@ -14,12 +14,14 @@ sources:
     author: "Champion, D., Solomon, F., & Lammey, M."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Multimodal, culturally grounded formative assessment supports engagement and agency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 When formative assessment centers embodied, creative, and culturally familiar modes of expression (movement, music, vernacular language) and is framed as ongoing dialogue rather than performance evaluation, youth engage more openly with developing ideas and are more willing to share exploratory or incomplete thinking.
 
@@ -34,7 +36,7 @@ When formative assessment centers embodied, creative, and culturally familiar mo
 
 Champion, D., Solomon, F., & Lammey, M. (2025). Embodying physics assessment: Reimagining formative assessment as a creative, multimodal, and culturally sustaining dialogic practice. *Journal of the Learning Sciences, 34*(4), 474-525. [https://doi.org/10.1080/10508406.2025.2569583](https://doi.org/10.1080/10508406.2025.2569583)
 
-`q2 · design-based research with microanalytic video analysis (7.6 hours), no comparison condition` · `i? · the abstract prints no effect size; the full text may` · `n≈25 youth (ages 11-17) across two community dance centers`
+`q2 · design-based research with microanalytic video analysis (7.6 hours), no comparison condition` · `i? · the abstract prints no effect size; the full text may` · `n≈25 youth (ages 11-17) across two community dance centers` · `qualitative · r2`
 
 Researchers embedded in two community dance centers observed youth across four physics modules (Energy, Electromagnetic Spectrum, Superposition/Polyrhythm, Vibration/Resonance) using listening palettes and choreographic assessment tasks. Youth initially showed nervousness before the first listening-palette sharing; after a facilitator explicitly reframed the task as conversation rather than performance, subsequent groups shared more elaborate creative representations (rap, movement) and made conceptual connections between physics content and personal or social experience (e.g., relating resonance to interpersonal influence). Dance-making cycles showed youth collaboratively deciding on representational choices, iterating based on peer feedback, and treating the choreography as evidence of, not just illustration for, their understanding.
 

@@ -12,7 +12,7 @@ generated:
 # Peer Feedback/Peer Review
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 4 studies, `q2`–`q4` · 3 of 4 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 4 studies (3 quant-synthesis, 1 associational), `q2`–`q4` · 3 of 4 report an effect size · 3 claims rest on one study
 
 ## Description
 Peer feedback/peer review is the element in which learners evaluate one another's work against criteria and provide revision-oriented feedback.

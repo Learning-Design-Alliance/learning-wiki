@@ -15,12 +15,14 @@ sources:
     author: Krause, Suzanne; Moore, Elizabeth J.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Cognitive flexibility is significantly correlated with phonemic awareness, growth in reading comprehension, and spelling ability, especially among children with low cognitive flexibility scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Significant correlations were found between cognitive flexibility and phonemic awareness, cognitive flexibility and growth in reading comprehension, and cognitive flexibility and spelling ability, especially among children with low cognitive flexibility scores. [→ Krause 1997](#krause-1997)
@@ -31,7 +33,7 @@ sources:
 
 Krause, Suzanne; Moore, Elizabeth J. (1997). Effects of Cognitive Flexibility and Phonemic Awareness Training on Kindergarten and First-Grade Students' Phonemic Awareness, Cognitive Flexibility, Reading, and Spelling Ability. https://eric.ed.gov/?id=ED406649
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Correlational analysis of pre- and posttest measures (phonemic awareness, cognitive flexibility, reading comprehension, developmental spelling) in the study of 280 students found "significant correlations between cognitive flexibility and phonemic awareness" and the other literacy outcomes, strongest among low-flexibility children.
 

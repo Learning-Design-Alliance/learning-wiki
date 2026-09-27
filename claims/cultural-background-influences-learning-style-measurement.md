@@ -15,18 +15,22 @@ sources:
     author: Tamaoka, Katsuo
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: tamaoka-1985-2
     resource: "https://eric.ed.gov/?id=ED339729"
     title: "Tamaoka, Katsuo. (1985). Historical Development of Learning Style Inventories from Dichotomous Cognitive Concepts of Field Dependence and Field Independence to Multi-Dimensional Assessment. https://eric.ed.gov/?id=ED339729"
     author: Tamaoka, Katsuo
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Cultural and linguistic background influences measured learning and cognitive styles, and should be considered in style assessment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Cross-cultural studies found each cultural group tends toward a dominant cognitive style, with non-Native samples most analytical and Metis samples tending toward a relational style. [→ Tamaoka 1985](#tamaoka-1985)
@@ -38,7 +42,7 @@ sources:
 
 Tamaoka, Katsuo. (1985). Historical Development of Learning Style Inventories from Dichotomous Cognitive Concepts of Field Dependence and Field Independence to Multi-Dimensional Assessment. https://eric.ed.gov/?id=ED339729
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `review · r2`
 
 The review reports Koenig's cross-cultural study of cognitive styles of Native and non-Native peoples in Northern Canada and Alaska, in which "the non-native sample was the most analytical in thinking style" while "the Metis group showed no tendency towards being analytical".
 
@@ -48,7 +52,7 @@ The review reports Koenig's cross-cultural study of cognitive styles of Native a
 
 Tamaoka, Katsuo. (1985). Historical Development of Learning Style Inventories from Dichotomous Cognitive Concepts of Field Dependence and Field Independence to Multi-Dimensional Assessment. https://eric.ed.gov/?id=ED339729
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `review · r2`
 
 The review reports Kaulback's review of studies using the Illinois Test of Psycholinguistic Abilities, finding Native children "most successful at processing visual information", while cautioning the test is basically designed to measure performance in English.
 

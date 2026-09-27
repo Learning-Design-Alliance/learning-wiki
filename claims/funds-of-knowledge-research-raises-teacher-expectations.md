@@ -15,24 +15,30 @@ sources:
     author: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest"
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994-2
     resource: "https://eric.ed.gov/?id=ED367146"
     title: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146"
     author: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest"
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994-3
     resource: "https://eric.ed.gov/?id=ED367146"
     title: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146"
     author: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest"
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Teachers who took part in funds of knowledge household research came to view their minority students as competent and raised their expectations of them.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q1` argument or single case
+> **Evidence** · 1 study (3 entries) · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` After the research activities, teachers came to view students as "competent participants in households rich in cognitive resources" and raised their expectations of students' abilities. [→ Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994](#funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994)
@@ -45,7 +51,7 @@ sources:
 
 Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 The digest's conclusion reports the project outcome for participating teachers: they "have consequently raised their expectations of their students' abilities". This is a qualitative report of teacher change; no measure of expectations or student achievement is printed.
 
@@ -55,7 +61,7 @@ The digest's conclusion reports the project outcome for participating teachers: 
 
 Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 The digest reports that teachers changed by visiting families "now view their students with more respect and understanding" and can tie academic content to hidden talents. Qualitative teacher report; no instrument or count is given.
 
@@ -65,7 +71,7 @@ The digest reports that teachers changed by visiting families "now view their st
 
 Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 Citing Gonzalez and Amanti (1992) and Moll et al. (1992), the digest reports that "pivotal and transformative shifts take place in teachers" and in household-school relations. Narrative summary of the project's qualitative findings.
 

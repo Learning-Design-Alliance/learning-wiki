@@ -16,7 +16,7 @@ sources:
 # Course Walls: localized points in a lesson sequence where student momentum to finish is significantly slowed or halted
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Course Walls are defined as "areas of the course's lesson sequence wherein the student's momentum to finish the course is significantly slowed or halted", arising when groups of students drop out near the same point in the course. Visualized as steep sections of a mountain being climbed, a steeper slope means a larger exodus of students between two lessons. The authors' grounded theory holds that identifying Course Walls lets designers investigate why students lose momentum at particular points and revise the course with dropouts in mind.

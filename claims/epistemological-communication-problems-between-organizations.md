@@ -15,12 +15,14 @@ sources:
     author: Nilsson, Ingrid
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Communication problems between university and school regarding epistemological and ontological questions affect teaching and learning of subject knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` While alignment of subject-knowledge teaching and learning appeared unproblematic, communication problems about epistemological and ontological questions occurred between the organizations. [→ Nilsson 2008](#nilsson-2008)
@@ -31,7 +33,7 @@ sources:
 
 Nilsson, Ingrid. (2008). Alignment in teacher education and distribution of leadership: An example concerning learning study. Forum on Public Policy. https://eric.ed.gov/?id=EJ1099542
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 The article's abstract-level result from the research project: alignment of learning seemed unproblematic regarding subject knowledge and professional/research knowledge developed, but inter-organizational communication problems on epistemological and ontological questions appeared to affect subject-knowledge teaching and learning.
 

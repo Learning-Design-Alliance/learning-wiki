@@ -12,7 +12,7 @@ generated:
 # Map It Out!
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies, `q2`–`q4` · 2 of 9 report an effect size
+> **Evidence** · 4 claims (4 for) · 9 studies (5 review, 2 quant-synthesis, 1 causal, 1 theoretical), `q2`–`q4` · 2 of 9 report an effect size
 
 ## Description
 Before a family trip, children map the route, calculate mileage, estimate travel time, and track progress along the way. The strategy embeds measurement, estimation, and proportional reasoning inside an authentic activity with real stakes, so the mathematics serves a purpose the child cares about rather than existing as an exercise in itself.

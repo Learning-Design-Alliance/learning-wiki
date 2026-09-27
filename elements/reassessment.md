@@ -12,7 +12,7 @@ generated:
 # Reassessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q4` · 1 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (3 quant-synthesis, 2 causal, 1 review, 1 associational), `q2`–`q4` · 1 of 7 report an effect size
 
 ## Description
 Reassessment asks learners to revisit and revise their own answers after discussion, feedback, or additional instruction. It converts an initial response — right or wrong — into an object of reflection, making the gap between first thinking and improved thinking visible and revisable.

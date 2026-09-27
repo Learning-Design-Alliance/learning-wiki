@@ -16,7 +16,7 @@ sources:
 # Critical thinking as a product of metacognition within self-regulated learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article reviews competing accounts of how critical thinking and metacognition relate: Halpern claims critical thinking is a product of metacognition, using skills like monitoring thinking, checking progress, ensuring accuracy, and making decisions; Kuhn equates the two; Martinez sees critical thinking as a type of metacognition; and Schraw, Crippen and Hartley treat both as components of self-regulated learning. Table 1 contrasts the two constructs, listing critical thinking skill sets (verbal reasoning, argument analysis, hypothesis testing, likelihood and uncertainty, decision-making) against metacognition's monitoring and self-regulation functions, and states both can be taught.

@@ -15,18 +15,22 @@ sources:
     author: Loo Kang WEE
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
   - id: loo-kang-wee-2015-2
     resource: "http://iwant2study.org/ospsg/index.php/interactive-resources/physics/02-newtonian-mechanics/02-dynamics/46-one-dimension-collision-js-model"
     title: "Loo Kang WEE. (2015). One-Dimensional Collision Carts Computer Model and its Design Ideas for Productive Experiential Learning. http://iwant2study.org/ospsg/index.php/interactive-resources/physics/02-newtonian-mechanics/02-dynamics/46-one-dimension-collision-js-model"
     author: Loo Kang WEE
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Some students found the guided-inquiry worksheet activities insufficiently thought-provoking and the data exchange troublesome
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Student feedback indicated the activity worksheet did not generate much thinking or concept understanding, mainly presenting values to copy. [→ Loo Kang WEE 2015](#loo-kang-wee-2015)
@@ -38,7 +42,7 @@ sources:
 
 Loo Kang WEE. (2015). One-Dimensional Collision Carts Computer Model and its Design Ideas for Productive Experiential Learning. http://iwant2study.org/ospsg/index.php/interactive-resources/physics/02-newtonian-mechanics/02-dynamics/46-one-dimension-collision-js-model
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 A student comment from the qualitative survey results, thematised by the author under need for strong inquiry learning activities. It is a single quoted perception; no quantitative measure of worksheet quality is reported.
 
@@ -48,7 +52,7 @@ A student comment from the qualitative survey results, thematised by the author 
 
 Loo Kang WEE. (2015). One-Dimensional Collision Carts Computer Model and its Design Ideas for Productive Experiential Learning. http://iwant2study.org/ospsg/index.php/interactive-resources/physics/02-newtonian-mechanics/02-dynamics/46-one-dimension-collision-js-model
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Another student comment in the same theme, noting the virtual lab hastened learning while data exchange in the worksheet activities was troublesome. Qualitative, single-lesson feedback with no supporting statistics.
 

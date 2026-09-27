@@ -15,18 +15,22 @@ sources:
     author: Lemisko, L.S.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: lemisko-2004-2
     resource: "https://www.quasar.ualberta.ca/css"
     title: "Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css"
     author: Lemisko, L.S.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Because past events cannot be observed, historians must necessarily use imagination to reconstruct the past, and the resulting picture is legitimate rather than fictional when constrained by evidence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Collingwood claims historians must use imagination to reconstruct past events because those events can no longer be observed. [→ Lemisko 2004](#lemisko-2004)
@@ -38,7 +42,7 @@ sources:
 
 Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument from Collingwood reported in the paper: past actions really happened but have no present existence, so reconstruction necessarily relies on imagination. The paper stresses imagining is a constructive mental process not inherently tied to the fictitious.
 
@@ -48,7 +52,7 @@ Theoretical argument from Collingwood reported in the paper: past actions really
 
 Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The paper reports Collingwood's distinction between novelist and historian: both construct coherent narratives imaginatively, but the historian's construction is bound by two constraints the novelist may ignore — real spatio-temporal location and evidential support from sources. Without a demonstrable link to evidence, the picture is assumed to be fantasy.
 

@@ -15,18 +15,22 @@ sources:
     author: Isikgoz, Mustafa Enes
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: isikgoz-2020-2
     resource: "https://eric.ed.gov/?id=ED608853"
     title: "Isikgoz, Mustafa Enes. (2020). Analysis on Philosophical Beliefs of Physical Education and Sports Teachers towards Education in Terms of Different Variables. TOJET: The Turkish Online Journal of Educational Technology, November 2020, Special issue. https://eric.ed.gov/?id=ED608853"
     author: Isikgoz, Mustafa Enes
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Physical education teachers studying in a graduate program endorse progressivism, perennialism and essentialism more than teachers with an undergraduate degree
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Educational background was significantly associated with progressivism, perennialism and essentialism (p < 0.05) but not with existentialist education or reconstructivism (p > 0.05). [→ Isikgoz 2020](#isikgoz-2020)
@@ -38,7 +42,7 @@ sources:
 
 Isikgoz, Mustafa Enes. (2020). Analysis on Philosophical Beliefs of Physical Education and Sports Teachers towards Education in Terms of Different Variables. TOJET: The Turkish Online Journal of Educational Technology, November 2020, Special issue. https://eric.ed.gov/?id=ED608853
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Mann-Whitney U tests in the descriptive survey. Beliefs "significantly differ by education" for Progressivism (U=33282.00), Perennialism (U=34749.00) and Essentialism (U=24160.50), p<0.05, but not Existentialist Education (U=41953.50) or Reconstructivism (U=42237.00), p>0.05.
 
@@ -48,7 +52,7 @@ Mann-Whitney U tests in the descriptive survey. Beliefs "significantly differ by
 
 Isikgoz, Mustafa Enes. (2020). Analysis on Philosophical Beliefs of Physical Education and Sports Teachers towards Education in Terms of Different Variables. TOJET: The Turkish Online Journal of Educational Technology, November 2020, Special issue. https://eric.ed.gov/?id=ED608853
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Direction from Table 5 mean ranks in the same survey: teachers "studying in a graduate program have higher beliefs in education philosophy compared to the teachers with an undergraduate degree" on Progressivism, Perennialism and Essentialism. No effect size is printed.
 

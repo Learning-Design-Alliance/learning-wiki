@@ -16,7 +16,7 @@ sources:
 # Dynamical systems theory as a framework for quantifying learning behavior patterns within intelligent tutoring systems
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article proposes dynamical systems theory and associated analysis techniques as tools for examining behavioral patterns and variations within ITSs. It treats time as a critical variable, focusing on "the complex and fluid interactions that occur within a given environment rather than treating behavior as static (i.e., set or unchanging), as is customary in many statistical approaches." The author hypothesizes these methodologies can quantify changes in students' interactions across time and inform user models about optimal and non-optimal learning behaviors.

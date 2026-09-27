@@ -12,7 +12,7 @@ generated:
 # Timers and Pacing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 1 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (2 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 1 of 5 report an effect size
 
 ## Description
 Timers and pacing are the deliberate structuring of instructional time: visible countdowns, fixed-duration work intervals, and rhythmically alternating activity types. The strategy constrains how long learners spend on a task and signals transitions in advance, converting open-ended time into bounded, predictable segments.

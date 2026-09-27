@@ -15,12 +15,14 @@ sources:
     author: Lucy Portnoff, Erin Gustafson, Klinton Bicknell and Joseph Rollinson
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # A regression discontinuity design on Review Exercise data supports a causal link between leveling up and higher assessment accuracy, at least for the first level-up
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Learners who studied a Review Exercise source lesson twice (Level 0 and Level 1) were more likely to answer correctly than learners who had studied the source lesson once but the preceding lesson twice. [→ Lucy Portnoff 2021](#lucy-portnoff-2021)
@@ -31,7 +33,7 @@ sources:
 
 Lucy Portnoff, Erin Gustafson, Klinton Bicknell and Joseph Rollinson. (2021). Methods for Language Learning Assessment at Scale: Duolingo Case Study. Proceedings of The 14th International Conference on Educational Data Mining (EDM21). https://educationaldatamining.org/edm2021/
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Logistic regression with a regression discontinuity design on approximately two months of Review Exercise data from all Duolingo courses compared learners at the same-vs-lower level cut-off for the source lesson, controlling for self-selection. The article reports the Level 1:Same Level coefficient was significantly higher; no effect size is printed.
 

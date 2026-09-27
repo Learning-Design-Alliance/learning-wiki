@@ -12,7 +12,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies, `q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 3 studies (1 associational, 1 qualitative, 1 theoretical), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.

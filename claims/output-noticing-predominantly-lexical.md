@@ -15,12 +15,14 @@ sources:
     author: Sumayyah Qaed Alsulami
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # While producing L2 paragraphs, an EFL learner's self-noticed problems were overwhelmingly lexical (about 79%) rather than grammatical (about 21%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Stage 1 note-taking, the participant wrote fourteen notes, of which about 79% concerned lexical features and about 21% grammatical features. [→ Sumayyah Qaed Alsulami 2016](#sumayyah-qaed-alsulami-2016)
@@ -31,7 +33,7 @@ sources:
 
 Sumayyah Qaed Alsulami. (2016). Testing the Noticing Function of the Output Hypothesis. English Language Teaching, 9(2). https://doi.org/10.5539/elt.v9n2p136
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Case-study note-taking data from one Arabic-speaking EFL learner across three paragraph-writing tasks; the article reports the printed proportions "about 79%" lexical and "about 21%" grammatical of the fourteen self-noticed problems.
 

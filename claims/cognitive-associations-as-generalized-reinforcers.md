@@ -15,12 +15,14 @@ sources:
     author: Smith, Kendon
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Useful cognitive associations acquire secondary-reward value, making information storage an operant event
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Because associative chains let an organism covertly test lines of behavior that would be effortful or painful to express overtly, useful cognitive associations acquire secondary-reward value, and pairing valuable cognitive responses strengthens the tendency for one to evoke the other. [→ Smith 1973](#smith-1973)
@@ -31,7 +33,7 @@ sources:
 
 Smith, Kendon. (1973). On the Possibility of a Reinforcement Theory of Cognitive Learning. https://eric.ed.gov/?id=ED085078
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Theoretical extension of Woodworth's 1947 reinforcement-of-perception argument: the author argues the act of association, like perception, serves many drives and "can likewise be seen as a generalized reinforcer," yielding secondary reinforcement of cognitive linkages. He adds that the organism's storage of information is an operant event.
 

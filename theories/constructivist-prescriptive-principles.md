@@ -16,7 +16,7 @@ sources:
 # Constructivist prescriptive principles for learning environments
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The digest describes constructivism as the view prominent in the late 1980s that "knowledge is individually constructed and socially co-constructed by learners based on their interpretations of experiences in the world" (Jonassen 1999). It lists five prescriptive principles from constructivism (Driscoll, 2000): embedding learning in complex, realistic, relevant environments; social negotiation as integral to learning; multiple perspectives and modes of representation; ownership in learning; and nurturing self-awareness of the knowledge construction process.

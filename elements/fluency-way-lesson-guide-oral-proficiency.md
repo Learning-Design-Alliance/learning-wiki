@@ -17,7 +17,7 @@ sources:
 # The Fluency Way: a proposed lesson guide for oral English proficiency
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q1` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The Fluency Way is a prototype lesson guide the researcher formulated from the study's synthesized themes to encourage language fluency. It targets "Freshmen tertiary L2 students (30-60 students per class)" in 50-90 minute classes, with objectives of gaining speaking confidence, communicating effectively with limited vocabulary, and practicing English through dialogues and role-plays. The article states "The lesson guide can be utilized best in both the Direct Method and the Communicative Language Teaching Method."

@@ -15,12 +15,14 @@ sources:
     author: Mussel, Patrick
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Epistemic behavior does not mediate the relation of cognitive ability or curiosity with academic performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In latent change score mediation models, the indirect effect of cognitive ability on secondary grades via epistemic behavior was not significant, disconfirming the environmental enrichment hypothesis. [→ Mussel 2022](#mussel-2022)
@@ -31,7 +33,7 @@ sources:
 
 Mussel, Patrick. (2022). Processes Underlying the Relation between Cognitive Ability and Curiosity with Academic Performance: A Mediation Analysis for Epistemic Behavior in a Five-Year Longitudinal Study. Journal of Intelligence 10: 23. https://doi.org/10.3390/jintelligence10020023
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical latent change score mediation model with robust maximum likelihood, full sample (N = 1965, full information likelihood), Results section. The article concludes "the mediation effect was not supported" for cognitive ability predicting secondary GPA via epistemic behavior.
 

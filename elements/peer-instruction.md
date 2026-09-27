@@ -12,7 +12,7 @@ generated:
 # Peer Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q2` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size
 
 ## Description
 Peer instruction is the element in which learners explain, compare, and revise answers with one another around conceptual questions.

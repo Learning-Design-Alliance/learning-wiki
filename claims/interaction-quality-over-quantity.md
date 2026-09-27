@@ -15,12 +15,14 @@ sources:
     author: Ellis, Rod
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # The quality rather than the quantity of interactional modifications predicts comprehensible input
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Ehrlich, Avery and Yorio (1989) found the number of meaning negotiations may not predict quality of comprehensible input; skeletonizing NS-NNS dyads were more successful than embroidering ones. [→ Ellis 1991](#ellis-1991)
@@ -31,7 +33,7 @@ sources:
 
 Ellis, Rod. (1991). The Interaction Hypothesis; A Critical Evaluation. ERIC Document ED 338 037. https://eric.ed.gov/?id=ED338037
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports their comparison of eight NS-NS with eight NS-NNS dyads in an object-description problem-solving task, identifying skeletonizer and embroiderer styles. In NS-NNS pairs the skeletonizing pairs were more successful; the review concludes quality of interaction counts more than quantity.
 

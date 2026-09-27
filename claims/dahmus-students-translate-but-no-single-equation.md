@@ -15,12 +15,14 @@ sources:
     author: Bassler, O. C.; Beers, M. I.; Richardson, L. I.
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Dahmus Method students translated phrases successfully but failed to combine them into a single solution equation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Most Dahmus Method students translated verbal statements into symbol statements but did not combine them into one acceptable equation, while still solving the problems. [→ Bassler 1972](#bassler-1972)
@@ -31,7 +33,7 @@ sources:
 
 Bassler, O. C.; Beers, M. I.; Richardson, L. I. (1972). Comparison of Two Instructional Strategies for Teaching the Solution to Verbal Problems. Final Report. George Peabody College for Teachers. https://eric.ed.gov/?id=ED075260
 
-`q1 · i?`
+`q1 · i?` · `causal · r2`
 
 Authors' interpretation from examining test papers: "a large majority of the DM subjects translated directly from the verbal statements to mathematical symbol statements," yet "They did not, however, combine these mathematical symbol statements into one acceptable equation which could he used to find the solution to the problem."
 

@@ -17,7 +17,7 @@ sources:
 # Responsibly supporting social learning online requires six capabilities: shared user experience, role models, formal and informal learning, analytics, rewards, and FERPA compliance
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper argues that an online learning platform should "securely integrate social media tools within a social learning context" and provide a seamless user experience in both formal and informal modes. It enumerates six requirements: common user experience and interface practices, role models, formal and informal learning capabilities, academic analytics, performance rewards, and FERPA compliancy with secure user management. Tools must also help identify and designate role models and administer rewards and incentives.

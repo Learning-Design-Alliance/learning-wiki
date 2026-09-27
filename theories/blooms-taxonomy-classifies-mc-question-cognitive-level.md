@@ -16,7 +16,7 @@ sources:
 # Bloom's Taxonomy as a six-level scheme for classifying the cognitive level of multiple-choice questions
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article uses Bloom's Taxonomy as the classification scheme for the cognitive level of multiple-choice questions, describing it as organizing 'the levels of learning into six categories ranging from simple to complex'. Table 2 lists the levels with characteristic student behaviors: Knowledge (remembering; memorizing; recognizing), Comprehension, Application, Analysis, Synthesis, and Evaluation. The authors use this scheme to categorize their sample questions, labelling their ballistic pendulum EMC question as level 3 and their word-list question as level 5 synthesis.

@@ -15,24 +15,30 @@ sources:
     author: Elisabet Pladevall-Ballester, Alexandra Vraciu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
   - id: elisabet-pladevall-ballester-2020-2
     resource: "http://dx.doi.org/10.14746/ssllt.2020.10.3.3"
     title: "Elisabet Pladevall-Ballester, Alexandra Vraciu. (2020). EFL child peer interaction: Measuring the effect of time, proficiency pairing and language of interaction. Studies in Second Language Learning and Teaching, 10(3), 449-472. http://dx.doi.org/10.14746/ssllt.2020.10.3.3"
     author: Elisabet Pladevall-Ballester, Alexandra Vraciu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: elisabet-pladevall-ballester-2020-3
     resource: "http://dx.doi.org/10.14746/ssllt.2020.10.3.3"
     title: "Elisabet Pladevall-Ballester, Alexandra Vraciu. (2020). EFL child peer interaction: Measuring the effect of time, proficiency pairing and language of interaction. Studies in Second Language Learning and Teaching, 10(3), 449-472. http://dx.doi.org/10.14746/ssllt.2020.10.3.3"
     author: Elisabet Pladevall-Ballester, Alexandra Vraciu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Strategy-specific effects: time affects self-repetitions and marginally clarification requests; proficiency pairing affects confirmation checks and negative feedback; language affects other-repetitions and negative feedback
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (3 entries) · associational `r1`–`r2` · `q3`
 
 ## Subclaims
 `q3 i?` A significant time effect on self-repetitions shows higher percentages at Time 1 (M = 1.74) than Time 2 (M = 0.73), and only a marginal time effect on clarification requests (F(1, 72) = 3.847, p = .054). [→ Elisabet Pladevall-Ballester 2020](#elisabet-pladevall-ballester-2020)
@@ -45,7 +51,7 @@ sources:
 
 Elisabet Pladevall-Ballester, Alexandra Vraciu. (2020). EFL child peer interaction: Measuring the effect of time, proficiency pairing and language of interaction. Studies in Second Language Learning and Teaching, 10(3), 449-472. http://dx.doi.org/10.14746/ssllt.2020.10.3.3
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Mixed-model result for self-repetitions in the two-year dyad study; no interaction effects were found for this strategy. Clarification requests showed only a marginal time effect (p = .054), higher at Time 1.
 
@@ -55,7 +61,7 @@ Mixed-model result for self-repetitions in the two-year dyad study; no interacti
 
 Elisabet Pladevall-Ballester, Alexandra Vraciu. (2020). EFL child peer interaction: Measuring the effect of time, proficiency pairing and language of interaction. Studies in Second Language Learning and Teaching, 10(3), 449-472. http://dx.doi.org/10.14746/ssllt.2020.10.3.3
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Mixed-model results for confirmation checks and negative feedback; mixed dyads also produced more negative feedback (M = 0.39, SD = 1.00) than matched dyads (M = 0.03, SD = 0.22). A confirmation check × time interaction showed mixed dyads higher at Time 2.
 
@@ -65,7 +71,7 @@ Mixed-model results for confirmation checks and negative feedback; mixed dyads a
 
 Elisabet Pladevall-Ballester, Alexandra Vraciu. (2020). EFL child peer interaction: Measuring the effect of time, proficiency pairing and language of interaction. Studies in Second Language Learning and Teaching, 10(3), 449-472. http://dx.doi.org/10.14746/ssllt.2020.10.3.3
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Mixed-model results for other-repetitions and negative feedback; negative feedback was also higher in the L2 (M = 0.38, SD = 0.98) than the L1 (M = 0.05, SD = 0.32), with a significant language effect (F(1, 72) = 4.233, p = .043).
 

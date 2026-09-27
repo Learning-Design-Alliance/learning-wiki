@@ -15,12 +15,14 @@ sources:
     author: Boyd, William Lowe; Hare, Debra; Nathan, Joe
     q: 2
     i: 2
+    kind: review
+    rigour: 2
 ---
 
 # Public support for cross-district school choice in Minnesota rose from 33% in 1985 to 88% by 1994
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · review `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` Public opinion surveys show support for cross-district public school choice in Minnesota increased from 33% in 1985 to 76% in 1992, reaching 88% by 1994. [→ Boyd 2002](#boyd-2002)
@@ -31,7 +33,7 @@ sources:
 
 Boyd, William Lowe; Hare, Debra; Nathan, Joe. (2002). What Really Happened? Minnesota's Experience with Statewide Public School Choice Programs. Center for School Change, University of Minnesota. https://eric.ed.gov/?id=ED480198
 
-`q2 · i2`
+`q2 · i2` · `review · r2`
 
 Report's synthesis of published public opinion surveys (citing Dornfield 1985, Hotakainen 1992, and a 1994 Gordon S. Black Corp. poll) tracking approval of cross-district choice over a decade.
 

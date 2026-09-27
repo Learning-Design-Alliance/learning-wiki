@@ -15,12 +15,14 @@ sources:
     author: Gifted and talented students at risk for underachievement
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Teachers underrefer culturally and linguistically diverse students for gifted identification
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Research indicates teachers underrefer culturally and linguistically diverse students due to bias, lower expectations, unfamiliarity with culturally manifest giftedness, and failure to consider disadvantaged circumstances. [→ Gifted and talented students at risk for underachievement 2008](#gifted-and-talented-students-at-risk-for-underachievement-2008)
@@ -31,7 +33,7 @@ sources:
 
 Gifted and talented students at risk for underachievement. (2008). Center for Comprehensive School Reform and Improvement Issue Brief. https://www.centerforcsri.org
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `review · r1`
 
 The brief summarizes referral research showing "culturally and linguistically diverse students are not referred for gifted identification to the same extent as other students," and notes even teachers from diverse backgrounds may act on assumptions resulting in underreferral.
 

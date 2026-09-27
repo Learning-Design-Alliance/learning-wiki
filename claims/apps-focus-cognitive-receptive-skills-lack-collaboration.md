@@ -15,12 +15,14 @@ sources:
     author: Rosell-Aguilar, F.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Most language-learning apps focus on cognitive processes and receptive skills, lacking sociocognitive and collaborative activities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports, citing Kim and Kwon (2012), that most apps focus on recognition, recall, and comprehension and receptive language skills, with a lack of sociocognitive or collaborative learning opportunities. [→ Rosell-Aguilar 2017](#rosell-aguilar-2017)
@@ -31,7 +33,7 @@ sources:
 
 Rosell-Aguilar, F. (2017). State of the App: A Taxonomy and Framework for Evaluating Language Learning Mobile Applications. CALICO Journal. https://doi.org/10.1558/cj.27623
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Narrative review, section 2.1. The review attributes this finding to Kim and Kwon's (2012) review of language-learning mobile apps; the reviewed study's design is not described in this article.
 

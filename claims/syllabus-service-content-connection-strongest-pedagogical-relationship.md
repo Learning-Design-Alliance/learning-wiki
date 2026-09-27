@@ -15,12 +15,14 @@ sources:
     author: Stokamer, S.
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # A syllabus that clearly connects service work to course content shows the strongest relationship with civic competence outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` A syllabus clearly connecting service work to course content correlated with civic competence at r = .569, the strongest pedagogical relationship found in this correlational survey analysis. [→ Stokamer 2013](#stokamer-2013)
@@ -31,7 +33,7 @@ sources:
 
 Stokamer, S. (2013). Pedagogical Catalysts of Civic Competence: The Development of a Critical Epistemological Model for Community-Based Learning. Journal of Higher Education Outreach and Engagement, 17(1). https://www.proquest.com/docview/3468983
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Pearson correlation analysis of pedagogical items with civic competence outcome mean scores from the five-year course evaluation dataset. The syllabus-service connection (r = .569) and diversity exploration (r = .552) were the two strongest associations reported.
 

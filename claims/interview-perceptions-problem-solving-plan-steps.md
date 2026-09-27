@@ -15,18 +15,22 @@ sources:
     author: Zambo, Ron; Hess, Robert
     q: 1
     i: "?"
+    kind: causal
+    rigour: 1
   - id: zambo-1994-2
     resource: "https://eric.ed.gov/?id=ED375005"
     title: "Zambo, Ron; Hess, Robert. (1994). The Gender Differential Effects of a Procedural Plan for Solving Mathematical Word Problems. ERIC. https://eric.ed.gov/?id=ED375005"
     author: Zambo, Ron; Hess, Robert
     q: 1
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Student interviews indicate the formatted plan demanded more work and time, with mixed perceptions of step helpfulness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Males in the unformatted-to-formatted sequence reported the formatted test required more work, thinking, or time; three of four felt they did better because the steps required more thinking or validated each other. [→ Zambo 1994](#zambo-1994)
@@ -38,7 +42,7 @@ sources:
 
 Zambo, Ron; Hess, Robert. (1994). The Gender Differential Effects of a Procedural Plan for Solving Mathematical Word Problems. ERIC. https://eric.ed.gov/?id=ED375005
 
-`q1 · i? · the article prints no effect size for this finding`
+`q1 · i? · the article prints no effect size for this finding` · `causal · r1`
 
 Qualitative analysis of post-test interviews (N=12, two students per class); males tested unformatted-to-formatted (N=4) reported the format demanded more effort, though one thought the steps were confusing.
 
@@ -48,7 +52,7 @@ Qualitative analysis of post-test interviews (N=12, two students per class); mal
 
 Zambo, Ron; Hess, Robert. (1994). The Gender Differential Effects of a Procedural Plan for Solving Mathematical Word Problems. ERIC. https://eric.ed.gov/?id=ED375005
 
-`q1 · i? · the article prints no effect size for this finding`
+`q1 · i? · the article prints no effect size for this finding` · `causal · r1`
 
 From the same interview set, females in the unformatted-to-formatted sequence (N=2) named listing facts and diagram drawing as helpful; both reported only computing and answering on the unformatted test.
 

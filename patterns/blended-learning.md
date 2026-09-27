@@ -14,7 +14,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies, `q2`–`q3` · 1 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (1 quant-synthesis, 1 associational, 1 qualitative), `q2`–`q3` · 1 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Blended Learning is the pattern-level target for instruction that intentionally combines in-person and digital learning experiences so each mode does some work the other does not. **Blended (or hybrid) instruction** is conventionally defined as delivering 30-80% of course content online with some face-to-face interaction; a course delivering 80% or more online is instead considered fully **online**, not blended.

@@ -15,12 +15,14 @@ sources:
     author: Clark, J. W., Sayre, E. C., and Franklin, S. V.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Students enter E&M with a higher initial Newton's Third Law response (66%) than they exited Mechanics, most likely due to a winnowing effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` E&M students enter with 66% initial response, significantly higher than their Mechanics exit, which the authors attribute most likely to weaker students leaving the sequence before E&M. [→ Clark 2010](#clark-2010)
@@ -31,7 +33,7 @@ sources:
 
 Clark, J. W., Sayre, E. C., and Franklin, S. V. (2010). Fluctuations in Student Understanding of Newton's 3rd Law. arXiv preprint. https://arxiv.org/abs/1009.0260
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Observational comparison of entry response in E&M versus Mechanics exit. Mechanics failure rates average around 25%, with an additional ~17% exiting between Mechanics and E&M, so E&M entrants are the top 62% of Mechanics students.
 

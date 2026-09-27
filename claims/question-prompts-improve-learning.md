@@ -15,6 +15,8 @@ sources:
     q: 3
     i: "?"
     n: NR (narrative/quantitative review; study count not given in the abstract)
+    kind: quant-synthesis
+    rigour: "?"
   - id: hattie-donoghue-2016
     resource: "https://doi.org/10.1038/npjscilearn.2016.13"
     title: "Hattie, J. A. C., & Donoghue, G. M. (2016). Learning strategies: a synthesis and conceptual model. *npj Science of Learning, 1*(1), 16013. [doi:10.1038/npjscilearn.2016.13](https://doi.org/10.1038/npjscilearn.2016.13)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: 2
     n: 24 studies (2,150 participants; prorated to 15,450)
+    kind: review
+    rigour: "?"
 ---
 
 # Question prompts improve learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r?` · `q3` · `i2` medium
 
 Question prompts are questions embedded in learning materials, tasks, or dialogue that ask learners to respond before, during, or after instruction. They are hypothesized to improve learning by prompting active processing — retrieval, self-explanation, and connection to prior knowledge — rather than passive reading or listening.
 
@@ -43,7 +47,7 @@ Question prompts are questions embedded in learning materials, tasks, or dialogu
 
 Hamaker, C. (1986). The Effects of Adjunct Questions on Prose Learning. *Review of Educational Research, 56*(2), 212–242. [doi:10.3102/00346543056002212](https://doi.org/10.3102/00346543056002212)
 
-`q3 · systematic review of the adjunct-questions literature (examines 13 design moderators across studies)` · `i? · no pooled effect size reported in the abstract` · `n=NR (narrative/quantitative review; study count not given in the abstract)`
+`q3 · systematic review of the adjunct-questions literature (examines 13 design moderators across studies)` · `i? · no pooled effect size reported in the abstract` · `n=NR (narrative/quantitative review; study count not given in the abstract)` · `quant-synthesis · r?`
 
 This is a review of the research literature on factual and higher-order adjunct (inserted) questions — questions embedded before or after sections of text. It finds that adjunct questions of all cognitive levels strongly help learners on repeated (re-asked) test questions and help more weakly on related test questions. Higher-order adjunct questions (versus factual/verbatim ones) generalize further, improving performance on repeated, related, and even unrelated higher-order test questions. Factual pre-questions and (under time pressure) factual post-questions can actually hurt performance on unrelated, unquestioned material — the classic pre-question "narrowing of attention" cost. Effect sizes varied with text length, question density, question/test format, and control-group performance level, but not with learner age or the interval between reading and test. Only the abstract was available (publisher paywall; no open-access copy found), so no overall quantitative effect size can be reported here.
 
@@ -51,7 +55,7 @@ This is a review of the research literature on factual and higher-order adjunct 
 
 Hattie, J. A. C., & Donoghue, G. M. (2016). Learning strategies: a synthesis and conceptual model. *npj Science of Learning, 1*(1), 16013. [doi:10.1038/npjscilearn.2016.13](https://doi.org/10.1038/npjscilearn.2016.13)
 
-`q3 · synthesis compiling meta-analytic results (1 meta-analysis, 24 studies, 164 effects) from a learning-strategies database` · `i2 · medium effect, d=0.42` · `n=24 studies (2,150 participants; prorated to 15,450)`
+`q3 · synthesis compiling meta-analytic results (1 meta-analysis, 24 studies, 164 effects) from a learning-strategies database` · `i2 · medium effect, d=0.42` · `n=24 studies (2,150 participants; prorated to 15,450)` · `review · r?`
 
 This paper synthesizes meta-analytic evidence on learning strategies into a model of surface, deep, and transfer learning phases. Elaborative interrogation — a self-regulation strategy in which learners generate explanations for why a stated fact or idea is true — is classified under "acquiring deep learning." Its own summary table reports this strategy at an average effect size of d = 0.42 (medium), drawn from one meta-analysis covering 24 studies, 2,150 participants (prorated to 15,450), and 164 effects — notably smaller than several other deep-learning strategies in the same table (e.g., elaboration and organisation, d = 0.75; meta-cognitive strategies, d = 0.61). The paper itself does not name the underlying meta-analysis beyond attributing its strategy database to Hattie's earlier *Visible Learning* synthesis.
 

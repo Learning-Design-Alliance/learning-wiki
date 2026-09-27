@@ -15,12 +15,14 @@ sources:
     author: "Beyaztaş, D. İ., Kaptı, S. B., & Hymer, B."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A significant difference in performance goal orientation was found in favour of females (F=5,76, p=,01); entity, incremental and learning goal orientation showed no significant gender differences. [→ Beyaztaş 2017](#beyaztas-2017)
@@ -31,7 +33,7 @@ sources:
 
 Beyaztaş, D. İ., Kaptı, S. B., & Hymer, B. (2017). The Relationship between Student Teachers' Perception of Intelligence and Their Goal Orientation. Universal Journal of Educational Research 5(9): 1519-1528. https://doi.org/10.13189/ujer.2017.050909
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 MANOVA by gender (831 female, 578 male). Table 9 shows PGO F=5,76, p=,01, while entity (p=,23), incremental (p=,43) and LGO (p=,14) were not significant. The authors suggest gender stereotype in traditional Turkish culture as a possible factor.
 

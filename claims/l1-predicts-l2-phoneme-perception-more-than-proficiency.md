@@ -16,12 +16,14 @@ sources:
     q: 2
     i: 3
     n: 104
+    kind: associational
+    rigour: "?"
 ---
 
 # A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large · n=104
+> **Evidence** · 1 study · associational `r?` · `q2` · `i3` large · n=104
 
 The contrast being perceived is the same; the task is not. A learner whose first language already
 encodes the distinction hears it, and one whose first language does not may not hear it at any level.
@@ -40,7 +42,7 @@ encodes the distinction hears it, and one whose first language does not may not 
 
 Pešková, A. (2026). Identification of consonant length in L2 Italian: the role of cross-linguistic influence. *Frontiers in Language Sciences, 5*. [doi:10.3389/flang.2026.1911194](https://doi.org/10.3389/flang.2026.1911194)
 
-`q2 · cross-sectional group comparison with a native-speaker control group` · `i3 · large between-group difference, 89.8% vs 64% on the same contrast` · `n=104`
+`q2 · cross-sectional group comparison with a native-speaker control group` · `i3 · large between-group difference, 89.8% vs 64% on the same contrast` · `n=104` · `associational · r?`
 
 104 learners of Italian identified singleton against geminate consonants in trisyllabic pseudowords (`sàpolo` vs `sàppolo`), grouped by first language. Accuracy tracked whether the learner's L1 encodes phonological quantity in consonants or vowels, and the ordering by L1 was far wider than the ordering by proficiency. The study used both identification (with orthographic support) and discrimination tasks, and identification was the easier of the two in nearly every group.
 

@@ -13,6 +13,8 @@ sources:
     q: 3
     i: "?"
     n: unspecified
+    kind: causal
+    rigour: "?"
 id: part-task-practice-reduces-load-for-novices
 evidence_strength: moderate
 ---
@@ -20,7 +22,7 @@ evidence_strength: moderate
 # Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=unspecified
+> **Evidence** · 1 study · causal `r?` · `q3` · n=unspecified
 
 For learners with very low prior knowledge, the complexity of a whole task can exceed working memory capacity, making isolated practice of critical sub-skills beneficial before integration.
 
@@ -35,7 +37,7 @@ Primary evidence link: https://doi.org/10.1016/S0959-4752(01)00016-0
 
 Pollock, E., Chandler, P., & Sweller, J. (2002). Assimilating complex information. *Learning and Instruction, 12*(1), 61–86. [https://doi.org/10.1016/S0959-4752(01)00016-0](https://doi.org/10.1016/S0959-4752(01)00016-0)
 
-`q3 · peer-reviewed experiment` · `i? · no source text available to check; the entry prints no effect size` · `n=unspecified`
+`q3 · peer-reviewed experiment` · `i? · no source text available to check; the entry prints no effect size` · `n=unspecified` · `causal · r?`
 
 The researchers found that for complex tasks with high element interactivity, novices performed better when initially presented with isolated parts of the task before being required to perform the whole integrated task.
 

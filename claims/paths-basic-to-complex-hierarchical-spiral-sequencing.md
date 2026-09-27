@@ -15,12 +15,14 @@ sources:
     author: Wu, Yann-Shya
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # PATHS spiral sequencing treats basic emotions as prerequisites for complex emotions across four levels of complexity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In PATHS, understanding of basic emotions is treated as a prerequisite for learning about complex emotions, implying a hierarchical relationship, with the fifty-six lessons divided into four levels of complexity. [→ Wu 2000](#wu-2000)
@@ -31,7 +33,7 @@ sources:
 
 Wu, Yann-Shya. (2000). Guidelines for Instructional Sequencing in Emotional Literacy Learning Using PATHS Curriculum as an Example. https://eric.ed.gov/?id=ED455810
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Document analysis of the PATHS Feelings and Relationships Unit, which Greenberg and associates divide into 4 levels of complexity from basic and intermediate emotions (lessons 1-21) to advanced emotions (lessons 48-54), shows a "hierarchical relationship" of basic-to-complex emotions.
 

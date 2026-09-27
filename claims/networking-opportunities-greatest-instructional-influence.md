@@ -15,12 +15,14 @@ sources:
     author: "Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z."
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Networking opportunities were the most valued feature of the network, with 20 of 24 interviewed teachers crediting them as playing the greatest role in changing their instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` 20 of 24 interviewed teachers indicated networking opportunities played the greatest role in changing their instruction, citing new perspectives and access to ideas and materials. [→ Smith 2021](#smith-2021)
@@ -31,7 +33,7 @@ sources:
 
 Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z. (2021). The Better Math Teaching Network: Lessons Learned From a 5-Year Instructionally Focused NIC. American Institutes for Research & WestEd. https://www.bettermathteachingnetwork.org/
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r3`
 
 Teacher interview analysis in the Key Learnings section: "20 of the 24 teachers interviewed indicated that the networking opportunities played the greatest role in changing their instruction", with 5 citing perspectives on student learning and 15 citing access to new ideas and materials.
 

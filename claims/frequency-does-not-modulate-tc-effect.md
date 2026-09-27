@@ -15,18 +15,22 @@ sources:
     author: Geng Yaoyao, Morita Aiko
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: geng-yaoyao-2026-2
     resource: "https://doi.org/10.1007/s10936-026-10279-0"
     title: "Geng Yaoyao, Morita Aiko. (2026). A Comparison of Transposed-Character Effect Between Chinese and Japanese Speakers: Processing Position Information of Hanzi and Kanji Characters. Journal of Psycholinguistic Research. https://doi.org/10.1007/s10936-026-10279-0"
     author: Geng Yaoyao, Morita Aiko
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Word frequency does not modulate the transposed-character effect in either experiment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Experiment 1 there was no interaction between nonword type and word frequency, so Hypothesis 1c was not supported. [→ Geng Yaoyao 2026](#geng-yaoyao-2026)
@@ -38,7 +42,7 @@ sources:
 
 Geng Yaoyao, Morita Aiko. (2026). A Comparison of Transposed-Character Effect Between Chinese and Japanese Speakers: Processing Position Information of Hanzi and Kanji Characters. Journal of Psycholinguistic Research. https://doi.org/10.1007/s10936-026-10279-0
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Null result from the Experiment 1 LME analyses of reaction times and error rates with 36 high- and 36 low-frequency base words. The authors report no type-of-nonword × frequency interaction and state the nonword type "was not modulated by frequency".
 
@@ -48,7 +52,7 @@ Null result from the Experiment 1 LME analyses of reaction times and error rates
 
 Geng Yaoyao, Morita Aiko. (2026). A Comparison of Transposed-Character Effect Between Chinese and Japanese Speakers: Processing Position Information of Hanzi and Kanji Characters. Journal of Psycholinguistic Research. https://doi.org/10.1007/s10936-026-10279-0
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Null result from the Experiment 2 masked-priming lexical decision task with 63 Chinese and 63 Japanese speakers. The authors state the TC effect "was not modulated by frequency", replicating the Experiment 1 null result.
 

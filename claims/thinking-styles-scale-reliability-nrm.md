@@ -15,12 +15,14 @@ sources:
     author: "Chaiyapornpattana, N., & Wongwanich, S."
     q: 3
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Reliability of the thinking styles scale ranges from .722 to .913 across its five dimensions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Item Response Theory analysis using the Nominal Response Model yielded reliability values of 0.872, 0.913, 0.722, 0.777 and 0.799 for function, form, level, scope and leaning respectively. [→ Chaiyapornpattana 2009](#chaiyapornpattana-2009)
@@ -31,7 +33,7 @@ sources:
 
 Chaiyapornpattana, N., & Wongwanich, S. (2009). Development of a multidimensional thinking styles scale based on theory of mental self-government for sixth grade students. Research in Higher Education Journal. http://www.aabri.com
 
-`q3 · i?`
+`q3 · i?` · `design · r3`
 
 Reliability was estimated via Item Response Theory using the Nominal Response Model with Multilog on the 1,545-student sample. The values "at 0.872, 0.913, 0.722, 0.777 and 0.799" exceed the .700 acceptance criterion the authors cite from Nunnally and Bernstein.
 

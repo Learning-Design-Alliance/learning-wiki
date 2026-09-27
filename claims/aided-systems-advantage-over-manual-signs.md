@@ -15,18 +15,22 @@ sources:
     author: "Nam, S., Kim, J., & Sparks, S."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: nam-2018-2
     resource: "https://eric.ed.gov/?id=EJ1185374"
     title: "Nam, S., Kim, J., & Sparks, S. (2018). An Overview of Review Studies on Effectiveness of Major AAC Systems for Individuals with Developmental Disabilities Including Autism. The Journal of Special Education Apprenticeship, 7(2). https://eric.ed.gov/?id=EJ1185374"
     author: "Nam, S., Kim, J., & Sparks, S."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Aided AAC systems show advantages over manual signs for acquiring requests, and motor imitation and matching skills predict manual sign acquisition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Children with autism showed a tendency to acquire PE responses more easily and rapidly than signed responses. [→ Nam 2018](#nam-2018)
@@ -38,7 +42,7 @@ sources:
 
 Nam, S., Kim, J., & Sparks, S. (2018). An Overview of Review Studies on Effectiveness of Major AAC Systems for Individuals with Developmental Disabilities Including Autism. The Journal of Special Education Apprenticeship, 7(2). https://eric.ed.gov/?id=EJ1185374
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Overview of the Nam and Hwang (2016) review of three empirical studies comparing PE and manual sign training with mands acquisition as the dependent variable; the direction is stated as a tendency, not a definitive result.
 
@@ -48,7 +52,7 @@ Overview of the Nam and Hwang (2016) review of three empirical studies comparing
 
 Nam, S., Kim, J., & Sparks, S. (2018). An Overview of Review Studies on Effectiveness of Major AAC Systems for Individuals with Developmental Disabilities Including Autism. The Journal of Special Education Apprenticeship, 7(2). https://eric.ed.gov/?id=EJ1185374
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The article attributes the prerequisite relationship to the Gregory, DeLeon, and Richman (2009) study, which assessed existing matching and motor-imitation skills of children with autism and intellectual disability and found these skills prerequisite for learning manual signs.
 

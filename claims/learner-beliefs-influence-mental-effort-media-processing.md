@@ -15,18 +15,22 @@ sources:
     author: Salomon, Gavriel; Gardner, Howard
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
   - id: salomon-1983-2
     resource: "https://eric.ed.gov/?id=ED253201"
     title: "Salomon, Gavriel; Gardner, Howard. (1983). The Computer as Educator: Lessons from Television Research. Harvard Project Zero. https://eric.ed.gov/?id=ED253201"
     author: Salomon, Gavriel; Gardner, Howard
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Learners' beliefs about a medium and its processing demands influence the mental effort they invest in processing it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Children's general beliefs about the nature of the medium and its processing demands influence the amount of mental effort ('depth', 'mindfulness') they expend in processing it. [→ Salomon 1983](#salomon-1983)
@@ -38,7 +42,7 @@ sources:
 
 Salomon, Gavriel; Gardner, Howard. (1983). The Computer as Educator: Lessons from Television Research. Harvard Project Zero. https://eric.ed.gov/?id=ED253201
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The review attributes this to Salomon (1983) on differential investment of mental effort in learning from different sources. No effect size or sample is printed here; the review reports the relationship without statistics.
 
@@ -48,7 +52,7 @@ The review attributes this to Salomon (1983) on differential investment of menta
 
 Salomon, Gavriel; Gardner, Howard. (1983). The Computer as Educator: Lessons from Television Research. Harvard Project Zero. https://eric.ed.gov/?id=ED253201
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 A second review-attributed finding (Salomon & Leigh, in press) on predispositions concerning television: activation of skills by features does not guarantee their application. The review reports it without printed statistics.
 

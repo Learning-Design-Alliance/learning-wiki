@@ -15,12 +15,14 @@ sources:
     author: Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Aiding-based transfer differs by trainee experience: first-semester trainees showed no aided-to-unaided transfer on Task One and initial negative then positive transfer on Task Two
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Unlike fourth-semester trainees, first-semester trainees showed no positive or negative transfer of training from aided Task One displays. [→ Rouse 1980](#rouse-1980)
@@ -31,7 +33,7 @@ sources:
 
 Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=ED192743
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Experiment Five with 48 first-semester trainees in a two-year FAA certificate program, first session training on Task One. The article reports no positive or negative transfer from aided displays, contrasting with Experiment Three's fourth-semester trainees; no effect size is printed.
 

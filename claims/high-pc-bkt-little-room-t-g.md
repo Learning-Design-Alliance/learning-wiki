@@ -15,12 +15,14 @@ sources:
     author: "Martori, F., Cuadros, J., & González-Sabaté, L."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The very high adjusted R² of the RSS-estimation model may indicate BKT works better when percent correct is very high, leaving little room for T and G
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The authors interpret the model's very high adjusted R² as possibly indicating that BKT works better when the percentage of correct answers is very high, in which case there may not be much room for the T and G parameters in the model. [→ Martori 2015](#martori-2015)
@@ -31,7 +33,7 @@ sources:
 
 Martori, F., Cuadros, J., & González-Sabaté, L. (2015). Direct estimation of the minimum RSS value for training Bayesian Knowledge Tracing parameters. Proceedings of the 8th International Conference on Educational Data Mining. https://www.educationaldatamining.org/EDM2015/proceedings/short364-367.pdf
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Authors' interpretation (type e) of the regression result in the discussion section; no additional test is reported for this hypothesis. The article states this "may be indicating" and flags it as a suspicion requiring a different dataset.
 

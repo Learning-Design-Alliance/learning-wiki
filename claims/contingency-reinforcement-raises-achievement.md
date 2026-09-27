@@ -15,12 +15,14 @@ sources:
     author: Spilerman, Seymour
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Empirical studies report that planned reinforcement contingencies produce higher achievement than would normally occur in the classroom, across preschool, elementary, high school, retarded, disturbed, culturally deprived, and delinquent populations. [→ Spilerman 1970](#spilerman-1970)
@@ -31,7 +33,7 @@ sources:
 
 Spilerman, Seymour. (1970). Raising Academic Motivation in Lower Class Adolescents: A Convergence of Two Research Traditions. Discussion Papers 75-70. https://eric.ed.gov/?id=ED133396
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 Narrative survey of reinforcement studies (Baer and Wolf; Martin et al.; Staats et al.; Tyler and Brown) reporting that "a planned design of contingency reinforcement can lead to higher achievement than would normally occur in the classroom" across age and population types. No effect sizes are printed.
 

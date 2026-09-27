@@ -15,12 +15,14 @@ sources:
     author: Ewald, Helen Rothschild
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Dialogism's view of the reader as meaning-maker complements reading research on the constructing reader
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Bakhtin's view that the reader, like the writer, authors meaning aligns with reading theorists' finding that what a reader brings to a text is as important as, if not more important than, what the text itself presents. [→ Ewald 1990](#ewald-1990)
@@ -31,7 +33,7 @@ sources:
 
 Ewald, Helen Rothschild. (1990). Mikhail Bakhtin and "Expressive Discourse." Paper presented at the Conference on College Composition and Communication. https://eric.ed.gov/?id=ED318031
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The paper cites reading research (Goetz and Armbruster; de Beaugrande) noting readers commonly alter text-presented entries to produce a better match with their own world-knowledge, supporting the claim that the reader consummates the discourse act. Attributed second-hand, no independent data.
 

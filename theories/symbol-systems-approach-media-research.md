@@ -16,7 +16,7 @@ sources:
 # The symbol systems approach to studying media and computers in education
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The symbol systems approach holds that media can be "usefully distinguished in terms of the symbol systems which they present and the kinds of symbol-using skills which they evoke, afford, or inculcate". It assumes mental representations and operations on them are the core of cognition, developed through interaction with a culture's meaning systems (drawing on Vygotsky). It analyzes both external symbol systems (media codes) and the internal symbol systems learners must acquire, and treats learners as active agents whose expectations and representations shape, and are shaped by, encounters with media. The authors offer it as a framework for generating research questions about computers rather than a recipe for designs.

@@ -17,18 +17,22 @@ sources:
     q: 2
     i: "?"
     n: N/A
+    kind: review
+    rigour: 1
   - id: ellsworth-2000
     resource: "https://eric.ed.gov/?id=ED444597"
     title: "Ellsworth, James B. (2000). A Survey of Educational Change Models. ERIC Digest. https://eric.ed.gov/?id=ED444597"
     author: Ellsworth, James B.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · n=N/A
+> **Evidence** · 2 studies · 2 review `r1`–`r2` · `q2` · n=N/A
 
 "Innovation" here covers new technologies, teaching approaches and designs being introduced into a school, programme or organisation. The claim is about adoption and persistence, not about whether the innovation works where it is used.
 
@@ -44,7 +48,7 @@ sources:
 
 Ellsworth, J. B. (2018). A survey of educational change models. In *Foundations of Learning and Instructional Design Technology* (1st ed., pp. 339–345). EdTech Books. [https://edtechbooks.org/lidtfoundations/survey_of_educational_change_models](https://edtechbooks.org/lidtfoundations/survey_of_educational_change_models)
 
-`q2 · narrative review of educational change models` · `i? · no effect size` · `n=N/A`
+`q2 · narrative review of educational change models` · `i? · no effect size` · `n=N/A` · `review · r1`
 
 A public-domain ERIC digest from 2000, drawn from Ellsworth's book *Surviving Change: A Survey of Educational Change Models*. It organises seven classic models of change (Fullan and Stiegelbauer; Reigeluth and Garfinkle; Havelock and Zlotolow; Hall and Hord; Zaltman and Duncan; Rogers; Ely) into one communication framework. It says the field's frameworks are "solidly grounded in empirical studies and practical applications", but the digest summarises them rather than presenting that evidence. The claim is the digest's own concluding synthesis, in its section on succeeding systemically.
 
@@ -52,7 +56,7 @@ A public-domain ERIC digest from 2000, drawn from Ellsworth's book *Surviving Ch
 
 Ellsworth, James B. (2000). A Survey of Educational Change Models. ERIC Digest. https://eric.ed.gov/?id=ED444597
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 In its Succeeding Systemically section, the digest asserts, drawing on the classical change models, that "a single innovation (like a new technology or teaching philosophy) that is foreign to the rest of the system may be rejected" and that success depends on a coordinated bundle. This is the author's synthesis, not a tested result.
 

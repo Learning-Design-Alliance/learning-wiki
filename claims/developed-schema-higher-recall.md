@@ -15,12 +15,14 @@ sources:
     author: Bigenho, Frederick W., Jr
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Subjects with a more developed schema for a body of knowledge show higher recall for materials related to that knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Subjects with a more developed schema for some body of knowledge show higher recall for materials related to that knowledge, with most cited studies involving narratives. [→ Bigenho 1992](#bigenho-1992)
@@ -31,7 +33,7 @@ sources:
 
 Bigenho, Frederick W., Jr. (1992). Conceptual Developments in Schema Theory. https://eric.ed.gov/?id=ED351392
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The essay cites Brewer and Nakamura (1984) for this basic finding, noting that "two of three studies cited involved narratives, stories that are rich in related events or incidents." No effect size is printed.
 

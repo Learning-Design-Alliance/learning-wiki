@@ -15,12 +15,14 @@ sources:
     author: Brown, Alan S.; Cattoi, Robert
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Error increase across positions is more immediate for low- than high-frequency items, but the position × frequency interaction on errors falls short of significance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The error data mirrored the latency pattern, with significant main effects of position and frequency, but the position × frequency interaction was not statistically significant (p = .056). [→ Brown 1982](#brown-1982)
@@ -31,7 +33,7 @@ sources:
 
 Brown, Alan S.; Cattoi, Robert. (1982). Associative Strength Effects in Semantic Priming. https://eric.ed.gov/?id=ED223979
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Error analysis for the first three positions in the same experiment; main effects for position, F(2,130) = 3.23, and frequency, F(2,130) = 44.32, were significant. The article states "the interaction of position and frequency fell short ofsignificance, F(4,260) = 2.34, p = .056", though the data trend mirrored the latencies.
 

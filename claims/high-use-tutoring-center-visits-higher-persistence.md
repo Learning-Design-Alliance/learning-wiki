@@ -15,12 +15,14 @@ sources:
     author: Cooper, E.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Freshmen who visited the tutoring center more than 10 times per quarter had statistically higher persistence rates than students who did not visit
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the 200740F cohort, persistence differed significantly between TC-visiting groups and non-visitors (No Visit v. >10 Visits z=-2.07, p=.0192), but the trend did not hold for the smaller 200740X cohort. [→ Cooper 2010](#cooper-2010)
@@ -31,7 +33,7 @@ sources:
 
 Cooper, E. (2010). Tutoring Center Effectiveness: The Effect of Drop-In Tutoring. Journal of College Reading and Learning, 40(2). https://eric.ed.gov/?id=EJ887303
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Observational analysis of TutorTrac usage records merged with student records for the 200740F and 200740X fall 2007 freshmen cohorts, grouped by visit category. The article reports "statistically higher rates of persistence" for high-use visitors versus non-visitors; Table 3 prints z=-2.07, p=.0192 for No Visit v. >10 Visits.
 

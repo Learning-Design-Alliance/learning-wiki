@@ -15,12 +15,14 @@ sources:
     author: Bassler, O. C.; Beers, M. I.; Richardson, L. I.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Polya Method students outscore Dahmus Method students on the equation criterion for verbal problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Ninth-grade algebra students taught with the Polya Method achieved significantly higher equation (translation) scores than students taught with the Dahmus translation Method. [→ Bassler 1972](#bassler-1972)
@@ -31,7 +33,7 @@ sources:
 
 Bassler, O. C.; Beers, M. I.; Richardson, L. I. (1972). Comparison of Two Instructional Strategies for Teaching the Solution to Verbal Problems. Final Report. George Peabody College for Teachers. https://eric.ed.gov/?id=ED075260
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Three-factor ANOVA (treatment x ability x test occasion, repeated measures on occasion) on equation-criterion scores of 48 ninth-grade girls, 8 per cell, after seven days of slide-tape instruction. The treatment main effect was significant (F = 20.30, p < .05), with "the PM subjects had a significantly larger mean score than the DM subjects on the equation criterion."
 

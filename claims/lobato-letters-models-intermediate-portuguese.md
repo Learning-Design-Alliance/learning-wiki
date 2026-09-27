@@ -15,12 +15,14 @@ sources:
     author: Aiex, Nola Kortner
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # Monteiro Lobato's New York letters can be used as letter-writing models for intermediate students of Portuguese
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The author recommends Lobato's 1927-1931 New York letters as models for how intermediate students of Portuguese can begin to undertake letter-writing. [→ Aiex 1997](#aiex-1997)
@@ -31,7 +33,7 @@ sources:
 
 Aiex, Nola Kortner. (1997). The Image of New York City in the 1920s through the Eyes of the Brazilian Modernist Writer, Monteiro Lobato. https://eric.ed.gov/?id=ED403600
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r1`
 
 The author's interpretive recommendation in the paper's closing section: Lobato's letters are proposed as "models of how to begin to undertake letter-writing for intermediate students of Portuguese," with brevity keeping the needed attention span short. No empirical test is reported.
 

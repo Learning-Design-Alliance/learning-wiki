@@ -12,7 +12,7 @@ generated:
 # Debate
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 1 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (1 causal, 1 quant-synthesis), `q2`–`q3` · 1 of 2 report an effect size
 
 ## Description
 Debate is the element in which learners take positions, justify them with evidence, and respond to alternatives in a structured exchange.

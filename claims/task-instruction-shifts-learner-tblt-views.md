@@ -15,12 +15,14 @@ sources:
     author: Ali Panahi
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Task-based instruction changed learners' views toward TBLT to align with teachers' views
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` After IELTS-task-based instruction, the II group's views toward TBLT no longer differed significantly from teachers' views, whereas a significant difference existed before treatment. [→ Ali Panahi 2012](#ali-panahi-2012)
@@ -31,7 +33,7 @@ sources:
 
 Ali Panahi. (2012). Binding Task-Based Language Teaching and Task-Based Language Testing: A Survey into EFL Teachers and Learners' Views of Task-Based Approach. English Language Teaching, 5(2). https://doi.org/10.5539/elt.v5n2p148
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Post-treatment t-test (Table 7) comparing teachers' (n = 32, mean 18.94) and II group's (n = 235, mean 16.38) TBLT views found no significant difference, whereas before treatment the difference had been significant (t = 3.53, Sig. 0.001, Table 3).
 

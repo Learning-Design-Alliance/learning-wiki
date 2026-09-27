@@ -15,12 +15,14 @@ sources:
     author: Frank, B. W., and Scherr, R. E.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # The physical stability of material artifacts such as stacked tickertape strips and worksheets stabilizes students' attention, action, and knowledge use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Stacked strips at the table's center provide a material anchor for length comparisons, and the stable material arrangement sustains specific patterns of attention, action, and intuitive knowledge use. [→ Frank 2012](#frank-2012)
@@ -31,7 +33,7 @@ sources:
 
 Frank, B. W., and Scherr, R. E. (2012). Interactional processes for stabilizing conceptual coherences in physics. Submitted to PRST-PER. https://journals.aps.org/prper/
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Analysis in Section 4.B.2 of the material setting: strips stacked side-by-side provide a "material anchor" for comparing lengths, and when Kate lifted a single strip to enact its pulling, the group shifted to mutual attention and discussion of the motion that made the strips.
 

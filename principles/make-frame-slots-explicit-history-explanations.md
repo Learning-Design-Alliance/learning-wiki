@@ -17,7 +17,7 @@ sources:
 # Make frame slot content and relationships explicit in historical explanations, especially for younger readers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies, `q1` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 qualitative, 1 theoretical), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The principle holds that explanations in history and social studies textbooks should make the content of the Goal, Problem, Plan, Action, and Outcome slots and the relationships among them explicit, because psychological goals and motives tend to be left implicit and readers may lack the knowledge to infer them. The authors argue that since Goals are implicit anyway, it is better to make them explicit for the reader, and that presentation should start with the Goal and Problem to establish a meaningful context for the Solution.

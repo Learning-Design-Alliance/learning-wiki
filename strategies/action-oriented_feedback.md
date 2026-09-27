@@ -12,7 +12,7 @@ generated:
 # Action-Oriented Feedback
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies (2 quant-synthesis, 2 review, 1 causal, 1 theoretical), `q2`–`q4` · 2 of 6 report an effect size
 
 ## Description
 Action-oriented feedback tells learners what to *do next*, not just what went wrong. Instead of marking grammar errors or assigning a grade, the teacher or peer suggests specific actions — "vary your sentence openings in paragraph two," "add a topic sentence that states your claim" — that the learner can carry out on the current draft or transfer to future writing. One-on-one [conferencing](../elements/coaching.md) and structured peer editing with concrete suggestions are the primary delivery mechanisms.

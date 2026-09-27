@@ -15,12 +15,14 @@ sources:
     author: Loucks, Susan F.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # LoU Interview ratings correlate strongly with ethnographers' full-day observations, supporting interview validity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The correlation between the consensus reader rating (based on written protocols) and the consensus interview rating was .65, which the authors read as support tempered by the difficulty of conveying information second hand. [→ Loucks 1977](#loucks-1977)
@@ -31,7 +33,7 @@ sources:
 
 Loucks, Susan F. (1977). Levels of Use of the Innovation: The Conceptualization and Measurement of a Variable Useful for Assessing Innovation Implementation by Individuals. https://eric.ed.gov/?id=ED137947
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Second validity comparison in the same ethnographic study, between consensus ratings by two readers of the written ethnographic protocols and the consensus interview rating, showing weaker agreement than the ethnographer comparison.
 

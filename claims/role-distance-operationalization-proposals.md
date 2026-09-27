@@ -15,12 +15,14 @@ sources:
     author: Brumbaugh, Robert B.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Behavioral slip frequency and out-of-role versus in-role time proportion are proposed as observational indices of the role distance facet of authenticity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Counting frequencies of behavioral slips from enactment of a situated role in situated activity systems is proposed as one simple index of this facet of authenticity. [→ Brumbaugh 1968](#brumbaugh-1968)
@@ -32,7 +34,7 @@ sources:
 
 Brumbaugh, Robert B. (1968). Authenticity, Role Distance, and Organizational Climate: Toward a Conceptual Clarification. Paper presented at the Annual Meeting of the American Educational Research Association. https://eric.ed.gov/?id=ED026738
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical proposal in a conceptual paper, not a tested result. The author suggests that in situated activity systems, "a mere count of the frequencies of behavioral slips" might provide one fairly simple index, and separately proposes a time-based out-of-role versus in-role proportion index. No data are reported.
 

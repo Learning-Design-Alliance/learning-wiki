@@ -16,7 +16,7 @@ sources:
 # Basic Systems Model for staff development planning with six sequential decision points
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies, `q1` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 design), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The workbook teaches a Basic Systems Model in which staff development planning proceeds through sequential decision points: Rationale, Objectives, Criterion Measures, Techniques and Strategies, Field Test, and Evaluation. The article defines the approach as "a plan for solving problems that describes the interrelation of sequential decision points", with feedback communicating information from later decision points to earlier ones. Each decision point answers a guiding question (Why? What? How much? How?), and each is elaborated into sub-decision points such as felt needs, verified needs, and problem statement under Rationale.

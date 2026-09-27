@@ -16,7 +16,7 @@ sources:
 # Three universal MLE criteria: intentionality and reciprocity, mediation of meaning, and transcendence
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Within MLE theory, Feuerstein offers twelve criteria of mediated interaction, of which three are treated as universal and sufficient: intentionality and reciprocity (deliberately guiding the child's alertness and exchanging responses), mediation of meaning (explaining the significance of stimuli to build motivation), and transcendence (transfer of learning across contexts). The article states that "only the first three criteria can be considered sufficient and universal, and required to adapt the MLE interactions to the processes", with traces found across cultures. The study's observation form coded classroom interaction against exactly these three criteria.

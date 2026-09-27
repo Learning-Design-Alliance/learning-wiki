@@ -15,12 +15,14 @@ sources:
     author: "Gómez Argüelles, L., Hernández Méndez, E., & Perales Escudero, M. D."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Instructors focused OCF on pronunciation and grammar errors and withheld correction unless errors impeded communication
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Participants corrected pronunciation and grammar most, and four instructors stated OCF was not provided unless the error impeded communication. [→ Gómez Argüelles 2019](#gomez-arguelles-2019)
@@ -31,7 +33,7 @@ sources:
 
 Gómez Argüelles, L., Hernández Méndez, E., & Perales Escudero, M. D. (2019). EFL Teachers' Attitudes Towards Oral Corrective Feedback: A Case Study. Profile: Issues in Teachers' Professional Development, 21(1), 107-120. https://doi.org/10.15446/profile.v21n1.69508
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 In the error-types analysis, "Four instructors stated that ocf was not provided unless the error in question impeded communication"; participants reported focusing on pronunciation and grammar because these needed more practice or were easier to correct.
 

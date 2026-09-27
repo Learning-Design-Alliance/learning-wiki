@@ -15,18 +15,22 @@ sources:
     author: "Sherman, P., & Boukydis, O."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: sherman-2020-2
     resource: "https://eric.ed.gov/?id=EJ1272497"
     title: "Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497"
     author: "Sherman, P., & Boukydis, O."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Instructors and students agree that personal gain is the primary value of experiential learning, with beauty and social good seen as important but of lesser significance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Instructors' coded responses for gain (140 segments) outnumbered beauty (77) and good (76), suggesting teachers value skill and knowledge outcomes over aesthetic or societal value. [→ Sherman 2020](#sherman-2020)
@@ -38,7 +42,7 @@ sources:
 
 Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Study 1 (2018) semi-structured interviews with ten undergraduate instructors, coded in MAXQDA into beauty, gain, good, and value categories. The article reports "140 distinct coded text segments related to RQ2 (individual gain)" versus 77 for beauty and 76 for good.
 
@@ -48,7 +52,7 @@ Study 1 (2018) semi-structured interviews with ten undergraduate instructors, co
 
 Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Study 2 (2019) interviews with twelve students, analyzed with the same thematic network technique. The article states "the number of student responses related to gain is the highest (82), followed by beauty (80) and good (60)" and concludes both groups agreed gain was primary.
 

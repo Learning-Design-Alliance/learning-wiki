@@ -15,12 +15,14 @@ sources:
     author: "Chaiyapornpattana, N., & Wongwanich, S."
     q: 3
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Differential item functioning was found in four items across the function, form and level dimensions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Mantel-Haenszel and Log Odd Ratio analysis flagged DIF in 2 function items, 1 form item and 1 level item. [→ Chaiyapornpattana 2009](#chaiyapornpattana-2009)
@@ -31,7 +33,7 @@ sources:
 
 Chaiyapornpattana, N., & Wongwanich, S. (2009). Development of a multidimensional thinking styles scale based on theory of mental self-government for sixth grade students. Research in Higher Education Journal. http://www.aabri.com
 
-`q3 · i?`
+`q3 · i?` · `design · r3`
 
 DIF was analyzed with Mantel-Haenszel and Log Odd Ratio methods using DDFS on the 1,545-student sample. The analysis revealed that "2 items in dimension of function, 1 item of form and 1 item of level had found DIF."
 

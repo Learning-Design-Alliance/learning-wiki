@@ -15,12 +15,14 @@ sources:
     author: Dennis, J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Advanced technology's hyperinteractivity can intensify social inequality in education
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Based on assessments of past innovations, Annesley and Cuban suggest that hyperinteractivity enabled by advanced technology can intensify social inequality, paradoxically given its conflation with democracy. [→ Dennis 2020](#dennis-2020)
@@ -31,7 +33,7 @@ sources:
 
 Dennis, J. (2020). Languaging Network Learning: The Emergence of Connectivism in Architectonic Thought. International Review of Research in Open and Distributed Learning, 21(3). https://www.irrodl.org/
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The review reports, citing Annesley (2001) and Cuban (2001), that "the hyperinteractivity that advanced technology allows can also intensify social inequality" — a caution the article attributes to those prior assessments of educational technology, not to data gathered in this article.
 

@@ -17,7 +17,7 @@ sources:
 # Polya Method: a six-step heuristic strategy for solving verbal problems
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The Polya Method (PM) is a heuristic instructional strategy derived from Polya's How to Solve It, operationalized here as six programmed steps: read the problem carefully; decide what question the problem asks and choose a variable; consider the other information and how it relates to the unknown; write an equation; solve the equation; and check the answer for reasonableness and against the original problem. The article describes it as "basically heuristic in nature; that is, the student is expected to read and understand the problem; to plan for a solution of the problem." It was delivered via synchronized slide-tape individualized instruction over seven 40-minute periods with decreasing guidance and immediate feedback.

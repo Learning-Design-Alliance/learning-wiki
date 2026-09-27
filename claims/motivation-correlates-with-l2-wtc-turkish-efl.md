@@ -15,12 +15,14 @@ sources:
     author: Altiner, C.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Motivation correlates positively and significantly with L2 willingness to communicate among Turkish EFL preparatory students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` L2WTC and motivation were positively correlated at a statistically significant level, with a medium-size correlation (r(106) = .455, p < .01). [→ Altiner 2018](#altiner-2018)
@@ -31,7 +33,7 @@ sources:
 
 Altiner, C. (2018). Turkish EFL Learners' Willingness to Communicate in L2 and Motivation. Journal of Education and Training Studies, 6(11a). https://doi.org/10.11114/jets.v6i11a.3815
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Correlational analysis of questionnaire data from 106 preparatory students at Uşak University, using the Willingness to Communicate Scale and Language Learning Orientation Scale. The study reports "a medium size correlation between L2WTC and motivation ( r(106) = .455, p <  .01)"; no standardized effect size beyond r is printed.
 

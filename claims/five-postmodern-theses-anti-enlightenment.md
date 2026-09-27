@@ -15,12 +15,14 @@ sources:
     author: Paulston, Rolland G.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Postmodern texts advance five characteristic theses against Enlightenment certainties
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` A close reading of the postmodernity debate literature identifies five postmodern theses: rejection of Enlightenment grand narratives, rejection of hegemonic knowledge, critique of privileged adjudication of knowledge claims, attack on Eurocentrism, and a shift in research from time to space and from facts to interpretations. [→ Paulston 1999](#paulston-1999)
@@ -31,7 +33,7 @@ sources:
 
 Paulston, Rolland G. (1999). Comparative Education After Postmodernity: Occasional Paper Series. https://eric.ed.gov/?id=ED430912
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument from the author's close reading of some 60 texts in the postmodernity debate. The paper enumerates the five theses, including the fifth: "a shift in research from time to space, from facts to interpretations." No empirical evidence is offered; this is an interpretive synthesis.
 

@@ -15,12 +15,14 @@ sources:
     author: Wiles, Jon W.; Bondi, Joseph W.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # A standing committee structure sustains middle school change despite personnel turnover
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors report from consulting experience that an elaborate committee structure creates an advocacy group that maintains progress toward middle school goals despite turnover among board members, superintendents, and teachers. [→ Wiles 1986](#wiles-1986)
@@ -31,7 +33,7 @@ sources:
 
 Wiles, Jon W.; Bondi, Joseph W. (1986). Making Middle Schools Work. Association for Supervision and Curriculum Development. https://eric.ed.gov/?id=ED277147
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The authors' expert interpretation from consulting across many districts, not a tested study. They argue the CMP committee structure "guarantees continuity of effort across the district" so curriculum work proceeds uninterrupted over the long haul.
 

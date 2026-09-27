@@ -15,12 +15,14 @@ sources:
     author: Bassler, O. C.; Beers, M. I.; Richardson, L. I.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Verbal problem solving scores on both criteria are highly resistant to forgetting over four weeks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On the problem solution criterion, retention test means were significantly larger than posttest means, driven by gains on the three more complex problems. [→ Bassler 1972](#bassler-1972)
@@ -31,7 +33,7 @@ sources:
 
 Bassler, O. C.; Beers, M. I.; Richardson, L. I. (1972). Comparison of Two Instructional Strategies for Teaching the Solution to Verbal Problems. Final Report. George Peabody College for Teachers. https://eric.ed.gov/?id=ED075260
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Subscale analysis of the problem solution criterion: no occasion difference on the seven similar-problem subscale, but "the scores on the retention test were significantly larger than the scores on the posttest" on the three-problem subscale of more complex problems.
 

@@ -15,18 +15,22 @@ sources:
     author: Gagne, Ellen D.
     q: 2
     i: 3
+    kind: causal
+    rigour: "?"
   - id: gagne-1981-2
     resource: "https://eric.ed.gov/?id=ED221831"
     title: "Gagne, Ellen D. (1981). Comprehension and the Long-Term Recall of Information. Final Report. https://eric.ed.gov/?id=ED221831"
     author: Gagne, Ellen D.
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Passage familiarity (prior related knowledge) correlates .52 with recall, and only familiarity, not imageability, affected one-week delayed recall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r?` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` The correlation between passage familiarity and recall was .52. [→ Gagne 1981](#gagne-1981)
@@ -38,7 +42,7 @@ sources:
 
 Gagne, Ellen D. (1981). Comprehension and the Long-Term Recall of Information. Final Report. https://eric.ed.gov/?id=ED221831
 
-`q2 · i3 · large effect, r = 0.52`
+`q2 · i3 · large effect, r = 0.52` · `causal · r?`
 
 In the project's passage-learning studies, familiarity was defined as the average number of related sentences seventh graders generated to passage stimuli. The report states "The correlation between passagefamiliarity and recall was.52."
 
@@ -48,7 +52,7 @@ In the project's passage-learning studies, familiarity was defined as the averag
 
 Gagne, Ellen D. (1981). Comprehension and the Long-Term Recall of Information. Final Report. https://eric.ed.gov/?id=ED221831
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 In Experiment 3 of the prior-knowledge article, familiarity and rated imageability of passages were independently manipulated. The report states the one-week recall results "showed an effect for familiarity butno effect for imag ability".
 

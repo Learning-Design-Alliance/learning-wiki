@@ -12,7 +12,7 @@ generated:
 # Scenario Based Training
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q3`–`q4` · 4 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (4 quant-synthesis, 3 causal), `q3`–`q4` · 4 of 7 report an effect size
 
 ## Description
 Scenario based training places learners inside a realistic, contextualized situation — a patient case, a customer complaint, an emergency drill — and requires them to make decisions and perform actions as they would on the job. The scenario supplies the conditions, constraints, and consequences of real performance, so learning occurs through situated decision-making rather than decontextualized instruction. It is typically built from a [Demonstration or briefing, followed by learner action, then structured debriefing.

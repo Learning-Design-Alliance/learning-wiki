@@ -15,12 +15,14 @@ sources:
     author: "Zhao, A., Guo, Y., Biales, C., & Olszewski, A."
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # L2 proficiency positively predicts L2 incidental vocabulary acquisition through reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` L2 proficiency was a significant positive predictor of incidental vocabulary acquisition through reading (β = .37). [→ Zhao 2016](#zhao-2016)
@@ -31,7 +33,7 @@ sources:
 
 Zhao, A., Guo, Y., Biales, C., & Olszewski, A. (2016). Exploring learner factors in second language (L2) incidental vocabulary acquisition through reading. Reading in a Foreign Language, 28(2). http://nflrc.hawaii.edu/rfl
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Multiple linear regression with 129 Chinese-speaking English majors; incidental vocabulary acquisition (unannounced test after reading two passages) as dependent variable. L2 proficiency from TEM-4 raw scores was the strongest predictor, "β = .37, t = 4.39, p < .05".
 

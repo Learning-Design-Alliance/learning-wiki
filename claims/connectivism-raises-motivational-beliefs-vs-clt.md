@@ -15,12 +15,14 @@ sources:
     author: Downes, S.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Connectivism-based training produced higher academic self-efficacy and task value than CLT in an EFL experiment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` An experimental group trained using a connectivism approach scored higher on post-test academic self-efficacy and task value than a group trained with the CLT approach. [→ Downes 2019](#downes-2019)
@@ -31,7 +33,7 @@ sources:
 
 Downes, S. (2019). Recent Work in Connectivism. European Journal of Open, Distance and e-Learning, 22(2). https://www.eurodl.org/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The survey reports, citing Borna and Fouladchang (2018a), an experimental comparison of connectivism-trained versus CLT-trained groups on post-test motivational beliefs in EFL. The review attributes the higher self-efficacy and task value scores to the connectivism group; no effect size is printed.
 

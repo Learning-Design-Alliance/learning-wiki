@@ -15,12 +15,14 @@ sources:
     author: "Martella, A. M., Lovett, M. C., & Ramsay, L."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Quizzes appeared in 36.4% of active learning conditions versus 5.8% of lecture conditions, homework in 59.8% versus 25.0%, and learning/exam preparation in 18.2% versus 3.8%. [→ Martella 2021](#martella-2021)
@@ -31,7 +33,7 @@ sources:
 
 Martella, A. M., Lovett, M. C., & Ramsay, L. (2021). Implementing active learning: A critical examination of sources of variation in active learning college science courses. Journal on Excellence in College Teaching, 32(1), 67-96. https://jlect.com/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Comparative feature coding across the 88 active learning and 52 lecture conditions in the review. The authors report these contrasts descriptively and note they did not expect active learning conditions to more often provide these other pedagogical features; no inferential statistics.
 

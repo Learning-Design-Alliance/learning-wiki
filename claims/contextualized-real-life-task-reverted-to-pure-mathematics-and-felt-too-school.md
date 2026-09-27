@@ -15,18 +15,22 @@ sources:
     author: Lili Zhou
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: lili-zhou-2023-2
     resource: "https://eric.ed.gov/?id=ED658339"
     title: "Lili Zhou. (2023). Humanizing Mathematics through Boundary Crossing Collaboration. Proceedings of the forty-fifth annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education (Vol. 2). https://eric.ed.gov/?id=ED658339"
     author: Lili Zhou
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # When a real-life quilt problem was turned into a contextualized mathematics task, its context dropped out during solving and both designers judged it too school-like
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The researcher reflected that once mathematical relationships were recognized, the context of the quilt task was removed in the solution process and it changed back to a pure math problem. [→ Lili Zhou 2023](#lili-zhou-2023)
@@ -38,7 +42,7 @@ sources:
 
 Lili Zhou. (2023). Humanizing Mathematics through Boundary Crossing Collaboration. Proceedings of the forty-fifth annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education (Vol. 2). https://eric.ed.gov/?id=ED658339
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Reflection stage of the narrative inquiry's account of developing Ms. Jones's Quilt Problem; the researcher's written reflection. She observed the context "is even removed in the solution process" and the task "changes back to a pure math problem". Interpretive, no data collected from learners.
 
@@ -48,7 +52,7 @@ Reflection stage of the narrative inquiry's account of developing Ms. Jones's Qu
 
 Lili Zhou. (2023). Humanizing Mathematics through Boundary Crossing Collaboration. Proceedings of the forty-fifth annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education (Vol. 2). https://eric.ed.gov/?id=ED658339
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Reflection stage of the same narrative inquiry. Both designers "were not very satisfied with the problem": one thought it "too school", the other that it reflected optimization only. Designers' judgements, not learner outcomes.
 

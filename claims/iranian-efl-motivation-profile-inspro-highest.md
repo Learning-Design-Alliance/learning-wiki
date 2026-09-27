@@ -15,12 +15,14 @@ sources:
     author: "Roshandel, J., Ghonsooly, B., & Ghanizadeh, A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In the motivational profile of Iranian EFL learners, instrumentality-promotion received the highest mean, followed by ideal L2 self
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Descriptive statistics show instrumentality-promotion scored highest (M = 36.78, SD = 2.92) among the ten motivation sub-factors, with ideal L2 self second (M = 33.26, SD = 2.43). [→ Roshandel 2018](#roshandel-2018)
@@ -31,7 +33,7 @@ sources:
 
 Roshandel, J., Ghonsooly, B., & Ghanizadeh, A. (2018). L2 Motivational Self-System and Self-Efficacy: A Quantitative Survey-Based Study. International Journal of Instruction, 11(1), 329-344. https://doi.org/10.12973/iji.2018.11123a
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive statistics (Table 2) computed for the 210 Iranian EFL learners in response to the first research question on the profile of learners' L2 motivational self-system; no effect size or inferential test applies to this descriptive result.
 

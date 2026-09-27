@@ -17,7 +17,7 @@ sources:
 # Drop-in tutoring center model with circulating peer tutors and TutorTrac usage tracking
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 1 study, `q2` · 1 of 1 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 7 claims rest on one study
 
 ## Description
 The Tutoring Center at Western Washington University uses a model in which "students use the TC as a study area where tutors are available and freely circulate among students as they have questions," locally called drop-in tutoring. It loosely fits Topping's dyadic cross-year fixed-role peer tutoring group, with junior and senior tutors who completed a College Reading and Learning Association certified training program in a two-credit class. The TutorTrac software logged visits, hours, and tutored classes, enabling the usage-outcome analyses in this study.

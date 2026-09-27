@@ -15,18 +15,22 @@ sources:
     author: "Ariel, R., & Karpicke, J. D."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: ariel-2018-2
     resource: "https://doi.org/10.1037/xap0000133"
     title: "Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Retrieval Practice Intervention. Journal of Experimental Psychology: Applied. https://doi.org/10.1037/xap0000133"
     author: "Ariel, R., & Karpicke, J. D."
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Students given retrieval practice instructions spontaneously used a repeated retrieval strategy on new materials one week later without further instructions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1`–`i2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1`–`i2`
 
 ## Subclaims
 `q3 i2` In the Experiment 2 transfer session with neutral instructions and new Swahili materials, the previously instructed group recalled items about three times on average, more than controls. [→ Ariel 2018](#ariel-2018)
@@ -38,7 +42,7 @@ sources:
 
 Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Retrieval Practice Intervention. Journal of Experimental Psychology: Applied. https://doi.org/10.1037/xap0000133
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Experiment 2 (71 enrolled, 64 completing both sessions) compared instructed and control groups on new Swahili–English materials one week later with no reminders. The instructed group recalled each translation successfully more times, t(62) = 3.79, p < .001, d = 0.95 in the transfer session.
 
@@ -48,7 +52,7 @@ Experiment 2 (71 enrolled, 64 completing both sessions) compared instructed and 
 
 Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Retrieval Practice Intervention. Journal of Experimental Psychology: Applied. https://doi.org/10.1037/xap0000133
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 Experiment 2 final recall in both sessions favored the instructed group, showing the initial intervention had a lasting effect on how students learned a new list under neutral instructions one week later.
 

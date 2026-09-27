@@ -15,12 +15,14 @@ sources:
     author: Dombey, Henrietta; Formisano, Marina Pascucci
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # In teacher-led big-book reading, children exercise cognitive autonomy by making their own connections between spoken and written words within the activity's boundaries
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Teachers using open collaborative big-book readings report children's enjoyment of reading and effectiveness as readers are much enhanced. [→ Dombey 1999](#dombey-1999)
@@ -31,7 +33,7 @@ sources:
 
 Dombey, Henrietta; Formisano, Marina Pascucci. (1999). Examining the Notion of Autonomy in the Context of Early Literacy Learning in Four European Countries. https://eric.ed.gov/?id=ED434766
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Teachers' self-reports within the Brighton project, not a controlled comparison; the article also notes such readings are "more likely to produce divergent ideas than one to one reading of a text".
 

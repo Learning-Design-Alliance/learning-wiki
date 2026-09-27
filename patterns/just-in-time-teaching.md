@@ -14,7 +14,7 @@ grain_size: lesson
 # Just-In-Time Teaching (JiTT)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 1 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies (2 review, 1 causal), `q2`–`q3` · 1 of 3 report an effect size
 
 ## Description
 Just-In-Time Teaching (JiTT), developed by Gregor Novak and colleagues (Novak et al., 1999), relies on a feedback loop between web-based pre-class materials and the classroom. Students prepare by reading assigned material and completing short web-based assignments; their responses reach the instructor a few hours before class, letting the instructor adapt that day's lesson to exactly what students are struggling with. This shifts class time from content transfer toward active learning and cooperative problem-solving.

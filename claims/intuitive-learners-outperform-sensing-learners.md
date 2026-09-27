@@ -13,13 +13,15 @@ sources:
     author: Alty, J. L.
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 id: intuitive-learners-outperform-sensing-learners
 ---
 
 # Intuitive learners tend to outperform sensing learners in media-based presentations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 Across a series of computer-based media experiments, learners with a preference for intuitive processing (abstract, symbolic) scored higher than sensing-preferring learners (concrete, factual), but the advantage was not uniform across presentation formats.
 
@@ -37,7 +39,7 @@ Primary evidence link: https://files.eric.ed.gov/fulltext/ED476964.pdf
 
 Alty, J. L. (2002). Dual Coding Theory and Computer Education: Some Media Experiments To Examine the Effects of Different Media on Learning. *ED-MEDIA 2002 World Conference on Educational Multimedia, Hypermedia & Telecommunications* (14th, Denver, CO). [https://files.eric.ed.gov/fulltext/ED476964.pdf](https://files.eric.ed.gov/fulltext/ED476964.pdf)
 
-`q3 · peer-reviewed conference experiment, not pre-registered` · `i? · no source text available to check; the entry prints no effect size` · `n not reported in stub`
+`q3 · peer-reviewed conference experiment, not pre-registered` · `i? · no source text available to check; the entry prints no effect size` · `n not reported in stub` · `causal · r?`
 
 In an extended student-class experiment comparing text-only, voice, diagram, and combined media presentations grounded in [dual coding theory](../theories/dual-coding-theory.md), the author reports: "Intuitive Learners tended to out-perform Sensing Learners in all presentations, although in certain experiments, Sensing Learners using Voice/Diagrams outperformed Intuitive Learners using Text-only." The exception indicates that a well-matched multimedia format can compensate for — and reverse — the learner-preference disadvantage, consistent with the general finding that presentation quality matters more than preference matching.
 

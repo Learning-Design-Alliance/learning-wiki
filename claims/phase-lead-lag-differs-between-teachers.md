@@ -15,18 +15,22 @@ sources:
     author: Pennings, H. J. M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: pennings-2017-2
     resource: "https://complicityjournal.org"
     title: "Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org"
     author: Pennings, H. J. M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Phase analysis showed Ethan leading the interaction with sameness in Communion and oppositeness in Agency, while Sam led in Communion but followed in Agency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Ethan's phase values (.02 Communion, .46 Agency) implied sameness in Communion, oppositeness in Agency, and teacher leadership; Sam's (.44 Communion, -.44 Agency) implied oppositeness in both dimensions, leading in Communion and following in Agency. [→ Pennings 2017](#pennings-2017)
@@ -37,7 +41,7 @@ sources:
 
 Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Cross-spectral phase analysis of the two classrooms' cycles; average weighted phase interpreted as a lead-lag relationship expressed as the fraction of a full cycle.
 
@@ -47,7 +51,7 @@ Cross-spectral phase analysis of the two classrooms' cycles; average weighted ph
 
 Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Same phase analysis for Sam's classroom: oppositeness in both dimensions; the article adds that Sam leading in Communion "underpins the idea that Sam is the catalyst of negative interactions".
 

@@ -15,6 +15,8 @@ sources:
     q: 3
     i: "?"
     n: 130 students (764 IEP team members, 130 meetings observed)
+    kind: causal
+    rigour: "?"
   - id: allen-et-al-2001
     resource: "https://doi.org/10.1177/088572880102400202"
     title: "Allen, S. K., Smith, A. C., Test, D. W., Flowers, C., & Wood, W. M. (2001). The Effects of Self-Directed IEP on Student Participation in IEP Meetings. *Career Development for Exceptional Individuals, 24*(2), 107–120. [doi:10.1177/088572880102400202](https://doi.org/10.1177/088572880102400202)"
@@ -22,12 +24,14 @@ sources:
     q: 1
     i: "?"
     n: 4 students
+    kind: causal
+    rigour: 1
 ---
 
 # Self Directed IEP Increases Student Participation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1`–`q3`
+> **Evidence** · 2 studies · 2 causal `r1` · `q1`–`q3`
 
 When students with disabilities lead their own Individualized Education Program (IEP) meetings — preparing materials, setting goals, and presenting to the team — they participate more actively in special education planning than students whose IEPs are run entirely by adults.
 
@@ -43,7 +47,7 @@ When students with disabilities lead their own Individualized Education Program 
 
 Martin, J. E., Van Dycke, J. L., Christensen, W. R., Greene, B. A., Gardner, J. E., & Lovett, D. L. (2006). Increasing Student Participation in IEP Meetings: Establishing the Self-Directed IEP as an Evidenced-Based Practice. *Exceptional Children, 72*(3), 299–316. [doi:10.1177/001440290607200303](https://doi.org/10.1177/001440290607200303)
 
-`q3 · peer-reviewed randomized experiment (not stated as pre-registered)` · `i? · no standardized effect size reported` · `n=130 students (764 IEP team members, 130 meetings observed)`
+`q3 · peer-reviewed randomized experiment (not stated as pre-registered)` · `i? · no standardized effect size reported` · `n=130 students (764 IEP team members, 130 meetings observed)` · `causal · r?`
 
 One hundred and thirty secondary students were randomly assigned to a treatment group taught the Self-Directed IEP curriculum or to a control group. Observers used 10-second momentary time sampling across 130 IEP meetings (764 team members) to record the percentage of intervals each participant talked and the percentage of time spent discussing transition; teachers also completed a pre/post self-determination skill-and-opportunity assessment and participants completed post-meeting surveys. The curriculum "had a strong effect on increasing the percentage of time students talked, started, and led the meetings," a result the authors say was corroborated by the survey data — but the abstract available reports this as a qualitative strong effect rather than a numeric standardized statistic.
 
@@ -51,7 +55,7 @@ One hundred and thirty secondary students were randomly assigned to a treatment 
 
 Allen, S. K., Smith, A. C., Test, D. W., Flowers, C., & Wood, W. M. (2001). The Effects of Self-Directed IEP on Student Participation in IEP Meetings. *Career Development for Exceptional Individuals, 24*(2), 107–120. [doi:10.1177/088572880102400202](https://doi.org/10.1177/088572880102400202)
 
-`q1 · single-case multiple-baseline design` · `i? · no standardized effect size reported (functional relationship only)` · `n=4 students`
+`q1 · single-case multiple-baseline design` · `i? · no standardized effect size reported (functional relationship only)` · `n=4 students` · `causal · r1`
 
 Four high school students with moderate intellectual disability were taught a modified version of the multi-media Self-Directed IEP package across a multiple-baseline design. The study reports "a functional relationship between the information taught and an increase in student participation in their annual IEP meeting" — i.e., participation rose after instruction was introduced for each student in turn, the standard single-case evidentiary pattern, though no group-comparable effect size is given.
 

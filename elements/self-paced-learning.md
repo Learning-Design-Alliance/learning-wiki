@@ -12,7 +12,7 @@ generated:
 # Self-Paced Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 1 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (1 causal, 1 quant-synthesis), `q3` · 1 of 2 report an effect size
 
 ## Description
 Self-paced learning is the element in which learners control the rate or sequence of progress through material within a designed structure. It is useful when learners need flexibility in timing, review, or progression.

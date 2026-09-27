@@ -15,12 +15,14 @@ sources:
     q: 1
     i: "?"
     n: 1 elementary teacher, 18-month online graduate certificate program (Tufts TEEP)
+    kind: qualitative
+    rigour: 2
 ---
 
 # A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case · n=1 elementary teacher, 18-month online graduate certificate program (Tufts TEEP)
+> **Evidence** · 1 study · qualitative `r2` · `q1` · n=1 elementary teacher, 18-month online graduate certificate program (Tufts TEEP)
 
 Over an 18-month graduate certificate program, a white, working-class elementary teacher's discourse about the engineering design process (EDP) shifted from describing it as a fixed linear sequence to describing it as nonlinear and personally-owned, and she used this reframed understanding to reclassify her own family's work as engineering, to advocate for student tinkering time in colleagues' classrooms, and to reinterpret her son's non-traditional academic path as "still STEM."
 
@@ -37,7 +39,7 @@ Over an 18-month graduate certificate program, a white, working-class elementary
 
 Watkins, J. (2023). "That is Still STEM": Appropriating the Engineering Design Process to Challenge Dominant Narratives of Engineering and STEM. *Cognition and Instruction, 41*(4), 405-435. [https://doi.org/10.1080/07370008.2022.2156512](https://doi.org/10.1080/07370008.2022.2156512)
 
-`q1 · single-case study using post-hoc qualitative coding (Levrini et al.'s appropriation markers) of interviews, discussion posts, and classroom artifacts collected across an 18-month program; no pre-registered design, no comparison teacher, and the author co-designed the professional-development courses being studied` `i? · the abstract prints no effect size; the full text may` `n=1 elementary teacher, 18-month online graduate certificate program (Tufts TEEP)`
+`q1 · single-case study using post-hoc qualitative coding (Levrini et al.'s appropriation markers) of interviews, discussion posts, and classroom artifacts collected across an 18-month program; no pre-registered design, no comparison teacher, and the author co-designed the professional-development courses being studied` `i? · the abstract prints no effect size; the full text may` `n=1 elementary teacher, 18-month online graduate certificate program (Tufts TEEP)` · `qualitative · r2`
 
 A single white, working-class, first-generation-college-graduate elementary teacher was tracked across an 18-month engineering-education graduate certificate program via six interviews, discussion-board posts, lab reflections, and a final course project. Discourse was coded against Levrini et al.'s appropriation markers (idiosyncratic, disciplinarily-grounded, thick, nonincidental, relational) to trace how her account of the engineering design process changed, and how she subsequently used that changed account to challenge restrictive STEM narratives in her own family history, her son's education, and her classroom advocacy. This informs [Appropriating Disciplinary Tools to Challenge Restrictive Narratives](../principles/appropriating-disciplinary-tools-to-challenge-restrictive-narratives.md).
 

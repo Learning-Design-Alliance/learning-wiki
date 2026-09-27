@@ -15,12 +15,14 @@ sources:
     author: Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Computer aiding produces positive transfer of training: aided-trained subjects maintain performance on unaided fault-diagnosis displays
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Aiding produced a statistically significant positive transfer of training from aided to unaided displays for percent correct, with transferring subjects maintaining the aided performance level. [→ Rouse 1980](#rouse-1980)
@@ -31,7 +33,7 @@ sources:
 
 Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=ED192743
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Experiment One with Task One (AND-gate networks): eight subjects, six practice problems then three trials of 30 problems, self-paced, transfer-of-training design with half trained aided then unaided. The article reports "a positive transfer of training from aided to unaided displays for perceht correct"; no effect size is printed.
 

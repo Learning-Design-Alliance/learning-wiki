@@ -15,12 +15,14 @@ sources:
     author: "Falakmasir, M., Yudelson, M., Ritter, S., & Koedinger, K."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Alternative Spectral BKT configurations (2 states with 4 bigrams; 8 states with 16 4-grams) did not improve over the 4-state, 3-gram configuration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A 2-state configuration with 4 bigram spectral observations did not improve over standard BKT, and an 8-state configuration with 16 4-gram observations did not tangibly improve over the reported 4-state configuration. [→ Falakmasir 2015](#falakmasir-2015)
@@ -31,7 +33,7 @@ sources:
 
 Falakmasir, M., Yudelson, M., Ritter, S., & Koedinger, K. (2015). Spectral Bayesian Knowledge Tracing. Proceedings of the 8th International Conference on Educational Data Mining. http://pslcdatashop.web.cmu.edu/KDDCup
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Empirical configuration search reported in the Discussion section: the authors tried smaller and larger Spectral BKT setups and report that neither "did not result in an improvement" case beat the chosen 4-state, 3-gram configuration. No statistics are printed for these trials.
 

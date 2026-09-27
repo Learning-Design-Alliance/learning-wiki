@@ -15,12 +15,14 @@ sources:
     q: 4
     i: 2
     n: not established from abstract
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Deliberate Practice Improves Performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium · n=not established from abstract
+> **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=not established from abstract
 
 Structured, effortful practice on well-defined subskills at the edge of current ability — with immediate feedback and opportunities for repetition and refinement — produces larger performance gains than mere repetition or experience.
 
@@ -34,7 +36,7 @@ Structured, effortful practice on well-defined subskills at the edge of current 
 
 Macnamara, B. N., Hambrick, D. Z., & Oswald, F. L. (2014). Deliberate practice and performance in music, games, sports, education, and professions: A meta-analysis. *Psychological Science, 25*(8), 1608–1618. [doi:10.1177/0956797614535810](https://doi.org/10.1177/0956797614535810)
 
-`q4 · meta-analysis` · `i2 · domain-dependent, R²=.01–.26 (medium-large in games/music/sports, small in education, negligible in professions)` · `n=not established from abstract`
+`q4 · meta-analysis` · `i2 · domain-dependent, R²=.01–.26 (medium-large in games/music/sports, small in education, negligible in professions)` · `n=not established from abstract` · `quant-synthesis · r?`
 
 A meta-analysis covering all major domains in which deliberate practice has been investigated (music, games, sports, education, and professions), testing whether individual differences in deliberate-practice accumulation account for individual differences in performance. Deliberate practice explained the largest share of variance in domains with well-defined tasks and immediate feedback — games (26%), music (21%), and sports (18%) — and a much smaller share in education (4%) and professions (under 1%). The authors conclude that deliberate practice is an important predictor of performance but explains far less of it than originally proposed, and that its explanatory power is strongly domain-dependent — directly supporting this page's own "Domain dependence" discussion rather than the stronger, domain-general version of the claim.
 

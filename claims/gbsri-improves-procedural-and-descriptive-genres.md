@@ -15,12 +15,14 @@ sources:
     author: "Wiboonwachara, L., & Charubusp, S."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Both procedural and descriptive writing scores improved significantly after GBSRI
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Procedural writing post-test mean (13.55) exceeded the pre-test mean (7.83 out of 20), and descriptive writing post-test mean (12.98) exceeded the pre-test mean (9.06 out of 20), both significant at p < 0.05. [→ Wiboonwachara 2022](#wiboonwachara-2022)
@@ -31,7 +33,7 @@ sources:
 
 Wiboonwachara, L., & Charubusp, S. (2022). Implementing Genre-Based Self-Regulated Instruction (GBSRI) to Enhance the English Writing Ability of Thai Undergraduate Students. rEFLections, 29(3). https://so01.tci-thaijo.org/index.php/reflections
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Genre-level comparison of pre-test and post-test means in the same one-group pretest-posttest study; the article reports "a significant difference between the mean scores of the writing pre-test and post-test at a 0.05 level of significance" for both genres. No effect sizes printed.
 

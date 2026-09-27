@@ -15,12 +15,14 @@ sources:
     author: "Dowdy, E., & Kamphaus, R. W."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Dimensional classification was superior for predicting Opportunity Room visits and suspensions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The dimensional method was superior to both the categorical and person-oriented methods for predicting Opportunity Room visits, and superior to the person-oriented method for predicting suspensions. [→ Dowdy 2007](#dowdy-2007)
@@ -31,7 +33,7 @@ sources:
 
 Dowdy, E., & Kamphaus, R. W. (2007). A Comparison of Classification Methods for Use in Predicting School-Based Outcomes. The California School Psychologist, 12, 121-132. https://eric.ed.gov/?id=EJ896649
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Regression comparison of the three systems for behavioral outcomes in the 558-child sample. Dimensional predictions correlated .645 with later Opportunity Room visits (R squared = .416) versus .565 categorical and .542 cluster; for suspensions, "the dimensional method of classification was superior to the person-oriented method" (.371 vs .281). No standardized effect size was printed for these contrasts.
 

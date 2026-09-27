@@ -15,12 +15,14 @@ sources:
     author: Schofield, Kaye
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # ACE's main VET contribution is General Education and Training (around 20% of provision), with around 10% in non-industry-specific occupational training and little in industry-specific training
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The main ACE contribution to the national VET system is in General Education and Training such as Adult Literacy, Adult Basic Education and ESL, estimated at around 20% of ACE provision, with around 10% in non-industry-specific occupational training. [→ Schofield 1996](#schofield-1996)
@@ -31,7 +33,7 @@ sources:
 
 Schofield, Kaye. (1996). Think Local and Compete. An Analysis of the Role of Adult and Community Education in the Implementation of a National System for Vocational Education and Training. A Report to the MCEETYA ACE Taskforce. Australian National Training Authority, Brisbane. https://eric.ed.gov/?id=ED420782
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The Executive Summary estimates the distribution of ACE VET provision across areas, reporting "around 20% of ACE provision nationally is directed to this area" for General Education and Training, and around 10% for non-industry-specific occupational training such as Business, Clerical and Computing.
 

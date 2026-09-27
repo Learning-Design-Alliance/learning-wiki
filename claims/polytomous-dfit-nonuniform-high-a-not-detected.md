@@ -15,12 +15,14 @@ sources:
     author: "Flowers, C. P., Oshima, C., & Raju, N."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Type of DIF affected detection: nonuniform DIF items with higher a-parameters were not detected whereas lower a-parameter items were
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Both C-DIF and NC-DIF identified DIF items with b-parameter differences, but nonuniform DIF items with higher a-parameters went undetected while lower a-parameter items were detected. [→ Flowers 1996](#flowers-1996)
@@ -31,7 +33,7 @@ sources:
 
 Flowers, C. P., Oshima, C., & Raju, N. (1996). A Description and Demonstration of the Polytomous-DFIT Framework. https://eric.ed.gov/?id=ED401319
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Simulation results across 20- and 40-item conditions (Tables 3-6): uniform DIF and nonuniform DIF with b-parameter differences were detected; nonuniform items differing only in a-parameters (e.g., Item 18, Items 20 and 40) were missed. The article notes "lower a-parameter items tend toresult in greaterdifferences between the Focal and ReferenceGroups."
 

@@ -15,12 +15,14 @@ sources:
     author: Golomb, Claire; Vogel, David
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Pretense play training improves conservation of quantity in nonconserving preschoolers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Pretense play training produced significantly better conservation scores than the control condition on both posttests. [→ Golomb 1983](#golomb-1983)
@@ -31,7 +33,7 @@ sources:
 
 Golomb, Claire; Vogel, David. (1983). The Role of Cognitive Operations in the Development of Gender Constancy. https://eric.ed.gov/?id=ED233823
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 In the same randomized training study, the pretense play condition exceeded the drawing control on conservation at p < .05 on both posttests, per the reported "statistically significant differences on posttest 1 and.2".
 

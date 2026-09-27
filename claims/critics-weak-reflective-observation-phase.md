@@ -15,12 +15,14 @@ sources:
     author: Torkington, Kate
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Critics argue experiential learning's weaknesses lie in the reflective observation phase; the authors counter that trainers can develop observation skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Green and Tabor (1978) argue that experiential learning's problems weaken the reflective observation phase, diminishing students' ability to develop abstract concepts and generalise; the authors respond that trainers bear responsibility for developing observation skills and critical reflection. [→ Torkington 1996](#torkington-1996)
@@ -31,7 +33,7 @@ sources:
 
 Torkington, Kate. (1996). The Rationale for Experiential/Participatory Learning. Working Papers in Early Childhood Development 16. Bernard van Leer Foundation. https://eric.ed.gov/?id=ED392940
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The paper quotes this criticism from Green and Tabor (1978), management-training commentators, and then interprets it: in the authors' view the critics "appear to have underestimated the potential of students and the role of the trainer as facilitator".
 

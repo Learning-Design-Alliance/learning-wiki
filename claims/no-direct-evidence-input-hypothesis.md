@@ -15,12 +15,14 @@ sources:
     author: Ellis, Rod
     q: 1
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r3` · `q1`
 
 ## Subclaims
 `q1 i?` As of the review, no direct test of the input hypothesis (that comprehensible input is necessary for L2 acquisition) has been conducted, and indirect evidence provides at most weak support. [→ Ellis 1991](#ellis-1991)
@@ -31,7 +33,7 @@ sources:
 
 Ellis, Rod. (1991). The Interaction Hypothesis; A Critical Evaluation. ERIC Document ED 338 037. https://eric.ed.gov/?id=ED338037
 
-`q1 · i?`
+`q1 · i?` · `review · r3`
 
 The review reports, quoting Long (1983), that the input hypothesis has not been directly tested. The review adds that studies linking input frequency to acquisition do not show the input was comprehensible, and concludes the hypothesis "still awaits confirmation".
 

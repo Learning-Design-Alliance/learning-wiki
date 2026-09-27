@@ -15,12 +15,14 @@ sources:
     q: 2
     i: 2
     n: "27 participants (19 teachers, 7 researchers, 1 district science coordinator); 12-member \"Unit Lead\" core team meeting weekly for 2 years (2019-2020)"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Co-design tools for standards analysis, student-interest data, and launch rehearsal support balancing standards alignment with student interests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium · n=27 participants (19 teachers, 7 researchers, 1 district science coordinator); 12-member "Unit Lead" core team meeting weekly for 2 years (2019-2020)
+> **Evidence** · 1 study · qualitative `r3` · `q2` · `i2` medium · n=27 participants (19 teachers, 7 researchers, 1 district science coordinator); 12-member "Unit Lead" core team meeting weekly for 2 years (2019-2020)
 
 Across a two-year co-design partnership, teachers and researchers reported that specific tools — unpacking standards, writing target explanations, collecting disaggregated student-interest data, and rehearsing unit launches with peers — each directly supported balancing the dual goals of standards coverage and student/community interest, while also producing new critical perspectives on how the process itself should change.
 
@@ -39,7 +41,7 @@ Across a two-year co-design partnership, teachers and researchers reported that 
 
 Penuel, W. R., Allen, A.-R., Henson, K., Campanella, M., Patton, R., Rademaker, K., Reed, W., Watkins, D., Wingert, K., Reiser, B., & Zivic, A. (2022). Learning Practical Design Knowledge through Co-Designing Storyline Science Curriculum Units. *Cognition and Instruction, 40*(1), 148-170. [https://doi.org/10.1080/07370008.2021.2010207](https://doi.org/10.1080/07370008.2021.2010207)
 
-`q2 · peer-reviewed participatory/empowerment-evaluation case study with triangulated data (anonymous reflective surveys, design artifacts, structured written reflections, discussion notes) and collaborative member-validation of findings with the design team itself; no comparison condition or quantified outcome measure` `i2 · a clear, well-documented qualitative pattern with specific, actionable examples across a 2-year, 27-participant co-design effort, including an honest limitation the team surfaced about its own composition` `n=27 participants (19 teachers, 7 researchers, 1 district science coordinator); 12-member "Unit Lead" core team meeting weekly for 2 years (2019-2020)`
+`q2 · peer-reviewed participatory/empowerment-evaluation case study with triangulated data (anonymous reflective surveys, design artifacts, structured written reflections, discussion notes) and collaborative member-validation of findings with the design team itself; no comparison condition or quantified outcome measure` `i2 · a clear, well-documented qualitative pattern with specific, actionable examples across a 2-year, 27-participant co-design effort, including an honest limitation the team surfaced about its own composition` `n=27 participants (19 teachers, 7 researchers, 1 district science coordinator); 12-member "Unit Lead" core team meeting weekly for 2 years (2019-2020)` · `qualitative · r3`
 
 A co-design team producing NGSS-aligned [Storyline Science Curriculum Design](../patterns/storyline-science-curriculum-design.md) units used a sequence of tools — [Co-Design Tools for Standards and Interest Balancing](../strategies/co-design-tools-for-standards-and-interest-balancing.md) — across two annual workshops. Reflective surveys (59% response rate on process feedback; 89% response rate on the learning survey), design artifacts, and structured team reflections were analyzed using an iterative, participatory evaluation approach in which the design team itself helped interpret and validate the findings.
 

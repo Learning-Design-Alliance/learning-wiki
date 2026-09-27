@@ -15,18 +15,22 @@ sources:
     author: "Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: katz-1993-2
     resource: "https://eric.ed.gov/?id=ED366652"
     title: "Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652"
     author: "Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Attribute mastery showed significant proficiency-group, attribute, and attribute-by-proficiency effects, but no significant status-group main effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Repeated-measures ANOVA of attribute mastery probabilities showed clearly significant effects of proficiency group, attribute, and the attribute by proficiency group interaction. [→ Katz 1993](#katz-1993)
@@ -38,7 +42,7 @@ sources:
 
 Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Repeated measures ANOVA of attribute mastery probabilities (Table 8, p-values reported; Wilks' Lambda for within-subject effects). The authors report "three clearly significant effects: proficiency group, attribute, and the attribute by proficiency group interaction"; no effect size is printed.
 
@@ -48,7 +52,7 @@ Repeated measures ANOVA of attribute mastery probabilities (Table 8, p-values re
 
 Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Same ANOVA (Table 8): the status main effect was not significant while the status-by-attribute interaction was marginally significant, so mastery differences among students, interns, and architects did not hold when averaged over all attributes.
 

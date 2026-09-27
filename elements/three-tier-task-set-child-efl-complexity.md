@@ -17,7 +17,7 @@ sources:
 # Three-tiered task set (information gap, problem solving, decision making) for manipulating task complexity with child learners
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The study operationalized task complexity through three classroom tasks around Lucy's Sunday schedule: an information gap task involving only information transmission (simple), a problem-solving task requiring learners to create a reasonable schedule (+complex), and a decision-making task requiring learners to compare schedules and reason who could help Grandpa Wang (++complex). Per Table 2, complexity was defined by +/-reasoning and +/-elements demands. All tasks were performed in pairs with oral English production and teacher recasts.

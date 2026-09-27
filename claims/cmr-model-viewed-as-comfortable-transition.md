@@ -15,12 +15,14 @@ sources:
     author: Williams, Paul A.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Workers and administrators who were presented with the CMR model viewed it as a comfortable transition into residential treatment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` When the CMR model was presented to Workers and Administrators, they viewed it as a comfortable transition into residential treatment. [→ Williams 1995](#williams-1995)
@@ -31,7 +33,7 @@ sources:
 
 Williams, Paul A. (1995). Developing a Model to Ease Youths' Transitions into Residential Treatment: Integrating Constructivist Therapies and Youth Care Work into a Contextually Relevant Rite of Passage. Nova Southeastern University. https://eric.ed.gov/?id=ED398498
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Evaluation of the presented CMR model at the Youth Center: staff and administrators judged the model, which emphasizes "social contexts, transitional metaphors, and relationships," as a comfortable transition. The article reports no effect sizes or test statistics for this evaluation.
 

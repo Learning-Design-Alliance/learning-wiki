@@ -15,12 +15,14 @@ sources:
     author: "Singh, L. & Thomas, T. D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Behavioural intention to adopt mobile learning is highest among eclectic users, followed by Internet users, then offline entertainment users, and lowest among basic users
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Compared to eclectic users, each of the other user categories shows lower behavioural intention; basic and offline entertainment users are lower than Internet users; and offline entertainment users are higher than basic users. [→ Singh 2020](#singh-2020)
@@ -31,7 +33,7 @@ sources:
 
 Singh, L. & Thomas, T. D. (2020). The Effect of Mobile User Typology on Mobile Learning Adoption in Higher Education. Asian Journal of Distance Education, 15(2). http://www.asianjde.org
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 From the typology-only structural model (Table 3), standardised effects significant at the 5% level: Internet -0.14, basic -0.37, offline entertainment -0.16 versus the eclectic baseline. The article's summary of the pairwise contrasts states intention is "highest among eclectic users followed by internet users then offline entertainment users and finally by basic users".
 

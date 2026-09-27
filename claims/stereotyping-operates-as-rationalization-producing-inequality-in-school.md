@@ -15,18 +15,22 @@ sources:
     author: Göktürk, D.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: göktürk-2021-2
     resource: "https://doi.org/10.24106/kefdergi.732138"
     title: "Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138"
     author: Göktürk, D.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # In the analyzed school ethnography, stereotyping operates as a rationalization process that constructs uniformities, and the ghetto label privileges white culture's standards and evaluation networks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The article interprets interview results with black girls in Ispa-Landa's study as showing stereotyping functioning as a form of constructing uniformities, characterizing blacks as aggressive, tough, and poor. [→ Göktürk 2021](#gokturk-2021)
@@ -38,7 +42,7 @@ sources:
 
 Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The author's interpretive analysis of Ispa-Landa's (2013) interview results, applying the rationalization process (standardization and evaluation): stereotyping "functions as a form of constructing uniformities". This is a theoretical reading of a published study, not new data.
 
@@ -48,7 +52,7 @@ The author's interpretive analysis of Ispa-Landa's (2013) interview results, app
 
 Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The author's interpretation within the rationalization analysis: the ghetto label has "a web of categoric gender-race-class based practices and emotions that privilege white culture" and its evaluation networks. Theoretical argument; no statistics.
 

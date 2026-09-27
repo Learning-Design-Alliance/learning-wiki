@@ -17,7 +17,7 @@ sources:
 # Provide guided reflection prompts and explicit faculty involvement before and during service learning to encourage higher-order and integrative thinking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends structuring written reflection with instructor prompts rather than leaving it free, because guided assignments in this study produced more analytic and integrative paragraphs and nearly twice the volume of writing. The authors conclude that "some explicit faculty involvement before and during the reflection process is useful in encouraging students to engage in more integrative thinking." Prompts should ask meaningful questions connecting daily activity to the client and the project.

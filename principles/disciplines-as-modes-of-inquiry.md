@@ -17,7 +17,7 @@ sources:
 # Help students understand disciplines as modes of inquiry rather than static bodies of information
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Sharon Bailin's plenary address extends the standard skills-and-dispositions account of critical thinking by requiring that students understand disciplines as modes of inquiry. The proceedings' introduction reports she recommends students see disciplines not as static bodies of information but as having 'criticism built into their principles and procedures,' so that critical thinking is seen in its correct relationship to creative thinking as good thinking with both generative and evaluative dimensions. This enables students to see that knowledge evolves and that evaluation and innovation are afforded by the critical and dynamic nature of the disciplines.

@@ -15,6 +15,8 @@ sources:
     q: 2
     i: "?"
     n: 11 tutor–student dyads (Study 1), 11 dyads (Study 2)
+    kind: causal
+    rigour: 1
   - id: vanlehn-2011
     resource: "https://doi.org/10.1080/00461520.2011.611369"
     title: "VanLehn, K. (2011). The relative effectiveness of human tutoring, intelligent tutoring systems, and other tutoring systems. *Educational Psychologist, 46*(4), 197–221. [doi:10.1080/00461520.2011.611369](https://doi.org/10.1080/00461520.2011.611369)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: 2
     n: "not stated in the abstract (full text is paywalled; abstract reports \"6 figures, 11 tables\" of synthesized comparisons but not a pooled study/effect count)"
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Tutoring Effectiveness Comes From Scaffolding And Feedback
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2`–`q3` · `i2` medium
+> **Evidence** · 2 studies · 1 causal `r1`, 1 quant-synthesis `r?` · `q2`–`q3` · `i2` medium
 
 The learning benefits of tutoring are attributed to the tutor's ability to scaffold tasks within the learner's zone of proximal development and to provide immediate, adaptive feedback — not merely to one-on-one attention.
 
@@ -43,7 +47,7 @@ The learning benefits of tutoring are attributed to the tutor's ability to scaff
 
 Chi, M. T. H., Siler, S. A., Jeong, H., Yamauchi, T., & Hausmann, R. G. (2001). Learning from human tutoring. *Cognitive Science, 25*(4), 471–533. [doi:10.1207/s15516709cog2504_1](https://doi.org/10.1207/s15516709cog2504_1)
 
-`q2 · quasi-experimental / naturalistic tutoring study with a follow-up manipulation` · `i? · no standardized effect size (d/g/r/OR) reported; findings reported as regression R² changes and correlations` · `n=11 tutor–student dyads (Study 1), 11 dyads (Study 2)`
+`q2 · quasi-experimental / naturalistic tutoring study with a follow-up manipulation` · `i? · no standardized effect size (d/g/r/OR) reported; findings reported as regression R² changes and correlations` · `n=11 tutor–student dyads (Study 1), 11 dyads (Study 2)` · `causal · r1`
 
 Two studies of one-to-one human tutoring on the human circulatory system with 8th-graders and unskilled college-student tutors. Study 1 coded naturalistic tutoring dialogues and used step-wise regression to show that, beyond prior knowledge and reading ability, tutors' explanations predicted shallow learning and students' scaffolded (elicited) responses and reflective comments predicted shallow and deep learning respectively. Study 2 then manipulated tutoring style: tutors were instructed to suppress explanations and feedback entirely and instead use content-free prompts to elicit student construction (pure [scaffolding](../elements/demonstration.md)-style prompting). Students in this feedback-suppressed condition learned just as well as students in Study 1's ordinary explanation-and-feedback tutoring, which the authors attribute to deeper and more frequent scaffolding-elicited construction and greater self-directed reading.
 
@@ -51,7 +55,7 @@ Two studies of one-to-one human tutoring on the human circulatory system with 8t
 
 VanLehn, K. (2011). The relative effectiveness of human tutoring, intelligent tutoring systems, and other tutoring systems. *Educational Psychologist, 46*(4), 197–221. [doi:10.1080/00461520.2011.611369](https://doi.org/10.1080/00461520.2011.611369)
 
-`q3 · systematic review synthesizing effect sizes across tutoring experiments` · `i2 · medium effect, d=0.79 (human tutoring vs. no tutoring)` · `n=not stated in the abstract (full text is paywalled; abstract reports "6 figures, 11 tables" of synthesized comparisons but not a pooled study/effect count)`
+`q3 · systematic review synthesizing effect sizes across tutoring experiments` · `i2 · medium effect, d=0.79 (human tutoring vs. no tutoring)` · `n=not stated in the abstract (full text is paywalled; abstract reports "6 figures, 11 tables" of synthesized comparisons but not a pooled study/effect count)` · `quant-synthesis · r?`
 
 A review of experiments comparing human tutoring, several classes of computer tutoring systems (answer-based, step-based, substep-based), and no-tutoring instruction on the same content. Contrary to the widely repeated belief that human tutoring produces very large gains (d = 2.0, per Bloom's two-sigma figure) far beyond intelligent tutoring systems (believed d = 1.0), the review found human tutoring's actual effect size relative to no tutoring was much lower (d = 0.79) and that intelligent tutoring systems (d = 0.76) were nearly as effective. Read from the publisher/ERIC abstract only, since the full text sits behind a paywall with no open-access copy found via Unpaywall.
 

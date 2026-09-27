@@ -15,12 +15,14 @@ sources:
     author: "Kropiewnicki, M. I., & Shapiro, J. P."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # The ethic of care was found in all three female principals studied, expressed in teaching, learning, dedication to students, and child-centered schools
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The ethic of care was evident in all three female principals across areas including teaching, learning, dedication to students, empowering others, listening, and resolving conflicts fairly. [→ Kropiewnicki 2001](#kropiewnicki-2001)
@@ -31,7 +33,7 @@ sources:
 
 Kropiewnicki, M. I., & Shapiro, J. P. (2001). Female Leadership and the Ethic of Care: Three Case Studies. https://eric.ed.gov/?id=ED453599
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Inductive qualitative case study of three female principals at elementary, junior high, and high school levels, using extended interviews, staff interviews, observations, and document analysis. The abstract states "The ethic of care was found in all three principals" across the listed areas.
 

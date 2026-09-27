@@ -15,12 +15,14 @@ sources:
     author: Fricke, B. G.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Transcript grades are a blurred currency of performance information, partly due to grade inflation driven by student pressure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The transcript of course credits and grades is the accepted currency for exchanging information about student performance levels, but its meaning is blurred by inflation, Pass/Fail grading and changing conceptions of grading. [→ Fricke 1976](#fricke-1976)
@@ -31,7 +33,7 @@ sources:
 
 Fricke, B. G. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854
 
-`q1 · i? · the article prints no effect size for this finding`
+`q1 · i? · the article prints no effect size for this finding` · `theoretical · r2`
 
 The author's framing statement that the transcript is "the accepted currency" for performance information and that its meaning "is blurred" by inflation, Pass/Fail grading and changing conceptions. No data are reported.
 

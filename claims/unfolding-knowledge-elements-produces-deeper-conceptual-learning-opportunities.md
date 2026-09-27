@@ -15,12 +15,14 @@ sources:
     q: 2
     i: "?"
     n: 8 experienced mathematics teachers (12+ years), Grades 5-7, 549 minutes of video recorded, 280 minutes fully transcribed
+    kind: qualitative
+    rigour: 3
 ---
 
 # Explicitly unfolding higher-order contributions into lower-order concept elements produces deeper conceptual learning opportunities than jumping directly to procedure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · n=8 experienced mathematics teachers (12+ years), Grades 5-7, 549 minutes of video recorded, 280 minutes fully transcribed
+> **Evidence** · 1 study · qualitative `r3` · `q2` · n=8 experienced mathematics teachers (12+ years), Grades 5-7, 549 minutes of video recorded, 280 minutes fully transcribed
 
 Across video-recorded whole-class discussions on formal volume calculation, teacher facilitation practices that explicitly grounded higher-order student contributions in lower-order concept elements (rows, layers, structured counting) produced extensively connected, deep conceptual learning opportunities, while practices that jumped straight to procedure or funneled toward an answer produced only shallow ones — and the same eight teachers, using identical curriculum materials, varied substantially in which they enacted.
 
@@ -39,7 +41,7 @@ Across video-recorded whole-class discussions on formal volume calculation, teac
 
 Ademmer, C., & Prediger, S. (2025). How Can Ideas Be Connected Afterwards? Decomposing Teachers' Facilitation Practices for Conceptual Learning in a Case of Formal Volume Calculation. *Cognition and Instruction, 43*(4), 355-388. [https://doi.org/10.1080/07370008.2025.2527688](https://doi.org/10.1080/07370008.2025.2527688)
 
-`q2 · peer-reviewed qualitative video study with a theory-driven, empirically-refined coding framework (deductive-inductive, "empirically grounded building of ideal types"); segment classification reached by discussion to consensus between two authors rather than independent blind coding with a computed reliability statistic` `i? · the abstract prints no effect size; the full text may` `n=8 experienced mathematics teachers (12+ years), Grades 5-7, 549 minutes of video recorded, 280 minutes fully transcribed`
+`q2 · peer-reviewed qualitative video study with a theory-driven, empirically-refined coding framework (deductive-inductive, "empirically grounded building of ideal types"); segment classification reached by discussion to consensus between two authors rather than independent blind coding with a computed reliability statistic` `i? · the abstract prints no effect size; the full text may` `n=8 experienced mathematics teachers (12+ years), Grades 5-7, 549 minutes of video recorded, 280 minutes fully transcribed` · `qualitative · r3`
 
 Eight experienced mathematics teachers using the same conceptually-focused volume-calculation curriculum were video-recorded across Grade 5-7 lessons with heterogeneous and high-support-needs classes. Sixty-two whole-class discussion segments were identified and analyzed against a two-dimensional "navigation space" mapping eight knowledge elements (from concrete structured counting through the formal volume formula) against three representations (material/iconic, verbal, symbolic). Five distinct facilitation practices emerged from comparing how teachers navigated this space when students' contributions deviated from the intended sequence; three practices that explicitly unfolded higher-order contributions into concrete structure were associated with deep conceptual learning opportunities, while two that skipped this step were associated with shallow ones. This directly operationalizes [Grounding and Unfolding Facilitation Moves](../patterns/grounding-and-unfolding-facilitation-moves.md).
 

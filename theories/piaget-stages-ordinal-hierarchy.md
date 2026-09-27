@@ -16,7 +16,7 @@ sources:
 # Piaget's stages as an ordinal hierarchy of schemes for coping with the environment
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (1 for, 3 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Humm's overview paper presents Piaget's framework for physical educators: two functional invariants, adaptation and structure, operate from birth, with adaptation accomplished by assimilation and accommodation. Development proceeds through the sensori-motor, preoperational, concrete operational, and formal operational periods. The paper stresses that 'Piaget's stages are ordinal, being a description of a progressive hierarchy of schemes for coping with the environment,' so skills built on prerequisites must appear in order.

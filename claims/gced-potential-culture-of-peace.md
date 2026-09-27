@@ -15,12 +15,14 @@ sources:
     author: Stewart Williams, J. E.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The article argues education for global citizenship has the potential to improve quality of life and lessen inter- and intra-group violence toward a culture of peace
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The article asserts that education for global citizenship can improve quality of life, enhance inter-ethnic group relations, foster cross-cultural harmonious interactions, and lessen inter- and intra-group violence toward institutionalizing a culture of peace. [→ Stewart Williams 2020](#stewart-williams-2020)
@@ -31,7 +33,7 @@ sources:
 
 Stewart Williams, J. E. (2020). Daisaku Ikeda's Philosophy of Value-Creating Global Citizenship Education and Africana Humanism: Africa as the Continent of the 21st Century. Journal of Interdisciplinary Studies in Education, 9(SI). https://ojed.org/jise
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the article's conclusions, offered with no empirical data or test. The author states global citizenship education "has the potential to improve the quality of life" and lessen group violence, grounded in Ikeda's philosophy and ubuntu rather than in any study.
 

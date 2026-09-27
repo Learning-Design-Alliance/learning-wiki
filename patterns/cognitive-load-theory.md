@@ -19,7 +19,7 @@ grain_size: lesson
 # Cognitive Load Theory
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 11 studies, `q2`–`q4` · 3 of 11 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 11 studies (5 quant-synthesis, 3 review, 2 causal, 1 design), `q2`–`q4` · 3 of 11 report an effect size · 3 claims rest on one study
 
 ## Description
 Cognitive Load Theory is the short-form canonical target for CLT-informed instructional patterns that reduce extraneous load and calibrate support to expertise.

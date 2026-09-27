@@ -15,12 +15,14 @@ sources:
     author: "Wiboonwachara, L., & Charubusp, S."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Students expressed positive overall opinions of GBSRI, rating Independent Practicing highest and Post-writing lowest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The overall opinion questionnaire mean was 3.37 out of 4 (SD = 0.20); the Independent Practicing and Production stage scored highest (3.49, SD = 0.25) and the Post-writing stage lowest (3.25, SD = 0.11). [→ Wiboonwachara 2022](#wiboonwachara-2022)
@@ -31,7 +33,7 @@ sources:
 
 Wiboonwachara, L., & Charubusp, S. (2022). Implementing Genre-Based Self-Regulated Instruction (GBSRI) to Enhance the English Writing Ability of Thai Undergraduate Students. rEFLections, 29(3). https://so01.tci-thaijo.org/index.php/reflections
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Four-point Likert questionnaire administered after the treatment; descriptive statistics only, interpreted against Todd's bands (3.26-4.00 = strongly agree). Stage-level means come from Table 10 as reported in the text.
 

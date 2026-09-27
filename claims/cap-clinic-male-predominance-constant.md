@@ -15,12 +15,14 @@ sources:
     author: Malhotra S, Biswas P, Sharan P, Grover S.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # More than 60% of clinic attendees were boys in every period, with no significant gender time trend
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Boys constituted more than 60% of attendees across periods, with no significant time trend in gender distribution. [→ Malhotra S 2007](#malhotra-s-2007)
@@ -31,7 +33,7 @@ sources:
 
 Malhotra S, Biswas P, Sharan P, Grover S. (2007). Characteristics of Patients Visiting the Child & Adolescent Psychiatric Clinic: A 26-year Study from North India. J. Indian Assoc. Child Adolesc. Ment. Health 3(3). https://eric.ed.gov/?id=EJ896858
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Gender analysis in the 26-year audit (Table 1 shows boys' and girls' annual numbers as NS across periods). The article reports that "more than 60% of clinic attendees were boys" in all three periods with no significant time trend.
 

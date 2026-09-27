@@ -17,7 +17,7 @@ sources:
 # Multimedia pop-up gloss combining synonym, definition, picture, audio, video, and hyperlink
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 quant-synthesis), `q2`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The study's gloss is a pop-up window that appears when a reader clicks an underlined target word in a computerized text. Each gloss provides "a synonym, definition, pronunciation, picture, video, and a hypertext link to external information". Glosses were built with the Foreign Language Annotator (FLAn) software, displayed in Verdana font on a white background, with only one gloss visible at a time so the reading text remained on screen.

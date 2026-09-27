@@ -15,12 +15,14 @@ sources:
     author: "Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell"
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Teachers' limited skills in facilitating conversations and managing classrooms was the second most salient implementation barrier
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The Skills domain was the second most coded barrier, endorsed by 71.88% of coaches, reflecting difficulties scaffolding conversations and managing small groups. [→ Tricia A. Zucker 2021](#tricia-a-zucker-2021)
@@ -31,7 +33,7 @@ sources:
 
 Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development. https://doi.org/10.1080/10409289.2020.1839288
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative coding of focus groups, interviews, and open-ended surveys plus coach rankings showed teachers lacked skills to facilitate multiple-turn conversations with scaffolding and to manage small groups while other children worked at centers.
 

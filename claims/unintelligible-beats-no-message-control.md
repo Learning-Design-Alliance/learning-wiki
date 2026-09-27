@@ -15,12 +15,14 @@ sources:
     author: "Padgett, Vernon R. & Brock, Timothy C."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Unintelligible messages produce more agreement and cognitive elaboration than a no-message control
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` An unintelligible communication evoked more agreement and more cognitive responses than a control condition with no message at all. [→ Padgett 1986](#padgett-1986)
@@ -31,7 +33,7 @@ sources:
 
 Padgett, Vernon R. & Brock, Timothy C. (1986). Persuasion with Unintelligible Messages: A Cognitive Response Analysis. https://eric.ed.gov/?id=ED282138
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Experiment 6 compared an unintelligible version against a no-message version. The article reports unintelligible messages "produce more agreement and cognitive elaborations than a control no-message condition," and a higher proportion of elaborations relative to total thoughts than intelligible messages.
 

@@ -15,12 +15,14 @@ sources:
     author: Salomon, Gavriel; Gardner, Howard
     q: 2
     i: 0
+    kind: theoretical
+    rigour: 3
 ---
 
 # The measured advantage of computer-based instruction over conventional teaching shrinks when the same teacher teaches both versions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · theoretical `r3` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` In Kulik, Kulik and Cohen's meta-analysis as reported here, CBI's average effect size fell from .51 SD with different teachers to .13 when the same teacher taught both versions. [→ Salomon 1983](#salomon-1983)
@@ -31,7 +33,7 @@ sources:
 
 Salomon, Gavriel; Gardner, Howard. (1983). The Computer as Educator: Lessons from Television Research. Harvard Project Zero. https://eric.ed.gov/?id=ED253201
 
-`q2 · i0`
+`q2 · i0` · `theoretical · r3`
 
 The authors report, citing Kulik et al's (1980) meta-analysis of computer-based college teaching studies, that the CBI advantage "decreased to .13" SD once teacher differences were held constant, versus .51 SD otherwise. The .13 value is below a negligible threshold, indicating the apparent advantage was largely confounded.
 

@@ -15,12 +15,14 @@ sources:
     author: Bohlmeijer, E., Nieuwenhuis, M., Dominguez, A. R., Klooster, P. ten, and Malboeuf-Hurtubise, C.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Naive hope is negatively related to civic engagement, while existential hope is proposed to be positively associated with it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Naive hope, characterized by denial or assumptions that problems resolve themselves, has been found to be negatively related to civic engagement; existential hope is argued to be positively associated with civic engagement. [→ Bohlmeijer 2026](#bohlmeijer-2026)
@@ -31,7 +33,7 @@ sources:
 
 Bohlmeijer, E., Nieuwenhuis, M., Dominguez, A. R., Klooster, P. ten, and Malboeuf-Hurtubise, C. (2026). Toward an integrative psychological framework of existential hope: navigating uncertain futures. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1850611
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Narrative review attribution: the article reports, citing Ojala (2017), that naive hope was "negatively related to civic engagement." The positive association proposed for existential hope is the authors' own argument, not a tested result; no effect sizes are printed.
 

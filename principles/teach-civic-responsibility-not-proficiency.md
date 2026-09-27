@@ -17,7 +17,7 @@ sources:
 # The basic course should teach civic responsibility through the classroom as a microcosm of community, rather than individual communication proficiency
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The fourth operationalization treats rhetorical competence as communal and ethical rather than individual. The paper proposes that "a critical pedagogy might instead use the classroom as a microcosm of community, and treat rhetorical competence as a complex interaction of ethics, social norms, discourse rules, and individual voice." The class constitutes itself as an audience and community that sets its own standards of discourse; the real course content becomes the negotiation skills with which individual voices create a public sphere, with peer evaluations possibly taking the form of responsive essays.

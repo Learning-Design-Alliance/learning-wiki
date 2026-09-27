@@ -16,7 +16,7 @@ sources:
 # Co-regulation: supportive adult-youth processes that enable self-regulation development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Co-regulation is the supportive process between adults and youth through which self-regulation develops. The brief defines it as a process in which "Support, coaching, and modeling are provided to facilitate a youth's ability to understand, express, and modulate their thoughts, feelings, and behavior." It comprises three caregiver roles: teaching skills through modeling, practice opportunities, monitoring and coaching; providing a warm, responsive relationship where youth feel safe to learn and make mistakes; and structuring the environment to make self-regulation manageable. The brief presents co-regulation supports from caregivers as a critical supplement to skills training.

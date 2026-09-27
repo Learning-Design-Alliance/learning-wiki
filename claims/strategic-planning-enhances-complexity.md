@@ -15,12 +15,14 @@ sources:
     author: Yingli Wang
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Strategic pre-task planning has a clear positive influence on the complexity of learners' task performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Reviewed studies consistently found that planned learners produced more complex sentences, broader lexical range and more subordination. [→ Yingli Wang 2008](#yingli-wang-2008)
@@ -31,7 +33,7 @@ sources:
 
 Yingli Wang. (2008). Influence of Planning on Students' Language Performance in Task-based Language Teaching. English Language Teaching, 1(1). https://www.ccsenet.org/journal/index.php/elt
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review section 5.1.2: the review reports Crookes (1989) found "10- minute planned students had more complex sentences and a broader le xical range", with Foster and Skehan (1996) finding more subordination among planners. No effect sizes are printed.
 

@@ -15,12 +15,14 @@ sources:
     author: Neches, Robert
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # The HPM learning simulation's directed activation mechanism, developed to minimize working memory load, yields a new account of the Zeigarnik effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` HPM's rapid working-memory decay and goal-status-dependent directed activation provide a psychologically plausible account of the Zeigarnik effect: interrupted tasks are recalled in richer detail because re-initiated goals send activation down the hierarchy. [→ Neches 1982](#neches-1982)
@@ -31,7 +33,7 @@ sources:
 
 Neches, Robert. (1982). Simulation Systems for Cognitive Psychology. Learning Research and Development Center, University of Pittsburgh. https://eric.ed.gov/?id=ED217874
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Section 4.1: HPM, a production-system model of learning through incremental procedure refinement (Neches, 1981a, 1981b), was developed to operationalize improvement heuristics; its memory-management mechanism, adopted for computational and short-term-memory reasons, "turnst out in retrospect to provide a psychologically plausible account of the Zeigarniceffect."
 

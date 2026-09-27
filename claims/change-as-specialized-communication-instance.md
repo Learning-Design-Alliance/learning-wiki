@@ -15,12 +15,14 @@ sources:
     author: Ellsworth, James B.
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Change is a specialized instance of the general communication model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Rogers notes that change is a specialized instance of the general communication model, a notion Ellsworth expands into an organizing framework. [→ Ellsworth 2000](#ellsworth-2000)
@@ -31,7 +33,7 @@ sources:
 
 Ellsworth, James B. (2000). A Survey of Educational Change Models. ERIC Digest. https://eric.ed.gov/?id=ED444597
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 The digest reports, citing Rogers (1995), that "change is a specialized instance of the general communication model," and that Ellsworth expands this notion into a framework making the literature more accessible to practitioners. This is the digest's attributed account, not a tested result.
 

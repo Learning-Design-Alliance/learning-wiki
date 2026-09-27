@@ -15,12 +15,14 @@ sources:
     author: Restrepo Ramos, F. D.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Reading produces greater incidental vocabulary gains and retention than listening, but listening may yield slightly higher retention for high-proficiency learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Vidal's study, reading subjects made greater vocabulary gains and retention than listening subjects, though higher-proficiency students showed slightly higher retention from listening. [→ Restrepo Ramos 2015](#restrepo-ramos-2015)
@@ -31,7 +33,7 @@ sources:
 
 Restrepo Ramos, F. D. (2015). Incidental vocabulary learning in second language acquisition: A literature review. PROFILE Issues in Teachers' Professional Development, 17(1), 157-166. http://dx.doi.org/10.15446/profile.v17n1.43957
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Vidal's (2011) comparison assigned 248 first-year ESL undergraduates in Madrid to a listening condition (112 students), a reading condition (80 students), or a control group (38 subjects), testing 36 target words over four weeks; the review reports reading subjects made greater gains.
 

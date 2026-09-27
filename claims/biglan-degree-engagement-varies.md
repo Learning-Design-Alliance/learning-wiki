@@ -15,18 +15,22 @@ sources:
     author: "Doberneck, D. M., & Schweitzer, J. H."
     q: 2
     i: 1
+    kind: associational
+    rigour: 1
   - id: doberneck-2017-2
     resource: "https://portal.issn.org/resource/ISSN/1534-6104"
     title: "Doberneck, D. M., & Schweitzer, J. H. (2017). Disciplinary Variations in Publicly Engaged Scholarship: An Analysis Using the Biglan Classification of Academic Disciplines. Journal of Higher Education Outreach and Engagement, 21(1). https://portal.issn.org/resource/ISSN/1534-6104"
     author: "Doberneck, D. M., & Schweitzer, J. H."
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Degree of engagement is higher in applied (1.52 vs 1.22, p=.016) and life (1.56 vs 1.07, p=.000) disciplines, with no significant hard/soft difference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i1`–`i2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i1`–`i2`
 
 ## Subclaims
 `q2 i?` Applied-discipline faculty report higher degrees of engagement (reciprocal, mutually beneficial collaboration) than pure-discipline faculty. [→ Doberneck 2017](#doberneck-2017)
@@ -38,7 +42,7 @@ sources:
 
 Doberneck, D. M., & Schweitzer, J. H. (2017). Disciplinary Variations in Publicly Engaged Scholarship: An Analysis Using the Biglan Classification of Academic Disciplines. Journal of Higher Education Outreach and Engagement, 21(1). https://portal.issn.org/resource/ISSN/1534-6104
 
-`q2 · i1`
+`q2 · i1` · `associational · r1`
 
 Independent-sample t-tests in Results on 171 RPT documents coded with a 4-point scheme from 0 (no engaged scholarship) to 3 (two-way interactions resulting in cogenerated knowledge); means pure 1.22, applied 1.52, difference .30.
 
@@ -48,7 +52,7 @@ Independent-sample t-tests in Results on 171 RPT documents coded with a 4-point 
 
 Doberneck, D. M., & Schweitzer, J. H. (2017). Disciplinary Variations in Publicly Engaged Scholarship: An Analysis Using the Biglan Classification of Academic Disciplines. Journal of Higher Education Outreach and Engagement, 21(1). https://portal.issn.org/resource/ISSN/1534-6104
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Results section, Table 5: degree of engagement difference in means .49 for life/nonlife (p=.000) and .02 for hard/soft (p=.850, not significant). Degree of engagement concerned the extent community partners share decision-making power.
 

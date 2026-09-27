@@ -15,12 +15,14 @@ sources:
     author: "Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell"
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Environmental context and resources, especially competing demands on instructional time, was identified as a barrier by 71.88% of coaches and was the most coded qualitative theme. [→ Tricia A. Zucker 2021](#tricia-a-zucker-2021)
@@ -31,7 +33,7 @@ sources:
 
 Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development. https://doi.org/10.1080/10409289.2020.1839288
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Mixed-methods analysis of coaches' retrospective TDF survey and teacher/coach focus groups, interviews, and open-ended survey responses across three Developing Talkers studies. The environmental context domain drew "60 coded qualitative responses and 71.88% of coaches ranking this as a barrier."
 

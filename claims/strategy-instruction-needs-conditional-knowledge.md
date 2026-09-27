@@ -15,6 +15,8 @@ sources:
     q: 2
     i: "?"
     n: unreported (abstract does not give sample size)
+    kind: causal
+    rigour: "?"
   - id: paris-et-al-1983
     resource: "https://doi.org/10.1016/0361-476X(83)90018-8"
     title: "Paris, S. G., Lipson, M. Y., & Wixson, K. K. (1983). Becoming a strategic reader. *Contemporary Educational Psychology, 8*(3), 293-316. [doi:10.1016/0361-476X(83)90018-8](https://doi.org/10.1016/0361-476X(83)90018-8)"
@@ -22,12 +24,14 @@ sources:
     q: 1
     i: "?"
     n: N/A
+    kind: theoretical
+    rigour: "?"
 ---
 
 # Strategy Instruction Needs Conditional Knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1`–`q2`
+> **Evidence** · 2 studies · 1 causal `r?`, 1 theoretical `r?` · `q1`–`q2`
 
 Teaching learners *when* and *why* to use a strategy — not just *how* — is required for strategy use to transfer beyond the training context. Conditional knowledge is what allows learners to select and adapt strategies independently rather than executing a memorized procedure on near tasks only.
 
@@ -43,7 +47,7 @@ Teaching learners *when* and *why* to use a strategy — not just *how* — is r
 
 Duffy, G. G., Roehler, L. R., Sivan, E., Rackliffe, G., Book, C., Meloth, M. S., Vavrus, L. G., Wesselman, R., Putnam, J., & Bassiri, D. (1987). Effects of explaining the reasoning associated with using reading strategies. *Reading Research Quarterly, 22*(3), 347. [doi:10.2307/747973](https://doi.org/10.2307/747973)
 
-`q2 · quasi-experiment (teachers assigned to trained vs. control condition; abstract does not specify randomization)` · `i? · no effect size reported` · `n=unreported (abstract does not give sample size)`
+`q2 · quasi-experiment (teachers assigned to trained vs. control condition; abstract does not specify randomization)` · `i? · no effect size reported` · `n=unreported (abstract does not give sample size)` · `causal · r?`
 
 Elementary reading teachers were trained to make explicit decisions about when and how to explain the mental reasoning behind using reading skills as strategies, and their students were compared with students of untrained control teachers. Low-reading-ability students of the trained teachers became more aware of lesson content and of the need to be strategic while reading, and scored better on several measures of reading achievement than students of control teachers. Only the publisher's/ERIC abstract was available (see provenance); the finding is reported as a comparison of outcomes, with no effect size or sample size given in that text.
 
@@ -51,7 +55,7 @@ Elementary reading teachers were trained to make explicit decisions about when a
 
 Paris, S. G., Lipson, M. Y., & Wixson, K. K. (1983). Becoming a strategic reader. *Contemporary Educational Psychology, 8*(3), 293-316. [doi:10.1016/0361-476X(83)90018-8](https://doi.org/10.1016/0361-476X(83)90018-8)
 
-`q1 · theoretical argument (classified by ERIC as an Opinion Paper, not an empirical study)` · `i? · not applicable — conceptual paper, no effect size` · `n=N/A`
+`q1 · theoretical argument (classified by ERIC as an Opinion Paper, not an empirical study)` · `i? · not applicable — conceptual paper, no effect size` · `n=N/A` · `theoretical · r?`
 
 This is the source paper that introduces conditional knowledge as one of three components of strategic reading, alongside declarative knowledge (what a strategy is) and procedural knowledge (how to execute it), arguing that knowing when and why to apply a strategy is what lets a reader use it flexibly and adapt it across tasks rather than only on trained materials. It is a theoretical/synthesis paper — no full text or abstract text beyond ERIC's own descriptive summary could be retrieved (see provenance) — so it is cited here as the conceptual source of the conditional-knowledge construct rather than as an empirical test of it.
 

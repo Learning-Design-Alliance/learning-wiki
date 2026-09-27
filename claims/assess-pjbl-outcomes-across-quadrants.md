@@ -14,12 +14,14 @@ sources:
     author: "Son, E. H., & Penry, T."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # PjBL assessment research should evaluate outcomes across all four quadrants, not only Flexible-Cooperative designs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The authors argue that before concluding Flexible-Cooperative PjBL has the most educational value, researchers must assess outcomes for Q1-Q3 varieties, including Fixed courses for newcomers working individually or in teams. [→ Son 2022](#son-2022)
@@ -30,7 +32,7 @@ sources:
 
 Son, E. H., & Penry, T. (2022). Variations in Project-Based Course Design. Journal of Problem Based Learning in Higher Education, Vol. 10, No. 1.
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Authors' recommendation from the discussion of their qualitative study. They note success stories tend to describe Q4 pedagogies and that Condliffe (2017) reminds us PjBL assessment is still a work in progress; no outcome data are reported here.
 

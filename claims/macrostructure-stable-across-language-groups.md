@@ -15,12 +15,14 @@ sources:
     author: Hayes, R. L., and Kan, P. F.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # No macrostructure measure differs significantly between bilingual and monolingual children, while age improves story structure, internal state terms, comprehension, and aggregate scores but not structural complexity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Language group showed no significant effect on SS, SC, IST, comprehension, or the aggregate score. [→ Hayes 2026](#hayes-2026)
@@ -32,7 +34,7 @@ sources:
 
 Hayes, R. L., and Kan, P. F. (2026). Shared and divergent patterns in narrative skills: comparing English monolingual and Japanese–English bilingual children. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1747702
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 2×2 ANOVAs on macrostructure measures from the MAIN retells of 56 children. The aggregate score showed a significant age effect but no language group effect; SS, IST, and comprehension followed the same pattern, while "SC was not significant, F(3, 52) = 1.62, p = 0.2, R2 = 0.09, and none of the variables reached significance."
 

@@ -15,12 +15,14 @@ sources:
     author: "Doberneck, D. M., & Schweitzer, J. H."
     q: 2
     i: 0
+    kind: associational
+    rigour: 1
 ---
 
 # No instances of service-learning were reported on the RPT forms, an unexpected null the authors attribute partly to the form's design
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r1` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i?` Despite thorough searching for multiple service-learning terms, no instances of academic or cocurricular service-learning appeared in the 171 RPT dossiers. [→ Doberneck 2017](#doberneck-2017)
@@ -31,7 +33,7 @@ sources:
 
 Doberneck, D. M., & Schweitzer, J. H. (2017). Disciplinary Variations in Publicly Engaged Scholarship: An Analysis Using the Biglan Classification of Academic Disciplines. Journal of Higher Education Outreach and Engagement, 21(1). https://portal.issn.org/resource/ISSN/1534-6104
 
-`q2 · i0`
+`q2 · i0` · `associational · r1`
 
 Null finding from the document analysis in the limitations section. The researchers speculate the RPT form itself may cause underreporting: there is no special course designation for service-learning, no way to mark engaged courses, and no separate section for course-based engaged teaching.
 

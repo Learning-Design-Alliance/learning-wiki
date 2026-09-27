@@ -15,12 +15,14 @@ sources:
     author: Luppicini, Rocci; Schnackenberg, Heidi
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Constructivist responses to Objectivist criticism have redirected rather than addressed the specific questions raised
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors argue that most Constructivist replies to Objectivist criticism evade the specific questions by opposing the Objectivist framework instead of answering it. [→ Luppicini 2000](#luppicini-2000)
@@ -31,7 +33,7 @@ sources:
 
 Luppicini, Rocci; Schnackenberg, Heidi. (2000). In Support of Constructivism: Utilizing Rational, Moral and Communicative Frameworks to Address Frequently Posited Criticisms. https://eric.ed.gov/?id=ED455777
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the paper's abstract and introduction. The authors state the paper's goal is to demonstrate that Constructivism "has failed to address criticisms by re-directing or misdirecting the focus of the debate". No empirical data are offered for this diagnosis.
 

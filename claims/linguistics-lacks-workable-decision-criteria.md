@@ -15,18 +15,22 @@ sources:
     author: de Beaugrande, Robert
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: de-beaugrande-1977-2
     resource: "https://eric.ed.gov/?id=ED159704"
     title: "de Beaugrande, Robert. (1977). Writing as a Decision Process. https://eric.ed.gov/?id=ED159704"
     author: de Beaugrande, Robert
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Mainstream American linguistics can state formal alternatives but cannot derive workable criteria for deciding among them
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The article concludes that the mainstream of American linguistics can be used to state at least some formal alternatives, but not to derive workable criteria for making decisions about those alternatives. [→ de Beaugrande 1977](#de-beaugrande-1977)
@@ -38,7 +42,7 @@ sources:
 
 de Beaugrande, Robert. (1977). Writing as a Decision Process. https://eric.ed.gov/?id=ED159704
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The paper's survey of structural linguistics, tagmemics, and transformational grammar concludes they supply formal alternatives but not decision criteria: transformational grammar is "intrinqically unfit" to choose among syntactic patterns because it treats syntax as autonomous. Theoretical argument, no data.
 
@@ -48,7 +52,7 @@ The paper's survey of structural linguistics, tagmemics, and transformational gr
 
 de Beaugrande, Robert. (1977). Writing as a Decision Process. https://eric.ed.gov/?id=ED159704
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The paper quotes Larson (1976:71) on composition theory: studies of form are largely a record of search for formulas and a priori advice, while "many of the fundamental .topics one has to address in choosing.a form ,for a composition" have been dealt with slightly, hesitantly, or not at all. The review attributes this to Larson.
 

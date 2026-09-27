@@ -15,12 +15,14 @@ sources:
     author: Seng, Seok-Hoon
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # In pretend play the child behaves beyond her average age and daily behaviour
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Vygotsky claimed that in play the child always behaves beyond his average age and above his daily behaviour, as though a head taller than himself. [→ Seng 1997](#seng-1997)
@@ -31,7 +33,7 @@ sources:
 
 Seng, Seok-Hoon. (1997). Zone of Proximal Development and the World of the Child. https://eric.ed.gov/?id=ED416957
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical claim reported in this review paper, attributed to Vygotsky (1978), that play creates a ZPD in which the child performs above her daily level. The paper offers this as Vygotsky's assertion, not as an empirical test.
 

@@ -15,12 +15,14 @@ sources:
     author: Downes, S.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Autonomy, diversity, interactivity, openness and Web 2.0 showed a positive significant effect on students' achievement in a structural model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A structural model evaluation found that autonomy, diversity, interactivity, openness and Web 2.0 had a positive significant effect on students' achievement in independent learning through connectivism. [→ Downes 2019](#downes-2019)
@@ -31,7 +33,7 @@ sources:
 
 Downes, S. (2019). Recent Work in Connectivism. European Journal of Open, Distance and e-Learning, 22(2). https://www.eurodl.org/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The survey reports, citing Zulkifley, Nor, and Siti (2018), an evaluation of a structural model for independent learning through connectivism theory and Web 2.0 towards students' achievement. The article reports significance without printing effect sizes or test statistics.
 

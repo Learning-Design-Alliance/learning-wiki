@@ -16,6 +16,8 @@ sources:
     q: 3
     i: "?"
     n: teachers (middle school), random assignment to PGD vs. attention control
+    kind: causal
+    rigour: 2
   - id: allday-and-pakurar-2007
     resource: "https://doi.org/10.1901/jaba.2007.86-06"
     title: "Allday, R. A., & Pakurar, K. (2007). Effects of Teacher Greetings on Student On-task Behavior. *Journal of Applied Behavior Analysis, 40*(2), 317–320. [doi:10.1901/jaba.2007.86-06](https://doi.org/10.1901/jaba.2007.86-06)"
@@ -23,12 +25,14 @@ sources:
     q: 1
     i: "?"
     n: 3 middle school students
+    kind: causal
+    rigour: 1
 ---
 
 # Positive Greetings At The Door Improve Engagement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1`–`q3`
+> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q1`–`q3`
 
 Greeting each student individually and positively as they enter the classroom increases academic engaged time and reduces disruptive behavior.
 
@@ -44,7 +48,7 @@ Greeting each student individually and positively as they enter the classroom in
 
 Cook, C. R., Fiat, A., Larson, M., Daikos, C., Slemrod, T., Holland, E. A., Thayer, A. J., & Renshaw, T. (2018). Positive Greetings at the Door: Evaluation of a Low-Cost, High-Yield Proactive Classroom Management Strategy. *Journal of Positive Behavior Interventions, 20*(3), 149–159. [doi:10.1177/1098300717753831](https://doi.org/10.1177/1098300717753831)
 
-`q3 · randomized experiment (not pre-registered)` · `i? · no standardized effect size reported` · `n=teachers (middle school), random assignment to PGD vs. attention control`
+`q3 · randomized experiment (not pre-registered)` · `i? · no standardized effect size reported` · `n=teachers (middle school), random assignment to PGD vs. attention control` · `causal · r2`
 
 Middle school teachers, nominated by their principals, were randomly assigned to deliver the Positive Greetings at the Door (PGD) strategy or an attention-control condition. Observers coded students' [academic engaged time](../elements/practice.md) and disruptive behavior before and after implementation. The PGD condition produced significant improvements in academic engaged time and significant reductions in disruptive behavior compared to the control condition, and teachers rated the strategy as feasible, reasonable and acceptable on a social validity questionnaire.
 
@@ -52,7 +56,7 @@ Middle school teachers, nominated by their principals, were randomly assigned to
 
 Allday, R. A., & Pakurar, K. (2007). Effects of Teacher Greetings on Student On-task Behavior. *Journal of Applied Behavior Analysis, 40*(2), 317–320. [doi:10.1901/jaba.2007.86-06](https://doi.org/10.1901/jaba.2007.86-06)
 
-`q1 · single-case multiple-baseline design` · `i? · no standardized effect size reported (raw percentage-point change: 45%→72%)` · `n=3 middle school students`
+`q1 · single-case multiple-baseline design` · `i? · no standardized effect size reported (raw percentage-point change: 45%→72%)` · `n=3 middle school students` · `causal · r1`
 
 A multiple baseline design across participants was used with 3 middle school students who displayed problem behaviors. Momentary time sampling measured on-task behavior during the first 10 minutes of class before and after teachers began individually greeting each student at the door. On-task behavior rose from a mean of 45% during baseline to a mean of 72% once the teacher-greeting intervention began, in all three students. The authors frame the greeting as a low-cost antecedent (proactive) classroom-management manipulation rather than a consequence-based one.
 

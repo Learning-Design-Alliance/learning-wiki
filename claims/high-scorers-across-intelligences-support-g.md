@@ -15,12 +15,14 @@ sources:
     author: Peariso, J. F.
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Children scoring highly on one intelligence tend to score highly on others, consistent with general intelligence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports, citing McGuiness, that Gifted Child Quarterly findings showed children scoring highly on one intelligence tend to score highly on some others, which is expected if general intelligence exists and not expected if intelligences are separate. [→ Peariso 2008](#peariso-2008)
@@ -31,7 +33,7 @@ sources:
 
 Peariso, J. F. (2008). Multiple Intelligences or Multiply Misleading: The Critic's View of the Multiple Intelligences Theory. Liberty University. https://eric.ed.gov/?id=ED500515
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The review attributes this finding to McGuiness (2007) discussing work by Guskin, Peng, and Simon (1992) in Gifted Child Quarterly. The review reports it second-hand; no statistics are printed.
 

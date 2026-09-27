@@ -15,12 +15,14 @@ sources:
     author: Yingli Wang
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The influence of strategic planning on accuracy is unclear and depends on task type and planning conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Some studies found accuracy benefits of strategic planning while others found none, and effects varied by task type and focus of planning. [→ Yingli Wang 2008](#yingli-wang-2008)
@@ -31,7 +33,7 @@ sources:
 
 Yingli Wang. (2008). Influence of Planning on Students' Language Performance in Task-based Language Teaching. English Language Teaching, 1(1). https://www.ccsenet.org/journal/index.php/elt
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports that Yuan and Ellis (2003) found no influence of strategic planning on accuracy, while Ellis (1987) and Mehnert (1998) reported accuracy differences, making the overall picture unclear. No effect sizes are printed.
 

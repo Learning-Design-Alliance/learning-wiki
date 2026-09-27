@@ -15,18 +15,22 @@ sources:
     author: Campbell, M. Donald
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 1
   - id: campbell-1978-2
     resource: "https://eric.ed.gov/?id=ED152994"
     title: "Campbell, M. Donald. (1978). Educator Influence on Group Growth in Community Problem Solving. Paper presented at the Adult Education Research Conference, San Antonio, Texas. https://eric.ed.gov/?id=ED152994"
     author: Campbell, M. Donald
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Educator activity style should match the group's leadership capacity: low activity style with well-developed leadership, high activity style without it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` If leadership capacity is well-developed in the group, a low activity educator style positively influences additional group growth. [→ Campbell 1978](#campbell-1978)
@@ -38,7 +42,7 @@ sources:
 
 Campbell, M. Donald. (1978). Educator Influence on Group Growth in Community Problem Solving. Paper presented at the Adult Education Research Conference, San Antonio, Texas. https://eric.ed.gov/?id=ED152994
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r1`
 
 Case-comparison evidence: the top-ranked group had a very capable citizen leader and an educator using the low activity information provider style, and extensive growth occurred; a group with capable potential leaders but a high activity educator showed limited growth.
 
@@ -48,7 +52,7 @@ Case-comparison evidence: the top-ranked group had a very capable citizen leader
 
 Campbell, M. Donald. (1978). Educator Influence on Group Growth in Community Problem Solving. Paper presented at the Adult Education Research Conference, San Antonio, Texas. https://eric.ed.gov/?id=ED152994
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Case-comparison evidence: in the second-ranked group, where everyone shied away from responsibility, a very active educator style helped develop leadership and additional growth resulted; the last-ranked group had a less active style, undeveloped leadership, and no growth.
 

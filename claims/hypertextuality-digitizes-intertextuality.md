@@ -15,12 +15,14 @@ sources:
     author: Dennis, J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Hypertextuality extends intertextuality into the digital world, foreshadowing connectivism
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Nelson's hypertextuality is intertextuality reimagined for a computerized world, extending the logic of intertextuality through digitalization and anticipating network learning. [→ Dennis 2020](#dennis-2020)
@@ -31,7 +33,7 @@ sources:
 
 Dennis, J. (2020). Languaging Network Learning: The Emergence of Connectivism in Architectonic Thought. International Review of Research in Open and Distributed Learning, 21(3). https://www.irrodl.org/
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Conceptual analysis citing Orr (2003): Nelson's hypertext — non-sequential, multidimensional blocks of text with branches and links — carries intertextuality into digital media. The article presents this as the point where connectivism emerges in architectonic thought, supported by textual-philosophical argument rather than data.
 

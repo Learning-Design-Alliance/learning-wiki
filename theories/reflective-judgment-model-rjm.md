@@ -16,7 +16,7 @@ sources:
 # Reflective Judgment Model (RJM)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 2 studies, `q2` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 2 studies (2 qualitative), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 The Reflective Judgment Model, developed by King and Kitchener (1994), is a model of adult cognitive development related to epistemological beliefs. The article describes it as "a continuum of qualitatively different stages, each associated with specific epistemological assumptions and standpoints, through which individuals progress (though not necessarily in a linear fashion) as they learn to face complex, ill-structured problems." It spans seven levels, from Pre-Reflective thinking that treats knowledge as absolutely certain, through Quasi-Reflective thinking that accepts uncertainty and evidence, toward evaluated, integrative reasoning. The study used the RJM as the framework for analyzing how preservice teachers approached ill-defined dilemmas of practice.

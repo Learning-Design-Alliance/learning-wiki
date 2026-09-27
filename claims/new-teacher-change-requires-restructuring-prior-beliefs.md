@@ -15,12 +15,14 @@ sources:
     author: Walker, K.
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Change in new teachers requires a restructuring of their prior beliefs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Based on an analysis of forty studies on professional growth, change in new teachers can only come from restructuring their prior beliefs. [→ Walker 2000](#walker-2000)
@@ -31,7 +33,7 @@ sources:
 
 Walker, K. (2000). Classroom Management for New Teachers. Education Partnerships, Inc. http://www.educationpartnerships.org/
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `review · r1`
 
 The brief reports, citing Kagan's (1992) analysis of forty studies on professional growth, that "change in new teachers can only come from a restructuring of their prior beliefs". The analysis itself is not described.
 

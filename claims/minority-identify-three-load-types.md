@@ -15,12 +15,14 @@ sources:
     author: "Houichi, A., & Sarnou, D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Only a minority of self-reported CLT-familiar teachers could identify the three types of cognitive load
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Among teachers claiming familiarity with CLT, only 28.6% could demonstrate the three types of cognitive load. [→ Houichi 2020](#houichi-2020)
@@ -31,7 +33,7 @@ sources:
 
 Houichi, A., & Sarnou, D. (2020). Cognitive Load Theory and its Relation to Instructional Design: Perspectives of Some Algerian University Teachers of English. Arab World English Journal. https://dx.doi.org/10.24093/awej/vol11no4.8
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Questionnaire item asking teachers to identify cognitive load's types. The article reports that among those claiming familiarity, "only (28.6%) could demonstrate the three types of cognitive load." No effect size is reported.
 

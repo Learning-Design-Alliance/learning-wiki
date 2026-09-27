@@ -15,12 +15,14 @@ sources:
     author: Casto, Glendon; And Others
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Laughter onset is delayed in Down syndrome infants
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a cited sample of 14 Down syndrome infants, the median onset of laughter was delayed relative to typical development. [→ Casto 1976](#casto-1976)
@@ -31,7 +33,7 @@ sources:
 
 Casto, Glendon; And Others. (1976). Affective Development in the Normal and Handicapped Preschool Child. Summary Report. Review and Recommendations. Exceptional Child Center, Utah State University. https://eric.ed.gov/?id=ED135163
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The report's section on mentally retarded children cites this unpublished manuscript by Cicchetti and Sroufe as evidence that "Smiling, increased vocalization and increased bodily activity are delayed in the retarded infant." The printed month value is garbled in the source text.
 

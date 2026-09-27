@@ -15,12 +15,14 @@ sources:
     author: "Vijge, M. J., Gallagher, S. E., Byrne, J. R., Tschersich, J., Tager, J., Madhavan, U. B., Boshoff, H., & Triyanti, A."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Staff time for the Capstone was limited and unequally divided across CHARM-EU partners, with University of Pretoria staff receiving no hours or funding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Time availability for Capstone work was limited and unequally divided across CHARM-EU partners, and staff at the University of Pretoria received no hours or funding, making it hard to equally distribute decision-making power and responsibilities. [→ Vijge 2025](#vijge-2025)
@@ -31,7 +33,7 @@ sources:
 
 Vijge, M. J., Gallagher, S. E., Byrne, J. R., Tschersich, J., Tager, J., Madhavan, U. B., Boshoff, H., & Triyanti, A. (2025). Community-Engaged Learning in a European Universities Alliance: Reflections on Equality and Reciprocity Across Europe and Africa. Journal of Higher Education Outreach and Engagement, 29(2). https://openjournals.libs.uga.edu/jheoe
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Autoethnographic reflection on resource allocation for collaboration with societal stakeholders, which the authors note is highly time-consuming. They report that "staff at the University of Pretoria received no hours or funding", so decision-making power rested mostly with those who had allocated hours.
 

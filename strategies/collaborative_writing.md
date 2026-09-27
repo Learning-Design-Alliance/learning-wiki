@@ -12,7 +12,7 @@ generated:
 # Collaborative Writing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q4` · 2 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies (3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 4 report an effect size
 
 ## Description
 Collaborative writing arranges for learners to work together through the entire writing process—planning, drafting, revising, editing, and publishing—rather than writing alone. Typically supported by shared documents or writing platforms, it makes composition a joint problem-solving activity in which learners negotiate content, structure, and wording, and give each other feedback at every stage.

@@ -15,12 +15,14 @@ sources:
     author: "Martin, F., Klein, J., & Sullivan, H."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Including practice with feedback in computer-based instruction significantly raises posttest achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The four treatment versions that included practice scored significantly higher on the posttest than the two versions without practice. [→ Martin 2003](#martin-2003)
@@ -32,7 +34,7 @@ sources:
 
 Martin, F., Klein, J., & Sullivan, H. (2003). Effects of Instructional Events in Computer-Based Instruction. https://eric.ed.gov/?id=ED484984
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment with 256 undergraduate computer literacy students randomly assigned within pretest blocks to six lesson versions. The ANOVA yielded "F (5, 250) = 11.689, p <.01"; Scheffe tests showed the four practice-including groups (means above 17) significantly outperformed the two without practice (below 15).
 

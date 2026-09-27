@@ -15,12 +15,14 @@ sources:
     author: "Lihui Lv & Chunyan Liu"
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Task complexity shows no significant effect on child learners' oral production of the target form when receiving recasts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` No significant differences were found among the simple, +complex, and ++complex groups in oral production post-test scores. [→ Lihui Lv & Chunyan Liu 2022](#lihui-lv-chunyan-liu-2022)
@@ -31,7 +33,7 @@ sources:
 
 Lihui Lv & Chunyan Liu. (2022). Recast, Task Complexity and Child Learners' L2 Development. English Language Teaching, 15(9). https://doi.org/10.5539/elt.v15n9p95
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 One-way ANOVA on oral post-test scores across the three task-complexity groups found no significant group differences; equivalence was not tested. Oral means were 0.93, 0.75, and 0.83 for the three groups.
 

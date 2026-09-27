@@ -15,12 +15,14 @@ sources:
     author: "Koszalka, T. A. & Wu, C.-P."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # After the IDEAS academy, both studied teachers' classrooms moved toward more student-centered methods, with inquiry and collaborative learning emerging
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Inquiry and collaborative learning emerged in both studied classrooms after the academy, and teachers prompted students to define concepts and rephrase understanding in their own words. [→ Koszalka 2001](#koszalka-2001)
@@ -31,7 +33,7 @@ sources:
 
 Koszalka, T. A. & Wu, C.-P. (2001). A cultural historical activity theory [CHAT] analysis of technology integration: Case study of two teachers. https://eric.ed.gov/?q=A+cultural+historical+activity+theory+analysis+of+technology+integration
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Case study observations (Theme 1) of two teachers selected for maximal variety from the first-year cohort. Baseline methods were presentation and hands-on; after the academy, "Both inquiry and collaborative learning emerged after the academy in both of the studied classrooms," often accompanied by discussions of NASA scientists at work. No effect sizes reported.
 

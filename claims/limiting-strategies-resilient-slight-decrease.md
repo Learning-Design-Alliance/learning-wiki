@@ -15,12 +15,14 @@ sources:
     author: C. A. Ogilvie
     q: 2
     i: 1
+    kind: design
+    rigour: 2
 ---
 
 # Limiting strategies decrease only slightly and remain resilient despite multifaceted-problem instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · design `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` The average number of limiting strategies described per student decreased by 0.27±0.08 (effect size -0.3), a smaller change than the expansive-strategy increase. [→ C. A. Ogilvie 2006](#c-a-ogilvie-2006)
@@ -31,7 +33,7 @@ sources:
 
 C. A. Ogilvie. (2006). Impact of Context-Rich, Multifaceted Problems on Students' Attitudes Towards Problem-Solving. https://www.physics.iastate.edu
 
-`q2 · i1`
+`q2 · i1` · `design · r2`
 
 Within-student pre/post change in coded limiting strategies (Rolodex, list knowns, list unknowns, prior examples) for the 216 paired reflectors. The article reports an effect size of -0.3 and notes "there was less a change in the limiting strategies: consistent with the earlier observation that these limiting approaches are resilient."
 

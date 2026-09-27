@@ -16,7 +16,7 @@ sources:
 # Criterion-referenced testing: tests deliberately constructed so scores tell what behaviors individuals can demonstrate
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper defines criterion-referenced testing as an approach whose tests are "deliberately constructed to give scores that tell what kinds of behavior individuals with those scores can demonstrate". It traces the term to Glaser, who combined a desired model of performance with a standard domain of content, and distinguishes this usage from criterion variables and cut-off criterion scores. The framework underpins the paper's discussion of absolute interpretation and mastery learning.

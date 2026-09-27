@@ -12,7 +12,7 @@ generated:
 # Pretesting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies (2 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 1 of 4 report an effect size
 
 ## Description
 Pretesting presents learners with questions about material they have not yet been taught, requiring them to generate an answer or guess before instruction. Learners typically err, but the act of attempting retrieval — even unsuccessfully — primes subsequent learning. The strategy is carried out as a short quiz, problem set, or prediction task immediately preceding the relevant lesson.

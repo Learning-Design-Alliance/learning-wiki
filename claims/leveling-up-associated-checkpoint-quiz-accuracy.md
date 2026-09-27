@@ -15,12 +15,14 @@ sources:
     author: Lucy Portnoff, Erin Gustafson, Klinton Bicknell and Joseph Rollinson
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Completing more skill levels is associated with higher Checkpoint Quiz post-test accuracy, with positive coefficients for Levels 1, 2, and 4
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Average post-test item accuracy increases linearly with every skill-level completed, and the logistic regression shows the probability of answering a post-test item correctly increases with every additional lesson in Levels 1, 2, and 4. [→ Lucy Portnoff 2021](#lucy-portnoff-2021)
@@ -31,7 +33,7 @@ sources:
 
 Lucy Portnoff, Erin Gustafson, Klinton Bicknell and Joseph Rollinson. (2021). Methods for Language Learning Assessment at Scale: Duolingo Case Study. Proceedings of The 14th International Conference on Educational Data Mining (EDM21). https://educationaldatamining.org/edm2021/
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Logistic regression on four months of Checkpoint Quiz data predicted post-test accuracy on pre-test-incorrect items, controlling for item, user, course, other session types, prior proficiency, and subscriber status. The article reports "the probability of answering a post-test item correctly increases with every additional lesson in Levels 1, 2, and 4"; no effect sizes are printed.
 

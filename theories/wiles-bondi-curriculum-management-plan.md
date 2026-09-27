@@ -16,7 +16,7 @@ sources:
 # The Wiles-Bondi Curriculum Management Plan (CMP) for middle school change
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The CMP is a management framework for implementing and sustaining middle school programs, drawing on Tyler and Taba and the accreditation process format. As the authors state, "the CMP attempts to introduce regularity into the process of change" by superimposing a management schemata over the curriculum development framework and forcing values clarification and commitment at each step. It rests on four key points: involving affected people, directing change from the top, basing decisions on hard data, and driving change by evaluation and accountability.

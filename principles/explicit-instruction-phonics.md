@@ -21,7 +21,7 @@ sources:
 # Explicit Instruction: Phonics
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies, `q2`–`q4` · 0 of 11 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (5 causal, 3 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 11 report an effect size
 
 ## Description
 Adult learners who struggle with foundational reading skills, including decoding and phonemic awareness, can benefit from explicit phonics instruction. Phonics instruction specifically addresses word-level reading by connecting letters to sounds, aiding learners in reading and comprehending text. Direct instruction that resembles early reading instruction assists adult literacy learning, particularly as adult readers may need to unlearn ineffective reading and writing habits. This process requires explicit teaching and sufficient practice to ensure retention of skills for transfer into long-term memory.

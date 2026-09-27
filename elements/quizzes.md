@@ -12,7 +12,7 @@ generated:
 # Quizzes
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q2`–`q4` · 1 of 5 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (2 causal, 2 quant-synthesis, 1 review), `q2`–`q4` · 1 of 5 report an effect size
 
 ## Description
 Quizzes are short, low-stakes assessments used during learning rather than at its end. Their primary function is not measurement but learning: answering questions forces retrieval from memory, and the feedback that follows corrects and consolidates what was retrieved.

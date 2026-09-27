@@ -15,12 +15,14 @@ sources:
     author: Bigenho, Frederick W., Jr
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Semantic integration findings are constrained: integration occurs even with nonsense syllables, limiting schema-based interpretation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Bransford and Franks (1971) found subjects acquired an abstracted, integrated representation of sentence meaning rather than an accumulation of individual sentence meanings, but integration also occurred with nonsense syllables using the same procedure. [→ Bigenho 1992](#bigenho-1992)
@@ -31,7 +33,7 @@ sources:
 
 Bigenho, Frederick W., Jr. (1992). Conceptual Developments in Schema Theory. https://eric.ed.gov/?id=ED351392
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The essay reports, citing Sadoski, Paivio, and Goetz (1991), the Bransford and Franks (1971) recognition study with compound sentences containing four propositions, and notes that integration also occurred with nonsense syllables (Alba & Hasher, 1983), constraining the schema-based interpretation. No effect size is printed.
 

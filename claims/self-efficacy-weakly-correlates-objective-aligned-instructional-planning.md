@@ -15,12 +15,14 @@ sources:
     author: "Kaygısız, G.M., Uygun, N., & Uçar, F.M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Pre-service primary teachers' science teaching self-efficacy beliefs correlate weakly but positively with their ability to determine suitable taxonomy, strategy, and method-techniques
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Among 101 pre-service primary school teachers, science teaching self-efficacy belief scores showed a statistically significant but low positive correlation with total TSMTDF scores (r = 0.206, p < 0.05). [→ Kaygısız 2018](#kaygsz-2018)
@@ -31,7 +33,7 @@ sources:
 
 Kaygısız, G.M., Uygun, N., & Uçar, F.M. (2018). The Relationship between the Levels of Self-efficacy Beliefs of Pre-service Teachers and their Levels of Determining Suitable Taxonomy, Strategy, and Method-technique for Science Objectives. Science Education International 31(1), 117-126. https://doi.org/10.33828/sei.v31.i1.12
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Pearson product-moment correlation analysis of STEBI and TSMTDF scores from 101 pre-service teachers in a correlational study enriched with qualitative data. The article reports "r = 0.206; ρ < 0.05", which the authors describe as low according to Cohen (1988).
 

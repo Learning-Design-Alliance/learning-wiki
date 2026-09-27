@@ -19,7 +19,7 @@ grain_size: lesson
 # Merrill's First Principles (Activation)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q3` · 1 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies (2 causal, 1 quant-synthesis), `q3` · 1 of 3 report an effect size
 
 ## Description
 This page is the short-form canonical target for the activation move within Merrill's First Principles: prompting learners to recall or connect relevant prior knowledge before new instruction or application.

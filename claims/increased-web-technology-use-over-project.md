@@ -15,18 +15,22 @@ sources:
     author: "Koszalka, T. A. & Wu, C.-P."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: koszalka-2001-2
     resource: "https://eric.ed.gov/?q=A+cultural+historical+activity+theory+analysis+of+technology+integration"
     title: "Koszalka, T. A. & Wu, C.-P. (2001). A cultural historical activity theory [CHAT] analysis of technology integration: Case study of two teachers. https://eric.ed.gov/?q=A+cultural+historical+activity+theory+analysis+of+technology+integration"
     author: "Koszalka, T. A. & Wu, C.-P."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Both case-study teachers increased web and technology use for lesson preparation, presentation, and classroom exploration over the project
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Both educators used the web more often at project end to search for teaching resources and as a presentation, prompting, or exploration tool in class. [→ Koszalka 2001](#koszalka-2001)
@@ -38,7 +42,7 @@ sources:
 
 Koszalka, T. A. & Wu, C.-P. (2001). A cultural historical activity theory [CHAT] analysis of technology integration: Case study of two teachers. https://eric.ed.gov/?q=A+cultural+historical+activity+theory+analysis+of+technology+integration
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Case study observations (Theme 2) tracking technology practices over time via time-series profiles. Despite unequal classroom technology, both teachers increased web use for preparation and in-class presentation and exploration; no effect sizes reported.
 
@@ -48,7 +52,7 @@ Case study observations (Theme 2) tracking technology practices over time via ti
 
 Koszalka, T. A. & Wu, C.-P. (2001). A cultural historical activity theory [CHAT] analysis of technology integration: Case study of two teachers. https://eric.ed.gov/?q=A+cultural+historical+activity+theory+analysis+of+technology+integration
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Case study observations (Theme 3) on resource use: both educators incorporated more illustrative picture resources, used NASA lesson plans and vocabulary in preparation, and shared web resources with peers and students across the district.
 

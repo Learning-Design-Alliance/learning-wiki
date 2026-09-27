@@ -15,12 +15,14 @@ sources:
     author: "Kashef, L., Ghafoori, N., Valizadeh Oghani, A., & Mehrpouyan, A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Learners' age (young under 22 vs. adult over 22) has no significant effect on IELTS writing accuracy under either DA treatment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The main effect of age group on post-test writing accuracy was not significant (p=0.056); equivalence was not tested. [→ Kashef 2024](#kashef-2024)
@@ -31,7 +33,7 @@ sources:
 
 Kashef, L., Ghafoori, N., Valizadeh Oghani, A., & Mehrpouyan, A. (2024). The effect of interactionist vs. interventionist dynamic assessment on writing accuracy of young vs. adult IELTS candidates. International Journal of Language Testing, 14(1), 1–16. https://eric.ed.gov/?id=EJ1419474
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Two-way ANOVA on post-test writing accuracy of 140 candidates (adult n=76, young n=64) found the age main effect non-significant at p=0.056, a p-value only — no effect size printed.
 

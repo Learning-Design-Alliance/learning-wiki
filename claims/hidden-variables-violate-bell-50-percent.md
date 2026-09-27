@@ -15,12 +15,14 @@ sources:
     author: Vongehr, S.
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Hidden variables that skip preparing certain pair classes violate the Bell and CHSH inequality in half of all runs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Simply not preparing i = 2 or i = 5 pairs makes hidden variables violate the Bell (and CHSH) inequality in half of all runs on average, showing that 'often' violation is uninteresting. [→ Vongehr 2012](#vongehr-2012)
@@ -31,7 +33,7 @@ sources:
 
 Vongehr, S. (2012). Quantum Randi Challenge. arXiv:1207.5294. [doi:10.48550/arXiv.1207.5294](https://doi.org/10.48550/arXiv.1207.5294)
 
-`q2 · i?`
+`q2 · i?` · `design · r1`
 
 Numerical result shown in Supplemental Material Fig. 4: hidden variables that set N2 and N5 to zero reach the equality in Eq.(3) on average, and random fluctuations violate the Bell and CHSH inequality "in half of all runs on average". The article presents this as a baseline making 50%-violation models uninteresting.
 

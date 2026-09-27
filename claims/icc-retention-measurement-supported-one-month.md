@@ -15,12 +15,14 @@ sources:
     author: Weiss, David J.
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # The same achievement variable is measurable up to one month after instruction, supporting ICC-based retention measurement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` A regression comparison of students' achievement level estimates indicated no differences in the achievement metric up to one month after completion of instruction, supporting the test-posttest paradigm for measuring retention. [→ Weiss 1980](#weiss-1980)
@@ -31,7 +33,7 @@ sources:
 
 Weiss, David J. (1980). Final Report: Computerized Adaptive Performance Evaluation. https://eric.ed.gov/?id=ED187760
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 Test-posttest retention analysis (Research Report 79-4) in the same biology-course data. The report states the data "did, howevers support the test-posttest paradigm to measure retention" with no differences in the achievement metric up to one month after instruction.
 

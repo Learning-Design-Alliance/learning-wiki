@@ -16,7 +16,7 @@ sources:
 # Neurolinguistic account of adults' superior language learning capabilities
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The digest presents a neurolinguistic account, citing Walsh and Diller (1978), that replaces the 1960s critical-period hypothesis. It states that "in important respects adults have superior language learning capabilities" because neural cells responsible for higher-order linguistic processes such as understanding semantic relations and grammatical sensitivity develop with age. Adults are described as better learners especially in vocabulary and language structure, relying on long-term memory rather than the short-term memory children use for rote learning.

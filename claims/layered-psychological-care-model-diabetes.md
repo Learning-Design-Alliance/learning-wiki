@@ -15,12 +15,14 @@ sources:
     author: Winterdijk Per, Aanstoot Henk‐Jan, Fransman Christine, Mocan Andreia, Nefs Giesje
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Integration of psychological care appears most effective when it operates on multiple levels: routine distress assessment, frontline psycho-education and access to specialist interventions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across chronic care fields, integration of psychological care is most effective when layered across routine assessment, frontline psycho-education and specialist access. [→ Winterdijk Per 2026](#winterdijk-per-2026)
@@ -31,7 +33,7 @@ sources:
 
 Winterdijk Per, Aanstoot Henk‐Jan, Fransman Christine, Mocan Andreia, Nefs Giesje. (2026). Embedding psychological care in diabetes services: Why it's time to innovate and integrate. Diabetic Medicine. https://doi.org/10.1111/dme.70411
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review synthesizing evidence from oncology and cardiology on embedded psychological care; the authors conclude integration "appears most effective when it operates on multiple levels". This is the review's own synthesis, not a pooled quantitative estimate.
 

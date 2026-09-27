@@ -12,7 +12,7 @@ generated:
 # Model Positive Connections to Literacy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q3` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies (4 review), `q2`–`q3` · 0 of 4 report an effect size
 
 ## Description
 Teachers deliberately share their own identities as readers and writers — favorite books, personal writing, reading habits, and honest accounts of struggle and enjoyment — to build a classroom culture in which literacy is socially valued. This can involve sharing favorite books aloud, displaying the teacher's own reading list, writing alongside students, and inviting students to contribute their own favorites to a shared classroom collection. Developers can incorporate ways for teachers to share what they read or write with students in both physical and virtual classrooms.

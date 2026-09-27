@@ -15,12 +15,14 @@ sources:
     author: Șchiopu, L.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # Metacognitive and reflective instruction through culture exploration was followed by considerable development of English communication competencies and a positive emotional group culture
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r1` · `q2`
 
 ## Subclaims
 `q2 i?` After a semester of metacognitive and reflective instruction, the author observed development of writing, reading, listening and speaking competencies and a democratic teacher-student relationship. [→ Șchiopu 2018](#schiopu-2018)
@@ -31,7 +33,7 @@ sources:
 
 Șchiopu, L. (2018). Integrating metacognition and critical thinking skills in the exploration of culture in EFL classroom. Journal of Pedagogical Research, 2(3), 181-191. https://eric.ed.gov/?id=EJ1301134
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r1`
 
 Results section of the qualitative study: after training "for the upper level thinking through metacognitive and reflective instruction", the author reports "a considerable development of English communication competencies" across all four skills, plus increased self-esteem and confidence. No test statistics are printed.
 

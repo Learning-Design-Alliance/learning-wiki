@@ -15,12 +15,14 @@ sources:
     author: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T."
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Under the mean-recall approximation, the optimal Leitner Queue Network schedule increases the expected delay between reviews as an item moves up through the decks.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Under the optimal schedule, expected delay between subsequent reviews increases as an item moves to higher decks (Fig. 8). [→ Reddy 2016](#reddy-2016)
@@ -31,7 +33,7 @@ sources:
 
 Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for Spaced Repetition. KDD ’16, San Francisco, CA, USA. https://doi.org/10.1145/2939672.2939850
 
-`q1 · i?`
+`q1 · i?` · `causal · r2`
 
 Optimization result under the mean-recall approximation (Fig. 8, n = 20, U = 1, θ = 0.01). The network "increases the ex- pected delay between subsequent reviews as an item moves up through the system".
 

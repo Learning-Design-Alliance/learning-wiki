@@ -15,12 +15,14 @@ sources:
     author: Bunderson, C. Victor; Campbell, J. Olin; Farr, Beatrice J.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The interactive videodisc combines the capabilities of books, movies, and computer-assisted instruction in one delivery medium
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The interactive videodisc combines, in one delivery medium, the capabilities of the three most powerful educational delivery systems developed to that time: books, movies, and CAI, and the combination is described as solving the weaknesses of each taken alone. [→ Bunderson 1980](#bunderson-1980)
@@ -31,7 +33,7 @@ sources:
 
 Bunderson, C. Victor; Campbell, J. Olin; Farr, Beatrice J. (1980). Instructional Systems Development Model for Interactive Videodisc Training Delivery Systems. Volume I: Hardware, Software and Procedures. Army Research Institute Technical Report 511. https://eric.ed.gov/?id=ED220071
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive analysis in the VTD Concepts section, citing Heuston (1977), argues the videodisc "combines, in one delivery medium" the capabilities of books, movies, and CAI. The report states this combination "solves all of the weaknesses of any of them taken alone." No empirical test is reported.
 

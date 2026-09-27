@@ -12,7 +12,7 @@ generated:
 # Question Formulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies, `q2`–`q3` · 0 of 6 report an effect size
+> **Evidence** · 3 claims (3 for) · 6 studies (3 review, 1 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q3` · 0 of 6 report an effect size
 
 ## Description
 Question Formulation asks learners to generate, refine, and prioritize their own questions about a topic before or during inquiry, rather than responding only to instructor-posed questions. The questions learners produce become the driving agenda for research, discussion, or investigation, positioning them as owners of the inquiry process.

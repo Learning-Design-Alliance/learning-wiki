@@ -15,12 +15,14 @@ sources:
     author: Boulton, A.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # CALL is at least as effective as traditional teaching: the synthesis meets the minimal d=0 (or Hattie's d=.4) expectation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The pooled CALL effect meets the minimal expectation that CALL is at least as good as traditional teaching (d=0, or d=.4 by Hattie's benchmark), though this does not establish superiority. [→ Boulton 2016](#boulton-2016)
@@ -31,7 +33,7 @@ sources:
 
 Boulton, A. (2016). Quantifying CALL: significance, effect size and variation. In S. Papadima-Sophocleous, L. Bradley & S. Thouësny (Eds), CALL communities and culture – short papers from EUROCALL 2016 (pp. 55-60). Research-publishing.net. https://doi.org/10.14705/rpnet.2016.eurocall2016.538
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Interpretation of the second-order synthesis: the author states the minimal hope is that "CALL is at least as good as traditional teaching", and that this is "the case here". No superiority claim is made.
 

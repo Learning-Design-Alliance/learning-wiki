@@ -15,12 +15,14 @@ sources:
     q: 2
     i: 1
     n: 10 educators (5 teachers, 3 counselors, 1 principal, 1 librarian) across 6 schools in one district; 14 co-design meetings, 58 total hours, over roughly 8 months
+    kind: qualitative
+    rigour: 3
 ---
 
 # Attending to affect in co-design supports community formation and cross-scale transfer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small · n=10 educators (5 teachers, 3 counselors, 1 principal, 1 librarian) across 6 schools in one district; 14 co-design meetings, 58 total hours, over roughly 8 months
+> **Evidence** · 1 study · qualitative `r3` · `q2` · `i1` small · n=10 educators (5 teachers, 3 counselors, 1 principal, 1 librarian) across 6 schools in one district; 14 co-design meetings, 58 total hours, over roughly 8 months
 
 When a co-design process deliberately affirms educators' affective and relational experience — through ritualized check-ins, shared contemplative practice, and reflective field-note protocols — educators report a stronger sense of community, apply what they learn across personal, classroom, and systems-level scales, and the design object itself expands from an individual course toward a collective vision for systems change.
 
@@ -37,7 +39,7 @@ When a co-design process deliberately affirms educators' affective and relationa
 
 Potvin, A. S., Teeters, L. P., Penuel, W. R., & Dimidjian, S. (2024). Humanizing Co-design through attention to educators' affective and relational experiences. *Journal of the Learning Sciences, 33*(1), 41-79. [https://doi.org/10.1080/10508406.2024.2318557](https://doi.org/10.1080/10508406.2024.2318557)
 
-`q2 · qualitative case study with systematic inductive/deductive coding (90% inter-rater reliability), single district, no comparison group` · `i1-i2 · clear, well-documented qualitative pattern across multiple data sources, no quantified effect size` · `n=10 educators (5 teachers, 3 counselors, 1 principal, 1 librarian) across 6 schools in one district; 14 co-design meetings, 58 total hours, over roughly 8 months`
+`q2 · qualitative case study with systematic inductive/deductive coding (90% inter-rater reliability), single district, no comparison group` · `i1-i2 · clear, well-documented qualitative pattern across multiple data sources, no quantified effect size` · `n=10 educators (5 teachers, 3 counselors, 1 principal, 1 librarian) across 6 schools in one district; 14 co-design meetings, 58 total hours, over roughly 8 months` · `qualitative · r3`
 
 Ten educators and a research team completed an 8-week shared contemplative training together before beginning 14 co-design meetings (October 2019-May 2020, transitioning to virtual meetings after March 2020) to design a compassion-and-dignity curriculum for educators, following the [Humanizing Co-Design pattern](../processes/humanizing-co-design-with-educators.md). Coded meeting transcripts, field notes, artifacts, and post-training interviews showed a roughly even mix of positive and negative named emotions, and educators explicitly credited discussing difficult emotions (isolation, self-criticism, burnout) with building a stronger sense of community and helping them apply concepts beyond the meetings themselves — in their classrooms, with colleagues, and at home. Facilitators' responsive adaptation (e.g., canceling a scheduled meeting for an unstructured check-in when COVID-19 disrupted the district) is documented as one instance of this affect-attentive facilitation in practice.
 

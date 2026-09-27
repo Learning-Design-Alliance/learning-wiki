@@ -12,7 +12,7 @@ generated:
 # Peer Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies, `q4` · 2 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 quant-synthesis), `q4` · 2 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Peer feedback is the element in which learners respond to one another's work with comments intended to improve revision or performance.

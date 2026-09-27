@@ -15,12 +15,14 @@ sources:
     author: Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Students accurately perceive differences between clear and unclear lessons regardless of concept structure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` On both clarity questionnaires, students discriminated clear from unclear lessons for all three concept structures. [→ Snyder 1991](#snyder-1991)
@@ -31,7 +33,7 @@ sources:
 
 Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill. (1991). The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception. https://eric.ed.gov/?id=ED331809
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 ANOVA on the 20-item Clarity of Teaching questionnaire (Cronbach alpha .96) in the Results section. The article reports students perceived clear and unclear groups as significantly different for all three concept structures; the Lesson Evaluation Form-Clarity showed the same pattern.
 

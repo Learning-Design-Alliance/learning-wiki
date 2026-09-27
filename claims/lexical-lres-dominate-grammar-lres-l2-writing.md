@@ -15,12 +15,14 @@ sources:
     author: Monika Geist
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Lexical LREs dominate grammar-related LREs in young learners' L2 writing noticing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Of the LREs identified in think-aloud protocols during an L2 writing task, the majority were lexical and only a minority were grammar-related. [→ Monika Geist 2017](#monika-geist-2017)
@@ -31,7 +33,7 @@ sources:
 
 Monika Geist. (2017). Noticing grammar in L2 writing and problem-solving strategies. Studies in Second Language Learning and Teaching, 7(3), 471-487. https://doi.org/10.14746/ssllt.2017.7.3.6
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Qualitative think-aloud study of ten German teenage learners composing an English paragraph; coding of language related episodes found "the majority (119) were related to lexis whereas only 36 were related to grammar."
 

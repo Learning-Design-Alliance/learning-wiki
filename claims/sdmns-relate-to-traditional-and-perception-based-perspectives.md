@@ -15,12 +15,14 @@ sources:
     author: "Toscano, R., Sánchez, V., & García, M."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # The inferred norms show features of a traditional teacher perspective, while SDMN 4 shows features of a perception-based perspective
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Norms about transmitting, validating, following sequence and devaluing communication relate to characteristics of a traditional perspective; SDMN 4 relates to a perception-based perspective. [→ Toscano 2019](#toscano-2019)
@@ -31,7 +33,7 @@ sources:
 
 Toscano, R., Sánchez, V., & García, M. (2019). Combining Theoretical Approaches: Socio-Didactic-Mathematical Norms and Perspectives in Pre-service Secondary Mathematics Teachers' Discourse. International Electronic Journal of Mathematics Education, 14(3), 455-466. https://doi.org/10.29333/iejme/5748
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r3`
 
 Authors' interpretation in the findings: the norms on transmission, validation, sequencing and communication relate to traditional-perspective characteristics, while the situation-dependent correctness norm (SDMN 4) suggests perception-based features tied to linking representation modes.
 

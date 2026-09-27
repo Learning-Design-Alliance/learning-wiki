@@ -15,6 +15,8 @@ sources:
     q: 4
     i: 2
     n: 57 experiments (336 tests)
+    kind: quant-synthesis
+    rigour: "?"
   - id: gentner-et-al-2003
     resource: "https://doi.org/10.1037/0022-0663.95.2.393"
     title: "Gentner, D., Loewenstein, J., & Thompson, L. (2003). Learning and transfer: A general role for analogical encoding. *Journal of Educational Psychology, 95*(2), 393–408. [doi:10.1037/0022-0663.95.2.393](https://doi.org/10.1037/0022-0663.95.2.393)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: "?"
     n: 334 undergraduates across 3 experiments (48, 128, 158)
+    kind: causal
+    rigour: 3
 ---
 
 # Analogical Reasoning Improves Transfer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3`–`q4` · `i2` medium
+> **Evidence** · 2 studies · 1 causal `r3`, 1 quant-synthesis `r?` · `q3`–`q4` · `i2` medium
 
 Learners who map the structure of a known case onto a new problem transfer their knowledge more readily than learners who study each case in isolation. The claim concerns structural (relational) mapping between a source and target situation, not mere surface resemblance.
 
@@ -43,7 +47,7 @@ Learners who map the structure of a known case onto a new problem transfer their
 
 Alfieri, L., Nokes-Malach, T. J., & Schunn, C. D. (2013). Learning through case comparisons: A meta-analytic review. *Educational Psychologist, 48*(2), 87–113. [doi:10.1080/00461520.2013.775712](https://doi.org/10.1080/00461520.2013.775712)
 
-`q4 · meta-analysis` · `i2 · medium effect, d=.50, 95% CI [.44, .56]` · `n=57 experiments (336 tests)`
+`q4 · meta-analysis` · `i2 · medium effect, d=.50, 95% CI [.44, .56]` · `n=57 experiments (336 tests)` · `quant-synthesis · r?`
 
 A random-effects meta-analysis of 57 laboratory and classroom experiments (336 tests) comparing case-comparison activities against other forms of case study (sequential, single-case, non-analogous), traditional instruction and controls. Comparing cases led to greater learning overall. Of 15 moderators tested, four reliably changed the benefit: asking learners to find similarities between cases, presenting the principle after the comparison, using perceptual content, and testing immediately were each associated with larger gains. Read from the abstract only, so the moderator effect sizes are not recorded here.
 
@@ -51,7 +55,7 @@ A random-effects meta-analysis of 57 laboratory and classroom experiments (336 t
 
 Gentner, D., Loewenstein, J., & Thompson, L. (2003). Learning and transfer: A general role for analogical encoding. *Journal of Educational Psychology, 95*(2), 393–408. [doi:10.1037/0022-0663.95.2.393](https://doi.org/10.1037/0022-0663.95.2.393)
 
-`q3 · peer-reviewed randomised experiments (3 studies)` · `i? · no standardised effect size reported (48% vs 19% transfer, χ²(1, N=128)=11.85)` · `n=334 undergraduates across 3 experiments (48, 128, 158)`
+`q3 · peer-reviewed randomised experiments (3 studies)` · `i? · no standardised effect size reported (48% vs 19% transfer, χ²(1, N=128)=11.85)` · `n=334 undergraduates across 3 experiments (48, 128, 158)` · `causal · r3`
 
 Three experiments taught novice undergraduates negotiation strategies (trade-offs or contingent contracts) through two example cases, then tested whether they used the principle in a new negotiation. In Experiment 2, 128 students were randomly assigned to compare the two cases on one page or to analyse each separately; 48% of comparers transferred the principle against 19% of the separate-case group, and the advantage held for both principles. Experiment 1 showed a benefit of guided analogical training over no case study, and Experiment 3 (158 students, a face-to-face negotiation) showed that more comparison support raised the rate of transfer. The design isolates structural comparison itself, since both groups saw the same cases.
 

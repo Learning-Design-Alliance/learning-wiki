@@ -16,7 +16,7 @@ sources:
 # Integrated conceptual framework distinguishing humanlikeness as design property from anthropomorphism as attribution process
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article defines humanlikeness as "the degree to which an agent includes designed elements intended to mimic human characteristics, traits, features, processes, systems, and/or behaviors" and anthropomorphism as the psychological process of attributing human properties to non-human agents. It argues the constructs are analytically distinct but dynamically coupled: design cues prompt attributions, and robot behavior iteratively reinforces, revises, or constrains them over time. The framework is offered as a shared terminological resource for interdisciplinary HRI work.

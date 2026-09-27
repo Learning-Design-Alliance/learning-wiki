@@ -15,18 +15,22 @@ sources:
     author: Bassler, O. C.; Beers, M. I.; Richardson, L. I.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: bassler-1972-2
     resource: "https://eric.ed.gov/?id=ED075260"
     title: "Bassler, O. C.; Beers, M. I.; Richardson, L. I. (1972). Comparison of Two Instructional Strategies for Teaching the Solution to Verbal Problems. Final Report. George Peabody College for Teachers. https://eric.ed.gov/?id=ED075260"
     author: Bassler, O. C.; Beers, M. I.; Richardson, L. I.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Algebra ability level differences appear on both criteria with no treatment-by-ability interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` High ability students scored better than intermediate, who scored better than low ability students, on both criteria. [→ Bassler 1972](#bassler-1972)
@@ -38,7 +42,7 @@ sources:
 
 Bassler, O. C.; Beers, M. I.; Richardson, L. I. (1972). Comparison of Two Instructional Strategies for Teaching the Solution to Verbal Problems. Final Report. George Peabody College for Teachers. https://eric.ed.gov/?id=ED075260
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Ability was a significant factor on both criteria (equation criterion F = 21.97; solution criterion F = 9.03, both p < .05), based on Algebra Prognosis Test groupings: "high ability subjects scored better than did intermediate ability subjects who, in turn, scored better than low ability subjects."
 
@@ -48,7 +52,7 @@ Ability was a significant factor on both criteria (equation criterion F = 21.97;
 
 Bassler, O. C.; Beers, M. I.; Richardson, L. I. (1972). Comparison of Two Instructional Strategies for Teaching the Solution to Verbal Problems. Final Report. George Peabody College for Teachers. https://eric.ed.gov/?id=ED075260
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 As hypothesized, the treatment-by-ability interaction was non-significant on both criteria (equation F = 1.14; solution F = 0.04); the summary states "There were no interactions between any combination of treatment, ability level ami test occasion."
 

@@ -15,12 +15,14 @@ sources:
     author: "Sadaf, A., Kim, S. Y., & Olesova, L."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Self-regulation and co-regulation are significantly and highly correlated in an online case-based course
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The correlation between the two metacognition dimensions was significantly high (r = .561), implying students with high self-regulation tend to have high co-regulation and vice-versa. [→ Sadaf 2022](#sadaf-2022)
@@ -31,7 +33,7 @@ sources:
 
 Sadaf, A., Kim, S. Y., & Olesova, L. (2022). Relationship between metacognition and online Community of Inquiry in an online case-based course. Online Learning, 26(4), 79-93. https://doi.org/10.24059/olj.v26i4.3474
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Spearman correlation analysis of survey data from 47 graduate students in the online CBI course, reported under RQ2. The correlation of .561 between self-regulation and co-regulation was statistically significant; no effect size beyond the correlation is printed.
 

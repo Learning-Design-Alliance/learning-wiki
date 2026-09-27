@@ -15,12 +15,14 @@ sources:
     author: "Arthur, L., & Hurd, S. (Eds.)"
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Integrative motivation sustains long-term language-learning motivation better than instrumental motivation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` An integrative outlook, reflecting personal interest in the people and culture, appears to sustain long-term motivation better than an instrumental outlook. [→ Arthur 1992](#arthur-1992)
@@ -31,7 +33,7 @@ sources:
 
 Arthur, L., & Hurd, S. (Eds.). (1992). The Adult Language Learner: A Guide to Good Teaching Practice. Centre for Information on Language Teaching and Research. https://eric.ed.gov/?id=ED352829
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The guide reports, citing Gardner and Lambert, a study dividing motivation into an "'instrumental' outlook" reflecting practical value and an "'integrative' outlook" reflecting personal interest in people and culture, and states the integrative attitude better sustains long-term motivation.
 

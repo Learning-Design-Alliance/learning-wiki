@@ -15,18 +15,22 @@ sources:
     author: "Ozkan, U. B., Cigdem, H., & Erdogan, T."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: ozkan-2020-2
     resource: "https://dergipark.org.tr/en/pub/tojde"
     title: "Ozkan, U. B., Cigdem, H., & Erdogan, T. (2020). Artificial neural network approach to predict LMS acceptance of vocational school students. Turkish Online Journal of Distance Education-TOJDE, 21(3), Article 11. https://dergipark.org.tr/en/pub/tojde"
     author: "Ozkan, U. B., Cigdem, H., & Erdogan, T."
     q: 2
     i: 0
+    kind: associational
+    rigour: 1
 ---
 
 # Academic GPA, associate degree program and high school type have negligible influence on vocational students' LMS acceptance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i?` In the ANN importance ratings, GPA (2.9%), associate degree program (1.6%) and high school type (1.3%) had the least effect on LMS acceptance. [→ Ozkan 2020](#ozkan-2020)
@@ -38,7 +42,7 @@ sources:
 
 Ozkan, U. B., Cigdem, H., & Erdogan, T. (2020). Artificial neural network approach to predict LMS acceptance of vocational school students. Turkish Online Journal of Distance Education-TOJDE, 21(3), Article 11. https://dergipark.org.tr/en/pub/tojde
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 ANN importance ratings from the study of 387 Turkish vocational school students show the demographic variables ranked lowest. The authors attribute this to "students' free and equal access to both the internet and the LMS at school".
 
@@ -48,7 +52,7 @@ ANN importance ratings from the study of 387 Turkish vocational school students 
 
 Ozkan, U. B., Cigdem, H., & Erdogan, T. (2020). Artificial neural network approach to predict LMS acceptance of vocational school students. Turkish Online Journal of Distance Education-TOJDE, 21(3), Article 11. https://dergipark.org.tr/en/pub/tojde
 
-`q2 · i0`
+`q2 · i0` · `associational · r1`
 
 Cross-correlation analysis between LMS acceptance and student academic achievement across three GPA score intervals found very low correlations; the article reports "the highest correlation value is .195" (r = .195, a small effect).
 

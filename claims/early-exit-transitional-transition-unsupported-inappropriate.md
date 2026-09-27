@@ -15,12 +15,14 @@ sources:
     author: Cummins, J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Early-exit transitional bilingual programs that provide minimal early-grade English literacy and then transition students to all-English classrooms with no support are inappropriate
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Minimal English literacy instruction in the early grades followed by grade-3 transition into an all-English classroom with no language support is inappropriate; students require strong literacy programs in both languages. [→ Cummins 1999](#cummins-1999)
@@ -31,7 +33,7 @@ sources:
 
 Cummins, J. (1999). BICS and CALP: Clarifying the Distinction. ERIC Document ED 438 551. https://eric.ed.gov/?id=ED438551
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 This is the author's program-design argument in an opinion paper: in early-exit transitional bilingual education, students require a strong English literacy development program in the early grades just as they require a strong Spanish language literacy program. No comparative data are printed for this specific design.
 

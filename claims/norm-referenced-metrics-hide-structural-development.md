@@ -15,12 +15,14 @@ sources:
     author: Hunt, J. McVicker
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Norm-referenced mental-age and IQ metrics distract investigators from the structural and hierarchical aspects of developing abilities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Mental age and IQ scores, treated as fixed quantities, hide the organizational structure and hierarchical nature of developing abilities and are interpreted inappropriately in educational practice. [→ Hunt 1973](#hunt-1973)
@@ -31,7 +33,7 @@ sources:
 
 Hunt, J. McVicker. (1973). Utility of Ordinal Scales Derived from Piaget's Observations. https://eric.ed.gov/?id=ED082854
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the paper's opening: substitutive averaging into mental age and Stern's IQ ratio served as metrics that hid structural detail. Hunt argues these metrics "tended to hide the hierarchical nature of developingabilities"; no empirical test is offered.
 

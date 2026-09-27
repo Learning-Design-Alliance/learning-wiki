@@ -15,12 +15,14 @@ sources:
     author: "Kartal, O. Y., Yazgan, A. D., & Avci, E."
     q: 1
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The study's correlational, cross-sectional design limits internal validity and causal interpretation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The authors state that the correlational and cross-sectional design carries internal validity threats and recommend qualitative and longitudinal follow-up. [→ Kartal 2018](#kartal-2018)
@@ -31,7 +33,7 @@ sources:
 
 Kartal, O. Y., Yazgan, A. D., & Avci, E. (2018). An Investigation into the Relationship between Adults' Levels of Education-Related Epistemic Freedom and Epistemic Violence. International Education Studies, 11(10). https://doi.org/10.5539/ies.v11n10p96
 
-`q1 · i?`
+`q1 · i?` · `associational · r1`
 
 The authors' own limitations section for this correlational, cross-sectional study of 129 adults. They state "Correlational research has some internal validity threats" and recommend qualitative research such as case study and longitudinal research for further work, plus investigation of parameters causing epistemic freedom and violence.
 

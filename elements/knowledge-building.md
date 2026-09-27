@@ -12,7 +12,7 @@ generated:
 # Knowledge-Building
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 5 studies, `q1`–`q2` · 0 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 5 studies (3 qualitative, 1 associational, 1 theoretical), `q1`–`q2` · 0 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Knowledge-building is the element in which learners collectively construct, refine, and extend ideas rather than only consume or repeat them. It is useful when the goal is shared understanding that improves through contribution and revision.

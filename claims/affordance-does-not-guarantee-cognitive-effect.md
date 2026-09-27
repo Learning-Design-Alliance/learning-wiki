@@ -15,12 +15,14 @@ sources:
     author: Salomon, Gavriel; Gardner, Howard
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # A medium feature's affordance does not guarantee its actual cognitive effects: LOGO instruction designed to enhance conditional reasoning may not do so
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` There is no necessary one-to-one correspondence between what a feature or activity affords and the way it is actually processed or carried out. [→ Salomon 1983](#salomon-1983)
@@ -31,7 +33,7 @@ sources:
 
 Salomon, Gavriel; Gardner, Howard. (1983). The Computer as Educator: Lessons from Television Research. Harvard Project Zero. https://eric.ed.gov/?id=ED253201
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 The authors' theoretical argument, citing Seidman (1983), that assuming unique features have unique cognitive effects is naive. The paper reports no data of its own here; the point is an analytic critique of feature-effect assumptions.
 

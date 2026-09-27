@@ -15,12 +15,14 @@ sources:
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Initial multiple-choice tests with plausible, competitive alternatives outperformed initial short-answer tests on final questions that were related to but not directly tested initially
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Little et al. (2012), that initial multiple-choice conditions with competitive alternatives outperformed initial short-answer conditions on related, untested final questions. [→ Karpicke 2017](#karpicke-2017)
@@ -31,7 +33,7 @@ sources:
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports Little et al. (2012), who built multiple-choice questions with plausible incorrect alternatives: "initial multiple-choice conditions outperformed initial short-answer conditions on ﬁnal tests that included questions that were related but not directly tested".
 

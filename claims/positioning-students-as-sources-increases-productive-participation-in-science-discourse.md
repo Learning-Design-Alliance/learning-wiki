@@ -15,12 +15,14 @@ sources:
     q: 2
     i: 2
     n: 38 lower-secondary students and one teacher, 330 minutes of transcribed whole-class video across 11 lessons
+    kind: qualitative
+    rigour: 3
 ---
 
 # Positioning students as sources increases productive participation in science discourse
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium · n=38 lower-secondary students and one teacher, 330 minutes of transcribed whole-class video across 11 lessons
+> **Evidence** · 1 study · qualitative `r3` · `q2` · `i2` medium · n=38 lower-secondary students and one teacher, 330 minutes of transcribed whole-class video across 11 lessons
 
 When a teacher positions students who invoke everyday experiences as accountable "sources" of information — rather than as "listeners" seeking validation — students produce more arguments and counter-arguments and a wider range of students engage, compared to sequences where the teacher retains sole authority over the correct answer.
 
@@ -35,7 +37,7 @@ When a teacher positions students who invoke everyday experiences as accountable
 
 Furberg, A., & Silseth, K. (2022). Invoking student resources in whole-class conversations in science education: A sociocultural perspective. *Journal of the Learning Sciences, 31*(2), 278-316. [https://doi.org/10.1080/10508406.2021.1954521](https://doi.org/10.1080/10508406.2021.1954521)
 
-`q2 · naturalistic classroom discourse microanalysis (systematic sequence coding across 271 conversation sequences, with 3 sequences analyzed in fine-grained detail; interrater coding disagreement <3%); no experimental manipulation` · `i2 · a clear, well-documented qualitative and co-occurrence pattern contrasting three discourse sequences, not a controlled comparison` · `n=38 lower-secondary students and one teacher, 330 minutes of transcribed whole-class video across 11 lessons`
+`q2 · naturalistic classroom discourse microanalysis (systematic sequence coding across 271 conversation sequences, with 3 sequences analyzed in fine-grained detail; interrater coding disagreement <3%); no experimental manipulation` · `i2 · a clear, well-documented qualitative and co-occurrence pattern contrasting three discourse sequences, not a controlled comparison` · `n=38 lower-secondary students and one teacher, 330 minutes of transcribed whole-class video across 11 lessons` · `qualitative · r3`
 
 A Norwegian lower-secondary science class was video-recorded across an 11-lesson genetics unit. The authors identified 77 instances of students spontaneously invoking everyday experiences (e.g., a fictional superhero, a soccer player's hair) and analyzed three sequences in fine-grained discourse detail. Two sequences in which the teacher retained a "source" (answer-providing) role produced students positioned as "listeners" posing validation-seeking questions; a third sequence in which the teacher explicitly positioned students as "sources" — inviting elaboration, withholding the correct answer, and prompting peer response — produced substantially more student argumentation. See [Dialogic Facilitation of Student Resources](../strategies/dialogic-facilitation-of-student-resources.md) for the strategy this pattern motivates.
 

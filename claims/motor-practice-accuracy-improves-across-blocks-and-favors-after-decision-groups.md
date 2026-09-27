@@ -15,18 +15,22 @@ sources:
     author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M."
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
   - id: carter-2014-2
     resource: "https://doi.org/10.3389/fpsyg.2014.01325"
     title: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325"
     author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M."
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # During motor practice with knowledge of results, all groups reduced absolute error across blocks, and groups whose KR decision fell after the trial were more accurate during practice than groups whose decision fell before it, independent of choice.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` All groups reduced AE across the six practice blocks (F(5,210) = 39.20, p < 0.001, ηp2 = 0.48). [→ Carter 2014](#carter-2014)
@@ -38,7 +42,7 @@ sources:
 
 Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 Laboratory experiment in which university volunteers learned a slider-positioning task under six knowledge-of-results (KR) conditions; practice AE was analysed in a 2 × 3 × 6 mixed-model ANOVA. "All groups showed a reduction in AE across practice blocks", F(5,210) = 39.20, p < 0.001, ηp2 = 0.48.
 
@@ -48,7 +52,7 @@ Laboratory experiment in which university volunteers learned a slider-positionin
 
 Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 Same practice ANOVA: "only the After groups were significantly more accurate during practice than the Before groups", F(2,42) = 4.50, p = 0.017, ηp2 = 0.18; all other comparisons were not significant.
 

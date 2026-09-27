@@ -15,12 +15,14 @@ sources:
     author: Liang, Zhang, Jiang, Li, Shang, Ji and Chen
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Training transfer among neurosurgical specialty nurses is an adaptive reconstruction process, not linear replication of training content
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Trainees selectively transform and locally adapt training content according to available resources and clinical needs rather than reproducing standardized training content. [→ Liang 2026](#liang-2026)
@@ -31,7 +33,7 @@ sources:
 
 Liang, Zhang, Jiang, Li, Shang, Ji and Chen. (2026). Exploring training transfer in neurosurgical specialty nurse education: a qualitative descriptive study. Frontiers in Neurology. https://doi.org/10.3389/fneur.2026.1915268
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Authors' interpretation in the Discussion of interview findings; trainees reported adjusting taught content to departmental realities, such as optimizing temperature management procedures and adjusting the focus of cerebral edema observation.
 

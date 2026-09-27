@@ -15,18 +15,22 @@ sources:
     author: "Hadi Yasser H., Bani‐Ahmad Mo'men, Moore Niamh, Clark Kevin R., Al‐Hayek Yazan, Albeshan Salman M., Alghamdi Sultan B., Precht Helle, England Andrew, McEntee Mark"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: hadi-yasser-h-2026-2
     resource: "https://doi.org/10.1002/jmrs.70119"
     title: "Hadi Yasser H., Bani‐Ahmad Mo'men, Moore Niamh, Clark Kevin R., Al‐Hayek Yazan, Albeshan Salman M., Alghamdi Sultan B., Precht Helle, England Andrew, McEntee Mark. (2026). Patient Centring in CT: An International Survey of Clinical Practice and Future Directions. Journal of Medical Radiation Sciences. https://doi.org/10.1002/jmrs.70119"
     author: "Hadi Yasser H., Bani‐Ahmad Mo'men, Moore Niamh, Clark Kevin R., Al‐Hayek Yazan, Albeshan Salman M., Alghamdi Sultan B., Precht Helle, England Andrew, McEntee Mark"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Radiographers show substantial uncertainty about how localiser radiograph direction affects radiation dose and ATCM behaviour
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Only 31.0% considered the effect of localiser direction on dose definite, 35.4% thought it probable, and 14.1% were uncertain, indicating incomplete recognition of a modifiable dose factor. [→ Hadi Yasser H. 2026](#hadi-yasser-h-2026)
@@ -38,7 +42,7 @@ sources:
 
 Hadi Yasser H., Bani‐Ahmad Mo'men, Moore Niamh, Clark Kevin R., Al‐Hayek Yazan, Albeshan Salman M., Alghamdi Sultan B., Precht Helle, England Andrew, McEntee Mark. (2026). Patient Centring in CT: An International Survey of Clinical Practice and Future Directions. Journal of Medical Radiation Sciences. https://doi.org/10.1002/jmrs.70119
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Survey results section reporting responses on whether X-ray tube direction during scout acquisition affects dose; most acknowledged a potential effect, though uncertainty remained, with 14.1% uncertain and 16.0% believing it probably would not affect dose.
 
@@ -48,7 +52,7 @@ Survey results section reporting responses on whether X-ray tube direction durin
 
 Hadi Yasser H., Bani‐Ahmad Mo'men, Moore Niamh, Clark Kevin R., Al‐Hayek Yazan, Albeshan Salman M., Alghamdi Sultan B., Precht Helle, England Andrew, McEntee Mark. (2026). Patient Centring in CT: An International Survey of Clinical Practice and Future Directions. Journal of Medical Radiation Sciences. https://doi.org/10.1002/jmrs.70119
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Likert-scale item (Figure 2) on whether localiser radiograph direction influences ATCM; the article interprets the dispersed pattern as showing the localiser dependency "was less consistently recognised" than foundational ATCM principles.
 

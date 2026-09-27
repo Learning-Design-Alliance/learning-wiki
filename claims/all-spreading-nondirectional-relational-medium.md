@@ -15,12 +15,14 @@ sources:
     author: "Iran-Nejad, Asghar & Ortony, Andrew"
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The nervous system is hypothesized to include an all-spreading nondirectional relational medium alongside directional connections
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors find most plausible a third possibility: in addition to a directional medium, the neuronal network constitutes an all-spreading nondirectional relational medium allowing nondirectional conductance of electrical or chemical energy. [→ Iran-Nejad 1982](#iran-nejad-1982)
@@ -31,7 +33,7 @@ sources:
 
 Iran-Nejad, Asghar & Ortony, Andrew. (1982). Cognition: A Functional View. Center for the Study of Reading, University of Illinois at Urbana-Champaign. https://eric.ed.gov/?id=ED215308
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical proposal in the section on post-functional mental relations, illustrated by the endocrine system analogy in which hormones enter the blood circulation, an all-spreading environment. The authors cite Weiss's element-impulse specificity hypothesis and tactile-vision substitution evidence as suggestive support.
 

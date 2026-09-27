@@ -16,7 +16,7 @@ sources:
 # Sociocultural theory as the lens through which SLA views learners and learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article treats sociocultural theory — Vygotskian sociocultural theory and ZPD, Lave and Wenger's Community of Practice, and contemporary identity-oriented theorizing — as the dominant lens through which SLA examines learners. In Vygotskian accounts, individuals first participate in social activities and then internalize them, so "learning is a socially constructed, highly situated process that learners engage in by means of culturally specific semiotic tools." Mental functions are mediated by language and other symbolic tools, and learners may interact socially in the intermental domain using idiosyncratic methods of appropriation. The author uses this framework to critique how non-social learners are portrayed.

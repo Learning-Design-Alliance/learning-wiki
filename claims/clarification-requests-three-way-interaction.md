@@ -15,12 +15,14 @@ sources:
     author: Elisabet Pladevall-Ballester, Alexandra Vraciu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Clarification requests show a three-way interaction of proficiency pairing, time and language, declining over time only in matched dyads and in the L1
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A significant three-way interaction (F(1, 72) = 4.225, p = .043) yielded significantly higher clarification requests at Time 1 (M = 4.99) than Time 2 (M = 1.41) in matched dyads and in the L1. [→ Elisabet Pladevall-Ballester 2020](#elisabet-pladevall-ballester-2020)
@@ -31,7 +33,7 @@ sources:
 
 Elisabet Pladevall-Ballester, Alexandra Vraciu. (2020). EFL child peer interaction: Measuring the effect of time, proficiency pairing and language of interaction. Studies in Second Language Learning and Teaching, 10(3), 449-472. http://dx.doi.org/10.14746/ssllt.2020.10.3.3
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Three-way interaction from the generalized linear mixed model on clarification requests in the two-year dyad study; the pairwise time comparison was significant only for matched dyads in the L1.
 

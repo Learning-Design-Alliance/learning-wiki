@@ -16,7 +16,7 @@ sources:
 # Internalization and appropriation: complex mental processes begin as social activities and are gradually internalized and adapted
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article describes internalization as the process by which children gradually internalize adults' directions so that they eventually give themselves directions, with complex mental processes beginning as social activities. It adds that children appropriate the culture's tools in their own idiosyncratic manner: appropriation is "The process of internalizing but also adapting the idea and strategies of one's culture for one's own use." The article also notes high mental functions can emerge through interaction with peers, not just adults, for example when children argue and acquire new points of view.

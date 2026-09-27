@@ -15,12 +15,14 @@ sources:
     author: Ali, S.
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # The Fluspeak ASR-based pronunciation software gave good results with beginners focusing on phoneme production but poor results overall for advanced learners seeking fluency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Kim's (2006) Fluspeak software, tested with 36 university students through a hybrid face-to-face plus software approach, worked well for beginners on phoneme production but poorly for advanced learners working on fluency. [→ Ali 2016](#ali-2016)
@@ -31,7 +33,7 @@ sources:
 
 Ali, S. (2016). Towards the development of a comprehensive pedagogical framework for pronunciation training based on adapted automatic speech recognition systems. In S. Papadima-Sophocleous, L. Bradley & S. Thouësny (Eds), CALL communities and culture – short papers from EUROCALL 2016 (pp. 7-13). Research-publishing.net. https://doi.org/10.14705/rpnet.2016.eurocall2016.530
 
-`q2 · i?`
+`q2 · i?` · `design · r1`
 
 The article reports, citing Kim (2006), that Fluspeak was tested with 36 university students in a hybrid teaching approach with a comparison between human and automatic scoring; "it gave poor results overall for advanced learners trying to gain fluency." No effect size is printed.
 

@@ -15,12 +15,14 @@ sources:
     author: Elliott, Haley and Brumbaugh, Klaire
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Participants reported widespread agreement that weekly debriefing meetings let them discuss questions, and that guided exploration of psychometric properties benefited their clinical knowledge. [→ Elliott 2021](#elliott-2021)
@@ -31,7 +33,7 @@ sources:
 
 Elliott, Haley and Brumbaugh, Klaire (2021). Student Perceptions of a Simulated Clinical Experience: A Pilot Study. Teaching and Learning in Communication Sciences & Disorders, 5(1), Article 7. https://doi.org/10.30707/TLCSD5.1.1624982519.538001
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Focus-group theme from the qualitative pilot. The course paired simulations with conversational lectures and a partner project researching psychometric properties (reliability, validity, norms, sensitivity, specificity) using a guided table, presented in weekly meetings. Students reported benefit from interpreting psychometric properties through this guided process.
 

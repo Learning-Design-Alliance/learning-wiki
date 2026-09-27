@@ -15,12 +15,14 @@ sources:
     author: Huang, Wenrui, Dajanae Palmer, Ekaete Udoh, Yung Chun, and Jason Jabbari
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # HackerRank test scores and prior coding experience are significantly associated with increased odds of persistence across both the coursework and apprenticeship phases of the LC101 program
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` HackerRank scores (OR=1.017**) and 1-50 (OR=1.637*) and 51-250 (OR=1.967*) hours of prior coding experience were consistently associated with increased odds of persistence across both phases. [→ Huang 2025](#huang-2025)
@@ -31,7 +33,7 @@ sources:
 
 Huang, Wenrui, Dajanae Palmer, Ekaete Udoh, Yung Chun, and Jason Jabbari. (2025). Pinpointing Persistence in Alternative STEM Pipelines: Evidence from a Novel Coding and Apprenticeship Program. EdWorkingPaper No. 25-1122. https://edworkingpapers.com/ai25-1122
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 Generalized ordered logistic regression on survey and administrative data from 524 LC101 participants across nine cohorts (2017-2020). The article reports "Hacker rank scores (OR=1.017**)" and prior coding experience odds ratios as significant predictors of persistence in both phases.
 

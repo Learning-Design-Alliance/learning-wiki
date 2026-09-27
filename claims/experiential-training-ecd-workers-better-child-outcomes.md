@@ -15,12 +15,14 @@ sources:
     author: Torkington, Kate
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The paper argues experiential training of early childhood workers is likely to produce reflective, creative caregivers and children who learn better
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors assert that active experiential methods in training those who work with young children are likely to produce workers who think for themselves and who interact more with children, resulting in children who learn better. [→ Torkington 1996](#torkington-1996)
@@ -31,7 +33,7 @@ sources:
 
 Torkington, Kate. (1996). The Rationale for Experiential/Participatory Learning. Working Papers in Early Childhood Development 16. Bernard van Leer Foundation. https://eric.ed.gov/?id=ED392940
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 This is the authors' interpretive rationale in the Early Childhood Development section, not a tested result: the paper offers no data for the chain from trainer method to worker behaviour to child outcomes, and the claim is stated with hedging (likely).
 

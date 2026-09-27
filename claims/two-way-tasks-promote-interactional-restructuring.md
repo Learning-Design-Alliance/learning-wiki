@@ -15,12 +15,14 @@ sources:
     author: Ellis, Rod
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Two-way information-exchange tasks promote more interactional restructuring than tasks without information exchange
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Long (1980) found a statistically significant higher frequency of interactional features in NS-NNS than NS-NS conversations in two-way/jigsaw tasks but not in one-way or decision-making tasks. [→ Ellis 1991](#ellis-1991)
@@ -31,7 +33,7 @@ sources:
 
 Ellis, Rod. (1991). The Interaction Hypothesis; A Critical Evaluation. ERIC Document ED 338 037. https://eric.ed.gov/?id=ED338037
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports Long's (1980) observational study of native-speaker talk to sixteen non-native speakers in interview-type situations, comparing NS-NNS with NS-NS baseline conversations across task types. The contrast between task types was statistically significant for interactional features; no effect size is printed.
 

@@ -15,18 +15,22 @@ sources:
     author: "Sempowicz, T., & Hudson, P."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: sempowicz-2011-2
     resource: "https://ro.ecu.edu.au/ajte/vol36/iss8/1"
     title: "Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1"
     author: "Sempowicz, T., & Hudson, P."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Talk-time analysis showed the mentor spoke more than the mentee in video-recorded dialogues, with classroom management talk ranging from 3% to 39% of total talk time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In video-recorded dialogue sessions the mentor's talking time ranged from 4 to 14:11 minutes while the mentee's ranged from 1:10 to 4:20 minutes. [→ Sempowicz 2011](#sempowicz-2011)
@@ -38,7 +42,7 @@ sources:
 
 Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Talk-time analysis of five video-recorded dialogue sessions (Table 1) during the 20-day practicum. The mentor spoke more than the mentee in video sessions, though the gap reduced in subsequent sessions as participants became accustomed to recording.
 
@@ -48,7 +52,7 @@ Talk-time analysis of five video-recorded dialogue sessions (Table 1) during the
 
 Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Subset analysis of classroom-management talk in the five video sessions (Table 1). The mentor spoke more about classroom management techniques than the mentee in all but one session; audio dialogues showed more attentive listening by the mentor in 7 of 8 dialogues.
 

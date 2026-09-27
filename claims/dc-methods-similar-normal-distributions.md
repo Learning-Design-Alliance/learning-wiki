@@ -15,12 +15,14 @@ sources:
     author: "Wolkowitz, A. A., & Smith, R."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The LL-DC, PS-DC, and W-DC methods produce similar decision consistency estimates (within 0.044) for normally or close to normally distributed datasets
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` For the normally distributed simulated dataset and two close-to-normal operational datasets, the three DC methods produced estimates within 0.044 of each other across the score distribution. [→ Wolkowitz 2024](#wolkowitz-2024)
@@ -31,7 +33,7 @@ sources:
 
 Wolkowitz, A. A., & Smith, R. (2024). A Practical Comparison of Decision Consistency Estimates. Practical Assessment, Research & Evaluation, 29(6). https://pareonline.net/getvn.asp?v=29&n=6
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Comparison of LL-DC, PS-DC, and W-DC estimates computed at every possible integer cut score for two simulated datasets and three operational exams (sample sizes of at least 557 examinees). The study reports "all had values within 0.044 of each other" for the normal and near-normal datasets.
 

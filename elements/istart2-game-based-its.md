@@ -17,7 +17,7 @@ sources:
 # iSTART-2 game-based intelligent tutoring system for reading comprehension
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 4 studies, `q1`–`q4` · 1 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 4 studies (2 quant-synthesis, 1 causal, 1 design), `q1`–`q4` · 1 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 iSTART-2 is "a game-based ITS designed to improve high school students' reading comprehension via self-explanation strategies." It consists of two phases: video-based self-explanation training followed by game-based practice with mini-games, personalizable features, and achievement screens. The interface affords students substantial agency and control over their learning path, and its game mechanics serve as feedback on students' understanding of self-explanation strategies. Prior studies report it improved self-explanation quality and reading comprehension.

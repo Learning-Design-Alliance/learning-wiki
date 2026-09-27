@@ -17,7 +17,7 @@ sources:
 # Create a relaxed, non-threatening atmosphere before engaging students in communicative activities
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article argues that communicative activities are harder to engage in under stress, discomfort, fatigue, emotional distress or hostility, so teachers should create a comfortable and harmonious atmosphere where students are not afraid to speak. It states that "A relaxed and friendly atmosphere is the first essential requirement", and that a friendly teacher encouraging a relaxed attitude helps students pass on their own ideas naturally.

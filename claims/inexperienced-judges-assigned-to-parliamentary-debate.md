@@ -15,12 +15,14 @@ sources:
     author: Jensen, Scott
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Less experienced debate judges are more likely to be assigned to parliamentary debate
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The author observes a correlation between judges' debate experience and likelihood of a parliamentary judging assignment: the less experience, the more likely the assignment. [→ Jensen 1996](#jensen-1996)
@@ -31,7 +33,7 @@ sources:
 
 Jensen, Scott. (1996). Point of Information: Practical and Theoretical Concerns in Parliamentary Debate. https://eric.ed.gov/?id=ED421730
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 This is the author's observational claim from tournament administration practice, not a statistical analysis; he writes that "a correlation exists" between judge experience and parliamentary assignment, with no coefficients printed.
 

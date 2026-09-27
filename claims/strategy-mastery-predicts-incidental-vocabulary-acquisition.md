@@ -15,12 +15,14 @@ sources:
     author: "Zhao, A., Guo, Y., Biales, C., & Olszewski, A."
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Mastery of incidental vocabulary learning strategies positively predicts L2 incidental vocabulary acquisition through reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Mastery of strategies was a significant positive predictor of incidental vocabulary acquisition (β = .20). [→ Zhao 2016](#zhao-2016)
@@ -31,7 +33,7 @@ sources:
 
 Zhao, A., Guo, Y., Biales, C., & Olszewski, A. (2016). Exploring learner factors in second language (L2) incidental vocabulary acquisition through reading. Reading in a Foreign Language, 28(2). http://nflrc.hawaii.edu/rfl
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 In the multiple linear regression (N = 129), mastery of strategies measured by the MIVLSS (26 items, α = 0.88) was a significant positive predictor, "β = .20, t = 2.04, p < .05".
 

@@ -15,18 +15,22 @@ sources:
     author: Shi Guochun, Shi Zimo, Wang Qianqian
     q: 3
     i: 2
+    kind: associational
+    rigour: "?"
   - id: shi-guochun-2026-2
     resource: "https://doi.org/10.1186/s40359-026-05038-8"
     title: "Shi Guochun, Shi Zimo, Wang Qianqian. (2026). Cross-sectional bidirectional associations between executive function and emotion regulation in adolescents: the moderating role of digital engagement intensity. BMC Psychology. https://doi.org/10.1186/s40359-026-05038-8"
     author: Shi Guochun, Shi Zimo, Wang Qianqian
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Digital use intensity attenuates the positive EF–reappraisal association, more pronouncedly on the EF→ER pathway than the reverse
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1`–`i2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i1`–`i2`
 
 ## Subclaims
 `q3 i?` Digital use intensity significantly moderated the EF-to-reappraisal association (β = −0.14, p = .005); simple slopes were β = 0.56 at low use, β = 0.42 at average, and β = 0.28 at high use. [→ Shi Guochun 2026](#shi-guochun-2026)
@@ -38,7 +42,7 @@ sources:
 
 Shi Guochun, Shi Zimo, Wang Qianqian. (2026). Cross-sectional bidirectional associations between executive function and emotion regulation in adolescents: the moderating role of digital engagement intensity. BMC Psychology. https://doi.org/10.1186/s40359-026-05038-8
 
-`q3 · i2`
+`q3 · i2` · `associational · r?`
 
 SEM with symmetric interaction terms in the 368-adolescent sample; the EF × Digital use interaction was β = −0.14, p = .005. Simple slope analysis showed the EF–reappraisal slope "attenuated—though still significant—at high levels (β = 0.28, p = .003)".
 
@@ -48,7 +52,7 @@ SEM with symmetric interaction terms in the 368-adolescent sample; the EF × Dig
 
 Shi Guochun, Shi Zimo, Wang Qianqian. (2026). Cross-sectional bidirectional associations between executive function and emotion regulation in adolescents: the moderating role of digital engagement intensity. BMC Psychology. https://doi.org/10.1186/s40359-026-05038-8
 
-`q3 · i1`
+`q3 · i1` · `associational · r2`
 
 Same symmetric SEM. The reverse-pathway interaction was only marginally significant and the suppression-side term non-significant, so the article reports the attenuation as "somewhat more pronounced for the EF → reappraisal association than for the reverse pathway".
 

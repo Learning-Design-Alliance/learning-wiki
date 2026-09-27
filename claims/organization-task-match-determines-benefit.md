@@ -15,18 +15,22 @@ sources:
     author: Eylon, Bat-Sheva; Reif, F.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: eylon-1979-2
     resource: "https://eric.ed.gov/?id=ED171804"
     title: "Eylon, Bat-Sheva; Reif, F. (1979). Effects of Internal Knowledge Organization on Task Performance. https://eric.ed.gov/?id=ED171804"
     author: Eylon, Bat-Sheva; Reif, F.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` High-school subjects with the A organization performed consistently better on deductive (type a) tasks, while subjects with the B organization performed consistently better on historical (type b) tasks. [→ Eylon 1979](#eylon-1979)
@@ -38,7 +42,7 @@ sources:
 
 Eylon, Bat-Sheva; Reif, F. (1979). Effects of Internal Knowledge Organization on Task Performance. https://eric.ed.gov/?id=ED171804
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `causal · r2`
 
 Experiment 2: 20 students in an advanced high-school physics class, blocked by ability and randomly assigned to treatments inducing organization A (deductive information at higher levels) or B (historical at higher levels); tested two weeks later on both task types. The consistent pattern held on every one of the cued-recall and problem-solving tasks.
 
@@ -48,7 +52,7 @@ Experiment 2: 20 students in an advanced high-school physics class, blocked by a
 
 Eylon, Bat-Sheva; Reif, F. (1979). Effects of Internal Knowledge Organization on Task Performance. https://eric.ed.gov/?id=ED171804
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 ANOVA on the difference score between composite type-a and type-b task scores in Experiment 2 showed a significant input-version effect [F(1,12)=6.45, p<0.03], with no significant effect of strong versus weak acquisition tasks or of ability.
 

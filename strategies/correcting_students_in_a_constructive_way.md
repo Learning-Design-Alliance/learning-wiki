@@ -12,7 +12,7 @@ generated:
 # Correcting Students In A Constructive Way
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies, `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies (4 review, 3 quant-synthesis, 2 causal, 1 theoretical), `q2`–`q4` · 2 of 10 report an effect size
 
 ## Description
 Correcting students constructively means responding to academic errors or behavioral missteps with feedback that is specific, behavior-focused, and forward-looking, rather than punitive or person-focused. The correction names what went wrong, why it matters, and what to do next, while explicitly protecting the student's sense of competence and belonging. It treats errors as information for learning rather than evidence of failure.

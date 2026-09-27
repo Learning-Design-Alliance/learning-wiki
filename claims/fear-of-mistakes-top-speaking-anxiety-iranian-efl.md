@@ -15,12 +15,14 @@ sources:
     author: "Sadighi, F., & Dastpak, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Fear of making mistakes is the most significant cause of foreign language speaking anxiety among Iranian EFL learners (81%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Among Iranian EFL institute learners, fear of making mistakes ranked first among 23 possible sources of speaking anxiety, endorsed by 81% of respondents. [→ Sadighi 2017](#sadighi-2017)
@@ -31,7 +33,7 @@ sources:
 
 Sadighi, F., & Dastpak, M. (2017). The Sources of Foreign Language Speaking Anxiety of Iranian English Language Learners. International Journal of Education & Literacy Studies, 5(4). https://doi.org/10.7575/aiac.ijels.v.5n.4p.111
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Questionnaire survey of 154 EFL learners in English language institutes in Shiraz, using a 23-item revised FLCAS scored on a Likert scale; response frequencies were counted to rank causes. Fear of making mistakes was the most significant cause of anxiety (81%).
 

@@ -15,12 +15,14 @@ sources:
     author: Stadt, Ronald W.; Kenneke, Larry J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Information processing now consumes more societal effort than making goods and rendering services
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors contend that production of information used to control production has overtaken physical production in the effort it consumes. [→ Stadt 1970](#stadt-1970)
@@ -31,7 +33,7 @@ sources:
 
 Stadt, Ronald W.; Kenneke, Larry J. (1970). Teacher Competencies for the Cybernated Age. American Council on Industrial Arts Teacher Education. https://eric.ed.gov/?id=ED055227
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Descriptive observation in the Contemporary Technology section, supported by illustrative examples such as electricity distribution and clerical information demands; no systematic data are reported. The article states "information processing consumes more of our effort" than making goods.
 

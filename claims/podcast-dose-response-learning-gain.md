@@ -15,18 +15,22 @@ sources:
     author: Joshi U, Sarkar A, Shukla A, Shrimali S, Bezbaruah NK, B Sanjay Kini, Baisil S, Sheth Z, Bhargava P, Shah S.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: joshi-u-2026-2
     resource: "https://doi.org/10.1186/s12909-026-10080-6"
     title: "Joshi U, Sarkar A, Shukla A, Shrimali S, Bezbaruah NK, B Sanjay Kini, Baisil S, Sheth Z, Bhargava P, Shah S. (2026). Ears for examinations: a multicentre quasi-experimental evaluation of AI-generated revision podcasts on learning outcomes and retention among medical students. BMC Medical Education. https://doi.org/10.1186/s12909-026-10080-6"
     author: Joshi U, Sarkar A, Shukla A, Shrimali S, Bezbaruah NK, B Sanjay Kini, Baisil S, Sheth Z, Bhargava P, Shah S.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Higher episode completion (>50%) is independently associated with greater learning gain, and the centre effect on gain is mediated by engagement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Listening to 5–6 episodes (>50% completion) predicted greater learning gain (β 5.15, p = 0.005) controlling for baseline score and centre. [→ Joshi U 2026](#joshi-u-2026)
@@ -38,7 +42,7 @@ sources:
 
 Joshi U, Sarkar A, Shukla A, Shrimali S, Bezbaruah NK, B Sanjay Kini, Baisil S, Sheth Z, Bhargava P, Shah S. (2026). Ears for examinations: a multicentre quasi-experimental evaluation of AI-generated revision podcasts on learning outcomes and retention among medical students. BMC Medical Education. https://doi.org/10.1186/s12909-026-10080-6
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Multiple linear regression on learning gain (Post − Pre) among linked pre–post completers (N = 190), controlling for baseline score and centre; model fit R² = 0.233, adjusted R² = 0.195. Dose was self-reported and dichotomised; the β is an unstandardised coefficient, so no effect size is coded.
 
@@ -48,7 +52,7 @@ Multiple linear regression on learning gain (Post − Pre) among linked pre–po
 
 Joshi U, Sarkar A, Shukla A, Shrimali S, Bezbaruah NK, B Sanjay Kini, Baisil S, Sheth Z, Bhargava P, Shah S. (2026). Ears for examinations: a multicentre quasi-experimental evaluation of AI-generated revision podcasts on learning outcomes and retention among medical students. BMC Medical Education. https://doi.org/10.1186/s12909-026-10080-6
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Same multivariable regression (Table 7): Centre 2 carried an unadjusted association with higher gain that the authors interpret as mediated by differential engagement once dose is controlled.
 

@@ -15,12 +15,14 @@ sources:
     author: Truong, T. D.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Evaluations of leadership competency increase with hierarchical position in Vietnamese universities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Perceptions of leadership competencies differed significantly across positional groups (p < 0.05 for all criteria), with university leaders most positive (means ≈ 4.1-4.2) and lecturers/staff lowest (≈ 3.6-3.8); the largest divergence was on strategic vision (p = 0.002). [→ Truong 2025](#truong-2025)
@@ -31,7 +33,7 @@ sources:
 
 Truong, T. D. (2025). Factors Determining Governance Effectiveness in Vietnamese Universities: A Mixed-Method Investigation. Educational Process: International Journal, 19, e2025605. https://doi.org/10.22521/edupij.2025.19.605
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 ANOVA across positional groups in the 455-respondent survey, reported for Figure 1. The article prints group means (leaders ≈ 4.1-4.2; lecturers/staff ≈ 3.6-3.8) and notes the largest divergence on "Strategic Vision" (p = 0.002).
 

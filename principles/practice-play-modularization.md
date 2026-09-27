@@ -17,7 +17,7 @@ sources:
 # Allow practice play in relaxed conditions so skills can become modularized
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Humm's overview draws on Piaget's practice play and Bruner's modularization: skills consolidate into streamlined, efficient, transferable forms over time, and unmodularized actions perform poorly under pressure. The paper states that 'Modularization develops best under conditions thatare much like play,' thriving in a relaxed atmosphere where the means to a goal can matter more than the goal itself, so physical education should preserve solitary practice play for basics.

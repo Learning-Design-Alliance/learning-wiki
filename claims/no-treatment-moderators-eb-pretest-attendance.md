@@ -15,12 +15,14 @@ sources:
     author: "Vadasy, P. F., & Sanders, E. A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Treatment effects were not moderated by emergent bilingual status, pretest levels, or tutoring attendance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Treatment differences did not depend on student EB status, pretest levels, or total tutoring session attendance. [→ Vadasy 2023](#vadasy-2023)
@@ -31,7 +33,7 @@ sources:
 
 Vadasy, P. F., & Sanders, E. A. (2023). Cognitive flexibility + phonics intervention effects on reading gains. Reading Psychology. https://doi.org/10.1080/02702711.2023.2166636
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Two-way interactions between treatment condition and the three covariates were tested in the two-level hierarchical models of gains for 57 children in 21 classrooms; the article reports "no significant treatment moderators." No effect sizes were printed for these interaction tests.
 

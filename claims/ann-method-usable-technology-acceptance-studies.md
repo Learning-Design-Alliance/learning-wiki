@@ -15,12 +15,14 @@ sources:
     author: "Ozkan, U. B., Cigdem, H., & Erdogan, T."
     q: 1
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # ANN modelling is a usable method for identifying predictors of technology acceptance in educational settings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The authors suggest ANN analysis provided additional findings on relationships between LMS acceptance and its predictors and could be used in other technology acceptance studies. [→ Ozkan 2020](#ozkan-2020)
@@ -31,7 +33,7 @@ sources:
 
 Ozkan, U. B., Cigdem, H., & Erdogan, T. (2020). Artificial neural network approach to predict LMS acceptance of vocational school students. Turkish Online Journal of Distance Education-TOJDE, 21(3), Article 11. https://dergipark.org.tr/en/pub/tojde
 
-`q1 · i?`
+`q1 · i?` · `associational · r1`
 
 Authors' interpretive conclusion from their own ANN application (3-layered network, one hidden layer, automatic architecture in IBM SPSS Statistic 22, 60/30/10 data partition). This is the authors' recommendation, not a tested comparison of methods.
 

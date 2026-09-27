@@ -15,18 +15,22 @@ sources:
     author: "Sung, Y., Stephens, A., Veltri Torres, R., Strachota, S., Blanton, M., Gardiner, A., Stroud, R., & Knuth, E."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: sung-2022-2
     resource: "https://eric.ed.gov/?id=ED630361"
     title: "Sung, Y., Stephens, A., Veltri Torres, R., Strachota, S., Blanton, M., Gardiner, A., Stroud, R., & Knuth, E. (2022). Teacher Language and Gesture in an Intervention Focused on Developing Kindergarteners' Understandings of the Equal Sign. Proceedings of the forty-fourth annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education. https://eric.ed.gov/?id=ED630361"
     author: "Sung, Y., Stephens, A., Veltri Torres, R., Strachota, S., Blanton, M., Gardiner, A., Stroud, R., & Knuth, E."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # In a kindergarten early algebra intervention, the teacher's equal-sign language shifted with lesson focus, from definitions and "is the same as" early on to "balanced" talk and balance gestures when evaluating and solving equations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q1`
 
 ## Subclaims
 `q1 i?` In Lesson 8, where students wrote equations for balance scales, the teacher's DEF, ISA and GSIDES counts were greatest of the seven lessons. [→ Sung 2022](#sung-2022)
@@ -38,7 +42,7 @@ sources:
 
 Sung, Y., Stephens, A., Veltri Torres, R., Strachota, S., Blanton, M., Gardiner, A., Stroud, R., & Knuth, E. (2022). Teacher Language and Gesture in an Intervention Focused on Developing Kindergarteners' Understandings of the Equal Sign. Proceedings of the forty-fourth annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education. https://eric.ed.gov/?id=ED630361
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r3`
 
 Qualitative lesson-by-lesson coding of one teacher's whole-group talk. In Lesson 8, where students wrote equations for balance scales, the counts for defining the equal sign, replacing "=" with "is the same as" and gesturing to equation sides "were greatest in this lesson".
 
@@ -48,7 +52,7 @@ Qualitative lesson-by-lesson coding of one teacher's whole-group talk. In Lesson
 
 Sung, Y., Stephens, A., Veltri Torres, R., Strachota, S., Blanton, M., Gardiner, A., Stroud, R., & Knuth, E. (2022). Teacher Language and Gesture in an Intervention Focused on Developing Kindergarteners' Understandings of the Equal Sign. Proceedings of the forty-fourth annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education. https://eric.ed.gov/?id=ED630361
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r3`
 
 Qualitative coding of the later lessons (11, 13, 14). The authors report that "we saw an increase in the teacher’s discussion of equations as “balanced” (BAL)" and in her balance gesture. Descriptive frequencies only; no test is reported.
 

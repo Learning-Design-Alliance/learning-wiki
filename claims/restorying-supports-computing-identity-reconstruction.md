@@ -15,12 +15,14 @@ sources:
     q: 1
     i: "?"
     n: 1 focal case (a 15-year-old Black girl) from a workshop of 15 youth (14 consenting), 11 of whom were interviewed
+    kind: qualitative
+    rigour: 2
 ---
 
 # Restorying supports Black girls' identification of and resistance to dominant narratives in computing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case · n=1 focal case (a 15-year-old Black girl) from a workshop of 15 youth (14 consenting), 11 of whom were interviewed
+> **Evidence** · 1 study · qualitative `r2` · `q1` · n=1 focal case (a 15-year-old Black girl) from a workshop of 15 youth (14 consenting), 11 of whom were interviewed
 
 In a museum computing workshop using electronic quilting to enact womanist restorying, one Black girl explicitly deconstructed her group's dominant stereotype of computer scientists, designed a counter-narrative quilt patch centering a Black woman, and reported increased self-reported belonging and aspiration toward computing.
 
@@ -37,7 +39,7 @@ In a museum computing workshop using electronic quilting to enact womanist resto
 
 Shaw, M. S., Coleman, J. J., Thomas, E. E., & Kafai, Y. B. (2023). Restorying a Black girl's future: Using womanist storytelling methodologies to reimagine dominant narratives in computing education. *Journal of the Learning Sciences, 32*(1), 52-75. [https://doi.org/10.1080/10508406.2023.2179847](https://doi.org/10.1080/10508406.2023.2179847)
 
-`q1 · revelatory single-case study (Yin, 2009), with two-coder constant comparative analysis (one insider, one outsider), drawn from a 15-youth after-school museum workshop; no comparison group or quantified measure` · `i? · the abstract prints no effect size; the full text may` · `n=1 focal case (a 15-year-old Black girl) from a workshop of 15 youth (14 consenting), 11 of whom were interviewed`
+`q1 · revelatory single-case study (Yin, 2009), with two-coder constant comparative analysis (one insider, one outsider), drawn from a 15-youth after-school museum workshop; no comparison group or quantified measure` · `i? · the abstract prints no effect size; the full text may` · `n=1 focal case (a 15-year-old Black girl) from a workshop of 15 youth (14 consenting), 11 of whom were interviewed` · `qualitative · r2`
 
 Fifteen youth from marginalized groups participated in a 4-week, 8-hour after-school museum workshop using [Restorying Computing Futures Through Electronic Quilting](../strategies/restorying-through-electronic-quilting.md). The authors trace one focal participant's narrative work in depth: her explicit naming of the group's dominant "who is a computer scientist" stereotype, her group's design of a counter-narrative interactive quilt patch, and her self-reported shifts in affect and aspiration toward computing, drawing on [Womanist Restorying](../theories/womanist-restorying.md) as the theoretical frame.
 

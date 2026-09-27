@@ -15,12 +15,14 @@ sources:
     author: "Johns, B. T., Dye, M., & Jones, M. N."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Diverse and uniform training contexts dissociate: processing ease and semantic representation diverge early in learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Diverse contexts aid recognition speed and accuracy, while redundant contexts support better semantic representation, revealing a dissociation between ease of processing and semantic representation. [→ Johns 2016](#johns-2016)
@@ -31,7 +33,7 @@ sources:
 
 Johns, B. T., Dye, M., & Jones, M. N. (2016). The influence of contextual diversity on word learning. Psychonomic Bulletin & Review. https://doi.org/10.3758/s13423-015-0980-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 The article's summary of its own combined PLDT and similarity-rating results: "These results reveal a dissociation between ease of process- ing and semantic representation early in learning", with diverse contexts aiding recognition and redundant contexts aiding meaning discrimination.
 

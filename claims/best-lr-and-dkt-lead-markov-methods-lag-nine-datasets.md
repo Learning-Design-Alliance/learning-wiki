@@ -15,12 +15,14 @@ sources:
     author: Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Logistic regression with the best feature vector outperforms all other approaches on 4 of 9 datasets while DKT leads on the remaining 5, and Markov process methods lag behind
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Best-LR outperforms deep learning methods and DAS3H on 4 of 9 datasets; DKT leads on the other 5. [→ Theophile Gervet 2020](#theophile-gervet-2020)
@@ -32,7 +34,7 @@ sources:
 
 Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Extensive empirical comparison of three model families on nine real-world tutoring datasets with 5-fold learner-level cross-validation, reported in AUC and RMSE (Tables 3-11). The results section states Best-LR "outperforms all other approaches ... on 4 datasets out of 9" and DKT leads on the remaining 5.
 

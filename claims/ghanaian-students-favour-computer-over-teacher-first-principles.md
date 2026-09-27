@@ -15,12 +15,14 @@ sources:
     author: "Sarfo, F. K., & Ansong-Gyimah, K."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Ghanaian students significantly favour the computer over the teacher for implementing the first five principles of instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Students generally strongly agreed that the computer can facilitate implementation of the first five principles of instruction better than the teacher, a significant difference in their degree of responses. [→ Sarfo 2010](#sarfo-2010)
@@ -31,7 +33,7 @@ sources:
 
 Sarfo, F. K., & Ansong-Gyimah, K. (2010). The perceptions of students, teachers, and educational officers in Ghana on the role of computer and the teacher in promoting the first five principles of instruction. The Turkish Online Journal of Educational Technology, 9(3). https://www.tojet.net
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Survey of 300 third-year Senior High School students in Ghana using a 15-item, 5-point Likert scale (Cronbach alpha .87) on Merrill's first five principles; frequency distributions and chi-square tests. The article reports "significant statistical difference χ2 (4, N = 300) = 56.3, p = 0.05" with 37% strongly agreeing.
 

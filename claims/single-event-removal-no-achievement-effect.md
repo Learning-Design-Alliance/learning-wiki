@@ -15,12 +15,14 @@ sources:
     author: "Martin, F., Klein, J., & Sullivan, H."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Individually removing objectives, examples, or review from a well-designed computer-based lesson did not significantly reduce achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Programs without objectives, without examples, or without review scored between 17.16 and 17.36, non-significantly different from the full program's 17.61. [→ Martin 2003](#martin-2003)
@@ -31,7 +33,7 @@ sources:
 
 Martin, F., Klein, J., & Sullivan, H. (2003). Effects of Instructional Events in Computer-Based Instruction. https://eric.ed.gov/?id=ED484984
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Posttest means from the same six-version experiment: the three single-deletion treatments scored "between 17.16 and 17.36" versus 17.61 for the full program, a non-significant difference; equivalence was not formally tested.
 

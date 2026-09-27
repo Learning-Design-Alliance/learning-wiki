@@ -15,12 +15,14 @@ sources:
     author: Black, K.E. and Wittmann, M.C.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Intermediate mechanics students start the semester more familiar with the integration constants (+C) method than with the limits method, and the +C method remains preferred by at least one student even after instruction modeling the limits method
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students at the start of instruction on air resistance are more familiar with the +C method than the limits method, and preference for +C persists after instruction for at least one student. [→ Black 2009](#black-2009)
@@ -31,7 +33,7 @@ sources:
 
 Black, K.E. and Wittmann, M.C. (2009). Understanding the use of two integration methods on separable first order differential equations. https://perlnet.umaine.edu/imt/
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r2`
 
 Qualitative analysis of videotaped miniviews and a group quiz in intermediate mechanics at UMaine. The authors' summary states the integration constants method "is preferentially employed by two groups at the beginning of instruction" and remained preferred by one student on a post-instruction group quiz. No effect sizes are reported.
 

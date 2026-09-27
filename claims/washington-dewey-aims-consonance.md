@@ -15,12 +15,14 @@ sources:
     author: Ronald E. Chennault
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Washington's educational aims show consonance with Dewey's three criteria for educational aims
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Washington's philosophy, though temporally prior to Dewey's popularized doctrine, aligns with Dewey's criteria that educational aims grow out of existing conditions, remain flexible, and free activity. [→ Ronald E. Chennault 2013](#ronald-e-chennault-2013)
@@ -31,7 +33,7 @@ sources:
 
 Ronald E. Chennault. (2013). Pragmatism and Progressivism in the Educational Thought and Practices of Booker T. Washington. Philosophical Studies in Education, Volume 44. https://eric.ed.gov/?id=EJ1015729
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Philosophical comparison drawing on Curti and Dewey's Democracy and Education: the author finds the consonance apparent in Washington's praise of the Hampton model against running each individual through a fixed "educational mould" regardless of condition or end.
 

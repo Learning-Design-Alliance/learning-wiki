@@ -16,7 +16,7 @@ sources:
 # Inquiry-first teaching: plan the instructional route from learners' existing concepts and attitudes
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report's organizing theory is that teaching, like a journey, must be planned in relation to the starting point: a teacher builds instruction on what learners already know, believe, and can do. The Language Inquiry operationalizes this by surveying attitudes toward language before teaching, so the teacher can find out where to start and plan the route accordingly. The author states that people who use the technique of inquiring first and then teaching usually find that the inquiry stimulates interest and directs the student in a search for knowledge.

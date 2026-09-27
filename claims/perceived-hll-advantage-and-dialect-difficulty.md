@@ -15,18 +15,22 @@ sources:
     author: "Denise Santos & Gláucia Silva"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: denise-santos-gláucia-silva-2015-2
     resource: "https://journals.sfu.ca/cjal/index.php/cjal"
     title: "Denise Santos & Gláucia Silva. (2015). Exploring Portuguese Heritage and Non-Heritage Learners' Perceptions of and Performance in Listening. The Canadian Journal of Applied Linguistics 18(1), 63-86. https://journals.sfu.ca/cjal/index.php/cjal"
     author: "Denise Santos & Gláucia Silva"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # All participants believed heritage learners perform better in classroom listening, but dialectal differences posed difficulties for HLLs that NHLLs did not notice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` All 23 participants answered that HLLs perform differently than NHLLs, citing better and/or faster performance due to early exposure to the language. [→ Denise Santos & Gláucia Silva 2015](#denise-santos-glaucia-silva-2015)
@@ -38,7 +42,7 @@ sources:
 
 Denise Santos & Gláucia Silva. (2015). Exploring Portuguese Heritage and Non-Heritage Learners' Perceptions of and Performance in Listening. The Canadian Journal of Applied Linguistics 18(1), 63-86. https://journals.sfu.ca/cjal/index.php/cjal
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Questionnaire item asking whether HLLs performed differently on textbook listening activities, coded yes/no with qualitative thematic analysis of explanations from both groups. Comments included "They have more exposure to the language."
 
@@ -48,7 +52,7 @@ Questionnaire item asking whether HLLs performed differently on textbook listeni
 
 Denise Santos & Gláucia Silva. (2015). Exploring Portuguese Heritage and Non-Heritage Learners' Perceptions of and Performance in Listening. The Canadian Journal of Applied Linguistics 18(1), 63-86. https://journals.sfu.ca/cjal/index.php/cjal
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Qualitative questionnaire data on difficulties with listening activities. Other HLLs noted "the language may sound different coming from different people" and difficulty "except in another dialect or Brazilian", while NHLLs observed HLLs "can understand every accent."
 

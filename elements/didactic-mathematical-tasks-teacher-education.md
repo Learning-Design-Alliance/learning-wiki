@@ -17,7 +17,7 @@ sources:
 # Didactic-mathematical tasks as a teacher-education element situating pre-service teachers in professional activity
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Didactic-mathematical tasks combine a professional activity of secondary teachers (e.g. analyzing school textbook problems) with mathematical content (e.g. functions), supported by mathematics education articles and teacher explanations. The article presents them as a contribution to pre-service teacher education: "a contribution of this study is the incorporation of didactic-mathematical tasks as a new element that allows to situate these pre-service teachers in their future professio nal activity". Solving such tasks in small groups generated the discourse from which norms were inferred.

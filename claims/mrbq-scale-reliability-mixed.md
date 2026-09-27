@@ -15,12 +15,14 @@ sources:
     author: "Op 't Eynde, P., & De Corte, E."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Teacher-belief and competence/value scales show high internal consistency (alphas .92 and .89), while the social-activity and excellence scales are weaker (.65 and .69)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Cronbach's alpha was .92 for the teacher-beliefs scale and .89 for the significance-of-and-competence-in-mathematics scale, but only .65 and .69 for the Mathematics as a social activity and Mathematics as a domain of excellence scales. [→ Op 't Eynde 2003](#op-t-eynde-2003)
@@ -31,7 +33,7 @@ sources:
 
 Op 't Eynde, P., & De Corte, E. (2003). Students' mathematics-related belief systems: Design and analysis of a questionnaire. https://eric.ed.gov/?id=ED475708
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Internal consistency estimates computed after the exploratory analysis for the scales representing the four factors. The teacher scale had "a very high alpha (.92)" and the significance/competence scale .89, while "There was a higher variability in students' responses" on the social-activity (alpha = .65) and domain-of-excellence (alpha = .69) scales.
 

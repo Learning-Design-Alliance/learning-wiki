@@ -15,12 +15,14 @@ sources:
     author: Ziller, Robert C.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Conflict devolves to aggression toward self or other under reduced self esteem and social interest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` It is assumed that conflict devolves to aggression toward self or other under conditions of reduction in self esteem and social interest and the development of an unchanging self-centered theory of behavior. [→ Ziller 1969](#ziller-1969)
@@ -31,7 +33,7 @@ sources:
 
 Ziller, Robert C. (1969). A Theory of Self Other Orientation and Interpersonal Conflict: A Technical Report. https://eric.ed.gov/?id=ED032608
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument of the report itself, not an empirical test. The article states the assumption that 'conflict devolvesto aggression toward selfor other' when self esteem and social interest are reduced; it offers no data for this proposition in the text provided.
 

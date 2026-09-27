@@ -15,12 +15,14 @@ sources:
     author: Brumbaugh, Robert B.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Empirical use of the authenticity concept in organizational climate research has been precluded by lack of an appropriate operational definition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authenticity concept, despite interdisciplinary interest, has seen little empirical use because prose definitions are ambiguous and behaviorally elusive. [→ Brumbaugh 1968](#brumbaugh-1968)
@@ -31,7 +33,7 @@ sources:
 
 Brumbaugh, Robert B. (1968). Authenticity, Role Distance, and Organizational Climate: Toward a Conceptual Clarification. Paper presented at the Annual Meeting of the American Educational Research Association. https://eric.ed.gov/?id=ED026738
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in a literature-review paper on organizational climate research. The author argues that "subsequent empirical use of the authenticity concept has been precluded, in part, by lack of an appropriate operational definition for the variable"; no data are reported.
 

@@ -15,12 +15,14 @@ sources:
     author: "Akar, İ., & Şengil-Akar, Ş"
     q: 1
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Short-term creativity interventions can be effective in changing creativity positively
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The authors interpret their three-week CREACT study as evidence that short term interventions can positively change creativity, against the assertion that creativity changes occur only over long periods. [→ Akar 2013](#akar-2013)
@@ -31,7 +33,7 @@ sources:
 
 Akar, İ., & Şengil-Akar, Ş. (2013). The effectiveness of the Creative Reversal Act (CREACT) on students' creative thinking: Further evidence from Turkey. TOJET: The Turkish Online Journal of Educational Technology, 12(4). https://eric.ed.gov/?id=EJ1272859
 
-`q1 · i?`
+`q1 · i?` · `causal · r1`
 
 Authors' interpretation in the discussion section, contrasting their three-week intervention with the view (Runco & Pezdek, 1984) that creativity changes occur over long periods. This is an author interpretation rather than a directly tested comparison.
 

@@ -15,12 +15,14 @@ sources:
     author: Andrew Leichsenring
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Sociocultural factors, learner motivation, self-efficacy and perceptions of the classroom environment influence FLCA learning outcomes and oral performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The study's findings indicated that sociocultural factors, learner motivation, self-efficacy and learners' perceptions of their classroom learning environments influence learning outcomes and oral performance. [→ Andrew Leichsenring 2010](#andrew-leichsenring-2010)
@@ -31,7 +33,7 @@ sources:
 
 Andrew Leichsenring. (2010). The experiences of anxiety of Japanese EFL learners: A case study. https://eric.ed.gov/?id=ED537603
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Findings from this qualitative case study of two Japanese EFL learners indicated that "sociocultural factors; learner motivation; self-efficacy; and the perceptions that learners have of their classroom learning environments" influenced outcomes and oral performance. No effect sizes are reported; the finding is interpretive.
 

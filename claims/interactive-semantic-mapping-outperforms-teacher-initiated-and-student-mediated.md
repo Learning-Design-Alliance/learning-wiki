@@ -15,12 +15,14 @@ sources:
     author: El-Koumy, Abdel Salam A.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Teacher-student interactive semantic mapping produced higher EFL reading comprehension posttest scores than teacher-initiated and student-mediated semantic mapping
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Students taught with teacher-student interactive semantic mapping scored significantly higher on a TOEFL reading comprehension posttest than students in the teacher-initiated group (t = 9.8, p < 0.05) and the student-mediated group (t = 12.4, p < 0.05). [→ El-Koumy 1999](#el-koumy-1999)
@@ -31,7 +33,7 @@ sources:
 
 El-Koumy, Abdel Salam A. (1999). Effects of Three Semantic Mapping Strategies on EFL Students' Reading Comprehension. https://eric.ed.gov/?id=ED435193
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Randomized five-month experiment with 187 Egyptian EFL freshmen (62 interactive, 65 teacher-initiated, 60 student-mediated completers), 20 one-hour sessions, pre- and posttested with TOEFL reading comprehension tests. Posttest t-tests showed the interactive group "scored significantly higher" than both other groups.
 

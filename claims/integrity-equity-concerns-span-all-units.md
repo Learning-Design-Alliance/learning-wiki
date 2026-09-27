@@ -15,12 +15,14 @@ sources:
     author: "Dozier, V., & Molina, S. C."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across all surveyed units, respondents consistently raised academic integrity concerns, calls for professional development, absence of institutional vision, and equity concerns ranging from unequal access to paid AI tools to biased AI outputs. [→ Dozier 2026](#dozier-2026)
@@ -31,7 +33,7 @@ sources:
 
 Dozier, V., & Molina, S. C. (2026). Leading From the Precipice: How Academic Deans Are Navigating Artificial Intelligence in Higher Education. New Directions for Student Leadership. https://doi.org/10.1002/yd.70077
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Cross-unit thematic findings from the seven-respondent survey case study; the article adds that all participants identified professional development and training as the most critical resource for navigating the transition.
 

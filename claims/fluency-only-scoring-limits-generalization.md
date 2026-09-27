@@ -15,12 +15,14 @@ sources:
     author: Ward, William C., Nathan Kogan, and Ethel Pankove
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The capacity interpretation of creativity-score differences rests on the finding that results were obtained only with fluency scores, and may not generalize to originality scoring
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors caution that the capacity interpretation was tested only with fluency scores and may not hold for originality scoring. [→ Ward 1970](#ward-1970)
@@ -31,7 +33,7 @@ sources:
 
 Ward, William C., Nathan Kogan, and Ethel Pankove. (1970). Motivation and Capacity in Children's Creativity. Research Bulletin. Educational Testing Service. https://eric.ed.gov/?id=ED045766
 
-`q1 · i?`
+`q1 · i?` · `causal · r2`
 
 Authors' stated limitation in the Discussion: the capacity-versus-motivation conclusion rests on fluency scoring, and "it remains to be seen whether similar results will be obtained" with other criteria such as originality.
 

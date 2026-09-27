@@ -15,12 +15,14 @@ sources:
     author: Gangui, Alejandro; Iglesias, María C.; Quinteros, Cynthia P.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: "?"
 ---
 
 # Las longitudes de las sombras al mediodía muestran una simetría en torno a los solsticios y los equinoccios que impide distinguir fechas solo midiendo sombras
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r?` · `q1`
 
 ## Subclaims
 `q1 i?` Las sombras medidas a mediodía son crecientes durante seis meses y decrecientes durante los otros seis, de modo que las sombras de días equidistantes de un solsticio son aproximadamente iguales. [→ Gangui 2009](#gangui-2009)
@@ -31,7 +33,7 @@ sources:
 
 Gangui, Alejandro; Iglesias, María C.; Quinteros, Cynthia P. (2009). El movimiento de las sombras: Una propuesta de trabajo para la escuela secundaria. Ciencia Hoy. https://cms.iafe.uba.ar/gangui
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r?`
 
 Exposición conceptual de los autores dentro de la actividad 1, no un estudio empírico. El artículo señala que "no hay forma de distinguir entre estos dos instantes del año solo mediante la medición de la longitud de las sombras", y describe una simetría análoga entre los dos equinoccios.
 

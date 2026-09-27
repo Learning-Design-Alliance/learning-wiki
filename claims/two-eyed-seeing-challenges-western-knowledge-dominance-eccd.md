@@ -15,12 +15,14 @@ sources:
     author: "Acharibasam, J. B., & McVittie, J."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # A two-eyed seeing approach in early childhood education challenged the dominance of Western knowledges over Indigenous knowledges and created awareness of an Indigenous worldview
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Teaching Indigenous and Western knowledges side by side challenged DW-Ks' position as the only valid knowledge and created awareness and respect for Indigenous knowledges in the teacher and children. [→ Acharibasam 2021](#acharibasam-2021)
@@ -31,7 +33,7 @@ sources:
 
 Acharibasam, J. B., & McVittie, J. (2021). The use of a two-eyed seeing approach to include Indigenous Knowledge in Early Childhood Care and Development in Ghana. International Education Journal: Comparative Perspectives, 20(1). https://eric.ed.gov/?id=EJ1329976
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Qualitative case study at one rural Ghanaian primary school: participant observation of Elders' and teacher's lessons plus interviews with two Elders, one KG2 teacher and nine pupils. The researchers report that side-by-side teaching challenged DW-Ks' position and that "It became clear to the children that there were other valid ways of understanding nature."
 

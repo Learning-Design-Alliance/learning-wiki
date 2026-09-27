@@ -15,18 +15,22 @@ sources:
     author: Litam, S. D. A.
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
   - id: litam-2019-2
     resource: "https://doi.org/10.15241/sdal.9.4.396"
     title: "Litam, S. D. A. (2019). She's Just a Prostitute: The Effects of Labels on Counselor Attitudes, Empathy, and Rape Myth Acceptance. The Professional Counselor, 9(4), 396-415. https://doi.org/10.15241/sdal.9.4.396"
     author: Litam, S. D. A.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Counselors without prior training on prostitution/sex trafficking endorsed more stigmatizing beliefs and more rape myths
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Previous training correlated with lower rape myth acceptance (r = .127, p < .05) and with the Self-Other Awareness empathy subscale. [→ Litam 2019](#litam-2019)
@@ -38,7 +42,7 @@ sources:
 
 Litam, S. D. A. (2019). She's Just a Prostitute: The Effects of Labels on Counselor Attitudes, Empathy, and Rape Myth Acceptance. The Professional Counselor, 9(4), 396-415. https://doi.org/10.15241/sdal.9.4.396
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Bivariate correlational analysis across the full sample of 396 counselors relating self-reported prior training on prostitution/sex trafficking to IRMA-SF and EAI scores. Correlational, so no causal claim about training is warranted.
 
@@ -48,7 +52,7 @@ Bivariate correlational analysis across the full sample of 396 counselors relati
 
 Litam, S. D. A. (2019). She's Just a Prostitute: The Effects of Labels on Counselor Attitudes, Empathy, and Rape Myth Acceptance. The Professional Counselor, 9(4), 396-415. https://doi.org/10.15241/sdal.9.4.396
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Item-level correlations between training and six APPS/ATTS items, with r values ranging from -.125 to .157, all significant at p < .05 or p < .01.
 

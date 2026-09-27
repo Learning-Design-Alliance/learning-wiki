@@ -15,12 +15,14 @@ sources:
     author: "Riveros, A., Newton, P., & Burgess, D."
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Teacher resistance as an exercise of teacher agency is a fundamental challenge to current PLC formulations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Current PLC models treat change as modifying teachers' attitudes toward legislated goals, and recognizing resistance as agency would require revising their assumptions about conflict. [→ Riveros 2012](#riveros-2012)
@@ -31,7 +33,7 @@ sources:
 
 Riveros, A., Newton, P., & Burgess, D. (2012). A Situated Account of Teacher Agency and Learning: Critical Reflections on Professional Learning Communities. Canadian Journal of Education, 35(1). https://journals.sfu.ca/cje/index.php/cje
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument drawing on Tarnoczi (2006), Ball (1987) and Achistein (2002): the change sought is "the transformation of the teachers’ attitudes towards reform, instead of a transformation of the current educational practices," and conflict is denied.
 

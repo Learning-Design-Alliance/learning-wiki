@@ -15,12 +15,14 @@ sources:
     author: Ping Wong, Patricia Duff, and Margaret Early
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Even after training, participants had limited opportunities to use English outside work, and some workplaces were predominantly non-English
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Some participants regretted not having more opportunities to use English in everyday life; for most, English use was limited to the workplace or former classmates, and some workplaces used a language other than English predominantly. [→ Ping Wong 2001](#ping-wong-2001)
@@ -31,7 +33,7 @@ sources:
 
 Ping Wong, Patricia Duff, and Margaret Early. (2001). The Impact of Language and Skills Training on Immigrants' Lives. TESL Canada Journal, Vol. 18, No. 2, Spring 2001. https://eric.ed.gov/?id=EJ659475
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Interview findings on English use in public and private spheres. The article reports that "some participants regretted not having more opportunities to use English in their everyday life," with only one participant reporting English-speaking friends and some workplaces dominated by another language.
 

@@ -15,12 +15,14 @@ sources:
     q: 2
     i: 3
     n: low-achieving 4th-grade cohort, Dallas Independent School District
+    kind: associational
+    rigour: "?"
 ---
 
 # Effective teachers compound their advantage over consecutive years, and low-achieving students are disproportionately assigned to ineffective ones
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large · n=low-achieving 4th-grade cohort, Dallas Independent School District
+> **Evidence** · 1 study · associational `r?` · `q2` · `i3` large · n=low-achieving 4th-grade cohort, Dallas Independent School District
 
 Teacher effectiveness, tracked as a growth or value-added measure rather than a single-year snapshot, produces large downstream differences in student outcomes — and the students most likely to benefit from an effective teacher are, on average, less likely to actually get one across consecutive years.
 
@@ -34,7 +36,7 @@ Teacher effectiveness, tracked as a growth or value-added measure rather than a 
 
 Bracey, G. W. (2004). *Setting the record straight: Responses to misconceptions about public education in the U.S.* (2nd ed.). Heinemann. [https://www.heinemann.com/products/e00594.aspx](https://www.heinemann.com/products/e00594.aspx)
 
-`q2 · longitudinal cohort study of low-achieving students tracked across three years, cited secondarily · i3 · large gap in downstream pass rates (90% vs. 42%) · n=low-achieving 4th-grade cohort, Dallas Independent School District`
+`q2 · longitudinal cohort study of low-achieving students tracked across three years, cited secondarily · i3 · large gap in downstream pass rates (90% vs. 42%) · n=low-achieving 4th-grade cohort, Dallas Independent School District` · `associational · r?`
 
 Low-achieving fourth-grade students in Dallas were followed for three years and classified by whether their teachers over that span were effective or ineffective; 90 percent of students with effective teachers passed the seventh-grade math test, compared with only 42 percent of students with ineffective teachers. The same study found that low-achieving students were *more* likely than high-achieving students to be assigned an ineffective teacher for all three years running — meaning the students who would benefit most from strong instruction were, if anything, less likely to consistently receive it. This finding is cited secondhand via Bracey (2004) rather than traced to the original Dallas research report, so the original study's design details (exact effectiveness measure, sample size, statistical controls) could not be verified against primary source text.
 

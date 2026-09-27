@@ -15,12 +15,14 @@ sources:
     author: "Denise Santos & Gláucia Silva"
     q: 1
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Successful and unsuccessful listening performance in this study is associated with learners' strategic behaviour rather than with heritage or non-heritage status
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The authors interpret their data as showing that successful versus unsuccessful performance tends to be predominantly associated with strategic behaviour while listening rather than with whether learners are HLLs or NHLLs. [→ Denise Santos & Gláucia Silva 2015](#denise-santos-glaucia-silva-2015)
@@ -31,7 +33,7 @@ sources:
 
 Denise Santos & Gláucia Silva. (2015). Exploring Portuguese Heritage and Non-Heritage Learners' Perceptions of and Performance in Listening. The Canadian Journal of Applied Linguistics 18(1), 63-86. https://journals.sfu.ca/cjal/index.php/cjal
 
-`q1 · i?`
+`q1 · i?` · `associational · r1`
 
 Authors' interpretation in the Discussion, drawing on their combined quantitative and qualitative findings and on prior characterisations of successful and unsuccessful listeners (O'Malley et al., 1989; Macaro et al., 2007). This is an author interpretation, not a tested result.
 

@@ -15,12 +15,14 @@ sources:
     author: Xiangdong Liu
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Character education is criticized for didacticism and de-emphasizing reflection and moral judgment, and Dewey's deliberation is proposed as a bridge between it and Kohlberg's approach
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Character education has been criticized for didacticism and for de-emphasizing reflection and moral judgment, while Kohlberg's approach has been criticized for inability to cultivate moral content and for ignoring moral sentiment. [→ Xiangdong Liu 2014](#xiangdong-liu-2014)
@@ -31,7 +33,7 @@ sources:
 
 Xiangdong Liu. (2014). The Problem of Character Education and Kohlberg's Moral Education: Critique from Dewey's Moral Deliberation. Philosophical Studies in Education 45. https://www.ovpes.org/
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Philosophical argument in the article's framing section: the author states that "Character education has been criticized for didacticism" and positions Dewey's moral deliberation as an effective way to bridge the divide between the two dominant approaches. No empirical data are offered; this is the author's interpretive claim.
 

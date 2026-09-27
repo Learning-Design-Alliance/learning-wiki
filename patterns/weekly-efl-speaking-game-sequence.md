@@ -17,7 +17,7 @@ sources:
 # Weekly game sequence for EFL speaking practice
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article describes a four-week sequence of classroom games used to elicit target-language speaking: a questioning game in week 1, group role-play dialogues in week 2, an imagination game in week 3, and collaborative story continuation in week 4. Each game, in the authors' words, lets students "use the target language" through questioning, role-play, imagination, or creative storytelling. The sequence served as the intervention whose perceived effects students then discussed in interviews.

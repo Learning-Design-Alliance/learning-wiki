@@ -15,12 +15,14 @@ sources:
     author: "Greene, J. P., & Winters, M. A."
     q: 1
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The authors infer the DC voucher program is likely reducing racial segregation in schooling, since 94% of voucher users are African American
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Because the vast majority of voucher users are non-White (94% African American) and voucher private schools are less segregated than the public schools these children leave, the authors infer the program is likely reducing racial segregation. [→ Greene 2007](#greene-2007)
@@ -31,7 +33,7 @@ sources:
 
 Greene, J. P., & Winters, M. A. (2007). An evaluation of the effect of DC's voucher program on public school achievement and racial integration after one year. Catholic Education: A Journal of Inquiry and Practice, 11(1), 83-101. https://eric.ed.gov/?id=EJ1005985
 
-`q1 · i?`
+`q1 · i?` · `associational · r2`
 
 The authors' interpretive inference (not a direct test), combining the printed 94% African American figure for voucher users, attributed to Wolf et al. (2005), with their own sector-comparison results. The article notes a direct impact evaluation would require individual-level enrollment data not publicly available.
 

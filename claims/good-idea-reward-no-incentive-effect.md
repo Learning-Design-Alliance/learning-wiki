@@ -15,12 +15,14 @@ sources:
     author: Ward, William C., Nathan Kogan, and Ethel Pankove
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Rewarding only 'good' ideas in a final task produced no incentive effect, but this condition was confounded and excluded from the main analysis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` No incentive effect was found when pennies were offered for good rather than all ideas, though the condition was confounded with the main manipulation. [→ Ward 1970](#ward-1970)
@@ -31,7 +33,7 @@ sources:
 
 Ward, William C., Nathan Kogan, and Ethel Pankove. (1970). Motivation and Capacity in Children's Creativity. Research Bulletin. Educational Testing Service. https://eric.ed.gov/?id=ED045766
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Footnote describing a final-task condition in which reward was contingent on "good" ideas; the null comparison with Control children is reported but the authors exclude it as confounded with the main incentive manipulation.
 

@@ -17,7 +17,7 @@ sources:
 # Extensive reading website with annotated bibliography and program-starting resources
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article points readers to a website on extensive reading in second language instruction, at http://www.kyoto-su.ac.jp/information/er/, which "includes an annotated bibliography of works on the topic and many other features, including research articles and ideas for beginning an extensive reading program." It serves as the article's pointer to accumulated ER resources and further discussion of issues such as L1 use in group activities.

@@ -15,12 +15,14 @@ sources:
     author: Wisconsin State Dept. of Public Instruction, Madison
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # The Wisconsin information and technology literacy standards are organized into four content standards: media and technology, information and inquiry, independent learning, and the learning community.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The information and technology literacy standards are grouped into four content standards specifying what students should know and be able to do. [→ Wisconsin State Dept. of Public Instruction 1998](#wisconsin-state-dept-of-public-instruction-1998)
@@ -31,7 +33,7 @@ sources:
 
 Wisconsin State Dept. of Public Instruction, Madison. (1998). Wisconsin's Model Academic Standards for Information and Technology Literacy. Bulletin No. 90002. https://eric.ed.gov/?id=ED423881
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 A descriptive statement from the Organization section of the standards document. The document states that the standards "are grouped into four categories or content standards" — media and technology, information and inquiry, independent learning, and the learning community.
 

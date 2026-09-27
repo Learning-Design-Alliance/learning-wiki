@@ -16,7 +16,7 @@ sources:
 # Four-type taxonomy of semantic relations in grapho-phonemically related Polish-English word pairs
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q1` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article organizes formally similar English/Polish word pairs by their semantic relation, following Lyons's distributional types. The system comprises equivalence (E alphabet : P alfabet), inclusion in either direction (E fiction : P fikcja; E protocol : P protokol), overlapping (E platform : P platforma), and contrast (E lecture : P lektura). The taxonomy structures the paper's analysis of lexical interference risk for translators and learners.

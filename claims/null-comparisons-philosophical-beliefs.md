@@ -15,12 +15,14 @@ sources:
     author: Starkey, John D.; Barr, Rita L.
     q: 2
     i: 0
+    kind: associational
+    rigour: 1
 ---
 
 # Several group comparisons show no statistically significant differences in philosophical belief
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r1` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i?` Secondary graduate versus secondary undergraduate comparisons show no statistical significance for Realism, Existentialism, or Phenomenology. [→ Starkey 1972](#starkey-1972)
@@ -31,7 +33,7 @@ sources:
 
 Starkey, John D.; Barr, Rita L. (1972). The Philosophical Nature of Teachers--Graduate and Undergraduate. https://eric.ed.gov/?id=ED072018
 
-`q2 · i0`
+`q2 · i0` · `associational · r1`
 
 Secondary graduate versus secondary undergraduate comparison (Table VII, N = 238); no significant difference was detected, and equivalence was not tested. Idealism and Pragmatism were significant at the .10 level in the same comparison.
 

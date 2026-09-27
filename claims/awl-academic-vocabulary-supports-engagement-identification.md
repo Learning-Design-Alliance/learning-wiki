@@ -15,12 +15,14 @@ sources:
     author: "Gorgun, G., Yildirim-Erbasli, S. N., & Demmans Epp, C."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Discipline-general academic vocabulary (AWL use) supports cognitive engagement identification and may aid generalization across courses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The authors report that use of academic vocabulary from the AWL, which is not discipline-specific, supports identification of cognitive engagement and should be included in future models. [→ Gorgun 2022](#gorgun-2022)
@@ -31,7 +33,7 @@ sources:
 
 Gorgun, G., Yildirim-Erbasli, S. N., & Demmans Epp, C. (2022). Predicting cognitive engagement in online course discussion forums. Proceedings of the 15th International Conference on Educational Data Mining. https://doi.org/10.5281/zenodo.6853149
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Authors' interpretation in the discussion of their feature importance results, building on prior studies that captured vocabulary through other means (e.g., LIWC). The AWL count feature was not included in those earlier studies.
 

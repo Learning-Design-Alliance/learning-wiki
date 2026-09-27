@@ -15,18 +15,22 @@ sources:
     author: "Karatas, Z. & Tagay, O."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: karatas-2012-2
     resource: "http://dx.doi.org/10.5539/ies.v5n6p131"
     title: "Karatas, Z. & Tagay, O. (2012). Self Esteem, Locus of Control and Multidimensional Perfectionism as the Predictors of Subjective Well Being. International Education Studies, 5(6). http://dx.doi.org/10.5539/ies.v5n6p131"
     author: "Karatas, Z. & Tagay, O."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Self-esteem, locus of control and multidimensional perfectionism together significantly predict subjective well-being, jointly accounting for 34.8% of variance, with self-esteem the largest contributor at 28%
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In gradual regression analysis, the set of self-esteem, locus of control and multidimensional perfectionism variables significantly predicted subjective well-being, with a total expressed variance percentage of 34.8%. [→ Karatas 2012](#karatas-2012)
@@ -38,7 +42,7 @@ sources:
 
 Karatas, Z. & Tagay, O. (2012). Self Esteem, Locus of Control and Multidimensional Perfectionism as the Predictors of Subjective Well Being. International Education Studies, 5(6). http://dx.doi.org/10.5539/ies.v5n6p131
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Gradual regression analysis (Table 2, n=318) entering self-esteem, locus of control and the three perfectionism sub-scales; the article reports the "total ex pressing percentage of all the variables" as 34.8%, with all F Change values starred p<.01. No standardised effect size is printed for the omnibus model.
 
@@ -48,7 +52,7 @@ Gradual regression analysis (Table 2, n=318) entering self-esteem, locus of cont
 
 Karatas, Z. & Tagay, O. (2012). Self Esteem, Locus of Control and Multidimensional Perfectionism as the Predictors of Subjective Well Being. International Education Studies, 5(6). http://dx.doi.org/10.5539/ies.v5n6p131
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Gradual regression analysis (Table 2, n=318): self-esteem entered first with R = .529, R2 = .280, F Change = 122.683 (p<.01) and Beta = .529; the text names it as predicting "most" with "the percentage of 28%".
 

@@ -15,6 +15,8 @@ sources:
     q: 4
     i: 2
     n: 48 interventions
+    kind: quant-synthesis
+    rigour: "?"
   - id: adimora-et-al-2017
     resource: "https://doi.org/10.18844/prosoc.v3i3.1582"
     title: "Adimora, D. E., Nwokenna, E. N., & Obiageli, M. (2017). Application of comprehension monitoring strategy for achievement and interest of low-achievers in reading comprehension. *New Trends and Issues Proceedings on Humanities and Social Sciences, 3*(3), 347–362. [doi:10.18844/prosoc.v3i3.1582](https://doi.org/10.18844/prosoc.v3i3.1582)"
@@ -22,12 +24,14 @@ sources:
     q: 2
     i: "?"
     n: 127 (62 experimental, 65 control)
+    kind: causal
+    rigour: 1
 ---
 
 # Self Monitoring Comprehension Improves Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2`–`q4` · `i2` medium
+> **Evidence** · 2 studies · 1 causal `r1`, 1 quant-synthesis `r?` · `q2`–`q4` · `i2` medium
 
 Learners who actively monitor their own comprehension — checking whether they understand, detecting gaps, and repairing them — learn more than learners who read or study passively.
 
@@ -43,7 +47,7 @@ Learners who actively monitor their own comprehension — checking whether they 
 
 de Boer, H., Donker, A. S., Kostons, D. D. N. M., & van der Werf, G. P. C. (2018). Long-term effects of metacognitive strategy instruction on student academic performance: A meta-analysis. *Educational Research Review, 24*, 98–115. [doi:10.1016/j.edurev.2018.03.002](https://doi.org/10.1016/j.edurev.2018.03.002)
 
-`q4 · meta-analysis (48 interventions)` · `i2 · medium effect, Hedges' g=0.50 (posttest), g=0.63 (follow-up)` · `n=48 interventions`
+`q4 · meta-analysis (48 interventions)` · `i2 · medium effect, Hedges' g=0.50 (posttest), g=0.63 (follow-up)` · `n=48 interventions` · `quant-synthesis · r?`
 
 This meta-analysis pooled 48 studies of metacognitive strategy instruction — a category that includes teaching students to monitor and check their own comprehension — and tracked effects on academic performance from posttest to a later follow-up test. The instruction effect was Hedges' g = 0.50 at posttest and grew slightly to g = 0.63 at follow-up, meaning gains were retained rather than fading. Moderator analyses found low-SES students benefited the most long-term, and that specific component strategies (metacognitive, cognitive, management, or motivational) did not differentially moderate the overall effect, except that including "rehearsal" as a component was associated with a smaller long-term effect. Read as abstract only (publisher page blocked by a bot challenge; no accessible repository copy located).
 
@@ -51,7 +55,7 @@ This meta-analysis pooled 48 studies of metacognitive strategy instruction — a
 
 Adimora, D. E., Nwokenna, E. N., & Obiageli, M. (2017). Application of comprehension monitoring strategy for achievement and interest of low-achievers in reading comprehension. *New Trends and Issues Proceedings on Humanities and Social Sciences, 3*(3), 347–362. [doi:10.18844/prosoc.v3i3.1582](https://doi.org/10.18844/prosoc.v3i3.1582)
 
-`q2 · quasi-experimental, non-equivalent pretest-posttest control group` · `i? · no standardized effect size reported` · `n=127 (62 experimental, 65 control)`
+`q2 · quasi-experimental, non-equivalent pretest-posttest control group` · `i? · no standardized effect size reported` · `n=127 (62 experimental, 65 control)` · `causal · r1`
 
 Low-achieving Nigerian senior-secondary students (n=127, two intact classes) were assigned to a comprehension-monitoring-strategy (CMS) treatment group or a conventional-instruction control group in a non-randomized pretest-posttest design. The CMS group's mean reading-comprehension score rose from 18.26 to 37.17 (gain of 18.92), versus the control group's rise from 17.75 to 18.68 (gain of 0.93); ANCOVA found a significant effect of treatment on posttest achievement (F = 828.05, p < .001, adjusted R² = .872) after controlling for pretest scores. The same pattern held for a reading-interest measure. Only raw means, an F-statistic and adjusted R² were reported — no Cohen's d, Hedges' g or comparable standardized effect size appears in the text, so impact is coded `i?` rather than computed from the raw scores. Read full text (PDF).
 

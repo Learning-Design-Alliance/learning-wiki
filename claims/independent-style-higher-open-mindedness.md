@@ -15,12 +15,14 @@ sources:
     author: Balta, E. E.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Independent-style preservice teachers score higher on open-mindedness than avoidant, collaborative, and competitive styles
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Games Howell post hoc analysis showed individuals with independent learning style scored significantly higher on open-mindedness than those with avoidant, collaborative, and competitive learning styles. [→ Balta 2018](#balta-2018)
@@ -31,7 +33,7 @@ sources:
 
 Balta, E. E. (2018). Reflective Thinking Tendencies and Epistemological Beliefs in Terms of Learning Styles. International Journal of Higher Education, 7(6). https://doi.org/10.5430/ijhe.v7n6p106
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Games Howell post hoc comparison from Table 4 (independent n=108, avoidant n=33, collaborative n=97, competitive n=30). Printed means: independent 4.25, avoidant 3.70, collaborative 3.99, competitive 3.87; the discussion notes avoidant style had the lowest mean in open-mindedness.
 

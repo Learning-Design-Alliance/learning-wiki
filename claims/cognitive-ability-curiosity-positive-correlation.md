@@ -15,12 +15,14 @@ sources:
     author: Mussel, Patrick
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Cognitive ability and curiosity are positively correlated in young adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Cognitive ability and curiosity showed a positive bivariate correlation (r = 0.27 at T1) in a large longitudinal panel. [→ Mussel 2022](#mussel-2022)
@@ -31,7 +33,7 @@ sources:
 
 Mussel, Patrick. (2022). Processes Underlying the Relation between Cognitive Ability and Curiosity with Academic Performance: A Mediation Analysis for Epistemic Behavior in a Five-Year Longitudinal Study. Journal of Intelligence 10: 23. https://doi.org/10.3390/jintelligence10020023
 
-`q3 · i1`
+`q3 · i1` · `associational · r2`
 
 Bivariate correlations from the German Personality Panel longitudinal study (N = 1965 at T1), reported in the Results section. The article reports a positive correlation between cognitive ability and curiosity, "r = 0.27 for T1", consistent with prior literature on investment traits.
 

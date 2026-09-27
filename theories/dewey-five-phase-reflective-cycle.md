@@ -16,7 +16,7 @@ sources:
 # Dewey's five-phase reflective cycle of thought
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies, `q1` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 theoretical), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper describes Dewey's (1933) account of disciplined, problem-centered reflective thought: 'Dewey (1933) identifies five phases in the reflective cycle of thought.' Reflection begins with an unconsciously arising doubt, which is organized into a question, developed into a tentative solution, examined against previous knowledge, and tested in action. The cycle is explicitly not a rigid sequence: each phase can lead to new observations and redefine the problem, and unconscious mind play contributes spontaneity and freshness.

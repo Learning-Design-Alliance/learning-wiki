@@ -15,12 +15,14 @@ sources:
     author: "Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P."
     q: 2
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # Four weeks of out-of-class role-playing gamification with Mangomon significantly improved Thai undergraduates' business vocabulary test scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` After four weeks of autonomous out-of-class play, participants' business vocabulary post-test scores were significantly higher than pre-test scores, with a large effect size (Cohen's d = 1.80). [→ Tangkiengsirisin 2025](#tangkiengsirisin-2025)
@@ -31,7 +33,7 @@ sources:
 
 Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2025). The effects of role-playing gamification on business vocabulary learning and motivation: A study of language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620
 
-`q2 · i3`
+`q2 · i3` · `causal · r1`
 
 Quasi-experimental pre-post study of 21 Thai business undergraduates who played Mangomon outside class for four weeks. Paired t-test on 30-item gap-filling vocabulary test showed the post-test mean exceeded the pre-test mean, "statistically significant, t(20) = 6.99, p < .0001"; the article reports Cohen's d = 1.80 as large.
 

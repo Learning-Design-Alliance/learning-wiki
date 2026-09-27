@@ -15,12 +15,14 @@ sources:
     author: Amrein, Audrey
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # In a two-way immersion program, code-switching asymmetry arose because Spanish teachers were bilingual while English teachers were monolingual
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Spanish-speaking teachers could and did translate instructions into English for native English-speaking students, while monolingual English teachers could not translate for native Spanish-speaking students, producing unequal opportunities to learn. [→ Amrein 2000](#amrein-2000)
@@ -31,7 +33,7 @@ sources:
 
 Amrein, Audrey. (2000). Dual Language Asymmetry: Symbolic Inequalities. Paper presented at the Annual Meeting of the American Educational Research Association. https://eric.ed.gov/?id=ED440548
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Classroom observations across six dual language classrooms (two each at kindergarten, 1st, and 2nd grade) at Leigh Elementary, plus interviews with the program director and teachers. The study found "such translation (code switching) was not available to native Spanish-speaking children."
 

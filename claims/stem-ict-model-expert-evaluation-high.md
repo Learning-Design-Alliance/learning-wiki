@@ -15,12 +15,14 @@ sources:
     author: "Changpetch & Seechaliao"
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Eleven experts rated the tentative STEM-ICT instructional model as appropriate at a high level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Expert evaluation of the tentative model yielded an overall average arithmetic mean of 4.44 (S.D. 0.67), a high level of appropriateness. [→ Changpetch & Seechaliao 2020](#changpetch-seechaliao-2020)
@@ -31,7 +33,7 @@ sources:
 
 Changpetch & Seechaliao. (2020). The Propose of an Instructional Model Based on STEM Education Approach for Enhancing the Information and Communication Technology Skills for Elementary Students in Thailand. International Education Studies. https://doi.org/10.5539/ies.v13n1p69
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Phase II expert evaluation by eleven experts using a rating-scale questionnaire. Table 1 shows element means from 4.40 to 4.51, with the overall process rated "Most high" at 4.51 (S.D. 0.82); the overall average was "4.44 and the standard deviation was 0.67".
 

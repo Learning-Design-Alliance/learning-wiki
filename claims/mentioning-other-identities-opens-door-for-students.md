@@ -15,12 +15,14 @@ sources:
     author: Hulsebosch, Pat; Koerner, Mari
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # A teacher mentioning her own less-celebrated identities opens the door for students to include their perspectives and identities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Mentioning unpopular, uncommon, or uncelebrated identities in class is likely to lead students to include their own perspectives and identities more than they otherwise would. [→ Hulsebosch 1993](#hulsebosch-1993)
@@ -31,7 +33,7 @@ sources:
 
 Hulsebosch, Pat; Koerner, Mari. (1993). What Does Cultural Identity Have To Do with the Preparation of Teachers? Case Studies of "Culturally-Aware" Teachers. https://eric.ed.gov/?id=ED403553
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r1`
 
 Pat Hulsebosch's narrative reports from her own teaching experience that "mentioning "other" identities" is "likely to open the door" for students to share theirs, e.g., a student describing a self-taught grandfather during the Mexican revolution.
 

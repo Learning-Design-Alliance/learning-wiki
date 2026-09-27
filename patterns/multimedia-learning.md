@@ -14,7 +14,7 @@ grain_size: lesson
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 7 claims (4 for, 3 mixed) · 10 studies, `q2`–`q4` · 3 of 10 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (4 for, 3 mixed) · 10 studies (6 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 3 of 10 report an effect size · 3 claims rest on one study
 
 ## Description
 Multimedia Learning is the short-form canonical target for patterns that combine verbal and visual media in intentionally coordinated ways to support understanding.

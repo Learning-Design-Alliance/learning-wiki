@@ -16,7 +16,7 @@ sources:
 # Five dimensions of affective development in the preschool child
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The report organizes affective development—defined broadly as "the emotional state and the personal attitudes of the individual"—into five critical dimensions: emergence of self, caretaker attachment, adaptation-mastery, self-concept, and socialization. The authors chose these dimensions "because they appear to be central to affective development" and use them as the analytic framework linking theory, curriculum materials, assessment devices, and bibliography entries throughout the report. They caution that the dimensions are interrelated and may develop simultaneously, while still mapping them to approximate age periods from birth through 48 months.

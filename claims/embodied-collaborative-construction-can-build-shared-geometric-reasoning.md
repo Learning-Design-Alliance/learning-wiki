@@ -15,12 +15,14 @@ sources:
     q: 1
     i: "?"
     n: 4 graduate students with embodied-cognition/STEM-education training
+    kind: qualitative
+    rigour: 2
 ---
 
 # Embodied collaborative construction can build shared geometric reasoning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case · n=4 graduate students with embodied-cognition/STEM-education training
+> **Evidence** · 1 study · qualitative `r2` · `q1` · n=4 graduate students with embodied-cognition/STEM-education training
 
 When a group physically constructs a complex geometric structure without instructions, individual members' perceptual insights — communicated through combined gesture, speech, and material action — can sediment into shared, reusable structural concepts that the group later uses for formal geometric reasoning.
 
@@ -35,7 +37,7 @@ When a group physically constructs a complex geometric structure without instruc
 
 Palatnik, A., & Abrahamson, D. (2026). Building knowledge: The ecological dynamics of co-operative action in collaborative construction of body-scale geometric structures. *Journal of the Learning Sciences*. [https://doi.org/10.1080/10508406.2026.2622059](https://doi.org/10.1080/10508406.2026.2622059)
 
-`q1 · single unfacilitated case study with microgenetic video analysis` · `i? · the abstract prints no effect size; the full text may` · `n=4 graduate students with embodied-cognition/STEM-education training`
+`q1 · single unfacilitated case study with microgenetic video analysis` · `i? · the abstract prints no effect size; the full text may` · `n=4 graduate students with embodied-cognition/STEM-education training` · `qualitative · r2`
 
 Four graduate students were given rods, connectors, an image of an icosahedron, and a short properties list, with no assembly instructions. Microgenetic analysis of video-recorded interaction identified five iterative cycles in which the group detected a structural problem (e.g., an incorrect vertex configuration), one member articulated a perceptual insight through coordinated speech ("star," "base"), gesture, and material positioning, and the group took up and stabilized that naming as a shared resource for the next construction step. In post-construction reflection, participants used the "base" concept (a pentagonal-pyramid sub-structure) and the "five-triangle star" to calculate the icosahedron's edge count by decomposing the solid into two bases plus connecting rods.
 

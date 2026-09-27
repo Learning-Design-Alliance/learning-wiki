@@ -15,12 +15,14 @@ sources:
     author: "Clinton, V., Alibali, M. W., & Nathan, M. J."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Diagrams improved posttest accuracy only in the read-twice condition, not in the questioning conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the read-twice condition, lessons with diagrams yielded better posttest performance than lessons without diagrams; diagram presence did not affect posttest performance in the embedded questioning or elaborative interrogation conditions. [→ Clinton 2016](#clinton-2016)
@@ -31,7 +33,7 @@ sources:
 
 Clinton, V., Alibali, M. W., & Nathan, M. J. (2016). Learning About Posterior Probability: Do Diagrams and Elaborative Interrogation Help? The Journal of Experimental Education, 84(3), 579-599. https://doi.org/10.1080/00220973.2015.1048847
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Mixed-effects model on posttest item accuracy in the randomized factorial experiment (N = 198). The interaction of diagram presence and questioning condition was significant, and in the read-twice condition "participants whose lessons included diagrams performed better on the posttest". No effect size printed.
 

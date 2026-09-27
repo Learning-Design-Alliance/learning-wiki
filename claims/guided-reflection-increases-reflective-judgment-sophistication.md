@@ -15,12 +15,14 @@ sources:
     author: Schoen, L.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Continuous guided reflection and dialogue about ill-defined dilemmas contributed to increased reflective judgment sophistication in several preservice teachers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the pilot study, sustained participation in dialogue and guided reflection about ill-defined dilemmas was associated with more sophisticated reflective judgment in several participants. [→ Schoen 2005](#schoen-2005)
@@ -31,7 +33,7 @@ sources:
 
 Schoen, L. (2005). Learning to make sense of the dilemmas of teaching practice: An exploration of preservice teachers' development of reflective judgment. Boston College. https://eric.ed.gov/?id=ED506804
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Pilot study (January-May 2002) with six student teachers using weekly online dialogue journaling, biweekly dilemma seminars, post-observation interviews and reflective essays. The author reports the increase for "several of the participants," not all; no effect size is printed.
 

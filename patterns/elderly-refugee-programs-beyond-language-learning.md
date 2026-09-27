@@ -17,7 +17,7 @@ sources:
 # Successful elderly-refugee language programs incorporate more than just language learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The digest reports that language learning programs specifically for elderly refugees "have been sparse" and that "Those that incorporate more than just language learning seem to be the most successful." Its examples pair English learning with intergenerational friendship, job training, household skills, music and science, or community-service videos.

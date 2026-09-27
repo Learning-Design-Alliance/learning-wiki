@@ -15,12 +15,14 @@ sources:
     author: Sáez, N.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Awareness of how learners' conceptual representations deviate from native-speaker preferences can help teachers decide where to focus classroom attention, promoting conceptual fluency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Awareness of how learners' conceptual representations deviate from native speaker preferences of use may assist teachers in deciding where to place greater attention in the classroom. [→ Sáez 2014](#saez-2014)
@@ -31,7 +33,7 @@ sources:
 
 Sáez, N. (2014). Enhancing the Role of Meaning in the L2 Classroom: A Cognitive Linguistics Perspective. Teachers College, Columbia University Working Papers in TESOL & Applied Linguistics. https://eric.ed.gov/?id=EJ1176947
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The article states this as an attributed proposal (citing Odlin, 2006) about diagnostic use of conceptual-deviation awareness; no data are presented for it in this piece.
 

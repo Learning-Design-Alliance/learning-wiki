@@ -15,12 +15,14 @@ sources:
     author: Luppicini, Rocci; Schnackenberg, Heidi
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Constructivist learning environments are built on four system attributes: context, construction, collaboration, and conversation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Jonassen's principles for building Constructivist learning environments focus on four general system attributes: context, construction, collaboration, and conversation. [→ Luppicini 2000](#luppicini-2000)
@@ -31,7 +33,7 @@ sources:
 
 Luppicini, Rocci; Schnackenberg, Heidi. (2000). In Support of Constructivism: Utilizing Rational, Moral and Communicative Frameworks to Address Frequently Posited Criticisms. https://eric.ed.gov/?id=ED455777
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Definitional statement quoted from Jonassen (1995) as cited in the paper, describing how Constructivist learning environments engage learners in knowledge construction through collaborative activities embedded in meaningful contexts.
 

@@ -15,12 +15,14 @@ sources:
     author: "Lu, Y., Tong, L., & Cheng, Y."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Single instances of help-seeking actions (answer requested, explanation requested) carry more predictive information than single correct or open responses (ISA)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` By the importance-of-a-single-action measure, single instances of "answer requested" (ISA 1.1293) and "explanation requested" (ISA 1.0983) have higher relative importance than "correct response" (0.9456) and "open response" (0.9933). [→ Lu 2024](#lu-2024)
@@ -31,7 +33,7 @@ sources:
 
 Lu, Y., Tong, L., & Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula Information via an Attention-Based Framework for Accuracy and Interpretability. Journal of Educational Data Mining, 16(2). https://osf.io/mdpzc/
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Interpretation analysis of attention weights from the single-head Transformer Encoder on ASSISTments action logs (Table 6). The authors report "the ISA of “answer requested” and “explanation requested” are 1.1293 and 1.0983 respectively", exceeding correct and open responses.
 

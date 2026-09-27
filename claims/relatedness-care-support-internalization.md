@@ -15,12 +15,14 @@ sources:
     author: Jennifer D. Moss
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Positive teacher-student relationships fulfill relatedness needs and support internalization of learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Students in classrooms with higher levels of relatedness are more likely to internalize the teacher's values and find more identified regulation for learning, and student satisfaction with the class increases when positive relationships are valued. [→ Jennifer D. Moss 2017](#jennifer-d-moss-2017)
@@ -31,7 +33,7 @@ sources:
 
 Jennifer D. Moss. (2017). Inviting Autonomy: Common Roots and Beliefs of Self-determination Theory and Invitational Education Theory. Journal of Invitational Theory and Practice. https://www.invitationaleducation.net/journal-of-invitational-theory-and-practice/
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The article's relatedness section links IE's care element to SDT's relatedness need: caring teachers with empathy, warmth, and positive regard satisfy students' relatedness needs. The article attributes the internalization finding to Niemiec and Ryan and the satisfaction finding to Amos via Purkey and Stanley, printing no effect sizes.
 

@@ -15,12 +15,14 @@ sources:
     author: "Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z."
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # The number of students reporting deep engagement in algebra grew yearly, reaching 2,074 by 2019 and exceeding the network's aim of 2,019
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Cumulative students reporting deep engagement reached 2,074 by 2019, exceeding the 2,019 aim, and 2,221 total by spring 2020. [→ Smith 2021](#smith-2021)
@@ -31,7 +33,7 @@ sources:
 
 Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z. (2021). The Better Math Teaching Network: Lessons Learned From a 5-Year Instructionally Focused NIC. American Institutes for Research & WestEd. https://www.bettermathteachingnetwork.org/
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r3`
 
 Annual spring 14-item student survey of opportunities for deep engagement, scored Never (1) to Almost every class (5), with averages of 3 or higher counted as moderate evidence. "the cumulative number of students reached 2,074, exceeding the aim of 2,019 students"; 147 more added in spring 2020 for 2,221 total.
 

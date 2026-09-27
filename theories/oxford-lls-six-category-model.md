@@ -16,7 +16,7 @@ sources:
 # Oxford's (1990) language learning strategy model with six strategy categories
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The study's conceptual framework is Oxford's (1990) LLS model, chosen "due to its thorough categorization of LLSs and for its frequent mention and use in the literature." The model divides LLSs into six groups: "memory, cognitive, compensation, metacognitive, social, and affective strategies." Oxford's work also produced the SILL, a quantitative questionnaire measuring frequency of strategy use. The article uses the model's categories as the predetermined typologies for coding interview data.

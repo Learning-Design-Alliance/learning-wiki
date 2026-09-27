@@ -15,12 +15,14 @@ sources:
     author: F.V. Kowalski and S.E. Kowalski
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Engineering physics undergraduates are more curious than they appear in lecture when given the chance to submit questions about interactive simulations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students in a junior-level electromagnetics course submitted questions revealing curiosity not visible in lecture, and participated without extrinsic motivation. [→ F.V. Kowalski and S.E. Kowalski 2013](#fv-kowalski-and-se-kowalski-2013)
@@ -31,7 +33,7 @@ sources:
 
 F.V. Kowalski and S.E. Kowalski. (2013). Enhancing Curiosity Using Interactive Simulations Combined with Real-Time Formative Assessment Facilitated by Open-Format Questions on Tablet Computers. https://arxiv.org/abs/1308.1110
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Observational classroom study in a junior-level electromagnetics engineering physics course using real-time open-format questions via InkSurvey during four simulations. The authors conclude students are "more curious than they appear in class" and participate without extrinsic motivation; no effect size is reported.
 

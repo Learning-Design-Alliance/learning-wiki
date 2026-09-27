@@ -17,7 +17,7 @@ sources:
 # When introducing spaced learning, explain the approach to learners and tailor repetition intervals to the audience and content
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Drawing on Toppino and Cohen (2010), the article states that introducing a spaced learning program demands presenting learners with the idea of a learning target and explaining the approach, for example "explicating the importance of taking intervals in information storage". It further holds that "the spaces between repetitions should be 'tailored' on the basis of the audience's needs, priorities, and information content". The article also cautions that spaced learning requires time management and organizational skills from trainees, which may be a challenge.

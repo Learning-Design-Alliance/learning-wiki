@@ -15,18 +15,22 @@ sources:
     author: Özsoy, S.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: özsoy-2009-2
     resource: "https://eric.ed.gov/?id=EJ867373"
     title: "Özsoy, S. (2009). \"Turkish Modernization,\" Democracy, and Education: An Analysis from Dewey's Perspective. Educational Sciences: Theory & Practice, 9(4). https://eric.ed.gov/?id=EJ867373"
     author: Özsoy, S.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Turkish education increasingly became an exam- and success-focused selective system prioritizing elite formation, contrary to Dewey's objection to exclusion and supervision mechanisms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Starting from the early years of the Republic, Turkish education increasingly became an exam- and success-focused selective system, while Dewey objected to all types of social exclusion and supervision mechanisms in education. [→ Özsoy 2009](#ozsoy-2009)
@@ -38,7 +42,7 @@ sources:
 
 Özsoy, S. (2009). "Turkish Modernization," Democracy, and Education: An Analysis from Dewey's Perspective. Educational Sciences: Theory & Practice, 9(4). https://eric.ed.gov/?id=EJ867373
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Historical-theoretical contrast in the balance-sheet section: Dewey objected to exclusion and supervision mechanisms in education, while Turkish education "has increasingly become an exam and success focused selective system."
 
@@ -48,7 +52,7 @@ Historical-theoretical contrast in the balance-sheet section: Dewey objected to 
 
 Özsoy, S. (2009). "Turkish Modernization," Democracy, and Education: An Analysis from Dewey's Perspective. Educational Sciences: Theory & Practice, 9(4). https://eric.ed.gov/?id=EJ867373
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The article reports Dewey's position, citing Westbrook and Eastman, that modernization cannot rest on a small number of leaders and that democracy requires education for all citizens, against the elite-formation priority the article attributes to the Turkish modernization project.
 

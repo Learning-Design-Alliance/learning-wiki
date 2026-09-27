@@ -16,7 +16,7 @@ sources:
 # Rule Space Model of cognitive diagnosis
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The Rule Space model (Tatsuoka, 1983) is an IRT-based diagnostic classification framework in which "Items are decomposed into attributes, which represent the latent traits that the items assess." From an examinee's response vector the model "infers the most likely combination of attributes the examinee has mastered." Classification proceeds in three steps: determining classification groups via an incidence matrix Q, formulating a two-dimensional classification space of IRT proficiency and a pattern-unusualness index, and classifying responses using Bayes' decision rules over ideal knowledge states. This paper extends it to a semantically rich domain by defining attributes as item characteristics with causal links to a problem-solving model.

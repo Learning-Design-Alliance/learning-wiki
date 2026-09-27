@@ -16,7 +16,7 @@ sources:
 # Zone of Proximal Development as learners' responsiveness to culturally appropriate mediation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 In this interview's account, the ZPD is what the instrumental method becomes when brought into school: education delivers "appropriate forms of cultural mediation" and observes whether and how students integrate them into problem solving. Lantolf states that Vygotsky suggested education could be delivered more effectively if students were grouped "according to the size (i.e., their responsiveness to mediation) of their ZPD". The ZPD is thus a diagnostic concept about mediation responsiveness, not a content level.

@@ -13,12 +13,14 @@ sources:
     title: cyberbullying-risk
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Adolescents with ASD are described as frequent targets of cyberbullying because they may miss social cues and lack self-advocacy skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Individuals with autism are often easy targets of cyberbullying because they can miss social cues, may not realize they are bullied, and may lack skills to respond, which can lead to anxiety, depression, and low self-esteem. [→ cyberbullying-risk](#cyberbullying-risk)
@@ -29,7 +31,7 @@ sources:
 
 Clinard, A. (2016, February). Internet Safety for Teens with ASD (Autism at-a-Glance Brief). Chapel Hill: The University of North Carolina, Frank Porter Graham Child Development Institute, CSESA Development Team. https://csesa.fpg.unc.edu/
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The brief asserts, without cited evidence, that individuals with autism are "often easy targets" of cyberbullying due to missed social cues, with possible anxiety, depression, and low self-esteem as outcomes.
 

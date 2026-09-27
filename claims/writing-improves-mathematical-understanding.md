@@ -15,12 +15,14 @@ sources:
     q: 3
     i: 1
     n: 56 experiments
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Writing Improves Mathematical Understanding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small · n=56 experiments
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i1` small · n=56 experiments
 
 Writing about mathematical reasoning — explaining solutions, justifying steps, or keeping math journals — deepens conceptual understanding by forcing learners to articulate the *why* behind procedures, not just execute them.
 
@@ -34,7 +36,7 @@ Writing about mathematical reasoning — explaining solutions, justifying steps,
 
 Graham, S., Kiuhara, S. A., & MacKay, M. (2020). The Effects of Writing on Learning in Science, Social Studies, and Mathematics: A Meta-Analysis. *Review of Educational Research, 90*(2), 179–226. [doi:10.3102/0034654320914744](https://doi.org/10.3102/0034654320914744)
 
-`q3 · meta-analysis of true/quasi-experiments (not pre-registered)` · `i1 · small effect, effect size = 0.30` · `n=56 experiments`
+`q3 · meta-analysis of true/quasi-experiments (not pre-registered)` · `i1 · small effect, effect size = 0.30` · `n=56 experiments` · `quant-synthesis · r?`
 
 This meta-analysis pooled 56 true or quasi-experimental studies (with pretests), conducted with students in Grades 1–12, comparing content-area instruction that included a writing-to-learn activity against otherwise-matched non-writing control conditions. Writing about content material reliably enhanced learning (effect size = 0.30), and the effect was statistically indistinguishable across science, social studies, and mathematics, and across elementary, middle, and high school. Effects were not moderated by the specific features of the writing activity, the instruction, or the assessment, nor by study-quality features. Only the publisher's abstract was available (the journal is not open access and no repository or preprint copy was found), so this entry cannot report the mathematics-specific effect size, k for the mathematics subset, or study-quality/moderator statistics beyond what the abstract states — those are readable in the full article but not verified here.
 

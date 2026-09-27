@@ -15,18 +15,22 @@ sources:
     author: "Bellhäuser, H., Liborius, P., & Schmitz, B."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: bellhäuser-2022-2
     resource: "https://doi.org/10.3389/fpsyg.2022.813381"
     title: "Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381"
     author: "Bellhäuser, H., Liborius, P., & Schmitz, B."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A repeated-measures MANOVA on SRL knowledge, self-efficacy, mathematics overall score and SRL overall score found a statistically significant group by time interaction (Pillai’s trace = 0.71, F(3,132) = 10.19; p < 0.001). [→ Bellhäuser 2022](#bellhauser-2022)
@@ -38,7 +42,7 @@ sources:
 
 Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Randomized four-group trial (control, diary, training + diary, training + diary + peer feedback groups) analysed with repeated-measures MANOVA. The article reports "a statistically significant interaction between the factors [Pillai’s trace = 0.71, F(3,132) = 10.19; p < 0.001]", alongside significant group and time main effects.
 
@@ -48,7 +52,7 @@ Randomized four-group trial (control, diary, training + diary, training + diary 
 
 Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Follow-up univariate repeated-measures ANOVAs in the same randomized trial: SRL knowledge, self-efficacy and the SRL overall score "showed statistically significant interaction effects in the hypothesized direction", with "Group TDP showing the most prominent gains among treatment groups".
 

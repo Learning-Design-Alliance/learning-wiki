@@ -15,12 +15,14 @@ sources:
     author: "Gorgun, G., Yildirim-Erbasli, S. N., & Demmans Epp, C."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Classifiers systematically confuse adjacent engagement levels: social with active, constructive with interactive, and interactive with active
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across all models, approximately 70% of misclassified social posts were labelled active, approximately 55% of misclassified active posts were labelled social, and approximately 40% of misclassified constructive posts were labelled interactive. [→ Gorgun 2022](#gorgun-2022)
@@ -31,7 +33,7 @@ sources:
 
 Gorgun, G., Yildirim-Erbasli, S. N., & Demmans Epp, C. (2022). Predicting cognitive engagement in online course discussion forums. Proceedings of the 15th International Conference on Educational Data Mining. https://doi.org/10.5281/zenodo.6853149
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Error analysis of confusion matrices and misclassified posts across the three classifiers. Similar post length, AWL count, and Flesch-Kincaid grade level of misclassified social and active posts help explain the confusion between these adjacent categories.
 

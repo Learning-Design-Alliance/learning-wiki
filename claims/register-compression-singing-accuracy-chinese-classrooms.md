@@ -15,12 +15,14 @@ sources:
     author: Wei, Wang and Dong
     q: 2
     i: 0
+    kind: associational
+    rigour: 1
 ---
 
 # Low-register pitches are sung more accurately than high-register pitches in Chinese classrooms, reproducing register compression at scale
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r1` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` Low-register pitches were sung correctly with probability 0.749 versus 0.703 for high-register pitches, a 4.6-percentage-point gap the article reports as a small standardized effect (Cohen's h ≈ 0.10), stable across robustness checks. [→ Wei 2026](#wei-2026)
@@ -31,7 +33,7 @@ sources:
 
 Wei, Wang and Dong. (2026). Cognitive and skill acquisition trajectories in school-based music education: evidence from Chinese classrooms. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1905847
 
-`q2 · i0`
+`q2 · i0` · `associational · r1`
 
 Descriptive register analysis (Figure 4) of the singKT corpus using tertile register bins at Q1 (16) and Q3 (47). The article reports the register gap as a small standardized effect, "Cohen's h ≈ 0.10", and stable when bin boundaries were redrawn at the 10th and 90th percentiles.
 

@@ -16,7 +16,7 @@ sources:
 # Three-level ordinal model of written reflection: descriptive, analytic, and integrative
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article operationalizes reflection quality as a three-level ordinal scale modeled on Bradley's (1995) rubric for professional thinking. "Levels of reflection were operationalized as descriptive, analytical, and integrative": descriptive writing delineates activities, analytic writing assesses effects on the project or partner, and integrative writing assesses impact on issues larger than the project, such as the student's education, career, or global issues. Each paragraph is coded by its highest level of thinking shown.

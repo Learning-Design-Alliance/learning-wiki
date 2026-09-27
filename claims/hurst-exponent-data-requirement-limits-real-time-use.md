@@ -15,12 +15,14 @@ sources:
     author: Erica L. Snow
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Hurst exponent calculation requires multiple data points (e.g., over 100), which may make real-time computation impractical in some situations such as single-session studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Reliably calculating a Hurst exponent requires multiple data points (e.g., over 100), so calculating Hurst in real time may not be practical in all situations, such as a single session study. [→ Erica L. Snow 2015](#erica-l-snow-2015)
@@ -31,7 +33,7 @@ sources:
 
 Erica L. Snow. (2015). Dynamic User Modeling within a Game-Based ITS. Proceedings of the 8th International Conference on Educational Data Mining. https://educationaldatamining.org/EDM2015
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 The article states this methodological limitation in its advice-sought section, noting that each of the dynamic measures used so far (random walks, Entropy, Hurst analyses) has one or more weaknesses; no empirical test of the limitation is reported.
 

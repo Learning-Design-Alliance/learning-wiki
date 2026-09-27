@@ -15,12 +15,14 @@ sources:
     q: 3
     i: 3
     n: 32 elementary-school children (median grade 2) for the learning comparison; naturalistic museum-floor logs (~13.5 hours, 104 visits) for the engagement comparison
+    kind: causal
+    rigour: 2
 ---
 
 # AI-mediated feedback in hands-on exhibits improves learning and engagement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large · n=32 elementary-school children (median grade 2) for the learning comparison; naturalistic museum-floor logs (~13.5 hours, 104 visits) for the engagement comparison
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large · n=32 elementary-school children (median grade 2) for the learning comparison; naturalistic museum-floor logs (~13.5 hours, 104 visits) for the engagement comparison
 
 A museum exhibit that adds computer-vision sensing and a real-time predict-observe-explain feedback cycle to hands-on tower-building produces substantially better concept learning and engineering transfer than the same physical materials without feedback, without reducing enjoyment, and holds visitors' voluntary attention over four times longer.
 
@@ -39,7 +41,7 @@ A museum exhibit that adds computer-vision sensing and a real-time predict-obser
 
 Yannier, N., Crowley, K., Do, Y., Hudson, S. E., & Koedinger, K. R. (2022). Intelligent science exhibits: Transforming hands-on exhibits into mixed-reality learning experiences. *Journal of the Learning Sciences, 31*(3), 335-368. [https://doi.org/10.1080/10508406.2022.2032071](https://doi.org/10.1080/10508406.2022.2032071)
 
-`q3 · randomized controlled comparison (n=32 children in pairs, random assignment to condition, matched timing, paper posttest) plus a separate naturalistic observational engagement analysis` · `i3 · large, statistically reliable quantified effects on both concept learning (d=1.45) and engineering transfer (d=0.96), plus a 4x engagement-time difference` · `n=32 elementary-school children (median grade 2) for the learning comparison; naturalistic museum-floor logs (~13.5 hours, 104 visits) for the engagement comparison`
+`q3 · randomized controlled comparison (n=32 children in pairs, random assignment to condition, matched timing, paper posttest) plus a separate naturalistic observational engagement analysis` · `i3 · large, statistically reliable quantified effects on both concept learning (d=1.45) and engineering transfer (d=0.96), plus a 4x engagement-time difference` · `n=32 elementary-school children (median grade 2) for the learning comparison; naturalistic museum-floor logs (~13.5 hours, 104 visits) for the engagement comparison` · `causal · r2`
 
 Elementary-school children (median grade 2) were randomly assigned in pairs to an [Intelligent Mixed-Reality Exhibit](../patterns/intelligent-mixed-reality-exhibit.md) — an earthquake table and building blocks augmented with computer-vision sensing and a predict-observe-explain feedback cycle over contrasting cases — or to an unfacilitated version of the identical physical materials with only static signage. The intelligent-exhibit group scored substantially higher on a posttest measuring explanation of stability principles (d=1.45) and on a subsequent unguided tower-building transfer task (d=0.96), with no difference in self-reported enjoyment. A separate naturalistic comparison of open museum hours found the intelligent exhibit held visitors' voluntary attention roughly four times longer than the unfacilitated version.
 

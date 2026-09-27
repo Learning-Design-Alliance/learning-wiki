@@ -17,7 +17,7 @@ sources:
 # Organize education around the child's response to material rather than the material provided by elders
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 In the reconstructed lectures Mead contrasts old education, which he argues neglected and even wiped out the attitude of the child, with an approach centered on the learner's response. The article quotes Mead's claim that "the whole of the technique of the process...does not turn on the material provided by elders, but falls around the response of the child to this material". This follows from Mead's goal-seeking account of action, in which the stimulus does not force the reaction but is a stimulus for it, and in which children are trained to choose the stimuli for their own acts.

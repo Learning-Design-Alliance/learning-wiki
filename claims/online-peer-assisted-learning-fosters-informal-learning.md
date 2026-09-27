@@ -15,12 +15,14 @@ sources:
     author: Online peer assisted learning community model and its application in ZJNU
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Online peer assisted learning communities foster informal learning and spontaneous interest-based groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Online peer assisted learning helps form spontaneous groups based on common interests and learning objectives, and with guidance and management these groups advance the learning community in a healthy and positive way. [→ Online peer assisted learning community model and its application in ZJNU 2008](#online-peer-assisted-learning-community-model-and-its-application-in-zjnu-2008)
@@ -31,7 +33,7 @@ sources:
 
 Online peer assisted learning community model and its application in ZJNU. (2008). https://eric.ed.gov
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r1`
 
 The article argues, in its theoretical discussion, that "Online peer assisted learning also helps to form spontaneous groups based on common interests and learning objectives" and that guidance and management keep the community advancing healthily. This is an authors' argument, not a measured result.
 

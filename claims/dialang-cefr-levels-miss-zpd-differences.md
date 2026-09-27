@@ -15,12 +15,14 @@ sources:
     author: Ebadi, S.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Learners placed at the same CEFR level by DIALANG differ in their ZPDs, which DIALANG's non-dynamic feedback does not capture
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Two learners at the same CEFR A2 level for English structure showed different reciprocity levels and mediation needs, revealing ZPD differences that DIALANG's psychometric results did not pinpoint. [→ Ebadi 2016](#ebadi-2016)
@@ -31,7 +33,7 @@ sources:
 
 Ebadi, S. (2016). Exploring DIALANG's Diagnostic Feedback in Online L2 Dynamic Assessment. Teaching English with Technology, 16(1), 41-58. https://eric.ed.gov/?id=EJ1135925
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative microgenetic case study of two Iranian university students, both placed at CEFR A2 by DIALANG's structure section. The author reports that "their reciprocity levels and required me diation revealed important information" about actual differences in their ZPDs for modals, which the non-dynamic test missed.
 

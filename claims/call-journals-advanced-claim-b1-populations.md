@@ -15,12 +15,14 @@ sources:
     author: Boulton, A.
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # A review of four major CALL journals found 50% of articles targeting 'advanced' proficiency levels had learner populations of only B1 level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Burston and Arispe (2016) found that 50% of research articles in four major CALL journals targeting 'advanced' levels of proficiency had learner populations of B1 level only. [→ Boulton 2016](#boulton-2016)
@@ -31,7 +33,7 @@ sources:
 
 Boulton, A. (2016). Quantifying CALL: significance, effect size and variation. In S. Papadima-Sophocleous, L. Bradley & S. Thouësny (Eds), CALL communities and culture – short papers from EUROCALL 2016 (pp. 55-60). Research-publishing.net. https://doi.org/10.14705/rpnet.2016.eurocall2016.538
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 The review reports this second-hand finding, citing Burston and Arispe (2016), as an example of vague or unsubstantiated reporting in primary CALL research; the underlying study's design is not described here.
 

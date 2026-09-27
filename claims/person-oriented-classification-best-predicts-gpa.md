@@ -15,12 +15,14 @@ sources:
     author: "Dowdy, E., & Kamphaus, R. W."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Person-oriented classification predicts later GPA significantly better than dimensional or categorical methods
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A person-oriented (cluster) classification system derived from teacher ratings predicted grade point average seven months later significantly better than both dimensional and categorical methods. [→ Dowdy 2007](#dowdy-2007)
@@ -31,7 +33,7 @@ sources:
 
 Dowdy, E., & Kamphaus, R. W. (2007). A Comparison of Classification Methods for Use in Predicting School-Based Outcomes. The California School Psychologist, 12, 121-132. https://eric.ed.gov/?id=EJ896649
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Regression analysis of 558 children (grades 1-5) whose BASC-TRS teacher ratings formed three classification systems, with outcomes collected seven months later. The cluster method's predicted GPA correlated .605 with later GPA (R squared = .366) versus .443 for categorical and .447 for dimensional; the article reports the cluster method was "significantly better" by t-test. No standardized effect size was printed for the between-method contrast.
 

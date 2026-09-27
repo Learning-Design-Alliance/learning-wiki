@@ -15,18 +15,22 @@ sources:
     author: Taylor, A.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
   - id: taylor-2014-2
     resource: "https://journals.sfu.ca/cjhe/index.php/cjhe"
     title: "Taylor, A. (2014). Community service-learning and cultural-historical activity theory. Canadian Journal of Higher Education, 44(1). https://journals.sfu.ca/cjhe/index.php/cjhe"
     author: Taylor, A.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # CHAT is an interventionist research method aimed at transformation, but tensions persist between adaptive and transformative orientations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q1`
 
 ## Subclaims
 `q1 i?` CHAT research aims at expansive transformations in which objects and motives of activity are collectively reconceptualized, with transformation rather than adaptation at its core. [→ Taylor 2014](#taylor-2014)
@@ -38,7 +42,7 @@ sources:
 
 Taylor, A. (2014). Community service-learning and cultural-historical activity theory. Canadian Journal of Higher Education, 44(1). https://journals.sfu.ca/cjhe/index.php/cjhe
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Conceptual exposition of the fourth CHAT assumption, citing Engeström and praxis-oriented research groups in San Diego, Helsinki, and Osaka. Expansive cycles combine internalization and externalization when groups resolve contradictions; Worthen's garment-worker study exemplifies combining researcher participation with monitoring change.
 
@@ -48,7 +52,7 @@ Conceptual exposition of the fourth CHAT assumption, citing Engeström and praxi
 
 Taylor, A. (2014). Community service-learning and cultural-historical activity theory. Canadian Journal of Higher Education, 44(1). https://journals.sfu.ca/cjhe/index.php/cjhe
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The paper's stated caveat: Sawchuk argues Engeström's expansive learning can never be fully achieved within the current institutional form of capitalist schooling, and Jones and Avis worry about conceptual slippage from Marxist ideas and neglect of wider social relations.
 

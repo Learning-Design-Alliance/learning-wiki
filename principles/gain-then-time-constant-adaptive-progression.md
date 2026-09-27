@@ -17,7 +17,7 @@ sources:
 # Sequence adaptive difficulty by increasing gain first, then lengthening the effective time constant
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends that at the beginning of training a low value for both gain and effective time constant be provided. Based upon student improvement, gain would then be increased to provide a more difficult task, followed by increasing te to make the task progressively more difficult. The rationale is that low gain lets trainees learn the gross pattern of control movement without sorting out random movements, and short time constants permit immediate feedback for adjusting control inputs.

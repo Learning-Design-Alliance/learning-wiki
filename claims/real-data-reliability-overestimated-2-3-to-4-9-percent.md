@@ -15,12 +15,14 @@ sources:
     author: Yanmei Li, Shuhong Li, and Lin Wang
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # In operational reading-test data, ignoring local dependence inflates reliability estimates, with passage-based alpha 2.3%-4.9% lower than item-based alpha across six test forms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Passage-based reliability was lower than item-based reliability in all six real data sets, indicating reliability was overestimated when local dependence was ignored. [→ Yanmei Li 2010](#yanmei-li-2010)
@@ -31,7 +33,7 @@ sources:
 
 Yanmei Li, Shuhong Li, and Lin Wang. (2010). Application of a General Polytomous Testlet Model to the Reading Section of a Large-Scale English Language Assessment. ETS Research Report RR-10-21. http://www.ets.org/research/contact.html
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Reliability analysis of the six operational reading data sets (Data A-F), comparing item-based and passage-based Cronbach's alpha. The report also found "higher test information at middle range of ability levels were found using the 2PL/GPCM, in which local dependence was ignored" for all six data sets.
 

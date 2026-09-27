@@ -17,7 +17,7 @@ sources:
 # Design retrieval tools for easy, accurate, and complete access to rapidly growing knowledge
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article motivates Entrez by the explosive growth of information molecular biologists must access: the literature adds about 6,000 peer-reviewed articles per month and sequence databases double in size every 20 months. It concludes that "Biologists need a retrieval tool which offers easy, accurate and complete access to this type of information", which drove the design of integrated, linked, and neighboring-based retrieval.

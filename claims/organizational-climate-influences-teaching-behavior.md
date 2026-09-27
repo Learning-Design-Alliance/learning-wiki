@@ -15,12 +15,14 @@ sources:
     author: "Farmer & Higham"
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Organizational climate can influence people's behavior and may be linked to teaching practices (attributed to Milem)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The climate of an organization can influence people's behavior, and thus may be linked to teaching practices, so personal bias and institutional traditions shape leadership development. [→ Farmer & Higham 2007](#farmer-higham-2007)
@@ -31,7 +33,7 @@ sources:
 
 Farmer & Higham. (2007). Culturally Responsive Leadership: Graduate Program Egalitarianism. https://www.ucea.org
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Second-hand assertion: the review quotes Milem (2001, p. 5) stating that "The climate of an organization can influence people's behavior, and thus may be linked to teaching practices". The reviewed work's design is not described and no effect size is reported.
 

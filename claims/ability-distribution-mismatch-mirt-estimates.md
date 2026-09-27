@@ -15,12 +15,14 @@ sources:
     author: Li, Yuan H.; Lissitz, Robert W.
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Ability-distribution mismatch with the TESTFACT default does not significantly affect item difficulty estimates but slightly improves discrimination estimates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r2` · `q1`
 
 ## Subclaims
 `q1 i?` When the second ability dimension was positively skewed rather than normal, no significant impact on item difficulty estimates was found, while RMSE of the discrimination estimates decreased significantly. [→ Li 1998](#li-1998)
@@ -31,7 +33,7 @@ sources:
 
 Li, Yuan H.; Lissitz, Robert W. (1998). An Evaluation of Multidimensional IRT Equating Methods by Assessing the Accuracy of Transforming Parameters onto a Target Test Metric. Paper presented at the annual meeting of the National Council on Measurement in Education. https://eric.ed.gov/?id=ED418999
 
-`q1 · i?`
+`q1 · i?` · `causal · r2`
 
 Second simulation study, Condition 2 (normal first dimension, positively skewed second dimension, N=2000, 100 replications), compared with Condition 1 via dependent t-tests on Log[RMSE]. The authors note the RMSE of al and a2 estimates "did decrease rather than increase" under the non-default distribution.
 

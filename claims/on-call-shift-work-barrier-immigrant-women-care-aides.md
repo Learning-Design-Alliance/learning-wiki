@@ -15,12 +15,14 @@ sources:
     author: Ping Wong, Patricia Duff, and Margaret Early
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # On-call and shift work were major employment barriers for immigrant care-aide graduates, particularly those with young children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The need to work on call was a major barrier for many participants, and shift work adversely affected family and social life, with women as primary caregivers more restricted in their work options than men in the same field. [→ Ping Wong 2001](#ping-wong-2001)
@@ -31,7 +33,7 @@ sources:
 
 Ping Wong, Patricia Duff, and Margaret Early. (2001). The Impact of Language and Skills Training on Immigrants' Lives. TESL Canada Journal, Vol. 18, No. 2, Spring 2001. https://eric.ed.gov/?id=EJ659475
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Interview-theme analysis of the nine graduates' accounts of post-program employment. Participants described on-call work as problematic, a waste of time, and an unsteady source of income; the article states "The need to work on call, discussed above, was another major barrier for many participants."
 

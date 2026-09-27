@@ -15,12 +15,14 @@ sources:
     author: Jenkins, William A.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Language must also be subjective, emotional, inspirational, and aesthetic, so teachers should employ both the method of fact and the method of imagination
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Beyond scientific aims, language contains subjective, emotional, inspirational, and esthetic qualities, and teachers should turn to intuition, feeling, and imagination alongside fact, logic, and objectivity. [→ Jenkins 1962](#jenkins-1962)
@@ -31,7 +33,7 @@ sources:
 
 Jenkins, William A. (1962). Time That Is Intolerant. Elementary English. https://eric.ed.gov/?id=ED030640
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the 'Language Is More Than a Science' section: the author proposes teachers "continue to employ the lessons which we have learned from science" but "now turn to the method of intuition, feeling, imagination," arguing imagination also creates knowledge.
 

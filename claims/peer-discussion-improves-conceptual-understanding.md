@@ -15,6 +15,8 @@ sources:
     q: 2
     i: "?"
     n: undergraduate genetics course (single course; abstract does not give a headcount)
+    kind: causal
+    rigour: "?"
   - id: smith-et-al-2011
     resource: "https://doi.org/10.1187/cbe.10-08-0101"
     title: "Smith, M. K., Wood, W. B., Krauter, K., & Knight, J. K. (2011). Combining Peer Discussion with Instructor Explanation Increases Student Learning from In-Class Concept Questions. *CBE—Life Sciences Education, 10*(1), 55–63. [doi:10.1187/cbe.10-08-0101](https://doi.org/10.1187/cbe.10-08-0101)"
@@ -22,12 +24,14 @@ sources:
     q: 2
     i: "?"
     n: "150 students (majors' course) + 62 students (nonmajors' course)"
+    kind: causal
+    rigour: "?"
 ---
 
 # Peer Discussion Improves Conceptual Understanding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 2 studies · 2 causal `r?` · `q2`
 
 Structured discussion with peers — articulating reasoning, confronting alternative ideas, and negotiating shared understanding — deepens conceptual learning beyond what passive reception achieves. The claim is scoped to *conceptual* outcomes (explanations, transfer, misconception resolution), not procedural fluency or recall.
 
@@ -43,7 +47,7 @@ Structured discussion with peers — articulating reasoning, confronting alterna
 
 Smith, M. K., Wood, W. B., Adams, W. K., Wieman, C., Knight, J. K., Guild, N., & Su, T. T. (2009). Why Peer Discussion Improves Student Performance on In-Class Concept Questions. *Science, 323*(5910), 122–124. [doi:10.1126/science.1165919](https://doi.org/10.1126/science.1165919)
 
-`q2 · classroom study of isomorphic question pairs, no control group (abstract only)` · `i? · no effect size reported (abstract gives no percentages)` · `n=undergraduate genetics course (single course; abstract does not give a headcount)`
+`q2 · classroom study of isomorphic question pairs, no control group (abstract only)` · `i? · no effect size reported (abstract gives no percentages)` · `n=undergraduate genetics course (single course; abstract does not give a headcount)` · `causal · r?`
 
 In an undergraduate genetics course, students answered a conceptual clicker question individually, discussed it with neighbors, revoted on the same question, and then answered a second, isomorphic question individually with no further discussion. The design lets the authors distinguish real conceptual gains from mere copying of a knowledgeable peer's answer, because the isomorphic question cannot be answered correctly just by remembering someone else's vote. The abstract reports that peer discussion improved subsequent isomorphic-question performance even in groups where no member had originally known the correct answer — evidence read as ruling out simple peer-to-peer answer transmission as the whole explanation.
 
@@ -51,7 +55,7 @@ In an undergraduate genetics course, students answered a conceptual clicker ques
 
 Smith, M. K., Wood, W. B., Krauter, K., & Knight, J. K. (2011). Combining Peer Discussion with Instructor Explanation Increases Student Learning from In-Class Concept Questions. *CBE—Life Sciences Education, 10*(1), 55–63. [doi:10.1187/cbe.10-08-0101](https://doi.org/10.1187/cbe.10-08-0101)
 
-`q2 · quasi-experimental classroom study` · `i? · no standardized effect size reported (normalized-change values only)` · `n=150 students (majors' course) + 62 students (nonmajors' course)`
+`q2 · quasi-experimental classroom study` · `i? · no standardized effect size reported (normalized-change values only)` · `n=150 students (majors' course) + 62 students (nonmajors' course)` · `causal · r?`
 
 Using the same isomorphic-question-pair clicker technique, this study compared three conditions on different question pairs within the same majors' and nonmajors' genetics courses: peer discussion only, instructor explanation only, and peer discussion followed by instructor explanation. Peer discussion alone and instructor explanation alone produced similar normalized learning gains (e.g., 41.5% vs. a comparable value for instructor-only in the majors' course), but the combined mode produced markedly higher gains than either alone, and this combination benefited weak, medium and strong performers alike — where instructor explanation alone did not help the strongest students. The authors read this as evidence that peer discussion and instructor explanation contribute independently to conceptual learning rather than one making the other redundant.
 

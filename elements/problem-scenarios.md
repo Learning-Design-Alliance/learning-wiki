@@ -17,7 +17,7 @@ sources:
 # Problem Scenarios
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Problem scenarios are concrete situations presented to learners as the context for inquiry, analysis, or solution development. They are useful when learners need a realistic frame that makes a problem meaningful and actionable.

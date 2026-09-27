@@ -14,12 +14,14 @@ sources:
     author: "Son, E. H., & Penry, T."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # PjBL courses in the studied program spanned multiple matrix quadrants, with no Fixed-Individualistic courses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In a grounded theory study of five PjBL courses, four (80%) were Cooperative (quadrants 2 and 4), three (60%) were Flexible (quadrants 3 and 4), and none were Fixed-Individualistic (quadrant 1). [→ Son 2022](#son-2022)
@@ -30,7 +32,7 @@ sources:
 
 Son, E. H., & Penry, T. (2022). Variations in Project-Based Course Design. Journal of Problem Based Learning in Higher Education, Vol. 10, No. 1.
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Qualitative grounded theory analysis of five VIP courses using syllabi, eight faculty interviews, and 30 student reflections. The authors report the quadrant distribution: "four courses (80%) in quadrants 2 and 4" and "no courses in quadrant 1." No effect sizes are reported.
 

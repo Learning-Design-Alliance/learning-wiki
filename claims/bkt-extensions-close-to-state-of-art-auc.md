@@ -15,12 +15,14 @@ sources:
     author: Khajah, M. M.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # On seven of eight real-world datasets, the novel BKT extensions achieve prediction performance within 0.04 AUC-ROC points of state-of-the-art models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On seven out of eight real-world datasets, the novel BKT extensions achieve prediction performance within 0.04 AUC-ROC points of state-of-the-art models. [→ Khajah 2024](#khajah-2024)
@@ -31,7 +33,7 @@ sources:
 
 Khajah, M. M. (2024). Supercharging BKT with Multidimensional Generalizable IRT and Skill Discovery. Journal of Educational Data Mining, Volume 16, No 1, 2024. https://jedm.educationaldatamining.org/index.php/JEDM/article/view/16-1
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Evaluation across eight pre-processed real-world datasets from Gervet et al. (2020), scored by AUC-ROC over the entire test set under five-fold student-stratified cross-validation. The article reports the extensions are "within 0.04 AUC-ROC points of state-of-the-art models" on seven of the eight.
 

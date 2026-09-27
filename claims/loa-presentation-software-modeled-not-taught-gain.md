@@ -15,12 +15,14 @@ sources:
     author: "Orr, D., & Mrazek, R."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Presentation software adoption rose even though it was modeled by instructors rather than directly taught
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Presentation software, not directly taught but consistently modeled by instructors, showed a noticeable rise in self-reported adoption, with mean increasing from 4.40 to 5.93 between pretest and post-posttest. [→ Orr 2009](#orr-2009)
@@ -31,7 +33,7 @@ sources:
 
 Orr, D., & Mrazek, R. (2009). Developing the level of adoption survey to inform collaborative discussion regarding educational innovation. Canadian Journal of Learning and Technology, V35(2). https://www.cjlt.ca
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 In the pilot's descriptive results (n=15), presentation software means and medians increased from 4.40 to 5.93 and 4.00 to 6.00 respectively between pretest and post-posttest, despite the technology not being directly taught; a number of students also selected it as a topic or medium for their major course project.
 

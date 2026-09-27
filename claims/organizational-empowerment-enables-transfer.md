@@ -15,12 +15,14 @@ sources:
     author: Liang, Zhang, Jiang, Li, Shang, Ji and Chen
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Organizational empowerment through clear role positioning and multidisciplinary support enables sustained training transfer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` When hospitals clarified specialty nurses' roles and responsibilities and granted practical authority, training outcomes were more likely to become stable specialty practice; without clear roles, training content was difficult to implement. [→ Liang 2026](#liang-2026)
@@ -31,7 +33,7 @@ sources:
 
 Liang, Zhang, Jiang, Li, Shang, Ji and Chen. (2026). Exploring training transfer in neurosurgical specialty nurse education: a qualitative descriptive study. Frontiers in Neurology. https://doi.org/10.3389/fneur.2026.1915268
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Facilitator subtheme; trainees described head nurses assigning health education and quality control responsibilities, and a manager noted that without a defined MDT coordinator role, navigation and coordination skills learned in training were difficult to put into play.
 

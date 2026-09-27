@@ -15,12 +15,14 @@ sources:
     author: Neches, Robert
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # The claim that computer simulation necessarily enforces clearer, more rigorous psychological theory specification does not hold up
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` The strong view that computer simulations will produce more rigorously specified theories overstates the case; there are multiple ways to avoid rigor while doing simulation. [→ Neches 1982](#neches-1982)
@@ -31,7 +33,7 @@ sources:
 
 Neches, Robert. (1982). Simulation Systems for Cognitive Psychology. Learning Research and Development Center, University of Pittsburgh. https://eric.ed.gov/?id=ED217874
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Theoretical argument (section 2.2) reviewing six problems with the Gregg & Simon (1967) five claims, e.g. programs diverge from theories via simplifying assumptions and nonnumerical parameters. The paper concludes "The claim that computer simulation will necessarilyleadtoclearerand more rigorous psychological models does nox hold up."
 

@@ -12,7 +12,7 @@ generated:
 # Creating Visual Representations
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q2` · 1 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (1 causal, 1 review), `q2` · 1 of 2 report an effect size
 
 ## Description
 Creating visual representations is the element in which learners externalize understanding through diagrams, sketches, models, or other visuals.

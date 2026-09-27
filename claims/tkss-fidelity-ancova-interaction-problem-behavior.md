@@ -15,12 +15,14 @@ sources:
     author: "Benner, G. J., Beaudoin, K. M., Chen, P.-Y., Davis, C., & Ralston, N."
     q: 2
     i: 2
+    kind: design
+    rigour: 2
 ---
 
 # Teacher fidelity (TKSS total score) shows a statistically significant interaction effect on pre-to-post changes in student problem behavior (F = 10.43, p = .003)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` ANCOVAs revealed a statistically significant interaction of the overall TKSS teacher knowledge total score with changes in problem behavior (F = 10.43, p = .003), and all five TKSS domains showed significant interactions (p < .01). [→ Benner 2008](#benner-2008)
@@ -31,7 +33,7 @@ sources:
 
 Benner, G. J., Beaudoin, K. M., Chen, P.-Y., Davis, C., & Ralston, N. (2008). The Impact of Intensive Positive Behavioral Supports on the Behavioral Functioning of Students with Emotional Disturbance: How Much Does Fidelity Matter? JBAIC, Volume 1, No. 1. https://eric.ed.gov/?q=Impact+of+Intensive+Positive+Behavioral+Supports
 
-`q2 · i2`
+`q2 · i2` · `design · r2`
 
 ANCOVAs with TKSS scores as covariates on TRF Internalizing and Externalizing t-scores; the omnibus interaction was significant (F = 10.43, p = .003), and Table 3 shows all five domain interactions significant at p < .01 (F values 8.37 to 11.05).
 

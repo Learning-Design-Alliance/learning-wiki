@@ -15,12 +15,14 @@ sources:
     author: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Service-learners who felt positively about relationships with professors, community partners, and peer mentors reported more intention to be civically engaged in the future, including plans to volunteer and participate in community action. [→ Harkins 2021](#harkins-2021)
@@ -31,7 +33,7 @@ sources:
 
 Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2021). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 The discussion section synthesizes survey and focus group findings, reporting that students described a shift in understanding their own goals and interests. One student noted gaining insight into researching educational inequities; another expressed commitment to continuing service.
 

@@ -12,7 +12,7 @@ generated:
 # Playground Pickup Sports and Jam Sessions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 1 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (2 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 1 of 5 report an effect size
 
 ## Description
 This strategy structures unstructured time: educators provide equipment, space, and light facilitation for pickup games (sports, playground games) and jam sessions (informal music-making), while deliberately de-emphasizing formal competition, scoring, and adult-directed instruction. Learners self-organize rules, teams, and roles, practicing skills in a low-stakes, socially embedded setting. The adult role shifts from coach to custodian of conditions — ensuring safety, access, and inclusion rather than directing play.

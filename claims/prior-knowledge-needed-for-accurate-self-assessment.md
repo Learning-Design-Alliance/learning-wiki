@@ -15,6 +15,8 @@ sources:
     q: 4
     i: 2
     n: 22 meta-analyses
+    kind: quant-synthesis
+    rigour: "?"
   - id: hacker-et-al-2000
     resource: "https://doi.org/10.1037/0022-0663.92.1.160"
     title: "Hacker, D. J., Bol, L., Horgan, D. D., & Rakow, E. A. (2000). Test prediction and performance in a classroom context. *Journal of Educational Psychology, 92*(1), 160–170. [doi:10.1037/0022-0663.92.1.160](https://doi.org/10.1037/0022-0663.92.1.160)"
@@ -22,12 +24,14 @@ sources:
     q: 2
     i: "?"
     n: 96
+    kind: associational
+    rigour: "?"
 ---
 
 # Prior Knowledge Needed For Accurate Self Assessment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2`–`q4` · `i2` medium
+> **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 associational `r?` · `q2`–`q4` · `i2` medium
 
 Learners need sufficient domain knowledge to accurately judge their own understanding and performance; without it, self-assessments tend to be miscalibrated.
 
@@ -43,7 +47,7 @@ Learners need sufficient domain knowledge to accurately judge their own understa
 
 Zell, E., & Krizan, Z. (2014). Do people have insight into their abilities? A metasynthesis. *Perspectives on Psychological Science, 9*(2), 111–125. [doi:10.1177/1745691613518075](https://doi.org/10.1177/1745691613518075)
 
-`q4 · meta-analysis of 22 meta-analyses` · `i2 · medium, mean r=.29 (SD=.11), individual meta-analytic effects .09–.63` · `n=22 meta-analyses`
+`q4 · meta-analysis of 22 meta-analyses` · `i2 · medium, mean r=.29 (SD=.11), individual meta-analytic effects .09–.63` · `n=22 meta-analyses` · `quant-synthesis · r?`
 
 A meta-synthesis pooling 22 published meta-analyses that each compared people's self-evaluations of ability (academic ability, intelligence, language competence, medical skills, sports ability, vocational skills) against objective performance measures (test scores, grades, supervisor ratings). The overall correlation between self-evaluation and performance was moderate rather than strong. Accuracy was significantly higher when the self-evaluation was specific to a defined domain rather than broad, and when the performance task was objective, familiar, or low in complexity — conditions under which a rater has more direct, concrete experience to calibrate against, consistent with prior domain knowledge/experience being a precondition for accurate [self-assessment](self-assessment-improves-self-regulated-learning.md).
 
@@ -51,7 +55,7 @@ A meta-synthesis pooling 22 published meta-analyses that each compared people's 
 
 Hacker, D. J., Bol, L., Horgan, D. D., & Rakow, E. A. (2000). Test prediction and performance in a classroom context. *Journal of Educational Psychology, 92*(1), 160–170. [doi:10.1037/0022-0663.92.1.160](https://doi.org/10.1037/0022-0663.92.1.160)
 
-`q2 · classroom observational study, undergraduates (n=96), repeated over a semester` · `i? · no effect size reported in what could be read` · `n=96`
+`q2 · classroom observational study, undergraduates (n=96), repeated over a semester` · `i? · no effect size reported in what could be read` · `n=96` · `associational · r?`
 
 Undergraduates (N=96) in a semester-length course predicted their score before each of several exams and postdicted it immediately after, across the term. Performance-quartile analysis showed that the highest-performing students' predictions and postdictions were accurate and grew more accurate across successive exams; middling performers predicted only moderately well but postdicted well; the lowest-performing students showed gross overconfidence in both prediction and postdiction, i.e. their self-assessments were least accurate exactly where their command of the tested material was weakest. Only the author-published abstract/description was available to this session, not the full results tables, so no quantitative effect size could be verified.
 

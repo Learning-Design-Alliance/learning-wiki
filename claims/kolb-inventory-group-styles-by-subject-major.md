@@ -15,12 +15,14 @@ sources:
     author: Tamaoka, Katsuo
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Kolb's inventory successfully differentiated group learning styles by students' subject majors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Social science majors were located in the Divergence category while science and engineering majors were located in the Convergence category. [→ Tamaoka 1985](#tamaoka-1985)
@@ -31,7 +33,7 @@ sources:
 
 Tamaoka, Katsuo. (1985). Historical Development of Learning Style Inventories from Dichotomous Cognitive Concepts of Field Dependence and Field Independence to Multi-Dimensional Assessment. https://eric.ed.gov/?id=ED339729
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `review · r2`
 
 The review reports Kolb's 1971 analysis of learning style by students' subject majors, in which social science majors fell in "the category of Divergence" and science majors in "the category of Convergence"; related studies placed most dental hygiene and nursing students in Accommodation or Divergence.
 

@@ -15,12 +15,14 @@ sources:
     author: Malhotra S, Biswas P, Sharan P, Grover S.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Registrations of children aged 0-5 and 5-10 years declined significantly across the three time periods
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Clinic registration declined significantly for 0-5 year olds (F=4.28, p<0.05) and for 5-10 year olds (F=5.98, p<0.01), the latter declining consistently across all three periods. [→ Malhotra S 2007](#malhotra-s-2007)
@@ -31,7 +33,7 @@ sources:
 
 Malhotra S, Biswas P, Sharan P, Grover S. (2007). Characteristics of Patients Visiting the Child & Adolescent Psychiatric Clinic: A 26-year Study from North India. J. Indian Assoc. Child Adolesc. Ment. Health 3(3). https://eric.ed.gov/?id=EJ896858
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Same retrospective three-period audit of the Chandigarh CAP clinic. The article reports a "statistically significant decline in clinic registration ... for 5-10 year olds (F=5.98; p< 0.01)" and, per Table 1, a significant decline for 0-5 year olds (F=4.28, p<0.05; I>III).
 

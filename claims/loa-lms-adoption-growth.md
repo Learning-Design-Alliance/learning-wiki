@@ -15,12 +15,14 @@ sources:
     author: "Orr, D., & Mrazek, R."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Learning management system adoption rose from mostly non-use/orientation to routine-through-integration levels by December
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Reported LMS adoption rose from 13 of 15 respondents at non-use or orientation (mean=2.80) to eight respondents at routine, refinement, or integration (mean=4.93) by December. [→ Orr 2009](#orr-2009)
@@ -31,7 +33,7 @@ sources:
 
 Orr, D., & Mrazek, R. (2009). Developing the level of adoption survey to inform collaborative discussion regarding educational innovation. Canadian Journal of Learning and Technology, V35(2). https://www.cjlt.ca
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive analysis of the 15 three-time respondents showed LMS means rising from 2.80 (pretest) to 4.93 (post-posttest, median 5.00), with eight respondents at routine to integration levels after returning to the workplace; the article calls this a noteworthy change in reported use.
 

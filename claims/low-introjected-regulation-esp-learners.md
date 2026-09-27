@@ -15,12 +15,14 @@ sources:
     author: Liu, L.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Introjected regulation was low among Chinese ESP learners except for an identity-maintenance item
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Only one Introjected Regulation item (IRQ9, learning ESP to be part of the global business community) had a mean above 3.8; items about avoiding loss of face scored low. [→ Liu 2016](#liu-2016)
@@ -31,7 +33,7 @@ sources:
 
 Liu, L. (2016). Why Do Chinese College Students Learn ESP: An Analysis of Language Learning Motivations within SDT Framework. English Language Teaching, 9(4). https://doi.org/10.5539/elt.v9n4p92
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive item analysis from the 558-student survey: "the Introjected Regulation subscale only shows one item with a mean higher than 3.8", namely IRQ9 on global business community identity; face-loss items scored low.
 

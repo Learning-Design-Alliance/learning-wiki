@@ -15,12 +15,14 @@ sources:
     author: Starkey, John D.; Barr, Rita L.
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Elementary graduate students score higher in Realism and lower in Existentialism than elementary undergraduates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` Graduate elementary education students show a distinctly higher mean Realism score (37.26) than undergraduate elementary students (28.5), and a lower Existentialism mean, both significant at the .001 level. [→ Starkey 1972](#starkey-1972)
@@ -31,7 +33,7 @@ sources:
 
 Starkey, John D.; Barr, Rita L. (1972). The Philosophical Nature of Teachers--Graduate and Undergraduate. https://eric.ed.gov/?id=ED072018
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Comparison of elementary graduate and undergraduate students (Table IV, N = 213); Realism t = 3.73, p = .001. The article also reports "the belief in Existentialism, witha high level of significance, falls at a lowermean for graduate students" (t = -3.56, p = .001).
 

@@ -13,6 +13,8 @@ sources:
     q: 3
     i: "?"
     n: 40 (N=8 per condition)
+    kind: causal
+    rigour: "?"
   - id: chi-et-al-2001
     resource: "https://doi.org/10.1207/s15516709cog2504_1"
     title: "Chi, M. T. H., Siler, S. A., Jeong, H., Yamauchi, T., & Hausmann, R. G. (2001). Learning from human tutoring. *Cognitive Science, 25*(4), 471–533. [doi:10.1207/s15516709cog2504_1](https://doi.org/10.1207/s15516709cog2504_1)"
@@ -20,6 +22,8 @@ sources:
     q: 3
     i: "?"
     n: 11 tutor-student pairs
+    kind: causal
+    rigour: 1
   - id: swanson-and-lussier-2001
     resource: "https://doi.org/10.3102/00346543071002321"
     title: "Swanson, H. L., & Lussier, C. M. (2001). A selective synthesis of the experimental literature on dynamic assessment. *Review of Educational Research, 71*(2), 321–363. [doi:10.3102/00346543071002321](https://doi.org/10.3102/00346543071002321)"
@@ -27,6 +31,8 @@ sources:
     q: 4
     i: "?"
     n: 30 studies
+    kind: quant-synthesis
+    rigour: "?"
   - id: van-de-pol-et-al-2010
     resource: "https://doi.org/10.1007/s10648-010-9127-6"
     title: "van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher–student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271–296. [doi:10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6)"
@@ -34,6 +40,8 @@ sources:
     q: 3
     i: "?"
     n: 66 articles
+    kind: review
+    rigour: 2
   - id: wood-et-al-1976
     resource: "https://doi.org/10.1111/j.1469-7610.1976.tb00381.x"
     title: "Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100. [doi:10.1111/j.1469-7610.1976.tb00381.x](https://doi.org/10.1111/j.1469-7610.1976.tb00381.x)"
@@ -41,6 +49,8 @@ sources:
     q: 3
     i: "?"
     n: 30
+    kind: qualitative
+    rigour: "?"
 id: contingent-scaffolding-improves-learning
 evidence_strength: moderate
 ---
@@ -48,7 +58,7 @@ evidence_strength: moderate
 # Contingent scaffolding improves learning more than fixed or absent support.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 5 studies · `q3`–`q4`
+> **Evidence** · 5 studies · 2 causal `r1`, 1 quant-synthesis `r?`, 1 review `r2`, 1 qualitative `r?` · `q3`–`q4`
 
 Contingent scaffolding adjusts the type and level of support in real time based on the learner's demonstrated understanding, rather than providing a fixed or predetermined sequence of help. Evidence supports this approach over non-contingent or no support, though the evidence base is small and the mechanism is contested.
 
@@ -70,7 +80,7 @@ Primary evidence link: https://doi.org/10.1016/S0193-3973(99)80040-2
 
 Pratt, M. W., & Savoy-Levine, K. M. (1998). Contingent tutoring of long-division skills in fourth and fifth graders: Experimental tests of some hypotheses about scaffolding. *Journal of Applied Developmental Psychology, 19*(2), 287–304. [doi:10.1016/s0193-3973(99)80041-0](https://doi.org/10.1016/s0193-3973(99)80041-0)
 
-`q3 · peer-reviewed quasi-experiment with intervention fidelity check` · `i? · no source text available to check; the entry prints no effect size` · `n=40 (N=8 per condition)`
+`q3 · peer-reviewed quasi-experiment with intervention fidelity check` · `i? · no source text available to check; the entry prints no effect size` · `n=40 (N=8 per condition)` · `causal · r?`
 
 Fourth and fifth grade students were assigned to one of five one-to-one tutoring conditions for long-division: fully contingent support, moderate support, high support, partly contingent support, or no support. Nine levels of support were defined; conditions differed in which levels tutors could use and whether application was contingent on student responses. Audio-taped sessions were coded to verify intervention fidelity. Students in the fully contingent condition solved significantly more long-division problems than all other conditions at both immediate and 1-month follow-up assessment. A small but important limitation: N=8 per condition, one-to-one tutoring setting only; generalizability to classrooms is unknown.
 
@@ -78,7 +88,7 @@ Fourth and fifth grade students were assigned to one of five one-to-one tutoring
 
 Chi, M. T. H., Siler, S. A., Jeong, H., Yamauchi, T., & Hausmann, R. G. (2001). Learning from human tutoring. *Cognitive Science, 25*(4), 471–533. [doi:10.1207/s15516709cog2504_1](https://doi.org/10.1207/s15516709cog2504_1)
 
-`q3 · peer-reviewed within-subjects experiment` · `i? · the abstract prints no effect size; the full text may` · `n=11 tutor-student pairs`
+`q3 · peer-reviewed within-subjects experiment` · `i? · the abstract prints no effect size; the full text may` · `n=11 tutor-student pairs` · `causal · r1`
 
 Inexperienced tutors working one-to-one with eighth grade students on the human circulatory system were then instructed to shift to a more interactive/contingent style — more questioning and hints, less explaining and feeding back. More scaffolding episodes were observed in the interactive condition (verified by coding). Immediate learning outcomes were similar across both styles. However, students in the interactive/contingent tutoring condition performed significantly better on transfer questions (topics not directly covered in tutoring) and took greater responsibility for their own learning, shown by higher frequency of self-initiated reading aloud.
 
@@ -86,7 +96,7 @@ Inexperienced tutors working one-to-one with eighth grade students on the human 
 
 Swanson, H. L., & Lussier, C. M. (2001). A selective synthesis of the experimental literature on dynamic assessment. *Review of Educational Research, 71*(2), 321–363. [doi:10.3102/00346543071002321](https://doi.org/10.3102/00346543071002321)
 
-`q4 · meta-analysis of 30 studies` · `i? · the abstract prints no effect size; the full text may` · `n=30 studies`
+`q4 · meta-analysis of 30 studies` · `i? · the abstract prints no effect size; the full text may` · `n=30 studies` · `quant-synthesis · r?`
 
 A meta-analysis evaluating three forms of dynamic assessment: scaffolding (contingent prompting and verbal mediation), coaching (training and intervening), and strategy training (modeling and general feedback). Effect sizes were highest for strategy training, followed by scaffolding, followed by coaching. This result shows that contingent scaffolding outperforms coaching but does not outperform explicit strategy instruction, a meaningful qualifier for instructional designers choosing between approaches.
 
@@ -94,7 +104,7 @@ A meta-analysis evaluating three forms of dynamic assessment: scaffolding (conti
 
 van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher–student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271–296. [doi:10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6)
 
-`q3 · systematic review of 66 articles (8 effectiveness studies)` · `i? · the abstract prints no effect size; the full text may` · `n=66 articles`
+`q3 · systematic review of 66 articles (8 effectiveness studies)` · `i? · the abstract prints no effect size; the full text may` · `n=66 articles` · `review · r2`
 
 A comprehensive review of scaffolding research from 1998–2009. Identifies contingency, fading, and transfer of responsibility as the three defining characteristics of scaffolding — not as independently ranked causal variables, but as interlocking features: contingent teaching tends to produce fading, which produces transfer of responsibility. The review finds that scaffolding is generally effective, but cautions that the evidence base is thin (only 8 quasi-experimental studies), measurement is inconsistent across studies, and most evidence comes from one-to-one tutoring rather than classroom settings. Importantly, the review does not claim contingency is more effective than fading or transfer of responsibility — all three are treated as necessary features of the same process.
 
@@ -102,7 +112,7 @@ A comprehensive review of scaffolding research from 1998–2009. Identifies cont
 
 Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100. [doi:10.1111/j.1469-7610.1976.tb00381.x](https://doi.org/10.1111/j.1469-7610.1976.tb00381.x)
 
-`q3 · foundational observational study` · `i? · no source text available to check; the entry prints no effect size` · `n=30`
+`q3 · foundational observational study` · `i? · no source text available to check; the entry prints no effect size` · `n=30` · `qualitative · r?`
 
 The study that introduced the scaffolding metaphor. Researchers observed 3-, 4-, and 5-year-olds attempting a block-building task with a tutor and identified six key scaffolding functions (recruitment, reduction in degrees of freedom, direction maintenance, marking critical features, frustration control, demonstration). Established the contingent-shift principle: increase support when the learner fails, decrease it when the learner succeeds. Foundational for the field; not an effectiveness study in the causal sense.
 

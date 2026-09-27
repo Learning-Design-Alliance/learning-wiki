@@ -15,12 +15,14 @@ sources:
     q: 3
     i: 2
     n: 120 first-year undergraduates (24 groups of 5), one Introduction to Psychology course, Israeli research university
+    kind: design
+    rigour: 2
 ---
 
 # Collaborative critique-and-redesign instruction shifts students from a value-free view of objectivity toward a procedural one
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=120 first-year undergraduates (24 groups of 5), one Introduction to Psychology course, Israeli research university
+> **Evidence** · 1 study · design `r2` · `q3` · `i2` medium · n=120 first-year undergraduates (24 groups of 5), one Introduction to Psychology course, Israeli research university
 
 After a semester of collaboratively critiquing and redesigning flawed psychological studies, introductory psychology students significantly increased their use of disciplinary evidence-evaluation ideals (valid methods, replication, procedural objectivity) and significantly decreased reliance on personal experience and a naive, value-free notion of objectivity — while their evaluation of *lay* evidence sources (source credibility, outlet reliability) did not significantly change.
 
@@ -39,7 +41,7 @@ After a semester of collaboratively critiquing and redesigning flawed psychologi
 
 Dishon, G., Barzilai, S., & Yanai, J. V. (2024). Grasping Psychological Evidence: Integrating Evidentiary Practices in Psychology Instruction. *Cognition and Instruction, 42*(1), 56-91. [https://doi.org/10.1080/07370008.2023.2248641](https://doi.org/10.1080/07370008.2023.2248641)
 
-`q3 · peer-reviewed single-group pre/post design with validated coding scheme (Grasp of Evidence and AIR frameworks), high interrater reliability (Cohen's κ M=0.90, SD=0.07), and McNemar's tests appropriate to matched binary pre/post data; no control group (authors cite ethical reasons for not withholding instruction)` `i2-i3 · large, precisely quantified, statistically significant shifts on several disciplinary ideals (e.g., 2%→38% on valid methods), though the design cannot isolate which specific course elements caused the shift` `n=120 first-year undergraduates (24 groups of 5), one Introduction to Psychology course, Israeli research university`
+`q3 · peer-reviewed single-group pre/post design with validated coding scheme (Grasp of Evidence and AIR frameworks), high interrater reliability (Cohen's κ M=0.90, SD=0.07), and McNemar's tests appropriate to matched binary pre/post data; no control group (authors cite ethical reasons for not withholding instruction)` `i2-i3 · large, precisely quantified, statistically significant shifts on several disciplinary ideals (e.g., 2%→38% on valid methods), though the design cannot isolate which specific course elements caused the shift` `n=120 first-year undergraduates (24 groups of 5), one Introduction to Psychology course, Israeli research university` · `design · r2`
 
 First-year psychology students completed parallel written evidence-evaluation tasks (evaluating popular reports of psychological findings) before and after a 12-week course built around [Collaborative Critique and Redesign of Flawed Studies](../strategies/collaborative-critique-and-redesign-of-flawed-studies.md) — three synchronous small-group tasks requiring critique and redesign of flawed studies on child-rearing, emotion measurement, and psychotherapy. Coded against the Grasp of Evidence framework (Duncan et al.) and the AIR model of epistemic cognition (Chinn et al.), responses showed large, statistically significant shifts toward disciplinary ideals like valid methods and procedural objectivity, alongside a smaller decline in reliance on personal experience — but no significant change in students' evaluation of lay evidence sources (credibility, expertise), which the course did not explicitly emphasize. This extends [Epistemic Cognition](../principles/epistemic-cognition.md) to evidence evaluation in the social/behavioral sciences specifically.
 

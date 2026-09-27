@@ -15,12 +15,14 @@ sources:
     author: "Denise Santos & Gláucia Silva"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Both learner groups were more successful on listening tasks requiring local understanding than on tasks requiring integration of information or inference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Both HLLs and NHLLs achieved higher percentages correct on local-understanding questions than on integration or inference questions, with the latter two demands posing similar challenges to both groups. [→ Denise Santos & Gláucia Silva 2015](#denise-santos-glaucia-silva-2015)
@@ -31,7 +33,7 @@ sources:
 
 Denise Santos & Gláucia Silva. (2015). Exploring Portuguese Heritage and Non-Heritage Learners' Perceptions of and Performance in Listening. The Canadian Journal of Applied Linguistics 18(1), 63-86. https://journals.sfu.ca/cjal/index.php/cjal
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive statistics per task demand (Table 2): local understanding means were 96.3 (HLLs) and 93.4 (NHLLs), versus 75/68.2 for integration and 78.3/63.2 for inference. Questions were coded using Graham et al.'s (2008) system with 70% inter-rater agreement.
 

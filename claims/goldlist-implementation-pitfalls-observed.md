@@ -15,12 +15,14 @@ sources:
     author: John Duplice
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Classroom implementation of the GoldList Method encountered pitfalls: forgotten notebooks, omitted dates, and unclear initial steps
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Qualitative observation during the study identified students forgetting notebooks, omitting dates on headlists and distillations, and finding the method's steps unclear early in implementation. [→ John Duplice 2022](#john-duplice-2022)
@@ -31,7 +33,7 @@ sources:
 
 John Duplice. (2022). The GoldList Notebook Method: A Study on L2 Vocabulary Learning. IAFOR Journal of Education: Language Learning in Education, Volume 10 – Issue 1. https://iafor.org/journal/iafor-journal-of-education/
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Qualitative observational data compiled by the study's facilitator on the method's classroom use. The article also reports participants "frequently omitted the date at the top of each distillation" and that early on "many participants found the steps in the study unclear."
 

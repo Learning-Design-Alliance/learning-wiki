@@ -15,12 +15,14 @@ sources:
     q: 3
     i: 2
     n: 311 pre-service teachers in 112 online groups (subsample n=62 for groups with substantial problems)
+    kind: associational
+    rigour: 1
 ---
 
 # Homogeneous problem perceptions predict better regulation outcomes in collaborative groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=311 pre-service teachers in 112 online groups (subsample n=62 for groups with substantial problems)
+> **Evidence** · 1 study · associational `r1` · `q3` · `i2` medium · n=311 pre-service teachers in 112 online groups (subsample n=62 for groups with substantial problems)
 
 Groups whose members perceive the problems they face during collaboration (comprehension, motivation, coordination, resource problems) similarly to one another report higher satisfaction, greater perceived success in addressing those problems, and higher subjective learning gain than groups whose members perceive the same problems differently.
 
@@ -33,7 +35,7 @@ Groups whose members perceive the problems they face during collaboration (compr
 
 Spang, L., Greisel, M., & Kollar, I. (2026). Great minds think alike—how homogeneous problem perceptions are associated with successful regulation in collaborative learning groups. *Journal of the Learning Sciences, 35*(2), 277-318. [https://doi.org/10.1080/10508406.2025.2553543](https://doi.org/10.1080/10508406.2025.2553543)
 
-`q3 · peer-reviewed path-modeling study, cross-sectional (not pre-registered)` · `i2 · medium-to-large standardized path coefficients (β=.31-.57) for self-report outcomes; no relation to objective knowledge` · `n=311 pre-service teachers in 112 online groups (subsample n=62 for groups with substantial problems)`
+`q3 · peer-reviewed path-modeling study, cross-sectional (not pre-registered)` · `i2 · medium-to-large standardized path coefficients (β=.31-.57) for self-report outcomes; no relation to objective knowledge` · `n=311 pre-service teachers in 112 online groups (subsample n=62 for groups with substantial problems)` · `associational · r1`
 
 Pre-service teachers collaborated in small online groups to analyze a classroom case using developmental theory. Homogeneity of problem perception was calculated as how closely each member's ratings of 33 possible collaboration problems (comprehension, motivation, coordination, resource) aligned with their group's mean rating. Path models found that greater homogeneity predicted higher satisfaction, higher perceived regulation success, and higher subjective learning gain; the pattern held even restricting to groups that reported substantial problems. Objective knowledge test scores were not related to homogeneity. Supplementary video/interview analysis of two contrasting groups found that homogeneous groups used repeated question-answer sequences to align their efforts, while heterogeneous groups acknowledged problems verbally but did not follow up with coordinated solutions.
 

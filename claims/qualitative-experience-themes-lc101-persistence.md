@@ -15,12 +15,14 @@ sources:
     author: Huang, Wenrui, Dajanae Palmer, Ekaete Udoh, Yung Chun, and Jason Jabbari
     q: 1
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Interviews with students and instructors show that interest and prior experience support persistence, but the same qualities can lead successful students to exit early for employment; time constraints and fast pacing undermine persistence for those with competing obligations. [→ Huang 2025](#huang-2025)
@@ -31,7 +33,7 @@ sources:
 
 Huang, Wenrui, Dajanae Palmer, Ekaete Udoh, Yung Chun, and Jason Jabbari. (2025). Pinpointing Persistence in Alternative STEM Pipelines: Evidence from a Novel Coding and Apprenticeship Program. EdWorkingPaper No. 25-1122. https://edworkingpapers.com/ai25-1122
 
-`q1 · i?`
+`q1 · i?` · `associational · r2`
 
 Semi-structured interviews with 22 students and 8 instructors, analyzed via open, axial, and selective coding. The article reports "difficulty in keeping up with the LaunchCode curriculum" across completers and non-completers, plus themes of time resources and early employment opt-outs.
 

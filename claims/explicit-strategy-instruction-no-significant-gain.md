@@ -15,12 +15,14 @@ sources:
     author: Stein, Mary G.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Three weeks of explicit language-focused strategy instruction produced no significant word-problem gain in this study
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` After a three-week explicit strategy instruction period, the difference between word problem pre-test and post-test means was not statistically significant. [→ Stein 1998](#stein-1998)
@@ -31,7 +33,7 @@ sources:
 
 Stein, Mary G. (1998). Strategic Learning: The Implications of Language in Successful Math Problem-Solving. https://eric.ed.gov/?id=ED416501
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 A single-classroom pre-test/post-test comparison of 10-item word problem tests followed three weeks of daily 20-minute explicit strategy instruction. The pre-test mean was 47.08 (SD 21.77) and the post-test mean 55.42 (SD 24.13); "a t of -1.26 was computed, indicating that no significant gain was made."
 

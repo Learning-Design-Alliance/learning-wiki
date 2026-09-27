@@ -16,7 +16,7 @@ sources:
 # Houle's typology of adult learners as goal-oriented, activity-oriented and learning-oriented
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Houle's 1961 study The Inquiring Mind, from which concepts of self-directed learning first emerged, classified adult learners into three orientations. Goal-oriented adults learn to meet identified needs pragmatically; activity-oriented adults participate for reasons "unrelated to the purposes or content of the activities", valuing social interaction; learning-oriented adults treat learning as a constant, with a desire to learn that took on "an almost religious meaning". The review identifies the learning-oriented group as closest to what later became known as self-directed learners.

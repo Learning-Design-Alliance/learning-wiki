@@ -17,7 +17,7 @@ sources:
 # Full-immersion day structure: morning background lectures, afternoon group laboratories, evening observation
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 1 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies (2 review, 1 causal), `q2`–`q3` · 1 of 3 report an effect size
 
 ## Description
 The summer school organizes each day so that lectures prepare hands-on work: "In the morning, we usually propose lectures in which, by stimulating the active involvement, we give the necessary background for the following activities in laboratory." In the afternoon small mixed-school groups run laboratory activities, and in the evening sky observation or indoor problem solving is offered. Every group prepares a brief presentation of what it learned.

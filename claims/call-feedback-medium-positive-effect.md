@@ -15,18 +15,22 @@ sources:
     author: Adnan F. Saad Mohamed
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
   - id: adnan-f-saad-mohamed-2020-2
     resource: "https://tesl-ej.org/wordpress/issues/volume24/ej84/ej84a1/"
     title: "Adnan F. Saad Mohamed. (2020). Feedback in Computer-Assisted Language Learning: A Meta-Analysis. TESL-EJ, 24(2). https://tesl-ej.org/wordpress/issues/volume24/ej84/ej84a1/"
     author: Adnan F. Saad Mohamed
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Feedback in CALL has a significant moderate positive effect on student language learning outcomes (RE g = 0.56) across 21 studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Under the random-effects model, feedback in CALL has a significant medium effect size (g = 0.56) on student language learning outcomes. [→ Adnan F. Saad Mohamed 2020](#adnan-f-saad-mohamed-2020)
@@ -38,7 +42,7 @@ sources:
 
 Adnan F. Saad Mohamed. (2020). Feedback in Computer-Assisted Language Learning: A Meta-Analysis. TESL-EJ, 24(2). https://tesl-ej.org/wordpress/issues/volume24/ej84/ej84a1/
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Meta-analysis of 21 experimental or quasi-experimental CALL feedback studies with a total of 1,313 participants, analyzed in CMA under a random-effects model. The article reports the pooled posttest effect as "statistically significant (RE: g = 0.56)" with 95% CI [0.31, 0.81].
 
@@ -48,7 +52,7 @@ Meta-analysis of 21 experimental or quasi-experimental CALL feedback studies wit
 
 Adnan F. Saad Mohamed. (2020). Feedback in Computer-Assisted Language Learning: A Meta-Analysis. TESL-EJ, 24(2). https://tesl-ej.org/wordpress/issues/volume24/ej84/ej84a1/
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Heterogeneity test across the same 21 studies showed "a significant hete rogeneity across the effect sizes of the studies", with I² of 78.60%, which the author attributes to differences across studies and treats as grounds for moderator analysis.
 

@@ -17,7 +17,7 @@ sources:
 # The teacher's major role is facilitator for discovery rather than dispenser of knowledge
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The handbook derives from Piaget's theory a redefinition of the teacher's role: "the teacher should primarily be a facilitator for the child:to learn from hiS own .experience." Because thought comes from actions, children learn first from concrete experience or doing rather than from hearing about it, so the teacher provides a setting for meaningful experiences with underlying structure, many opportunities to act on the environment, and lessons framed for each child's individual growth. This principle underlies the handbook's activity sections and its endorsement of individualized instruction and learning centers.

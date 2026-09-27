@@ -15,12 +15,14 @@ sources:
     author: Ediger, Marlow
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # Homogeneous grouping for reading instruction and heterogeneous grouping for discussion groups each serve distinct purposes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The essay argues there is room for both grouping plans: homogeneous groups for reading instruction because the achievement range is too great, and heterogeneous groups for discussion where slower learners may lean on listening vocabularies. [→ Ediger 1995](#ediger-1995)
@@ -31,7 +33,7 @@ sources:
 
 Ediger, Marlow. (1995). To Every Action There Is an Opposite and Equal Reaction: An Essay on Teaching. https://eric.ed.gov/?id=ED386319
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r1`
 
 The author's position paper argues against all-day heterogeneous grouping, contending the gifted and talented are asked to help slower learners in cooperative learning, and advocates homogeneous reading groups with heterogeneous discussion groups. Support is the author's experience, not data.
 

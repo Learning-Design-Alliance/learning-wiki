@@ -15,18 +15,22 @@ sources:
     author: Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill
     q: 3
     i: 2
+    kind: causal
+    rigour: 1
   - id: snyder-1991-2
     resource: "https://eric.ed.gov/?id=ED331809"
     title: "Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill. (1991). The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception. https://eric.ed.gov/?id=ED331809"
     author: Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill
     q: 3
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # Instructional clarity is a significant main effect on concept achievement, accounting for roughly half of score variance across measures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Instructional clarity significantly affected students' ability to identify examples of concepts, accounting for 50% of score variance. [→ Snyder 1991](#snyder-1991)
@@ -38,7 +42,7 @@ sources:
 
 Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill. (1991). The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception. https://eric.ed.gov/?id=ED331809
 
-`q3 · i2`
+`q3 · i2` · `causal · r1`
 
 ANOVA in the Results section of a 2x3 factorial experiment with 59 undergraduates randomly assigned to six videotaped-lesson groups. The article reports instructional clarity "accounted for 50% of the score variance" for identifying examples.
 
@@ -48,7 +52,7 @@ ANOVA in the Results section of a 2x3 factorial experiment with 59 undergraduate
 
 Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill. (1991). The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception. https://eric.ed.gov/?id=ED331809
 
-`q3 · i2`
+`q3 · i2` · `causal · r1`
 
 ANOVA on identifying key words in examples, same experiment. The article reports "Instructional clarity alone accounted for 57$ of the scorevariance" while concept structure and interaction were not significant.
 

@@ -15,12 +15,14 @@ sources:
     author: "Lachowsky, N. J., & Murray, J."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Students retrospectively evaluated group processing as time well spent and vividly remembered it years later
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Former students strongly agreed that group processing was time well spent (mean=8.8) and vividly remembered the experience (mean=7.4) on 10-point scales. [→ Lachowsky 2021](#lachowsky-2021)
@@ -31,7 +33,7 @@ sources:
 
 Lachowsky, N. J., & Murray, J. (2021). Group Processing: Students Reflections on the Experience and Impact of Group Processing. Journal of Problem Based Learning in Higher Education, 9(2). https://doi.org/10.5278/ojs.jpblhe.v9i2.2883
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Retrospective online survey of 46 former enquiry-based learning seminar students, rated on 10-point Likert-type scales. Participants reported strong agreement that group processing was “time well spent” (mean=8.8) and that they “vividly” remembered it (mean=7.4).
 

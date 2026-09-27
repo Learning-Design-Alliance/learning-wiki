@@ -15,18 +15,22 @@ sources:
     author: "Zhang, Y., Cook, C., Fallon, L., Corbin, C., Ehrhart, M., Brown, E., Locke, J., & Lyon, A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: zhang-2023-2
     resource: "https://doi.org/10.1007/s10488-022-01248-5"
     title: "Zhang, Y., Cook, C., Fallon, L., Corbin, C., Ehrhart, M., Brown, E., Locke, J., & Lyon, A. (2023). The Interaction Between General and Strategic Leadership and Climate on Their Multilevel Associations with Implementer Attitudes Toward Universal Prevention Programs for Youth Mental Health: A Cross-Sectional Study. Administration and Policy in Mental Health and Mental Health Services Research. https://doi.org/10.1007/s10488-022-01248-5"
     author: "Zhang, Y., Cook, C., Fallon, L., Corbin, C., Ehrhart, M., Brown, E., Locke, J., & Lyon, A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # At the individual level, both general and strategic leadership and climate are associated with Requirement and Openness attitudes, but only general factors with Appeal and Divergence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Individual-level perceptions of both general and strategic leadership and climate were significantly associated with Requirement and Openness attitudes. [→ Zhang 2023](#zhang-2023)
@@ -38,7 +42,7 @@ sources:
 
 Zhang, Y., Cook, C., Fallon, L., Corbin, C., Ehrhart, M., Brown, E., Locke, J., & Lyon, A. (2023). The Interaction Between General and Strategic Leadership and Climate on Their Multilevel Associations with Implementer Attitudes Toward Universal Prevention Programs for Youth Mental Health: A Cross-Sectional Study. Administration and Policy in Mental Health and Mental Health Services Research. https://doi.org/10.1007/s10488-022-01248-5
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Within-school (group-mean-centered) effects in the climate models on 441 implementers showed "both general and strategic climates were significantly associated with Requirement and Openness"; the leadership models showed the same pattern for these two dimensions (Table 8).
 
@@ -48,7 +52,7 @@ Within-school (group-mean-centered) effects in the climate models on 441 impleme
 
 Zhang, Y., Cook, C., Fallon, L., Corbin, C., Ehrhart, M., Brown, E., Locke, J., & Lyon, A. (2023). The Interaction Between General and Strategic Leadership and Climate on Their Multilevel Associations with Implementer Attitudes Toward Universal Prevention Programs for Youth Mental Health: A Cross-Sectional Study. Administration and Policy in Mental Health and Mental Health Services Research. https://doi.org/10.1007/s10488-022-01248-5
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 The results section reports two exceptions to individual-level leadership associations: "strategic leadership was not associated with Appeal and general leadership was not associated with Divergence"; for climate, only general climate was significant for Appeal and Divergence.
 

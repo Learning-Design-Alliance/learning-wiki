@@ -15,12 +15,14 @@ sources:
     q: 3
     i: 2
     n: "31 fourth graders (13 female; 87% students of color; 58% English Language Learners; 16% with an IEP), one urban US school"
+    kind: associational
+    rigour: 1
 ---
 
 # Spontaneous break-apart-make-ten strategy use is associated with stronger multiplicative double-counting reasoning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=31 fourth graders (13 female; 87% students of color; 58% English Language Learners; 16% with an IEP), one urban US school
+> **Evidence** · 1 study · associational `r1` · `q3` · `i2` medium · n=31 fourth graders (13 female; 87% students of color; 58% English Language Learners; 16% with an IEP), one urban US school
 
 Which of three spontaneous strategies (counting-on, doubling ±1, break-apart-make-ten) a fourth-grader uses to solve a single addition problem is strongly associated with their independent ability to reason about multiplicative double counting (mDC), a foundational form of multiplicative reasoning.
 
@@ -37,7 +39,7 @@ Which of three spontaneous strategies (counting-on, doubling ±1, break-apart-ma
 
 Tzur, R., Johnson, H. L., Norton, A., Davis, A., Wang, X., Ferrara, M., Harrington, C., & Hodkowski, N. M. (2021). Children's Spontaneous Additive Strategy Relates to Multiplicative Reasoning. *Cognition and Instruction, 39*(4), 451-476. [https://doi.org/10.1080/07370008.2021.1896521](https://doi.org/10.1080/07370008.2021.1896521)
 
-`q3 · peer-reviewed mixed-methods clinical-interview study with independently validated Rasch measure (prior N=373-434 calibration sample, Cronbach's α=0.7, item infit/outfit within acceptable range) and two-rater video coding reconciled to 100% agreement; not pre-registered, not experimental (strategy was observed, not manipulated)` `i2 · a large, precisely reported association (Somers' d=0.71) between an easily observed classroom behavior and a validated measure of multiplicative reasoning, though based on a modest sample and exploratory design` `n=31 fourth graders (13 female; 87% students of color; 58% English Language Learners; 16% with an IEP), one urban US school`
+`q3 · peer-reviewed mixed-methods clinical-interview study with independently validated Rasch measure (prior N=373-434 calibration sample, Cronbach's α=0.7, item infit/outfit within acceptable range) and two-rater video coding reconciled to 100% agreement; not pre-registered, not experimental (strategy was observed, not manipulated)` `i2 · a large, precisely reported association (Somers' d=0.71) between an easily observed classroom behavior and a validated measure of multiplicative reasoning, though based on a modest sample and exploratory design` `n=31 fourth graders (13 female; 87% students of color; 58% English Language Learners; 16% with an IEP), one urban US school` · `associational · r1`
 
 Thirty-one fourth graders solved a single addition word problem (8+7=15) via clinical interview; two independent raters coded which of three strategies (counting-on, doubling ±1, break-apart-make-ten) each child spontaneously used. The same children then completed four multiplicative double-counting tasks (e.g., "6 towers of 3 cubes each — how many cubes in all?"), scored via an independently validated Rasch measure. Children who used break-apart-make-ten — which requires reversibly decomposing one addend into two parts (e.g., splitting 7 into 5 and 2) — scored far higher on mDC than children who used counting-on, which operates only on units of one. The study interprets this as evidence that a child's spontaneous strategy on an ordinary addition problem reveals their current [number-sequence stage](../theories/steffes-number-sequences-and-multiplicative-double-counting.md), offering teachers a low-cost diagnostic window into multiplicative readiness without a separate assessment.
 

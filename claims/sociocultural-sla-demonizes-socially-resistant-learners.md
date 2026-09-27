@@ -15,12 +15,14 @@ sources:
     author: Chen, J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Sociocultural SLA literature portrays learners who resist mainstream social interaction negatively, as 'nonparticipating' or having 'negative attitude'
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Across Vygotskian, CoP, and contemporary sociocultural applications in SLA, learners whose behaviours, attitudes, or gravitations run counter to dominant forms of social learning are portrayed unsatisfactorily and demonized. [→ Chen 2016](#chen-2016)
@@ -31,7 +33,7 @@ sources:
 
 Chen, J. (2016). Demonized Learners in Sociocultural Theory. Advances in Language and Literary Studies, 7(3), 168-177. https://doi.org/10.7575/aiac.alls.v.7n.3p.168
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical literature analysis: the author's survey of sociocultural SLA studies (Watanabe 2008; Norton 2001; Duff 2002; Fotovatian 2012; Kettle 2005) concludes that learners using mediation tools other than peers or teachers "are demonized and categorized as 'nonparticipating.'" No empirical data; this is the author's interpretive synthesis.
 

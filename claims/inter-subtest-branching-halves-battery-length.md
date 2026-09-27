@@ -15,12 +15,14 @@ sources:
     author: Weiss, David J.
     q: 2
     i: 2
+    kind: design
+    rigour: "?"
 ---
 
 # An adaptive strategy combining intra-subtest item selection with inter-subtest branching halves achievement test battery length with no loss in measurement quality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · design `r?` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Real-data simulation of an adaptive battery strategy in a military testing environment showed an average 50% reduction in test length with no loss in measurement quality, varying from 18% to 80% across individuals. [→ Weiss 1980](#weiss-1980)
@@ -31,7 +33,7 @@ sources:
 
 Weiss, David J. (1980). Final Report: Computerized Adaptive Performance Evaluation. https://eric.ed.gov/?id=ED187760
 
-`q2 · i2`
+`q2 · i2` · `design · r?`
 
 Real-data simulation (Research Report 77-6) using test results for 365 fire-control technicians on a 232-item, 12-subtest achievement test. The report states "an average 50% reduction intest length for the individuals tested, with, no loss in the qualfty 0 the obtained measurements."
 

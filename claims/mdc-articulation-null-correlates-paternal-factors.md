@@ -15,12 +15,14 @@ sources:
     author: Gordon, Don E.
     q: 2
     i: 0
+    kind: associational
+    rigour: 2
 ---
 
 # No significant correlations were found between MDC speech articulation disorders and paternal separation time, family moves, rank, father's age, child's familial placement, or military occupation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i?` The study reported no significant correlations between speech articulation disorders and geographical separation of the soldier-father, number of houses the child lived in, father's military grade or rank, father's age, the child's familial placement, or the father's military occupational specialty. [→ Gordon 1972](#gordon-1972)
@@ -31,7 +33,7 @@ sources:
 
 Gordon, Don E. (1972). Survey of Speech Articulation Disorders Among Military Dependent Children. Fitchburg State College. https://eric.ed.gov/?id=ED066855
 
-`q2 · i0`
+`q2 · i0` · `associational · r2`
 
 Null findings from the same 1971 survey of 412 tested MDC, in which children's Goldman-Fristoe scores were correlated with aspects of the fathers' military service drawn from personal data questionnaires. The listed paternal and family factors showed no significant correlations; no effect sizes are printed, so the nulls are reported as non-detection.
 

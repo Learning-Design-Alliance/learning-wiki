@@ -15,12 +15,14 @@ sources:
     author: Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike
     q: 3
     i: 0
+    kind: causal
+    rigour: 2
 ---
 
 # Prior-knowledge activation instructions before study had little effect on retention in Experiment 2
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i?` Activation of topic-relevant versus unrelated knowledge produced only one significant effect, a free-recall activation-by-fact interaction the authors urge caution about. [→ Woloshyn 1992](#woloshyn-1992)
@@ -31,7 +33,7 @@ sources:
 
 Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike. (1992). Using Elaborative Interrogation To Help Students Overcome Their Inaccurate Science Beliefs. https://eric.ed.gov/?id=ED356949
 
-`q3 · i0`
+`q3 · i0` · `causal · r2`
 
 Experiment 2 activation analysis: students talked 1.5 minutes about topic-relevant or unrelated headings before study. "There was only one effect due to activation," a free-recall interaction favoring unrelated-topic activation for belief-consistent facts, which the authors say should be interpreted with caution.
 

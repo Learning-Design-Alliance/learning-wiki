@@ -15,6 +15,8 @@ sources:
     q: 3
     i: 1
     n: studies not counted in abstract
+    kind: quant-synthesis
+    rigour: "?"
   - id: joseph-et-al-2016
     resource: "https://doi.org/10.1080/10573569.2014.891449"
     title: "Joseph, L. M., Alber-Morgan, S., Cullen, J., & Rouse, C. (2016). The Effects of Self-Questioning on Reading Comprehension: A Literature Review. *Reading & Writing Quarterly, 32*(2), 152–173. [doi:10.1080/10573569.2014.891449](https://doi.org/10.1080/10573569.2014.891449)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: "?"
     n: 35 studies
+    kind: review
+    rigour: "?"
 ---
 
 # Self-questioning improves comprehension
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r?` · `q3` · `i1` small
 
 When learners generate and answer their own questions during reading or study, their comprehension of the material improves relative to reading alone. The mechanism is generally understood as generative processing: posing questions forces learners to identify main ideas, connect them to prior knowledge, and monitor their own understanding.
 
@@ -43,7 +47,7 @@ When learners generate and answer their own questions during reading or study, t
 
 Rosenshine, B., Meister, C., & Chapman, S. (1996). Teaching Students to Generate Questions: A Review of the Intervention Studies. *Review of Educational Research, 66*(2), 181–221. [doi:10.3102/00346543066002181](https://doi.org/10.3102/00346543066002181)
 
-`q3 · review/synthesis of intervention studies (abstract only)` · `i1 · small–medium effect, median d=0.36 (standardized tests)` · `n=studies not counted in abstract`
+`q3 · review/synthesis of intervention studies (abstract only)` · `i1 · small–medium effect, median d=0.36 (standardized tests)` · `n=studies not counted in abstract` · `quant-synthesis · r?`
 
 Reviewed intervention studies in which students were taught the cognitive strategy of generating their own questions about text as a comprehension aid (a self-questioning/text-embedded-questioning strategy, distinct from teacher-posed questions). Comprehension was measured on new material at the end of training. Across studies, question-generation training improved comprehension, with a median effect size of 0.36 (64th percentile) on standardized comprehension tests and 0.86 (81st percentile) on experimenter-developed tests; a traditional skill-based approach and a reciprocal-teaching approach produced similar results. Only the abstract was read (paywalled full text; not found via Unpaywall or Semantic Scholar), so the number of contributing studies is not confirmed and the `i` code reflects only the standardized-test figure the abstract states as a reported effect size.
 
@@ -51,7 +55,7 @@ Reviewed intervention studies in which students were taught the cognitive strate
 
 Joseph, L. M., Alber-Morgan, S., Cullen, J., & Rouse, C. (2016). The Effects of Self-Questioning on Reading Comprehension: A Literature Review. *Reading & Writing Quarterly, 32*(2), 152–173. [doi:10.1080/10573569.2014.891449](https://doi.org/10.1080/10573569.2014.891449)
 
-`q3 · systematic literature review of experimental studies` · `i? · no effect size reported in what was read` · `n=35 studies`
+`q3 · systematic literature review of experimental studies` · `i? · no effect size reported in what was read` · `n=35 studies` · `review · r?`
 
 This review examined 35 experimental research studies that taught self-questioning to K–12 students, with and without disabilities, to determine whether self-questioning is an evidence-based practice for reading comprehension. The authors report that a variety of specific self-questioning strategies have been used across these studies, and that these strategies were effective for improving reading-comprehension performance across a range of diverse learners and across various educational settings. The publisher's full text was not accessible from this environment (Taylor & Francis returned an access-denied response); the finding above is drawn from the ERIC abstract, which describes the strategies as effective but reports no pooled or per-study effect size, so impact is coded `i?` rather than inferred.
 

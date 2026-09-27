@@ -17,7 +17,7 @@ sources:
 # Precis summary notes placed alongside the basic text
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Concise summary notes placed alongside the basic text that explain key concepts, key terminology, and key questions. The article reports that students "gave very high marks to the precis summaries, vocabulary helpers, mini-notes, and Reader Helper notes," making precis summaries one of the highest-rated aids in the study's student reactions.

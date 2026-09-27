@@ -15,12 +15,14 @@ sources:
     author: Darder, A.; Pérez Garcias, A.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The student-tutor relationship alone is judged insufficient: peer mixing and virtual communities are needed to counter isolation in online research supervision
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The study's results revealed consensus that the student-tutor relationship suffices for the student but is not advisable; students need to mix with peers in the same situation, which favors information exchange, makes loneliness disappear, enriches work and provides motivation, and virtual communities facilitate this. [→ Darder 2015](#darder-2015)
@@ -31,7 +33,7 @@ sources:
 
 Darder, A.; Pérez Garcias, A. (2015). Online tutoring procedure for research project supervision: management, organization and key elements. New Approaches in Educational Research 4(2). https://doi.org/10.7821/naer.2015.4.110
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Conclusion drawn from the study's consultations and implementation case study; the article also cites literature that interaction between partners "increases the feeling of membership and removes the feeling of isolation and disorientation" in online education (Sánchez & Castellanos, 2013). No effect sizes are reported.
 

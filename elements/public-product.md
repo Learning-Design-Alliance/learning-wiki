@@ -12,7 +12,7 @@ generated:
 # Public Product
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q3` · 0 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (2 causal, 2 design, 1 review), `q1`–`q3` · 0 of 5 report an effect size
 
 ## Description
 Public product is the element in which learners create work intended for real audiences beyond the teacher alone.

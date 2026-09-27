@@ -16,7 +16,7 @@ sources:
 # Four contexts of knowing framework based on regulativeness and constitutiveness of knowledge and community
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (7 for) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 2 studies (1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 7 claims rest on one study
 
 ## Description
 The paper articulates a heuristic framework, developed by Silverman (1993), that differentiates areas of study by substantive and communal variation rather than standard divisions such as natural versus social science. As the abstract states, "Papers were placed into four contexts of knowing, based on variations of the concepts of regulativeness and constitutiveness of both the knowledge base and of the community." The framework posits that regulative knowledge is paradigm-like while constitutive knowledge lets objects of study speak for themselves, and that constitutive communities are organic and evolving whereas regulative communities follow the logic of relations within an existing discipline. The four intersections label the rhetorical logics of journal comment-and-reply exchanges.

@@ -15,12 +15,14 @@ sources:
     author: "Nero, C. A., & Zulkiply, N."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The effect of retrieval practice format on reading comprehension does not differ significantly between an immediate and a three-week-delayed final test
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` No statistically significant interaction was found between type of retrieval practice and retention interval (F(1, 98) = 0.06, p = .804). [→ Nero 2021](#nero-2021)
@@ -31,7 +33,7 @@ sources:
 
 Nero, C. A., & Zulkiply, N. (2021). The Effects of Retrieval Practice Across Levels of Thinking and Retention Interval on Reading Comprehension. Asian Journal of University Education (AJUE), 17(4). https://doi.org/10.24191/ajue.v17i4.16222
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Classroom experiment with 100 first-year Cognitive Psychology undergraduates in a 2 x 2 x 2 mixed-subjects design, analysed with a three-way mixed ANOVA on final multiple-choice test scores. The article reports "no significant interaction between types of retrieval practice and retention interval", F(1, 98) = 0.06, p = .804.
 

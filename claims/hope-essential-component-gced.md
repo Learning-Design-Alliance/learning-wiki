@@ -15,12 +15,14 @@ sources:
     author: Stewart Williams, J. E.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Ikeda positions hope as an essential component of global citizenship education, with value creation starting from hope
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In his 2014 peace proposal Ikeda devotes an entire section to how value creation starts with hope, positioning hope as an essential component of global citizenship education. [→ Stewart Williams 2020](#stewart-williams-2020)
@@ -31,7 +33,7 @@ sources:
 
 Stewart Williams, J. E. (2020). Daisaku Ikeda's Philosophy of Value-Creating Global Citizenship Education and Africana Humanism: Africa as the Continent of the 21st Century. Journal of Interdisciplinary Studies in Education, 9(SI). https://ojed.org/jise
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Interpretive statement in the article's section on Ikeda's philosophy, reporting Ikeda's 2014 peace proposal. The article presents this as Ikeda's own positioning of hope, with no empirical test; global citizenship is described as a way of being in which one chooses to remain hopeful while manifesting humanity.
 

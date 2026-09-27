@@ -15,12 +15,14 @@ sources:
     author: Dennis, J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Effective learning environments depend on the interaction of four overlapping frames rather than their compartmentalization
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Bransford et al. hold that the agency in designing a learning environment rests on the interaction of community-, knowledge-, learner-, and assessment-centered frames, not on any one frame alone. [→ Dennis 2022](#dennis-2022)
@@ -31,7 +33,7 @@ sources:
 
 Dennis, J. (2022). (Re)Framing Our Frames: Architectonics, Intertextuality, and the Scholarship of Integration in Online Education. Canadian Journal of Learning and Technology, 48(2). https://www.cjlt.ca
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical synthesis section reporting Bransford et al.'s learning-science account as adopted by Anderson: community-, knowledge-, learner-, and assessment-centered environments overlap, and the article states the design agency "rests on the interaction of all four frames". No empirical test is reported here.
 

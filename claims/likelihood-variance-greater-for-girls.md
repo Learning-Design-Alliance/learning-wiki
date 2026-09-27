@@ -15,12 +15,14 @@ sources:
     author: "Srdjan Verbić & Boris Tomić"
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Mean response likelihood does not differ significantly between boys and girls, but its variance is 1.46 times greater for girls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` Mean item response likelihood was slightly greater for girls (0.621) than boys (0.614), a non-significant difference, but the variance of mean likelihood was 1.46 times greater for girls (p<0.02). [→ Srdjan Verbić & Boris Tomić 2008](#srdjan-verbic-boris-tomic-2008)
@@ -31,7 +33,7 @@ sources:
 
 Srdjan Verbić & Boris Tomić. (2008). Test item response time and the response likelihood. Institute for Education Quality and Evaluation. http://sepp.ceo.edu.rs/moodle/mod/resource/view.php?id=25
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 Distributional comparison of mean item response likelihood for boys and girls in the physics trial test. The printed variance ratio is "1.46 times greater for girls than for boys (p<0.02)"; the mean difference was not statistically significant.
 

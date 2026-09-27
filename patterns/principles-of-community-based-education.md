@@ -17,7 +17,7 @@ sources:
 # Nine principles of community-based education grounded in democratic participation
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper enumerates nine principles of community-based education drawn from various writers: self-determination, self-help, leadership development, localization, integrated delivery of services, reduced duplication of services, accepting diversity, institutional responsiveness, and lifelong learning. It states that "Principles associated with community-based education are grounded in the notion that each and every community member has a right to be involved in the identification and resolution of individual and community needs through a democratic participatory process."

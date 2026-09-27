@@ -15,12 +15,14 @@ sources:
     author: Liang, Li, Hsu and Xu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Self-efficacy and learning motivation serially mediate the link from AIGC affordance to self-regulated learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Self-efficacy mediates the AIGC affordance → learning motivation path (indirect β = 0.329, significant). [→ Liang 2026](#liang-2026)
@@ -33,7 +35,7 @@ sources:
 
 Liang, Li, Hsu and Xu. (2026). AIGC affordance and student self-regulation in private undergraduate education: a serial mediation model of self-efficacy and learning motivation. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1800950
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Bootstrapping mediation analysis (10,000 subsamples, bias-corrected 95% CIs) in the same 689-student survey. Table 9 prints significant indirect effects AFS→SEF→LM (0.329), AFS→SEF→SRL (0.145), and the serial AFS→SEF→LM→SRL path (0.173); the AFS→LM→SRL indirect effect was not significant.
 

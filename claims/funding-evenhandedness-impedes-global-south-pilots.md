@@ -15,18 +15,22 @@ sources:
     author: "Vijge, M. J., Gallagher, S. E., Byrne, J. R., Tschersich, J., Tager, J., Madhavan, U. B., Boshoff, H., & Triyanti, A."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: vijge-2025-2
     resource: "https://openjournals.libs.uga.edu/jheoe"
     title: "Vijge, M. J., Gallagher, S. E., Byrne, J. R., Tschersich, J., Tager, J., Madhavan, U. B., Boshoff, H., & Triyanti, A. (2025). Community-Engaged Learning in a European Universities Alliance: Reflections on Equality and Reciprocity Across Europe and Africa. Journal of Higher Education Outreach and Engagement, 29(2). https://openjournals.libs.uga.edu/jheoe"
     author: "Vijge, M. J., Gallagher, S. E., Byrne, J. R., Tschersich, J., Tager, J., Madhavan, U. B., Boshoff, H., & Triyanti, A."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # A lack of funding privileges more resourceful partners, and CHARM-EU declined stakeholder funding requests to avoid favoring some student teams over others
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · qualitative `r2`–`r3` · `q1`
 
 ## Subclaims
 `q1 i?` A lack of funding privileges more resourceful partners or societal stakeholders who can make themselves available for student teams and even provide funding for students' fieldwork. [→ Vijge 2025](#vijge-2025)
@@ -38,7 +42,7 @@ sources:
 
 Vijge, M. J., Gallagher, S. E., Byrne, J. R., Tschersich, J., Tager, J., Madhavan, U. B., Boshoff, H., & Triyanti, A. (2025). Community-Engaged Learning in a European Universities Alliance: Reflections on Equality and Reciprocity Across Europe and Africa. Journal of Higher Education Outreach and Engagement, 29(2). https://openjournals.libs.uga.edu/jheoe
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Autoethnographic reflection on funding and resources in the Capstone. The authors "observed that a lack of funding privileges the more resourceful partners" and noted the need for distributing such funding more equitably.
 
@@ -48,7 +52,7 @@ Autoethnographic reflection on funding and resources in the Capstone. The author
 
 Vijge, M. J., Gallagher, S. E., Byrne, J. R., Tschersich, J., Tager, J., Madhavan, U. B., Boshoff, H., & Triyanti, A. (2025). Community-Engaged Learning in a European Universities Alliance: Reflections on Equality and Reciprocity Across Europe and Africa. Journal of Higher Education Outreach and Engagement, 29(2). https://openjournals.libs.uga.edu/jheoe
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r3`
 
 The reflection reports that stakeholder requests for additional funding were refused because CHARM-EU "does not want to favor some student teams over others in funding travel and fieldwork", which the authors describe as a paradox of its equality focus.
 

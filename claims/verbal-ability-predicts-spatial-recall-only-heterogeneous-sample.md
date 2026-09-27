@@ -15,18 +15,22 @@ sources:
     author: Shaha, Steven H.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: shaha-1982-2
     resource: "https://eric.ed.gov/?id=ED228271"
     title: "Shaha, Steven H. (1982). Cognitive Processes Functional in Spatial Recall. CSE Report No. 193, Center for the Study of Evaluation, UCLA. https://eric.ed.gov/?id=ED228271"
     author: Shaha, Steven H.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Verbal ability predicts spatial recall only for the less verbal, more heterogeneous high school sample, not for college students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Verbal Ability entered the regression solution for the high school sample but was not a significant contributor for the college sample (R2change <.01). [→ Shaha 1982](#shaha-1982)
@@ -38,7 +42,7 @@ sources:
 
 Shaha, Steven H. (1982). Cognitive Processes Functional in Spatial Recall. CSE Report No. 193, Center for the Study of Evaluation, UCLA. https://eric.ed.gov/?id=ED228271
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 In the college sample (n=68) stepwise regression, only Hidden Patterns Test and Figural Creativity entered; the article reports Verbal Ability "was not asignificant contributor" with R2change <.01. No effect size is printed, so impact is unquantified.
 
@@ -48,7 +52,7 @@ In the college sample (n=68) stepwise regression, only Hidden Patterns Test and 
 
 Shaha, Steven H. (1982). Cognitive Processes Functional in Spatial Recall. CSE Report No. 193, Center for the Study of Evaluation, UCLA. https://eric.ed.gov/?id=ED228271
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Discussion of the high school intercorrelation matrix (n=64), where Verbal Ability correlated significantly with spatial recall; the article states "less verbal students have lower spatialrecall" in this more heterogeneous sample.
 

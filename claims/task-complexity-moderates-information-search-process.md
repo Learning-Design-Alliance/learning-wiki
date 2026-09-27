@@ -15,12 +15,14 @@ sources:
     author: Kuhlthau, C. C.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Task complexity moderates whether users experience the constructive information search process
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Users show simple, straightforward information seeking in routine work tasks but a process of construction and formulation in tasks they identify as complex. [→ Kuhlthau 2005](#kuhlthau-2005)
@@ -31,7 +33,7 @@ sources:
 
 Kuhlthau, C. C. (2005). Towards collaboration between information seeking and information retrieval. Information Research, 10(2) paper 225. http://InformationR.net/ir/10-2/paper225.html
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The author's recent studies introduced the concept of task complexity, developed by Bystrom and the Tampere team, and found workers "could easily distinguish between different types of information use in complex tasks and in routine tasks". Complex tasks took an extended period of time.
 

@@ -15,12 +15,14 @@ sources:
     author: Monika Geist
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Syntactical noticing focuses mainly on sentence length and ways of connecting clauses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Of 24 syntactical LREs, the main focus was on sentence length and connecting clauses, with fewer LREs on word order and other issues. [→ Monika Geist 2017](#monika-geist-2017)
@@ -31,7 +33,7 @@ sources:
 
 Monika Geist. (2017). Noticing grammar in L2 writing and problem-solving strategies. Studies in Second Language Learning and Teaching, 7(3), 471-487. https://doi.org/10.14746/ssllt.2017.7.3.6
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Table 2 shows sentence length as broad focus in nine LREs and connecting clauses in seven, plus three word-order and four other syntactical LREs; "The focus of the syntactical LREs was mainly on sentence length and connecting clauses."
 

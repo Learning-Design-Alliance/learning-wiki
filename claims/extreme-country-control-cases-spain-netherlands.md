@@ -15,18 +15,22 @@ sources:
     author: "Kim, T. & Yun, J. T."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: kim-2019-2
     resource: "https://doi.org/10.14507/epaa.27.4597"
     title: "Kim, T. & Yun, J. T. (2019). Logics of accountability: Cross-national patterns in school-level controls. Education Policy Analysis Archives, 27(119). https://doi.org/10.14507/epaa.27.4597"
     author: "Kim, T. & Yun, J. T."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Extreme country cases: Spain reports universal external control of hiring while the Netherlands reports universal internal control of HR, curriculum, and budget
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Spain, 100% of public schools reported external controls in hiring or appointing teachers. [→ Kim 2019](#kim-2019)
@@ -38,7 +42,7 @@ sources:
 
 Kim, T. & Yun, J. T. (2019). Logics of accountability: Cross-national patterns in school-level controls. Education Policy Analysis Archives, 27(119). https://doi.org/10.14507/epaa.27.4597
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive finding from the country-average external control scores in Table 2 of the TALIS 2013 analysis: "in Spain (ESP) 100% of public schools reported external controls in hiring or appointing teachers."
 
@@ -48,7 +52,7 @@ Descriptive finding from the country-average external control scores in Table 2 
 
 Kim, T. & Yun, J. T. (2019). Logics of accountability: Cross-national patterns in school-level controls. Education Policy Analysis Archives, 27(119). https://doi.org/10.14507/epaa.27.4597
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive finding from Table 2 of the TALIS 2013 analysis: the Netherlands scored 0 on HR, curriculum, and budget, indicating universal school-level internal control in those three functions.
 

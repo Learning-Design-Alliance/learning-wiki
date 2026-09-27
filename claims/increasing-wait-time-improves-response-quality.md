@@ -15,6 +15,8 @@ sources:
     q: 3
     i: "?"
     n: N/A (narrative synthesis of multiple studies)
+    kind: review
+    rigour: "?"
   - id: rowe-1986
     resource: "https://doi.org/10.1177/002248718603700110"
     title: "Rowe, M. B. (1986). Wait Time: Slowing Down May Be A Way of Speeding Up! *Journal of Teacher Education, 37*(1), 43-50. [doi:10.1177/002248718603700110](https://doi.org/10.1177/002248718603700110)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: "?"
     n: N/A (narrative synthesis of multiple studies)
+    kind: review
+    rigour: "?"
 ---
 
 # Increasing Wait Time Improves Response Quality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 2 studies · 2 review `r?` · `q3`
 
 Extending the pause a teacher leaves after asking a question — and after a student begins to answer — yields longer, more complex, and more evidence-based student responses.
 
@@ -43,7 +47,7 @@ Extending the pause a teacher leaves after asking a question — and after a stu
 
 Tobin, K. (1987). The Role of Wait Time in Higher Cognitive Level Learning. *Review of Educational Research, 57*(1), 69–95. [doi:10.3102/00346543057001069](https://doi.org/10.3102/00346543057001069)
 
-`q3 · systematic review of classroom-questioning studies` · `i? · no effect size reported` · `n=N/A (narrative synthesis of multiple studies)`
+`q3 · systematic review of classroom-questioning studies` · `i? · no effect size reported` · `n=N/A (narrative synthesis of multiple studies)` · `review · r?`
 
 This is a review, not a single experiment: it synthesizes studies of wait time (the pause after a teacher's question and after a student begins answering) across subject areas and grade levels. Its own summary states that wait time "appears to foster higher cognitive level learning by giving teachers and students more time to think" — read here from ERIC's abstract, not the full JSTOR text, since JSTOR access was blocked and no open-access copy could be located via Unpaywall. No quantitative effect size is given in the abstract, so impact is coded `i?` rather than assigned a magnitude.
 
@@ -51,7 +55,7 @@ This is a review, not a single experiment: it synthesizes studies of wait time (
 
 Rowe, M. B. (1986). Wait Time: Slowing Down May Be A Way of Speeding Up! *Journal of Teacher Education, 37*(1), 43-50. [doi:10.1177/002248718603700110](https://doi.org/10.1177/002248718603700110)
 
-`q3 · narrative review of wait-time training studies` · `i? · no effect size reported` · `n=N/A (narrative synthesis of multiple studies)`
+`q3 · narrative review of wait-time training studies` · `i? · no effect size reported` · `n=N/A (narrative synthesis of multiple studies)` · `review · r?`
 
 Rowe's review distinguishes wait time 1 (the pause after asking a question) and wait time 2 (the pause after a student stops speaking) — the same two pauses this claim page describes — and reviews training procedures used to lengthen them. The publisher's own abstract (retrieved via Crossref) states that when teachers wait "just a few seconds more" before responding, "there are pronounced improvements in the quality of the response and in students' and teachers' attitudes and expectations" (from ERIC's independent abstract of the same article, EJ333700). No open-access full text was found (Unpaywall: no OA location); read at abstract level only, so no numeric effect size can be extracted.
 

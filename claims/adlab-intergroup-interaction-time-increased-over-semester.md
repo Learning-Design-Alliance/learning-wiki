@@ -15,12 +15,14 @@ sources:
     author: "Irving, P. W., & Sayre, E. C."
     q: 2
     i: 2
+    kind: qualitative
+    rigour: 3
 ---
 
 # Time spent in inter-group interactions increased substantially over the semester in the advanced laboratory course
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · qualitative `r3` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` The percentage of lab time spent interacting with other groups rose for all three observed groups between the second experiment and the penultimate experiment of the semester. [→ Irving 2013](#irving-2013)
@@ -31,7 +33,7 @@ sources:
 
 Irving, P. W., & Sayre, E. C. (2013). Conditions for building a community of practice in an advanced physics laboratory. https://arxiv.org/abs/1312.1953
 
-`q2 · i2`
+`q2 · i2` · `qualitative · r3`
 
 Quantitative observational analysis of three lab groups, coding inter-group interactions across three methods and reporting percent of total time spent talking to other groups. The authors state the initial-final differences are "significantly diﬀerent" for all three groups, with Group B increasing less than the others.
 

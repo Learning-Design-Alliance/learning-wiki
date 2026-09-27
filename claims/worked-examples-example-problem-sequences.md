@@ -13,6 +13,8 @@ sources:
     q: 3
     i: "?"
     n: 48
+    kind: causal
+    rigour: "?"
 id: worked-examples-example-problem-sequences
 aliases: [example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes]
 evidence_strength: moderate
@@ -21,7 +23,7 @@ evidence_strength: moderate
 # Example–problem sequences reduce cognitive load and improve learning outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=48
+> **Evidence** · 1 study · causal `r?` · `q3` · n=48
 
 Learners who study worked examples before or interleaved with practice problems show lower cognitive load and higher performance than those who only solve problems.
 
@@ -39,7 +41,7 @@ Primary evidence link: https://doi.org/10.1016/j.cedpsych.2010.10.004
 
 Van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example–problem, and problem–example pairs on novices' learning. *Contemporary Educational Psychology, 36*(3), 212–218. [doi:10.1016/j.cedpsych.2010.10.004](https://doi.org/10.1016/j.cedpsych.2010.10.004)
 
-`q3 · peer-reviewed experiment, not pre-registered` · `i? · no source text available to check; the entry prints no effect size` · `n=48`
+`q3 · peer-reviewed experiment, not pre-registered` · `i? · no source text available to check; the entry prints no effect size` · `n=48` · `causal · r?`
 
 Forty-eight secondary-school novices in electrical-circuits troubleshooting were randomly assigned to four training conditions: four consecutive [worked examples](../elements/demonstration.md), alternating [example](../elements/demonstration.md)–[problem](../elements/practice.md) pairs, alternating [problem](../elements/practice.md)–[example](../elements/demonstration.md) pairs, or four consecutive [problem-solving](../elements/practice.md) tasks. After training, learners completed a transfer test and rated cognitive load. All three example-based conditions produced lower cognitive load and higher test scores than the problem-only condition; the three example-based conditions did not differ significantly from each other, suggesting the presence of examples matters more than their ordering.
 

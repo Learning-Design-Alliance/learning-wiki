@@ -16,7 +16,7 @@ sources:
 # Dialogism: the relation of one utterance to other utterances as the context informing all writing
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 3 studies, `q1`–`q2` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 3 studies (2 theoretical, 1 qualitative), `q1`–`q2` · 0 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 Dialogism, sometimes translated as intertextuality, is Bakhtin's term for the relation of one utterance to other utterances. It is not dialogue in the usual sense but "the context which informs utterance," without which utterance cannot exist. Ewald uses dialogism to argue that composing is never the writer working alone but always interaction with the world, readers, and subjects, making all writing sociohistorical and collaborative.

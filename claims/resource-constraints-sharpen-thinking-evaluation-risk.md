@@ -15,12 +15,14 @@ sources:
     author: Ives Robert A., Azulay David N., Cook Adam, Dagar Mamta, Fansher Douglas J., Keshari Roshan, Ojha Anupam Anand, Patel Shivani, Sandoval-Pauker Christian, Sanghai Nitesh, Trinh Brittany K., Yadav Vishal, Zheng Zhiling
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # Resource constraints can sharpen scientific thinking, and evaluating achievement without accounting for available resources risks undervaluing under-resourced researchers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The authors argue that when every experiment must count and solutions must be improvised, researchers develop precision and resourcefulness, and that evaluating scientific achievement without accounting for resources risks systematically undervaluing work at under-resourced institutions. [→ Ives Robert A. 2026](#ives-robert-a-2026)
@@ -31,7 +33,7 @@ sources:
 
 Ives Robert A., Azulay David N., Cook Adam, Dagar Mamta, Fansher Douglas J., Keshari Roshan, Ojha Anupam Anand, Patel Shivani, Sandoval-Pauker Christian, Sanghai Nitesh, Trinh Brittany K., Yadav Vishal, Zheng Zhiling. (2026). Reconsidering Excellence in the Chemical Sciences: Lessons from First-Generation Chemists. ACS Central Science. https://doi.org/10.1021/acscentsci.6c00822
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r1`
 
 Authors' interpretive argument (type e) in the section on resilience and adaptability, offered with no empirical test. The article explicitly cautions that "our argument does not imply that adversity is a necessary ingredient for excellence or that obstacles provide any form of advantage."
 

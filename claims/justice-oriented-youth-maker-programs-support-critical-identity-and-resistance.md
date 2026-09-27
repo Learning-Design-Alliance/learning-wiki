@@ -15,12 +15,14 @@ sources:
     q: 3
     i: "?"
     n: 12 youth ages 11-14, majority Black/youth of Color, low-income community, one afterschool STEM program running 10+ years
+    kind: qualitative
+    rigour: 2
 ---
 
 # Justice-oriented youth maker programs support redefinition of entrepreneurialism and resistance to structural misrecognition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=12 youth ages 11-14, majority Black/youth of Color, low-income community, one afterschool STEM program running 10+ years
+> **Evidence** · 1 study · qualitative `r2` · `q3` · n=12 youth ages 11-14, majority Black/youth of Color, low-income community, one afterschool STEM program running 10+ years
 
 A two-year critical ethnography of 12 youth in a community STEM-making program found that all five youth teams redefined entrepreneurialism toward community benefit rather than profit, grounded their designs in community-rooted problems, and collectively recognized and resisted racialized structural misrecognition at a public entrepreneurial fair, sustaining and deepening this orientation over more than a year of follow-up.
 
@@ -39,7 +41,7 @@ A two-year critical ethnography of 12 youth in a community STEM-making program f
 
 Greenberg, D., Calabrese Barton, A., Tan, E., & Archer, L. (2020). Redefining entrepreneurialism in the maker movement: A critical youth approach. *Journal of the Learning Sciences, 29*(4-5), 471-510. [https://doi.org/10.1080/10508406.2020.1749633](https://doi.org/10.1080/10508406.2020.1749633)
 
-`q3 · two-year critical ethnography with multiple data sources (field notes, artifact interviews, video, youth-produced business plans, 1+ year follow-up interviews) and open coding across two analytic passes; single program, no comparison group, no quantified outcome measures` · `i? · the abstract prints no effect size; the full text may` · `n=12 youth ages 11-14, majority Black/youth of Color, low-income community, one afterschool STEM program running 10+ years`
+`q3 · two-year critical ethnography with multiple data sources (field notes, artifact interviews, video, youth-produced business plans, 1+ year follow-up interviews) and open coding across two analytic passes; single program, no comparison group, no quantified outcome measures` · `i? · the abstract prints no effect size; the full text may` · `n=12 youth ages 11-14, majority Black/youth of Color, low-income community, one afterschool STEM program running 10+ years` · `qualitative · r2`
 
 Twelve youth in a decade-old community STEM-making program ("Green Club") were followed for two years through the [Critical Maker-Entrepreneurialism Program](../patterns/critical-maker-entrepreneurialism-program.md) sequence, culminating in five teams presenting designs (a heated boot, a solar-powered book/maker-kit library, a heated bus shelter, an emergency phone-alert button, and a STEM YouTube series) at a citywide entrepreneurial fair. Analysis of business-plan documents, field notes, and interviews (including a 1+ year follow-up) traces consistent redefinition of entrepreneurship toward community benefit, grounded problem identification, collective resistance to misrecognition, and sustained re-engagement, interpreted through [Critical Maker-Entrepreneurialism](../theories/critical-maker-entrepreneurialism.md).
 

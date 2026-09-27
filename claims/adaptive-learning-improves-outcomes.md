@@ -15,6 +15,8 @@ sources:
     q: 4
     i: 2
     n: 107 effect sizes, 14,321 participants
+    kind: quant-synthesis
+    rigour: 2
   - id: kulik-fletcher-2016
     resource: "https://doi.org/10.3102/0034654315581420"
     title: "Kulik, J. A., & Fletcher, J. D. (2016). Effectiveness of intelligent tutoring systems: A meta-analytic review. *Review of Educational Research, 86*(1), 42–78. [doi:10.3102/0034654315581420](https://doi.org/10.3102/0034654315581420)"
@@ -22,12 +24,14 @@ sources:
     q: 4
     i: 2
     n: 50 controlled evaluations
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Adaptive learning improves outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q4` pre-registered or meta-analytic · `i2` medium
+> **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q4` · `i2` medium
 
 Learning environments that adjust task difficulty, sequencing, or support to individual learner performance can improve outcomes relative to fixed, one-size-fits-all sequences — but the effect depends heavily on how adaptation is implemented and for whom.
 
@@ -43,7 +47,7 @@ Learning environments that adjust task difficulty, sequencing, or support to ind
 
 Ma, W., Adesope, O. O., Nesbit, J. C., & Liu, Q. (2014). Intelligent tutoring systems and learning outcomes: A meta-analysis. *Journal of Educational Psychology, 106*(4), 901–918. [doi:10.1037/a0037123](https://doi.org/10.1037/a0037123)
 
-`q4 · meta-analysis` · `i2 · medium effect, g=0.42 vs teacher-led large-group instruction` · `n=107 effect sizes, 14,321 participants`
+`q4 · meta-analysis` · `i2 · medium effect, g=0.42 vs teacher-led large-group instruction` · `n=107 effect sizes, 14,321 participants` · `quant-synthesis · r2`
 
 A meta-analysis of studies comparing students learning from intelligent tutoring systems (computer programs that model the learner's state to individualise instruction) with students in non-ITS learning environments. ITS were associated with greater achievement than teacher-led large-group instruction, other computer-based instruction and textbooks or workbooks, with positive effects at all education levels and in almost all subject domains. They did not outperform individualised human tutoring or small-group instruction, so the advantage is relative to non-individualised instruction rather than to adaptation delivered by people. Read from the abstract only.
 
@@ -51,7 +55,7 @@ A meta-analysis of studies comparing students learning from intelligent tutoring
 
 Kulik, J. A., & Fletcher, J. D. (2016). Effectiveness of intelligent tutoring systems: A meta-analytic review. *Review of Educational Research, 86*(1), 42–78. [doi:10.3102/0034654315581420](https://doi.org/10.3102/0034654315581420)
 
-`q4 · meta-analysis` · `i2 · medium effect, median 0.66 SD` · `n=50 controlled evaluations`
+`q4 · meta-analysis` · `i2 · medium effect, median 0.66 SD` · `n=50 controlled evaluations` · `quant-synthesis · r?`
 
 A meta-analysis of 50 controlled evaluations of intelligent computer tutoring systems against conventional instruction. The median effect raised test scores 0.66 standard deviations, from the 50th to the 75th percentile. The size of the gain depended strongly on whether outcomes were measured with locally developed or standardized tests, which the authors suggest makes test-instruction alignment a critical determinant of the effect; ten further evaluations with nonconventional control groups or flawed implementations showed small effects. Read from the abstract only.
 

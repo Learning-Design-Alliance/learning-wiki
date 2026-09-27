@@ -15,12 +15,14 @@ sources:
     author: Do-Yong Park and Mira Park
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Historical-method inquiry tasks center on uniformitarianism and taxonomy construction, and evaluating independent lines of inquiry for convergence is entirely absent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Among historical-method uses, uniformitarianism accounted for 48.8% and constructing proper taxonomies 34.2%, while evaluating independent lines of inquiry for convergence was not represented at all. [→ Do-Yong Park and Mira Park 2013](#do-yong-park-and-mira-park-2013)
@@ -31,7 +33,7 @@ sources:
 
 Do-Yong Park and Mira Park. (2013). Examining the Features of Earth Science Logical Reasoning and Authentic Scientific Inquiry Demonstrated in a High School Earth Science Curriculum: A Case Study. Journal of Geoscience Education. https://doi.org/10.5408/12-360.1
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Coding of historical-method elements in the sampled Holt Earth Science inquiry tasks. The article also reports relic interpretation at 12.2% and place substituting for time in stage theorizing at 4.9%, and states that evaluating independent lines of inquiry for convergence was not represented at all.
 

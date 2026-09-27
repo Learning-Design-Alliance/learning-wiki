@@ -15,12 +15,14 @@ sources:
     author: Gifted and talented students at risk for underachievement
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Extracurricular involvement and adult mentorship are associated with reversal of gifted underachievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Gifted students involved in extracurricular activities typically are not underachievers, and students who reversed underachievement often cite an adult's influence. [→ Gifted and talented students at risk for underachievement 2008](#gifted-and-talented-students-at-risk-for-underachievement-2008)
@@ -31,7 +33,7 @@ sources:
 
 Gifted and talented students at risk for underachievement. (2008). Center for Comprehensive School Reform and Improvement Issue Brief. https://www.centerforcsri.org
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `review · r1`
 
 The brief reports, citing prior studies, that "Gifted students who have reversed the pattern of underachievement often cite the influence of an adult in helping them," and that students experiencing success often cite one special teacher who took an interest in them.
 

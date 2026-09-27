@@ -15,12 +15,14 @@ sources:
     author: Jim Reynolds
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Learning is a natural human process of self-direction that is stimulating and enjoyable, and treating it as hard work may produce anxiety and pressure on learners. [→ Jim Reynolds 2006](#jim-reynolds-2006)
@@ -31,7 +33,7 @@ sources:
 
 Jim Reynolds. (2006). Learning-Centered Learning: A Mindset Shift for Educators. Inquiry, Volume 11, Number 1, Spring 2006, 55-64. http://www.vccaedu.org/inquiry/inquiry-spring2006/i-11-reynolds.html
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the essay's 'Learning Is Fun' section. The author contrasts the 'hard work' stance of some educators (quoting Trout) with the view that learning is enjoyable, invoking Gross's concept of 'flow' and hobbyists' engrossment as supporting illustrations. No empirical data are offered.
 

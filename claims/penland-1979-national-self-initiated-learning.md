@@ -15,18 +15,22 @@ sources:
     author: "Percy, K., Burton, D., & Withnall, A."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: percy-1994-2
     resource: "https://eric.ed.gov/?id=ED382882"
     title: "Percy, K., Burton, D., & Withnall, A. (1994). Self-Directed Learning among Adults: The Challenge for Continuing Educators. Association for Lifelong Learning. https://eric.ed.gov/?id=ED382882"
     author: "Percy, K., Burton, D., & Withnall, A."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Penland's 1979 national survey found about 80% of US adults considered themselves continuing learners and over three quarters had planned their own learning projects in the prior year
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Penland's one-hour interviews with 1501 US adults, around 80% considered themselves continuing learners, only 2.9% were in taught courses, and over three quarters had planned one or more learning projects on their own account in the previous year. [→ Percy 1994](#percy-1994)
@@ -38,7 +42,7 @@ sources:
 
 Percy, K., Burton, D., & Withnall, A. (1994). Self-Directed Learning among Adults: The Challenge for Continuing Educators. Association for Lifelong Learning. https://eric.ed.gov/?id=ED382882
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Penland's 1979 national survey interviewed 1501 US adults using Tough's schedule with minor amendments; the review reports "around 80% of the population over the age of 18" saw themselves as continuing learners, only 2.9% were in taught courses, and "Over three quarters of the sample had planned one or more learning projects on their own account" in the prior year, with project hours ranging from one to over 900 and a mean of 155.8 hours.
 
@@ -48,7 +52,7 @@ Penland's 1979 national survey interviewed 1501 US adults using Tough's schedule
 
 Percy, K., Burton, D., & Withnall, A. (1994). Self-Directed Learning among Adults: The Challenge for Continuing Educators. Association for Lifelong Learning. https://eric.ed.gov/?id=ED382882
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Respondents' stated reasons for preferring self-directed to taught learning ranked autonomy-related motives highest; dislike of formal classroom teaching (14%), lack of time (17.9%), transport and expense (5.3%) and lack of money (5.2%) ranked lowest. Home was the most-preferred location (66.4%) and on-the-job training second (37.9%).
 

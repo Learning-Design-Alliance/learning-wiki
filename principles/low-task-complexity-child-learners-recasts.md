@@ -17,7 +17,7 @@ sources:
 # For child beginner language learners, keep task complexity low or moderate so attention remains available for noticing recasts
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that when designing tasks for young foreign language beginners, cognitive demands should match learners' cognitive development level: "it is better to set a moderate or low task complexity level to allow the learners to have more attention available for the development of the target-like language." Otherwise learners become cognitively overloaded and have little attention left to notice recasts and process the target language.

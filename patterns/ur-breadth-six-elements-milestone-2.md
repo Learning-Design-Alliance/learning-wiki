@@ -17,7 +17,7 @@ sources:
 # Research breadth taxonomy: six structure-focused elements, each at minimum Milestone 2 for high impact
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The research breadth layer contains six elements focused on the structure of the research experience: originality of research, systematic disciplinary inquiry, evaluated research process work, activities emphasizing research, required project, and mentoring. Each element is operationally defined in four milestones of increasing student involvement. The article states that "All six elements in the research breadth taxonomy should be present at a minimum of Milestone 2 for an undergraduate research experience to be deemed high impact; activities at Milestone 1 may qualify as low -impact involvement and would be considered less beneficial to students."

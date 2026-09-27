@@ -15,12 +15,14 @@ sources:
     author: "Cheng, Y.-H., & Good, R. L."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # L1 glosses do not significantly improve EFL reading comprehension compared with no glosses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Reading comprehension scores showed no significant difference between any gloss condition and the no-gloss control (L1-gloss-L2-ex p = .270, L1-in-text-gloss p = .082, L1-MG-gloss p = .705). [→ Cheng 2009](#cheng-2009)
@@ -31,7 +33,7 @@ sources:
 
 Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. http://nflrc.hawaii.edu/rfl
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Reading comprehension posttest (5 multiple-choice items) for the combined 135 participants: gloss-condition means ranged from 2.73 to 3.16 versus 2.61 for control, with no significant difference found for any gloss condition.
 

@@ -16,7 +16,7 @@ sources:
 # Gardner's Multiple Intelligences theory: eight named intelligences with a possible ninth
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (1 mixed, 6 against) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (1 mixed, 6 against) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 7 claims rest on one study
 
 ## Description
 The review briefly outlines Gardner's MI theory before presenting critics. Gardner defines intelligence as "a biopsychological potential to process information that can be activated in a cultural setting to solve problems or create products that are of value in a culture." The theory posits at least seven basic intelligences, later an eighth and a possible ninth: linguistic, logical-mathematical, spatial, musical, body-kinesthetic, interpersonal, intrapersonal, and naturalist, with spiritual or existential intelligence mentioned but not officially included.

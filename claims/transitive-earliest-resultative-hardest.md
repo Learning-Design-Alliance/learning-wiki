@@ -15,12 +15,14 @@ sources:
     author: "Kim, Hyunwoo, Rah, Yangon, & Hwang, Haerim"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The transitive construction is acquired earliest while the resultative construction poses difficulty even for advanced learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Beginner learners performed as well as other groups on the transitive construction, indicating early acquisition, while resultative scores remained low even in the advanced group. [→ Kim 2020](#kim-2020)
@@ -31,7 +33,7 @@ sources:
 
 Kim, Hyunwoo, Rah, Yangon, & Hwang, Haerim. (2020). Testing usage-based approaches to assessing EFL learners’ development of English argument structure constructions. English Teaching, 75(s1), 55-78. https://doi.org/10.15858/engtea.75.s1.202006.55
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Translation-task results across four groups (G1, G2, G3, G5): transitive accuracy near ceiling in all groups (e.g., G1 mean 3.5 of 4), whereas resultative means stayed low (G1 1.4; G5 2.8 of 4).
 

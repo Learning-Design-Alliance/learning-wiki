@@ -17,7 +17,7 @@ sources:
 # Behavioral Relaxation Training (BRT)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 1 study, `q3` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (1 for, 3 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Behavioral Relaxation Training (BRT; Poppen, 1998) is a behavioral intervention for anxiety that, per the article, "does not require tense release muscle activities." It has been "successfully used with patients with PD and essen tial tremor" in prior work, making it suitable for patients whose motor symptoms of Parkinson's disease complicate standard relaxation procedures. In this study it was described to participants as a non-drug treatment for GAD and rated more acceptable than medication.

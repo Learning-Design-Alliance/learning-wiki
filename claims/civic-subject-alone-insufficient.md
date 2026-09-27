@@ -15,12 +15,14 @@ sources:
     author: Naval, C.; Villacís, J.L.; Ibarrola-García, S.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # A specific civic education subject provides valuable knowledge but is insufficient on its own to develop civic competence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The experience of civic education in the form of a specific subject provides valuable and necessary knowledge, but that alone is insufficient for civic competence development. [→ Naval 2022](#naval-2022)
@@ -31,7 +33,7 @@ sources:
 
 Naval, C.; Villacís, J.L.; Ibarrola-García, S. (2022). The Transversality of Civic Learning as the Basis for Development in the University. Educ. Sci. 2022, 12, 240. https://doi.org/10.3390/educsci12040240
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The article's conceptual argument at the formal education level states that a dedicated civic education subject "provides knowledge that is without a doubt valuable and necessary, but not sufﬁcient". This is an authorial argument, not an empirical test; no effect size is reported.
 

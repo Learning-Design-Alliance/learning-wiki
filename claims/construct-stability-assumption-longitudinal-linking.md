@@ -15,12 +15,14 @@ sources:
     author: Rijmen, F.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Meaningful longitudinal linking depends on the construct not changing across measurement occasions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` When the assumption of an unchanged construct across occasions is not met, a meaningful scale cannot be constructed regardless of the data collection design. [→ Rijmen 2010](#rijmen-2010)
@@ -31,7 +33,7 @@ sources:
 
 Rijmen, F. (2010). Measuring Multidimensional Latent Growth. ETS Research Report RR-10-24. https://www.ets.org/research/contact.html
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The article's concluding remarks state this as an author interpretation about linking assumptions: the assumption is less likely to hold as occasions grow further apart, and it is "less likely to be met for some constructs than for others." No empirical test is reported.
 

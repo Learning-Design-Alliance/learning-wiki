@@ -15,12 +15,14 @@ sources:
     author: Yang Xu
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Typical Chinese classes of about 50 students made group work difficult to organize
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` A typical Chinese class had approximately 50 students seated in pairs at desks in rows facing the teacher, making it difficult to organize group work. [→ Yang Xu 2010](#yang-xu-2010)
@@ -31,7 +33,7 @@ sources:
 
 Yang Xu. (2010). Theories Analyzing Communicative Approach in China's EFL Classes. English Language Teaching, 3(1). https://eric.ed.gov/?id=EJ1081496
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The author's descriptive account states a typical class had "approximate 50 students who sit in pairs at desks arranged in rows facing the teaching", and that it was difficult to organize group work with 50 students. No systematic data is reported.
 

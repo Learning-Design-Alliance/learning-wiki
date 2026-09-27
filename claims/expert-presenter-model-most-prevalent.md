@@ -15,12 +15,14 @@ sources:
     author: "Gall, Meredith D.; Vojtek, Roseanne O'Brien"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The expert-presenter model is the most prevalent staff development model, with most activities brief
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Observational data the monograph attributes to Gall, Haisley, Baker, and Perez (1982) found half of elementary teachers' inservice activities lasted four hours or less, mostly speeches or brief workshops. [→ Gall 1994](#gall-1994)
@@ -31,7 +33,7 @@ sources:
 
 Gall, Meredith D.; Vojtek, Roseanne O'Brien. (1994). Planning for Effective Staff Development: Six Research-Based Models. ERIC Clearinghouse on Educational Management. https://eric.ed.gov/?id=ED372464
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The monograph reports a year-long data collection on all inservice activities a sample of elementary teachers participated in, attributed to Gall, Haisley, Baker, and Perez (1982). It states: "fully half the activities lasted four hours or less." A national survey of staff developers (Davidson, Henkelman, and Stasinowsky 1993) is also cited as evidence of prevalence.
 

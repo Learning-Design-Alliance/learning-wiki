@@ -16,7 +16,7 @@ sources:
 # Research project supervision (TPI) as a special case of tutoring with identified organizational and process elements
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article presents a model for online research project tutoring (TPI) in which supervision is treated as "a special case of tutoring that offers the student guidance and orientation in aspects linked to the acquisition of research skills, motivation and personal orientation, administrative advice, and technological as well as professional issues." The model is represented as a conceptual map identifying TPI elements: the tutor (skills, supervision styles, functions), the trainee researcher and his/her needs, and the support and interaction between them and other partners, plus elements influencing project success and virtual-environment requirements. It was built iteratively through literature review, collaborative work groups, discussion groups, consultations, and implementation.

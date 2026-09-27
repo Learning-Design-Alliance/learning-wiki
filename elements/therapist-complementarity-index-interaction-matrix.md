@@ -17,7 +17,7 @@ sources:
 # Therapist Complementarity Index (CI) derived from a weighted 4x4 Interaction Matrix
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 2 against) · 1 study, `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 against) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article develops a quantification of therapist complementarity: a 4x4 Interaction Matrix in which "All 16 cells were assigned weightings (3, 2, or 1)" reflecting the relative complementarity of each elicitation-response exchange on the Leary Circumplex axes. Proportions of rated interactions are inserted into the cells, multiplied by the weightings, and summed across all 16 cells to yield a Complementarity Index for a therapist at a given therapy stage, with larger values indicating higher complementarity. The index was built because no prior behaviorally-based procedure existed for deriving response-by-response complementarity levels.

@@ -15,12 +15,14 @@ sources:
     author: Fullin, Christine; Mills, Brett D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Attributing repeated failure to lack of ability fosters learned helplessness, while external, unstable, specific attributions are adaptive
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Learned helplessness occurs when the probability of a desired outcome is perceived as not increased by one's actions; in sport, attributing a series of failures to lack of ability is maladaptive, whereas external, unstable, specific failure attributions are adaptive. [→ Fullin 1995](#fullin-1995)
@@ -31,7 +33,7 @@ sources:
 
 Fullin, Christine; Mills, Brett D. (1995). Attribution Theory in Sport: Problems and Solutions. https://eric.ed.gov/?id=ED387439
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review defines learned helplessness, citing Pervin (1990), as a syndrome occurring when a desired outcome is perceived as not increased by one's actions. It reports that ability attributions for repeated failure drop perceived ability and often produce helplessness, while effort attributions allow the athlete to expect better outcomes from trying harder.
 

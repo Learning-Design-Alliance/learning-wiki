@@ -15,12 +15,14 @@ sources:
     author: Jarrar Hala, Malhis Lana, Munawer Alaa, Omareya Moamen, Deek Nagham, Abutair Razan, Dodeen Saja, Khadeje Sara Majed, Abu-Shamat Zaynab
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Parents more often report initial difficulty accepting AAC than continued difficulty after time has passed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` 43.1% of parents responded 'Always' to initial difficulty accepting AAC, versus 18.1% for continued difficulty after some time. [→ Jarrar Hala 2026](#jarrar-hala-2026)
@@ -31,7 +33,7 @@ sources:
 
 Jarrar Hala, Malhis Lana, Munawer Alaa, Omareya Moamen, Deek Nagham, Abutair Razan, Dodeen Saja, Khadeje Sara Majed, Abu-Shamat Zaynab. (2026). Parent-reported benefits, barriers, and experiences of augmentative and alternative communication use among children with autism in Nablus, Palestine: a cross-sectional study. BMC Pediatrics. https://doi.org/10.1186/s12887-026-07161-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Item-level descriptive results from the implementation-experience section of the parent survey (valid n = 72 per item). Initial acceptance difficulty was reported as "Always" by 31/72 (43.1%) versus 13/72 (18.1%) for continued difficulty.
 

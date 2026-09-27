@@ -15,6 +15,8 @@ sources:
     q: 3
     i: "?"
     n: not stated in abstract (studies across grade levels and disability labels)
+    kind: quant-synthesis
+    rigour: "?"
   - id: wehmeyer-et-al-2013
     resource: "https://doi.org/10.1177/0022466910392377"
     title: "Wehmeyer, M. L., Palmer, S. B., Shogren, K., Williams-Diehm, K., & Soukup, J. H. (2013). Establishing a Causal Relationship Between Intervention to Promote Self-Determination and Enhanced Student Self-Determination. *The Journal of Special Education, 46*(4), 195–210. [doi:10.1177/0022466910392377](https://doi.org/10.1177/0022466910392377)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: "?"
     n: 371 students (50 high school campuses; categorical special-education areas of intellectual disability or learning disability)
+    kind: causal
+    rigour: 2
 ---
 
 # Self-determination instruction improves outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 2 studies · 1 causal `r2`, 1 quant-synthesis `r?` · `q3`
 
 Teaching students with disabilities the component skills of self-determination — choice-making, decision-making, problem solving, goal setting, self-management and self-advocacy — increases their self-determination. The claim concerns special-education self-determination instruction, not instruction about self-determination theory's basic psychological needs.
 
@@ -43,7 +47,7 @@ Teaching students with disabilities the component skills of self-determination �
 
 Burke, K. M., Raley, S. K., Shogren, K. A., Hagiwara, M., Mumbardó-Adam, C., Uyanik, H., & Behrens, S. (2018). A Meta-Analysis of Interventions to Promote Self-Determination for Students With Disabilities. *Remedial and Special Education, 41*(3), 176–188. [doi:10.1177/0741932518802274](https://doi.org/10.1177/0741932518802274)
 
-`q3 · meta-analysis of intervention studies (rigor not systematically reported)` · `i? · no standardized effect size (d/g/r/OR) given in what was read` · `n=not stated in abstract (studies across grade levels and disability labels)`
+`q3 · meta-analysis of intervention studies (rigor not systematically reported)` · `i? · no standardized effect size (d/g/r/OR) given in what was read` · `n=not stated in abstract (studies across grade levels and disability labels)` · `quant-synthesis · r?`
 
 A meta-analysis synthesizing the school-based intervention literature on self-determination and its component skills (choice-making, decision-making, problem solving, goal setting and attainment, planning, self-management, self-advocacy, self-awareness, self-knowledge) for students with disabilities. The authors coded intervention type, population, outcomes and methodological rigor across the included studies. They report that interventions "can be effective for students across grade levels, disability labels, and settings," while also flagging a need for more inclusive-setting research and stronger methodological rigor in the field. Only the abstract was read; it reports a qualitative/directional summary of results rather than a pooled quantitative effect size, so no `i` code can be assigned from it.
 
@@ -51,7 +55,7 @@ A meta-analysis synthesizing the school-based intervention literature on self-de
 
 Wehmeyer, M. L., Palmer, S. B., Shogren, K., Williams-Diehm, K., & Soukup, J. H. (2013). Establishing a Causal Relationship Between Intervention to Promote Self-Determination and Enhanced Student Self-Determination. *The Journal of Special Education, 46*(4), 195–210. [doi:10.1177/0022466910392377](https://doi.org/10.1177/0022466910392377)
 
-`q3 · randomized placebo-controlled trial (campus-level random assignment)` · `i? · significant group-by-time effects reported as F-tests, not as a standardized effect size` · `n=371 students (50 high school campuses; categorical special-education areas of intellectual disability or learning disability)`
+`q3 · randomized placebo-controlled trial (campus-level random assignment)` · `i? · significant group-by-time effects reported as F-tests, not as a standardized effect size` · `n=371 students (50 high school campuses; categorical special-education areas of intellectual disability or learning disability)` · `causal · r2`
 
 A three-year randomized trial in which 371 high school students receiving special education services (intellectual disability or learning disability) were randomly assigned by campus to an intervention group (receiving multiple curricular components — Whose Future Is It Anyway?, the Next S.T.E.P. Survey/curriculum, and the Self-Directed IEP — to teach self-determination component skills) or a control group. Using multilevel latent growth curve modeling of two self-report self-determination scales (the AIR Self-Determination Scale and The Arc's Self-Determination Scale), the authors found a significant intervention-group effect and a significant intervention-by-time interaction on the AIR Self-Determination Scale, F(1, 365) = 8.62, p < .005, and F(1, 446) = 6.70, p = .01 respectively, with the intervention group showing steeper growth. On the second measure (The Arc's Self-Determination Scale), however, the intervention-group effect and the group-by-time interaction were both nonsignificant, F(1, 368) = 1.05, p = .31, and F(1, 448) = 0.21, p = .65 — all students improved over time regardless of group. When disability and gender were added as covariates, the AIR-S result was unaffected, but growth on a third instrument (The Arc's Scale) differed by disability/gender/intervention combination in a more complex, only marginally significant pattern, F(2, 442) = 2.96, p = .05, driven mainly by steeper gains for students with intellectual disability in the intervention condition.
 

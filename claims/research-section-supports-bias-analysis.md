@@ -15,12 +15,14 @@ sources:
     author: Alspektor, Rose Ann, and Wirtenberg, Jeana
     q: 1
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Section 1 research studies provide methods and awareness for addressing textbook bias
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The empirical research listed in Section 1 can provide researchers with methods and tools for content analyses of textbooks and give parents, educators, and students an in-depth understanding of textbook bias. [→ Alspektor 1979](#alspektor-1979)
@@ -31,7 +33,7 @@ sources:
 
 Alspektor, Rose Ann, and Wirtenberg, Jeana. (1979). Fair Textbooks: A Resource Guide. U.S. Commission on Civil Rights, Clearinghouse Publication 61. https://eric.ed.gov/?id=ED183700
 
-`q1 · i?`
+`q1 · i?` · `review · r1`
 
 This is the guide's own descriptive introduction to its Research section, which it says represents "a cross section .of most of the major studies" on textbook bias from the decade, selected for diversity of group, grade-level, and subject coverage. The guide states the studies can provide researchers with methods and tools for conducting content analyses and increase awareness of the problem's subtle manifestations. No findings of the individual studies are reported here.
 

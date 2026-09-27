@@ -15,12 +15,14 @@ sources:
     author: Rijmen, F.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Full information MML estimation of a multidimensional IRT model with a second-order dimension also requires only two-dimensional integrals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` For a multidimensional IRT model in which all dependencies between first-order dimensions are explained by a second-order dimension, the efficient EM algorithm's E-step involves a sequence of two-dimensional integrals over (zk, zg). [→ Rijmen 2009](#rijmen-2009)
@@ -31,7 +33,7 @@ sources:
 
 Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Analytical demonstration in the section on a multidimensional model with a second-order dimension, derived from the junction tree for a four-dimensional model (Figures 5 and 6). The article notes the second-order model "is a bi-factor model with the additional restriction that the conditional item response probabilities do not directly depend on the general dimension".
 

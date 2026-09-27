@@ -15,18 +15,22 @@ sources:
     author: Blosser, P. E.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
   - id: blosser-1993-2
     resource: "https://eric.ed.gov/?id=ED351207"
     title: "Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Clearinghouse for Science, Mathematics, and Environmental Education. https://eric.ed.gov/?id=ED351207"
     author: Blosser, P. E.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Slavin's review of 67 controlled studies of four weeks or longer, 41 (61%) found significantly greater achievement in cooperative classes, 25 found no differences, and in only one did the control group outperform. [→ Blosser 1993](#blosser-1993)
@@ -38,7 +42,7 @@ sources:
 
 Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Clearinghouse for Science, Mathematics, and Environmental Education. https://eric.ed.gov/?id=ED351207
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Slavin's synthesis, as reported in this review, identified 70 studies of four weeks or longer, 67 measuring achievement, all comparing cooperative classes to traditionally taught control groups randomly assigned or matched on pretest achievement. "41 (61%) had significantly greater achievement in cooperative classes."
 
@@ -48,7 +52,7 @@ Slavin's synthesis, as reported in this review, identified 70 studies of four we
 
 Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Clearinghouse for Science, Mathematics, and Environmental Education. https://eric.ed.gov/?id=ED351207
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Moderator analysis within Slavin's review of the conditions under which cooperative learning affects achievement. Studies with "group goals and individual accountability" present showed far higher success rates than studies lacking them; no effect sizes are printed.
 

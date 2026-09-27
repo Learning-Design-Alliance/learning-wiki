@@ -15,12 +15,14 @@ sources:
     author: Downes, S.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # A connectivism instructional method was significantly more effective than the grammar-translation method for EFL academic engagement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The connectivism instructional method was reported as significantly more effective than the grammar-translation method in EFL. [→ Downes 2019](#downes-2019)
@@ -31,7 +33,7 @@ sources:
 
 Downes, S. (2019). Recent Work in Connectivism. European Journal of Open, Distance and e-Learning, 22(2). https://www.eurodl.org/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The survey reports, citing Borna and Fouladchang (2018b), a comparison of a connectivism instructional method against the grammar-translation method in EFL, with students gaining "opportunities to increase academic engagement through diversity". No effect size is printed.
 

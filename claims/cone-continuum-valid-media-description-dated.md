@@ -15,12 +15,14 @@ sources:
     author: Seels, B.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The direct-to-vicarious and purely symbolic experience continuum remains valid while the cone's description of media is dated
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The direct to vicarious and purely symbolic experience continuum is still valid, but the cone is dated in its description of media. [→ Seels 1997](#seels-1997)
@@ -31,7 +33,7 @@ sources:
 
 Seels, B. (1997). The Relationship of Media and ISD Theory: The Unrealized Promise of Dale's Cone of Experience. https://eric.ed.gov/?id=ED409869
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The author's historical analysis concludes the cone's experiential continuum retains validity while its media descriptions do not, noting that today films often provide experience that is as concrete and real as it is abstract and symbolic.
 

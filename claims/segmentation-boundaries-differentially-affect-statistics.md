@@ -15,12 +15,14 @@ sources:
     author: "Rupp, A.A., Gushta, M., Mislevy, R.J., & Shaffer, D.W."
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Segmentation boundary choices differentially affect statistics computed on epistemic-game process data
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Initial research showed that different classes of statistics are differentially sensitive to segmentation boundary shifts: absolute values of statistics for individual SKIVE elements are more strongly affected than relative weights of the SKIVE elements, which appear reasonably robust. [→ Rupp 2010](#rupp-2010)
@@ -31,7 +33,7 @@ sources:
 
 Rupp, A.A., Gushta, M., Mislevy, R.J., & Shaffer, D.W. (2010). Evidence-centered Design of Epistemic Games: Measurement Principles for Complex Learning Environments. Journal of Technology, Learning, and Assessment, 8(4). http://www.jtla.org
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The paper reports, citing Rupp et al. (2009b), initial research on process-data segmentation in epistemic games. It found statistics' absolute values more affected by boundary shifts than relative weights of SKIVE elements, which appeared reasonably robust. The cited study's design is not described in the paper.
 

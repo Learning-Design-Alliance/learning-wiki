@@ -12,7 +12,7 @@ generated:
 # Learning Management Systems
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (1 design, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Learning management systems are the element in which course organization, materials, communication, and tracking are coordinated through an LMS.

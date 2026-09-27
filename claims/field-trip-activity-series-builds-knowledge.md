@@ -15,12 +15,14 @@ sources:
     author: Bland, Samuel S.
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # The packet's authors assert that pre-, on-site, and post-visit activities build on students' newly gained knowledge when performed in series
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The guide asserts that its three activity phases may be performed independently or in a series that builds on students' newly gained knowledge and experiences. [→ Bland 1995](#bland-1995)
@@ -31,7 +33,7 @@ sources:
 
 Bland, Samuel S. (1995). Sea Turtle Trek, Hammocks Beach State Park: An Environmental Education Learning Experience Designed for Grades 6-8. https://eric.ed.gov/?id=ED401095
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 Design rationale stated in the packet's introduction (type e, authors' interpretation). The guide offers no empirical evidence or test for this assertion; it is a stated design intent for the pre-visit, on-site, and post-visit sequence.
 

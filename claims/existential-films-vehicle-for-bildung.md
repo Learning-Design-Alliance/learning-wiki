@@ -15,12 +15,14 @@ sources:
     author: Koster, E.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Films with existential themes can serve as vehicles for Bildung in higher education
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Watching, analysing and interpreting films with existential themes, then relating them to one's own experiences, is one possible way to fulfil the aims of Bildung. [→ Koster 2019](#koster-2019)
@@ -31,7 +33,7 @@ sources:
 
 Koster, E. (2019). Bildung through films: How to discuss existential questions in academia. Film Education Journal. https://doi.org/10.18546/FEJ.02.2.04
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in a philosophy-of-education article: the author reasons that film, like literature, presents existential dimensions through emotionally engaging hypothetical narratives, and argues that watching, understanding, analysing and relating films to one's own experience can fulfil Bildung's aims. No empirical data are reported.
 

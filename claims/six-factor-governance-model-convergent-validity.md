@@ -15,12 +15,14 @@ sources:
     author: Truong, T. D.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # A six-factor measurement model of university governance shows convergent validity in the Vietnamese context
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Exploratory factor analysis extracted six factors matching the theoretical framework, with loadings from 0.61 to 0.84 and 85.2% total variance explained, supporting the measurement structure. [→ Truong 2025](#truong-2025)
@@ -31,7 +33,7 @@ sources:
 
 Truong, T. D. (2025). Factors Determining Governance Effectiveness in Vietnamese Universities: A Mixed-Method Investigation. Educational Process: International Journal, 19, e2025605. https://doi.org/10.22521/edupij.2025.19.605
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Exploratory factor analysis (Table 7) of the 455-respondent survey. The article reports six factors with loadings "ranging from 0.61 to 0.84, exceeding the acceptable threshold of 0.50" and 85.2% cumulative variance explained.
 

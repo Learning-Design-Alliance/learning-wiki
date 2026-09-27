@@ -15,12 +15,14 @@ sources:
     author: Ellis, Rod
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Conversational interaction may facilitate acquisition of some grammatical structures but not others
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Sato (1986) found two Vietnamese naturalistic learners did not acquire past tense grammatical markers despite substantial interactional support, suggesting interaction can remove the need to acquire some structures. [→ Ellis 1991](#ellis-1991)
@@ -31,7 +33,7 @@ sources:
 
 Ellis, Rod. (1991). The Interaction Hypothesis; A Critical Evaluation. ERIC Document ED 338 037. https://eric.ed.gov/?id=ED338037
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports Sato's (1986) case study of conversational modifications arising from communication breakdown in two Vietnamese learners' naturalistic acquisition of past time reference in English. Neither learner acquired past tense markers, possibly because interactional support let them communicate PTR effectively without acquiring the markers.
 

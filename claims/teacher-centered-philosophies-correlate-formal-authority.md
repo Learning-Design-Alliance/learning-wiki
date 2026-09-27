@@ -15,12 +15,14 @@ sources:
     author: Emel Saritaş
     q: 2
     i: 1
+    kind: associational
+    rigour: 1
 ---
 
 # Teacher-centered philosophies correlate with formal-authority teaching styles
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Perennialism, idealism and realism each show a medium positive correlation with the formal authority (authoritarian) teaching style (r = 0.479, 0.512, 0.578 respectively). [→ Emel Saritaş 2016](#emel-saritas-2016)
@@ -31,7 +33,7 @@ sources:
 
 Emel Saritaş. (2016). Relationship between philosophical preferences of classroom teachers and their teaching styles. Educational Research and Reviews. https://doi.org/10.5897/ERR2016.2787
 
-`q2 · i1`
+`q2 · i1` · `associational · r1`
 
 Correlation analysis (Pearson, N=301) after Kolmogorov-Smirnov tests showed all variables normally distributed (all p > .05). Table 4 reports perennialism-authority r=.479, idealism-authority r=.512, realism-authority r=.578, all significant at the 0.01 level; the text calls these "a medium level of positive relationship".
 

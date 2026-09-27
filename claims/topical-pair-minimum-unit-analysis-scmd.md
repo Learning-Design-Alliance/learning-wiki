@@ -15,12 +15,14 @@ sources:
     author: Park, Y.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # The dialogical pair of responding and responded utterances, not a single utterance, is the minimum unit of analysis for SCMD research
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In SCMD discourse, an utterance cannot be understood in isolation; the minimum unit of analysis is the dialogical pair of the responding and responded utterances. [→ Park 2015](#park-2015)
@@ -31,7 +33,7 @@ sources:
 
 Park, Y. (2015). Understanding Synchronous Computer-Mediated Classroom Discussion through Cultural-Historical Activity Theory. The Turkish Online Journal of Educational Technology, 14(2). https://www.tojet.net/
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r3`
 
 Qualitative analysis of SCMD transcripts from a graduate seminar (12 topical sessions, 1,682 total utterances) argues via Bakhtin, Vygotsky, and Leont'ev that "the minimum unit of analysis for the CMC research needs to be the dialogical pair," illustrated with a Joyce–Henry exchange on flow in writing.
 

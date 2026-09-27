@@ -16,6 +16,8 @@ sources:
     q: 4
     i: 2
     n: 142 effect sizes (11,814 participants)
+    kind: quant-synthesis
+    rigour: "?"
   - id: stull-mayer-2007
     resource: "https://doi.org/10.1037/0022-0663.99.4.808"
     title: "Stull, A. T., & Mayer, R. E. (2007). Learning by doing versus learning by viewing: Three experimental comparisons of learner-generated versus author-provided graphic organizers. *Journal of Educational Psychology, 99*(4), 808–820. [doi:10.1037/0022-0663.99.4.808](https://doi.org/10.1037/0022-0663.99.4.808)"
@@ -23,12 +25,14 @@ sources:
     q: 3
     i: 2
     n: 3 experiments (participant counts not in the abstract)
+    kind: causal
+    rigour: "?"
 ---
 
 # Learner Constructed Graphic Organizers Outperform Provided
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3`–`q4` · `i2` medium
+> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q3`–`q4` · `i2` medium
 
 Learners who construct their own graphic organizers (concept maps, diagrams, knowledge maps) tend to show deeper learning than learners who study organizer diagrams provided to them, because construction forces active selection, organization, and integration of material. This page currently states a plausible hypothesis; no controlled comparison has yet been added to Evidence.
 
@@ -44,7 +48,7 @@ Learners who construct their own graphic organizers (concept maps, diagrams, kno
 
 Schroeder, N. L., Nesbit, J. C., Anguiano, C. J., & Adesope, O. O. (2018). Studying and constructing concept maps: A meta-analysis. *Educational Psychology Review, 30*(2), 431–455. [doi:10.1007/s10648-017-9403-9](https://doi.org/10.1007/s10648-017-9403-9)
 
-`q4 · random-effects meta-analysis` · `i2 · medium effect for constructing, g=0.72; studying g=0.43` · `n=142 effect sizes (11,814 participants)`
+`q4 · random-effects meta-analysis` · `i2 · medium effect for constructing, g=0.72; studying g=0.43` · `n=142 effect sizes (11,814 participants)` · `quant-synthesis · r?`
 
 A random-effects meta-analysis of 142 independent effect sizes from 11,814 participants that used concept and knowledge maps for learning. Overall, learning with maps had a moderate effect (g = 0.58). In a moderator analysis, [constructing concept maps](../claims/concept-mapping-improves-learning.md) (g = 0.72) was associated with a larger benefit than studying provided maps (g = 0.43). Each subgroup was measured against its own comparison conditions, so the gap suggests an advantage for construction but does not directly compare the two in matched designs. Read from the publisher abstract only; the moderator statistics and the comparison conditions behind each subgroup were not checked.
 
@@ -52,7 +56,7 @@ A random-effects meta-analysis of 142 independent effect sizes from 11,814 parti
 
 Stull, A. T., & Mayer, R. E. (2007). Learning by doing versus learning by viewing: Three experimental comparisons of learner-generated versus author-provided graphic organizers. *Journal of Educational Psychology, 99*(4), 808–820. [doi:10.1037/0022-0663.99.4.808](https://doi.org/10.1037/0022-0663.99.4.808)
 
-`q3 · three peer-reviewed experiments` · `i2 · transfer favoured provided organizers, d=0.24 (ns), 0.43, 0.84` · `n=3 experiments (participant counts not in the abstract)`
+`q3 · three peer-reviewed experiments` · `i2 · transfer favoured provided organizers, d=0.24 (ns), 0.43, 0.84` · `n=3 experiments (participant counts not in the abstract)` · `causal · r?`
 
 In three experiments, learners read a passage that came either with author-provided [graphic organizers](../claims/graphic-organizers-support-novice-comprehension.md) or with space or templates for building their own, then took retention and transfer tests. The construction task went from most complex (27 organizers built in margin space) to least complex (10 templates). On transfer the provided-organizer group did better every time: d = 0.24 (not significant), 0.43 (p < .05) and 0.84 (p < .01). Retention did not differ. The authors read this through [cognitive load theory](../theories/cognitive-load-theory.md): building the organizers added extraneous load that got in the way of generative processing. This directly contradicts the claim for studying a text passage.
 

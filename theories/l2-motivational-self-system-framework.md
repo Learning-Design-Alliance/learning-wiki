@@ -16,7 +16,7 @@ sources:
 # Dörnyei's L2 Motivational Self System as a three-component framework for L2 learning motivation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article presents Dörnyei's (2005) L2 Motivational Self System as a comprehensive framework for L2 learning motivation, derived from Higgins' Self-Discrepancy Theory. It comprises the ideal L2 self, the ought-to L2 self, and L2 learning experience, described as three primary sources of motivation: "the learner's vision of oneself as an effective L2 speaker, the social pressure coming from the learner's environment, and positive learning experiences". The study operationalizes it via ten sub-factors measured with the Persian-version questionnaire validated by Papi (2010).

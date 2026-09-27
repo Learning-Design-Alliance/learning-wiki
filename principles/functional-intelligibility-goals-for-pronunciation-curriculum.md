@@ -17,7 +17,7 @@ sources:
 # Set realistic long-range oral communication goals aiming for functional intelligibility, functional communicability, and enhanced self-confidence, based on learner needs analysis
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 For curriculum planning, the digest recommends that programs "start by establishing long range oral communication goals and objectives that identify pronunciation needs as well as speech functions and the contexts in which they might occur." Goals should be realistic, aiming for functional intelligibility (being relatively easily understood), functional communicability (meeting communication needs), and enhanced self-confidence, and should result from careful analysis of learners' needs.

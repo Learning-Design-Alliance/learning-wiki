@@ -15,12 +15,14 @@ sources:
     author: "Gray, C. M., & Howard, C. D."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students transition between student and proto-professional roles in informal SNS discourse, bridging learning and design practice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Informal SNS discussions about tool selection and professional portfolio domains are more akin to workplace design discourse than teacher-student talk, evidencing a bridge between learning and practice. [→ Gray 2014](#gray-2014)
@@ -31,7 +33,7 @@ sources:
 
 Gray, C. M., & Howard, C. D. (2014). Designerly talk in non-pedagogical social spaces. Journal of Learning Design, 7(1), 40-58. https://doi.org/10.5204/jld.v7i1.153
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r2`
 
 Qualitative analysis of the Selecting Professional Tools and Selecting a Professional Domain Name threads showed learners discussing design in ways more akin to workplace discourse. The authors suggest this may offer new avenues to access learning traditionally relegated to internship or apprentice-style instruction.
 

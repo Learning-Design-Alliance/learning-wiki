@@ -15,12 +15,14 @@ sources:
     q: 2
     i: "?"
     n: 4 students (ages 12-13) analyzed in depth from a workshop of 20 students, ~8 hours of focal-group video from a 35-hour total corpus
+    kind: qualitative
+    rigour: 2
 ---
 
 # Well-defined tasks and accessible materials support shared creative influence in group work
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · n=4 students (ages 12-13) analyzed in depth from a workshop of 20 students, ~8 hours of focal-group video from a 35-hour total corpus
+> **Evidence** · 1 study · qualitative `r2` · `q2` · n=4 students (ages 12-13) analyzed in depth from a workshop of 20 students, ~8 hours of focal-group video from a 35-hour total corpus
 
 The same adolescent group produced shared, distributed creative influence during a well-defined modeling task with accessible materials, and unproductive social conflict during an ill-defined form-design task with resource-constrained materials — with a formally designated "expert" role failing to protect a student's merit-based argument from being overridden by peer social dominance in the latter task.
 
@@ -37,7 +39,7 @@ The same adolescent group produced shared, distributed creative influence during
 
 Pierroux, P., Steier, R., & Ludvigsen, S. R. (2022). Group creativity in adolescence: Relational, material and institutional dimensions of creative collaboration. *Journal of the Learning Sciences, 31*(1), 107-137. [https://doi.org/10.1080/10508406.2022.2025813](https://doi.org/10.1080/10508406.2022.2025813)
 
-`q2 · ethnographic case study with detailed video-based conversation and gesture analysis of one focal group (part of a larger corpus of four groups); no experimental manipulation or comparison group` · `i? · the abstract prints no effect size; the full text may` · `n=4 students (ages 12-13) analyzed in depth from a workshop of 20 students, ~8 hours of focal-group video from a 35-hour total corpus`
+`q2 · ethnographic case study with detailed video-based conversation and gesture analysis of one focal group (part of a larger corpus of four groups); no experimental manipulation or comparison group` · `i? · the abstract prints no effect size; the full text may` · `n=4 students (ages 12-13) analyzed in depth from a workshop of 20 students, ~8 hours of focal-group video from a 35-hour total corpus` · `qualitative · r2`
 
 Four 12–13-year-old students at a museum architecture workshop completed two modeling tasks: a well-defined block-placement task and an ill-defined building-form-design task using more constrained, unfamiliar materials. Applying Engle et al.'s (2014) model of persuasive influence (negotiated merit, degree of authority, access to the conversational floor, spatial privilege), the authors show the well-defined task produced shared, distributed creative influence, while the ill-defined task produced conflict in which a student's assigned expert authority and merit-based arguments did not protect his ideas from being overridden by social dominance. See [Conditions for Productive Group Creativity](../principles/conditions-for-productive-group-creativity.md) for the design principles the authors derive from this contrast.
 

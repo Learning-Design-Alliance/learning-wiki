@@ -12,7 +12,7 @@ generated:
 # Challenge Identification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies, `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Challenge identification is the element in which learners or instructors surface the central obstacle, tension, or problem to be addressed.

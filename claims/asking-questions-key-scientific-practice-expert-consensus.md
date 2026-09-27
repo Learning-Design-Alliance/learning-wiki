@@ -15,12 +15,14 @@ sources:
     author: "Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J."
     q: 2
     i: 1
+    kind: design
+    rigour: 2
 ---
 
 # Asking questions is a valued scientific practice: all 23 experts agreed it is a key aspect of scientific research
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · design `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` Asking questions is identified as a key scientific practice in NGSS and AAPT introductory lab goals, and 100% of the 23 experts agreed it is a key aspect of scientific research. [→ Zwickl 2013](#zwickl-2013)
@@ -31,7 +33,7 @@ sources:
 
 Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760
 
-`q2 · i1`
+`q2 · i1` · `design · r2`
 
 The article's argument that E-CLASS measures something instructors care about, citing expert consensus data collected for validation. The authors state the survey "is measuring something of importance to the science education community."
 

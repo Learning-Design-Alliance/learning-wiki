@@ -15,12 +15,14 @@ sources:
     author: "Liu, C. C., & Chen, I. J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Salomon and Perkins distinguish learning with a tool from learning of a tool, with tools triggering cognitive transformations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Salomon and Perkins (1998) analyzed social learning, describing social mediation as participatory knowledge construction and examining two effects of tools: learning with the tool and learning of the tool. [→ Liu 2010](#liu-2010)
@@ -31,7 +33,7 @@ sources:
 
 Liu, C. C., & Chen, I. J. (2010). Evolution Of Constructivism. Contemporary Issues In Education Research, 3(4). https://www.cluteinstitute.com/ojs/index.php/cier
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Salomon and Perkins (1998), an analysis of four meanings of social learning, including "social mediation as pa rticipatory knowledge construction." Tools are treated as triggers of cognitive transformations, with effects of learning with versus of the tool.
 

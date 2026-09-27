@@ -15,12 +15,14 @@ sources:
     author: National Conference of State Legislatures
     q: 2
     i: "?"
+    kind: design
+    rigour: "?"
 ---
 
 # A policy inventory framework enables states to audit and compare teacher-quality policies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Using a common policy inventory framework, partner states can audit their teacher preparation, licensure, and professional development policies, compare progress against other states and national goals, and target legislative reforms. [→ National Conference of State Legislatures 1998](#national-conference-of-state-legislatures-1998)
@@ -31,7 +33,7 @@ sources:
 
 National Conference of State Legislatures. (1998). State Teacher Policy Audit: Ensuring a Competent, Caring and Qualified Teacher in Every Classroom. https://eric.ed.gov/?id=ED429089
 
-`q2 · i?`
+`q2 · i?` · `design · r?`
 
 Partner states including Montana, North Carolina, Ohio and Oklahoma conducted the audit using a policy inventory framework designed by NCSL. Framework answers "are meant to allow states to compare their progress to that of other states" and to the goal of a qualified teacher in every classroom by 2006; states passed more than 100 bills strengthening standards and funding.
 

@@ -15,18 +15,22 @@ sources:
     author: Loucks, Susan F.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: loucks-1977-2
     resource: "https://eric.ed.gov/?id=ED250163"
     title: "Loucks, Susan F. (1977). Concerns Expressed by Elementary School Teachers about the Implementation of the SCIS Curriculum. https://eric.ed.gov/?id=ED250163"
     author: Loucks, Susan F.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The two-week SCIS workshop shifted participants' concerns from lower-stage nonuser patterns toward higher-stage user patterns
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` For 1975 workshop participants, Stage 0, 1, and 2 concerns were lowered and Stage 4, 5, and 6 concerns raised after the workshop. [→ Loucks 1977](#loucks-1977)
@@ -38,7 +42,7 @@ sources:
 
 Loucks, Susan F. (1977). Concerns Expressed by Elementary School Teachers about the Implementation of the SCIS Curriculum. https://eric.ed.gov/?id=ED250163
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Before-and-after comparison of SoC profiles for the group completing the 1975 two-week workshop, contrasting May (pre) and September (post) data shown in Figure 7. The May profile was the typical nonuser profile, high on Stages 0 through 2.
 
@@ -48,7 +52,7 @@ Before-and-after comparison of SoC profiles for the group completing the 1975 tw
 
 Loucks, Susan F. (1977). Concerns Expressed by Elementary School Teachers about the Implementation of the SCIS Curriculum. https://eric.ed.gov/?id=ED250163
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Figures 8a and 8b separate the ten users and ten nonusers with complete data who attended the 1975 workshop; user designations were based on July data. Both groups' profiles changed in the expected ways, users showing a slight decrease in Stage 1 and 2 and heightening of Stage 3, 4, and 6 concerns.
 

@@ -15,12 +15,14 @@ sources:
     author: Liu Yuanyuan
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Lacquer-painting imagery characteristics are positively associated with aesthetic responses: sensible scene with emotional resonance, imaginable atmosphere with cognitive evaluation, and virtual-real imagination with behavioral intention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Sensible scene is positively associated with emotional resonance (β = 0.48, p < 0.001). [→ Liu Yuanyuan 2026](#liu-yuanyuan-2026)
@@ -33,7 +35,7 @@ sources:
 
 Liu Yuanyuan. (2026). Audience attitudes and aesthetic perception of digitally empowered contemporary lacquer painting: a survey-based technology-imagery-perception model. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1866076
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 Regression models on the formal sample of 425 respondents with gender and education controls; H4–H6 supported, adjusted R2 from 0.30 to 0.34. The sensible scene–emotional resonance association had the largest standardized coefficient (β = 0.48).
 

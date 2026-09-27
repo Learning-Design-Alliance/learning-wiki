@@ -16,7 +16,7 @@ sources:
 # Semantic Distinctiveness Model (SDM)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The SDM is a distributional model of lexical semantics that incorporates an attention-weighting mechanism when encoding a new context entry in a word's vector. As the article states, "If the new context is congruent with the expected meaning in memory, it is encoded at a weaker intensity than if the new context is surprising." Vector magnitude indexes lexical availability and vector phase indexes semantic similarity, allowing one model to explain both lexical access and semantic similarity behavior. In this study the SDM was trained on the same passages the subjects read, predicting stronger memory for diverse-context items and more stable representations for uniform-context items.

@@ -15,12 +15,14 @@ sources:
     author: Wee Loo Kang
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # The OSP approach helps users overcome barriers in creating, using and scaling up meaningful ICT use in education
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The OSP approach helps users overcome barriers in creating, using and scaling up meaningful ICT use in education. [→ Wee Loo Kang 2013](#wee-loo-kang-2013)
@@ -31,7 +33,7 @@ sources:
 
 Wee Loo Kang. (2013). Open Source Physics. i in Practice 1(1), 58-63. http://ictconnection.opal.moe.edu.sg/cos/o.x?ptid=711&c=/ictconnection/ictlib&func=view&rid=82
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 The article's authorial assertion about the OSP approach in Singapore practice, offered without empirical test data. It states the approach "helps users overcome barriers in creating, us ing and scaling  up meaningful ICT use in education".
 

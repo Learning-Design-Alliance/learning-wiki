@@ -15,18 +15,22 @@ sources:
     author: "Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: barber-et-al-2007-2
     resource: "https://doi.org/10.48550/arXiv.0706.2717"
     title: "Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K. (2007). Newton's 2nd Law and the Physics of Dance. arXiv:0706.2717. [doi:10.48550/arXiv.0706.2717](https://doi.org/10.48550/arXiv.0706.2717)"
     author: "Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K."
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Two-force-plate recording revealed individual left-right impulse asymmetries in student jumps while total takeoff and landing impulses remained comparable
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Kristina's jumps, the takeoff impulse was dominated by the left foot while the right foot dominated the landing, suggesting tilting during the jump. [→ Barber et al. 2007](#barber-et-al-2007)
@@ -39,7 +43,7 @@ sources:
 
 Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K. (2007). Newton's 2nd Law and the Physics of Dance. arXiv:0706.2717. [doi:10.48550/arXiv.0706.2717](https://doi.org/10.48550/arXiv.0706.2717)
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Student-conceived final project analyzing two vertical jumps by Kristina recorded on two force plates, with per-foot impulses computed and labeled in figure 4. The authors note "the impulse beginning the jump is dominated by the left foot where the right foot dominates the landing" and that total takeoff and landing impulses were comparable.
 
@@ -49,7 +53,7 @@ Student-conceived final project analyzing two vertical jumps by Kristina recorde
 
 Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K. (2007). Newton's 2nd Law and the Physics of Dance. arXiv:0706.2717. [doi:10.48550/arXiv.0706.2717](https://doi.org/10.48550/arXiv.0706.2717)
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r1`
 
 Figure 5 shows Rose's jumps, where the right foot dominates impulse on both takeoff and landing; the authors offer right-footedness, leg-length difference, or muscular stretch/strength imbalance as possible explanations, again noting comparable total takeoff and landing impulses.
 

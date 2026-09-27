@@ -15,12 +15,14 @@ sources:
     author: Weiss, David J.
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Adaptive testing yields more precise achievement-level estimates than conventional classroom tests while using fewer items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` In a general biology course, an adaptive test provided substantially more precise estimates of achievement level than conventional tests across the entire achievement range while reducing test length. [→ Weiss 1980](#weiss-1980)
@@ -31,7 +33,7 @@ sources:
 
 Weiss, David J. (1980). Final Report: Computerized Adaptive Performance Evaluation. https://eric.ed.gov/?id=ED187760
 
-`q3 · i? · no source text available to check; the entry prints no effect size`
+`q3 · i? · no source text available to check; the entry prints no effect size` · `causal · r?`
 
 Information comparison study (Research Report 77-7) administering conventional and adaptive tests to over 700 students in a general biology course. The abstract reports "substantially more precise esti- mates ot achievement level than the conventional test" with reduced test length.
 

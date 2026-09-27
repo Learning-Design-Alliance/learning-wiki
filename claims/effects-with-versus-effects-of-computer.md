@@ -15,18 +15,22 @@ sources:
     author: Gilbert, L. S.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: gilbert-1999-2
     resource: "https://eric.ed.gov/?id=ED436153"
     title: "Gilbert, L. S. (1999). Where Is My Brain? Distributed Cognition, Activity Theory, and Cognitive Tools. Proceedings of the AECT National Convention. https://eric.ed.gov/?id=ED436153"
     author: Gilbert, L. S.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Salomon distinguishes effects with the computer (system performance) from effects of the computer (cognitive residue on the solo performer)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` In the distributed cognition literature, Salomon distinguishes effects with the computer, the efficacy of the person-plus-computer system, from effects of the computer, the cognitive residue left on the person operating alone. [→ Gilbert 1999](#gilbert-1999)
@@ -37,7 +41,7 @@ sources:
 
 Gilbert, L. S. (1999). Where Is My Brain? Distributed Cognition, Activity Theory, and Cognitive Tools. Proceedings of the AECT National Convention. https://eric.ed.gov/?id=ED436153
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The paper's literature synthesis reports Salomon's critical distinction within distributed cognition discussions of cognitive tools, quoting that effects of the computer are the "cognitive residue" left upon the person. No empirical data are reported here; this is a conceptual distinction attributed to Salomon (1990).
 
@@ -47,7 +51,7 @@ The paper's literature synthesis reports Salomon's critical distinction within d
 
 Gilbert, L. S. (1999). Where Is My Brain? Distributed Cognition, Activity Theory, and Cognitive Tools. Proceedings of the AECT National Convention. https://eric.ed.gov/?id=ED436153
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The paper reports Pea's critique of Salomon's analytic/systemic evaluation criteria, attributing to Pea the argument that the approach is "overly simplistic" and neglects evolving user-tool relationships. This is the paper's account of a published debate, not new data.
 

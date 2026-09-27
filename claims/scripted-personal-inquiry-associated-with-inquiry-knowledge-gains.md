@@ -15,12 +15,14 @@ sources:
     q: 2
     i: "?"
     n: 28 (intervention) and n=15 (control) Year 8 students for the quantitative comparison; separate after-school club sample (max 30, min 8 attendees) for the sustainability-attitude findings
+    kind: design
+    rigour: 2
 ---
 
 # Scripted personally meaningful inquiry is associated with gains in inquiry-decision accuracy, with mixed evidence on attitude and behavior change
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · n=28 (intervention) and n=15 (control) Year 8 students for the quantitative comparison; separate after-school club sample (max 30, min 8 attendees) for the sustainability-attitude findings
+> **Evidence** · 1 study · design `r2` · `q2` · n=28 (intervention) and n=15 (control) Year 8 students for the quantitative comparison; separate after-school club sample (max 30, min 8 attendees) for the sustainability-attitude findings
 
 Across two design-based-research implementations of a personal-inquiry toolkit, students showed pre-to-post gains on a comic-format test of inquiry-decision accuracy relative to a non-equivalent control class, successfully carried out investigations across classroom, home, and field settings with only minor technical friction, and some students reported (via interview, not measurement) carrying sustainability-related purchasing changes home — though the authors themselves caution against strong causal or attitude-change conclusions.
 
@@ -39,7 +41,7 @@ Across two design-based-research implementations of a personal-inquiry toolkit, 
 
 Sharples, M., Scanlon, E., Ainsworth, S., Anastopoulou, S., Collins, T., Crook, C., Jones, A., Kerawalla, L., Littleton, K., Mulholland, P., & O'Malley, C. (2015). Personal Inquiry: Orchestrating Science Investigations Within and Beyond the Classroom. *Journal of the Learning Sciences, 24*(2), 308-341. [https://doi.org/10.1080/10508406.2014.944642](https://doi.org/10.1080/10508406.2014.944642)
 
-`q2 · design-based research across two implementations (a Year 8 classroom noise-pollution unit and an after-school sustainability club), with one non-equivalent-control-group pre/post comparison plus descriptive/qualitative implementation data (video, interviews, computer logs); confounded baseline in the one quantitative comparison, small samples, no randomization` · `i? · the abstract prints no effect size; the full text may` · `n=28 (intervention) and n=15 (control) Year 8 students for the quantitative comparison; separate after-school club sample (max 30, min 8 attendees) for the sustainability-attitude findings`
+`q2 · design-based research across two implementations (a Year 8 classroom noise-pollution unit and an after-school sustainability club), with one non-equivalent-control-group pre/post comparison plus descriptive/qualitative implementation data (video, interviews, computer logs); confounded baseline in the one quantitative comparison, small samples, no randomization` · `i? · the abstract prints no effect size; the full text may` · `n=28 (intervention) and n=15 (control) Year 8 students for the quantitative comparison; separate after-school club sample (max 30, min 8 attendees) for the sustainability-attitude findings` · `design · r2`
 
 The [Scripted Personally Meaningful Inquiry](../patterns/scripted-personally-meaningful-inquiry.md) pattern, implemented via the nQuire software toolkit, was deployed in a 10-lesson Year 8 ecology unit (noise pollution) and a separate after-school "Sustainability Squad" club (food packaging/decay), instantiating [Personal Inquiry](../theories/personal-inquiry.md)'s 8-phase cycle and scripted orchestration. Inquiry-decision accuracy was measured with a comic-format assessment (parallel to Concept Cartoons) scored by two independent blind raters; implementation feasibility was assessed via critical-incident analysis of video and computer logs; attitude/behavior claims come from student and parent interviews only.
 

@@ -15,12 +15,14 @@ sources:
     author: Vongehr, S.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Demanding anti-correlation is argued to be didactically superior to employing the CHSH inequality in the QRC
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The article argues that demanding anti-correlation at zero relative angle is superior to CHSH for the QRC because it connects to well-known optics and makes the classical correlation visibly insufficient. [→ Vongehr 2012](#vongehr-2012)
@@ -31,7 +33,7 @@ sources:
 
 Vongehr, S. (2012). Quantum Randi Challenge. arXiv:1207.5294. [doi:10.48550/arXiv.1207.5294](https://doi.org/10.48550/arXiv.1207.5294)
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument (type e), not a tested comparison: the article reasons that the d = 0 anti-correlation setup connects to familiar polarizing-sunglasses optics, shows classical common cause correlation is present but not the full issue, and that hiding this via CHSH would lose Didactic Transparency. The CHSH remains superior for discussing the detection loophole.
 

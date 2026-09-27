@@ -15,12 +15,14 @@ sources:
     author: "Farmer & Higham"
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Interracial interaction is a key component of program design for developing culturally responsive leaders
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Interracial interaction is a key component of program design for developing culturally responsive leaders. [→ Farmer & Higham 2007](#farmer-higham-2007)
@@ -31,7 +33,7 @@ sources:
 
 Farmer & Higham. (2007). Culturally Responsive Leadership: Graduate Program Egalitarianism. https://www.ucea.org
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Definitional/design statement from the paper's program-design and curriculum-content discussion. The authors assert that "Interracial interaction is a key component of program design"; the article reports no comparison or effect size supporting this.
 

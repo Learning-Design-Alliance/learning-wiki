@@ -15,12 +15,14 @@ sources:
     author: "Doctor, R. M., & Marziani, A. W."
     q: 3
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # I-E scale scores correlate with conditioning performance for aware subjects but not for unaware subjects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` I-E Scale scores of unaware subjects were uncorrelated with final conditioning performance (r = .09) but significantly related to conditioning for aware subjects (r = .54, p < .01). [→ Doctor 1971](#doctor-1971)
@@ -31,7 +33,7 @@ sources:
 
 Doctor, R. M., & Marziani, A. W. (1971). Locus of Control of Reinforcement and Responsiveness to Social Influence. San Fernando Valley State College. https://eric.ed.gov/?id=ED055283
 
-`q3 · i2`
+`q3 · i2` · `causal · r1`
 
 Correlations between I-E Scale scores and performance on the last block of acquisition trials were computed separately for aware and unaware subjects, cited by the article as evidence of the strength of the relationship between conditioning and I-E status.
 

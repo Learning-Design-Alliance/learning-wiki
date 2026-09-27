@@ -15,12 +15,14 @@ sources:
     author: "Rupp, A.A., Gushta, M., Mislevy, R.J., & Shaffer, D.W."
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Defining and quantifying reliability and measurement error is particularly challenging in epistemic games for three principal reasons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Reliability and measurement error in epistemic games are hard to define and estimate because complex tasks induce dependencies across observations, multiple layers of human judgment generate indicators, and rich process/product data may be distal to the desired interpretations. [→ Rupp 2010](#rupp-2010)
@@ -31,7 +33,7 @@ sources:
 
 Rupp, A.A., Gushta, M., Mislevy, R.J., & Shaffer, D.W. (2010). Evidence-centered Design of Epistemic Games: Measurement Principles for Complex Learning Environments. Journal of Technology, Learning, and Assessment, 8(4). http://www.jtla.org
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Theoretical argument in the paper's reliability section. The authors argue that "the complexity of the tasks, which induce dependencies across observations" undermines traditional error minimization, and that resulting statistics may even turn out to be game-specific.
 

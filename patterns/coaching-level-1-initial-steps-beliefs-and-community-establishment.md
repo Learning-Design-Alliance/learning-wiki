@@ -17,7 +17,7 @@ sources:
 # Level 1 initial steps: address teacher beliefs through individual conferencing and establish teacher learning communities
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 At the first level of the trajectory, mentoring work consists of conversations with individual teachers about literacy instruction and relationship building, described as "building relationships and establishing a level of trust necessary to engage teachers in the change process." Advocacy work involves facilitating small-group conversations to gauge willingness to collaborate and brainstorm mutual support. Examples include Michelle's brief planning-time conferences and Grace's after-school writing discussion meeting using student work samples.

@@ -16,7 +16,7 @@ sources:
 # Shared cognitive operations account: identity and reversibility underlie conservation, pretense play, and gender constancy
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 1 study, `q3` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article proposes that qualitative and quantitative forms of identity and reversibility share common cognitive system properties, so exercise of these operations in one domain transfers to others. It builds on Kohlberg's suggestion that "the same cognitive factors which account for the development of conservatidh of gwntity might also be involved in the developaent of gender constancy" and tests it experimentally by training nonconserving preschoolers in conservation or pretense play and measuring gender constancy.

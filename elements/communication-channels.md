@@ -12,7 +12,7 @@ generated:
 # Communication Channels
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 against) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 against) · 2 studies (1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 Communication channels are the element in which learners use designated tools or spaces to coordinate, discuss, ask questions, and share updates during a learning activity. They are useful when collaboration depends on reliable communication pathways.

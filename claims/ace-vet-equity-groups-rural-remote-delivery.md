@@ -15,18 +15,22 @@ sources:
     author: Schofield, Kaye
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: schofield-1996-2
     resource: "https://eric.ed.gov/?id=ED420782"
     title: "Schofield, Kaye. (1996). Think Local and Compete. An Analysis of the Role of Adult and Community Education in the Implementation of a National System for Vocational Education and Training. A Report to the MCEETYA ACE Taskforce. Australian National Training Authority, Brisbane. https://eric.ed.gov/?id=ED420782"
     author: Schofield, Kaye
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # ACE providers deliver VET to equity target groups and to rural and remote communities where other VET provision is limited or non-existent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Where public funds are accessible, ACE providers have delivered VET programs to equity target groups including women, people of non-English-speaking background, people with limited language and literacy skills, unemployed people and in some instances Aboriginal people. [→ Schofield 1996](#schofield-1996)
@@ -38,7 +42,7 @@ sources:
 
 Schofield, Kaye. (1996). Think Local and Compete. An Analysis of the Role of Adult and Community Education in the Implementation of a National System for Vocational Education and Training. A Report to the MCEETYA ACE Taskforce. Australian National Training Authority, Brisbane. https://eric.ed.gov/?id=ED420782
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The Executive Summary reports on ACE delivery to equity target groups, conditioned on access to public funds on a grant or competitive basis, and notes providers' limited capacity to cross-subsidise programs for financially disadvantaged learners.
 
@@ -48,7 +52,7 @@ The Executive Summary reports on ACE delivery to equity target groups, condition
 
 Schofield, Kaye. (1996). Think Local and Compete. An Analysis of the Role of Adult and Community Education in the Implementation of a National System for Vocational Education and Training. A Report to the MCEETYA ACE Taskforce. Australian National Training Authority, Brisbane. https://eric.ed.gov/?id=ED420782
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 A separate Executive Summary statement attributes ACE delivery in rural and remote communities to the providers' geographic spread, where other VET provision is limited or non-existent.
 

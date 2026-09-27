@@ -15,12 +15,14 @@ sources:
     author: Norman, D. A.; And Others
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Gain-effective time constant product is slightly superior to forcing function amplitude as an adaptive variable
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Gain-effective time constant product outperformed forcing function amplitude as an adaptive variable for trainee performance. [→ Norman 1972](#norman-1972)
@@ -31,7 +33,7 @@ sources:
 
 Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Comparison of adaptive variables across experimental training groups in a transfer-of-training paradigm. The report states "Gain-effective time constant product is slightly superior to forcing function amplitude as an adaptive variable."
 

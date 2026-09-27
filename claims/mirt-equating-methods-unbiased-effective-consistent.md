@@ -15,12 +15,14 @@ sources:
     author: Li, Yuan H.; Lissitz, Robert W.
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The developed MIRT equating methods behave as unbiased, effective, and consistent estimators of transformation parameters
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` BIAS values near zero, small RMSE, and BIAS decreasing with sample size and test length indicate the MIRT equating methods are unbiased, effective, and consistent estimators. [→ Li 1998](#li-1998)
@@ -31,7 +33,7 @@ sources:
 
 Li, Yuan H.; Lissitz, Robert W. (1998). An Evaluation of Multidimensional IRT Equating Methods by Assessing the Accuracy of Transforming Parameters onto a Target Test Metric. Paper presented at the annual meeting of the National Council on Measurement in Education. https://eric.ed.gov/?id=ED418999
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Descriptive statistics from the first simulation study across sample sizes 1000, 2000, and 4000 and anchor lengths of 15 and 25 items. The authors also report BIAS values "close to zero" (unbiasedness) and relatively small RMSE (effectiveness) for all methods.
 

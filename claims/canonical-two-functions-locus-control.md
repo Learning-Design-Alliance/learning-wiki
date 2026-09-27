@@ -15,12 +15,14 @@ sources:
     author: Thomas, Mollie B.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Canonical analysis of IAR and CDR factor scores yields two nontrivial canonical functions (R = .644 and .463)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The canonical analysis produced two nontrivial functions, the first with canonical R = .644 accounting for 41% of the variance of the canonical variates and the second with R = .463 accounting for 23%. [→ Thomas 1975](#thomas-1975)
@@ -31,7 +33,7 @@ sources:
 
 Thomas, Mollie B. (1975). Underlying Constructs of Locus of Control of Reinforcement. https://eric.ed.gov/?id=ED108039
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Canonical correlation analysis of factor scores from the same 188-student sample. The chi square approximation for the first function was 217.81 (p < .01, df = 121) and for the second 123.29 (p < .06, df = 100); nontrivial functions required correlations exceeding .40.
 

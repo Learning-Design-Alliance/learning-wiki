@@ -16,7 +16,7 @@ sources:
 # Theory of embodiment: cognition and meaning grounded in bodily action and perception, consistent with Montessori's view of mind and movement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies, `q2` · 1 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 qualitative), `q2` · 1 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The theory of embodiment sees meaning and cognition as deeply rooted in physical existence: bodily experience and interaction support systems of thought, and meaning arises through embodied organism-environment interactions. The article connects this to Montessori's view that "mind and movement are parts of the same entity" and her account of the hand exploring and communicating with the brain, arguing that handling Montessori material lets children grasp and touch surfaces, connecting mind with body in learning geometry.

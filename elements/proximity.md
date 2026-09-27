@@ -12,7 +12,7 @@ generated:
 # Proximity
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies, `q3`–`q4` · 1 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 quant-synthesis, 1 review), `q3`–`q4` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Proximity (spatial contiguity) is the design principle that related pieces of information — a label and the object it names, an explanation and the graphic it describes, feedback and the work it addresses — should be placed near one another rather than separated. When corresponding words and images are integrated, learners do not have to visually search for connections or hold one representation in working memory while locating the other.

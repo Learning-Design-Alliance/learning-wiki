@@ -15,12 +15,14 @@ sources:
     author: Lai, Su-Huei
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Interpretive problem-solving action seeks understanding of meanings through democratic communication with those involved
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Within the MPSA framework, interpretive problem-solving action focuses on the meaning of symbols, values, concepts, and intentions, and identifies common principles through democratic, dialectic communication with the people involved. [→ Lai 2002](#lai-2002)
@@ -31,7 +33,7 @@ sources:
 
 Lai, Su-Huei. (2002). Cone-Deciphered Modes of Problem Solving Action (MPSA Cone): Alternative Perspectives on Diversified Professions. https://eric.ed.gov/?id=ED468444
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Conceptual characterization of the interpretive mode in the paper's framework description, attributed to Habermas's notion of "the rationally motivating force of achieving understanding." No empirical data are reported; the approach and action plan remain open-ended by design.
 

@@ -15,12 +15,14 @@ sources:
     author: Jaeseok Yang
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # SMS use improved both vocabulary retention and reading comprehension among Iranian EFL learners relative to a control group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Iranian EFL learners using mobile phone SMS outperformed the control group on vocabulary retention and reading comprehension scores. [→ Jaeseok Yang 2013](#jaeseok-yang-2013)
@@ -31,7 +33,7 @@ sources:
 
 Jaeseok Yang. (2013). Mobile Assisted Language Learning: Review of the Recent Applications of Emerging Mobile Technologies. English Language Teaching, 6(7). https://doi.org/10.5539/elt.v6n7p19
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Motallebzadeh and Ganjali's (2011) study of 40 Iranian EFL learners, in which "mobile phone users outperformed the control group" on both vocabulary and reading comprehension scores. No effect size is printed.
 

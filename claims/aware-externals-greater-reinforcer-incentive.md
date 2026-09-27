@@ -15,12 +15,14 @@ sources:
     author: "Doctor, R. M., & Marziani, A. W."
     q: 3
     i: 1
+    kind: causal
+    rigour: 1
 ---
 
 # Aware external subjects reported greater incentive value of the verbal reinforcer than aware internal subjects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r1` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i?` When awareness was taken into account, significantly more aware ESs expressed some desire for the reinforcement than aware ISs, while I-E status of E was unrelated to desire ratings. [→ Doctor 1971](#doctor-1971)
@@ -31,7 +33,7 @@ sources:
 
 Doctor, R. M., & Marziani, A. W. (1971). Locus of Control of Reinforcement and Responsiveness to Social Influence. San Fernando Valley State College. https://eric.ed.gov/?id=ED055283
 
-`q3 · i1`
+`q3 · i1` · `causal · r1`
 
 Private ratings to the question of how much subjects wanted the experimenter to say "good" were dichotomized into some desire versus none; the article reports the aware-ES versus aware-IS difference was significant, consistent with the performance differences.
 

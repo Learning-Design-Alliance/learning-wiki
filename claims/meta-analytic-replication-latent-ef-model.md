@@ -15,12 +15,14 @@ sources:
     author: "Nguyen, T., Duncan, R.J., & Bailey, D.H."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In a meta-analytic database of ten studies, the latent EF factor model was preferred in seven samples, with two favoring the components model and one equal
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Replication across ten peer-reviewed studies of children aged 3–6 found the latent EF model preferred in most but not all samples. [→ Nguyen 2019](#nguyen-2019)
@@ -31,7 +33,7 @@ sources:
 
 Nguyen, T., Duncan, R.J., & Bailey, D.H. (2019). Theoretical and methodological implications of associations between executive function and mathematics in early childhood. Contemporary Educational Psychology. https://doi.org/10.1016/j.cedpsych.2019.04.002
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Meta-analytic database of ten studies (2008–2017) meeting inclusion criteria for measuring all three EF components and standardized math achievement; models were estimated from correlation matrices. The article reports "Seven of the ten samples had smaller BIC values for Model 1".
 

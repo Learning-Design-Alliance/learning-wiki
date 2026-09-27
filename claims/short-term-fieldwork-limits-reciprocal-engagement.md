@@ -15,12 +15,14 @@ sources:
     author: "Vijge, M. J., Gallagher, S. E., Byrne, J. R., Tschersich, J., Tager, J., Madhavan, U. B., Boshoff, H., & Triyanti, A."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students felt uncomfortable with short-term European fieldwork in South Africa with limited interaction with local researchers and communities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Students felt uncomfortable flying into Kruger National Park from Europe for relatively short-term (3 months) fieldwork with limited interactions with South African researchers and local communities, citing research fatigue and their limited codesign experience. [→ Vijge 2025](#vijge-2025)
@@ -31,7 +33,7 @@ sources:
 
 Vijge, M. J., Gallagher, S. E., Byrne, J. R., Tschersich, J., Tager, J., Madhavan, U. B., Boshoff, H., & Triyanti, A. (2025). Community-Engaged Learning in a European Universities Alliance: Reflections on Equality and Reciprocity Across Europe and Africa. Journal of Higher Education Outreach and Engagement, 29(2). https://openjournals.libs.uga.edu/jheoe
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Autoethnographic reflection on reciprocity in Capstone fieldwork with the University of Pretoria's Hans Hoheisen Wildlife Research Station. The authors report "students felt uncomfortable with the approach of flying into Kruger National Park from Europe" for the short fieldwork period.
 

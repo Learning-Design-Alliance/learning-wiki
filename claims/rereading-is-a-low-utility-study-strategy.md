@@ -15,6 +15,8 @@ sources:
     q: 3
     i: "?"
     n: narrative synthesis of dozens of primary rereading studies (no single sample size)
+    kind: review
+    rigour: 3
   - id: callender-mcdaniel-2009
     resource: "https://doi.org/10.1016/j.cedpsych.2008.07.001"
     title: "Callender, A. A., & McDaniel, M. A. (2009). The limited benefits of rereading educational texts. *Contemporary Educational Psychology, 34*(1), 30–41. [doi:10.1016/j.cedpsych.2008.07.001](https://doi.org/10.1016/j.cedpsych.2008.07.001)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: "?"
     n: four experiments; per-experiment participant n not given in the abstract
+    kind: causal
+    rigour: "?"
 ---
 
 # Rereading Is A Low Utility Study Strategy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 2 studies · 1 causal `r?`, 1 review `r3` · `q3`
 
 Rereading — passively restudying text or notes — is one of the most commonly used study strategies, but it produces less durable learning than strategies that require learners to actively reconstruct material. The scope of this claim is rereading as a self-directed study technique, compared against alternative strategies under equivalent study time.
 
@@ -43,7 +47,7 @@ Rereading — passively restudying text or notes — is one of the most commonly
 
 Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
 
-`q3 · peer-reviewed systematic review` · `i? · no single effect size reported for the technique-level verdict` · `n=narrative synthesis of dozens of primary rereading studies (no single sample size)`
+`q3 · peer-reviewed systematic review` · `i? · no single effect size reported for the technique-level verdict` · `n=narrative synthesis of dozens of primary rereading studies (no single sample size)` · `review · r3`
 
 This monograph by five cognitive/educational psychologists reviews ten study techniques, evaluating each against learning conditions, student characteristics, materials, and criterion tasks, and assigns each a utility rating. For rereading, the authors summarize decades of studies (mostly with undergraduates) on massed vs. spaced rereading, and note the effects are fairly robust for free recall but weaker for comprehension and application questions, and largely untested in real course contexts. Critically, in direct comparisons rereading consistently loses to techniques such as [elaborative interrogation](../strategies/elaborative-interrogation.md), self-explanation, and [practice testing](retrieval-practice-improves-retention.md). They conclude: "Based on the available evidence, we rate rereading as having low utility... The relative disadvantage of rereading to other techniques is the largest strike against rereading and is the factor that weighed most heavily in our decision to assign it a rating of low utility."
 
@@ -51,7 +55,7 @@ This monograph by five cognitive/educational psychologists reviews ten study tec
 
 Callender, A. A., & McDaniel, M. A. (2009). The limited benefits of rereading educational texts. *Contemporary Educational Psychology, 34*(1), 30–41. [doi:10.1016/j.cedpsych.2008.07.001](https://doi.org/10.1016/j.cedpsych.2008.07.001)
 
-`q3 · peer-reviewed experiment (four experiments)` · `i? · no standardized effect size reported in the abstract` · `n=four experiments; per-experiment participant n not given in the abstract`
+`q3 · peer-reviewed experiment (four experiments)` · `i? · no standardized effect size reported in the abstract` · `n=four experiments; per-experiment participant n not given in the abstract` · `causal · r?`
 
 Undergraduates read educational texts (textbook chapters or a Scientific American article) under intentional-learning instructions, comparing a single reading against immediate rereading, then completed classroom-like assessments (multiple choice, short answer, and text summaries) across four experiments. Rereading failed to significantly improve performance on most measures, and this held regardless of participants' reading-comprehension ability. As the authors put it: "With only several exceptions, rereading did not significantly increase performance on the assessments."
 

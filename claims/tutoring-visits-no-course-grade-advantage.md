@@ -15,12 +15,14 @@ sources:
     author: Cooper, E.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Tutoring center visits usually showed no significant difference in individual course performance, and sometimes tutored students performed worse
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` There is usually no significant difference in course performance between students who visited the TC and those who did not; in the few significant cases, visitors performed worse. [→ Cooper 2010](#cooper-2010)
@@ -31,7 +33,7 @@ sources:
 
 Cooper, E. (2010). Tutoring Center Effectiveness: The Effect of Drop-In Tutoring. Journal of College Reading and Learning, 40(2). https://eric.ed.gov/?id=EJ887303
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 The article's analysis of individual class outcomes for TC visitors. It attributes this difficulty partly to the small proportion of students visiting from a given class, and to self-selection of students needing academic help who could have performed even lower without tutoring.
 

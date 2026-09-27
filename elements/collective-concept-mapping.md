@@ -17,7 +17,7 @@ sources:
 # Collective Concept Mapping
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 design, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 A group activity in which members pool individual interpretations to construct shared concept maps representing conceptions agreed upon by the group, making the interaction between individual and group knowledge visible. In the documented practice, "two collective concept maps were created from group contributions" on the concept of extracurricular activity, after participants questioned one another's conceptions.

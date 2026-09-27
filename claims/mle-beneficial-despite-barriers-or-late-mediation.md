@@ -15,12 +15,14 @@ sources:
     author: "Mutlu, A. & Şahin, M."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # MLE mediation is reported as applicable and beneficial even when learners receive it late or face environmental, socio-economic or mental barriers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors assert that the mediation process remains applicable and beneficial regardless of barriers such as environmental problems, socio-economic conditions and mental disorders, even when mediation arrives late. [→ Mutlu 2019](#mutlu-2019)
@@ -31,7 +33,7 @@ sources:
 
 Mutlu, A. & Şahin, M. (2019). The Mediated Learning Experience (MLE) Theory in Meaningful Language Instruction. International Journal on New Trends in Education and Their Implications, 10(2). http://www.ijonte.org
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Author interpretation in the Discussion section: the article asserts, without presenting evidence or a test, that mediation remains beneficial despite timing and barrier conditions. The authors also recommend disseminating the MLE theory nationally as one component within a holistic framework alongside the national curriculum.
 

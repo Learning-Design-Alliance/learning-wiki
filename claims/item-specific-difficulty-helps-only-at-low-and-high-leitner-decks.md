@@ -15,12 +15,14 @@ sources:
     author: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T."
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # In Mnemosyne log data, item-specific difficulty parameters outperform a global difficulty for lower and higher Leitner decks, while global difficulty performs better for intermediate decks.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Item-specific difficulties outperformed a global item difficulty for decks q ≤ 2 and q > 5, but the global difficulty performed better for intermediate decks; no numeric AUC values are printed. [→ Reddy 2016](#reddy-2016)
@@ -31,7 +33,7 @@ sources:
 
 Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for Spaced Repetition. KDD ’16, San Francisco, CA, USA. https://doi.org/10.1145/2939672.2939850
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Observational study of Mnemosyne flashcard log data, comparing memory models by cross-validated validation AUC per deck bin. "Item-speciﬁc diﬃculties θi outperform global item diﬃculty θ for lower decks" and higher decks, but the global parameter did better for intermediate decks (models 5 vs. 10, 8 vs. 13).
 

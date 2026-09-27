@@ -15,12 +15,14 @@ sources:
     author: Carder, Linda; Pracht, Carl; Willingham, J. Robert
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Imbalanced challenge and support causes novice library learners to give up or remain dependent (authors' asserted relationship)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Over-challenging and under-supporting an inexperienced library student leads to giving up or regression, while over-supporting leads to continued dependence on the instructor. [→ Carder 1996](#carder-1996)
@@ -31,7 +33,7 @@ sources:
 
 Carder, Linda; Pracht, Carl; Willingham, J. Robert. (1996). Using Situational Leadership to Reach the Whole Population. https://eric.ed.gov/?id=ED406998
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical assertion made in the paper's discussion of quadrant-one instruction; the authors offer no empirical data for it, presenting it as practitioner reasoning about the correct balance of challenge and support.
 

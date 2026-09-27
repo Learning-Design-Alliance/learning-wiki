@@ -15,12 +15,14 @@ sources:
     author: Stecher, Judith S.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Elaborated coding was associated with higher reading scores among the observed children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Children's elaborated coding was associated with higher reading scores in the studied classrooms. [→ Stecher 1976](#stecher-1976)
@@ -31,7 +33,7 @@ sources:
 
 Stecher, Judith S. (1976). A Description of Teacher Verbal Mediation and of Children's Verbal Coding in Selected Early Childhood Classrooms. https://eric.ed.gov/?id=ED126733
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Listed among the product variables of the Dunkin and Biddle model framing the study: "Elab codir4g was associated with higher reading scores". The article prints no coefficient or test statistic for this association.
 

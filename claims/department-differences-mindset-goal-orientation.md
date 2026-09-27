@@ -15,12 +15,14 @@ sources:
     author: "Beyaztaş, D. İ., Kaptı, S. B., & Hymer, B."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Incremental theory and performance goal orientation differ across university departments, but entity and learning goal orientation do not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` MANOVA showed significant department differences for the incremental dimension (F=3,89, p<.05) and performance goal orientation (F=4.95, p<.05), but not for entity (p=,111) or learning goal orientation (p=,064). [→ Beyaztaş 2017](#beyaztas-2017)
@@ -31,7 +33,7 @@ sources:
 
 Beyaztaş, D. İ., Kaptı, S. B., & Hymer, B. (2017). The Relationship between Student Teachers' Perception of Intelligence and Their Goal Orientation. Universal Journal of Educational Research 5(9): 1519-1528. https://doi.org/10.13189/ujer.2017.050909
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 MANOVA across seven departments (N=1409; omnibus Wilks' Lambda F= 3,084 for intelligence perception and F= 3,436 for goal orientation, p<.05). Tamhane post-hoc tests located pairwise differences, e.g. Turkish Language Education higher than Science Education on both significant dimensions.
 

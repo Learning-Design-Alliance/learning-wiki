@@ -19,7 +19,7 @@ grain_size: lesson
 # Case-Based Learning (Harvard Method)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 9 studies, `q2`–`q4` · 0 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (1 for, 3 mixed) · 9 studies (3 causal, 2 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 Case-based learning in the Harvard method uses a carefully written case as the center of discussion, analysis, and decision making. Learners study a realistic situation, identify the central problem, weigh competing interpretations, and defend a course of action in discussion. The pattern does not treat the case as an illustration after the fact; the case is the primary vehicle through which learners reason.

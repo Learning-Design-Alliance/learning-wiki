@@ -15,12 +15,14 @@ sources:
     author: "Oliver, R. M., Wehby, J. H., & Reschly, D. J."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Disruptive student behavior is associated with less academic engaged time and lower achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students who are disruptive experience less academic engaged time, tend to have lower grades, and perform worse on standardized tests compared to students in well managed classrooms. [→ Oliver 2011](#oliver-2011)
@@ -31,7 +33,7 @@ sources:
 
 Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. https://www.sree.org. [doi:10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Background statement in the review's context section, attributed to Dolan et al. (1993); the review reports this second-hand and no effect size is printed. The review also cites Greer-Chase et al. finding aggressive students in disruptive classrooms more likely to be aggressive later.
 

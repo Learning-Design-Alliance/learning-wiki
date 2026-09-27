@@ -15,12 +15,14 @@ sources:
     author: Hill, Paul, Jr
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Staff qualifications, ideology, and self-sufficiency were the major determinants of success in surveyed youth-serving institutions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` A survey of institutions and youth organizations found staff qualifications, ideology, and degree of self-sufficiency were the major determinants of success, defined as positive impact on youth achievement, attitude, and behavior. [→ Hill 1987](#hill-1987)
@@ -31,7 +33,7 @@ sources:
 
 Hill, Paul, Jr. (1987). Passage to Manhood: Rearing the Male African-American Child. ERIC. https://eric.ed.gov/?id=ED287966
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The paper reports a survey of institutions serving African-American youth, with success defined as "having a positive impact on youth as related to their achievement, attitude and behavior." Details of the survey method and sample are not printed.
 

@@ -15,18 +15,22 @@ sources:
     author: Jaeseok Yang
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: jaeseok-yang-2013-2
     resource: "https://doi.org/10.5539/elt.v6n7p19"
     title: "Jaeseok Yang. (2013). Mobile Assisted Language Learning: Review of the Recent Applications of Emerging Mobile Technologies. English Language Teaching, 6(7). https://doi.org/10.5539/elt.v6n7p19"
     author: Jaeseok Yang
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Tablet-PC-supported peer-assisted learning reduced EFL learners' anxiety and promoted motivation and confidence in collaborative reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Mobile-device-supported peer-assisted learning with Tablet PCs reduced EFL learners' anxiety and promoted their motivation and confidence. [→ Jaeseok Yang 2013](#jaeseok-yang-2013)
@@ -38,7 +42,7 @@ sources:
 
 Jaeseok Yang. (2013). Mobile Assisted Language Learning: Review of the Recent Applications of Emerging Mobile Technologies. English Language Teaching, 6(7). https://doi.org/10.5539/elt.v6n7p19
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Lan, Sung, and Chang's (2007) comparative study of Tablet PCs versus a traditional class setting for collaborative EFL reading, finding the Tablet PC application outweighed the weaknesses of the traditional setting and "could reduce EFL learners' anxiety". No effect size is printed.
 
@@ -48,7 +52,7 @@ The review reports Lan, Sung, and Chang's (2007) comparative study of Tablet PCs
 
 Jaeseok Yang. (2013). Mobile Assisted Language Learning: Review of the Recent Applications of Emerging Mobile Technologies. English Language Teaching, 6(7). https://doi.org/10.5539/elt.v6n7p19
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Chen's (2013) examination of Tablet PC use for informal English learning outside the classroom, noting collaborative micro-blog feedback sharing and learners' "positive perceptions" of effectiveness. No effect size is printed.
 

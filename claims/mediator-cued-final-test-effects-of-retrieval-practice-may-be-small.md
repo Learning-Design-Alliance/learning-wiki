@@ -15,18 +15,22 @@ sources:
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-2
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: 0
+    kind: review
+    rigour: 2
 ---
 
 # Retrieval practice effects on mediator-cued final tests have been positive, but Coppens et al. (2016) concluded the true effect may be only about 0.10 to 0.20
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Pyc and Rawson (2010), a retrieval practice effect when mediators were used as final-test cues. [→ Karpicke 2017](#karpicke-2017)
@@ -38,7 +42,7 @@ sources:
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports Pyc and Rawson (2010), with word pair materials: "there was a retrieval practice effect when mediators were used as cues on the ﬁnal test". No effect size is printed.
 
@@ -48,7 +52,7 @@ The chapter reports Pyc and Rawson (2010), with word pair materials: "there was 
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i0`
+`q2 · i0` · `review · r2`
 
 The chapter reports Coppens et al. (2016) as a corrective: the effect "may be smaller than what original reports concluded (the true effect size may be in the 0.10 – 0.20 range)".
 

@@ -17,7 +17,7 @@ sources:
 # Combine communicative and traditional teaching methods rather than adopting either exclusively
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article concludes that no single teaching method deals with everything concerning the form, use and content of the target language, so "Teachers need to combine the new with the old, such as the Communicative Approach with traditional teaching methods." This principle follows from the article's analysis of constraining factors in China and its observation that the communicative approach has allowed teachers to retain the best elements of other methods rather than rejecting them wholesale.

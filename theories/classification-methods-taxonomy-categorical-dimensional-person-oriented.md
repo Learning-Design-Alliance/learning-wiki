@@ -16,7 +16,7 @@ sources:
 # Three-method taxonomy of child classification: categorical, dimensional, and person-oriented
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study, `q3` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article organizes classification of school-age children into three approaches. Categorical methods place students into "all-or-nothing" categories based on the assumption that disorders form discrete categories, as in DSM-IV or IDEA. Dimensional methods assume behavior occurs along a continuum, combining correlated variables into higher-order dimensions. Person-oriented methods "attempt to blend categorical and dimensional methods by producing a categorical classification system through the use of dimensional scales," typically via cluster analysis, emphasizing the individual as a whole.

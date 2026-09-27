@@ -15,12 +15,14 @@ sources:
     author: "Oliver, R. M., Wehby, J. H., & Reschly, D. J."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effect sizes across classroom management studies are homogeneous, with no significant moderator variability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The test for homogeneity was not statistically significant for either ICC=.05 (Q= 13.72, df = 11, p = .25) or ICC=.10 (Q= 10.67, df = 11, p = .47), so variability was likely due to sampling error and no moderator analyses were justified. [→ Oliver 2011](#oliver-2011)
@@ -31,7 +33,7 @@ sources:
 
 Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. https://www.sree.org. [doi:10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Homogeneity testing within the same random-effects meta-analysis of 12 effect sizes. The review reports the homogeneity tests "failed to reject the hypothesis that the sample of effect sizes are homogeneous", concluding any variability is likely due to sampling error.
 

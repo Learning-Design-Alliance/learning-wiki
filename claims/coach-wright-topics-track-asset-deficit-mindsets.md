@@ -15,18 +15,22 @@ sources:
     author: "Littenberg-Tobias, J., Borneman, E., & Reich, J."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: littenberg-tobias-2021-2
     resource: "https://doi.org/10.1177/23328584211045685"
     title: "Littenberg-Tobias, J., Borneman, E., & Reich, J. (2021). Measuring Equity-Promoting Behaviors in Digital Teaching Simulations: A Topic Modeling Approach. AERA Open. https://doi.org/10.1177/23328584211045685"
     author: "Littenberg-Tobias, J., Borneman, E., & Reich, J."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In Coach Wright, Asset-mindset participants noticed Jeremy's positive behaviors while Deficit-mindset participants framed behavior as rule compliance, and strength language sometimes appeared without referencing actual strengths
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Coach Wright, Asset-mindset participants were more likely to observe that Jeremy went right back to work, while Deficit-mindset participants more often raised the school referral policy and Jeremy's long bathroom break. [→ Littenberg-Tobias 2021](#littenberg-tobias-2021)
@@ -38,7 +42,7 @@ sources:
 
 Littenberg-Tobias, J., Borneman, E., & Reich, J. (2021). Measuring Equity-Promoting Behaviors in Digital Teaching Simulations: A Topic Modeling Approach. AERA Open. https://doi.org/10.1177/23328584211045685
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Topic-prevalence analysis of Coach Wright simulation responses (N = 11,492 sentence rows) against the Asset-Deficit survey scale. Deficit-mindset participants more often brought up the school referral policy and Jeremy's long bathroom break, framing behavior in terms of compliance with school rules.
 
@@ -48,7 +52,7 @@ Topic-prevalence analysis of Coach Wright simulation responses (N = 11,492 sente
 
 Littenberg-Tobias, J., Borneman, E., & Reich, J. (2021). Measuring Equity-Promoting Behaviors in Digital Teaching Simulations: A Topic Modeling Approach. AERA Open. https://doi.org/10.1177/23328584211045685
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Secondary qualitative finding from the Coach Wright topic analysis: responses in the strengths topic used the language of student strengths without referencing an actual strength, which the authors call a possible case of "conceptual slippage" citing Horn and Kane (2019).
 

@@ -15,12 +15,14 @@ sources:
     author: DeCiccio, Albert C.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # Students' writing is argued, citing Bruffee, to be only as good as their conversation about writing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The paper reports Bruffee's assertion that students' writing will only be as good as their conversation, especially their conversation about writing. [→ DeCiccio 1988](#deciccio-1988)
@@ -31,7 +33,7 @@ sources:
 
 DeCiccio, Albert C. (1988). Social Constructionism and Collaborative Learning: Recommendations for Teaching Writing. Paper presented at the Annual Meeting of the Conference on College Composition and Communication. https://eric.ed.gov/?id=ED294201
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r1`
 
 The paper reports this as an assertion by Bruffee, who drew on Oakeshott's idea of an ongoing conversation of humankind. It quotes Bruffee that "students' writing will onlybe as good as their conversation"; the paper presents no evidence for it.
 

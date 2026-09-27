@@ -15,12 +15,14 @@ sources:
     author: "Xiong, Y., Zhou, H., & Ogilby, S. M."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # GPA, pretest score, and self-generated elaboration jointly predict intellectual skills but not procedural knowledge or attitudes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The three-way interaction of pretest, cognitive elaboration strategy, and GPA significantly affected intellectual skills (F=2.45, p=0.05) but showed no significant joint impact on posttest, procedural knowledge, or attitudes. [→ Xiong 2014](#xiong-2014)
@@ -31,7 +33,7 @@ sources:
 
 Xiong, Y., Zhou, H., & Ogilby, S. M. (2014). Experimental Investigation of the Effects of Cognitive Elaboration on Accounting Learning Outcomes. Journal of Education and Learning, 3(4). https://doi.org/10.5539/jel.v3n4p1
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Three-way ANOVA (Table 5) in the same experiment. The joint effect on posttest (F=1.22, p=0.38) and procedural knowledge (F=0.72, p=0.80) was also non-significant; only intellectual skills showed the significant interaction.
 

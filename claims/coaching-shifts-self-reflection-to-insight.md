@@ -15,12 +15,14 @@ sources:
     author: Grant, Anthony M.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Over the course of the life coaching program participants' levels of self-reflection decreased and insight increased.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` During the SF/CB life coaching program, self-reflection levels decreased while insight levels increased. [→ Grant 2001](#grant-2001)
@@ -31,7 +33,7 @@ sources:
 
 Grant, Anthony M. (2001). Towards a Psychology of Coaching: The Impact of Coaching on Metacognition, Mental Health and Goal Attainment. Doctoral dissertation, Macquarie University. https://eric.ed.gov/?id=ED478147
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 The dissertation reports this change in the 20-adult life coaching study, consistent with the hypothesis that coaching helps coachees move from self-monitoring toward insight and action. No effect sizes or test statistics are printed in the supplied text.
 

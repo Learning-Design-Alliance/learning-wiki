@@ -16,7 +16,7 @@ sources:
 # Five-cluster thematic map of WCF-in-L2-writing research: student engagement, WCF, second language writing, teacher feedback, and writing assessment
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study, `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The article's Citespace cluster analysis of keyword co-occurrence (627 nodes, one-year time slice) organizes WCF-in-L2-writing research into five major clusters. Cluster #0 is "student engagement", described as "an important component in the automated writing evaluative (AWE) study"; Cluster #1 is written corrective feedback, emphasizing students as key agents and factors influencing their responses; Cluster #2 is second language writing, covering theoretical foundations; Cluster #3 is teacher feedback on teachers' implementation; Cluster #4 is writing assessment, attending to motivation and emotion. Red marks the present research hotspot and purple older themes.

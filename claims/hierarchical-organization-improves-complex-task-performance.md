@@ -15,12 +15,14 @@ sources:
     author: Eylon, Bat-Sheva; Reif, F.
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i?` College physics subjects trained with a hierarchical organization scored significantly higher on composite complex-task scores than subjects trained with a single-level organization presented once or twice. [→ Eylon 1979](#eylon-1979)
@@ -31,7 +33,7 @@ sources:
 
 Eylon, Bat-Sheva; Reif, F. (1979). Effects of Internal Knowledge Organization on Task Performance. https://eric.ed.gov/?id=ED171804
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Experiment 1: 36 paid volunteers from an introductory college physics course, blocked by ability and randomly assigned to hierarchical (H), single-level once (S1), or single-level twice (S2) treatments. A two-way ANOVA on composite complex-task scores showed statistically significant treatment effects [F(2,27)=10.84, p<0.001], and the H treatment outperformed both S treatments on t-tests.
 

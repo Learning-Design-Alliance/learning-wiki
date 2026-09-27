@@ -15,12 +15,14 @@ sources:
     author: Taylor, A.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` In third-generation CHAT, contradictions between activity systems are seen as vital forces for change and development, and resolving such contradictions through CSL can spark transformative change in individuals and organizations. [→ Taylor 2014](#taylor-2014)
@@ -31,7 +33,7 @@ sources:
 
 Taylor, A. (2014). Community service-learning and cultural-historical activity theory. Canadian Journal of Higher Education, 44(1). https://journals.sfu.ca/cjhe/index.php/cjhe
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Conceptual argument citing Roth and Lee's Grade 7 environmental-science project, where producing quality work with community members conflicted with school curriculum time frames. The paper extends this to tensions between higher education objects (research publications, competitive individualism) and not-for-profit objects (meeting community needs with limited resources).
 

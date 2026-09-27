@@ -15,12 +15,14 @@ sources:
     author: CEO Forum on Education and Technology
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Integrated instructional hours correlate more positively with technology integration ability than stand-alone technology courses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` In teacher preparation programs, technology instruction integrated into methods and curriculum courses correlates more positively with technology skills and integration ability than stand-alone information technology courses. [→ CEO Forum on Education and Technology 1999](#ceo-forum-on-education-and-technology-1999)
@@ -31,7 +33,7 @@ sources:
 
 CEO Forum on Education and Technology. (1999). School Technology and Readiness Report. Professional Development: A Link to Better Learning. The CEO Forum on Education and Technology, Year Two. https://eric.ed.gov/?id=ED428747
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 A correlational finding about pre-service teacher preparation reported in the Pre-Service Programs section, citing survey data on teacher preparation programs; the report notes more than 70 percent of programs require three or more credit hours of technology instruction. No correlation coefficient is printed.
 

@@ -15,18 +15,22 @@ sources:
     author: Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
   - id: woloshyn-1992-2
     resource: "https://eric.ed.gov/?id=ED356949"
     title: "Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike. (1992). Using Elaborative Interrogation To Help Students Overcome Their Inaccurate Science Beliefs. https://eric.ed.gov/?id=ED356949"
     author: Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Elaborative-interrogation students are less confident in their incorrect recognition selections than reading controls, who express great confidence in erroneous answers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i?` In Experiment 1, significant three-way strategy-by-accuracy-by-certainty interactions showed reading controls endorsed more incorrect statements with great certainty. [→ Woloshyn 1992](#woloshyn-1992)
@@ -38,7 +42,7 @@ sources:
 
 Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike. (1992). Using Elaborative Interrogation To Help Students Overcome Their Inaccurate Science Beliefs. https://eric.ed.gov/?id=ED356949
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 Experiment 1 certainty analysis: for facts addressing misbeliefs, significant three-way interactions on immediate and 14-day recognition (F(2,116) > 8.74 and > 8.05, p<.001); "Reading-controls endorsed more incorrect statements with great certainty than did elaborative-interrogation subjects."
 
@@ -48,7 +52,7 @@ Experiment 1 certainty analysis: for facts addressing misbeliefs, significant th
 
 Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike. (1992). Using Elaborative Interrogation To Help Students Overcome Their Inaccurate Science Beliefs. https://eric.ed.gov/?id=ED356949
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 Experiment 2 certainty analysis: three-way strategy-by-accuracy-by-certainty interactions on each posttest recognition measure; elaborative-interrogation students identified more statements with 100% certainty and made fewer erroneous 100%-certain selections on misbelief facts.
 

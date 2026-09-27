@@ -15,12 +15,14 @@ sources:
     author: "Dowdy, E., & Kamphaus, R. W."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # No classification method was significantly superior for predicting mathematics achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` T-tests among correlations for ITBS Mathematics found no significant differences among the categorical, dimensional, and person-oriented methods. [→ Dowdy 2007](#dowdy-2007)
@@ -31,7 +33,7 @@ sources:
 
 Dowdy, E., & Kamphaus, R. W. (2007). A Comparison of Classification Methods for Use in Predicting School-Based Outcomes. The California School Psychologist, 12, 121-132. https://eric.ed.gov/?id=EJ896649
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Null result from the regression comparison in the 558-child sample: R squared values ranged .074-.100 across the three methods for later math scores, and no between-method difference reached significance. Equivalence was not tested.
 

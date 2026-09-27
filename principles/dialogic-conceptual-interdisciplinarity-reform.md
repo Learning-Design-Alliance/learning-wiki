@@ -17,7 +17,7 @@ sources:
 # Adopt a conceptual, dialogic approach to interdisciplinarity rather than a reductive instrumental one to strengthen integrative learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends moving beyond instrumental theories of interdisciplinarity toward a conceptual approach grounded in dialogism, in which integration is a form of construction or authoring that creates meanings using words, dialogue, and texts as tools. It argues that "nonlinear thinking replaces reductive thinking" in the reformed system, and that plurality and dynamism help students cross boundaries of knowledge and develop integrative skills for solving problems and negotiating complexity.

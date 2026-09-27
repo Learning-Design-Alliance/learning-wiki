@@ -15,12 +15,14 @@ sources:
     author: "Zakani, S., Kaupp, J., Turner, R. D., & Frank, B."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # No significant differences between Engineering and Technology exam questions in novelty and level of communication
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Differences between Engineering and Engineering Technology exam questions in novelty and level of communication were found to be insignificant. [→ Zakani 2019](#zakani-2019)
@@ -31,7 +33,7 @@ sources:
 
 Zakani, S., Kaupp, J., Turner, R. D., & Frank, B. (2019). Analyzing implicit science and math outcomes in engineering and technology programs. The Canadian Journal for the Scholarship of Teaching and Learning, 10(1). https://doi.org/10.5206/cjsotl-rcacea.2019.1.7994
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Instructor survey scoring of novelty and communication on physics exam questions from four participating programs (10 university and 8 college questions). The article reports the differences were "found to be insignificant"; no effect size or test statistic is printed, so equivalence was not tested.
 

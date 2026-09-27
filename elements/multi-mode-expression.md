@@ -17,7 +17,7 @@ sources:
 # Multi-mode expression
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Expressing understanding through combined modes of information (text, image, sound, video). The article treats multi-mode expression as the common activity underlying both multimedia learning and cross-curricular learning, requiring both content knowledge and expression skills. An example is creating a multimedia presentation that integrates knowledge, images, and emotions about a social studies topic.

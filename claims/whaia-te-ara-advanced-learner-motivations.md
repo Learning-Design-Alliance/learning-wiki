@@ -15,18 +15,22 @@ sources:
     author: Awanui Te Huia
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: awanui-te-huia-2015-2
     resource: "https://eric.ed.gov/?id=EJ1135051"
     title: "Awanui Te Huia. (2015). Exploring goals and motivations of Māori heritage language learners. Studies in Second Language Learning and Teaching, 5(4), 609-635. https://eric.ed.gov/?id=EJ1135051"
     author: Awanui Te Huia
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Advanced Māori HL2 learners are motivated by instrumental, relational, and language-specific goals (Whaia te ara)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Advanced learners reported instrumental and relational motivations, including employment opportunities and supporting others to learn te reo Māori. [→ Awanui Te Huia 2015](#awanui-te-huia-2015)
@@ -38,7 +42,7 @@ sources:
 
 Awanui Te Huia. (2015). Exploring goals and motivations of Māori heritage language learners. Studies in Second Language Learning and Teaching, 5(4), 609-635. https://eric.ed.gov/?id=EJ1135051
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 In the Whaia te ara theme, instrumental motivations were coupled with relational ones: skilled speakers were sought after professionally and by communities for cultural roles, and many advanced learners chose teaching or education vocations to share knowledge.
 
@@ -48,7 +52,7 @@ In the Whaia te ara theme, instrumental motivations were coupled with relational
 
 Awanui Te Huia. (2015). Exploring goals and motivations of Māori heritage language learners. Studies in Second Language Learning and Teaching, 5(4), 609-635. https://eric.ed.gov/?id=EJ1135051
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 The language-specific subtheme consisted of learners wanting understanding comparable to native speakers; participants described aiming for native-like delivery, including stress patterns and figurative expression, and viewed HL2 learning as continuous.
 

@@ -15,12 +15,14 @@ sources:
     author: Emmanuel Imiere
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The review reports that cognitive apprenticeship instructional methods were significantly more effective than traditional methods for college-level writing skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports, citing Duncan (1996), that cognitive apprenticeship instructional methods were significantly more effective than traditional methods in college-level writing skills. [→ Emmanuel Imiere 2019](#emmanuel-imiere-2019)
@@ -31,7 +33,7 @@ sources:
 
 Emmanuel Imiere. (2019). An Application of Cognitive Apprenticeship to Philosophy Instruction. https://eric.ed.gov/?id=ED613714
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Narrative review attributing this finding to Duncan (1996); the reviewed study's design is not described in the source beyond the reported contrast between CA methods and traditional methods, and no effect size is printed.
 

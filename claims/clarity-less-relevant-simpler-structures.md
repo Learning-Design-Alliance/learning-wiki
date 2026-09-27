@@ -15,12 +15,14 @@ sources:
     author: Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Clarity matters less as concept structure becomes simpler: no significant clear-vs-unclear difference for constant successive lessons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` For the constant successive structure, clear and unclear lessons showed no statistically significant achievement difference on any measure. [→ Snyder 1991](#snyder-1991)
@@ -31,7 +33,7 @@ sources:
 
 Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill. (1991). The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception. https://eric.ed.gov/?id=ED331809
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Simple main effects tests in the Results section comparing clear vs. unclear constant successive lessons. The article reports clear lessons descriptively better on all measures but no statistically significant difference; equivalence was not tested.
 

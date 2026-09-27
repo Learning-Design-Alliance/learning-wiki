@@ -15,12 +15,14 @@ sources:
     author: XIE Fang, JIANG Xue-mei
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Error analysis has stated limitations: overattention to errors, overstressing production data, failure to account for avoidance, and language-specific focus
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Error analysis overstresses production data although comprehension data is equally important for understanding language acquisition. [→ XIE Fang 2007](#xie-fang-2007)
@@ -33,7 +35,7 @@ sources:
 
 XIE Fang, JIANG Xue-mei. (2007). Error analysis and the EFL classroom teaching. US-China Education Review. https://scholar.google.com/scholar?q=Error+analysis+and+the+EFL+classroom+teaching
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Authors' critical discussion in §5 of error analysis's limitations. The article states it "overstressing of production data" occurs because production lends itself to analysis, that avoidance escapes the method, and that overattention to errors can make correct utterances go unnoticed. Conceptual critique, no data.
 

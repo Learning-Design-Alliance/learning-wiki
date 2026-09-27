@@ -15,12 +15,14 @@ sources:
     author: "Breitkreuz, K. R. & Songer, A."
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Student reflections following the trips are reported by the authors as a source of outcomes beyond the completed surface projects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Post-trip student reflections provided insights into outcomes the authors characterize as going beyond the surface projects completed, including cross-cultural understanding, teamwork, and use of complementary strengths. [→ Breitkreuz 2022](#breitkreuz-2022)
@@ -31,7 +33,7 @@ sources:
 
 Breitkreuz, K. R. & Songer, A. (2022). The Foundation for Interdisciplinary Team Learning in the 360 Degree Global Ed Model. Proceedings of IConSES 2022, ISTES Organization. https://eric.ed.gov/?id=ED631179
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 The authors' Reflections section presents four 2019 student reflection excerpts (engineering, pre-med, and education students) describing cross-cultural growth, low conflict, and use of complementary strengths; no systematic outcome measures or statistics are printed, so this is qualitative, author-selected anecdotal evidence.
 

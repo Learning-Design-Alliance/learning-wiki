@@ -15,12 +15,14 @@ sources:
     author: YILDIZ, Ezgi Pelin
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Academics most often name Instagram and LinkedIn as the Web 2.0 tools they use to realise esteem needs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the case study, Instagram and LinkedIn were the most frequently named Web 2.0 tools for realising esteem needs, with 16 academics naming LinkedIn. [→ YILDIZ 2021](#yildiz-2021)
@@ -31,7 +33,7 @@ sources:
 
 YILDIZ, Ezgi Pelin. (2021). Academist Perceptions on the Use of Web 2.0 Tools Through Maslow's Needs Hierarchy: A Case Study. Education Quarterly Reviews, Vol.4, No.1, 173-188. https://doi.org/10.31014/aior.1993.04.01.185
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Content analysis of Table 4 tool frequencies from the 20-academician case study; Instagram (21.8%) and LinkedIn (18.3%) led, and the article states "16 academics use LinkedIn tool for this need."
 

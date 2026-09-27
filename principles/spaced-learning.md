@@ -33,7 +33,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 unmarked) · 7 studies, `q2`–`q3` · 0 of 7 report an effect size
+> **Evidence** · 3 claims (3 unmarked) · 7 studies (4 review, 2 causal, 1 theoretical), `q2`–`q3` · 0 of 7 report an effect size
 
 ## Description
 Spaced learning distributes study or practice across multiple sessions separated by intervals of time, rather than concentrating the same total effort into a single block. The spacing effect — among the most replicated findings in memory research — produces substantially better long-term retention and transfer than massed practice for a wide range of content types and learner populations.

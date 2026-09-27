@@ -15,12 +15,14 @@ sources:
     author: MacKain, Sally Joy
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Labeling was mastered first, as predicted by the Kohlberg developmental sequence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Labeling was the easiest and earliest-mastered level, with 100% of both 3- and 4-year-olds correct at all referent types. [→ MacKain 1987](#mackain-1987)
@@ -31,7 +33,7 @@ sources:
 
 MacKain, Sally Joy. (1987). Gender Constancy: A Realistic Approach. https://eric.ed.gov/?id=ED286583
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Results section, Table 1 shows labeling at 100% for both age groups across self, same-sex, and opposite-sex referents, consistent with the Kohlberg sequence prediction that labeling is "mastered earliest."
 

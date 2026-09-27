@@ -15,12 +15,14 @@ sources:
     author: Schofield, Kaye
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # General Adult Education remains the heartland of the ACE sector, forming no less than 70% of ACE provision
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` General Adult Education (Stream 1000) is the core of the work of the overwhelming majority of ACE providers and is likely to form no less than 70% of ACE provision nationally. [→ Schofield 1996](#schofield-1996)
@@ -31,7 +33,7 @@ sources:
 
 Schofield, Kaye. (1996). Think Local and Compete. An Analysis of the Role of Adult and Community Education in the Implementation of a National System for Vocational Education and Training. A Report to the MCEETYA ACE Taskforce. Australian National Training Authority, Brisbane. https://eric.ed.gov/?id=ED420782
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The report's section on ACE provision of General Adult Education states that firm national data is not available and offers this estimate, noting that for many providers 100% of effort is directed to General Adult Education.
 

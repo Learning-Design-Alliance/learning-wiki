@@ -14,7 +14,7 @@ grain_size: course
 # Online Course Design (Community of Inquiry)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 7 claims (7 for) · 4 studies, `q2` · 0 of 4 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 4 studies (2 qualitative, 1 associational, 1 design), `q2` · 0 of 4 report an effect size · 7 claims rest on one study
 
 ## Description
 Online learners routinely report a sense of psychological distance or isolation that face-to-face learners do not — Moore (1989) called this **transactional distance** and argued it is reduced by deliberately designing for three types of interaction: **learner-to-learner**, **learner-to-instructor**, and **learner-to-content**. A meta-analysis of 74 distance-education studies confirmed all three types matter for achievement (Bernard et al., 2009).

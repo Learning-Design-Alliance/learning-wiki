@@ -15,12 +15,14 @@ sources:
     q: 2
     i: "?"
     n: not reported in the available abstract
+    kind: causal
+    rigour: "?"
 ---
 
 # Spatial Skills Improve Through Block Building
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · n=not reported in the available abstract
+> **Evidence** · 1 study · causal `r?` · `q2` · n=not reported in the available abstract
 
 Structured block-building and construction play is proposed to improve children's spatial skills, particularly mental rotation and spatial visualization.
 
@@ -34,7 +36,7 @@ Structured block-building and construction play is proposed to improve children'
 
 Casey, B. M., Andrews, N., Schindler, H., Kersh, J. E., Samper, A., & Copley, J. (2008). The development of spatial skills through interventions involving block building activities. *Cognition and Instruction, 26*(3), 269–309. [doi:10.1080/07370000802177177](https://doi.org/10.1080/07370000802177177)
 
-`q2 · controlled classroom experiment (two intervention conditions vs. a control condition; randomization method not stated in the available abstract)` · `i? · no quantitative effect size reported in the abstract` · `n=not reported in the available abstract`
+`q2 · controlled classroom experiment (two intervention conditions vs. a control condition; randomization method not stated in the available abstract)` · `i? · no quantitative effect size reported in the abstract` · `n=not reported in the available abstract` · `causal · r?`
 
 Kindergartners were assigned to one of two block-building intervention conditions (one embedding the building task in a story context, one without) or a control condition, and were assessed on spatial visualization, mental rotation, and block-building measures. Both block-building conditions produced better spatial-visualization performance than the control condition, and the story-context version specifically improved block-building performance relative to the other two conditions. The article was read at abstract level only (full text sits behind a Cloudflare-gated publisher paywall with no open-access copy located), so no effect sizes, sample size, or the mental-rotation result's relation to condition could be verified — only the qualitative pattern above is stated in what was read. This is a narrower and more cautious reading than the broader "spatial skills improve through block building" claim: it establishes near-transfer to a visualization task, not durability or transfer to novel spatial tasks.
 

@@ -15,12 +15,14 @@ sources:
     author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Learners allowed to make a knowledge-of-results decision before a trial and revise it after (Self-Both) mostly kept their original choice but sometimes changed it after seeing their own performance.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Self-Both participants stayed with their original choice 108 times for yes and 293 times for no, and changed from no to yes 30 times and from yes to no 13 times. [→ Carter 2014](#carter-2014)
@@ -31,7 +33,7 @@ sources:
 
 Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Descriptive count of Self-Both group decisions in this experiment: "there were 30 occasions wherein the KR decision changed from “no” to “yes” and 13 times that it changed from “yes” to “no.”" No inferential test is reported.
 

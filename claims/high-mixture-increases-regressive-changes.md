@@ -15,18 +15,22 @@ sources:
     author: "Snyder, S. S. & Feldman, D. H."
     q: 2
     i: 1
+    kind: causal
+    rigour: 2
   - id: snyder-1975-2
     resource: "https://eric.ed.gov/?id=ED118211"
     title: "Snyder, S. S. & Feldman, D. H. (1975). An Experimental Test of the Effects of Internal and External Disequilibrium on Spatial Reasoning Development. https://eric.ed.gov/?id=ED118211"
     author: "Snyder, S. S. & Feldman, D. H."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Higher internal disequilibrium is associated with more regressive (minus) changes as well as more progressive changes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` High mix subjects made significantly more minus (regressive) changes from pretest to posttest than mid and low mix subjects combined. [→ Snyder 1975](#snyder-1975)
@@ -38,7 +42,7 @@ sources:
 
 Snyder, S. S. & Feldman, D. H. (1975). An Experimental Test of the Effects of Internal and External Disequilibrium on Spatial Reasoning Development. https://eric.ed.gov/?id=ED118211
 
-`q2 · i1`
+`q2 · i1` · `causal · r2`
 
 Post hoc item-by-item analysis of concept/feature score changes found a significant Level Mixture effect on the ratio of minus changes to total changes (F2,54=4.98, p<.01). "high mix subjech'made more minus changes as compared to mid and low mix subjects combined" (F1,54=7.59, p<.01).
 
@@ -48,7 +52,7 @@ Post hoc item-by-item analysis of concept/feature score changes found a signific
 
 Snyder, S. S. & Feldman, D. H. (1975). An Experimental Test of the Effects of Internal and External Disequilibrium on Spatial Reasoning Development. https://eric.ed.gov/?id=ED118211
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `causal · r1`
 
 Analysis of variance on the ratio of total changes (plus and minus) to total responses showed a significant Level Mixture main effect (F=5.17). "Highermixture was associated with more rawchange, i.e. fewer responses remained unchangedfrom pretest to posttest."
 

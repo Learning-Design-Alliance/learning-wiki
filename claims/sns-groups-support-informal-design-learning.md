@@ -15,12 +15,14 @@ sources:
     author: "Gray, C. M., & Howard, C. D."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Student-created Facebook groups support self-directed design learning and sharing of expertise outside the formal curriculum
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Informal communications in five student-created Facebook groups functioned as part of the overall pedagogy of an interaction design Master's program, enabling self-directed learning and expertise sharing. [→ Gray 2014](#gray-2014)
@@ -31,7 +33,7 @@ sources:
 
 Gray, C. M., & Howard, C. D. (2014). Designerly talk in non-pedagogical social spaces. Journal of Learning Design, 7(1), 40-58. https://doi.org/10.5204/jld.v7i1.153
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r2`
 
 Naturalistic observation of five student-created Facebook groups in an HCI design Master's program. Corpus included 4,558 status updates, 15,273 comments, and 5,494 likes from 183 participants. The study found these groups "functioned as part of the overall pedagogy" supporting self-directed learning.
 

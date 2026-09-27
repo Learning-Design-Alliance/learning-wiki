@@ -15,12 +15,14 @@ sources:
     author: Liu, W.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The highest-centrality keywords in WCF-in-L2-writing research were student, corrective feedback, accuracy, acquisition and L2 writing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Keyword co-occurrence analysis identified student (centrality 0.18), corrective feedback (0.17), accuracy (0.17), acquisition (0.13) and L2 writing (0.11) as the highest-centrality keywords. [→ Liu 2025](#liu-2025)
@@ -31,7 +33,7 @@ sources:
 
 Liu, W. (2025). A bibliometric analysis of written corrective feedback in second language writing. Language Teaching Research Quarterly, 49, 133-150. https://doi.org/10.32038/ltrq.2025.49.07
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Citespace keyword co-occurrence analysis of the 321-article corpus, with keywords co-occurring in at least two articles, one-year time slices and LBY set to 5 years. Table 4 prints centralities and frequencies, e.g. student 0.18/62 and written corrective feedback 0.06/154.
 

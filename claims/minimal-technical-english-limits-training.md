@@ -15,12 +15,14 @@ sources:
     author: Dyer, Penny
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The package asserts that workers with minimal technical English face lack of comprehension, lack of confidence, and difficulty with the written form in training. [→ Dyer 1992](#dyer-1992)
@@ -31,7 +33,7 @@ sources:
 
 Dyer, Penny. (1992). Training a Multicultural Workforce. Hobart Institute of Technical and Further Education. https://eric.ed.gov/?id=ED378844
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 A stated position in Module 6's performance criteria, offered without empirical data. The module lists these as "the limitations to training forthe person with minimaltechnical English languageskills" and asks participants to plan vocational language support in tandem with workplace training.
 

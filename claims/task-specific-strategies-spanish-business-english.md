@@ -15,18 +15,22 @@ sources:
     author: Jeffrey Wallace Judge
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: jeffrey-wallace-judge-2012-2
     resource: "http://www.um.es/ijes"
     title: "Jeffrey Wallace Judge. (2012). Use of Language Learning Strategies by Spanish Adults for Business English. International Journal of English Studies, 12(1), 37-54. http://www.um.es/ijes"
     author: Jeffrey Wallace Judge
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Spanish business professionals use distinct strategy sets for each business task, with four themes for presentations and specific before/during/after techniques for calls and meetings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` For presentations, four themes emerged: preparing a structure, practicing, simplifying, and assessing the audience's cultural background. [→ Jeffrey Wallace Judge 2012](#jeffrey-wallace-judge-2012)
@@ -38,7 +42,7 @@ sources:
 
 Jeffrey Wallace Judge. (2012). Use of Language Learning Strategies by Spanish Adults for Business English. International Journal of English Studies, 12(1), 37-54. http://www.um.es/ijes
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Typological analysis of the 11 interviews, drawing on the data analysis matrix and summary chart for the presentation task. The article reports "The four themes for presentations were the following" as listed. No effect size is reported.
 
@@ -48,7 +52,7 @@ Typological analysis of the 11 interviews, drawing on the data analysis matrix a
 
 Jeffrey Wallace Judge. (2012). Use of Language Learning Strategies by Spanish Adults for Business English. International Journal of English Studies, 12(1), 37-54. http://www.um.es/ijes
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Interview data on conference-call preparation from the same 11-participant phenomenological study. Participants reported reviewing documents and practicing key phrases before calls, and clarifying during calls when accents were hard to follow. No effect size is reported.
 

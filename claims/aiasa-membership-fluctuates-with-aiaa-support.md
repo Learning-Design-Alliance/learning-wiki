@@ -15,12 +15,14 @@ sources:
     author: Stamm, Colleen P. (Ed.)
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # AIASA student club membership fluctuated in step with the presence of an AIAA-supported student club coordinator
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` AIASA membership rose and fell across 1966-1972 in patterns the AIASA president attributes to the presence or absence of an AIAA-hired student club coordinator. [→ Stamm 1973](#stamm-1973)
@@ -31,7 +33,7 @@ sources:
 
 Stamm, Colleen P. (Ed.). (1973). Industrial Arts and the Challenge of an Urban Society. American Industrial Arts Association. https://eric.ed.gov/?id=ED083382
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive membership history reported in the AIASA president's conference address, citing yearly figures (1,715 in 1967; 5,219 in 1969; 3,151 in 1970 after the coordinator's dismissal) and noting that "membership grew in just seven months to 4,675" under a new coordinator. No statistical test is reported.
 

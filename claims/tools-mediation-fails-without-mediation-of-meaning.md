@@ -15,12 +15,14 @@ sources:
     author: Presseisen, Barbara Z.; Kozulin, Alex
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Verbal and pictorial tools-mediators fail to evoke contradiction discovery without mediation of meaning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In the Vygotskian tool paradigm, multiple-choice and pictorial mediators were ineffective: even highly relevant activity had no effect on subjects when there was no mediation of meaning. [→ Presseisen 1992](#presseisen-1992)
@@ -31,7 +33,7 @@ sources:
 
 Presseisen, Barbara Z.; Kozulin, Alex. (1992). Mediated Learning--The Contributions of Vygotsky and Feuerstein in Theory and Practice. https://eric.ed.gov/?id=ED347202
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 In the initial application study, American students and young professionals read prose containing statements contradicting simple laws of physics; after verbal multiple-choice and pictorial tools were given, the authors report "Only 122 of the subjects reportedcontradictory statements after these types of mediation were applied."
 

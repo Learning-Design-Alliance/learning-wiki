@@ -15,12 +15,14 @@ sources:
     author: "Nero, C. A., & Zulkiply, N."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Final-test reading comprehension after retrieval practice does not differ significantly between an immediate test and a test delayed by three weeks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Students randomly assigned to a short-retention (immediate) or long-retention (three-week delay) final test showed no statistically significant difference in reading comprehension (F(1, 98) = 1.30, p = .257). [→ Nero 2021](#nero-2021)
@@ -31,7 +33,7 @@ sources:
 
 Nero, C. A., & Zulkiply, N. (2021). The Effects of Retrieval Practice Across Levels of Thinking and Retention Interval on Reading Comprehension. Asian Journal of University Education (AJUE), 17(4). https://doi.org/10.24191/ajue.v17i4.16222
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Between-subjects factor of the classroom experiment: 100 undergraduates randomly assigned, 50 per group, to an immediate or three-week-delayed final test. The article reports "no significant difference in students’ reading comprehension observed between the different types of retention interval", F(1, 98) = 1.30, p = .257.
 

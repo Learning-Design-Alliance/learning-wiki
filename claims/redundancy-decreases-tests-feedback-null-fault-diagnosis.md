@@ -15,18 +15,22 @@ sources:
     author: Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J.
     q: 1
     i: "?"
+    kind: causal
+    rigour: 1
   - id: rouse-1980-2
     resource: "https://eric.ed.gov/?id=ED192743"
     title: "Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=ED192743"
     author: Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J.
     q: 1
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Increased redundancy significantly decreases tests and time to solution, while feedback level shows no significant effect due to divergent subject strategies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Increased redundancy (more OR components) significantly decreased the average number of tests and average time until correct solution. [→ Rouse 1980](#rouse-1980)
@@ -38,7 +42,7 @@ sources:
 
 Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=ED192743
 
-`q1 · i?`
+`q1 · i?` · `causal · r1`
 
 Experiment Four on Task Two with only four highly trained subjects, a within-subjects factorial design with two levels of feedback and two levels of OR-to-AND ratio, run order determined by a latin square. The article reports the significant redundancy effect; no effect size is printed.
 
@@ -48,7 +52,7 @@ Experiment Four on Task Two with only four highly trained subjects, a within-sub
 
 Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=ED192743
 
-`q1 · i?`
+`q1 · i?` · `causal · r1`
 
 Same Experiment Four with four highly trained subjects. The article attributes the null feedback effect to two subjects developing a strategy that carefully considered feedback while the other two discounted feedback effects, making the average insensitive to feedback level; equivalence was not tested.
 

@@ -15,18 +15,22 @@ sources:
     author: Brett Van de Sande
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
   - id: brett-van-de-sande-2013-2
     resource: "https://jedm.educationaldatamining.org"
     title: "Brett Van de Sande. (2013). Properties of the Bayesian Knowledge Tracing Model. Journal of Educational Data Mining, Volume 5, No 2. https://jedm.educationaldatamining.org"
     author: Brett Van de Sande
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Fixed point analysis of the Knowledge Tracing Algorithm yields parameter constraints P(G)+P(S)<1 and 0<P(T)<(1−P(S))/(1−P(G)) for sensible behavior
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` For P(Lj|Oj) to remain in [0,1] and converge properly, the parameters must satisfy P(G)+P(S)<1 and 0<P(T)<(1−P(S))/(1−P(G)); the P(T) constraint completely supersedes the other. [→ Brett Van de Sande 2013](#brett-van-de-sande-2013)
@@ -38,7 +42,7 @@ sources:
 
 Brett Van de Sande. (2013). Properties of the Bayesian Knowledge Tracing Model. Journal of Educational Data Mining, Volume 5, No 2. https://jedm.educationaldatamining.org
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Analytical fixed point analysis (Section 4) of the recursion relations Eqns. (11) and (12), illustrated in Fig. 3: stable fixed points at 1 and at (1−P(G))P(T)/(1−P(G)−P(S)) yield the constraints (15) and (16); Fig. 4 plots the allowed region.
 
@@ -48,7 +52,7 @@ Analytical fixed point analysis (Section 4) of the recursion relations Eqns. (11
 
 Brett Van de Sande. (2013). Properties of the Bayesian Knowledge Tracing Model. Journal of Educational Data Mining, Volume 5, No 2. https://jedm.educationaldatamining.org
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Analytical result (Section 4): under negative-learning parameters the recursion behavior inverts, so correct responses lower the knowledge estimate and incorrect responses raise it — the 'empirically degenerate' behavior Baker, Corbett, and Aleven defined.
 

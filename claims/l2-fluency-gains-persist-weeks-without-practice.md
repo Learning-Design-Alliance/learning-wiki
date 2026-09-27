@@ -16,12 +16,14 @@ sources:
     q: 2
     i: 3
     n: 18
+    kind: causal
+    rigour: 1
 ---
 
 # Gains from an intensive period of second-language study persist for weeks without rehearsal.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large · n=18
+> **Evidence** · 1 study · causal `r1` · `q2` · `i3` large · n=18
 
 A pilot study, and three weeks is not months — but the gain held almost exactly, which is a
 different result from decaying slowly.
@@ -40,7 +42,7 @@ different result from decaying slowly.
 
 Zingaretti, M., Spelorzi, R., Sohanpaul, T. K., & Sorace, A. (2026). The Linguistic and Cognitive Effects of a One-Week Online Italian Language Course: A Pilot Study. *Journal of the European Second Language Association, 10*(1), 32–47. [doi:10.22599/jesla.152](https://doi.org/10.22599/jesla.152)
 
-`q2 · single-group pre/post/follow-up pilot study, no control group` · `i3 · +17.17 words, p < .001, retained at three weeks` · `n=18`
+`q2 · single-group pre/post/follow-up pilot study, no control group` · `i3 · +17.17 words, p < .001, retained at three weeks` · `n=18` · `causal · r1`
 
 18 UK undergraduates (L1 English, Italian their only L2, mean age 19.3) took a one-week intensive online Italian course of roughly 21 hours. Verbal fluency and selective attention were measured before, immediately after, and three weeks later. Both gains persisted; L1 fluency did not move. The authors describe the study as a pilot, and there is no control group, so the design supports "the gain persisted" more strongly than it supports "the course caused it".
 

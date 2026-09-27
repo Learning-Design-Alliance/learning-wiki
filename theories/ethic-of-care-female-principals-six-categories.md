@@ -16,7 +16,7 @@ sources:
 # Six-category categorization of the ethic of care in female principals' leadership
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Through constant comparative analysis of interview, observation, and document data, the study conceptualized the ethic of care and female principals as six categories shown in Figure 1: teaching and learning, making a difference, creating child-centered schools, developing and empowering others, listening then deciding, and doing what's right. The categories were constructed during within-case and cross-case analysis, with "Category names were derived from common themes that emerged as data were coded." This taxonomy organizes how care manifests in principals' decisions and practices.

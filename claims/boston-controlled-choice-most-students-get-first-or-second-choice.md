@@ -15,12 +15,14 @@ sources:
     author: Willie, Charles V.; Alves, Michael J.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Under Boston's Controlled Choice plan, 90 percent of students received a first- or second-choice school and fewer than 10 percent were mandatorily assigned
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Boston, 90 percent of students assigned under Controlled Choice got a first-choice or second-choice school, and less than 10 percent were mandatorily assigned to an unchosen school. [→ Willie 1996](#willie-1996)
@@ -31,7 +33,7 @@ sources:
 
 Willie, Charles V.; Alves, Michael J. (1996). Controlled Choice: A New Approach to School Desegregated Education and School Improvement. Education Alliance Press. https://eric.ed.gov/?id=ED430265
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 The authors report, as plan designers, descriptive outcome figures from Boston's Controlled Choice plan: "90 percent of the students in Boston" received a first- or second-choice school. No test statistics or sample sizes are printed; the figures are the authors' own descriptive report.
 

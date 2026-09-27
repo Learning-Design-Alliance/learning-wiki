@@ -14,12 +14,14 @@ sources:
     author: "Son, E. H., & Penry, T."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # PjBL does not necessarily have to exhibit any particular combination of matrix attributes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The diversity of course attributes across five studied PjBL courses led the authors to conclude that PjBL does not require any particular attributes or combination of attributes from the course design matrix. [→ Son 2022](#son-2022)
@@ -30,7 +32,7 @@ sources:
 
 Son, E. H., & Penry, T. (2022). Variations in Project-Based Course Design. Journal of Problem Based Learning in Higher Education, Vol. 10, No. 1.
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Authors' interpretation (type e) drawn from their qualitative study of five PjBL courses in a VIP program. The finding is an interpretive conclusion from the grounded theory analysis, not a tested comparison; no effect size is reported.
 

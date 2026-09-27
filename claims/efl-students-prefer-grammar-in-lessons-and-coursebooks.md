@@ -15,12 +15,14 @@ sources:
     author: Daloglu, A.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # EFL students across all years of study prefer having grammar included as part of their lessons and course books
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All students, including juniors and seniors whose courses lack an explicit grammar component, preferred grammar as part of lessons and course books. [→ Daloglu 2020](#daloglu-2020)
@@ -31,7 +33,7 @@ sources:
 
 Daloglu, A. (2020). EFL Students' Beliefs about How They Learn Grammar Best. English Language Teaching, 13(10). https://doi.org/10.5539/elt.v13n10p158
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive survey results from 927 students at an English-medium university in Ankara, analyzed with descriptive statistics. The article reports that "all students showed a preference for having grammar as a part of their lessons and course books."
 

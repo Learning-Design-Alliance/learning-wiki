@@ -16,6 +16,8 @@ sources:
     q: 2
     i: "?"
     n: 211
+    kind: qualitative
+    rigour: "?"
   - id: dorazzi-hajek-2022
     resource: "https://doi.org/10.5406/23256672.99.3.04"
     title: "D'Orazzi, G., & Hajek, J. (2022). A Multidimensional Understanding of Italian L2 Learner Motivation among University Students in a Predominantly English-Speaking Environment. *Italica, 99*(3), 350–375. [doi:10.5406/23256672.99.3.04](https://doi.org/10.5406/23256672.99.3.04)"
@@ -23,12 +25,14 @@ sources:
     q: 2
     i: "?"
     n: not reported here
+    kind: associational
+    rigour: "?"
 ---
 
 # Learners of Italian report ideal-self motivation rather than instrumental motivation, while their teachers assume the reverse.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 2 studies · 1 associational `r?`, 1 qualitative `r?` · `q2`
 
 Stated for Italian specifically. For many second languages — English above all — instrumental
 motivation dominates, so design advice transferred from those contexts points the wrong way here.
@@ -47,7 +51,7 @@ motivation dominates, so design advice transferred from those contexts points th
 
 Ferronato, M. (2026). Motivation, L2 Selves, and Experience of University Students of Italian in the United States. *Journal for the Psychology of Language Learning, 8*(2), 1–31. [doi:10.52598/jpll/8/2/1](https://doi.org/10.52598/jpll/8/2/1)
 
-`q2 · cross-sectional self-report survey analysed against an established motivational framework` · `i? · a composition of motives, not an effect size` · `n=211`
+`q2 · cross-sectional self-report survey analysed against an established motivational framework` · `i? · a composition of motives, not an effect size` · `n=211` · `qualitative · r?`
 
 211 university learners of Italian in the United States were surveyed and their responses analysed through the L2 Motivational Self System. The ideal L2 self dominated. A *multilingual* self appeared alongside it, which the standard two-part ideal/ought-to framing does not have a slot for.
 
@@ -55,7 +59,7 @@ Ferronato, M. (2026). Motivation, L2 Selves, and Experience of University Studen
 
 D'Orazzi, G., & Hajek, J. (2022). A Multidimensional Understanding of Italian L2 Learner Motivation among University Students in a Predominantly English-Speaking Environment. *Italica, 99*(3), 350–375. [doi:10.5406/23256672.99.3.04](https://doi.org/10.5406/23256672.99.3.04)
 
-`q2 · qualitative and survey study across four university language programmes` · `i? · a reported asymmetry between two groups, not a measured effect` · `n=not reported here`
+`q2 · qualitative and survey study across four university language programmes` · `i? · a reported asymmetry between two groups, not a measured effect` · `n=not reported here` · `associational · r?`
 
 Australian university learners and their teachers were asked about motivation for studying Italian. Learners rarely raised usefulness; teachers raised it often, citing industries where Italian is in demand. The study models motivation at three levels and finds it shifts over time rather than being set at enrolment.
 

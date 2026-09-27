@@ -15,12 +15,14 @@ sources:
     author: Felini, D.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # A scholar identifies children's acquisition of appropriate critical thinking skills as the determining element of MLE quality in elementary schools
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Roberto Farné argued the quality of elementary MLE lies in the experience's ability to bring children appropriate critical thinking skills, with teachers responsible for choosing media of value. [→ Felini 2014](#felini-2014)
@@ -31,7 +33,7 @@ sources:
 
 Felini, D. (2014). Quality Media Literacy Education: A Tool for Teachers and Teacher Educators of Italian Elementary Schools. Journal of Media Literacy Education, 6(1), 28-43. https://www.jmle.org
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r2`
 
 Interview with Professor Roberto Farné (November 2011), one of the three consulted scholars. He defined quality as attaining "appropriate critical thinking skills in children" (comparisons, observations, linguistic operations, evaluations), insisted schools treat media as texts with the dignity of a poem, and stressed teachers must choose things of value.
 

@@ -15,12 +15,14 @@ sources:
     author: "Warren-Gordon, K., Hudson, K., & Scott, F."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # Direct one-on-one interaction with community partners is reported to help students see community members as people rather than stereotypes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r1` · `q1`
 
 ## Subclaims
 `q1 i?` A community partner reports that direct student access to him lets students get to know him and community members as people rather than stereotypes. [→ Warren-Gordon 2019](#warren-gordon-2019)
@@ -31,7 +33,7 @@ sources:
 
 Warren-Gordon, K., Hudson, K., & Scott, F. (2019). Voices of Partnerships Within the Critical Service-Learning Framework. Journal of Community Engagement and Higher Education, 12(2). https://portal.issn.org/resource/ISSN/1934-5283
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r1`
 
 Autoethnographic narrative from the community partner describing direct email and phone access to students without the instructor as intermediary. Students "get to know me and my community members as people, not just stereotypes." Self-reported perception; no measured attitude change.
 

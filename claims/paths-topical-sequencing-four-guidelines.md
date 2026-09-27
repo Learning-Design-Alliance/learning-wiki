@@ -15,12 +15,14 @@ sources:
     author: Wu, Yann-Shya
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # PATHS topical sequencing follows a general-to-detailed continuum, the Simplifying Conditions Method, and synonymous and antonymous relationships
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Topical sequencing in PATHS operates through a general-to-detailed continuum, the Simplifying Conditions Method, synonymous sequencing, and antonymous sequencing. [→ Wu 2000](#wu-2000)
@@ -31,7 +33,7 @@ sources:
 
 Wu, Yann-Shya. (2000). Guidelines for Instructional Sequencing in Emotional Literacy Learning Using PATHS Curriculum as an Example. https://eric.ed.gov/?id=ED455810
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The author's lesson-ordering analysis of the Feelings and Relationships Unit identifies four topical guidelines; for example, lessons 14-15 teach fear with increasing intensity and are "sequenced according to the Simplifying Conditions Method." Synonymous feelings such as mad and angry are taught together, and antonymous feelings such as happy and sad within one lesson.
 

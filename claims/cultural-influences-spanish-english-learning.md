@@ -15,18 +15,22 @@ sources:
     author: Jeffrey Wallace Judge
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: jeffrey-wallace-judge-2012-2
     resource: "http://www.um.es/ijes"
     title: "Jeffrey Wallace Judge. (2012). Use of Language Learning Strategies by Spanish Adults for Business English. International Journal of English Studies, 12(1), 37-54. http://www.um.es/ijes"
     author: Jeffrey Wallace Judge
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Spanish participants attribute weak English development in Spain to lack of original-version media, the past dictatorship, and inadequacies of the Spanish educational system
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Six participants cited lack of original-version television and films, five cited the past dictatorship, and five cited inadequate teaching in the Spanish educational system. [→ Jeffrey Wallace Judge 2012](#jeffrey-wallace-judge-2012)
@@ -38,7 +42,7 @@ sources:
 
 Jeffrey Wallace Judge. (2012). Use of Language Learning Strategies by Spanish Adults for Business English. International Journal of English Studies, 12(1), 37-54. http://www.um.es/ijes
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Cultural-influences theme from the 11-participant interview study. The article prints the counts: "Six of the participants" cited original-version media, "Five of the participants" cited the dictatorship, and five cited inadequate teaching. No effect size is reported.
 
@@ -48,7 +52,7 @@ Cultural-influences theme from the 11-participant interview study. The article p
 
 Jeffrey Wallace Judge. (2012). Use of Language Learning Strategies by Spanish Adults for Business English. International Journal of English Studies, 12(1), 37-54. http://www.um.es/ijes
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Participants' accounts of the Spanish secondary school English classroom in the same interview study. The article lists the printed problems, and adds that the main classroom language "was not English, but rather Spanish." No effect size is reported.
 

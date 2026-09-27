@@ -15,12 +15,14 @@ sources:
     author: "Murray, G. L., & Bollinger, D. J."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # A constructivist, process-oriented syllabus was suggested to be more effective than a knowledge-based approach for cross-cultural learning (Wright, 2000, as reported)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A comparative study cited by the authors found that a syllabus emphasizing constructivist process-learning and intersubjectivity outperformed a knowledge-based culture-as-information curriculum. [→ Murray 2001](#murray-2001)
@@ -31,7 +33,7 @@ sources:
 
 Murray, G. L., & Bollinger, D. J. (2001). Developing Cross-Cultural Awareness: Learning Through the Experiences of Others. TESL Canada Journal, 19(1). https://teslcanadajournal.ca
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 This is background literature reported second-hand: the review attributes the finding to Wright (2000), who compared a knowledge-based curriculum (control) with a constructivist treatment syllabus within the same course. The study's design is not described here in detail.
 

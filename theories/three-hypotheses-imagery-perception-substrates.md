@@ -16,7 +16,7 @@ sources:
 # Three-hypothesis framework for the neural relationship between visual imagery and visual perception
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article organises the imagery-perception debate around three hypotheses attributed to Roland and Gulyás: anatomical separation of imagery and perception areas, imagery areas as a subset of perception areas, or identical areas for both. The review states "There are three main hypothesis regarding this subject" and then surveys neuroimaging, ERP, lesion and blind-subject evidence bearing on each. It uses this framework to structure the shared-mechanisms and separate-mechanisms sections and to motivate studying blind subjects as a test case.

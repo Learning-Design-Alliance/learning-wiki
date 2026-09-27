@@ -15,12 +15,14 @@ sources:
     q: 2
     i: 2
     n: "84 students (48% of 175 enrolled across 4 course iterations), 12 teams of 11-15 students each; video subsample of 2 teams (11h22m across 9 meetings)"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Organization-simulation knowledge practices support interdisciplinary learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium · n=84 students (48% of 175 enrolled across 4 course iterations), 12 teams of 11-15 students each; video subsample of 2 teams (11h22m across 9 meetings)
+> **Evidence** · 1 study · qualitative `r3` · `q2` · `i2` medium · n=84 students (48% of 175 enrolled across 4 course iterations), 12 teams of 11-15 students each; video subsample of 2 teams (11h22m across 9 meetings)
 
 Interdisciplinary student teams in a multi-week organization simulation engaged in six identifiable collective knowledge practices while jointly building a shared knowledge object (a client offer); material tools (whiteboards, flip charts) visibly mediated shifts from unfocused discussion to structured, integrated problem-solving, while unclear leadership and time pressure were the most commonly reported barriers to productive collaboration.
 
@@ -37,7 +39,7 @@ Interdisciplinary student teams in a multi-week organization simulation engaged 
 
 Muukkonen, H., & Kajamaa, A. (2024). Knowledge objects and knowledge practices in interdisciplinary learning: Example of an organization simulation in higher education. *Journal of the Learning Sciences, 33*(2), 365-404. [https://doi.org/10.1080/10508406.2024.2344794](https://doi.org/10.1080/10508406.2024.2344794)
 
-`q2 · qualitative case study combining systematic inductive coding of reflective diaries (1,083 coded units, inter-rater reliability established) with detailed video interaction analysis of two teams; no comparison group or quantified outcome measure` · `i2 · substantial coded evidence base and detailed mechanism-illustrating episodes, but no quantified learning-gain measure` · `n=84 students (48% of 175 enrolled across 4 course iterations), 12 teams of 11-15 students each; video subsample of 2 teams (11h22m across 9 meetings)`
+`q2 · qualitative case study combining systematic inductive coding of reflective diaries (1,083 coded units, inter-rater reliability established) with detailed video interaction analysis of two teams; no comparison group or quantified outcome measure` · `i2 · substantial coded evidence base and detailed mechanism-illustrating episodes, but no quantified learning-gain measure` · `n=84 students (48% of 175 enrolled across 4 course iterations), 12 teams of 11-15 students each; video subsample of 2 teams (11h22m across 9 meetings)` · `qualitative · r3`
 
 In a six-week [organization-simulation course](../patterns/organization-simulation-for-interdisciplinary-learning.md), interdisciplinary teams (educational psychology, engineering, economics, humanities, education students mixed together) built a competing offer for a simulated HR-consulting client. Inductive coding of weekly reflective diaries identified six knowledge practices used throughout, with an early-course emphasis on establishing shared problem understanding and expertise roles, and a later-course emphasis on concretizing solutions and reflecting on the process. Video-recorded team meetings showed how a team member's suggestion to base the offer on research evidence was initially sidelined in unfocused talk, then taken up once a teammate wrote a process outline on a flip chart — externalizing the group's shared object made the earlier proposal visible and actionable. Diary entries also frequently cited unclear leadership and time pressure as sources of early friction, sometimes tied to unrecognized cross-disciplinary differences in vocabulary (e.g., "leadership" meaning task-management to a technical student vs. people-management to an educational-sciences student).
 

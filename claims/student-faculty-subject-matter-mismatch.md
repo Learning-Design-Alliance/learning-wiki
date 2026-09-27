@@ -15,12 +15,14 @@ sources:
     author: Bue, T. W.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Student subject matter orientation differs significantly from faculty perceptions of departmental characteristics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Students are consistently softer, more applied, more life, and more creatively oriented than faculty describe programs in their departments to be, with significant t-test differences especially in natural science departments. [→ Bue 1979](#bue-1979)
@@ -31,7 +33,7 @@ sources:
 
 Bue, T. W. (1979). Teaching and Learning Styles in Higher Education: Match or Mismatch? https://eric.ed.gov/?id=ED172635
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `associational · r1`
 
 Comparison of faculty department ratings with student subject matter orientation scores (Tables 15-16) shows significant t-test differences, with most significant differences for departments in Division III (natural sciences). Student scores follow faculty patterns but with smaller range and less discrimination.
 

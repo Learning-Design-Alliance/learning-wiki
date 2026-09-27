@@ -16,7 +16,7 @@ sources:
 # Mead's theory of the social origin of reflective consciousness
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article reconstructs Mead's central claim that reflective consciousness — both self-consciousness and conceptual thought — is not an original endowment but emerges within social interaction. Mead grounds this in a behavioral conception of meaning, in which the meaning of an object "is derived entirely from our reaction upon it, or, in other words, our use of it". Because cooperation requires readjusting conduct as others respond, our own attitudes become objects of attention: "our social interaction, precedes and produces our (reflective) self-consciousness". The article presents this as the intersubjective foundation from which Mead's educational theory follows.

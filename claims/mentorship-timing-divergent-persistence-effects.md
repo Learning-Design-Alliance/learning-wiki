@@ -15,12 +15,14 @@ sources:
     author: Huang, Wenrui, Dajanae Palmer, Ekaete Udoh, Yung Chun, and Jason Jabbari
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Mentorship timing has divergent effects on LC101 persistence: post-application mentorship increases course completion odds while pre-application mentorship decreases persistence across both phases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Pre-application mentorship (OR=0.424**) was consistently associated with decreased odds of persistence across both phases. [→ Huang 2025](#huang-2025)
@@ -31,7 +33,7 @@ sources:
 
 Huang, Wenrui, Dajanae Palmer, Ekaete Udoh, Yung Chun, and Jason Jabbari. (2025). Pinpointing Persistence in Alternative STEM Pipelines: Evidence from a Novel Coding and Apprenticeship Program. EdWorkingPaper No. 25-1122. https://edworkingpapers.com/ai25-1122
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Same regression model. The article reports pre-application mentorship (OR=0.424**) was "consistently associated with decreased odds of persistence across both phases," possibly because mentees find employment outside the program.
 

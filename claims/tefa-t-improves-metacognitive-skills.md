@@ -15,18 +15,22 @@ sources:
     author: "Maksum, H., Yuvenda, D. & Purwanto, W."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: maksum-2022-2
     resource: "https://doi.org/10.36681/tused.2022.161"
     title: "Maksum, H., Yuvenda, D. & Purwanto, W. (2022). Improvement of metacognitive and critical thinking skills through development of the a 'Teaching Factory Based on Troubleshooting' (TEFA-T) Model in automotive vocational learning. Journal of Turkish Science Education, 19(3), 1015-1036. https://doi.org/10.36681/tused.2022.161"
     author: "Maksum, H., Yuvenda, D. & Purwanto, W."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The TEFA-T model significantly improves students' metacognitive skills compared with conventional instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Independent t-test showed a statistically significant difference in metacognitive skills between the TEFA-T experimental class and the conventional control class (significance value less than 0.05). [→ Maksum 2022](#maksum-2022)
@@ -38,7 +42,7 @@ sources:
 
 Maksum, H., Yuvenda, D. & Purwanto, W. (2022). Improvement of metacognitive and critical thinking skills through development of the a 'Teaching Factory Based on Troubleshooting' (TEFA-T) Model in automotive vocational learning. Journal of Turkish Science Education, 19(3), 1015-1036. https://doi.org/10.36681/tused.2022.161
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Quasi-experimental comparison of 32 experimental and 32 control students after 8 learning meetings; the article reports only the significance value, with no effect size, and concludes the effect on metacognition is "quite large when compared to the conventional model".
 
@@ -48,7 +52,7 @@ Quasi-experimental comparison of 32 experimental and 32 control students after 8
 
 Maksum, H., Yuvenda, D. & Purwanto, W. (2022). Improvement of metacognitive and critical thinking skills through development of the a 'Teaching Factory Based on Troubleshooting' (TEFA-T) Model in automotive vocational learning. Journal of Turkish Science Education, 19(3), 1015-1036. https://doi.org/10.36681/tused.2022.161
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Per-indicator comparison plotted in Figure 4 (evaluation, monitoring, planning, metacognitive beliefs, metacognitive knowledge) favouring the TEFA-T class; the conclusion reports percentage gains of 29.58% to 31.88% across indicators, which are descriptive gains, not effect sizes.
 

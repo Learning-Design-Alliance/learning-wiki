@@ -15,7 +15,7 @@ sources:
 # Many-Facet Rasch Model (MFRM)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q3` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 MFRM, developed by Linacre in 1989 as an extension of the partial credit model, is an IRT model in which "all so urces of variability , such as raters, items and persons, which have the potential to influence measurement results , are considered simultaneously". It places all facets on a common logit metric, detects rater errors such as halo effects and central tendency, provides separate standard errors per facet element, and estimates abilities and item parameters independently when model-data fit is attained.

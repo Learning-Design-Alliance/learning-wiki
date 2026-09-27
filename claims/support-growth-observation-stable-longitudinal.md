@@ -15,18 +15,22 @@ sources:
     author: Zhang Beibei et al
     q: 2
     i: 2
+    kind: design
+    rigour: 2
   - id: zhang-beibei-et-al-2026-2
     resource: "https://doi.org/10.1371/journal.pone.0358951"
     title: "Zhang Beibei et al. (2026). A sequential integrating virtual simulation and authentic video for preschool teacher candidates' observational skills training: A design-based intervention study. PLoS One. https://doi.org/10.1371/journal.pone.0358951"
     author: Zhang Beibei et al
     q: 2
     i: 0
+    kind: design
+    rigour: 2
 ---
 
 # Supportive competence grew continuously through Workshop 4 while basic observation ability remained stable across sequential AV workshops
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0`–`i2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i0`–`i2`
 
 ## Subclaims
 `q2 i2` Support dimension scores increased significantly from Workshop 2 to Workshop 4. [→ Zhang Beibei et al 2026](#zhang-beibei-et-al-2026)
@@ -38,7 +42,7 @@ sources:
 
 Zhang Beibei et al. (2026). A sequential integrating virtual simulation and authentic video for preschool teacher candidates' observational skills training: A design-based intervention study. PLoS One. https://doi.org/10.1371/journal.pone.0358951
 
-`q2 · i2`
+`q2 · i2` · `design · r2`
 
 Longitudinal paired comparison of 8 groups' support scores across AV workshops; Wilcoxon check consistent (z = −2.226, p = 0.026). The authors read this as a shift toward an educational-practice mindset of how to support children.
 
@@ -48,7 +52,7 @@ Longitudinal paired comparison of 8 groups' support scores across AV workshops; 
 
 Zhang Beibei et al. (2026). A sequential integrating virtual simulation and authentic video for preschool teacher candidates' observational skills training: A design-based intervention study. PLoS One. https://doi.org/10.1371/journal.pone.0358951
 
-`q2 · i0`
+`q2 · i0` · `design · r2`
 
 Longitudinal paired comparison of observation dimension scores between Workshops 2 and 4 (themes were similar); Wilcoxon check also non-significant (z = −0.425, p = 0.671). The authors attribute stability to early consolidation of these skills.
 

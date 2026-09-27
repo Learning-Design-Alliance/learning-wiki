@@ -13,7 +13,7 @@ grain_size: lesson
 # Worked Examples
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies, `q3` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 causal), `q3` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 Worked examples is the short-form canonical pattern for studying solved models before independent problem solving.

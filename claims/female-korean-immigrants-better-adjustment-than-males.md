@@ -15,12 +15,14 @@ sources:
     author: Kim, Saekyung; Gaa, John; Swank, Paul; Liberman, Dov
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Female Korean immigrants showed better psychosocial adjustment than males on diffusion, isolation, and intimacy resolution
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Gender was a significant predictor on the diffusion, isolation, and intimacy resolution sub-scales, with females scoring lower on negative scales and higher on intimacy resolution. [→ Kim 1998](#kim-1998)
@@ -31,7 +33,7 @@ sources:
 
 Kim, Saekyung; Gaa, John; Swank, Paul; Liberman, Dov. (1998). Identity Transformation of Korean Immigrants. https://eric.ed.gov/?id=ED420007
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 General linear model analysis (Table 7) of the 79-subject sample found gender significant for diffusion, isolation, and intimacy resolution; the article reports females "scored lower on the three negative sub-scale than males did, and significantly so on diffusion and isolation." No effect size is printed.
 

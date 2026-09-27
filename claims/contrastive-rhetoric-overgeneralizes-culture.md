@@ -15,12 +15,14 @@ sources:
     author: Chmarkh, M.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Contrastive rhetoric overgeneralizes shared culture and ignores individual differences among L2 writers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Contrastive rhetoric's assumption that speakers of the same language share one culture and thought pattern is simplistic, and it neglects individual differences within the same linguistic and cultural community. [→ Chmarkh 2025](#chmarkh-2025)
@@ -31,7 +33,7 @@ sources:
 
 Chmarkh, M. (2025). Evaluating the Contrastive Rhetoric Model, the Cognitive Model, and the Sociocultural Model to L2 Writing. https://eric.ed.gov/?id=ED671744
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the article's evaluation of the Contrastive Rhetoric Model, illustrated with the author's Moroccan example that 60% of the population speaks Moroccan Arabic as an L1 while 40% speaks Berber, so "we do not share the same L1 nor do we have the same culture".
 

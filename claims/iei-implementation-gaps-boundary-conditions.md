@@ -15,18 +15,22 @@ sources:
     author: Liang, Li, Hsu and Xu
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: liang-2026-2
     resource: "https://doi.org/10.3389/fpsyg.2026.1800950"
     title: "Liang, Li, Hsu and Xu. (2026). AIGC affordance and student self-regulation in private undergraduate education: a serial mediation model of self-efficacy and learning motivation. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1800950"
     author: Liang, Li, Hsu and Xu
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Interviews identify IEI implementation gaps — curriculum-industry misalignment, limited project diversity, and weak enterprise engagement — as boundary conditions on the psychological pathways
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Qualitative interviews with instructors and enterprise mentors uncovered persistent IEI implementation gaps that contextualize the quantitative model. [→ Liang 2026](#liang-2026)
@@ -38,7 +42,7 @@ sources:
 
 Liang, Li, Hsu and Xu. (2026). AIGC affordance and student self-regulation in private undergraduate education: a serial mediation model of self-efficacy and learning motivation. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1800950
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Thematic analysis of semi-structured interviews with 8 instructors and purposively selected enterprise mentors (manufacturing, IT, education), each about 30 minutes, conducted to explain background of non-significant paths. The article reports "persistent gaps in IEI implementation" as themes.
 
@@ -48,7 +52,7 @@ Thematic analysis of semi-structured interviews with 8 instructors and purposive
 
 Liang, Li, Hsu and Xu. (2026). AIGC affordance and student self-regulation in private undergraduate education: a serial mediation model of self-efficacy and learning motivation. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1800950
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Authors' interpretation (type e) from the Discussion, attributing the null H2b and H5 paths to missing autonomy-supportive mentorship; the article states this as an argument, not a tested result.
 

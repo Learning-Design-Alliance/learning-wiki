@@ -16,6 +16,8 @@ sources:
     q: 3
     i: "?"
     n: 20 experiments
+    kind: quant-synthesis
+    rigour: "?"
   - id: uchihara-et-al-2019
     resource: "https://doi.org/10.1111/lang.12343"
     title: "Uchihara, T., Webb, S., & Yanagisawa, A. (2019). The effects of repetition on incidental vocabulary learning: A meta-analysis of correlational studies. *Language Learning, 69*(3), 559–599. [doi:10.1111/lang.12343](https://doi.org/10.1111/lang.12343)"
@@ -23,12 +25,14 @@ sources:
     q: 4
     i: 2
     n: 26 studies (45 effect sizes, N=1,918)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Incidental Vocabulary Exposure Limited
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3`–`q4` · `i2` medium
+> **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3`–`q4` · `i2` medium
 
 Learners acquire very few word meanings from a single incidental exposure during reading or listening; substantial word learning from context requires multiple encounters over time.
 
@@ -44,7 +48,7 @@ Learners acquire very few word meanings from a single incidental exposure during
 
 Swanborn, M. S. L., & de Glopper, K. (1999). Incidental word learning while reading: A meta-analysis. *Review of Educational Research, 69*(3), 261–285. [doi:10.3102/00346543069003261](https://doi.org/10.3102/00346543069003261)
 
-`q3 · meta-analysis` · `i? · no standardised effect size reported; about 15% of unknown words learned` · `n=20 experiments`
+`q3 · meta-analysis` · `i? · no standardised effect size reported; about 15% of unknown words learned` · `n=20 experiments` · `quant-synthesis · r?`
 
 This meta-analysis pooled 20 experiments that measured how many unknown words students picked up incidentally during normal reading. On average students learned about 15% of the unknown words they met. The results were heterogeneous, though only modestly so (19%). An exploratory multilevel analysis linked the probability of learning a word to pretest sensitisation, grade level, reading ability, how sensitive the test was to partial word knowledge, and how much text surrounded the target word. Grade level and test sensitivity together accounted for 66% of the systematic variance. The 15% figure fits the claim that one incidental exposure yields little, but it is a real and non-zero gain, and it is highest for older and more able readers. (Read from the abstract only.)
 
@@ -52,7 +56,7 @@ This meta-analysis pooled 20 experiments that measured how many unknown words st
 
 Uchihara, T., Webb, S., & Yanagisawa, A. (2019). The effects of repetition on incidental vocabulary learning: A meta-analysis of correlational studies. *Language Learning, 69*(3), 559–599. [doi:10.1111/lang.12343](https://doi.org/10.1111/lang.12343)
 
-`q4 · meta-analysis of correlational studies, open data` · `i2 · medium effect, r=.34` · `n=26 studies (45 effect sizes, N=1,918)`
+`q4 · meta-analysis of correlational studies, open data` · `i2 · medium effect, r=.34` · `n=26 studies (45 effect sizes, N=1,918)` · `quant-synthesis · r?`
 
 This meta-analysis synthesised 45 correlations from 26 second-language studies (1,918 learners) between how often a word was encountered and whether it was learned incidentally. The mean relationship was medium (r = .34): more encounters go with more learning, which is consistent with word learning from context building over repeated encounters, though correlations cannot show that the encounters cause the learning. The size of the effect varied with learner variables (age, vocabulary knowledge), treatment variables (spaced encounters, visual support, engagement, the range of encounter counts) and method (nonwords, warning learners about a comprehension test, test format). It speaks to second-language learners, and the design is correlational rather than experimental. (Read from the abstract only.)
 

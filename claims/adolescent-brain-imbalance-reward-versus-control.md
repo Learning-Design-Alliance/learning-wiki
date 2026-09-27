@@ -15,12 +15,14 @@ sources:
     author: "Murray, D. W. & Rosanbalm, K."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # During early and mid-adolescence, brain reward and emotion systems are more developed than cognitive control systems, leaving self-regulation developmentally out of balance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` During early and mid-adolescence (11-15 years), brain systems that seek rewards and process emotions are more developed than cognitive control systems responsible for good decision-making and future planning, meaning self-regulation is developmentally out of balance at this age. [→ Murray 2017](#murray-2017)
@@ -31,7 +33,7 @@ sources:
 
 Murray, D. W. & Rosanbalm, K. (2017). Promoting Self-Regulation in Adolescents and Young Adults: A Practice Brief. OPRE Report #2015-82. https://www.acf.hhs.gov/opre/resource/self-regulation-and-toxic-stress-implications-for-programs-and-practice
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The brief reports this developmental neuroscience finding as background from research, citing it to argue that interventions during adolescence are important and timely. It is reported as a research finding rather than a new analysis in this brief.
 

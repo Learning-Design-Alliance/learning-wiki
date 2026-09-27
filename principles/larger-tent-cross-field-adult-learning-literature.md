@@ -17,7 +17,7 @@ sources:
 # Draw across adult-learning literatures ('larger tent' approach) rather than over-relying on field-specific literature in teacher education
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The authors argue that teacher education research benefits from incorporating instruments and constructs shared across professions and adult-learning fields, a "larger tent" approach they call a hallmark of the adult education movement. They perceive that "the failure to incorporate the rich traditions and literatures across the fields engaged with adult learning has become an obstacle to professional renewal and growth in their field, that of teacher education." Insularity from over-limitation of literary categories is described as intellectually stifling within their own college setting.

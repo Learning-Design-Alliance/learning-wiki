@@ -15,18 +15,22 @@ sources:
     author: Jensen, Scott
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: jensen-1996-2
     resource: "https://eric.ed.gov/?id=ED421730"
     title: "Jensen, Scott. (1996). Point of Information: Practical and Theoretical Concerns in Parliamentary Debate. https://eric.ed.gov/?id=ED421730"
     author: Jensen, Scott
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Parliamentary rules ban published evidence and omit cross examination, which the author argues undermines argumentation training
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Parliamentary debate discourages specific knowledge and bans published material in rounds, which the author argues voids critical components of academic debate training. [→ Jensen 1996](#jensen-1996)
@@ -38,7 +42,7 @@ sources:
 
 Jensen, Scott. (1996). Point of Information: Practical and Theoretical Concerns in Parliamentary Debate. https://eric.ed.gov/?id=ED421730
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 This is the author's analytical critique of the NPDA rules text (type d/e), not an empirical test. He argues banning evidence makes parliamentary debaters' argumentation training "void critical components of academic debate," citing Hollihan and Baaske on the limits of personal knowledge.
 
@@ -48,7 +52,7 @@ This is the author's analytical critique of the NPDA rules text (type d/e), not 
 
 Jensen, Scott. (1996). Point of Information: Practical and Theoretical Concerns in Parliamentary Debate. https://eric.ed.gov/?id=ED421730
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The author's rule analysis identifies the missing cross examination period as a second concern, citing Wilbanks and Church (1991) that cross examination is an important part of any debate; he adds that speakers can refuse questions and time limits prevent strategic questioning.
 

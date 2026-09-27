@@ -15,12 +15,14 @@ sources:
     author: "You Can Be in a Group and Still Not Cooperate: Collaborative Approaches and Cooperative Learning Activities for Adult Learners"
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Adult teachers' questions concentrate at low Bloom's levels, and cooperative learning's dialogue and questioning support critical thinking across Bloom's taxonomy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` About 60 percent of teachers' questions require students to recall facts, about 20 percent require thinking, and the remaining 20 percent are procedural, while the rewritten GED tests reflect higher-level thinking skills. [→ You Can Be in a Group and Still Not Cooperate: Collaborative Approaches and Cooperative Learning Activities for Adult Learners 1993](#you-can-be-in-a-group-and-still-not-cooperate-collaborative-approaches-and-cooperative-learning-activities-for-adult-learners-1993)
@@ -31,7 +33,7 @@ sources:
 
 You Can Be in a Group and Still Not Cooperate: Collaborative Approaches and Cooperative Learning Activities for Adult Learners. (1993). Parma City School District. https://eric.ed.gov/?id=ED361492
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 The handbook's research section reports this secondhand distribution of teacher questions, citing Gall (1984), and notes the GED tests were rewritten in 1988 to include questions reflecting higher-level thinking skills on Bloom's Taxonomy. It then presents a questioning guide keyed to the six Bloom's levels from Knowledge to Evaluation.
 

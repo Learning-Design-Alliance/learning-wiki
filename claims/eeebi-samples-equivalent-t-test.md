@@ -15,12 +15,14 @@ sources:
     author: Sia, Archibald P.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The two convenience samples of preservice teachers showed no significant differences and were assumed equivalent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` A t-test comparing the Spring 1992 (N=21) and Fall 1992 (N=19) samples revealed no significant differences, so they were assumed equivalent. [→ Sia 1992](#sia-1992)
@@ -31,7 +33,7 @@ sources:
 
 Sia, Archibald P. (1992). Preservice Elementary Teachers' Perceived Efficacy in Teaching Environmental Education: A Preliminary Study. https://eric.ed.gov/?id=ED362487
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Subjects section of the preliminary study: data were collected from two samples of convenience of preservice elementary teachers in an elementary science/mathematics methods course (Spring 1992 N=21; Fall 1992 N=19). The author reports "A t-test revealed no significant differences between the two samples"; equivalence was assumed, not tested.
 

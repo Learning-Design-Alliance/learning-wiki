@@ -16,6 +16,8 @@ sources:
     q: 3
     i: "?"
     n: not stated in the abstract read
+    kind: causal
+    rigour: "?"
   - id: rhodes-castel-2008
     resource: "https://doi.org/10.1037/a0013684"
     title: "Rhodes, M. G., & Castel, A. D. (2008). Memory predictions are influenced by perceptual information: Evidence for metacognitive illusions. *Journal of Experimental Psychology: General, 137*(4), 615–625. [doi:10.1037/a0013684](https://doi.org/10.1037/a0013684)"
@@ -23,12 +25,14 @@ sources:
     q: 3
     i: "?"
     n: not stated in the abstract read
+    kind: causal
+    rigour: "?"
 ---
 
 # Fluent Illusions Mislead Self Assessment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 2 studies · 2 causal `r?` · `q3`
 
 The subjective ease of processing information (fluency) is often mistaken by learners for evidence of learning, producing overconfident self-assessments that misdirect further study.
 
@@ -44,7 +48,7 @@ The subjective ease of processing information (fluency) is often mistaken by lea
 
 Carpenter, S. K., Wilford, M. M., Kornell, N., & Mullaney, K. M. (2013). Appearances can be deceiving: Instructor fluency increases perceptions of learning without increasing actual learning. *Psychonomic Bulletin & Review, 20*(6), 1350–1356. [doi:10.3758/s13423-013-0442-z](https://doi.org/10.3758/s13423-013-0442-z)
 
-`q3 · peer-reviewed experiment (two experiments)` · `i? · no effect size in the abstract read` · `n=not stated in the abstract read`
+`q3 · peer-reviewed experiment (two experiments)` · `i? · no effect size in the abstract read` · `n=not stated in the abstract read` · `causal · r?`
 
 Participants watched one of two short videos of an instructor explaining a science concept. In one video the instructor spoke fluently, stood upright and kept eye contact. In the other, the same instructor slumped, looked away and read haltingly from notes. Perceived learning was significantly higher after the fluent lecture (Experiment 1), and the fluent instructor was rated as more prepared and effective in both experiments. However, lecture fluency did not significantly change how much was learned, and when participants were given the script to study (Experiment 2), their study time did not differ significantly either. This supports the miscalibration half of the claim but not the "misdirects further study" half.
 
@@ -52,7 +56,7 @@ Participants watched one of two short videos of an instructor explaining a scien
 
 Rhodes, M. G., & Castel, A. D. (2008). Memory predictions are influenced by perceptual information: Evidence for metacognitive illusions. *Journal of Experimental Psychology: General, 137*(4), 615–625. [doi:10.1037/a0013684](https://doi.org/10.1037/a0013684)
 
-`q3 · peer-reviewed experiments (multi-experiment laboratory series)` · `i? · no effect size in the abstract read` · `n=not stated in the abstract read`
+`q3 · peer-reviewed experiments (multi-experiment laboratory series)` · `i? · no effect size in the abstract read` · `n=not stated in the abstract read` · `causal · r?`
 
 Participants studied words printed in different font sizes for a free-recall test and made a judgment of learning (JOL) for each word. Larger fonts received higher JOLs, but font size had little relationship to recall. The bias was weaker when more valid cues, such as associative strength, were available. It persisted across several study-test sessions, with a forgetting scale, and after participants were explicitly warned that font size has little effect on memory. Making large-font words harder to read eliminated the effect, which the authors attribute to encoding fluency. The materials were word lists in the laboratory, not classroom content.
 

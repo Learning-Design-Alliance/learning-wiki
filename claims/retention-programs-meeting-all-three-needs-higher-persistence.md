@@ -15,12 +15,14 @@ sources:
     author: "Zak-Moskal, A. D., & Garrison, M. J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Retention programs interpreted as meeting all three SDT needs show higher persistence and standing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports that participants in a voluntary probation course interpreted as meeting all three needs had higher GPAs, higher return-to-good-standing rates, and higher enrollment persistence than comparison groups. [→ Zak-Moskal 2020](#zak-moskal-2020)
@@ -31,7 +33,7 @@ sources:
 
 Zak-Moskal, A. D., & Garrison, M. J. (2020). Can Self-determination Theory be Used to Increase College Student Retention?. The New York Journal of Student Affairs, 20(1). https://commons.library.stonybrook.edu/nyjsa/vol20/iss1/4
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review attributing this to Hanger et al. (2011), a semester-long voluntary course for students on academic probation. Course participants "had the highest rate (58%) of returning to good academic standing" versus 29.8% and 27%, and enrollment persistence of 78% versus 43% and 46%. No effect size is printed.
 

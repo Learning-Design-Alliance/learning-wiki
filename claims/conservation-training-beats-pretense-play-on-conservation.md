@@ -15,12 +15,14 @@ sources:
     author: Golomb, Claire; Vogel, David
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Conservation training produced higher conservation scores than pretense play training
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Conservation scores differed significantly between the conservation training and pretense play training groups. [→ Golomb 1983](#golomb-1983)
@@ -31,7 +33,7 @@ sources:
 
 Golomb, Claire; Vogel, David. (1983). The Role of Cognitive Operations in the Development of Gender Constancy. https://eric.ed.gov/?id=ED233823
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Direct pairwise comparison of the two training groups on conservation achievement was "statistically significant (g 0.001)" as printed, with conservation training the more domain-congruent condition.
 

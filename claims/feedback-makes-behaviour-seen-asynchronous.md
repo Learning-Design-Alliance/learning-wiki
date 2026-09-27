@@ -15,12 +15,14 @@ sources:
     author: "Pollard, V. & Armatas, C."
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The authors argue formative feedback is critical for making student behaviour 'seen' in asynchronous online learning where the teacher is not physically present
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Based on the audit, the authors argue that without an output that received feedback, information about what the student did would be limited, and feedback enables learning analytics to show what students have done. [→ Pollard 2025](#pollard-2025)
@@ -31,7 +33,7 @@ sources:
 
 Pollard, V. & Armatas, C. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-254. https://doi.org/10.24059/olj.v29i3.4555
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Authors' interpretive argument from the case-study audit, addressing their third research question. They argue feedback on outputs lets asynchronous student behaviour be "seen" and would enhance learning analytics; no effect size is reported.
 

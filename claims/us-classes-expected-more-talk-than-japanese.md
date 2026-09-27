@@ -15,12 +15,14 @@ sources:
     author: Andrew Leichsenring
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Both learners perceived they were expected to talk more in American university English classes than in Japanese university classes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Both participants stated a similar belief that they were expected to talk more in their American university language classes than in their Japanese university language classes. [→ Andrew Leichsenring 2010](#andrew-leichsenring-2010)
@@ -31,7 +33,7 @@ sources:
 
 Andrew Leichsenring. (2010). The experiences of anxiety of Japanese EFL learners: A case study. https://eric.ed.gov/?id=ED537603
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 In the results for the second research aim comparing domestic (Japan) and international (USA) tertiary settings, both participants reported feeling a freedom to express themselves in American classes with students from different countries. Student B initially felt unsure when to talk but changed once she was clear about the teacher's classroom expectations.
 

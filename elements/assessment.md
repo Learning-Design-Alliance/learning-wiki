@@ -17,7 +17,7 @@ sources:
 # Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 5 studies, `q2`–`q4` · 2 of 5 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 5 studies (2 causal, 2 quant-synthesis, 1 design), `q2`–`q4` · 2 of 5 report an effect size · 3 claims rest on one study
 
 ## Description
 Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.

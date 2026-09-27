@@ -15,12 +15,14 @@ sources:
     author: Cummins, J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Immigrant children acquire peer-appropriate conversational fluency in English within about 2 years but require considerably longer (5-10 years) to catch up academically in English
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Immigrant children often acquire peer-appropriate conversational fluency in English within about 2 years, but academic catch-up requires considerably longer (5-10 years); Cummins presents this as the typical pattern for immigrant children learning a second language, not an order that holds in every or even most situations. [→ Cummins 1999](#cummins-1999)
@@ -31,7 +33,7 @@ sources:
 
 Cummins, J. (1999). BICS and CALP: Clarifying the Distinction. ERIC Document ED 438 551. https://eric.ed.gov/?id=ED438551
 
-`q1 · conceptual paper citing prior research (ERIC: opinion paper)` · `i? · no effect size`
+`q1 · conceptual paper citing prior research (ERIC: opinion paper)` · `i? · no effect size` · `theoretical · r2`
 
 Cummins cites prior research (Collier, 1987; Cummins, 1984) on second language acquisition contexts, reporting that immigrant children acquire "peer-appropriate conversational fluency in English within about 2 years" while academic catch-up takes 5-10 years. No effect size is printed.
 

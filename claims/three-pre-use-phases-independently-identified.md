@@ -15,12 +15,14 @@ sources:
     author: Hall, Gene E.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Two independent research efforts identified the same three pre-use phases of the adoption process
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Both the PAEI/CBAM research and the NDN evaluation proposed three pre-use phases distinguished by the same decision points, providing a strong basis for future decision-makers, change agents, and researchers. [→ Hall 1978](#hall-1978)
@@ -31,7 +33,7 @@ sources:
 
 Hall, Gene E. (1978). Implications for Planned Dissemination, Implementation, and Evaluation Revealed in the SRI/NDN Evaluation and Levels of Use of the Innovation Studies. Procedures for Adopting Educational Innovations Project. https://eric.ed.gov/?id=ED190626
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Discussion-section comparison of the two studies. The author attributes the convergence to two independent projects "using large samples and multiple data collection and analysis techniques" that identified the same number of units in the initiation process, suggesting funding and research be targeted toward these levels.
 

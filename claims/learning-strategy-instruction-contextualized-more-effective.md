@@ -15,12 +15,14 @@ sources:
     q: 3
     i: 1
     n: 17 experimental comparisons (16 language arts, 1 content area)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Strategy instruction is more effective when contextualized in authentic content-area tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small · n=17 experimental comparisons (16 language arts, 1 content area)
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i1` small · n=17 experimental comparisons (16 language arts, 1 content area)
 
 Strategy instruction is more effective when strategies are taught within authentic content-area tasks rather than as generic, decontextualized routines.
 
@@ -36,7 +38,7 @@ Strategy instruction is more effective when strategies are taught within authent
 
 Okkinga, M., van Steensel, R., van Gelderen, A. J. S., van Schooten, E., Sleegers, P. J. C., & Arends, L. R. (2018). Effectiveness of Reading-Strategy Interventions in Whole Classrooms: a Meta-Analysis. *Educational Psychology Review, 30*(4), 1215–1239. [doi:10.1007/s10648-018-9445-7](https://doi.org/10.1007/s10648-018-9445-7)
 
-`q3 · meta-analysis (random-effects, moderator/Q-test)` · `i1 · small effect for content-area classes, d=0.293, against d=0.820 for language-arts classes` · `n=17 experimental comparisons (16 language arts, 1 content area)`
+`q3 · meta-analysis (random-effects, moderator/Q-test)` · `i1 · small effect for content-area classes, d=0.293, against d=0.820 for language-arts classes` · `n=17 experimental comparisons (16 language arts, 1 content area)` · `quant-synthesis · r?`
 
 A meta-analysis of 52 studies (125 effects) of whole-classroom reading-strategy interventions in grades 3–12 coded, among other moderators, whether the instructional context was a language-arts class (generic reading instruction) or a content-area class (e.g. science, social studies — closer to this claim's "authentic content-area tasks"). For strategic ability (quality of strategy application), the moderator was significant, Q(1) = 6.081, p = .014, but in the direction opposite the claim: language-arts classes showed a large effect (d = 0.820, k = 16) versus a small effect in content-area classes (d = 0.293, k = 1). Context was not a significant moderator for either standardized or researcher-developed reading-comprehension measures. The content-area cell rests on a single experimental comparison, so this is weak, not strong, evidence against contextualization, and it does not test the claim's actual mechanism (the *same* strategy taught with and without authentic content) — no study in the corpus varied context while holding the strategy and its explicitness constant. (Read in full as Chapter 5 of the first author's University of Twente dissertation, which reports the same study; the journal version was not reachable.)
 

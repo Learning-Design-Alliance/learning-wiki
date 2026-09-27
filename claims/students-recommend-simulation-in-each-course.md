@@ -15,12 +15,14 @@ sources:
     author: Elliott, Haley and Brumbaugh, Klaire
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Students recommend integrating computer-based simulation cases into each course to make learning more concrete
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` All participants agreed that incorporating Simucase into each course, with cases aligned to course content, would provide more concrete learning. [→ Elliott 2021](#elliott-2021)
@@ -31,7 +33,7 @@ sources:
 
 Elliott, Haley and Brumbaugh, Klaire (2021). Student Perceptions of a Simulated Clinical Experience: A Pilot Study. Teaching and Learning in Communication Sciences & Disorders, 5(1), Article 7. https://doi.org/10.30707/TLCSD5.1.1624982519.538001
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Focus-group theme from the qualitative pilot; one participant suggested each class include at least one Simucase experience and another noted value for competency preparation. The authors connect this to McGaghie et al.'s (2009) recommendation to integrate simulation-based education with other curricular activities.
 

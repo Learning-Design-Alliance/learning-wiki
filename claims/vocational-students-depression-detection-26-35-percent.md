@@ -15,12 +15,14 @@ sources:
     author: Zhang, X., Wang, S., Lin, X., Zheng, J., and Li, L.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Depressive symptoms are detected in 26.35% of secondary vocational students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The detection rate of depressive symptoms among surveyed secondary vocational students reached 26.35%. [→ Zhang 2026](#zhang-2026)
@@ -31,7 +33,7 @@ sources:
 
 Zhang, X., Wang, S., Lin, X., Zheng, J., and Li, L. (2026). 2025 survey study on psychological education status among secondary vocational school students in xx province insights into mental health status and educational implications based on 31,000 students. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1773198
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Province-wide survey screening depression with the Chinese version of the BDI-II among 31,010 vocational students. The article reports the detection rate "reached 26.35%" and describes it as comparable to rates in other school types.
 

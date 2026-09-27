@@ -15,12 +15,14 @@ sources:
     author: Alfonso Cuervo, César Mora y R. García-Salcedo
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The new Ciencias II curriculum shifts the entry point to physics from measurement of physical properties (1993 plan) to the perception of movement, integrating light and sound from the start of the course
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Under the 1993 plan students first met physics through physical properties and their measurement; under the 2006 plan they enter through the theme of movement, describing motion from sensory information, with light and sound now involved from the start of the course. [→ Alfonso Cuervo 2008](#alfonso-cuervo-2008)
@@ -31,7 +33,7 @@ sources:
 
 Alfonso Cuervo, César Mora y R. García-Salcedo. (2008). Analysis of the Educative Reform in the Secondary School Education in Mexico and its implications in Science II in the new curriculum. http://www.journal.lapen.org.mx
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Documentary comparison of the 1993 and 2006 physics curricula (Figure 2 and Table VII): previously entry was through "las propiedades físicas y su medición"; now "los alumnos entran a la Física por medio del tema del movimiento", describing motion from sensory information, with light and sound involved from the course start.
 

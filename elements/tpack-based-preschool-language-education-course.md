@@ -17,7 +17,7 @@ sources:
 # TPACK-based Preschool Language Education course (objectives, content, learning organization, assessment)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A 13-week course integrating the TPACK framework into Preschool Language Education for pre-service preschool teachers. "The TPACK-based course includes the course objective, course content, learning organization, and course assessment." Content spans basic theory of preschool children's language education plus design practice for conversation, narrative, and literary activities, with theoretical units delivered online via the Chaoxing Platform and practical units built on TPACK analysis of teaching video cases. Expert IOC evaluation yielded a total average of 0.9, and participant satisfaction was 95%.

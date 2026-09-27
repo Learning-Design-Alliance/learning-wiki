@@ -15,12 +15,14 @@ sources:
     author: Brett Van de Sande
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # The Knowledge Tracing Algorithm does not suffer the identifiability problem: all four parameters affect its behavior separately
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` So long as there are both correct and incorrect steps, no redefinition of 1−P(Lj|Oj) can be compensated by redefining other parameters in both recursion equations, so all four model parameters are needed. [→ Brett Van de Sande 2013](#brett-van-de-sande-2013)
@@ -31,7 +33,7 @@ sources:
 
 Brett Van de Sande. (2013). Properties of the Bayesian Knowledge Tracing Model. Journal of Educational Data Mining, Volume 5, No 2. https://jedm.educationaldatamining.org
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Analytical argument (Section 4): P(G) appears with a different functional form in the numerator of each of Eqns. (11) and (12), so 'all four model parameters are needed to deﬁne the behavior of the Knowledge Tracing Algorithm.'
 
