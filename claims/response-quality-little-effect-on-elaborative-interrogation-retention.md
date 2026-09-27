@@ -26,7 +26,7 @@ sources:
 # The quality of elaborative-interrogation answers had little effect on retention; even failed or inadequate why-answers facilitated learning relative to reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i?` In Experiment 1, adequate, inadequate, and no-response items showed almost no retention differences; only adequate vs no-response differed on immediate recognition. [→ Woloshyn 1992](#woloshyn-1992)

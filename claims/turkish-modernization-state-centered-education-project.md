@@ -26,7 +26,7 @@ sources:
 # Turkish modernization is a state-centered project that is at the same time an education project, distinguishing it from Western examples
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The most distinctive characteristic of Turkish modernization, distinguishing it from Western examples, is that it is a state-centered project. [→ Özsoy 2009](#ozsoy-2009)

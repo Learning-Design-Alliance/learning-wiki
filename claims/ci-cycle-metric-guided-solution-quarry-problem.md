@@ -26,7 +26,7 @@ sources:
 # A six-step C/I cycle administered in a sophomore engineering physics class and a graduate physics class guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The process was administered separately to a sophomore class of 23 engineering physics students and a class of 7 graduate physics students. [→ Kowalski 2013](#kowalski-2013)

@@ -26,7 +26,7 @@ sources:
 # Aided AAC systems show advantages over manual signs for acquiring requests, and motor imitation and matching skills predict manual sign acquisition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Children with autism showed a tendency to acquire PE responses more easily and rapidly than signed responses. [→ Nam 2018](#nam-2018)

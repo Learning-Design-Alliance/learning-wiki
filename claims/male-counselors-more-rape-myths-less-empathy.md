@@ -26,7 +26,7 @@ sources:
 # Male counselors reported more rape myth acceptance and lower empathy than female counselors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Gender correlated with the IRMA-SF (r = -.269), with significant correlations on 19 of 22 items (86%). [→ Litam 2019](#litam-2019)

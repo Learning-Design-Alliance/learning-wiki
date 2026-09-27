@@ -26,7 +26,7 @@ sources:
 # High-quality pretend play is an important facilitator of perspective taking and later abstract thought
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The research on pretense and theory of mind suggests that high-quality pretend play facilitates perspective taking and later abstract thought. [→ Bergen 2002](#bergen-2002)

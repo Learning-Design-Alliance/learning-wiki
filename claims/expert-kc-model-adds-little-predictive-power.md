@@ -26,7 +26,7 @@ sources:
 # The expert-designed KC model adds little predictive power on most datasets, with significant contributions only on the two KDD Cup 2010 datasets
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` On seven of nine datasets, KC features provide a boost of +0.01 AUC or less over a no-KC baseline. [→ Theophile Gervet 2020](#theophile-gervet-2020)

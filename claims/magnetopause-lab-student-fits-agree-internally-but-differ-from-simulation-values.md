@@ -26,7 +26,7 @@ sources:
 # Students' empirical fits of simulated magnetopause locations show good internal agreement, though student estimates and simulation-calculated locations often disagree beyond uncertainties
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Most lab groups get good agreement between their leading constants for fixed solar wind speed versus fixed number density data, showing reasonably consistent estimates of magnetopause location. [→ Crumley 2015](#crumley-2015)

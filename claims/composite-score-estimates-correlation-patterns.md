@@ -26,7 +26,7 @@ sources:
 # The three composite scoring methods yield differently related ability estimates, with the UIRT oral composite correlating far more with Speaking than Listening estimates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` For lower elementary students the correlation of the first MIRT theta with the UIRT composite (.77) was slightly lower than that of the second MIRT theta (.87), similar to the UIRT average's correlation (.78). [→ Shu Jing Yen 2007](#shu-jing-yen-2007)

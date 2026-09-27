@@ -26,7 +26,7 @@ sources:
 # Academic GPA, associate degree program and high school type have negligible influence on vocational students' LMS acceptance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0` negligible
 
 ## Subclaims
 `q2 i?` In the ANN importance ratings, GPA (2.9%), associate degree program (1.6%) and high school type (1.3%) had the least effect on LMS acceptance. [→ Ozkan 2020](#ozkan-2020)

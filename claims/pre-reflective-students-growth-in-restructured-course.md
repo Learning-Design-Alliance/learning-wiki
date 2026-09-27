@@ -26,7 +26,7 @@ sources:
 # Pre-reflective students initially reacted negatively to the lecture-free course but the restructure fostered growth in their reflective judgment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The restructured, lecture-free collaborative course was initially viewed negatively by pre-reflective students, yet fostered growth in reflective judgment for them. [→ Carr 1997](#carr-1997)

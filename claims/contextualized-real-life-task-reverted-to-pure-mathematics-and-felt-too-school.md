@@ -26,7 +26,7 @@ sources:
 # When a real-life quilt problem was turned into a contextualized mathematics task, its context dropped out during solving and both designers judged it too school-like
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The researcher reflected that once mathematical relationships were recognized, the context of the quilt task was removed in the solution process and it changed back to a pure math problem. [→ Lili Zhou 2023](#lili-zhou-2023)

@@ -26,7 +26,7 @@ sources:
 # Elaborative interrogation increased perceived difficulty and time spent with the lesson
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1`–`i3`
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1`–`i3`
 
 ## Subclaims
 `q3 i3` Participants in the elaborative-interrogation condition spent more time with the lesson than participants in the read-twice or embedded-questioning conditions. [→ Clinton 2016](#clinton-2016)

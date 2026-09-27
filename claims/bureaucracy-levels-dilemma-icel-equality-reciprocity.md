@@ -26,7 +26,7 @@ sources:
 # Both a lack of rules and a plethora of rules and regulations reduce equality and reciprocity in ICEL, creating a balance dilemma
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` In the first Capstone iteration, minimal bureaucratic restrictions enabled quick adaptations but reduced equality and reciprocity by limiting stakeholder consultation. [→ Vijge 2025](#vijge-2025)

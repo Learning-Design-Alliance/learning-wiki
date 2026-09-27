@@ -26,7 +26,7 @@ sources:
 # Female principals enacted care through a 'listening then deciding' pattern of situational decision making
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Each principal gathered perspectives and information before formulating responses, reflecting Noddings' premise of stepping into the other's frame of reference. [→ Kropiewnicki 2001](#kropiewnicki-2001)

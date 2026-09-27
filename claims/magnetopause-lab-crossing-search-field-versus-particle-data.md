@@ -26,7 +26,7 @@ sources:
 # Students find magnetopause crossings well in magnetic field data but have more difficulty with particle data, and some data sets contain no crossings at all
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students do a good job finding crossings in magnetic field data but have more difficulty with particle data. [→ Crumley 2015](#crumley-2015)

@@ -26,7 +26,7 @@ sources:
 # In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` A repeated-measures MANOVA on SRL knowledge, self-efficacy, mathematics overall score and SRL overall score found a statistically significant group by time interaction (Pillai’s trace = 0.71, F(3,132) = 10.19; p < 0.001). [→ Bellhäuser 2022](#bellhauser-2022)

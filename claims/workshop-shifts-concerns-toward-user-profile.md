@@ -26,7 +26,7 @@ sources:
 # The two-week SCIS workshop shifted participants' concerns from lower-stage nonuser patterns toward higher-stage user patterns
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` For 1975 workshop participants, Stage 0, 1, and 2 concerns were lowered and Stage 4, 5, and 6 concerns raised after the workshop. [→ Loucks 1977](#loucks-1977)

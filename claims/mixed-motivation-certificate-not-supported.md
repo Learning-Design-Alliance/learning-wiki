@@ -26,7 +26,7 @@ sources:
 # Chinese ESP learners in this sample were motivated in a mixed manner, and 'certificate motivation' was not supported
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students were motivated in a mixed manner, blending extrinsic and intrinsic subtypes in their self-descriptions. [→ Liu 2016](#liu-2016)

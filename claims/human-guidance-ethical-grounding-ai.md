@@ -26,7 +26,7 @@ sources:
 # Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The review concludes human guidance remains essential, instilling ethical reasoning skills to question AI biases. [→ Vargas 2024](#vargas-2024)

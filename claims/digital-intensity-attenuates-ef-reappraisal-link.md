@@ -26,7 +26,7 @@ sources:
 # Digital use intensity attenuates the positive EF–reappraisal association, more pronouncedly on the EF→ER pathway than the reverse
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1`–`i2`
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1`–`i2`
 
 ## Subclaims
 `q3 i?` Digital use intensity significantly moderated the EF-to-reappraisal association (β = −0.14, p = .005); simple slopes were β = 0.56 at low use, β = 0.42 at average, and β = 0.28 at high use. [→ Shi Guochun 2026](#shi-guochun-2026)

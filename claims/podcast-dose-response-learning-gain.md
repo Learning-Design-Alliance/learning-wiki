@@ -26,7 +26,7 @@ sources:
 # Higher episode completion (>50%) is independently associated with greater learning gain, and the centre effect on gain is mediated by engagement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Listening to 5–6 episodes (>50% completion) predicted greater learning gain (β 5.15, p = 0.005) controlling for baseline score and centre. [→ Joshi U 2026](#joshi-u-2026)

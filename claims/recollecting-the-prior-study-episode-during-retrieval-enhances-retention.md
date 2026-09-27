@@ -26,7 +26,7 @@ sources:
 # Inducing learners to recollect the prior study episode during retrieval practice enhances retention even when reexposure and initial success are held constant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Karpicke and Zaromb (2010), that final performance was consistently better after recalling targets by thinking back to the study episode than after generating them. [→ Karpicke 2017](#karpicke-2017)

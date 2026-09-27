@@ -26,7 +26,7 @@ sources:
 # Attitudes, gender, and age predict counselors' rape myth acceptance in both label conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In the APPS group, gender (β = .272), age (β = .236), and attitude (β = -.175) each significantly predicted rape myth acceptance, with the regression explaining 16% of variance. [→ Litam 2019](#litam-2019)

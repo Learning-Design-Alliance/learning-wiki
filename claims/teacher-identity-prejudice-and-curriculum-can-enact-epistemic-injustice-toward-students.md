@@ -26,7 +26,7 @@ sources:
 # In a pedagogical space, epistemic injustice might be activated when teachers' identity prejudice leads them to give a student less credit, and the curriculum can block or enable students' understanding and expression of their social experiences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Drawing on Kotzee (2017), the article argues that epistemic injustice might be activated by giving a student less credit because of teachers' identity prejudice, so that the student's testimony is taken less seriously. [→ Göktürk 2021](#gokturk-2021)

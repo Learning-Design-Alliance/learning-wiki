@@ -32,7 +32,7 @@ sources:
 # Implementation of co-regulation strategies was shaped by classroom context, facilitator experience and mindset, and varied in ease across strategies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Classroom size, type, session length, and teacher buy-in influenced facilitators' use of the strategies. [→ Tingey 2023](#tingey-2023)

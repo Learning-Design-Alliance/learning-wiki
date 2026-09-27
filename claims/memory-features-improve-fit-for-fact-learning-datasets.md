@@ -26,7 +26,7 @@ sources:
 # Memory-decay-based models fit fact-learning datasets better than models insensitive to memory decay
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In the statistics cloze dataset, models with declarative-memory features (models 10-12) significantly improved fit beyond models insensitive to memory decay. [→ Philip I. Pavlik 2021](#philip-i-pavlik-2021)

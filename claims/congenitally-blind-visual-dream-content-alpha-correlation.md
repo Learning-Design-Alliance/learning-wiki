@@ -26,7 +26,7 @@ sources:
 # Congenitally blind subjects show visual dream content with a negative correlation between Visual Activity Index and EEG alpha power
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In congenitally blind and sighted subjects alike, dream Visual Activity Index is negatively correlated with EEG alpha power: as visual activation increases, alpha power decreases. [→ Bértolo 2005](#bertolo-2005)

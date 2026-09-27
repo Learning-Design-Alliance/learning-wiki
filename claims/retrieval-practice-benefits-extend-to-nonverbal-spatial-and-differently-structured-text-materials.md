@@ -32,7 +32,7 @@ sources:
 # Retrieval practice benefits extend to nonverbal visual materials, spatial map learning, and educational texts with different structures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Kang (2010), advantages of retrieval practice over restudy when subjects mentally visualized Chinese characters during retrieval. [→ Karpicke 2017](#karpicke-2017)

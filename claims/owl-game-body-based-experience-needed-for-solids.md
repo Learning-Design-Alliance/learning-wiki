@@ -26,7 +26,7 @@ sources:
 # In the owl game, being shown the solids and working with pictures and labels did not help two boys distinguish solids; body-based experience with contrastive guidance was needed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Two boys could not distinguish geometric solids in the owl game after only a presentation and a picture-and-label task. [→ Ahlquist 2020](#ahlquist-2020)

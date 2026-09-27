@@ -26,7 +26,7 @@ sources:
 # The author argues that dual relationships with clients are unethical and impair peer counsellors' judgement, though role blending calls for vigilance rather than absolute prohibition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The author's ethical argument holds that mixing the helping relationship with another kind of relationship, especially a sexual one, is clearly unethical; self-interest is said to impair judgement, increase conflict of interest and lead to exploitation of clients. [→ Zakaria 2007](#zakaria-2007)

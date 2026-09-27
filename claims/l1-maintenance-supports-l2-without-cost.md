@@ -26,7 +26,7 @@ sources:
 # Promoting minority children's L1 raises L1 achievement at no cost to L2 achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In Hébert's Manitoba study, percentage of instruction in French (L1) was unrelated to English achievement but strongly related to French achievement. [→ Cummins 1979](#cummins-1979)

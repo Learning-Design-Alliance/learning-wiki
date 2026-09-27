@@ -26,7 +26,7 @@ sources:
 # Training with maps one or two levels above the child's current level produces greater map drawing advance than training with maps at the child's own level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i0`–`i2`
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0`–`i2`
 
 ## Subclaims
 `q2 i2` The +1 and +2 external disequilibrium treatments together produced significantly higher adjusted posttest Map Drawing Mean scores than the 0 (own-level) treatment. [→ Snyder 1975](#snyder-1975)

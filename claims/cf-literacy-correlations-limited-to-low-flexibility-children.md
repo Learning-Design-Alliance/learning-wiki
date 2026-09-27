@@ -26,7 +26,7 @@ sources:
 # Among children with initially low cognitive flexibility, growth in cognitive flexibility correlates with post phonemic awareness, reading comprehension growth, and spelling scores; these correlations are not significant among high-flexibility children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0` negligible
 
 ## Subclaims
 `q2 i?` For children with initial low cognitive flexibility scores, growth in cognitive flexibility was positively correlated with post phonemic awareness scores (r = .36), growth in reading comprehension (r = .74), and post spelling scores (r = .28). [→ Krause 1997](#krause-1997)

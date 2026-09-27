@@ -26,7 +26,7 @@ sources:
 # A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The mentor established a structure for reflection and feedback comprising open-ended questions, listening to responses, and providing suggestions and encouragement for future action. [→ Sempowicz 2011](#sempowicz-2011)

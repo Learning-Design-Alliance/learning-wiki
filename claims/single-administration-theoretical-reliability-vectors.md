@@ -26,7 +26,7 @@ sources:
 # Theoretically defined test reliability computable from a single administration via parallel-half vector lengths and angle exceeds split-half reliability but falls below Cronbach alpha
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Using an iterative parallel-half split and the lengths of the two subtest score vectors and the angle between them, error variance and theoretically defined reliability (rtt = ST²/SX²) can be estimated from a single administration. [→ Chakrabartty 2021](#chakrabartty-2021)

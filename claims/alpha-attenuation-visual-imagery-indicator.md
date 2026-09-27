@@ -26,7 +26,7 @@ sources:
 # EEG alpha power attenuation is an indicator of visual imagery and is more affected by visual than abstract mentation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Several authors regard alpha activity attenuation or blocking as an indicator of visual imagery in general. [→ Bértolo 2005](#bertolo-2005)

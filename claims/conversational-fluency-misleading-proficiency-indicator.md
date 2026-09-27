@@ -26,7 +26,7 @@ sources:
 # Assuming conversational fluency indicates English proficiency has led to bilingual children being misdiagnosed as learning disabled or retarded and to premature exit from support programs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The implicit assumption that conversational fluency in English is a good indicator of English proficiency has resulted in countless bilingual children being diagnosed as learning disabled or retarded. [→ Cummins 1999](#cummins-1999)

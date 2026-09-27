@@ -26,7 +26,7 @@ sources:
 # Children managed conflict between Indigenous and Western teachings by holding both belief systems side by side or switching by context
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` When taught that stones are non-living in class, children nonetheless judged a shrine stone to be living, illustrating the Collateral Learning Hypothesis of holding both meanings side by side. [→ Acharibasam 2021](#acharibasam-2021)

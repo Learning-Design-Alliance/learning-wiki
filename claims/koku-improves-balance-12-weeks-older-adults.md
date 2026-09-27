@@ -26,7 +26,7 @@ sources:
 # The KOKU digital programme improves balance function at 12 weeks compared with standard care in community-dwelling older adults, with the effect increasing over time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1`–`i2`
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1`–`i2`
 
 ## Subclaims
 `q3 i2` Participants receiving KOKU had a higher mean Berg Balance Score at 12 weeks than those receiving standard care, with a between-group difference of 6.35 points (95% CI 4.48, 8.22). [→ French Chloe 2026](#french-chloe-2026)

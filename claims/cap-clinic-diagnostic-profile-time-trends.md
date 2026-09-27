@@ -32,7 +32,7 @@ sources:
 # Affective, developmental and emotional disorder registrations rose while mental retardation registrations fell over 26 years; pervasive developmental disorder registrations fell between Periods II and III
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Registrations with affective disorders increased significantly (F=32.09, p<0.001; III>II>I), as did disorders of psychological development (F=11.47, p<0.001) and emotional disorders (F=4.61, p<0.05). [→ Malhotra S 2007](#malhotra-s-2007)

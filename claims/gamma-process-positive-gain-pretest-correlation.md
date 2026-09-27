@@ -26,7 +26,7 @@ sources:
 # When the γ-process (associative interaction of correct and incorrect knowledge) is considered, the normalized gain correlates positively with pretest score
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i1` small
 
 ## Subclaims
 `q2 i?` With both α and γ processes, the normalized gain always has explicit pretest-score terms and a positive correlation with pretest score is expected. [→ Lei Bao 2006](#lei-bao-2006)

@@ -26,7 +26,7 @@ sources:
 # The greatest differences among the three DC estimates occur when the cut score is set at the mode of a skewed score distribution
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In the skewed simulated dataset, the greatest difference in DC estimates (0.101) occurred at the mode (score 30), where LL-DC estimated 0.825, PS-DC 0.844, and W-DC 0.743. [→ Wolkowitz 2024](#wolkowitz-2024)

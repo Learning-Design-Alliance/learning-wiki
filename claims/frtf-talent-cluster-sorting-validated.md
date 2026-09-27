@@ -26,7 +26,7 @@ sources:
 # Educators sorted 11 talents into the proposed FRTF clusters significantly above chance, from 94.8% (self-assessment) to 44.8% (critical thinking)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In an online sorting task, 97 WIL educators sorted each of 11 talent labels into its proposed cluster at rates significantly above the 25% chance level (one-sample t-tests, all p < .001). [→ Pretti 2021](#pretti-2021)

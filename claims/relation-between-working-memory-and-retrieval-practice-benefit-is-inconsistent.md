@@ -32,7 +32,7 @@ sources:
 # Studies disagree on whether low or high working memory learners benefit more from retrieval practice, and several find no relationship
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Agarwal et al. (2016), that low working memory subjects benefited more from retrieval practice than high working memory subjects. [→ Karpicke 2017](#karpicke-2017)

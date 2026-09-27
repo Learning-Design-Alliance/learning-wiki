@@ -26,7 +26,7 @@ sources:
 # Attribute mastery showed significant proficiency-group, attribute, and attribute-by-proficiency effects, but no significant status-group main effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Repeated-measures ANOVA of attribute mastery probabilities showed clearly significant effects of proficiency group, attribute, and the attribute by proficiency group interaction. [→ Katz 1993](#katz-1993)

@@ -26,7 +26,7 @@ sources:
 # Therapy relationships do not show a transition from relational incongruence to congruence across sessions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Across seven psychotherapy cases, session-by-session redundancy (congruence) correlations were generally non-significant or in the wrong direction, failing to support the predicted transition from incongruence to congruence. [→ Wettersten 1995](#wettersten-1995)

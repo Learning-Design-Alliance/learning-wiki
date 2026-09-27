@@ -26,7 +26,7 @@ sources:
 # Degree of engagement is higher in applied (1.52 vs 1.22, p=.016) and life (1.56 vs 1.07, p=.000) disciplines, with no significant hard/soft difference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i1`–`i2`
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i1`–`i2`
 
 ## Subclaims
 `q2 i?` Applied-discipline faculty report higher degrees of engagement (reciprocal, mutually beneficial collaboration) than pure-discipline faculty. [→ Doberneck 2017](#doberneck-2017)

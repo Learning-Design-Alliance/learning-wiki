@@ -26,7 +26,7 @@ sources:
 # In task-based taxonomy navigation, the Topics and Document types facets achieved the highest precision and recall while the Research groups facet achieved 0%
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0` negligible
 
 ## Subclaims
 `q2 i?` The Topics facet and Document types facet had the highest precision and recall in participants' facet selections. [→ Khoo 2013](#khoo-2013)

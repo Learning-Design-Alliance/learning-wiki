@@ -26,7 +26,7 @@ sources:
 # Every medium favors certain symbol systems and cultivates different representational skills and mental operations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Every medium, including the microcomputer, favors transmission of certain symbol systems over others and is likely to call upon and cultivate different representational skills. [→ Salomon 1983](#salomon-1983)

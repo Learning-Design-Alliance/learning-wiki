@@ -32,7 +32,7 @@ sources:
 # Repeatedly recalling a text without feedback or rereading produces the best one-week retention, while repeated studying leads on a final test at the end of the session
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Roediger and Karpicke (2006b), that students who recalled a text three times (STTT) remembered the most on a final test 1 week later. [→ Karpicke 2017](#karpicke-2017)

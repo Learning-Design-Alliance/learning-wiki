@@ -27,7 +27,7 @@ id: relevancy-of-emphasis-directs-attention
 # Relevancy of emphasized text directs attention and influences test performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
 
 Emphasis cues such as underlining do not simply boost learning overall — they shift attention toward whatever is emphasized, so test performance follows the *relevancy* of the marked material rather than the mere presence of marking.
 

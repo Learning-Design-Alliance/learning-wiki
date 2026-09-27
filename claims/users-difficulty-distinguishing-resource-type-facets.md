@@ -26,7 +26,7 @@ sources:
 # Users have difficulty distinguishing between the various kinds of document types, resource types and formats in a faceted taxonomy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In post-exercise interviews, 73% of participants said they had difficulty distinguishing Document types from Course materials types and Reference types, and 77% had difficulty understanding Information types. [→ Khoo 2013](#khoo-2013)

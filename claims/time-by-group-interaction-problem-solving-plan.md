@@ -26,7 +26,7 @@ sources:
 # Repeated measures ANOVA shows significant time-of-testing effect and significant time-by-group interaction on word-problem scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i1` small
 
 ## Subclaims
 `q2 i?` A one-way repeated measures ANOVA found a significant effect of time of testing (p = .001). [→ Zambo 1994](#zambo-1994)

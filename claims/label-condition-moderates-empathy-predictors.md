@@ -26,7 +26,7 @@ sources:
 # Attitudes and demographics predicted empathy in the prostitute-label group but not the trafficking-label group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In the APPS group, race significantly predicted overall empathy (R2 = .07, F(6,186) = 2.357, p < .01); in the ATTS group the regression was not significant (R2 = .05, F(6,194) = 1.829, p > .05). [→ Litam 2019](#litam-2019)

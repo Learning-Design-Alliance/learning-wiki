@@ -26,7 +26,7 @@ sources:
 # Expansive learning actions in the meeting followed by and large the theory-predicted order, forming a mini-cycle of two main parts with iterations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The learning actions of the expansive cycle were taken by and large in the order predicted in the theory, though with iterations such as analyzing-modeling-analyzing-modeling. [→ Rantavuori 2016](#rantavuori-2016)

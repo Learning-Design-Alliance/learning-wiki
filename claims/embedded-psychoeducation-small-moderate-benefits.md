@@ -26,7 +26,7 @@ sources:
 # Psycho-educational interventions embedded in routine diabetes care show small-to-moderate improvements in diabetes-specific distress and depressive symptoms, with variable glycaemic effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Psycho-educational interventions embedded in routine diabetes care appear to effect small-to-moderate improvements in distress and depressive symptoms. [→ Winterdijk Per 2026](#winterdijk-per-2026)

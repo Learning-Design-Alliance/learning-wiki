@@ -26,7 +26,7 @@ sources:
 # In one narrative inquiry, boundary crossing collaboration between a mathematics education researcher and an informal educator created a space for a new understanding of mathematics as normal human practice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The author reports that the collaborative practices emerging from crossing between mathematics education and informal education blurred the border of mathematics across contexts, leading to a new understanding of mathematics as normal human practice. [→ Lili Zhou 2023](#lili-zhou-2023)

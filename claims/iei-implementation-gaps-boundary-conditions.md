@@ -26,7 +26,7 @@ sources:
 # Interviews identify IEI implementation gaps — curriculum-industry misalignment, limited project diversity, and weak enterprise engagement — as boundary conditions on the psychological pathways
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Qualitative interviews with instructors and enterprise mentors uncovered persistent IEI implementation gaps that contextualize the quantitative model. [→ Liang 2026](#liang-2026)

@@ -26,7 +26,7 @@ sources:
 # Object formation in the meeting was iterative and non-linear: the proposed germ cell of 'making a choice' was encapsulated, not elaborated and expanded
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Although the succession of actions looked like a near-perfect mini-cycle, the newly articulated object of making a choice was not mentioned again after its examination; examining and implementing referred to the transitional object of the theater play. [→ Rantavuori 2016](#rantavuori-2016)

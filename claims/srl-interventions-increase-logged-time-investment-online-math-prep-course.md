@@ -26,7 +26,7 @@ sources:
 # Logged time investment on an online mathematics preparation platform differed significantly across SRL intervention groups, rising from control through diary and training + diary to training + diary + peer feedback groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Mean logged time was 21.03 h (Group C), 28.23 h (Group D), 29.32 h (Group TD) and 33.56 h (Group TDP), a significant difference (F(3, 132) = 3.08; p = 0.030; ηp2 = 0.06). [→ Bellhäuser 2022](#bellhauser-2022)

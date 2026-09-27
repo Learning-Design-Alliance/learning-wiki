@@ -26,7 +26,7 @@ sources:
 # Audio narration with finger-tracking animation directs bilingual preschoolers' attention to the target-language print in dual-language e-books, including the nondominant language
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` When English narration and animation tracked English sentences, children's PLT to English text greatly exceeded PLT to Mandarin text, F(1, 30) = 85.95, p < .001, partial η2 = .74. [→ Yow 2019](#yow-2019)

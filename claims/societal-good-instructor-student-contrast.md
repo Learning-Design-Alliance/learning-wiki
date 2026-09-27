@@ -26,7 +26,7 @@ sources:
 # Both groups see societal benefit in experiential learning, but instructors weight societal good more heavily than students, whose reflections center on personal fulfillment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Instructors saw local and global communities benefiting from students' increased prosocial and professional competencies, including intercultural competence. [→ Sherman 2020](#sherman-2020)

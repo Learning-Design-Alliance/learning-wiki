@@ -26,7 +26,7 @@ sources:
 # Goffman rejected laboratory experiments because they had not uncovered fields of naturalistic study and fostered bias toward negative cases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Goffman opposed laboratory studies of social interaction on the grounds that they had not uncovered fields of naturalistic study or produced concepts that reorder our view of social activity. [→ Corder 1988](#corder-1988)

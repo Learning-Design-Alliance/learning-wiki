@@ -26,7 +26,7 @@ sources:
 # Individual user goals, such as avoiding cognitive load, can contradict the objectives of the educational community
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Contradictions between community objectives (the implementing organization's goals) and individual objectives (the typical end-user's goals) are gaining increasing attention in discussions of workplace computer systems, and appear in education as well. [→ Gilbert 1999](#gilbert-1999)

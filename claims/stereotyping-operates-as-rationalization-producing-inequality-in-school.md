@@ -26,7 +26,7 @@ sources:
 # In the analyzed school ethnography, stereotyping operates as a rationalization process that constructs uniformities, and the ghetto label privileges white culture's standards and evaluation networks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The article interprets interview results with black girls in Ispa-Landa's study as showing stereotyping functioning as a form of constructing uniformities, characterizing blacks as aggressive, tough, and poor. [→ Göktürk 2021](#gokturk-2021)

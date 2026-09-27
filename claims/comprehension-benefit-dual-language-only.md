@@ -26,7 +26,7 @@ sources:
 # Multimedia features improved story comprehension in dual-language e-books (marginal trend) but not in single-language e-books
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i0` negligible
 
 ## Subclaims
 `q3 i?` In Study 1, a Condition main effect on comprehension was marginally significant, F(1, 30) = 3.82, p = .060, partial η2 = .11, with higher scores in enhanced sessions (M = 1.78) than baseline (M = 1.58). [→ Yow 2019](#yow-2019)

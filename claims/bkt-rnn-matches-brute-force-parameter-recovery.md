@@ -26,7 +26,7 @@ sources:
 # BKT implemented as an RNN layer in PyTorch recovers generating parameters comparably to brute-force grid-search BKT while scaling to large datasets
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` BKT RNN implementations recover the five BKT parameters from synthetic datasets about as well as (slightly better than) a brute-force grid-search reference implementation. [→ Khajah 2024](#khajah-2024)

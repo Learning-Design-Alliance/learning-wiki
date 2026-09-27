@@ -26,7 +26,7 @@ sources:
 # Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Working conditions affect teacher and school leader retention, and candidates' perceptions of school environment during recruitment may affect their decision to apply or accept a job offer. [→ Talent Development Framework: Improving Access to Excellent Educators for All Students 2020](#talent-development-framework-improving-access-to-excellent-educators-for-all-students-2020)

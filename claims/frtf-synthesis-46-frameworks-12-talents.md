@@ -26,7 +26,7 @@ sources:
 # A literature synthesis of 46 talent frameworks and future-of-work reports yielded 29 unique talents reduced to the FRTF's 12 talents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` A search of academic and grey literatures identified 46 talent frameworks relevant to WIL. [→ Pretti 2021](#pretti-2021)

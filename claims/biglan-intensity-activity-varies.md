@@ -26,7 +26,7 @@ sources:
 # Intensity of publicly engaged activity is higher in applied (2.29 vs 1.76) and life (2.28 vs 1.63) disciplines, with no significant hard/soft difference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
 `q2 i?` Applied-discipline faculty report higher intensity of activity than pure-discipline faculty (means 2.29 vs 1.76, p=.000). [→ Doberneck 2017](#doberneck-2017)

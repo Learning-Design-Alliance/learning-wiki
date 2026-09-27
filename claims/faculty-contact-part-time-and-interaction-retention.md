@@ -26,7 +26,7 @@ sources:
 # Faculty contact relates to retention: part-time instruction lowers odds, interaction frequency raises intent to stay
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The review reports increased exposure to classes taught by part-time instructors decreased the odds of first-year retention. [→ Zak-Moskal 2020](#zak-moskal-2020)

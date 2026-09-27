@@ -26,7 +26,7 @@ sources:
 # Computational complexity of the graph-based MML procedure scales with the number of latent variables within a conditionally independent subset, and brute-force integration scales exponentially with dimensionality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The computational complexity of a full information MML procedure exploiting the model's conditional independence relations scales with the number of latent variables within a subset, which may be substantially lower than the total number of latent variables. [→ Rijmen 2009](#rijmen-2009)

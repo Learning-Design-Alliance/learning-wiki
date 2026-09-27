@@ -26,7 +26,7 @@ sources:
 # Pippi's specific behaviors in the series instantiate Pragmatism, Reconstructionism, and Existentialism, including rejecting imposed learning decisions and reconstructing assessment.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` When Pippi decided how, how much, and how long she wanted to learn, the author reads this as rejecting traditional education's dogmas (Pragmatism/Existentialism). [→ Ozturk 2023](#ozturk-2023)

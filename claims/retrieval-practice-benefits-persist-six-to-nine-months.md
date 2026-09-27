@@ -26,7 +26,7 @@ sources:
 # Benefits of retrieval practice have persisted for 6 months in medical students and 9 months in middle-school students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Larsen et al. (2013), that initial testing of clinical neurology topics enhanced medical students' retention 6 months later relative to studying a review sheet. [→ Karpicke 2017](#karpicke-2017)

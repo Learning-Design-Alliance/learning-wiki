@@ -26,7 +26,7 @@ sources:
 # In a single-word lexical decision task, Chinese speakers show a transposed-character effect in reaction times and error rates while Japanese speakers do not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Chinese participants took longer to reject TC pseudowords than control nonwords, whereas Japanese participants showed no significant reaction-time difference between the two nonword types. [→ Geng Yaoyao 2026](#geng-yaoyao-2026)

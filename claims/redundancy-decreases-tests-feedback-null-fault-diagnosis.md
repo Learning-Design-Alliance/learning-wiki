@@ -26,7 +26,7 @@ sources:
 # Increased redundancy significantly decreases tests and time to solution, while feedback level shows no significant effect due to divergent subject strategies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Increased redundancy (more OR components) significantly decreased the average number of tests and average time until correct solution. [→ Rouse 1980](#rouse-1980)

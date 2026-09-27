@@ -26,7 +26,7 @@ sources:
 # MLM-script presentations fall between the other two groups: above the Textbook group but below the MLM group, as multimedia learning theory predicts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i1` small
 
 ## Subclaims
 `q2 i?` The MLM-script group scored above the Textbook group but below the MLM group on both assessments, in accord with predictions from the coherence and dual-channel principles. [→ Stelzer 2008](#stelzer-2008)

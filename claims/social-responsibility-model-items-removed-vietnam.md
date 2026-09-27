@@ -26,7 +26,7 @@ sources:
 # The social responsibility measurement model required the most item removals, with global justice and personal responsibility items dropped in the Vietnamese context
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In the social responsibility model, items GJD3-GJD6, AE2, and GIPR1, GIPR3, GIPR4 were removed for outer factor loadings below 0.7, and remaining indicators met CR and AVE standards. [→ Nguyen 2021](#nguyen-2021)

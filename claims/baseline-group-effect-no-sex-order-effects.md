@@ -26,7 +26,7 @@ sources:
 # Baseline performance differed by later treatment group for two tasks, with the delayed-reward group giving fewer baseline responses, while no sex or order effects emerged
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` A significant group effect appeared in baseline data for Similarities and Line Drawings, with the Delayed Reward group giving fewer baseline responses. [→ Ward 1970](#ward-1970)

@@ -26,7 +26,7 @@ sources:
 # First-year seminar participation is associated with higher retention and graduation rates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The review reports FYS participants returned at higher rates than non-participants at two years and five years, with lower odds of not graduating within seven years. [→ Zak-Moskal 2020](#zak-moskal-2020)

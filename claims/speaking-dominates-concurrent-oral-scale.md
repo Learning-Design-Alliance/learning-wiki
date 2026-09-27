@@ -26,7 +26,7 @@ sources:
 # In concurrent unidimensional calibration the Speaking subtest dominates the Oral scale score while Listening and Speaking correlate only moderately
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Speaking scale scores correlated .91 and .92 with the Oral scale score across the two levels, which the authors attribute to the polytomous Speaking test dominating the simultaneous calibration. [→ Shu Jing Yen 2007](#shu-jing-yen-2007)

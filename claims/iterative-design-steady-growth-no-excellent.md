@@ -26,7 +26,7 @@ sources:
 # Lesson-plan quality grows steadily across three iterative design rounds, but no product reaches the excellent grade
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Across three rounds of iterative design, original plan means rose from 58.2 to 67.6 to 76.6, and by the final round all five products were rated good or above. [→ Ren 2025](#ren-2025)

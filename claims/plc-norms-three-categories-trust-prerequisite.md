@@ -26,7 +26,7 @@ sources:
 # Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In schools where collaboration norms were established, productive norms belonged to three categories: supporting active participation, reflection and critical inquiry; supporting open communication and trust; and directing teachers' attention towards an object, with trust norms acting as prerequisites for critical inquiry. [→ Harvey 2022](#harvey-2022)

@@ -26,7 +26,7 @@ sources:
 # Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` Continuous and intentional thinking correlated positively with learning effort (r=0,123; p<0,05) and learning process/expert knowledge (r=0,311; p<0,01), and negatively with innate/fixed ability (r=-0,133; p<0,01) and certainty of knowledge (r=-0,098; p<0,05). [→ Balta 2018](#balta-2018)

@@ -26,7 +26,7 @@ sources:
 # Having control over the knowledge-of-results decision only before a motor trial (Self-Before) produced no statistically significant retention or transfer benefit over a yoked group receiving the same KR schedule.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` On retention AE, the Self-Before and Yoked-Before (M = 27.35) groups did not differ significantly; equivalence was not tested. [→ Carter 2014](#carter-2014)

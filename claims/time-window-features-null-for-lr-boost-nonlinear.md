@@ -32,7 +32,7 @@ sources:
 # Ablation of feature-vector models: time-window features add no predictive power to logistic regression but boost a feedforward network, and total count features substantially boost performance on all datasets
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` DAS3H time-window features add no predictive power to the best logistic regression model, suggesting DAS3H's boost over PFA comes from an IRT-inspired item difficulty parameter. [→ Theophile Gervet 2020](#theophile-gervet-2020)

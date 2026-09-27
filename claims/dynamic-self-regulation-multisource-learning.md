@@ -26,7 +26,7 @@ sources:
 # Dynamic self-regulation of brain subsystems enables simultaneous multisource learning beyond conscious attention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Brain subsystems self-regulate unconsciously, constituting an independent source of internal self-regulation that allows learning from multiple sources simultaneously. [→ Heflich 1995](#heflich-1995)

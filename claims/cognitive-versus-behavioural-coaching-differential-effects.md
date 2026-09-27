@@ -26,7 +26,7 @@ sources:
 # Cognitive-only coaching increased deep and achieving learning approaches, academic self-concept, and reduced test anxiety and anxiety/depression, but academic performance declined relative to control; behavioural-only coaching decreased test anxiety and increased academic performance with no other effects.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The cognitive-only coaching program increased deep and achieving approaches to learning and academic self-concepts, reduced test anxiety and nonstudy-related anxiety and depression, while academic performance declined relative to the control group. [→ Grant 2001](#grant-2001)

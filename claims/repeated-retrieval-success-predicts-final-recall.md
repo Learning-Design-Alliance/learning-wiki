@@ -26,7 +26,7 @@ sources:
 # Repeated successful retrieval during learning predicted final recall in both experiments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1`–`i2`
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1`–`i2`
 
 ## Subclaims
 `q3 i2` In Experiment 1, each additional successful retrieval attempt increased the probability of correct final recall. [→ Ariel 2018](#ariel-2018)

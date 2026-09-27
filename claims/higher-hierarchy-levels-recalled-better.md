@@ -26,7 +26,7 @@ sources:
 # Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
 `q2 i?` In Experiment 2 free-recall summaries, recall scores declined from highest to lowest hierarchy levels, with the steepest drop for information placed low by the acquired organization. [→ Eylon 1979](#eylon-1979)

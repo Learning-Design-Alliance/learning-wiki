@@ -26,7 +26,7 @@ sources:
 # Visual imagery is possible without visual perception or experience
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1`–`q2`
+> **Evidence** · 1 study (2 entries) · `q1`–`q2`
 
 ## Subclaims
 `q2 i?` The author's own study supports the hypothesis that visual imagery is possible without visual experience, since congenitally blind subjects show visual dream content, draw it, and show the same alpha-VAI correlation as sighted subjects. [→ Bértolo 2005](#bertolo-2005)

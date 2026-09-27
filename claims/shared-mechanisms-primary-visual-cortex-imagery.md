@@ -26,7 +26,7 @@ sources:
 # Neuroimaging and stimulation evidence supports shared mechanisms: primary visual cortex activation during imagery
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` PET studies show activation of area 17 during mental visual imagery, and rTMS of medial occipital cortex diminished performance on an imagery comparison task. [→ Bértolo 2005](#bertolo-2005)

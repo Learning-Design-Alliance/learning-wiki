@@ -26,7 +26,7 @@ sources:
 # Learners' beliefs about a medium and its processing demands influence the mental effort they invest in processing it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Children's general beliefs about the nature of the medium and its processing demands influence the amount of mental effort ('depth', 'mindfulness') they expend in processing it. [→ Salomon 1983](#salomon-1983)

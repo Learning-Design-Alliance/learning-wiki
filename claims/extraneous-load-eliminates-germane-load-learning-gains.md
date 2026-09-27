@@ -26,7 +26,7 @@ sources:
 # Under high extraneous load (hint presentation and L and rL condition), no test-score increases were observed on identical or near-transfer problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0` negligible
 
 ## Subclaims
 `q2 i?` The hint presentation and L and rL condition showed no increase in test scores on identical problems. [→ Relations between cognitive resources and two types of germane load for learning 2015](#relations-between-cognitive-resources-and-two-types-of-germane-load-for-learning-2015)

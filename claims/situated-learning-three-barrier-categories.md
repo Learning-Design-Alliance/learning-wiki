@@ -32,7 +32,7 @@ sources:
 # Barriers to situated learning fall into three categories: the traditional school system, the traditional educational approach, and teacher training and practice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The traditional school system's vertical, one-way passive teaching disconnects learning from real contexts. [→ Vargas 2024](#vargas-2024)

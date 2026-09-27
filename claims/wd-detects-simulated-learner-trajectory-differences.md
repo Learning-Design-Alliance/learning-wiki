@@ -26,7 +26,7 @@ sources:
 # In simulated epistemic games, the weighted density statistic distinguishes simulated learner types with distinct mastery trajectories, with the expert trajectory showing the largest WD values
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The expert learner trajectory, with perfect mastery of all SKIVE elements throughout the game, shows the largest WD statistic values throughout the game in design matrix 1 games. [→ Sweet 2012](#sweet-2012)

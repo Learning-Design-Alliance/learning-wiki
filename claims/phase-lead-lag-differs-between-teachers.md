@@ -26,7 +26,7 @@ sources:
 # Phase analysis showed Ethan leading the interaction with sameness in Communion and oppositeness in Agency, while Sam led in Communion but followed in Agency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Ethan's phase values (.02 Communion, .46 Agency) implied sameness in Communion, oppositeness in Agency, and teacher leadership; Sam's (.44 Communion, -.44 Agency) implied oppositeness in both dimensions, leading in Communion and following in Agency. [→ Pennings 2017](#pennings-2017)

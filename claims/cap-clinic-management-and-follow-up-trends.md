@@ -26,7 +26,7 @@ sources:
 # Psychological treatment provision increased and no-follow-up registrations declined over time, though reduced non-follow-up may not indicate improved service quality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Provision of parental counseling (F=3.89, p<0.05) and individual psychotherapy (F=15.07, p<0.001) increased significantly across periods. [→ Malhotra S 2007](#malhotra-s-2007)

@@ -26,7 +26,7 @@ sources:
 # Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` The chapter reports that in Rowland's (2014) meta-analysis retrieval practice effects become more robust as initial retrieval success increases, especially when it is greater than 75%. [→ Karpicke 2017](#karpicke-2017)

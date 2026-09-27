@@ -26,7 +26,7 @@ sources:
 # Clarity and concept structure interact for defining and applying concepts, each accounting for about 40-44% of variance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` The ANOVA for defining concepts showed a significant clarity-by-structure interaction, with clarity and the interaction each accounting for 44% of score variance. [→ Snyder 1991](#snyder-1991)

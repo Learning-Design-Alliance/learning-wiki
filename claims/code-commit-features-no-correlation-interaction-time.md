@@ -26,7 +26,7 @@ sources:
 # Code commit features before a help request show no correlation with interaction time, and commit-based scheduling strategies perform no better than FCFS
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0` negligible
 
 ## Subclaims
 `q2 i0` Pearson correlations between commit frequency, last-commit elapsed time, last-commit LOC and interaction time are negligible and non-significant. [→ Z. Gao 2024](#z-gao-2024)

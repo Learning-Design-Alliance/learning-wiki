@@ -26,7 +26,7 @@ sources:
 # Retrieval practice effects on mediator-cued final tests have been positive, but Coppens et al. (2016) concluded the true effect may be only about 0.10 to 0.20
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0` negligible
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Pyc and Rawson (2010), a retrieval practice effect when mediators were used as final-test cues. [→ Karpicke 2017](#karpicke-2017)

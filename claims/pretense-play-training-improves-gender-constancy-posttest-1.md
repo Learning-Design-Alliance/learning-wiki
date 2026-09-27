@@ -26,7 +26,7 @@ sources:
 # Pretense play training improves gender constancy on the first posttest but not the second
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Pretense play training was more effective than the control condition for gender level scores on posttest 1. [→ Golomb 1983](#golomb-1983)

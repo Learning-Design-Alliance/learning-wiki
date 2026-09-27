@@ -32,7 +32,7 @@ sources:
 # Expanding retrieval schedules have not shown consistent advantages over equally spaced or contracting schedules matched on total spacing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports that Karpicke and Bauernschmidt (2011) found no discernable difference among expanding, equally spaced, and contracting relative spacing conditions. [→ Karpicke 2017](#karpicke-2017)

@@ -26,7 +26,7 @@ sources:
 # Self-regulated learning is domain specific, with greater cognitive strategy use in social studies and English than in mathematics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` SRL is domain specific, per the review citing Greene et al. (2015). [→ Abdul Gafoor. K. 2016](#abdul-gafoor-k-2016)

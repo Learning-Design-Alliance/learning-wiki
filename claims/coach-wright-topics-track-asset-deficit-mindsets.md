@@ -26,7 +26,7 @@ sources:
 # In Coach Wright, Asset-mindset participants noticed Jeremy's positive behaviors while Deficit-mindset participants framed behavior as rule compliance, and strength language sometimes appeared without referencing actual strengths
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In Coach Wright, Asset-mindset participants were more likely to observe that Jeremy went right back to work, while Deficit-mindset participants more often raised the school referral policy and Jeremy's long bathroom break. [→ Littenberg-Tobias 2021](#littenberg-tobias-2021)

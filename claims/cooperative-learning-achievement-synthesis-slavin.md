@@ -26,7 +26,7 @@ sources:
 # Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In Slavin's review of 67 controlled studies of four weeks or longer, 41 (61%) found significantly greater achievement in cooperative classes, 25 found no differences, and in only one did the control group outperform. [→ Blosser 1993](#blosser-1993)

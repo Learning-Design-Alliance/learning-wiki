@@ -26,7 +26,7 @@ sources:
 # A theoretical gap exists between delivery-system/media theory and instructional strategy theory and other ISD steps
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` There is no widely accepted theory following in the tradition of the Cone of Experience, leaving a gap in instructional design theory between media selection and other ISD steps. [→ Seels 1997](#seels-1997)

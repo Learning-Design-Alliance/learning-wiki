@@ -32,7 +32,7 @@ sources:
 # Learners who could decide after a trial whether to receive knowledge of results (Self-After, Self-Both) were more accurate on a 24-h motor retention test than learners who decided before the trial (Self-Before) and than their yoked counterparts.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (3 entries) · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` A significant Choice × Decision interaction (F(2,42) = 7.13, p = 0.002, ηp2 = 0.25) was found on retention absolute error. [→ Carter 2014](#carter-2014)

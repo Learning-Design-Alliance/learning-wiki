@@ -26,7 +26,7 @@ sources:
 # Using a stair-step pattern of solar wind input conditions in the simulation portion of the lab led to much better student results than linearly varying conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Having solar wind parameters vary linearly with time leads to poor results because changes take time to propagate through the magnetosphere. [→ Crumley 2015](#crumley-2015)

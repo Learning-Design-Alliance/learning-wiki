@@ -26,7 +26,7 @@ sources:
 # The three collaboration behavior sub-scales are strongly intercorrelated, and mastery correlates with ego-social orientation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
 
 ## Subclaims
 `q2 i3` Task collaboration correlated with discussion/active listening (r=.883) and team functioning (r=.822), and discussion with team functioning (r=.783). [→ Yildirim 2003](#yildirim-2003)

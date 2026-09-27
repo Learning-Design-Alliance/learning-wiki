@@ -26,7 +26,7 @@ sources:
 # Subtypes of publicly engaged scholarship vary by Biglan dimension, with applied faculty reporting five subtypes more often and soft faculty reporting two
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
 `q2 i?` Applied-discipline faculty more often report research funded by business/industry (p=.000), research funded by nonprofits/foundations/government (p=.000), noncredit instruction for public understanding (p=.001), technical assistance (p=.002), and discipline-related advisory boards (p=.018). [→ Doberneck 2017](#doberneck-2017)

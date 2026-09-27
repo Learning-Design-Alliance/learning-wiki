@@ -26,7 +26,7 @@ sources:
 # DKT's input/output representation significantly affects performance, with KC inputs and item outputs working best on most datasets
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The choice of items versus KCs as DKT inputs and outputs considerably impacts performance, and KC inputs with item outputs work best on most datasets. [→ Theophile Gervet 2020](#theophile-gervet-2020)

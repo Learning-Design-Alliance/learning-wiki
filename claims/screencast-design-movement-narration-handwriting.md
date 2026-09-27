@@ -26,7 +26,7 @@ sources:
 # Screencast design findings: static vs. dynamic screen movement, explicit vs. implicit narration, and handwriting preferred though typefaces judged more legible
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The review reports, citing Sugar, Brown, and Luterbach (2010), that screencasts vary in screen movement (static or dynamic, following the cursor) and narrative type (explicit action description or implicit activity description). [→ Chorianopoulos 2018](#chorianopoulos-2018)

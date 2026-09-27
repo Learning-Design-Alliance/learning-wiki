@@ -26,7 +26,7 @@ sources:
 # Teacher self-efficacy is associated with student achievement and with implementing new practices
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1`–`q2`
+> **Evidence** · 1 study (2 entries) · `q1`–`q2`
 
 ## Subclaims
 `q2 i?` The monograph reports, citing Ashton (1984), that teachers with high self-efficacy tend to have students with higher academic achievement than teachers with low self-efficacy. [→ Gall 1994](#gall-1994)

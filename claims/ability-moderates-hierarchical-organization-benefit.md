@@ -26,7 +26,7 @@ sources:
 # Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2`–`q3` · `i2` medium
+> **Evidence** · 1 study (2 entries) · `q2`–`q3` · `i2` medium
 
 ## Subclaims
 `q3 i?` Among low-ability subjects in Experiment 1 there was no significant difference between any treatment means; among medium-ability subjects the H treatment significantly exceeded the combined S1 and S2 mean. [→ Eylon 1979](#eylon-1979)

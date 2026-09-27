@@ -32,7 +32,7 @@ sources:
 # In a game-based problem-solving study, trait self-regulation scores related significantly only to knowledge map scores, with higher planning, self-monitoring, effort and self-efficacy going with better knowledge map performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Across the total sample, significant relationships were found only between trait self-regulation questionnaire scores and knowledge map scores. [→ Shen 2006](#shen-2006)

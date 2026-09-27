@@ -26,7 +26,7 @@ sources:
 # The creativity dimension appears strongly in lower-SES urban black fifth-grade children and shows little relation to IQ
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Fluency scores on the four creativity tasks intercorrelated substantially in the control sample. [→ Ward 1970](#ward-1970)

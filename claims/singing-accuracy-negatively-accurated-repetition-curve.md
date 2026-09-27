@@ -26,7 +26,7 @@ sources:
 # Note-level singing correctness rises with practice repetition in a negatively accelerated curve, gaining about 7 percentage points over 30 repetitions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0` negligible
 
 ## Subclaims
 `q2 i0` Mean correctness increased from 0.656 on the first practice of a pitch to 0.727 on the thirtieth, with the largest gains in the first ten repetitions; the article reports the standardized effect as small (Cohen's h ≈ 0.15). [→ Wei 2026](#wei-2026)

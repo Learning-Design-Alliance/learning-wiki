@@ -26,7 +26,7 @@ sources:
 # Some SSWs hold deficit-based racial attitudes, conflating structural constraints with immigrant cultural values and misreading trauma responses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Some SSWs attributed immigrant students' work and school withdrawal to family cultural values rather than structural constraints, revealing deficit-based racialized attitudes. [→ Rodriguez 2022](#rodriguez-2022)

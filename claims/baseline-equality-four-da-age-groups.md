@@ -26,7 +26,7 @@ sources:
 # The four DA-by-age groups were statistically equivalent in general English proficiency and pre-test writing accuracy before treatment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` One-way ANOVA on PET scores showed no difference among the four groups (p=0.90). [→ Kashef 2024](#kashef-2024)

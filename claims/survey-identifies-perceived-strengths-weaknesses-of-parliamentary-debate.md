@@ -26,7 +26,7 @@ sources:
 # Coaches and students perceive distinct strengths and weaknesses of parliamentary debate relative to other formats
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Coaches most frequently listed real world arguments, tests of quick thinking, organization, and humor as strengths, and lack of cross-examination, the judging pool, talent, and sophistry as weaknesses. [→ Jensen 1996 (2)](#jensen-1996-2)

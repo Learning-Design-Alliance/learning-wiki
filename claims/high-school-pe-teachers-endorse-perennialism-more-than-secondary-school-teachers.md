@@ -26,7 +26,7 @@ sources:
 # Physical education teachers working in high school endorse perennialism more than those in secondary school, with no significant school-type difference in the other four philosophies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` School type was significantly associated only with perennialism (U = 45945.00, p < 0.05); the other sub-dimensions showed no significant difference (p > 0.05). [→ Isikgoz 2020](#isikgoz-2020)

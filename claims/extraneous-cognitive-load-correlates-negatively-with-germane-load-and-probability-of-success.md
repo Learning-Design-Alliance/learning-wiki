@@ -26,7 +26,7 @@ sources:
 # Self-reported extraneous cognitive load correlates negatively with germane load and with expected probability of success in an algebra task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i0`–`i1`
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0`–`i1`
 
 ## Subclaims
 `q2 i1` Extraneous and germane cognitive load were negatively correlated (r = -.264, p < .01). [→ Gupta 2020](#gupta-2020)

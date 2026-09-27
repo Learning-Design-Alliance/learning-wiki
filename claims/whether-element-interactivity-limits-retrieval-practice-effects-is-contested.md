@@ -38,7 +38,7 @@ sources:
 # The argument that retrieval practice effects do not occur with materials high in element interactivity is contested, and the chapter judges its research base not convincing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 4 studies · `q1`–`q2`
+> **Evidence** · 1 study (4 entries) · `q1`–`q2`
 
 ## Subclaims
 `q1 i?` The chapter reports that van Gog and Sweller (2015) argued retrieval practice effects do not occur with materials high in element interactivity. [→ Karpicke 2017](#karpicke-2017)

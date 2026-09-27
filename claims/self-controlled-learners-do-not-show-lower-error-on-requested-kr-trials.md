@@ -32,7 +32,7 @@ sources:
 # In this experiment, self-controlled learners showed no difference in error between trials on which they requested knowledge of results and trials on which they did not, whereas yoked learners had lower error on no-KR trials.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2`–`q3` · `i1`–`i3`
+> **Evidence** · 1 study (3 entries) · `q2`–`q3` · `i1`–`i3`
 
 ## Subclaims
 `q3 i1` A Choice × Type interaction (F(1,42) = 5.80, p= 0.021, ηp2 = 0.12): Yoked groups had lower AE on no-KR than KR trials, with no KR versus no-KR differences for the self-controlled groups. [→ Carter 2014](#carter-2014)

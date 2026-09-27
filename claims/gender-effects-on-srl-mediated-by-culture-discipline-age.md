@@ -26,7 +26,7 @@ sources:
 # Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In an Asian (Korean) sample, girls showed significantly lower academic self-efficacy, interest and self-regulation in mathematics than boys. [→ Abdul Gafoor. K. 2016](#abdul-gafoor-k-2016)

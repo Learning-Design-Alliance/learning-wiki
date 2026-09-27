@@ -26,7 +26,7 @@ sources:
 # Effects of instructions on some measures were inconsistent across experiments, and instructed students did not recall all items to criterion
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Cumulative attempted recall did not differ between groups in either Experiment 2 session, unlike Experiment 1. [→ Ariel 2018](#ariel-2018)

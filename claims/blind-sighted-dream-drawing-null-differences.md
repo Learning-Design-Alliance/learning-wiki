@@ -26,7 +26,7 @@ sources:
 # Dream-content and drawing measures show almost no group differences between congenitally blind and sighted subjects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Neither the Global Activity Index nor the Visual Activity Index differed between blind and sighted groups in dream reports. [→ Bértolo 2005](#bertolo-2005)

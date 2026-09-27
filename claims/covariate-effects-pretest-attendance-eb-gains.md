@@ -26,7 +26,7 @@ sources:
 # Pretest, attendance, and EB status showed distinct covariate effects on specific literacy outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Higher pretest early literacy skills predicted 10-12% lower growth on the three taught letter outcomes. [→ Vadasy 2023](#vadasy-2023)

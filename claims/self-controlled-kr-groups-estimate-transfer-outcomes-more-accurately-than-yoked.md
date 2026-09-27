@@ -26,7 +26,7 @@ sources:
 # On a motor transfer test, self-controlled knowledge-of-results groups estimated their outcomes more accurately than yoked groups, and among self-controlled groups Self-After and Self-Both were more accurate than Self-Before.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` In transfer, only the main effect for Choice on absolute difference was significant (F(1,42) = 19.29, p< 0.001, ηp2 = 0.31): self-controlled groups (M = 14.68) were more accurate than Yoked groups (M = 23.67). [→ Carter 2014](#carter-2014)

@@ -26,7 +26,7 @@ sources:
 # Implementation of the TPI procedure reached only one tutor-trainee pair out of nine potential tutors, though participants assessed it positively
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In the implementation case study with UNPA Master's Degree tutors using Mahara, out of 9 potential tutors only one tutor-trainee researcher pair could be formed, yet the two participants who put the procedure into practice assessed it highly positively. [→ Darder 2015](#darder-2015)

@@ -26,7 +26,7 @@ sources:
 # Access to and consistent use of automated centring technology remain limited among CT radiographers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Only 34.3% of respondents had access to auto-centring technology and 56.7% reported no access. [→ Hadi Yasser H. 2026](#hadi-yasser-h-2026)

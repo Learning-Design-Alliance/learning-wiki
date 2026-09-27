@@ -26,7 +26,7 @@ sources:
 # Two gendered classroom cultures coexisted: rule-following vocal girls and disruptive boys receiving disproportionate time and space
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Across the school groups, with one exception, observation revealed a culture of rule-following, helpful vocal girls alongside a culture of disruptive boys who received a disproportionate amount of teacher time and space. [→ Norberg 2003](#norberg-2003)

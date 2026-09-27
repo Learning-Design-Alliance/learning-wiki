@@ -26,7 +26,7 @@ sources:
 # Elaborative processing of prose enhances later retrievability, accounting for roughly 30% of variance in one-month recall when original learning is controlled
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
 `q2 i2` With degree of original learning controlled across levels of elaborative processing, elaborative processing showed a powerful effect on retrieval, accounting for roughly 30% of the variance in one-month recall of propositions. [→ Gagne 1981](#gagne-1981)

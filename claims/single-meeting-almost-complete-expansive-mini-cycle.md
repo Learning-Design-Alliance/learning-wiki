@@ -26,7 +26,7 @@ sources:
 # A single meeting of self-regulating pre-service teachers contained an almost complete expansive mini-cycle of learning actions, with all expansive actions except consolidating the new practice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In one two-hour meeting of six pre-service teachers, all expansive learning actions of the cycle were identified except consolidating the new practice. [→ Rantavuori 2016](#rantavuori-2016)

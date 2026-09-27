@@ -26,7 +26,7 @@ sources:
 # Under unclear presentation, a more complex concept structure lessens students' ability to identify concepts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1`–`i2`
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1`–`i2`
 
 ## Subclaims
 `q3 i1` With unclear lessons, the classical attribute group identified examples significantly better than the variable coordinate group. [→ Snyder 1991](#snyder-1991)

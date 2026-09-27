@@ -26,7 +26,7 @@ sources:
 # A tool's effectiveness results from the whole configuration of events, activities, and contexts in which it is used
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Salomon's principle, cited by the paper, holds that no tool is good or bad in itself; effectiveness results from the whole configuration of events, activities, contexts, and interpersonal processes in which it is used, and introducing a tool alone changes little. [→ Gilbert 1999](#gilbert-1999)

@@ -26,7 +26,7 @@ sources:
 # Reviewed studies report experiential learning benefits for engagement, skills, confidence and outcomes in human services education
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The literature review reports, citing Clem, Mennicke and Beasley (2014), that experiential learning increases student engagement, practical skill development and ethical reasoning and judgement in human services education. [→ Patil 2020](#patil-2020)

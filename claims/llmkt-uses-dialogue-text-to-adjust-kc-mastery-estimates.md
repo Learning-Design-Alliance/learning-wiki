@@ -26,7 +26,7 @@ sources:
 # In a qualitative case study, LLMKT adjusts KC mastery estimates using the dialogue's textual content, such as the difficulty of the tutor's question, rather than only prior correctness labels.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` LLMKT excels in cases when it relies on textual information, rather than correctness labels, to adjust its KC mastery estimates. [→ Alexander Scarlatos 2024](#alexander-scarlatos-2024)

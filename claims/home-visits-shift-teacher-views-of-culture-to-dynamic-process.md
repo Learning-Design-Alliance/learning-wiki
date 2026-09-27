@@ -26,7 +26,7 @@ sources:
 # Home visits in funds of knowledge research led teachers to see culture as a dynamic process rather than only dances, food and folklore.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Teachers voiced that viewing households as repositories of funds of knowledge challenges notions of culture as only represented through dances, food, folklore, and the like. [→ Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994](#funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994)

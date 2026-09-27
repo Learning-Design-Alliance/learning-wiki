@@ -26,7 +26,7 @@ sources:
 # High- and low-prior-knowledge learners differ significantly on an algebra posttest and on intrinsic and germane cognitive load, but not on extraneous load
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` Prior knowledge (high vs low) had significant main effects on the posttest (F1, 107 = 121.64, p < .001, ŋ2 = .53), intrinsic load (ŋ2 = .17) and germane load (ŋ2 = .15). [→ Gupta 2020](#gupta-2020)

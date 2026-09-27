@@ -26,7 +26,7 @@ sources:
 # Only support for affective engagement predicts its matching engagement dimension; behavioral and cognitive support do not, contradicting the ACE framework's alignment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i0`–`i3`
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i0`–`i3`
 
 ## Subclaims
 `q3 i3` Support for Affective Engagement strongly predicted Affective Engagement (β = 1.163, p < .001) and also predicted Behavioral (β = 0.802) and Cognitive Engagement (β = 0.589). [→ Graham 2023](#graham-2023)

@@ -26,7 +26,7 @@ sources:
 # Under busy or normal queue load, the New Student First (NSF) strategy significantly increases the percentage of students who receive help compared with FCFS, LWF, and VLWF
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
 `q2 i2` Under busy load, around 65% of students receive help with NSF versus around 54% with the other three strategies (p<0.01). [→ Z. Gao 2024](#z-gao-2024)

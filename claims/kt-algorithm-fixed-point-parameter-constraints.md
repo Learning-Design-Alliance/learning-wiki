@@ -26,7 +26,7 @@ sources:
 # Fixed point analysis of the Knowledge Tracing Algorithm yields parameter constraints P(G)+P(S)<1 and 0<P(T)<(1−P(S))/(1−P(G)) for sensible behavior
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` For P(Lj|Oj) to remain in [0,1] and converge properly, the parameters must satisfy P(G)+P(S)<1 and 0<P(T)<(1−P(S))/(1−P(G)); the P(T) constraint completely supersedes the other. [→ Brett Van de Sande 2013](#brett-van-de-sande-2013)

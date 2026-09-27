@@ -26,7 +26,7 @@ sources:
 # Dataset size moderates the LR-versus-DKT comparison: Best-LR dominates in low and medium data regimes and DKT takes over in the high data regime
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` On the squirrel dataset, Best-LR dominates below one million training interactions and DKT takes over above that. [→ Theophile Gervet 2020](#theophile-gervet-2020)

@@ -26,7 +26,7 @@ sources:
 # The Self-Reflection and Insight Scale comprises two factors, self-reflection and insight, with distinct correlational profiles; diary keepers show higher self-reflection but lower insight.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Two factor analyses found the SRIS comprised two factors, self-reflection (SRIS-SR) and insight (SRIS-IN); SRIS-SR correlated positively with anxiety and stress, while SRIS-IN correlated negatively with depression, anxiety, stress and alexithymia and positively with cognitive flexibility and self-regulation. [→ Grant 2001](#grant-2001)

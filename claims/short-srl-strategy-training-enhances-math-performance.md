@@ -26,7 +26,7 @@ sources:
 # Short-term self-regulatory strategy training, including within regular mathematics lessons, enhances students' self-regulatory judgments and mathematics performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Self-regulatory strategy training greatly enhanced students' self-regulatory judgments and math performance among fifth and sixth graders. [→ Abdul Gafoor. K. 2016](#abdul-gafoor-k-2016)

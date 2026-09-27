@@ -26,7 +26,7 @@ sources:
 # Expert former math teachers rated GPT-4o's dialogue annotations very highly for student correctness and moderate-to-high for knowledge components, with volatile inter-rater reliability.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Three former math teachers rating 166 turn pairs from 30 CoMTA dialogues gave GPT-4o very high scores for correctness and moderate-to-high scores for KCs. [→ Alexander Scarlatos 2024](#alexander-scarlatos-2024)

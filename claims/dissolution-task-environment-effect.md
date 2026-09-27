@@ -26,7 +26,7 @@ sources:
 # Learning environment significantly affected students' use of causal mechanistic reasoning on the dissolution task, with the core ideas environment highest at 40%
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` On the dissolution task, 20%, 19%, and 40% of student responses exhibited causal mechanistic reasoning in the active, didactic, and core ideas learning environments, respectively, and a chi-square test showed a significant environment effect with a moderate effect size of 0.352. [→ Scharlott 2024](#scharlott-2024)

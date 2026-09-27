@@ -26,7 +26,7 @@ sources:
 # Early-stage therapist complementarity does not differ by outcome group, and the predicted later-stage advantage for successful dyads was not supported
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` During the early stage, all therapists responded at a moderate complementarity level with no significant outcome-group difference (t = 0.716, p > .05). [→ Dietzel 1974](#dietzel-1974)

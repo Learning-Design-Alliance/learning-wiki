@@ -38,7 +38,7 @@ sources:
 # Country classifications of control type differ sharply by domain: mixed control dominates assessment, internal control dominates curriculum
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 4 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (4 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In assessment, 26 countries fell in the mixed control group and only four in consistent external control; in curriculum, only three countries met consistent external control criteria while 22 met consistent internal control. [→ Kim 2019](#kim-2019)

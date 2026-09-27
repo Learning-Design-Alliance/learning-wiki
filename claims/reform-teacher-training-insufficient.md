@@ -26,7 +26,7 @@ sources:
 # SEP national monitoring reports indicate insufficient teacher training for the reform: 35% of surveyed teachers requested training in planning and design of didactic activities, and about 30% of directors rated induction-workshop information as poorly adequate or inadequate
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In the fifth national report, 35% of contributing teachers stated that improving application of the study programs requires training in planning, design and diversification of didactic situations and activities. [→ Alfonso Cuervo 2008](#alfonso-cuervo-2008)

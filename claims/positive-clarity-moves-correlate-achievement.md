@@ -26,7 +26,7 @@ sources:
 # Each positive clarity move (keys, links, framing, focusing, examples) correlates positively with every concept achievement measure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` Keys, links, frames, focusing moves, and examples each had positive significant correlations with application achievement (e.g., keys r(57)=.58). [→ Snyder 1991](#snyder-1991)

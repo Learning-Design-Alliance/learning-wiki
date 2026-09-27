@@ -26,7 +26,7 @@ sources:
 # Elaborative interrogation instructions produce better recall and recognition of science facts than reading-for-understanding instructions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i?` In Experiment 1, across all recall and recognition measures, elaborative-interrogation subjects performed significantly better than reading controls. [→ Woloshyn 1992](#woloshyn-1992)

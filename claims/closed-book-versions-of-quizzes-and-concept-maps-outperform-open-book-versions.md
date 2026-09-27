@@ -26,7 +26,7 @@ sources:
 # The same quizzing or concept-mapping activity produces more learning when done without viewing the material, as retrieval, than while viewing it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Agarwal et al. (2008), that open-book short-answer quizzes led to more forgetting over 1 week than closed-book quizzes. [→ Karpicke 2017](#karpicke-2017)

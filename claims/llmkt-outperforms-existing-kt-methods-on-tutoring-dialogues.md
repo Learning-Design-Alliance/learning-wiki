@@ -26,7 +26,7 @@ sources:
 # LLMKT outperforms existing knowledge tracing methods at predicting student turn correctness in the CoMTA and MathDial tutoring dialogue datasets, and generally outperforms DKT-Sem.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` LLMKT significantly outperforms all existing KT methods (BKT, DKT, DKVMN, AKT, SAINT, simpleKT) and generally outperforms DKT-Sem on both datasets. [→ Alexander Scarlatos 2024](#alexander-scarlatos-2024)

@@ -26,7 +26,7 @@ sources:
 # Retrieval practice benefits learners regardless of trait anxiety level, but higher trait or induced anxiety is associated with smaller testing effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Tse and Pu (2012) and Mok and Chan (2016), benefits regardless of anxiety scores, but smaller testing effects for higher trait anxiety. [→ Karpicke 2017](#karpicke-2017)

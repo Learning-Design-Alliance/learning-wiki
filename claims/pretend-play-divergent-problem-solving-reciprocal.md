@@ -26,7 +26,7 @@ sources:
 # Pretend play and divergent problem solving show a reciprocal relationship, with cooperative play broadly and thematic play specifically influential
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Training studies found bidirectional effects: divergent problem-solving training increased thematic play, and pretend play training increased semantic and figural problem solving. [→ Bergen 2002](#bergen-2002)

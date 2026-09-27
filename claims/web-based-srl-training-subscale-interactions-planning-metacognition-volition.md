@@ -26,7 +26,7 @@ sources:
 # Web-based SRL training interventions produced statistically significant group by time interactions on the SRL subscales planning, self-motivation, volition, elaboration and metacognition, but not on goal-setting or reflection
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Univariate ANOVAs showed significant interactions for planning, self-motivation, volition, elaboration and metacognition, with Group TDP outperforming the other two intervention groups. [→ Bellhäuser 2022](#bellhauser-2022)

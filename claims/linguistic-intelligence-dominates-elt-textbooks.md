@@ -26,7 +26,7 @@ sources:
 # Linguistic intelligence dominated both series while natural intelligence was least frequent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In the Interchange series, linguistic intelligence (47%) was most frequent and natural intelligence (1.09%) least frequent. [→ Mahmoud Abdi Tabari & Iman Abdi Tabari 2015](#mahmoud-abdi-tabari-iman-abdi-tabari-2015)

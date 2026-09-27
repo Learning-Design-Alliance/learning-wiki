@@ -26,7 +26,7 @@ sources:
 # Mainstream American linguistics can state formal alternatives but cannot derive workable criteria for deciding among them
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The article concludes that the mainstream of American linguistics can be used to state at least some formal alternatives, but not to derive workable criteria for making decisions about those alternatives. [→ de Beaugrande 1977](#de-beaugrande-1977)

@@ -44,7 +44,7 @@ sources:
 # Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 5 studies · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study (5 entries) · `q2` quasi-experiment · `i0` negligible
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Butler and Roediger (2007), that performance on a final short-answer test 1 month later was best after an initial short-answer test. [→ Karpicke 2017](#karpicke-2017)

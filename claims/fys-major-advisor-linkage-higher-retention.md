@@ -26,7 +26,7 @@ sources:
 # First-year seminars populated by major or advisor show higher retention than unconnected seminars
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The review reports students in FYS sections connected to a major or advisor were retained at 83% versus 76% for unconnected sections. [→ Zak-Moskal 2020](#zak-moskal-2020)

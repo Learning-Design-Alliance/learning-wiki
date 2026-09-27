@@ -26,7 +26,7 @@ sources:
 # SRL interventions in a four-week online mathematics preparation course did not significantly change the mathematics overall score (interaction marginal), while the mathematics focus score on self-chosen chapters showed a statistically significant group by time interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` The group by time interaction for the mathematics overall score marginally missed statistical significance, although descriptive statistics indicated the hypothesized direction. [→ Bellhäuser 2022](#bellhauser-2022)

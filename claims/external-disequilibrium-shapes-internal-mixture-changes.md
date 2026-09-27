@@ -26,7 +26,7 @@ sources:
 # External disequilibrium level systematically influences subsequent changes in internal disequilibrium: discrepant conditions increase mixture among low mix subjects and decrease it among high mix subjects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Among low internal disequilibrium subjects in +1 and +2 conditions, Level Mixture increased from pretest to posttest and delayed posttest. [→ Snyder 1975](#snyder-1975)

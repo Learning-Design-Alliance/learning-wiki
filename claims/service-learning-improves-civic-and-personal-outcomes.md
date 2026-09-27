@@ -26,7 +26,7 @@ sources:
 # Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students in integrated quality projects using service-learning reported improvements in self-efﬁcacy, self-esteem, positive attitudes towards school, and increased community-participation behaviors. [→ Naval 2022](#naval-2022)

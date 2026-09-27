@@ -32,7 +32,7 @@ sources:
 # The benefits of retrieval practice do not depend on an exact match between initial retrieval practice conditions and the final test format
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter concludes from studies of cue direction, question rewording, maps, and free recall to short answer that benefits do not depend on exact format matching. [→ Karpicke 2017](#karpicke-2017)

@@ -26,7 +26,7 @@ sources:
 # Knowledge tracing performance on tutoring dialogues is relatively low, with a maximum of around 76% AUC, which the authors take to show dialogueKT is a challenging task.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1`–`q2`
+> **Evidence** · 1 study (2 entries) · `q1`–`q2`
 
 ## Subclaims
 `q2 i?` Performance of all KT methods is relatively low on dialogueKT, with a maximum of around 76% AUC for student turn correctness prediction. [→ Alexander Scarlatos 2024](#alexander-scarlatos-2024)

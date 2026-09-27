@@ -26,7 +26,7 @@ sources:
 # Teacher-guided matching activities and peer scaffolding during grid and path games advanced preschool children's one-to-one correspondence and counting skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` After repeated teacher-mediated matching interactions, Rachel spontaneously applied one-to-one correspondence in new contexts (frogs on leaves, cups at snack). [→ Kirova 2002](#kirova-2002)

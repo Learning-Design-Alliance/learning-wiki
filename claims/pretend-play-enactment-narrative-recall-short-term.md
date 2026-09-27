@@ -26,7 +26,7 @@ sources:
 # Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i0` negligible
 
 ## Subclaims
 `q3 i?` Children in pretend play story-enactment conditions used more elaborative narratives with higher narrative structure and better recall at the first two time periods, but showed no recall advantage later without prompts. [→ Bergen 2002](#bergen-2002)

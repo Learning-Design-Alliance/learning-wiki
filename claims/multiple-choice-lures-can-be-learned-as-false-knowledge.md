@@ -26,7 +26,7 @@ sources:
 # Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Roediger and Marsh (2005), that on a later cued recall test students tended to produce incorrect responses they had selected on the initial multiple-choice test. [→ Karpicke 2017](#karpicke-2017)

@@ -26,7 +26,7 @@ sources:
 # Cognitive elaboration strategy significantly affects overall posttest performance, with self-generated elaboration highest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The effect of cognitive elaboration strategies on total posttest scores was significant at the 10% level, and remained significant at the 5% level when GPA was included as a factor. [→ Xiong 2014](#xiong-2014)

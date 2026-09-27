@@ -26,7 +26,7 @@ sources:
 # Radiographers show substantial uncertainty about how localiser radiograph direction affects radiation dose and ATCM behaviour
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Only 31.0% considered the effect of localiser direction on dose definite, 35.4% thought it probable, and 14.1% were uncertain, indicating incomplete recognition of a modifiable dose factor. [→ Hadi Yasser H. 2026](#hadi-yasser-h-2026)

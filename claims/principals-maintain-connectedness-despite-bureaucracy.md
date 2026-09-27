@@ -26,7 +26,7 @@ sources:
 # Female principals maintained autonomy and connectedness despite hierarchical bureaucratic structures, and reported no isolation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In spite of the hierarchical structure of their districts, each principal maintained a sense of autonomy within her own school and worked to establish connectedness with staff and students. [→ Kropiewnicki 2001](#kropiewnicki-2001)

@@ -26,7 +26,7 @@ sources:
 # Existing KT methods fail to beat a majority-class baseline on the small CoMTA dialogue dataset but perform significantly better on the larger MathDial dataset.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` On CoMTA, all existing KT methods almost completely fail, unable to outperform the majority-class baseline (Acc. 57.83±5.08, AUC 50.0±0.00, F1 58.87±29.70). [→ Alexander Scarlatos 2024](#alexander-scarlatos-2024)
