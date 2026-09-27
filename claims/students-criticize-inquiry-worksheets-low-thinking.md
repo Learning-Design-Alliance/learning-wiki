@@ -26,7 +26,7 @@ sources:
 # Some students found the guided-inquiry worksheet activities insufficiently thought-provoking and the data exchange troublesome
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Student feedback indicated the activity worksheet did not generate much thinking or concept understanding, mainly presenting values to copy. [→ Loo Kang WEE 2015](#loo-kang-wee-2015)

@@ -26,7 +26,7 @@ sources:
 # A 13-week TPACK-based course significantly improves pre-service preschool teachers' instructional design competence compared with traditional instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` After the TPACK-based course, the experimental class scored significantly higher on the IDC scale than the control class (post-test means 4.2950 vs 3.9350, p = 0.018). [→ Ren 2025](#ren-2025)

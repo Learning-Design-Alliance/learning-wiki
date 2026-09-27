@@ -26,7 +26,7 @@ sources:
 # Early-stage IDC growth shows simplification, linearity, and dogmatism, with focal points shifting from format to content to technology across rounds
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Across the three design rounds, novice focus shifted from format completeness and correctness, to content effectiveness and objectives, to technology integration (PowerPoint, videos, audio). [→ Ren 2025](#ren-2025)

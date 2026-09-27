@@ -26,7 +26,7 @@ sources:
 # Teaching experience is significantly and positively related to Iranian EFL teachers' awareness of all four critical pedagogy factors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` Pearson correlations showed significant positive relationships between teaching experience and each of the four factors, ranging from r = .20 (weak to moderate) to r = .45 (almost large). [→ Mahmoodarabi 2015](#mahmoodarabi-2015)

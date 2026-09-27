@@ -26,7 +26,7 @@ sources:
 # Stakeholder consultation with 60 WIL students, employers, and educators generated 1,806 behavioral examples distilled into 59
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Surveys of WIL students (n = 18), employers (n = 16), and educators (n = 26) produced 1,806 behavioral example responses, averaging 41.1 examples per talent (SD = 3.22). [→ Pretti 2021](#pretti-2021)

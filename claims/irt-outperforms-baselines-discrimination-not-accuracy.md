@@ -26,7 +26,7 @@ sources:
 # A one-parameter IRT model outperforms global and per-pitch baselines on AUC, BCE and Brier score but not on threshold accuracy for held-out singing attempts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The IRT model's AUC advantage over the global and per-pitch baselines was 0.172 and 0.131, with bootstrap confidence intervals excluding zero. [→ Wei 2026](#wei-2026)

@@ -26,7 +26,7 @@ sources:
 # One-level and two-level external disequilibrium conditions did not differ significantly, and all Modal Level advances occurred to exactly one level above the subject's mode
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The +1 versus +2 comparison on adjusted posttest Map Drawing Mean revealed no significant difference. [→ Snyder 1975](#snyder-1975)

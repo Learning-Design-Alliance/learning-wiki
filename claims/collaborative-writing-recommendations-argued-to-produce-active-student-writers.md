@@ -26,7 +26,7 @@ sources:
 # Acting on the collaborative writing recommendations is argued to produce active student writers who attend to what their peers say
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The author submits that acting on the recommendations will yield active student writers who focus attentively on peers' responses to prepared problems. [→ DeCiccio 1988](#deciccio-1988)

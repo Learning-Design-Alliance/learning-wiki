@@ -26,7 +26,7 @@ sources:
 # Educator activity style should match the group's leadership capacity: low activity style with well-developed leadership, high activity style without it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` If leadership capacity is well-developed in the group, a low activity educator style positively influences additional group growth. [→ Campbell 1978](#campbell-1978)

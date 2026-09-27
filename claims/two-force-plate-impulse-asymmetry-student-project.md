@@ -26,7 +26,7 @@ sources:
 # Two-force-plate recording revealed individual left-right impulse asymmetries in student jumps while total takeoff and landing impulses remained comparable
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In Kristina's jumps, the takeoff impulse was dominated by the left foot while the right foot dominated the landing, suggesting tilting during the jump. [→ Richard P. Barber 2006](#richard-p-barber-2006)

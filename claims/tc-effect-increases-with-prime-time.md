@@ -26,7 +26,7 @@ sources:
 # The TC effect grows with prime time: it is significantly larger at 300 ms than at 60 ms and 150 ms, and does not decrease with longer prime time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` The prime time × prime type interaction was significant, with the TC effect significantly larger in the 300 ms condition than in the 60 ms and 150 ms conditions. [→ Geng Yaoyao 2026](#geng-yaoyao-2026)

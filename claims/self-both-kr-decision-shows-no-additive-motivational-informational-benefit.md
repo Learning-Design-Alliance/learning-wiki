@@ -26,7 +26,7 @@ sources:
 # Allowing learners to request knowledge of results before a trial and then revise the choice after it (Self-Both) did not produce learning beyond deciding only after the trial (Self-After), which the authors take as no support for an additive motivational-plus-informational effect.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` Self-After (M = 10.04) and Self-Both (M = 12.45) did not differ significantly in retention absolute error; equivalence was not tested. [→ Carter 2014](#carter-2014)

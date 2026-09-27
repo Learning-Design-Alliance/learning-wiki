@@ -26,7 +26,7 @@ sources:
 # Regression analysis shows the MTCS method significantly degrades dilation-parameter precision relative to the Ratio of Eigenvalues method, while simulation factors explain most RMSE variation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` In the regression predicting Log[RMSE] of the k estimate, the standardized coefficient for MTCS versus Ratio of Eigenvalues was 0.652 (significant), while Ratio of Trace versus Ratio of Eigenvalues was 0.067 (not significant); adjusted R2 ranged from 0.86 to 0.90. [→ Li 1998](#li-1998)

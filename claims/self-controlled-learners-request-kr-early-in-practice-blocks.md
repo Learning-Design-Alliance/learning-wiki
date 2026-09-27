@@ -26,7 +26,7 @@ sources:
 # When restricted to three knowledge-of-results requests per 10-trial block, all three self-controlled groups requested KR mostly on early trials of a block, a massed schedule.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Self-Before and Self-Both used KR requests predominantly on trials 1, 2 and 3; Self-After predominantly on trials 1, 3 and 4. [→ Carter 2014](#carter-2014)

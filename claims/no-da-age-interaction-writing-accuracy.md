@@ -26,7 +26,7 @@ sources:
 # No interaction between treatment type (interactionist vs. interventionist DA) and learners' age on writing accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The two-way ANOVA DA-by-age interaction on writing accuracy was non-significant (p=0.650). [→ Kashef 2024](#kashef-2024)

@@ -26,7 +26,7 @@ sources:
 # Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` In qualitative survey excerpts and informal interviews, students said the lesson was fun and made them think rather than just listen and remember. [→ Loo Kang WEE 2015](#loo-kang-wee-2015)

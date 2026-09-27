@@ -26,7 +26,7 @@ sources:
 # Cultural processes and forms of epistemic injustice should be taken into account in understanding how inequalities in education are produced and maintained
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` A conceptual article argues that cultural processes (identification and rationalization) and epistemic injustice forms should be considered in understanding the production and maintenance of inequalities in education. [→ Göktürk 2021](#gokturk-2021)

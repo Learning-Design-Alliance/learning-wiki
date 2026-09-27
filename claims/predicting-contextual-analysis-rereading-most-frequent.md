@@ -26,7 +26,7 @@ sources:
 # Predicting, using contextual analysis, and rereading were the most frequently used metacognitive behaviors; deciding when to stop, independent reading time, and testing were least frequent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Across all 1,570 students, predicting (721), using contextual analysis (618), rereading (532), and modeling and discussing one's own reading process (316) were the most frequently manifested behaviors. [→ Gil 2001](#gil-2001)

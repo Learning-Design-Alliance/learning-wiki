@@ -26,7 +26,7 @@ sources:
 # No significant gender difference in word-problem performance on either formatted or unformatted test forms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0` negligible
 
 ## Subclaims
 `q2 i?` Males and females did not differ significantly on the formatted test (p = .110) or the unformatted test (p = .294), pre or post. [→ Zambo 1994](#zambo-1994)

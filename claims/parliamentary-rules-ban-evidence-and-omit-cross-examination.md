@@ -26,7 +26,7 @@ sources:
 # Parliamentary rules ban published evidence and omit cross examination, which the author argues undermines argumentation training
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Parliamentary debate discourages specific knowledge and bans published material in rounds, which the author argues voids critical components of academic debate training. [→ Jensen 1996](#jensen-1996)

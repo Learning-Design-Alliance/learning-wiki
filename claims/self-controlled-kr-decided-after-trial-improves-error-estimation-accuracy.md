@@ -26,7 +26,7 @@ sources:
 # Learners who could decide after a trial whether to receive knowledge of results estimated their own movement outcomes more accurately in retention than Self-Before learners and their yoked counterparts.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` A significant Choice × Decision interaction on retention absolute difference between estimated and actual outcome (F(2,42) = 7.19, p= 0.002, ηp2 = 0.26) showed Self-After (M = 10.44) and Self-Both (M = 13.80) more accurate than Self-Before (M = 27.01). [→ Carter 2014](#carter-2014)

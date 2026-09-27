@@ -32,7 +32,7 @@ sources:
 # Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Karpicke and Roediger (2007a, Experiment 3), that a small spacing cut initial recall by about 25% but enhanced retention on final tests 10 min or 2 days later. [→ Karpicke 2017](#karpicke-2017)

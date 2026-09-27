@@ -26,7 +26,7 @@ sources:
 # CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while facilitation behaviors and resolution-phase items rated below 4.0
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Teaching presence was most strongly felt via course organization items (e.g., clear instructions M = 4.31) while various facilitation behaviors received ratings below 4.0. [→ Honig 2021](#honig-2021)

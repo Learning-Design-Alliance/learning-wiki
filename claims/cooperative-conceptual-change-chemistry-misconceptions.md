@@ -26,7 +26,7 @@ sources:
 # Conceptual change strategies in cooperative groups reduced misconceptions in community college chemistry, but poor group leadership undermined discussion
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` Audio-tape analysis in Basili and Sanford's pretest-posttest control-group study found a significantly lower proportion of misconceptions for four of the five concepts on the posttest for the experimental group. [→ Blosser 1993](#blosser-1993)

@@ -26,7 +26,7 @@ sources:
 # Fidelity of implementation of early language curricula varies widely across teachers and studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Prior studies of pre-k language and literacy curricula report substantial variability in adherence (e.g., 76–82% average; 79–93% range; one study averaging 38% of core targets) and dosage (73% of intended lessons). [→ Tricia A. Zucker 2021](#tricia-a-zucker-2021)

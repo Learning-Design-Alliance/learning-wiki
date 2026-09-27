@@ -32,7 +32,7 @@ sources:
 # Answers to elaborative interrogation questions were mostly poor in quality, and answer quality correlated positively with posttest scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (3 entries) · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i?` The overwhelming majority of elaborative interrogation answers were missing, circular, wrong, or inadequate. [→ Clinton 2016](#clinton-2016)

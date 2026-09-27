@@ -32,7 +32,7 @@ sources:
 # Whether initial retrieval practice enhances semantic organization in final free recall is unclear, with results that may depend on how retrieval practice is implemented
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Zaromb and Roediger (2010) and Congleton and Rajaram (2012), that initial free recall practice enhanced final semantic organization. [→ Karpicke 2017](#karpicke-2017)

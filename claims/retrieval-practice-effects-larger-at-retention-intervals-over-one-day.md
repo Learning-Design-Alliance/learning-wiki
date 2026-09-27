@@ -26,7 +26,7 @@ sources:
 # Retrieval practice effects are larger at retention intervals greater than 1 day (g = 0.69) than at intervals less than 1 day (g = 0.41) in Rowland's (2014) meta-analysis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Rowland's (2014) meta-analysis, as reported in the chapter, found g = 0.69 at retention intervals greater than 1 day. [→ Karpicke 2017](#karpicke-2017)

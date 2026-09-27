@@ -26,7 +26,7 @@ sources:
 # Program experiments on the McClelland & Rumelhart interactive activation model turned thought experiments into real tests, revealing friends-enemies, rich-get-richer, and gang effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Modifying the program's knowledge base let the authors equate stimuli across mask types, turning thought experiments into real tests of the theory. [→ Neches 1982](#neches-1982)

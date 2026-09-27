@@ -26,7 +26,7 @@ sources:
 # A combined cognitive and behavioural coaching program outperformed cognitive-only and behavioural-only programs for academic performance, with gains maintained at follow-up only for the combined program.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Three studies with trainee accountants suggested a combined cognitive and behavioural coaching approach was superior to either a cognitive-only or behavioural-only approach for academic performance. [→ Grant 2001](#grant-2001)

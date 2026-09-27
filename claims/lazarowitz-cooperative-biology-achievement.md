@@ -26,7 +26,7 @@ sources:
 # Cooperative biology instruction raised achievement and improved perceived classroom atmosphere in Israeli junior high studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` With six teachers and 201 ninth-grade biology students studying cell division, the cooperative (modified Jigsaw plus Group Investigation) group scored significantly higher than controls on all posttest comparisons, and girls scored higher than boys in the cooperative group. [→ Blosser 1993](#blosser-1993)

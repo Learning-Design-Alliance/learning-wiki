@@ -26,7 +26,7 @@ sources:
 # A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` High-school subjects with the A organization performed consistently better on deductive (type a) tasks, while subjects with the B organization performed consistently better on historical (type b) tasks. [→ Eylon 1979](#eylon-1979)

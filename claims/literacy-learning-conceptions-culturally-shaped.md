@@ -26,7 +26,7 @@ sources:
 # Conceptions of how children learn literacy are cultural and political as much as scientific, shaping different classroom practices across countries
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The authors argue that shared understandings of how children learn literacy are shaped by cultural value systems, so psycho-pedagogical research is not value-free. [→ Dombey 1999](#dombey-1999)

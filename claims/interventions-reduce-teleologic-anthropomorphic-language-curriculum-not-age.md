@@ -24,7 +24,7 @@ sources:
 # Classroom pedagogical interventions significantly reduce teleologic and anthropomorphic language, with curricular exposure but not age as a significant factor
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` ANCOVA shows a significant difference in students' affordance of teleologic and anthropomorphic languages after various classroom pedagogical interventions (F = 9.407, p = .004). [→ Bautista 2015](#bautista-2015)

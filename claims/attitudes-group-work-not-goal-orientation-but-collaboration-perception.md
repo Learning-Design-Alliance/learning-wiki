@@ -26,7 +26,7 @@ sources:
 # No significant relationship between attitudes toward group work and achievement goal orientation profiles, but attitudes correlate with perceived discussion and active listening behaviors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Correlation analysis showed no significant relationship between attitudes toward group work and achievement goal orientation profiles. [→ Yildirim 2003](#yildirim-2003)

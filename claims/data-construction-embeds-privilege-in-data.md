@@ -26,7 +26,7 @@ sources:
 # Data construction can embed social values and patterns of privilege into data itself, perpetuating testimonial injustice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The process of constructing data builds social values and privilege into the data, so datafication cannot transform bad inputs into good outputs. [→ Haarman 2021](#haarman-2021)

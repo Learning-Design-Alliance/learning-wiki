@@ -26,7 +26,7 @@ sources:
 # At the organizational level, strategic leadership and climate, but not their general counterparts, are associated with implementer attitudes toward EBPs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` School-level aggregated strategic leadership showed significant associations with all four attitudinal dimensions while general leadership showed none. [→ Zhang 2023](#zhang-2023)

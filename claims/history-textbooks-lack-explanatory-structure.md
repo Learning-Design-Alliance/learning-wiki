@@ -26,7 +26,7 @@ sources:
 # Fifth-grade history textbook excerpts largely fail to answer the frame slot questions, presenting detailed action but missing main ideas
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` In frame-based evaluations of three fifth-grade social studies excerpts about the transcontinental railroad, the first two answered little beyond the Action question, the third answered three of the four frame slot questions, and none answered the Outcome question. [→ Armbruster 1982](#armbruster-1982)

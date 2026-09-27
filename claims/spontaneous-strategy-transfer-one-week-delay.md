@@ -26,7 +26,7 @@ sources:
 # Students given retrieval practice instructions spontaneously used a repeated retrieval strategy on new materials one week later without further instructions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1`–`i2`
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1`–`i2`
 
 ## Subclaims
 `q3 i2` In the Experiment 2 transfer session with neutral instructions and new Swahili materials, the previously instructed group recalled items about three times on average, more than controls. [→ Ariel 2018](#ariel-2018)

@@ -26,7 +26,7 @@ sources:
 # Both case-study teachers increased web and technology use for lesson preparation, presentation, and classroom exploration over the project
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Both educators used the web more often at project end to search for teaching resources and as a presentation, prompting, or exploration tool in class. [→ Koszalka 2001](#koszalka-2001)

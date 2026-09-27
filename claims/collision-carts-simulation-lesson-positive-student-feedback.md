@@ -26,7 +26,7 @@ sources:
 # After a guided-inquiry lesson with the collision-carts simulation, students' self-reported knowledge of the physics increased and most rated the lesson enjoyable and valuable
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students' self-reported knowledge of the physics taught increased after the simulation lesson, with students reporting they knew very much or much rising from 5% to 56% and those reporting little or very little falling from 72% to 3%. [→ Loo Kang WEE 2015](#loo-kang-wee-2015)

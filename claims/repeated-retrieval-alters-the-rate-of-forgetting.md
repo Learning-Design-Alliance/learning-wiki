@@ -26,7 +26,7 @@ sources:
 # Repeated retrieval practice alters the rate at which learned items are forgotten, according to learn-to-criterion studies and forgetting-curve analyses the chapter reviews
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports that when all items are first learned to criterion, repeated retrieval still shows sizable effects on long-term retention, which it attributes to changes in forgetting rate. [→ Karpicke 2017](#karpicke-2017)

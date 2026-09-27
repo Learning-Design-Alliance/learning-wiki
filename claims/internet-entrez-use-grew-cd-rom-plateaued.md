@@ -26,7 +26,7 @@ sources:
 # Internet-based Entrez use grew dramatically in 1994 while CD-ROM subscriptions plateaued
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Usage of WWW Entrez and Network Entrez grew dramatically during 1994, while Entrez CD-ROM subscription growth reached a plateau. [→ Epstein 1994](#epstein-1994)

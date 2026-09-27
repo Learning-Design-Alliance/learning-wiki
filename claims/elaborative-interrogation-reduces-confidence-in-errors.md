@@ -26,7 +26,7 @@ sources:
 # Elaborative-interrogation students are less confident in their incorrect recognition selections than reading controls, who express great confidence in erroneous answers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i?` In Experiment 1, significant three-way strategy-by-accuracy-by-certainty interactions showed reading controls endorsed more incorrect statements with great certainty. [→ Woloshyn 1992](#woloshyn-1992)

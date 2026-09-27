@@ -26,7 +26,7 @@ sources:
 # Probing instructor feedback with required revise-and-resubmit moved candidates toward evidence-based descriptions of student understanding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The clinical instructor's probing feedback and opportunity to resubmit guided candidates, notably Marcus, toward citing specific student evidence for their conclusions about understanding. [→ Janis 2025](#janis-2025)

@@ -26,7 +26,7 @@ sources:
 # Distributions of external control scores differ across school-function domains, with curriculum skewing toward internal control
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Box plots show the assessment distribution skews high (median around 0.50 versus mean 0.61), while curriculum has the lowest median (0.15 versus mean 0.31), indicating most countries' principals report substantial internal control over curriculum. [→ Kim 2019](#kim-2019)

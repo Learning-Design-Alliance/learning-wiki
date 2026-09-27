@@ -26,7 +26,7 @@ sources:
 # Participating in Elder-led Indigenous teaching changed the teacher's pedagogical practice and deepened her connection to the community
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` After following children on outdoor learning activities, the teacher began employing the concept of nature giving things freely to the community in her own teaching, e.g. in a photosynthesis lesson. [→ Acharibasam 2021](#acharibasam-2021)

@@ -26,7 +26,7 @@ sources:
 # Higher internal disequilibrium is associated with more regressive (minus) changes as well as more progressive changes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i1` small
 
 ## Subclaims
 `q2 i1` High mix subjects made significantly more minus (regressive) changes from pretest to posttest than mid and low mix subjects combined. [→ Snyder 1975](#snyder-1975)

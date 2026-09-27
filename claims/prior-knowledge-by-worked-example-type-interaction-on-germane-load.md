@@ -26,7 +26,7 @@ sources:
 # Prior knowledge and worked-example type (full vs completion) interact significantly on self-reported germane cognitive load, but not on intrinsic or extraneous load
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` A significant prior knowledge by worked-example interaction was found on germane cognitive load (F1, 107 = 4.72, p < .05, ŋ2 = .04). [→ Gupta 2020](#gupta-2020)

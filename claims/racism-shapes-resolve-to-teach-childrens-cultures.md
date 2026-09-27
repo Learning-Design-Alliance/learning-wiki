@@ -26,7 +26,7 @@ sources:
 # Experiences of racism and assimilationist schooling shape teachers' resolve to prevent non-white children's cultures from being overlooked
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` A teacher who had assimilated white culture and later recognized what was denied to her resolved to teach so that the culture of non-white children is never again overlooked, downplayed, or misunderstood. [→ Hulsebosch 1993](#hulsebosch-1993)

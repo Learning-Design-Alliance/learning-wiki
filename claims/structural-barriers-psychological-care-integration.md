@@ -26,7 +26,7 @@ sources:
 # Structural barriers — fragmented health systems, insufficient reimbursement and workforce shortages — constrain integration of psychological care in diabetes services
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Fragmented health systems, inadequate reimbursement and shortages of trained professionals limit scalability of integrated psychological care. [→ Winterdijk Per 2026](#winterdijk-per-2026)

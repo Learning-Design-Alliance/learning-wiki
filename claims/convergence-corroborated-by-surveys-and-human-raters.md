@@ -26,7 +26,7 @@ sources:
 # Simulation-response convergence was corroborated by survey-based changes in mindsets and practices and by human rater ratings for Roster Justice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The shift in simulation responses was corroborated by LE participants expressing more equity-oriented mindsets and describing more equity-promoting practices on immediate postcourse and follow-up surveys. [→ Littenberg-Tobias 2021](#littenberg-tobias-2021)

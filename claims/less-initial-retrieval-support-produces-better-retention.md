@@ -38,7 +38,7 @@ sources:
 # Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 4 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (4 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Carpenter and DeLosh (2006, Experiment 1), that initial free recall enhanced retention more than initial recognition even though subjects recognized 89% and freely recalled 69% of words initially. [→ Karpicke 2017](#karpicke-2017)

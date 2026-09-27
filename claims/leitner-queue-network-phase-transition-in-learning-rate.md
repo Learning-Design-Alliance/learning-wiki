@@ -26,7 +26,7 @@ sources:
 # Under the Leitner Queue Network model, raising the rate of new-item introduction beyond a threshold causes a phase transition in learning rate, which a Mechanical Turk vocabulary experiment reproduced.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1`–`q2`
+> **Evidence** · 1 study (2 entries) · `q1`–`q2`
 
 ## Subclaims
 `q1 i?` Under the mean-recall approximation, when the arrival rate exceeds the threshold the lowest Leitner deck accumulates items and delays blow up, so the learning rate goes to 0. [→ Reddy 2016](#reddy-2016)

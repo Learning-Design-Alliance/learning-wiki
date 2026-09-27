@@ -26,7 +26,7 @@ sources:
 # Word frequency does not modulate the transposed-character effect in either experiment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In Experiment 1 there was no interaction between nonword type and word frequency, so Hypothesis 1c was not supported. [→ Geng Yaoyao 2026](#geng-yaoyao-2026)

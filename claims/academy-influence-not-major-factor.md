@@ -26,7 +26,7 @@ sources:
 # Changes traced to historical and activity factors, but the authors conclude the IDEAS academy itself may not be the major factor in observed changes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Observed changes were traced to factors including new knowledge from the academy, support mechanisms, curriculum requirements, peer collaboration, classroom context, school policy, and personal perceptions and attitudes. [→ Koszalka 2001](#koszalka-2001)

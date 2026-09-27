@@ -26,7 +26,7 @@ sources:
 # Algebra ability level differences appear on both criteria with no treatment-by-ability interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` High ability students scored better than intermediate, who scored better than low ability students, on both criteria. [→ Bassler 1972](#bassler-1972)

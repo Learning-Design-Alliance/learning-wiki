@@ -26,7 +26,7 @@ sources:
 # Teachers routinely use animistic and anthropomorphic explanations: 36% of 43 observed lessons overall and 78% of observed secondary lessons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In 43 observed science lessons with 43 different teachers, anthropomorphic or animistic explanations were given to children in 36% of them. [→ Watts 1991](#watts-1991)

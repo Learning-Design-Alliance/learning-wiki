@@ -26,7 +26,7 @@ sources:
 # Expansive learning moved epistemically from questioning to analysis, modeling and implementation while interactionally moving from coordination to cooperation and communication, but with no mechanical correspondence between specific actions and interaction types
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` As the expansive learning process moved epistemically through its actions, it also moved interactionally from coordination to cooperation and communication. [→ Rantavuori 2016](#rantavuori-2016)

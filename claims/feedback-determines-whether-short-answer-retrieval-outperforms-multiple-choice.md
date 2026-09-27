@@ -32,7 +32,7 @@ sources:
 # Initial short-answer tests outperform initial multiple-choice tests mainly when feedback follows them; without feedback, the higher initial success of multiple-choice tests can favor multiple-choice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Kang et al. (2007, Experiment 1), that without feedback students answered 86% of initial multiple-choice versus 54% of short-answer items correctly and did better on the final test after multiple-choice. [→ Karpicke 2017](#karpicke-2017)

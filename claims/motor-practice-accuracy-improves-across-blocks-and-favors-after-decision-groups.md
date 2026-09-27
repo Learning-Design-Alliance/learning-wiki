@@ -26,7 +26,7 @@ sources:
 # During motor practice with knowledge of results, all groups reduced absolute error across blocks, and groups whose KR decision fell after the trial were more accurate during practice than groups whose decision fell before it, independent of choice.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` All groups reduced AE across the six practice blocks (F(5,210) = 39.20, p < 0.001, ηp2 = 0.48). [→ Carter 2014](#carter-2014)

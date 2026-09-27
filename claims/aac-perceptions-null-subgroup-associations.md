@@ -26,7 +26,7 @@ sources:
 # Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` No statistically significant differences in perceived benefit or experience scores by child gender, age group, additional disorder, or parental education; number of children correlated weakly with benefit score (rs = 0.231, p = 0.046) but training duration did not. [→ Jarrar Hala 2026](#jarrar-hala-2026)

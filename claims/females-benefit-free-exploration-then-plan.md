@@ -26,7 +26,7 @@ sources:
 # Females gained significantly when the formatted plan followed free exploration but scored lower when the plan was withheld
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
 `q2 i?` Females in the unformatted-to-formatted sequence showed a significant pre-to-post gain (t = 3.618, p = .001). [→ Zambo 1994](#zambo-1994)

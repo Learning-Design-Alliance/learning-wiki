@@ -26,7 +26,7 @@ sources:
 # A lack of funding privileges more resourceful partners, and CHARM-EU declined stakeholder funding requests to avoid favoring some student teams over others
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` A lack of funding privileges more resourceful partners or societal stakeholders who can make themselves available for student teams and even provide funding for students' fieldwork. [→ Vijge 2025](#vijge-2025)

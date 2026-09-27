@@ -26,7 +26,7 @@ sources:
 # Proximal goals, ability attributional feedback, and peer models raise self-efficacy for learning more than distant goals, effort feedback, and teacher models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Close-at-hand proximal goals led to higher self-efficacy, motivation, and skillful performance compared with temporally distant goals. [→ Schunk 1996](#schunk-1996)

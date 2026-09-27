@@ -26,7 +26,7 @@ sources:
 # Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The paper argues that teachers' beliefs in their ability to successfully integrate AI technologies shape their attitudes and intentions toward those technologies, making expectancy a critical factor in motivation to use AI. [→ Yurt 2024](#yurt-2024)

@@ -26,7 +26,7 @@ sources:
 # In a kindergarten early algebra intervention, the teacher's equal-sign language shifted with lesson focus, from definitions and "is the same as" early on to "balanced" talk and balance gestures when evaluating and solving equations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` In Lesson 8, where students wrote equations for balance scales, the teacher's DEF, ISA and GSIDES counts were greatest of the seven lessons. [→ Sung 2022](#sung-2022)

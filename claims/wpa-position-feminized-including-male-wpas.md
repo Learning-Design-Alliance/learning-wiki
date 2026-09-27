@@ -26,7 +26,7 @@ sources:
 # Composition studies and the WPA position are feminized, and male WPAs remain in a feminized position within the academic hierarchy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The field of composition and the WPA position are constructed as feminized, and male WPAs share this feminized position because of composition's place in the academic superstructure. [→ Gradin 1998](#gradin-1998)

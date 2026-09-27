@@ -26,7 +26,7 @@ sources:
 # Most reasons for omitting ID steps reflect the environmental context, and decision already made is cited most often
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Reasons 1, 2, 3, 5 and 6 for not performing steps reflect the environmental context of the project, while Reason 4 reflects the designer's attitude. [→ Winer 1994](#winer-1994)

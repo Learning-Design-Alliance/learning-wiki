@@ -57,7 +57,9 @@ A meta-analysis of 56 investigations (88 pairwise comparisons) testing whether p
 
 **Open questions.** Optimal segment size, whether learner-paced or system-paced segmentation is superior, and how segmenting interacts with the coherence principle remain active design questions. It is also unresolved whether segmenting effects persist for learners with higher prior knowledge, where an expertise-reversal pattern (see [Expertise reversal effect](../theories/expertise-reversal-effect.md)) could attenuate or reverse the benefit.
 
+<!-- deprecated (2026-09-29): written before this page had evidence entries; it now has them.
 **Evidence status.** This page currently has no verified evidence entries. The segmenting principle is one of the best-established multimedia learning principles in the literature, but per wiki policy, specific studies must be added through a verified evidence pass before any strength rating is assigned.
+-->
 
 ## Related Claims
 

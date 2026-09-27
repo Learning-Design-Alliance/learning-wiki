@@ -26,7 +26,7 @@ sources:
 # With peer feedback groups added to web-based SRL training (Group TDP), students showed statistically significant gains in self-motivation, volition and reflection, beyond the planning and metacognition gains also seen in Group TD; goal-setting and elaboration gains stayed non-significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Group TDP showed statistically significant increases in planning (β = 0.80), metacognition (β = 0.88), self-motivation (β = 0.50; p < 0.01), volition (β = 0.48; p = 0.01) and reflection (β = 0.52; p = 0.02). [→ Bellhäuser 2022](#bellhauser-2022)

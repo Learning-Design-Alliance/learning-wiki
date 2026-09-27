@@ -26,7 +26,7 @@ sources:
 # For skewed datasets, W-DC and LL-DC produce similar and preferred estimates, while PS-DC diverges at high-frequency scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` PS-DC estimates were closer to LL-DC for the simulated datasets, but W-DC estimates were closer to LL-DC for the operational datasets. [→ Wolkowitz 2024](#wolkowitz-2024)

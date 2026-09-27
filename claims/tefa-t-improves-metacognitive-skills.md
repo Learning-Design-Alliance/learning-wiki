@@ -26,7 +26,7 @@ sources:
 # The TEFA-T model significantly improves students' metacognitive skills compared with conventional instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Independent t-test showed a statistically significant difference in metacognitive skills between the TEFA-T experimental class and the conventional control class (significance value less than 0.05). [→ Maksum 2022](#maksum-2022)

@@ -26,7 +26,7 @@ sources:
 # Facilitators reported that co-regulation strategies strengthened their facilitation and made their interactions with youth more intentional
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Facilitators reported the strategies strengthened facilitation, connection with students, and program environment. [→ Tingey 2023](#tingey-2023)

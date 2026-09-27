@@ -26,7 +26,7 @@ sources:
 # Extreme country cases: Spain reports universal external control of hiring while the Netherlands reports universal internal control of HR, curriculum, and budget
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In Spain, 100% of public schools reported external controls in hiring or appointing teachers. [→ Kim 2019](#kim-2019)

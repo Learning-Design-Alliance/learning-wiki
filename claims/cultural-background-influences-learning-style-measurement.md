@@ -26,7 +26,7 @@ sources:
 # Cultural and linguistic background influences measured learning and cognitive styles, and should be considered in style assessment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Cross-cultural studies found each cultural group tends toward a dominant cognitive style, with non-Native samples most analytical and Metis samples tending toward a relational style. [→ Tamaoka 1985](#tamaoka-1985)

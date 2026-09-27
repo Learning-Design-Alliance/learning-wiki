@@ -26,7 +26,7 @@ sources:
 # Unconstrained topic writing produces frivolous resolutions that perpetuate non-argumentative practices
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The author reports that no constraints prevail on resolution types across tournaments and lists paraphrased examples such as Elvis being alive in the U.S. Senate and Daffy Duck versus Donald Duck. [→ Jensen 1996](#jensen-1996)

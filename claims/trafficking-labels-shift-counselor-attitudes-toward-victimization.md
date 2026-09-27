@@ -26,7 +26,7 @@ sources:
 # Counselors exposed to 'sex trafficking' labels reported more victimization-oriented attitudes than counselors exposed to 'prostitute' labels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Licensed counselors randomly assigned to the ATTS ('sex trafficking' labels) scored significantly higher overall on attitudes toward trafficked women than those assigned to the APPS ('prostitute' labels), t(394) = -6.952, p < .01. [→ Litam 2019](#litam-2019)

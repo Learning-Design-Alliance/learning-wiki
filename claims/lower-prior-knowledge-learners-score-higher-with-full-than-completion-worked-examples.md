@@ -26,7 +26,7 @@ sources:
 # Lower-prior-knowledge learners scored higher on an algebra posttest after full-worked than completion-worked examples, while higher-prior-knowledge learners' non-significant advantage ran the other way
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In follow-up analysis, lower-prior-knowledge learners performed better on the posttest with full-worked than completion-worked examples (t(1,26) = 1.98, p = .05, 2-tailed). [→ Gupta 2020](#gupta-2020)

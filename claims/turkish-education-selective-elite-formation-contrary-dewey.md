@@ -26,7 +26,7 @@ sources:
 # Turkish education increasingly became an exam- and success-focused selective system prioritizing elite formation, contrary to Dewey's objection to exclusion and supervision mechanisms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Starting from the early years of the Republic, Turkish education increasingly became an exam- and success-focused selective system, while Dewey objected to all types of social exclusion and supervision mechanisms in education. [→ Özsoy 2009](#ozsoy-2009)

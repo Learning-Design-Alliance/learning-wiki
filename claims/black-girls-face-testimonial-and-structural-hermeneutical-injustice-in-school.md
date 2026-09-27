@@ -32,7 +32,7 @@ sources:
 # In the analyzed school setting, black girls experience testimonial injustice as direct discrimination and hermeneutical injustice as indirect, structural discrimination that personal effort cannot erode
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q1` argument or single case
+> **Evidence** · 1 study (3 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The article argues that not conforming to the norms of white femininity may result in credibility deficit and tracker prejudice for black girls. [→ Göktürk 2021](#gokturk-2021)

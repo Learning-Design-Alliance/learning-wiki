@@ -26,7 +26,7 @@ sources:
 # Only two intercultural communication items (IC1, IC2) were removed from the global competence model, attributed to limited intercultural exposure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In the global competence model, only IC1 and IC2 fell below the 0.7 loading threshold and were removed; remaining constructs met CR > 0.7 and AVE > 0.5 standards. [→ Nguyen 2021](#nguyen-2021)

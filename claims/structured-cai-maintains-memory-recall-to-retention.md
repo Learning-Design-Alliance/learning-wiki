@@ -26,7 +26,7 @@ sources:
 # Learners using structured CAI maintained their level of memory from recall to retention, while unstructured CAI learners did not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The structured CAI group showed no significant difference from recall to retention, indicating maintained memory. [→ Caple 1996](#caple-1996)

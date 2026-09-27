@@ -26,7 +26,7 @@ sources:
 # Autonomy-supportive teaching contrasts with controlling teaching, and controlled students do poorly compared to autonomous students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Teachers can support students' autonomy even for less preferred tasks by providing a satisfying rationale, incorporating elements of choice, and promoting the value of the activity; these strategies stand in contrast to controlling teaching strategies. [→ Jennifer D. Moss 2017](#jennifer-d-moss-2017)

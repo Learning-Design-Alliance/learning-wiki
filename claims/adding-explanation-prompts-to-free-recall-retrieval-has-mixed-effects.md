@@ -26,7 +26,7 @@ sources:
 # Whether prompting students to construct explanations during retrieval adds benefit beyond initial free recall is mixed across studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Hinze et al. (2013), that instructing students to construct explanations during initial retrieval produced additional benefit beyond free recall on a final inference test. [→ Karpicke 2017](#karpicke-2017)

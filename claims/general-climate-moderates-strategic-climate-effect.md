@@ -26,7 +26,7 @@ sources:
 # At the organizational level, general climate negatively moderates the positive effect of strategic climate on implementers' perceptions of EBP appeal and divergence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` School-level general climate negatively moderated the effect of strategic climate on Appeal (b = −0.59) and Divergence (b = −0.41), and the interaction significantly improved model fit (change in −2 log-likelihood = 12.50). [→ Zhang 2023](#zhang-2023)

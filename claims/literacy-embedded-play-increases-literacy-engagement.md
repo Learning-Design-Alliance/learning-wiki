@@ -26,7 +26,7 @@ sources:
 # Embedding literacy materials in play settings increases children's literacy engagement and environmental print reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Studies embedding literacy materials in play settings typically show increases in literacy material use and literacy acts, including increased reading of environmental print. [→ Bergen 2002](#bergen-2002)

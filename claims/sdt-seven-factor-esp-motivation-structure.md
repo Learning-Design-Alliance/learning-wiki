@@ -26,7 +26,7 @@ sources:
 # An SDT-based questionnaire yields seven distinct, reliable motivation subtypes for Chinese college ESP learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Exploratory factor analysis of the ESP motivation questionnaire yielded seven factors representing the hypothesized motivational constructs, accounting for 64.76% of the variance. [→ Liu 2016](#liu-2016)

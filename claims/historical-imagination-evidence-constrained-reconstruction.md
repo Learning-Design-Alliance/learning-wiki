@@ -26,7 +26,7 @@ sources:
 # Because past events cannot be observed, historians must necessarily use imagination to reconstruct the past, and the resulting picture is legitimate rather than fictional when constrained by evidence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Collingwood claims historians must use imagination to reconstruct past events because those events can no longer be observed. [→ Lemisko 2004](#lemisko-2004)

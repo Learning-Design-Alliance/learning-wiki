@@ -26,7 +26,7 @@ sources:
 # The demonstration set yields a fair estimate of air permeability µair from coil data
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i1` small
 
 ## Subclaims
 `q2 i?` A fit with b fixed at −3 returns a′ = 4240± 25.81, leading to µair∼= 1.298× 10−6Hm−1, in good agreement with the expected µ0. [→ V.O.M. Lara 2014](#vom-lara-2014)

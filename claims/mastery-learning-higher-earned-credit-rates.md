@@ -26,7 +26,7 @@ sources:
 # Mastery learning sections show higher earned credit rates than comparable non-mastery sections at the City Colleges of Chicago
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In eight of nine course-level comparisons, mastery learning sections had higher earned credit rates than comparable non-mastery learning sections. [→ Bonczar 1983](#bonczar-1983)

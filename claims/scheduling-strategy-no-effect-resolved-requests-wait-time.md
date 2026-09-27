@@ -26,7 +26,7 @@ sources:
 # Choice of scheduling strategy does not significantly affect the number of resolved requests or students' overall wait time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` No significant difference in percentage of resolved requests among the four strategies under busy or normal load. [→ Z. Gao 2024](#z-gao-2024)

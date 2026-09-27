@@ -26,7 +26,7 @@ sources:
 # Qualitative findings: ease of use supports engagement and confidence, but challenge must be tailored to ability and content must be culturally relatable
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Older adults found KOKU easy to use including those with lower digital literacy, with eCoach demonstrations enhancing confidence and motivation; some faced technical glitches and unclear exercise dosage that reduced motivation. [→ French Chloe 2026](#french-chloe-2026)

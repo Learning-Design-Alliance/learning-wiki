@@ -26,7 +26,7 @@ sources:
 # The NSF advantage over FCFS appears only above an arrival-rate threshold (λ > 0.06); under relaxed queues no strategy makes a difference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` When λ > 0.06, choosing NSF over FCFS significantly increases the percentage of students who receive help (p<0.05). [→ Z. Gao 2024](#z-gao-2024)

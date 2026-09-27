@@ -26,7 +26,7 @@ sources:
 # Locus of control is negatively correlated with and predicts subjective well-being, ranking second after self-esteem
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
 `q2 i?` Locus of control correlated negatively with subjective well-being (r = -.26) and, in gradual regression, contributed 3.3% of variance after self-esteem (Beta = -.184). [→ Karatas 2012](#karatas-2012)

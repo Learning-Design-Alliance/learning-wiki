@@ -38,7 +38,7 @@ sources:
 # Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 4 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (4 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Butler (2010, Experiment 1), that practicing retrieval enhanced performance on new final inference questions relative to restudying, and variable tests were no better than same tests. [→ Karpicke 2017](#karpicke-2017)

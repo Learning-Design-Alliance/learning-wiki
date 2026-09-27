@@ -26,7 +26,7 @@ sources:
 # Distress and depression screening improved detection but did not reliably enhance psychological or medical outcomes when follow-up pathways were absent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Early screening studies improved detection but did not reliably enhance outcomes absent follow-up pathways. [→ Winterdijk Per 2026](#winterdijk-per-2026)

@@ -24,7 +24,7 @@ sources:
 # Students who just completed secondary education and those from the English curriculum showed the least teleologic-anthropomorphic affordance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students who had just completed their secondary education had the least affordance of teleologic-anthropomorphic reasoning compared to their counterparts. [→ Bautista 2015](#bautista-2015)

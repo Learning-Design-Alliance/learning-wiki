@@ -26,7 +26,7 @@ sources:
 # The teacher with the more desirable interpersonal style showed overall coordination consistent with the complementarity principle, while the less desirable teacher's coordination did not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Ethan's classroom cross-correlations (.71 Communion, -.86 Agency) were consistent with the complementarity principle, whereas Sam's (-.39 Communion, -.06 Agency) were not consistent on Communion and only very weakly on Agency. [→ Pennings 2017](#pennings-2017)

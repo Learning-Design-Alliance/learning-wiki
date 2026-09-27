@@ -26,7 +26,7 @@ sources:
 # Task difficulty (easy vs difficult simultaneous-equation problems) has significant main effects on intrinsic and extraneous cognitive load, but not on germane load
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` The main effect of task difficulty was significant (Wilks' Lambda = .86, p < .05, ŋ2 = .14) on intrinsic (ŋ2 = .07) and extraneous cognitive load (ŋ2 = .09). [→ Gupta 2020](#gupta-2020)

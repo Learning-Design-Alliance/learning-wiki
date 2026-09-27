@@ -26,7 +26,7 @@ sources:
 # In simulation, the mean-recall approximation matches the clocked-delay Leitner Queue Network for small arrival rates, and its phase-transition threshold appears to be a conservative lower bound.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Simulations of 500 reviews over 50 items show the mean-recall approximation performs well for small arrival rates. [→ Reddy 2016](#reddy-2016)

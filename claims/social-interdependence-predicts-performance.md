@@ -26,7 +26,7 @@ sources:
 # Social interdependence, not role interdependence or specialization, correlates with performance and well-being
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
 `q2 i?` Performance indicators are unrelated to role interdependence and specialization but correlate rather strongly with social interdependence. [→ Pennings 1974](#pennings-1974)

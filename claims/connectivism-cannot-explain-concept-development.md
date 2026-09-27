@@ -26,7 +26,7 @@ sources:
 # Critics argue connectivism cannot explain concept formation or development, invoking the learning paradox
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Clarà and Barberà argue, via the learning paradox, that connectivism cannot explain how learners recognize patterns or how concepts develop. [→ Downes 2019](#downes-2019)

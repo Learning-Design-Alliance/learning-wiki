@@ -32,7 +32,7 @@ sources:
 # Human embodiment in video: perceived social presence benefits learning ratings, but instructor-face inclusion shows no significant learning-performance difference, and learners prefer human over robot presenters with mixed recall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment · `i0` negligible
 
 ## Subclaims
 `q2 i?` The review reports, citing Lyons, Reysen, and Pierce (2012), that students considered the instructor's social presence in video lectures to offer more learning. [→ Chorianopoulos 2018](#chorianopoulos-2018)

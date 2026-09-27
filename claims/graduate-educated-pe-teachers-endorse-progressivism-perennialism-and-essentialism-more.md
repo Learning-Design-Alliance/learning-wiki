@@ -26,7 +26,7 @@ sources:
 # Physical education teachers studying in a graduate program endorse progressivism, perennialism and essentialism more than teachers with an undergraduate degree
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Educational background was significantly associated with progressivism, perennialism and essentialism (p < 0.05) but not with existentialist education or reconstructivism (p > 0.05). [→ Isikgoz 2020](#isikgoz-2020)

@@ -26,7 +26,7 @@ sources:
 # Counselors without prior training on prostitution/sex trafficking endorsed more stigmatizing beliefs and more rape myths
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Previous training correlated with lower rape myth acceptance (r = .127, p < .05) and with the Self-Other Awareness empathy subscale. [→ Litam 2019](#litam-2019)

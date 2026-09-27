@@ -26,7 +26,7 @@ sources:
 # Instructional clarity is a significant main effect on concept achievement, accounting for roughly half of score variance across measures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Instructional clarity significantly affected students' ability to identify examples of concepts, accounting for 50% of score variance. [→ Snyder 1991](#snyder-1991)

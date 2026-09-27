@@ -26,7 +26,7 @@ sources:
 # Research on clinical supervision's effectiveness is inconclusive, partly because practice is diluted and tied to evaluation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The monograph reports that research on clinical supervision has not reached clear conclusions about its effectiveness. [→ Gall 1994](#gall-1994)

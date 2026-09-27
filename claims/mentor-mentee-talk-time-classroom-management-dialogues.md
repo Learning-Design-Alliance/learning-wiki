@@ -26,7 +26,7 @@ sources:
 # Talk-time analysis showed the mentor spoke more than the mentee in video-recorded dialogues, with classroom management talk ranging from 3% to 39% of total talk time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In video-recorded dialogue sessions the mentor's talking time ranged from 4 to 14:11 minutes while the mentee's ranged from 1:10 to 4:20 minutes. [→ Sempowicz 2011](#sempowicz-2011)

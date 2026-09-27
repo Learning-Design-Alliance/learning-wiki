@@ -26,7 +26,7 @@ sources:
 # In secondary-school research, cooperative learning beat frontal teaching in 68% of comparisons, with STAD most and Jigsaw least successful
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Newmann and Thompson's review of 27 high-quality secondary studies yielded 37 comparisons; cooperative learning was favored at the .05 level for 25 comparisons (68%), with effect sizes from .87 to 5.15. [→ Blosser 1993](#blosser-1993)

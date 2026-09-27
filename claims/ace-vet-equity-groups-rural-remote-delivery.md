@@ -26,7 +26,7 @@ sources:
 # ACE providers deliver VET to equity target groups and to rural and remote communities where other VET provision is limited or non-existent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Where public funds are accessible, ACE providers have delivered VET programs to equity target groups including women, people of non-English-speaking background, people with limited language and literacy skills, unemployed people and in some instances Aboriginal people. [→ Schofield 1996](#schofield-1996)

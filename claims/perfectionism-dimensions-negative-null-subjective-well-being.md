@@ -26,7 +26,7 @@ sources:
 # Perfectionism determined by others and perfectionism for others correlate negatively with subjective well-being, while self-perfectionism does not correlate significantly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i0`–`i1`
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0`–`i1`
 
 ## Subclaims
 `q2 i1` Perfectionism determined by others (r = -.13) and perfectionism for others (r = -.13) each correlated negatively and significantly with subjective well-being. [→ Karatas 2012](#karatas-2012)

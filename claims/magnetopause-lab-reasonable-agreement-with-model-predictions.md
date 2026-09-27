@@ -26,7 +26,7 @@ sources:
 # Students achieve reasonable agreement between their magnetopause-crossing findings and model predictions, gaining exposure to the tools and techniques of space physics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In the Geotail example from 31 October 2003, the predicted and actual magnetopause crossings agree fairly well overall, though the crossings seen in the data tell a slightly different story than predicted. [→ Crumley 2015](#crumley-2015)

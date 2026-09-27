@@ -38,7 +38,7 @@ sources:
 # Chinese college ESP learners show high amotivation-subscale, external-regulation, identified-regulation and intrinsic (knowledge, accomplishment) item means
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 4 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (4 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Amotivation items scored high (means above 3.8), which the author attributes to compulsory English requirements. [→ Liu 2016](#liu-2016)

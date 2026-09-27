@@ -26,7 +26,7 @@ sources:
 # Parametric ANCOVA is robust to violation of either conditional normality or homoscedasticity alone
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` With a normally distributed covariate, parametric ANCOVA was robust to violations of conditional normality in the simulation. [→ Olejnik 1983](#olejnik-1983)

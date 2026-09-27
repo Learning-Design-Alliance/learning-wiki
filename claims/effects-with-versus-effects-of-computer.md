@@ -26,7 +26,7 @@ sources:
 # Salomon distinguishes effects with the computer (system performance) from effects of the computer (cognitive residue on the solo performer)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In the distributed cognition literature, Salomon distinguishes effects with the computer, the efficacy of the person-plus-computer system, from effects of the computer, the cognitive residue left on the person operating alone. [→ Gilbert 1999](#gilbert-1999)

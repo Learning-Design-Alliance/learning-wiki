@@ -32,7 +32,7 @@ sources:
 # Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q1` argument or single case
+> **Evidence** · 1 study (3 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The paper argues that when teachers perceive the challenges and barriers of using AI technologies as high, they may be less motivated to use them. [→ Yurt 2024](#yurt-2024)

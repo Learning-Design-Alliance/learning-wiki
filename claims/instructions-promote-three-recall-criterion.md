@@ -26,7 +26,7 @@ sources:
 # Retrieval practice instructions led students to recall items to a criterion of about three correct retrievals before dropping them
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` The instructed group recalled translations approximately three times before dropping them, whereas the control group dropped items after about one correct retrieval. [→ Ariel 2018](#ariel-2018)

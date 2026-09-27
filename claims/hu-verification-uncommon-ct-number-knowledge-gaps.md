@@ -26,7 +26,7 @@ sources:
 # Routine post-acquisition verification of HU values is uncommon and knowledge of positioning effects on CT numbers is inconsistent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Most radiographers check HU values only sometimes (37.4%), rarely (35.2%) or never (13.4%), with regular verification reported by a small minority. [→ Hadi Yasser H. 2026](#hadi-yasser-h-2026)

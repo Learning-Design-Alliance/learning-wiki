@@ -26,7 +26,7 @@ sources:
 # After formative intervention, the teacher's presentations shifted from instruction-only moves to including generative, confirming, reconstructing, and reorienting moves
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In the first observed presentation the teacher used only instructional moves, with no reconstructing, reorienting, or generative moves. [→ Ahlquist 2020](#ahlquist-2020)

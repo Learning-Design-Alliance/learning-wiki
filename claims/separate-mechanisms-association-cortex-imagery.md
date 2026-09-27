@@ -32,7 +32,7 @@ sources:
 # Neuroimaging, ERP and lesion evidence supports separate mechanisms: imagery as a function of visual association cortex without primary visual cortex engagement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` fMRI during mental image generation from heard words engaged visual association cortex, not primary visual cortex, with left inferior temporal lobe (Brodmann's area 37) most robustly activated. [→ Bértolo 2005](#bertolo-2005)

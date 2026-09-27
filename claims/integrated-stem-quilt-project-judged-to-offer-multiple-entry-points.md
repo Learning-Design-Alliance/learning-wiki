@@ -26,7 +26,7 @@ sources:
 # Expanding the quilt task into an integrated STEM project was judged by its two designers to give students multiple entry points and to feel fun rather than too school-like
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The author reports that the integrated project, though less focused on mathematics, provides multiple entry points and lets students bring cultural and life experiences. [→ Lili Zhou 2023](#lili-zhou-2023)

@@ -26,7 +26,7 @@ sources:
 # Mean CT centring knowledge score indicates only moderate proficiency, with greater score variability among less experienced and lower-volume radiographers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The mean composite knowledge score was 4.66 ± 1.79 out of 8 (median 5, IQR 3), which the authors interpret as only moderate proficiency. [→ Hadi Yasser H. 2026](#hadi-yasser-h-2026)

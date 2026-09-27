@@ -26,7 +26,7 @@ sources:
 # Some users prefer to search by people groups, contexts and institutions rather than by subject categories, and some will not explore complex structures or long lists
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Some users are not familiar with browsing a subject classification system and may prefer to search by people groups, contexts and institutions. [→ Khoo 2013](#khoo-2013)

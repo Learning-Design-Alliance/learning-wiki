@@ -26,7 +26,7 @@ sources:
 # Question cognitive-level distributions differed significantly between years for Physics 1B but not Physics 1A
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i?` A chi-squared test found no statistically significant difference (p=0.27) between Physics 1A year distributions, but a statistically significant difference (p=0.022) between Physics 1B years, with a smaller fraction of low-level questions in 2011. [→ Bates 2013](#bates-2013)

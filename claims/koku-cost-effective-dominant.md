@@ -26,7 +26,7 @@ sources:
 # The 12-week KOKU programme is dominant over usual care in cost-effectiveness, with a significant QALY gain and non-significant cost savings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` KOKU was associated with an adjusted incremental fall-related cost of −£59.81 (95% CI −£215.37 to £43.39, not significant) and an average incremental QALY gain of 0.020 (95% CI 0.004 to 0.033, significant), making it dominant. [→ French Chloe 2026](#french-chloe-2026)

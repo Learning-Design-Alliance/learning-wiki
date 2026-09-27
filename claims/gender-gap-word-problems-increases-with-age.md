@@ -26,7 +26,7 @@ sources:
 # Prior research attributes growing male superiority in word problem solving to age, with onset debated between sixth grade and high school
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Reviews and meta-analyses agree females tend to be superior in computational activities while males tend to be superior in problem solving, and the problem-solving difference increases with age. [→ Zambo 1994](#zambo-1994)

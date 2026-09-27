@@ -26,7 +26,7 @@ sources:
 # Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
 `q2 i2` Self-efficacy (r = .304), intrinsic goal orientation (r = .263), and test anxiety (r = -.193) correlated significantly with proficiency. [→ Fukuda 2018](#fukuda-2018)

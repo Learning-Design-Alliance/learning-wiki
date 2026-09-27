@@ -26,7 +26,7 @@ sources:
 # Teachers' tested routines tended to focus on Justify in year one and most switched to a different deep-engagement area, most often Justify to Solve, in year two
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i1` small
 
 ## Subclaims
 `q2 i?` Of 54 finalized first-year routines, 29 focused on Justify, 14 on Connect, and 11 on Solve. [→ Smith 2021](#smith-2021)

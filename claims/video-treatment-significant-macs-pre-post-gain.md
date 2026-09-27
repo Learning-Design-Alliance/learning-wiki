@@ -26,7 +26,7 @@ sources:
 # Video-based treatment produces significant macrostructure gains over five weeks, with a significant Group x Test interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` The repeated-measures ANOVA on RC MACS pre- and post-tests showed significant main effects for Group, Test, and the Group x Test interaction. [→ Lin 2016](#lin-2016)

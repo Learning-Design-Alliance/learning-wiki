@@ -26,7 +26,7 @@ sources:
 # Lord's chi-square identified more DIF items than Raju's unsigned area in the without-purification condition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In pairwise booklet comparisons of the TEOG Turkish subtest, Lord's chi-square flagged a higher number of items with DIF than Raju's unsigned area when no item purification was applied. [→ Soysal 2021](#soysal-2021)

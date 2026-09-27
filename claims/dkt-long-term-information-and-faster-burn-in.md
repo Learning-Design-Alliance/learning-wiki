@@ -26,7 +26,7 @@ sources:
 # DKT fails to retain long-term information on datasets with thousands of interactions per learner, but reaches peak performance on a new student faster than logistic regression
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` On the spanish dataset DKT plateaus after 1000 student interactions while Best-LR keeps improving, evidence DKT cannot track long-term information. [→ Theophile Gervet 2020](#theophile-gervet-2020)

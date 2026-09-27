@@ -26,7 +26,7 @@ sources:
 # Models able to weight performance by recency fit better on the Assistments and KDD datasets, without explicit memory-decay terms being necessary
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In the Assistments dataset, R-PFA (model 9) and memory-feature models (models 10-12) were not significantly different from each other but were generally better than other models, suggesting recency weighting was important. [→ Philip I. Pavlik 2021](#philip-i-pavlik-2021)

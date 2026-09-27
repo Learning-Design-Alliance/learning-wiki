@@ -26,7 +26,7 @@ sources:
 # Choice in retention programs is linked to retention gains, but autonomy is rarely a tested variable
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The review reports that the one learning-community study with random, no-choice assignment showed no persistence or achievement gains, while voluntary programs showed some gains, suggesting choice itself may act as a mediator. [→ Zak-Moskal 2020](#zak-moskal-2020)

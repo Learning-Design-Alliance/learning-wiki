@@ -26,7 +26,7 @@ sources:
 # The global civic activism measurement model was fully valid with no items removed, appearing valid across contexts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` All indicators of the global civic activism model met the outer loading standard, and CR, AVE, cross-loadings, and HTMT criteria were satisfied without any removals. [→ Nguyen 2021](#nguyen-2021)

@@ -26,7 +26,7 @@ sources:
 # Web-based SRL training combined with a learning diary (Group TD) produced statistically significant pre-post gains in SRL knowledge, the SRL overall score and self-efficacy, but not in mathematics scores, among prospective university students in an online preparation course
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Group TD showed statistically significant increases in SRL knowledge (β = 3.95; p < 0.001), the SRL overall score (β = 0.31; p < 0.001) and self-efficacy (β = 0.20; p = 0.04) but not in mathematics scores. [→ Bellhäuser 2022](#bellhauser-2022)

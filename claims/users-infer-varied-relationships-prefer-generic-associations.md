@@ -26,7 +26,7 @@ sources:
 # Users infer a variety of relationships between task concepts and taxonomy categories and prefer common or generic associations over formal disciplinary relations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Users infer relationships including application area, associated tool, associated process/procedure/technique, associated institution and academic discipline between a task concept and a taxonomy category. [→ Khoo 2013](#khoo-2013)

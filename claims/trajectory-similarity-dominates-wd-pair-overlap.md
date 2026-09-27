@@ -26,7 +26,7 @@ sources:
 # In pairwise WD analyses, learner trajectory similarity dominates variation in percentage-overlap values (57.90% of variation) while remaining design factors are essentially zero
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
 
 ## Subclaims
 `q2 i3` In the five-way ANOVA of percentage-overlap WD values, differences in learner trajectories dominated all other sources of variation (57.90% of variation), with a decreasing trend in mean percentage-overlap values across the three trajectory-similarity groups and all remaining effect sizes essentially zero. [→ Sweet 2012](#sweet-2012)

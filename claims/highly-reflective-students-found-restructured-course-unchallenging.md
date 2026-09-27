@@ -26,7 +26,7 @@ sources:
 # Highly reflective students often viewed the lecture-free restructured course negatively, as unchallenging and lacking in content
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` While traditional instruction was viewed positively by highly reflective (stage 6-7) students, the restructured course was often viewed negatively by them as unchallenging and somewhat lacking in content. [→ Carr 1997](#carr-1997)

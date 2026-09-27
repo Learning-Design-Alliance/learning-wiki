@@ -26,7 +26,7 @@ sources:
 # Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In a Modena co-construction task, six five-year-olds dictating game rules to their teacher produced 240 turns all focused on the task with no overt signs of distraction. [→ Dombey 1999](#dombey-1999)

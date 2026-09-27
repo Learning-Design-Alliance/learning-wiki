@@ -26,7 +26,7 @@ sources:
 # Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Studies of early connectivist courses found that not all students could autonomously direct their own learning and some experienced disconnection, demotivation and disturbance. [→ Downes 2019](#downes-2019)

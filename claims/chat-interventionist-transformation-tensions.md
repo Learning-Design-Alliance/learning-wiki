@@ -26,7 +26,7 @@ sources:
 # CHAT is an interventionist research method aimed at transformation, but tensions persist between adaptive and transformative orientations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` CHAT research aims at expansive transformations in which objects and motives of activity are collectively reconceptualized, with transformation rather than adaptation at its core. [→ Taylor 2014](#taylor-2014)

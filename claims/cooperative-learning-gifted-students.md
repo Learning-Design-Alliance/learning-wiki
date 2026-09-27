@@ -26,7 +26,7 @@ sources:
 # Cooperative learning shows benefits for gifted and high-ability students, though long-term evidence is lacking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Johnson and Johnson report that in nine studies over 15 years, high-ability and gifted students showed higher mastery and retention in cooperative work than in competitive or individual learning, and more frequently used higher-level reasoning strategies when working cooperatively. [→ Blosser 1993](#blosser-1993)

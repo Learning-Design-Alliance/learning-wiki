@@ -26,7 +26,7 @@ sources:
 # Mastery experiences may not be the optimal method for initially increasing preservice agriculture teachers' self-efficacy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Studies of peer teaching, early field experiences, and student teaching course load found mastery experiences were inconsistently or negatively related to preservice and novice agriculture teachers' self-efficacy. [→ McKim 2016](#mckim-2016)

@@ -26,7 +26,7 @@ sources:
 # The 96 thinking styles profiles cluster into three groups, with Achievement Motivation Thinking the most common
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Cluster analysis grouped the 96 profiles into Detail Conscious Thinking, Procedural Thinking and Achievement Motivation Thinking, with the majority of students in Achievement Motivation Thinking. [→ Chaiyapornpattana 2009](#chaiyapornpattana-2009)

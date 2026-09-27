@@ -26,7 +26,7 @@ sources:
 # Teachers who believe AI will help them reach professional goals and improve students' learning outcomes (utility value) may be more motivated to use it (theoretical argument).
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The paper argues that practical benefits of AI, such as enhanced classroom management, easier lesson planning and insight into students' progress, can increase teachers' motivation to use it. [→ Yurt 2024](#yurt-2024)

@@ -26,7 +26,7 @@ sources:
 # Verbal ability predicts spatial recall only for the less verbal, more heterogeneous high school sample, not for college students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Verbal Ability entered the regression solution for the high school sample but was not a significant contributor for the college sample (R2change <.01). [→ Shaha 1982](#shaha-1982)

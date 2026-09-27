@@ -26,7 +26,7 @@ sources:
 # Critical thinking disposition subscales jointly explain about 14% of contemporary educational philosophy preference, with innovation the only significant predictor
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Engagement, cognitive maturity and innovation together significantly predicted contemporary educational philosophy (R=.368, R2=.135, F(3-428)=22.171, p<.01), explaining nearly 14% of variance. [→ Aybek 2017](#aybek-2017)

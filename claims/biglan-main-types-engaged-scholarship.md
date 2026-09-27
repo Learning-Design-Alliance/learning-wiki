@@ -32,7 +32,7 @@ sources:
 # Main types of publicly engaged scholarship vary by Biglan dimension: applied faculty report more research, teaching, and service; hard faculty more commercialized activities; life faculty more research and service
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment · `i1`–`i2`
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment · `i1`–`i2`
 
 ## Subclaims
 `q2 i?` Applied disciplines report more publicly engaged research and creative activities, teaching and learning, and service and practice than pure disciplines. [→ Doberneck 2017](#doberneck-2017)

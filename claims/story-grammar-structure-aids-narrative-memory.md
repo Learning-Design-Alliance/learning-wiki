@@ -26,7 +26,7 @@ sources:
 # Narrative memory is superior when content follows stereotypical story grammar structure, and goal information is critical to comprehension
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Memory for narratives is superior when content is organized according to the stereotypical story grammar, and altering the structure results in poorer memory and lower comprehensibility ratings. [→ Armbruster 1982](#armbruster-1982)

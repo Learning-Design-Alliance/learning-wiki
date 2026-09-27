@@ -26,7 +26,7 @@ sources:
 # Effective coaches require content expertise, classroom experience, technology proficiency, flexible scheduling, partnership orientation, and interpersonal skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Coaches need command of the coached content area plus classroom experience; teachers emphasized classroom experience over content knowledge as the source of a coach's credibility. [→ White 2015](#white-2015)

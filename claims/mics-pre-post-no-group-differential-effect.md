@@ -26,7 +26,7 @@ sources:
 # Presentation condition does not differentially affect microstructure comprehension over five weeks, though VNT and NT groups improved while the text-only group did not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i?` The repeated-measures ANOVA on RC MICS pre- and post-tests showed a significant main effect for Test but non-significant effects for Group and the Group x Test interaction. [→ Lin 2016](#lin-2016)

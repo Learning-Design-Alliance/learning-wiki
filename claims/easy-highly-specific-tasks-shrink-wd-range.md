@@ -26,7 +26,7 @@ sources:
 # Easy, highly specific simulated tasks compress the range of the WD statistic across learner types, while well-designed tasks widen it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In design matrix 1 games, the smallest distributional range of WD values across learner types is observed when tasks are easy as well as highly specific (condition A2). [→ Sweet 2012](#sweet-2012)

@@ -26,7 +26,7 @@ sources:
 # CT-specific qualification, experience and workload were not significantly associated with high CT centring knowledge scores in the international sample
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Radiographers with a CT-specific qualification were more likely to achieve a high knowledge score than those without (58.3% vs. 55.7%), but the association was not statistically significant (OR 1.11, 95% CI 0.70–1.76; p = 0.72). [→ Hadi Yasser H. 2026](#hadi-yasser-h-2026)

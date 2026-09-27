@@ -26,7 +26,7 @@ sources:
 # Boys responded faster than girls on the test, but the response-time difference did not affect achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Girls answered, on average, about 7 seconds later than boys for correct answers, incorrect answers and non-answers, and boys responded faster to 31 out of 32 items. [→ Srdjan Verbić & Boris Tomić 2008](#srdjan-verbic-boris-tomic-2008)

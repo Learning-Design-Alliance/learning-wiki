@@ -26,7 +26,7 @@ sources:
 # Content familiarity, not teaching experience, predicted reform-based science teaching practice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i0`–`i1`
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i0`–`i1`
 
 ## Subclaims
 `q3 i1` Each additional semester of college science was associated with a statistically significant .11 of a standard deviation increase in reform-based teaching practice. [→ Corcoran 2003](#corcoran-2003)

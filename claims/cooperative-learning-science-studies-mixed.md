@@ -32,7 +32,7 @@ sources:
 # Science-classroom studies of cooperative learning show mixed results, with several null or negative comparisons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In Jones's grades 3-5 study on temperature misconceptions, the cooperative learning approach was no more effective than the control despite conflict training changing students' concepts. [→ Blosser 1993](#blosser-1993)

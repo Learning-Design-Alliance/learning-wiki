@@ -26,7 +26,7 @@ sources:
 # The redesigned unit promoted engagement across all five elements of the Engagement Framework, including professional relevance rated 4.86 on SETL
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students reported engagement across personal, academic, intellectual, social and professional elements, evidenced through posts, emails, web conference comments and assignments. [→ Pittaway 2014](#pittaway-2014)

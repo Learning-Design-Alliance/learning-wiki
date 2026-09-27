@@ -37,6 +37,15 @@ ALLOW_FALLBACKS = os.environ.get("OPENROUTER_ALLOW_FALLBACKS", "1") != "0"
 # extractor), so the GPT judge and the load-bearing check are never routed to a provider
 # that does not serve them, which with fallbacks off would fail every call.
 PROVIDER_ORDER_MODEL = os.environ.get("OPENROUTER_PROVIDER_ORDER_MODEL", "z-ai/glm")
+# A ceiling on output price ($ per million tokens) and a list of acceptable weight
+# precisions, both for the same models. Unlike an order, neither names a provider:
+# every host under the ceiling at an allowed precision stays eligible, with
+# OpenRouter's own fallbacks. Output is most of an article's bill (batch 9: ~4k
+# tokens out per call against ~27k in, half of it cached), and GLM's hosts charge
+# $0.25-1.00/M for it; "fp8,bf16,fp16" keeps the 4-bit hosts out, which the
+# maintainer declined on quality grounds (2026-09-28).
+MAX_COMPLETION_PRICE = os.environ.get("OPENROUTER_MAX_COMPLETION_PRICE", "").strip()
+QUANTIZATIONS = [q.strip() for q in os.environ.get("OPENROUTER_QUANTIZATIONS", "").split(",") if q.strip()]
 
 
 class GenerationError(RuntimeError):
@@ -115,6 +124,11 @@ def generate(
     if PROVIDER_ORDER and model.startswith(PROVIDER_ORDER_MODEL):
         provider["order"] = PROVIDER_ORDER
         provider["allow_fallbacks"] = ALLOW_FALLBACKS
+    if model.startswith(PROVIDER_ORDER_MODEL):
+        if MAX_COMPLETION_PRICE:
+            provider["max_price"] = {"completion": float(MAX_COMPLETION_PRICE)}
+        if QUANTIZATIONS:
+            provider["quantizations"] = QUANTIZATIONS
     if provider:
         payload["provider"] = provider
     if json_mode:

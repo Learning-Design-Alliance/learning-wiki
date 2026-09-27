@@ -26,7 +26,7 @@ sources:
 # Authentic video outperformed virtual simulation on the higher-order analysis and support dimensions of observation assignments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
 `q2 i2` Analysis dimension scores were significantly higher under AV than VS. [→ Zhang Beibei et al 2026](#zhang-beibei-et-al-2026)

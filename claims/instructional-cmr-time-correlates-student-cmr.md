@@ -26,7 +26,7 @@ sources:
 # More instructional time spent on causal mechanistic reasoning correlated with a higher percentage of student responses using causal mechanistic reasoning on phenomenon-based tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In the core ideas environment, 50% of class time was invested in causal mechanistic reasoning and 41% of students exhibited it on the dissolution task; where less than 10% of instructional time was invested, 20% or fewer students exhibited it. [→ Scharlott 2024](#scharlott-2024)

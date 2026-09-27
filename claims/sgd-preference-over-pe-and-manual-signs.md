@@ -26,7 +26,7 @@ sources:
 # Individuals with developmental disabilities tend to prefer speech-generating devices over picture exchange and manual signs, with substantial individual differences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i2` In the studies comparing SGD vs. PE, 50% of participants showed high preference for SGD versus 30% for PE; across three options, 67% preferred SGDs. [→ Nam 2018](#nam-2018)

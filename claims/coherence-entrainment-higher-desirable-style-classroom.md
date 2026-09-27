@@ -26,7 +26,7 @@ sources:
 # Teacher-student cyclical entrainment was considerably higher in the desirable-style teacher's classroom than in the struggling-style teacher's classroom
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Average weighted coherence was .88 (Communion) and .85 (Agency) in Ethan's classroom versus .14 and .13 in Sam's classroom, indicating much smaller entrainment for Sam. [→ Pennings 2017](#pennings-2017)

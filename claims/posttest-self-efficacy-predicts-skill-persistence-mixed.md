@@ -26,7 +26,7 @@ sources:
 # Posttest self-efficacy accounts for a significant increment in posttest skill variability, but its relation to persistence is mixed in learning settings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i0`–`i1`
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i0`–`i1`
 
 ## Subclaims
 `q3 i1` In multiple regression analyses, self-efficacy accounted for a significant increment in the variability of posttest skill, with R-squared values ranging from .17 to .24. [→ Schunk 1996](#schunk-1996)

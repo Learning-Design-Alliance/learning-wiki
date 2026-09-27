@@ -26,7 +26,7 @@ sources:
 # Self-efficacy measures show high reliability and domain-specific validity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i1` small
 
 ## Subclaims
 `q2 i?` Internal consistency coefficients of self-efficacy measures have generally been high, ranging from .62 to .94, and test-retest coefficients ranged from .79 to .92 across domains. [→ Schunk 1996](#schunk-1996)

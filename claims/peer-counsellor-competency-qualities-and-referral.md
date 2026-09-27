@@ -26,7 +26,7 @@ sources:
 # The author sets out peer counsellor competency as requiring defined personal qualities, extended skills training, and referral to supervisors when issues exceed their capability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The author, citing Vriend (1985), defines peer counsellors as competent when they possess patience and control, focus outward, use informed intelligence for operational decisions, and set aside vested self-interest to serve another. [→ Zakaria 2007](#zakaria-2007)

@@ -26,7 +26,7 @@ sources:
 # Review evidence shows no consistent differences between picture exchange and speech-generating devices for communication and request outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Across reviews of single-subject studies, no specific or consistent differences were found between PE and SGDs in request acquisition and daily use. [→ Nam 2018](#nam-2018)

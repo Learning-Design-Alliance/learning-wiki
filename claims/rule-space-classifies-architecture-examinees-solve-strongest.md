@@ -26,7 +26,7 @@ sources:
 # Rule Space successfully classified most examinees in architecture, with solve attributes the most powerful and check attributes the least powerful
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Solve attributes were the most powerful classifiers across proficiency and status groups, classifying all 41 low-proficiency examinees. [→ Katz 1993](#katz-1993)

@@ -26,7 +26,7 @@ sources:
 # AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Simulated environments and intelligent agents allow learners to participate in authentic professional practices and engage with complex real-world problems. [→ Vargas 2024](#vargas-2024)

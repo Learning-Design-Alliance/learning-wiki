@@ -26,7 +26,7 @@ sources:
 # Teachers reported providing deep-engagement opportunities at levels similar to or greater than student reports, and about 8 in 10 attributed instruction changes to the network
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Teachers reported providing frequent opportunities for deep student engagement at levels similar to or greater than student-reported levels. [→ Smith 2021](#smith-2021)

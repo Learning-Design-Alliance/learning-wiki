@@ -32,7 +32,7 @@ sources:
 # Retrieval practice enhances final-test recollection of contextual details and speeds final retrieval, as shown by list discrimination, response time, and cumulative recall measures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Chan and McDermott (2007), that initial retrieval practice enhanced performance on a final list discrimination test. [→ Karpicke 2017](#karpicke-2017)

@@ -26,7 +26,7 @@ sources:
 # Supportive competence grew continuously through Workshop 4 while basic observation ability remained stable across sequential AV workshops
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i0`–`i2`
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0`–`i2`
 
 ## Subclaims
 `q2 i2` Support dimension scores increased significantly from Workshop 2 to Workshop 4. [→ Zhang Beibei et al 2026](#zhang-beibei-et-al-2026)

@@ -26,7 +26,7 @@ sources:
 # Judicial and liberal are the most prevalent function and leaning styles among Thai sixth graders
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` 51.65 percent of students had judicial style in the function dimension and 78.51 percent had liberal style in the leaning dimension. [→ Chaiyapornpattana 2009](#chaiyapornpattana-2009)

@@ -26,7 +26,7 @@ sources:
 # Learners who could decide after a trial whether to receive knowledge of results (Self-After, Self-Both) showed less error on a 24-h transfer test to a new target distance than Self-Before learners and their yoked counterparts.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` A significant Choice × Decision interaction on transfer absolute error was found (F(2,42) = 3.46, p= 0.041, ηp2 = 0.14). [→ Carter 2014](#carter-2014)

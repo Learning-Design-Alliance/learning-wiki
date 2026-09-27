@@ -26,7 +26,7 @@ sources:
 # In a Mechanical Turk flashcard experiment, raising the new-item arrival rate first increases mastered items, but past the optimum fewer items are mastered and more get stuck in deck 1.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` As arrival rate increased, the number of mastered items first increased. [→ Reddy 2016](#reddy-2016)

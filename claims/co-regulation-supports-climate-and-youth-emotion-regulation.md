@@ -26,7 +26,7 @@ sources:
 # Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Facilitators described the strategies as helping create an environment where youth felt safe expressing themselves and asking questions. [→ Tingey 2023](#tingey-2023)

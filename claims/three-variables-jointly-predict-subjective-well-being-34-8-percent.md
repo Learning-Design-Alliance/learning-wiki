@@ -26,7 +26,7 @@ sources:
 # Self-esteem, locus of control and multidimensional perfectionism together significantly predict subjective well-being, jointly accounting for 34.8% of variance, with self-esteem the largest contributor at 28%
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In gradual regression analysis, the set of self-esteem, locus of control and multidimensional perfectionism variables significantly predicted subjective well-being, with a total expressed variance percentage of 34.8%. [→ Karatas 2012](#karatas-2012)

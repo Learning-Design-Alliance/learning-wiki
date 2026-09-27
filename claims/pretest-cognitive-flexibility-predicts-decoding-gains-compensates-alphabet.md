@@ -26,7 +26,7 @@ sources:
 # Higher pretest cognitive flexibility predicted greater decoding gains and compensated for lower pretest alphabet knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Students with higher pretest cognitive flexibility made significantly greater gains on both decoding measures (taught-letter and Word Attack). [→ Vadasy 2023](#vadasy-2023)

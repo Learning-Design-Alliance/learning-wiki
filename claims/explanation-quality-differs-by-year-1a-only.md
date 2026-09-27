@@ -26,7 +26,7 @@ sources:
 # Explanation-quality distributions differed significantly between years for Physics 1A (2011 slightly lower) but not Physics 1B
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i?` A chi-squared test found a statistically significant difference (p=0.022) between Physics 1A explanation-quality distributions for 2010 and 2011, with 2011 explanations slightly lower quality. [→ Bates 2013](#bates-2013)

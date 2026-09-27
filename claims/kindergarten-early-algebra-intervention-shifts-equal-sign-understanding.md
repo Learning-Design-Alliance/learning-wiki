@@ -26,7 +26,7 @@ sources:
 # After an early algebra intervention, the number of kindergarteners giving a relational definition of the equal sign went from one to nine, and acceptance of non-standard equation forms rose, as reported from the authors' earlier study
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` In the authors' earlier report on 20 kindergarteners, students giving a relational definition of the equal sign went from one before to nine after the intervention. [→ Sung 2022](#sung-2022)

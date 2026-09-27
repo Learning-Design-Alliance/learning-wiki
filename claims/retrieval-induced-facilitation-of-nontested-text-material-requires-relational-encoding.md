@@ -32,7 +32,7 @@ sources:
 # Practicing retrieval of some portions of an educational text can enhance retention of related nontested portions (retrieval-induced facilitation), but not when relational encoding is disrupted
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Chan et al. (2006), that short-answer retrieval practice on educational texts enhanced later performance on both tested and nontested material relative to no retrieval practice. [→ Karpicke 2017](#karpicke-2017)

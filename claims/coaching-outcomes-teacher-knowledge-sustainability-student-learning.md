@@ -32,7 +32,7 @@ sources:
 # Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Participants in the qualitative study reported that the coaching partnership increased teachers' subject-area knowledge and improved classroom practices, which they linked to more positive student learning outcomes. [→ White 2015](#white-2015)

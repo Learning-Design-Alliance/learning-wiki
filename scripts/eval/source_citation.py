@@ -108,9 +108,41 @@ def _same_catalogue(link: str, url: str) -> bool:
     return first(a) == first(b) and (bool(a.query) == bool(b.query))
 
 
+CITATION_TOKEN = "L0b"
+
+
+def expand_citation_token(parsed: dict) -> int:
+    """Replace each `L0b` token in evidence citations and key_sources with
+    `article.citation`, the source's citation written once (prompt v136). The
+    full citation used to be repeated in every contribution and evidence entry,
+    a fifth of each output (batch 9: 12k of 63k characters per record), at
+    output-token prices. Returns how many tokens were replaced; with no
+    `article.citation` the tokens stay, and the validator fails them."""
+    art = parsed.get("article") if isinstance(parsed, dict) else None
+    cit = art.get("citation") if isinstance(art, dict) else None
+    if not (isinstance(cit, str) and cit.strip()):
+        return 0
+    n = 0
+    for c in parsed.get("contributions") or []:
+        if not isinstance(c, dict):
+            continue
+        for ev in c.get("evidence") or []:
+            if isinstance(ev, dict) and isinstance(ev.get("citation"), str) and ev["citation"].strip() == CITATION_TOKEN:
+                ev["citation"] = cit.strip()
+                n += 1
+        ks = c.get("key_sources")
+        if isinstance(ks, list):
+            new = [cit.strip() if isinstance(k, str) and k.strip() == CITATION_TOKEN else k for k in ks]
+            n += sum(a is not b for a, b in zip(ks, new))
+            c["key_sources"] = new
+    return n
+
+
 def repair(parsed: dict, entry: dict) -> list:
     """Append the catalogue URL to every source citation that carries no link.
     Edits `parsed` in place and returns [{field, added}] for the record."""
+    if isinstance(parsed, dict):
+        expand_citation_token(parsed)
     url = (entry or {}).get("url")
     if not isinstance(parsed, dict) or not url:
         return []

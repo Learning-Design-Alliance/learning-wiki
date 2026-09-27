@@ -26,7 +26,7 @@ sources:
 # Retrieval practice produces reliable positive effects at short delays, although some forgetting must set in so that the final test is not at ceiling
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` The chapter reports that Rowland's (2014) analysis indicates reliable positive effects at short delays, provided final test performance is not at ceiling. [→ Karpicke 2017](#karpicke-2017)

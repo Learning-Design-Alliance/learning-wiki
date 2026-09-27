@@ -26,7 +26,7 @@ sources:
 # The effect of social persuasion on student teacher efficacy depends on its form: verbal feedback from cooperating teachers is positive while structured communication tools and peer pairing show no benefit
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Verbal feedback from the cooperating teacher explained 10% of the variance in student teachers' general teaching efficacy, while being observed by another student teacher had no significant relationship. [→ McKim 2016](#mckim-2016)

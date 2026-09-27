@@ -26,7 +26,7 @@ sources:
 # Both SDT and IE hold that people's actions are based on their perceptions of their contexts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Perceptions, not the objective situation, drive behavior: a student may perceive a sincere invitation as insincere or a manageable assignment as too difficult, and those perceptions determine motivation and behavior. [→ Jennifer D. Moss 2017](#jennifer-d-moss-2017)

@@ -38,7 +38,7 @@ sources:
 # Percentage of metacognitive interview responses varied by grade band: 66% (grades 2-3), 97% (grade 5), 82% (grade 6), and 41% (grades 7-12)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 4 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (4 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Grades 2-3 gave metacognitive responses to 66% of interview questions overall. [→ Gil 2001](#gil-2001)

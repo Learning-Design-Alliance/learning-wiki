@@ -84,7 +84,7 @@ def generated_re() -> re.Pattern:
         one = rf"`{f}\d`(?: (?:{names}))?" if names else rf"`{f}\d`"
         return rf"(?: · (?:{one}|`{f}\d`–`{f}\d`))?"
 
-    return re.compile(r"^> \*\*Evidence\*\* · (?:none recorded yet|\d+ stud(?:y|ies)"
+    return re.compile(r"^> \*\*Evidence\*\* · (?:none recorded yet|\d+ stud(?:y|ies)(?: \(\d+ entries\))?"
                       + field("q", q_lab) + field("i", i_lab) + r"(?: · n=[^·]+)?)$")
 
 
@@ -102,7 +102,18 @@ def summary_line(sources: list) -> str:
     if not coded:
         return "> **Evidence** · none recorded yet"
 
-    parts = [f"{len(coded)} stud{'y' if len(coded) == 1 else 'ies'}"]
+    # Distinct studies, never entries: one article often backs a claim through
+    # several entries (Carter 2014 as three, a Karpicke 2017 chapter as several),
+    # and counting entries read as "3 studies" on 398 pages (usage simulation,
+    # 2026-09-27). Same key as evidence_rollup: a shared DOI, or year plus the
+    # first six title words.
+    from evidence_rollup import _doi, _fingerprint
+    studies = {("doi:" + _doi(s)) if _doi(s) else (_fingerprint(s) or "id:" + str(s.get("id")))
+               for s in coded}
+    n = len(studies)
+    parts = [f"{n} stud{'y' if n == 1 else 'ies'}"]
+    if n < len(coded):
+        parts[0] += f" ({len(coded)} entries)"
 
     def rng(field, labels):
         vals = [s[field] for s in coded if isinstance(s.get(field), int)]

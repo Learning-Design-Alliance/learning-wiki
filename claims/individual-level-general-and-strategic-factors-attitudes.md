@@ -26,7 +26,7 @@ sources:
 # At the individual level, both general and strategic leadership and climate are associated with Requirement and Openness attitudes, but only general factors with Appeal and Divergence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Individual-level perceptions of both general and strategic leadership and climate were significantly associated with Requirement and Openness attitudes. [→ Zhang 2023](#zhang-2023)

@@ -26,7 +26,7 @@ sources:
 # Instructions increased self-testing and cumulative learning but not study choices or feedback seeking in Experiment 1
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` The instructed group chose to self-test more than the control group; study choice frequency did not differ. [→ Ariel 2018](#ariel-2018)

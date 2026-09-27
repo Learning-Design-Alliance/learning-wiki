@@ -38,7 +38,7 @@ sources:
 # Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 4 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (4 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports, citing McDaniel et al. (2011), that clicker quizzes in eighth grade science produced positive effects on all exams, even at the end of the school year. [→ Karpicke 2017](#karpicke-2017)

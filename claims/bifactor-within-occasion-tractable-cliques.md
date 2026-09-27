@@ -26,7 +26,7 @@ sources:
 # Bifactor and second-order structures within measurement occasions keep multidimensional growth IRT models computationally tractable
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` For within-occasion bifactor and second-order models with a first-order Markov structure on the general dimension, no clique contains more than two latent variables, making the models computationally tractable. [→ Rijmen 2010](#rijmen-2010)
